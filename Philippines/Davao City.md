@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-25 02:32:34 UTC`
+📆 Last Updated: `2023-03-25 03:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Philippines](</Philippines>)
 | 6 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
 | 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 8 | [Happy 5th Anniversary](http://twitter.com/search?q=Happy+5th+Anniversary) | N/A |
-| 9 | [kaia charice concept teaser](http://twitter.com/search?q=kaia+charice+concept+teaser) | N/A |
-| 10 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 11 | [musta 1 million na ba](http://twitter.com/search?q=musta+1+million+na+ba) | N/A |
-| 12 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 13 | [Congratulations Kai](http://twitter.com/search?q=Congratulations+Kai) | N/A |
-| 14 | [sb19 ginalaw na ang baso](http://twitter.com/search?q=sb19+ginalaw+na+ang+baso) | N/A |
-| 15 | [let the kabag begin](http://twitter.com/search?q=let+the+kabag+begin) | N/A |
-| 16 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 17 | [NAMISS KA NAMIN ROSÉ](http://twitter.com/search?q=NAMISS+KA+NAMIN+ROS%c3%89) | N/A |
-| 18 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
-| 19 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 20 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
-| 21 | [seham as ashley](http://twitter.com/search?q=seham+as+ashley) | N/A |
-| 22 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
-| 23 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 24 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 25 | [GALLERIA SHOUT FOR HORI7ON](http://twitter.com/search?q=GALLERIA+SHOUT+FOR+HORI7ON) | N/A |
-| 26 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 27 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 28 | [bobby comeback stage](http://twitter.com/search?q=bobby+comeback+stage) | N/A |
-| 29 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 30 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 31 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
-| 32 | [vinster amongst us](http://twitter.com/search?q=vinster+amongst+us) | N/A |
-| 33 | [VXON SAM COMEBACK TEASER](http://twitter.com/search?q=VXON+SAM+COMEBACK+TEASER) | N/A |
-| 34 | [twice sold out queens](http://twitter.com/search?q=twice+sold+out+queens) | N/A |
-| 35 | [ang ganda ng moon](http://twitter.com/search?q=ang+ganda+ng+moon) | N/A |
-| 36 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 37 | [SKZ IS FOIVE](http://twitter.com/search?q=SKZ+IS+FOIVE) | N/A |
-| 38 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 39 | [Kuro](http://twitter.com/search?q=Kuro) | N/A |
-| 40 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
-| 41 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
-| 42 | [ROOMantic26ETHER RALPHGAIL](http://twitter.com/search?q=ROOMantic26ETHER+RALPHGAIL) | N/A |
-| 43 | [Hanteo](http://twitter.com/search?q=Hanteo) | N/A |
-| 44 | [Yassi](http://twitter.com/search?q=Yassi) | N/A |
-| 45 | [Letter](http://twitter.com/search?q=Letter) | N/A |
-| 46 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 47 | [Ingat](http://twitter.com/search?q=Ingat) | N/A |
-| 48 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 9 | [SETH NEWEST BNY AMBASSADOR](http://twitter.com/search?q=SETH+NEWEST+BNY+AMBASSADOR) | N/A |
+| 10 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 11 | [kaia charice concept teaser](http://twitter.com/search?q=kaia+charice+concept+teaser) | N/A |
+| 12 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 13 | [Justine](http://twitter.com/search?q=Justine) | N/A |
+| 14 | [musta 1 million na ba](http://twitter.com/search?q=musta+1+million+na+ba) | N/A |
+| 15 | [Aroha](http://twitter.com/search?q=Aroha) | N/A |
+| 16 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 17 | [Congratulations Kai](http://twitter.com/search?q=Congratulations+Kai) | N/A |
+| 18 | [sb19 ginalaw na ang baso](http://twitter.com/search?q=sb19+ginalaw+na+ang+baso) | N/A |
+| 19 | [Vanie](http://twitter.com/search?q=Vanie) | N/A |
+| 20 | [let the kabag begin](http://twitter.com/search?q=let+the+kabag+begin) | N/A |
+| 21 | [Tsunashima](http://twitter.com/search?q=Tsunashima) | N/A |
+| 22 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 23 | [MOST HANDSOME CHEF V](http://twitter.com/search?q=MOST+HANDSOME+CHEF+V) | N/A |
+| 24 | [NAMISS KA NAMIN ROSÉ](http://twitter.com/search?q=NAMISS+KA+NAMIN+ROS%c3%89) | N/A |
+| 25 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 26 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 27 | [seham as ashley](http://twitter.com/search?q=seham+as+ashley) | N/A |
+| 28 | [GALLERIA SHOUT FOR HORI7ON](http://twitter.com/search?q=GALLERIA+SHOUT+FOR+HORI7ON) | N/A |
+| 29 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 30 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
+| 31 | [bobby comeback stage](http://twitter.com/search?q=bobby+comeback+stage) | N/A |
+| 32 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 33 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 34 | [GIVE ME A GOOD RIDE](http://twitter.com/search?q=GIVE+ME+A+GOOD+RIDE) | N/A |
+| 35 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 36 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 37 | [vinster amongst us](http://twitter.com/search?q=vinster+amongst+us) | N/A |
+| 38 | [TWICE SOLD OUT QUEENS](http://twitter.com/search?q=TWICE+SOLD+OUT+QUEENS) | N/A |
+| 39 | [ang ganda ng moon](http://twitter.com/search?q=ang+ganda+ng+moon) | N/A |
+| 40 | [VXON SAM COMEBACK TEASER](http://twitter.com/search?q=VXON+SAM+COMEBACK+TEASER) | N/A |
+| 41 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
+| 42 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 43 | [SKZ IS FOIVE](http://twitter.com/search?q=SKZ+IS+FOIVE) | N/A |
+| 44 | [YUTA ACTOR DEBUT ON NETFLIX](http://twitter.com/search?q=YUTA+ACTOR+DEBUT+ON+NETFLIX) | N/A |
+| 45 | [Kuro](http://twitter.com/search?q=Kuro) | N/A |
+| 46 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 47 | [MILLION SELLER JIMIN](http://twitter.com/search?q=MILLION+SELLER+JIMIN) | N/A |
+| 48 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-25 02:32:58 UTC`
+📆 Last Updated: `2023-03-25 03:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Belgium
 | 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 10 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
 | 11 | [#EUCO](http://twitter.com/search?q=%23EUCO) | N/A |
-| 12 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
+| 12 | [lavia](http://twitter.com/search?q=lavia) | N/A |
 | 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 14 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 15 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
@@ -38,11 +38,11 @@ This is top 50 for Belgium
 | 21 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
 | 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 23 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
-| 24 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 25 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
+| 24 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
+| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 26 | [Suède](http://twitter.com/search?q=Su%c3%a8de) | N/A |
-| 27 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 28 | [Legoland](http://twitter.com/search?q=Legoland) | N/A |
+| 27 | [Legoland](http://twitter.com/search?q=Legoland) | N/A |
+| 28 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
 | 29 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
 | 30 | [RTNC](http://twitter.com/search?q=RTNC) | N/A |
 | 31 | [Merlin](http://twitter.com/search?q=Merlin) | N/A |
@@ -59,8 +59,8 @@ This is top 50 for Belgium
 | 42 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
 | 43 | [Openda](http://twitter.com/search?q=Openda) | Openda is a Japanese term that means “open door” or “open gate.” It is used to refer to an opportunity or chance that can be taken advantage of. It can also be used to describe a situation in which someone is able to take advantage of an opportunity or gain access to something that was previously unavailable. |
 | 44 | [Taaienberg](http://twitter.com/search?q=Taaienberg) | N/A |
-| 45 | [Neerpede](http://twitter.com/search?q=Neerpede) | N/A |
-| 46 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 45 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 46 | [Neerpede](http://twitter.com/search?q=Neerpede) | N/A |
 | 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 48 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
 | 49 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |

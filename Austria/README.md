@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-25 02:32:58 UTC`
+📆 Last Updated: `2023-03-25 03:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Austria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 2 | [#AUTAZE](http://twitter.com/search?q=%23AUTAZE) | N/A |
+| 2 | [#autaze](http://twitter.com/search?q=%23autaze) | N/A |
 | 3 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
 | 4 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
 | 5 | [grosz](http://twitter.com/search?q=grosz) | N/A |
@@ -26,7 +26,7 @@ This is top 50 for Austria
 | 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 10 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 11 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 12 | [Kowall](http://twitter.com/search?q=Kowall) | N/A |
+| 12 | [kowall](http://twitter.com/search?q=kowall) | N/A |
 | 13 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
 | 14 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
 | 15 | [vorsitz](http://twitter.com/search?q=vorsitz) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for Austria
 | 19 | [personenschützer](http://twitter.com/search?q=personensch%c3%bctzer) | N/A |
 | 20 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
 | 21 | [Rückzug](http://twitter.com/search?q=R%c3%bcckzug) | N/A |
-| 22 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 22 | [sozialdemokratie](http://twitter.com/search?q=sozialdemokratie) | N/A |
 | 23 | [sellner](http://twitter.com/search?q=sellner) | N/A |
 | 24 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
 | 25 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
@@ -49,12 +49,12 @@ This is top 50 for Austria
 | 32 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
 | 33 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
 | 34 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 35 | [walach](http://twitter.com/search?q=walach) | N/A |
+| 35 | [Walach](http://twitter.com/search?q=Walach) | N/A |
 | 36 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 37 | [dynamik](http://twitter.com/search?q=dynamik) | N/A |
-| 38 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 37 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 38 | [dynamik](http://twitter.com/search?q=dynamik) | N/A |
 | 39 | [Parteichef](http://twitter.com/search?q=Parteichef) | N/A |
-| 40 | [Schauspiel](http://twitter.com/search?q=Schauspiel) | N/A |
+| 40 | [schauspiel](http://twitter.com/search?q=schauspiel) | N/A |
 | 41 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 | 42 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
 | 43 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |

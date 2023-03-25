@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-25 02:32:59 UTC`
+📆 Last Updated: `2023-03-25 03:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,19 +23,19 @@ This is top 50 for Denmark
 | 6 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
 | 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 9 | [Regeringen](http://twitter.com/search?q=Regeringen) | N/A |
+| 9 | [regeringen](http://twitter.com/search?q=regeringen) | N/A |
 | 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 11 | [Rørdam](http://twitter.com/search?q=R%c3%b8rdam) | N/A |
+| 11 | [rørdam](http://twitter.com/search?q=r%c3%b8rdam) | N/A |
 | 12 | [daramy](http://twitter.com/search?q=daramy) | N/A |
-| 13 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 14 | [minkkommissionen](http://twitter.com/search?q=minkkommissionen) | N/A |
-| 15 | [Cornelius](http://twitter.com/search?q=Cornelius) | N/A |
-| 16 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | N/A |
-| 17 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
+| 13 | [minkkommissionen](http://twitter.com/search?q=minkkommissionen) | N/A |
+| 14 | [Cornelius](http://twitter.com/search?q=Cornelius) | N/A |
+| 15 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | N/A |
+| 16 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
+| 17 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 18 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 20 | [minksagen](http://twitter.com/search?q=minksagen) | N/A |
-| 21 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 21 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
 | 22 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
 | 23 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 24 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
@@ -49,9 +49,9 @@ This is top 50 for Denmark
 | 32 | [bendtner](http://twitter.com/search?q=bendtner) | N/A |
 | 33 | [Parken](http://twitter.com/search?q=Parken) | N/A |
 | 34 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 35 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
+| 35 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
 | 36 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 37 | [Højesteret](http://twitter.com/search?q=H%c3%b8jesteret) | N/A |
+| 37 | [højesteret](http://twitter.com/search?q=h%c3%b8jesteret) | N/A |
 | 38 | [venstre](http://twitter.com/search?q=venstre) | N/A |
 | 39 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 40 | [alex vanopslagh](http://twitter.com/search?q=alex+vanopslagh) | N/A |

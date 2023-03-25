@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-25 02:33:05 UTC`
+📆 Last Updated: `2023-03-25 03:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,23 +48,23 @@ This is top 50 for Switzerland
 | 31 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
 | 32 | [Masken](http://twitter.com/search?q=Masken) | N/A |
 | 33 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 34 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 35 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 36 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 37 | [Perspektive](http://twitter.com/search?q=Perspektive) | N/A |
-| 38 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 39 | [Serbie](http://twitter.com/search?q=Serbie) | N/A |
-| 40 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 41 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 42 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 43 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 44 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 45 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
-| 46 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 47 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 48 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 49 | [Allemagne](http://twitter.com/search?q=Allemagne) | N/A |
-| 50 | [Kamera](http://twitter.com/search?q=Kamera) | N/A |
+| 34 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 35 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 36 | [Perspektive](http://twitter.com/search?q=Perspektive) | N/A |
+| 37 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 38 | [Serbie](http://twitter.com/search?q=Serbie) | N/A |
+| 39 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
+| 40 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 41 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 42 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 43 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 44 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
+| 45 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 46 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 47 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 48 | [Allemagne](http://twitter.com/search?q=Allemagne) | N/A |
+| 49 | [Kamera](http://twitter.com/search?q=Kamera) | N/A |
+| 50 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-03-25 02:32:22 UTC`
+📆 Last Updated: `2023-03-25 03:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 10 | [Geertruida](http://twitter.com/search?q=Geertruida) | N/A |
 | 11 | [Cillessen](http://twitter.com/search?q=Cillessen) | N/A |
 | 12 | [#NederlandsElftal](http://twitter.com/search?q=%23NederlandsElftal) | N/A |
-| 13 | [Van Gaal](http://twitter.com/search?q=Van+Gaal) | N/A |
-| 14 | [Fransen](http://twitter.com/search?q=Fransen) | N/A |
+| 13 | [Fransen](http://twitter.com/search?q=Fransen) | N/A |
+| 14 | [Van Gaal](http://twitter.com/search?q=Van+Gaal) | N/A |
 | 15 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
 | 16 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
 | 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
@@ -38,8 +38,8 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 21 | [Rutgers](http://twitter.com/search?q=Rutgers) | Rutgers is the name of a university located in New Jersey, United States. It is the state university of New Jersey and one of the oldest universities in the United States. The name "Rutgers" comes from Henry Rutgers, a Revolutionary War veteran who donated money to the school in 1825. |
 | 22 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
 | 23 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 24 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 25 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 24 | [van aert](http://twitter.com/search?q=van+aert) | N/A |
+| 25 | [weghorst](http://twitter.com/search?q=weghorst) | N/A |
 | 26 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
 | 27 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 28 | [Simons](http://twitter.com/search?q=Simons) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 35 | [Noppert](http://twitter.com/search?q=Noppert) | N/A |
 | 36 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
 | 37 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 38 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 39 | [johan cruijff](http://twitter.com/search?q=johan+cruijff) | N/A |
-| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 41 | [jeroen grueter](http://twitter.com/search?q=jeroen+grueter) | N/A |
-| 42 | [Gert](http://twitter.com/search?q=Gert) | N/A |
+| 38 | [johan cruijff](http://twitter.com/search?q=johan+cruijff) | N/A |
+| 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 40 | [jeroen grueter](http://twitter.com/search?q=jeroen+grueter) | N/A |
+| 41 | [Gert](http://twitter.com/search?q=Gert) | N/A |
+| 42 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
 | 43 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 44 | [Mathieu](http://twitter.com/search?q=Mathieu) | N/A |
-| 45 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 46 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 47 | [Dave Roelvink](http://twitter.com/search?q=Dave+Roelvink) | N/A |
-| 48 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 49 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 50 | [Knot](http://twitter.com/search?q=Knot) | N/A |
+| 44 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 45 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 46 | [Dave Roelvink](http://twitter.com/search?q=Dave+Roelvink) | N/A |
+| 47 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 48 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 49 | [Knot](http://twitter.com/search?q=Knot) | N/A |
+| 50 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 
 
 

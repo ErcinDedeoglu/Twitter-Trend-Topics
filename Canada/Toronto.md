@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-25 02:32:03 UTC`
+📆 Last Updated: `2023-03-25 03:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,49 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
-| 2 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 1 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 2 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 3 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 4 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 5 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
 | 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 7 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 | 8 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 10 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 11 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 12 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 13 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
-| 14 | [#marchmadness2023](http://twitter.com/search?q=%23marchmadness2023) | N/A |
-| 15 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 16 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 18 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 19 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 20 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 21 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 22 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 23 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 24 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 25 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
-| 26 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 27 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 28 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 29 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 30 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 31 | [Chinada](http://twitter.com/search?q=Chinada) | N/A |
-| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 33 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 34 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 35 | [Sleepy Joe](http://twitter.com/search?q=Sleepy+Joe) | N/A |
-| 36 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 37 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
-| 38 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 39 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 40 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 41 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
-| 42 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
-| 43 | [#Sacrifice](http://twitter.com/search?q=%23Sacrifice) | N/A |
-| 44 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 45 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
-| 46 | [#PierrePoilievreIsAbsurd](http://twitter.com/search?q=%23PierrePoilievreIsAbsurd) | N/A |
+| 9 | [Kent Johnson](http://twitter.com/search?q=Kent+Johnson) | N/A |
+| 10 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
+| 11 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 12 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 13 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 14 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 15 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 16 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 17 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
+| 18 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 19 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 20 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 21 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 22 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 24 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 25 | [Chinada](http://twitter.com/search?q=Chinada) | N/A |
+| 26 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
+| 27 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 28 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 29 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
+| 30 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 31 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 32 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 33 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 34 | [Sleepy Joe](http://twitter.com/search?q=Sleepy+Joe) | N/A |
+| 35 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 36 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 37 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 38 | [Canadian Parliament](http://twitter.com/search?q=Canadian+Parliament) | N/A |
+| 39 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 40 | [#marchmadness2023](http://twitter.com/search?q=%23marchmadness2023) | N/A |
+| 41 | [#Sacrifice](http://twitter.com/search?q=%23Sacrifice) | N/A |
+| 42 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 43 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
 
 
 

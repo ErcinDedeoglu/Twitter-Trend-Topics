@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-25 02:33:00 UTC`
+📆 Last Updated: `2023-03-25 03:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Germany
 | 9 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
 | 10 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
 | 11 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 12 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
-| 13 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 14 | [Grönemeyer](http://twitter.com/search?q=Gr%c3%b6nemeyer) | N/A |
-| 15 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 16 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
-| 17 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 18 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 19 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 12 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 13 | [Grönemeyer](http://twitter.com/search?q=Gr%c3%b6nemeyer) | N/A |
+| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 15 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
+| 16 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 17 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 18 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
+| 19 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
 | 20 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 21 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 23 | [Lisa Eckhart](http://twitter.com/search?q=Lisa+Eckhart) | N/A |
-| 24 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 25 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 26 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 27 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
-| 28 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 29 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 30 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
-| 31 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 32 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 33 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
-| 34 | [wettbewerben](http://twitter.com/search?q=wettbewerben) | N/A |
-| 35 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 36 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 37 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 38 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 39 | [Schüsseln](http://twitter.com/search?q=Sch%c3%bcsseln) | N/A |
-| 40 | [elfe](http://twitter.com/search?q=elfe) | N/A |
-| 41 | [Monte](http://twitter.com/search?q=Monte) | N/A |
-| 42 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 43 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
-| 44 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 45 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 46 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
-| 47 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
-| 48 | [warteschlange](http://twitter.com/search?q=warteschlange) | N/A |
-| 49 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 50 | [Kovac](http://twitter.com/search?q=Kovac) | Kovac is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is often associated with blacksmiths and metalworkers. In English, Kovac can be translated to mean "blacksmith" or "metalworker." |
+| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 22 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 23 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 24 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 25 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 26 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
+| 27 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
+| 28 | [Reichsbürger](http://twitter.com/search?q=Reichsb%c3%bcrger) | N/A |
+| 29 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 30 | [Nachhaltig](http://twitter.com/search?q=Nachhaltig) | N/A |
+| 31 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 32 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 33 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
+| 34 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 35 | [Schüsseln](http://twitter.com/search?q=Sch%c3%bcsseln) | N/A |
+| 36 | [elfe](http://twitter.com/search?q=elfe) | N/A |
+| 37 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 38 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 39 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 40 | [Pfennig](http://twitter.com/search?q=Pfennig) | N/A |
+| 41 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 42 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 43 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
+| 44 | [Vorstand](http://twitter.com/search?q=Vorstand) | N/A |
+| 45 | [Kabine](http://twitter.com/search?q=Kabine) | N/A |
+| 46 | [warteschlange](http://twitter.com/search?q=warteschlange) | N/A |
+| 47 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 48 | [Abfindung](http://twitter.com/search?q=Abfindung) | N/A |
+| 49 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
+| 50 | [Maulwurf](http://twitter.com/search?q=Maulwurf) | N/A |
 
 
 

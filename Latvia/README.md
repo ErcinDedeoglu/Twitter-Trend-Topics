@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-25 02:33:02 UTC`
+📆 Last Updated: `2023-03-25 03:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,9 +23,9 @@ This is top 50 for Latvia
 | 6 | [zemes](http://twitter.com/search?q=zemes) | N/A |
 | 7 | [atceros](http://twitter.com/search?q=atceros) | N/A |
 | 8 | [prieks](http://twitter.com/search?q=prieks) | N/A |
-| 9 | [Starp](http://twitter.com/search?q=Starp) | N/A |
+| 9 | [starp](http://twitter.com/search?q=starp) | N/A |
 | 10 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
-| 11 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 11 | [rimi](http://twitter.com/search?q=rimi) | N/A |
 | 12 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
 | 13 | [#TogetherByDimash](http://twitter.com/search?q=%23TogetherByDimash) | N/A |
 | 14 | [laba](http://twitter.com/search?q=laba) | N/A |
@@ -56,11 +56,11 @@ This is top 50 for Latvia
 | 39 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 40 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
 | 41 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
-| 42 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 42 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 43 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 44 | [Piedod](http://twitter.com/search?q=Piedod) | N/A |
+| 44 | [piedod](http://twitter.com/search?q=piedod) | N/A |
 | 45 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 46 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
+| 46 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
 | 47 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
 | 48 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
 | 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |

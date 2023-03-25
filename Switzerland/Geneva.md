@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-25 02:32:23 UTC`
+📆 Last Updated: `2023-03-25 03:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -47,7 +47,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 30 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
 | 31 | [Masken](http://twitter.com/search?q=Masken) | N/A |
 | 32 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 33 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 33 | [Amin](http://twitter.com/search?q=Amin) | N/A |
 | 34 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
 | 35 | [Perspektive](http://twitter.com/search?q=Perspektive) | N/A |
 | 36 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
@@ -59,11 +59,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 42 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 43 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
 | 44 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 45 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 46 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
-| 47 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 48 | [Allemagne](http://twitter.com/search?q=Allemagne) | N/A |
-| 49 | [Kamera](http://twitter.com/search?q=Kamera) | N/A |
+| 45 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 46 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 47 | [Allemagne](http://twitter.com/search?q=Allemagne) | N/A |
+| 48 | [Kamera](http://twitter.com/search?q=Kamera) | N/A |
+| 49 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 
 
 

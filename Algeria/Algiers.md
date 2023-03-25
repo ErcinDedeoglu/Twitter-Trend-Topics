@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-25 02:32:35 UTC`
+📆 Last Updated: `2023-03-25 03:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,10 +28,10 @@ This is top 50 for [Algeria](</Algeria>)
 | 11 | [Saha](http://twitter.com/search?q=Saha) | N/A |
 | 12 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
 | 13 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 14 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 15 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 16 | [ايت نوري](http://twitter.com/search?q=%d8%a7%d9%8a%d8%aa+%d9%86%d9%88%d8%b1%d9%8a) | N/A |
-| 17 | [بن طالب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 14 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 15 | [ايت نوري](http://twitter.com/search?q=%d8%a7%d9%8a%d8%aa+%d9%86%d9%88%d8%b1%d9%8a) | N/A |
+| 16 | [بن طالب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 18 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 19 | [اليوم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
 | 20 | [بدر الدين](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
@@ -40,14 +40,14 @@ This is top 50 for [Algeria](</Algeria>)
 | 23 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
 | 24 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
 | 25 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
-| 26 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 27 | [المنتخب الاولمبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%85%d8%a8%d9%8a) | N/A |
-| 28 | [محمد بن هادي المدخلي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%af%d8%ae%d9%84%d9%8a) | N/A |
-| 29 | [الشعب الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 30 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 31 | [الجمعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 32 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 26 | [المنتخب الاولمبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%85%d8%a8%d9%8a) | N/A |
+| 27 | [محمد بن هادي المدخلي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%af%d8%ae%d9%84%d9%8a) | N/A |
+| 28 | [الشعب الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 29 | [الامه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 30 | [الجمعه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 31 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 33 | [Niger](http://twitter.com/search?q=Niger) | N/A |
 | 34 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
 | 35 | [Belaili](http://twitter.com/search?q=Belaili) | N/A |
 | 36 | [العايله الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |

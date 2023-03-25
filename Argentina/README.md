@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-25 02:32:58 UTC`
+📆 Last Updated: `2023-03-25 03:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [agustin](http://twitter.com/search?q=agustin) | Agustin is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustin is usually translated as "Augustine". |
-| 2 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 3 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 4 | [Marcos y Nacho](http://twitter.com/search?q=Marcos+y+Nacho) | N/A |
-| 5 | [Cone](http://twitter.com/search?q=Cone) | Cone is a three-dimensional geometric shape that tapers smoothly from a flat base to a point. It is a common shape in nature, such as the cone-shaped fruit of a pine tree or the cone-shaped petals of a flower. In English, the word "cone" can also refer to an ice cream cone or traffic cones used to direct traffic. |
-| 6 | [REENCUENTRO MARGUS](http://twitter.com/search?q=REENCUENTRO+MARGUS) | N/A |
-| 7 | [REENCUENTRO NACHIAGO](http://twitter.com/search?q=REENCUENTRO+NACHIAGO) | N/A |
-| 8 | [BODA MARCULI](http://twitter.com/search?q=BODA+MARCULI) | N/A |
-| 9 | [#GranHermano22](http://twitter.com/search?q=%23GranHermano22) | N/A |
-| 10 | [Marley](http://twitter.com/search?q=Marley) | N/A |
-| 11 | [Roberto Piazza](http://twitter.com/search?q=Roberto+Piazza) | N/A |
-| 12 | [Reverdito](http://twitter.com/search?q=Reverdito) | N/A |
-| 13 | [YO ME OPONGO](http://twitter.com/search?q=YO+ME+OPONGO) | N/A |
-| 14 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 15 | [#MemoriaVerdadJusticia](http://twitter.com/search?q=%23MemoriaVerdadJusticia) | N/A |
-| 16 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
-| 17 | [niki](http://twitter.com/search?q=niki) | N/A |
-| 18 | [#TNdeNoche](http://twitter.com/search?q=%23TNdeNoche) | N/A |
-| 19 | [#ZielinskiNO](http://twitter.com/search?q=%23ZielinskiNO) | N/A |
-| 20 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 21 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
-| 22 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
-| 23 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
-| 24 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
-| 25 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 26 | [Plaza de Mayo](http://twitter.com/search?q=Plaza+de+Mayo) | N/A |
-| 27 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
-| 28 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 29 | [Menta](http://twitter.com/search?q=Menta) | N/A |
-| 30 | [CONADEP](http://twitter.com/search?q=CONADEP) | N/A |
-| 31 | [Máximo Kirchner](http://twitter.com/search?q=M%c3%a1ximo+Kirchner) | N/A |
-| 32 | [River vs River](http://twitter.com/search?q=River+vs+River) | N/A |
-| 33 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
-| 34 | [Banco Nación](http://twitter.com/search?q=Banco+Naci%c3%b3n) | N/A |
-| 35 | [Luis Labraña](http://twitter.com/search?q=Luis+Labra%c3%b1a) | N/A |
-| 36 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
-| 37 | [Montoneros](http://twitter.com/search?q=Montoneros) | N/A |
-| 38 | [Otro 24](http://twitter.com/search?q=Otro+24) | N/A |
-| 39 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
-| 40 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 41 | [La Cámpora](http://twitter.com/search?q=La+C%c3%a1mpora) | N/A |
-| 42 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 43 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 1 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 2 | [agustin](http://twitter.com/search?q=agustin) | Agustin is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustin is usually translated as "Augustine". |
+| 3 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 4 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 5 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 6 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 7 | [#GranHernano2023](http://twitter.com/search?q=%23GranHernano2023) | N/A |
+| 8 | [ENEMIES TO LOVERS](http://twitter.com/search?q=ENEMIES+TO+LOVERS) | N/A |
+| 9 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
+| 10 | [Coti](http://twitter.com/search?q=Coti) | Coti is a Spanish name derived from the Latin word cotis, meaning “axe” or “hatchet.” It is also a short form of the name Acotis, which was derived from the Greek word akotis, meaning “sharp edge.” |
+| 11 | [REENCUENTRO MARGUS](http://twitter.com/search?q=REENCUENTRO+MARGUS) | N/A |
+| 12 | [BODA MARCULI](http://twitter.com/search?q=BODA+MARCULI) | N/A |
+| 13 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 14 | [REENCUENTRO NACHIAGO](http://twitter.com/search?q=REENCUENTRO+NACHIAGO) | N/A |
+| 15 | [Reverdito](http://twitter.com/search?q=Reverdito) | N/A |
+| 16 | [Morita](http://twitter.com/search?q=Morita) | N/A |
+| 17 | [YO ME OPONGO](http://twitter.com/search?q=YO+ME+OPONGO) | N/A |
+| 18 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
+| 19 | [Juan y Maxi](http://twitter.com/search?q=Juan+y+Maxi) | N/A |
+| 20 | [#ZielinskiNO](http://twitter.com/search?q=%23ZielinskiNO) | N/A |
+| 21 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 22 | [#JulietaAl9009](http://twitter.com/search?q=%23JulietaAl9009) | N/A |
+| 23 | [#MemoriaVerdadJusticia](http://twitter.com/search?q=%23MemoriaVerdadJusticia) | N/A |
+| 24 | [Niki](http://twitter.com/search?q=Niki) | N/A |
+| 25 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 26 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
+| 27 | [Fiona](http://twitter.com/search?q=Fiona) | N/A |
+| 28 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
+| 29 | [Victoria Alonso](http://twitter.com/search?q=Victoria+Alonso) | N/A |
+| 30 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 31 | [Plaza de Mayo](http://twitter.com/search?q=Plaza+de+Mayo) | N/A |
+| 32 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
+| 33 | [CONADEP](http://twitter.com/search?q=CONADEP) | N/A |
+| 34 | [Máximo Kirchner](http://twitter.com/search?q=M%c3%a1ximo+Kirchner) | N/A |
+| 35 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
+| 36 | [Montoneros](http://twitter.com/search?q=Montoneros) | N/A |
+| 37 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
+| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 39 | [Cris Morena](http://twitter.com/search?q=Cris+Morena) | N/A |
+| 40 | [Otro 24](http://twitter.com/search?q=Otro+24) | N/A |
+| 41 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 42 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 43 | [La Cámpora](http://twitter.com/search?q=La+C%c3%a1mpora) | N/A |
 | 44 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
-| 45 | [Eduquen](http://twitter.com/search?q=Eduquen) | N/A |
-| 46 | [Madres](http://twitter.com/search?q=Madres) | N/A |
-| 47 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 48 | [biglia](http://twitter.com/search?q=biglia) | N/A |
-| 49 | [El Reino](http://twitter.com/search?q=El+Reino) | N/A |
-| 50 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 45 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 46 | [Biglia](http://twitter.com/search?q=Biglia) | N/A |
+| 47 | [Abuelas](http://twitter.com/search?q=Abuelas) | N/A |
+| 48 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 49 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 50 | [#NoFueron30000](http://twitter.com/search?q=%23NoFueron30000) | N/A |
 
 
 

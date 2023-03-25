@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-25 02:32:14 UTC`
+📆 Last Updated: `2023-03-25 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 2 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 2 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
 | 3 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
-| 4 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 5 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 4 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 5 | [#LollaBRNoMultishow](http://twitter.com/search?q=%23LollaBRNoMultishow) | N/A |
 | 6 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
-| 7 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
-| 8 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
-| 9 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 10 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 11 | [ocean eyes](http://twitter.com/search?q=ocean+eyes) | N/A |
-| 12 | [Big Preto Brasil](http://twitter.com/search?q=Big+Preto+Brasil) | N/A |
-| 13 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 14 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
-| 15 | [everything i wanted](http://twitter.com/search?q=everything+i+wanted) | N/A |
-| 16 | [TE AMAMOS GUIME](http://twitter.com/search?q=TE+AMAMOS+GUIME) | N/A |
-| 17 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 18 | [Bad Guy](http://twitter.com/search?q=Bad+Guy) | N/A |
-| 19 | [getting older](http://twitter.com/search?q=getting+older) | N/A |
-| 20 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
-| 21 | [QUE SHOW](http://twitter.com/search?q=QUE+SHOW) | N/A |
-| 22 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 23 | [YOU MADE ME HATE THIS CITY](http://twitter.com/search?q=YOU+MADE+ME+HATE+THIS+CITY) | N/A |
-| 24 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
-| 25 | [your power](http://twitter.com/search?q=your+power) | N/A |
-| 26 | [conan](http://twitter.com/search?q=conan) | N/A |
-| 27 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 28 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
-| 29 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
-| 30 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
-| 31 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 32 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 33 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 34 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
-| 35 | [Daroit](http://twitter.com/search?q=Daroit) | N/A |
-| 36 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 37 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
-| 38 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
-| 39 | [MY FUTURE](http://twitter.com/search?q=MY+FUTURE) | N/A |
-| 40 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 41 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 42 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 43 | [O Lil](http://twitter.com/search?q=O+Lil) | N/A |
-| 44 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 45 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
-| 46 | [Christina](http://twitter.com/search?q=Christina) | N/A |
-| 47 | [Velhote](http://twitter.com/search?q=Velhote) | N/A |
-| 48 | [Grey](http://twitter.com/search?q=Grey) | N/A |
-| 49 | [Industry Baby](http://twitter.com/search?q=Industry+Baby) | N/A |
-| 50 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
+| 7 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
+| 8 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 9 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
+| 10 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
+| 11 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 12 | [#globoreporter](http://twitter.com/search?q=%23globoreporter) | N/A |
+| 13 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
+| 14 | [kali](http://twitter.com/search?q=kali) | N/A |
+| 15 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 16 | [Big Preto Brasil](http://twitter.com/search?q=Big+Preto+Brasil) | N/A |
+| 17 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 18 | [ocean eyes](http://twitter.com/search?q=ocean+eyes) | N/A |
+| 19 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 20 | [TE AMAMOS GUIME](http://twitter.com/search?q=TE+AMAMOS+GUIME) | N/A |
+| 21 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
+| 22 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 23 | [everything i wanted](http://twitter.com/search?q=everything+i+wanted) | N/A |
+| 24 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 25 | [Pega o Guanabara](http://twitter.com/search?q=Pega+o+Guanabara) | N/A |
+| 26 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 27 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
+| 28 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 29 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 30 | [YOU MADE ME HATE THIS CITY](http://twitter.com/search?q=YOU+MADE+ME+HATE+THIS+CITY) | N/A |
+| 31 | [QUE SHOW](http://twitter.com/search?q=QUE+SHOW) | N/A |
+| 32 | [Your Power](http://twitter.com/search?q=Your+Power) | N/A |
+| 33 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 34 | [Bad Guy](http://twitter.com/search?q=Bad+Guy) | N/A |
+| 35 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 36 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
+| 37 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 38 | [getting older](http://twitter.com/search?q=getting+older) | N/A |
+| 39 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 40 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 41 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 42 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
+| 43 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 44 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 45 | [Zedd](http://twitter.com/search?q=Zedd) | N/A |
+| 46 | [Nyeme](http://twitter.com/search?q=Nyeme) | N/A |
+| 47 | [Daroit](http://twitter.com/search?q=Daroit) | N/A |
+| 48 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
+| 49 | [MY FUTURE](http://twitter.com/search?q=MY+FUTURE) | N/A |
+| 50 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 
 
 

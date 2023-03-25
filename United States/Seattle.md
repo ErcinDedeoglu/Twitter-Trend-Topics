@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-03-25 02:32:56 UTC`
+📆 Last Updated: `2023-03-25 03:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 2 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 3 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 4 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 6 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 8 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 9 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 10 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 11 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 12 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 13 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 14 | [#marchmadness2023](http://twitter.com/search?q=%23marchmadness2023) | N/A |
-| 15 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 16 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
-| 17 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 18 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
-| 19 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
-| 20 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 21 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
-| 22 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 23 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 24 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 25 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 26 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
-| 27 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 28 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 29 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 30 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
-| 31 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 32 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 33 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 34 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 35 | [FanDuel](http://twitter.com/search?q=FanDuel) | N/A |
-| 36 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
-| 37 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 38 | [Nijel Pack](http://twitter.com/search?q=Nijel+Pack) | N/A |
-| 39 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 40 | [No 1](http://twitter.com/search?q=No+1) | N/A |
-| 41 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 42 | [Mattress Mack](http://twitter.com/search?q=Mattress+Mack) | Mattress Mack is the nickname of Jim McIngvale, an American businessman and philanthropist from Houston, Texas. He is the owner of Gallery Furniture, a furniture store chain in the Houston area. He is known for his philanthropic efforts and his unique marketing campaigns, such as offering customers free mattresses if they purchase furniture from his store. |
-| 43 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 44 | [Disu](http://twitter.com/search?q=Disu) | N/A |
-| 45 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 46 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 47 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 48 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 49 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
-| 50 | [All the 1](http://twitter.com/search?q=All+the+1) | N/A |
+| 1 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 2 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 3 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 5 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 6 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 8 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 9 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 11 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 12 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 13 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 14 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 15 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 16 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 17 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 18 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 19 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 20 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 21 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 22 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 23 | [Luke Kennard](http://twitter.com/search?q=Luke+Kennard) | N/A |
+| 24 | [Winona](http://twitter.com/search?q=Winona) | N/A |
+| 25 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 26 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 27 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 28 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 29 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 30 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
+| 31 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 32 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 33 | [Timmy Allen](http://twitter.com/search?q=Timmy+Allen) | N/A |
+| 34 | [Disu](http://twitter.com/search?q=Disu) | N/A |
+| 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 36 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 37 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
+| 38 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
+| 39 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
+| 40 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 41 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 42 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 43 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 44 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
+| 45 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
+| 46 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 47 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 48 | [Mattress Mack](http://twitter.com/search?q=Mattress+Mack) | Mattress Mack is the nickname of Jim McIngvale, an American businessman and philanthropist from Houston, Texas. He is the owner of Gallery Furniture, a furniture store chain in the Houston area. He is known for his philanthropic efforts and his unique marketing campaigns, such as offering customers free mattresses if they purchase furniture from his store. |
+| 49 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 50 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
 
 
 

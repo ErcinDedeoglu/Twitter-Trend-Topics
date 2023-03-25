@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-25 02:32:17 UTC`
+📆 Last Updated: `2023-03-25 03:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
-| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 3 | [#LEIvSTO](http://twitter.com/search?q=%23LEIvSTO) | N/A |
+| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 2 | [#LEIvSTO](http://twitter.com/search?q=%23LEIvSTO) | N/A |
+| 3 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
 | 4 | [graham dwyer](http://twitter.com/search?q=graham+dwyer) | N/A |
 | 5 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
 | 6 | [Daffodil Day](http://twitter.com/search?q=Daffodil+Day) | N/A |
 | 7 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
 | 8 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
 | 9 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 11 | [Joanne Hayes](http://twitter.com/search?q=Joanne+Hayes) | N/A |
+| 10 | [Joanne Hayes](http://twitter.com/search?q=Joanne+Hayes) | N/A |
+| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 12 | [Holland](http://twitter.com/search?q=Holland) | N/A |
 | 13 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
 | 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
@@ -45,18 +45,18 @@ This is top 50 for [Ireland](</Ireland>)
 | 28 | [Meta](http://twitter.com/search?q=Meta) | N/A |
 | 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 30 | [John Bolton](http://twitter.com/search?q=John+Bolton) | N/A |
-| 31 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 32 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 33 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 34 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 35 | [Harps](http://twitter.com/search?q=Harps) | N/A |
-| 36 | [Baby John](http://twitter.com/search?q=Baby+John) | N/A |
-| 37 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 38 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 39 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 40 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
-| 41 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 42 | [markets field](http://twitter.com/search?q=markets+field) | N/A |
+| 31 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 32 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 33 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
+| 34 | [Harps](http://twitter.com/search?q=Harps) | N/A |
+| 35 | [baby john](http://twitter.com/search?q=baby+john) | N/A |
+| 36 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 37 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 38 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 39 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 40 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 41 | [markets field](http://twitter.com/search?q=markets+field) | N/A |
+| 42 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
 | 43 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 44 | [Galway United](http://twitter.com/search?q=Galway+United) | N/A |
 | 45 | [Yellowjackets](http://twitter.com/search?q=Yellowjackets) | N/A |

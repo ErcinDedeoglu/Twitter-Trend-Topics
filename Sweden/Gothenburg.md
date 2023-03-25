@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-25 02:32:24 UTC`
+📆 Last Updated: `2023-03-25 03:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 7 | [Claesson](http://twitter.com/search?q=Claesson) | N/A |
 | 8 | [Friends](http://twitter.com/search?q=Friends) | N/A |
 | 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 10 | [Kristoffer Olsson](http://twitter.com/search?q=Kristoffer+Olsson) | N/A |
+| 10 | [kristoffer olsson](http://twitter.com/search?q=kristoffer+olsson) | N/A |
 | 11 | [Augustinsson](http://twitter.com/search?q=Augustinsson) | N/A |
 | 12 | [Västervik](http://twitter.com/search?q=V%c3%a4stervik) | N/A |
 | 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
@@ -47,9 +47,9 @@ This is top 50 for [Sweden](</Sweden>)
 | 30 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
 | 31 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 32 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
-| 33 | [Elsa Widding](http://twitter.com/search?q=Elsa+Widding) | N/A |
-| 34 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 35 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 33 | [elsa widding](http://twitter.com/search?q=elsa+widding) | N/A |
+| 34 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 35 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
 | 36 | [Sara Skyttedal](http://twitter.com/search?q=Sara+Skyttedal) | N/A |
 | 37 | [Kjell Jansson](http://twitter.com/search?q=Kjell+Jansson) | N/A |
 | 38 | [cibus](http://twitter.com/search?q=cibus) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 43 | [babben](http://twitter.com/search?q=babben) | N/A |
 | 44 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 45 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
+| 45 | [trevlig](http://twitter.com/search?q=trevlig) | N/A |
 | 46 | [Elitserien](http://twitter.com/search?q=Elitserien) | N/A |
 | 47 | [söderort](http://twitter.com/search?q=s%c3%b6derort) | N/A |
 | 48 | [Alvesta](http://twitter.com/search?q=Alvesta) | N/A |
