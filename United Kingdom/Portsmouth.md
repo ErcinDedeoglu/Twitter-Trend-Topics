@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-03-25 18:17:01 UTC`
+📆 Last Updated: `2023-03-25 19:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#lofc](http://twitter.com/search?q=%23lofc) | N/A |
-| 2 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 3 | [#tufc](http://twitter.com/search?q=%23tufc) | N/A |
-| 4 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
-| 5 | [Evans](http://twitter.com/search?q=Evans) | N/A |
-| 6 | [#AFCW](http://twitter.com/search?q=%23AFCW) | N/A |
-| 7 | [Rhinos](http://twitter.com/search?q=Rhinos) | N/A |
-| 8 | [Colchester](http://twitter.com/search?q=Colchester) | N/A |
-| 9 | [#bbcaq](http://twitter.com/search?q=%23bbcaq) | N/A |
-| 10 | [McNally](http://twitter.com/search?q=McNally) | N/A |
-| 11 | [Hartlepool](http://twitter.com/search?q=Hartlepool) | N/A |
-| 12 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
-| 13 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 14 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
-| 15 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 16 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 17 | [Leah](http://twitter.com/search?q=Leah) | N/A |
-| 18 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 19 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 20 | [Auckland](http://twitter.com/search?q=Auckland) | Auckland is the largest city in New Zealand. It is located in the North Island and is known for its diverse population, vibrant culture, and stunning natural beauty. The name Auckland comes from the Māori language and means "the place of Tāmaki". |
-| 21 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 22 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 23 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 24 | [Gareth Southgate](http://twitter.com/search?q=Gareth+Southgate) | N/A |
-| 25 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 26 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 28 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 29 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 30 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 31 | [Warne](http://twitter.com/search?q=Warne) | N/A |
-| 32 | [Equinox](http://twitter.com/search?q=Equinox) | N/A |
-| 33 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 34 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 35 | [Stevie G](http://twitter.com/search?q=Stevie+G) | N/A |
-| 36 | [Carlisle](http://twitter.com/search?q=Carlisle) | N/A |
-| 37 | [Scott McTominay](http://twitter.com/search?q=Scott+McTominay) | N/A |
-| 38 | [Orient](http://twitter.com/search?q=Orient) | N/A |
-| 39 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 40 | [Colwill](http://twitter.com/search?q=Colwill) | N/A |
-| 41 | [Luke Pearce](http://twitter.com/search?q=Luke+Pearce) | N/A |
-| 42 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 43 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 44 | [Jesus Christ Superstar](http://twitter.com/search?q=Jesus+Christ+Superstar) | N/A |
-| 45 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 46 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 47 | [John McGinn](http://twitter.com/search?q=John+McGinn) | N/A |
-| 48 | [North London](http://twitter.com/search?q=North+London) | North London is an informal term used to refer to the northern part of the city of London, England. It is generally taken to include the areas within the London Boroughs of Camden, Islington, Hackney, Haringey and Enfield. |
-| 49 | [England U21](http://twitter.com/search?q=England+U21) | N/A |
+| 1 | [Luke Pearce](http://twitter.com/search?q=Luke+Pearce) | N/A |
+| 2 | [#stockportcounty](http://twitter.com/search?q=%23stockportcounty) | N/A |
+| 3 | [#hedgewatchcafe](http://twitter.com/search?q=%23hedgewatchcafe) | N/A |
+| 4 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
+| 5 | [Peterborough](http://twitter.com/search?q=Peterborough) | N/A |
+| 6 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 7 | [Posh](http://twitter.com/search?q=Posh) | N/A |
+| 8 | [#AFCW](http://twitter.com/search?q=%23AFCW) | N/A |
+| 9 | [Evans](http://twitter.com/search?q=Evans) | N/A |
+| 10 | [Colchester](http://twitter.com/search?q=Colchester) | N/A |
+| 11 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 12 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 13 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 14 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
+| 15 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 17 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 18 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 19 | [Barrow](http://twitter.com/search?q=Barrow) | N/A |
+| 20 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 21 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
+| 22 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 23 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 24 | [Swindon](http://twitter.com/search?q=Swindon) | N/A |
+| 25 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 26 | [Leah](http://twitter.com/search?q=Leah) | N/A |
+| 27 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 28 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 29 | [Auckland](http://twitter.com/search?q=Auckland) | Auckland is the largest city in New Zealand. It is located in the North Island and is known for its diverse population, vibrant culture, and stunning natural beauty. The name Auckland comes from the Māori language and means "the place of Tāmaki". |
+| 30 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 31 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 32 | [Madueke](http://twitter.com/search?q=Madueke) | Madueke is a Nigerian name of Igbo origin. It means “God knows” or “God has done it” in English. |
+| 33 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 34 | [England U21s](http://twitter.com/search?q=England+U21s) | N/A |
+| 35 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 36 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 37 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 38 | [Jacob Ramsey](http://twitter.com/search?q=Jacob+Ramsey) | N/A |
+| 39 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 40 | [Warne](http://twitter.com/search?q=Warne) | N/A |
+| 41 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 42 | [East 17](http://twitter.com/search?q=East+17) | N/A |
+| 43 | [Sarah Hunter](http://twitter.com/search?q=Sarah+Hunter) | N/A |
+| 44 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
+| 45 | [Stevie G](http://twitter.com/search?q=Stevie+G) | N/A |
+| 46 | [France U21](http://twitter.com/search?q=France+U21) | N/A |
+| 47 | [Equinox](http://twitter.com/search?q=Equinox) | N/A |
+| 48 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
+| 49 | [Smith Rowe](http://twitter.com/search?q=Smith+Rowe) | Smith Rowe is a term used to describe a partnership between two players in football (soccer). It is typically used to refer to a combination of two players who work together effectively and often score goals or create chances for each other. The term was coined by Arsenal fans to describe the partnership between Arsenal's Bukayo Saka and Emile Smith Rowe. |
 
 
 

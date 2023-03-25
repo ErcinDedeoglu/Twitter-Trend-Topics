@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-25 18:17:50 UTC`
+📆 Last Updated: `2023-03-25 19:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Singapore
 | 9 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
 | 10 | [Karina](http://twitter.com/search?q=Karina) | N/A |
 | 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 12 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 13 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 13 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 14 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 15 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 16 | [ONE Fight Night 8](http://twitter.com/search?q=ONE+Fight+Night+8) | N/A |
-| 17 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 16 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 17 | [ONE FIGHT NIGHT 8](http://twitter.com/search?q=ONE+FIGHT+NIGHT+8) | N/A |
 | 18 | [Chew](http://twitter.com/search?q=Chew) | N/A |
-| 19 | [WhatsApp Link](http://twitter.com/search?q=WhatsApp+Link) | N/A |
-| 20 | [Tele Group](http://twitter.com/search?q=Tele+Group) | N/A |
-| 21 | [FB Page](http://twitter.com/search?q=FB+Page) | N/A |
-| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 24 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 25 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 26 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 27 | [Happy 5th Anniversary](http://twitter.com/search?q=Happy+5th+Anniversary) | N/A |
-| 28 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 20 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 21 | [WhatsApp Link](http://twitter.com/search?q=WhatsApp+Link) | N/A |
+| 22 | [Tele Group](http://twitter.com/search?q=Tele+Group) | N/A |
+| 23 | [FB Page](http://twitter.com/search?q=FB+Page) | N/A |
+| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 25 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 26 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 27 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
+| 28 | [Happy 5th Anniversary](http://twitter.com/search?q=Happy+5th+Anniversary) | N/A |
 | 29 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 30 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 32 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
-| 33 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 34 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
+| 30 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
+| 31 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [Jimmy Fallon](http://twitter.com/search?q=Jimmy+Fallon) | N/A |
+| 34 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
 | 35 | [LETS GO](http://twitter.com/search?q=LETS+GO) | N/A |
 | 36 | [nayeon](http://twitter.com/search?q=nayeon) | N/A |
-| 37 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 38 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 41 | [Technically](http://twitter.com/search?q=Technically) | N/A |
-| 42 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
-| 43 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 44 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 45 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 46 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 47 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 48 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 49 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 50 | [DMed](http://twitter.com/search?q=DMed) | N/A |
+| 37 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [Technically](http://twitter.com/search?q=Technically) | N/A |
+| 40 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
+| 41 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 42 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 43 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 44 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 45 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 46 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 47 | [DMed](http://twitter.com/search?q=DMed) | N/A |
+| 48 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 49 | [Genshin](http://twitter.com/search?q=Genshin) | N/A |
+| 50 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 
 
 

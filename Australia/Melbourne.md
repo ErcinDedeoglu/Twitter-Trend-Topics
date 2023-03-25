@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-03-25 18:17:18 UTC`
+📆 Last Updated: `2023-03-25 19:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#NSWVotes2023](http://twitter.com/search?q=%23NSWVotes2023) | N/A |
 | 2 | [#nswelection](http://twitter.com/search?q=%23nswelection) | N/A |
 | 3 | [#AFLFreoNorth](http://twitter.com/search?q=%23AFLFreoNorth) | N/A |
-| 4 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 5 | [#aflpiespower](http://twitter.com/search?q=%23aflpiespower) | N/A |
-| 6 | [#AFLDogsSaints](http://twitter.com/search?q=%23AFLDogsSaints) | N/A |
-| 7 | [Antony Green](http://twitter.com/search?q=Antony+Green) | N/A |
-| 8 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
+| 4 | [#aflpiespower](http://twitter.com/search?q=%23aflpiespower) | N/A |
+| 5 | [Labor](http://twitter.com/search?q=Labor) | N/A |
+| 6 | [#afldogssaints](http://twitter.com/search?q=%23afldogssaints) | N/A |
+| 7 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
+| 8 | [Antony Green](http://twitter.com/search?q=Antony+Green) | N/A |
 | 9 | [Chris Minns](http://twitter.com/search?q=Chris+Minns) | N/A |
 | 10 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
 | 11 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 12 | [speers](http://twitter.com/search?q=speers) | N/A |
+| 12 | [Speers](http://twitter.com/search?q=Speers) | N/A |
 | 13 | [Auckland](http://twitter.com/search?q=Auckland) | Auckland is the largest city in New Zealand. It is located in the North Island and is known for its diverse population, vibrant culture, and stunning natural beauty. The name Auckland comes from the Māori language and means "the place of Tāmaki". |
 | 14 | [nick daicos](http://twitter.com/search?q=nick+daicos) | N/A |
-| 15 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 16 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 15 | [Gabba](http://twitter.com/search?q=Gabba) | N/A |
+| 16 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
 | 17 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 18 | [Perrottet](http://twitter.com/search?q=Perrottet) | N/A |
-| 19 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 20 | [Bevo](http://twitter.com/search?q=Bevo) | N/A |
-| 21 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 19 | [Bevo](http://twitter.com/search?q=Bevo) | N/A |
+| 20 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 21 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
 | 22 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
 | 23 | [cascadian](http://twitter.com/search?q=cascadian) | N/A |
 | 24 | [John Howard](http://twitter.com/search?q=John+Howard) | N/A |
 | 25 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 26 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
-| 27 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 28 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
-| 29 | [Posie](http://twitter.com/search?q=Posie) | N/A |
-| 30 | [Bevan Shields](http://twitter.com/search?q=Bevan+Shields) | N/A |
-| 31 | [Broad](http://twitter.com/search?q=Broad) | N/A |
-| 32 | [Penny Sharpe](http://twitter.com/search?q=Penny+Sharpe) | N/A |
-| 33 | [ICAC](http://twitter.com/search?q=ICAC) | N/A |
-| 34 | [Stuart Ayres](http://twitter.com/search?q=Stuart+Ayres) | N/A |
-| 35 | [Credlin](http://twitter.com/search?q=Credlin) | N/A |
+| 26 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 27 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
+| 28 | [Bevan Shields](http://twitter.com/search?q=Bevan+Shields) | N/A |
+| 29 | [Broad](http://twitter.com/search?q=Broad) | N/A |
+| 30 | [Chris Kenny](http://twitter.com/search?q=Chris+Kenny) | N/A |
+| 31 | [Posie](http://twitter.com/search?q=Posie) | N/A |
+| 32 | [ICAC](http://twitter.com/search?q=ICAC) | N/A |
+| 33 | [Stuart Ayres](http://twitter.com/search?q=Stuart+Ayres) | N/A |
+| 34 | [Credlin](http://twitter.com/search?q=Credlin) | N/A |
+| 35 | [Penny Sharpe](http://twitter.com/search?q=Penny+Sharpe) | N/A |
 | 36 | [ginnivan](http://twitter.com/search?q=ginnivan) | N/A |
-| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 38 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 37 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 39 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
 | 40 | [max gawn](http://twitter.com/search?q=max+gawn) | N/A |
-| 41 | [Nicks](http://twitter.com/search?q=Nicks) | N/A |
-| 42 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 43 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
-| 44 | [east hills](http://twitter.com/search?q=east+hills) | N/A |
-| 45 | [New South Wales](http://twitter.com/search?q=New+South+Wales) | N/A |
-| 46 | [Goldman](http://twitter.com/search?q=Goldman) | N/A |
-| 47 | [South Coast](http://twitter.com/search?q=South+Coast) | N/A |
-| 48 | [janelle saffin](http://twitter.com/search?q=janelle+saffin) | N/A |
-| 49 | [samson ryan](http://twitter.com/search?q=samson+ryan) | N/A |
-| 50 | [Epping](http://twitter.com/search?q=Epping) | N/A |
+| 41 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 42 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
+| 43 | [east hills](http://twitter.com/search?q=east+hills) | N/A |
+| 44 | [New South Wales](http://twitter.com/search?q=New+South+Wales) | N/A |
+| 45 | [South Coast](http://twitter.com/search?q=South+Coast) | N/A |
+| 46 | [janelle saffin](http://twitter.com/search?q=janelle+saffin) | N/A |
+| 47 | [samson ryan](http://twitter.com/search?q=samson+ryan) | N/A |
+| 48 | [Epping](http://twitter.com/search?q=Epping) | N/A |
+| 49 | [andrew bragg](http://twitter.com/search?q=andrew+bragg) | N/A |
+| 50 | [Kiwis](http://twitter.com/search?q=Kiwis) | N/A |
 
 
 

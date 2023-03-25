@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-25 18:17:24 UTC`
+📆 Last Updated: `2023-03-25 19:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,29 +40,28 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 23 | [Good Project](http://twitter.com/search?q=Good+Project) | N/A |
 | 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 25 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 26 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 27 | [England](http://twitter.com/search?q=England) | N/A |
-| 28 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 29 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
-| 30 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 31 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 32 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 26 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
+| 27 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 28 | [England](http://twitter.com/search?q=England) | N/A |
+| 29 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 30 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 31 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
+| 32 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
 | 33 | [Trove](http://twitter.com/search?q=Trove) | N/A |
 | 34 | [Army](http://twitter.com/search?q=Army) | N/A |
 | 35 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
 | 36 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 37 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 38 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 39 | [Thèm](http://twitter.com/search?q=Th%c3%a8m) | N/A |
-| 40 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 41 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 42 | [Vâng](http://twitter.com/search?q=V%c3%a2ng) | N/A |
-| 43 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
-| 44 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 45 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 47 | [Nứng](http://twitter.com/search?q=N%e1%bb%a9ng) | N/A |
-| 48 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
+| 37 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
+| 38 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 39 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 41 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 42 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 43 | [Thèm](http://twitter.com/search?q=Th%c3%a8m) | N/A |
+| 44 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 46 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
+| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-25 18:17:35 UTC`
+📆 Last Updated: `2023-03-25 19:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TayiniMüjdeleGSB](http://twitter.com/search?q=TayiniM%c3%bcjdeleGSB) | N/A |
-| 2 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
-| 3 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 4 | [Orkun](http://twitter.com/search?q=Orkun) | N/A |
-| 5 | [#BizimÇocuklar](http://twitter.com/search?q=%23Bizim%c3%87ocuklar) | N/A |
-| 6 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 7 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 8 | [#ARMvTUR](http://twitter.com/search?q=%23ARMvTUR) | N/A |
-| 9 | [Ozan](http://twitter.com/search?q=Ozan) | N/A |
-| 10 | [Ermenistan](http://twitter.com/search?q=Ermenistan) | N/A |
-| 11 | [YapıKayıt Torbaya](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Torbaya) | N/A |
-| 12 | [#SinanOGANa100Binimza](http://twitter.com/search?q=%23SinanOGANa100Binimza) | N/A |
-| 13 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 14 | [#pdrmagdurek10BİNhaktir](http://twitter.com/search?q=%23pdrmagdurek10B%c4%b0Nhaktir) | N/A |
-| 15 | [#millitakim](http://twitter.com/search?q=%23millitakim) | N/A |
-| 16 | [Salih Özcan](http://twitter.com/search?q=Salih+%c3%96zcan) | N/A |
-| 17 | [Denkliğe Çözümİstiyoruz](http://twitter.com/search?q=Denkli%c4%9fe+%c3%87%c3%b6z%c3%bcm%c4%b0stiyoruz) | N/A |
-| 18 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
-| 19 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
-| 20 | [Çağlar](http://twitter.com/search?q=%c3%87a%c4%9flar) | N/A |
-| 21 | [İstiklal Marşımızı](http://twitter.com/search?q=%c4%b0stiklal+Mar%c5%9f%c4%b1m%c4%b1z%c4%b1) | N/A |
-| 22 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
-| 23 | [DepremŞartlı YapıKayıt](http://twitter.com/search?q=Deprem%c5%9eartl%c4%b1+Yap%c4%b1Kay%c4%b1t) | N/A |
-| 24 | [Enes](http://twitter.com/search?q=Enes) | N/A |
-| 25 | [Merih](http://twitter.com/search?q=Merih) | N/A |
-| 26 | [Perinçeke Yüzbinİmza](http://twitter.com/search?q=Perin%c3%a7eke+Y%c3%bczbin%c4%b0mza) | N/A |
-| 27 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 28 | [Muharrem İnce 100](http://twitter.com/search?q=Muharrem+%c4%b0nce+100) | N/A |
-| 29 | [Hamit Altıntop](http://twitter.com/search?q=Hamit+Alt%c4%b1ntop) | N/A |
-| 30 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
-| 31 | [Canan](http://twitter.com/search?q=Canan) | N/A |
-| 32 | [Başarılar Türkiyem](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar+T%c3%bcrkiyem) | N/A |
-| 33 | [Zeki Çelik](http://twitter.com/search?q=Zeki+%c3%87elik) | N/A |
-| 34 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
-| 35 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 36 | [Haydi Türkiyem](http://twitter.com/search?q=Haydi+T%c3%bcrkiyem) | N/A |
-| 37 | [Ferdi Kadıoğlu](http://twitter.com/search?q=Ferdi+Kad%c4%b1o%c4%9flu) | N/A |
-| 38 | [Mert](http://twitter.com/search?q=Mert) | Mert is a Turkish name derived from the Arabic word for “blessed”. It is also used as a surname in some parts of the world. In English, it can be translated to mean “blessed” or “fortunate”. |
-| 39 | [Elleri](http://twitter.com/search?q=Elleri) | N/A |
-| 40 | [Muhsin Yazıcıoğlu](http://twitter.com/search?q=Muhsin+Yaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 41 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 42 | [Gaffar Okkan](http://twitter.com/search?q=Gaffar+Okkan) | N/A |
-| 43 | [Gömlek](http://twitter.com/search?q=G%c3%b6mlek) | N/A |
-| 44 | [Sopalarla](http://twitter.com/search?q=Sopalarla) | N/A |
-| 45 | [Madımak](http://twitter.com/search?q=Mad%c4%b1mak) | N/A |
-| 46 | [Dayak](http://twitter.com/search?q=Dayak) | N/A |
-| 47 | [Ketçap](http://twitter.com/search?q=Ket%c3%a7ap) | N/A |
-| 48 | [Hastane](http://twitter.com/search?q=Hastane) | N/A |
-| 49 | [Karabağ](http://twitter.com/search?q=Karaba%c4%9f) | N/A |
-| 50 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
+| 1 | [#MuhsinYazıcıoğlu](http://twitter.com/search?q=%23MuhsinYaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
+| 2 | [#BizimÇocuklar](http://twitter.com/search?q=%23Bizim%c3%87ocuklar) | N/A |
+| 3 | [#ARMvTUR](http://twitter.com/search?q=%23ARMvTUR) | N/A |
+| 4 | [Ozan](http://twitter.com/search?q=Ozan) | N/A |
+| 5 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 6 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 7 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
+| 8 | [#Ermenistan](http://twitter.com/search?q=%23Ermenistan) | N/A |
+| 9 | [TayiniMüjdeleGSB](http://twitter.com/search?q=TayiniM%c3%bcjdeleGSB) | N/A |
+| 10 | [Enes](http://twitter.com/search?q=Enes) | N/A |
+| 11 | [#MilliTakım](http://twitter.com/search?q=%23MilliTak%c4%b1m) | N/A |
+| 12 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 13 | [Orkun Kökçü](http://twitter.com/search?q=Orkun+K%c3%b6k%c3%a7%c3%bc) | N/A |
+| 14 | [YapıKayıt Torbaya](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1t+Torbaya) | N/A |
+| 15 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 16 | [Mert Günok](http://twitter.com/search?q=Mert+G%c3%bcnok) | Mert Günok is a Turkish name. It is composed of two words: Mert, which means brave or courageous, and Günok, which means soldier. In English, the name would translate to Brave Soldier. |
+| 17 | [Hırvatistan](http://twitter.com/search?q=H%c4%b1rvatistan) | N/A |
+| 18 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
+| 19 | [Salih Özcan](http://twitter.com/search?q=Salih+%c3%96zcan) | N/A |
+| 20 | [BebeklerinYeri CezaeviMi](http://twitter.com/search?q=BebeklerinYeri+CezaeviMi) | N/A |
+| 21 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
+| 22 | [İstiklal Marşımızı](http://twitter.com/search?q=%c4%b0stiklal+Mar%c5%9f%c4%b1m%c4%b1z%c4%b1) | N/A |
+| 23 | [Müjdeli Haber](http://twitter.com/search?q=M%c3%bcjdeli+Haber) | N/A |
+| 24 | [Denkliğe Çözümİstiyoruz](http://twitter.com/search?q=Denkli%c4%9fe+%c3%87%c3%b6z%c3%bcm%c4%b0stiyoruz) | N/A |
+| 25 | [TaşeronunOyu KadrodaSaklı](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadrodaSakl%c4%b1) | N/A |
+| 26 | [Çağlar](http://twitter.com/search?q=%c3%87a%c4%9flar) | N/A |
+| 27 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
+| 28 | [Paşinyan](http://twitter.com/search?q=Pa%c5%9finyan) | N/A |
+| 29 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 30 | [DepremŞartlı YapıKayıt](http://twitter.com/search?q=Deprem%c5%9eartl%c4%b1+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 31 | [Umut Nayir](http://twitter.com/search?q=Umut+Nayir) | Umut Nayir is a Turkish phrase that translates to "hope for the future". It is often used as a motto or slogan to express optimism and positivity. |
+| 32 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
+| 33 | [Hırvatlar](http://twitter.com/search?q=H%c4%b1rvatlar) | N/A |
+| 34 | [Hamit Altıntop](http://twitter.com/search?q=Hamit+Alt%c4%b1ntop) | N/A |
+| 35 | [Merih](http://twitter.com/search?q=Merih) | N/A |
+| 36 | [Azerbaycan](http://twitter.com/search?q=Azerbaycan) | N/A |
+| 37 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
+| 38 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 39 | [Muharrem İnce 100](http://twitter.com/search?q=Muharrem+%c4%b0nce+100) | N/A |
+| 40 | [Canan](http://twitter.com/search?q=Canan) | N/A |
+| 41 | [Aslanım](http://twitter.com/search?q=Aslan%c4%b1m) | N/A |
+| 42 | [Maç Sonucu](http://twitter.com/search?q=Ma%c3%a7+Sonucu) | N/A |
+| 43 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 44 | [Koyduk](http://twitter.com/search?q=Koyduk) | N/A |
+| 45 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
+| 46 | [Zeki Çelik](http://twitter.com/search?q=Zeki+%c3%87elik) | N/A |
+| 47 | [Enver Paşa](http://twitter.com/search?q=Enver+Pa%c5%9fa) | N/A |
+| 48 | [Ardayı](http://twitter.com/search?q=Arday%c4%b1) | N/A |
+| 49 | [Ketçap](http://twitter.com/search?q=Ket%c3%a7ap) | N/A |
+| 50 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
 
 
 

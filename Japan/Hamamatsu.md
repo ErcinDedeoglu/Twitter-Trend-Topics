@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamamatsu
 
-📆 Last Updated: `2023-03-25 18:17:19 UTC`
+📆 Last Updated: `2023-03-25 19:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Japan](</Japan>)
 | 4 | [ドバイワールドカップ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%ab%e3%83%83%e3%83%97) | N/A |
 | 5 | [ダノンベルーガ](http://twitter.com/search?q=%e3%83%80%e3%83%8e%e3%83%b3%e3%83%99%e3%83%ab%e3%83%bc%e3%82%ac) | N/A |
 | 6 | [#annkw](http://twitter.com/search?q=%23annkw) | #annkw is an abbreviation for "announcement keyword," which is a hashtag used to indicate that a post contains important information or news. It is often used on social media platforms such as Twitter and Instagram. |
-| 7 | [#SixTONESANN](http://twitter.com/search?q=%23SixTONESANN) | #SixTONESANN is a hashtag used by fans of the Japanese boy band SixTONES. It stands for "SixTONES Announcement" and is used to share news and updates about the group. |
-| 8 | [#ドバイシーマクラシック](http://twitter.com/search?q=%23%e3%83%89%e3%83%90%e3%82%a4%e3%82%b7%e3%83%bc%e3%83%9e%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af) | N/A |
-| 9 | [オルフェーヴル](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%95%e3%82%a7%e3%83%bc%e3%83%b4%e3%83%ab) | N/A |
-| 10 | [エピ凪劇場版](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e5%87%aa%e5%8a%87%e5%a0%b4%e7%89%88) | N/A |
-| 11 | [#ブルーロック](http://twitter.com/search?q=%23%e3%83%96%e3%83%ab%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 7 | [#ドバイシーマクラシック](http://twitter.com/search?q=%23%e3%83%89%e3%83%90%e3%82%a4%e3%82%b7%e3%83%bc%e3%83%9e%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af) | N/A |
+| 8 | [エピ凪劇場版](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e5%87%aa%e5%8a%87%e5%a0%b4%e7%89%88) | N/A |
+| 9 | [#ブルーロック](http://twitter.com/search?q=%23%e3%83%96%e3%83%ab%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 10 | [#SixTONESANN](http://twitter.com/search?q=%23SixTONESANN) | #SixTONESANN is a hashtag used by fans of the Japanese boy band SixTONES. It stands for "SixTONES Announcement" and is used to share news and updates about the group. |
+| 11 | [オルフェーヴル](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%95%e3%82%a7%e3%83%bc%e3%83%b4%e3%83%ab) | N/A |
 | 12 | [ノーステッキ](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%b9%e3%83%86%e3%83%83%e3%82%ad) | N/A |
-| 13 | [#宮舘とPARTYTIME](http://twitter.com/search?q=%23%e5%ae%ae%e8%88%98%e3%81%a8PARTYTIME) | N/A |
+| 13 | [エピ凪映画化](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e5%87%aa%e6%98%a0%e7%94%bb%e5%8c%96) | N/A |
 | 14 | [川田騎手](http://twitter.com/search?q=%e5%b7%9d%e7%94%b0%e9%a8%8e%e6%89%8b) | N/A |
-| 15 | [ドバイWC](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4WC) | N/A |
-| 16 | [ルメール](http://twitter.com/search?q=%e3%83%ab%e3%83%a1%e3%83%bc%e3%83%ab) | ルメール is a French surname. It is derived from the Germanic name "Rudmer" which means "famous power". In English, the name would be "Rudmer". |
-| 17 | [エピ凪映画化](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e5%87%aa%e6%98%a0%e7%94%bb%e5%8c%96) | N/A |
-| 18 | [ダート馬](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%88%e9%a6%ac) | N/A |
-| 19 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 20 | [ロードノース](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%89%e3%83%8e%e3%83%bc%e3%82%b9) | N/A |
-| 21 | [川崎記念](http://twitter.com/search?q=%e5%b7%9d%e5%b4%8e%e8%a8%98%e5%bf%b5) | 川崎記念 is a Japanese horse race held annually at the Kawasaki Racecourse in Kanagawa Prefecture. The race is named after the city of Kawasaki, and it is one of the most prestigious races in Japan. In English, it translates to "Kawasaki Memorial Race". |
-| 22 | [川田さん](http://twitter.com/search?q=%e5%b7%9d%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 23 | [キタサンブラック](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%b3%e3%83%96%e3%83%a9%e3%83%83%e3%82%af) | キタサンブラック is a Japanese rock band formed in 1997. The name of the band is a combination of the words "Kita" (North) and "Samburakku" (Black). The band's music is a mix of punk, ska, and reggae. In English, the name translates to "North Black". |
-| 24 | [カントリーグラマー](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%82%b0%e3%83%a9%e3%83%9e%e3%83%bc) | N/A |
-| 25 | [ドバイターフ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%bf%e3%83%bc%e3%83%95) | N/A |
+| 15 | [#宮舘とPARTYTIME](http://twitter.com/search?q=%23%e5%ae%ae%e8%88%98%e3%81%a8PARTYTIME) | N/A |
+| 16 | [ドバイWC](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4WC) | N/A |
+| 17 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 18 | [ルメール](http://twitter.com/search?q=%e3%83%ab%e3%83%a1%e3%83%bc%e3%83%ab) | ルメール is a French surname. It is derived from the Germanic name "Rudmer" which means "famous power". In English, the name would be "Rudmer". |
+| 19 | [ダート馬](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%88%e9%a6%ac) | N/A |
+| 20 | [川崎記念](http://twitter.com/search?q=%e5%b7%9d%e5%b4%8e%e8%a8%98%e5%bf%b5) | 川崎記念 is a Japanese horse race held annually at the Kawasaki Racecourse in Kanagawa Prefecture. The race is named after the city of Kawasaki, and it is one of the most prestigious races in Japan. In English, it translates to "Kawasaki Memorial Race". |
+| 21 | [ロードノース](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%89%e3%83%8e%e3%83%bc%e3%82%b9) | N/A |
+| 22 | [エピソード凪](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e3%82%bd%e3%83%bc%e3%83%89%e5%87%aa) | N/A |
+| 23 | [川田さん](http://twitter.com/search?q=%e5%b7%9d%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 24 | [キタサンブラック](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%b3%e3%83%96%e3%83%a9%e3%83%83%e3%82%af) | キタサンブラック is a Japanese rock band formed in 1997. The name of the band is a combination of the words "Kita" (North) and "Samburakku" (Black). The band's music is a mix of punk, ska, and reggae. In English, the name translates to "North Black". |
+| 25 | [カントリーグラマー](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%82%b0%e3%83%a9%e3%83%9e%e3%83%bc) | N/A |
 | 26 | [凱旋門賞](http://twitter.com/search?q=%e5%87%b1%e6%97%8b%e9%96%80%e8%b3%9e) | N/A |
 | 27 | [テーオーケインズ](http://twitter.com/search?q=%e3%83%86%e3%83%bc%e3%82%aa%e3%83%bc%e3%82%b1%e3%82%a4%e3%83%b3%e3%82%ba) | テーオーケインズ (T-O Kains) is a Japanese clothing brand that specializes in casual streetwear. The brand is known for its unique designs and use of bold colors. The name is derived from the phrase "T-O Kainzu", which means "style and quality". In English, the brand name translates to "T-O Kains". |
-| 28 | [エピソード凪](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e3%82%bd%e3%83%bc%e3%83%89%e5%87%aa) | N/A |
+| 28 | [ドバイターフ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%bf%e3%83%bc%e3%83%95) | N/A |
 | 29 | [ハーツクライ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
-| 30 | [セリフォス](http://twitter.com/search?q=%e3%82%bb%e3%83%aa%e3%83%95%e3%82%a9%e3%82%b9) | N/A |
-| 31 | [デルマソトガケ](http://twitter.com/search?q=%e3%83%87%e3%83%ab%e3%83%9e%e3%82%bd%e3%83%88%e3%82%ac%e3%82%b1) | N/A |
-| 32 | [エンブレムロード](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%a0%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
-| 33 | [第429回](http://twitter.com/search?q=%e7%ac%ac429%e5%9b%9e) | N/A |
-| 34 | [川田将雅](http://twitter.com/search?q=%e5%b7%9d%e7%94%b0%e5%b0%86%e9%9b%85) | N/A |
-| 35 | [レモンポップ](http://twitter.com/search?q=%e3%83%ac%e3%83%a2%e3%83%b3%e3%83%9d%e3%83%83%e3%83%97) | レモンポップ is a type of Japanese candy. It is a hard candy with a lemon flavor. In English, it is known as Lemon Pop. |
-| 36 | [シャフリヤール](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%95%e3%83%aa%e3%83%a4%e3%83%bc%e3%83%ab) | N/A |
-| 37 | [東京大賞典](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e5%a4%a7%e8%b3%9e%e5%85%b8) | 東京大賞典 (Tokyo Grand Prix) is an annual award ceremony held in Tokyo, Japan. It recognizes excellence in the fields of film, television, music, theater, and other forms of entertainment. The awards are presented by the Tokyo Metropolitan Government and are widely considered to be one of the most prestigious awards in Japan. The English translation of 東京大賞典 is Tokyo Grand Prix. |
-| 38 | [ザグレイ](http://twitter.com/search?q=%e3%82%b6%e3%82%b0%e3%83%ac%e3%82%a4) | N/A |
+| 30 | [咎人コラボ](http://twitter.com/search?q=%e5%92%8e%e4%ba%ba%e3%82%b3%e3%83%a9%e3%83%9c) | 咎人コラボ (Togabito Collaboration) is a Japanese video game series developed by Nippon Ichi Software. It is a dungeon-crawling role-playing game in which players take on the role of a "Togabito", or "Sinners", who must explore dungeons and battle monsters in order to save the world from destruction. The English translation of the title would be "Sinner's Collaboration". |
+| 31 | [第429回](http://twitter.com/search?q=%e7%ac%ac429%e5%9b%9e) | N/A |
+| 32 | [デルマソトガケ](http://twitter.com/search?q=%e3%83%87%e3%83%ab%e3%83%9e%e3%82%bd%e3%83%88%e3%82%ac%e3%82%b1) | N/A |
+| 33 | [エンブレムロード](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%a0%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
+| 34 | [セリフォス](http://twitter.com/search?q=%e3%82%bb%e3%83%aa%e3%83%95%e3%82%a9%e3%82%b9) | N/A |
+| 35 | [東京大賞典](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e5%a4%a7%e8%b3%9e%e5%85%b8) | 東京大賞典 (Tokyo Grand Prix) is an annual award ceremony held in Tokyo, Japan. It recognizes excellence in the fields of film, television, music, theater, and other forms of entertainment. The awards are presented by the Tokyo Metropolitan Government and are widely considered to be one of the most prestigious awards in Japan. The English translation of 東京大賞典 is Tokyo Grand Prix. |
+| 36 | [ザグレイ](http://twitter.com/search?q=%e3%82%b6%e3%82%b0%e3%83%ac%e3%82%a4) | N/A |
+| 37 | [レモンポップ](http://twitter.com/search?q=%e3%83%ac%e3%83%a2%e3%83%b3%e3%83%9d%e3%83%83%e3%83%97) | レモンポップ is a type of Japanese candy. It is a hard candy with a lemon flavor. In English, it is known as Lemon Pop. |
+| 38 | [川田将雅](http://twitter.com/search?q=%e5%b7%9d%e7%94%b0%e5%b0%86%e9%9b%85) | N/A |
 | 39 | [ジオグリフ](http://twitter.com/search?q=%e3%82%b8%e3%82%aa%e3%82%b0%e3%83%aa%e3%83%95) | N/A |
-| 40 | [ハッピーフライト](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%95%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
-| 41 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
+| 40 | [シャフリヤール](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%95%e3%83%aa%e3%83%a4%e3%83%bc%e3%83%ab) | N/A |
+| 41 | [中村悠一](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e6%82%a0%e4%b8%80) | N/A |
 | 42 | [パンくん](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
-| 43 | [中村悠一](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e6%82%a0%e4%b8%80) | N/A |
-| 44 | [コースレコード](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%89) | N/A |
-| 45 | [レコード1秒更新](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%891%e7%a7%92%e6%9b%b4%e6%96%b0) | N/A |
+| 43 | [ドウデュース](http://twitter.com/search?q=%e3%83%89%e3%82%a6%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | ドウデュース (doudyūsu) is a Japanese word that means "double". It is used to refer to something that has two parts or components. |
+| 44 | [ブルロ2期](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%ad2%e6%9c%9f) | N/A |
+| 45 | [コースレコード](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%82%b9%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%89) | N/A |
 | 46 | [トライガン](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%a4%e3%82%ac%e3%83%b3) | トライガン (Toraigan) is a Japanese term for a type of three-barrel gun. It is usually used to refer to a type of flintlock musket that was used by the Japanese military during the Edo period. The literal translation of トライガン is "three-barrel gun". |
-| 47 | [デットーリ](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%83%88%e3%83%bc%e3%83%aa) | N/A |
-| 48 | [レコード更新](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%89%e6%9b%b4%e6%96%b0) | N/A |
-| 49 | [ヴェラアズール](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%a9%e3%82%a2%e3%82%ba%e3%83%bc%e3%83%ab) | ヴェラアズール is a Japanese fashion brand founded in 2001. The name is derived from the Latin phrase "vera aeternitas" which translates to "true eternity". The brand specializes in creating modern, stylish clothing for women. |
+| 47 | [ハッピーフライト](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%95%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
+| 48 | [レコード1秒更新](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%891%e7%a7%92%e6%9b%b4%e6%96%b0) | N/A |
+| 49 | [レコード更新](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%89%e6%9b%b4%e6%96%b0) | N/A |
 | 50 | [ジュンライトボルト](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%88%e3%83%9c%e3%83%ab%e3%83%88) | N/A |
 
 

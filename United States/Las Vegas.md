@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-03-25 18:17:39 UTC`
+📆 Last Updated: `2023-03-25 19:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [United States](</United States>)
 | 5 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
 | 6 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
 | 7 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
-| 8 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 9 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 10 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 11 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 12 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 13 | [Pat Maroon](http://twitter.com/search?q=Pat+Maroon) | N/A |
-| 14 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 15 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 16 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 17 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 18 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 19 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 20 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 21 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 22 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
-| 23 | [Hedman](http://twitter.com/search?q=Hedman) | N/A |
-| 24 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 25 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 26 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 27 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
-| 28 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
-| 29 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
-| 30 | [William Byron](http://twitter.com/search?q=William+Byron) | N/A |
-| 31 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 32 | [Severino](http://twitter.com/search?q=Severino) | N/A |
-| 33 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 34 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 35 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 36 | [Pomu](http://twitter.com/search?q=Pomu) | N/A |
-| 37 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 38 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 39 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 40 | [Blackhawk](http://twitter.com/search?q=Blackhawk) | N/A |
-| 41 | [Surrender Donald](http://twitter.com/search?q=Surrender+Donald) | N/A |
-| 42 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 43 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 44 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
-| 45 | [Stolen Valor](http://twitter.com/search?q=Stolen+Valor) | N/A |
-| 46 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
-| 47 | [Medal of Honor](http://twitter.com/search?q=Medal+of+Honor) | N/A |
-| 48 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 8 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 9 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 10 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 11 | [#NWSL](http://twitter.com/search?q=%23NWSL) | N/A |
+| 12 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 13 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 14 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
+| 15 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 16 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 17 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 18 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 19 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 20 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 21 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 22 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 23 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 24 | [Pat Maroon](http://twitter.com/search?q=Pat+Maroon) | N/A |
+| 25 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 26 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 27 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 28 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 29 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 30 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
+| 31 | [Jamar Cain](http://twitter.com/search?q=Jamar+Cain) | N/A |
+| 32 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 33 | [Hedman](http://twitter.com/search?q=Hedman) | N/A |
+| 34 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 35 | [Thankful](http://twitter.com/search?q=Thankful) | N/A |
+| 36 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
+| 37 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 38 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 39 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
+| 40 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 41 | [Meryl](http://twitter.com/search?q=Meryl) | Meryl is a female given name of French origin, derived from the name Mary. It is a combination of Mary and the suffix -el, meaning "beloved". |
+| 42 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 43 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 44 | [Tre Morgan](http://twitter.com/search?q=Tre+Morgan) | N/A |
+| 45 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
+| 46 | [Linton](http://twitter.com/search?q=Linton) | N/A |
+| 47 | [Melodic Blue](http://twitter.com/search?q=Melodic+Blue) | N/A |
+| 48 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
 | 49 | [Department of Education](http://twitter.com/search?q=Department+of+Education) | N/A |
 
 

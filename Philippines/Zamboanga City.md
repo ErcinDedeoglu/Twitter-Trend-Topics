@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-25 18:17:24 UTC`
+📆 Last Updated: `2023-03-25 19:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,43 +18,40 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#KATHreignsAt27](http://twitter.com/search?q=%23KATHreignsAt27) | N/A |
 | 2 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
 | 3 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 4 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 5 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
+| 4 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
+| 5 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
 | 6 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 7 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
-| 8 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 9 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
-| 10 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 7 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 8 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
+| 9 | [Trina](http://twitter.com/search?q=Trina) | Trina is a female given name of Latin origin, derived from the word "trinus" meaning "three". It can also be a short form of other names such as Katrina or Catrina. |
+| 10 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
 | 11 | [Arisse](http://twitter.com/search?q=Arisse) | N/A |
-| 12 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 13 | [WAYV BOUNCES BACK TO ARANETA](http://twitter.com/search?q=WAYV+BOUNCES+BACK+TO+ARANETA) | N/A |
-| 14 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 12 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
+| 13 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 14 | [WAYV BOUNCES BACK TO ARANETA](http://twitter.com/search?q=WAYV+BOUNCES+BACK+TO+ARANETA) | N/A |
 | 15 | [KAIA LETS GO](http://twitter.com/search?q=KAIA+LETS+GO) | N/A |
-| 16 | [MY OT7](http://twitter.com/search?q=MY+OT7) | N/A |
-| 17 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
+| 16 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 17 | [MY OT7](http://twitter.com/search?q=MY+OT7) | N/A |
 | 18 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 19 | [MY TANNIES](http://twitter.com/search?q=MY+TANNIES) | N/A |
-| 20 | [BarDa WayYouLookAtMeMV](http://twitter.com/search?q=BarDa+WayYouLookAtMeMV) | N/A |
-| 21 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 22 | [Jin hyung](http://twitter.com/search?q=Jin+hyung) | N/A |
-| 23 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 24 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
-| 25 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 26 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 27 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 28 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
-| 29 | [Canino](http://twitter.com/search?q=Canino) | N/A |
-| 30 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
-| 31 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
-| 32 | [#PHANTOMingin_Ka_Akin_Ka](http://twitter.com/search?q=%23PHANTOMingin_Ka_Akin_Ka) | N/A |
-| 33 | [#BLACKPINK_WORLDTOUR](http://twitter.com/search?q=%23BLACKPINK_WORLDTOUR) | N/A |
-| 34 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
-| 35 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
-| 36 | [#MEetJISOOatPHArena](http://twitter.com/search?q=%23MEetJISOOatPHArena) | N/A |
-| 37 | [#ALDENxPEA2022](http://twitter.com/search?q=%23ALDENxPEA2022) | N/A |
-| 38 | [#FELIPatWSB](http://twitter.com/search?q=%23FELIPatWSB) | N/A |
-| 39 | [#HORI7ON_GoesToGenTrias](http://twitter.com/search?q=%23HORI7ON_GoesToGenTrias) | N/A |
-| 40 | [#Studio_STRAYKIDS](http://twitter.com/search?q=%23Studio_STRAYKIDS) | N/A |
+| 19 | [BarDa WayYouLookAtMeMV](http://twitter.com/search?q=BarDa+WayYouLookAtMeMV) | N/A |
+| 20 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 21 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
+| 22 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
+| 23 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 24 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 25 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 26 | [MY BABIES](http://twitter.com/search?q=MY+BABIES) | N/A |
+| 27 | [#BLACKPINKMANILA_BULACAN](http://twitter.com/search?q=%23BLACKPINKMANILA_BULACAN) | N/A |
+| 28 | [#DIFFUSIONinMNL](http://twitter.com/search?q=%23DIFFUSIONinMNL) | N/A |
+| 29 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
+| 30 | [#BLACKPINK_WORLDTOUR](http://twitter.com/search?q=%23BLACKPINK_WORLDTOUR) | N/A |
+| 31 | [#PHANTOMingin_Ka_Akin_Ka](http://twitter.com/search?q=%23PHANTOMingin_Ka_Akin_Ka) | N/A |
+| 32 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
+| 33 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
+| 34 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
+| 35 | [#MEetJISOOatPHArena](http://twitter.com/search?q=%23MEetJISOOatPHArena) | N/A |
+| 36 | [#KAIAComeback](http://twitter.com/search?q=%23KAIAComeback) | N/A |
+| 37 | [#FELIPatWSB](http://twitter.com/search?q=%23FELIPatWSB) | N/A |
 
 
 

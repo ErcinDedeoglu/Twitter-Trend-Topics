@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-25 18:17:08 UTC`
+📆 Last Updated: `2023-03-25 19:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 2 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
-| 3 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 4 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 5 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 6 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 7 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 8 | [Mete](http://twitter.com/search?q=Mete) | N/A |
-| 9 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
-| 10 | [#LudmillaNoMultishow](http://twitter.com/search?q=%23LudmillaNoMultishow) | N/A |
-| 11 | [#PittyNoCanalBIS](http://twitter.com/search?q=%23PittyNoCanalBIS) | N/A |
-| 12 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 13 | [CAROL BIAZIN NO LOLLA](http://twitter.com/search?q=CAROL+BIAZIN+NO+LOLLA) | N/A |
-| 14 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 15 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
-| 16 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 17 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
-| 18 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 19 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
-| 20 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 21 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
-| 22 | [Tokinho](http://twitter.com/search?q=Tokinho) | N/A |
-| 23 | [Dynquedo](http://twitter.com/search?q=Dynquedo) | N/A |
-| 24 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
-| 25 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
-| 26 | [MELHORAS LULA](http://twitter.com/search?q=MELHORAS+LULA) | N/A |
-| 27 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 28 | [Avenger](http://twitter.com/search?q=Avenger) | N/A |
-| 29 | [Fórmula E](http://twitter.com/search?q=F%c3%b3rmula+E) | N/A |
-| 30 | [Swain](http://twitter.com/search?q=Swain) | N/A |
-| 31 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 32 | [Lust For Life](http://twitter.com/search?q=Lust+For+Life) | N/A |
-| 33 | [Harley](http://twitter.com/search?q=Harley) | N/A |
-| 34 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 35 | [Dynkas](http://twitter.com/search?q=Dynkas) | N/A |
-| 36 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
-| 37 | [Margot](http://twitter.com/search?q=Margot) | N/A |
-| 38 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 39 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 40 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
-| 41 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 42 | [Armênia x Turquia](http://twitter.com/search?q=Arm%c3%aania+x+Turquia) | N/A |
-| 43 | [Drip](http://twitter.com/search?q=Drip) | N/A |
-| 44 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
-| 45 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
-| 46 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 47 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 48 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 49 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 50 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 2 | [#LollaBRNoMultishow](http://twitter.com/search?q=%23LollaBRNoMultishow) | N/A |
+| 3 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
+| 4 | [Primavera](http://twitter.com/search?q=Primavera) | N/A |
+| 5 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 6 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 7 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 8 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 9 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 10 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
+| 11 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 12 | [#LudmillaNoMultishow](http://twitter.com/search?q=%23LudmillaNoMultishow) | N/A |
+| 13 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 14 | [Pitty](http://twitter.com/search?q=Pitty) | Pitty is an informal term used to express sympathy or pity for someone. It is often used as a shortened form of the phrase "I feel sorry for you." |
+| 15 | [Mete](http://twitter.com/search?q=Mete) | N/A |
+| 16 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 17 | [#essasoueu](http://twitter.com/search?q=%23essasoueu) | N/A |
+| 18 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
+| 19 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 20 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
+| 21 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
+| 22 | [CAROL BIAZIN NO LOLLA](http://twitter.com/search?q=CAROL+BIAZIN+NO+LOLLA) | N/A |
+| 23 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 24 | [Aegis](http://twitter.com/search?q=Aegis) | N/A |
+| 25 | [Avenger](http://twitter.com/search?q=Avenger) | N/A |
+| 26 | [Arroz](http://twitter.com/search?q=Arroz) | N/A |
+| 27 | [Romildo](http://twitter.com/search?q=Romildo) | N/A |
+| 28 | [Abacate](http://twitter.com/search?q=Abacate) | N/A |
+| 29 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 30 | [Wizer](http://twitter.com/search?q=Wizer) | N/A |
+| 31 | [Admirável Chip Novo](http://twitter.com/search?q=Admir%c3%a1vel+Chip+Novo) | N/A |
+| 32 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 33 | [MELHORAS LULA](http://twitter.com/search?q=MELHORAS+LULA) | N/A |
+| 34 | [Boal](http://twitter.com/search?q=Boal) | N/A |
+| 35 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 36 | [Dynquedo](http://twitter.com/search?q=Dynquedo) | N/A |
+| 37 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
+| 38 | [Bvoy](http://twitter.com/search?q=Bvoy) | N/A |
+| 39 | [Martin Silva](http://twitter.com/search?q=Martin+Silva) | N/A |
+| 40 | [Tokinho](http://twitter.com/search?q=Tokinho) | N/A |
+| 41 | [LBFF](http://twitter.com/search?q=LBFF) | N/A |
+| 42 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 43 | [Lust For Life](http://twitter.com/search?q=Lust+For+Life) | N/A |
+| 44 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
+| 45 | [Fórmula E](http://twitter.com/search?q=F%c3%b3rmula+E) | N/A |
+| 46 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
+| 47 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 48 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
+| 49 | [Harley](http://twitter.com/search?q=Harley) | N/A |
+| 50 | [Brunna](http://twitter.com/search?q=Brunna) | N/A |
 
 
 

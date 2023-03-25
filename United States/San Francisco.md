@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-25 18:17:42 UTC`
+📆 Last Updated: `2023-03-25 19:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 2 | [Thankful](http://twitter.com/search?q=Thankful) | N/A |
-| 3 | [#wondercon2023](http://twitter.com/search?q=%23wondercon2023) | N/A |
-| 4 | [#SMH2023](http://twitter.com/search?q=%23SMH2023) | N/A |
+| 2 | [#wondercon2023](http://twitter.com/search?q=%23wondercon2023) | N/A |
+| 3 | [#SMH2023](http://twitter.com/search?q=%23SMH2023) | N/A |
+| 4 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
 | 5 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 | 6 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 7 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
-| 8 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 9 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 10 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 12 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 13 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
-| 14 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 15 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
-| 16 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 17 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 19 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 20 | [Pat Maroon](http://twitter.com/search?q=Pat+Maroon) | N/A |
-| 21 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 22 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 23 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 7 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 8 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 9 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 11 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 12 | [#TrumpRally](http://twitter.com/search?q=%23TrumpRally) | N/A |
+| 13 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 14 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 15 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 16 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 17 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 18 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 19 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 20 | [Rashad McCants](http://twitter.com/search?q=Rashad+McCants) | N/A |
+| 21 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 22 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 23 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 24 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
 | 25 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 26 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 27 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 28 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
-| 29 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
-| 30 | [Hedman](http://twitter.com/search?q=Hedman) | N/A |
-| 31 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 32 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
-| 33 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 34 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 35 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
-| 36 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
-| 37 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
-| 38 | [William Byron](http://twitter.com/search?q=William+Byron) | N/A |
-| 39 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 40 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 41 | [Severino](http://twitter.com/search?q=Severino) | N/A |
-| 42 | [Jeannot](http://twitter.com/search?q=Jeannot) | N/A |
-| 43 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
-| 44 | [Pomu](http://twitter.com/search?q=Pomu) | N/A |
-| 45 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 46 | [Blackhawk](http://twitter.com/search?q=Blackhawk) | N/A |
-| 47 | [Surrender Donald](http://twitter.com/search?q=Surrender+Donald) | N/A |
-| 48 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 49 | [Cashman](http://twitter.com/search?q=Cashman) | N/A |
-| 50 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 26 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 27 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 28 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 29 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 30 | [Pat Maroon](http://twitter.com/search?q=Pat+Maroon) | N/A |
+| 31 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 32 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 33 | [Jason Day](http://twitter.com/search?q=Jason+Day) | N/A |
+| 34 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 35 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 36 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
+| 37 | [Jamar Cain](http://twitter.com/search?q=Jamar+Cain) | N/A |
+| 38 | [David Koresh](http://twitter.com/search?q=David+Koresh) | N/A |
+| 39 | [Hedman](http://twitter.com/search?q=Hedman) | N/A |
+| 40 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 41 | [Thankful](http://twitter.com/search?q=Thankful) | N/A |
+| 42 | [Jaune](http://twitter.com/search?q=Jaune) | N/A |
+| 43 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 44 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 45 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
+| 46 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 47 | [Margot Robbie](http://twitter.com/search?q=Margot+Robbie) | N/A |
+| 48 | [Meryl](http://twitter.com/search?q=Meryl) | Meryl is a female given name of French origin, derived from the name Mary. It is a combination of Mary and the suffix -el, meaning "beloved". |
+| 49 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 50 | [Tre Morgan](http://twitter.com/search?q=Tre+Morgan) | N/A |
 
 
 
