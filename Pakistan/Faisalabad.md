@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-03-25 13:18:24 UTC`
+📆 Last Updated: `2023-03-25 14:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 9 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 11 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 12 | [Babar and Rizwan](http://twitter.com/search?q=Babar+and+Rizwan) | N/A |
+| 12 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
 | 13 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 14 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
+| 14 | [Babar and Rizwan](http://twitter.com/search?q=Babar+and+Rizwan) | N/A |
 | 15 | [faheem](http://twitter.com/search?q=faheem) | N/A |
 | 16 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
 | 17 | [Wicket](http://twitter.com/search?q=Wicket) | N/A |
-| 18 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 18 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
 | 19 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
 | 20 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
 | 21 | [chief justice umar ata bandial](http://twitter.com/search?q=chief+justice+umar+ata+bandial) | N/A |
-| 22 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 22 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
 | 23 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 24 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 25 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 26 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 27 | [Nabi](http://twitter.com/search?q=Nabi) | N/A |
-| 28 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 29 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 30 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 31 | [Roza](http://twitter.com/search?q=Roza) | N/A |
-| 32 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 33 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 34 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 35 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
-| 36 | [Imaan](http://twitter.com/search?q=Imaan) | N/A |
-| 37 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 38 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 39 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
-| 40 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 41 | [Imran Riaz](http://twitter.com/search?q=Imran+Riaz) | N/A |
-| 42 | [Fascism](http://twitter.com/search?q=Fascism) | N/A |
-| 43 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 44 | [Success](http://twitter.com/search?q=Success) | N/A |
-| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 46 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 47 | [Nawaz Shareef](http://twitter.com/search?q=Nawaz+Shareef) | N/A |
-| 48 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 49 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 50 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 25 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 26 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 27 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 28 | [Nabi](http://twitter.com/search?q=Nabi) | N/A |
+| 29 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 30 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 31 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 32 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 33 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 34 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 35 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 36 | [Dirty Harry](http://twitter.com/search?q=Dirty+Harry) | N/A |
+| 37 | [Books](http://twitter.com/search?q=Books) | N/A |
+| 38 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 39 | [Nawaz shareef](http://twitter.com/search?q=Nawaz+shareef) | N/A |
+| 40 | [Balochistan](http://twitter.com/search?q=Balochistan) | N/A |
+| 41 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 42 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 43 | [Yayy](http://twitter.com/search?q=Yayy) | N/A |
+| 44 | [Republic](http://twitter.com/search?q=Republic) | N/A |
+| 45 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 47 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 48 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 49 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 50 | [Depends](http://twitter.com/search?q=Depends) | N/A |
 
 
 

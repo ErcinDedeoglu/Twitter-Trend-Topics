@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-25 13:18:06 UTC`
+📆 Last Updated: `2023-03-25 14:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
-| 2 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 3 | [#JKT48School2023](http://twitter.com/search?q=%23JKT48School2023) | N/A |
-| 4 | [Chef Arnold](http://twitter.com/search?q=Chef+Arnold) | N/A |
-| 5 | [#BerkahGerobakPerindo](http://twitter.com/search?q=%23BerkahGerobakPerindo) | N/A |
-| 6 | [#BeRiTenangBiarMenang](http://twitter.com/search?q=%23BeRiTenangBiarMenang) | N/A |
-| 7 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 8 | [Coki](http://twitter.com/search?q=Coki) | N/A |
-| 9 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 10 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
-| 11 | [RAMADAN BERSAMA MANDIRI](http://twitter.com/search?q=RAMADAN+BERSAMA+MANDIRI) | N/A |
+| 1 | [#JKT48School2023](http://twitter.com/search?q=%23JKT48School2023) | N/A |
+| 2 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 3 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
+| 4 | [#ExcellencexMarkFord](http://twitter.com/search?q=%23ExcellencexMarkFord) | N/A |
+| 5 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 6 | [Chef Arnold](http://twitter.com/search?q=Chef+Arnold) | N/A |
+| 7 | [Lilipaly](http://twitter.com/search?q=Lilipaly) | N/A |
+| 8 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 9 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 10 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 11 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
 | 12 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 13 | [Tall](http://twitter.com/search?q=Tall) | N/A |
-| 14 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 15 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 16 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
-| 17 | [PUTUSIN](http://twitter.com/search?q=PUTUSIN) | N/A |
-| 18 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 19 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 20 | [Lpdp](http://twitter.com/search?q=Lpdp) | N/A |
-| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 22 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
-| 23 | [Selamat Berbuka Puasa](http://twitter.com/search?q=Selamat+Berbuka+Puasa) | N/A |
-| 24 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
-| 25 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
-| 26 | [Pak Ganjar](http://twitter.com/search?q=Pak+Ganjar) | N/A |
-| 27 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 28 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 29 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 30 | [Risih](http://twitter.com/search?q=Risih) | N/A |
-| 31 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
-| 32 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 33 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 34 | [#Koboversary](http://twitter.com/search?q=%23Koboversary) | N/A |
-| 35 | [#BiblexVichyM89](http://twitter.com/search?q=%23BiblexVichyM89) | N/A |
-| 36 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
-| 37 | [#LengkapiRamadan](http://twitter.com/search?q=%23LengkapiRamadan) | N/A |
-| 38 | [#TXT_ASM_TOUR_in_SEOUL_Day1](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day1) | N/A |
-| 39 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
-| 40 | [#ACT_SWEET_MIRAGE](http://twitter.com/search?q=%23ACT_SWEET_MIRAGE) | N/A |
-| 41 | [#TebakanMandiri](http://twitter.com/search?q=%23TebakanMandiri) | N/A |
-| 42 | [#BrightLovesBonchon](http://twitter.com/search?q=%23BrightLovesBonchon) | N/A |
-| 43 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 44 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 45 | [#WangYibo_WeiboNight2022](http://twitter.com/search?q=%23WangYibo_WeiboNight2022) | N/A |
-| 46 | [#KAI2ndWin](http://twitter.com/search?q=%23KAI2ndWin) | N/A |
-| 47 | [#Dilireba](http://twitter.com/search?q=%23Dilireba) | N/A |
-| 48 | [#Rover2ndWin](http://twitter.com/search?q=%23Rover2ndWin) | N/A |
+| 13 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 14 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 15 | [RAMADAN BERSAMA MANDIRI](http://twitter.com/search?q=RAMADAN+BERSAMA+MANDIRI) | N/A |
+| 16 | [PriFad](http://twitter.com/search?q=PriFad) | N/A |
+| 17 | [KANGEN BANGET](http://twitter.com/search?q=KANGEN+BANGET) | N/A |
+| 18 | [Coki](http://twitter.com/search?q=Coki) | N/A |
+| 19 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 20 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 21 | [Tall](http://twitter.com/search?q=Tall) | N/A |
+| 22 | [Lyodra](http://twitter.com/search?q=Lyodra) | N/A |
+| 23 | [ICE CREAM](http://twitter.com/search?q=ICE+CREAM) | N/A |
+| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 25 | [PUTUSIN](http://twitter.com/search?q=PUTUSIN) | N/A |
+| 26 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
+| 27 | [Pekanbaru](http://twitter.com/search?q=Pekanbaru) | N/A |
+| 28 | [Selamat Berbuka Puasa](http://twitter.com/search?q=Selamat+Berbuka+Puasa) | N/A |
+| 29 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
+| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 31 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
+| 32 | [Berkah Ramadhan](http://twitter.com/search?q=Berkah+Ramadhan) | N/A |
+| 33 | [Pak Ganjar](http://twitter.com/search?q=Pak+Ganjar) | N/A |
+| 34 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 35 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 36 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 37 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 38 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
+| 39 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 40 | [#BiblexVichyM89](http://twitter.com/search?q=%23BiblexVichyM89) | N/A |
+| 41 | [#BeRiTenangBiarMenang](http://twitter.com/search?q=%23BeRiTenangBiarMenang) | N/A |
+| 42 | [#Koboversary](http://twitter.com/search?q=%23Koboversary) | N/A |
+| 43 | [#BiroJomblo](http://twitter.com/search?q=%23BiroJomblo) | N/A |
+| 44 | [#BerkahGerobakPerindo](http://twitter.com/search?q=%23BerkahGerobakPerindo) | N/A |
+| 45 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
+| 46 | [#Dilireba](http://twitter.com/search?q=%23Dilireba) | N/A |
+| 47 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
+| 48 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
 
 
 

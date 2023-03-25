@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-25 13:18:04 UTC`
+📆 Last Updated: `2023-03-25 14:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Sweden](</Sweden>)
 | 1 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
 | 2 | [Janne](http://twitter.com/search?q=Janne) | N/A |
 | 3 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
-| 4 | [Moa Ilar](http://twitter.com/search?q=Moa+Ilar) | N/A |
-| 5 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
-| 6 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
-| 7 | [#SWEBEL](http://twitter.com/search?q=%23SWEBEL) | N/A |
+| 4 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 5 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
+| 6 | [#SWEBEL](http://twitter.com/search?q=%23SWEBEL) | N/A |
+| 7 | [moa ilar](http://twitter.com/search?q=moa+ilar) | N/A |
 | 8 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
-| 9 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 10 | [Öppna](http://twitter.com/search?q=%c3%96ppna) | N/A |
-| 11 | [claesson](http://twitter.com/search?q=claesson) | N/A |
-| 12 | [forsberg](http://twitter.com/search?q=forsberg) | N/A |
-| 13 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 14 | [Augustinsson](http://twitter.com/search?q=Augustinsson) | N/A |
-| 15 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 16 | [Kristoffer Olsson](http://twitter.com/search?q=Kristoffer+Olsson) | N/A |
+| 9 | [Öppna](http://twitter.com/search?q=%c3%96ppna) | N/A |
+| 10 | [claesson](http://twitter.com/search?q=claesson) | N/A |
+| 11 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 12 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 13 | [Forsberg](http://twitter.com/search?q=Forsberg) | N/A |
+| 14 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 15 | [Augustinsson](http://twitter.com/search?q=Augustinsson) | N/A |
+| 16 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 18 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
-| 19 | [Svenska](http://twitter.com/search?q=Svenska) | N/A |
-| 20 | [Västervik](http://twitter.com/search?q=V%c3%a4stervik) | N/A |
-| 21 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 22 | [Svanberg](http://twitter.com/search?q=Svanberg) | N/A |
+| 18 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 19 | [Västervik](http://twitter.com/search?q=V%c3%a4stervik) | N/A |
+| 20 | [svanberg](http://twitter.com/search?q=svanberg) | N/A |
+| 21 | [Kristoffer Olsson](http://twitter.com/search?q=Kristoffer+Olsson) | N/A |
+| 22 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
 | 23 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 24 | [Kulusevski](http://twitter.com/search?q=Kulusevski) | N/A |
-| 25 | [Azerbajdzjan](http://twitter.com/search?q=Azerbajdzjan) | N/A |
-| 26 | [Lindelöf](http://twitter.com/search?q=Lindel%c3%b6f) | N/A |
-| 27 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 28 | [Cajuste](http://twitter.com/search?q=Cajuste) | N/A |
-| 29 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 30 | [SOCIALDEMOKRATINS LÖGNER](http://twitter.com/search?q=SOCIALDEMOKRATINS+L%c3%96GNER) | N/A |
-| 31 | [Honka](http://twitter.com/search?q=Honka) | N/A |
-| 32 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
-| 33 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
+| 25 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
+| 26 | [SOCIALDEMOKRATINS LÖGNER](http://twitter.com/search?q=SOCIALDEMOKRATINS+L%c3%96GNER) | N/A |
+| 27 | [Lindelöf](http://twitter.com/search?q=Lindel%c3%b6f) | N/A |
+| 28 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 29 | [cajuste](http://twitter.com/search?q=cajuste) | N/A |
+| 30 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 31 | [Svenska](http://twitter.com/search?q=Svenska) | N/A |
+| 32 | [Azerbajdzjan](http://twitter.com/search?q=Azerbajdzjan) | N/A |
+| 33 | [Honka](http://twitter.com/search?q=Honka) | N/A |
 | 34 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
 | 35 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
-| 36 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 37 | [Kjell Jansson](http://twitter.com/search?q=Kjell+Jansson) | N/A |
+| 36 | [Solvalla](http://twitter.com/search?q=Solvalla) | N/A |
+| 37 | [frankrike](http://twitter.com/search?q=frankrike) | N/A |
 | 38 | [Sara Skyttedal](http://twitter.com/search?q=Sara+Skyttedal) | N/A |
-| 39 | [Ekdal](http://twitter.com/search?q=Ekdal) | N/A |
-| 40 | [Karl-Erik Nilsson](http://twitter.com/search?q=Karl-Erik+Nilsson) | N/A |
-| 41 | [isak](http://twitter.com/search?q=isak) | N/A |
-| 42 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 43 | [#emkval](http://twitter.com/search?q=%23emkval) | N/A |
-| 44 | [Solvalla](http://twitter.com/search?q=Solvalla) | N/A |
-| 45 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 46 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 47 | [#twittboll](http://twitter.com/search?q=%23twittboll) | N/A |
-| 48 | [Craft](http://twitter.com/search?q=Craft) | N/A |
-| 49 | [söndag](http://twitter.com/search?q=s%c3%b6ndag) | N/A |
+| 39 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 40 | [Ekdal](http://twitter.com/search?q=Ekdal) | N/A |
+| 41 | [Karl-Erik Nilsson](http://twitter.com/search?q=Karl-Erik+Nilsson) | N/A |
+| 42 | [kjell jansson](http://twitter.com/search?q=kjell+jansson) | N/A |
+| 43 | [#twittboll](http://twitter.com/search?q=%23twittboll) | N/A |
+| 44 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 45 | [CRAFT](http://twitter.com/search?q=CRAFT) | N/A |
+| 46 | [Vettiga](http://twitter.com/search?q=Vettiga) | N/A |
+| 47 | [söndag](http://twitter.com/search?q=s%c3%b6ndag) | N/A |
+| 48 | [tack lennart](http://twitter.com/search?q=tack+lennart) | N/A |
+| 49 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
 
 
 

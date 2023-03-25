@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Japan
 
-📆 Last Updated: `2023-03-25 13:18:45 UTC`
+📆 Last Updated: `2023-03-25 14:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Japan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [宇野くん](http://twitter.com/search?q=%e5%ae%87%e9%87%8e%e3%81%8f%e3%82%93) | 宇野くん is a Japanese nickname for someone whose given name is Ueno. It is a term of endearment, similar to calling someone "Ueno-kun" in English. |
-| 2 | [ブルーム](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%a0) | N/A |
-| 3 | [#キングオブコントの会](http://twitter.com/search?q=%23%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%96%e3%82%b3%e3%83%b3%e3%83%88%e3%81%ae%e4%bc%9a) | N/A |
-| 4 | [ハッピーフライト](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%95%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
-| 5 | [ジュンファン](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
-| 6 | [#SHOWチャンネル](http://twitter.com/search?q=%23SHOW%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | #SHOWチャンネル is a Japanese hashtag used to promote events, shows, and performances. It is often used on social media platforms such as Twitter and Instagram. In English, it translates to "#Show Channel". |
-| 7 | [友野くん](http://twitter.com/search?q=%e5%8f%8b%e9%87%8e%e3%81%8f%e3%82%93) | 友野くん is a Japanese nickname for boys. It is derived from the words "tomoni" (meaning "together") and "no" (meaning "field"). The literal translation of 友野くん is "together in the field". |
-| 8 | [#アモアスマリカ杯](http://twitter.com/search?q=%23%e3%82%a2%e3%83%a2%e3%82%a2%e3%82%b9%e3%83%9e%e3%83%aa%e3%82%ab%e6%9d%af) | N/A |
-| 9 | [#モンスト](http://twitter.com/search?q=%23%e3%83%a2%e3%83%b3%e3%82%b9%e3%83%88) | #モンスト is a hashtag used on social media platforms such as Twitter and Instagram to refer to the mobile game Monster Strike. The English translation of the hashtag is "Monster Strike". |
-| 10 | [キーガン](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%82%ac%e3%83%b3) | N/A |
-| 11 | [昌磨くん](http://twitter.com/search?q=%e6%98%8c%e7%a3%a8%e3%81%8f%e3%82%93) | 昌磨くん is a character from the Japanese manga series, "Chi's Sweet Home". He is a small white kitten who was adopted by the Yamada family. His name literally translates to "lucky stone" and he is known for his mischievous and playful personality. |
-| 12 | [マリニン](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8b%e3%83%b3) | マリニン is a type of Japanese candy made from maltose syrup and starch. It is usually shaped into small balls or cubes and has a sweet, chewy texture. The name comes from the Japanese words "mari" (ball) and "nin" (sticky). In English, it can be translated as "sticky ball candy". |
-| 13 | [#アイプラ生放送](http://twitter.com/search?q=%23%e3%82%a2%e3%82%a4%e3%83%97%e3%83%a9%e7%94%9f%e6%94%be%e9%80%81) | #アイプラ生放送 is a hashtag used on Twitter in Japan to refer to live broadcasts of the video game Splatoon 2. In English, it translates to "Splatoon 2 Live Broadcast". |
-| 14 | [ユリース](http://twitter.com/search?q=%e3%83%a6%e3%83%aa%e3%83%bc%e3%82%b9) | N/A |
-| 15 | [イフリート](http://twitter.com/search?q=%e3%82%a4%e3%83%95%e3%83%aa%e3%83%bc%e3%83%88) | N/A |
-| 16 | [しょーま](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%83%bc%e3%81%be) | しょーま is an informal way of saying しょうまつ, which means "good morning" in Japanese. |
-| 17 | [林鼓子さん](http://twitter.com/search?q=%e6%9e%97%e9%bc%93%e5%ad%90%e3%81%95%e3%82%93) | N/A |
-| 18 | [バスラットレオン](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%a9%e3%83%83%e3%83%88%e3%83%ac%e3%82%aa%e3%83%b3) | バスラットレオン is a type of Japanese traditional folk dance. It is performed by two people, one playing the role of a lion and the other playing the role of a bushi (samurai). The lion dances around the bushi, who tries to catch it with a fan. The dance is usually accompanied by singing and chanting. In English, it is known as the Lion Bus Dance. |
-| 19 | [阿佐ヶ谷](http://twitter.com/search?q=%e9%98%bf%e4%bd%90%e3%83%b6%e8%b0%b7) | N/A |
-| 20 | [ジェイソン](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%a4%e3%82%bd%e3%83%b3) | ジェイソン is a Japanese transliteration of the English name "Jason". It is a masculine given name derived from the Greek name Ιασων (Iason), meaning "healer". |
-| 21 | [エイモズ](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%a2%e3%82%ba) | N/A |
-| 22 | [ゴドルフィンマイル](http://twitter.com/search?q=%e3%82%b4%e3%83%89%e3%83%ab%e3%83%95%e3%82%a3%e3%83%b3%e3%83%9e%e3%82%a4%e3%83%ab) | N/A |
-| 23 | [Zeta](http://twitter.com/search?q=Zeta) | N/A |
-| 24 | [リムルゲー](http://twitter.com/search?q=%e3%83%aa%e3%83%a0%e3%83%ab%e3%82%b2%e3%83%bc) | N/A |
-| 25 | [アイソレート](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%bd%e3%83%ac%e3%83%bc%e3%83%88) | N/A |
-| 26 | [スキル無し](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%83%ab%e7%84%a1%e3%81%97) | N/A |
-| 27 | [ウインカーネリアン](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%8d%e3%83%aa%e3%82%a2%e3%83%b3) | ウインカーネリアン (Winkarian) is a type of Japanese folk dance that originated in the Edo period. It is characterized by its lively and cheerful movements, and is often performed at festivals and other celebrations. The name comes from the fact that the dancers often wink while performing the dance. In English, it can be translated as "Winking Nellie". |
-| 28 | [特殊演出](http://twitter.com/search?q=%e7%89%b9%e6%ae%8a%e6%bc%94%e5%87%ba) | 特殊演出 (tèshū yǎnchū) is a Chinese phrase that translates to "special performance" in English. It typically refers to a unique or extraordinary performance, such as a one-time show or event. |
-| 29 | [宇野選手](http://twitter.com/search?q=%e5%ae%87%e9%87%8e%e9%81%b8%e6%89%8b) | N/A |
-| 30 | [合成燃料](http://twitter.com/search?q=%e5%90%88%e6%88%90%e7%87%83%e6%96%99) | N/A |
-| 31 | [エンジン車販売容認](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e8%bb%8a%e8%b2%a9%e5%a3%b2%e5%ae%b9%e8%aa%8d) | N/A |
-| 32 | [艦これアニメ](http://twitter.com/search?q=%e8%89%a6%e3%81%93%e3%82%8c%e3%82%a2%e3%83%8b%e3%83%a1) | N/A |
-| 33 | [寝起きドッキリ](http://twitter.com/search?q=%e5%af%9d%e8%b5%b7%e3%81%8d%e3%83%89%e3%83%83%e3%82%ad%e3%83%aa) | N/A |
-| 34 | [Hellevator](http://twitter.com/search?q=Hellevator) | N/A |
-| 35 | [ドバイワールドカップ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 36 | [最終グループ](http://twitter.com/search?q=%e6%9c%80%e7%b5%82%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97) | N/A |
-| 37 | [ヒロアカ7期](http://twitter.com/search?q=%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab7%e6%9c%9f) | N/A |
-| 38 | [ヒプアニ2期](http://twitter.com/search?q=%e3%83%92%e3%83%97%e3%82%a2%e3%83%8b2%e6%9c%9f) | N/A |
-| 39 | [シズさん](http://twitter.com/search?q=%e3%82%b7%e3%82%ba%e3%81%95%e3%82%93) | N/A |
-| 40 | [Nissyと握手](http://twitter.com/search?q=Nissy%e3%81%a8%e6%8f%a1%e6%89%8b) | N/A |
-| 41 | [AI絵師](http://twitter.com/search?q=AI%e7%b5%b5%e5%b8%ab) | AI絵師 (AI e-shi) is a Japanese term for an artist who uses artificial intelligence to create art. AI e-shi use algorithms and software to generate images, often in the form of digital paintings or drawings. The term can also refer to an artist who uses AI-generated images as part of their creative process. In English, AI e-shi translates to "AI Artist". |
-| 42 | [ゴーストオブツシマ](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%82%b9%e3%83%88%e3%82%aa%e3%83%96%e3%83%84%e3%82%b7%e3%83%9e) | N/A |
-| 43 | [プリチャン](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
-| 44 | [マルケス](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b1%e3%82%b9) | N/A |
-| 45 | [デビューコン中](http://twitter.com/search?q=%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e3%82%b3%e3%83%b3%e4%b8%ad) | N/A |
-| 46 | [冒頭映像](http://twitter.com/search?q=%e5%86%92%e9%a0%ad%e6%98%a0%e5%83%8f) | N/A |
-| 47 | [イレバン](http://twitter.com/search?q=%e3%82%a4%e3%83%ac%e3%83%90%e3%83%b3) | N/A |
-| 48 | [優木せつ菜](http://twitter.com/search?q=%e5%84%aa%e6%9c%a8%e3%81%9b%e3%81%a4%e8%8f%9c) | N/A |
-| 49 | [初見クリア](http://twitter.com/search?q=%e5%88%9d%e8%a6%8b%e3%82%af%e3%83%aa%e3%82%a2) | 初見クリア is a Japanese phrase that literally translates to "first-time clear". It is used to describe the completion of a game or challenge on the first try, without any prior knowledge or experience. |
-| 50 | [せつ菜ちゃん](http://twitter.com/search?q=%e3%81%9b%e3%81%a4%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 1 | [デルマソトガケ](http://twitter.com/search?q=%e3%83%87%e3%83%ab%e3%83%9e%e3%82%bd%e3%83%88%e3%82%ac%e3%82%b1) | N/A |
+| 2 | [ドゥラエレーデ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%82%a8%e3%83%ac%e3%83%bc%e3%83%87) | N/A |
+| 3 | [UAEダービー](http://twitter.com/search?q=UAE%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 4 | [#お隣の天使様](http://twitter.com/search?q=%23%e3%81%8a%e9%9a%a3%e3%81%ae%e5%a4%a9%e4%bd%bf%e6%a7%98) | N/A |
+| 5 | [ハッピーフライト](http://twitter.com/search?q=%e3%83%8f%e3%83%83%e3%83%94%e3%83%bc%e3%83%95%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
+| 6 | [#健ラヂ](http://twitter.com/search?q=%23%e5%81%a5%e3%83%a9%e3%83%82) | N/A |
+| 7 | [#SHOWチャンネル](http://twitter.com/search?q=%23SHOW%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | #SHOWチャンネル is a Japanese hashtag used to promote events, shows, and performances. It is often used on social media platforms such as Twitter and Instagram. In English, it translates to "#Show Channel". |
+| 8 | [#BEFIRST_LIVESP](http://twitter.com/search?q=%23BEFIRST_LIVESP) | N/A |
+| 9 | [宇野くん](http://twitter.com/search?q=%e5%ae%87%e9%87%8e%e3%81%8f%e3%82%93) | 宇野くん is a Japanese nickname for someone whose given name is Ueno. It is a term of endearment, similar to calling someone "Ueno-kun" in English. |
+| 10 | [#宮舘とPARTYTIME](http://twitter.com/search?q=%23%e5%ae%ae%e8%88%98%e3%81%a8PARTYTIME) | N/A |
+| 11 | [ブルーム](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%a0) | N/A |
+| 12 | [ジンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%81%8f%e3%82%93) | ジンくん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name is Jin Kamiya and he is a young delinquent who often gets into trouble. He is known for his mischievous behavior and his catchphrase, "Yare yare daze". In English, this phrase roughly translates to "Oh, come on!" |
+| 13 | [デルマソトカゲ](http://twitter.com/search?q=%e3%83%87%e3%83%ab%e3%83%9e%e3%82%bd%e3%83%88%e3%82%ab%e3%82%b2) | N/A |
+| 14 | [ジュンファン](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 15 | [レモンポップ](http://twitter.com/search?q=%e3%83%ac%e3%83%a2%e3%83%b3%e3%83%9d%e3%83%83%e3%83%97) | レモンポップ is a type of Japanese candy. It is a hard candy with a lemon flavor. In English, it is known as Lemon Pop. |
+| 16 | [ケンタッキーダービー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%82%bf%e3%83%83%e3%82%ad%e3%83%bc%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 17 | [ケンタッキーの食べ放題](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%82%bf%e3%83%83%e3%82%ad%e3%83%bc%e3%81%ae%e9%a3%9f%e3%81%b9%e6%94%be%e9%a1%8c) | N/A |
+| 18 | [友野くん](http://twitter.com/search?q=%e5%8f%8b%e9%87%8e%e3%81%8f%e3%82%93) | 友野くん is a Japanese nickname for boys. It is derived from the words "tomoni" (meaning "together") and "no" (meaning "field"). The literal translation of 友野くん is "together in the field". |
+| 19 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 20 | [昌磨くん](http://twitter.com/search?q=%e6%98%8c%e7%a3%a8%e3%81%8f%e3%82%93) | 昌磨くん is a character from the Japanese manga series, "Chi's Sweet Home". He is a small white kitten who was adopted by the Yamada family. His name literally translates to "lucky stone" and he is known for his mischievous and playful personality. |
+| 21 | [マリニン](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8b%e3%83%b3) | マリニン is a type of Japanese candy made from maltose syrup and starch. It is usually shaped into small balls or cubes and has a sweet, chewy texture. The name comes from the Japanese words "mari" (ball) and "nin" (sticky). In English, it can be translated as "sticky ball candy". |
+| 22 | [キーガン](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%82%ac%e3%83%b3) | N/A |
+| 23 | [イフリート](http://twitter.com/search?q=%e3%82%a4%e3%83%95%e3%83%aa%e3%83%bc%e3%83%88) | N/A |
+| 24 | [ドバイゴールデンシャヒーン](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%b7%e3%83%a3%e3%83%92%e3%83%bc%e3%83%b3) | N/A |
+| 25 | [ドバイワールドカップ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 26 | [林鼓子さん](http://twitter.com/search?q=%e6%9e%97%e9%bc%93%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 27 | [ユリース](http://twitter.com/search?q=%e3%83%a6%e3%83%aa%e3%83%bc%e3%82%b9) | N/A |
+| 28 | [宇野昌磨](http://twitter.com/search?q=%e5%ae%87%e9%87%8e%e6%98%8c%e7%a3%a8) | N/A |
+| 29 | [合成燃料](http://twitter.com/search?q=%e5%90%88%e6%88%90%e7%87%83%e6%96%99) | N/A |
+| 30 | [トンガリ](http://twitter.com/search?q=%e3%83%88%e3%83%b3%e3%82%ac%e3%83%aa) | トンガリ is a type of Japanese dance that originated in the Edo period. It is characterized by its lively and energetic movements, and is often accompanied by traditional Japanese music. In English, it is sometimes referred to as "Tonkori Dance". |
+| 31 | [レッドルゼル](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%89%e3%83%ab%e3%82%bc%e3%83%ab) | N/A |
+| 32 | [しょーま](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%83%bc%e3%81%be) | しょーま is an informal way of saying しょうまつ, which means "good morning" in Japanese. |
+| 33 | [阿佐ヶ谷](http://twitter.com/search?q=%e9%98%bf%e4%bd%90%e3%83%b6%e8%b0%b7) | N/A |
+| 34 | [日本馬ワンツースリー](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e9%a6%ac%e3%83%af%e3%83%b3%e3%83%84%e3%83%bc%e3%82%b9%e3%83%aa%e3%83%bc) | N/A |
+| 35 | [艦これアニメ](http://twitter.com/search?q=%e8%89%a6%e3%81%93%e3%82%8c%e3%82%a2%e3%83%8b%e3%83%a1) | N/A |
+| 36 | [コンティノアール](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%86%e3%82%a3%e3%83%8e%e3%82%a2%e3%83%bc%e3%83%ab) | N/A |
+| 37 | [ペリエール](http://twitter.com/search?q=%e3%83%9a%e3%83%aa%e3%82%a8%e3%83%bc%e3%83%ab) | N/A |
+| 38 | [バスラットレオン](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%a9%e3%83%83%e3%83%88%e3%83%ac%e3%82%aa%e3%83%b3) | バスラットレオン is a type of Japanese traditional folk dance. It is performed by two people, one playing the role of a lion and the other playing the role of a bushi (samurai). The lion dances around the bushi, who tries to catch it with a fan. The dance is usually accompanied by singing and chanting. In English, it is known as the Lion Bus Dance. |
+| 39 | [エイモズ](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%a2%e3%82%ba) | N/A |
+| 40 | [エンジン車販売容認](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e8%bb%8a%e8%b2%a9%e5%a3%b2%e5%ae%b9%e8%aa%8d) | N/A |
+| 41 | [ジェイソン](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%a4%e3%82%bd%e3%83%b3) | ジェイソン is a Japanese transliteration of the English name "Jason". It is a masculine given name derived from the Greek name Ιασων (Iason), meaning "healer". |
+| 42 | [オールスター感謝祭](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%bc%e6%84%9f%e8%ac%9d%e7%a5%ad) | N/A |
+| 43 | [リムルゲー](http://twitter.com/search?q=%e3%83%aa%e3%83%a0%e3%83%ab%e3%82%b2%e3%83%bc) | N/A |
+| 44 | [ゴドルフィンマイル](http://twitter.com/search?q=%e3%82%b4%e3%83%89%e3%83%ab%e3%83%95%e3%82%a3%e3%83%b3%e3%83%9e%e3%82%a4%e3%83%ab) | N/A |
+| 45 | [スキル無し](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%83%ab%e7%84%a1%e3%81%97) | N/A |
+| 46 | [寝起きドッキリ](http://twitter.com/search?q=%e5%af%9d%e8%b5%b7%e3%81%8d%e3%83%89%e3%83%83%e3%82%ad%e3%83%aa) | N/A |
+| 47 | [ゴライコウ](http://twitter.com/search?q=%e3%82%b4%e3%83%a9%e3%82%a4%e3%82%b3%e3%82%a6) | N/A |
+| 48 | [マインドユアビスケッツ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%b3%e3%83%89%e3%83%a6%e3%82%a2%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%84) | N/A |
+| 49 | [アイソレート](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%bd%e3%83%ac%e3%83%bc%e3%83%88) | N/A |
+| 50 | [ガナイト](http://twitter.com/search?q=%e3%82%ac%e3%83%8a%e3%82%a4%e3%83%88) | N/A |
 
 
 

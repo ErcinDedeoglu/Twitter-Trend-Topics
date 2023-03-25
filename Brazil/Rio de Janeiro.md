@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-25 13:17:53 UTC`
+📆 Last Updated: `2023-03-25 14:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 2 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
-| 3 | [Mete](http://twitter.com/search?q=Mete) | N/A |
-| 4 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 5 | [Clube Atlético Mineiro](http://twitter.com/search?q=Clube+Atl%c3%a9tico+Mineiro) | N/A |
-| 6 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
-| 7 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 8 | [#FEnoBandSports](http://twitter.com/search?q=%23FEnoBandSports) | N/A |
-| 9 | [#AbidjanHealingService](http://twitter.com/search?q=%23AbidjanHealingService) | N/A |
-| 10 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 11 | [Parabéns Galo](http://twitter.com/search?q=Parab%c3%a9ns+Galo) | N/A |
-| 12 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 13 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 14 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 15 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
-| 16 | [#SaoPauloEPrix](http://twitter.com/search?q=%23SaoPauloEPrix) | N/A |
-| 17 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 18 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
-| 19 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 20 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
-| 21 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 22 | [Re:Zero](http://twitter.com/search?q=Re%3aZero) | N/A |
-| 23 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
-| 24 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 25 | [Paulo Pimenta](http://twitter.com/search?q=Paulo+Pimenta) | N/A |
-| 26 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 27 | [Amanda Alice](http://twitter.com/search?q=Amanda+Alice) | N/A |
-| 28 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 29 | [Pneumonia](http://twitter.com/search?q=Pneumonia) | N/A |
-| 30 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 31 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
-| 32 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 33 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 34 | [Vera Magalhães](http://twitter.com/search?q=Vera+Magalh%c3%a3es) | N/A |
-| 35 | [Presidenta](http://twitter.com/search?q=Presidenta) | Presidenta is a Spanish word meaning "female president". It is used to refer to a woman who holds the highest office in a country or organization. |
-| 36 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 37 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 38 | [Alckmin](http://twitter.com/search?q=Alckmin) | Alckmin is a surname of Portuguese origin. It is derived from the Latin word alciminium, which means "little rock". In English, the name Alckmin can be translated to mean "little rock". |
-| 39 | [#TXT_ASM_TOUR_in_SEOUL_Day1](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day1) | N/A |
-| 40 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 41 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
-| 42 | [#FormulaE](http://twitter.com/search?q=%23FormulaE) | N/A |
-| 43 | [#LulaNaChina](http://twitter.com/search?q=%23LulaNaChina) | N/A |
-| 44 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
-| 45 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
+| 2 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 3 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
+| 4 | [Mete](http://twitter.com/search?q=Mete) | N/A |
+| 5 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 6 | [SEOKJIN](http://twitter.com/search?q=SEOKJIN) | N/A |
+| 7 | [Arlequina](http://twitter.com/search?q=Arlequina) | N/A |
+| 8 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 9 | [#EDeCasa](http://twitter.com/search?q=%23EDeCasa) | N/A |
+| 10 | [Clube Atlético Mineiro](http://twitter.com/search?q=Clube+Atl%c3%a9tico+Mineiro) | N/A |
+| 11 | [#Joker2](http://twitter.com/search?q=%23Joker2) | N/A |
+| 12 | [#FEnoBandSports](http://twitter.com/search?q=%23FEnoBandSports) | N/A |
+| 13 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 14 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 15 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 16 | [Yibo](http://twitter.com/search?q=Yibo) | N/A |
+| 17 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 18 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 19 | [MEUS MENINOS](http://twitter.com/search?q=MEUS+MENINOS) | N/A |
+| 20 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 21 | [Horimiya](http://twitter.com/search?q=Horimiya) | N/A |
+| 22 | [Nelson Piquet](http://twitter.com/search?q=Nelson+Piquet) | N/A |
+| 23 | [Agostinho](http://twitter.com/search?q=Agostinho) | N/A |
+| 24 | [Coringa 2](http://twitter.com/search?q=Coringa+2) | N/A |
+| 25 | [Parabéns Galo](http://twitter.com/search?q=Parab%c3%a9ns+Galo) | N/A |
+| 26 | [Rodrigo Hilbert](http://twitter.com/search?q=Rodrigo+Hilbert) | N/A |
+| 27 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 28 | [joe alwyn](http://twitter.com/search?q=joe+alwyn) | Joe Alwyn is the stage name of an English actor and singer. He is best known for his roles in films such as The Favourite, Mary Queen of Scots, and Billy Lynn's Long Halftime Walk. The name Joe Alwyn is derived from combining his first name, Joe, with his middle name, Alwyn. |
+| 29 | [Fórmula E](http://twitter.com/search?q=F%c3%b3rmula+E) | N/A |
+| 30 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 31 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 32 | [Xiao Zhan](http://twitter.com/search?q=Xiao+Zhan) | N/A |
+| 33 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 34 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
+| 35 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 36 | [Galão](http://twitter.com/search?q=Gal%c3%a3o) | N/A |
+| 37 | [Snow On The Beach](http://twitter.com/search?q=Snow+On+The+Beach) | N/A |
+| 38 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 39 | [Re:Zero](http://twitter.com/search?q=Re%3aZero) | N/A |
+| 40 | [PT e PCC](http://twitter.com/search?q=PT+e+PCC) | N/A |
+| 41 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
+| 42 | [Paulo Pimenta](http://twitter.com/search?q=Paulo+Pimenta) | N/A |
+| 43 | [Atleticano](http://twitter.com/search?q=Atleticano) | N/A |
+| 44 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 45 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 46 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
+| 47 | [Amanda Alice](http://twitter.com/search?q=Amanda+Alice) | N/A |
+| 48 | [Montanha](http://twitter.com/search?q=Montanha) | N/A |
+| 49 | [Vilã](http://twitter.com/search?q=Vil%c3%a3) | N/A |
+| 50 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-25 13:18:33 UTC`
+📆 Last Updated: `2023-03-25 14:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 2 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 3 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 4 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 6 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 7 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 8 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 9 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 11 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 12 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 13 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 14 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 15 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
-| 16 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 18 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 19 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 20 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
-| 21 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 22 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 23 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 24 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 25 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 26 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 27 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 28 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
-| 29 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 30 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 31 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 32 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
-| 33 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 34 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
-| 35 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
-| 36 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 37 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 38 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 39 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 40 | [GAMERA](http://twitter.com/search?q=GAMERA) | N/A |
-| 41 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 42 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 43 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 44 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 45 | [Koresh](http://twitter.com/search?q=Koresh) | N/A |
+| 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 2 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 3 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 5 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 6 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 7 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 8 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 9 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 10 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 11 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
+| 12 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 13 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 14 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 15 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
+| 16 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 17 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 18 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 19 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 20 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 21 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 22 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 23 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
+| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 25 | [Kentucky Derby](http://twitter.com/search?q=Kentucky+Derby) | N/A |
+| 26 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
+| 27 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 28 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 29 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 30 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 31 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 32 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
+| 33 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 34 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
+| 35 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 36 | [IT'S GAMEDAY](http://twitter.com/search?q=IT%27S+GAMEDAY) | N/A |
+| 37 | [Druski](http://twitter.com/search?q=Druski) | N/A |
+| 38 | [GAMERA](http://twitter.com/search?q=GAMERA) | N/A |
+| 39 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
+| 40 | [Koresh](http://twitter.com/search?q=Koresh) | N/A |
+| 41 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 42 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
+| 43 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 44 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 45 | [Limited](http://twitter.com/search?q=Limited) | N/A |
 | 46 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 47 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 48 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
-| 49 | [Limited](http://twitter.com/search?q=Limited) | N/A |
+| 47 | [Jeffries](http://twitter.com/search?q=Jeffries) | Jeffries is a surname of English origin. It is derived from the given name Geoffrey, which is derived from the Old French name Jeoffroi, meaning "peaceful gift". |
+| 48 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 49 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 50 | [Smollett](http://twitter.com/search?q=Smollett) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-03-25 13:18:17 UTC`
+📆 Last Updated: `2023-03-25 14:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,47 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BetNowOnMSport](http://twitter.com/search?q=%23BetNowOnMSport) | N/A |
-| 2 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 3 | [#FCMB1K](http://twitter.com/search?q=%23FCMB1K) | N/A |
-| 4 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 5 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 6 | [#AristonTakesTheField](http://twitter.com/search?q=%23AristonTakesTheField) | N/A |
-| 7 | [London](http://twitter.com/search?q=London) | N/A |
-| 8 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 9 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
-| 10 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
-| 11 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 12 | [#March25thWorldOlanikesDay](http://twitter.com/search?q=%23March25thWorldOlanikesDay) | N/A |
-| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 14 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 15 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 16 | [#NGAGNB](http://twitter.com/search?q=%23NGAGNB) | N/A |
-| 17 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
-| 18 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 19 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 20 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 21 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
-| 22 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
-| 23 | [Chude](http://twitter.com/search?q=Chude) | N/A |
-| 24 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 25 | [the cjn](http://twitter.com/search?q=the+cjn) | N/A |
-| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 27 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 29 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
-| 30 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
-| 31 | [ajebo you go know](http://twitter.com/search?q=ajebo+you+go+know) | N/A |
-| 32 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 33 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 34 | [Rohr](http://twitter.com/search?q=Rohr) | N/A |
-| 35 | [the beenavy experience](http://twitter.com/search?q=the+beenavy+experience) | N/A |
-| 36 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 37 | [Ndidi](http://twitter.com/search?q=Ndidi) | N/A |
-| 38 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 39 | [EEDC](http://twitter.com/search?q=EEDC) | N/A |
-| 40 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 41 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 42 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
-| 43 | [Iftar mubarak](http://twitter.com/search?q=Iftar+mubarak) | N/A |
-| 44 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 45 | [Lookman](http://twitter.com/search?q=Lookman) | Lookman is a slang term used to describe someone who is always looking for attention or trying to be noticed. It can also be used to describe someone who is overly eager or desperate for something. |
-| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 47 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 48 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
-| 49 | [PHYNA X RIXARI SALES](http://twitter.com/search?q=PHYNA+X+RIXARI+SALES) | N/A |
+| 2 | [#AristonTakesTheField](http://twitter.com/search?q=%23AristonTakesTheField) | N/A |
+| 3 | [#MunchItTaskDay](http://twitter.com/search?q=%23MunchItTaskDay) | N/A |
+| 4 | [#FCMB1K](http://twitter.com/search?q=%23FCMB1K) | N/A |
+| 5 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 6 | [#SAFRamadanWithACause](http://twitter.com/search?q=%23SAFRamadanWithACause) | N/A |
+| 7 | [Sunday Igboho](http://twitter.com/search?q=Sunday+Igboho) | N/A |
+| 8 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
+| 9 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 10 | [Igbo Muslim](http://twitter.com/search?q=Igbo+Muslim) | N/A |
+| 11 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
+| 12 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
+| 13 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 14 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
+| 15 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
+| 16 | [PHYNA X RIXARI SALES](http://twitter.com/search?q=PHYNA+X+RIXARI+SALES) | N/A |
+| 17 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
+| 18 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 19 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 20 | [House 2](http://twitter.com/search?q=House+2) | N/A |
+| 21 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
+| 22 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
+| 23 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
+| 24 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 25 | [Sam Amadi](http://twitter.com/search?q=Sam+Amadi) | N/A |
+| 26 | [Dipo](http://twitter.com/search?q=Dipo) | N/A |
+| 27 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 28 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 29 | [EEDC](http://twitter.com/search?q=EEDC) | N/A |
+| 30 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
+| 31 | [Fireboy](http://twitter.com/search?q=Fireboy) | N/A |
+| 32 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 33 | [#wetanddrylagos](http://twitter.com/search?q=%23wetanddrylagos) | N/A |
+| 34 | [#capitec](http://twitter.com/search?q=%23capitec) | N/A |
+| 35 | [#Usepayday](http://twitter.com/search?q=%23Usepayday) | N/A |
+| 36 | [#March25thWorldOlanikesDay](http://twitter.com/search?q=%23March25thWorldOlanikesDay) | N/A |
+| 37 | [#ImpactAcademywithKumuyi](http://twitter.com/search?q=%23ImpactAcademywithKumuyi) | N/A |
+| 38 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
+| 39 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 40 | [#HappyBirthdayOla](http://twitter.com/search?q=%23HappyBirthdayOla) | N/A |
+| 41 | [#GCKinCameroon](http://twitter.com/search?q=%23GCKinCameroon) | N/A |
+| 42 | [#Phyna𓃰](http://twitter.com/search?q=%23Phyna%f0%93%83%b0) | N/A |
 
 
 

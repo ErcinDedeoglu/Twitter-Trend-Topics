@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-03-25 13:17:43 UTC`
+📆 Last Updated: `2023-03-25 14:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,48 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 2 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 3 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 4 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 5 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
-| 6 | [Somerset](http://twitter.com/search?q=Somerset) | N/A |
-| 7 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
-| 8 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 9 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 10 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 11 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 12 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 13 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 14 | [Eni Aluko](http://twitter.com/search?q=Eni+Aluko) | N/A |
-| 15 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
-| 16 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
-| 17 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
-| 18 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 19 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 20 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 21 | [Nelson Piquet](http://twitter.com/search?q=Nelson+Piquet) | N/A |
-| 22 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 23 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 24 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 25 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 26 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 27 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
-| 28 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 29 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
-| 30 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
-| 31 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 32 | [Dubai World Cup](http://twitter.com/search?q=Dubai+World+Cup) | N/A |
-| 33 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 34 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
-| 35 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 36 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 37 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 38 | [Violence](http://twitter.com/search?q=Violence) | N/A |
-| 39 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 40 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 41 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
-| 42 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
+| 1 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
+| 2 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 3 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 4 | [#rugbyleague](http://twitter.com/search?q=%23rugbyleague) | N/A |
+| 5 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 6 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 7 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 8 | [Somerset](http://twitter.com/search?q=Somerset) | N/A |
+| 9 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 10 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 11 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
+| 12 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 13 | [Size 9](http://twitter.com/search?q=Size+9) | N/A |
+| 14 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 15 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 16 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 17 | [Catalans](http://twitter.com/search?q=Catalans) | N/A |
+| 18 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 19 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
+| 20 | [Lewis Ferguson](http://twitter.com/search?q=Lewis+Ferguson) | N/A |
+| 21 | [Angus Gunn](http://twitter.com/search?q=Angus+Gunn) | N/A |
+| 22 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 23 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
+| 24 | [Eni Aluko](http://twitter.com/search?q=Eni+Aluko) | N/A |
+| 25 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 26 | [Llantwit Major](http://twitter.com/search?q=Llantwit+Major) | N/A |
+| 27 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 28 | [Ofcom](http://twitter.com/search?q=Ofcom) | N/A |
+| 29 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 30 | [Armstrong](http://twitter.com/search?q=Armstrong) | Armstrong is a surname of Scottish origin. It is derived from the Old English words for "strong" and "brave". The name is often associated with the Armstrong clan, a powerful family in the Scottish Borders during the Middle Ages. In modern times, it is a common surname in many countries around the world. |
+| 31 | [Nelson Piquet](http://twitter.com/search?q=Nelson+Piquet) | N/A |
+| 32 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
+| 33 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 34 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 35 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 36 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 37 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 38 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 39 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 40 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 41 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
+| 42 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
 
 
 

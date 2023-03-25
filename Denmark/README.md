@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-25 13:18:43 UTC`
+📆 Last Updated: `2023-03-25 14:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
-| 2 | [Rasmus Højlund](http://twitter.com/search?q=Rasmus+H%c3%b8jlund) | N/A |
-| 3 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
-| 4 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
-| 5 | [Barbara Bertelsen](http://twitter.com/search?q=Barbara+Bertelsen) | N/A |
-| 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 9 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
-| 10 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
-| 11 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
-| 12 | [Minksagen](http://twitter.com/search?q=Minksagen) | N/A |
-| 13 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 14 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 15 | [Skive](http://twitter.com/search?q=Skive) | N/A |
-| 16 | [#twrundk](http://twitter.com/search?q=%23twrundk) | N/A |
-| 17 | [thomas rørdam](http://twitter.com/search?q=thomas+r%c3%b8rdam) | N/A |
-| 18 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 19 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 20 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 21 | [Zanka](http://twitter.com/search?q=Zanka) | N/A |
-| 22 | [regeringen](http://twitter.com/search?q=regeringen) | N/A |
-| 23 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 24 | [Løkke](http://twitter.com/search?q=L%c3%b8kke) | N/A |
-| 25 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | N/A |
-| 26 | [Aalborg](http://twitter.com/search?q=Aalborg) | N/A |
-| 27 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
-| 28 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 29 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 30 | [Bendtner](http://twitter.com/search?q=Bendtner) | N/A |
-| 31 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 32 | [Ukraines](http://twitter.com/search?q=Ukraines) | N/A |
-| 33 | [Parken](http://twitter.com/search?q=Parken) | N/A |
-| 34 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 35 | [League](http://twitter.com/search?q=League) | N/A |
-| 36 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 37 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 38 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
-| 39 | [thomasberg](http://twitter.com/search?q=thomasberg) | N/A |
-| 40 | [klimarådets](http://twitter.com/search?q=klimar%c3%a5dets) | N/A |
-| 41 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 42 | [danskerne](http://twitter.com/search?q=danskerne) | N/A |
-| 43 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 44 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 45 | [Minkkommissionen](http://twitter.com/search?q=Minkkommissionen) | N/A |
-| 46 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 47 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 48 | [Muscovites](http://twitter.com/search?q=Muscovites) | N/A |
-| 49 | [Højesteret](http://twitter.com/search?q=H%c3%b8jesteret) | N/A |
-| 50 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 1 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
+| 2 | [#E3SaxoClassic](http://twitter.com/search?q=%23E3SaxoClassic) | N/A |
+| 3 | [#besserwisserne](http://twitter.com/search?q=%23besserwisserne) | N/A |
+| 4 | [Barbara Bertelsen](http://twitter.com/search?q=Barbara+Bertelsen) | N/A |
+| 5 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 9 | [Lars Løkke](http://twitter.com/search?q=Lars+L%c3%b8kke) | N/A |
+| 10 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 11 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 12 | [Skive](http://twitter.com/search?q=Skive) | N/A |
+| 13 | [thomas rørdam](http://twitter.com/search?q=thomas+r%c3%b8rdam) | N/A |
+| 14 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 15 | [Minksagen](http://twitter.com/search?q=Minksagen) | N/A |
+| 16 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 18 | [Zanka](http://twitter.com/search?q=Zanka) | N/A |
+| 19 | [regeringen](http://twitter.com/search?q=regeringen) | N/A |
+| 20 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | N/A |
+| 21 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 22 | [#midjourney](http://twitter.com/search?q=%23midjourney) | N/A |
+| 23 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
+| 24 | [Aalborg](http://twitter.com/search?q=Aalborg) | N/A |
+| 25 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
+| 26 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 27 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
+| 28 | [Bendtner](http://twitter.com/search?q=Bendtner) | N/A |
+| 29 | [Ukraines](http://twitter.com/search?q=Ukraines) | N/A |
+| 30 | [parken](http://twitter.com/search?q=parken) | N/A |
+| 31 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 32 | [League](http://twitter.com/search?q=League) | N/A |
+| 33 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
+| 34 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 35 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 36 | [thomasberg](http://twitter.com/search?q=thomasberg) | N/A |
+| 37 | [klimarådets](http://twitter.com/search?q=klimar%c3%a5dets) | N/A |
+| 38 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 39 | [#fl23](http://twitter.com/search?q=%23fl23) | N/A |
+| 40 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 41 | [Minkkommissionen](http://twitter.com/search?q=Minkkommissionen) | N/A |
+| 42 | [kæmpe](http://twitter.com/search?q=k%c3%a6mpe) | N/A |
+| 43 | [Danskerne](http://twitter.com/search?q=Danskerne) | N/A |
+| 44 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 45 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 46 | [Muscovites](http://twitter.com/search?q=Muscovites) | N/A |
+| 47 | [Højesteret](http://twitter.com/search?q=H%c3%b8jesteret) | N/A |
+| 48 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 49 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 50 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 
 
 

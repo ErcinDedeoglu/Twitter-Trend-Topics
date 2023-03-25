@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-25 13:17:57 UTC`
+📆 Last Updated: `2023-03-25 14:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 2 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 3 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 4 | [#SainteSoline](http://twitter.com/search?q=%23SainteSoline) | N/A |
-| 5 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
-| 6 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
-| 7 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
-| 8 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
-| 9 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
-| 10 | [Pierre Hermé](http://twitter.com/search?q=Pierre+Herm%c3%a9) | N/A |
-| 11 | [Bergé](http://twitter.com/search?q=Berg%c3%a9) | N/A |
-| 12 | [Le Brésil](http://twitter.com/search?q=Le+Br%c3%a9sil) | N/A |
-| 13 | [Shibuya](http://twitter.com/search?q=Shibuya) | N/A |
-| 14 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 15 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
-| 16 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 17 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
-| 18 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
-| 19 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
-| 20 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 21 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
+| 1 | [#SainteSoline](http://twitter.com/search?q=%23SainteSoline) | N/A |
+| 2 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
+| 3 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 4 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 5 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 6 | [#COST](http://twitter.com/search?q=%23COST) | N/A |
+| 7 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
+| 8 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
+| 9 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
+| 10 | [gign](http://twitter.com/search?q=gign) | N/A |
+| 11 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 12 | [Pirate](http://twitter.com/search?q=Pirate) | N/A |
+| 13 | [Warzone](http://twitter.com/search?q=Warzone) | N/A |
+| 14 | [Lebec](http://twitter.com/search?q=Lebec) | N/A |
+| 15 | [pierre hermé](http://twitter.com/search?q=pierre+herm%c3%a9) | N/A |
+| 16 | [Pacifique](http://twitter.com/search?q=Pacifique) | N/A |
+| 17 | [Bergé](http://twitter.com/search?q=Berg%c3%a9) | N/A |
+| 18 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 19 | [Le Brésil](http://twitter.com/search?q=Le+Br%c3%a9sil) | N/A |
+| 20 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 21 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
 | 22 | [EELV](http://twitter.com/search?q=EELV) | N/A |
-| 23 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 24 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
-| 25 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
-| 26 | [Aurore](http://twitter.com/search?q=Aurore) | N/A |
-| 27 | [#DeuxSevres](http://twitter.com/search?q=%23DeuxSevres) | N/A |
-| 28 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 29 | [#NoBassaran](http://twitter.com/search?q=%23NoBassaran) | N/A |
-| 30 | [#ZECourse](http://twitter.com/search?q=%23ZECourse) | N/A |
-| 31 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 32 | [#BravM](http://twitter.com/search?q=%23BravM) | N/A |
-| 33 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 34 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
-| 35 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
-| 36 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 37 | [#DarmaninDemission](http://twitter.com/search?q=%23DarmaninDemission) | N/A |
-| 38 | [#changementdheure](http://twitter.com/search?q=%23changementdheure) | N/A |
-| 39 | [#MacronNousPrendPourDesCons](http://twitter.com/search?q=%23MacronNousPrendPourDesCons) | N/A |
+| 23 | [Gendarmerie](http://twitter.com/search?q=Gendarmerie) | N/A |
+| 24 | [Shibuya](http://twitter.com/search?q=Shibuya) | N/A |
+| 25 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
+| 26 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
+| 27 | [Villeurbanne](http://twitter.com/search?q=Villeurbanne) | N/A |
+| 28 | [Dussopt](http://twitter.com/search?q=Dussopt) | N/A |
+| 29 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 30 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
+| 31 | [Kaido](http://twitter.com/search?q=Kaido) | N/A |
+| 32 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 33 | [Gojo](http://twitter.com/search?q=Gojo) | N/A |
+| 34 | [Aurore](http://twitter.com/search?q=Aurore) | N/A |
+| 35 | [#NoBassaran](http://twitter.com/search?q=%23NoBassaran) | N/A |
+| 36 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
+| 37 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
+| 38 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 39 | [#SoutienAuxForcesdelOrdre](http://twitter.com/search?q=%23SoutienAuxForcesdelOrdre) | N/A |
+| 40 | [#ZECourse](http://twitter.com/search?q=%23ZECourse) | N/A |
+| 41 | [#MyHeroAcademia](http://twitter.com/search?q=%23MyHeroAcademia) | N/A |
+| 42 | [#DarmaninDemission](http://twitter.com/search?q=%23DarmaninDemission) | N/A |
+| 43 | [#BravM](http://twitter.com/search?q=%23BravM) | N/A |
+| 44 | [#gendarmes](http://twitter.com/search?q=%23gendarmes) | N/A |
+| 45 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
+| 46 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 47 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 48 | [#ChangementDheure](http://twitter.com/search?q=%23ChangementDheure) | N/A |
+| 49 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-25 13:17:58 UTC`
+📆 Last Updated: `2023-03-25 14:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#nuhrimzweiten](http://twitter.com/search?q=%23nuhrimzweiten) | N/A |
 | 2 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 3 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 3 | [#fcbayern](http://twitter.com/search?q=%23fcbayern) | N/A |
 | 4 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 5 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
 | 6 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 7 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 8 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 9 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 10 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 11 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 12 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
-| 13 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
-| 14 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 15 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
-| 16 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 7 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 8 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 9 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 10 | [Garbe Transport](http://twitter.com/search?q=Garbe+Transport) | N/A |
+| 11 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 12 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 13 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 14 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 15 | [Handgranaten](http://twitter.com/search?q=Handgranaten) | N/A |
+| 16 | [Kretschmer](http://twitter.com/search?q=Kretschmer) | N/A |
 | 17 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 18 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 18 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
 | 19 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
 | 20 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 21 | [krümeltee](http://twitter.com/search?q=kr%c3%bcmeltee) | N/A |
-| 22 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
-| 23 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 24 | [Monte](http://twitter.com/search?q=Monte) | N/A |
-| 25 | [knossi](http://twitter.com/search?q=knossi) | N/A |
-| 26 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
-| 27 | [Konstellation](http://twitter.com/search?q=Konstellation) | N/A |
-| 28 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
-| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 30 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 31 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 32 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 33 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
-| 34 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
-| 35 | [Satellitenbilder](http://twitter.com/search?q=Satellitenbilder) | N/A |
-| 36 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 37 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
-| 38 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
-| 39 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 40 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 41 | [Eckhart](http://twitter.com/search?q=Eckhart) | N/A |
-| 42 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 21 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 22 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
+| 23 | [Dänemark](http://twitter.com/search?q=D%c3%a4nemark) | N/A |
+| 24 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 25 | [Krümeltee](http://twitter.com/search?q=Kr%c3%bcmeltee) | N/A |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [Entlassung](http://twitter.com/search?q=Entlassung) | N/A |
+| 28 | [Monte](http://twitter.com/search?q=Monte) | N/A |
+| 29 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 30 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 31 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
+| 32 | [Eckhart](http://twitter.com/search?q=Eckhart) | N/A |
+| 33 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 34 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 35 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 36 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 37 | [Verbote](http://twitter.com/search?q=Verbote) | N/A |
+| 38 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 39 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 40 | [Hersh](http://twitter.com/search?q=Hersh) | N/A |
+| 41 | [Kraftstoffe](http://twitter.com/search?q=Kraftstoffe) | N/A |
+| 42 | [Hainer](http://twitter.com/search?q=Hainer) | N/A |
 | 43 | [Wärmepumpen](http://twitter.com/search?q=W%c3%a4rmepumpen) | N/A |
-| 44 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 45 | [Bademeister](http://twitter.com/search?q=Bademeister) | N/A |
-| 46 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 47 | [Planwirtschaft](http://twitter.com/search?q=Planwirtschaft) | N/A |
-| 48 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 44 | [Bademeister](http://twitter.com/search?q=Bademeister) | N/A |
+| 45 | [Schiffe](http://twitter.com/search?q=Schiffe) | N/A |
+| 46 | [Saublöd](http://twitter.com/search?q=Saubl%c3%b6d) | N/A |
+| 47 | [Knossi](http://twitter.com/search?q=Knossi) | N/A |
+| 48 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 
 
 

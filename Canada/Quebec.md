@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-25 13:17:40 UTC`
+📆 Last Updated: `2023-03-25 14:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 2 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 6 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
-| 7 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 8 | [#northernlights](http://twitter.com/search?q=%23northernlights) | N/A |
-| 9 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 10 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 11 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 4 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 5 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
+| 6 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 8 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 9 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 10 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 11 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
 | 12 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 13 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 14 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 15 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 16 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 17 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 18 | [staal](http://twitter.com/search?q=staal) | N/A |
-| 19 | [cheech](http://twitter.com/search?q=cheech) | N/A |
+| 13 | [Fait](http://twitter.com/search?q=Fait) | N/A |
+| 14 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 15 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 16 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 18 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 19 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
 | 20 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 21 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 22 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
 | 23 | [London](http://twitter.com/search?q=London) | N/A |
-| 24 | [Fait](http://twitter.com/search?q=Fait) | N/A |
-| 25 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 26 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 27 | [john garrett](http://twitter.com/search?q=john+garrett) | N/A |
-| 28 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 29 | [Boyd](http://twitter.com/search?q=Boyd) | N/A |
-| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 31 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
-| 32 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 33 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 34 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 35 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
-| 36 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
-| 37 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 24 | [staal](http://twitter.com/search?q=staal) | N/A |
+| 25 | [Most Canadians](http://twitter.com/search?q=Most+Canadians) | N/A |
+| 26 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 27 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 28 | [john garrett](http://twitter.com/search?q=john+garrett) | N/A |
+| 29 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 30 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 31 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 32 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 33 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
+| 34 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 35 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 36 | [UCLA](http://twitter.com/search?q=UCLA) | N/A |
+| 37 | [Freudian](http://twitter.com/search?q=Freudian) | N/A |
 | 38 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 39 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 40 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 39 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 40 | [Canada House](http://twitter.com/search?q=Canada+House) | N/A |
 | 41 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 42 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 43 | [Canada China](http://twitter.com/search?q=Canada+China) | N/A |
-| 44 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 45 | [Most Canadians](http://twitter.com/search?q=Most+Canadians) | N/A |
-| 46 | [Althia](http://twitter.com/search?q=Althia) | N/A |
-| 47 | [Zach Hyman](http://twitter.com/search?q=Zach+Hyman) | N/A |
-| 48 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 49 | [House of Commons](http://twitter.com/search?q=House+of+Commons) | N/A |
+| 42 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 43 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 44 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 45 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 46 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 47 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 48 | [althia](http://twitter.com/search?q=althia) | N/A |
+| 49 | [Motel 6](http://twitter.com/search?q=Motel+6) | N/A |
 
 
 

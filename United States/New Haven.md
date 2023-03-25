@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-25 13:18:36 UTC`
+📆 Last Updated: `2023-03-25 14:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [United States](</United States>)
 | 3 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
 | 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 | 5 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 6 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 7 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 8 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 9 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 10 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
-| 11 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 12 | [BLUE SPRING](http://twitter.com/search?q=BLUE+SPRING) | N/A |
-| 13 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 14 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 15 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 16 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 17 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
-| 18 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 7 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
+| 8 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 10 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 11 | [#SoTAnniversaryPromo](http://twitter.com/search?q=%23SoTAnniversaryPromo) | N/A |
+| 12 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 13 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 14 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 15 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 16 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 17 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 18 | [Sevy](http://twitter.com/search?q=Sevy) | N/A |
 | 19 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 20 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 21 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
-| 22 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 23 | [Waka](http://twitter.com/search?q=Waka) | N/A |
-| 24 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 25 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
-| 26 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 27 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 28 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
-| 29 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
+| 20 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 21 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 22 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 23 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 24 | [Aretha Franklin](http://twitter.com/search?q=Aretha+Franklin) | N/A |
+| 25 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 26 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
+| 27 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 28 | [Kentucky Derby](http://twitter.com/search?q=Kentucky+Derby) | N/A |
+| 29 | [Shoma](http://twitter.com/search?q=Shoma) | N/A |
 | 30 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 31 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
-| 32 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
-| 33 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
-| 34 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 31 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 32 | [Rolling Stone](http://twitter.com/search?q=Rolling+Stone) | N/A |
+| 33 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 34 | [You People](http://twitter.com/search?q=You+People) | "You People" is a phrase used to refer to a group of people, usually in a derogatory way. It can be used to express contempt or disapproval towards a certain group of people, often based on their race, ethnicity, religion, or other characteristics. |
 | 35 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 36 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 37 | [GAMERA](http://twitter.com/search?q=GAMERA) | N/A |
-| 38 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 39 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 40 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 41 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 42 | [Koresh](http://twitter.com/search?q=Koresh) | N/A |
-| 43 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 44 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 36 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 37 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
+| 38 | [IT'S GAMEDAY](http://twitter.com/search?q=IT%27S+GAMEDAY) | N/A |
+| 39 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 40 | [Our Song](http://twitter.com/search?q=Our+Song) | N/A |
+| 41 | [Druski](http://twitter.com/search?q=Druski) | N/A |
+| 42 | [GAMERA](http://twitter.com/search?q=GAMERA) | N/A |
+| 43 | [Koresh](http://twitter.com/search?q=Koresh) | N/A |
+| 44 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
 | 45 | [Raleigh Relays](http://twitter.com/search?q=Raleigh+Relays) | N/A |
-| 46 | [Limited](http://twitter.com/search?q=Limited) | N/A |
-| 47 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 48 | [Orwellian](http://twitter.com/search?q=Orwellian) | N/A |
+| 46 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 47 | [The Villages](http://twitter.com/search?q=The+Villages) | N/A |
+| 48 | [Limited](http://twitter.com/search?q=Limited) | N/A |
 
 
 
