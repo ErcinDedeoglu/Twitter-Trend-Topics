@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-25 00:27:36 UTC`
+📆 Last Updated: `2023-03-25 01:44:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
-| 2 | [Wagner Moura](http://twitter.com/search?q=Wagner+Moura) | N/A |
-| 3 | [Fluxo](http://twitter.com/search?q=Fluxo) | N/A |
-| 4 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 5 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
-| 6 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 7 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 8 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 9 | [alisa](http://twitter.com/search?q=alisa) | N/A |
-| 10 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
-| 11 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
-| 12 | [Suki](http://twitter.com/search?q=Suki) | N/A |
-| 13 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 14 | [#LilNasXNoMultishow](http://twitter.com/search?q=%23LilNasXNoMultishow) | N/A |
-| 15 | [#LilNasXNoMultishow](http://twitter.com/search?q=%23LilNasXNoMultishow) | N/A |
+| 1 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 2 | [alisa](http://twitter.com/search?q=alisa) | N/A |
+| 3 | [mother mother](http://twitter.com/search?q=mother+mother) | N/A |
+| 4 | [São Vicente](http://twitter.com/search?q=S%c3%a3o+Vicente) | N/A |
+| 5 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 6 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 7 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 8 | [maisa](http://twitter.com/search?q=maisa) | N/A |
+| 9 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
+| 10 | [Wagner Moura](http://twitter.com/search?q=Wagner+Moura) | N/A |
+| 11 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
+| 12 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 13 | [Pietra](http://twitter.com/search?q=Pietra) | N/A |
+| 14 | [#TenisNaESPN](http://twitter.com/search?q=%23TenisNaESPN) | N/A |
+| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 16 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 17 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 18 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 19 | [conan](http://twitter.com/search?q=conan) | N/A |
-| 20 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
-| 21 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 22 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 23 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
-| 24 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 25 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
-| 26 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 27 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
-| 28 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 29 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
-| 30 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
-| 31 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 32 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 33 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 34 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 35 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
-| 36 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
-| 37 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 38 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 39 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 40 | [SEA GODDESS](http://twitter.com/search?q=SEA+GODDESS) | N/A |
-| 41 | [Lucas Bagre](http://twitter.com/search?q=Lucas+Bagre) | N/A |
-| 42 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 43 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 44 | [GENUINE LOVE](http://twitter.com/search?q=GENUINE+LOVE) | N/A |
-| 45 | [França](http://twitter.com/search?q=Fran%c3%a7a) | N/A |
-| 46 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
-| 47 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 48 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
-| 49 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 17 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 18 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 19 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
+| 20 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
+| 21 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
+| 22 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 23 | [ocean eyes](http://twitter.com/search?q=ocean+eyes) | N/A |
+| 24 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
+| 25 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 26 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
+| 27 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
+| 28 | [getting older](http://twitter.com/search?q=getting+older) | N/A |
+| 29 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 30 | [your power](http://twitter.com/search?q=your+power) | N/A |
+| 31 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 32 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 33 | [TE AMAMOS GUIME](http://twitter.com/search?q=TE+AMAMOS+GUIME) | N/A |
+| 34 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 35 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 36 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 37 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 38 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
+| 39 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 40 | [Nego Di](http://twitter.com/search?q=Nego+Di) | N/A |
+| 41 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
+| 42 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 43 | [Industry Baby](http://twitter.com/search?q=Industry+Baby) | N/A |
+| 44 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
+| 45 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 46 | [Montero](http://twitter.com/search?q=Montero) | N/A |
+| 47 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
+| 48 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 49 | [SEA GODDESS](http://twitter.com/search?q=SEA+GODDESS) | N/A |
 
 
 

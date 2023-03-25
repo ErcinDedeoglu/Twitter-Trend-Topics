@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-25 00:28:14 UTC`
+📆 Last Updated: `2023-03-25 01:44:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Brazil
 | 1 | [billie](http://twitter.com/search?q=billie) | N/A |
 | 2 | [billie](http://twitter.com/search?q=billie) | N/A |
 | 3 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 4 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 5 | [conan](http://twitter.com/search?q=conan) | N/A |
-| 6 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
-| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 8 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
-| 9 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
-| 10 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 11 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 12 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
-| 13 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
-| 14 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
-| 15 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
-| 16 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
-| 17 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
-| 18 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
-| 19 | [Industry Baby](http://twitter.com/search?q=Industry+Baby) | N/A |
-| 20 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 21 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
-| 22 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 23 | [Montero](http://twitter.com/search?q=Montero) | N/A |
-| 24 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 25 | [PRÊMIO MARILIA MENDONÇA](http://twitter.com/search?q=PR%c3%8aMIO+MARILIA+MENDON%c3%87A) | N/A |
-| 26 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 27 | [#TresVezesAna040](http://twitter.com/search?q=%23TresVezesAna040) | N/A |
-| 28 | [#MonarkREDPILL](http://twitter.com/search?q=%23MonarkREDPILL) | N/A |
-| 29 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
-| 30 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
-| 31 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 4 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
+| 5 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 6 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
+| 7 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
+| 8 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 9 | [ocean eyes](http://twitter.com/search?q=ocean+eyes) | N/A |
+| 10 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
+| 11 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
+| 12 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
+| 13 | [MIOTO NO FAUSTAO](http://twitter.com/search?q=MIOTO+NO+FAUSTAO) | N/A |
+| 14 | [getting older](http://twitter.com/search?q=getting+older) | N/A |
+| 15 | [your power](http://twitter.com/search?q=your+power) | N/A |
+| 16 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 17 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 18 | [conan](http://twitter.com/search?q=conan) | N/A |
+| 19 | [TE AMAMOS GUIME](http://twitter.com/search?q=TE+AMAMOS+GUIME) | N/A |
+| 20 | [everything i wanted](http://twitter.com/search?q=everything+i+wanted) | N/A |
+| 21 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 22 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 23 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 24 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 25 | [AMERICANA NA VAQUEJADA](http://twitter.com/search?q=AMERICANA+NA+VAQUEJADA) | N/A |
+| 26 | [Nego Di](http://twitter.com/search?q=Nego+Di) | N/A |
+| 27 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 28 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
+| 29 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 30 | [Industry Baby](http://twitter.com/search?q=Industry+Baby) | N/A |
+| 31 | [Patrícia](http://twitter.com/search?q=Patr%c3%adcia) | N/A |
 | 32 | [#LulaNaChina](http://twitter.com/search?q=%23LulaNaChina) | N/A |
-| 33 | [SEA GODDESS](http://twitter.com/search?q=SEA+GODDESS) | N/A |
-| 34 | [Lucas Bagre](http://twitter.com/search?q=Lucas+Bagre) | N/A |
-| 35 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 33 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 34 | [#SearaGourmetNoBBB](http://twitter.com/search?q=%23SearaGourmetNoBBB) | N/A |
+| 35 | [Montero](http://twitter.com/search?q=Montero) | N/A |
 | 36 | [Zodíaco](http://twitter.com/search?q=Zod%c3%adaco) | N/A |
-| 37 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 38 | [GENUINE LOVE](http://twitter.com/search?q=GENUINE+LOVE) | N/A |
-| 39 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 40 | [O Começo](http://twitter.com/search?q=O+Come%c3%a7o) | N/A |
-| 41 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
-| 42 | [França](http://twitter.com/search?q=Fran%c3%a7a) | N/A |
-| 43 | [Grey](http://twitter.com/search?q=Grey) | N/A |
-| 44 | [DoriManda](http://twitter.com/search?q=DoriManda) | N/A |
-| 45 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 46 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 47 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 48 | [Lira](http://twitter.com/search?q=Lira) | N/A |
-| 49 | [Regina Casé](http://twitter.com/search?q=Regina+Cas%c3%a9) | N/A |
-| 50 | [Luva de Pedreiro](http://twitter.com/search?q=Luva+de+Pedreiro) | N/A |
+| 37 | [SEA GODDESS](http://twitter.com/search?q=SEA+GODDESS) | N/A |
+| 38 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 39 | [Christina](http://twitter.com/search?q=Christina) | N/A |
+| 40 | [Lira](http://twitter.com/search?q=Lira) | N/A |
+| 41 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 42 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 43 | [Dragon Ball Evolution](http://twitter.com/search?q=Dragon+Ball+Evolution) | N/A |
+| 44 | [DoriAma](http://twitter.com/search?q=DoriAma) | N/A |
+| 45 | [Abel Ferreira](http://twitter.com/search?q=Abel+Ferreira) | Abel Ferreira is a Portuguese football manager and former player. He is currently the head coach of the Portuguese club Sporting CP. The name Abel Ferreira is derived from the Hebrew name Abel, which means "breath" or "vanity". |
+| 46 | [Cavaleiros](http://twitter.com/search?q=Cavaleiros) | N/A |
+| 47 | [Lucas Bagre](http://twitter.com/search?q=Lucas+Bagre) | N/A |
+| 48 | [Jayson Tatum](http://twitter.com/search?q=Jayson+Tatum) | Jayson Tatum is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). He was selected third overall in the 2017 NBA draft. He is known for his athleticism, shooting ability, and defensive prowess. |
+| 49 | [Grey](http://twitter.com/search?q=Grey) | N/A |
+| 50 | [GENUINE LOVE](http://twitter.com/search?q=GENUINE+LOVE) | N/A |
 
 
 

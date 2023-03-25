@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-03-25 00:27:31 UTC`
+📆 Last Updated: `2023-03-25 01:44:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,51 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
-| 2 | [Costco](http://twitter.com/search?q=Costco) | N/A |
-| 3 | [#viernesenvivo](http://twitter.com/search?q=%23viernesenvivo) | N/A |
-| 4 | [#PalNorteRadioEnExa](http://twitter.com/search?q=%23PalNorteRadioEnExa) | N/A |
-| 5 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 6 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 7 | [#LaCiudadYLaTransformación](http://twitter.com/search?q=%23LaCiudadYLaTransformaci%c3%b3n) | N/A |
-| 8 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 9 | [#integracionlouie](http://twitter.com/search?q=%23integracionlouie) | N/A |
-| 10 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 11 | [Conducta](http://twitter.com/search?q=Conducta) | N/A |
-| 12 | [Titos](http://twitter.com/search?q=Titos) | N/A |
-| 13 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 14 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
-| 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 16 | [Mostoleta](http://twitter.com/search?q=Mostoleta) | N/A |
-| 17 | [Barrio](http://twitter.com/search?q=Barrio) | N/A |
-| 18 | [La DEA](http://twitter.com/search?q=La+DEA) | N/A |
-| 19 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 20 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 21 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 22 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
-| 23 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 24 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 25 | [Juegos Olímpicos](http://twitter.com/search?q=Juegos+Ol%c3%admpicos) | N/A |
-| 26 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 27 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
-| 28 | [José Ramón](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n) | N/A |
-| 29 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 30 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 31 | [Cotsco](http://twitter.com/search?q=Cotsco) | N/A |
-| 32 | [Austeridad](http://twitter.com/search?q=Austeridad) | N/A |
-| 33 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 34 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 35 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 36 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
-| 37 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 38 | [Jetta](http://twitter.com/search?q=Jetta) | N/A |
-| 39 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 40 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 41 | [#MorenaReprimeEstudiantesEnBC](http://twitter.com/search?q=%23MorenaReprimeEstudiantesEnBC) | N/A |
-| 42 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 43 | [#SuperMarioBrosLaPelicula](http://twitter.com/search?q=%23SuperMarioBrosLaPelicula) | N/A |
-| 44 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
-| 45 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 46 | [#SaintSeiya](http://twitter.com/search?q=%23SaintSeiya) | N/A |
-| 47 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 48 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
-| 49 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
+| 1 | [#EllasEnViX](http://twitter.com/search?q=%23EllasEnViX) | N/A |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [#YesungSoloLatam](http://twitter.com/search?q=%23YesungSoloLatam) | N/A |
+| 4 | [#CloudDay](http://twitter.com/search?q=%23CloudDay) | N/A |
+| 5 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 6 | [#ViernesDeBonosPlaydoit](http://twitter.com/search?q=%23ViernesDeBonosPlaydoit) | N/A |
+| 7 | [La DEA](http://twitter.com/search?q=La+DEA) | N/A |
+| 8 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 9 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 11 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
+| 12 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 13 | [Conducta](http://twitter.com/search?q=Conducta) | N/A |
+| 14 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
+| 15 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 16 | [Titos](http://twitter.com/search?q=Titos) | N/A |
+| 17 | [Turco](http://twitter.com/search?q=Turco) | N/A |
+| 18 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 19 | [Barrio](http://twitter.com/search?q=Barrio) | N/A |
+| 20 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 21 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 22 | [Osmel](http://twitter.com/search?q=Osmel) | N/A |
+| 23 | [José Ramón](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n) | N/A |
+| 24 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 25 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 26 | [Juegos Olímpicos](http://twitter.com/search?q=Juegos+Ol%c3%admpicos) | N/A |
+| 27 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 28 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
+| 29 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 30 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 31 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 32 | [Cotsco](http://twitter.com/search?q=Cotsco) | N/A |
+| 33 | [Austeridad](http://twitter.com/search?q=Austeridad) | N/A |
+| 34 | [Jetta](http://twitter.com/search?q=Jetta) | N/A |
+| 35 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
+| 36 | [#SuperMarioBrosLaPelicula](http://twitter.com/search?q=%23SuperMarioBrosLaPelicula) | N/A |
+| 37 | [#PalNorteRadioEnExa](http://twitter.com/search?q=%23PalNorteRadioEnExa) | N/A |
+| 38 | [#viernesenvivo](http://twitter.com/search?q=%23viernesenvivo) | N/A |
+| 39 | [#LaCiudadYLaTransformación](http://twitter.com/search?q=%23LaCiudadYLaTransformaci%c3%b3n) | N/A |
+| 40 | [#integracionlouie](http://twitter.com/search?q=%23integracionlouie) | N/A |
+| 41 | [#SaintSeiya](http://twitter.com/search?q=%23SaintSeiya) | N/A |
+| 42 | [#SuperMarioBrosMovie](http://twitter.com/search?q=%23SuperMarioBrosMovie) | N/A |
+| 43 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
+| 44 | [#HanteoCorrupt](http://twitter.com/search?q=%23HanteoCorrupt) | N/A |
+| 45 | [#tuberculosis](http://twitter.com/search?q=%23tuberculosis) | N/A |
 
 
 

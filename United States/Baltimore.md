@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-25 00:28:05 UTC`
+📆 Last Updated: `2023-03-25 01:44:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 2 | [Agholor](http://twitter.com/search?q=Agholor) | N/A |
-| 3 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 6 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 7 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 8 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 9 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 10 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 11 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 12 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 13 | [#readytolove](http://twitter.com/search?q=%23readytolove) | N/A |
-| 14 | [#USMNT](http://twitter.com/search?q=%23USMNT) | #USMNT is an acronym for the United States Men's National Soccer Team. It is used to refer to the men's national soccer team of the United States. |
-| 15 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 16 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
-| 17 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 18 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 19 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 20 | [Ears](http://twitter.com/search?q=Ears) | N/A |
-| 21 | [Matt Bradley](http://twitter.com/search?q=Matt+Bradley) | N/A |
-| 22 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 23 | [Druid](http://twitter.com/search?q=Druid) | N/A |
-| 24 | [Flashback Friday](http://twitter.com/search?q=Flashback+Friday) | N/A |
-| 25 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 26 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
-| 27 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
-| 28 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 29 | [Ludwig Kaiser](http://twitter.com/search?q=Ludwig+Kaiser) | N/A |
-| 30 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 31 | [Jussie Smollett](http://twitter.com/search?q=Jussie+Smollett) | N/A |
-| 32 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 33 | [#Sacrifice](http://twitter.com/search?q=%23Sacrifice) | N/A |
-| 34 | [2real](http://twitter.com/search?q=2real) | N/A |
-| 35 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
-| 36 | [Zach Parise](http://twitter.com/search?q=Zach+Parise) | N/A |
-| 37 | [Frida Formann](http://twitter.com/search?q=Frida+Formann) | N/A |
-| 38 | [Jack Quinn](http://twitter.com/search?q=Jack+Quinn) | N/A |
-| 39 | [Bediako](http://twitter.com/search?q=Bediako) | N/A |
-| 40 | [Nijel Pack](http://twitter.com/search?q=Nijel+Pack) | N/A |
-| 41 | [Jenna Johnson](http://twitter.com/search?q=Jenna+Johnson) | N/A |
-| 42 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 44 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
-| 45 | [Zane Gonzalez](http://twitter.com/search?q=Zane+Gonzalez) | N/A |
-| 46 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 47 | [Lemonis](http://twitter.com/search?q=Lemonis) | N/A |
-| 48 | [Robbie Gould](http://twitter.com/search?q=Robbie+Gould) | Robbie Gould is the name of an American football placekicker who currently plays for the San Francisco 49ers of the National Football League (NFL). He is known for his accuracy and consistency, having made over 85% of his field goal attempts throughout his career. |
-| 49 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 50 | [Temecula](http://twitter.com/search?q=Temecula) | N/A |
+| 2 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 3 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 4 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 5 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 6 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 7 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 8 | [#marchmadness2023](http://twitter.com/search?q=%23marchmadness2023) | N/A |
+| 9 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 10 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 11 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 12 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 13 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 14 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
+| 15 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 16 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 17 | [#USMNT](http://twitter.com/search?q=%23USMNT) | #USMNT is an acronym for the United States Men's National Soccer Team. It is used to refer to the men's national soccer team of the United States. |
+| 18 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
+| 19 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 20 | [Grenada](http://twitter.com/search?q=Grenada) | N/A |
+| 21 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 22 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 23 | [Luxx](http://twitter.com/search?q=Luxx) | N/A |
+| 24 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
+| 25 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 26 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 27 | [No 1](http://twitter.com/search?q=No+1) | N/A |
+| 28 | [Quinerly](http://twitter.com/search?q=Quinerly) | N/A |
+| 29 | [Nijel Pack](http://twitter.com/search?q=Nijel+Pack) | N/A |
+| 30 | [FanDuel](http://twitter.com/search?q=FanDuel) | N/A |
+| 31 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 32 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 33 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 34 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
+| 35 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
+| 36 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 37 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 38 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 39 | [Brian Dutcher](http://twitter.com/search?q=Brian+Dutcher) | N/A |
+| 40 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 41 | [All the 1](http://twitter.com/search?q=All+the+1) | N/A |
+| 42 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 43 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 44 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 45 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 46 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
+| 47 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
+| 48 | [The U](http://twitter.com/search?q=The+U) | N/A |
+| 49 | [Ronda](http://twitter.com/search?q=Ronda) | N/A |
+| 50 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
 
 
 

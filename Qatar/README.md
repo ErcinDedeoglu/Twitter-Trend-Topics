@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-25 00:28:18 UTC`
+📆 Last Updated: `2023-03-25 01:44:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,21 +36,21 @@ This is top 50 for Qatar
 | 19 | [تلفزيون قطر](http://twitter.com/search?q=%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d9%82%d8%b7%d8%b1) | N/A |
 | 20 | [كاس الدرجه الثانيه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 21 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 22 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 23 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
-| 24 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
-| 25 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 26 | [المتحدث الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%ab+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
+| 22 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 23 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 24 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 25 | [المتحدث الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%ab+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
+| 26 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
 | 27 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 28 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 29 | [التصفيات الموهله](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%84%d9%87) | N/A |
-| 30 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 31 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 32 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 33 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 34 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
-| 35 | [وزير البييه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
-| 36 | [رفعت الايادي](http://twitter.com/search?q=%d8%b1%d9%81%d8%b9%d8%aa+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
+| 28 | [التصفيات الموهله](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%84%d9%87) | N/A |
+| 29 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 30 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 31 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 32 | [حسن الصيام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%85) | N/A |
+| 33 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 34 | [وزير البييه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
+| 35 | [رفعت الايادي](http://twitter.com/search?q=%d8%b1%d9%81%d8%b9%d8%aa+%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a) | N/A |
+| 36 | [شيخ الاسلام](http://twitter.com/search?q=%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
 | 37 | [جابر](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
 | 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 39 | [علي الصلاه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Qatar
 | 44 | [علي الوجه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ac%d9%87) | N/A |
 | 45 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
 | 46 | [قادر علي](http://twitter.com/search?q=%d9%82%d8%a7%d8%af%d8%b1+%d8%b9%d9%84%d9%8a) | N/A |
-| 47 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 47 | [ايران](http://twitter.com/search?q=%d8%a7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
 | 48 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | N/A |
 | 49 | [شهرك الفضيل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
 | 50 | [European](http://twitter.com/search?q=European) | N/A |

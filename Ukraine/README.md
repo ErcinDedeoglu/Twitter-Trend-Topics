@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-25 00:28:20 UTC`
+📆 Last Updated: `2023-03-25 01:44:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,33 +38,33 @@ This is top 50 for Ukraine
 | 21 | [f*ck crypto](http://twitter.com/search?q=f*ck+crypto) | N/A |
 | 22 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
 | 23 | [Рашисты](http://twitter.com/search?q=%d0%a0%d0%b0%d1%88%d0%b8%d1%81%d1%82%d1%8b) | N/A |
-| 24 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 25 | [Дайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 26 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 27 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 28 | [Хаха](http://twitter.com/search?q=%d0%a5%d0%b0%d1%85%d0%b0) | N/A |
-| 29 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 30 | [Пздц](http://twitter.com/search?q=%d0%9f%d0%b7%d0%b4%d1%86) | N/A |
-| 31 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 32 | [David](http://twitter.com/search?q=David) | N/A |
-| 33 | [Dope](http://twitter.com/search?q=Dope) | N/A |
-| 34 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 24 | [Дайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 25 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
+| 26 | [Ранку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 27 | [Хаха](http://twitter.com/search?q=%d0%a5%d0%b0%d1%85%d0%b0) | N/A |
+| 28 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 29 | [Пздц](http://twitter.com/search?q=%d0%9f%d0%b7%d0%b4%d1%86) | N/A |
+| 30 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 31 | [David](http://twitter.com/search?q=David) | N/A |
+| 32 | [Dope](http://twitter.com/search?q=Dope) | N/A |
+| 33 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 34 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 35 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 36 | [нічо](http://twitter.com/search?q=%d0%bd%d1%96%d1%87%d0%be) | N/A |
-| 37 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 38 | [польше](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 39 | [часть 1](http://twitter.com/search?q=%d1%87%d0%b0%d1%81%d1%82%d1%8c+1) | N/A |
-| 40 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 41 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 42 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 43 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 37 | [в россии](http://twitter.com/search?q=%d0%b2+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 38 | [часть 1](http://twitter.com/search?q=%d1%87%d0%b0%d1%81%d1%82%d1%8c+1) | N/A |
+| 39 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 40 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 41 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 42 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 43 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
 | 44 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
 | 45 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
 | 46 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
 | 47 | [Никак](http://twitter.com/search?q=%d0%9d%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
-| 48 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 49 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
-| 50 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 48 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
+| 49 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 50 | [Azov](http://twitter.com/search?q=Azov) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-25 00:27:54 UTC`
+📆 Last Updated: `2023-03-25 01:44:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 2 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
-| 3 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 4 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
-| 5 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
-| 6 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 7 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 8 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 9 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 10 | [#AlJazeeraDocumentary](http://twitter.com/search?q=%23AlJazeeraDocumentary) | N/A |
-| 11 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 12 | [Chude](http://twitter.com/search?q=Chude) | N/A |
-| 13 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 14 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
-| 15 | [London](http://twitter.com/search?q=London) | N/A |
-| 16 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 17 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
-| 18 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 19 | [Oxlade](http://twitter.com/search?q=Oxlade) | Oxlade is a Nigerian singer, songwriter, and record producer. His real name is Ikuforiji Abdulrahman Olaitan. He is best known for his hit single "Away" which was released in 2018. The name Oxlade is derived from the Yoruba language and means "one who has wealth". |
-| 20 | [Zksync](http://twitter.com/search?q=Zksync) | N/A |
-| 21 | [Rohr](http://twitter.com/search?q=Rohr) | N/A |
-| 22 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 23 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 24 | [Fish](http://twitter.com/search?q=Fish) | N/A |
-| 25 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 26 | [Fireboy](http://twitter.com/search?q=Fireboy) | N/A |
-| 27 | [#NIGGUI](http://twitter.com/search?q=%23NIGGUI) | N/A |
-| 28 | [Emeka Offor](http://twitter.com/search?q=Emeka+Offor) | N/A |
-| 29 | [Omah Lay](http://twitter.com/search?q=Omah+Lay) | N/A |
-| 30 | [#NGAGNB](http://twitter.com/search?q=%23NGAGNB) | N/A |
-| 31 | [Senegal](http://twitter.com/search?q=Senegal) | N/A |
-| 32 | [Ndidi](http://twitter.com/search?q=Ndidi) | N/A |
-| 33 | [Hauwa](http://twitter.com/search?q=Hauwa) | N/A |
-| 34 | [Channels TV](http://twitter.com/search?q=Channels+TV) | N/A |
-| 35 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 36 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 37 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 38 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
-| 39 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 40 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
-| 41 | [Lack](http://twitter.com/search?q=Lack) | N/A |
-| 42 | [PHYNA X HOMECOMING](http://twitter.com/search?q=PHYNA+X+HOMECOMING) | N/A |
-| 43 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
-| 44 | [Lookman](http://twitter.com/search?q=Lookman) | Lookman is a slang term used to describe someone who is always looking for attention or trying to be noticed. It can also be used to describe someone who is overly eager or desperate for something. |
-| 45 | [Laycon](http://twitter.com/search?q=Laycon) | N/A |
-| 46 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 47 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 48 | [Hero](http://twitter.com/search?q=Hero) | N/A |
-| 49 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 1 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 2 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 3 | [London](http://twitter.com/search?q=London) | N/A |
+| 4 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
+| 5 | [#NGAGNB](http://twitter.com/search?q=%23NGAGNB) | N/A |
+| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 7 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 8 | [appeal court](http://twitter.com/search?q=appeal+court) | N/A |
+| 9 | [Adeleke](http://twitter.com/search?q=Adeleke) | Adeleke is a Yoruba name of Nigerian origin. It means "the crown has become a king" or "the crown has achieved royalty". |
+| 10 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 13 | [#joefreakycriminal](http://twitter.com/search?q=%23joefreakycriminal) | N/A |
+| 14 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 15 | [Chude](http://twitter.com/search?q=Chude) | N/A |
+| 16 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 17 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
+| 18 | [#itela60forn249](http://twitter.com/search?q=%23itela60forn249) | N/A |
+| 19 | [#alaadin](http://twitter.com/search?q=%23alaadin) | N/A |
+| 20 | [#WizpecXBoyblizzGTTT](http://twitter.com/search?q=%23WizpecXBoyblizzGTTT) | N/A |
+| 21 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
+| 22 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 24 | [Ndidi](http://twitter.com/search?q=Ndidi) | N/A |
+| 25 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
+| 26 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 27 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 28 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 29 | [Oyetola](http://twitter.com/search?q=Oyetola) | Oyetola is a Yoruba name which means "God has done it". It is a popular name in Nigeria and other West African countries. |
+| 30 | [Pastor B](http://twitter.com/search?q=Pastor+B) | N/A |
+| 31 | [la grace](http://twitter.com/search?q=la+grace) | N/A |
+| 32 | [Lookman](http://twitter.com/search?q=Lookman) | Lookman is a slang term used to describe someone who is always looking for attention or trying to be noticed. It can also be used to describe someone who is overly eager or desperate for something. |
+| 33 | [noon dave](http://twitter.com/search?q=noon+dave) | N/A |
+| 34 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
+| 35 | [Rohr](http://twitter.com/search?q=Rohr) | N/A |
+| 36 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 38 | [ajebo you go know](http://twitter.com/search?q=ajebo+you+go+know) | N/A |
+| 39 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 40 | [Fayose](http://twitter.com/search?q=Fayose) | N/A |
+| 41 | [Osun](http://twitter.com/search?q=Osun) | Osun is an Orisha, or deity, in the Yoruba religion of West Africa. She is the goddess of fertility, love, and sensuality. Her name means "She Who Possesses Wealth" in the Yoruba language. |
+| 42 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 43 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
+| 44 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
+| 45 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 46 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 47 | [PHYNA X HOMECOMING](http://twitter.com/search?q=PHYNA+X+HOMECOMING) | N/A |
+| 48 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 49 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
+| 50 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
 
 
 

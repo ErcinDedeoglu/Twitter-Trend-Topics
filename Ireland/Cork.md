@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-25 00:27:38 UTC`
+📆 Last Updated: `2023-03-25 01:44:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
-| 2 | [#LEIvSTO](http://twitter.com/search?q=%23LEIvSTO) | N/A |
-| 3 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 4 | [Graham Dwyer](http://twitter.com/search?q=Graham+Dwyer) | N/A |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [#LEIvSTO](http://twitter.com/search?q=%23LEIvSTO) | N/A |
+| 4 | [graham dwyer](http://twitter.com/search?q=graham+dwyer) | N/A |
 | 5 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
-| 6 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
-| 7 | [Daffodil Day](http://twitter.com/search?q=Daffodil+Day) | N/A |
-| 8 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
-| 9 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 10 | [Joanne Hayes](http://twitter.com/search?q=Joanne+Hayes) | N/A |
-| 11 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 12 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 13 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 15 | [Irish Cancer Society](http://twitter.com/search?q=Irish+Cancer+Society) | N/A |
-| 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 18 | [Elaine O'Hara](http://twitter.com/search?q=Elaine+O%27Hara) | N/A |
-| 19 | [Alan Kelly](http://twitter.com/search?q=Alan+Kelly) | N/A |
+| 6 | [Daffodil Day](http://twitter.com/search?q=Daffodil+Day) | N/A |
+| 7 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
+| 8 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
+| 9 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 11 | [Joanne Hayes](http://twitter.com/search?q=Joanne+Hayes) | N/A |
+| 12 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 13 | [Neptune Collonges](http://twitter.com/search?q=Neptune+Collonges) | N/A |
+| 14 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
+| 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 16 | [Irish Cancer Society](http://twitter.com/search?q=Irish+Cancer+Society) | N/A |
+| 17 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 18 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 19 | [Elaine O'Hara](http://twitter.com/search?q=Elaine+O%27Hara) | N/A |
 | 20 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
-| 21 | [Neptune Collonges](http://twitter.com/search?q=Neptune+Collonges) | N/A |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 24 | [Dutch](http://twitter.com/search?q=Dutch) | N/A |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 23 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 24 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 25 | [Dutch](http://twitter.com/search?q=Dutch) | N/A |
 | 26 | [Annie McCarrick](http://twitter.com/search?q=Annie+McCarrick) | N/A |
-| 27 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
-| 28 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 29 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 27 | [Alan Kelly](http://twitter.com/search?q=Alan+Kelly) | N/A |
+| 28 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
+| 29 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 30 | [Meta](http://twitter.com/search?q=Meta) | N/A |
 | 31 | [John Bolton](http://twitter.com/search?q=John+Bolton) | N/A |
 | 32 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
 | 33 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
 | 34 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 35 | [Harps](http://twitter.com/search?q=Harps) | N/A |
-| 36 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
+| 35 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 36 | [Harps](http://twitter.com/search?q=Harps) | N/A |
 | 37 | [Baby John](http://twitter.com/search?q=Baby+John) | N/A |
 | 38 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
 | 39 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 40 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 41 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 42 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 43 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 44 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 40 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 41 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 42 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
+| 43 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 44 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
 | 45 | [markets field](http://twitter.com/search?q=markets+field) | N/A |
-| 46 | [Alanna Quinn Idris](http://twitter.com/search?q=Alanna+Quinn+Idris) | N/A |
-| 47 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 48 | [Galway United](http://twitter.com/search?q=Galway+United) | N/A |
+| 46 | [Galway United](http://twitter.com/search?q=Galway+United) | N/A |
+| 47 | [Yellowjackets](http://twitter.com/search?q=Yellowjackets) | N/A |
+| 48 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
 
 
 

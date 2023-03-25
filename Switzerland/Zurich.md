@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-25 00:27:44 UTC`
+📆 Last Updated: `2023-03-25 01:44:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 2 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 3 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 5 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 6 | [#EndTB](http://twitter.com/search?q=%23EndTB) | N/A |
 | 7 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
 | 8 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
@@ -30,28 +30,28 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 13 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
 | 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 15 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 16 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 17 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 18 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
-| 19 | [Gedanke](http://twitter.com/search?q=Gedanke) | N/A |
-| 20 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 21 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 22 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 23 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
-| 24 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 25 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 26 | [Welle](http://twitter.com/search?q=Welle) | N/A |
-| 27 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 28 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 29 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 30 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 31 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 32 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 33 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 34 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 35 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 36 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 37 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 16 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 17 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
+| 18 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 19 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 20 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 21 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
+| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 23 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 24 | [Achso](http://twitter.com/search?q=Achso) | N/A |
+| 25 | [Welle](http://twitter.com/search?q=Welle) | N/A |
+| 26 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 27 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 28 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 29 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 30 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 31 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
+| 32 | [Masken](http://twitter.com/search?q=Masken) | N/A |
+| 33 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 34 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 35 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 36 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 37 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
 | 38 | [Perspektive](http://twitter.com/search?q=Perspektive) | N/A |
 | 39 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
 | 40 | [Serbie](http://twitter.com/search?q=Serbie) | N/A |
