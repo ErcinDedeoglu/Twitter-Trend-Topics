@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-25 09:16:31 UTC`
+📆 Last Updated: `2023-03-25 10:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,47 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 2 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 3 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
-| 4 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 5 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 6 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 8 | [England](http://twitter.com/search?q=England) | N/A |
-| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 10 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 13 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 14 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 15 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 19 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 20 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 21 | [Wordle 644 X](http://twitter.com/search?q=Wordle+644+X) | N/A |
-| 22 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 23 | [BBC News - Principal](http://twitter.com/search?q=BBC+News+-+Principal) | N/A |
-| 24 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 25 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 26 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 27 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 28 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 29 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 30 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
-| 31 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
-| 32 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 33 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 34 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 35 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 36 | [Lords](http://twitter.com/search?q=Lords) | N/A |
-| 37 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 38 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 39 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 40 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 41 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
-| 42 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 43 | [Lady Day](http://twitter.com/search?q=Lady+Day) | N/A |
-| 44 | [Lyndon Arthur](http://twitter.com/search?q=Lyndon+Arthur) | N/A |
-| 45 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 46 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 3 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 4 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 5 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 6 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 7 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 8 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 9 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
+| 10 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 11 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 12 | [Wordle 644 X](http://twitter.com/search?q=Wordle+644+X) | N/A |
+| 13 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 14 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 15 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
+| 16 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
+| 17 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 18 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 19 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
+| 20 | [Lords](http://twitter.com/search?q=Lords) | N/A |
+| 21 | [Male](http://twitter.com/search?q=Male) | N/A |
+| 22 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 23 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 25 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 26 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 27 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
+| 28 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 29 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 30 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 31 | [#ASongOrMovieForAnythingBlue](http://twitter.com/search?q=%23ASongOrMovieForAnythingBlue) | N/A |
+| 32 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 33 | [#clocksgoforward](http://twitter.com/search?q=%23clocksgoforward) | N/A |
+| 34 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 35 | [#IStandWithPosieParker](http://twitter.com/search?q=%23IStandWithPosieParker) | N/A |
+| 36 | [#gmsf](http://twitter.com/search?q=%23gmsf) | N/A |
+| 37 | [#IStandWithKellieJayKeen](http://twitter.com/search?q=%23IStandWithKellieJayKeen) | N/A |
+| 38 | [#Annunciation](http://twitter.com/search?q=%23Annunciation) | N/A |
+| 39 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
+| 40 | [#TaylorHawkins](http://twitter.com/search?q=%23TaylorHawkins) | N/A |
+| 41 | [#SaturdayMood](http://twitter.com/search?q=%23SaturdayMood) | N/A |
+| 42 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 43 | [#ToriesOut261](http://twitter.com/search?q=%23ToriesOut261) | N/A |
 
 
 

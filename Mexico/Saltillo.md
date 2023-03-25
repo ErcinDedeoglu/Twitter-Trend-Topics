@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-03-25 09:16:36 UTC`
+📆 Last Updated: `2023-03-25 10:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Mexico](</Mexico>)
 | 6 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
 | 7 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
 | 8 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
-| 9 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
+| 9 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
 | 10 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 11 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 12 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 13 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 15 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 16 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
-| 17 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 18 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 19 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
-| 20 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
-| 21 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 13 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 14 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 17 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 18 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 19 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 20 | [Luis Estrada](http://twitter.com/search?q=Luis+Estrada) | N/A |
+| 21 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
 | 22 | [Colosio](http://twitter.com/search?q=Colosio) | N/A |
-| 23 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
-| 24 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 25 | [Sabrina Enciso](http://twitter.com/search?q=Sabrina+Enciso) | N/A |
-| 26 | [Horimiya](http://twitter.com/search?q=Horimiya) | N/A |
-| 27 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 29 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 30 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
-| 31 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 23 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 24 | [Sabrina Enciso](http://twitter.com/search?q=Sabrina+Enciso) | N/A |
+| 25 | [Horimiya](http://twitter.com/search?q=Horimiya) | N/A |
+| 26 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 27 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 28 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 29 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 30 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 31 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
 | 32 | [Cambios de Luna](http://twitter.com/search?q=Cambios+de+Luna) | N/A |
 | 33 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 34 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
-| 35 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 34 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 35 | [FIVE STAR MICHELIN SKZ](http://twitter.com/search?q=FIVE+STAR+MICHELIN+SKZ) | N/A |
 | 36 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
 | 37 | [Juegos Olímpicos](http://twitter.com/search?q=Juegos+Ol%c3%admpicos) | N/A |
 | 38 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 39 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 39 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 | 40 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 41 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 44 | [Bertha Alcalde](http://twitter.com/search?q=Bertha+Alcalde) | N/A |
-| 45 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 41 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 42 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
+| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 45 | [Bertha Alcalde](http://twitter.com/search?q=Bertha+Alcalde) | N/A |
 | 46 | [Guacamaya](http://twitter.com/search?q=Guacamaya) | N/A |
-| 47 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
+| 47 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
 
 
 

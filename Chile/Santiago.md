@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-25 09:16:37 UTC`
+📆 Last Updated: `2023-03-25 10:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Chile](</Chile>)
 | 9 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
 | 10 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
 | 11 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 12 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
+| 12 | [copa chile](http://twitter.com/search?q=copa+chile) | N/A |
 | 13 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
 | 14 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 15 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 16 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 17 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 18 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
-| 19 | [CONACEM](http://twitter.com/search?q=CONACEM) | N/A |
-| 20 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 21 | [Paula Pavic](http://twitter.com/search?q=Paula+Pavic) | N/A |
-| 22 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
-| 23 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 24 | [Chino Ríos](http://twitter.com/search?q=Chino+R%c3%ados) | N/A |
-| 25 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
-| 26 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 27 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
-| 28 | [shakira tower](http://twitter.com/search?q=shakira+tower) | N/A |
-| 29 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 30 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
-| 31 | [chimbarongo](http://twitter.com/search?q=chimbarongo) | N/A |
-| 32 | [Monserrat](http://twitter.com/search?q=Monserrat) | N/A |
-| 33 | [ibañez](http://twitter.com/search?q=iba%c3%b1ez) | N/A |
-| 34 | [Eliminemos](http://twitter.com/search?q=Eliminemos) | N/A |
-| 35 | [dante poli](http://twitter.com/search?q=dante+poli) | N/A |
-| 36 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
-| 37 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 38 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
-| 39 | [generación dorada](http://twitter.com/search?q=generaci%c3%b3n+dorada) | N/A |
-| 40 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 41 | [Nelson Acosta](http://twitter.com/search?q=Nelson+Acosta) | N/A |
-| 42 | [santiago city](http://twitter.com/search?q=santiago+city) | N/A |
-| 43 | [Michelle Adam](http://twitter.com/search?q=Michelle+Adam) | N/A |
-| 44 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 45 | [Diagnóstico](http://twitter.com/search?q=Diagn%c3%b3stico) | N/A |
-| 46 | [Repudio](http://twitter.com/search?q=Repudio) | N/A |
-| 47 | [Ferrada](http://twitter.com/search?q=Ferrada) | N/A |
-| 48 | [Natalia Valdebenito](http://twitter.com/search?q=Natalia+Valdebenito) | N/A |
-| 49 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 15 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 16 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 17 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 18 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 20 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 21 | [Vade](http://twitter.com/search?q=Vade) | N/A |
+| 22 | [conacem](http://twitter.com/search?q=conacem) | N/A |
+| 23 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 24 | [paula pavic](http://twitter.com/search?q=paula+pavic) | N/A |
+| 25 | [Julio César](http://twitter.com/search?q=Julio+C%c3%a9sar) | N/A |
+| 26 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 27 | [Chino Ríos](http://twitter.com/search?q=Chino+R%c3%ados) | N/A |
+| 28 | [Narcos](http://twitter.com/search?q=Narcos) | N/A |
+| 29 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 30 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 31 | [shakira tower](http://twitter.com/search?q=shakira+tower) | N/A |
+| 32 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 33 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
+| 34 | [chimbarongo](http://twitter.com/search?q=chimbarongo) | N/A |
+| 35 | [Monserrat](http://twitter.com/search?q=Monserrat) | N/A |
+| 36 | [Eliminemos](http://twitter.com/search?q=Eliminemos) | N/A |
+| 37 | [ibañez](http://twitter.com/search?q=iba%c3%b1ez) | N/A |
+| 38 | [dante poli](http://twitter.com/search?q=dante+poli) | N/A |
+| 39 | [Esteban Paredes](http://twitter.com/search?q=Esteban+Paredes) | N/A |
+| 40 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 41 | [psiquiatra](http://twitter.com/search?q=psiquiatra) | N/A |
+| 42 | [generación dorada](http://twitter.com/search?q=generaci%c3%b3n+dorada) | N/A |
+| 43 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 44 | [Nelson Acosta](http://twitter.com/search?q=Nelson+Acosta) | N/A |
+| 45 | [santiago city](http://twitter.com/search?q=santiago+city) | N/A |
+| 46 | [Michelle Adam](http://twitter.com/search?q=Michelle+Adam) | N/A |
+| 47 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 48 | [Diagnóstico](http://twitter.com/search?q=Diagn%c3%b3stico) | N/A |
+| 49 | [Repudio](http://twitter.com/search?q=Repudio) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Phoenix
 
-📆 Last Updated: `2023-03-25 09:17:14 UTC`
+📆 Last Updated: `2023-03-25 10:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Monty](http://twitter.com/search?q=Monty) | N/A |
 | 2 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 3 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 4 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
-| 5 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
-| 6 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
-| 7 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 8 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
-| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 10 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 11 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 12 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 13 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 3 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 4 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 5 | [#1000crew_us](http://twitter.com/search?q=%231000crew_us) | N/A |
+| 6 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 7 | [#onepiececardgame](http://twitter.com/search?q=%23onepiececardgame) | N/A |
+| 8 | [SPUTNIK](http://twitter.com/search?q=SPUTNIK) | N/A |
+| 9 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 10 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 11 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
+| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 13 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
 | 14 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 15 | [Amory](http://twitter.com/search?q=Amory) | N/A |
-| 16 | [#Rover2ndWin](http://twitter.com/search?q=%23Rover2ndWin) | N/A |
-| 17 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
-| 18 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 19 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 20 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 21 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 22 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
-| 23 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 24 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
-| 25 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 26 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 27 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 28 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 29 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 30 | [PJ Tucker](http://twitter.com/search?q=PJ+Tucker) | PJ Tucker is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). His nickname is "The Round Mound of Rebound" due to his ability to grab rebounds despite his relatively small size. |
-| 31 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 15 | [#Wordle644](http://twitter.com/search?q=%23Wordle644) | N/A |
+| 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 17 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 18 | [Amory](http://twitter.com/search?q=Amory) | N/A |
+| 19 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 20 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 21 | [Rolling Fork](http://twitter.com/search?q=Rolling+Fork) | N/A |
+| 22 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 23 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
+| 24 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 25 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 26 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 27 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 28 | [Princeton](http://twitter.com/search?q=Princeton) | N/A |
+| 29 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 31 | [Toji](http://twitter.com/search?q=Toji) | N/A |
 | 32 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 33 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 33 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
 | 34 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 35 | [Texas](http://twitter.com/search?q=Texas) | N/A |
 | 36 | [Moore's Law](http://twitter.com/search?q=Moore%27s+Law) | N/A |
-| 37 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 38 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 39 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 40 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 37 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 38 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 39 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 40 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
 | 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 42 | [Horimiya](http://twitter.com/search?q=Horimiya) | N/A |
-| 43 | [Troy brown](http://twitter.com/search?q=Troy+brown) | N/A |
-| 44 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
-| 45 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 46 | [Elite Eight](http://twitter.com/search?q=Elite+Eight) | N/A |
-| 47 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 48 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 49 | [Loosey](http://twitter.com/search?q=Loosey) | N/A |
-| 50 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 42 | [Silver City](http://twitter.com/search?q=Silver+City) | N/A |
+| 43 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 44 | [Druid](http://twitter.com/search?q=Druid) | N/A |
+| 45 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 46 | [Harri](http://twitter.com/search?q=Harri) | N/A |
+| 47 | [Druski](http://twitter.com/search?q=Druski) | N/A |
+| 48 | [GAMERA](http://twitter.com/search?q=GAMERA) | N/A |
+| 49 | [Chuck Wendig](http://twitter.com/search?q=Chuck+Wendig) | N/A |
+| 50 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
 
 
 

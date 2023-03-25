@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-03-25 09:17:05 UTC`
+📆 Last Updated: `2023-03-25 10:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RahulGandhiDisqualified](http://twitter.com/search?q=%23RahulGandhiDisqualified) | N/A |
-| 2 | [#RealmeC55OnFlipkart](http://twitter.com/search?q=%23RealmeC55OnFlipkart) | N/A |
-| 3 | [#ModiInMahaSangama](http://twitter.com/search?q=%23ModiInMahaSangama) | N/A |
-| 4 | [#CelioDoitYourWay](http://twitter.com/search?q=%23CelioDoitYourWay) | N/A |
-| 5 | [Engineering Drawing](http://twitter.com/search?q=Engineering+Drawing) | N/A |
-| 6 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 7 | [प्रमोद तिवारी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%8b%e0%a4%a6+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 8 | [AYESHA AS SAI HITS 800](http://twitter.com/search?q=AYESHA+AS+SAI+HITS+800) | N/A |
+| 1 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 2 | [#AmitShahInChhindwara](http://twitter.com/search?q=%23AmitShahInChhindwara) | N/A |
+| 3 | [#1WeekOfMrsChatterjee](http://twitter.com/search?q=%231WeekOfMrsChatterjee) | N/A |
+| 4 | [#ModiInMahaSangama](http://twitter.com/search?q=%23ModiInMahaSangama) | N/A |
+| 5 | [#RahulGandhiDisqualified](http://twitter.com/search?q=%23RahulGandhiDisqualified) | N/A |
+| 6 | [JohnWick Chapter4 In India](http://twitter.com/search?q=JohnWick+Chapter4+In+India) | N/A |
+| 7 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
+| 8 | [Engineering Drawing](http://twitter.com/search?q=Engineering+Drawing) | N/A |
 | 9 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
-| 10 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
-| 11 | [SSR Case LongDrawn Out](http://twitter.com/search?q=SSR+Case+LongDrawn+Out) | N/A |
-| 12 | [ICONIC 13 YRS OF GASHMEER](http://twitter.com/search?q=ICONIC+13+YRS+OF+GASHMEER) | N/A |
-| 13 | [TU ZAKHM HAI S2 ON MXPLAYER](http://twitter.com/search?q=TU+ZAKHM+HAI+S2+ON+MXPLAYER) | N/A |
-| 14 | [गणेश शंकर विद्यार्थी](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a5%80) | N/A |
-| 15 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 16 | [सुधीर चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a7%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 17 | [केंद्रीय गृह](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%83%e0%a4%b9) | N/A |
-| 18 | [चतुर्थ स्वरूप](http://twitter.com/search?q=%e0%a4%9a%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 19 | [Whitefield](http://twitter.com/search?q=Whitefield) | N/A |
+| 10 | [प्रमोद तिवारी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%8b%e0%a4%a6+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 11 | [Hawa](http://twitter.com/search?q=Hawa) | N/A |
+| 12 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
+| 13 | [AYESHA AS SAI HITS 800](http://twitter.com/search?q=AYESHA+AS+SAI+HITS+800) | N/A |
+| 14 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
+| 15 | [SSR Case LongDrawn Out](http://twitter.com/search?q=SSR+Case+LongDrawn+Out) | N/A |
+| 16 | [रविशंकर प्रसाद](http://twitter.com/search?q=%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6) | N/A |
+| 17 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 18 | [ICONIC 13 YRS OF GASHMEER](http://twitter.com/search?q=ICONIC+13+YRS+OF+GASHMEER) | N/A |
+| 19 | [TU ZAKHM HAI S2 ON MXPLAYER](http://twitter.com/search?q=TU+ZAKHM+HAI+S2+ON+MXPLAYER) | N/A |
 | 20 | [OBCs](http://twitter.com/search?q=OBCs) | N/A |
-| 21 | [AICC HQ](http://twitter.com/search?q=AICC+HQ) | N/A |
-| 22 | [Rafale](http://twitter.com/search?q=Rafale) | N/A |
-| 23 | [उच्च शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 24 | [Hail CSK](http://twitter.com/search?q=Hail+CSK) | N/A |
-| 25 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
-| 26 | [कांग्रेस मुख्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 27 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 28 | [फिरोज खान](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 29 | [Wake Up Hindu](http://twitter.com/search?q=Wake+Up+Hindu) | N/A |
-| 30 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 31 | [Need Of The Hour](http://twitter.com/search?q=Need+Of+The+Hour) | N/A |
-| 32 | [Varuna](http://twitter.com/search?q=Varuna) | N/A |
-| 33 | [Pragya Thakur](http://twitter.com/search?q=Pragya+Thakur) | N/A |
-| 34 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 35 | [Accused](http://twitter.com/search?q=Accused) | N/A |
-| 36 | [Lalit Modi](http://twitter.com/search?q=Lalit+Modi) | N/A |
-| 37 | [आज़म खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 38 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 39 | [#RahulDisqualified](http://twitter.com/search?q=%23RahulDisqualified) | N/A |
-| 40 | [#1WeekOfMrsChatterjee](http://twitter.com/search?q=%231WeekOfMrsChatterjee) | N/A |
-| 41 | [#BJPWithTSJobAspirants](http://twitter.com/search?q=%23BJPWithTSJobAspirants) | N/A |
-| 42 | [#6SaalUPKhushHaal](http://twitter.com/search?q=%236SaalUPKhushHaal) | N/A |
-| 43 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
-| 44 | [#NaxalFreeIndia](http://twitter.com/search?q=%23NaxalFreeIndia) | N/A |
-| 45 | [#AmitShahInJagdalpur](http://twitter.com/search?q=%23AmitShahInJagdalpur) | N/A |
-| 46 | [#Rover2ndWin](http://twitter.com/search?q=%23Rover2ndWin) | N/A |
-| 47 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
-| 48 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
+| 21 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
+| 22 | [केंद्रीय गृह](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%83%e0%a4%b9) | N/A |
+| 23 | [प्रदेश सरकार](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 24 | [सुधीर चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a7%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
+| 25 | [Tihadi](http://twitter.com/search?q=Tihadi) | N/A |
+| 26 | [Ghandy](http://twitter.com/search?q=Ghandy) | N/A |
+| 27 | [गणेश शंकर विद्यार्थी](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a5%80) | N/A |
+| 28 | [Rafale](http://twitter.com/search?q=Rafale) | N/A |
+| 29 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
+| 30 | [Whitefield](http://twitter.com/search?q=Whitefield) | N/A |
+| 31 | [फिरोज खान](http://twitter.com/search?q=%e0%a4%ab%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%9c+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 32 | [AICC HQ](http://twitter.com/search?q=AICC+HQ) | N/A |
+| 33 | [उच्च शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 34 | [चतुर्थ स्वरूप](http://twitter.com/search?q=%e0%a4%9a%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 35 | [कांग्रेस मुख्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 36 | [तिहाड़ जेल](http://twitter.com/search?q=%e0%a4%a4%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a1%e0%a4%bc+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 37 | [Hail CSK](http://twitter.com/search?q=Hail+CSK) | N/A |
+| 38 | [Wake Up Hindu](http://twitter.com/search?q=Wake+Up+Hindu) | N/A |
+| 39 | [Need Of The Hour](http://twitter.com/search?q=Need+Of+The+Hour) | N/A |
+| 40 | [Lalit Modi](http://twitter.com/search?q=Lalit+Modi) | N/A |
+| 41 | [Pragya Thakur](http://twitter.com/search?q=Pragya+Thakur) | N/A |
+| 42 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 43 | [Accused](http://twitter.com/search?q=Accused) | N/A |
+| 44 | [#RealmeC55OnFlipkart](http://twitter.com/search?q=%23RealmeC55OnFlipkart) | N/A |
+| 45 | [#RahulDisqualified](http://twitter.com/search?q=%23RahulDisqualified) | N/A |
+| 46 | [#CelioDoitYourWay](http://twitter.com/search?q=%23CelioDoitYourWay) | N/A |
+| 47 | [#BJPWithTSJobAspirants](http://twitter.com/search?q=%23BJPWithTSJobAspirants) | N/A |
+| 48 | [#6SaalUPKhushHaal](http://twitter.com/search?q=%236SaalUPKhushHaal) | N/A |
 
 
 

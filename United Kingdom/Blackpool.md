@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-03-25 09:16:31 UTC`
+📆 Last Updated: `2023-03-25 10:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 2 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 3 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 4 | [Goodison](http://twitter.com/search?q=Goodison) | N/A |
-| 5 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 7 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 8 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
-| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 1 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
+| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 5 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 6 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 7 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 8 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 9 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 10 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 11 | [#ItaEng](http://twitter.com/search?q=%23ItaEng) | N/A |
-| 12 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 13 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 15 | [England](http://twitter.com/search?q=England) | N/A |
-| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 17 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 20 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
-| 21 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 22 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 23 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 25 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 27 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 28 | [Wordle 644 X](http://twitter.com/search?q=Wordle+644+X) | N/A |
-| 29 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 30 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 31 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 32 | [BBC News - Principal](http://twitter.com/search?q=BBC+News+-+Principal) | N/A |
-| 33 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 34 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 35 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 36 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 37 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
-| 38 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
-| 39 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 40 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 41 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 42 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 43 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 44 | [Lords](http://twitter.com/search?q=Lords) | N/A |
-| 45 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 46 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 47 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 48 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
-| 49 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
-| 50 | [Lady Day](http://twitter.com/search?q=Lady+Day) | N/A |
+| 11 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 12 | [TAEHYUN](http://twitter.com/search?q=TAEHYUN) | N/A |
+| 13 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 14 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
+| 15 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
+| 16 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 17 | [Wordle 644 X](http://twitter.com/search?q=Wordle+644+X) | N/A |
+| 18 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 19 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
+| 20 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 21 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
+| 22 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 23 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 24 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
+| 25 | [Lords](http://twitter.com/search?q=Lords) | N/A |
+| 26 | [Male](http://twitter.com/search?q=Male) | N/A |
+| 27 | [Sheikh Jassim](http://twitter.com/search?q=Sheikh+Jassim) | N/A |
+| 28 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 30 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 31 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 32 | [#ASongOrMovieForAnythingBlue](http://twitter.com/search?q=%23ASongOrMovieForAnythingBlue) | N/A |
+| 33 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 34 | [#clocksgoforward](http://twitter.com/search?q=%23clocksgoforward) | N/A |
+| 35 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 36 | [#IStandWithPosieParker](http://twitter.com/search?q=%23IStandWithPosieParker) | N/A |
+| 37 | [#gmsf](http://twitter.com/search?q=%23gmsf) | N/A |
+| 38 | [#IStandWithKellieJayKeen](http://twitter.com/search?q=%23IStandWithKellieJayKeen) | N/A |
+| 39 | [#Annunciation](http://twitter.com/search?q=%23Annunciation) | N/A |
+| 40 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
+| 41 | [#TaylorHawkins](http://twitter.com/search?q=%23TaylorHawkins) | N/A |
+| 42 | [#SaturdayMood](http://twitter.com/search?q=%23SaturdayMood) | N/A |
+| 43 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 44 | [#ToriesOut261](http://twitter.com/search?q=%23ToriesOut261) | N/A |
+| 45 | [#smell](http://twitter.com/search?q=%23smell) | N/A |
+| 46 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
+| 47 | [#CovidIsNotOver](http://twitter.com/search?q=%23CovidIsNotOver) | N/A |
+| 48 | [#weekendvibes](http://twitter.com/search?q=%23weekendvibes) | N/A |
+| 49 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 50 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
 
 
 
