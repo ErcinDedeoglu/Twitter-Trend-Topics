@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-03-25 05:17:30 UTC`
+📆 Last Updated: `2023-03-25 06:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,39 +30,39 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 14 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 | 15 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 16 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 18 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
-| 19 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 20 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 21 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 22 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 23 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 16 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 17 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 18 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 19 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
+| 20 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 21 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 22 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 23 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
 | 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 25 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 25 | [Daily Quordle 425](http://twitter.com/search?q=Daily+Quordle+425) | N/A |
 | 26 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 27 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 28 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 29 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 30 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 31 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
-| 32 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 33 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 34 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 35 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 36 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 37 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
-| 38 | [Lyndon Arthur](http://twitter.com/search?q=Lyndon+Arthur) | N/A |
-| 39 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
-| 40 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
-| 41 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 42 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
-| 43 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 28 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 29 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 30 | [daisy jones](http://twitter.com/search?q=daisy+jones) | Daisy Jones is a fictional character created by Taylor Jenkins Reid in her novel Daisy Jones & The Six. The novel follows the rise and fall of Daisy Jones, a talented singer-songwriter in the 1970s, and her band, The Six. The story is told through interviews with the band members and those close to them, as they reflect on their time together. Daisy Jones is a symbol of ambition, resilience, and strength in the face of adversity. |
+| 31 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 32 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 33 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 34 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 35 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 36 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 37 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 38 | [Carlton Palmer](http://twitter.com/search?q=Carlton+Palmer) | N/A |
+| 39 | [Lyndon Arthur](http://twitter.com/search?q=Lyndon+Arthur) | N/A |
+| 40 | [World Athletics](http://twitter.com/search?q=World+Athletics) | N/A |
+| 41 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 42 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
+| 43 | [Eddie Izzard](http://twitter.com/search?q=Eddie+Izzard) | N/A |
 | 44 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 | 45 | [Dorries](http://twitter.com/search?q=Dorries) | N/A |
 | 46 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
 | 47 | [Mondo](http://twitter.com/search?q=Mondo) | N/A |
-| 48 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 48 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
 | 49 | [Dion Dublin](http://twitter.com/search?q=Dion+Dublin) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-25 05:18:23 UTC`
+📆 Last Updated: `2023-03-25 06:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [Babler](http://twitter.com/search?q=Babler) | N/A |
 | 2 | [#autaze](http://twitter.com/search?q=%23autaze) | N/A |
-| 3 | [#DancingStars](http://twitter.com/search?q=%23DancingStars) | N/A |
-| 4 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
-| 5 | [grosz](http://twitter.com/search?q=grosz) | N/A |
-| 6 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 7 | [#spoe](http://twitter.com/search?q=%23spoe) | N/A |
-| 8 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
-| 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 10 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 11 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 12 | [kowall](http://twitter.com/search?q=kowall) | N/A |
-| 13 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
-| 14 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
-| 15 | [vorsitz](http://twitter.com/search?q=vorsitz) | N/A |
-| 16 | [bundespräsident](http://twitter.com/search?q=bundespr%c3%a4sident) | N/A |
-| 17 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 18 | [brunnenmarkt](http://twitter.com/search?q=brunnenmarkt) | N/A |
-| 19 | [personenschützer](http://twitter.com/search?q=personensch%c3%bctzer) | N/A |
-| 20 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 21 | [Rückzug](http://twitter.com/search?q=R%c3%bcckzug) | N/A |
-| 22 | [sellner](http://twitter.com/search?q=sellner) | N/A |
-| 23 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 24 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 25 | [fleischmann](http://twitter.com/search?q=fleischmann) | N/A |
-| 26 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 3 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 4 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 5 | [#DancingStars](http://twitter.com/search?q=%23DancingStars) | N/A |
+| 6 | [#Nagelsmann](http://twitter.com/search?q=%23Nagelsmann) | N/A |
+| 7 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 8 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 9 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
+| 10 | [#FCBayern](http://twitter.com/search?q=%23FCBayern) | N/A |
+| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 12 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 13 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 14 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 15 | [Mitglied](http://twitter.com/search?q=Mitglied) | N/A |
+| 16 | [kowall](http://twitter.com/search?q=kowall) | N/A |
+| 17 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
+| 18 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
+| 19 | [bundespräsident](http://twitter.com/search?q=bundespr%c3%a4sident) | N/A |
+| 20 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 21 | [brunnenmarkt](http://twitter.com/search?q=brunnenmarkt) | N/A |
+| 22 | [personenschützer](http://twitter.com/search?q=personensch%c3%bctzer) | N/A |
+| 23 | [Rückzug](http://twitter.com/search?q=R%c3%bcckzug) | N/A |
+| 24 | [sellner](http://twitter.com/search?q=sellner) | N/A |
+| 25 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 26 | [Vorsitz](http://twitter.com/search?q=Vorsitz) | N/A |
 | 27 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 29 | [gemeinden](http://twitter.com/search?q=gemeinden) | N/A |
 | 30 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
-| 31 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
-| 32 | [gebühr](http://twitter.com/search?q=geb%c3%bchr) | N/A |
-| 33 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
-| 34 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 35 | [Walach](http://twitter.com/search?q=Walach) | N/A |
-| 36 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 37 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
-| 38 | [dynamik](http://twitter.com/search?q=dynamik) | N/A |
-| 39 | [schauspiel](http://twitter.com/search?q=schauspiel) | N/A |
+| 31 | [gebühr](http://twitter.com/search?q=geb%c3%bchr) | N/A |
+| 32 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
+| 33 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 34 | [Walach](http://twitter.com/search?q=Walach) | N/A |
+| 35 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 36 | [Respekt](http://twitter.com/search?q=Respekt) | N/A |
+| 37 | [dynamik](http://twitter.com/search?q=dynamik) | N/A |
+| 38 | [Bürgermeister](http://twitter.com/search?q=B%c3%bcrgermeister) | N/A |
+| 39 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
 | 40 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
 | 41 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 | 42 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 43 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 44 | ["Berater"](http://twitter.com/search?q=%22Berater%22) | N/A |
-| 45 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
-| 46 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 43 | [Rosemarie](http://twitter.com/search?q=Rosemarie) | N/A |
+| 44 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 45 | ["Berater"](http://twitter.com/search?q=%22Berater%22) | N/A |
+| 46 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
 | 47 | [Parteichef](http://twitter.com/search?q=Parteichef) | N/A |
 | 48 | [stichwahl](http://twitter.com/search?q=stichwahl) | N/A |
 | 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 50 | [kasperltheater](http://twitter.com/search?q=kasperltheater) | N/A |
+| 50 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
 
 
 

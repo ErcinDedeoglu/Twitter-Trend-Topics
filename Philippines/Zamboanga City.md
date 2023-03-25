@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-25 05:17:58 UTC`
+📆 Last Updated: `2023-03-25 06:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
+| 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
 | 2 | [#おかえり真史帆](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8b%e3%81%88%e3%82%8a%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
-| 3 | [KDays 200K ON SPOTIFY](http://twitter.com/search?q=KDays+200K+ON+SPOTIFY) | N/A |
-| 4 | [LUXESLIM ALEXA BILLBOARD](http://twitter.com/search?q=LUXESLIM+ALEXA+BILLBOARD) | N/A |
-| 5 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
-| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 7 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
-| 8 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 9 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
-| 10 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 11 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
-| 12 | [VICEION 53rd MONTHSARY](http://twitter.com/search?q=VICEION+53rd+MONTHSARY) | N/A |
-| 13 | [SETH NEWEST BNY AMBASSADOR](http://twitter.com/search?q=SETH+NEWEST+BNY+AMBASSADOR) | N/A |
-| 14 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 15 | [Imee](http://twitter.com/search?q=Imee) | N/A |
-| 16 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 17 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 18 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
-| 19 | [Aroha](http://twitter.com/search?q=Aroha) | N/A |
-| 20 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 21 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 22 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 23 | [Justine](http://twitter.com/search?q=Justine) | N/A |
-| 24 | [Happy 25th](http://twitter.com/search?q=Happy+25th) | N/A |
-| 25 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 26 | [NAMISS KA NAMIN ROSÉ](http://twitter.com/search?q=NAMISS+KA+NAMIN+ROS%c3%89) | N/A |
-| 27 | [MOONBIN](http://twitter.com/search?q=MOONBIN) | N/A |
-| 28 | [Happy 5th Anniversary](http://twitter.com/search?q=Happy+5th+Anniversary) | N/A |
-| 29 | [Ingat](http://twitter.com/search?q=Ingat) | N/A |
-| 30 | [#GoUSTe](http://twitter.com/search?q=%23GoUSTe) | N/A |
-| 31 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
-| 32 | [#DIFFUSIONinMNL_Giveaway](http://twitter.com/search?q=%23DIFFUSIONinMNL_Giveaway) | N/A |
-| 33 | [#UnflinchingDLSU](http://twitter.com/search?q=%23UnflinchingDLSU) | N/A |
-| 34 | [#AlexaIlacad](http://twitter.com/search?q=%23AlexaIlacad) | N/A |
-| 35 | [#IonPerez](http://twitter.com/search?q=%23IonPerez) | N/A |
-| 36 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 37 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 3 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
+| 4 | [KDays 200K ON SPOTIFY](http://twitter.com/search?q=KDays+200K+ON+SPOTIFY) | N/A |
+| 5 | [LUXESLIM ALEXA BILLBOARD](http://twitter.com/search?q=LUXESLIM+ALEXA+BILLBOARD) | N/A |
+| 6 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
+| 7 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 8 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 9 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [#ฟรีนเบคFanBoom](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoom) | N/A |
+| 12 | [OUR SONG](http://twitter.com/search?q=OUR+SONG) | N/A |
+| 13 | [YIXING](http://twitter.com/search?q=YIXING) | N/A |
+| 14 | [Maji](http://twitter.com/search?q=Maji) | N/A |
+| 15 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
+| 16 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 17 | [VICEION 53rd MONTHSARY](http://twitter.com/search?q=VICEION+53rd+MONTHSARY) | N/A |
+| 18 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
+| 19 | [Imee](http://twitter.com/search?q=Imee) | N/A |
+| 20 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 21 | [Cassie](http://twitter.com/search?q=Cassie) | N/A |
+| 22 | [SETH NEWEST BNY AMBASSADOR](http://twitter.com/search?q=SETH+NEWEST+BNY+AMBASSADOR) | N/A |
+| 23 | [P'Freen](http://twitter.com/search?q=P%27Freen) | N/A |
+| 24 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 25 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 26 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
+| 27 | [Aroha](http://twitter.com/search?q=Aroha) | N/A |
+| 28 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 29 | [Yedam](http://twitter.com/search?q=Yedam) | N/A |
+| 30 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 31 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
+| 32 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
+| 33 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 34 | [#GoUSTe](http://twitter.com/search?q=%23GoUSTe) | N/A |
+| 35 | [#DIFFUSIONinMNL_Giveaway](http://twitter.com/search?q=%23DIFFUSIONinMNL_Giveaway) | N/A |
+| 36 | [#BarDaTWYLAMMV](http://twitter.com/search?q=%23BarDaTWYLAMMV) | N/A |
+| 37 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 | 38 | [#KDEstrada](http://twitter.com/search?q=%23KDEstrada) | N/A |
-| 39 | [#BNYComfySummer](http://twitter.com/search?q=%23BNYComfySummer) | N/A |
-| 40 | [#BLACKPINKMANILA_BULACAN](http://twitter.com/search?q=%23BLACKPINKMANILA_BULACAN) | N/A |
-| 41 | [#HORI7ON_GoesToGenTrias](http://twitter.com/search?q=%23HORI7ON_GoesToGenTrias) | N/A |
-| 42 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
-| 43 | [#STREAM_Rockwithyou](http://twitter.com/search?q=%23STREAM_Rockwithyou) | N/A |
-| 44 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
-| 45 | [#BOYCOTTEBxAPTxGMA745](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA745) | N/A |
-| 46 | [#BarDaWayYouLookAtMeMV](http://twitter.com/search?q=%23BarDaWayYouLookAtMeMV) | N/A |
-| 47 | [#LazadaPH](http://twitter.com/search?q=%23LazadaPH) | N/A |
-| 48 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 49 | [#髙田真史帆](http://twitter.com/search?q=%23%e9%ab%99%e7%94%b0%e7%9c%9f%e5%8f%b2%e5%b8%86) | N/A |
+| 39 | [#AlexaIlacad](http://twitter.com/search?q=%23AlexaIlacad) | N/A |
+| 40 | [#IonPerez](http://twitter.com/search?q=%23IonPerez) | N/A |
+| 41 | [#UnflinchingDLSU](http://twitter.com/search?q=%23UnflinchingDLSU) | N/A |
+| 42 | [#BNYComfySummer](http://twitter.com/search?q=%23BNYComfySummer) | N/A |
+| 43 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 44 | [#BLACKPINKMANILA_BULACAN](http://twitter.com/search?q=%23BLACKPINKMANILA_BULACAN) | N/A |
+| 45 | [#HORI7ON_GoesToGenTrias](http://twitter.com/search?q=%23HORI7ON_GoesToGenTrias) | N/A |
+| 46 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
+| 47 | [#STREAM_Rockwithyou](http://twitter.com/search?q=%23STREAM_Rockwithyou) | N/A |
+| 48 | [#SANHA](http://twitter.com/search?q=%23SANHA) | N/A |
+| 49 | [#LazadaPH](http://twitter.com/search?q=%23LazadaPH) | N/A |
 
 
 

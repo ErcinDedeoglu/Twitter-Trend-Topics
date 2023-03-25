@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-25 05:17:41 UTC`
+📆 Last Updated: `2023-03-25 06:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#leivsto](http://twitter.com/search?q=%23leivsto) | N/A |
-| 2 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 3 | [#Blockrockinbeats](http://twitter.com/search?q=%23Blockrockinbeats) | N/A |
+| 2 | [#Blockrockinbeats](http://twitter.com/search?q=%23Blockrockinbeats) | N/A |
+| 3 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
 | 4 | [graham dwyer](http://twitter.com/search?q=graham+dwyer) | N/A |
 | 5 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
 | 6 | [daffodil day](http://twitter.com/search?q=daffodil+day) | N/A |
@@ -29,7 +29,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 12 | [Holland](http://twitter.com/search?q=Holland) | N/A |
 | 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 14 | [irish cancer society](http://twitter.com/search?q=irish+cancer+society) | N/A |
-| 15 | [Elaine O'Hara](http://twitter.com/search?q=Elaine+O%27Hara) | N/A |
+| 15 | [elaine o'hara](http://twitter.com/search?q=elaine+o%27hara) | N/A |
 | 16 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
 | 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 18 | [Minister for Justice](http://twitter.com/search?q=Minister+for+Justice) | N/A |
@@ -40,15 +40,15 @@ This is top 50 for [Ireland](</Ireland>)
 | 23 | [Dutch](http://twitter.com/search?q=Dutch) | N/A |
 | 24 | [annie mccarrick](http://twitter.com/search?q=annie+mccarrick) | N/A |
 | 25 | [Alan Kelly](http://twitter.com/search?q=Alan+Kelly) | N/A |
-| 26 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
-| 27 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 26 | [paul mcgrath](http://twitter.com/search?q=paul+mcgrath) | N/A |
+| 27 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 28 | [Meta](http://twitter.com/search?q=Meta) | N/A |
 | 29 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 30 | [John Bolton](http://twitter.com/search?q=John+Bolton) | N/A |
 | 31 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
 | 32 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 33 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 34 | [harps](http://twitter.com/search?q=harps) | N/A |
+| 33 | [armagh](http://twitter.com/search?q=armagh) | N/A |
+| 34 | [Harps](http://twitter.com/search?q=Harps) | N/A |
 | 35 | [baby john](http://twitter.com/search?q=baby+john) | N/A |
 | 36 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
 | 37 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |

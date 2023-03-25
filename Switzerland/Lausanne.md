@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-25 05:17:48 UTC`
+📆 Last Updated: `2023-03-25 06:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 2 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 3 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 5 | [#EndTB](http://twitter.com/search?q=%23EndTB) | N/A |
-| 6 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
-| 7 | [#behindertensession](http://twitter.com/search?q=%23behindertensession) | N/A |
+| 4 | [#EndTB](http://twitter.com/search?q=%23EndTB) | N/A |
+| 5 | [#WorldTBDay](http://twitter.com/search?q=%23WorldTBDay) | N/A |
+| 6 | [#behindertensession](http://twitter.com/search?q=%23behindertensession) | N/A |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 8 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 12 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
-| 13 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 15 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 16 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 17 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
-| 18 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 19 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 20 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
-| 21 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
-| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 23 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 24 | [achso](http://twitter.com/search?q=achso) | N/A |
-| 25 | [Welle](http://twitter.com/search?q=Welle) | N/A |
-| 26 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 27 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
-| 28 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 29 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 30 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 31 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 32 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 33 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 34 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 35 | [kleidung](http://twitter.com/search?q=kleidung) | N/A |
-| 36 | [Perspektive](http://twitter.com/search?q=Perspektive) | N/A |
-| 37 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 38 | [Serbie](http://twitter.com/search?q=Serbie) | N/A |
+| 9 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
+| 10 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 11 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 14 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
+| 15 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 16 | [Jogginghose](http://twitter.com/search?q=Jogginghose) | N/A |
+| 17 | [valérie dittli](http://twitter.com/search?q=val%c3%a9rie+dittli) | N/A |
+| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [Achso](http://twitter.com/search?q=Achso) | N/A |
+| 23 | [Welle](http://twitter.com/search?q=Welle) | N/A |
+| 24 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
+| 25 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 26 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 27 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 28 | [Masken](http://twitter.com/search?q=Masken) | N/A |
+| 29 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 30 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 31 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 32 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
+| 33 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 34 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 35 | [Perspektive](http://twitter.com/search?q=Perspektive) | N/A |
+| 36 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 37 | [Serbie](http://twitter.com/search?q=Serbie) | N/A |
+| 38 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 39 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
 | 40 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 41 | [Modi](http://twitter.com/search?q=Modi) | N/A |
 | 42 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
 | 43 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 44 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 44 | [Luffy](http://twitter.com/search?q=Luffy) | N/A |
 | 45 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
-| 46 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 47 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 48 | [Allemagne](http://twitter.com/search?q=Allemagne) | N/A |
+| 46 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 47 | [Allemagne](http://twitter.com/search?q=Allemagne) | N/A |
+| 48 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 
 
 
