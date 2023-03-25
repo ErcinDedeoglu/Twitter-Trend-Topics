@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-25 07:18:53 UTC`
+📆 Last Updated: `2023-03-25 08:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,42 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 2 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 3 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 4 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 5 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
-| 6 | [#SCJN](http://twitter.com/search?q=%23SCJN) | N/A |
+| 1 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 2 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 3 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 4 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 5 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
+| 6 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
 | 7 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
-| 8 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
+| 8 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
 | 9 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
-| 10 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 11 | [#AldoGeoEsUnNahual](http://twitter.com/search?q=%23AldoGeoEsUnNahual) | N/A |
-| 12 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
-| 13 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 10 | [Di Yorio](http://twitter.com/search?q=Di+Yorio) | N/A |
+| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 12 | [#YoConfioEnLaCorte](http://twitter.com/search?q=%23YoConfioEnLaCorte) | N/A |
+| 13 | [La Ley](http://twitter.com/search?q=La+Ley) | N/A |
 | 14 | [Bertha Alcalde](http://twitter.com/search?q=Bertha+Alcalde) | N/A |
-| 15 | [La Ley](http://twitter.com/search?q=La+Ley) | N/A |
-| 16 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 17 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
-| 18 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 19 | [Sabrina Enciso](http://twitter.com/search?q=Sabrina+Enciso) | N/A |
-| 20 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 21 | [Estado de Derecho](http://twitter.com/search?q=Estado+de+Derecho) | N/A |
-| 22 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 23 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 24 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 25 | [Reforma Electoral](http://twitter.com/search?q=Reforma+Electoral) | N/A |
-| 26 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
-| 27 | [Granada](http://twitter.com/search?q=Granada) | N/A |
-| 28 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [Femenil](http://twitter.com/search?q=Femenil) | N/A |
-| 31 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 32 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 33 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 34 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 35 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 36 | [Zedillo](http://twitter.com/search?q=Zedillo) | N/A |
-| 37 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
-| 38 | [Juncal](http://twitter.com/search?q=Juncal) | N/A |
-| 39 | [ISSSTE](http://twitter.com/search?q=ISSSTE) | N/A |
-| 40 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 41 | [Resident Evil 4](http://twitter.com/search?q=Resident+Evil+4) | N/A |
-| 42 | [#YoConfioEnLaCorte](http://twitter.com/search?q=%23YoConfioEnLaCorte) | N/A |
-| 43 | [#YodefiendoaINE](http://twitter.com/search?q=%23YodefiendoaINE) | N/A |
-| 44 | [#MareaRosa](http://twitter.com/search?q=%23MareaRosa) | N/A |
-| 45 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 46 | [#SeguimosEnMarcha](http://twitter.com/search?q=%23SeguimosEnMarcha) | N/A |
-| 47 | [#YesungSoloLatam](http://twitter.com/search?q=%23YesungSoloLatam) | N/A |
-| 48 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
-| 49 | [#CloudDay](http://twitter.com/search?q=%23CloudDay) | N/A |
-| 50 | [#BrightWinSBSTourInLATAM](http://twitter.com/search?q=%23BrightWinSBSTourInLATAM) | N/A |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
+| 17 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 18 | [Sabrina Enciso](http://twitter.com/search?q=Sabrina+Enciso) | N/A |
+| 19 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 20 | [Estado de Derecho](http://twitter.com/search?q=Estado+de+Derecho) | N/A |
+| 21 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 22 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 23 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 24 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 25 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 26 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 29 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 30 | [Zedillo](http://twitter.com/search?q=Zedillo) | N/A |
+| 31 | [#YodefiendoaINE](http://twitter.com/search?q=%23YodefiendoaINE) | N/A |
+| 32 | [#MareaRosa](http://twitter.com/search?q=%23MareaRosa) | N/A |
+| 33 | [#YesungSoloLatam](http://twitter.com/search?q=%23YesungSoloLatam) | N/A |
+| 34 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
+| 35 | [#CloudDay](http://twitter.com/search?q=%23CloudDay) | N/A |
+| 36 | [#PinaEsLaNuevaGarciaLuna](http://twitter.com/search?q=%23PinaEsLaNuevaGarciaLuna) | N/A |
 
 
 

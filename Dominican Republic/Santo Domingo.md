@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-25 07:18:51 UTC`
+📆 Last Updated: `2023-03-25 08:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,13 +16,13 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CumbreRD2023](http://twitter.com/search?q=%23CumbreRD2023) | N/A |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
-| 4 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 5 | [Rey de España](http://twitter.com/search?q=Rey+de+Espa%c3%b1a) | N/A |
-| 6 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 7 | [#QueremosPanNoCirco](http://twitter.com/search?q=%23QueremosPanNoCirco) | N/A |
-| 8 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 2 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
+| 3 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 4 | [Rey de España](http://twitter.com/search?q=Rey+de+Espa%c3%b1a) | N/A |
+| 5 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 6 | [#queremospannocirco](http://twitter.com/search?q=%23queremospannocirco) | N/A |
+| 7 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 9 | [Julio Sabala](http://twitter.com/search?q=Julio+Sabala) | N/A |
 | 10 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
 | 11 | [Selena](http://twitter.com/search?q=Selena) | N/A |
@@ -31,10 +31,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 14 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 15 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
 | 16 | [Alomar](http://twitter.com/search?q=Alomar) | N/A |
-| 17 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 18 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
-| 19 | [Consuelo](http://twitter.com/search?q=Consuelo) | N/A |
-| 20 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 17 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 18 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 19 | [Marino Zapete](http://twitter.com/search?q=Marino+Zapete) | N/A |
+| 20 | [Consuelo](http://twitter.com/search?q=Consuelo) | N/A |
 | 21 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 22 | [gonzalo castillo](http://twitter.com/search?q=gonzalo+castillo) | N/A |
 | 23 | [Gabriel Boric](http://twitter.com/search?q=Gabriel+Boric) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 35 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
 | 36 | [Día Nacional](http://twitter.com/search?q=D%c3%ada+Nacional) | N/A |
 | 37 | [sufragistas](http://twitter.com/search?q=sufragistas) | N/A |
-| 38 | [Día Mundial de la Tuberculosis](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Tuberculosis) | N/A |
+| 38 | [día mundial de la tuberculosis](http://twitter.com/search?q=d%c3%ada+mundial+de+la+tuberculosis) | N/A |
 | 39 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 40 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
 | 41 | [Siria](http://twitter.com/search?q=Siria) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 45 | [Yami](http://twitter.com/search?q=Yami) | N/A |
 | 46 | [nashla](http://twitter.com/search?q=nashla) | N/A |
 | 47 | [Casandra](http://twitter.com/search?q=Casandra) | N/A |
-| 48 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 49 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 50 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 48 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 49 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 50 | [Brito](http://twitter.com/search?q=Brito) | N/A |
 
 
 

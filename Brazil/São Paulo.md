@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-25 07:18:57 UTC`
+📆 Last Updated: `2023-03-25 08:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,45 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
-| 2 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 4 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 5 | [Globoplay](http://twitter.com/search?q=Globoplay) | N/A |
-| 6 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 7 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 8 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 9 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
-| 10 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 11 | [Safadão](http://twitter.com/search?q=Safad%c3%a3o) | N/A |
-| 12 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 13 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 14 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
-| 15 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
-| 16 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 17 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
-| 18 | [Clube Atlético Mineiro](http://twitter.com/search?q=Clube+Atl%c3%a9tico+Mineiro) | N/A |
-| 19 | [kali](http://twitter.com/search?q=kali) | N/A |
-| 20 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
-| 21 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 22 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 23 | [Re:Zero](http://twitter.com/search?q=Re%3aZero) | N/A |
-| 24 | [JG E WS NO BBB](http://twitter.com/search?q=JG+E+WS+NO+BBB) | N/A |
-| 25 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 26 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 27 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
-| 28 | [DIA DE GRÊMIO](http://twitter.com/search?q=DIA+DE+GR%c3%8aMIO) | N/A |
-| 29 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 30 | [Mashiho](http://twitter.com/search?q=Mashiho) | N/A |
-| 31 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 32 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 33 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 34 | [conan gray](http://twitter.com/search?q=conan+gray) | N/A |
-| 35 | [ocean eyes](http://twitter.com/search?q=ocean+eyes) | N/A |
-| 36 | [Golden State Warriors](http://twitter.com/search?q=Golden+State+Warriors) | N/A |
-| 37 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 38 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 39 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 40 | [david brasil](http://twitter.com/search?q=david+brasil) | N/A |
-| 41 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
-| 42 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
-| 43 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 44 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
-| 45 | [Jujutsu](http://twitter.com/search?q=Jujutsu) | N/A |
-| 46 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 47 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
-| 48 | [Lucas Braga](http://twitter.com/search?q=Lucas+Braga) | N/A |
-| 49 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 50 | [Larissa e Bruna](http://twitter.com/search?q=Larissa+e+Bruna) | Larissa e Bruna is a Brazilian telenovela that aired on Rede Globo from April to October 2019. The show follows the story of two sisters, Larissa and Bruna, who are separated at birth and later reunited as adults. In English, the title translates to "Larissa and Bruna". |
+| 2 | [kali](http://twitter.com/search?q=kali) | N/A |
+| 3 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 4 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 5 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 6 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
+| 7 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 8 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 9 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
+| 10 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 11 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
+| 12 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
+| 13 | [SNOW ON THE BEACH](http://twitter.com/search?q=SNOW+ON+THE+BEACH) | N/A |
+| 14 | [Clube Atlético Mineiro](http://twitter.com/search?q=Clube+Atl%c3%a9tico+Mineiro) | N/A |
+| 15 | [Lollapalooza](http://twitter.com/search?q=Lollapalooza) | N/A |
+| 16 | [Wesley Safadão](http://twitter.com/search?q=Wesley+Safad%c3%a3o) | N/A |
+| 17 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 18 | [Re:Zero](http://twitter.com/search?q=Re%3aZero) | N/A |
+| 19 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 20 | [Finneas](http://twitter.com/search?q=Finneas) | N/A |
+| 21 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 22 | [DIA DE GRÊMIO](http://twitter.com/search?q=DIA+DE+GR%c3%8aMIO) | N/A |
+| 23 | [Mashiho](http://twitter.com/search?q=Mashiho) | N/A |
+| 24 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 25 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 26 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 28 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 29 | [conan gray](http://twitter.com/search?q=conan+gray) | N/A |
+| 30 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
+| 31 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 32 | [Nego](http://twitter.com/search?q=Nego) | Nego is short for negotiation, which is the process of discussing and attempting to reach an agreement between two or more parties. Negotiation typically involves compromise and finding a solution that both parties can agree on. |
+| 33 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 34 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 35 | [Rise Against](http://twitter.com/search?q=Rise+Against) | N/A |
+| 36 | [Larissa e Bruna](http://twitter.com/search?q=Larissa+e+Bruna) | Larissa e Bruna is a Brazilian telenovela that aired on Rede Globo from April to October 2019. The show follows the story of two sisters, Larissa and Bruna, who are separated at birth and later reunited as adults. In English, the title translates to "Larissa and Bruna". |
+| 37 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 38 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 39 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 40 | [#MariaDoBairroNoVIVA](http://twitter.com/search?q=%23MariaDoBairroNoVIVA) | N/A |
 
 
 

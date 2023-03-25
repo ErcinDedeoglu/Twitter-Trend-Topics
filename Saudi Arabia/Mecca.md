@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-03-25 07:19:18 UTC`
+📆 Last Updated: `2023-03-25 08:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 1 | [#مكافاه_مصرف_الراجحي](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
 | 2 | [#رمضان_مع_ابوفهد](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af) | N/A |
 | 3 | [#السعوديه_فنزويلا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d9%81%d9%86%d8%b2%d9%88%d9%8a%d9%84%d8%a7) | N/A |
-| 4 | [#فوازير_غازي_الذيابي](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a) | N/A |
+| 4 | [#استقبال_ولي_العهد_للمواطنين](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%aa%d9%82%d8%a8%d8%a7%d9%84_%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d9%84%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86) | N/A |
 | 5 | [#استقبال_ولي_العهد_للمواطنين](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%aa%d9%82%d8%a8%d8%a7%d9%84_%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d9%84%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%8a%d9%86) | N/A |
 | 6 | [السنه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 7 | [مطار الملك](http://twitter.com/search?q=%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d9%84%d9%83) | مطار الملك (King Khalid International Airport) is an airport located 35 kilometers north of Riyadh, the capital of Saudi Arabia. It is the largest airport in the country and serves as a hub for Saudia, Flynas, and Saudi Arabian Airlines. In English, it translates to King Khalid International Airport. |
 | 8 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
 | 9 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
 | 10 | [سعد بن معاذ](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d9%85%d8%b9%d8%a7%d8%b0) | N/A |
-| 11 | [السوال الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 12 | [الصحابي الجليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
-| 13 | [ناصر القصبي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%82%d8%b5%d8%a8%d9%8a) | N/A |
-| 14 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 15 | [الملايكه المترددات](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%a7%d9%8a%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%af%d8%af%d8%a7%d8%aa) | N/A |
+| 11 | [الصحابي الجليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
+| 12 | [ناصر القصبي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d9%82%d8%b5%d8%a8%d9%8a) | N/A |
+| 13 | [السوال الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 14 | [الملايكه المترددات](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%a7%d9%8a%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%af%d8%af%d8%a7%d8%aa) | N/A |
+| 15 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
 | 16 | [فهد بن جلوي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a8%d9%86+%d8%ac%d9%84%d9%88%d9%8a) | N/A |
-| 17 | [علم المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 18 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
-| 19 | [عثمان بن عفان رضي](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86+%d8%b1%d8%b6%d9%8a) | N/A |
+| 17 | [عثمان بن عفان رضي](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d9%81%d8%a7%d9%86+%d8%b1%d8%b6%d9%8a) | N/A |
+| 18 | [علم المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 19 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
 | 20 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 21 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 22 | [سلمان الدولي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 21 | [سلمان الدولي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 22 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 | 23 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
 | 24 | [اللهجه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d8%ac%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
 | 25 | [كوكب الزهره](http://twitter.com/search?q=%d9%83%d9%88%d9%83%d8%a8+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d9%87) | N/A |
 | 26 | [الشهر الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 27 | [حبيب الحبيب](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 28 | [عبدالعزيز وبندر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d9%88%d8%a8%d9%86%d8%af%d8%b1) | N/A |
-| 29 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 30 | [مشاري](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a) | N/A |
-| 31 | [سان مارتن](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86+%d9%85%d8%a7%d8%b1%d8%aa%d9%86) | N/A |
-| 32 | [سعد وسلطان](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d9%88%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 33 | [الحلقه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 27 | [عبدالعزيز وبندر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d9%88%d8%a8%d9%86%d8%af%d8%b1) | N/A |
+| 28 | [الحلقه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 29 | [سان مارتن](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86+%d9%85%d8%a7%d8%b1%d8%aa%d9%86) | N/A |
+| 30 | [سعد وسلطان](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d9%88%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 31 | [الحلقه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 32 | [حبيب الحبيب](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 33 | [مشاري](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a) | N/A |
 | 34 | [علي الفطور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
-| 35 | [هولندا](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7) | N/A |
-| 36 | [السدحان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%af%d8%ad%d8%a7%d9%86) | N/A |
-| 37 | [لبيد بن](http://twitter.com/search?q=%d9%84%d8%a8%d9%8a%d8%af+%d8%a8%d9%86) | N/A |
-| 38 | [السيارات الفاخره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d9%87) | N/A |
-| 39 | [التوكيلات العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%83%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 40 | [رونالدينهو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 41 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
-| 42 | [صوت توجي](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%aa%d9%88%d8%ac%d9%8a) | N/A |
-| 43 | [عبدالصمد القرشي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b5%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%b1%d8%b4%d9%8a) | N/A |
-| 44 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 45 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 46 | [الفطره السليمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b7%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d9%85%d9%87) | N/A |
-| 47 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 48 | [سوزا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b2%d8%a7) | N/A |
-| 49 | [حمد الخزينه](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d8%b2%d9%8a%d9%86%d9%87) | N/A |
-| 50 | [الحاله اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 35 | [السدحان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%af%d8%ad%d8%a7%d9%86) | N/A |
+| 36 | [السيارات الفاخره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%81%d8%a7%d8%ae%d8%b1%d9%87) | N/A |
+| 37 | [التوكيلات العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%83%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 38 | [هولندا](http://twitter.com/search?q=%d9%87%d9%88%d9%84%d9%86%d8%af%d8%a7) | N/A |
+| 39 | [رونالدينهو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 40 | [WELCOME BACK MASHIHO](http://twitter.com/search?q=WELCOME+BACK+MASHIHO) | N/A |
+| 41 | [عبدالصمد القرشي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b5%d9%85%d8%af+%d8%a7%d9%84%d9%82%d8%b1%d8%b4%d9%8a) | N/A |
+| 42 | [الفطره السليمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b7%d8%b1%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d9%8a%d9%85%d9%87) | N/A |
+| 43 | [صوت توجي](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%aa%d9%88%d8%ac%d9%8a) | N/A |
+| 44 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 45 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 46 | [مودي صوت](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d9%8a+%d8%b5%d9%88%d8%aa) | N/A |
+| 47 | [حمد الخزينه](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d8%b2%d9%8a%d9%86%d9%87) | N/A |
+| 48 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 49 | [شاي كرك](http://twitter.com/search?q=%d8%b4%d8%a7%d9%8a+%d9%83%d8%b1%d9%83) | N/A |
+| 50 | [25 مارس 2023](http://twitter.com/search?q=25+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
 
 
 

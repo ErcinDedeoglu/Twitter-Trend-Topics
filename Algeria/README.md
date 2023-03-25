@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-25 07:19:35 UTC`
+📆 Last Updated: `2023-03-25 08:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,17 +23,17 @@ This is top 50 for Algeria
 | 6 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
 | 7 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
 | 8 | [#الجزاير_النيجر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1_%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d8%b1) | N/A |
-| 9 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 10 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 11 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
-| 12 | [رمضان كريم](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 13 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 14 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 15 | [ايت نوري](http://twitter.com/search?q=%d8%a7%d9%8a%d8%aa+%d9%86%d9%88%d8%b1%d9%8a) | N/A |
-| 16 | [بن طالب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 17 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 18 | [اليوم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 19 | [بدر الدين](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 9 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 10 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
+| 11 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 12 | [رمضان مبارك](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 13 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 14 | [ايت نوري](http://twitter.com/search?q=%d8%a7%d9%8a%d8%aa+%d9%86%d9%88%d8%b1%d9%8a) | N/A |
+| 15 | [بن طالب](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 17 | [اليوم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 18 | [بدر الدين](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 19 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
 | 20 | [Mandi](http://twitter.com/search?q=Mandi) | N/A |
 | 21 | [الامن الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 | 22 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Algeria
 | 43 | [نور الجزايريه](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 44 | [التشكيله الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d9%83%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
 | 45 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 46 | [الفريق الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 47 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 48 | [ايمان خليف](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%a7%d9%86+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
-| 49 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
-| 50 | [التلفزيون الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 46 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 47 | [ايمان خليف](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%a7%d9%86+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
+| 48 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
+| 49 | [التلفزيون الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 50 | [La France](http://twitter.com/search?q=La+France) | N/A |
 
 
 

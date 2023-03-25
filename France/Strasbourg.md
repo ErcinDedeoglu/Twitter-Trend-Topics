@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-25 07:19:01 UTC`
+📆 Last Updated: `2023-03-25 08:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
 | 2 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 3 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 4 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 5 | [#FrancePaysBas](http://twitter.com/search?q=%23FrancePaysBas) | N/A |
-| 6 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
+| 3 | [#BeMoreFrench](http://twitter.com/search?q=%23BeMoreFrench) | N/A |
+| 4 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 5 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 6 | [#FrancePaysBas](http://twitter.com/search?q=%23FrancePaysBas) | N/A |
 | 7 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
 | 8 | [#FRAPBS](http://twitter.com/search?q=%23FRAPBS) | N/A |
 | 9 | [#manif23mars](http://twitter.com/search?q=%23manif23mars) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [France](</France>)
 | 11 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
 | 12 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
 | 13 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 14 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 15 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
-| 16 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 18 | [Randal](http://twitter.com/search?q=Randal) | N/A |
+| 14 | [Bordeaux](http://twitter.com/search?q=Bordeaux) | N/A |
+| 15 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 17 | [Randal](http://twitter.com/search?q=Randal) | N/A |
+| 18 | [Toji](http://twitter.com/search?q=Toji) | N/A |
 | 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 20 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 21 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
-| 22 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 23 | [L'équipe de France](http://twitter.com/search?q=L%27%c3%a9quipe+de+France) | N/A |
-| 24 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 25 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 26 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 27 | [Hypocrisie](http://twitter.com/search?q=Hypocrisie) | N/A |
-| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 29 | [3 de Re](http://twitter.com/search?q=3+de+Re) | N/A |
-| 30 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 31 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 32 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 33 | [Konaté](http://twitter.com/search?q=Konat%c3%a9) | N/A |
-| 34 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 35 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
-| 36 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 37 | [Toji](http://twitter.com/search?q=Toji) | N/A |
-| 38 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 39 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 40 | [Namibie](http://twitter.com/search?q=Namibie) | N/A |
-| 41 | [Allez les Bleus](http://twitter.com/search?q=Allez+les+Bleus) | N/A |
-| 42 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 43 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 44 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 45 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 46 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 47 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
-| 48 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 49 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
-| 50 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 20 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 21 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 23 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 24 | [L'équipe de France](http://twitter.com/search?q=L%27%c3%a9quipe+de+France) | N/A |
+| 25 | [Kaori](http://twitter.com/search?q=Kaori) | N/A |
+| 26 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
+| 27 | [Konaté](http://twitter.com/search?q=Konat%c3%a9) | N/A |
+| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 29 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 30 | [Horimiya](http://twitter.com/search?q=Horimiya) | N/A |
+| 31 | [Loïs](http://twitter.com/search?q=Lo%c3%afs) | N/A |
+| 32 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 33 | [Hypocrisie](http://twitter.com/search?q=Hypocrisie) | N/A |
+| 34 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 35 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 36 | [Namibie](http://twitter.com/search?q=Namibie) | N/A |
+| 37 | [Allez les Bleus](http://twitter.com/search?q=Allez+les+Bleus) | N/A |
+| 38 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 39 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 40 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
+| 41 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 42 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 43 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 44 | [Annie Cordy](http://twitter.com/search?q=Annie+Cordy) | N/A |
+| 45 | [Kylian](http://twitter.com/search?q=Kylian) | N/A |
+| 46 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 47 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 48 | [Têtu](http://twitter.com/search?q=T%c3%aatu) | N/A |
+| 49 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 50 | [Manigold](http://twitter.com/search?q=Manigold) | N/A |
 
 
 

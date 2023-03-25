@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-25 07:18:54 UTC`
+📆 Last Updated: `2023-03-25 08:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 2 | [Marley](http://twitter.com/search?q=Marley) | N/A |
-| 3 | [agustin](http://twitter.com/search?q=agustin) | Agustin is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustin is usually translated as "Augustine". |
-| 4 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 5 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 6 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 7 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 8 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
-| 9 | [#JiminOnFallon](http://twitter.com/search?q=%23JiminOnFallon) | N/A |
-| 10 | [Coti](http://twitter.com/search?q=Coti) | Coti is a Spanish name derived from the Latin word cotis, meaning “axe” or “hatchet.” It is also a short form of the name Acotis, which was derived from the Greek word akotis, meaning “sharp edge.” |
-| 11 | [Felices 120](http://twitter.com/search?q=Felices+120) | N/A |
-| 12 | [#Marculi](http://twitter.com/search?q=%23Marculi) | N/A |
-| 13 | [#GranHernano2023](http://twitter.com/search?q=%23GranHernano2023) | N/A |
-| 14 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
-| 15 | [Cone](http://twitter.com/search?q=Cone) | Cone is a three-dimensional geometric shape that tapers smoothly from a flat base to a point. It is a common shape in nature, such as the cone-shaped fruit of a pine tree or the cone-shaped petals of a flower. In English, the word "cone" can also refer to an ice cream cone or traffic cones used to direct traffic. |
-| 16 | [ENEMIES TO LOVERS](http://twitter.com/search?q=ENEMIES+TO+LOVERS) | N/A |
-| 17 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 18 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 19 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 20 | [Margus](http://twitter.com/search?q=Margus) | N/A |
-| 21 | [Morita](http://twitter.com/search?q=Morita) | N/A |
-| 22 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 23 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 24 | [#ZielinskiNO](http://twitter.com/search?q=%23ZielinskiNO) | N/A |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 26 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
-| 27 | [Reverdito](http://twitter.com/search?q=Reverdito) | N/A |
-| 28 | [Cris Morena](http://twitter.com/search?q=Cris+Morena) | N/A |
-| 29 | [#Nachiago](http://twitter.com/search?q=%23Nachiago) | N/A |
-| 30 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 31 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 2 | [#NuncaMas](http://twitter.com/search?q=%23NuncaMas) | N/A |
+| 3 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 4 | [#MemoriaVerdadYJusticia](http://twitter.com/search?q=%23MemoriaVerdadYJusticia) | N/A |
+| 5 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 6 | [#24deMarzo](http://twitter.com/search?q=%2324deMarzo) | N/A |
+| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 8 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 9 | [#NoFueron30000](http://twitter.com/search?q=%23NoFueron30000) | N/A |
+| 10 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 11 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 12 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 13 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 14 | [Scaloni](http://twitter.com/search?q=Scaloni) | N/A |
+| 15 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 16 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 17 | [Conadep](http://twitter.com/search?q=Conadep) | N/A |
+| 18 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 19 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 20 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 21 | [Plaza de Mayo](http://twitter.com/search?q=Plaza+de+Mayo) | N/A |
+| 22 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 23 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 24 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 25 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 26 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 27 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
+| 28 | [Coty](http://twitter.com/search?q=Coty) | Coty is a brand name of a company that produces beauty and personal care products. The name is derived from the French word "cote," which means "side" or "edge." |
+| 29 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
+| 30 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 31 | [Felices 120](http://twitter.com/search?q=Felices+120) | N/A |
+| 32 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 33 | [REENCUENTRO MARGUS](http://twitter.com/search?q=REENCUENTRO+MARGUS) | N/A |
+| 34 | [Montoneros](http://twitter.com/search?q=Montoneros) | N/A |
+| 35 | [Videla](http://twitter.com/search?q=Videla) | Videla is a Spanish surname derived from the Latin word videlicet, meaning "namely". It is most commonly associated with former Argentine dictator Jorge Rafael Videla. |
+| 36 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 37 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 38 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 39 | [Scaloneta](http://twitter.com/search?q=Scaloneta) | N/A |
+| 40 | [BODA MARCULI](http://twitter.com/search?q=BODA+MARCULI) | N/A |
+| 41 | [Capristo](http://twitter.com/search?q=Capristo) | N/A |
+| 42 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 43 | [REENCUENTRO NACHIAGO](http://twitter.com/search?q=REENCUENTRO+NACHIAGO) | N/A |
+| 44 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 45 | [ENEMIES TO LOVERS](http://twitter.com/search?q=ENEMIES+TO+LOVERS) | N/A |
+| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 47 | [Cabezas](http://twitter.com/search?q=Cabezas) | Cabezas is a Spanish word meaning "heads". It can refer to the heads of people, animals, or objects. It can also be used figuratively to refer to a leader or someone in charge. |
+| 48 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 49 | [Burlando](http://twitter.com/search?q=Burlando) | Burlando is a Spanish verb meaning to deceive or trick someone. It is derived from the Latin word burlare, which means to mock or joke. In English, it can be translated as "to deceive" or "to trick". |
+| 50 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 
 
 

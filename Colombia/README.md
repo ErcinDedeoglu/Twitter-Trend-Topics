@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-25 07:19:36 UTC`
+📆 Last Updated: `2023-03-25 08:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EsElColmo](http://twitter.com/search?q=%23EsElColmo) | N/A |
-| 2 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
-| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 5 | [Mojica](http://twitter.com/search?q=Mojica) | N/A |
-| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 7 | [#desafiothebox](http://twitter.com/search?q=%23desafiothebox) | N/A |
+| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 3 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
+| 4 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 5 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 6 | [#desafiothebox](http://twitter.com/search?q=%23desafiothebox) | N/A |
+| 7 | [Mojica](http://twitter.com/search?q=Mojica) | N/A |
 | 8 | [SHEIN](http://twitter.com/search?q=SHEIN) | N/A |
 | 9 | [#SpamDeCuarentonas](http://twitter.com/search?q=%23SpamDeCuarentonas) | N/A |
 | 10 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
@@ -29,8 +29,8 @@ This is top 50 for Colombia
 | 12 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
 | 13 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
 | 14 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 15 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
-| 16 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 16 | [Corea](http://twitter.com/search?q=Corea) | N/A |
 | 17 | [Monómeros](http://twitter.com/search?q=Mon%c3%b3meros) | N/A |
 | 18 | [Timochenko](http://twitter.com/search?q=Timochenko) | N/A |
 | 19 | [Ariel Ávila](http://twitter.com/search?q=Ariel+%c3%81vila) | N/A |
@@ -40,29 +40,29 @@ This is top 50 for Colombia
 | 23 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
 | 24 | [Axl Rose](http://twitter.com/search?q=Axl+Rose) | N/A |
 | 25 | [Politiquera](http://twitter.com/search?q=Politiquera) | N/A |
-| 26 | [ultra air](http://twitter.com/search?q=ultra+air) | N/A |
-| 27 | [Scarpetta](http://twitter.com/search?q=Scarpetta) | N/A |
-| 28 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 29 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
-| 30 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 31 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
-| 32 | [Muñoz](http://twitter.com/search?q=Mu%c3%b1oz) | N/A |
-| 33 | [Castaño](http://twitter.com/search?q=Casta%c3%b1o) | N/A |
-| 34 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
-| 35 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 36 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 37 | [cariaco](http://twitter.com/search?q=cariaco) | N/A |
-| 38 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 39 | [Los Pozos](http://twitter.com/search?q=Los+Pozos) | N/A |
-| 40 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 41 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 42 | [matheus uribe](http://twitter.com/search?q=matheus+uribe) | N/A |
-| 43 | [Día Mundial de la Tuberculosis](http://twitter.com/search?q=D%c3%ada+Mundial+de+la+Tuberculosis) | N/A |
-| 44 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 47 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 48 | [Myke Towers](http://twitter.com/search?q=Myke+Towers) | N/A |
+| 26 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 27 | [ultra air](http://twitter.com/search?q=ultra+air) | N/A |
+| 28 | [Scarpetta](http://twitter.com/search?q=Scarpetta) | N/A |
+| 29 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
+| 30 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
+| 31 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 32 | [Wilder](http://twitter.com/search?q=Wilder) | N/A |
+| 33 | [Muñoz](http://twitter.com/search?q=Mu%c3%b1oz) | N/A |
+| 34 | [Castaño](http://twitter.com/search?q=Casta%c3%b1o) | N/A |
+| 35 | [Caquetá](http://twitter.com/search?q=Caquet%c3%a1) | N/A |
+| 36 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 37 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 38 | [cariaco](http://twitter.com/search?q=cariaco) | N/A |
+| 39 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
+| 40 | [los pozos](http://twitter.com/search?q=los+pozos) | N/A |
+| 41 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 42 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 43 | [matheus uribe](http://twitter.com/search?q=matheus+uribe) | N/A |
+| 44 | [día mundial de la tuberculosis](http://twitter.com/search?q=d%c3%ada+mundial+de+la+tuberculosis) | N/A |
+| 45 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 47 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 48 | [Didier](http://twitter.com/search?q=Didier) | N/A |
 | 49 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 50 | [Prada](http://twitter.com/search?q=Prada) | N/A |
 

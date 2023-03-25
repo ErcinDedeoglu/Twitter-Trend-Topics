@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-03-25 07:19:23 UTC`
+📆 Last Updated: `2023-03-25 08:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CelioDoitYourWay](http://twitter.com/search?q=%23CelioDoitYourWay) | N/A |
-| 2 | [#NaxalFreeIndia](http://twitter.com/search?q=%23NaxalFreeIndia) | N/A |
-| 3 | [#AmitShahInJagdalpur](http://twitter.com/search?q=%23AmitShahInJagdalpur) | N/A |
-| 4 | [#6SaalUPKhushHaal](http://twitter.com/search?q=%236SaalUPKhushHaal) | N/A |
-| 5 | [#RahulGandhiDisqualified](http://twitter.com/search?q=%23RahulGandhiDisqualified) | N/A |
-| 6 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
+| 1 | [Need Of The Hour](http://twitter.com/search?q=Need+Of+The+Hour) | N/A |
+| 2 | [#RealmeC55OnFlipkart](http://twitter.com/search?q=%23RealmeC55OnFlipkart) | N/A |
+| 3 | [#RahulGandhiDisqualified](http://twitter.com/search?q=%23RahulGandhiDisqualified) | N/A |
+| 4 | [#CelioDoitYourWay](http://twitter.com/search?q=%23CelioDoitYourWay) | N/A |
+| 5 | [#RahulDisqualified](http://twitter.com/search?q=%23RahulDisqualified) | N/A |
+| 6 | [#BJPWithTSJobAspirants](http://twitter.com/search?q=%23BJPWithTSJobAspirants) | N/A |
 | 7 | [Engineering Drawing](http://twitter.com/search?q=Engineering+Drawing) | N/A |
 | 8 | [AYESHA AS SAI HITS 800](http://twitter.com/search?q=AYESHA+AS+SAI+HITS+800) | N/A |
 | 9 | [SSR Case LongDrawn Out](http://twitter.com/search?q=SSR+Case+LongDrawn+Out) | N/A |
-| 10 | [गणेश शंकर विद्यार्थी](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a5%80) | N/A |
-| 11 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 12 | [ICONIC 13 YRS OF GASHMEER](http://twitter.com/search?q=ICONIC+13+YRS+OF+GASHMEER) | N/A |
+| 10 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
+| 11 | [ICONIC 13 YRS OF GASHMEER](http://twitter.com/search?q=ICONIC+13+YRS+OF+GASHMEER) | N/A |
+| 12 | [सुधीर चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a7%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
 | 13 | [TU ZAKHM HAI S2 ON MXPLAYER](http://twitter.com/search?q=TU+ZAKHM+HAI+S2+ON+MXPLAYER) | N/A |
-| 14 | [Need Of The Hour](http://twitter.com/search?q=Need+Of+The+Hour) | N/A |
-| 15 | [चतुर्थ स्वरूप](http://twitter.com/search?q=%e0%a4%9a%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 16 | [Wake Up Hindu](http://twitter.com/search?q=Wake+Up+Hindu) | N/A |
-| 17 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
-| 18 | [Hail CSK](http://twitter.com/search?q=Hail+CSK) | N/A |
-| 19 | [सुधीर चौधरी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a7%e0%a5%80%e0%a4%b0+%e0%a4%9a%e0%a5%8c%e0%a4%a7%e0%a4%b0%e0%a5%80) | N/A |
-| 20 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 21 | [उच्च शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 22 | [शाह सतनाम](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%b8%e0%a4%a4%e0%a4%a8%e0%a4%be%e0%a4%ae) | N/A |
-| 23 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 24 | [केंद्रीय गृह](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%83%e0%a4%b9) | N/A |
-| 25 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 26 | [Accused](http://twitter.com/search?q=Accused) | N/A |
-| 27 | [Varuna](http://twitter.com/search?q=Varuna) | N/A |
-| 28 | [Pragya Thakur](http://twitter.com/search?q=Pragya+Thakur) | N/A |
-| 29 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 30 | [Gandhian](http://twitter.com/search?q=Gandhian) | N/A |
-| 31 | [Convicted](http://twitter.com/search?q=Convicted) | N/A |
-| 32 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 33 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 34 | [Emergency](http://twitter.com/search?q=Emergency) | N/A |
-| 35 | [#1YearOfHistoricalRRR](http://twitter.com/search?q=%231YearOfHistoricalRRR) | N/A |
-| 36 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
-| 37 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 38 | [#TwitterSeva](http://twitter.com/search?q=%23TwitterSeva) | N/A |
-| 39 | [#PawanSinghalFraud](http://twitter.com/search?q=%23PawanSinghalFraud) | N/A |
-| 40 | [#YSRAasara](http://twitter.com/search?q=%23YSRAasara) | N/A |
-| 41 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
-| 42 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
-| 43 | [#ArrestgangsterhritikSinghal](http://twitter.com/search?q=%23ArrestgangsterhritikSinghal) | N/A |
-| 44 | [#karnatakaassemblyelection2023](http://twitter.com/search?q=%23karnatakaassemblyelection2023) | N/A |
-| 45 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 46 | [#YSJaganEmpowersWomen](http://twitter.com/search?q=%23YSJaganEmpowersWomen) | N/A |
-| 47 | [#MSGBhandara](http://twitter.com/search?q=%23MSGBhandara) | N/A |
-| 48 | [#BlackDay_For_Indian_Democracy](http://twitter.com/search?q=%23BlackDay_For_Indian_Democracy) | N/A |
-| 49 | [#GaneshShankarVidyarthi](http://twitter.com/search?q=%23GaneshShankarVidyarthi) | N/A |
-| 50 | [#भारत_के_संत](http://twitter.com/search?q=%23%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%82%e0%a4%a4) | N/A |
+| 14 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 15 | [गणेश शंकर विद्यार्थी](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0+%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a5%e0%a5%80) | N/A |
+| 16 | [Gordon Moore](http://twitter.com/search?q=Gordon+Moore) | N/A |
+| 17 | [चतुर्थ स्वरूप](http://twitter.com/search?q=%e0%a4%9a%e0%a4%a4%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%a5+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 18 | [AICC HQ](http://twitter.com/search?q=AICC+HQ) | N/A |
+| 19 | [उच्च शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%89%e0%a4%9a%e0%a5%8d%e0%a4%9a+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 20 | [Wake Up Hindu](http://twitter.com/search?q=Wake+Up+Hindu) | N/A |
+| 21 | [Hail CSK](http://twitter.com/search?q=Hail+CSK) | N/A |
+| 22 | [केंद्रीय गृह](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%83%e0%a4%b9) | N/A |
+| 23 | [कांग्रेस मुख्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 24 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 25 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 26 | [OBCs](http://twitter.com/search?q=OBCs) | N/A |
+| 27 | [Gandhian](http://twitter.com/search?q=Gandhian) | N/A |
+| 28 | [Varuna](http://twitter.com/search?q=Varuna) | N/A |
+| 29 | [Whitefield](http://twitter.com/search?q=Whitefield) | N/A |
+| 30 | [Accused](http://twitter.com/search?q=Accused) | N/A |
+| 31 | [Pragya Thakur](http://twitter.com/search?q=Pragya+Thakur) | N/A |
+| 32 | [आज़म खान](http://twitter.com/search?q=%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%ae+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 33 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 34 | [Lalit Modi](http://twitter.com/search?q=Lalit+Modi) | N/A |
+| 35 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 36 | [Emergency](http://twitter.com/search?q=Emergency) | N/A |
+| 37 | [#6SaalUPKhushHaal](http://twitter.com/search?q=%236SaalUPKhushHaal) | N/A |
+| 38 | [#NaxalFreeIndia](http://twitter.com/search?q=%23NaxalFreeIndia) | N/A |
+| 39 | [#AmitShahInJagdalpur](http://twitter.com/search?q=%23AmitShahInJagdalpur) | N/A |
+| 40 | [#DesiVibesWithShehnaazGill](http://twitter.com/search?q=%23DesiVibesWithShehnaazGill) | N/A |
+| 41 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
+| 42 | [#1YearOfHistoricalRRR](http://twitter.com/search?q=%231YearOfHistoricalRRR) | N/A |
+| 43 | [#NZvsSL](http://twitter.com/search?q=%23NZvsSL) | N/A |
+| 44 | [#YSRAasara](http://twitter.com/search?q=%23YSRAasara) | N/A |
+| 45 | [#TwitterSeva](http://twitter.com/search?q=%23TwitterSeva) | N/A |
+| 46 | [#PawanSinghalFraud](http://twitter.com/search?q=%23PawanSinghalFraud) | N/A |
+| 47 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
+| 48 | [#ArrestgangsterhritikSinghal](http://twitter.com/search?q=%23ArrestgangsterhritikSinghal) | N/A |
+| 49 | [#karnatakaassemblyelection2023](http://twitter.com/search?q=%23karnatakaassemblyelection2023) | N/A |
+| 50 | [#ReleaseMuPa](http://twitter.com/search?q=%23ReleaseMuPa) | N/A |
 
 
 
