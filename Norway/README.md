@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-26 14:17:56 UTC`
+📆 Last Updated: `2023-03-26 15:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,48 +18,48 @@ This is top 50 for Norway
 | 1 | [Spania](http://twitter.com/search?q=Spania) | N/A |
 | 2 | [bjørkan](http://twitter.com/search?q=bj%c3%b8rkan) | N/A |
 | 3 | [sørloth](http://twitter.com/search?q=s%c3%b8rloth) | N/A |
-| 4 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
+| 4 | [solbakken](http://twitter.com/search?q=solbakken) | N/A |
 | 5 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 6 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
-| 7 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
-| 8 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 9 | [#SPANOR](http://twitter.com/search?q=%23SPANOR) | N/A |
-| 10 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
-| 11 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 6 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
+| 7 | [#SPANOR](http://twitter.com/search?q=%23SPANOR) | N/A |
+| 8 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 9 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
+| 10 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
+| 11 | [sander berge](http://twitter.com/search?q=sander+berge) | N/A |
 | 12 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 13 | [sander berge](http://twitter.com/search?q=sander+berge) | N/A |
-| 14 | [#espnor](http://twitter.com/search?q=%23espnor) | N/A |
-| 15 | [Nyland](http://twitter.com/search?q=Nyland) | N/A |
+| 13 | [#espnor](http://twitter.com/search?q=%23espnor) | N/A |
+| 14 | [Nyland](http://twitter.com/search?q=Nyland) | N/A |
+| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 16 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 17 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 18 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
-| 19 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 20 | [Erna](http://twitter.com/search?q=Erna) | N/A |
-| 21 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 22 | [braut](http://twitter.com/search?q=braut) | N/A |
-| 23 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 17 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
+| 18 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
+| 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 20 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 21 | [Braut](http://twitter.com/search?q=Braut) | N/A |
+| 22 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 23 | [Erna](http://twitter.com/search?q=Erna) | N/A |
 | 24 | [Ryerson](http://twitter.com/search?q=Ryerson) | N/A |
-| 25 | [Jarlsberg](http://twitter.com/search?q=Jarlsberg) | N/A |
+| 25 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
 | 26 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 | 27 | [Schjelderup](http://twitter.com/search?q=Schjelderup) | N/A |
-| 28 | [Lørenskog](http://twitter.com/search?q=L%c3%b8renskog) | N/A |
+| 28 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
 | 29 | [Nusa](http://twitter.com/search?q=Nusa) | N/A |
 | 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 31 | [strandberg](http://twitter.com/search?q=strandberg) | N/A |
 | 32 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
-| 33 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 34 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 35 | [østfold](http://twitter.com/search?q=%c3%b8stfold) | N/A |
-| 36 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 37 | [Virker](http://twitter.com/search?q=Virker) | N/A |
-| 38 | [Comet](http://twitter.com/search?q=Comet) | N/A |
-| 39 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 41 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 42 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 43 | [Toppserien](http://twitter.com/search?q=Toppserien) | N/A |
-| 44 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 45 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 33 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 34 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 35 | [Ullevål](http://twitter.com/search?q=Ullev%c3%a5l) | N/A |
+| 36 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 37 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 38 | [virker](http://twitter.com/search?q=virker) | N/A |
+| 39 | [Comet](http://twitter.com/search?q=Comet) | N/A |
+| 40 | [Østfold](http://twitter.com/search?q=%c3%98stfold) | N/A |
+| 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 44 | [Toppserien](http://twitter.com/search?q=Toppserien) | N/A |
+| 45 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 46 | [Kult](http://twitter.com/search?q=Kult) | N/A |
 | 47 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 48 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |

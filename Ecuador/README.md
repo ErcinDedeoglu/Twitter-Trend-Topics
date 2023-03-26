@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-26 14:17:53 UTC`
+📆 Last Updated: `2023-03-26 15:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Ecuador
 | 1 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
 | 2 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
 | 3 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
-| 4 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 5 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
-| 6 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
-| 7 | [Teresa Nuques](http://twitter.com/search?q=Teresa+Nuques) | N/A |
-| 8 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
-| 9 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 10 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 11 | [Pindal](http://twitter.com/search?q=Pindal) | N/A |
-| 12 | [#HoradelPlaneta](http://twitter.com/search?q=%23HoradelPlaneta) | N/A |
-| 13 | [Salado](http://twitter.com/search?q=Salado) | N/A |
-| 14 | [gastos reservados](http://twitter.com/search?q=gastos+reservados) | N/A |
-| 15 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 16 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 17 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 18 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 19 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 20 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 21 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 22 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 23 | [Cherrez](http://twitter.com/search?q=Cherrez) | N/A |
-| 24 | [Cerda](http://twitter.com/search?q=Cerda) | N/A |
-| 25 | [Julio Guerrero](http://twitter.com/search?q=Julio+Guerrero) | N/A |
+| 4 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 5 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 6 | [Cory Sandhagen](http://twitter.com/search?q=Cory+Sandhagen) | N/A |
+| 7 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
+| 8 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 9 | [Teresa Nuques](http://twitter.com/search?q=Teresa+Nuques) | N/A |
+| 10 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 11 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
+| 12 | [Pindal](http://twitter.com/search?q=Pindal) | N/A |
+| 13 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 14 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
+| 15 | [#Cuba](http://twitter.com/search?q=%23Cuba) | N/A |
+| 16 | [Salado](http://twitter.com/search?q=Salado) | N/A |
+| 17 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 18 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 19 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 20 | [Macri](http://twitter.com/search?q=Macri) | N/A |
+| 21 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 22 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 23 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 24 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 25 | [IESS](http://twitter.com/search?q=IESS) | N/A |
 | 26 | [vargas torres](http://twitter.com/search?q=vargas+torres) | N/A |
-| 27 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 28 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 29 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 30 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 31 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 32 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 33 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 34 | [Evo Morales](http://twitter.com/search?q=Evo+Morales) | N/A |
-| 35 | [Pachakutik](http://twitter.com/search?q=Pachakutik) | N/A |
-| 36 | [Mirtha Legrand](http://twitter.com/search?q=Mirtha+Legrand) | N/A |
-| 37 | [jocay](http://twitter.com/search?q=jocay) | N/A |
-| 38 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 39 | [#CumbreRD2023](http://twitter.com/search?q=%23CumbreRD2023) | N/A |
-| 40 | [Carapaz](http://twitter.com/search?q=Carapaz) | N/A |
-| 41 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 42 | [quinsaloma](http://twitter.com/search?q=quinsaloma) | N/A |
-| 43 | [Insulto](http://twitter.com/search?q=Insulto) | N/A |
-| 44 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 45 | [El IESS](http://twitter.com/search?q=El+IESS) | N/A |
-| 46 | [Quishpe](http://twitter.com/search?q=Quishpe) | N/A |
-| 47 | [Iberoamérica](http://twitter.com/search?q=Iberoam%c3%a9rica) | N/A |
-| 48 | [Trujillato](http://twitter.com/search?q=Trujillato) | N/A |
-| 49 | [tiko tiko](http://twitter.com/search?q=tiko+tiko) | N/A |
-| 50 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 27 | [Julio Guerrero](http://twitter.com/search?q=Julio+Guerrero) | N/A |
+| 28 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 29 | [sarmiento](http://twitter.com/search?q=sarmiento) | N/A |
+| 30 | [Evo Morales](http://twitter.com/search?q=Evo+Morales) | N/A |
+| 31 | [Mirtha Legrand](http://twitter.com/search?q=Mirtha+Legrand) | N/A |
+| 32 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
+| 33 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 34 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 35 | [Rosa Cerda](http://twitter.com/search?q=Rosa+Cerda) | N/A |
+| 36 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 37 | [Pachakutik](http://twitter.com/search?q=Pachakutik) | N/A |
+| 38 | [Carapaz](http://twitter.com/search?q=Carapaz) | N/A |
+| 39 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 40 | [quinsaloma](http://twitter.com/search?q=quinsaloma) | N/A |
+| 41 | [Insulto](http://twitter.com/search?q=Insulto) | N/A |
+| 42 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 43 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 44 | [Quishpe](http://twitter.com/search?q=Quishpe) | N/A |
+| 45 | [Iberoamérica](http://twitter.com/search?q=Iberoam%c3%a9rica) | N/A |
+| 46 | [Trujillato](http://twitter.com/search?q=Trujillato) | N/A |
+| 47 | [Gastos Reservados](http://twitter.com/search?q=Gastos+Reservados) | N/A |
+| 48 | [tiko tiko](http://twitter.com/search?q=tiko+tiko) | N/A |
+| 49 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 50 | [ROBEN BIEN](http://twitter.com/search?q=ROBEN+BIEN) | N/A |
 
 
 

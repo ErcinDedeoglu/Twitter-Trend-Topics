@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-26 14:17:10 UTC`
+📆 Last Updated: `2023-03-26 15:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,45 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 2 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 3 | [Rita Olivares](http://twitter.com/search?q=Rita+Olivares) | N/A |
+| 2 | [Rita Olivares](http://twitter.com/search?q=Rita+Olivares) | N/A |
+| 3 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
 | 4 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
-| 5 | [#AdiosParedesEnTVN](http://twitter.com/search?q=%23AdiosParedesEnTVN) | N/A |
-| 6 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 7 | [Querellas](http://twitter.com/search?q=Querellas) | N/A |
-| 8 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
-| 9 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 10 | [Nain](http://twitter.com/search?q=Nain) | N/A |
+| 5 | [#MesaCentral](http://twitter.com/search?q=%23MesaCentral) | N/A |
+| 6 | [#URGENTE](http://twitter.com/search?q=%23URGENTE) | N/A |
+| 7 | [ASESINATO](http://twitter.com/search?q=ASESINATO) | N/A |
+| 8 | [Nain](http://twitter.com/search?q=Nain) | N/A |
+| 9 | [#enacional](http://twitter.com/search?q=%23enacional) | N/A |
+| 10 | [#CHVNoticias](http://twitter.com/search?q=%23CHVNoticias) | N/A |
 | 11 | [Sgto](http://twitter.com/search?q=Sgto) | N/A |
-| 12 | [#URGENTE](http://twitter.com/search?q=%23URGENTE) | N/A |
-| 13 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 14 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
-| 15 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 16 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 17 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 18 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 19 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 20 | [ASESINATO](http://twitter.com/search?q=ASESINATO) | N/A |
-| 21 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 22 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 23 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 24 | [Basta](http://twitter.com/search?q=Basta) | N/A |
-| 25 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
-| 26 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 27 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 28 | [Mirosevic](http://twitter.com/search?q=Mirosevic) | N/A |
-| 29 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 30 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
-| 31 | [ASESINADA](http://twitter.com/search?q=ASESINADA) | N/A |
-| 32 | [Indulta](http://twitter.com/search?q=Indulta) | N/A |
-| 33 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
-| 34 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
-| 35 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 36 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
-| 37 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 38 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 39 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 40 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 41 | [Mártir](http://twitter.com/search?q=M%c3%a1rtir) | N/A |
-| 42 | [Condolencias](http://twitter.com/search?q=Condolencias) | N/A |
-| 43 | [Pena de Muerte](http://twitter.com/search?q=Pena+de+Muerte) | N/A |
-| 44 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 45 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
-| 46 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 47 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
-| 48 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 49 | [sanhueza](http://twitter.com/search?q=sanhueza) | N/A |
-| 50 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
+| 12 | [ASESINADA](http://twitter.com/search?q=ASESINADA) | N/A |
+| 13 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 14 | [Matapacos](http://twitter.com/search?q=Matapacos) | N/A |
+| 15 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 16 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
+| 17 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
+| 18 | [Querellas](http://twitter.com/search?q=Querellas) | N/A |
+| 19 | [Basta](http://twitter.com/search?q=Basta) | N/A |
+| 20 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
+| 21 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 22 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
+| 23 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
+| 24 | [Mirosevic](http://twitter.com/search?q=Mirosevic) | N/A |
+| 25 | [General Yañez](http://twitter.com/search?q=General+Ya%c3%b1ez) | N/A |
+| 26 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 27 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
+| 28 | [Todo Chile](http://twitter.com/search?q=Todo+Chile) | N/A |
+| 29 | [Maldito](http://twitter.com/search?q=Maldito) | N/A |
+| 30 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 31 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 32 | [#EstadoNacional](http://twitter.com/search?q=%23EstadoNacional) | N/A |
+| 33 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 34 | [#RenunciaBoric](http://twitter.com/search?q=%23RenunciaBoric) | N/A |
+| 35 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
+| 36 | [#ChileEstaDeLuto](http://twitter.com/search?q=%23ChileEstaDeLuto) | N/A |
+| 37 | [#GobiernodeInutiles](http://twitter.com/search?q=%23GobiernodeInutiles) | N/A |
+| 38 | [#BoricNarcoPresidente](http://twitter.com/search?q=%23BoricNarcoPresidente) | N/A |
+| 39 | [#BoricUnPeligroparaChile](http://twitter.com/search?q=%23BoricUnPeligroparaChile) | N/A |
+| 40 | [#BoricNoSeLaPuede](http://twitter.com/search?q=%23BoricNoSeLaPuede) | N/A |
 
 
 

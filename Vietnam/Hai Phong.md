@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-26 14:17:31 UTC`
+📆 Last Updated: `2023-03-26 15:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 1 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 2 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 3 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 4 | [#บียัวเต๊าะบิว](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b9%8a%e0%b8%b2%e0%b8%b0%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
 | 5 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 6 | [#BetweenUsinVietNam](http://twitter.com/search?q=%23BetweenUsinVietNam) | N/A |
-| 7 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
-| 8 | [thiện](http://twitter.com/search?q=thi%e1%bb%87n) | N/A |
-| 9 | [ROSÉ ENAMORS PHILIPPINES](http://twitter.com/search?q=ROS%c3%89+ENAMORS+PHILIPPINES) | N/A |
-| 10 | [Lilies](http://twitter.com/search?q=Lilies) | N/A |
-| 11 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 6 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
+| 7 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 8 | [Lilies](http://twitter.com/search?q=Lilies) | N/A |
+| 9 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
+| 10 | [thiện](http://twitter.com/search?q=thi%e1%bb%87n) | N/A |
+| 11 | [ROSÉ ENAMORS PHILIPPINES](http://twitter.com/search?q=ROS%c3%89+ENAMORS+PHILIPPINES) | N/A |
 | 12 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 13 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
-| 14 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 13 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 14 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
 | 15 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 16 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 16 | [Jaemin](http://twitter.com/search?q=Jaemin) | N/A |
 | 17 | [Fourth](http://twitter.com/search?q=Fourth) | N/A |
 | 18 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
 | 19 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 20 | [NuNew](http://twitter.com/search?q=NuNew) | N/A |
+| 20 | [Nunew](http://twitter.com/search?q=Nunew) | N/A |
 | 21 | [Buồn](http://twitter.com/search?q=Bu%e1%bb%93n) | N/A |
-| 22 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 23 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 24 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 25 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [Chart](http://twitter.com/search?q=Chart) | N/A |
-| 28 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 29 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 30 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 22 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 23 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 24 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 25 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 26 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Chart](http://twitter.com/search?q=Chart) | N/A |
+| 29 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 30 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
 | 31 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 32 | [Đáng](http://twitter.com/search?q=%c4%90%c3%a1ng) | N/A |
 | 33 | [Vash](http://twitter.com/search?q=Vash) | N/A |
 | 34 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 35 | [Knives](http://twitter.com/search?q=Knives) | N/A |
 | 36 | [Trong](http://twitter.com/search?q=Trong) | N/A |
-| 37 | [trời](http://twitter.com/search?q=tr%e1%bb%9di) | N/A |
-| 38 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
-| 39 | [England](http://twitter.com/search?q=England) | N/A |
-| 40 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 41 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 42 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 43 | [Chán](http://twitter.com/search?q=Ch%c3%a1n) | N/A |
+| 37 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 38 | [trời](http://twitter.com/search?q=tr%e1%bb%9di) | N/A |
+| 39 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 40 | [England](http://twitter.com/search?q=England) | N/A |
+| 41 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 42 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 43 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
 | 44 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 45 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 46 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 47 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
-| 48 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 45 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 46 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 47 | [Korea](http://twitter.com/search?q=Korea) | N/A |
 
 
 

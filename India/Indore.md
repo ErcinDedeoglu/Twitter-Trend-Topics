@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-26 14:17:40 UTC`
+📆 Last Updated: `2023-03-26 15:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
 | 2 | [#SSMB28](http://twitter.com/search?q=%23SSMB28) | N/A |
-| 3 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
-| 4 | [#MaheshBabu](http://twitter.com/search?q=%23MaheshBabu) | N/A |
-| 5 | [#NikhatZareen](http://twitter.com/search?q=%23NikhatZareen) | N/A |
-| 6 | [#WPLFinal](http://twitter.com/search?q=%23WPLFinal) | N/A |
-| 7 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 8 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 9 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
-| 10 | [Nguyen Thi Tam](http://twitter.com/search?q=Nguyen+Thi+Tam) | N/A |
-| 11 | [VERSATILE GAURAV KHANNA](http://twitter.com/search?q=VERSATILE+GAURAV+KHANNA) | N/A |
-| 12 | [STAY BLESSED SUMBUL](http://twitter.com/search?q=STAY+BLESSED+SUMBUL) | N/A |
-| 13 | [Shinde Bulldozer Man](http://twitter.com/search?q=Shinde+Bulldozer+Man) | N/A |
-| 14 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
-| 15 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 16 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 17 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 18 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 19 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 20 | [MAJOR MISSING PRIYANKIT](http://twitter.com/search?q=MAJOR+MISSING+PRIYANKIT) | N/A |
-| 21 | [Sankranthi](http://twitter.com/search?q=Sankranthi) | N/A |
-| 22 | [Magala](http://twitter.com/search?q=Magala) | N/A |
-| 23 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 24 | [Stay Tuned](http://twitter.com/search?q=Stay+Tuned) | N/A |
-| 25 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
-| 26 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
-| 27 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 28 | [Chirag Shetty](http://twitter.com/search?q=Chirag+Shetty) | N/A |
-| 29 | [Guruji](http://twitter.com/search?q=Guruji) | N/A |
-| 30 | [सड़क मार्ग](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a1%e0%a4%bc%e0%a4%95+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%97) | N/A |
-| 31 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 32 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 33 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
-| 34 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
-| 35 | [Bajrang](http://twitter.com/search?q=Bajrang) | N/A |
-| 36 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 37 | [प्रभु राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 38 | [HBD SUPER SHAHEERA](http://twitter.com/search?q=HBD+SUPER+SHAHEERA) | N/A |
-| 39 | [प्रदेश कार्यालय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 40 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
-| 41 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
-| 42 | [#Trivikram](http://twitter.com/search?q=%23Trivikram) | N/A |
-| 43 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
-| 44 | [#ConnectingBrokers](http://twitter.com/search?q=%23ConnectingBrokers) | N/A |
-| 45 | [#LaunchingBrokerAppToday](http://twitter.com/search?q=%23LaunchingBrokerAppToday) | N/A |
-| 46 | [#SAvsWI](http://twitter.com/search?q=%23SAvsWI) | N/A |
-| 47 | [#BrokerAppLaunch](http://twitter.com/search?q=%23BrokerAppLaunch) | N/A |
-| 48 | [#MIvsDC](http://twitter.com/search?q=%23MIvsDC) | N/A |
-| 49 | [#RCBUnbox](http://twitter.com/search?q=%23RCBUnbox) | N/A |
-| 50 | [#TinuPappachan](http://twitter.com/search?q=%23TinuPappachan) | N/A |
+| 3 | [#WPLFinal](http://twitter.com/search?q=%23WPLFinal) | N/A |
+| 4 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
+| 5 | [#SAvsWI](http://twitter.com/search?q=%23SAvsWI) | N/A |
+| 6 | [#NikhatZareen](http://twitter.com/search?q=%23NikhatZareen) | N/A |
+| 7 | [BrokerApp Launch Event](http://twitter.com/search?q=BrokerApp+Launch+Event) | N/A |
+| 8 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
+| 9 | [UMAR X AKASA MV TMRW](http://twitter.com/search?q=UMAR+X+AKASA+MV+TMRW) | N/A |
+| 10 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 11 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 12 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 13 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 14 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
+| 15 | [Nguyen Thi Tam](http://twitter.com/search?q=Nguyen+Thi+Tam) | N/A |
+| 16 | [FARHAD DONT RUIN HERAPHERI](http://twitter.com/search?q=FARHAD+DONT+RUIN+HERAPHERI) | N/A |
+| 17 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
+| 18 | [VERSATILE GAURAV KHANNA](http://twitter.com/search?q=VERSATILE+GAURAV+KHANNA) | N/A |
+| 19 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
+| 20 | [Caitlin Parker](http://twitter.com/search?q=Caitlin+Parker) | N/A |
+| 21 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 22 | [No Ball](http://twitter.com/search?q=No+Ball) | N/A |
+| 23 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 24 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 25 | [Mumbai Indians](http://twitter.com/search?q=Mumbai+Indians) | N/A |
+| 26 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 27 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 28 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
+| 29 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
+| 30 | [STAY BLESSED SUMBUL](http://twitter.com/search?q=STAY+BLESSED+SUMBUL) | N/A |
+| 31 | [NITI AS PRACHI RULING HEARTS](http://twitter.com/search?q=NITI+AS+PRACHI+RULING+HEARTS) | N/A |
+| 32 | [Brahma](http://twitter.com/search?q=Brahma) | N/A |
+| 33 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
+| 34 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 35 | [Sankranti](http://twitter.com/search?q=Sankranti) | N/A |
+| 36 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 37 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
+| 38 | [MAJOR MISSING PRIYANKIT](http://twitter.com/search?q=MAJOR+MISSING+PRIYANKIT) | N/A |
+| 39 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 40 | [Harman](http://twitter.com/search?q=Harman) | N/A |
+| 41 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 42 | [Magala](http://twitter.com/search?q=Magala) | N/A |
+| 43 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 44 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
+| 45 | [#MIvsDC](http://twitter.com/search?q=%23MIvsDC) | N/A |
+| 46 | [#राइट_टू_हेल्थ_संजीवनी_है](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%87%e0%a4%9f_%e0%a4%9f%e0%a5%82_%e0%a4%b9%e0%a5%87%e0%a4%b2%e0%a5%8d%e0%a4%a5_%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
+| 47 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
+| 48 | [#MaheshBabu](http://twitter.com/search?q=%23MaheshBabu) | N/A |
+| 49 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
+| 50 | [#LovlinaBorgohain](http://twitter.com/search?q=%23LovlinaBorgohain) | N/A |
 
 
 

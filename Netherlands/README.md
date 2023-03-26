@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-26 14:17:56 UTC`
+📆 Last Updated: `2023-03-26 15:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Zomertijd](http://twitter.com/search?q=%23Zomertijd) | N/A |
-| 2 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
-| 3 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
-| 4 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
-| 5 | [#FRANED](http://twitter.com/search?q=%23FRANED) | N/A |
-| 6 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
-| 7 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 8 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 9 | [Asha](http://twitter.com/search?q=Asha) | N/A |
-| 10 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
-| 11 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 12 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 13 | [Eindhoven Airport](http://twitter.com/search?q=Eindhoven+Airport) | N/A |
-| 14 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
-| 15 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
-| 16 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 17 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 18 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 19 | [Ouwehand](http://twitter.com/search?q=Ouwehand) | N/A |
-| 20 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 21 | [Handen](http://twitter.com/search?q=Handen) | N/A |
-| 22 | [houtje](http://twitter.com/search?q=houtje) | N/A |
-| 23 | [Jeroen Wester](http://twitter.com/search?q=Jeroen+Wester) | N/A |
-| 24 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
-| 25 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 26 | [FC Dordrecht](http://twitter.com/search?q=FC+Dordrecht) | N/A |
+| 1 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
+| 2 | [#zomertijd](http://twitter.com/search?q=%23zomertijd) | N/A |
+| 3 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 4 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
+| 5 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
+| 6 | [#wnlopzondag](http://twitter.com/search?q=%23wnlopzondag) | N/A |
+| 7 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 8 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
+| 9 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 10 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 11 | [Asha](http://twitter.com/search?q=Asha) | N/A |
+| 12 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
+| 13 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 14 | [Maurice de Hond](http://twitter.com/search?q=Maurice+de+Hond) | N/A |
+| 15 | [Eindhoven Airport](http://twitter.com/search?q=Eindhoven+Airport) | N/A |
+| 16 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
+| 17 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 18 | [Helmond Sport](http://twitter.com/search?q=Helmond+Sport) | N/A |
+| 19 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
+| 20 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 21 | [FC Dordrecht](http://twitter.com/search?q=FC+Dordrecht) | N/A |
+| 22 | [Handen](http://twitter.com/search?q=Handen) | N/A |
+| 23 | [Esther Ouwehand](http://twitter.com/search?q=Esther+Ouwehand) | N/A |
+| 24 | [houtje](http://twitter.com/search?q=houtje) | N/A |
+| 25 | [TOP Oss](http://twitter.com/search?q=TOP+Oss) | N/A |
+| 26 | [Pepijn](http://twitter.com/search?q=Pepijn) | N/A |
 | 27 | [Floor](http://twitter.com/search?q=Floor) | N/A |
-| 28 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 29 | [Pepijn](http://twitter.com/search?q=Pepijn) | N/A |
-| 30 | [Voorjaar](http://twitter.com/search?q=Voorjaar) | N/A |
-| 31 | [wetenschapper](http://twitter.com/search?q=wetenschapper) | N/A |
-| 32 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 33 | [Renkum](http://twitter.com/search?q=Renkum) | N/A |
-| 34 | [Judy](http://twitter.com/search?q=Judy) | N/A |
-| 35 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 36 | [BBB-afkeer](http://twitter.com/search?q=BBB-afkeer) | N/A |
-| 37 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
-| 38 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
-| 39 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 40 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
-| 41 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 42 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
-| 43 | [Tunesië](http://twitter.com/search?q=Tunesi%c3%ab) | N/A |
-| 44 | [Jaap Smit](http://twitter.com/search?q=Jaap+Smit) | N/A |
-| 45 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 46 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 47 | [Veluwse](http://twitter.com/search?q=Veluwse) | N/A |
-| 48 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
-| 49 | [chayron](http://twitter.com/search?q=chayron) | N/A |
-| 50 | [Helmond Sport](http://twitter.com/search?q=Helmond+Sport) | N/A |
+| 28 | [Wetenschapper](http://twitter.com/search?q=Wetenschapper) | N/A |
+| 29 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 30 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
+| 31 | [Pechtold](http://twitter.com/search?q=Pechtold) | N/A |
+| 32 | [Voorjaar](http://twitter.com/search?q=Voorjaar) | N/A |
+| 33 | [Vlaanderen](http://twitter.com/search?q=Vlaanderen) | N/A |
+| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 35 | [Judy](http://twitter.com/search?q=Judy) | N/A |
+| 36 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 37 | [BBB-afkeer](http://twitter.com/search?q=BBB-afkeer) | N/A |
+| 38 | [Michelangelo](http://twitter.com/search?q=Michelangelo) | N/A |
+| 39 | [Tunesië](http://twitter.com/search?q=Tunesi%c3%ab) | N/A |
+| 40 | [Jaap Smit](http://twitter.com/search?q=Jaap+Smit) | N/A |
+| 41 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
+| 42 | [Jeroen Wester](http://twitter.com/search?q=Jeroen+Wester) | N/A |
+| 43 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
+| 44 | [Renkum](http://twitter.com/search?q=Renkum) | N/A |
+| 45 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 46 | [Telstar](http://twitter.com/search?q=Telstar) | N/A |
+| 47 | [Heracles](http://twitter.com/search?q=Heracles) | N/A |
+| 48 | [Veluwse](http://twitter.com/search?q=Veluwse) | N/A |
+| 49 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 50 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
 
 
 

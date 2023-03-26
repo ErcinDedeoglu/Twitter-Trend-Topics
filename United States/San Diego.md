@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-26 14:17:50 UTC`
+📆 Last Updated: `2023-03-26 15:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#vamoswave](http://twitter.com/search?q=%23vamoswave) | N/A |
 | 2 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
 | 3 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 4 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 5 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
-| 6 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
-| 7 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 8 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
-| 9 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 10 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 11 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 12 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 13 | [Congrats Jack](http://twitter.com/search?q=Congrats+Jack) | N/A |
-| 14 | [Leonard Nimoy](http://twitter.com/search?q=Leonard+Nimoy) | N/A |
-| 15 | [LaGrange](http://twitter.com/search?q=LaGrange) | N/A |
-| 16 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 17 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
-| 18 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 19 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 20 | [Sweet Caroline](http://twitter.com/search?q=Sweet+Caroline) | "Sweet Caroline" is a popular song written and performed by Neil Diamond. It was released in 1969 as a single with the title "Sweet Caroline (Good Times Never Seemed So Good)". The song is about a woman named Caroline, who Diamond imagines as someone he can love and cherish. The lyrics express his admiration for her beauty and innocence, and his desire to be with her forever. The song has become an anthem for many people, especially those who are in love or have been in love. The phrase "Good times never seemed so good" has become a popular catchphrase. |
-| 21 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
-| 22 | [marcus mumford](http://twitter.com/search?q=marcus+mumford) | N/A |
-| 23 | [Erica](http://twitter.com/search?q=Erica) | N/A |
-| 24 | [Robert Frost](http://twitter.com/search?q=Robert+Frost) | N/A |
-| 25 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 26 | [Cult](http://twitter.com/search?q=Cult) | N/A |
-| 27 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 28 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 29 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
-| 30 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 31 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 32 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 33 | [Andrew Cuomo](http://twitter.com/search?q=Andrew+Cuomo) | N/A |
-| 34 | [White Horse](http://twitter.com/search?q=White+Horse) | N/A |
-| 35 | [Trump's Waco](http://twitter.com/search?q=Trump%27s+Waco) | N/A |
-| 36 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 37 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 38 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 39 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 40 | [Caleb Plant](http://twitter.com/search?q=Caleb+Plant) | N/A |
-| 41 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 42 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
-| 43 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
-| 44 | [Stolen Valor](http://twitter.com/search?q=Stolen+Valor) | N/A |
-| 45 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
-| 46 | [Coach Tang](http://twitter.com/search?q=Coach+Tang) | N/A |
-| 47 | [Karl Rove](http://twitter.com/search?q=Karl+Rove) | N/A |
-| 48 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
-| 49 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 50 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 4 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 5 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 6 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 7 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
+| 8 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 9 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 10 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
+| 11 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 12 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
+| 13 | [Durbin](http://twitter.com/search?q=Durbin) | N/A |
+| 14 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
+| 15 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 16 | [Leonard Nimoy](http://twitter.com/search?q=Leonard+Nimoy) | N/A |
+| 17 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
+| 18 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
+| 19 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 20 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
+| 21 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 22 | [Congrats Jack](http://twitter.com/search?q=Congrats+Jack) | N/A |
+| 23 | [Scrambled](http://twitter.com/search?q=Scrambled) | N/A |
+| 24 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 25 | [Every Sunday](http://twitter.com/search?q=Every+Sunday) | N/A |
+| 26 | [Karl Rove](http://twitter.com/search?q=Karl+Rove) | N/A |
+| 27 | [Steven Tyler](http://twitter.com/search?q=Steven+Tyler) | N/A |
+| 28 | [Sweet Caroline](http://twitter.com/search?q=Sweet+Caroline) | "Sweet Caroline" is a popular song written and performed by Neil Diamond. It was released in 1969 as a single with the title "Sweet Caroline (Good Times Never Seemed So Good)". The song is about a woman named Caroline, who Diamond imagines as someone he can love and cherish. The lyrics express his admiration for her beauty and innocence, and his desire to be with her forever. The song has become an anthem for many people, especially those who are in love or have been in love. The phrase "Good times never seemed so good" has become a popular catchphrase. |
+| 29 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 30 | [LaGrange](http://twitter.com/search?q=LaGrange) | N/A |
+| 31 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
+| 32 | [Cult](http://twitter.com/search?q=Cult) | N/A |
+| 33 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 34 | [Robert Frost](http://twitter.com/search?q=Robert+Frost) | N/A |
+| 35 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
+| 36 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 37 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
+| 38 | [Nate Parker](http://twitter.com/search?q=Nate+Parker) | N/A |
+| 39 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 40 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 41 | [Marcus Mumford](http://twitter.com/search?q=Marcus+Mumford) | N/A |
+| 42 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 43 | [Erica](http://twitter.com/search?q=Erica) | N/A |
+| 44 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
+| 45 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
+| 46 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 47 | [Trump's Waco](http://twitter.com/search?q=Trump%27s+Waco) | N/A |
+| 48 | [Shatner](http://twitter.com/search?q=Shatner) | N/A |
+| 49 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 50 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
 
 
 

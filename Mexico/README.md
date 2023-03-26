@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-26 14:17:56 UTC`
+📆 Last Updated: `2023-03-26 15:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 3 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 4 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
-| 5 | [#TXT_ASM_TOUR_in_SEOUL_Day2](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day2) | N/A |
-| 6 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
+| 2 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 4 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 5 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 6 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
 | 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
 | 8 | [Costco](http://twitter.com/search?q=Costco) | N/A |
-| 9 | [#díanaranja](http://twitter.com/search?q=%23d%c3%adanaranja) | N/A |
-| 10 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 11 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 12 | [Muebles Troncoso](http://twitter.com/search?q=Muebles+Troncoso) | N/A |
-| 13 | [sergio corona](http://twitter.com/search?q=sergio+corona) | N/A |
-| 14 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 9 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
+| 10 | [FAITH IN THE FUTURE](http://twitter.com/search?q=FAITH+IN+THE+FUTURE) | N/A |
+| 11 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 12 | [Excelente Domingo](http://twitter.com/search?q=Excelente+Domingo) | N/A |
+| 13 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
+| 14 | [Muebles Troncoso](http://twitter.com/search?q=Muebles+Troncoso) | N/A |
 | 15 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 16 | [Cuate](http://twitter.com/search?q=Cuate) | N/A |
-| 17 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
-| 18 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 19 | [adiós superman](http://twitter.com/search?q=adi%c3%b3s+superman) | N/A |
-| 20 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
-| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 23 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
-| 24 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 25 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
-| 26 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
-| 27 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
-| 28 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 29 | [No Mamen](http://twitter.com/search?q=No+Mamen) | N/A |
-| 30 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 31 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 32 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 33 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 34 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
-| 35 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 36 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 37 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 38 | [Anika](http://twitter.com/search?q=Anika) | N/A |
-| 39 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 40 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 41 | [César Costa](http://twitter.com/search?q=C%c3%a9sar+Costa) | N/A |
-| 42 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 43 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 44 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 45 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 46 | [cowboy like](http://twitter.com/search?q=cowboy+like) | N/A |
-| 47 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
-| 48 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 49 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
-| 50 | [Almendrita](http://twitter.com/search?q=Almendrita) | N/A |
+| 16 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 17 | [Día Mundial del Clima](http://twitter.com/search?q=D%c3%ada+Mundial+del+Clima) | N/A |
+| 18 | [Cuate](http://twitter.com/search?q=Cuate) | N/A |
+| 19 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 20 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 21 | [adiós superman](http://twitter.com/search?q=adi%c3%b3s+superman) | N/A |
+| 22 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
+| 23 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 25 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 26 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 27 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
+| 28 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
+| 29 | [El 26](http://twitter.com/search?q=El+26) | N/A |
+| 30 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
+| 31 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
+| 32 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
+| 33 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 34 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 35 | [No Mamen](http://twitter.com/search?q=No+Mamen) | N/A |
+| 36 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 37 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 38 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 39 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 40 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 41 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
+| 42 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 43 | [Anika](http://twitter.com/search?q=Anika) | N/A |
+| 44 | [césar costa](http://twitter.com/search?q=c%c3%a9sar+costa) | N/A |
+| 45 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 46 | [Venustiano Carranza](http://twitter.com/search?q=Venustiano+Carranza) | N/A |
+| 47 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 48 | [cowboy like](http://twitter.com/search?q=cowboy+like) | N/A |
+| 49 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 50 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
 
 
 

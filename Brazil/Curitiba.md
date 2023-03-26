@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-26 14:17:13 UTC`
+📆 Last Updated: `2023-03-26 15:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Furacão](http://twitter.com/search?q=Furac%c3%a3o) | N/A |
 | 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 3 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 4 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 5 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 6 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 7 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
-| 8 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
-| 9 | [#GigantesNoVE](http://twitter.com/search?q=%23GigantesNoVE) | N/A |
-| 10 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 11 | [ELE NÃO VEM MAIS](http://twitter.com/search?q=ELE+N%c3%83O+VEM+MAIS) | N/A |
-| 12 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
-| 13 | [Nazaré](http://twitter.com/search?q=Nazar%c3%a9) | N/A |
-| 14 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
-| 15 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
-| 16 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
-| 17 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 18 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 19 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 20 | [Jota Quest](http://twitter.com/search?q=Jota+Quest) | N/A |
-| 21 | [CANCELOU](http://twitter.com/search?q=CANCELOU) | N/A |
-| 22 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
-| 23 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
-| 24 | [DIA DE INTER](http://twitter.com/search?q=DIA+DE+INTER) | N/A |
-| 25 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 26 | [Xena](http://twitter.com/search?q=Xena) | N/A |
-| 27 | [Arrasaram](http://twitter.com/search?q=Arrasaram) | N/A |
-| 28 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
-| 29 | [STJD](http://twitter.com/search?q=STJD) | N/A |
-| 30 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 31 | [kevin parker](http://twitter.com/search?q=kevin+parker) | N/A |
-| 32 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 33 | [Canalhice](http://twitter.com/search?q=Canalhice) | N/A |
-| 34 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 35 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 36 | [RexPa](http://twitter.com/search?q=RexPa) | N/A |
-| 37 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 38 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 39 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 40 | [Jornalista](http://twitter.com/search?q=Jornalista) | N/A |
-| 41 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
-| 42 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
-| 43 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 44 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
-| 45 | [Kanye West](http://twitter.com/search?q=Kanye+West) | N/A |
-| 46 | [PowerPoint](http://twitter.com/search?q=PowerPoint) | N/A |
-| 47 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 48 | [O PCC](http://twitter.com/search?q=O+PCC) | N/A |
-| 49 | [Eliana](http://twitter.com/search?q=Eliana) | N/A |
-| 50 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 4 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 5 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 6 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 7 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 8 | [Cazaquistão](http://twitter.com/search?q=Cazaquist%c3%a3o) | N/A |
+| 9 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 10 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 11 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
+| 12 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
+| 13 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 14 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
+| 15 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
+| 16 | [FAITH IN THE FUTURE](http://twitter.com/search?q=FAITH+IN+THE+FUTURE) | N/A |
+| 17 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 18 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
+| 19 | [ELE NÃO VEM MAIS](http://twitter.com/search?q=ELE+N%c3%83O+VEM+MAIS) | N/A |
+| 20 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 21 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
+| 22 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
+| 23 | [Cancelou](http://twitter.com/search?q=Cancelou) | N/A |
+| 24 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
+| 25 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 26 | [Nazaré](http://twitter.com/search?q=Nazar%c3%a9) | N/A |
+| 27 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 29 | [Jota Quest](http://twitter.com/search?q=Jota+Quest) | N/A |
+| 30 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
+| 31 | [Dia de Inter](http://twitter.com/search?q=Dia+de+Inter) | N/A |
+| 32 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 33 | [STJD](http://twitter.com/search?q=STJD) | N/A |
+| 34 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
+| 35 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
+| 36 | [Merval](http://twitter.com/search?q=Merval) | N/A |
+| 37 | [Arrasaram](http://twitter.com/search?q=Arrasaram) | N/A |
+| 38 | [Xena](http://twitter.com/search?q=Xena) | N/A |
+| 39 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
+| 40 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 41 | [Dora Kramer](http://twitter.com/search?q=Dora+Kramer) | N/A |
+| 42 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 43 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 44 | [Dunker](http://twitter.com/search?q=Dunker) | N/A |
+| 45 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 46 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
+| 47 | [RexPa](http://twitter.com/search?q=RexPa) | N/A |
+| 48 | [saci](http://twitter.com/search?q=saci) | N/A |
+| 49 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 50 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
 
 
 

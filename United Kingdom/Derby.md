@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-26 14:17:05 UTC`
+📆 Last Updated: `2023-03-26 15:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 2 | [#CFCW](http://twitter.com/search?q=%23CFCW) | N/A |
-| 3 | [#ToriesOut262](http://twitter.com/search?q=%23ToriesOut262) | N/A |
-| 4 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 5 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 6 | [#ToryBritain](http://twitter.com/search?q=%23ToryBritain) | N/A |
-| 7 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 8 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
-| 9 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 10 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 11 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
-| 12 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
-| 13 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 14 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 15 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 16 | [Big Dunc](http://twitter.com/search?q=Big+Dunc) | N/A |
-| 17 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
-| 18 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 19 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
-| 20 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 21 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 22 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
-| 23 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 24 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 25 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
-| 26 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 27 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
+| 1 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 2 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 3 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 4 | [#CFCW](http://twitter.com/search?q=%23CFCW) | N/A |
+| 5 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
+| 6 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 7 | [#SheffieldHalfMarathon](http://twitter.com/search?q=%23SheffieldHalfMarathon) | N/A |
+| 8 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 9 | [shearer](http://twitter.com/search?q=shearer) | N/A |
+| 10 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 11 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
+| 12 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 13 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 14 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 15 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 16 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
+| 17 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 18 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
+| 19 | [Big Dunc](http://twitter.com/search?q=Big+Dunc) | N/A |
+| 20 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 21 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
+| 22 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 23 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
+| 24 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 25 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 26 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 27 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
 | 28 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 29 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 30 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 31 | [England v Ukraine](http://twitter.com/search?q=England+v+Ukraine) | N/A |
-| 32 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 33 | [David Lammy](http://twitter.com/search?q=David+Lammy) | N/A |
-| 34 | [Cuthbert](http://twitter.com/search?q=Cuthbert) | N/A |
-| 35 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
-| 36 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
-| 37 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
-| 38 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 39 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 41 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 42 | [British Summer Time](http://twitter.com/search?q=British+Summer+Time) | N/A |
-| 43 | [Happy Birthday Richard](http://twitter.com/search?q=Happy+Birthday+Richard) | N/A |
-| 44 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 45 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
-| 46 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 47 | [Mikel](http://twitter.com/search?q=Mikel) | N/A |
-| 48 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
-| 49 | [South Korean](http://twitter.com/search?q=South+Korean) | N/A |
+| 29 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 30 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
+| 31 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 32 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 33 | [England v Ukraine](http://twitter.com/search?q=England+v+Ukraine) | N/A |
+| 34 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 35 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 36 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 37 | [Crisps](http://twitter.com/search?q=Crisps) | N/A |
+| 38 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
+| 39 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
+| 40 | [Van Persie](http://twitter.com/search?q=Van+Persie) | N/A |
+| 41 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 42 | [Cuthbert](http://twitter.com/search?q=Cuthbert) | N/A |
+| 43 | [David Lammy](http://twitter.com/search?q=David+Lammy) | N/A |
+| 44 | [Hutton](http://twitter.com/search?q=Hutton) | N/A |
+| 45 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
+| 46 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 47 | [Racecourse](http://twitter.com/search?q=Racecourse) | N/A |
+| 48 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
+| 49 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
 
 
 
