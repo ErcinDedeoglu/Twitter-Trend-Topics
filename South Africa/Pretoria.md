@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-26 03:17:19 UTC`
+📆 Last Updated: `2023-03-26 04:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,45 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 2 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 3 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 4 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 5 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 6 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 7 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 8 | [#phandapushaplay](http://twitter.com/search?q=%23phandapushaplay) | N/A |
-| 9 | [#Khobang](http://twitter.com/search?q=%23Khobang) | N/A |
-| 10 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 11 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 12 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
-| 13 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 14 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 15 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 16 | [Safa](http://twitter.com/search?q=Safa) | N/A |
+| 2 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 3 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 4 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
+| 5 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 6 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 7 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 8 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 9 | [#phandapushaplay](http://twitter.com/search?q=%23phandapushaplay) | N/A |
+| 10 | [#Khobang](http://twitter.com/search?q=%23Khobang) | N/A |
+| 11 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 13 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
+| 14 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 15 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 16 | [juicy jay the brand](http://twitter.com/search?q=juicy+jay+the+brand) | N/A |
 | 17 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 18 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 19 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
-| 20 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 21 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
-| 22 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 18 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 19 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 20 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
+| 21 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 22 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
 | 23 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 24 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 25 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 26 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 27 | [magala](http://twitter.com/search?q=magala) | N/A |
-| 28 | [hlongwane](http://twitter.com/search?q=hlongwane) | N/A |
-| 29 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 30 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 31 | [mailula](http://twitter.com/search?q=mailula) | N/A |
-| 32 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 33 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 34 | [Edgars](http://twitter.com/search?q=Edgars) | N/A |
+| 24 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 25 | [Magala](http://twitter.com/search?q=Magala) | N/A |
+| 26 | [hlongwane](http://twitter.com/search?q=hlongwane) | N/A |
+| 27 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 28 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 29 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 30 | [mailula](http://twitter.com/search?q=mailula) | N/A |
+| 31 | [turn up with ipeleng](http://twitter.com/search?q=turn+up+with+ipeleng) | N/A |
+| 32 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
+| 33 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
+| 34 | [Zack](http://twitter.com/search?q=Zack) | N/A |
 | 35 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 36 | [modiba](http://twitter.com/search?q=modiba) | N/A |
-| 37 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 38 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 39 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 40 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 36 | [Edgars](http://twitter.com/search?q=Edgars) | N/A |
+| 37 | [modiba](http://twitter.com/search?q=modiba) | N/A |
+| 38 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 39 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
+| 40 | [Brett](http://twitter.com/search?q=Brett) | N/A |
 | 41 | [Correctional Services](http://twitter.com/search?q=Correctional+Services) | N/A |
 | 42 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
 | 43 | [Foster](http://twitter.com/search?q=Foster) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [South Africa](</South Africa>)
 | 46 | [Ulster](http://twitter.com/search?q=Ulster) | N/A |
 | 47 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 48 | [helman](http://twitter.com/search?q=helman) | N/A |
-| 49 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 50 | [Percy](http://twitter.com/search?q=Percy) | N/A |
+| 49 | [Percy](http://twitter.com/search?q=Percy) | N/A |
+| 50 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
 
 
 

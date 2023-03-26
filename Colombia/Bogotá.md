@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-26 03:16:56 UTC`
+📆 Last Updated: `2023-03-26 04:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
 | 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 4 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 5 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 6 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 7 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
-| 8 | [Kevin Mier](http://twitter.com/search?q=Kevin+Mier) | N/A |
-| 9 | [#LaHoraDelPlaneta](http://twitter.com/search?q=%23LaHoraDelPlaneta) | N/A |
-| 10 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
+| 5 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
+| 6 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
+| 7 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 8 | [#LaHoraDelPlaneta](http://twitter.com/search?q=%23LaHoraDelPlaneta) | N/A |
+| 9 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
+| 10 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
 | 11 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 12 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 13 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
-| 14 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
-| 15 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
-| 16 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 17 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 18 | [Duque](http://twitter.com/search?q=Duque) | N/A |
+| 12 | [Pons](http://twitter.com/search?q=Pons) | N/A |
+| 13 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 14 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
+| 15 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 16 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 17 | [Ober](http://twitter.com/search?q=Ober) | N/A |
+| 18 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
 | 19 | [#MePregunto](http://twitter.com/search?q=%23MePregunto) | N/A |
-| 20 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
-| 21 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 22 | [Cetré](http://twitter.com/search?q=Cetr%c3%a9) | N/A |
-| 23 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
-| 24 | [Solís](http://twitter.com/search?q=Sol%c3%ads) | N/A |
-| 25 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
-| 26 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
-| 27 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 28 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 29 | [El DIM](http://twitter.com/search?q=El+DIM) | N/A |
-| 30 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 31 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 32 | [Jader](http://twitter.com/search?q=Jader) | N/A |
-| 33 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
-| 34 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 35 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
-| 36 | [Danovis](http://twitter.com/search?q=Danovis) | N/A |
-| 37 | [Perea](http://twitter.com/search?q=Perea) | N/A |
-| 38 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
-| 39 | [Cagones](http://twitter.com/search?q=Cagones) | N/A |
-| 40 | [Carlos Antonio Vélez](http://twitter.com/search?q=Carlos+Antonio+V%c3%a9lez) | N/A |
-| 41 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 42 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |
-| 43 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 44 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 45 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 46 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
-| 47 | [Memin](http://twitter.com/search?q=Memin) | N/A |
-| 48 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 49 | [Goez](http://twitter.com/search?q=Goez) | N/A |
-| 50 | [Banguero](http://twitter.com/search?q=Banguero) | N/A |
+| 20 | [Cetré](http://twitter.com/search?q=Cetr%c3%a9) | N/A |
+| 21 | [#FEP2023](http://twitter.com/search?q=%23FEP2023) | N/A |
+| 22 | [Solís](http://twitter.com/search?q=Sol%c3%ads) | N/A |
+| 23 | [Kevin Mier](http://twitter.com/search?q=Kevin+Mier) | N/A |
+| 24 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 25 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 26 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 27 | [Cagones](http://twitter.com/search?q=Cagones) | N/A |
+| 28 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 29 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 30 | [Duque](http://twitter.com/search?q=Duque) | N/A |
+| 31 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
+| 32 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 33 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 34 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 35 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 36 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 37 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
+| 38 | [El DIM](http://twitter.com/search?q=El+DIM) | N/A |
+| 39 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
+| 40 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
+| 41 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 42 | [Banguero](http://twitter.com/search?q=Banguero) | N/A |
+| 43 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |
+| 44 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
+| 45 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 46 | [Memín](http://twitter.com/search?q=Mem%c3%adn) | N/A |
+| 47 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
+| 48 | [Loudest Concert](http://twitter.com/search?q=Loudest+Concert) | N/A |
+| 49 | [Last Concert](http://twitter.com/search?q=Last+Concert) | N/A |
+| 50 | [Director de la Policía](http://twitter.com/search?q=Director+de+la+Polic%c3%ada) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-26 03:17:02 UTC`
+📆 Last Updated: `2023-03-26 04:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 2 | [#TommyTiernanShow](http://twitter.com/search?q=%23TommyTiernanShow) | N/A |
-| 3 | [#munvgla](http://twitter.com/search?q=%23munvgla) | N/A |
-| 4 | [#LP23](http://twitter.com/search?q=%23LP23) | N/A |
+| 1 | [#TommyTiernanShow](http://twitter.com/search?q=%23TommyTiernanShow) | N/A |
+| 2 | [#munvgla](http://twitter.com/search?q=%23munvgla) | N/A |
+| 3 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 4 | [#lp23](http://twitter.com/search?q=%23lp23) | N/A |
 | 5 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
 | 6 | [dolores keane](http://twitter.com/search?q=dolores+keane) | N/A |
 | 7 | [mullingar](http://twitter.com/search?q=mullingar) | N/A |
@@ -38,32 +38,32 @@ This is top 50 for [Ireland](</Ireland>)
 | 21 | [Ryan Moore](http://twitter.com/search?q=Ryan+Moore) | N/A |
 | 22 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
 | 23 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 24 | [Joanne Hayes](http://twitter.com/search?q=Joanne+Hayes) | N/A |
+| 24 | [joanne hayes](http://twitter.com/search?q=joanne+hayes) | N/A |
 | 25 | [daffodil day](http://twitter.com/search?q=daffodil+day) | N/A |
 | 26 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 27 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
+| 27 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
 | 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 29 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 30 | [elaine o'hara](http://twitter.com/search?q=elaine+o%27hara) | N/A |
-| 31 | [Connacht](http://twitter.com/search?q=Connacht) | N/A |
+| 29 | [elaine o'hara](http://twitter.com/search?q=elaine+o%27hara) | N/A |
+| 30 | [Connacht](http://twitter.com/search?q=Connacht) | N/A |
+| 31 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
 | 32 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
 | 33 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
-| 34 | [Fine Gael](http://twitter.com/search?q=Fine+Gael) | N/A |
-| 35 | [SDLP](http://twitter.com/search?q=SDLP) | N/A |
-| 36 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 37 | [Scrap](http://twitter.com/search?q=Scrap) | N/A |
-| 38 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
-| 39 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 40 | [kerry fc](http://twitter.com/search?q=kerry+fc) | N/A |
-| 41 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 42 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 43 | [Broome](http://twitter.com/search?q=Broome) | N/A |
-| 44 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 45 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 46 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 47 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 48 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 49 | [ALL SQUARE](http://twitter.com/search?q=ALL+SQUARE) | N/A |
+| 34 | [SDLP](http://twitter.com/search?q=SDLP) | N/A |
+| 35 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 36 | [Scrap](http://twitter.com/search?q=Scrap) | N/A |
+| 37 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
+| 38 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 39 | [kerry fc](http://twitter.com/search?q=kerry+fc) | N/A |
+| 40 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 41 | [Broome](http://twitter.com/search?q=Broome) | N/A |
+| 42 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 43 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 44 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 45 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 46 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 47 | [ALL SQUARE](http://twitter.com/search?q=ALL+SQUARE) | N/A |
+| 48 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
+| 49 | [Ruddock](http://twitter.com/search?q=Ruddock) | N/A |
 
 
 

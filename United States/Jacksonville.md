@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-26 03:17:31 UTC`
+📆 Last Updated: `2023-03-26 04:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Boca](http://twitter.com/search?q=Boca) | N/A |
+| 1 | [Go Owls](http://twitter.com/search?q=Go+Owls) | N/A |
 | 2 | [#VamosOrlando](http://twitter.com/search?q=%23VamosOrlando) | N/A |
-| 3 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 4 | [HOOT HOOT](http://twitter.com/search?q=HOOT+HOOT) | N/A |
-| 5 | [#OrlandoCity](http://twitter.com/search?q=%23OrlandoCity) | N/A |
-| 6 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
-| 7 | [#marchmadness2023](http://twitter.com/search?q=%23marchmadness2023) | N/A |
-| 8 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
-| 9 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 10 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 11 | [Nate](http://twitter.com/search?q=Nate) | N/A |
+| 3 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
+| 4 | [Boca](http://twitter.com/search?q=Boca) | N/A |
+| 5 | [HOOT HOOT](http://twitter.com/search?q=HOOT+HOOT) | N/A |
+| 6 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 7 | [#OrlandoCity](http://twitter.com/search?q=%23OrlandoCity) | N/A |
+| 8 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 9 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
+| 10 | [#marchmadness2023](http://twitter.com/search?q=%23marchmadness2023) | N/A |
+| 11 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 12 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 13 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 14 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 14 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
 | 15 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 16 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 17 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 18 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 19 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 20 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 22 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
-| 23 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
-| 24 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 25 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 26 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 27 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 28 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 16 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 17 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 18 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 19 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 20 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 21 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 22 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 23 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 24 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 25 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
+| 26 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 27 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 28 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
 | 29 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 30 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 31 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
-| 32 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 33 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 34 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 35 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 36 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 37 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 38 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 39 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
-| 40 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 41 | [Crowley](http://twitter.com/search?q=Crowley) | N/A |
-| 42 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 43 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
-| 44 | [Joel Ojeda](http://twitter.com/search?q=Joel+Ojeda) | N/A |
-| 45 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
-| 46 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 47 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 48 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
-| 49 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 50 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 31 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 32 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 33 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 34 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 35 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 36 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
+| 37 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 38 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
+| 39 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
+| 40 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 41 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 42 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 43 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 44 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 45 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 46 | [Joel Ojeda](http://twitter.com/search?q=Joel+Ojeda) | N/A |
+| 47 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 48 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
+| 49 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 50 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
 
 
 

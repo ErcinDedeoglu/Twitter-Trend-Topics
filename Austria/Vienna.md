@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-26 03:17:01 UTC`
+📆 Last Updated: `2023-03-26 04:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,11 +32,11 @@ This is top 50 for [Austria](</Austria>)
 | 15 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
 | 16 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 17 | [tanzt du](http://twitter.com/search?q=tanzt+du) | N/A |
-| 18 | [grosz](http://twitter.com/search?q=grosz) | N/A |
-| 19 | [Bewerbungen](http://twitter.com/search?q=Bewerbungen) | N/A |
-| 20 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 21 | [Robert Menasse](http://twitter.com/search?q=Robert+Menasse) | N/A |
-| 22 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 18 | [bewerbungen](http://twitter.com/search?q=bewerbungen) | N/A |
+| 19 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 20 | [robert menasse](http://twitter.com/search?q=robert+menasse) | N/A |
+| 21 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 22 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
 | 23 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
 | 24 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
 | 25 | [Strom](http://twitter.com/search?q=Strom) | N/A |
@@ -44,25 +44,25 @@ This is top 50 for [Austria](</Austria>)
 | 27 | [Rosemarie](http://twitter.com/search?q=Rosemarie) | N/A |
 | 28 | [Hersteller](http://twitter.com/search?q=Hersteller) | N/A |
 | 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 30 | [Flughafen](http://twitter.com/search?q=Flughafen) | N/A |
-| 31 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
-| 32 | [Verbrennungsmotor](http://twitter.com/search?q=Verbrennungsmotor) | N/A |
-| 33 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 34 | [Lobbyisten](http://twitter.com/search?q=Lobbyisten) | N/A |
-| 35 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 36 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 37 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
-| 38 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 39 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 40 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
-| 41 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
-| 42 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 43 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 44 | [Hype](http://twitter.com/search?q=Hype) | N/A |
+| 30 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 31 | [verbrennungsmotor](http://twitter.com/search?q=verbrennungsmotor) | N/A |
+| 32 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 33 | [lobbyisten](http://twitter.com/search?q=lobbyisten) | N/A |
+| 34 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 35 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 36 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
+| 37 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 38 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 39 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
+| 40 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
+| 41 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 42 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 43 | [Hype](http://twitter.com/search?q=Hype) | N/A |
+| 44 | [Flughafen](http://twitter.com/search?q=Flughafen) | N/A |
 | 45 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 46 | [traiskirchen](http://twitter.com/search?q=traiskirchen) | N/A |
 | 47 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
-| 48 | [Vorsitzenden](http://twitter.com/search?q=Vorsitzenden) | N/A |
+| 48 | [vorsitzenden](http://twitter.com/search?q=vorsitzenden) | N/A |
 | 49 | [sozialdemokratie](http://twitter.com/search?q=sozialdemokratie) | N/A |
 | 50 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
 

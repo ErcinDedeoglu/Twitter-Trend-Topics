@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-26 03:17:23 UTC`
+📆 Last Updated: `2023-03-26 04:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,50 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#55वर्षों_से_बहती_अविरत_धारा](http://twitter.com/search?q=%2355%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%b7%e0%a5%8b%e0%a4%82_%e0%a4%b8%e0%a5%87_%e0%a4%ac%e0%a4%b9%e0%a4%a4%e0%a5%80_%e0%a4%85%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a4%a4_%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a4%be) | N/A |
-| 2 | [Sabka Mangal Sabka Bhala](http://twitter.com/search?q=Sabka+Mangal+Sabka+Bhala) | N/A |
-| 3 | [#14thSpiritualLetter](http://twitter.com/search?q=%2314thSpiritualLetter) | N/A |
-| 4 | [Selfless Services](http://twitter.com/search?q=Selfless+Services) | N/A |
-| 5 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 6 | [#RahulGandhi](http://twitter.com/search?q=%23RahulGandhi) | N/A |
-| 7 | [महादेवी वर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 8 | [#20000CroreKiskeHain](http://twitter.com/search?q=%2320000CroreKiskeHain) | N/A |
-| 9 | [सदा देवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 11 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 12 | [पंचम स्वरूप](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 13 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
-| 14 | [आधुनिक मीरा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a4%be) | N/A |
-| 15 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 16 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 17 | [ललित मोदी](http://twitter.com/search?q=%e0%a4%b2%e0%a4%b2%e0%a4%bf%e0%a4%a4+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 18 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 19 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 20 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 21 | [नीरव मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%b0%e0%a4%b5+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 22 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
-| 23 | [आधुनिक हिन्दी](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80) | N/A |
-| 24 | [चार प्रमुख](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 25 | [श्री सूर्य देव](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 26 | [MSG Gurumantra Bhandara](http://twitter.com/search?q=MSG+Gurumantra+Bhandara) | N/A |
-| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 28 | [हिन्दी साहित्य](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
-| 29 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 30 | [गांधी परिवार](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0) | N/A |
-| 31 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
-| 32 | [wake up hindu](http://twitter.com/search?q=wake+up+hindu) | N/A |
-| 33 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 34 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 35 | [प्रदेश मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 36 | [नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 37 | [Sushant Missed Beyond Measure](http://twitter.com/search?q=Sushant+Missed+Beyond+Measure) | N/A |
-| 38 | [SSR Case LongDrawn Out](http://twitter.com/search?q=SSR+Case+LongDrawn+Out) | N/A |
-| 39 | [Engineering Drawing](http://twitter.com/search?q=Engineering+Drawing) | N/A |
-| 40 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 41 | [AYESHA AS SAI HITS 800](http://twitter.com/search?q=AYESHA+AS+SAI+HITS+800) | N/A |
-| 42 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 43 | [आधुनिक युग](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%af%e0%a5%81%e0%a4%97) | N/A |
-| 44 | [SUNIELSHETTY X SHEHNAAZ](http://twitter.com/search?q=SUNIELSHETTY+X+SHEHNAAZ) | N/A |
-| 45 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 46 | [HBD SUPER SHAHEERA](http://twitter.com/search?q=HBD+SUPER+SHAHEERA) | N/A |
-| 47 | [iconic 13 yrs of gashmeer](http://twitter.com/search?q=iconic+13+yrs+of+gashmeer) | N/A |
-| 48 | [Lok Sabha](http://twitter.com/search?q=Lok+Sabha) | N/A |
-| 49 | [Rajdeep](http://twitter.com/search?q=Rajdeep) | N/A |
-| 50 | [प्रमोद तिवारी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%8b%e0%a4%a6+%e0%a4%a4%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 2 | [#14thSpiritualLetter](http://twitter.com/search?q=%2314thSpiritualLetter) | N/A |
+| 3 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
+| 4 | [Sabka Mangal Sabka Bhala](http://twitter.com/search?q=Sabka+Mangal+Sabka+Bhala) | N/A |
+| 5 | [Selfless Services](http://twitter.com/search?q=Selfless+Services) | N/A |
+| 6 | [महादेवी वर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 7 | [#LVM3](http://twitter.com/search?q=%23LVM3) | N/A |
+| 8 | [सदा देवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 9 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 10 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 11 | [पंचम स्वरूप](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 12 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
+| 13 | [आधुनिक मीरा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a4%be) | N/A |
+| 14 | [हिन्दी साहित्य](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
+| 15 | [MSG Gurumantra Bhandara](http://twitter.com/search?q=MSG+Gurumantra+Bhandara) | N/A |
+| 16 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 17 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 18 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
+| 19 | [प्रदेश मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 20 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
+| 21 | [Rajdeep](http://twitter.com/search?q=Rajdeep) | N/A |
+| 22 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 23 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 24 | [#Oneweb](http://twitter.com/search?q=%23Oneweb) | N/A |
+| 25 | [#MannKiBaat](http://twitter.com/search?q=%23MannKiBaat) | N/A |
+| 26 | [#Sriharikota](http://twitter.com/search?q=%23Sriharikota) | N/A |
+| 27 | [#MahadeviVerma](http://twitter.com/search?q=%23MahadeviVerma) | N/A |
+| 28 | [#बेरोजगारों_की_संसद](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%87%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%97%e0%a4%be%e0%a4%b0%e0%a5%8b%e0%a4%82_%e0%a4%95%e0%a5%80_%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6) | N/A |
+| 29 | [#GodMorningSunday](http://twitter.com/search?q=%23GodMorningSunday) | N/A |
+| 30 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 31 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 32 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 33 | [#3rdG_टीचर_मांगे_ट्रांसफर](http://twitter.com/search?q=%233rdG_%e0%a4%9f%e0%a5%80%e0%a4%9a%e0%a4%b0_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87_%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%ab%e0%a4%b0) | N/A |
+| 34 | [#आदिवासी_मांगे_भीलप्रदेश](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%80_%e0%a4%ae%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%87_%e0%a4%ad%e0%a5%80%e0%a4%b2%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 35 | [#TSPनगरपालिका_रद्द_करो](http://twitter.com/search?q=%23TSP%e0%a4%a8%e0%a4%97%e0%a4%b0%e0%a4%aa%e0%a4%be%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be_%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%a6_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 36 | [#Rahul_Gandhi](http://twitter.com/search?q=%23Rahul_Gandhi) | N/A |
+| 37 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 38 | [#मन_की_बात](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%a8_%e0%a4%95%e0%a5%80_%e0%a4%ac%e0%a4%be%e0%a4%a4) | N/A |
+| 39 | [#Worldboxingchampionship](http://twitter.com/search?q=%23Worldboxingchampionship) | N/A |
+| 40 | [#SaweetyBoora](http://twitter.com/search?q=%23SaweetyBoora) | N/A |
+| 41 | [#RahulGhandi](http://twitter.com/search?q=%23RahulGhandi) | N/A |
+| 42 | [#OrangeSpecialShows](http://twitter.com/search?q=%23OrangeSpecialShows) | N/A |
+| 43 | [#WPLFinal](http://twitter.com/search?q=%23WPLFinal) | N/A |
+| 44 | [#20000CroreKiskeHain](http://twitter.com/search?q=%2320000CroreKiskeHain) | N/A |
+| 45 | [#GodiMedia](http://twitter.com/search?q=%23GodiMedia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-26 03:17:03 UTC`
+📆 Last Updated: `2023-03-26 04:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
-| 2 | [#MARBRA](http://twitter.com/search?q=%23MARBRA) | N/A |
-| 3 | [1h59](http://twitter.com/search?q=1h59) | N/A |
-| 4 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 5 | [#QuelleEpoque](http://twitter.com/search?q=%23QuelleEpoque) | N/A |
-| 6 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 7 | [#heuredété](http://twitter.com/search?q=%23heured%c3%a9t%c3%a9) | N/A |
-| 8 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
-| 9 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 10 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 11 | [Bounou](http://twitter.com/search?q=Bounou) | N/A |
-| 12 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 13 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
-| 14 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
-| 15 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 16 | [Regragui](http://twitter.com/search?q=Regragui) | N/A |
-| 17 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 18 | [Spargo](http://twitter.com/search?q=Spargo) | N/A |
-| 19 | [Sabiri](http://twitter.com/search?q=Sabiri) | N/A |
-| 20 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 21 | [3h00](http://twitter.com/search?q=3h00) | N/A |
-| 22 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
-| 23 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 24 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 25 | [Laure Calamy](http://twitter.com/search?q=Laure+Calamy) | N/A |
-| 26 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 27 | [Gluto](http://twitter.com/search?q=Gluto) | N/A |
-| 28 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 29 | [Niger](http://twitter.com/search?q=Niger) | N/A |
-| 30 | [Tanger](http://twitter.com/search?q=Tanger) | N/A |
-| 31 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
-| 32 | [Croatie](http://twitter.com/search?q=Croatie) | N/A |
-| 33 | [Ripoll](http://twitter.com/search?q=Ripoll) | N/A |
-| 34 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
-| 35 | [Summit](http://twitter.com/search?q=Summit) | N/A |
-| 36 | [Norvège](http://twitter.com/search?q=Norv%c3%a8ge) | N/A |
-| 37 | [L'eau](http://twitter.com/search?q=L%27eau) | N/A |
-| 38 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 39 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
-| 40 | [#rmcmma](http://twitter.com/search?q=%23rmcmma) | N/A |
-| 41 | [#DimaMaghrib](http://twitter.com/search?q=%23DimaMaghrib) | N/A |
+| 1 | [#SainteSoline](http://twitter.com/search?q=%23SainteSoline) | N/A |
+| 2 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 3 | [#franed](http://twitter.com/search?q=%23franed) | N/A |
+| 4 | [#megabassines](http://twitter.com/search?q=%23megabassines) | N/A |
+| 5 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 6 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 7 | [#MARBRA](http://twitter.com/search?q=%23MARBRA) | N/A |
+| 8 | [#TheVoice](http://twitter.com/search?q=%23TheVoice) | N/A |
+| 9 | [1h59](http://twitter.com/search?q=1h59) | N/A |
+| 10 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 11 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 12 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 13 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
+| 14 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 15 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 16 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 17 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 18 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 19 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 20 | [Bounou](http://twitter.com/search?q=Bounou) | N/A |
+| 21 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 22 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 23 | [Deux-Sèvres](http://twitter.com/search?q=Deux-S%c3%a8vres) | N/A |
+| 24 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 25 | [ripoll](http://twitter.com/search?q=ripoll) | N/A |
+| 26 | [Mad Max](http://twitter.com/search?q=Mad+Max) | N/A |
+| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 28 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 29 | [Spargo](http://twitter.com/search?q=Spargo) | N/A |
+| 30 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
+| 31 | [Regragui](http://twitter.com/search?q=Regragui) | N/A |
+| 32 | [Aguerd](http://twitter.com/search?q=Aguerd) | Aguerd is a term used in the Berber language of North Africa. It means "to be patient" or "to wait." |
+| 33 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 34 | [GIGN](http://twitter.com/search?q=GIGN) | N/A |
+| 35 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
+| 36 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 37 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 38 | [Guyane](http://twitter.com/search?q=Guyane) | N/A |
+| 39 | [lebec](http://twitter.com/search?q=lebec) | N/A |
+| 40 | [arryadia](http://twitter.com/search?q=arryadia) | N/A |
+| 41 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 42 | [Huguette](http://twitter.com/search?q=Huguette) | N/A |
+| 43 | [Harley Quinn](http://twitter.com/search?q=Harley+Quinn) | N/A |
+| 44 | [Sabiri](http://twitter.com/search?q=Sabiri) | N/A |
+| 45 | [Saiss](http://twitter.com/search?q=Saiss) | Saiss is a type of traditional Moroccan music that originated in the city of Fez. It is characterized by its slow, repetitive rhythms and often incorporates traditional instruments such as the oud, qanun, and darbuka. In English, Saiss translates to "melody". |
+| 46 | [Toji](http://twitter.com/search?q=Toji) | N/A |
+| 47 | [Marion Game](http://twitter.com/search?q=Marion+Game) | N/A |
+| 48 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
+| 49 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 50 | [Yvan](http://twitter.com/search?q=Yvan) | N/A |
 
 
 

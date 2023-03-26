@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-26 03:17:41 UTC`
+📆 Last Updated: `2023-03-26 04:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 2 | [#MOTOGPBETCLIC](http://twitter.com/search?q=%23MOTOGPBETCLIC) | N/A |
+| 1 | [#MOTOGPBETCLIC](http://twitter.com/search?q=%23MOTOGPBETCLIC) | N/A |
+| 2 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
 | 3 | [miguel oliveira](http://twitter.com/search?q=miguel+oliveira) | N/A |
 | 4 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
 | 5 | [emily](http://twitter.com/search?q=emily) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for Portugal
 | 28 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
 | 29 | [Nani](http://twitter.com/search?q=Nani) | N/A |
 | 30 | [João Mário](http://twitter.com/search?q=Jo%c3%a3o+M%c3%a1rio) | João Mário is a Portuguese name, derived from the Latin name Iohannes and the Latin word for "warrior," marius. In English, it translates to "John the Warrior." |
-| 31 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 32 | [Luanda](http://twitter.com/search?q=Luanda) | N/A |
-| 33 | [Jonet](http://twitter.com/search?q=Jonet) | N/A |
-| 34 | [Campeonato Nacional](http://twitter.com/search?q=Campeonato+Nacional) | N/A |
-| 35 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 36 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 37 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 38 | [Speed](http://twitter.com/search?q=Speed) | N/A |
-| 39 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 40 | [Nigéria](http://twitter.com/search?q=Nig%c3%a9ria) | N/A |
-| 41 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 42 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
-| 43 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 44 | [Aprilia](http://twitter.com/search?q=Aprilia) | N/A |
+| 31 | [Luanda](http://twitter.com/search?q=Luanda) | N/A |
+| 32 | [Jonet](http://twitter.com/search?q=Jonet) | N/A |
+| 33 | [Campeonato Nacional](http://twitter.com/search?q=Campeonato+Nacional) | N/A |
+| 34 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 35 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 36 | [Speed](http://twitter.com/search?q=Speed) | N/A |
+| 37 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 38 | [Nigéria](http://twitter.com/search?q=Nig%c3%a9ria) | N/A |
+| 39 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 40 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 41 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 42 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 43 | [aprilia](http://twitter.com/search?q=aprilia) | N/A |
+| 44 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 45 | [fatawu](http://twitter.com/search?q=fatawu) | N/A |
-| 46 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 47 | [Bielorrússia](http://twitter.com/search?q=Bielorr%c3%bassia) | N/A |
-| 48 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 49 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 50 | [Estádio](http://twitter.com/search?q=Est%c3%a1dio) | N/A |
+| 46 | [Bielorrússia](http://twitter.com/search?q=Bielorr%c3%bassia) | N/A |
+| 47 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 48 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 49 | [Estádio](http://twitter.com/search?q=Est%c3%a1dio) | N/A |
+| 50 | [Resident Evil 4 Remake](http://twitter.com/search?q=Resident+Evil+4+Remake) | N/A |
 
 
 

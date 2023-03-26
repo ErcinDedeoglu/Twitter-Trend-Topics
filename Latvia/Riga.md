@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-26 03:17:07 UTC`
+📆 Last Updated: `2023-03-26 04:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [sibīriju](http://twitter.com/search?q=sib%c4%abriju) | N/A |
-| 2 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
+| 2 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
 | 3 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
 | 4 | [Zemes](http://twitter.com/search?q=Zemes) | N/A |
 | 5 | [Manam](http://twitter.com/search?q=Manam) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Latvia](</Latvia>)
 | 34 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 35 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
 | 36 | [#ESLProLeague](http://twitter.com/search?q=%23ESLProLeague) | N/A |
-| 37 | [ventspilī](http://twitter.com/search?q=ventspil%c4%ab) | N/A |
+| 37 | [Ventspilī](http://twitter.com/search?q=Ventspil%c4%ab) | N/A |
 | 38 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
 | 39 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 40 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
 | 41 | [krievu](http://twitter.com/search?q=krievu) | N/A |
-| 42 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
-| 43 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 44 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
-| 45 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
-| 46 | [nekad](http://twitter.com/search?q=nekad) | N/A |
-| 47 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 42 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
+| 43 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 44 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 45 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
+| 46 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
+| 47 | [nekad](http://twitter.com/search?q=nekad) | N/A |
 | 48 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
 | 49 | [nevar](http://twitter.com/search?q=nevar) | N/A |
-| 50 | [Dievs](http://twitter.com/search?q=Dievs) | N/A |
+| 50 | [dievs](http://twitter.com/search?q=dievs) | N/A |
 
 
 

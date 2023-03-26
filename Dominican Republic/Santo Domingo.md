@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-26 03:16:53 UTC`
+📆 Last Updated: `2023-03-26 04:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,10 +27,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 10 | [Fefita](http://twitter.com/search?q=Fefita) | N/A |
 | 11 | [#AsambleaFP](http://twitter.com/search?q=%23AsambleaFP) | N/A |
 | 12 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 13 | [gonzalo castillo](http://twitter.com/search?q=gonzalo+castillo) | N/A |
-| 14 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 15 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
-| 16 | [Villa Mella](http://twitter.com/search?q=Villa+Mella) | N/A |
+| 13 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
+| 14 | [gonzalo castillo](http://twitter.com/search?q=gonzalo+castillo) | N/A |
+| 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 16 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
 | 17 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
 | 18 | [Aila](http://twitter.com/search?q=Aila) | N/A |
 | 19 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 21 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
 | 22 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 23 | [Catarey](http://twitter.com/search?q=Catarey) | N/A |
-| 24 | [Marcha Verde](http://twitter.com/search?q=Marcha+Verde) | N/A |
-| 25 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 26 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 27 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 24 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
+| 25 | [Villa Mella](http://twitter.com/search?q=Villa+Mella) | N/A |
+| 26 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 27 | [Marcha Verde](http://twitter.com/search?q=Marcha+Verde) | N/A |
 | 28 | [Pedro Sánchez](http://twitter.com/search?q=Pedro+S%c3%a1nchez) | N/A |
 | 29 | [máximo gómez](http://twitter.com/search?q=m%c3%a1ximo+g%c3%b3mez) | N/A |
 | 30 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
 | 31 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
-| 32 | [Enriquillo Matos](http://twitter.com/search?q=Enriquillo+Matos) | N/A |
-| 33 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 34 | [kinito](http://twitter.com/search?q=kinito) | N/A |
-| 35 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 36 | [Presidente Luis Abinader](http://twitter.com/search?q=Presidente+Luis+Abinader) | N/A |
-| 37 | [Manerra](http://twitter.com/search?q=Manerra) | N/A |
-| 38 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 39 | [Don Francisco](http://twitter.com/search?q=Don+Francisco) | N/A |
-| 40 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 41 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 42 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 43 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 44 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 45 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 46 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
-| 47 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 48 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 49 | [Fortaleza Ozama](http://twitter.com/search?q=Fortaleza+Ozama) | N/A |
-| 50 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 32 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 33 | [Enriquillo Matos](http://twitter.com/search?q=Enriquillo+Matos) | N/A |
+| 34 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 35 | [kinito](http://twitter.com/search?q=kinito) | N/A |
+| 36 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 37 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 38 | [presidente luis abinader](http://twitter.com/search?q=presidente+luis+abinader) | N/A |
+| 39 | [Manerra](http://twitter.com/search?q=Manerra) | N/A |
+| 40 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
+| 41 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 42 | [Don Francisco](http://twitter.com/search?q=Don+Francisco) | N/A |
+| 43 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 44 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 45 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 46 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 47 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 48 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
+| 49 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 50 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
 
 
 

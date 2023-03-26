@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-26 03:17:40 UTC`
+📆 Last Updated: `2023-03-26 04:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Nigeria
 | 2 | [#apeiro](http://twitter.com/search?q=%23apeiro) | N/A |
 | 3 | [#britishcouncilartshowcase](http://twitter.com/search?q=%23britishcouncilartshowcase) | N/A |
 | 4 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 5 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 6 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 7 | [#aristontakesthefield](http://twitter.com/search?q=%23aristontakesthefield) | N/A |
-| 8 | [#anyiamosigwelecture](http://twitter.com/search?q=%23anyiamosigwelecture) | N/A |
-| 9 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
+| 5 | [#aristontakesthefield](http://twitter.com/search?q=%23aristontakesthefield) | N/A |
+| 6 | [#anyiamosigwelecture](http://twitter.com/search?q=%23anyiamosigwelecture) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 8 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
+| 9 | [#munchittaskday](http://twitter.com/search?q=%23munchittaskday) | N/A |
 | 10 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 11 | [London](http://twitter.com/search?q=London) | N/A |
-| 12 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
-| 13 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 11 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
+| 12 | [London](http://twitter.com/search?q=London) | N/A |
+| 13 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
 | 14 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
 | 15 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
 | 16 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 17 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 18 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 19 | [BUGA WITH YVONNE](http://twitter.com/search?q=BUGA+WITH+YVONNE) | N/A |
-| 20 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 22 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 23 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 24 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
-| 25 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 26 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 27 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
-| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 17 | [buga with yvonne](http://twitter.com/search?q=buga+with+yvonne) | N/A |
+| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 19 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 21 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 22 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 23 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 24 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 25 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 26 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
+| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 28 | [PHYNA X RIXARI SALES](http://twitter.com/search?q=PHYNA+X+RIXARI+SALES) | N/A |
 | 29 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
-| 30 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
-| 31 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 32 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 33 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 34 | [specimen](http://twitter.com/search?q=specimen) | N/A |
-| 35 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
-| 36 | [Agneepath](http://twitter.com/search?q=Agneepath) | N/A |
-| 37 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 38 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
-| 39 | [eedc](http://twitter.com/search?q=eedc) | N/A |
-| 40 | [chukwueze](http://twitter.com/search?q=chukwueze) | N/A |
-| 41 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 42 | [pastor b](http://twitter.com/search?q=pastor+b) | N/A |
-| 43 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
+| 30 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
+| 31 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
+| 32 | [SPECIMEN](http://twitter.com/search?q=SPECIMEN) | N/A |
+| 33 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 34 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 35 | [Agneepath](http://twitter.com/search?q=Agneepath) | N/A |
+| 36 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 37 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
+| 38 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 39 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 40 | [eedc](http://twitter.com/search?q=eedc) | N/A |
+| 41 | [chukwueze](http://twitter.com/search?q=chukwueze) | N/A |
+| 42 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 43 | [pastor b](http://twitter.com/search?q=pastor+b) | N/A |
 | 44 | [House 2](http://twitter.com/search?q=House+2) | N/A |
-| 45 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 46 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
-| 47 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 48 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
-| 49 | [iftar mubarak](http://twitter.com/search?q=iftar+mubarak) | N/A |
-| 50 | [noon dave](http://twitter.com/search?q=noon+dave) | N/A |
+| 45 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 46 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 47 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 48 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
+| 49 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
+| 50 | [iftar Mubarak](http://twitter.com/search?q=iftar+Mubarak) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-03-26 03:17:32 UTC`
+📆 Last Updated: `2023-03-26 04:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dylan Crews](http://twitter.com/search?q=Dylan+Crews) | N/A |
-| 2 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 3 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 4 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 5 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 6 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 7 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 8 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 9 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 10 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 11 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 12 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 13 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 14 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 15 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 16 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
-| 17 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
-| 18 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 19 | [#LetsGoPens](http://twitter.com/search?q=%23LetsGoPens) | #LetsGoPens is a hashtag used by fans of the Pittsburgh Penguins, a professional ice hockey team based in Pittsburgh, Pennsylvania. It is used to show support for the team and to encourage them to victory. |
-| 20 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
-| 21 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 22 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 23 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
-| 24 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 1 | [#Pelicans](http://twitter.com/search?q=%23Pelicans) | N/A |
+| 2 | [Dylan Crews](http://twitter.com/search?q=Dylan+Crews) | N/A |
+| 3 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 4 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 5 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 6 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 7 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 8 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 9 | [#BenavidezPlant](http://twitter.com/search?q=%23BenavidezPlant) | N/A |
+| 10 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 11 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 12 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 13 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 14 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 15 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 16 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 17 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 18 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 19 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 20 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 21 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
+| 22 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 23 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 24 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
 | 25 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 26 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 27 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
-| 28 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 29 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 30 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 31 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 32 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 33 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 34 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 35 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 36 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
-| 37 | [Crowley](http://twitter.com/search?q=Crowley) | N/A |
-| 38 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
-| 39 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 40 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
-| 41 | [Joel Ojeda](http://twitter.com/search?q=Joel+Ojeda) | N/A |
-| 42 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 43 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 44 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 45 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
-| 46 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 47 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 48 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 49 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 26 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 27 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 28 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 30 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 31 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 32 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 33 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
+| 34 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 35 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
+| 36 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
+| 37 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 38 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 39 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 40 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 41 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 42 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 43 | [Joel Ojeda](http://twitter.com/search?q=Joel+Ojeda) | N/A |
+| 44 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 45 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 46 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
+| 47 | [Robbery](http://twitter.com/search?q=Robbery) | N/A |
+| 48 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
+| 49 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
 
 
 

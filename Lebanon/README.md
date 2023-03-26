@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-26 03:17:40 UTC`
+📆 Last Updated: `2023-03-26 04:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,16 +21,16 @@ This is top 50 for Lebanon
 | 4 | [#حوت_المطار](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%aa_%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1) | N/A |
 | 5 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
 | 6 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 7 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
-| 8 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 9 | [المدارس الكاثوليكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%83%d8%a7%d8%ab%d9%88%d9%84%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 10 | [العصر الحجري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d8%b1+%d8%a7%d9%84%d8%ad%d8%ac%d8%b1%d9%8a) | N/A |
-| 11 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 12 | [#عيد_البشاره](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%a8%d8%b4%d8%a7%d8%b1%d9%87) | N/A |
-| 13 | [منتصف الليل](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%b5%d9%81+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
+| 7 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 8 | [المدارس الكاثوليكيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%83%d8%a7%d8%ab%d9%88%d9%84%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 9 | [العصر الحجري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d8%b1+%d8%a7%d9%84%d8%ad%d8%ac%d8%b1%d9%8a) | N/A |
+| 10 | [#عيد_البشاره](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d8%a8%d8%b4%d8%a7%d8%b1%d9%87) | N/A |
+| 11 | [منتصف الليل](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%b5%d9%81+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | N/A |
+| 12 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
+| 13 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
 | 14 | [عدم الالتزام](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d9%84%d8%aa%d8%b2%d8%a7%d9%85) | N/A |
-| 15 | [عيش مشترك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b4+%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
-| 16 | [المنحي الطايفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%ad%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%8a) | N/A |
+| 15 | [المنحي الطايفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%ad%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%8a) | N/A |
+| 16 | [عيش مشترك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b4+%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
 | 17 | [تاريخ الميلاد](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d9%85%d9%8a%d9%84%d8%a7%d8%af) | N/A |
 | 18 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
 | 19 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Lebanon
 | 45 | [لبنان الكبير](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
 | 46 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 47 | [هيدا القرار](http://twitter.com/search?q=%d9%87%d9%8a%d8%af%d8%a7+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
-| 48 | [هيدا البلد](http://twitter.com/search?q=%d9%87%d9%8a%d8%af%d8%a7+%d8%a7%d9%84%d8%a8%d9%84%d8%af) | N/A |
-| 49 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
-| 50 | [جنبلاط](http://twitter.com/search?q=%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
+| 48 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
+| 49 | [جنبلاط](http://twitter.com/search?q=%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
+| 50 | [الحرب الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
 
 
 
