@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Acapulco
 
-📆 Last Updated: `2023-03-26 01:44:11 UTC`
+📆 Last Updated: `2023-03-26 02:34:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 2 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
 | 3 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 4 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 5 | [#ContingenciaAmbiental](http://twitter.com/search?q=%23ContingenciaAmbiental) | N/A |
-| 6 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
-| 7 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 8 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 9 | [#FestivalTurístico](http://twitter.com/search?q=%23FestivalTur%c3%adstico) | N/A |
-| 10 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 11 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 12 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
-| 13 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 14 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
-| 15 | [Muebles Troncoso](http://twitter.com/search?q=Muebles+Troncoso) | N/A |
-| 16 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
-| 17 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
-| 18 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
-| 19 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 20 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 21 | [López Tarso](http://twitter.com/search?q=L%c3%b3pez+Tarso) | N/A |
-| 22 | [La Carabina de Ambrosio](http://twitter.com/search?q=La+Carabina+de+Ambrosio) | N/A |
-| 23 | [En Familia](http://twitter.com/search?q=En+Familia) | N/A |
-| 24 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
-| 25 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
-| 26 | [López Dóriga](http://twitter.com/search?q=L%c3%b3pez+D%c3%b3riga) | N/A |
-| 27 | [Adiós Superman](http://twitter.com/search?q=Adi%c3%b3s+Superman) | N/A |
-| 28 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 29 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 30 | [Pinal](http://twitter.com/search?q=Pinal) | N/A |
-| 31 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 32 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 33 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 34 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 35 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
-| 36 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
-| 37 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 38 | [#LaCiudadQueLoTieneTodo](http://twitter.com/search?q=%23LaCiudadQueLoTieneTodo) | N/A |
-| 39 | [#HastaSiempreCuate](http://twitter.com/search?q=%23HastaSiempreCuate) | N/A |
-| 40 | [#VotoMasivoPorMorena2023Y2024](http://twitter.com/search?q=%23VotoMasivoPorMorena2023Y2024) | N/A |
+| 4 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 5 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
+| 6 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 8 | [Cuate](http://twitter.com/search?q=Cuate) | N/A |
+| 9 | [Muebles Troncoso](http://twitter.com/search?q=Muebles+Troncoso) | N/A |
+| 10 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
+| 11 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 12 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
+| 13 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 14 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 15 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 16 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
+| 17 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 18 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 19 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
+| 20 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 21 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
+| 22 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 23 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 24 | [Adiós Superman](http://twitter.com/search?q=Adi%c3%b3s+Superman) | N/A |
+| 25 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
+| 26 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
+| 27 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
+| 28 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
+| 29 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
+| 30 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 31 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 32 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 33 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 34 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 35 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
+| 36 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 37 | [René Higuita](http://twitter.com/search?q=Ren%c3%a9+Higuita) | N/A |
+| 38 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
+| 39 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 40 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 41 | [César Costa](http://twitter.com/search?q=C%c3%a9sar+Costa) | N/A |
+| 42 | [Martinica](http://twitter.com/search?q=Martinica) | N/A |
+| 43 | [Lois](http://twitter.com/search?q=Lois) | N/A |
+| 44 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 45 | [Turco](http://twitter.com/search?q=Turco) | N/A |
+| 46 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 47 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 48 | [Charlyn](http://twitter.com/search?q=Charlyn) | N/A |
+| 49 | [Elsa Aguirre](http://twitter.com/search?q=Elsa+Aguirre) | N/A |
+| 50 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
 
 
 

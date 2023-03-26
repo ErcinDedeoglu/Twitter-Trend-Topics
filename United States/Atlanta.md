@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-26 01:44:47 UTC`
+📆 Last Updated: `2023-03-26 02:35:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 2 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 3 | [#TrueToAtlanta](http://twitter.com/search?q=%23TrueToAtlanta) | N/A |
-| 4 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 5 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 6 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 7 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 8 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 2 | [Atlanta United](http://twitter.com/search?q=Atlanta+United) | N/A |
+| 3 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 4 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 5 | [#TrueToAtlanta](http://twitter.com/search?q=%23TrueToAtlanta) | N/A |
+| 6 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 7 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 8 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
 | 9 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 | 10 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 11 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 12 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 13 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 14 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 15 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 11 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 12 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 13 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 14 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 15 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
 | 16 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 17 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 18 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 19 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
-| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 21 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
-| 22 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 23 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
-| 24 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 25 | [K State](http://twitter.com/search?q=K+State) | N/A |
-| 26 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 27 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 28 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
-| 29 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
-| 30 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 31 | [Boca](http://twitter.com/search?q=Boca) | N/A |
-| 32 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 33 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 34 | [emily ratajkowski](http://twitter.com/search?q=emily+ratajkowski) | N/A |
+| 17 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 18 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 20 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 21 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 22 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 23 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 24 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 25 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
+| 26 | [Crowley](http://twitter.com/search?q=Crowley) | N/A |
+| 27 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 28 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
+| 29 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 30 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
+| 31 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 32 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 33 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 34 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
 | 35 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 36 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 37 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 38 | [Andrea Lee](http://twitter.com/search?q=Andrea+Lee) | N/A |
-| 39 | [Congrats to FAU](http://twitter.com/search?q=Congrats+to+FAU) | N/A |
-| 40 | [Eppler](http://twitter.com/search?q=Eppler) | N/A |
-| 41 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 42 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 43 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
-| 44 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
-| 45 | [Nate the Train](http://twitter.com/search?q=Nate+the+Train) | N/A |
-| 46 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 47 | [HOOT HOOT](http://twitter.com/search?q=HOOT+HOOT) | N/A |
-| 48 | [Nate Landwehr](http://twitter.com/search?q=Nate+Landwehr) | N/A |
-| 49 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
-| 50 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 36 | [K State](http://twitter.com/search?q=K+State) | N/A |
+| 37 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 38 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 39 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 40 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 41 | [Boca](http://twitter.com/search?q=Boca) | N/A |
+| 42 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
+| 43 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 44 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
+| 45 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 46 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 47 | [Ben Sweat](http://twitter.com/search?q=Ben+Sweat) | N/A |
+| 48 | [Eppler](http://twitter.com/search?q=Eppler) | N/A |
+| 49 | [Hardwell](http://twitter.com/search?q=Hardwell) | N/A |
+| 50 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
 
 
 

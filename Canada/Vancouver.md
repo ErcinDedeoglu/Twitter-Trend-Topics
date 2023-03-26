@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-26 01:44:07 UTC`
+📆 Last Updated: `2023-03-26 02:34:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 2 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 3 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
-| 4 | [#CanMNT](http://twitter.com/search?q=%23CanMNT) | N/A |
-| 5 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 6 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 1 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 2 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 3 | [#CanMNT](http://twitter.com/search?q=%23CanMNT) | N/A |
+| 4 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 5 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
+| 6 | [Canes](http://twitter.com/search?q=Canes) | N/A |
 | 7 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 8 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 9 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 10 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 11 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 12 | [Mike Matheson](http://twitter.com/search?q=Mike+Matheson) | N/A |
-| 13 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 14 | [Harvey-Pinard](http://twitter.com/search?q=Harvey-Pinard) | N/A |
-| 15 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 16 | [Laryea](http://twitter.com/search?q=Laryea) | N/A |
-| 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 18 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 19 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 20 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
-| 21 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 22 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
-| 23 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 24 | [Dick Gamble](http://twitter.com/search?q=Dick+Gamble) | N/A |
-| 25 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 26 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
-| 27 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 28 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 29 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 30 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 31 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 32 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 33 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 34 | [UFC Hall of Fame](http://twitter.com/search?q=UFC+Hall+of+Fame) | N/A |
-| 35 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 36 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 37 | [HNIC](http://twitter.com/search?q=HNIC) | N/A |
-| 38 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 39 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 40 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 41 | [Hamonic](http://twitter.com/search?q=Hamonic) | N/A |
-| 42 | [Rathbone](http://twitter.com/search?q=Rathbone) | N/A |
-| 43 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 44 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 45 | [Holm](http://twitter.com/search?q=Holm) | N/A |
-| 46 | [Andrea Lee](http://twitter.com/search?q=Andrea+Lee) | N/A |
-| 47 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 48 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 49 | [Brady Tkachuk](http://twitter.com/search?q=Brady+Tkachuk) | N/A |
-| 50 | [Duraev](http://twitter.com/search?q=Duraev) | N/A |
+| 8 | [#Leafs](http://twitter.com/search?q=%23Leafs) | N/A |
+| 9 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 10 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
+| 11 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 12 | [Auston Matthews](http://twitter.com/search?q=Auston+Matthews) | N/A |
+| 13 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 14 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 15 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 16 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 17 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 18 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 19 | [Rafaël Harvey-Pinard](http://twitter.com/search?q=Rafa%c3%abl+Harvey-Pinard) | N/A |
+| 20 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 21 | [Suzuki](http://twitter.com/search?q=Suzuki) | N/A |
+| 22 | [HNIC](http://twitter.com/search?q=HNIC) | N/A |
+| 23 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 24 | [Holden](http://twitter.com/search?q=Holden) | N/A |
+| 25 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 26 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 27 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 28 | [Mike Matheson](http://twitter.com/search?q=Mike+Matheson) | N/A |
+| 29 | [Rathbone](http://twitter.com/search?q=Rathbone) | N/A |
+| 30 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 31 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 32 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 33 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 34 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 35 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 36 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 37 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 38 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 39 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 40 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 41 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 42 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 43 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 44 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 45 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
+| 46 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 47 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 48 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 49 | [#TORvsCAR](http://twitter.com/search?q=%23TORvsCAR) | N/A |
 
 
 

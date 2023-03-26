@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-26 01:45:01 UTC`
+📆 Last Updated: `2023-03-26 02:35:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,37 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CZEPOL](http://twitter.com/search?q=%23CZEPOL) | N/A |
+| 1 | [#czepol](http://twitter.com/search?q=%23czepol) | N/A |
 | 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
 | 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
 | 4 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
 | 5 | [#OfensywaTuska](http://twitter.com/search?q=%23OfensywaTuska) | N/A |
 | 6 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
 | 7 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 8 | [#POLCZE](http://twitter.com/search?q=%23POLCZE) | N/A |
-| 9 | [Czechów](http://twitter.com/search?q=Czech%c3%b3w) | N/A |
-| 10 | [Hubi](http://twitter.com/search?q=Hubi) | N/A |
-| 11 | [Sosnowcu](http://twitter.com/search?q=Sosnowcu) | N/A |
-| 12 | [Czesi](http://twitter.com/search?q=Czesi) | N/A |
-| 13 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
+| 8 | [#polcze](http://twitter.com/search?q=%23polcze) | N/A |
+| 9 | [czechów](http://twitter.com/search?q=czech%c3%b3w) | N/A |
+| 10 | [Sosnowcu](http://twitter.com/search?q=Sosnowcu) | N/A |
+| 11 | [Czesi](http://twitter.com/search?q=Czesi) | N/A |
+| 12 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
+| 13 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
 | 14 | [Julita](http://twitter.com/search?q=Julita) | N/A |
-| 15 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
+| 15 | [Hubi](http://twitter.com/search?q=Hubi) | N/A |
 | 16 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
 | 17 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
 | 18 | [Zieliński](http://twitter.com/search?q=Zieli%c5%84ski) | N/A |
-| 19 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
+| 19 | [glika](http://twitter.com/search?q=glika) | N/A |
 | 20 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
 | 21 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
-| 22 | [glika](http://twitter.com/search?q=glika) | N/A |
-| 23 | [albanią](http://twitter.com/search?q=albani%c4%85) | N/A |
-| 24 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 25 | [Szymański](http://twitter.com/search?q=Szyma%c5%84ski) | N/A |
-| 26 | [Gumny](http://twitter.com/search?q=Gumny) | N/A |
-| 27 | [Piorun](http://twitter.com/search?q=Piorun) | N/A |
-| 28 | [wyspy owcze](http://twitter.com/search?q=wyspy+owcze) | N/A |
-| 29 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
-| 30 | [Lahti](http://twitter.com/search?q=Lahti) | N/A |
-| 31 | [Semka](http://twitter.com/search?q=Semka) | N/A |
+| 22 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 23 | [Szymański](http://twitter.com/search?q=Szyma%c5%84ski) | N/A |
+| 24 | [Gumny](http://twitter.com/search?q=Gumny) | N/A |
+| 25 | [Piorun](http://twitter.com/search?q=Piorun) | N/A |
+| 26 | [wyspy owcze](http://twitter.com/search?q=wyspy+owcze) | N/A |
+| 27 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
+| 28 | [Lahti](http://twitter.com/search?q=Lahti) | N/A |
+| 29 | [Semka](http://twitter.com/search?q=Semka) | N/A |
+| 30 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 31 | [Brawo Magda](http://twitter.com/search?q=Brawo+Magda) | N/A |
 | 32 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
 | 33 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
 | 34 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Poland
 | 45 | [Azarenką](http://twitter.com/search?q=Azarenk%c4%85) | N/A |
 | 46 | [lewego](http://twitter.com/search?q=lewego) | N/A |
 | 47 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 48 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
-| 49 | [Friz](http://twitter.com/search?q=Friz) | N/A |
-| 50 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
+| 48 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 49 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
+| 50 | [Friz](http://twitter.com/search?q=Friz) | N/A |
 
 
 

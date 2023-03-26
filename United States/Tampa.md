@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-26 01:44:55 UTC`
+📆 Last Updated: `2023-03-26 02:35:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#VamosOrlando](http://twitter.com/search?q=%23VamosOrlando) | N/A |
-| 2 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 3 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
-| 4 | [#WinningInParadise](http://twitter.com/search?q=%23WinningInParadise) | N/A |
-| 5 | [#OrlandoCity](http://twitter.com/search?q=%23OrlandoCity) | N/A |
-| 6 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 2 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 3 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 4 | [#OrlandoCity](http://twitter.com/search?q=%23OrlandoCity) | N/A |
+| 5 | [#InterMiamiCF](http://twitter.com/search?q=%23InterMiamiCF) | N/A |
+| 6 | [#marchmadness2023](http://twitter.com/search?q=%23marchmadness2023) | N/A |
 | 7 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 8 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 9 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 10 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 11 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 13 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 8 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 9 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 10 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 11 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 12 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 13 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
 | 14 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 15 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 16 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 17 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 18 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 19 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
-| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 21 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 22 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 23 | [K State](http://twitter.com/search?q=K+State) | N/A |
-| 24 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 25 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 26 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
-| 27 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
+| 15 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 16 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 17 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 18 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 19 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 20 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 21 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
+| 22 | [Crowley](http://twitter.com/search?q=Crowley) | N/A |
+| 23 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 24 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 25 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
+| 26 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 27 | [Owls](http://twitter.com/search?q=Owls) | N/A |
 | 28 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 29 | [Boca](http://twitter.com/search?q=Boca) | N/A |
-| 30 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 31 | [emily ratajkowski](http://twitter.com/search?q=emily+ratajkowski) | N/A |
-| 32 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 33 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 34 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 35 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 36 | [Eppler](http://twitter.com/search?q=Eppler) | N/A |
-| 37 | [Andrea Lee](http://twitter.com/search?q=Andrea+Lee) | N/A |
-| 38 | [Congrats to FAU](http://twitter.com/search?q=Congrats+to+FAU) | N/A |
-| 39 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 40 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 41 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
-| 42 | [Nate the Train](http://twitter.com/search?q=Nate+the+Train) | N/A |
-| 43 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 44 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
-| 45 | [HOOT HOOT](http://twitter.com/search?q=HOOT+HOOT) | N/A |
-| 46 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
-| 47 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 48 | [Hardwell](http://twitter.com/search?q=Hardwell) | N/A |
-| 49 | [Frozen Four](http://twitter.com/search?q=Frozen+Four) | N/A |
+| 29 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 30 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 31 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 32 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 33 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 34 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 35 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 36 | [Boca](http://twitter.com/search?q=Boca) | N/A |
+| 37 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
+| 38 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 39 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
+| 40 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 41 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 42 | [Ben Sweat](http://twitter.com/search?q=Ben+Sweat) | N/A |
+| 43 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
+| 44 | [Eppler](http://twitter.com/search?q=Eppler) | N/A |
+| 45 | [Hardwell](http://twitter.com/search?q=Hardwell) | N/A |
+| 46 | [Leo Chu](http://twitter.com/search?q=Leo+Chu) | N/A |
+| 47 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
+| 48 | [Nate the Train](http://twitter.com/search?q=Nate+the+Train) | N/A |
+| 49 | [Tommy Tanks](http://twitter.com/search?q=Tommy+Tanks) | N/A |
 
 
 

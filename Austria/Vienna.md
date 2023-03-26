@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-26 01:44:19 UTC`
+📆 Last Updated: `2023-03-26 02:34:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,13 +25,13 @@ This is top 50 for [Austria](</Austria>)
 | 8 | [#dsds](http://twitter.com/search?q=%23dsds) | N/A |
 | 9 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
 | 10 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
-| 11 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 11 | [obst oder gemüse](http://twitter.com/search?q=obst+oder+gem%c3%bcse) | N/A |
 | 12 | [#indiebookday](http://twitter.com/search?q=%23indiebookday) | N/A |
 | 13 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
 | 14 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
 | 15 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
 | 16 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 17 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 17 | [tanzt du](http://twitter.com/search?q=tanzt+du) | N/A |
 | 18 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
 | 19 | [Bewerbungen](http://twitter.com/search?q=Bewerbungen) | N/A |
 | 20 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [Austria](</Austria>)
 | 46 | [Traiskirchen](http://twitter.com/search?q=Traiskirchen) | N/A |
 | 47 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
 | 48 | [Vorsitzenden](http://twitter.com/search?q=Vorsitzenden) | N/A |
-| 49 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 49 | [sozialdemokratie](http://twitter.com/search?q=sozialdemokratie) | N/A |
 | 50 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
 
 

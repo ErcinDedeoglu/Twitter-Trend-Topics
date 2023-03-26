@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-26 01:44:21 UTC`
+📆 Last Updated: `2023-03-26 02:34:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
 | 7 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
 | 8 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 9 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 10 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 10 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
 | 11 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
 | 12 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 13 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 14 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 15 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 16 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 17 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 18 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 14 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 15 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 16 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 17 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 18 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 19 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
-| 20 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 21 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 22 | [Füllkrug](http://twitter.com/search?q=F%c3%bcllkrug) | N/A |
-| 23 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 24 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 25 | [Schiedsrichterin](http://twitter.com/search?q=Schiedsrichterin) | N/A |
-| 26 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
-| 27 | [Streik](http://twitter.com/search?q=Streik) | N/A |
-| 28 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 29 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 30 | [Lisa Eckhart](http://twitter.com/search?q=Lisa+Eckhart) | N/A |
-| 31 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
-| 32 | [handgranaten](http://twitter.com/search?q=handgranaten) | N/A |
-| 33 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 34 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 35 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 36 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
-| 37 | [Marius Wolf](http://twitter.com/search?q=Marius+Wolf) | N/A |
-| 38 | [Schnupftabak](http://twitter.com/search?q=Schnupftabak) | N/A |
-| 39 | [Stationierung](http://twitter.com/search?q=Stationierung) | N/A |
-| 40 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 41 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
-| 42 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 43 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 44 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 45 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 46 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
-| 47 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
-| 48 | [garbe transport](http://twitter.com/search?q=garbe+transport) | N/A |
-| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 20 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 21 | [Füllkrug](http://twitter.com/search?q=F%c3%bcllkrug) | N/A |
+| 22 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 23 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 24 | [schiedsrichterin](http://twitter.com/search?q=schiedsrichterin) | N/A |
+| 25 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
+| 26 | [Streik](http://twitter.com/search?q=Streik) | N/A |
+| 27 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 28 | [Lisa Eckhart](http://twitter.com/search?q=Lisa+Eckhart) | N/A |
+| 29 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 30 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
+| 31 | [handgranaten](http://twitter.com/search?q=handgranaten) | N/A |
+| 32 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 33 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 34 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
+| 35 | [marius wolf](http://twitter.com/search?q=marius+wolf) | N/A |
+| 36 | [Schnupftabak](http://twitter.com/search?q=Schnupftabak) | N/A |
+| 37 | [Stationierung](http://twitter.com/search?q=Stationierung) | N/A |
+| 38 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 39 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 40 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
+| 41 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 43 | [aprilwetter](http://twitter.com/search?q=aprilwetter) | N/A |
+| 44 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
+| 45 | [garbe transport](http://twitter.com/search?q=garbe+transport) | N/A |
+| 46 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 47 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 49 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
 
 
 

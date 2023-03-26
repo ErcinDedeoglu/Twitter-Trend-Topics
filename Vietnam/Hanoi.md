@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-26 01:44:35 UTC`
+📆 Last Updated: `2023-03-26 02:35:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WB NIGHT WITH XIAO ZHAN](http://twitter.com/search?q=WB+NIGHT+WITH+XIAO+ZHAN) | N/A |
-| 2 | [#BiblexVichyM89](http://twitter.com/search?q=%23BiblexVichyM89) | N/A |
-| 3 | [#BetweenUsinVietNam](http://twitter.com/search?q=%23BetweenUsinVietNam) | N/A |
-| 4 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 5 | [#PollyPastelLuve](http://twitter.com/search?q=%23PollyPastelLuve) | N/A |
-| 6 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
-| 7 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
+| 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 2 | [WB NIGHT WITH XIAO ZHAN](http://twitter.com/search?q=WB+NIGHT+WITH+XIAO+ZHAN) | N/A |
+| 3 | [#BiblexVichyM89](http://twitter.com/search?q=%23BiblexVichyM89) | N/A |
+| 4 | [#BetweenUsinVietNam](http://twitter.com/search?q=%23BetweenUsinVietNam) | N/A |
+| 5 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
+| 6 | [#pollypastelluve](http://twitter.com/search?q=%23pollypastelluve) | N/A |
+| 7 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
 | 8 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
 | 9 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
 | 10 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
@@ -37,33 +37,34 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 20 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
 | 21 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 23 | [Good Project](http://twitter.com/search?q=Good+Project) | N/A |
-| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 25 | [England](http://twitter.com/search?q=England) | N/A |
-| 26 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 28 | [GENG](http://twitter.com/search?q=GENG) | N/A |
-| 29 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 30 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 31 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 23 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 24 | [Good Project](http://twitter.com/search?q=Good+Project) | N/A |
+| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 26 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 27 | [England](http://twitter.com/search?q=England) | N/A |
+| 28 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 29 | [GENG](http://twitter.com/search?q=GENG) | N/A |
+| 30 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 31 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
 | 32 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 33 | [Trove](http://twitter.com/search?q=Trove) | N/A |
-| 34 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 35 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 36 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 37 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 38 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 39 | [BibleBuild](http://twitter.com/search?q=BibleBuild) | N/A |
-| 40 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 42 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 35 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 36 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 37 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 38 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 39 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 41 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 42 | [Vash](http://twitter.com/search?q=Vash) | N/A |
 | 43 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
 | 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 45 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 46 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 47 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
-| 48 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 49 | [America](http://twitter.com/search?q=America) | N/A |
+| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 46 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 47 | [BibleBuild](http://twitter.com/search?q=BibleBuild) | N/A |
+| 48 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
+| 49 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 50 | [America](http://twitter.com/search?q=America) | N/A |
 
 
 

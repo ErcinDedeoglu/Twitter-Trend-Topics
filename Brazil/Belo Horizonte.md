@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-26 01:44:16 UTC`
+📆 Last Updated: `2023-03-26 02:34:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
-| 2 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 3 | [#LollaBRNoMultishow](http://twitter.com/search?q=%23LollaBRNoMultishow) | N/A |
-| 4 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 5 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 6 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 7 | [#TwentyOnePilotsNoMultishow](http://twitter.com/search?q=%23TwentyOnePilotsNoMultishow) | N/A |
-| 8 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
-| 9 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 10 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 11 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 12 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 13 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 14 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
-| 15 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 17 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 18 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
-| 19 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 20 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 21 | [#SelecaoBrasileiraNaESPN](http://twitter.com/search?q=%23SelecaoBrasileiraNaESPN) | N/A |
-| 22 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 23 | [#BrasilNaBand](http://twitter.com/search?q=%23BrasilNaBand) | N/A |
-| 24 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 25 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 26 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 27 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 28 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 29 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 30 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 31 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
-| 32 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
-| 33 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 34 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
-| 35 | [#MARBRA](http://twitter.com/search?q=%23MARBRA) | N/A |
-| 36 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
-| 37 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 38 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 39 | [JADE COM ADIDAS NO LOLLA](http://twitter.com/search?q=JADE+COM+ADIDAS+NO+LOLLA) | N/A |
-| 40 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
-| 41 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
-| 42 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 43 | [kevin parker](http://twitter.com/search?q=kevin+parker) | N/A |
-| 44 | [JADE PICON E ADIDAS](http://twitter.com/search?q=JADE+PICON+E+ADIDAS) | N/A |
-| 45 | [high school sweethearts](http://twitter.com/search?q=high+school+sweethearts) | N/A |
-| 46 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
-| 47 | [JG NO ALTAS HORAS](http://twitter.com/search?q=JG+NO+ALTAS+HORAS) | N/A |
-| 48 | [emily ratajkowski](http://twitter.com/search?q=emily+ratajkowski) | N/A |
-| 49 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 50 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 1 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 2 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
+| 3 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 4 | [#LollaBRNoMultishow](http://twitter.com/search?q=%23LollaBRNoMultishow) | N/A |
+| 5 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 6 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 7 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 8 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 9 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
+| 10 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 11 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 12 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 14 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 15 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 16 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
+| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 18 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 19 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
+| 20 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 21 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 22 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 23 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 24 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 25 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 26 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
+| 27 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 28 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
+| 29 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
+| 30 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 31 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 32 | [#BrasilNaBand](http://twitter.com/search?q=%23BrasilNaBand) | N/A |
+| 33 | [#MARBRA](http://twitter.com/search?q=%23MARBRA) | N/A |
+| 34 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 35 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 36 | [#BakeCelebridades](http://twitter.com/search?q=%23BakeCelebridades) | N/A |
+| 37 | [Vitor Roque](http://twitter.com/search?q=Vitor+Roque) | Vitor Roque is a Portuguese name. It is derived from the Latin name Victor, which means "victor" or "conqueror". In English, Vitor Roque can be translated to mean "Victorious Rock". |
+| 38 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
+| 39 | [Car Radio](http://twitter.com/search?q=Car+Radio) | N/A |
+| 40 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 41 | [JADE COM ADIDAS NO LOLLA](http://twitter.com/search?q=JADE+COM+ADIDAS+NO+LOLLA) | N/A |
+| 42 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 43 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
+| 44 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 45 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 46 | [JADE PICON E ADIDAS](http://twitter.com/search?q=JADE+PICON+E+ADIDAS) | N/A |
+| 47 | [high school sweethearts](http://twitter.com/search?q=high+school+sweethearts) | N/A |
+| 48 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 49 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
+| 50 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
 
 
 

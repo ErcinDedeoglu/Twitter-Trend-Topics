@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-03-26 01:44:35 UTC`
+📆 Last Updated: `2023-03-26 02:35:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SourandSweet_D2](http://twitter.com/search?q=%23SourandSweet_D2) | N/A |
-| 2 | [D-2 BAMBAM IS BACK](http://twitter.com/search?q=D-2+BAMBAM+IS+BACK) | N/A |
-| 3 | [#XiaoZhanWBNIGHT22](http://twitter.com/search?q=%23XiaoZhanWBNIGHT22) | N/A |
-| 4 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
-| 5 | [#SoundCheck_TH](http://twitter.com/search?q=%23SoundCheck_TH) | N/A |
-| 6 | [#เตนล์โต๊ะริม](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%a5%e0%b9%8c%e0%b9%82%e0%b8%95%e0%b9%8a%e0%b8%b0%e0%b8%a3%e0%b8%b4%e0%b8%a1) | N/A |
+| 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 2 | [#SourandSweet_D2](http://twitter.com/search?q=%23SourandSweet_D2) | N/A |
+| 3 | [D-2 BAMBAM IS BACK](http://twitter.com/search?q=D-2+BAMBAM+IS+BACK) | N/A |
+| 4 | [#XiaoZhanWBNIGHT22](http://twitter.com/search?q=%23XiaoZhanWBNIGHT22) | N/A |
+| 5 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
+| 6 | [#SoundCheck_TH](http://twitter.com/search?q=%23SoundCheck_TH) | N/A |
 | 7 | [MELT](http://twitter.com/search?q=MELT) | N/A |
-| 8 | [26 Morning Dunk](http://twitter.com/search?q=26+Morning+Dunk) | N/A |
-| 9 | [Countdown to CL](http://twitter.com/search?q=Countdown+to+CL) | N/A |
-| 10 | [JOYFUL DAY26 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY26+TO+ENGFA) | N/A |
+| 8 | [Countdown to CL](http://twitter.com/search?q=Countdown+to+CL) | N/A |
+| 9 | [JOYFUL DAY26 TO ENGFA](http://twitter.com/search?q=JOYFUL+DAY26+TO+ENGFA) | N/A |
+| 10 | [26 Morning Dunk](http://twitter.com/search?q=26+Morning+Dunk) | N/A |
 | 11 | [WB NIGHT WITH XIAO ZHAN](http://twitter.com/search?q=WB+NIGHT+WITH+XIAO+ZHAN) | N/A |
-| 12 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 13 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
-| 14 | [check by trinity](http://twitter.com/search?q=check+by+trinity) | N/A |
-| 15 | [FreenBecky Fan Benefit](http://twitter.com/search?q=FreenBecky+Fan+Benefit) | N/A |
+| 12 | [702 BLOOD FROM LOVE](http://twitter.com/search?q=702+BLOOD+FROM+LOVE) | N/A |
+| 13 | [Protect Nanon](http://twitter.com/search?q=Protect+Nanon) | N/A |
+| 14 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 15 | [Gulf Morning](http://twitter.com/search?q=Gulf+Morning) | N/A |
 | 16 | [MORNING​ NOOKPAI](http://twitter.com/search?q=MORNING%e2%80%8b+NOOKPAI) | N/A |
-| 17 | [kem x revo festival 101](http://twitter.com/search?q=kem+x+revo+festival+101) | N/A |
-| 18 | [petra narumit](http://twitter.com/search?q=petra+narumit) | N/A |
-| 19 | [SengWichai HBD Fansign](http://twitter.com/search?q=SengWichai+HBD+Fansign) | N/A |
+| 17 | [FreenBecky Fan Benefit](http://twitter.com/search?q=FreenBecky+Fan+Benefit) | N/A |
+| 18 | [Check by Trinity](http://twitter.com/search?q=Check+by+Trinity) | N/A |
+| 19 | [kem x revo festival 101](http://twitter.com/search?q=kem+x+revo+festival+101) | N/A |
 | 20 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
-| 21 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
-| 22 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
-| 23 | [Story IG](http://twitter.com/search?q=Story+IG) | N/A |
-| 24 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
-| 25 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 28 | [Morning Cherprang](http://twitter.com/search?q=Morning+Cherprang) | N/A |
-| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 30 | [#ป๋อจ้านงานเดียวกัน](http://twitter.com/search?q=%23%e0%b8%9b%e0%b9%8b%e0%b8%ad%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
-| 31 | [#aespaAtSoundCheckTH](http://twitter.com/search?q=%23aespaAtSoundCheckTH) | N/A |
-| 32 | [#MAYJamFestival2023](http://twitter.com/search?q=%23MAYJamFestival2023) | N/A |
-| 33 | [#charlottefatiscoffee](http://twitter.com/search?q=%23charlottefatiscoffee) | N/A |
-| 34 | [#XiaoZhanWBStarsNight22](http://twitter.com/search?q=%23XiaoZhanWBStarsNight22) | N/A |
-| 35 | [#ฟรีนเบคFanBoomD1](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD1) | N/A |
-| 36 | [#BelucaConcert](http://twitter.com/search?q=%23BelucaConcert) | N/A |
-| 37 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 38 | [#PaiPaix2022微博之夜](http://twitter.com/search?q=%23PaiPaix2022%e5%be%ae%e5%8d%9a%e4%b9%8b%e5%a4%9c) | N/A |
-| 39 | [#MEENPINGTOTHEMOONDay2](http://twitter.com/search?q=%23MEENPINGTOTHEMOONDay2) | N/A |
-| 40 | [#GeminiFourthFMinPP](http://twitter.com/search?q=%23GeminiFourthFMinPP) | N/A |
+| 21 | [petra narumit](http://twitter.com/search?q=petra+narumit) | N/A |
+| 22 | [SengWichai HBD Fansign](http://twitter.com/search?q=SengWichai+HBD+Fansign) | N/A |
+| 23 | [Morning Win](http://twitter.com/search?q=Morning+Win) | N/A |
+| 24 | [Mayo MorningUp](http://twitter.com/search?q=Mayo+MorningUp) | N/A |
+| 25 | [Win Metawin](http://twitter.com/search?q=Win+Metawin) | N/A |
+| 26 | [Story IG](http://twitter.com/search?q=Story+IG) | N/A |
+| 27 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
+| 28 | [Morning PATRICK](http://twitter.com/search?q=Morning+PATRICK) | N/A |
+| 29 | [6F Union Mall](http://twitter.com/search?q=6F+Union+Mall) | N/A |
+| 30 | [Kem Morning](http://twitter.com/search?q=Kem+Morning) | N/A |
+| 31 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 33 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 34 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
+| 35 | [#เตนล์โต๊ะริม](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%a5%e0%b9%8c%e0%b9%82%e0%b8%95%e0%b9%8a%e0%b8%b0%e0%b8%a3%e0%b8%b4%e0%b8%a1) | N/A |
+| 36 | [#MakroPROxNuNew](http://twitter.com/search?q=%23MakroPROxNuNew) | N/A |
+| 37 | [#ป๋อจ้านงานเดียวกัน](http://twitter.com/search?q=%23%e0%b8%9b%e0%b9%8b%e0%b8%ad%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%b5%e0%b8%a2%e0%b8%a7%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
+| 38 | [#aespaAtSoundCheckTH](http://twitter.com/search?q=%23aespaAtSoundCheckTH) | N/A |
+| 39 | [#MAYJamFestival2023](http://twitter.com/search?q=%23MAYJamFestival2023) | N/A |
+| 40 | [#XiaoZhanWBStarsNight22](http://twitter.com/search?q=%23XiaoZhanWBStarsNight22) | N/A |
 | 41 | [#26thWishOHMDay](http://twitter.com/search?q=%2326thWishOHMDay) | N/A |
-| 42 | [#theothersideAsiaTour](http://twitter.com/search?q=%23theothersideAsiaTour) | N/A |
-| 43 | [#ยิ้มแฉ่งยามเช้าไปกับนุนิว](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b9%81%e0%b8%89%e0%b9%88%e0%b8%87%e0%b8%a2%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 44 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 45 | [#บอลไทย](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%ad%e0%b8%a5%e0%b9%84%e0%b8%97%e0%b8%a2) | #บอลไทย is a hashtag used on social media to refer to Thai football. It translates to "Thai Football" in English. |
-| 46 | [#มาชิโฮะมีไอจีแล้วจ้า](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%8a%e0%b8%b4%e0%b9%82%e0%b8%ae%e0%b8%b0%e0%b8%a1%e0%b8%b5%e0%b9%84%e0%b8%ad%e0%b8%88%e0%b8%b5%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%88%e0%b9%89%e0%b8%b2) | N/A |
-| 47 | [#โฟอีฟแอ่วแคทเจียงใหม่](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%ad%e0%b8%b5%e0%b8%9f%e0%b9%81%e0%b8%ad%e0%b9%88%e0%b8%a7%e0%b9%81%e0%b8%84%e0%b8%97%e0%b9%80%e0%b8%88%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88) | N/A |
-| 48 | [#นิติมธ](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b4%e0%b8%95%e0%b8%b4%e0%b8%a1%e0%b8%98) | N/A |
-| 49 | [#BiblexVichyM89](http://twitter.com/search?q=%23BiblexVichyM89) | N/A |
-| 50 | [#BeachBoysAndGirlsMusicFest](http://twitter.com/search?q=%23BeachBoysAndGirlsMusicFest) | N/A |
+| 42 | [#ฟรีนเบคFanBoomD1](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD1) | N/A |
+| 43 | [#BelucaConcert](http://twitter.com/search?q=%23BelucaConcert) | N/A |
+| 44 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
+| 45 | [#PaiPaix2022微博之夜](http://twitter.com/search?q=%23PaiPaix2022%e5%be%ae%e5%8d%9a%e4%b9%8b%e5%a4%9c) | N/A |
+| 46 | [#CharlotteFatisCoffee](http://twitter.com/search?q=%23CharlotteFatisCoffee) | N/A |
+| 47 | [#MEENPINGTOTHEMOONDay2](http://twitter.com/search?q=%23MEENPINGTOTHEMOONDay2) | N/A |
+| 48 | [#GeminiFourthFMinPP](http://twitter.com/search?q=%23GeminiFourthFMinPP) | N/A |
+| 49 | [#theothersideAsiaTour](http://twitter.com/search?q=%23theothersideAsiaTour) | N/A |
+| 50 | [#นุชนุชาร่วมใจมาบริจาคเลือด](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%8a%e0%b8%99%e0%b8%b8%e0%b8%8a%e0%b8%b2%e0%b8%a3%e0%b9%88%e0%b8%a7%e0%b8%a1%e0%b9%83%e0%b8%88%e0%b8%a1%e0%b8%b2%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%88%e0%b8%b2%e0%b8%84%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%94) | N/A |
 
 
 

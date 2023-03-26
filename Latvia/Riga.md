@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-26 01:44:25 UTC`
+📆 Last Updated: `2023-03-26 02:34:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [sibīriju](http://twitter.com/search?q=sib%c4%abriju) | N/A |
-| 2 | [zemes](http://twitter.com/search?q=zemes) | N/A |
-| 3 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
-| 4 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
+| 2 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
+| 3 | [Atceros](http://twitter.com/search?q=Atceros) | N/A |
+| 4 | [Zemes](http://twitter.com/search?q=Zemes) | N/A |
 | 5 | [Manam](http://twitter.com/search?q=Manam) | N/A |
 | 6 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
 | 7 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
-| 8 | [#ЕВРО2024](http://twitter.com/search?q=%23%d0%95%d0%92%d0%a0%d0%9e2024) | N/A |
+| 8 | [#евро2024](http://twitter.com/search?q=%23%d0%b5%d0%b2%d1%80%d0%be2024) | N/A |
 | 9 | [Latgales](http://twitter.com/search?q=Latgales) | N/A |
-| 10 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 10 | [rimi](http://twitter.com/search?q=rimi) | N/A |
 | 11 | [sveiciens](http://twitter.com/search?q=sveiciens) | N/A |
 | 12 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 13 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
@@ -44,10 +44,10 @@ This is top 50 for [Latvia](</Latvia>)
 | 27 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
 | 28 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | N/A |
 | 29 | [starp](http://twitter.com/search?q=starp) | N/A |
-| 30 | [Tiešām](http://twitter.com/search?q=Tie%c5%a1%c4%81m) | N/A |
+| 30 | [tiešām](http://twitter.com/search?q=tie%c5%a1%c4%81m) | N/A |
 | 31 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 32 | [katru](http://twitter.com/search?q=katru) | N/A |
-| 33 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 33 | [viņš](http://twitter.com/search?q=vi%c5%86%c5%a1) | N/A |
 | 34 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 35 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
 | 36 | [#ESLProLeague](http://twitter.com/search?q=%23ESLProLeague) | N/A |

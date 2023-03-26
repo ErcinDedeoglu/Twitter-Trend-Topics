@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-26 01:44:08 UTC`
+📆 Last Updated: `2023-03-26 02:34:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 1 | [#Cymru](http://twitter.com/search?q=%23Cymru) | N/A |
 | 2 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 3 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 4 | [#clocksgoforward](http://twitter.com/search?q=%23clocksgoforward) | N/A |
-| 5 | [#BigNightOfMusicals](http://twitter.com/search?q=%23BigNightOfMusicals) | N/A |
-| 6 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 7 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
-| 8 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 9 | [David Light](http://twitter.com/search?q=David+Light) | N/A |
-| 10 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 12 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
-| 13 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 14 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 15 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
-| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 17 | [Andrew Lloyd Webber](http://twitter.com/search?q=Andrew+Lloyd+Webber) | N/A |
-| 18 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 19 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 20 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
-| 21 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 22 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
-| 23 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 25 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 26 | [Ben Shalom](http://twitter.com/search?q=Ben+Shalom) | N/A |
-| 27 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 28 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 29 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
-| 30 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
-| 31 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 32 | [Rob Page](http://twitter.com/search?q=Rob+Page) | N/A |
-| 33 | [East 17](http://twitter.com/search?q=East+17) | N/A |
-| 34 | [RIP Nick](http://twitter.com/search?q=RIP+Nick) | N/A |
-| 35 | [Greedy](http://twitter.com/search?q=Greedy) | N/A |
-| 36 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 37 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 38 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 39 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 40 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
-| 41 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
-| 42 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 43 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 44 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 45 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
-| 46 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 47 | [Gaelic](http://twitter.com/search?q=Gaelic) | N/A |
-| 48 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 3 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 4 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 5 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 6 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 7 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 8 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 9 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 10 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 11 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 12 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 13 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 14 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
+| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 16 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 17 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
+| 18 | [Matt Hancock](http://twitter.com/search?q=Matt+Hancock) | Matt Hancock is the current Secretary of State for Health and Social Care in the United Kingdom. He is responsible for leading the government's response to the coronavirus pandemic. The phrase "Matt Hancock" is used to refer to him and his role in government. |
+| 19 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 20 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 21 | [Andrew Lloyd Webber](http://twitter.com/search?q=Andrew+Lloyd+Webber) | N/A |
+| 22 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 23 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 24 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 25 | [Cain](http://twitter.com/search?q=Cain) | N/A |
+| 26 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
+| 27 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 28 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 29 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 30 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
+| 31 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 32 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
+| 33 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 34 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 35 | [Baluta](http://twitter.com/search?q=Baluta) | N/A |
+| 36 | [East 17](http://twitter.com/search?q=East+17) | N/A |
+| 37 | [Greedy](http://twitter.com/search?q=Greedy) | N/A |
+| 38 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 39 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 40 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 41 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 42 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
+| 43 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
+| 44 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 45 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 46 | [Gaelic](http://twitter.com/search?q=Gaelic) | N/A |
+| 47 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
+| 48 | [Juliet](http://twitter.com/search?q=Juliet) | N/A |
 
 
 

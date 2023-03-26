@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-26 01:45:03 UTC`
+📆 Last Updated: `2023-03-26 02:35:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for Sweden
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
-| 2 | [Janne](http://twitter.com/search?q=Janne) | N/A |
-| 3 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
-| 4 | [#swebel](http://twitter.com/search?q=%23swebel) | N/A |
+| 2 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
+| 3 | [#swebel](http://twitter.com/search?q=%23swebel) | N/A |
+| 4 | [Janne](http://twitter.com/search?q=Janne) | N/A |
 | 5 | [Borgman](http://twitter.com/search?q=Borgman) | N/A |
 | 6 | [Blomqvist](http://twitter.com/search?q=Blomqvist) | N/A |
 | 7 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
@@ -28,7 +28,7 @@ This is top 50 for Sweden
 | 11 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
 | 12 | [Lennström](http://twitter.com/search?q=Lennstr%c3%b6m) | N/A |
 | 13 | [Bromé](http://twitter.com/search?q=Brom%c3%a9) | N/A |
-| 14 | [Moa Ilar](http://twitter.com/search?q=Moa+Ilar) | N/A |
+| 14 | [moa ilar](http://twitter.com/search?q=moa+ilar) | N/A |
 | 15 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
 | 16 | [Modo](http://twitter.com/search?q=Modo) | N/A |
 | 17 | [claesson](http://twitter.com/search?q=claesson) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for Sweden
 | 25 | [västervik](http://twitter.com/search?q=v%c3%a4stervik) | N/A |
 | 26 | [wessner](http://twitter.com/search?q=wessner) | N/A |
 | 27 | [Karlstad](http://twitter.com/search?q=Karlstad) | N/A |
-| 28 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 28 | [brynäs](http://twitter.com/search?q=bryn%c3%a4s) | N/A |
 | 29 | [sara skyttedal](http://twitter.com/search?q=sara+skyttedal) | N/A |
 | 30 | [Forsberg](http://twitter.com/search?q=Forsberg) | N/A |
 | 31 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |

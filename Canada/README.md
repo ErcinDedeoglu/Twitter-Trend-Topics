@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-26 01:44:57 UTC`
+📆 Last Updated: `2023-03-26 02:35:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 2 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
+| 1 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 2 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
 | 3 | [#CanMNT](http://twitter.com/search?q=%23CanMNT) | N/A |
-| 4 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 5 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 6 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 7 | [Auston Matthews](http://twitter.com/search?q=Auston+Matthews) | N/A |
-| 8 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 9 | [Mike Matheson](http://twitter.com/search?q=Mike+Matheson) | N/A |
-| 10 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
-| 11 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 12 | [#TORvsCAR](http://twitter.com/search?q=%23TORvsCAR) | N/A |
-| 13 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
-| 14 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 15 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
-| 16 | [Holden](http://twitter.com/search?q=Holden) | N/A |
-| 17 | [HNIC](http://twitter.com/search?q=HNIC) | N/A |
-| 18 | [Rathbone](http://twitter.com/search?q=Rathbone) | N/A |
-| 19 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 20 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 21 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 22 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 23 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 24 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 25 | [Burns](http://twitter.com/search?q=Burns) | N/A |
-| 26 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 27 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 28 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 29 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 30 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
-| 31 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
-| 32 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 33 | [Mike Hoffman](http://twitter.com/search?q=Mike+Hoffman) | N/A |
-| 34 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 35 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 36 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 37 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 38 | [#Seahawks](http://twitter.com/search?q=%23Seahawks) | N/A |
-| 39 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
-| 40 | [#EarthHour2023](http://twitter.com/search?q=%23EarthHour2023) | N/A |
-| 41 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
-| 42 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 43 | [#LHJMQ](http://twitter.com/search?q=%23LHJMQ) | N/A |
-| 44 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 45 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 4 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 5 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 6 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
+| 7 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 8 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 9 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 10 | [Liljegren](http://twitter.com/search?q=Liljegren) | N/A |
+| 11 | [#Leafs](http://twitter.com/search?q=%23Leafs) | N/A |
+| 12 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 13 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 14 | [Auston Matthews](http://twitter.com/search?q=Auston+Matthews) | N/A |
+| 15 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 16 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 17 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
+| 18 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 19 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 20 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 21 | [Rafaël Harvey-Pinard](http://twitter.com/search?q=Rafa%c3%abl+Harvey-Pinard) | N/A |
+| 22 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 23 | [Suzuki](http://twitter.com/search?q=Suzuki) | N/A |
+| 24 | [HNIC](http://twitter.com/search?q=HNIC) | N/A |
+| 25 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 26 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 27 | [Holden](http://twitter.com/search?q=Holden) | N/A |
+| 28 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 29 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 30 | [Mike Matheson](http://twitter.com/search?q=Mike+Matheson) | N/A |
+| 31 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 32 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 33 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 34 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 35 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 36 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 37 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 38 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 39 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 40 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 41 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 42 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 43 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 44 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 45 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 46 | [Hoffman](http://twitter.com/search?q=Hoffman) | N/A |
+| 47 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 48 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 49 | [#TORvsCAR](http://twitter.com/search?q=%23TORvsCAR) | N/A |
+| 50 | [#VWFC](http://twitter.com/search?q=%23VWFC) | N/A |
 
 
 

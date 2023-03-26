@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-26 01:44:42 UTC`
+📆 Last Updated: `2023-03-26 02:35:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,10 +27,10 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 10 | [Flop](http://twitter.com/search?q=Flop) | N/A |
 | 11 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
 | 12 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 13 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 14 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 14 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 15 | [Azadi](http://twitter.com/search?q=Azadi) | N/A |
-| 16 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 16 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
 | 17 | [ihsanullah](http://twitter.com/search?q=ihsanullah) | N/A |
 | 18 | [babar and rizwan](http://twitter.com/search?q=babar+and+rizwan) | N/A |
 | 19 | [Wahab Riaz](http://twitter.com/search?q=Wahab+Riaz) | Wahab Riaz is a Pakistani cricketer who plays for the Pakistan national cricket team. His name is derived from the Arabic word "wahab", which means "giver". The name Riaz is derived from the Persian word "riaz", which means "honor". |
@@ -39,32 +39,32 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 22 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 23 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
 | 24 | [NYPD](http://twitter.com/search?q=NYPD) | N/A |
-| 25 | [Hina](http://twitter.com/search?q=Hina) | N/A |
-| 26 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 27 | [G for Garage](http://twitter.com/search?q=G+for+Garage) | N/A |
-| 28 | [Massive](http://twitter.com/search?q=Massive) | N/A |
+| 25 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 26 | [g for garage](http://twitter.com/search?q=g+for+garage) | N/A |
+| 27 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 28 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 29 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 30 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 31 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 32 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 33 | [SUNIELSHETTY X SHEHNAAZ](http://twitter.com/search?q=SUNIELSHETTY+X+SHEHNAAZ) | N/A |
-| 34 | [Containers](http://twitter.com/search?q=Containers) | N/A |
+| 30 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 31 | [SUNIELSHETTY X SHEHNAAZ](http://twitter.com/search?q=SUNIELSHETTY+X+SHEHNAAZ) | N/A |
+| 32 | [Hina](http://twitter.com/search?q=Hina) | N/A |
+| 33 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 34 | [Salute](http://twitter.com/search?q=Salute) | N/A |
 | 35 | [Dentonic](http://twitter.com/search?q=Dentonic) | N/A |
-| 36 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 37 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 38 | [Ofcourse](http://twitter.com/search?q=Ofcourse) | N/A |
-| 39 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 40 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 41 | [Murad Saeed](http://twitter.com/search?q=Murad+Saeed) | N/A |
-| 42 | [Phir](http://twitter.com/search?q=Phir) | N/A |
-| 43 | [Mushkil](http://twitter.com/search?q=Mushkil) | N/A |
-| 44 | [Niazi](http://twitter.com/search?q=Niazi) | N/A |
-| 45 | [Shaitan](http://twitter.com/search?q=Shaitan) | N/A |
-| 46 | [Naughty](http://twitter.com/search?q=Naughty) | N/A |
-| 47 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 36 | [Massive](http://twitter.com/search?q=Massive) | N/A |
+| 37 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 38 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 39 | [Phir](http://twitter.com/search?q=Phir) | N/A |
+| 40 | [Lahoris](http://twitter.com/search?q=Lahoris) | N/A |
+| 41 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 42 | [Youthia](http://twitter.com/search?q=Youthia) | N/A |
+| 43 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 44 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 45 | [PeeDM](http://twitter.com/search?q=PeeDM) | N/A |
+| 46 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 47 | [Salman](http://twitter.com/search?q=Salman) | N/A |
 | 48 | [Goosebumps](http://twitter.com/search?q=Goosebumps) | N/A |
-| 49 | [Youthia](http://twitter.com/search?q=Youthia) | N/A |
-| 50 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 49 | [VONC](http://twitter.com/search?q=VONC) | N/A |
+| 50 | [Desi](http://twitter.com/search?q=Desi) | N/A |
 
 
 
