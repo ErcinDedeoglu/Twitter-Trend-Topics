@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-03-26 17:16:39 UTC`
+📆 Last Updated: `2023-03-26 18:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,47 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#LgbtqiaLastTime](http://twitter.com/search?q=%23LgbtqiaLastTime) | N/A |
 | 2 | [#septahuit](http://twitter.com/search?q=%23septahuit) | N/A |
-| 3 | [#66minutes](http://twitter.com/search?q=%2366minutes) | N/A |
-| 4 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 3 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
+| 4 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
 | 5 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 6 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 7 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 8 | [Danemark](http://twitter.com/search?q=Danemark) | N/A |
-| 9 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 10 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
-| 11 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 12 | [Yamaha](http://twitter.com/search?q=Yamaha) | N/A |
-| 13 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 14 | [Polska](http://twitter.com/search?q=Polska) | N/A |
-| 15 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 16 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 17 | [Lacoste](http://twitter.com/search?q=Lacoste) | N/A |
-| 18 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 19 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 20 | [Soline](http://twitter.com/search?q=Soline) | N/A |
-| 21 | [Si la France](http://twitter.com/search?q=Si+la+France) | N/A |
+| 6 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 7 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 8 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 9 | [Danemark](http://twitter.com/search?q=Danemark) | N/A |
+| 10 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 11 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 12 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 13 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
+| 14 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 15 | [Yamaha](http://twitter.com/search?q=Yamaha) | N/A |
+| 16 | [Lacoste](http://twitter.com/search?q=Lacoste) | N/A |
+| 17 | [Polska](http://twitter.com/search?q=Polska) | N/A |
+| 18 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 19 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 20 | [Big Mom](http://twitter.com/search?q=Big+Mom) | N/A |
+| 21 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
 | 22 | [BRGM](http://twitter.com/search?q=BRGM) | N/A |
-| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 24 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
-| 25 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 26 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
-| 27 | [BRAV-M - Pétition](http://twitter.com/search?q=BRAV-M+-+P%c3%a9tition) | N/A |
-| 28 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 29 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 30 | [#MHSCPSG](http://twitter.com/search?q=%23MHSCPSG) | N/A |
-| 31 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
-| 32 | [#ITAFRA](http://twitter.com/search?q=%23ITAFRA) | N/A |
-| 33 | [#GandWevelgem](http://twitter.com/search?q=%23GandWevelgem) | N/A |
-| 34 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 35 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
-| 36 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 37 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 38 | [#megabassine](http://twitter.com/search?q=%23megabassine) | N/A |
-| 39 | [#influvoleurs](http://twitter.com/search?q=%23influvoleurs) | N/A |
-| 40 | [#ResidentEvil4](http://twitter.com/search?q=%23ResidentEvil4) | N/A |
-| 41 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 42 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
+| 23 | [Si la France](http://twitter.com/search?q=Si+la+France) | N/A |
+| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 25 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
+| 26 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
+| 27 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 28 | [#66minutes](http://twitter.com/search?q=%2366minutes) | N/A |
+| 29 | [#MHSCPSG](http://twitter.com/search?q=%23MHSCPSG) | N/A |
+| 30 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 31 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 32 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 33 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
+| 34 | [#ITAFRA](http://twitter.com/search?q=%23ITAFRA) | N/A |
+| 35 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
+| 36 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
+| 37 | [#influvoleurs](http://twitter.com/search?q=%23influvoleurs) | N/A |
+| 38 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 39 | [#sainte_soline](http://twitter.com/search?q=%23sainte_soline) | N/A |
+| 40 | [#megabassine](http://twitter.com/search?q=%23megabassine) | N/A |
+| 41 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 42 | [#ResidentEvil4](http://twitter.com/search?q=%23ResidentEvil4) | N/A |
+| 43 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
 
 
 

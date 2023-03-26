@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-26 17:17:15 UTC`
+📆 Last Updated: `2023-03-26 18:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Ireland
 | ------- | ------------ | ------------ |
 | 1 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 2 | [#munvgla](http://twitter.com/search?q=%23munvgla) | N/A |
-| 3 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
-| 4 | [Stephen Cluxton](http://twitter.com/search?q=Stephen+Cluxton) | N/A |
+| 3 | [Stephen Cluxton](http://twitter.com/search?q=Stephen+Cluxton) | N/A |
+| 4 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
 | 5 | [#convedi](http://twitter.com/search?q=%23convedi) | N/A |
-| 6 | [#TommyTiernanShow](http://twitter.com/search?q=%23TommyTiernanShow) | N/A |
-| 7 | [Monaghan](http://twitter.com/search?q=Monaghan) | N/A |
-| 8 | [#LP23](http://twitter.com/search?q=%23LP23) | N/A |
-| 9 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
-| 10 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 11 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 12 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 13 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 14 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
-| 15 | [Division 2](http://twitter.com/search?q=Division+2) | N/A |
-| 16 | [Dolores Keane](http://twitter.com/search?q=Dolores+Keane) | N/A |
-| 17 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 6 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 7 | [#TommyTiernanShow](http://twitter.com/search?q=%23TommyTiernanShow) | N/A |
+| 8 | [Johnny Kenny](http://twitter.com/search?q=Johnny+Kenny) | N/A |
+| 9 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 10 | [#LP23](http://twitter.com/search?q=%23LP23) | N/A |
+| 11 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 12 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
+| 13 | [Monaghan](http://twitter.com/search?q=Monaghan) | N/A |
+| 14 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 15 | [Dolores Keane](http://twitter.com/search?q=Dolores+Keane) | N/A |
+| 16 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 17 | [Munster](http://twitter.com/search?q=Munster) | N/A |
 | 18 | [Sligo](http://twitter.com/search?q=Sligo) | N/A |
-| 19 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 20 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
-| 21 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 22 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 23 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 24 | [Roscommon](http://twitter.com/search?q=Roscommon) | N/A |
-| 25 | [Donegal](http://twitter.com/search?q=Donegal) | N/A |
-| 26 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 27 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 28 | [Courtown](http://twitter.com/search?q=Courtown) | N/A |
-| 29 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 19 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
+| 20 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
+| 21 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
+| 22 | [Turners Cross](http://twitter.com/search?q=Turners+Cross) | N/A |
+| 23 | [Division 3](http://twitter.com/search?q=Division+3) | N/A |
+| 24 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
+| 25 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 26 | [Courtown](http://twitter.com/search?q=Courtown) | N/A |
+| 27 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 28 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 29 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
 | 30 | [robbie brady](http://twitter.com/search?q=robbie+brady) | N/A |
 | 31 | [Pearse Stadium](http://twitter.com/search?q=Pearse+Stadium) | N/A |
-| 32 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 33 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 34 | [Louth](http://twitter.com/search?q=Louth) | N/A |
-| 35 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 36 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
-| 37 | [Offaly](http://twitter.com/search?q=Offaly) | N/A |
-| 38 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 39 | [Turners Cross](http://twitter.com/search?q=Turners+Cross) | N/A |
-| 40 | [Leitrim](http://twitter.com/search?q=Leitrim) | N/A |
-| 41 | [03mins 1st Half](http://twitter.com/search?q=03mins+1st+Half) | N/A |
-| 42 | [Alan Kelly](http://twitter.com/search?q=Alan+Kelly) | N/A |
-| 43 | [Meath](http://twitter.com/search?q=Meath) | N/A |
-| 44 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 45 | [Limerick](http://twitter.com/search?q=Limerick) | N/A |
-| 46 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
+| 32 | [Dublin Airport](http://twitter.com/search?q=Dublin+Airport) | N/A |
+| 33 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 34 | [Offaly](http://twitter.com/search?q=Offaly) | N/A |
+| 35 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 36 | [Donegal](http://twitter.com/search?q=Donegal) | N/A |
+| 37 | [Sam Curtis](http://twitter.com/search?q=Sam+Curtis) | N/A |
+| 38 | [Roscommon](http://twitter.com/search?q=Roscommon) | N/A |
+| 39 | [03mins 1st Half](http://twitter.com/search?q=03mins+1st+Half) | N/A |
+| 40 | [Alan Kelly](http://twitter.com/search?q=Alan+Kelly) | N/A |
+| 41 | [Limerick](http://twitter.com/search?q=Limerick) | N/A |
+| 42 | [U21s](http://twitter.com/search?q=U21s) | N/A |
+| 43 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
+| 44 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
+| 45 | [Div 1](http://twitter.com/search?q=Div+1) | N/A |
+| 46 | [thomond park](http://twitter.com/search?q=thomond+park) | N/A |
 | 47 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 48 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 49 | [Div 2](http://twitter.com/search?q=Div+2) | N/A |
-| 50 | [Becky Lynch](http://twitter.com/search?q=Becky+Lynch) | N/A |
+| 48 | [Div 2](http://twitter.com/search?q=Div+2) | N/A |
+| 49 | [Becky Lynch](http://twitter.com/search?q=Becky+Lynch) | N/A |
+| 50 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-26 17:17:01 UTC`
+📆 Last Updated: `2023-03-26 18:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WPLFinal](http://twitter.com/search?q=%23WPLFinal) | N/A |
-| 2 | [#राइट_टू_हेल्थ_संजीवनी_है](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%87%e0%a4%9f_%e0%a4%9f%e0%a5%82_%e0%a4%b9%e0%a5%87%e0%a4%b2%e0%a5%8d%e0%a4%a5_%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
-| 3 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
-| 4 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
-| 5 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 2 | [#MumbaiIndians](http://twitter.com/search?q=%23MumbaiIndians) | N/A |
+| 3 | [#WPL2023final](http://twitter.com/search?q=%23WPL2023final) | N/A |
+| 4 | [#MIvsDC](http://twitter.com/search?q=%23MIvsDC) | N/A |
+| 5 | [Harman](http://twitter.com/search?q=Harman) | N/A |
 | 6 | [Shikha P](http://twitter.com/search?q=Shikha+P) | N/A |
-| 7 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 8 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 9 | [BrokerApp Launch Event](http://twitter.com/search?q=BrokerApp+Launch+Event) | N/A |
-| 10 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 11 | [Game Changer](http://twitter.com/search?q=Game+Changer) | N/A |
-| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 13 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
-| 14 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
-| 15 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 16 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 17 | [Lisa S](http://twitter.com/search?q=Lisa+S) | N/A |
+| 7 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 8 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 9 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 10 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 11 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
+| 12 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 13 | [Congratulations MI](http://twitter.com/search?q=Congratulations+MI) | N/A |
+| 14 | [Women's Premier League](http://twitter.com/search?q=Women%27s+Premier+League) | Women's Premier League is a professional football league in England for women's teams. It is the highest level of the women's football pyramid in England and is run by the Football Association. The league consists of 12 teams who play each other twice during the season, with the top two teams at the end of the season being promoted to the FA Women's Super League. |
+| 15 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
+| 16 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
+| 17 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 18 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
-| 19 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 20 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 21 | [Caitlin Parker](http://twitter.com/search?q=Caitlin+Parker) | N/A |
-| 22 | [UMAR X AKASA MV TMRW](http://twitter.com/search?q=UMAR+X+AKASA+MV+TMRW) | N/A |
-| 23 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 24 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 25 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 26 | [50 Kg](http://twitter.com/search?q=50+Kg) | N/A |
-| 27 | [T20Is](http://twitter.com/search?q=T20Is) | N/A |
-| 28 | [FARHAD DONT RUIN HERAPHERI](http://twitter.com/search?q=FARHAD+DONT+RUIN+HERAPHERI) | N/A |
-| 29 | [निकहत ज़रीन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a4%b9%e0%a4%a4+%e0%a4%9c%e0%a4%bc%e0%a4%b0%e0%a5%80%e0%a4%a8) | N/A |
-| 30 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
-| 31 | [VERSATILE GAURAV KHANNA](http://twitter.com/search?q=VERSATILE+GAURAV+KHANNA) | N/A |
-| 32 | [Goats](http://twitter.com/search?q=Goats) | N/A |
-| 33 | [No Ball](http://twitter.com/search?q=No+Ball) | N/A |
-| 34 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 35 | [RIVETING KV AS SAJID](http://twitter.com/search?q=RIVETING+KV+AS+SAJID) | N/A |
-| 36 | [सुषमा स्वराज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a4%ae%e0%a4%be+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 37 | [STAY BLESSED SUMBUL](http://twitter.com/search?q=STAY+BLESSED+SUMBUL) | N/A |
-| 38 | [देवी भागवत](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
-| 39 | [Nguyen Thi Tam](http://twitter.com/search?q=Nguyen+Thi+Tam) | N/A |
-| 40 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 41 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 42 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
-| 43 | [पूर्ण परमेश्वर](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 44 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
-| 45 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 46 | [NITI AS PRACHI RULING HEARTS](http://twitter.com/search?q=NITI+AS+PRACHI+RULING+HEARTS) | N/A |
-| 47 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
+| 19 | [Game Changer](http://twitter.com/search?q=Game+Changer) | N/A |
+| 20 | [मुंबई इंडियंस](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%82%e0%a4%ac%e0%a4%88+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%b8) | N/A |
+| 21 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 22 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 23 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 24 | [Lisa S](http://twitter.com/search?q=Lisa+S) | N/A |
+| 25 | [Deandra D](http://twitter.com/search?q=Deandra+D) | N/A |
+| 26 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 27 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
+| 28 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
+| 29 | [Trophy](http://twitter.com/search?q=Trophy) | N/A |
+| 30 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
+| 31 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
+| 32 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 33 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 34 | [निकहत ज़रीन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a4%b9%e0%a4%a4+%e0%a4%9c%e0%a4%bc%e0%a4%b0%e0%a5%80%e0%a4%a8) | N/A |
+| 35 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 36 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 37 | [Caitlin Parker](http://twitter.com/search?q=Caitlin+Parker) | N/A |
+| 38 | [FARHAD DONT RUIN HERAPHERI](http://twitter.com/search?q=FARHAD+DONT+RUIN+HERAPHERI) | N/A |
+| 39 | [STAY BLESSED SUMBUL](http://twitter.com/search?q=STAY+BLESSED+SUMBUL) | N/A |
+| 40 | [VERSATILE GAURAV KHANNA](http://twitter.com/search?q=VERSATILE+GAURAV+KHANNA) | N/A |
+| 41 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
+| 42 | [#Innocent](http://twitter.com/search?q=%23Innocent) | N/A |
+| 43 | [#राइट_टू_हेल्थ_संजीवनी_है](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%87%e0%a4%9f_%e0%a4%9f%e0%a5%82_%e0%a4%b9%e0%a5%87%e0%a4%b2%e0%a5%8d%e0%a4%a5_%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
+| 44 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 45 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
+| 46 | [#NikhatZareen](http://twitter.com/search?q=%23NikhatZareen) | N/A |
+| 47 | [#OneFamily](http://twitter.com/search?q=%23OneFamily) | N/A |
 
 
 

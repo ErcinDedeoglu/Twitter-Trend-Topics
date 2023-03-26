@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-26 17:16:45 UTC`
+📆 Last Updated: `2023-03-26 18:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 3 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
 | 4 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
-| 5 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 6 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
-| 7 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 5 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
+| 6 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 8 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 9 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 10 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 11 | [Pekerjaan](http://twitter.com/search?q=Pekerjaan) | N/A |
+| 9 | [Pekerjaan](http://twitter.com/search?q=Pekerjaan) | N/A |
+| 10 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 11 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
 | 12 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 13 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 14 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 16 | [Impian](http://twitter.com/search?q=Impian) | N/A |
-| 17 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 18 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 19 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 20 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 21 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
-| 22 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 23 | [Goyong](http://twitter.com/search?q=Goyong) | N/A |
-| 24 | [Brightwin](http://twitter.com/search?q=Brightwin) | N/A |
-| 25 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 26 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 27 | [Sumenep](http://twitter.com/search?q=Sumenep) | N/A |
-| 28 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
-| 29 | [Askara](http://twitter.com/search?q=Askara) | N/A |
-| 30 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 31 | [INTM](http://twitter.com/search?q=INTM) | N/A |
-| 32 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 33 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 34 | [Koster](http://twitter.com/search?q=Koster) | N/A |
-| 35 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
-| 36 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 37 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
-| 38 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 39 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
-| 40 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 41 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
-| 42 | [#TREASURE_Here_I_Stand](http://twitter.com/search?q=%23TREASURE_Here_I_Stand) | N/A |
-| 43 | [#Here_I_Stand_D2](http://twitter.com/search?q=%23Here_I_Stand_D2) | N/A |
-| 44 | [#SoloistJISOOin4Days](http://twitter.com/search?q=%23SoloistJISOOin4Days) | N/A |
-| 45 | [#IVE_KITSCH_MV_TEASER](http://twitter.com/search?q=%23IVE_KITSCH_MV_TEASER) | N/A |
-| 46 | [#아이브_첫_티저](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%b8%8c_%ec%b2%ab_%ed%8b%b0%ec%a0%80) | N/A |
-| 47 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 13 | [Impian](http://twitter.com/search?q=Impian) | N/A |
+| 14 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 15 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 16 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 17 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 18 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
+| 19 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 20 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 21 | [BrightWin](http://twitter.com/search?q=BrightWin) | N/A |
+| 22 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
+| 23 | [INTM](http://twitter.com/search?q=INTM) | N/A |
+| 24 | [Askara](http://twitter.com/search?q=Askara) | N/A |
+| 25 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 26 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 27 | [Soekarno](http://twitter.com/search?q=Soekarno) | N/A |
+| 28 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
+| 29 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
+| 30 | [#TREASURE_Here_I_Stand](http://twitter.com/search?q=%23TREASURE_Here_I_Stand) | N/A |
+| 31 | [#Here_I_Stand_D2](http://twitter.com/search?q=%23Here_I_Stand_D2) | N/A |
+| 32 | [#SoloistJISOOin4Days](http://twitter.com/search?q=%23SoloistJISOOin4Days) | N/A |
+| 33 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 34 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 35 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 36 | [#JKT48TheSlapShow](http://twitter.com/search?q=%23JKT48TheSlapShow) | N/A |
+| 37 | [#YeoOneOurGreatestStar](http://twitter.com/search?q=%23YeoOneOurGreatestStar) | N/A |
+| 38 | [#유니의_여원앤온리데이](http://twitter.com/search?q=%23%ec%9c%a0%eb%8b%88%ec%9d%98_%ec%97%ac%ec%9b%90%ec%95%a4%ec%98%a8%eb%a6%ac%eb%8d%b0%ec%9d%b4) | N/A |
+| 39 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
+| 40 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 41 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
+| 42 | [#lapakcot](http://twitter.com/search?q=%23lapakcot) | N/A |
+| 43 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 44 | [#เตนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 45 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
 
 
 

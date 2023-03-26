@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-26 17:17:09 UTC`
+📆 Last Updated: `2023-03-26 18:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,48 @@ This is top 50 for [United States](</United States>)
 | 3 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
 | 4 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
 | 5 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 6 | [Uconn](http://twitter.com/search?q=Uconn) | N/A |
-| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 8 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 9 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 10 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 11 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 6 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 7 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 8 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 9 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 10 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 11 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 | 12 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
-| 13 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 14 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
-| 15 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 16 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 17 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
-| 18 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
-| 19 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
-| 20 | [Tim Mara](http://twitter.com/search?q=Tim+Mara) | N/A |
-| 21 | [Studies](http://twitter.com/search?q=Studies) | N/A |
-| 22 | [Creighton -2.5](http://twitter.com/search?q=Creighton+-2.5) | N/A |
-| 23 | [Digital Blackface](http://twitter.com/search?q=Digital+Blackface) | N/A |
-| 24 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 25 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
-| 26 | [Art Rooney](http://twitter.com/search?q=Art+Rooney) | N/A |
-| 27 | [Val Ness](http://twitter.com/search?q=Val+Ness) | N/A |
-| 28 | [Curly Lambeau](http://twitter.com/search?q=Curly+Lambeau) | N/A |
-| 29 | [George Preston Marshall](http://twitter.com/search?q=George+Preston+Marshall) | N/A |
-| 30 | [Joe Carr](http://twitter.com/search?q=Joe+Carr) | N/A |
-| 31 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
-| 32 | [Jack Depler](http://twitter.com/search?q=Jack+Depler) | N/A |
-| 33 | [Dan Blaine](http://twitter.com/search?q=Dan+Blaine) | N/A |
-| 34 | [Paul Brown](http://twitter.com/search?q=Paul+Brown) | N/A |
-| 35 | [On A Night Like Tonight](http://twitter.com/search?q=On+A+Night+Like+Tonight) | N/A |
-| 36 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 37 | [Durbin](http://twitter.com/search?q=Durbin) | N/A |
-| 38 | [Art Modell](http://twitter.com/search?q=Art+Modell) | N/A |
-| 39 | [David Jones](http://twitter.com/search?q=David+Jones) | N/A |
-| 40 | [James Dooley](http://twitter.com/search?q=James+Dooley) | N/A |
-| 41 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
-| 42 | [Charles Coppen](http://twitter.com/search?q=Charles+Coppen) | N/A |
-| 43 | [Bobby Bonilla](http://twitter.com/search?q=Bobby+Bonilla) | N/A |
-| 44 | [Peter Laudati](http://twitter.com/search?q=Peter+Laudati) | N/A |
-| 45 | [On a Sunday](http://twitter.com/search?q=On+a+Sunday) | N/A |
-| 46 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
-| 47 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 48 | [Happy Birthday Paige](http://twitter.com/search?q=Happy+Birthday+Paige) | N/A |
+| 13 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 14 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 15 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
+| 16 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 17 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 18 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 19 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 20 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
+| 21 | [Creighton -2.5](http://twitter.com/search?q=Creighton+-2.5) | N/A |
+| 22 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
+| 23 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 24 | [Studies](http://twitter.com/search?q=Studies) | N/A |
+| 25 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 26 | [Tim Mara](http://twitter.com/search?q=Tim+Mara) | N/A |
+| 27 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
+| 28 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
+| 29 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 30 | [YOU COULD START A CULT](http://twitter.com/search?q=YOU+COULD+START+A+CULT) | N/A |
+| 31 | [Digital Blackface](http://twitter.com/search?q=Digital+Blackface) | N/A |
+| 32 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 33 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
+| 34 | [Art Rooney](http://twitter.com/search?q=Art+Rooney) | N/A |
+| 35 | [Val Ness](http://twitter.com/search?q=Val+Ness) | N/A |
+| 36 | [George Preston Marshall](http://twitter.com/search?q=George+Preston+Marshall) | N/A |
+| 37 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
+| 38 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
+| 39 | [Curly Lambeau](http://twitter.com/search?q=Curly+Lambeau) | N/A |
+| 40 | [Paul Brown](http://twitter.com/search?q=Paul+Brown) | N/A |
+| 41 | [Dan Blaine](http://twitter.com/search?q=Dan+Blaine) | N/A |
+| 42 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
+| 43 | [James Bouknight](http://twitter.com/search?q=James+Bouknight) | N/A |
+| 44 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 45 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
+| 46 | [Joe Carr](http://twitter.com/search?q=Joe+Carr) | N/A |
+| 47 | [Bush 41](http://twitter.com/search?q=Bush+41) | N/A |
 
 
 

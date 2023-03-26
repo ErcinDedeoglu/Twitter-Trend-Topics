@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-26 17:17:05 UTC`
+📆 Last Updated: `2023-03-26 18:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Uconn](http://twitter.com/search?q=Uconn) | N/A |
+| 1 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 2 | [#BenavidezPlant](http://twitter.com/search?q=%23BenavidezPlant) | N/A |
-| 3 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 5 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 7 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 8 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
-| 9 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
-| 10 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 11 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 3 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 4 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 6 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 7 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 8 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 9 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
+| 10 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 11 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
 | 12 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
-| 13 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
-| 14 | [Tim Mara](http://twitter.com/search?q=Tim+Mara) | N/A |
-| 15 | [Studies](http://twitter.com/search?q=Studies) | N/A |
-| 16 | [Creighton -2.5](http://twitter.com/search?q=Creighton+-2.5) | N/A |
-| 17 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
-| 18 | [Art Rooney](http://twitter.com/search?q=Art+Rooney) | N/A |
-| 19 | [Digital Blackface](http://twitter.com/search?q=Digital+Blackface) | N/A |
-| 20 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 21 | [Val Ness](http://twitter.com/search?q=Val+Ness) | N/A |
-| 22 | [Curly Lambeau](http://twitter.com/search?q=Curly+Lambeau) | N/A |
-| 23 | [George Preston Marshall](http://twitter.com/search?q=George+Preston+Marshall) | N/A |
-| 24 | [Joe Carr](http://twitter.com/search?q=Joe+Carr) | N/A |
-| 25 | [Jack Depler](http://twitter.com/search?q=Jack+Depler) | N/A |
-| 26 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
-| 27 | [Dan Blaine](http://twitter.com/search?q=Dan+Blaine) | N/A |
-| 28 | [Paul Brown](http://twitter.com/search?q=Paul+Brown) | N/A |
-| 29 | [On A Night Like Tonight](http://twitter.com/search?q=On+A+Night+Like+Tonight) | N/A |
-| 30 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 31 | [Durbin](http://twitter.com/search?q=Durbin) | N/A |
-| 32 | [Art Modell](http://twitter.com/search?q=Art+Modell) | N/A |
-| 33 | [David Jones](http://twitter.com/search?q=David+Jones) | N/A |
-| 34 | [James Dooley](http://twitter.com/search?q=James+Dooley) | N/A |
-| 35 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
-| 36 | [Charles Coppen](http://twitter.com/search?q=Charles+Coppen) | N/A |
-| 37 | [Bobby Bonilla](http://twitter.com/search?q=Bobby+Bonilla) | N/A |
-| 38 | [Peter Laudati](http://twitter.com/search?q=Peter+Laudati) | N/A |
-| 39 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
-| 40 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 41 | [On a Sunday](http://twitter.com/search?q=On+a+Sunday) | N/A |
-| 42 | [Happy Birthday Paige](http://twitter.com/search?q=Happy+Birthday+Paige) | N/A |
-| 43 | [Bill Dwyer](http://twitter.com/search?q=Bill+Dwyer) | N/A |
-| 44 | [HAPPY BIRTHDAY LISA](http://twitter.com/search?q=HAPPY+BIRTHDAY+LISA) | N/A |
-| 45 | [Tapper](http://twitter.com/search?q=Tapper) | N/A |
-| 46 | [Beautiful Sunday](http://twitter.com/search?q=Beautiful+Sunday) | N/A |
-| 47 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 48 | [Karl Rove](http://twitter.com/search?q=Karl+Rove) | N/A |
-| 49 | [Troup County](http://twitter.com/search?q=Troup+County) | N/A |
-| 50 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
+| 13 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 14 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 15 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 16 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
+| 17 | [Creighton -2.5](http://twitter.com/search?q=Creighton+-2.5) | N/A |
+| 18 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
+| 19 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 20 | [Studies](http://twitter.com/search?q=Studies) | N/A |
+| 21 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 22 | [Tim Mara](http://twitter.com/search?q=Tim+Mara) | N/A |
+| 23 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
+| 24 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
+| 25 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 26 | [YOU COULD START A CULT](http://twitter.com/search?q=YOU+COULD+START+A+CULT) | N/A |
+| 27 | [Digital Blackface](http://twitter.com/search?q=Digital+Blackface) | N/A |
+| 28 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 29 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
+| 30 | [Art Rooney](http://twitter.com/search?q=Art+Rooney) | N/A |
+| 31 | [Val Ness](http://twitter.com/search?q=Val+Ness) | N/A |
+| 32 | [George Preston Marshall](http://twitter.com/search?q=George+Preston+Marshall) | N/A |
+| 33 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
+| 34 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
+| 35 | [Curly Lambeau](http://twitter.com/search?q=Curly+Lambeau) | N/A |
+| 36 | [Paul Brown](http://twitter.com/search?q=Paul+Brown) | N/A |
+| 37 | [Dan Blaine](http://twitter.com/search?q=Dan+Blaine) | N/A |
+| 38 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
+| 39 | [James Bouknight](http://twitter.com/search?q=James+Bouknight) | N/A |
+| 40 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 41 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
+| 42 | [Joe Carr](http://twitter.com/search?q=Joe+Carr) | N/A |
+| 43 | [Bush 41](http://twitter.com/search?q=Bush+41) | N/A |
+| 44 | [Durbin](http://twitter.com/search?q=Durbin) | N/A |
+| 45 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
+| 46 | [Bud Adams](http://twitter.com/search?q=Bud+Adams) | N/A |
+| 47 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
+| 48 | [David Jones](http://twitter.com/search?q=David+Jones) | N/A |
+| 49 | [Jack Depler](http://twitter.com/search?q=Jack+Depler) | N/A |
+| 50 | [England](http://twitter.com/search?q=England) | N/A |
 
 
 
