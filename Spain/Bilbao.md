@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-03-26 00:29:25 UTC`
+📆 Last Updated: `2023-03-26 01:44:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 2 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 2 | [#XplicaPrecariedad](http://twitter.com/search?q=%23XplicaPrecariedad) | N/A |
 | 3 | [#CoverNight](http://twitter.com/search?q=%23CoverNight) | N/A |
-| 4 | [#XplicaPrecariedad](http://twitter.com/search?q=%23XplicaPrecariedad) | N/A |
-| 5 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 7 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 8 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 9 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
-| 10 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 4 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 5 | [#EspanaNoruega](http://twitter.com/search?q=%23EspanaNoruega) | N/A |
+| 6 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [#CambioDeHora](http://twitter.com/search?q=%23CambioDeHora) | N/A |
+| 9 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 10 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
 | 11 | [Sara Socas](http://twitter.com/search?q=Sara+Socas) | N/A |
-| 12 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
-| 13 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 14 | [#BCNEurovision](http://twitter.com/search?q=%23BCNEurovision) | N/A |
-| 15 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 16 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 17 | [Gudelj](http://twitter.com/search?q=Gudelj) | N/A |
-| 18 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 19 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
-| 20 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
+| 12 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
+| 13 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
+| 14 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 15 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
+| 16 | [QUE BARBARIDAD](http://twitter.com/search?q=QUE+BARBARIDAD) | N/A |
+| 17 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 18 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 19 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
+| 20 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
 | 21 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 22 | [Sorloth](http://twitter.com/search?q=Sorloth) | Sorloth is a Scandinavian name derived from Old Norse. It is believed to mean "sword of the people" or "sword of Thor". |
-| 23 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 24 | [#ufceurosport](http://twitter.com/search?q=%23ufceurosport) | N/A |
-| 25 | [Merino](http://twitter.com/search?q=Merino) | N/A |
-| 26 | [Fabián](http://twitter.com/search?q=Fabi%c3%a1n) | N/A |
+| 22 | [Misa](http://twitter.com/search?q=Misa) | N/A |
+| 23 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 24 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 25 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
+| 26 | [Merino](http://twitter.com/search?q=Merino) | N/A |
 | 27 | [Dani Olmo](http://twitter.com/search?q=Dani+Olmo) | N/A |
-| 28 | [Misa](http://twitter.com/search?q=Misa) | N/A |
-| 29 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 29 | [Sorloth](http://twitter.com/search?q=Sorloth) | Sorloth is a Scandinavian name derived from Old Norse. It is believed to mean "sword of the people" or "sword of Thor". |
 | 30 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 31 | [Dani Ceballos](http://twitter.com/search?q=Dani+Ceballos) | N/A |
-| 32 | [Mapi](http://twitter.com/search?q=Mapi) | N/A |
-| 33 | [Mounts](http://twitter.com/search?q=Mounts) | N/A |
-| 34 | [Trigun Stampede](http://twitter.com/search?q=Trigun+Stampede) | N/A |
-| 35 | [Eurocopa](http://twitter.com/search?q=Eurocopa) | N/A |
-| 36 | [Penaltito](http://twitter.com/search?q=Penaltito) | N/A |
-| 37 | [Luis Padrique](http://twitter.com/search?q=Luis+Padrique) | N/A |
-| 38 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 39 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
-| 40 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 41 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
-| 42 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 43 | [Hispanoamérica](http://twitter.com/search?q=Hispanoam%c3%a9rica) | N/A |
-| 44 | [Athenea](http://twitter.com/search?q=Athenea) | N/A |
-| 45 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 31 | [Eurocopa](http://twitter.com/search?q=Eurocopa) | N/A |
+| 32 | [Hispanoamérica](http://twitter.com/search?q=Hispanoam%c3%a9rica) | N/A |
+| 33 | [Mapi](http://twitter.com/search?q=Mapi) | N/A |
+| 34 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 35 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
+| 36 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 37 | [Toril](http://twitter.com/search?q=Toril) | N/A |
+| 38 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
+| 39 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 40 | [Athenea](http://twitter.com/search?q=Athenea) | N/A |
+| 41 | [Penalti](http://twitter.com/search?q=Penalti) | N/A |
+| 42 | [Ferran Torres](http://twitter.com/search?q=Ferran+Torres) | N/A |
+| 43 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 44 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
+| 45 | [Culos](http://twitter.com/search?q=Culos) | N/A |
 | 46 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 47 | [Toril](http://twitter.com/search?q=Toril) | N/A |
-| 48 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 49 | [Tacón](http://twitter.com/search?q=Tac%c3%b3n) | N/A |
+| 47 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 48 | [Recordad](http://twitter.com/search?q=Recordad) | N/A |
+| 49 | [Alavés](http://twitter.com/search?q=Alav%c3%a9s) | Alavés is a Spanish football club based in Vitoria-Gasteiz, Álava, in the autonomous community of the Basque Country. The club's name means "the Basques" in English. |
 
 
 

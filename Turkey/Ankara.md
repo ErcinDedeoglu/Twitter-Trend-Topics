@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-26 00:29:45 UTC`
+📆 Last Updated: `2023-03-26 01:44:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#YeniMüjdeStaja](http://twitter.com/search?q=%23YeniM%c3%bcjdeStaja) | N/A |
-| 2 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
-| 3 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
-| 4 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
+| 2 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
+| 3 | [#GüldürGüldürShow](http://twitter.com/search?q=%23G%c3%bcld%c3%bcrG%c3%bcld%c3%bcrShow) | N/A |
+| 4 | [Ali Sunal](http://twitter.com/search?q=Ali+Sunal) | N/A |
 | 5 | [#SıraUzmanÇavuşaKadro](http://twitter.com/search?q=%23S%c4%b1raUzman%c3%87avu%c5%9faKadro) | N/A |
-| 6 | [#BizimÇocuklar](http://twitter.com/search?q=%23Bizim%c3%87ocuklar) | N/A |
-| 7 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 8 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 9 | [Fatih Terim](http://twitter.com/search?q=Fatih+Terim) | N/A |
-| 10 | [Ermenistan'ı 2-1](http://twitter.com/search?q=Ermenistan%27%c4%b1+2-1) | N/A |
-| 11 | [Kur'an-ı Kerim'e](http://twitter.com/search?q=Kur%27an-%c4%b1+Kerim%27e) | N/A |
-| 12 | [Hırvatistan](http://twitter.com/search?q=H%c4%b1rvatistan) | N/A |
-| 13 | [Show TV](http://twitter.com/search?q=Show+TV) | N/A |
+| 6 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 7 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
+| 8 | [Fatih Terim](http://twitter.com/search?q=Fatih+Terim) | N/A |
+| 9 | [Kur'an-ı Kerim'e](http://twitter.com/search?q=Kur%27an-%c4%b1+Kerim%27e) | N/A |
+| 10 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 11 | [Ermenistan'ı 2-1](http://twitter.com/search?q=Ermenistan%27%c4%b1+2-1) | N/A |
+| 12 | [Show TV](http://twitter.com/search?q=Show+TV) | N/A |
+| 13 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
 | 14 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 15 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
-| 16 | [Kahverengi](http://twitter.com/search?q=Kahverengi) | N/A |
-| 17 | [Kerem Aktürkoğlu](http://twitter.com/search?q=Kerem+Akt%c3%bcrko%c4%9flu) | Kerem Aktürkoğlu is a Turkish name. It is composed of two words: Kerem, which means "generous" or "noble," and Aktürkoğlu, which means "son of the white falcon." In English, the name could be translated as "Generous Son of the White Falcon." |
+| 15 | [Kahverengi](http://twitter.com/search?q=Kahverengi) | N/A |
+| 16 | [Hırvatistan](http://twitter.com/search?q=H%c4%b1rvatistan) | N/A |
+| 17 | [Ketçap](http://twitter.com/search?q=Ket%c3%a7ap) | N/A |
 | 18 | [Ozan](http://twitter.com/search?q=Ozan) | N/A |
-| 19 | [Canan](http://twitter.com/search?q=Canan) | N/A |
-| 20 | [Eş Başkan Bay Kemal](http://twitter.com/search?q=E%c5%9f+Ba%c5%9fkan+Bay+Kemal) | N/A |
-| 21 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 19 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 20 | [Canan](http://twitter.com/search?q=Canan) | N/A |
+| 21 | [Eş Başkan Bay Kemal](http://twitter.com/search?q=E%c5%9f+Ba%c5%9fkan+Bay+Kemal) | N/A |
 | 22 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
-| 23 | [Tebrikler Milli Takım](http://twitter.com/search?q=Tebrikler+Milli+Tak%c4%b1m) | N/A |
+| 23 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
 | 24 | [Danimarka](http://twitter.com/search?q=Danimarka) | N/A |
 | 25 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
 | 26 | [TaşeronunOyu KadrodaSaklı](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadrodaSakl%c4%b1) | N/A |
-| 27 | [Ketçap](http://twitter.com/search?q=Ket%c3%a7ap) | N/A |
-| 28 | [BebeklerinYeri CezaeviMi](http://twitter.com/search?q=BebeklerinYeri+CezaeviMi) | N/A |
-| 29 | [Ersan](http://twitter.com/search?q=Ersan) | Ersan is a Turkish name derived from the Arabic word “Irsan”, which means “guardian” or “protector”. It is also used as a surname in some parts of Turkey. |
-| 30 | [Can Azerbaycan](http://twitter.com/search?q=Can+Azerbaycan) | N/A |
-| 31 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 32 | [Sergen](http://twitter.com/search?q=Sergen) | N/A |
-| 33 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
-| 34 | [Orkun Kökçü](http://twitter.com/search?q=Orkun+K%c3%b6k%c3%a7%c3%bc) | N/A |
-| 35 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 36 | [Mert Günok](http://twitter.com/search?q=Mert+G%c3%bcnok) | Mert Günok is a Turkish name. It is composed of two words: Mert, which means brave or courageous, and Günok, which means soldier. In English, the name would translate to Brave Soldier. |
-| 37 | [Cemil Kılıç](http://twitter.com/search?q=Cemil+K%c4%b1l%c4%b1%c3%a7) | N/A |
-| 38 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 39 | [Mentleşiyoruz](http://twitter.com/search?q=Mentle%c5%9fiyoruz) | N/A |
-| 40 | [Hastane](http://twitter.com/search?q=Hastane) | N/A |
-| 41 | [İstiklal Marşımızı](http://twitter.com/search?q=%c4%b0stiklal+Mar%c5%9f%c4%b1m%c4%b1z%c4%b1) | N/A |
-| 42 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
-| 43 | [Salih Özcan](http://twitter.com/search?q=Salih+%c3%96zcan) | N/A |
-| 44 | [Hamit](http://twitter.com/search?q=Hamit) | N/A |
-| 45 | [#SinanOGANa100Binimza](http://twitter.com/search?q=%23SinanOGANa100Binimza) | N/A |
-| 46 | [#defne](http://twitter.com/search?q=%23defne) | N/A |
-| 47 | [#BugünGünlerdenKARDEŞLİK](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenKARDE%c5%9eL%c4%b0K) | N/A |
-| 48 | [#2000LerMuejdeBekliyor](http://twitter.com/search?q=%232000LerMuejdeBekliyor) | N/A |
-| 49 | [#BeyazLeke](http://twitter.com/search?q=%23BeyazLeke) | N/A |
-| 50 | [#şarkılarbizisöyler](http://twitter.com/search?q=%23%c5%9fark%c4%b1larbizis%c3%b6yler) | N/A |
+| 27 | [BebeklerinYeri CezaeviMi](http://twitter.com/search?q=BebeklerinYeri+CezaeviMi) | N/A |
+| 28 | [Ermeniler](http://twitter.com/search?q=Ermeniler) | N/A |
+| 29 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
+| 30 | [Sergen](http://twitter.com/search?q=Sergen) | N/A |
+| 31 | [Azerbaycan](http://twitter.com/search?q=Azerbaycan) | N/A |
+| 32 | [Hastane](http://twitter.com/search?q=Hastane) | N/A |
+| 33 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
+| 34 | [#HayırlıSahurlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sahurlar) | N/A |
+| 35 | [#BizimÇocuklar](http://twitter.com/search?q=%23Bizim%c3%87ocuklar) | N/A |
+| 36 | [#defne](http://twitter.com/search?q=%23defne) | N/A |
+| 37 | [#SinanOGANa100Binimza](http://twitter.com/search?q=%23SinanOGANa100Binimza) | N/A |
+| 38 | [#2000LerMüjdeBekliyor](http://twitter.com/search?q=%232000LerM%c3%bcjdeBekliyor) | N/A |
+| 39 | [#BugünGünlerdenKARDEŞLİK](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenKARDE%c5%9eL%c4%b0K) | N/A |
+| 40 | [#BeyazLeke](http://twitter.com/search?q=%23BeyazLeke) | N/A |
+| 41 | [#ARMvTUR](http://twitter.com/search?q=%23ARMvTUR) | N/A |
+| 42 | [#Universiteyoksaoyyok](http://twitter.com/search?q=%23Universiteyoksaoyyok) | N/A |
+| 43 | [#ŞarkılarBiziSöyler](http://twitter.com/search?q=%23%c5%9eark%c4%b1larBiziS%c3%b6yler) | N/A |
+| 44 | [#StajyerKararli](http://twitter.com/search?q=%23StajyerKararli) | N/A |
+| 45 | [#YesilSolParti](http://twitter.com/search?q=%23YesilSolParti) | N/A |
+| 46 | [#EhliyetYoksaOyDaYok](http://twitter.com/search?q=%23EhliyetYoksaOyDaYok) | N/A |
+| 47 | [#Kardeşlerim](http://twitter.com/search?q=%23Karde%c5%9flerim) | N/A |
+| 48 | [#SüsÖm](http://twitter.com/search?q=%23S%c3%bcs%c3%96m) | N/A |
+| 49 | [#millitakım](http://twitter.com/search?q=%23millitak%c4%b1m) | N/A |
 
 
 

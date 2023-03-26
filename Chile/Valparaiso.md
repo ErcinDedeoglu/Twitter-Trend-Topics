@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-26 00:29:15 UTC`
+📆 Last Updated: `2023-03-26 01:44:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,46 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 2 | [#AdiosParedesEnTVN](http://twitter.com/search?q=%23AdiosParedesEnTVN) | N/A |
-| 3 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
-| 4 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 5 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
-| 6 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 7 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 8 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 9 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 10 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 11 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 12 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
-| 13 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 14 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 15 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 16 | [Vicente Pizarro](http://twitter.com/search?q=Vicente+Pizarro) | N/A |
+| 1 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 2 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
+| 3 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 4 | [#AdiosParedesEnTVN](http://twitter.com/search?q=%23AdiosParedesEnTVN) | N/A |
+| 5 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 6 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 7 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 8 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 9 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 10 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 11 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 12 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 13 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
+| 14 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 15 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
+| 16 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
 | 17 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 18 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 19 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 20 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 21 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
-| 22 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 23 | [Princesa Alba](http://twitter.com/search?q=Princesa+Alba) | N/A |
-| 24 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 25 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 18 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 19 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 20 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
+| 21 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
+| 22 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 23 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 24 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 25 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
 | 26 | [Salta](http://twitter.com/search?q=Salta) | N/A |
-| 27 | [Sanhueza](http://twitter.com/search?q=Sanhueza) | N/A |
-| 28 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 29 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
-| 30 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 31 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
-| 32 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 33 | [Ñuñoa](http://twitter.com/search?q=%c3%91u%c3%b1oa) | N/A |
-| 34 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 35 | [#AdiosCapi7an](http://twitter.com/search?q=%23AdiosCapi7an) | N/A |
-| 36 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
+| 27 | [Princesa Alba](http://twitter.com/search?q=Princesa+Alba) | N/A |
+| 28 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 29 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 30 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
+| 31 | [Vicente Pizarro](http://twitter.com/search?q=Vicente+Pizarro) | N/A |
+| 32 | [Sanhueza](http://twitter.com/search?q=Sanhueza) | N/A |
+| 33 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
+| 34 | [Justo Villar](http://twitter.com/search?q=Justo+Villar) | N/A |
+| 35 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 36 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
+| 37 | [Ñuñoa](http://twitter.com/search?q=%c3%91u%c3%b1oa) | N/A |
+| 38 | [#AdiosCapi7an](http://twitter.com/search?q=%23AdiosCapi7an) | N/A |
+| 39 | [#BoricUnPeligroparaChile](http://twitter.com/search?q=%23BoricUnPeligroparaChile) | N/A |
+| 40 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
 
 
 

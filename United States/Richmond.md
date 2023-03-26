@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-26 00:29:52 UTC`
+📆 Last Updated: `2023-03-26 01:44:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
 | 2 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
 | 3 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 4 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 5 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 6 | [#FAUvsKSU](http://twitter.com/search?q=%23FAUvsKSU) | N/A |
-| 7 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 8 | [#Svengoolie](http://twitter.com/search?q=%23Svengoolie) | N/A |
-| 9 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 10 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 11 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 12 | [K State](http://twitter.com/search?q=K+State) | N/A |
-| 13 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 14 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 15 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 16 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
-| 17 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 18 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
-| 19 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 20 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 21 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
-| 22 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 23 | [Tomlin](http://twitter.com/search?q=Tomlin) | Tomlin is a surname of English origin. It is derived from the Old English personal name Toma, which means "twin". The name can also be found in Scotland and Ireland. |
-| 24 | [Cerrone](http://twitter.com/search?q=Cerrone) | N/A |
-| 25 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 26 | [Chidi](http://twitter.com/search?q=Chidi) | N/A |
-| 27 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 28 | [Cam Carter](http://twitter.com/search?q=Cam+Carter) | N/A |
-| 29 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 30 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 31 | [Dylan Crews](http://twitter.com/search?q=Dylan+Crews) | N/A |
-| 32 | [Alex Perez](http://twitter.com/search?q=Alex+Perez) | N/A |
-| 33 | [Jordan Nwora](http://twitter.com/search?q=Jordan+Nwora) | N/A |
-| 34 | [Lacerda](http://twitter.com/search?q=Lacerda) | N/A |
-| 35 | [UFC Hall of Fame](http://twitter.com/search?q=UFC+Hall+of+Fame) | N/A |
-| 36 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 37 | [Duraev](http://twitter.com/search?q=Duraev) | N/A |
-| 38 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 39 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
-| 40 | [Kevin Feige](http://twitter.com/search?q=Kevin+Feige) | N/A |
-| 41 | [Greenlee](http://twitter.com/search?q=Greenlee) | N/A |
-| 42 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 43 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 44 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
-| 45 | [Miles Wood](http://twitter.com/search?q=Miles+Wood) | N/A |
-| 46 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 47 | [Kid Line](http://twitter.com/search?q=Kid+Line) | N/A |
-| 48 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 49 | [NorthWood](http://twitter.com/search?q=NorthWood) | N/A |
+| 4 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 5 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 6 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 7 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 8 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 9 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 10 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
+| 11 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
+| 12 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 13 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 14 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
+| 15 | [K State](http://twitter.com/search?q=K+State) | N/A |
+| 16 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 17 | [#LAMDC](http://twitter.com/search?q=%23LAMDC) | N/A |
+| 18 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 19 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 20 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
+| 21 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
+| 22 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 23 | [Boca](http://twitter.com/search?q=Boca) | N/A |
+| 24 | [emily ratajkowski](http://twitter.com/search?q=emily+ratajkowski) | N/A |
+| 25 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 26 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 27 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 28 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
+| 29 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 30 | [Eppler](http://twitter.com/search?q=Eppler) | N/A |
+| 31 | [Andrea Lee](http://twitter.com/search?q=Andrea+Lee) | N/A |
+| 32 | [Congrats to FAU](http://twitter.com/search?q=Congrats+to+FAU) | N/A |
+| 33 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 34 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 35 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
+| 36 | [Nate the Train](http://twitter.com/search?q=Nate+the+Train) | N/A |
+| 37 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 38 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
+| 39 | [HOOT HOOT](http://twitter.com/search?q=HOOT+HOOT) | N/A |
+| 40 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
+| 41 | [Nate Landwehr](http://twitter.com/search?q=Nate+Landwehr) | N/A |
+| 42 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 43 | [Hardwell](http://twitter.com/search?q=Hardwell) | N/A |
+| 44 | [Frozen Four](http://twitter.com/search?q=Frozen+Four) | N/A |
+| 45 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 46 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
+| 47 | [Kevin Feige](http://twitter.com/search?q=Kevin+Feige) | N/A |
+| 48 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
+| 49 | [Wow FAU](http://twitter.com/search?q=Wow+FAU) | N/A |
 
 
 

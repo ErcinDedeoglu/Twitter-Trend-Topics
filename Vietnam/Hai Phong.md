@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-26 00:29:35 UTC`
+📆 Last Updated: `2023-03-26 01:44:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [wb night with xiao zhan](http://twitter.com/search?q=wb+night+with+xiao+zhan) | N/A |
+| 1 | [WB NIGHT WITH XIAO ZHAN](http://twitter.com/search?q=WB+NIGHT+WITH+XIAO+ZHAN) | N/A |
 | 2 | [#BiblexVichyM89](http://twitter.com/search?q=%23BiblexVichyM89) | N/A |
 | 3 | [#BetweenUsinVietNam](http://twitter.com/search?q=%23BetweenUsinVietNam) | N/A |
 | 4 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
 | 5 | [#PollyPastelLuve](http://twitter.com/search?q=%23PollyPastelLuve) | N/A |
-| 6 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
-| 7 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 6 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 7 | [#BedFriendEP6](http://twitter.com/search?q=%23BedFriendEP6) | N/A |
 | 8 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
 | 9 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
 | 10 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
@@ -42,25 +42,28 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 | 26 | [England](http://twitter.com/search?q=England) | N/A |
 | 27 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 28 | [GENG](http://twitter.com/search?q=GENG) | N/A |
-| 29 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 30 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 31 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 32 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 33 | [Trove](http://twitter.com/search?q=Trove) | N/A |
-| 34 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 35 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 36 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 37 | [xinh](http://twitter.com/search?q=xinh) | N/A |
-| 38 | [BibleBuild](http://twitter.com/search?q=BibleBuild) | N/A |
-| 39 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 41 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 42 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 43 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 44 | [Trên](http://twitter.com/search?q=Tr%c3%aan) | N/A |
-| 45 | [#CathyDollLoveOhmNanon](http://twitter.com/search?q=%23CathyDollLoveOhmNanon) | N/A |
-| 46 | [#ฟรีนเบคFanBoomD1](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD1) | N/A |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [GENG](http://twitter.com/search?q=GENG) | N/A |
+| 30 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 31 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 32 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 33 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 34 | [Trove](http://twitter.com/search?q=Trove) | N/A |
+| 35 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 36 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 38 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 39 | [BibleBuild](http://twitter.com/search?q=BibleBuild) | N/A |
+| 40 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 42 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 43 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 45 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 46 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 47 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
+| 48 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 49 | [America](http://twitter.com/search?q=America) | N/A |
 
 
 
