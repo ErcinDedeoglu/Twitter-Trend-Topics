@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-26 20:17:57 UTC`
+📆 Last Updated: `2023-03-26 21:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Menem](http://twitter.com/search?q=Menem) | N/A |
-| 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 3 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 4 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 5 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 1 | [Scioli](http://twitter.com/search?q=Scioli) | N/A |
+| 2 | [Macri](http://twitter.com/search?q=Macri) | N/A |
+| 3 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 4 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 5 | [Borges](http://twitter.com/search?q=Borges) | N/A |
 | 6 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 7 | [#LaPeñaDeMorfi](http://twitter.com/search?q=%23LaPe%c3%b1aDeMorfi) | N/A |
+| 7 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
 | 8 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
-| 9 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 10 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 11 | [Landa](http://twitter.com/search?q=Landa) | N/A |
-| 12 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 13 | [Malta](http://twitter.com/search?q=Malta) | N/A |
-| 14 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 9 | [#LaPeñaDeMorfi](http://twitter.com/search?q=%23LaPe%c3%b1aDeMorfi) | N/A |
+| 10 | [Ayrton Costa](http://twitter.com/search?q=Ayrton+Costa) | N/A |
+| 11 | [Malta](http://twitter.com/search?q=Malta) | N/A |
+| 12 | [Milei](http://twitter.com/search?q=Milei) | N/A |
+| 13 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 14 | [Landa](http://twitter.com/search?q=Landa) | N/A |
 | 15 | [Mateo Retegui](http://twitter.com/search?q=Mateo+Retegui) | N/A |
-| 16 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 17 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 18 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 19 | [Ciantini](http://twitter.com/search?q=Ciantini) | N/A |
-| 20 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 21 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
-| 22 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
-| 23 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 24 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 25 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 26 | [Jesica Cirio](http://twitter.com/search?q=Jesica+Cirio) | N/A |
-| 27 | [Rozin](http://twitter.com/search?q=Rozin) | N/A |
-| 28 | [Bresh](http://twitter.com/search?q=Bresh) | N/A |
-| 29 | [Pudiendo](http://twitter.com/search?q=Pudiendo) | N/A |
-| 30 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 31 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 32 | [Los Palmeras](http://twitter.com/search?q=Los+Palmeras) | N/A |
-| 33 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 34 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 35 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
-| 36 | [#CreoEnArgentina](http://twitter.com/search?q=%23CreoEnArgentina) | N/A |
-| 37 | [Lider](http://twitter.com/search?q=Lider) | N/A |
-| 38 | [Eslovenia](http://twitter.com/search?q=Eslovenia) | N/A |
-| 39 | [Kazajistán](http://twitter.com/search?q=Kazajist%c3%a1n) | N/A |
-| 40 | [VOTO MARCOS AL 7020](http://twitter.com/search?q=VOTO+MARCOS+AL+7020) | N/A |
-| 41 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 42 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 43 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 44 | [Majul](http://twitter.com/search?q=Majul) | N/A |
-| 45 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 46 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 47 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
-| 48 | [Iguacel](http://twitter.com/search?q=Iguacel) | N/A |
-| 49 | [Gato](http://twitter.com/search?q=Gato) | N/A |
-| 50 | [Indio](http://twitter.com/search?q=Indio) | N/A |
+| 16 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 17 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
+| 18 | [Chacarita](http://twitter.com/search?q=Chacarita) | N/A |
+| 19 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 20 | [Aldosivi](http://twitter.com/search?q=Aldosivi) | N/A |
+| 21 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 22 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
+| 23 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 24 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 25 | [Chiqui](http://twitter.com/search?q=Chiqui) | N/A |
+| 26 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 27 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
+| 28 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 29 | [Jesica Cirio](http://twitter.com/search?q=Jesica+Cirio) | N/A |
+| 30 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
+| 31 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 32 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 33 | [Ciantini](http://twitter.com/search?q=Ciantini) | N/A |
+| 34 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
+| 35 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 36 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
+| 37 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 38 | [Rozin](http://twitter.com/search?q=Rozin) | N/A |
+| 39 | [Pudiendo](http://twitter.com/search?q=Pudiendo) | N/A |
+| 40 | [Bresh](http://twitter.com/search?q=Bresh) | N/A |
+| 41 | [Menem](http://twitter.com/search?q=Menem) | N/A |
+| 42 | [VOTO MARCOS AL 7020](http://twitter.com/search?q=VOTO+MARCOS+AL+7020) | N/A |
+| 43 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 44 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 45 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 46 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 47 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 48 | [Pichetto](http://twitter.com/search?q=Pichetto) | N/A |
+| 49 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 50 | [Majul](http://twitter.com/search?q=Majul) | N/A |
 
 
 

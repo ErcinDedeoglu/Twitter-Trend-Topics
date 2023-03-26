@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-26 20:17:55 UTC`
+📆 Last Updated: `2023-03-26 21:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MikesnoLollaBr](http://twitter.com/search?q=%23MikesnoLollaBr) | N/A |
-| 2 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 3 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
-| 4 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
-| 5 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
-| 6 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 7 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 8 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
-| 9 | [Colômbia](http://twitter.com/search?q=Col%c3%b4mbia) | N/A |
-| 10 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
-| 11 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 12 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
-| 13 | [#TheRoseNoCanalBIS](http://twitter.com/search?q=%23TheRoseNoCanalBIS) | N/A |
-| 14 | [woosung](http://twitter.com/search?q=woosung) | N/A |
-| 15 | [#MCLomaNoFaro](http://twitter.com/search?q=%23MCLomaNoFaro) | N/A |
-| 16 | [#L7nnonNoMultishow](http://twitter.com/search?q=%23L7nnonNoMultishow) | N/A |
-| 17 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 18 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 19 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 20 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
-| 21 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
-| 22 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 23 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 24 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 25 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 26 | [BUD E LUD NO LOLLA BR](http://twitter.com/search?q=BUD+E+LUD+NO+LOLLA+BR) | N/A |
-| 27 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
-| 28 | [Rezende](http://twitter.com/search?q=Rezende) | N/A |
-| 29 | [Gabriel Xavier](http://twitter.com/search?q=Gabriel+Xavier) | N/A |
-| 30 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 31 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 32 | [Larissa Luz](http://twitter.com/search?q=Larissa+Luz) | N/A |
-| 33 | [Projota](http://twitter.com/search?q=Projota) | Projota is a Brazilian rapper, singer, and songwriter. His name is derived from the Portuguese word "projetar," which means "to project." He is known for his socially conscious lyrics and has become one of the most popular rappers in Brazil. In English, Projota means "one who projects." |
-| 34 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
-| 35 | [É o Robs](http://twitter.com/search?q=%c3%89+o+Robs) | N/A |
-| 36 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
-| 37 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 38 | [Robo](http://twitter.com/search?q=Robo) | N/A |
-| 39 | [Dojoon](http://twitter.com/search?q=Dojoon) | N/A |
-| 40 | [xvideos](http://twitter.com/search?q=xvideos) | N/A |
-| 41 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 42 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 43 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 44 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 45 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
-| 46 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 47 | [Tove](http://twitter.com/search?q=Tove) | N/A |
-| 48 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
-| 49 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
-| 50 | [aimee](http://twitter.com/search?q=aimee) | N/A |
+| 1 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 2 | [#CBLOLDiff](http://twitter.com/search?q=%23CBLOLDiff) | N/A |
+| 3 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 4 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
+| 5 | [#EliminatoriasEuroNaESPN](http://twitter.com/search?q=%23EliminatoriasEuroNaESPN) | N/A |
+| 6 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 7 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 8 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 9 | [Rihanna](http://twitter.com/search?q=Rihanna) | Rihanna is the stage name of Robyn Rihanna Fenty, a Barbadian singer, songwriter, actress, and businesswoman. She is one of the most successful and influential artists of all time, having sold over 250 million records worldwide. |
+| 10 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
+| 11 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
+| 12 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 13 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
+| 14 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 15 | [#TheRoseNoCanalBIS](http://twitter.com/search?q=%23TheRoseNoCanalBIS) | N/A |
+| 16 | [woosung](http://twitter.com/search?q=woosung) | N/A |
+| 17 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 18 | [Mano Walter](http://twitter.com/search?q=Mano+Walter) | N/A |
+| 19 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
+| 20 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 21 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 22 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 23 | [Gabriel Xavier](http://twitter.com/search?q=Gabriel+Xavier) | N/A |
+| 24 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
+| 25 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 26 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
+| 27 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 28 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
+| 29 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 30 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 31 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 32 | [BUD E LUD NO LOLLA BR](http://twitter.com/search?q=BUD+E+LUD+NO+LOLLA+BR) | N/A |
+| 33 | [Matheus Bahia](http://twitter.com/search?q=Matheus+Bahia) | N/A |
+| 34 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 35 | [Rezende](http://twitter.com/search?q=Rezende) | N/A |
+| 36 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 37 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 38 | [Vovó Tartaruga](http://twitter.com/search?q=Vov%c3%b3+Tartaruga) | N/A |
+| 39 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 40 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
+| 41 | [RexPa](http://twitter.com/search?q=RexPa) | N/A |
+| 42 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
+| 43 | [Route](http://twitter.com/search?q=Route) | N/A |
+| 44 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 45 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 46 | [Croc](http://twitter.com/search?q=Croc) | N/A |
+| 47 | [xvideos](http://twitter.com/search?q=xvideos) | N/A |
+| 48 | [Robs](http://twitter.com/search?q=Robs) | N/A |
+| 49 | [Abelha Rainha](http://twitter.com/search?q=Abelha+Rainha) | N/A |
+| 50 | [O Náutico](http://twitter.com/search?q=O+N%c3%a1utico) | N/A |
 
 
 

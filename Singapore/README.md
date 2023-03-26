@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-26 20:18:37 UTC`
+📆 Last Updated: `2023-03-26 21:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,14 +18,14 @@ This is top 50 for Singapore
 | 1 | [#zalorabirthdaysale](http://twitter.com/search?q=%23zalorabirthdaysale) | N/A |
 | 2 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 3 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 5 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 4 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 5 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 6 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 7 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 7 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 8 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
 | 9 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 10 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 12 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 13 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
 | 14 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
@@ -34,21 +34,21 @@ This is top 50 for Singapore
 | 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 18 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
 | 19 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 20 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 21 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 22 | [natsume](http://twitter.com/search?q=natsume) | N/A |
-| 23 | [Gong Jun](http://twitter.com/search?q=Gong+Jun) | N/A |
-| 24 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
-| 25 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 26 | [Chew](http://twitter.com/search?q=Chew) | N/A |
-| 27 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 28 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 29 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 30 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 31 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
-| 32 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 33 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 34 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 20 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 21 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 22 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
+| 23 | [natsume](http://twitter.com/search?q=natsume) | N/A |
+| 24 | [Gong Jun](http://twitter.com/search?q=Gong+Jun) | N/A |
+| 25 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 26 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 27 | [Chew](http://twitter.com/search?q=Chew) | N/A |
+| 28 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 29 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 30 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 31 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 32 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 33 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 35 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 37 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-26 20:17:46 UTC`
+📆 Last Updated: `2023-03-26 21:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 2 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 3 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 5 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 6 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 7 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 8 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 9 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 10 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 11 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 3 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 4 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 5 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 6 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 7 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 8 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 9 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
+| 10 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 14 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 15 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 16 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 17 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 18 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 19 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
+| 13 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 14 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 15 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 16 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 17 | [i rtd](http://twitter.com/search?q=i+rtd) | N/A |
+| 18 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 19 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 20 | [#NASCARatCOTA](http://twitter.com/search?q=%23NASCARatCOTA) | N/A |
 | 21 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 22 | [#BenavidezPlant](http://twitter.com/search?q=%23BenavidezPlant) | N/A |
-| 23 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 25 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 26 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 27 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 28 | [Bianca Andreescu](http://twitter.com/search?q=Bianca+Andreescu) | N/A |
-| 29 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 30 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
-| 31 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 32 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 33 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 34 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
-| 35 | [Sean Farrell](http://twitter.com/search?q=Sean+Farrell) | N/A |
-| 36 | [Ron Maclean](http://twitter.com/search?q=Ron+Maclean) | N/A |
-| 37 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 38 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 39 | [Mike Hoffman](http://twitter.com/search?q=Mike+Hoffman) | N/A |
-| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 41 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 42 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 43 | [Jon Stewart](http://twitter.com/search?q=Jon+Stewart) | N/A |
-| 44 | [HNIC](http://twitter.com/search?q=HNIC) | N/A |
-| 45 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 46 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
-| 47 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 48 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 49 | [London](http://twitter.com/search?q=London) | N/A |
-| 50 | [Brian Burke](http://twitter.com/search?q=Brian+Burke) | N/A |
+| 22 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 23 | [#BenavidezPlant](http://twitter.com/search?q=%23BenavidezPlant) | N/A |
+| 24 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 25 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 26 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
+| 27 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 28 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 29 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 31 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 32 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 33 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 34 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 35 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 36 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 37 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 38 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 39 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 40 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
+| 41 | [Sean Farrell](http://twitter.com/search?q=Sean+Farrell) | N/A |
+| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 43 | [Ron Maclean](http://twitter.com/search?q=Ron+Maclean) | N/A |
+| 44 | [Gilles Proulx](http://twitter.com/search?q=Gilles+Proulx) | N/A |
+| 45 | [Bianca Andreescu](http://twitter.com/search?q=Bianca+Andreescu) | N/A |
+| 46 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 47 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 48 | [Mike Hoffman](http://twitter.com/search?q=Mike+Hoffman) | N/A |
+| 49 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
 
 
 

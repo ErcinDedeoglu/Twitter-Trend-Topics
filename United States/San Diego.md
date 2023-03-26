@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-26 20:18:29 UTC`
+📆 Last Updated: `2023-03-26 21:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 2 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
-| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 4 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 5 | [Majors](http://twitter.com/search?q=Majors) | N/A |
-| 6 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 7 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 9 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 10 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 11 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 12 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 13 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 14 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 15 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 16 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 17 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 18 | [#EchoParkGP](http://twitter.com/search?q=%23EchoParkGP) | N/A |
-| 19 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 20 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 21 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 22 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 23 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 24 | [Ty Dillon](http://twitter.com/search?q=Ty+Dillon) | N/A |
-| 25 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 26 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
-| 27 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
-| 28 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 29 | [Without Warning](http://twitter.com/search?q=Without+Warning) | N/A |
-| 30 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 31 | [Guenther Steiner](http://twitter.com/search?q=Guenther+Steiner) | N/A |
-| 32 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
-| 33 | [Jimmie Johnson](http://twitter.com/search?q=Jimmie+Johnson) | N/A |
-| 34 | [YOU COULD START A CULT](http://twitter.com/search?q=YOU+COULD+START+A+CULT) | N/A |
-| 35 | [Silk Sonic](http://twitter.com/search?q=Silk+Sonic) | N/A |
-| 36 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 37 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
-| 38 | [Parrish](http://twitter.com/search?q=Parrish) | N/A |
-| 39 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
-| 40 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 41 | [THE KING IS BACK](http://twitter.com/search?q=THE+KING+IS+BACK) | N/A |
-| 42 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
-| 43 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
-| 44 | [Kaluma](http://twitter.com/search?q=Kaluma) | N/A |
-| 45 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 46 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
-| 47 | [Jordan Taylor](http://twitter.com/search?q=Jordan+Taylor) | N/A |
-| 48 | [Bush 41](http://twitter.com/search?q=Bush+41) | N/A |
-| 49 | [Jhony Brito](http://twitter.com/search?q=Jhony+Brito) | N/A |
-| 50 | [Void](http://twitter.com/search?q=Void) | N/A |
+| 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
+| 2 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
+| 3 | [#TheTimeIsNow](http://twitter.com/search?q=%23TheTimeIsNow) | N/A |
+| 4 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 5 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 6 | [I BELIEVE](http://twitter.com/search?q=I+BELIEVE) | N/A |
+| 7 | [#LakersNation](http://twitter.com/search?q=%23LakersNation) | N/A |
+| 8 | [Bradley](http://twitter.com/search?q=Bradley) | N/A |
+| 9 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 10 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 11 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 12 | [#Elite8](http://twitter.com/search?q=%23Elite8) | N/A |
+| 13 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 14 | [Majors](http://twitter.com/search?q=Majors) | N/A |
+| 15 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 16 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 17 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 18 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 21 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 22 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 23 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 24 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 25 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 26 | [Anthony Volpe](http://twitter.com/search?q=Anthony+Volpe) | N/A |
+| 27 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 28 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 29 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
+| 30 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
+| 31 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 32 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 33 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 34 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
+| 35 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 36 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
+| 37 | [Vooch](http://twitter.com/search?q=Vooch) | N/A |
+| 38 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 39 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 40 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 41 | [Clark Kellogg](http://twitter.com/search?q=Clark+Kellogg) | N/A |
+| 42 | [Clock](http://twitter.com/search?q=Clock) | N/A |
+| 43 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 44 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 45 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
+| 46 | [Gene Steratore](http://twitter.com/search?q=Gene+Steratore) | N/A |
+| 47 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
+| 48 | [Brian Dutcher](http://twitter.com/search?q=Brian+Dutcher) | N/A |
+| 49 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
+| 50 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
 
 
 
