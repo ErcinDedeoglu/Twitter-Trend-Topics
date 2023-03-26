@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-26 15:17:18 UTC`
+📆 Last Updated: `2023-03-26 16:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Brazil](</Brazil>)
 | 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 4 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
 | 5 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 6 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 7 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 6 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 7 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
 | 8 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 9 | [Cazaquistão](http://twitter.com/search?q=Cazaquist%c3%a3o) | N/A |
-| 10 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 11 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 12 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 13 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
-| 14 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 15 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
-| 16 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
-| 17 | [FAITH IN THE FUTURE](http://twitter.com/search?q=FAITH+IN+THE+FUTURE) | N/A |
-| 18 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 19 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
-| 20 | [ELE NÃO VEM MAIS](http://twitter.com/search?q=ELE+N%c3%83O+VEM+MAIS) | N/A |
-| 21 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 22 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
-| 23 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 24 | [Cancelou](http://twitter.com/search?q=Cancelou) | N/A |
-| 25 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 26 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 27 | [Del Rey](http://twitter.com/search?q=Del+Rey) | N/A |
-| 28 | [Nazaré](http://twitter.com/search?q=Nazar%c3%a9) | N/A |
-| 29 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
-| 30 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
-| 31 | [Jota Quest](http://twitter.com/search?q=Jota+Quest) | N/A |
-| 32 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 33 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 34 | [STJD](http://twitter.com/search?q=STJD) | N/A |
-| 35 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
-| 36 | [Kevin Parker](http://twitter.com/search?q=Kevin+Parker) | N/A |
-| 37 | [Merval](http://twitter.com/search?q=Merval) | N/A |
-| 38 | [Furacão](http://twitter.com/search?q=Furac%c3%a3o) | N/A |
-| 39 | [Arrasaram](http://twitter.com/search?q=Arrasaram) | N/A |
+| 9 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 10 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
+| 11 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 12 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 13 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
+| 14 | [Cazaquistão](http://twitter.com/search?q=Cazaquist%c3%a3o) | N/A |
+| 15 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 16 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
+| 17 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
+| 18 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
+| 19 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
+| 20 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 21 | [FAITH IN THE FUTURE](http://twitter.com/search?q=FAITH+IN+THE+FUTURE) | N/A |
+| 22 | [Del Rey](http://twitter.com/search?q=Del+Rey) | N/A |
+| 23 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
+| 24 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 25 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
+| 26 | [Kit Connor](http://twitter.com/search?q=Kit+Connor) | N/A |
+| 27 | [ELE NÃO VEM MAIS](http://twitter.com/search?q=ELE+N%c3%83O+VEM+MAIS) | N/A |
+| 28 | [pusha t](http://twitter.com/search?q=pusha+t) | N/A |
+| 29 | [STJD](http://twitter.com/search?q=STJD) | N/A |
+| 30 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 31 | [7 Belo](http://twitter.com/search?q=7+Belo) | N/A |
+| 32 | [Fred e Black](http://twitter.com/search?q=Fred+e+Black) | N/A |
+| 33 | [nick nelson](http://twitter.com/search?q=nick+nelson) | N/A |
+| 34 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 35 | [Xena](http://twitter.com/search?q=Xena) | N/A |
+| 36 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 37 | [Cancelou](http://twitter.com/search?q=Cancelou) | N/A |
+| 38 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 39 | [Headliner](http://twitter.com/search?q=Headliner) | N/A |
 | 40 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 41 | [Bogotá](http://twitter.com/search?q=Bogot%c3%a1) | N/A |
-| 42 | [Xena](http://twitter.com/search?q=Xena) | N/A |
-| 43 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 44 | [Dora Kramer](http://twitter.com/search?q=Dora+Kramer) | N/A |
-| 45 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 46 | [Dunker](http://twitter.com/search?q=Dunker) | N/A |
-| 47 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 48 | [RexPa](http://twitter.com/search?q=RexPa) | N/A |
-| 49 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 50 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
+| 41 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
+| 42 | [Naldo Benny](http://twitter.com/search?q=Naldo+Benny) | N/A |
+| 43 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 44 | [Fini](http://twitter.com/search?q=Fini) | N/A |
+| 45 | [Jota Quest](http://twitter.com/search?q=Jota+Quest) | N/A |
+| 46 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
+| 47 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
+| 48 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
+| 49 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 50 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
 
 
 

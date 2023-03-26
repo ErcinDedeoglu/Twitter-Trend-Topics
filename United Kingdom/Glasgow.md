@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-26 15:17:08 UTC`
+📆 Last Updated: `2023-03-26 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 2 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
-| 3 | [#JDxAirMaxDay](http://twitter.com/search?q=%23JDxAirMaxDay) | N/A |
-| 4 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 5 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
-| 6 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
-| 7 | [#boatrace2023](http://twitter.com/search?q=%23boatrace2023) | N/A |
-| 8 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 9 | [#RichOrPoorTVShowsOrCelebs](http://twitter.com/search?q=%23RichOrPoorTVShowsOrCelebs) | N/A |
-| 10 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 11 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 12 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 13 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
-| 14 | [Big Dunc](http://twitter.com/search?q=Big+Dunc) | N/A |
-| 15 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
-| 16 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 17 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 18 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
-| 19 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
-| 20 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
-| 21 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 2 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
+| 3 | [#boatrace](http://twitter.com/search?q=%23boatrace) | N/A |
+| 4 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 5 | [#JDxAirMaxDay](http://twitter.com/search?q=%23JDxAirMaxDay) | N/A |
+| 6 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 7 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 8 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 9 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 10 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
+| 11 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 12 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 13 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 14 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
+| 15 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 16 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 17 | [Big Dunc](http://twitter.com/search?q=Big+Dunc) | N/A |
+| 18 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
+| 19 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
+| 20 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
+| 21 | [Joe Cole](http://twitter.com/search?q=Joe+Cole) | N/A |
 | 22 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 23 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 24 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
+| 23 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
+| 24 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
 | 25 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 26 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 27 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
-| 28 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 29 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 30 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 31 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 32 | [England v Ukraine](http://twitter.com/search?q=England+v+Ukraine) | N/A |
-| 33 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 34 | [Crisps](http://twitter.com/search?q=Crisps) | N/A |
-| 35 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 36 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
+| 26 | [Madders](http://twitter.com/search?q=Madders) | N/A |
+| 27 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 28 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
+| 29 | [Crisps](http://twitter.com/search?q=Crisps) | N/A |
+| 30 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
+| 31 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 32 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 33 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 34 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 35 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
+| 36 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
 | 37 | [Darren Moore](http://twitter.com/search?q=Darren+Moore) | N/A |
-| 38 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 39 | [Van Persie](http://twitter.com/search?q=Van+Persie) | N/A |
-| 40 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 41 | [Cuthbert](http://twitter.com/search?q=Cuthbert) | N/A |
-| 42 | [David Lammy](http://twitter.com/search?q=David+Lammy) | N/A |
-| 43 | [Hutton](http://twitter.com/search?q=Hutton) | N/A |
-| 44 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
-| 45 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 46 | [Racecourse](http://twitter.com/search?q=Racecourse) | N/A |
-| 47 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
-| 48 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 49 | [Tyrone](http://twitter.com/search?q=Tyrone) | N/A |
+| 38 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 39 | [bannan](http://twitter.com/search?q=bannan) | N/A |
+| 40 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 41 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
+| 42 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 43 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
+| 44 | [David Lammy](http://twitter.com/search?q=David+Lammy) | N/A |
+| 45 | [Van Persie](http://twitter.com/search?q=Van+Persie) | N/A |
+| 46 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 47 | [Hutton](http://twitter.com/search?q=Hutton) | N/A |
+| 48 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 49 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
 
 
 

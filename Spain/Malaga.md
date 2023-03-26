@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-03-26 15:17:27 UTC`
+📆 Last Updated: `2023-03-26 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pregón](http://twitter.com/search?q=Preg%c3%b3n) | N/A |
+| 1 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 | 2 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
-| 3 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
-| 4 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 5 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 3 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 4 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 5 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 6 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 7 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 8 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 9 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 10 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
-| 11 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 12 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 13 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 14 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
-| 15 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 16 | [Kazajistán](http://twitter.com/search?q=Kazajist%c3%a1n) | N/A |
-| 17 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 18 | [Gerard Romero](http://twitter.com/search?q=Gerard+Romero) | Gerard Romero is a Spanish name. It is derived from the Germanic name Gerard, which means "brave spearman". |
-| 19 | [Viñales](http://twitter.com/search?q=Vi%c3%b1ales) | N/A |
-| 20 | [Gerona](http://twitter.com/search?q=Gerona) | N/A |
+| 7 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 8 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 9 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 10 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 11 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
+| 12 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 13 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 14 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 15 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 16 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 17 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 18 | [Bnet](http://twitter.com/search?q=Bnet) | N/A |
+| 19 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
+| 20 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
 | 21 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
-| 22 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 23 | [Pape](http://twitter.com/search?q=Pape) | N/A |
-| 24 | [Pedro Acosta](http://twitter.com/search?q=Pedro+Acosta) | N/A |
-| 25 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 26 | [Enrique Casellas](http://twitter.com/search?q=Enrique+Casellas) | N/A |
-| 27 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
-| 28 | [Jorge Martín](http://twitter.com/search?q=Jorge+Mart%c3%adn) | N/A |
-| 29 | [Mirandés](http://twitter.com/search?q=Mirand%c3%a9s) | N/A |
-| 30 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
-| 31 | [Bagnaia](http://twitter.com/search?q=Bagnaia) | N/A |
-| 32 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 33 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
-| 34 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 35 | [Granca](http://twitter.com/search?q=Granca) | N/A |
-| 36 | [Hispanoamérica](http://twitter.com/search?q=Hispanoam%c3%a9rica) | N/A |
-| 37 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
-| 38 | [Pecco](http://twitter.com/search?q=Pecco) | N/A |
-| 39 | [Valentino](http://twitter.com/search?q=Valentino) | Valentino is a popular Italian fashion house founded in 1960 by Valentino Garavani. The brand is known for its glamorous and sophisticated designs, which often feature intricate embroidery and beading. The name Valentino is derived from the Latin word valens, meaning “strong” or “powerful”. |
-| 40 | [Unionistas](http://twitter.com/search?q=Unionistas) | N/A |
-| 41 | [Mario Simón](http://twitter.com/search?q=Mario+Sim%c3%b3n) | N/A |
-| 42 | [canet](http://twitter.com/search?q=canet) | N/A |
-| 43 | [Holgado](http://twitter.com/search?q=Holgado) | N/A |
-| 44 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 45 | [Pique](http://twitter.com/search?q=Pique) | N/A |
-| 46 | [FINAL DEL PARTIDO](http://twitter.com/search?q=FINAL+DEL+PARTIDO) | N/A |
-| 47 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 48 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 49 | [Yamaha](http://twitter.com/search?q=Yamaha) | N/A |
-| 50 | [Alcorcón](http://twitter.com/search?q=Alcorc%c3%b3n) | N/A |
+| 22 | [Kazajistán](http://twitter.com/search?q=Kazajist%c3%a1n) | N/A |
+| 23 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
+| 24 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 25 | [Albacete](http://twitter.com/search?q=Albacete) | N/A |
+| 26 | [gerard romero](http://twitter.com/search?q=gerard+romero) | N/A |
+| 27 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 28 | [Mirandés](http://twitter.com/search?q=Mirand%c3%a9s) | N/A |
+| 29 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 30 | [Gerona](http://twitter.com/search?q=Gerona) | N/A |
+| 31 | [Viñales](http://twitter.com/search?q=Vi%c3%b1ales) | N/A |
+| 32 | [Kemmelberg](http://twitter.com/search?q=Kemmelberg) | N/A |
+| 33 | [Pape](http://twitter.com/search?q=Pape) | N/A |
+| 34 | [La Romareda](http://twitter.com/search?q=La+Romareda) | N/A |
+| 35 | [Gueye](http://twitter.com/search?q=Gueye) | N/A |
+| 36 | [Ponferradina](http://twitter.com/search?q=Ponferradina) | N/A |
+| 37 | [Arribas](http://twitter.com/search?q=Arribas) | Arribas is a Spanish word that means "upwards" or "above". It is often used to describe something that is higher than something else, such as a hill or mountain. |
+| 38 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
+| 39 | [Kobe](http://twitter.com/search?q=Kobe) | Kobe is a city in Japan. It is the capital of Hyogo Prefecture and one of the largest cities in the country. The meaning of Kobe in English is "God's Door". |
+| 40 | [Martín](http://twitter.com/search?q=Mart%c3%adn) | N/A |
+| 41 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 42 | [Hispanoamérica](http://twitter.com/search?q=Hispanoam%c3%a9rica) | N/A |
+| 43 | [enrique casellas](http://twitter.com/search?q=enrique+casellas) | N/A |
+| 44 | [Andorra](http://twitter.com/search?q=Andorra) | N/A |
+| 45 | [Bagnaia](http://twitter.com/search?q=Bagnaia) | N/A |
+| 46 | [Pedro Acosta](http://twitter.com/search?q=Pedro+Acosta) | N/A |
+| 47 | [Pecco](http://twitter.com/search?q=Pecco) | N/A |
+| 48 | [Granca](http://twitter.com/search?q=Granca) | N/A |
+| 49 | [Mario Simón](http://twitter.com/search?q=Mario+Sim%c3%b3n) | N/A |
 
 
 

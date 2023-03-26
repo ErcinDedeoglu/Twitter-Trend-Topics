@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-26 15:17:22 UTC`
+📆 Last Updated: `2023-03-26 16:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 1 | [#LgbtqiaLastTime](http://twitter.com/search?q=%23LgbtqiaLastTime) | N/A |
 | 2 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
 | 3 | [#syspace](http://twitter.com/search?q=%23syspace) | N/A |
-| 4 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 5 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
-| 6 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
-| 7 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 8 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 9 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 10 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 11 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 4 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 5 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 6 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 7 | [#GandWevelgem](http://twitter.com/search?q=%23GandWevelgem) | N/A |
+| 8 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 9 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 10 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
+| 11 | [Danemark](http://twitter.com/search?q=Danemark) | N/A |
 | 12 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 13 | [Danemark](http://twitter.com/search?q=Danemark) | N/A |
-| 14 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 15 | [Yamaha](http://twitter.com/search?q=Yamaha) | N/A |
+| 13 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 14 | [Yamaha](http://twitter.com/search?q=Yamaha) | N/A |
+| 15 | [Bagnaia](http://twitter.com/search?q=Bagnaia) | N/A |
 | 16 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 17 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 18 | [Bagnaia](http://twitter.com/search?q=Bagnaia) | N/A |
-| 19 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
-| 20 | [Polska](http://twitter.com/search?q=Polska) | N/A |
-| 21 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 17 | [Polska](http://twitter.com/search?q=Polska) | N/A |
+| 18 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 19 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 20 | [Fabio](http://twitter.com/search?q=Fabio) | N/A |
+| 21 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
 | 22 | [BRGM](http://twitter.com/search?q=BRGM) | N/A |
-| 23 | [Si la France](http://twitter.com/search?q=Si+la+France) | N/A |
-| 24 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
-| 25 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
-| 26 | [Version PS5](http://twitter.com/search?q=Version+PS5) | N/A |
-| 27 | [BRAV-M - Pétition](http://twitter.com/search?q=BRAV-M+-+P%c3%a9tition) | N/A |
-| 28 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 29 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
-| 30 | [Lacoste](http://twitter.com/search?q=Lacoste) | N/A |
-| 31 | [olivier véran](http://twitter.com/search?q=olivier+v%c3%a9ran) | N/A |
-| 32 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 33 | [Soline](http://twitter.com/search?q=Soline) | N/A |
-| 34 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 35 | [Laure Calamy](http://twitter.com/search?q=Laure+Calamy) | N/A |
-| 36 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
-| 37 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 38 | [Smash](http://twitter.com/search?q=Smash) | N/A |
-| 39 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
-| 40 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 41 | [Landes](http://twitter.com/search?q=Landes) | N/A |
-| 42 | [#GandWevelgem](http://twitter.com/search?q=%23GandWevelgem) | N/A |
+| 23 | [Version PS5](http://twitter.com/search?q=Version+PS5) | N/A |
+| 24 | [Si la France](http://twitter.com/search?q=Si+la+France) | N/A |
+| 25 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 26 | [Soline](http://twitter.com/search?q=Soline) | N/A |
+| 27 | [Quotidien](http://twitter.com/search?q=Quotidien) | N/A |
+| 28 | [Lacoste](http://twitter.com/search?q=Lacoste) | N/A |
+| 29 | [Rongier](http://twitter.com/search?q=Rongier) | Rongier is a French word meaning to grumble or complain. It is derived from the Latin word "rongare," which means to murmur or grumble. |
+| 30 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 31 | [BRAV-M - Pétition](http://twitter.com/search?q=BRAV-M+-+P%c3%a9tition) | N/A |
+| 32 | [Laure Calamy](http://twitter.com/search?q=Laure+Calamy) | N/A |
+| 33 | [Ounahi](http://twitter.com/search?q=Ounahi) | Ounahi is a term used in the Indian language of Hindi. It translates to "happiness" or "joy" in English. |
+| 34 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 35 | [Smash](http://twitter.com/search?q=Smash) | N/A |
+| 36 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
+| 37 | [Veran](http://twitter.com/search?q=Veran) | N/A |
+| 38 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
+| 39 | [#ITAFRA](http://twitter.com/search?q=%23ITAFRA) | N/A |
+| 40 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 41 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
+| 42 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
 | 43 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 44 | [#LesRP](http://twitter.com/search?q=%23LesRP) | N/A |
-| 45 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 44 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
+| 45 | [#megabassine](http://twitter.com/search?q=%23megabassine) | N/A |
 | 46 | [#ResidentEvil4](http://twitter.com/search?q=%23ResidentEvil4) | N/A |
 | 47 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
-| 48 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 49 | [#megabassine](http://twitter.com/search?q=%23megabassine) | N/A |
-| 50 | [#UnibetPayeTaConsole](http://twitter.com/search?q=%23UnibetPayeTaConsole) | N/A |
+| 48 | [#UnibetPayeTaConsole](http://twitter.com/search?q=%23UnibetPayeTaConsole) | N/A |
 
 
 

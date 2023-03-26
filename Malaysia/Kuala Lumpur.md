@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-26 15:17:37 UTC`
+📆 Last Updated: `2023-03-26 16:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 2 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 3 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
-| 4 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
-| 5 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 6 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
-| 7 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 8 | [ongteo](http://twitter.com/search?q=ongteo) | N/A |
-| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 10 | [GohLai](http://twitter.com/search?q=GohLai) | N/A |
-| 11 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 12 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 13 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 14 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 15 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
-| 16 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 17 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 18 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 19 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 20 | [build you are luved](http://twitter.com/search?q=build+you+are+luved) | N/A |
-| 21 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 22 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 23 | [Melt](http://twitter.com/search?q=Melt) | N/A |
-| 24 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 25 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 26 | [Happy 1m](http://twitter.com/search?q=Happy+1m) | N/A |
-| 27 | [ilhoon](http://twitter.com/search?q=ilhoon) | N/A |
-| 28 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 29 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 3 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 4 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
+| 5 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
+| 6 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
+| 7 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 8 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
+| 9 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 10 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 11 | [ongteo](http://twitter.com/search?q=ongteo) | N/A |
+| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 13 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 14 | [gohlai](http://twitter.com/search?q=gohlai) | N/A |
+| 15 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 16 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
+| 17 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
+| 18 | [felix](http://twitter.com/search?q=felix) | N/A |
+| 19 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 20 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 21 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 22 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 23 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 24 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 25 | [happy 1m](http://twitter.com/search?q=happy+1m) | N/A |
+| 26 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 27 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 28 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 29 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
 | 30 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
 | 31 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
 | 32 | [Umji](http://twitter.com/search?q=Umji) | N/A |
-| 33 | [hyukjae](http://twitter.com/search?q=hyukjae) | N/A |
-| 34 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 35 | [mbpj](http://twitter.com/search?q=mbpj) | N/A |
-| 36 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 37 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 38 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
-| 39 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 40 | [Lonely Night](http://twitter.com/search?q=Lonely+Night) | N/A |
-| 41 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 42 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
-| 43 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 44 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 45 | [mr chew](http://twitter.com/search?q=mr+chew) | N/A |
-| 46 | [blue spring](http://twitter.com/search?q=blue+spring) | N/A |
-| 47 | [Winny](http://twitter.com/search?q=Winny) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 49 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 50 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 33 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 34 | [mbpj](http://twitter.com/search?q=mbpj) | N/A |
+| 35 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 36 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 37 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 38 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 39 | [Sudirman Cup](http://twitter.com/search?q=Sudirman+Cup) | N/A |
+| 40 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 41 | [Lonely Night](http://twitter.com/search?q=Lonely+Night) | N/A |
+| 42 | [Hyukjae](http://twitter.com/search?q=Hyukjae) | N/A |
+| 43 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 44 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 45 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 46 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 47 | [Boruto](http://twitter.com/search?q=Boruto) | N/A |
+| 48 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
+| 49 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 50 | [Winny](http://twitter.com/search?q=Winny) | N/A |
 
 
 

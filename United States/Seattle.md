@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-03-26 15:18:02 UTC`
+📆 Last Updated: `2023-03-26 16:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 2 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 3 | [JORDAN MORRIS](http://twitter.com/search?q=JORDAN+MORRIS) | N/A |
-| 4 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 5 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 8 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 2 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 3 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 4 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 5 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 6 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 7 | [#sundaymorning](http://twitter.com/search?q=%23sundaymorning) | N/A |
+| 8 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
 | 9 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
 | 10 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
-| 11 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 11 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 12 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
-| 13 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 14 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
-| 15 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
-| 16 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 17 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
-| 18 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 19 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 20 | [Leonard Nimoy](http://twitter.com/search?q=Leonard+Nimoy) | N/A |
-| 21 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
-| 22 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
-| 23 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 24 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
-| 25 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 26 | [Congrats Jack](http://twitter.com/search?q=Congrats+Jack) | N/A |
-| 27 | [Scrambled](http://twitter.com/search?q=Scrambled) | N/A |
-| 28 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 29 | [Every Sunday](http://twitter.com/search?q=Every+Sunday) | N/A |
-| 30 | [Steven Tyler](http://twitter.com/search?q=Steven+Tyler) | N/A |
-| 31 | [Karl Rove](http://twitter.com/search?q=Karl+Rove) | N/A |
-| 32 | [Sweet Caroline](http://twitter.com/search?q=Sweet+Caroline) | "Sweet Caroline" is a popular song written and performed by Neil Diamond. It was released in 1969 as a single with the title "Sweet Caroline (Good Times Never Seemed So Good)". The song is about a woman named Caroline, who Diamond imagines as someone he can love and cherish. The lyrics express his admiration for her beauty and innocence, and his desire to be with her forever. The song has become an anthem for many people, especially those who are in love or have been in love. The phrase "Good times never seemed so good" has become a popular catchphrase. |
-| 33 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 34 | [LaGrange](http://twitter.com/search?q=LaGrange) | N/A |
-| 35 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
-| 36 | [Cult](http://twitter.com/search?q=Cult) | N/A |
-| 37 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 38 | [Robert Frost](http://twitter.com/search?q=Robert+Frost) | N/A |
-| 39 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
-| 40 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 41 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
-| 42 | [Nate Parker](http://twitter.com/search?q=Nate+Parker) | N/A |
-| 43 | [Erica](http://twitter.com/search?q=Erica) | N/A |
-| 44 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 45 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 46 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 47 | [Marcus Mumford](http://twitter.com/search?q=Marcus+Mumford) | N/A |
-| 48 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 49 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
-| 50 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 13 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 14 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 15 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 16 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
+| 17 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
+| 18 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
+| 19 | [Tim Mara](http://twitter.com/search?q=Tim+Mara) | N/A |
+| 20 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 21 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 22 | [Digital Blackface](http://twitter.com/search?q=Digital+Blackface) | N/A |
+| 23 | [Durbin](http://twitter.com/search?q=Durbin) | N/A |
+| 24 | [Val Ness](http://twitter.com/search?q=Val+Ness) | N/A |
+| 25 | [George Preston Marshall](http://twitter.com/search?q=George+Preston+Marshall) | N/A |
+| 26 | [Curly Lambeau](http://twitter.com/search?q=Curly+Lambeau) | N/A |
+| 27 | [HAPPY BIRTHDAY LISA](http://twitter.com/search?q=HAPPY+BIRTHDAY+LISA) | N/A |
+| 28 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 29 | [Troup County](http://twitter.com/search?q=Troup+County) | N/A |
+| 30 | [Studies](http://twitter.com/search?q=Studies) | N/A |
+| 31 | [Happy Birthday Paige](http://twitter.com/search?q=Happy+Birthday+Paige) | N/A |
+| 32 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
+| 33 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 34 | [Every Sunday](http://twitter.com/search?q=Every+Sunday) | N/A |
+| 35 | [David Jones](http://twitter.com/search?q=David+Jones) | N/A |
+| 36 | [Karl Rove](http://twitter.com/search?q=Karl+Rove) | N/A |
+| 37 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
+| 38 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 39 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 40 | [Congrats Jack](http://twitter.com/search?q=Congrats+Jack) | N/A |
+| 41 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 42 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
+| 43 | [Leonard Nimoy](http://twitter.com/search?q=Leonard+Nimoy) | N/A |
+| 44 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
+| 45 | [On a Sunday](http://twitter.com/search?q=On+a+Sunday) | N/A |
+| 46 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
+| 47 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 48 | [Scrambled](http://twitter.com/search?q=Scrambled) | N/A |
+| 49 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
+| 50 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
 
 
 

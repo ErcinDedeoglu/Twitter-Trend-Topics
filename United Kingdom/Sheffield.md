@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-26 15:17:10 UTC`
+📆 Last Updated: `2023-03-26 16:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 1 | [Joe Cole](http://twitter.com/search?q=Joe+Cole) | N/A |
 | 2 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 3 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 4 | [#CFCW](http://twitter.com/search?q=%23CFCW) | N/A |
-| 5 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
-| 6 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 7 | [#SheffieldHalfMarathon](http://twitter.com/search?q=%23SheffieldHalfMarathon) | N/A |
-| 8 | [#ToriesOut262](http://twitter.com/search?q=%23ToriesOut262) | N/A |
-| 9 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 10 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 11 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 12 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
-| 13 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 14 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 15 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 16 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 17 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
-| 18 | [Big Dunc](http://twitter.com/search?q=Big+Dunc) | N/A |
-| 19 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
-| 20 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 21 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 3 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 4 | [#SheffieldHalfMarathon](http://twitter.com/search?q=%23SheffieldHalfMarathon) | N/A |
+| 5 | [#ToriesOut262](http://twitter.com/search?q=%23ToriesOut262) | N/A |
+| 6 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
+| 7 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 8 | [#GeneralElectionN0W](http://twitter.com/search?q=%23GeneralElectionN0W) | N/A |
+| 9 | [#LetWomanSpeak](http://twitter.com/search?q=%23LetWomanSpeak) | N/A |
+| 10 | [Greed](http://twitter.com/search?q=Greed) | N/A |
+| 11 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 12 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
+| 13 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 14 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 15 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 16 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
+| 17 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 18 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 19 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 20 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
+| 21 | [Byers](http://twitter.com/search?q=Byers) | N/A |
 | 22 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
-| 23 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
-| 24 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
-| 25 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 26 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 27 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 28 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
-| 29 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 30 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 31 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
-| 32 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 33 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 34 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 35 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 36 | [England v Ukraine](http://twitter.com/search?q=England+v+Ukraine) | N/A |
-| 37 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 38 | [Crisps](http://twitter.com/search?q=Crisps) | N/A |
-| 39 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
-| 40 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 41 | [Van Persie](http://twitter.com/search?q=Van+Persie) | N/A |
-| 42 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 43 | [Cuthbert](http://twitter.com/search?q=Cuthbert) | N/A |
-| 44 | [David Lammy](http://twitter.com/search?q=David+Lammy) | N/A |
-| 45 | [Hutton](http://twitter.com/search?q=Hutton) | N/A |
-| 46 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
-| 47 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 48 | [Racecourse](http://twitter.com/search?q=Racecourse) | N/A |
-| 49 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
-| 50 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 23 | [Big Dunc](http://twitter.com/search?q=Big+Dunc) | N/A |
+| 24 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
+| 25 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
+| 26 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
+| 27 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 28 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
+| 29 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 30 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
+| 31 | [Madders](http://twitter.com/search?q=Madders) | N/A |
+| 32 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 33 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
+| 34 | [Crisps](http://twitter.com/search?q=Crisps) | N/A |
+| 35 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
+| 36 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 37 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 38 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 39 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 40 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
+| 41 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 42 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 43 | [bannan](http://twitter.com/search?q=bannan) | N/A |
+| 44 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 45 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
+| 46 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 47 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
+| 48 | [David Lammy](http://twitter.com/search?q=David+Lammy) | N/A |
+| 49 | [Van Persie](http://twitter.com/search?q=Van+Persie) | N/A |
+| 50 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
 
 
 

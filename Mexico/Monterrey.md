@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-03-26 15:17:13 UTC`
+📆 Last Updated: `2023-03-26 16:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 4 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 5 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
-| 6 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 8 | [Costco](http://twitter.com/search?q=Costco) | N/A |
-| 9 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 10 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
-| 11 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 12 | [Excelente Domingo](http://twitter.com/search?q=Excelente+Domingo) | N/A |
-| 13 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
-| 14 | [Muebles Troncoso](http://twitter.com/search?q=Muebles+Troncoso) | N/A |
-| 15 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 16 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 17 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 18 | [cuate](http://twitter.com/search?q=cuate) | N/A |
-| 19 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 20 | [adiós superman](http://twitter.com/search?q=adi%c3%b3s+superman) | N/A |
-| 21 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
-| 22 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 24 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 25 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
-| 26 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
-| 27 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 28 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 29 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
-| 30 | [MotoGP](http://twitter.com/search?q=MotoGP) | N/A |
-| 31 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 32 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 33 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 34 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 35 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 36 | [El 26](http://twitter.com/search?q=El+26) | N/A |
-| 37 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 38 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
-| 39 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 40 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 41 | [Anika](http://twitter.com/search?q=Anika) | N/A |
-| 42 | [César Costa](http://twitter.com/search?q=C%c3%a9sar+Costa) | N/A |
-| 43 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 44 | [Venustiano Carranza](http://twitter.com/search?q=Venustiano+Carranza) | N/A |
-| 45 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 46 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 47 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 48 | [cowboy like](http://twitter.com/search?q=cowboy+like) | N/A |
-| 49 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
-| 50 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
+| 5 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 6 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 7 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 8 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 9 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 10 | [Costco](http://twitter.com/search?q=Costco) | N/A |
+| 11 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
+| 12 | [FAITH IN THE FUTURE](http://twitter.com/search?q=FAITH+IN+THE+FUTURE) | N/A |
+| 13 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 14 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 17 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 18 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 19 | [Troncoso](http://twitter.com/search?q=Troncoso) | N/A |
+| 20 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
+| 21 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
+| 22 | [Cuate](http://twitter.com/search?q=Cuate) | N/A |
+| 23 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 24 | [Excelente Domingo](http://twitter.com/search?q=Excelente+Domingo) | N/A |
+| 25 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
+| 26 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 28 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 29 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
+| 30 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
+| 31 | [El 26](http://twitter.com/search?q=El+26) | N/A |
+| 32 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 33 | [Adiós Superman](http://twitter.com/search?q=Adi%c3%b3s+Superman) | N/A |
+| 34 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
+| 35 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
+| 36 | [Plan de Guadalupe](http://twitter.com/search?q=Plan+de+Guadalupe) | N/A |
+| 37 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 38 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 39 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 40 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 41 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 42 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
+| 43 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
+| 44 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 45 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 46 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 47 | [Anika](http://twitter.com/search?q=Anika) | N/A |
+| 48 | [César costa](http://twitter.com/search?q=C%c3%a9sar+costa) | N/A |
+| 49 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 50 | [Mara](http://twitter.com/search?q=Mara) | N/A |
 
 
 

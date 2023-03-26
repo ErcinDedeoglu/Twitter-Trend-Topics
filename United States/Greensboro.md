@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-03-26 15:17:56 UTC`
+📆 Last Updated: `2023-03-26 16:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 2 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 3 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 4 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 6 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 7 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 8 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
-| 9 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 10 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
-| 11 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 12 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
-| 13 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
+| 1 | [#sundaymorning](http://twitter.com/search?q=%23sundaymorning) | N/A |
+| 2 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 3 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 4 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
+| 5 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 6 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 7 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
+| 8 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 9 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 10 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
+| 11 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
+| 12 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
+| 13 | [Tim Mara](http://twitter.com/search?q=Tim+Mara) | N/A |
 | 14 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 15 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
-| 16 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 17 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 18 | [Leonard Nimoy](http://twitter.com/search?q=Leonard+Nimoy) | N/A |
-| 19 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
-| 20 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
-| 21 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 22 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
-| 23 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 24 | [Congrats Jack](http://twitter.com/search?q=Congrats+Jack) | N/A |
-| 25 | [Scrambled](http://twitter.com/search?q=Scrambled) | N/A |
-| 26 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 27 | [Every Sunday](http://twitter.com/search?q=Every+Sunday) | N/A |
-| 28 | [Steven Tyler](http://twitter.com/search?q=Steven+Tyler) | N/A |
-| 29 | [Karl Rove](http://twitter.com/search?q=Karl+Rove) | N/A |
-| 30 | [Sweet Caroline](http://twitter.com/search?q=Sweet+Caroline) | "Sweet Caroline" is a popular song written and performed by Neil Diamond. It was released in 1969 as a single with the title "Sweet Caroline (Good Times Never Seemed So Good)". The song is about a woman named Caroline, who Diamond imagines as someone he can love and cherish. The lyrics express his admiration for her beauty and innocence, and his desire to be with her forever. The song has become an anthem for many people, especially those who are in love or have been in love. The phrase "Good times never seemed so good" has become a popular catchphrase. |
-| 31 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 32 | [LaGrange](http://twitter.com/search?q=LaGrange) | N/A |
-| 33 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
-| 34 | [Cult](http://twitter.com/search?q=Cult) | N/A |
-| 35 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 36 | [Robert Frost](http://twitter.com/search?q=Robert+Frost) | N/A |
-| 37 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
-| 38 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 39 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
-| 40 | [Nate Parker](http://twitter.com/search?q=Nate+Parker) | N/A |
-| 41 | [Erica](http://twitter.com/search?q=Erica) | N/A |
-| 42 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 43 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 44 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 45 | [Marcus Mumford](http://twitter.com/search?q=Marcus+Mumford) | N/A |
-| 46 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 47 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
-| 48 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 49 | [Trump's Waco](http://twitter.com/search?q=Trump%27s+Waco) | N/A |
+| 15 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 16 | [Durbin](http://twitter.com/search?q=Durbin) | N/A |
+| 17 | [Val Ness](http://twitter.com/search?q=Val+Ness) | N/A |
+| 18 | [George Preston Marshall](http://twitter.com/search?q=George+Preston+Marshall) | N/A |
+| 19 | [Curly Lambeau](http://twitter.com/search?q=Curly+Lambeau) | N/A |
+| 20 | [Digital Blackface](http://twitter.com/search?q=Digital+Blackface) | N/A |
+| 21 | [HAPPY BIRTHDAY LISA](http://twitter.com/search?q=HAPPY+BIRTHDAY+LISA) | N/A |
+| 22 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 23 | [Troup County](http://twitter.com/search?q=Troup+County) | N/A |
+| 24 | [Happy Birthday Paige](http://twitter.com/search?q=Happy+Birthday+Paige) | N/A |
+| 25 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
+| 26 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 27 | [Studies](http://twitter.com/search?q=Studies) | N/A |
+| 28 | [Every Sunday](http://twitter.com/search?q=Every+Sunday) | N/A |
+| 29 | [David Jones](http://twitter.com/search?q=David+Jones) | N/A |
+| 30 | [Karl Rove](http://twitter.com/search?q=Karl+Rove) | N/A |
+| 31 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
+| 32 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
+| 33 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 34 | [Congrats Jack](http://twitter.com/search?q=Congrats+Jack) | N/A |
+| 35 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 36 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
+| 37 | [On a Sunday](http://twitter.com/search?q=On+a+Sunday) | N/A |
+| 38 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 39 | [Leonard Nimoy](http://twitter.com/search?q=Leonard+Nimoy) | N/A |
+| 40 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
+| 41 | [Scrambled](http://twitter.com/search?q=Scrambled) | N/A |
+| 42 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
+| 43 | [Steven Tyler](http://twitter.com/search?q=Steven+Tyler) | N/A |
+| 44 | [Scheffler](http://twitter.com/search?q=Scheffler) | N/A |
+| 45 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 46 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 47 | [Beyond the Lights](http://twitter.com/search?q=Beyond+the+Lights) | N/A |
+| 48 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
+| 49 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
 
 
 

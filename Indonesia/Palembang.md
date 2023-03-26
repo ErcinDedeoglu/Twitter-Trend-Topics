@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-26 15:17:31 UTC`
+📆 Last Updated: `2023-03-26 16:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
-| 2 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
-| 3 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 4 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 5 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 6 | [Pekerjaan](http://twitter.com/search?q=Pekerjaan) | N/A |
-| 7 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 8 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 9 | [YOU DID GREAT TXT](http://twitter.com/search?q=YOU+DID+GREAT+TXT) | N/A |
-| 10 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 11 | [Impian](http://twitter.com/search?q=Impian) | N/A |
-| 12 | [INTM](http://twitter.com/search?q=INTM) | N/A |
-| 13 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 2 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 3 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
+| 4 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
+| 5 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
+| 6 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 7 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 8 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 9 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 10 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 11 | [Pekerjaan](http://twitter.com/search?q=Pekerjaan) | N/A |
+| 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 13 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
 | 14 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 15 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 16 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 17 | [GOYONG](http://twitter.com/search?q=GOYONG) | N/A |
-| 18 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
-| 19 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 20 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 21 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 22 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 23 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
-| 24 | [Pecco](http://twitter.com/search?q=Pecco) | N/A |
-| 25 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 26 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 27 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
-| 28 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 29 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 30 | [Koster](http://twitter.com/search?q=Koster) | N/A |
-| 31 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 32 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
-| 33 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 34 | [Piala Dunia U-20](http://twitter.com/search?q=Piala+Dunia+U-20) | N/A |
-| 35 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 36 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 37 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 38 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 39 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 40 | [Risol](http://twitter.com/search?q=Risol) | N/A |
-| 41 | [Politik](http://twitter.com/search?q=Politik) | N/A |
-| 42 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
-| 43 | [Prof](http://twitter.com/search?q=Prof) | N/A |
-| 44 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
-| 45 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
-| 46 | [Berbuka](http://twitter.com/search?q=Berbuka) | N/A |
-| 47 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 15 | [Impian](http://twitter.com/search?q=Impian) | N/A |
+| 16 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 17 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 18 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 19 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 20 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
+| 21 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 22 | [Goyong](http://twitter.com/search?q=Goyong) | N/A |
+| 23 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
+| 24 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 25 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 26 | [INTM](http://twitter.com/search?q=INTM) | N/A |
+| 27 | [Sumenep](http://twitter.com/search?q=Sumenep) | N/A |
+| 28 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 29 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
+| 30 | [Askara](http://twitter.com/search?q=Askara) | N/A |
+| 31 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 32 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 33 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 34 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
+| 35 | [Pecco](http://twitter.com/search?q=Pecco) | N/A |
+| 36 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 37 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
+| 38 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
+| 39 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
+| 40 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
+| 41 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 42 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 43 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 44 | [Risol](http://twitter.com/search?q=Risol) | N/A |
+| 45 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
+| 46 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 47 | [#TREASURE_Here_I_Stand](http://twitter.com/search?q=%23TREASURE_Here_I_Stand) | N/A |
 
 
 
