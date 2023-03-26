@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-26 02:34:51 UTC`
+📆 Last Updated: `2023-03-26 03:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,32 +36,32 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 19 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
 | 20 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
 | 21 | [kantone](http://twitter.com/search?q=kantone) | N/A |
-| 22 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 23 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 24 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 25 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 26 | [Serbs](http://twitter.com/search?q=Serbs) | N/A |
-| 27 | [Wein](http://twitter.com/search?q=Wein) | N/A |
-| 28 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 29 | [Tradition](http://twitter.com/search?q=Tradition) | N/A |
-| 30 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 31 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 32 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
-| 33 | [Tassen im Schrank](http://twitter.com/search?q=Tassen+im+Schrank) | N/A |
-| 34 | [LLMs](http://twitter.com/search?q=LLMs) | N/A |
-| 35 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 36 | [Serbian](http://twitter.com/search?q=Serbian) | N/A |
-| 37 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
-| 38 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 39 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 40 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
-| 41 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 42 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 43 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 44 | [Ticket](http://twitter.com/search?q=Ticket) | N/A |
-| 45 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 46 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 47 | [Christen](http://twitter.com/search?q=Christen) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 24 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 25 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 26 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
+| 27 | [Serbs](http://twitter.com/search?q=Serbs) | N/A |
+| 28 | [Wein](http://twitter.com/search?q=Wein) | N/A |
+| 29 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 30 | [Tradition](http://twitter.com/search?q=Tradition) | N/A |
+| 31 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
+| 34 | [Tassen im Schrank](http://twitter.com/search?q=Tassen+im+Schrank) | N/A |
+| 35 | [LLMs](http://twitter.com/search?q=LLMs) | N/A |
+| 36 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
+| 37 | [Serbian](http://twitter.com/search?q=Serbian) | N/A |
+| 38 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
+| 39 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 40 | [Presse](http://twitter.com/search?q=Presse) | N/A |
+| 41 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
+| 42 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
+| 43 | [berset](http://twitter.com/search?q=berset) | N/A |
+| 44 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 45 | [Ticket](http://twitter.com/search?q=Ticket) | N/A |
+| 46 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 47 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
 
 
 

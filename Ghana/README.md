@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-26 02:35:24 UTC`
+📆 Last Updated: `2023-03-26 03:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for Ghana
 | 5 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
 | 6 | [NDC MPs](http://twitter.com/search?q=NDC+MPs) | N/A |
 | 7 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 8 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 9 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 8 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 9 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
 | 10 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
 | 11 | [#newsfile](http://twitter.com/search?q=%23newsfile) | N/A |
 | 12 | [#wakenbake](http://twitter.com/search?q=%23wakenbake) | N/A |
@@ -31,10 +31,10 @@ This is top 50 for Ghana
 | 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 15 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
 | 16 | [Theresa](http://twitter.com/search?q=Theresa) | N/A |
-| 17 | [Father Bernard](http://twitter.com/search?q=Father+Bernard) | N/A |
-| 18 | [Aang](http://twitter.com/search?q=Aang) | N/A |
-| 19 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 20 | [Haruna](http://twitter.com/search?q=Haruna) | N/A |
+| 17 | [Aang](http://twitter.com/search?q=Aang) | N/A |
+| 18 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
+| 19 | [Haruna](http://twitter.com/search?q=Haruna) | N/A |
+| 20 | [Father Bernard](http://twitter.com/search?q=Father+Bernard) | N/A |
 | 21 | [Karela](http://twitter.com/search?q=Karela) | N/A |
 | 22 | [Shatta Wale](http://twitter.com/search?q=Shatta+Wale) | N/A |
 | 23 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
@@ -44,18 +44,18 @@ This is top 50 for Ghana
 | 27 | [Cash](http://twitter.com/search?q=Cash) | N/A |
 | 28 | [Minority](http://twitter.com/search?q=Minority) | N/A |
 | 29 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 31 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
-| 32 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 33 | [NPP MPs](http://twitter.com/search?q=NPP+MPs) | N/A |
-| 34 | [Korra](http://twitter.com/search?q=Korra) | Korra is the main protagonist of the Nickelodeon animated series The Legend of Korra. The name Korra is derived from the Sanskrit word korravai, which means "to move forward". In English, it can be interpreted as "moving forward with courage and strength". |
-| 35 | [Hearts of Oak](http://twitter.com/search?q=Hearts+of+Oak) | N/A |
-| 36 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 37 | [kt hammond](http://twitter.com/search?q=kt+hammond) | N/A |
-| 38 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 39 | [kuami eugene](http://twitter.com/search?q=kuami+eugene) | N/A |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
+| 30 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
+| 31 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 32 | [NPP MPs](http://twitter.com/search?q=NPP+MPs) | N/A |
+| 33 | [Korra](http://twitter.com/search?q=Korra) | Korra is the main protagonist of the Nickelodeon animated series The Legend of Korra. The name Korra is derived from the Sanskrit word korravai, which means "to move forward". In English, it can be interpreted as "moving forward with courage and strength". |
+| 34 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 35 | [kt hammond](http://twitter.com/search?q=kt+hammond) | N/A |
+| 36 | [Muntaka](http://twitter.com/search?q=Muntaka) | N/A |
+| 37 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 38 | [kuami eugene](http://twitter.com/search?q=kuami+eugene) | N/A |
+| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 40 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
+| 41 | [Hearts of Oak](http://twitter.com/search?q=Hearts+of+Oak) | N/A |
 | 42 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 43 | [Panama](http://twitter.com/search?q=Panama) | N/A |
 | 44 | [Algeria U23](http://twitter.com/search?q=Algeria+U23) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Ghana
 | 47 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
 | 48 | [Dancehall](http://twitter.com/search?q=Dancehall) | N/A |
 | 49 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 50 | [Gyakie](http://twitter.com/search?q=Gyakie) | N/A |
+| 50 | [Fatawu Issahaku](http://twitter.com/search?q=Fatawu+Issahaku) | N/A |
 
 
 

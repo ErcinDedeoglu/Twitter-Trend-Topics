@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Russia
 
-📆 Last Updated: `2023-03-26 02:35:28 UTC`
+📆 Last Updated: `2023-03-26 03:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,15 +22,15 @@ This is top 50 for Russia
 | 5 | [РФ-СМИ](http://twitter.com/search?q=%d0%a0%d0%a4-%d0%a1%d0%9c%d0%98) | N/A |
 | 6 | [югославии](http://twitter.com/search?q=%d1%8e%d0%b3%d0%be%d1%81%d0%bb%d0%b0%d0%b2%d0%b8%d0%b8) | N/A |
 | 7 | [медведев](http://twitter.com/search?q=%d0%bc%d0%b5%d0%b4%d0%b2%d0%b5%d0%b4%d0%b5%d0%b2) | N/A |
-| 8 | [Земле](http://twitter.com/search?q=%d0%97%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
+| 8 | [земле](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
 | 9 | [#ohmpawat](http://twitter.com/search?q=%23ohmpawat) | N/A |
 | 10 | [Супер](http://twitter.com/search?q=%d0%a1%d1%83%d0%bf%d0%b5%d1%80) | N/A |
-| 11 | [Чимина](http://twitter.com/search?q=%d0%a7%d0%b8%d0%bc%d0%b8%d0%bd%d0%b0) | N/A |
+| 11 | [чимина](http://twitter.com/search?q=%d1%87%d0%b8%d0%bc%d0%b8%d0%bd%d0%b0) | N/A |
 | 12 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
 | 13 | [причем](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%87%d0%b5%d0%bc) | N/A |
-| 14 | [париже](http://twitter.com/search?q=%d0%bf%d0%b0%d1%80%d0%b8%d0%b6%d0%b5) | N/A |
+| 14 | [Париже](http://twitter.com/search?q=%d0%9f%d0%b0%d1%80%d0%b8%d0%b6%d0%b5) | N/A |
 | 15 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 16 | [Проблема](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0) | N/A |
+| 16 | [проблема](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0) | N/A |
 | 17 | [грузии](http://twitter.com/search?q=%d0%b3%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
 | 18 | [сирии](http://twitter.com/search?q=%d1%81%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
 | 19 | [поняла](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb%d0%b0) | N/A |
@@ -40,14 +40,14 @@ This is top 50 for Russia
 | 23 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
 | 24 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
 | 25 | [италии](http://twitter.com/search?q=%d0%b8%d1%82%d0%b0%d0%bb%d0%b8%d0%b8) | N/A |
-| 26 | [Покажите 4](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b6%d0%b8%d1%82%d0%b5+4) | N/A |
+| 26 | [покажите 4](http://twitter.com/search?q=%d0%bf%d0%be%d0%ba%d0%b0%d0%b6%d0%b8%d1%82%d0%b5+4) | N/A |
 | 27 | [сталина](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b0) | N/A |
 | 28 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 | 29 | [макрона](http://twitter.com/search?q=%d0%bc%d0%b0%d0%ba%d1%80%d0%be%d0%bd%d0%b0) | N/A |
 | 30 | [прости](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
 | 31 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | N/A |
 | 32 | [САМЫЕ](http://twitter.com/search?q=%d0%a1%d0%90%d0%9c%d0%ab%d0%95) | N/A |
-| 33 | [В РФ](http://twitter.com/search?q=%d0%92+%d0%a0%d0%a4) | N/A |
+| 33 | [в рф](http://twitter.com/search?q=%d0%b2+%d1%80%d1%84) | N/A |
 | 34 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
 | 35 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
 | 36 | [игорь](http://twitter.com/search?q=%d0%b8%d0%b3%d0%be%d1%80%d1%8c) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Russia
 | 47 | [кремля](http://twitter.com/search?q=%d0%ba%d1%80%d0%b5%d0%bc%d0%bb%d1%8f) | N/A |
 | 48 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
 | 49 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
-| 50 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 50 | [киева](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
 
 
 

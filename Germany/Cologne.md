@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-26 02:34:48 UTC`
+📆 Last Updated: `2023-03-26 03:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for [Germany](</Germany>)
 | 7 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
 | 8 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
 | 9 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 10 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 11 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 10 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 11 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 12 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
 | 13 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 14 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Germany](</Germany>)
 | 34 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
 | 35 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
 | 36 | [marius wolf](http://twitter.com/search?q=marius+wolf) | N/A |
-| 37 | [Schnupftabak](http://twitter.com/search?q=Schnupftabak) | N/A |
+| 37 | [schnupftabak](http://twitter.com/search?q=schnupftabak) | N/A |
 | 38 | [Stationierung](http://twitter.com/search?q=Stationierung) | N/A |
 | 39 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 40 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 41 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
-| 42 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 43 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 44 | [aprilwetter](http://twitter.com/search?q=aprilwetter) | N/A |
-| 45 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
-| 46 | [garbe transport](http://twitter.com/search?q=garbe+transport) | N/A |
-| 47 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 48 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
-| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 50 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 40 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 41 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 43 | [aprilwetter](http://twitter.com/search?q=aprilwetter) | N/A |
+| 44 | [hausrecht](http://twitter.com/search?q=hausrecht) | N/A |
+| 45 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
+| 46 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 47 | [garbe transport](http://twitter.com/search?q=garbe+transport) | N/A |
+| 48 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 49 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 
 
 

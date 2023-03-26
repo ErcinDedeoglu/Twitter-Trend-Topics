@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-26 02:35:25 UTC`
+📆 Last Updated: `2023-03-26 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,19 +19,19 @@ This is top 50 for Kenya
 | 2 | [#MasculinitySaturday](http://twitter.com/search?q=%23MasculinitySaturday) | N/A |
 | 3 | [#day2wordexposition](http://twitter.com/search?q=%23day2wordexposition) | N/A |
 | 4 | [#UsikuSacco](http://twitter.com/search?q=%23UsikuSacco) | N/A |
-| 5 | [#OmokaNaGabriel1xbet](http://twitter.com/search?q=%23OmokaNaGabriel1xbet) | N/A |
+| 5 | [#omokanagabriel1xbet](http://twitter.com/search?q=%23omokanagabriel1xbet) | N/A |
 | 6 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 7 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 8 | [the dci](http://twitter.com/search?q=the+dci) | N/A |
-| 9 | [david ndii](http://twitter.com/search?q=david+ndii) | N/A |
-| 10 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 11 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 12 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 15 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 16 | [epra](http://twitter.com/search?q=epra) | N/A |
-| 17 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
+| 8 | [david ndii](http://twitter.com/search?q=david+ndii) | N/A |
+| 9 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 10 | [The DCI](http://twitter.com/search?q=The+DCI) | N/A |
+| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
+| 14 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 15 | [epra](http://twitter.com/search?q=epra) | N/A |
+| 16 | [Sodom and Gomorrah](http://twitter.com/search?q=Sodom+and+Gomorrah) | N/A |
+| 17 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 18 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
 | 19 | [Kisii](http://twitter.com/search?q=Kisii) | N/A |
 | 20 | [Amerix](http://twitter.com/search?q=Amerix) | N/A |

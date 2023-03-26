@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-26 02:35:23 UTC`
+📆 Last Updated: `2023-03-26 03:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 2 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
+| 2 | [højlund](http://twitter.com/search?q=h%c3%b8jlund) | N/A |
 | 3 | [Jon Stephensen](http://twitter.com/search?q=Jon+Stephensen) | N/A |
 | 4 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 5 | [søren](http://twitter.com/search?q=s%c3%b8ren) | N/A |
@@ -31,7 +31,7 @@ This is top 50 for Denmark
 | 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 15 | [Moderaternes](http://twitter.com/search?q=Moderaternes) | N/A |
 | 16 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 17 | [Thomas Rørdam](http://twitter.com/search?q=Thomas+R%c3%b8rdam) | N/A |
+| 17 | [thomas rørdam](http://twitter.com/search?q=thomas+r%c3%b8rdam) | N/A |
 | 18 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 19 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
 | 20 | [#midjourney](http://twitter.com/search?q=%23midjourney) | N/A |

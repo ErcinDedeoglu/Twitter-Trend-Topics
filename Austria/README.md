@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-26 02:35:22 UTC`
+📆 Last Updated: `2023-03-26 03:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Austria
 | 7 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
 | 8 | [#dsds](http://twitter.com/search?q=%23dsds) | N/A |
 | 9 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 10 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
+| 10 | [fleischmann](http://twitter.com/search?q=fleischmann) | N/A |
 | 11 | [obst oder gemüse](http://twitter.com/search?q=obst+oder+gem%c3%bcse) | N/A |
 | 12 | [#indiebookday](http://twitter.com/search?q=%23indiebookday) | N/A |
 | 13 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for Austria
 | 15 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
 | 16 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 17 | [tanzt du](http://twitter.com/search?q=tanzt+du) | N/A |
-| 18 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
+| 18 | [grosz](http://twitter.com/search?q=grosz) | N/A |
 | 19 | [Bewerbungen](http://twitter.com/search?q=Bewerbungen) | N/A |
 | 20 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 21 | [Robert Menasse](http://twitter.com/search?q=Robert+Menasse) | N/A |
@@ -54,13 +54,13 @@ This is top 50 for Austria
 | 37 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
 | 38 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
 | 39 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 40 | [Kandidaten](http://twitter.com/search?q=Kandidaten) | N/A |
+| 40 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
 | 41 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
 | 42 | [Depends](http://twitter.com/search?q=Depends) | N/A |
 | 43 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
 | 44 | [Hype](http://twitter.com/search?q=Hype) | N/A |
 | 45 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 46 | [Traiskirchen](http://twitter.com/search?q=Traiskirchen) | N/A |
+| 46 | [traiskirchen](http://twitter.com/search?q=traiskirchen) | N/A |
 | 47 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
 | 48 | [Vorsitzenden](http://twitter.com/search?q=Vorsitzenden) | N/A |
 | 49 | [sozialdemokratie](http://twitter.com/search?q=sozialdemokratie) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-03-26 02:35:04 UTC`
+📆 Last Updated: `2023-03-26 03:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
+| 1 | [المسجد النبوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a) | N/A |
 | 2 | [الحرمين الشريفين](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%8a%d9%86) | N/A |
-| 3 | [المسجد النبوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a) | N/A |
+| 3 | [#رمضان_مع_ابو_فهد](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88_%d9%81%d9%87%d8%af) | N/A |
 | 4 | [ضيوف الرحمن](http://twitter.com/search?q=%d8%b6%d9%8a%d9%88%d9%81+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86) | N/A |
-| 5 | [#العطاوي_للاتصالات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d9%88%d9%8a_%d9%84%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 5 | [القوه المتين](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%8a%d9%86) | N/A |
 | 6 | [الموسم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 7 | [ادواردو](http://twitter.com/search?q=%d8%a7%d8%af%d9%88%d8%a7%d8%b1%d8%af%d9%88) | N/A |
 | 8 | [#ولي_العهد_في_المدينه_المنوره](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d9%81%d9%8a_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87_%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
-| 9 | [#مكافاه_مصرف_الراجحي2](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a2) | N/A |
-| 10 | [#مسابقه_المربع_نت4](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa4) | N/A |
+| 9 | [#مسابقه_المربع_نت4](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa4) | N/A |
+| 10 | [#مكافاه_مصرف_الراجحي2](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a2) | N/A |
 | 11 | [#مسابقه_طرق_الرياض4](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b64) | N/A |
 | 12 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 13 | [شمال الرياض](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 14 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 13 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 14 | [شمال الرياض](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
 | 15 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
 | 16 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 17 | [نورت المدينه](http://twitter.com/search?q=%d9%86%d9%88%d8%b1%d8%aa+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87) | N/A |
-| 18 | [القسايم الشراييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b3%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 19 | [الاستبدال المباشر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a8%d8%af%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1) | N/A |
-| 20 | [منتخب عربي](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 21 | [خالد الفراج](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ac) | N/A |
-| 22 | [باستخدام رقم](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85+%d8%b1%d9%82%d9%85) | N/A |
-| 23 | [طارق التايب](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d8%a8) | N/A |
-| 24 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 25 | [الاغنيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ba%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 26 | [الروضه الشريفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d8%b6%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%87) | N/A |
-| 27 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 28 | [الساحل الغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
-| 29 | [اللون المفضل](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d9%86+%d8%a7%d9%84%d9%85%d9%81%d8%b6%d9%84) | N/A |
-| 30 | [طريق رقم الجوال](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%b1%d9%82%d9%85+%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84) | N/A |
-| 31 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
-| 32 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 33 | [طلال](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84) | N/A |
-| 34 | [طريق الشريك](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%83) | N/A |
-| 35 | [مصرف الراجحي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 36 | [المطر المستمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%85%d8%b1) | N/A |
-| 37 | [نور الغندور](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%ba%d9%86%d8%af%d9%88%d8%b1) | N/A |
-| 38 | [طريق التطبيق](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82) | N/A |
-| 39 | [نقاط البيع](http://twitter.com/search?q=%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b9) | N/A |
-| 40 | [القسايم الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b3%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 41 | [المتاجر الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%a7%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 42 | [جامعة جازان](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
-| 43 | [ادريانو](http://twitter.com/search?q=%d8%a7%d8%af%d8%b1%d9%8a%d8%a7%d9%86%d9%88) | N/A |
-| 44 | [عبدالله المديفر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
+| 17 | [القسايم الشراييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b3%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 18 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 19 | [نورت المدينه](http://twitter.com/search?q=%d9%86%d9%88%d8%b1%d8%aa+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87) | N/A |
+| 20 | [طارق التايب](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%a7%d9%84%d8%aa%d8%a7%d9%8a%d8%a8) | N/A |
+| 21 | [الاستبدال المباشر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a8%d8%af%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b4%d8%b1) | N/A |
+| 22 | [منتخب عربي](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 23 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 24 | [باستخدام رقم](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d8%aa%d8%ae%d8%af%d8%a7%d9%85+%d8%b1%d9%82%d9%85) | N/A |
+| 25 | [خالد الفراج](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ac) | N/A |
+| 26 | [المطر المستمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%85%d8%b1) | N/A |
+| 27 | [مصرف الراجحي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
+| 28 | [اللون المفضل](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d9%86+%d8%a7%d9%84%d9%85%d9%81%d8%b6%d9%84) | N/A |
+| 29 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 30 | [صانع الاغنيه السعوديه](http://twitter.com/search?q=%d8%b5%d8%a7%d9%86%d8%b9+%d8%a7%d9%84%d8%a7%d8%ba%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 31 | [الروضه الشريفه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%88%d8%b6%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%87) | N/A |
+| 32 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
+| 33 | [نقاط البيع](http://twitter.com/search?q=%d9%86%d9%82%d8%a7%d8%b7+%d8%a7%d9%84%d8%a8%d9%8a%d8%b9) | N/A |
+| 34 | [طلال](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84) | N/A |
+| 35 | [طريق رقم الجوال](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%b1%d9%82%d9%85+%d8%a7%d9%84%d8%ac%d9%88%d8%a7%d9%84) | N/A |
+| 36 | [الساحل الغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
+| 37 | [طريق الشريك](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%83) | N/A |
+| 38 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
+| 39 | [المتاجر الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%a7%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 40 | [طريق التطبيق](http://twitter.com/search?q=%d8%b7%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82) | N/A |
+| 41 | [نور الغندور](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%a7%d9%84%d8%ba%d9%86%d8%af%d9%88%d8%b1) | N/A |
+| 42 | [القسايم الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b3%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 43 | [جامعة جازان](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%ac%d8%a7%d8%b2%d8%a7%d9%86) | N/A |
+| 44 | [بلال بن رباح](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%a8%d9%86+%d8%b1%d8%a8%d8%a7%d8%ad) | N/A |
 | 45 | [جاب العيد](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 46 | [يابو سلمان](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 47 | [ابو سعيد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 48 | [هوس التجميل](http://twitter.com/search?q=%d9%87%d9%88%d8%b3+%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 49 | [جبل الرحمه](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%87) | N/A |
-| 50 | [الانضباط المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 46 | [ادريانو](http://twitter.com/search?q=%d8%a7%d8%af%d8%b1%d9%8a%d8%a7%d9%86%d9%88) | N/A |
+| 47 | [عبدالله المديفر](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
+| 48 | [ابو سعيد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 49 | [عسيري](http://twitter.com/search?q=%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | N/A |
+| 50 | [هوس التجميل](http://twitter.com/search?q=%d9%87%d9%88%d8%b3+%d8%a7%d9%84%d8%aa%d8%ac%d9%85%d9%8a%d9%84) | N/A |
 
 
 

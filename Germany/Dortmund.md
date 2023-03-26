@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-26 02:34:47 UTC`
+📆 Last Updated: `2023-03-26 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
 | 6 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
 | 7 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 8 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 9 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 8 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 10 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
 | 11 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 12 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
@@ -46,21 +46,21 @@ This is top 50 for [Germany](</Germany>)
 | 29 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
 | 30 | [handgranaten](http://twitter.com/search?q=handgranaten) | N/A |
 | 31 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 32 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
-| 33 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
-| 34 | [marius wolf](http://twitter.com/search?q=marius+wolf) | N/A |
-| 35 | [Schnupftabak](http://twitter.com/search?q=Schnupftabak) | N/A |
-| 36 | [Stationierung](http://twitter.com/search?q=Stationierung) | N/A |
-| 37 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 38 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 39 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
-| 40 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 41 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 42 | [aprilwetter](http://twitter.com/search?q=aprilwetter) | N/A |
-| 43 | [Hausrecht](http://twitter.com/search?q=Hausrecht) | N/A |
+| 32 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
+| 33 | [marius wolf](http://twitter.com/search?q=marius+wolf) | N/A |
+| 34 | [schnupftabak](http://twitter.com/search?q=schnupftabak) | N/A |
+| 35 | [Stationierung](http://twitter.com/search?q=Stationierung) | N/A |
+| 36 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 37 | [eFuels](http://twitter.com/search?q=eFuels) | N/A |
+| 38 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 39 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 41 | [aprilwetter](http://twitter.com/search?q=aprilwetter) | N/A |
+| 42 | [hausrecht](http://twitter.com/search?q=hausrecht) | N/A |
+| 43 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
 | 44 | [garbe transport](http://twitter.com/search?q=garbe+transport) | N/A |
-| 45 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 46 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 45 | [Parodie](http://twitter.com/search?q=Parodie) | N/A |
+| 46 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
 | 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 48 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
 

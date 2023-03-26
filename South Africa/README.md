@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-26 02:35:28 UTC`
+📆 Last Updated: `2023-03-26 03:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,20 +20,20 @@ This is top 50 for South Africa
 | 3 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
 | 4 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
 | 5 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 6 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
-| 7 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 8 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 9 | [#phandapushaplay](http://twitter.com/search?q=%23phandapushaplay) | N/A |
-| 10 | [#Khobang](http://twitter.com/search?q=%23Khobang) | N/A |
-| 11 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 12 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
-| 13 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 14 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 15 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 16 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 6 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 7 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 8 | [#phandapushaplay](http://twitter.com/search?q=%23phandapushaplay) | N/A |
+| 9 | [#Khobang](http://twitter.com/search?q=%23Khobang) | N/A |
+| 10 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 11 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 12 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
+| 13 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 14 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 15 | [Tsatsi](http://twitter.com/search?q=Tsatsi) | N/A |
+| 16 | [Safa](http://twitter.com/search?q=Safa) | N/A |
 | 17 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
 | 18 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 19 | [quinton de kock](http://twitter.com/search?q=quinton+de+kock) | N/A |
+| 19 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
 | 20 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 | 21 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
 | 22 | [Miller](http://twitter.com/search?q=Miller) | N/A |
@@ -47,10 +47,10 @@ This is top 50 for South Africa
 | 30 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
 | 31 | [mailula](http://twitter.com/search?q=mailula) | N/A |
 | 32 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 33 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 34 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 35 | [modiba](http://twitter.com/search?q=modiba) | N/A |
-| 36 | [EDGARS](http://twitter.com/search?q=EDGARS) | N/A |
+| 33 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 34 | [Edgars](http://twitter.com/search?q=Edgars) | N/A |
+| 35 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 36 | [modiba](http://twitter.com/search?q=modiba) | N/A |
 | 37 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
 | 38 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
 | 39 | [Brett](http://twitter.com/search?q=Brett) | N/A |

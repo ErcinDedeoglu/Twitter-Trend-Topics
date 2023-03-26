@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-26 02:35:18 UTC`
+📆 Last Updated: `2023-03-26 03:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
 | 2 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 3 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 4 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 5 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 6 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 7 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 8 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 9 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
-| 10 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 11 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
-| 12 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 13 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 14 | [#Elite8](http://twitter.com/search?q=%23Elite8) | N/A |
-| 15 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 16 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 3 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
+| 4 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 5 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 6 | [Eppler](http://twitter.com/search?q=Eppler) | N/A |
+| 7 | [#RBNY](http://twitter.com/search?q=%23RBNY) | N/A |
+| 8 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 9 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 10 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 11 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 12 | [#NetsWorld](http://twitter.com/search?q=%23NetsWorld) | N/A |
+| 13 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
+| 14 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 15 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 16 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
 | 17 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 18 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 19 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 20 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 21 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 22 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 23 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
-| 24 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 25 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 26 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 27 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 28 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 29 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
-| 30 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 31 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 32 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
-| 33 | [Crowley](http://twitter.com/search?q=Crowley) | N/A |
-| 34 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 35 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 36 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
-| 37 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 38 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 39 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 40 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 41 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 42 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
-| 43 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 44 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 45 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 46 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 47 | [Boca](http://twitter.com/search?q=Boca) | N/A |
-| 48 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
-| 49 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 50 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
+| 18 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 19 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 20 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 21 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 22 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 23 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 24 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 25 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 26 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 27 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 28 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 29 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 30 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 31 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 32 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 33 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 34 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 35 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 36 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 37 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 38 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 39 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
+| 40 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 41 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 42 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 43 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 44 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 45 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 46 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 47 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 48 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
+| 49 | [Crowley](http://twitter.com/search?q=Crowley) | N/A |
+| 50 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
 
 
 

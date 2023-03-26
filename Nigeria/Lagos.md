@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-03-26 02:35:02 UTC`
+📆 Last Updated: `2023-03-26 03:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,15 +17,15 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 2 | [#apeiro](http://twitter.com/search?q=%23apeiro) | N/A |
-| 3 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 3 | [#britishcouncilartshowcase](http://twitter.com/search?q=%23britishcouncilartshowcase) | N/A |
 | 4 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 5 | [#TinubuForPrison](http://twitter.com/search?q=%23TinubuForPrison) | N/A |
-| 6 | [#britishcouncilartshowcase](http://twitter.com/search?q=%23britishcouncilartshowcase) | N/A |
-| 7 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 8 | [#aristontakesthefield](http://twitter.com/search?q=%23aristontakesthefield) | N/A |
-| 9 | [London](http://twitter.com/search?q=London) | N/A |
-| 10 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
-| 11 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
+| 5 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 6 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 7 | [#aristontakesthefield](http://twitter.com/search?q=%23aristontakesthefield) | N/A |
+| 8 | [#anyiamosigwelecture](http://twitter.com/search?q=%23anyiamosigwelecture) | N/A |
+| 9 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
+| 10 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
+| 11 | [London](http://twitter.com/search?q=London) | N/A |
 | 12 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
 | 13 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
 | 14 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
@@ -36,34 +36,34 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 19 | [Christians](http://twitter.com/search?q=Christians) | N/A |
 | 20 | [BUGA WITH YVONNE](http://twitter.com/search?q=BUGA+WITH+YVONNE) | N/A |
 | 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 22 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 23 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 24 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 25 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
+| 22 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 23 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 24 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
+| 25 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 | 26 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 27 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 27 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
 | 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 29 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
-| 30 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
-| 31 | ["SPECIMEN"](http://twitter.com/search?q=%22SPECIMEN%22) | N/A |
-| 32 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
-| 33 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 34 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
-| 35 | [Agneepath](http://twitter.com/search?q=Agneepath) | N/A |
-| 36 | [House 2](http://twitter.com/search?q=House+2) | N/A |
-| 37 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 38 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
-| 39 | [eedc](http://twitter.com/search?q=eedc) | N/A |
-| 40 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 29 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
+| 30 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
+| 31 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 32 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
+| 33 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 34 | ["Specimen"](http://twitter.com/search?q=%22Specimen%22) | N/A |
+| 35 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 36 | [Agneepath](http://twitter.com/search?q=Agneepath) | N/A |
+| 37 | [House 2](http://twitter.com/search?q=House+2) | N/A |
+| 38 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 39 | [The CJN](http://twitter.com/search?q=The+CJN) | N/A |
+| 40 | [eedc](http://twitter.com/search?q=eedc) | N/A |
 | 41 | [chukwueze](http://twitter.com/search?q=chukwueze) | N/A |
-| 42 | [pastor b](http://twitter.com/search?q=pastor+b) | N/A |
-| 43 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
-| 44 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
+| 42 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 43 | [pastor b](http://twitter.com/search?q=pastor+b) | N/A |
+| 44 | [Calniv Rlein](http://twitter.com/search?q=Calniv+Rlein) | N/A |
 | 45 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 46 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 47 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
-| 48 | [iftar mubarak](http://twitter.com/search?q=iftar+mubarak) | N/A |
-| 49 | [noon dave](http://twitter.com/search?q=noon+dave) | N/A |
+| 46 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
+| 47 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 48 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
+| 49 | [iftar mubarak](http://twitter.com/search?q=iftar+mubarak) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-26 02:35:26 UTC`
+📆 Last Updated: `2023-03-26 03:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,22 +23,22 @@ This is top 50 for Latvia
 | 6 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
 | 7 | [ja tu](http://twitter.com/search?q=ja+tu) | N/A |
 | 8 | [#евро2024](http://twitter.com/search?q=%23%d0%b5%d0%b2%d1%80%d0%be2024) | N/A |
-| 9 | [Latgales](http://twitter.com/search?q=Latgales) | N/A |
+| 9 | [latgales](http://twitter.com/search?q=latgales) | N/A |
 | 10 | [rimi](http://twitter.com/search?q=rimi) | N/A |
 | 11 | [sveiciens](http://twitter.com/search?q=sveiciens) | N/A |
 | 12 | [baltkrievijas](http://twitter.com/search?q=baltkrievijas) | N/A |
 | 13 | [tāds](http://twitter.com/search?q=t%c4%81ds) | N/A |
 | 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 15 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 17 | [America](http://twitter.com/search?q=America) | N/A |
-| 18 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 19 | [csdd](http://twitter.com/search?q=csdd) | N/A |
-| 20 | [#atkrieviskolatviju](http://twitter.com/search?q=%23atkrieviskolatviju) | N/A |
-| 21 | [šitā](http://twitter.com/search?q=%c5%a1it%c4%81) | N/A |
-| 22 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
-| 23 | [toties](http://twitter.com/search?q=toties) | N/A |
-| 24 | [Риге](http://twitter.com/search?q=%d0%a0%d0%b8%d0%b3%d0%b5) | N/A |
+| 16 | [America](http://twitter.com/search?q=America) | N/A |
+| 17 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 18 | [csdd](http://twitter.com/search?q=csdd) | N/A |
+| 19 | [#atkrieviskolatviju](http://twitter.com/search?q=%23atkrieviskolatviju) | N/A |
+| 20 | [šitā](http://twitter.com/search?q=%c5%a1it%c4%81) | N/A |
+| 21 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
+| 22 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 23 | [Риге](http://twitter.com/search?q=%d0%a0%d0%b8%d0%b3%d0%b5) | N/A |
+| 24 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
 | 25 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 26 | [visi](http://twitter.com/search?q=visi) | N/A |
 | 27 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
@@ -57,11 +57,11 @@ This is top 50 for Latvia
 | 40 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
 | 41 | [krievu](http://twitter.com/search?q=krievu) | N/A |
 | 42 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | N/A |
-| 43 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 44 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
-| 45 | [Maskavas](http://twitter.com/search?q=Maskavas) | N/A |
-| 46 | [nekad](http://twitter.com/search?q=nekad) | N/A |
-| 47 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 43 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 44 | [Riga](http://twitter.com/search?q=Riga) | N/A |
+| 45 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
+| 46 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
+| 47 | [nekad](http://twitter.com/search?q=nekad) | N/A |
 | 48 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
 | 49 | [nevar](http://twitter.com/search?q=nevar) | N/A |
 | 50 | [Dievs](http://twitter.com/search?q=Dievs) | N/A |

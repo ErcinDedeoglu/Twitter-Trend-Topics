@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-26 02:34:44 UTC`
+📆 Last Updated: `2023-03-26 03:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#czepol](http://twitter.com/search?q=%23czepol) | N/A |
 | 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 3 | [#thevoicekids](http://twitter.com/search?q=%23thevoicekids) | N/A |
 | 4 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
 | 5 | [#OfensywaTuska](http://twitter.com/search?q=%23OfensywaTuska) | N/A |
 | 6 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
 | 7 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 8 | [#POLCZE](http://twitter.com/search?q=%23POLCZE) | N/A |
+| 8 | [#polcze](http://twitter.com/search?q=%23polcze) | N/A |
 | 9 | [czechów](http://twitter.com/search?q=czech%c3%b3w) | N/A |
 | 10 | [Sosnowcu](http://twitter.com/search?q=Sosnowcu) | N/A |
 | 11 | [Czesi](http://twitter.com/search?q=Czesi) | N/A |
@@ -42,12 +42,12 @@ This is top 50 for [Poland](</Poland>)
 | 25 | [Piorun](http://twitter.com/search?q=Piorun) | N/A |
 | 26 | [wyspy owcze](http://twitter.com/search?q=wyspy+owcze) | N/A |
 | 27 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
-| 28 | [Lahti](http://twitter.com/search?q=Lahti) | N/A |
+| 28 | [lahti](http://twitter.com/search?q=lahti) | N/A |
 | 29 | [Semka](http://twitter.com/search?q=Semka) | N/A |
 | 30 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 31 | [Brawo Magda](http://twitter.com/search?q=Brawo+Magda) | N/A |
-| 32 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
-| 33 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 31 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
+| 32 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 33 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
 | 34 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
 | 35 | [Godek](http://twitter.com/search?q=Godek) | N/A |
 | 36 | [Bosak](http://twitter.com/search?q=Bosak) | N/A |

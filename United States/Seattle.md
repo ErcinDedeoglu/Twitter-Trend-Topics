@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-03-26 02:35:20 UTC`
+📆 Last Updated: `2023-03-26 03:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 2 | [#GoHawks](http://twitter.com/search?q=%23GoHawks) | N/A |
-| 3 | [Welcome Home](http://twitter.com/search?q=Welcome+Home) | N/A |
-| 4 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 5 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 6 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 7 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 8 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 9 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 10 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 11 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
-| 12 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 13 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 14 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
-| 15 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 16 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 17 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
-| 18 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
-| 19 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 20 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 21 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
-| 22 | [Crowley](http://twitter.com/search?q=Crowley) | N/A |
-| 23 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 24 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
-| 25 | [#APictureOfHer](http://twitter.com/search?q=%23APictureOfHer) | N/A |
-| 26 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 27 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
-| 28 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 29 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 30 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 31 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 32 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 33 | [K State](http://twitter.com/search?q=K+State) | N/A |
-| 34 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 35 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 36 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 37 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 38 | [Boca](http://twitter.com/search?q=Boca) | N/A |
-| 39 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
-| 40 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
-| 41 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 42 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 43 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 44 | [Ben Sweat](http://twitter.com/search?q=Ben+Sweat) | N/A |
-| 45 | [Tom Wilson](http://twitter.com/search?q=Tom+Wilson) | N/A |
-| 46 | [Eppler](http://twitter.com/search?q=Eppler) | N/A |
-| 47 | [Hardwell](http://twitter.com/search?q=Hardwell) | N/A |
-| 48 | [Leo Chu](http://twitter.com/search?q=Leo+Chu) | N/A |
-| 49 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 50 | [Nate the Train](http://twitter.com/search?q=Nate+the+Train) | N/A |
+| 2 | [Leo Chu](http://twitter.com/search?q=Leo+Chu) | N/A |
+| 3 | [#SKCvSEA](http://twitter.com/search?q=%23SKCvSEA) | N/A |
+| 4 | [#Seahawks](http://twitter.com/search?q=%23Seahawks) | N/A |
+| 5 | [Welcome Home](http://twitter.com/search?q=Welcome+Home) | N/A |
+| 6 | [#GoHawks](http://twitter.com/search?q=%23GoHawks) | N/A |
+| 7 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 8 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 9 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 10 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 11 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 13 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 14 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 15 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 16 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 17 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 18 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 19 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 20 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 21 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 22 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 23 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 24 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 25 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 26 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 27 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 28 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 29 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 30 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
+| 31 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 32 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 33 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 34 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
+| 35 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 36 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 37 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 38 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
+| 39 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 40 | [Crowley](http://twitter.com/search?q=Crowley) | N/A |
+| 41 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 42 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
+| 43 | [Joel Ojeda](http://twitter.com/search?q=Joel+Ojeda) | N/A |
+| 44 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
+| 45 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 46 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
+| 47 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
+| 48 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 49 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 50 | [Sanogo](http://twitter.com/search?q=Sanogo) | Sanogo is a surname of West African origin. It is derived from the Bambara language and means "strong". |
 
 
 

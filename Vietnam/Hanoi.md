@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-26 02:35:01 UTC`
+📆 Last Updated: `2023-03-26 03:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 4 | [#BetweenUsinVietNam](http://twitter.com/search?q=%23BetweenUsinVietNam) | N/A |
 | 5 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
 | 6 | [#pollypastelluve](http://twitter.com/search?q=%23pollypastelluve) | N/A |
-| 7 | [BUILD YOU ARE LUVED](http://twitter.com/search?q=BUILD+YOU+ARE+LUVED) | N/A |
+| 7 | [build you are luved](http://twitter.com/search?q=build+you+are+luved) | N/A |
 | 8 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
 | 9 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
 | 10 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
@@ -30,23 +30,23 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 13 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 14 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
 | 15 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 16 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 17 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
-| 18 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 19 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 20 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 21 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 23 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 24 | [Good Project](http://twitter.com/search?q=Good+Project) | N/A |
-| 25 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 26 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 27 | [England](http://twitter.com/search?q=England) | N/A |
-| 28 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 29 | [GENG](http://twitter.com/search?q=GENG) | N/A |
-| 30 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 16 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
+| 17 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 18 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 19 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 20 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 21 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 22 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 23 | [Good Project](http://twitter.com/search?q=Good+Project) | N/A |
+| 24 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 25 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 26 | [England](http://twitter.com/search?q=England) | N/A |
+| 27 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 28 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 29 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 30 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 31 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 32 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 34 | [Trove](http://twitter.com/search?q=Trove) | N/A |
 | 35 | [Army](http://twitter.com/search?q=Army) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 43 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
 | 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 46 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 47 | [BibleBuild](http://twitter.com/search?q=BibleBuild) | N/A |
-| 48 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
-| 49 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 50 | [America](http://twitter.com/search?q=America) | N/A |
+| 46 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
+| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 48 | [BibleBuild](http://twitter.com/search?q=BibleBuild) | N/A |
+| 49 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 50 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
 
 
 
