@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-03-26 19:16:43 UTC`
+📆 Last Updated: `2023-03-26 20:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,46 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 2 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
 | 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 4 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 5 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 6 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 7 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 8 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
+| 4 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 5 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 6 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
+| 7 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
+| 8 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
 | 9 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
 | 10 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 11 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 12 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 13 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 14 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 15 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 11 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 12 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
+| 13 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
+| 14 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
+| 15 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
 | 16 | [Mike Josef](http://twitter.com/search?q=Mike+Josef) | N/A |
-| 17 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
-| 18 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 19 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
-| 20 | [Streik](http://twitter.com/search?q=Streik) | N/A |
-| 21 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 22 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 23 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 24 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 25 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 26 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 27 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 28 | [LKW Fahrer](http://twitter.com/search?q=LKW+Fahrer) | N/A |
-| 29 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 30 | [Harald Juhnke](http://twitter.com/search?q=Harald+Juhnke) | N/A |
-| 31 | [Oberbürgermeister](http://twitter.com/search?q=Oberb%c3%bcrgermeister) | N/A |
-| 32 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
-| 33 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 34 | [Gescheitert](http://twitter.com/search?q=Gescheitert) | N/A |
-| 35 | [Intro](http://twitter.com/search?q=Intro) | N/A |
-| 36 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 37 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 38 | [Warme Atmosphäre](http://twitter.com/search?q=Warme+Atmosph%c3%a4re) | N/A |
-| 39 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
-| 40 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 41 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 42 | [Hausaufgaben](http://twitter.com/search?q=Hausaufgaben) | N/A |
-| 43 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 44 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 45 | [Lieblingsjahreszeit](http://twitter.com/search?q=Lieblingsjahreszeit) | N/A |
-| 46 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 47 | [Krachend](http://twitter.com/search?q=Krachend) | N/A |
-| 48 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 17 | [Nein-Stimmen](http://twitter.com/search?q=Nein-Stimmen) | N/A |
+| 18 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 19 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 20 | [Klimaneutralität](http://twitter.com/search?q=Klimaneutralit%c3%a4t) | N/A |
+| 21 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
+| 22 | [Oberbürgermeister](http://twitter.com/search?q=Oberb%c3%bcrgermeister) | N/A |
+| 23 | [Intro](http://twitter.com/search?q=Intro) | N/A |
+| 24 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
+| 25 | [Klimahysterie](http://twitter.com/search?q=Klimahysterie) | N/A |
+| 26 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
+| 27 | [Lieblingsjahreszeit](http://twitter.com/search?q=Lieblingsjahreszeit) | N/A |
+| 28 | [Klatsche](http://twitter.com/search?q=Klatsche) | N/A |
+| 29 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 30 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
+| 31 | [Getränk](http://twitter.com/search?q=Getr%c3%a4nk) | N/A |
+| 32 | [Briefwahl](http://twitter.com/search?q=Briefwahl) | N/A |
+| 33 | [Senat](http://twitter.com/search?q=Senat) | N/A |
+| 34 | [Streikenden](http://twitter.com/search?q=Streikenden) | N/A |
+| 35 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
+| 36 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
+| 37 | [#KitchenImpossible](http://twitter.com/search?q=%23KitchenImpossible) | N/A |
+| 38 | [#Volksabstimmung](http://twitter.com/search?q=%23Volksabstimmung) | N/A |
+| 39 | [#OBWahlFfm](http://twitter.com/search?q=%23OBWahlFfm) | N/A |
+| 40 | [#Klimaneutral2030](http://twitter.com/search?q=%23Klimaneutral2030) | N/A |
+| 41 | [#Frankfurt](http://twitter.com/search?q=%23Frankfurt) | N/A |
+| 42 | [#Kassel](http://twitter.com/search?q=%23Kassel) | N/A |
+| 43 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
 
 
 

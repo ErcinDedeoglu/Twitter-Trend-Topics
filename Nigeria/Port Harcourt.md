@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-26 19:16:57 UTC`
+📆 Last Updated: `2023-03-26 20:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 1 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
 | 2 | [#LetBawaGo](http://twitter.com/search?q=%23LetBawaGo) | N/A |
-| 3 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
-| 4 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 5 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 6 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 7 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
-| 8 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
-| 9 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 10 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
-| 11 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 12 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
-| 13 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
-| 14 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 15 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
-| 16 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 17 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
-| 18 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
-| 19 | [POTY](http://twitter.com/search?q=POTY) | N/A |
-| 20 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
-| 21 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 22 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 23 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 24 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 25 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
-| 26 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 27 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
-| 28 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 29 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 30 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 31 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 32 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 33 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 34 | [Bitcorn](http://twitter.com/search?q=Bitcorn) | N/A |
-| 35 | [England](http://twitter.com/search?q=England) | N/A |
-| 36 | [Jabi](http://twitter.com/search?q=Jabi) | N/A |
-| 37 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 38 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 39 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
-| 40 | [Ekelebe](http://twitter.com/search?q=Ekelebe) | N/A |
-| 41 | [NDLEA](http://twitter.com/search?q=NDLEA) | N/A |
-| 42 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 43 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 44 | [No 1](http://twitter.com/search?q=No+1) | N/A |
-| 45 | [Number 1](http://twitter.com/search?q=Number+1) | N/A |
-| 46 | [Rascal](http://twitter.com/search?q=Rascal) | N/A |
-| 47 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 48 | [Oladipo Diya](http://twitter.com/search?q=Oladipo+Diya) | N/A |
+| 3 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 4 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
+| 5 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 6 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 7 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 8 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 9 | [Kanaga Jnr](http://twitter.com/search?q=Kanaga+Jnr) | N/A |
+| 10 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 11 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 12 | [#BBTitans2023](http://twitter.com/search?q=%23BBTitans2023) | N/A |
+| 13 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 14 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
+| 15 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 16 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 17 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 18 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 19 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 20 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
+| 21 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 22 | [Kforce](http://twitter.com/search?q=Kforce) | N/A |
+| 23 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 24 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 25 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 26 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
+| 27 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 28 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 29 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 30 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 31 | [Tomorrow is Monday](http://twitter.com/search?q=Tomorrow+is+Monday) | N/A |
+| 32 | [POTY](http://twitter.com/search?q=POTY) | N/A |
+| 33 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 34 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 35 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 36 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
+| 37 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
+| 38 | [Jabi](http://twitter.com/search?q=Jabi) | N/A |
+| 39 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 40 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 41 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 42 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 43 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 44 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 45 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
+| 46 | [England](http://twitter.com/search?q=England) | N/A |
+| 47 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 48 | [NDLEA](http://twitter.com/search?q=NDLEA) | N/A |
 
 
 

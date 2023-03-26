@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-26 19:16:38 UTC`
+📆 Last Updated: `2023-03-26 20:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Furacão](http://twitter.com/search?q=Furac%c3%a3o) | N/A |
-| 2 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
-| 5 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 6 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 7 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
-| 8 | [#ParalamasNoMultishow](http://twitter.com/search?q=%23ParalamasNoMultishow) | N/A |
-| 9 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 10 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 11 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 12 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 1 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 3 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
+| 4 | [#TheRoseNoCanalBIS](http://twitter.com/search?q=%23TheRoseNoCanalBIS) | N/A |
+| 5 | [woosung](http://twitter.com/search?q=woosung) | N/A |
+| 6 | [#MCLomaNoFaro](http://twitter.com/search?q=%23MCLomaNoFaro) | N/A |
+| 7 | [#L7nnonNoMultishow](http://twitter.com/search?q=%23L7nnonNoMultishow) | N/A |
+| 8 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 9 | [#ParalamasNoMultishow](http://twitter.com/search?q=%23ParalamasNoMultishow) | N/A |
+| 10 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 11 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 12 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
 | 13 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
-| 14 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 15 | [É O ROBS](http://twitter.com/search?q=%c3%89+O+ROBS) | N/A |
-| 16 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 17 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 18 | [Projota](http://twitter.com/search?q=Projota) | Projota is a Brazilian rapper, singer, and songwriter. His name is derived from the Portuguese word "projetar," which means "to project." He is known for his socially conscious lyrics and has become one of the most popular rappers in Brazil. In English, Projota means "one who projects." |
-| 19 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 20 | [Robo](http://twitter.com/search?q=Robo) | N/A |
-| 21 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 22 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
-| 23 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 25 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 26 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 27 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
-| 28 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
-| 29 | [aimee](http://twitter.com/search?q=aimee) | N/A |
-| 30 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 31 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 32 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
-| 33 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 34 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
-| 35 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
-| 36 | [Route](http://twitter.com/search?q=Route) | N/A |
-| 37 | [Del Rey](http://twitter.com/search?q=Del+Rey) | N/A |
-| 38 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 39 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 40 | [Kit Connor](http://twitter.com/search?q=Kit+Connor) | N/A |
-| 41 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 42 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
-| 43 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 44 | [pyke](http://twitter.com/search?q=pyke) | N/A |
-| 45 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 46 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 47 | [Naldo Benny](http://twitter.com/search?q=Naldo+Benny) | N/A |
-| 48 | [Stardust](http://twitter.com/search?q=Stardust) | N/A |
-| 49 | [xvideos](http://twitter.com/search?q=xvideos) | N/A |
-| 50 | [Veigar](http://twitter.com/search?q=Veigar) | N/A |
+| 14 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 15 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 16 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 17 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 18 | [BUD E LUD NO LOLLA BR](http://twitter.com/search?q=BUD+E+LUD+NO+LOLLA+BR) | N/A |
+| 19 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
+| 20 | [Rezende](http://twitter.com/search?q=Rezende) | N/A |
+| 21 | [Gabriel Xavier](http://twitter.com/search?q=Gabriel+Xavier) | N/A |
+| 22 | [Croc](http://twitter.com/search?q=Croc) | N/A |
+| 23 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 24 | [Larissa Luz](http://twitter.com/search?q=Larissa+Luz) | N/A |
+| 25 | [Projota](http://twitter.com/search?q=Projota) | Projota is a Brazilian rapper, singer, and songwriter. His name is derived from the Portuguese word "projetar," which means "to project." He is known for his socially conscious lyrics and has become one of the most popular rappers in Brazil. In English, Projota means "one who projects." |
+| 26 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
+| 27 | [É o Robs](http://twitter.com/search?q=%c3%89+o+Robs) | N/A |
+| 28 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
+| 29 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 30 | [Robo](http://twitter.com/search?q=Robo) | N/A |
+| 31 | [Dojoon](http://twitter.com/search?q=Dojoon) | N/A |
+| 32 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 33 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 34 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 35 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 36 | [xvideos](http://twitter.com/search?q=xvideos) | N/A |
+| 37 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
+| 38 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 39 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
+| 40 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 41 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
+| 42 | [aimee](http://twitter.com/search?q=aimee) | N/A |
+| 43 | [safaa](http://twitter.com/search?q=safaa) | N/A |
+| 44 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
+| 45 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 46 | [Matheus Bahia](http://twitter.com/search?q=Matheus+Bahia) | N/A |
+| 47 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
+| 48 | [O Náutico](http://twitter.com/search?q=O+N%c3%a1utico) | N/A |
+| 49 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 50 | [Route](http://twitter.com/search?q=Route) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-26 19:17:22 UTC`
+📆 Last Updated: `2023-03-26 20:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,20 +18,20 @@ This is top 50 for Singapore
 | 1 | [#zalorabirthdaysale](http://twitter.com/search?q=%23zalorabirthdaysale) | N/A |
 | 2 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 3 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 4 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 5 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 6 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 7 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 8 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 9 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 10 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 14 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 15 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 16 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 17 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
+| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 5 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 6 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 7 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 8 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 9 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 12 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 13 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 14 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 15 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 16 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
+| 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 18 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
 | 19 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
 | 20 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
@@ -41,7 +41,7 @@ This is top 50 for Singapore
 | 24 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
 | 25 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
 | 26 | [Chew](http://twitter.com/search?q=Chew) | N/A |
-| 27 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 27 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 28 | [Manila](http://twitter.com/search?q=Manila) | N/A |
 | 29 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
 | 30 | [Iran](http://twitter.com/search?q=Iran) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for Singapore
 | 38 | [2022 Weibo Night](http://twitter.com/search?q=2022+Weibo+Night) | N/A |
 | 39 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 40 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 41 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 42 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
-| 43 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
-| 44 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 45 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 46 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 47 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 48 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 49 | [IM SORRY](http://twitter.com/search?q=IM+SORRY) | N/A |
-| 50 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 41 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 42 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 43 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
+| 44 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 47 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 48 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 49 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 50 | [IM SORRY](http://twitter.com/search?q=IM+SORRY) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-26 19:17:16 UTC`
+📆 Last Updated: `2023-03-26 20:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 2 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
-| 3 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 4 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 5 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
-| 6 | [#ParalamasNoMultishow](http://twitter.com/search?q=%23ParalamasNoMultishow) | N/A |
-| 7 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 8 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
+| 3 | [#TheRoseNoCanalBIS](http://twitter.com/search?q=%23TheRoseNoCanalBIS) | N/A |
+| 4 | [#L7nnonNoMultishow](http://twitter.com/search?q=%23L7nnonNoMultishow) | N/A |
+| 5 | [woosung](http://twitter.com/search?q=woosung) | N/A |
+| 6 | [#MCLomaNoFaro](http://twitter.com/search?q=%23MCLomaNoFaro) | N/A |
+| 7 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 8 | [#ParalamasNoMultishow](http://twitter.com/search?q=%23ParalamasNoMultishow) | N/A |
 | 9 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 10 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 11 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
-| 12 | [#TOP100KPOPMEMBERS](http://twitter.com/search?q=%23TOP100KPOPMEMBERS) | N/A |
-| 13 | [É O ROBS](http://twitter.com/search?q=%c3%89+O+ROBS) | N/A |
-| 14 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 15 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 16 | [Projota](http://twitter.com/search?q=Projota) | Projota is a Brazilian rapper, singer, and songwriter. His name is derived from the Portuguese word "projetar," which means "to project." He is known for his socially conscious lyrics and has become one of the most popular rappers in Brazil. In English, Projota means "one who projects." |
-| 17 | [Robo](http://twitter.com/search?q=Robo) | N/A |
-| 18 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 19 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 20 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 21 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 22 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
-| 23 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 24 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 25 | [aimee](http://twitter.com/search?q=aimee) | N/A |
-| 26 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
-| 27 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 28 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
-| 29 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 30 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 31 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
-| 32 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
-| 33 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 34 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
-| 35 | [Route](http://twitter.com/search?q=Route) | N/A |
-| 36 | [Del Rey](http://twitter.com/search?q=Del+Rey) | N/A |
-| 37 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 38 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 39 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 40 | [Kit Connor](http://twitter.com/search?q=Kit+Connor) | N/A |
-| 41 | [RexPa](http://twitter.com/search?q=RexPa) | N/A |
-| 42 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 43 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
-| 44 | [xvideos](http://twitter.com/search?q=xvideos) | N/A |
-| 45 | [Naldo Benny](http://twitter.com/search?q=Naldo+Benny) | N/A |
-| 46 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 47 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
-| 48 | [pyke](http://twitter.com/search?q=pyke) | N/A |
-| 49 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 50 | [Stardust](http://twitter.com/search?q=Stardust) | N/A |
+| 10 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 11 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
+| 12 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
+| 13 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 14 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 15 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 16 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 17 | [BUD E LUD NO LOLLA BR](http://twitter.com/search?q=BUD+E+LUD+NO+LOLLA+BR) | N/A |
+| 18 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
+| 19 | [Rezende](http://twitter.com/search?q=Rezende) | N/A |
+| 20 | [Croc](http://twitter.com/search?q=Croc) | N/A |
+| 21 | [Gabriel Xavier](http://twitter.com/search?q=Gabriel+Xavier) | N/A |
+| 22 | [Vovó Tartaruga](http://twitter.com/search?q=Vov%c3%b3+Tartaruga) | N/A |
+| 23 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 24 | [Projota](http://twitter.com/search?q=Projota) | Projota is a Brazilian rapper, singer, and songwriter. His name is derived from the Portuguese word "projetar," which means "to project." He is known for his socially conscious lyrics and has become one of the most popular rappers in Brazil. In English, Projota means "one who projects." |
+| 25 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
+| 26 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 27 | [Abelha Rainha](http://twitter.com/search?q=Abelha+Rainha) | N/A |
+| 28 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
+| 29 | [É o Robs](http://twitter.com/search?q=%c3%89+o+Robs) | N/A |
+| 30 | [Larissa Luz](http://twitter.com/search?q=Larissa+Luz) | N/A |
+| 31 | [Robo](http://twitter.com/search?q=Robo) | N/A |
+| 32 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 33 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 34 | [Dojoon](http://twitter.com/search?q=Dojoon) | N/A |
+| 35 | [xvideos](http://twitter.com/search?q=xvideos) | N/A |
+| 36 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 37 | [Tove](http://twitter.com/search?q=Tove) | N/A |
+| 38 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 39 | [Matheus Bahia](http://twitter.com/search?q=Matheus+Bahia) | N/A |
+| 40 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
+| 41 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
+| 42 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
+| 43 | [O Náutico](http://twitter.com/search?q=O+N%c3%a1utico) | N/A |
+| 44 | [Stardust](http://twitter.com/search?q=Stardust) | N/A |
+| 45 | [aimee](http://twitter.com/search?q=aimee) | N/A |
+| 46 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
+| 47 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 48 | [Priscila Alcântara](http://twitter.com/search?q=Priscila+Alc%c3%a2ntara) | N/A |
+| 49 | [safaa](http://twitter.com/search?q=safaa) | N/A |
+| 50 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
 
 
 
