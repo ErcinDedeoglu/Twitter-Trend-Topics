@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-26 06:17:56 UTC`
+📆 Last Updated: `2023-03-26 07:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Dominican Republic
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RDcapitalDeIberoamérica](http://twitter.com/search?q=%23RDcapitalDeIberoam%c3%a9rica) | N/A |
-| 2 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 3 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 2 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 3 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
 | 4 | [#DemocraciaParaTodos](http://twitter.com/search?q=%23DemocraciaParaTodos) | N/A |
 | 5 | [#QueremosPanNoCirco](http://twitter.com/search?q=%23QueremosPanNoCirco) | N/A |
 | 6 | [#sdecambiacondio](http://twitter.com/search?q=%23sdecambiacondio) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for Dominican Republic
 | 26 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
 | 27 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 28 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
-| 29 | [Enriquillo Matos](http://twitter.com/search?q=Enriquillo+Matos) | N/A |
+| 29 | [enriquillo matos](http://twitter.com/search?q=enriquillo+matos) | N/A |
 | 30 | [gonzalo castillo](http://twitter.com/search?q=gonzalo+castillo) | N/A |
 | 31 | [kinito](http://twitter.com/search?q=kinito) | N/A |
 | 32 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sagamihara
 
-📆 Last Updated: `2023-03-26 06:17:31 UTC`
+📆 Last Updated: `2023-03-26 07:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ダブルスチール](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%82%b9%e3%83%81%e3%83%bc%e3%83%ab) | N/A |
+| 1 | [マルコス](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b3%e3%82%b9) | N/A |
 | 2 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
-| 3 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
-| 4 | [みっちー](http://twitter.com/search?q=%e3%81%bf%e3%81%a3%e3%81%a1%e3%83%bc) | みっちー is an informal way of saying "ミッチー" (Mickey) in Japanese. It is often used as a nickname for someone named Mickey or as an affectionate term for someone close to you. In English, it could be translated as "Micky" or "Mitch". |
-| 5 | [ツバサくん](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e3%81%8f%e3%82%93) | N/A |
-| 6 | [カグラギ](http://twitter.com/search?q=%e3%82%ab%e3%82%b0%e3%83%a9%e3%82%ae) | N/A |
-| 7 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
-| 8 | [キュアウィング](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | キュアウィング (Kyuu Wingu) is a Japanese term for a type of healing technique that uses the power of positive energy to help people heal from physical and emotional pain. It is based on the idea that the power of love and kindness can be used to heal and restore balance in a person's life. The technique involves sending positive energy to the person in need, either through touch or visualization. |
-| 9 | [#yokohamafc](http://twitter.com/search?q=%23yokohamafc) | N/A |
-| 10 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
-| 11 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
-| 12 | [雨のせい](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e3%81%9b%e3%81%84) | 雨のせい is a Japanese phrase that literally translates to "because of the rain." It is used to express the idea that something has happened or been caused by the rain. For example, if someone was late for an appointment, they might say "雨のせいで遅れました" ("I was late because of the rain"). |
-| 13 | [ティアマト](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%9e%e3%83%88) | ティアマト (Tiāmato) is a Japanese word that means "tomato". It is derived from the Portuguese word for tomato, tomate. |
-| 14 | [ライダー金時](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e9%87%91%e6%99%82) | N/A |
-| 15 | [弓ノッブ](http://twitter.com/search?q=%e5%bc%93%e3%83%8e%e3%83%83%e3%83%96) | N/A |
-| 16 | [高松宮記念](http://twitter.com/search?q=%e9%ab%98%e6%9d%be%e5%ae%ae%e8%a8%98%e5%bf%b5) | 高松宮記念 is a memorial event held in Takamatsu, Kagawa Prefecture, Japan. It is held annually on April 22nd to commemorate the establishment of Takamatsu Castle by the first lord of the Sanuki Province, Ikoma Takatoshi. The event includes a parade of people dressed in traditional costumes and a variety of performances. In English, it is known as the Takamatsu Castle Memorial Festival. |
-| 17 | [クラススコア](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9%e3%82%b9%e3%82%b3%e3%82%a2) | N/A |
-| 18 | [スフィア盤](http://twitter.com/search?q=%e3%82%b9%e3%83%95%e3%82%a3%e3%82%a2%e7%9b%a4) | N/A |
-| 19 | [ゆさぴょん](http://twitter.com/search?q=%e3%82%86%e3%81%95%e3%81%b4%e3%82%87%e3%82%93) | N/A |
-| 20 | [セタンタ](http://twitter.com/search?q=%e3%82%bb%e3%82%bf%e3%83%b3%e3%82%bf) | セタンタ is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it is sometimes referred to as a "chanting song". |
-| 21 | [プロパイロット](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%91%e3%82%a4%e3%83%ad%e3%83%83%e3%83%88) | N/A |
-| 22 | [アルターエゴ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%bf%e3%83%bc%e3%82%a8%e3%82%b4) | N/A |
-| 23 | [マイフレンド](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%95%e3%83%ac%e3%83%b3%e3%83%89) | N/A |
-| 24 | [サンタオルタ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%82%aa%e3%83%ab%e3%82%bf) | N/A |
-| 25 | [配布サーヴァント](http://twitter.com/search?q=%e9%85%8d%e5%b8%83%e3%82%b5%e3%83%bc%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%88) | N/A |
-| 26 | [人理くん](http://twitter.com/search?q=%e4%ba%ba%e7%90%86%e3%81%8f%e3%82%93) | N/A |
-| 27 | [メイケイエール](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b1%e3%82%a4%e3%82%a8%e3%83%bc%e3%83%ab) | N/A |
-| 28 | [自動運転](http://twitter.com/search?q=%e8%87%aa%e5%8b%95%e9%81%8b%e8%bb%a2) | N/A |
-| 29 | [田中琴葉](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e7%90%b4%e8%91%89) | N/A |
-| 30 | [エクストラクラス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
-| 31 | [ロータスランド](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%82%bf%e3%82%b9%e3%83%a9%e3%83%b3%e3%83%89) | ロータスランド (Lotusland) is a Japanese theme park located in Saitama Prefecture. It is known for its large collection of exotic plants and flowers, as well as its many attractions and rides. The name comes from the lotus flower, which is a symbol of purity and beauty in many cultures. In English, Lotusland can be translated to mean "a place of beauty and serenity". |
-| 32 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 33 | [ドラコー](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b3%e3%83%bc) | ドラコー (Dorakō) is a Japanese term for a type of traditional Japanese puppet theater. It is a form of Bunraku, which is a type of puppet theater that originated in the 17th century. The puppets are manipulated by three people, and the stories are usually based on classic literature or folklore. In English, it can be translated as "puppet theater". |
-| 34 | [ナムラクレア](http://twitter.com/search?q=%e3%83%8a%e3%83%a0%e3%83%a9%e3%82%af%e3%83%ac%e3%82%a2) | ナムラクレア is a Japanese restaurant chain that specializes in ramen noodles. The name translates to "Namu Ramen Clea" in English. |
-| 35 | [栗山英樹](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e8%8b%b1%e6%a8%b9) | N/A |
-| 36 | [田中幹也](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e5%b9%b9%e4%b9%9f) | N/A |
-| 37 | [AMEMIYAさん](http://twitter.com/search?q=AMEMIYA%e3%81%95%e3%82%93) | N/A |
-| 38 | [ジェロニモ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ad%e3%83%8b%e3%83%a2) | N/A |
-| 39 | [雨の日曜日](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e6%97%a5%e6%9b%9c%e6%97%a5) | N/A |
-| 40 | [ACコラボ](http://twitter.com/search?q=AC%e3%82%b3%e3%83%a9%e3%83%9c) | ACコラボ (AC Collaboration) is a term used in Japan to refer to collaborations between two or more companies, usually in the form of a joint venture. It is often used to describe partnerships between companies in different industries, such as a fashion brand and an electronics manufacturer. The English equivalent would be "corporate collaboration". |
-| 41 | [カノウさん](http://twitter.com/search?q=%e3%82%ab%e3%83%8e%e3%82%a6%e3%81%95%e3%82%93) | カノウさん is a Japanese honorific used to refer to someone with whom you are on friendly terms. It is similar to the English term "Mr." or "Ms." and is used as a sign of respect. In English, it can be translated as "Mr./Ms. Kanou". |
-| 42 | [ナランフレグ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%b3%e3%83%95%e3%83%ac%e3%82%b0) | N/A |
-| 43 | [サンバサンタ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%90%e3%82%b5%e3%83%b3%e3%82%bf) | N/A |
-| 44 | [アーケードコラボ](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%b1%e3%83%bc%e3%83%89%e3%82%b3%e3%83%a9%e3%83%9c) | アーケードコラボ is a type of collaboration between arcade game companies and other businesses. It involves the use of arcade games to promote products or services, often through the use of special promotional items or discounts. In English, it can be translated as "Arcade Collaboration". |
-| 45 | [ルヴァン](http://twitter.com/search?q=%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%b3) | ルヴァン is a Japanese manga series written and illustrated by Yana Toboso. It follows the story of Ciel Phantomhive, a thirteen-year-old boy who is the head of the noble Phantomhive family and is tasked with solving various mysteries involving the supernatural for Queen Victoria. The title "ルヴァン" is derived from the French phrase "Le Vainqueur", which translates to "The Victor". |
-| 46 | [運転支援](http://twitter.com/search?q=%e9%81%8b%e8%bb%a2%e6%94%af%e6%8f%b4) | N/A |
-| 47 | [PUBG](http://twitter.com/search?q=PUBG) | N/A |
-| 48 | [Bleed From Within](http://twitter.com/search?q=Bleed+From+Within) | N/A |
-| 49 | [ハンドル](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%83%89%e3%83%ab) | N/A |
+| 3 | [ダブルスチール](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%82%b9%e3%83%81%e3%83%bc%e3%83%ab) | N/A |
+| 4 | [ビルドアップ](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 5 | [#クイズメーカー](http://twitter.com/search?q=%23%e3%82%af%e3%82%a4%e3%82%ba%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 6 | [リーグ戦](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%b0%e6%88%a6) | リーグ戦 is a Japanese term that refers to a league competition or tournament. It is typically used to refer to sports competitions, such as soccer or baseball, where teams compete against each other in a round-robin format. In English, it can be translated as "league match" or "league tournament". |
+| 7 | [キングオージャー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | キングオージャー is a Japanese card game similar to the American game of Crazy Eights. The object of the game is to be the first player to get rid of all their cards. The game is played with a standard deck of 52 cards, with each player receiving seven cards at the start. The remaining cards are placed face down in a pile, and the top card is turned over to begin the discard pile. Players must match either the suit or rank of the card on top of the discard pile in order to play a card from their hand. |
+| 8 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
+| 9 | [雨のせい](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e3%81%9b%e3%81%84) | 雨のせい is a Japanese phrase that literally translates to "because of the rain." It is used to express the idea that something has happened or been caused by the rain. For example, if someone was late for an appointment, they might say "雨のせいで遅れました" ("I was late because of the rain"). |
+| 10 | [#yokohamafc](http://twitter.com/search?q=%23yokohamafc) | N/A |
+| 11 | [#AnimeJapan2023](http://twitter.com/search?q=%23AnimeJapan2023) | N/A |
+| 12 | [ツバサくん](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e3%81%8f%e3%82%93) | N/A |
+| 13 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
+| 14 | [ファストフォース](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b9%e3%83%88%e3%83%95%e3%82%a9%e3%83%bc%e3%82%b9) | ファストフォース is a Japanese manga series written and illustrated by Naoki Urasawa. It follows the story of a group of people who are recruited to investigate strange phenomena around the world. The title translates to "Fast Force" in English, referring to the team's ability to quickly respond to any situation. |
+| 15 | [高松宮記念](http://twitter.com/search?q=%e9%ab%98%e6%9d%be%e5%ae%ae%e8%a8%98%e5%bf%b5) | 高松宮記念 is a memorial event held in Takamatsu, Kagawa Prefecture, Japan. It is held annually on April 22nd to commemorate the establishment of Takamatsu Castle by the first lord of the Sanuki Province, Ikoma Takatoshi. The event includes a parade of people dressed in traditional costumes and a variety of performances. In English, it is known as the Takamatsu Castle Memorial Festival. |
+| 16 | [ティアマト](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%9e%e3%83%88) | ティアマト (Tiāmato) is a Japanese word that means "tomato". It is derived from the Portuguese word for tomato, tomate. |
+| 17 | [メイケイエール](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b1%e3%82%a4%e3%82%a8%e3%83%bc%e3%83%ab) | N/A |
+| 18 | [ナムラクレア](http://twitter.com/search?q=%e3%83%8a%e3%83%a0%e3%83%a9%e3%82%af%e3%83%ac%e3%82%a2) | ナムラクレア is a Japanese restaurant chain that specializes in ramen noodles. The name translates to "Namu Ramen Clea" in English. |
+| 19 | [トゥラヴェスーラ](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%a9%e3%83%b4%e3%82%a7%e3%82%b9%e3%83%bc%e3%83%a9) | トゥラヴェスーラ is a Japanese word that means "traveller". It is often used to refer to someone who travels frequently or enjoys travelling. |
+| 20 | [ナランフレグ](http://twitter.com/search?q=%e3%83%8a%e3%83%a9%e3%83%b3%e3%83%95%e3%83%ac%e3%82%b0) | N/A |
+| 21 | [ロータスランド](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%82%bf%e3%82%b9%e3%83%a9%e3%83%b3%e3%83%89) | ロータスランド (Lotusland) is a Japanese theme park located in Saitama Prefecture. It is known for its large collection of exotic plants and flowers, as well as its many attractions and rides. The name comes from the lotus flower, which is a symbol of purity and beauty in many cultures. In English, Lotusland can be translated to mean "a place of beauty and serenity". |
+| 22 | [団野くん](http://twitter.com/search?q=%e5%9b%a3%e9%87%8e%e3%81%8f%e3%82%93) | N/A |
+| 23 | [ピクシーナイト](http://twitter.com/search?q=%e3%83%94%e3%82%af%e3%82%b7%e3%83%bc%e3%83%8a%e3%82%a4%e3%83%88) | ピクシーナイト (Pikushii Naito) is a Japanese light novel series written by Tomohiro Matsu and illustrated by Kantoku. It follows the story of a group of high school students who are transported to a mysterious world where they must fight monsters in order to survive. The English translation of the title is "Fairy Night". |
+| 24 | [団野騎手](http://twitter.com/search?q=%e5%9b%a3%e9%87%8e%e9%a8%8e%e6%89%8b) | N/A |
+| 25 | [ライダー金時](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e9%87%91%e6%99%82) | N/A |
+| 26 | [ハヤブサナンデクン](http://twitter.com/search?q=%e3%83%8f%e3%83%a4%e3%83%96%e3%82%b5%e3%83%8a%e3%83%b3%e3%83%87%e3%82%af%e3%83%b3) | ハヤブサナンデクン is a Japanese phrase that translates to "Let's go for it!" It is an expression of encouragement and enthusiasm. |
+| 27 | [弓ノッブ](http://twitter.com/search?q=%e5%bc%93%e3%83%8e%e3%83%83%e3%83%96) | N/A |
+| 28 | [オニャンコポン](http://twitter.com/search?q=%e3%82%aa%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%9d%e3%83%b3) | オニャンコポン is a Japanese onomatopoeia that is used to express the sound of something being thrown. In English, it could be translated as "thwack" or "thud". |
+| 29 | [リンセン](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%82%bb%e3%83%b3) | N/A |
+| 30 | [トウシンマカオ](http://twitter.com/search?q=%e3%83%88%e3%82%a6%e3%82%b7%e3%83%b3%e3%83%9e%e3%82%ab%e3%82%aa) | トウシンマカオ is a type of Japanese candy made from sweet potato. It is a chewy, sticky candy that is usually sold in small, individually wrapped pieces. The name translates to "sweet potato candy" in English. |
+| 31 | [マーチS](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%81S) | N/A |
+| 32 | [スフィア盤](http://twitter.com/search?q=%e3%82%b9%e3%83%95%e3%82%a3%e3%82%a2%e7%9b%a4) | N/A |
+| 33 | [クラススコア](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b9%e3%82%b9%e3%82%b3%e3%82%a2) | N/A |
+| 34 | [プロパイロット](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%91%e3%82%a4%e3%83%ad%e3%83%83%e3%83%88) | N/A |
+| 35 | [セタンタ](http://twitter.com/search?q=%e3%82%bb%e3%82%bf%e3%83%b3%e3%82%bf) | セタンタ is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it is sometimes referred to as a "chanting song". |
+| 36 | [ウインマーベル](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%83%9e%e3%83%bc%e3%83%99%e3%83%ab) | ウインマーベル (Win Marvel) is a Japanese manga series written and illustrated by Hiro Mashima. It follows the adventures of a young man named Win, who is granted magical powers by a mysterious creature called the Marvel. The series follows Win as he uses his newfound powers to protect the world from evil forces. The English title of the series is "Win Marvel". |
+| 37 | [ゆさぴょん](http://twitter.com/search?q=%e3%82%86%e3%81%95%e3%81%b4%e3%82%87%e3%82%93) | N/A |
+| 38 | [アルターエゴ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%bf%e3%83%bc%e3%82%a8%e3%82%b4) | N/A |
+| 39 | [不良馬場](http://twitter.com/search?q=%e4%b8%8d%e8%89%af%e9%a6%ac%e5%a0%b4) | N/A |
+| 40 | [人理くん](http://twitter.com/search?q=%e4%ba%ba%e7%90%86%e3%81%8f%e3%82%93) | N/A |
+| 41 | [自動運転](http://twitter.com/search?q=%e8%87%aa%e5%8b%95%e9%81%8b%e8%bb%a2) | N/A |
+| 42 | [ヴェントヴォーチェ](http://twitter.com/search?q=%e3%83%b4%e3%82%a7%e3%83%b3%e3%83%88%e3%83%b4%e3%82%a9%e3%83%bc%e3%83%81%e3%82%a7) | N/A |
+| 43 | [エクストラクラス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b9%e3%83%88%e3%83%a9%e3%82%af%e3%83%a9%e3%82%b9) | N/A |
+| 44 | [田中琴葉](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e7%90%b4%e8%91%89) | N/A |
+| 45 | [キルロード](http://twitter.com/search?q=%e3%82%ad%e3%83%ab%e3%83%ad%e3%83%bc%e3%83%89) | キルロード is a Japanese manga series written and illustrated by Yūki Kodama. It follows the story of Kiri, a young girl who is cursed with the ability to see ghosts, and her adventures as she tries to help them move on. The title of the series translates to "Kirrode" in English. |
+| 46 | [ファストホース](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b9%e3%83%88%e3%83%9b%e3%83%bc%e3%82%b9) | N/A |
+| 47 | [サンタオルタ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%82%bf%e3%82%aa%e3%83%ab%e3%82%bf) | N/A |
+| 48 | [マイフレンド](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%95%e3%83%ac%e3%83%b3%e3%83%89) | N/A |
+| 49 | [マーチステークス](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%81%e3%82%b9%e3%83%86%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
 
 
 

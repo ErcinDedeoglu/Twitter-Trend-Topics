@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-26 06:17:23 UTC`
+📆 Last Updated: `2023-03-26 07:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#GERPER](http://twitter.com/search?q=%23GERPER) | N/A |
 | 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 3 | [#nuhrimzweiten](http://twitter.com/search?q=%23nuhrimzweiten) | N/A |
-| 4 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 5 | [#cmtipp](http://twitter.com/search?q=%23cmtipp) | N/A |
-| 6 | [#dsds](http://twitter.com/search?q=%23dsds) | N/A |
-| 7 | [#fcbwob](http://twitter.com/search?q=%23fcbwob) | N/A |
-| 8 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 3 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 4 | [#nuhrimzweiten](http://twitter.com/search?q=%23nuhrimzweiten) | N/A |
+| 5 | [Warme Atmosphäre](http://twitter.com/search?q=Warme+Atmosph%c3%a4re) | N/A |
+| 6 | [#cmtipp](http://twitter.com/search?q=%23cmtipp) | N/A |
+| 7 | [#Sommerzeit](http://twitter.com/search?q=%23Sommerzeit) | N/A |
+| 8 | [#fcbwob](http://twitter.com/search?q=%23fcbwob) | N/A |
 | 9 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 10 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 11 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 12 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
-| 13 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 14 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 15 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
-| 16 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 17 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 18 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 19 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 20 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
-| 21 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 22 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 23 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 24 | [Füllkrug](http://twitter.com/search?q=F%c3%bcllkrug) | N/A |
-| 25 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 26 | [schiedsrichterin](http://twitter.com/search?q=schiedsrichterin) | N/A |
+| 10 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 11 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 12 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 13 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 14 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 15 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
+| 16 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 17 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 18 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 19 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
+| 20 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 21 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 22 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 23 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
+| 24 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 25 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 26 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
 | 27 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 28 | [I JUST GOT AIRDROPPED 8439 ARB](http://twitter.com/search?q=I+JUST+GOT+AIRDROPPED+8439+ARB) | N/A |
-| 29 | [Streik](http://twitter.com/search?q=Streik) | N/A |
-| 30 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
-| 31 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 32 | [Lisa Eckhart](http://twitter.com/search?q=Lisa+Eckhart) | N/A |
-| 33 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 34 | [2536 $ARB](http://twitter.com/search?q=2536+%24ARB) | N/A |
-| 35 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 36 | [handgranaten](http://twitter.com/search?q=handgranaten) | N/A |
-| 37 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
-| 38 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 39 | [Biorhythmus](http://twitter.com/search?q=Biorhythmus) | N/A |
-| 40 | [Marius Wolf](http://twitter.com/search?q=Marius+Wolf) | N/A |
-| 41 | [schnupftabak](http://twitter.com/search?q=schnupftabak) | N/A |
-| 42 | [Uhrzeit](http://twitter.com/search?q=Uhrzeit) | N/A |
-| 43 | [Stationierung](http://twitter.com/search?q=Stationierung) | N/A |
-| 44 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 45 | [aprilwetter](http://twitter.com/search?q=aprilwetter) | N/A |
-| 46 | [7438 ARB](http://twitter.com/search?q=7438+ARB) | N/A |
-| 47 | [garbe transport](http://twitter.com/search?q=garbe+transport) | N/A |
-| 48 | [parodie](http://twitter.com/search?q=parodie) | N/A |
-| 49 | [Gegengewalt](http://twitter.com/search?q=Gegengewalt) | N/A |
-| 50 | [Samstagabend](http://twitter.com/search?q=Samstagabend) | N/A |
+| 28 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 29 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 30 | [schiedsrichterin](http://twitter.com/search?q=schiedsrichterin) | N/A |
+| 31 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 32 | [Füllkrug](http://twitter.com/search?q=F%c3%bcllkrug) | N/A |
+| 33 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 34 | [Streik](http://twitter.com/search?q=Streik) | N/A |
+| 35 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 36 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
+| 37 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 38 | [Absicht eine Mauer](http://twitter.com/search?q=Absicht+eine+Mauer) | N/A |
+| 39 | [Kohl](http://twitter.com/search?q=Kohl) | N/A |
+| 40 | [Lisa Eckhart](http://twitter.com/search?q=Lisa+Eckhart) | N/A |
+| 41 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 42 | [$ARB AIRDROP IS LIVE](http://twitter.com/search?q=%24ARB+AIRDROP+IS+LIVE) | N/A |
+| 43 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
+| 44 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
+| 45 | [Liebe Berliner](http://twitter.com/search?q=Liebe+Berliner) | N/A |
+| 46 | [Stationierung](http://twitter.com/search?q=Stationierung) | N/A |
+| 47 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 48 | [I JUST GOT AIRDROPPED 8439 ARB](http://twitter.com/search?q=I+JUST+GOT+AIRDROPPED+8439+ARB) | N/A |
+| 49 | [Biorhythmus](http://twitter.com/search?q=Biorhythmus) | N/A |
+| 50 | [Marius Wolf](http://twitter.com/search?q=Marius+Wolf) | N/A |
 
 
 

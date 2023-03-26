@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-26 06:17:52 UTC`
+📆 Last Updated: `2023-03-26 07:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 2 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
-| 3 | [Vientos](http://twitter.com/search?q=Vientos) | N/A |
-| 4 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 5 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 6 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 7 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 8 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 9 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 10 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 11 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
-| 12 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 13 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 14 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
-| 15 | [MARCUS MUMFORD](http://twitter.com/search?q=MARCUS+MUMFORD) | N/A |
-| 16 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 17 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
-| 18 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 19 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 20 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
-| 21 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 22 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 23 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 24 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
-| 25 | [hannah](http://twitter.com/search?q=hannah) | N/A |
-| 26 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 27 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 28 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 29 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 30 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
-| 31 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 32 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 33 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
-| 34 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 35 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 36 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 2 | [Vientos](http://twitter.com/search?q=Vientos) | N/A |
+| 3 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 4 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 5 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 6 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 7 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 8 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
+| 9 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 10 | [MARCUS MUMFORD](http://twitter.com/search?q=MARCUS+MUMFORD) | N/A |
+| 11 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
+| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 13 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 14 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 15 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
+| 16 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 17 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
+| 18 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 19 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 20 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 21 | [hannah](http://twitter.com/search?q=hannah) | N/A |
+| 22 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 23 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 24 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 25 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
+| 26 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 27 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 28 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 29 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 30 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 31 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 32 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 33 | [#FoodWars](http://twitter.com/search?q=%23FoodWars) | N/A |
+| 34 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 35 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 36 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
 | 37 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 38 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 39 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 40 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 41 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 42 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 43 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
-| 44 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 45 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
-| 46 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 47 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 48 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 49 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 50 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 38 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 39 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 40 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 41 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 42 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 43 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
+| 44 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 45 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 46 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 47 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 48 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 49 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
+| 50 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
 
 
 

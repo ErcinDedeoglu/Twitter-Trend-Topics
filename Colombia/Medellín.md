@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-03-26 06:17:16 UTC`
+📆 Last Updated: `2023-03-26 07:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,44 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 3 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 4 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
+| 1 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 2 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 4 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
 | 5 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
 | 6 | [#LaHoraDelPlaneta](http://twitter.com/search?q=%23LaHoraDelPlaneta) | N/A |
 | 7 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
-| 8 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 9 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
+| 8 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
+| 9 | [Pons](http://twitter.com/search?q=Pons) | N/A |
 | 10 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 11 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
-| 12 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
-| 13 | [#MePregunto](http://twitter.com/search?q=%23MePregunto) | N/A |
-| 14 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 15 | [#FEP2023](http://twitter.com/search?q=%23FEP2023) | N/A |
-| 16 | [Devenish](http://twitter.com/search?q=Devenish) | N/A |
-| 17 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
-| 18 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 19 | [Kevin Mier](http://twitter.com/search?q=Kevin+Mier) | N/A |
-| 20 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
-| 21 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 22 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 11 | [UN AÑO YULERIA](http://twitter.com/search?q=UN+A%c3%91O+YULERIA) | N/A |
+| 12 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
+| 13 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
+| 14 | [#MePregunto](http://twitter.com/search?q=%23MePregunto) | N/A |
+| 15 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 16 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
+| 17 | [#FEP2023](http://twitter.com/search?q=%23FEP2023) | N/A |
+| 18 | [Devenish](http://twitter.com/search?q=Devenish) | N/A |
+| 19 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
+| 20 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 21 | [Kevin Mier](http://twitter.com/search?q=Kevin+Mier) | N/A |
+| 22 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
 | 23 | [Jefferson Duque](http://twitter.com/search?q=Jefferson+Duque) | N/A |
-| 24 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 24 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
 | 25 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
 | 26 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 27 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 28 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
-| 29 | [Solis](http://twitter.com/search?q=Solis) | N/A |
-| 30 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
-| 31 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 32 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 27 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 28 | [Solis](http://twitter.com/search?q=Solis) | N/A |
+| 29 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 30 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 31 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 32 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
 | 33 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
 | 34 | [Marmolejo](http://twitter.com/search?q=Marmolejo) | N/A |
-| 35 | [Last Concert](http://twitter.com/search?q=Last+Concert) | N/A |
-| 36 | [Loudest Concert](http://twitter.com/search?q=Loudest+Concert) | N/A |
-| 37 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 38 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
+| 35 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
+| 36 | [Last Concert](http://twitter.com/search?q=Last+Concert) | N/A |
+| 37 | [Loudest Concert](http://twitter.com/search?q=Loudest+Concert) | N/A |
+| 38 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
 | 39 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
 | 40 | [Seen the Most](http://twitter.com/search?q=Seen+the+Most) | N/A |
 | 41 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |

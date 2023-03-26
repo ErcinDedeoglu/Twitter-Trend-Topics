@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-26 06:17:10 UTC`
+📆 Last Updated: `2023-03-26 07:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#wales](http://twitter.com/search?q=%23wales) | N/A |
+| 1 | [#Wales](http://twitter.com/search?q=%23Wales) | N/A |
 | 2 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 3 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 4 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
-| 5 | [#okolielight](http://twitter.com/search?q=%23okolielight) | N/A |
+| 3 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
+| 4 | [#okolielight](http://twitter.com/search?q=%23okolielight) | N/A |
+| 5 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
 | 6 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
 | 7 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
 | 8 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 9 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 9 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
 | 10 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 11 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 13 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 14 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 15 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 16 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
-| 17 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
+| 12 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
+| 13 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 14 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
+| 15 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
+| 16 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 17 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
 | 18 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 19 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 20 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
-| 21 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 22 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 23 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 24 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 25 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 26 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 27 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 29 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 30 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 31 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 32 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 33 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 34 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 35 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
-| 36 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 37 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 38 | [Emily Ratajkowski](http://twitter.com/search?q=Emily+Ratajkowski) | N/A |
-| 39 | [TISWAS](http://twitter.com/search?q=TISWAS) | N/A |
-| 40 | [David Light](http://twitter.com/search?q=David+Light) | N/A |
-| 41 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 42 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 43 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 19 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 20 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 21 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
+| 22 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 23 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 24 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 25 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 26 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 27 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 28 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 29 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 30 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 31 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
+| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 33 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 34 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
+| 35 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 36 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 37 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 38 | [David Light](http://twitter.com/search?q=David+Light) | N/A |
+| 39 | [ryan jack](http://twitter.com/search?q=ryan+jack) | N/A |
+| 40 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 41 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 42 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 43 | [East 17](http://twitter.com/search?q=East+17) | N/A |
 | 44 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 45 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 46 | [East 17](http://twitter.com/search?q=East+17) | N/A |
-| 47 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 48 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
+| 45 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
+| 46 | [Warne](http://twitter.com/search?q=Warne) | N/A |
+| 47 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
+| 48 | [England U21s](http://twitter.com/search?q=England+U21s) | N/A |
 
 
 

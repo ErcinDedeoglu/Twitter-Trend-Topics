@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-26 06:17:18 UTC`
+📆 Last Updated: `2023-03-26 07:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 2 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 1 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 2 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
 | 3 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
 | 4 | [Ruidiaz](http://twitter.com/search?q=Ruidiaz) | N/A |
 | 5 | [Lapadula](http://twitter.com/search?q=Lapadula) | N/A |
@@ -27,8 +27,8 @@ This is top 50 for [Peru](</Peru>)
 | 10 | [Abram](http://twitter.com/search?q=Abram) | N/A |
 | 11 | [#MarchaPorLaVida](http://twitter.com/search?q=%23MarchaPorLaVida) | N/A |
 | 12 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 13 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 14 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
+| 13 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
+| 14 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
 | 15 | [emily](http://twitter.com/search?q=emily) | N/A |
 | 16 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 17 | [Kimberly García](http://twitter.com/search?q=Kimberly+Garc%c3%ada) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Peru](</Peru>)
 | 30 | [mewa arena](http://twitter.com/search?q=mewa+arena) | N/A |
 | 31 | [Eslovaquia](http://twitter.com/search?q=Eslovaquia) | N/A |
 | 32 | [cambio de dt](http://twitter.com/search?q=cambio+de+dt) | N/A |
-| 33 | [luis urruti](http://twitter.com/search?q=luis+urruti) | N/A |
-| 34 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
-| 35 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
-| 36 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 37 | [emanuel herrera](http://twitter.com/search?q=emanuel+herrera) | N/A |
-| 38 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 39 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 40 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
-| 41 | [Tarata](http://twitter.com/search?q=Tarata) | N/A |
-| 42 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 43 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 44 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 45 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
-| 46 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 47 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 48 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 49 | [Yola](http://twitter.com/search?q=Yola) | N/A |
-| 50 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 33 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
+| 34 | [Cartagena](http://twitter.com/search?q=Cartagena) | N/A |
+| 35 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 36 | [emanuel herrera](http://twitter.com/search?q=emanuel+herrera) | N/A |
+| 37 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 38 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
+| 39 | [Tarata](http://twitter.com/search?q=Tarata) | N/A |
+| 40 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 41 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 42 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 43 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 44 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 45 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 46 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 47 | [Yola](http://twitter.com/search?q=Yola) | N/A |
+| 48 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
+| 49 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 50 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 
 
 

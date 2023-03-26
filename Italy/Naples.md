@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-26 06:17:24 UTC`
+📆 Last Updated: `2023-03-26 07:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [#26marzo](http://twitter.com/search?q=%2326marzo) | N/A |
 | 4 | [#ilcantantemascherato](http://twitter.com/search?q=%23ilcantantemascherato) | N/A |
 | 5 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 6 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 7 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 8 | [#fosseardeatine](http://twitter.com/search?q=%23fosseardeatine) | N/A |
-| 9 | [#oralegale](http://twitter.com/search?q=%23oralegale) | N/A |
-| 10 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
-| 11 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
-| 12 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 13 | [rasella](http://twitter.com/search?q=rasella) | N/A |
-| 14 | [Enea](http://twitter.com/search?q=Enea) | N/A |
-| 15 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
-| 16 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
-| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 18 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
-| 19 | [Arisa](http://twitter.com/search?q=Arisa) | Arisa is a Japanese female given name. It is written with the kanji characters 有紗, which can be read as "Arisa" or "Yusa". The meaning of the name is "beautiful silk cloth". |
-| 20 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
-| 21 | [maddalena](http://twitter.com/search?q=maddalena) | N/A |
-| 22 | [Aron](http://twitter.com/search?q=Aron) | N/A |
-| 23 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 24 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 25 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
-| 26 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 27 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 28 | [sissi](http://twitter.com/search?q=sissi) | N/A |
-| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 30 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 31 | [bastianini](http://twitter.com/search?q=bastianini) | N/A |
-| 32 | [malgioglio](http://twitter.com/search?q=malgioglio) | N/A |
-| 33 | [Milly](http://twitter.com/search?q=Milly) | N/A |
-| 34 | [michele bravi](http://twitter.com/search?q=michele+bravi) | N/A |
-| 35 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 36 | [giuseppe giofrè](http://twitter.com/search?q=giuseppe+giofr%c3%a8) | N/A |
-| 37 | [antifascisti](http://twitter.com/search?q=antifascisti) | N/A |
-| 38 | [elena e simone](http://twitter.com/search?q=elena+e+simone) | N/A |
-| 39 | [Lorella](http://twitter.com/search?q=Lorella) | N/A |
-| 40 | [ALESSIO](http://twitter.com/search?q=ALESSIO) | N/A |
-| 41 | [giulia stabile](http://twitter.com/search?q=giulia+stabile) | N/A |
-| 42 | [Sprint](http://twitter.com/search?q=Sprint) | N/A |
-| 43 | [Tipi](http://twitter.com/search?q=Tipi) | N/A |
-| 44 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 45 | [Marini](http://twitter.com/search?q=Marini) | N/A |
-| 46 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
-| 47 | [gio evan](http://twitter.com/search?q=gio+evan) | N/A |
-| 48 | [Nino Frassica](http://twitter.com/search?q=Nino+Frassica) | N/A |
+| 6 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 7 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 8 | [#oralegale](http://twitter.com/search?q=%23oralegale) | N/A |
+| 9 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 10 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 11 | [#FosseArdeatine](http://twitter.com/search?q=%23FosseArdeatine) | N/A |
+| 12 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 13 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
+| 14 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 15 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 16 | [Rasella](http://twitter.com/search?q=Rasella) | N/A |
+| 17 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
+| 18 | [Enea](http://twitter.com/search?q=Enea) | N/A |
+| 19 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 20 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 21 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
+| 22 | [arisa](http://twitter.com/search?q=arisa) | N/A |
+| 23 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 24 | [maddalena](http://twitter.com/search?q=maddalena) | N/A |
+| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 26 | [Cnel](http://twitter.com/search?q=Cnel) | N/A |
+| 27 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
+| 28 | [Aron](http://twitter.com/search?q=Aron) | N/A |
+| 29 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 30 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 31 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 32 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 33 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 34 | [sissi](http://twitter.com/search?q=sissi) | N/A |
+| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 36 | [Bastianini](http://twitter.com/search?q=Bastianini) | N/A |
+| 37 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
+| 38 | [michele bravi](http://twitter.com/search?q=michele+bravi) | N/A |
+| 39 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
+| 40 | [Tipi](http://twitter.com/search?q=Tipi) | N/A |
+| 41 | [Milly](http://twitter.com/search?q=Milly) | N/A |
+| 42 | [giuseppe giofrè](http://twitter.com/search?q=giuseppe+giofr%c3%a8) | N/A |
+| 43 | [elena e simone](http://twitter.com/search?q=elena+e+simone) | N/A |
+| 44 | [ALESSIO](http://twitter.com/search?q=ALESSIO) | N/A |
+| 45 | [giulia stabile](http://twitter.com/search?q=giulia+stabile) | N/A |
+| 46 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 47 | [marini](http://twitter.com/search?q=marini) | N/A |
+| 48 | [Amedeo](http://twitter.com/search?q=Amedeo) | N/A |
 | 49 | [Rinascimento](http://twitter.com/search?q=Rinascimento) | N/A |
-| 50 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 50 | [gio evan](http://twitter.com/search?q=gio+evan) | N/A |
 
 
 

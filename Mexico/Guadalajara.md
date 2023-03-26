@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-03-26 06:17:14 UTC`
+📆 Last Updated: `2023-03-26 07:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,44 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [López](http://twitter.com/search?q=L%c3%b3pez) | N/A |
-| 2 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 3 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 1 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 2 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 3 | [COWBOY LIKE](http://twitter.com/search?q=COWBOY+LIKE) | N/A |
 | 4 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 5 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 6 | [Anika](http://twitter.com/search?q=Anika) | N/A |
+| 5 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 6 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
 | 7 | [Eva Espejo](http://twitter.com/search?q=Eva+Espejo) | N/A |
-| 8 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 9 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 10 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 8 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 9 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 10 | [#ClasicoRegioFemenil](http://twitter.com/search?q=%23ClasicoRegioFemenil) | N/A |
 | 11 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 12 | [#ClasicoRegioFemenil](http://twitter.com/search?q=%23ClasicoRegioFemenil) | N/A |
+| 12 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
 | 13 | [#LikeCrazy_DeepHouseRemix](http://twitter.com/search?q=%23LikeCrazy_DeepHouseRemix) | N/A |
-| 14 | [#ChabeloPorSiempre](http://twitter.com/search?q=%23ChabeloPorSiempre) | N/A |
-| 15 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
-| 16 | [#LikeCrazy_UKGarageRemix](http://twitter.com/search?q=%23LikeCrazy_UKGarageRemix) | N/A |
-| 17 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 14 | [#chabeloporsiempre](http://twitter.com/search?q=%23chabeloporsiempre) | N/A |
+| 15 | [#LikeCrazy_UKGarageRemix](http://twitter.com/search?q=%23LikeCrazy_UKGarageRemix) | N/A |
+| 16 | [Anika](http://twitter.com/search?q=Anika) | N/A |
+| 17 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
 | 18 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
-| 19 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 20 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 23 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 24 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 25 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
-| 26 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 27 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 28 | [Mezcal](http://twitter.com/search?q=Mezcal) | N/A |
-| 29 | [all of those voices](http://twitter.com/search?q=all+of+those+voices) | N/A |
-| 30 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 19 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 20 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 21 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 22 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 23 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 24 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 25 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 26 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 27 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
+| 28 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 29 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 30 | [all of those voices](http://twitter.com/search?q=all+of+those+voices) | N/A |
 | 31 | [Calica](http://twitter.com/search?q=Calica) | N/A |
-| 32 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
-| 33 | [#ESPNKnockOut](http://twitter.com/search?q=%23ESPNKnockOut) | N/A |
+| 32 | [#ESPNKnockOut](http://twitter.com/search?q=%23ESPNKnockOut) | N/A |
+| 33 | [#Popocatépetl](http://twitter.com/search?q=%23Popocat%c3%a9petl) | N/A |
 | 34 | [#AmorEnElAire](http://twitter.com/search?q=%23AmorEnElAire) | N/A |
 | 35 | [#TequeremosSpreen](http://twitter.com/search?q=%23TequeremosSpreen) | N/A |
-| 36 | [#Popocatépetl](http://twitter.com/search?q=%23Popocat%c3%a9petl) | N/A |
-| 37 | [#ContingenciaAmbiental](http://twitter.com/search?q=%23ContingenciaAmbiental) | N/A |
-| 38 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
-| 39 | [#LigaMXFemenil](http://twitter.com/search?q=%23LigaMXFemenil) | N/A |
-| 40 | [#LikeCrazy_Jimin](http://twitter.com/search?q=%23LikeCrazy_Jimin) | N/A |
-| 41 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
-| 42 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
+| 36 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
+| 37 | [#LikeCrazy_Jimin](http://twitter.com/search?q=%23LikeCrazy_Jimin) | N/A |
+| 38 | [#LigaMXFemenil](http://twitter.com/search?q=%23LigaMXFemenil) | N/A |
 
 
 
