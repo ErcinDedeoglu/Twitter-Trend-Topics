@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-26 08:18:25 UTC`
+📆 Last Updated: `2023-03-26 09:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,9 +29,9 @@ This is top 50 for Ecuador
 | 12 | [Salado](http://twitter.com/search?q=Salado) | N/A |
 | 13 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
 | 14 | [julio guerrero](http://twitter.com/search?q=julio+guerrero) | N/A |
-| 15 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 16 | [gastos reservados](http://twitter.com/search?q=gastos+reservados) | N/A |
-| 17 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 15 | [gastos reservados](http://twitter.com/search?q=gastos+reservados) | N/A |
+| 16 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 17 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
 | 18 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
 | 19 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
 | 20 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Ecuador
 | 37 | [Insulto](http://twitter.com/search?q=Insulto) | N/A |
 | 38 | [quishpe](http://twitter.com/search?q=quishpe) | N/A |
 | 39 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 40 | [ROBEN BIEN](http://twitter.com/search?q=ROBEN+BIEN) | N/A |
+| 40 | [roben bien](http://twitter.com/search?q=roben+bien) | N/A |
 | 41 | [Iberoamérica](http://twitter.com/search?q=Iberoam%c3%a9rica) | N/A |
 | 42 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
 | 43 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-26 08:17:49 UTC`
+📆 Last Updated: `2023-03-26 09:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Austria](</Austria>)
 | 3 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
 | 4 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 5 | [#autaze](http://twitter.com/search?q=%23autaze) | N/A |
-| 6 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 7 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 8 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
+| 6 | [Kogler](http://twitter.com/search?q=Kogler) | N/A |
+| 7 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 8 | [Peter](http://twitter.com/search?q=Peter) | N/A |
 | 9 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 10 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 11 | [Irrsinn](http://twitter.com/search?q=Irrsinn) | N/A |
-| 12 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 13 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
-| 14 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 15 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
+| 10 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 11 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 12 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
+| 13 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 14 | [#indiebookday](http://twitter.com/search?q=%23indiebookday) | N/A |
+| 15 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
 | 16 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 17 | [#indiebookday](http://twitter.com/search?q=%23indiebookday) | N/A |
-| 18 | [Bine](http://twitter.com/search?q=Bine) | N/A |
-| 19 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
-| 20 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 21 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 22 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
-| 23 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 24 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 25 | [robert menasse](http://twitter.com/search?q=robert+menasse) | N/A |
-| 26 | [Kabel](http://twitter.com/search?q=Kabel) | N/A |
-| 27 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 28 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 29 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 30 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
-| 31 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 32 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 34 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 35 | [Kogler](http://twitter.com/search?q=Kogler) | N/A |
-| 36 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
-| 37 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
-| 38 | [E-Auto](http://twitter.com/search?q=E-Auto) | N/A |
-| 39 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 40 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 41 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
-| 42 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 43 | [Hype](http://twitter.com/search?q=Hype) | N/A |
-| 44 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 45 | [Maul](http://twitter.com/search?q=Maul) | N/A |
-| 46 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 47 | [Hersteller](http://twitter.com/search?q=Hersteller) | N/A |
-| 48 | [Bewerbungen](http://twitter.com/search?q=Bewerbungen) | N/A |
-| 49 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 50 | [Flughafen](http://twitter.com/search?q=Flughafen) | N/A |
+| 17 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 18 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 19 | [Fleischmann](http://twitter.com/search?q=Fleischmann) | N/A |
+| 20 | [robert menasse](http://twitter.com/search?q=robert+menasse) | N/A |
+| 21 | [Kabel](http://twitter.com/search?q=Kabel) | N/A |
+| 22 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 23 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 24 | [#w2503](http://twitter.com/search?q=%23w2503) | N/A |
+| 25 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 26 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 27 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
+| 28 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 29 | [Wissens](http://twitter.com/search?q=Wissens) | N/A |
+| 30 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 32 | [Bine](http://twitter.com/search?q=Bine) | N/A |
+| 33 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
+| 34 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 35 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 36 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
+| 37 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 38 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 39 | [Hersteller](http://twitter.com/search?q=Hersteller) | N/A |
+| 40 | [Hype](http://twitter.com/search?q=Hype) | N/A |
+| 41 | [Maul](http://twitter.com/search?q=Maul) | N/A |
+| 42 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 43 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 44 | [bewerbungen](http://twitter.com/search?q=bewerbungen) | N/A |
+| 45 | [Flughafen](http://twitter.com/search?q=Flughafen) | N/A |
+| 46 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 47 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 48 | [haushaltsabgabe](http://twitter.com/search?q=haushaltsabgabe) | N/A |
+| 49 | [Impfen](http://twitter.com/search?q=Impfen) | N/A |
+| 50 | [Berichte](http://twitter.com/search?q=Berichte) | N/A |
 
 
 

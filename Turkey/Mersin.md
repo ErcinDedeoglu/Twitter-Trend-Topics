@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-03-26 08:18:13 UTC`
+📆 Last Updated: `2023-03-26 09:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,51 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#SanaSöz](http://twitter.com/search?q=%23SanaS%c3%b6z) | N/A |
 | 2 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
 | 3 | [#MuhsinYazıcıoğlu](http://twitter.com/search?q=%23MuhsinYaz%c4%b1c%c4%b1o%c4%9flu) | N/A |
-| 4 | [#BizimÇocuklar](http://twitter.com/search?q=%23Bizim%c3%87ocuklar) | N/A |
+| 4 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
 | 5 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
 | 6 | [tayinimüjdelegsb](http://twitter.com/search?q=tayinim%c3%bcjdelegsb) | N/A |
-| 7 | [İzmirliKızlar Güzeldir](http://twitter.com/search?q=%c4%b0zmirliK%c4%b1zlar+G%c3%bczeldir) | N/A |
+| 7 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
 | 8 | [Ozan](http://twitter.com/search?q=Ozan) | N/A |
-| 9 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
-| 10 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 11 | [Ermenistan](http://twitter.com/search?q=Ermenistan) | N/A |
-| 12 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 13 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 14 | [onur bulut](http://twitter.com/search?q=onur+bulut) | N/A |
-| 15 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
-| 16 | [KEREM AKTÜRKOĞLU](http://twitter.com/search?q=KEREM+AKT%c3%9cRKO%c4%9eLU) | N/A |
+| 9 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 10 | [Ermenistan](http://twitter.com/search?q=Ermenistan) | N/A |
+| 11 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
+| 12 | [İzmirliKızlar Güzeldir](http://twitter.com/search?q=%c4%b0zmirliK%c4%b1zlar+G%c3%bczeldir) | N/A |
+| 13 | [KEREM AKTÜRKOĞLU](http://twitter.com/search?q=KEREM+AKT%c3%9cRKO%c4%9eLU) | N/A |
+| 14 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 15 | [orkun kökçü](http://twitter.com/search?q=orkun+k%c3%b6k%c3%a7%c3%bc) | N/A |
+| 16 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
 | 17 | [Bakan Akar](http://twitter.com/search?q=Bakan+Akar) | N/A |
-| 18 | [orkun kökçü](http://twitter.com/search?q=orkun+k%c3%b6k%c3%a7%c3%bc) | N/A |
-| 19 | [Ramazan](http://twitter.com/search?q=Ramazan) | N/A |
-| 20 | [ailelerperişangsb](http://twitter.com/search?q=ailelerperi%c5%9fangsb) | N/A |
-| 21 | [yapıkayıt torbaya](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+torbaya) | N/A |
-| 22 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
-| 23 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 24 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
-| 25 | [muharrem ince 100](http://twitter.com/search?q=muharrem+ince+100) | N/A |
-| 26 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
-| 27 | [Canan](http://twitter.com/search?q=Canan) | N/A |
-| 28 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 29 | [Enes](http://twitter.com/search?q=Enes) | N/A |
-| 30 | [G İ D İ Y O R L A R](http://twitter.com/search?q=G+%c4%b0+D+%c4%b0+Y+O+R+L+A+R) | N/A |
-| 31 | [Hırvatistan](http://twitter.com/search?q=H%c4%b1rvatistan) | N/A |
-| 32 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
-| 33 | [denkliğe çözümistiyoruz](http://twitter.com/search?q=denkli%c4%9fe+%c3%a7%c3%b6z%c3%bcmistiyoruz) | N/A |
-| 34 | [müjdeli haber](http://twitter.com/search?q=m%c3%bcjdeli+haber) | N/A |
-| 35 | [Kur'an-ı Kerim'e](http://twitter.com/search?q=Kur%27an-%c4%b1+Kerim%27e) | N/A |
-| 36 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
-| 37 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
-| 38 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
-| 39 | [BebeklerinYeri CezaeviMi](http://twitter.com/search?q=BebeklerinYeri+CezaeviMi) | N/A |
-| 40 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
+| 18 | [ailelerperişangsb](http://twitter.com/search?q=ailelerperi%c5%9fangsb) | N/A |
+| 19 | [yapıkayıt torbaya](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+torbaya) | N/A |
+| 20 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 21 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 22 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 23 | [Yusuf Ziya Özcan](http://twitter.com/search?q=Yusuf+Ziya+%c3%96zcan) | N/A |
+| 24 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
+| 25 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 26 | [Canan](http://twitter.com/search?q=Canan) | N/A |
+| 27 | [Hırvatistan](http://twitter.com/search?q=H%c4%b1rvatistan) | N/A |
+| 28 | [Enes](http://twitter.com/search?q=Enes) | N/A |
+| 29 | [denkliğe çözümistiyoruz](http://twitter.com/search?q=denkli%c4%9fe+%c3%a7%c3%b6z%c3%bcmistiyoruz) | N/A |
+| 30 | [Oruç](http://twitter.com/search?q=Oru%c3%a7) | N/A |
+| 31 | [G İ D İ Y O R L A R](http://twitter.com/search?q=G+%c4%b0+D+%c4%b0+Y+O+R+L+A+R) | N/A |
+| 32 | [müjdeli haber](http://twitter.com/search?q=m%c3%bcjdeli+haber) | N/A |
+| 33 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 34 | [Kur'an-ı Kerim'e](http://twitter.com/search?q=Kur%27an-%c4%b1+Kerim%27e) | N/A |
+| 35 | [Vefatının 14](http://twitter.com/search?q=Vefat%c4%b1n%c4%b1n+14) | N/A |
+| 36 | [Muharrem İnce 100](http://twitter.com/search?q=Muharrem+%c4%b0nce+100) | N/A |
+| 37 | [hayırlı cumalar](http://twitter.com/search?q=hay%c4%b1rl%c4%b1+cumalar) | N/A |
+| 38 | [Yine Baharlar Gelecek](http://twitter.com/search?q=Yine+Baharlar+Gelecek) | N/A |
+| 39 | [Marmara Üniversitesi](http://twitter.com/search?q=Marmara+%c3%9cniversitesi) | N/A |
+| 40 | [Filmin](http://twitter.com/search?q=Filmin) | N/A |
 | 41 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 42 | [Salih Özcan](http://twitter.com/search?q=Salih+%c3%96zcan) | N/A |
-| 43 | [Mert Günok](http://twitter.com/search?q=Mert+G%c3%bcnok) | Mert Günok is a Turkish name. It is composed of two words: Mert, which means brave or courageous, and Günok, which means soldier. In English, the name would translate to Brave Soldier. |
-| 44 | [i̇stiklal marşımızı](http://twitter.com/search?q=i%cc%87stiklal+mar%c5%9f%c4%b1m%c4%b1z%c4%b1) | N/A |
-| 45 | [Şehadetinin 14](http://twitter.com/search?q=%c5%9eehadetinin+14) | N/A |
-| 46 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
-| 47 | [Show TV](http://twitter.com/search?q=Show+TV) | N/A |
-| 48 | [Ketçap](http://twitter.com/search?q=Ket%c3%a7ap) | N/A |
-| 49 | [TaşeronunOyu KadrodaSaklı](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadrodaSakl%c4%b1) | N/A |
+| 42 | [Show TV](http://twitter.com/search?q=Show+TV) | N/A |
+| 43 | [i̇stiklal marşımızı](http://twitter.com/search?q=i%cc%87stiklal+mar%c5%9f%c4%b1m%c4%b1z%c4%b1) | N/A |
+| 44 | [Salih Özcan](http://twitter.com/search?q=Salih+%c3%96zcan) | N/A |
+| 45 | [Mert Günok](http://twitter.com/search?q=Mert+G%c3%bcnok) | Mert Günok is a Turkish name. It is composed of two words: Mert, which means brave or courageous, and Günok, which means soldier. In English, the name would translate to Brave Soldier. |
+| 46 | [S-400](http://twitter.com/search?q=S-400) | N/A |
+| 47 | [BebeklerinYeri CezaeviMi](http://twitter.com/search?q=BebeklerinYeri+CezaeviMi) | N/A |
+| 48 | [Allahu Ekber](http://twitter.com/search?q=Allahu+Ekber) | N/A |
 
 
 

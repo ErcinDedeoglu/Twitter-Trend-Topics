@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-26 08:18:31 UTC`
+📆 Last Updated: `2023-03-26 09:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Vietnam
 | ------- | ------------ | ------------ |
 | 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 2 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | N/A |
-| 3 | [WB NIGHT WITH XIAO ZHAN](http://twitter.com/search?q=WB+NIGHT+WITH+XIAO+ZHAN) | N/A |
-| 4 | [#한터타락](http://twitter.com/search?q=%23%ed%95%9c%ed%84%b0%ed%83%80%eb%9d%bd) | N/A |
-| 5 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 6 | [#pollypastelluve](http://twitter.com/search?q=%23pollypastelluve) | N/A |
+| 3 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 4 | [WB NIGHT WITH XIAO ZHAN](http://twitter.com/search?q=WB+NIGHT+WITH+XIAO+ZHAN) | N/A |
+| 5 | [#BetweenUsinVietNam](http://twitter.com/search?q=%23BetweenUsinVietNam) | N/A |
+| 6 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
 | 7 | [build you are luved](http://twitter.com/search?q=build+you+are+luved) | N/A |
-| 8 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
-| 9 | [nnine weibonight2022](http://twitter.com/search?q=nnine+weibonight2022) | N/A |
-| 10 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 11 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
-| 12 | [freenbecky fan benefit](http://twitter.com/search?q=freenbecky+fan+benefit) | N/A |
-| 13 | [Thiện](http://twitter.com/search?q=Thi%e1%bb%87n) | N/A |
-| 14 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 15 | [Fourth](http://twitter.com/search?q=Fourth) | N/A |
-| 16 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
-| 17 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 18 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 19 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 20 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
-| 21 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
-| 22 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 23 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 24 | [GenG](http://twitter.com/search?q=GenG) | N/A |
-| 25 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 26 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 27 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 28 | [America](http://twitter.com/search?q=America) | N/A |
-| 29 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
-| 30 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 31 | [trove](http://twitter.com/search?q=trove) | N/A |
-| 32 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 33 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 34 | [Vash](http://twitter.com/search?q=Vash) | N/A |
-| 35 | [England](http://twitter.com/search?q=England) | N/A |
-| 36 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
-| 37 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 38 | [Knives](http://twitter.com/search?q=Knives) | N/A |
-| 39 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 40 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 41 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 42 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 43 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
-| 44 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 45 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 47 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 8 | [nnine weibonight2022](http://twitter.com/search?q=nnine+weibonight2022) | N/A |
+| 9 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 10 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
+| 11 | [freenbecky fan benefit](http://twitter.com/search?q=freenbecky+fan+benefit) | N/A |
+| 12 | [Thiện](http://twitter.com/search?q=Thi%e1%bb%87n) | N/A |
+| 13 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 14 | [Fourth](http://twitter.com/search?q=Fourth) | N/A |
+| 15 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 16 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 17 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 18 | [Do Kwon](http://twitter.com/search?q=Do+Kwon) | N/A |
+| 19 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
+| 20 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 21 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 22 | [Buồn](http://twitter.com/search?q=Bu%e1%bb%93n) | N/A |
+| 23 | [Chart](http://twitter.com/search?q=Chart) | N/A |
+| 24 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 25 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 26 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 27 | [Montenegro](http://twitter.com/search?q=Montenegro) | N/A |
+| 28 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 29 | [trove](http://twitter.com/search?q=trove) | N/A |
+| 30 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 31 | [Vash](http://twitter.com/search?q=Vash) | N/A |
+| 32 | [England](http://twitter.com/search?q=England) | N/A |
+| 33 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 34 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 35 | [Knives](http://twitter.com/search?q=Knives) | N/A |
+| 36 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
+| 37 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 38 | [GenG](http://twitter.com/search?q=GenG) | N/A |
+| 39 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 40 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 41 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
+| 42 | [Quan](http://twitter.com/search?q=Quan) | N/A |
+| 43 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 44 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 46 | [Bình Dương](http://twitter.com/search?q=B%c3%acnh+D%c6%b0%c6%a1ng) | N/A |
+| 47 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 48 | [Good Project](http://twitter.com/search?q=Good+Project) | N/A |
 | 49 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
 
 
 

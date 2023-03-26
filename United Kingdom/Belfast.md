@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-26 08:17:40 UTC`
+📆 Last Updated: `2023-03-26 09:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 2 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
-| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 4 | [#NonLeagueDay](http://twitter.com/search?q=%23NonLeagueDay) | N/A |
-| 5 | [#clocksgoforward](http://twitter.com/search?q=%23clocksgoforward) | N/A |
-| 6 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 1 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 2 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 3 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 4 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 5 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
+| 6 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
 | 7 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 8 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 10 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 11 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 12 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
-| 13 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 14 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
-| 15 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 8 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 9 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 10 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 11 | [Graham Brady](http://twitter.com/search?q=Graham+Brady) | N/A |
+| 12 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 13 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 15 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 16 | [GAME OFF](http://twitter.com/search?q=GAME+OFF) | GAME OFF is an expression used to indicate that a game or activity has ended. It is typically used as a way to signal the end of a game or competition, such as when someone says "Game off!" at the end of a round of cards or board games. |
 | 17 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
-| 18 | [Graham Brady](http://twitter.com/search?q=Graham+Brady) | N/A |
-| 19 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 20 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 22 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 23 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 25 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 26 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 27 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 28 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 29 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 30 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 31 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 32 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 33 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 34 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
-| 35 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 36 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 37 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 38 | [David Light](http://twitter.com/search?q=David+Light) | N/A |
-| 39 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 40 | [East 17](http://twitter.com/search?q=East+17) | N/A |
-| 41 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 42 | [Morning Linda](http://twitter.com/search?q=Morning+Linda) | N/A |
-| 43 | [Morning Tim](http://twitter.com/search?q=Morning+Tim) | N/A |
-| 44 | [Morning Rich](http://twitter.com/search?q=Morning+Rich) | N/A |
-| 45 | [Tiswas](http://twitter.com/search?q=Tiswas) | N/A |
-| 46 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 47 | [The French](http://twitter.com/search?q=The+French) | The French is a term used to refer to the people, language, and culture of France. In English, it is used to describe anything related to France or the French people. |
-| 48 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 49 | [Morning Gary](http://twitter.com/search?q=Morning+Gary) | N/A |
+| 18 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 19 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 20 | [David Lammy](http://twitter.com/search?q=David+Lammy) | N/A |
+| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 22 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 23 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 24 | [Greedy](http://twitter.com/search?q=Greedy) | N/A |
+| 25 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 26 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 27 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 28 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 29 | [#LauraKuenssberg](http://twitter.com/search?q=%23LauraKuenssberg) | N/A |
+| 30 | [#ASongOrMovieForLeafyVeg](http://twitter.com/search?q=%23ASongOrMovieForLeafyVeg) | N/A |
+| 31 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
+| 32 | [#BritishSummerTime](http://twitter.com/search?q=%23BritishSummerTime) | N/A |
+| 33 | [#clocksgoforward](http://twitter.com/search?q=%23clocksgoforward) | N/A |
+| 34 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
+| 35 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 36 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 37 | [#ToriesOut262](http://twitter.com/search?q=%23ToriesOut262) | N/A |
+| 38 | [#SheffieldHalfMarathon](http://twitter.com/search?q=%23SheffieldHalfMarathon) | N/A |
+| 39 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
+| 40 | [#PurpleDay](http://twitter.com/search?q=%23PurpleDay) | N/A |
+| 41 | [#ToryGreed](http://twitter.com/search?q=%23ToryGreed) | N/A |
+| 42 | [#springforward](http://twitter.com/search?q=%23springforward) | N/A |
+| 43 | [#TorySleaze](http://twitter.com/search?q=%23TorySleaze) | N/A |
+| 44 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 45 | [#ToryCorruption](http://twitter.com/search?q=%23ToryCorruption) | N/A |
+| 46 | [#ukgiftam](http://twitter.com/search?q=%23ukgiftam) | N/A |
+| 47 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 48 | [#GeneralElectionN0W](http://twitter.com/search?q=%23GeneralElectionN0W) | N/A |
 
 
 

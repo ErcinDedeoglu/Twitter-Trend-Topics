@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-26 08:17:46 UTC`
+📆 Last Updated: `2023-03-26 09:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 2 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 3 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 4 | [tasha](http://twitter.com/search?q=tasha) | N/A |
-| 5 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 6 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 7 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 8 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 9 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
-| 10 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 11 | [#ColdplayRio](http://twitter.com/search?q=%23ColdplayRio) | N/A |
-| 12 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 13 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 14 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 15 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
-| 16 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
-| 17 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
-| 18 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 19 | [#BrasileiraoMusical](http://twitter.com/search?q=%23BrasileiraoMusical) | N/A |
-| 20 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 21 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 22 | [Velhote](http://twitter.com/search?q=Velhote) | N/A |
-| 23 | [kevin parker](http://twitter.com/search?q=kevin+parker) | N/A |
-| 24 | [#TodasAsFlores](http://twitter.com/search?q=%23TodasAsFlores) | N/A |
-| 25 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
-| 26 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 27 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 28 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 29 | [Sofi Tukker](http://twitter.com/search?q=Sofi+Tukker) | N/A |
-| 30 | [21 pilots](http://twitter.com/search?q=21+pilots) | N/A |
-| 31 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
-| 32 | [O Harry](http://twitter.com/search?q=O+Harry) | "O Harry" is an expression of surprise or disbelief, similar to "Oh my!" or "Oh wow!" It is often used as an exclamation when something unexpected or remarkable happens. |
-| 33 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 34 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
-| 35 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 36 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 37 | [Canalhice](http://twitter.com/search?q=Canalhice) | N/A |
-| 38 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 39 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 40 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
-| 41 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 42 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 43 | [Royal](http://twitter.com/search?q=Royal) | N/A |
-| 44 | [Eliana](http://twitter.com/search?q=Eliana) | N/A |
-| 45 | [Ibanez](http://twitter.com/search?q=Ibanez) | N/A |
-| 46 | [Carrossel](http://twitter.com/search?q=Carrossel) | N/A |
-| 47 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 2 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 3 | [tasha](http://twitter.com/search?q=tasha) | N/A |
+| 4 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 5 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 6 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 7 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
+| 8 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
+| 9 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
+| 10 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 11 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 13 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
+| 14 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
+| 15 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 16 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
+| 17 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 18 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 19 | [Mete](http://twitter.com/search?q=Mete) | N/A |
+| 20 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 22 | [#brasilnaband](http://twitter.com/search?q=%23brasilnaband) | N/A |
+| 23 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 24 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 25 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
+| 26 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 27 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 28 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
+| 29 | [#Galo115Anos](http://twitter.com/search?q=%23Galo115Anos) | N/A |
+| 30 | [#selecaobrasileiranaespn](http://twitter.com/search?q=%23selecaobrasileiranaespn) | N/A |
+| 31 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 32 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 33 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 34 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
+| 35 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 36 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 37 | [Moro](http://twitter.com/search?q=Moro) | N/A |
+| 38 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
+| 39 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 40 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
+| 41 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 42 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 43 | [#gopain](http://twitter.com/search?q=%23gopain) | N/A |
+| 44 | [Galdino](http://twitter.com/search?q=Galdino) | Galdino is a Portuguese name derived from the Latin name Galdinus, which means “ruler of the people”. It is also a variant of the Italian name Gualdino, which has the same meaning. |
+| 45 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
+| 46 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
+| 47 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 48 | [happier than ever](http://twitter.com/search?q=happier+than+ever) | N/A |
+| 49 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
+| 50 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 
 
 

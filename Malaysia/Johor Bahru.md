@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-03-26 08:18:02 UTC`
+📆 Last Updated: `2023-03-26 09:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#นุนิวxMakroPRO](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7xMakroPRO) | N/A |
-| 2 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 3 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 4 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
+| 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 2 | [#นุนิวxMakroPRO](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7xMakroPRO) | N/A |
+| 3 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
+| 4 | [#ZALORABirthdaySale](http://twitter.com/search?q=%23ZALORABirthdaySale) | N/A |
 | 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 6 | [ongteo](http://twitter.com/search?q=ongteo) | N/A |
-| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
 | 8 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
 | 9 | [otms](http://twitter.com/search?q=otms) | N/A |
-| 10 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 11 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 12 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 14 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 15 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 16 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 17 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 18 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 19 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 20 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 21 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 22 | [build you are luved](http://twitter.com/search?q=build+you+are+luved) | N/A |
-| 23 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
-| 24 | [MELT](http://twitter.com/search?q=MELT) | N/A |
-| 25 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 26 | [GLCs](http://twitter.com/search?q=GLCs) | N/A |
-| 27 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 28 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
-| 29 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
-| 30 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 31 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 32 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 33 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
-| 34 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 10 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 11 | [Hyukjae](http://twitter.com/search?q=Hyukjae) | N/A |
+| 12 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 13 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 14 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 15 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 16 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 17 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 18 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 19 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 20 | [Vmin](http://twitter.com/search?q=Vmin) | N/A |
+| 21 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 22 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 23 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 24 | [build you are luved](http://twitter.com/search?q=build+you+are+luved) | N/A |
+| 25 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
+| 26 | [MELT](http://twitter.com/search?q=MELT) | N/A |
+| 27 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 28 | [GLCs](http://twitter.com/search?q=GLCs) | N/A |
+| 29 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 30 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
+| 31 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
+| 32 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 33 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 34 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
 | 35 | [umji](http://twitter.com/search?q=umji) | N/A |
-| 36 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 37 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
-| 38 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 39 | [Context](http://twitter.com/search?q=Context) | N/A |
-| 40 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 41 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 43 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
-| 44 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 45 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
-| 46 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 47 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 48 | [Penang](http://twitter.com/search?q=Penang) | N/A |
-| 49 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 36 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 37 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 38 | [PHILIPPINES LOVES JENNIE](http://twitter.com/search?q=PHILIPPINES+LOVES+JENNIE) | N/A |
+| 39 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
+| 40 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 41 | [Context](http://twitter.com/search?q=Context) | N/A |
+| 42 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 43 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 44 | [Lonely Night](http://twitter.com/search?q=Lonely+Night) | N/A |
+| 45 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 46 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 47 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
 
 
 

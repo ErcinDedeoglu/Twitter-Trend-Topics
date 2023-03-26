@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Arab Emirates
 
-📆 Last Updated: `2023-03-26 08:18:23 UTC`
+📆 Last Updated: `2023-03-26 09:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for United Arab Emirates
 | 2 | [#حقیقی_آزادی_جلسہ](http://twitter.com/search?q=%23%d8%ad%d9%82%db%8c%d9%82%db%8c_%d8%a2%d8%b2%d8%a7%d8%af%db%8c_%d8%ac%d9%84%d8%b3%db%81) | N/A |
 | 3 | [#كاس_دبي_العالمي](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%af%d8%a8%d9%8a_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 4 | [#جلسہ_نہیں_ریفرینڈم_ہے](http://twitter.com/search?q=%23%d8%ac%d9%84%d8%b3%db%81_%d9%86%db%81%db%8c%da%ba_%d8%b1%db%8c%d9%81%d8%b1%db%8c%d9%86%da%88%d9%85_%db%81%db%92) | N/A |
-| 5 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
+| 5 | [#ساعه_الارض](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
 | 6 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 7 | [الاعتراف الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d9%81+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 | 8 | [بو مريم](http://twitter.com/search?q=%d8%a8%d9%88+%d9%85%d8%b1%d9%8a%d9%85) | N/A |
@@ -29,42 +29,42 @@ This is top 50 for United Arab Emirates
 | 12 | [ديربي الامارات](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
 | 13 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 14 | [لورد نورث](http://twitter.com/search?q=%d9%84%d9%88%d8%b1%d8%af+%d9%86%d9%88%d8%b1%d8%ab) | N/A |
-| 15 | [الاتحاد الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 16 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 15 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 16 | [الاتحاد الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 | 17 | [حسن الحياه](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
 | 18 | [Minar e Pakistan](http://twitter.com/search?q=Minar+e+Pakistan) | N/A |
 | 19 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 20 | [الصليب الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%a8+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 21 | [اللهم البركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%a8%d8%b1%d9%83%d9%87) | N/A |
-| 22 | [لجمعيات الهلال الاحمر](http://twitter.com/search?q=%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 23 | [UAE Derby](http://twitter.com/search?q=UAE+Derby) | N/A |
-| 24 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
+| 20 | [اللهم البركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%a8%d8%b1%d9%83%d9%87) | N/A |
+| 21 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 22 | [الصليب الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%a8+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 23 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
+| 24 | [لجمعيات الهلال الاحمر](http://twitter.com/search?q=%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
 | 25 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
 | 26 | [الامسيه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 27 | [Khan](http://twitter.com/search?q=Khan) | N/A |
-| 28 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 29 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 30 | [علي البييه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
-| 31 | [غير الضروريه](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b6%d8%b1%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 32 | [Teri](http://twitter.com/search?q=Teri) | N/A |
-| 33 | [الاجيال القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 34 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 27 | [Teri](http://twitter.com/search?q=Teri) | N/A |
+| 28 | [Khan](http://twitter.com/search?q=Khan) | N/A |
+| 29 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 30 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 31 | [علي البييه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%8a%d9%8a%d9%87) | N/A |
+| 32 | [Nation](http://twitter.com/search?q=Nation) | N/A |
+| 33 | [غير الضروريه](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b6%d8%b1%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 34 | [الاجيال القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
 | 35 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 36 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
 | 37 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 38 | [ايمان مبعلي](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%a7%d9%86+%d9%85%d8%a8%d8%b9%d9%84%d9%8a) | N/A |
-| 39 | [علي مضمار ميدان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b6%d9%85%d8%a7%d8%b1+%d9%85%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 40 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
-| 41 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 42 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 43 | [بو عبدالملك](http://twitter.com/search?q=%d8%a8%d9%88+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 44 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 45 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 46 | [25 مارس 2023](http://twitter.com/search?q=25+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 47 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
-| 48 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 49 | [رامز](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
-| 50 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 38 | [علي مضمار ميدان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b6%d9%85%d8%a7%d8%b1+%d9%85%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 39 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
+| 40 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 41 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 42 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 43 | [25 مارس 2023](http://twitter.com/search?q=25+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 44 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
+| 45 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 46 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 47 | [رامز](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
+| 48 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 49 | [al quoz sprint](http://twitter.com/search?q=al+quoz+sprint) | N/A |
+| 50 | [آل نهيان](http://twitter.com/search?q=%d8%a2%d9%84+%d9%86%d9%87%d9%8a%d8%a7%d9%86) | N/A |
 
 
 

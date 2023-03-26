@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-03-26 08:18:07 UTC`
+📆 Last Updated: `2023-03-26 09:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,46 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#تعليم_مكه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d9%83%d9%87) | N/A |
-| 2 | [#محمد_عبده_في_ليوان_المديفر](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%b9%d8%a8%d8%af%d9%87_%d9%81%d9%8a_%d9%84%d9%8a%d9%88%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%81%d8%b1) | N/A |
-| 3 | [#تعليم_الباحه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d9%87) | N/A |
-| 4 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 5 | [#ناصر_الوبير](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%b5%d8%b1_%d8%a7%d9%84%d9%88%d8%a8%d9%8a%d8%b1) | N/A |
-| 6 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
-| 7 | [#صه_ال](http://twitter.com/search?q=%23%d8%b5%d9%87_%d8%a7%d9%84) | N/A |
-| 8 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 9 | [سير العمليه التعليميه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 10 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 11 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 1 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 2 | [بناء علي](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a) | N/A |
+| 3 | [#صه_ال](http://twitter.com/search?q=%23%d8%b5%d9%87_%d8%a7%d9%84) | N/A |
+| 4 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
+| 5 | [#فيمتو_او_تانج](http://twitter.com/search?q=%23%d9%81%d9%8a%d9%85%d8%aa%d9%88_%d8%a7%d9%88_%d8%aa%d8%a7%d9%86%d8%ac) | N/A |
+| 6 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 7 | [#وش_جهزتي_للفطور](http://twitter.com/search?q=%23%d9%88%d8%b4_%d8%ac%d9%87%d8%b2%d8%aa%d9%8a_%d9%84%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
+| 8 | [#كم_يوم_صمت](http://twitter.com/search?q=%23%d9%83%d9%85_%d9%8a%d9%88%d9%85_%d8%b5%d9%85%d8%aa) | N/A |
+| 9 | [العمليه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 10 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 11 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 12 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 13 | [شمال الرياض](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 14 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 15 | [الانضباط المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
-| 16 | [علي صوت المطر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | "علي صوت المطر" is an Arabic phrase that translates to "to the sound of the rain". It is often used as a metaphor for something that is calming and peaceful. |
+| 13 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 14 | [الانضباط المدرسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a) | N/A |
+| 15 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
+| 16 | [شمال الرياض](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
 | 17 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 18 | [مصرف الراجحي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 19 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 20 | [عزيزي ولي الامر](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
+| 18 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
+| 19 | [مصرف الراجحي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b1%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
+| 20 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 21 | [المطر المستمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b7%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%85%d8%b1) | N/A |
-| 22 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
-| 23 | [المتاجر الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%a7%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 24 | [طلال مداح](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d9%85%d8%af%d8%a7%d8%ad) | طلال مداح is an Arabic phrase that translates to "praise the generous one". It is often used as a way to express gratitude and appreciation for someone's generosity. |
-| 25 | [المنتخب المغربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
-| 26 | [الساحل الغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
-| 27 | [جاب العيد](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 28 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
-| 29 | [#مسابقه_المربع_نت4](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa4) | N/A |
+| 22 | [عزيزي ولي الامر](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%b1) | N/A |
+| 23 | [عزيزي الطالب](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 24 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
+| 25 | [طلال مداح](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d9%85%d8%af%d8%a7%d8%ad) | طلال مداح is an Arabic phrase that translates to "praise the generous one". It is often used as a way to express gratitude and appreciation for someone's generosity. |
+| 26 | [#امطار_الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 27 | [#مسابقه_المربع_نت4](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa4) | N/A |
+| 28 | [#تعليم_الباحه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%a8%d8%a7%d8%ad%d9%87) | N/A |
+| 29 | [#عن_بعد](http://twitter.com/search?q=%23%d8%b9%d9%86_%d8%a8%d8%b9%d8%af) | N/A |
 | 30 | [#خالد_الجبير](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ac%d8%a8%d9%8a%d8%b1) | N/A |
-| 31 | [#تعليق_الدراسه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%82_%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87) | N/A |
-| 32 | [#مسابقه_طرق_الرياض4](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b64) | N/A |
-| 33 | [#مكافاه_مصرف_الراجحي2](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a2) | N/A |
-| 34 | [#العطاوي_للاتصالات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d9%88%d9%8a_%d9%84%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
-| 35 | [#عن_بعد](http://twitter.com/search?q=%23%d8%b9%d9%86_%d8%a8%d8%b9%d8%af) | N/A |
+| 31 | [#العطاوي_للاتصالات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d9%88%d9%8a_%d9%84%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 32 | [#تعليم_مكه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d9%85%d9%83%d9%87) | N/A |
+| 33 | [#مسابقه_طرق_الرياض4](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b64) | N/A |
+| 34 | [#تعليق_الدراسه](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%82_%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87) | N/A |
+| 35 | [#مكافاه_مصرف_الراجحي2](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a2) | N/A |
 | 36 | [#ولي_العهد_في_المدينه_المنوره](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d9%81%d9%8a_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87_%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
-| 37 | [#فيصل_بن_طلال](http://twitter.com/search?q=%23%d9%81%d9%8a%d8%b5%d9%84_%d8%a8%d9%86_%d8%b7%d9%84%d8%a7%d9%84) | N/A |
-| 38 | [#خالد_الفراج](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ac) | N/A |
-| 39 | [#من_الوصول_الي_الحصول4](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84_%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d8%ad%d8%b5%d9%88%d9%844) | N/A |
-| 40 | [#مسابقه_السلامه_المروريه3](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%873) | N/A |
-| 41 | [#المغرب_البرازيل](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8_%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
-| 42 | [#الصعود_للهاويه3](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d8%b9%d9%88%d8%af_%d9%84%d9%84%d9%87%d8%a7%d9%88%d9%8a%d9%873) | N/A |
+| 37 | [#خالد_الفراج](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ac) | N/A |
+| 38 | [#من_الوصول_الي_الحصول4](http://twitter.com/search?q=%23%d9%85%d9%86_%d8%a7%d9%84%d9%88%d8%b5%d9%88%d9%84_%d8%a7%d9%84%d9%8a_%d8%a7%d9%84%d8%ad%d8%b5%d9%88%d9%844) | N/A |
+| 39 | [#مسابقه_السلامه_المروريه3](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%873) | N/A |
+| 40 | [#المغرب_البرازيل](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8_%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
 
 
 

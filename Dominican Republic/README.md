@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-26 08:18:25 UTC`
+📆 Last Updated: `2023-03-26 09:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,9 +22,9 @@ This is top 50 for Dominican Republic
 | 5 | [#QueremosPanNoCirco](http://twitter.com/search?q=%23QueremosPanNoCirco) | N/A |
 | 6 | [#sdecambiacondio](http://twitter.com/search?q=%23sdecambiacondio) | N/A |
 | 7 | [rey de españa](http://twitter.com/search?q=rey+de+espa%c3%b1a) | N/A |
-| 8 | [dirección central](http://twitter.com/search?q=direcci%c3%b3n+central) | N/A |
-| 9 | [fefita](http://twitter.com/search?q=fefita) | N/A |
-| 10 | [#asambleafp](http://twitter.com/search?q=%23asambleafp) | N/A |
+| 8 | [fefita](http://twitter.com/search?q=fefita) | N/A |
+| 9 | [#asambleafp](http://twitter.com/search?q=%23asambleafp) | N/A |
+| 10 | [Dirección Central](http://twitter.com/search?q=Direcci%c3%b3n+Central) | N/A |
 | 11 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 12 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
 | 13 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
@@ -39,7 +39,7 @@ This is top 50 for Dominican Republic
 | 22 | [Catarey](http://twitter.com/search?q=Catarey) | N/A |
 | 23 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
 | 24 | [Pedro Sánchez](http://twitter.com/search?q=Pedro+S%c3%a1nchez) | N/A |
-| 25 | [Marcha Verde](http://twitter.com/search?q=Marcha+Verde) | N/A |
+| 25 | [marcha verde](http://twitter.com/search?q=marcha+verde) | N/A |
 | 26 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
 | 27 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 28 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Dominican Republic
 | 32 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
 | 33 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
 | 34 | [presidente luis abinader](http://twitter.com/search?q=presidente+luis+abinader) | N/A |
-| 35 | [manerra](http://twitter.com/search?q=manerra) | N/A |
+| 35 | [Manerra](http://twitter.com/search?q=Manerra) | N/A |
 | 36 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
 | 37 | [Don Francisco](http://twitter.com/search?q=Don+Francisco) | N/A |
 | 38 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
@@ -60,7 +60,7 @@ This is top 50 for Dominican Republic
 | 43 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 44 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
 | 45 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
-| 46 | [francisco javier](http://twitter.com/search?q=francisco+javier) | N/A |
+| 46 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
 | 47 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
 | 48 | [fortaleza ozama](http://twitter.com/search?q=fortaleza+ozama) | N/A |
 | 49 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |

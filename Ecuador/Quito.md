@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-26 08:17:44 UTC`
+📆 Last Updated: `2023-03-26 09:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,14 +24,14 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 7 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
 | 8 | [Teresa Nuques](http://twitter.com/search?q=Teresa+Nuques) | N/A |
 | 9 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 10 | [Pindal](http://twitter.com/search?q=Pindal) | N/A |
+| 10 | [pindal](http://twitter.com/search?q=pindal) | N/A |
 | 11 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
 | 12 | [Salado](http://twitter.com/search?q=Salado) | N/A |
 | 13 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
-| 14 | [Julio Guerrero](http://twitter.com/search?q=Julio+Guerrero) | N/A |
-| 15 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 16 | [gastos reservados](http://twitter.com/search?q=gastos+reservados) | N/A |
-| 17 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 14 | [julio guerrero](http://twitter.com/search?q=julio+guerrero) | N/A |
+| 15 | [gastos reservados](http://twitter.com/search?q=gastos+reservados) | N/A |
+| 16 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 17 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
 | 18 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
 | 19 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
 | 20 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 31 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
 | 32 | [Evo Morales](http://twitter.com/search?q=Evo+Morales) | N/A |
 | 33 | [Mirtha Legrand](http://twitter.com/search?q=Mirtha+Legrand) | N/A |
-| 34 | [Jocay](http://twitter.com/search?q=Jocay) | N/A |
+| 34 | [jocay](http://twitter.com/search?q=jocay) | N/A |
 | 35 | [trujillato](http://twitter.com/search?q=trujillato) | N/A |
 | 36 | [Pachakutik](http://twitter.com/search?q=Pachakutik) | N/A |
 | 37 | [Insulto](http://twitter.com/search?q=Insulto) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-03-26 08:18:13 UTC`
+📆 Last Updated: `2023-03-26 09:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MannKiBaat](http://twitter.com/search?q=%23MannKiBaat) | N/A |
-| 2 | [#KanjoosMakhichoos](http://twitter.com/search?q=%23KanjoosMakhichoos) | N/A |
-| 3 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
-| 4 | [#BholaaAdvanceBookingOpen](http://twitter.com/search?q=%23BholaaAdvanceBookingOpen) | N/A |
-| 5 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 2 | [#AasmanSeAage](http://twitter.com/search?q=%23AasmanSeAage) | N/A |
+| 3 | [#KanjoosMakhichoos](http://twitter.com/search?q=%23KanjoosMakhichoos) | N/A |
+| 4 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 5 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
 | 6 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
 | 7 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
-| 8 | [Dis'Qualified MP](http://twitter.com/search?q=Dis%27Qualified+MP) | N/A |
-| 9 | [महादेवी वर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 10 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 11 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
-| 12 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 13 | [Rajghat](http://twitter.com/search?q=Rajghat) | N/A |
+| 8 | [BHOLAA BOOK UR TICKET](http://twitter.com/search?q=BHOLAA+BOOK+UR+TICKET) | N/A |
+| 9 | [Dis'Qualified MP](http://twitter.com/search?q=Dis%27Qualified+MP) | N/A |
+| 10 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 11 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 12 | [महादेवी वर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 13 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
 | 14 | [WE LOVE YOU ALICE](http://twitter.com/search?q=WE+LOVE+YOU+ALICE) | N/A |
-| 15 | [श्री नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 15 | [सड़क मार्ग](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a1%e0%a4%bc%e0%a4%95+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%97) | N/A |
 | 16 | [Lord Ram](http://twitter.com/search?q=Lord+Ram) | N/A |
-| 17 | [SURILI ERA BEGINS](http://twitter.com/search?q=SURILI+ERA+BEGINS) | N/A |
-| 18 | [आधुनिक मीरा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a4%be) | N/A |
+| 17 | [श्री नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 18 | [SURILI ERA BEGINS](http://twitter.com/search?q=SURILI+ERA+BEGINS) | N/A |
 | 19 | [सतीश धवन अंतरिक्ष केंद्र](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%a7%e0%a4%b5%e0%a4%a8+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 20 | [भारतीय अंतरिक्ष अनुसंधान संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
-| 21 | [पंचम स्वरूप](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 20 | [सिसोदिया समाज](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 21 | [भारतीय अंतरिक्ष अनुसंधान संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
 | 22 | [लोकप्रिय कार्यक्रम](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
-| 23 | [सदा देवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 24 | [सिसोदिया समाज](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 23 | [आधुनिक मीरा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a4%be) | N/A |
+| 24 | [पंचम स्वरूप](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
 | 25 | [The Saffron Warriors](http://twitter.com/search?q=The+Saffron+Warriors) | N/A |
-| 26 | [हिन्दी साहित्य](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
+| 26 | [सदा देवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
 | 27 | [चार प्रमुख](http://twitter.com/search?q=%e0%a4%9a%e0%a4%be%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%81%e0%a4%96) | N/A |
-| 28 | [प्रेस क्लब](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a5%8d%e0%a4%b2%e0%a4%ac) | N/A |
-| 29 | [Sabka Mangal Sabka Bhala](http://twitter.com/search?q=Sabka+Mangal+Sabka+Bhala) | N/A |
-| 30 | [Selfless Services](http://twitter.com/search?q=Selfless+Services) | N/A |
+| 28 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 29 | [हिन्दी साहित्य](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%80+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af) | N/A |
+| 30 | [BMTC](http://twitter.com/search?q=BMTC) | N/A |
 | 31 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 32 | [BMTC](http://twitter.com/search?q=BMTC) | N/A |
-| 33 | [सूर्य उपासना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
-| 34 | [HBD SUPER SHAHEERA](http://twitter.com/search?q=HBD+SUPER+SHAHEERA) | N/A |
+| 32 | [Reservation](http://twitter.com/search?q=Reservation) | N/A |
+| 33 | [Arif](http://twitter.com/search?q=Arif) | N/A |
+| 34 | [सूर्य उपासना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
 | 35 | [Rajdeep](http://twitter.com/search?q=Rajdeep) | N/A |
-| 36 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 37 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 38 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
-| 39 | [Godi](http://twitter.com/search?q=Godi) | N/A |
-| 40 | [प्रदेश मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 41 | [Hon'ble PM Shri](http://twitter.com/search?q=Hon%27ble+PM+Shri) | N/A |
-| 42 | [Press](http://twitter.com/search?q=Press) | N/A |
-| 43 | [कृपा दृष्टि](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
-| 44 | [राजीव गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 45 | [OBCs](http://twitter.com/search?q=OBCs) | N/A |
-| 46 | [#TBMuktHaryana](http://twitter.com/search?q=%23TBMuktHaryana) | N/A |
-| 47 | [#GalaxyA54giveaway](http://twitter.com/search?q=%23GalaxyA54giveaway) | N/A |
-| 48 | [#AmpYourAwesome](http://twitter.com/search?q=%23AmpYourAwesome) | N/A |
+| 36 | [Selfless Services](http://twitter.com/search?q=Selfless+Services) | N/A |
+| 37 | [Sabka Mangal Sabka Bhala](http://twitter.com/search?q=Sabka+Mangal+Sabka+Bhala) | N/A |
+| 38 | [Godi](http://twitter.com/search?q=Godi) | N/A |
+| 39 | [Press](http://twitter.com/search?q=Press) | N/A |
+| 40 | [HBD SUPER SHAHEERA](http://twitter.com/search?q=HBD+SUPER+SHAHEERA) | N/A |
+| 41 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
+| 42 | [प्रदेश मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 43 | [Hon'ble PM Shri](http://twitter.com/search?q=Hon%27ble+PM+Shri) | N/A |
+| 44 | [Rockstar](http://twitter.com/search?q=Rockstar) | N/A |
+| 45 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
+| 46 | [राजीव गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 47 | [OBCs](http://twitter.com/search?q=OBCs) | N/A |
+| 48 | [#AkankshaDubey](http://twitter.com/search?q=%23AkankshaDubey) | N/A |
 
 
 

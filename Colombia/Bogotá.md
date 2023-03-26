@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-26 08:17:44 UTC`
+📆 Last Updated: `2023-03-26 09:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,32 +16,32 @@ This is top 50 for [Colombia](</Colombia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 3 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 2 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 | 4 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
 | 5 | [#LaHoraDelPlaneta](http://twitter.com/search?q=%23LaHoraDelPlaneta) | N/A |
 | 6 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
-| 7 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
-| 8 | [Pons](http://twitter.com/search?q=Pons) | N/A |
+| 7 | [Pons](http://twitter.com/search?q=Pons) | N/A |
+| 8 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
 | 9 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 10 | [UN AÑO YULERIA](http://twitter.com/search?q=UN+A%c3%91O+YULERIA) | N/A |
-| 11 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
+| 10 | [daniel torres](http://twitter.com/search?q=daniel+torres) | N/A |
+| 11 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
 | 12 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
-| 13 | [#MePregunto](http://twitter.com/search?q=%23MePregunto) | N/A |
+| 13 | [#mepregunto](http://twitter.com/search?q=%23mepregunto) | N/A |
 | 14 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
 | 15 | [#FEP2023](http://twitter.com/search?q=%23FEP2023) | N/A |
-| 16 | [Devenish](http://twitter.com/search?q=Devenish) | N/A |
-| 17 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
-| 18 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
-| 19 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 16 | [devenish](http://twitter.com/search?q=devenish) | N/A |
+| 17 | [herazo](http://twitter.com/search?q=herazo) | N/A |
+| 18 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 19 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
 | 20 | [Kevin Mier](http://twitter.com/search?q=Kevin+Mier) | N/A |
 | 21 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
 | 22 | [jefferson duque](http://twitter.com/search?q=jefferson+duque) | N/A |
 | 23 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
 | 24 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 25 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
-| 26 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 27 | [Solis](http://twitter.com/search?q=Solis) | N/A |
+| 25 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 26 | [Solis](http://twitter.com/search?q=Solis) | N/A |
+| 27 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
 | 28 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
 | 29 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
 | 30 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Colombia](</Colombia>)
 | 37 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
 | 38 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
 | 39 | [Seen the Most](http://twitter.com/search?q=Seen+the+Most) | N/A |
-| 40 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |
+| 40 | [Alci Acosta](http://twitter.com/search?q=Alci+Acosta) | N/A |
 | 41 | [Quórum](http://twitter.com/search?q=Qu%c3%b3rum) | N/A |
 | 42 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
 | 43 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 44 | [Alci Acosta](http://twitter.com/search?q=Alci+Acosta) | N/A |
+| 44 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
 | 45 | [Wish I Could Have Seen](http://twitter.com/search?q=Wish+I+Could+Have+Seen) | N/A |
-| 46 | [Monomeros](http://twitter.com/search?q=Monomeros) | N/A |
-| 47 | [Director de la Policía](http://twitter.com/search?q=Director+de+la+Polic%c3%ada) | N/A |
-| 48 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 49 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 50 | [palogrande](http://twitter.com/search?q=palogrande) | N/A |
+| 46 | [Ospina](http://twitter.com/search?q=Ospina) | N/A |
+| 47 | [monomeros](http://twitter.com/search?q=monomeros) | N/A |
+| 48 | [Director de la Policía](http://twitter.com/search?q=Director+de+la+Polic%c3%ada) | N/A |
+| 49 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 50 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
 
 
 

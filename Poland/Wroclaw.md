@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-26 08:17:49 UTC`
+📆 Last Updated: `2023-03-26 09:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#czepol](http://twitter.com/search?q=%23czepol) | N/A |
+| 1 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
 | 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 3 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
-| 4 | [#thevoicekids](http://twitter.com/search?q=%23thevoicekids) | N/A |
+| 3 | [#CZEPOL](http://twitter.com/search?q=%23CZEPOL) | N/A |
+| 4 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
 | 5 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
 | 6 | [#OfensywaTuska](http://twitter.com/search?q=%23OfensywaTuska) | N/A |
-| 7 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 8 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 9 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
-| 10 | [Sosnowcu](http://twitter.com/search?q=Sosnowcu) | N/A |
-| 11 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 12 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
-| 13 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
+| 7 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 9 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 10 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
+| 11 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
+| 12 | [Sosnowcu](http://twitter.com/search?q=Sosnowcu) | N/A |
+| 13 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
 | 14 | [Julita](http://twitter.com/search?q=Julita) | N/A |
-| 15 | [Czesi](http://twitter.com/search?q=Czesi) | N/A |
-| 16 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
-| 17 | [bielik](http://twitter.com/search?q=bielik) | N/A |
-| 18 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 19 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 20 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 21 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
-| 22 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 23 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 24 | [szymański](http://twitter.com/search?q=szyma%c5%84ski) | N/A |
-| 25 | [Semka](http://twitter.com/search?q=Semka) | N/A |
-| 26 | [Glika](http://twitter.com/search?q=Glika) | N/A |
-| 27 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 28 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 29 | [wyspy owcze](http://twitter.com/search?q=wyspy+owcze) | N/A |
-| 30 | [Zieliński](http://twitter.com/search?q=Zieli%c5%84ski) | N/A |
-| 31 | [Asiu](http://twitter.com/search?q=Asiu) | N/A |
-| 32 | [Gestapo](http://twitter.com/search?q=Gestapo) | N/A |
+| 15 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
+| 16 | [Czesi](http://twitter.com/search?q=Czesi) | N/A |
+| 17 | [Czechów](http://twitter.com/search?q=Czech%c3%b3w) | N/A |
+| 18 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 19 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
+| 20 | [Baltic Pipe](http://twitter.com/search?q=Baltic+Pipe) | N/A |
+| 21 | [szymański](http://twitter.com/search?q=szyma%c5%84ski) | N/A |
+| 22 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
+| 23 | [Zieliński](http://twitter.com/search?q=Zieli%c5%84ski) | N/A |
+| 24 | [Watykanu](http://twitter.com/search?q=Watykanu) | N/A |
+| 25 | [glika](http://twitter.com/search?q=glika) | N/A |
+| 26 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 27 | [Semka](http://twitter.com/search?q=Semka) | N/A |
+| 28 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 29 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 30 | [wyspy owcze](http://twitter.com/search?q=wyspy+owcze) | N/A |
+| 31 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 32 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
 | 33 | [Piorun](http://twitter.com/search?q=Piorun) | N/A |
-| 34 | [santosa](http://twitter.com/search?q=santosa) | N/A |
-| 35 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 36 | [Kłamiesz](http://twitter.com/search?q=K%c5%82amiesz) | N/A |
-| 37 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
-| 38 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 39 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 40 | [Sosnowiec](http://twitter.com/search?q=Sosnowiec) | N/A |
-| 41 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
-| 42 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 43 | [Brawo Magda](http://twitter.com/search?q=Brawo+Magda) | N/A |
+| 34 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 35 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 36 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 37 | [Brawo Magda](http://twitter.com/search?q=Brawo+Magda) | N/A |
+| 38 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 39 | [Azarenką](http://twitter.com/search?q=Azarenk%c4%85) | N/A |
+| 40 | [Bosak](http://twitter.com/search?q=Bosak) | N/A |
+| 41 | [Słychać](http://twitter.com/search?q=S%c5%82ycha%c4%87) | N/A |
+| 42 | [Gumny](http://twitter.com/search?q=Gumny) | N/A |
+| 43 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
 | 44 | [Godek](http://twitter.com/search?q=Godek) | N/A |
-| 45 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 46 | [Azarenką](http://twitter.com/search?q=Azarenk%c4%85) | N/A |
-| 47 | [Gumny](http://twitter.com/search?q=Gumny) | N/A |
-| 48 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 49 | [Bosak](http://twitter.com/search?q=Bosak) | N/A |
-| 50 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
+| 45 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 46 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
+| 47 | [Kościoła](http://twitter.com/search?q=Ko%c5%9bcio%c5%82a) | N/A |
+| 48 | [Sosnowiec](http://twitter.com/search?q=Sosnowiec) | N/A |
+| 49 | [Lahti](http://twitter.com/search?q=Lahti) | N/A |
+| 50 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
 
 
 

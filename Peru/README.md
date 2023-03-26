@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-26 08:18:28 UTC`
+📆 Last Updated: `2023-03-26 09:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -54,10 +54,10 @@ This is top 50 for Peru
 | 37 | [Katherine](http://twitter.com/search?q=Katherine) | N/A |
 | 38 | [Tarata](http://twitter.com/search?q=Tarata) | N/A |
 | 39 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 40 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 41 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 42 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 43 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 40 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 41 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 42 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 44 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
 | 45 | [Yola](http://twitter.com/search?q=Yola) | N/A |
 | 46 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
