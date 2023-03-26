@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-03-26 13:18:55 UTC`
+📆 Last Updated: `2023-03-26 14:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 2 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
-| 3 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
-| 4 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
-| 5 | [#JDxAirMaxDay](http://twitter.com/search?q=%23JDxAirMaxDay) | N/A |
-| 6 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 7 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 8 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
-| 9 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
-| 10 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
-| 11 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 12 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 13 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 1 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 2 | [#CFCW](http://twitter.com/search?q=%23CFCW) | N/A |
+| 3 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
+| 4 | [#ToriesOut262](http://twitter.com/search?q=%23ToriesOut262) | N/A |
+| 5 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
+| 6 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 7 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 8 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
+| 9 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 10 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
+| 11 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 12 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 13 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
 | 14 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 15 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
-| 16 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
-| 17 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 18 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 19 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 20 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
-| 21 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 22 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 23 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
-| 24 | [England v Ukraine](http://twitter.com/search?q=England+v+Ukraine) | N/A |
-| 25 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
-| 26 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 27 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
-| 28 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 29 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 30 | [Happy Birthday Richard](http://twitter.com/search?q=Happy+Birthday+Richard) | N/A |
-| 31 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 32 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
-| 33 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 34 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
-| 35 | [Mikel](http://twitter.com/search?q=Mikel) | N/A |
-| 36 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 37 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
-| 38 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 39 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 40 | [Hannan](http://twitter.com/search?q=Hannan) | N/A |
-| 41 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 42 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 43 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 44 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 45 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 46 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 47 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 48 | [Burnham](http://twitter.com/search?q=Burnham) | N/A |
-| 49 | [AIDS](http://twitter.com/search?q=AIDS) | N/A |
+| 15 | [Big Dunc](http://twitter.com/search?q=Big+Dunc) | N/A |
+| 16 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 17 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
+| 18 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 19 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
+| 20 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 21 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 22 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
+| 23 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 24 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 25 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
+| 26 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 27 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
+| 28 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
+| 29 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 30 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 31 | [England v Ukraine](http://twitter.com/search?q=England+v+Ukraine) | N/A |
+| 32 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 33 | [David Lammy](http://twitter.com/search?q=David+Lammy) | N/A |
+| 34 | [Cuthbert](http://twitter.com/search?q=Cuthbert) | N/A |
+| 35 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
+| 36 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 37 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 38 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
+| 39 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 40 | [British Summer Time](http://twitter.com/search?q=British+Summer+Time) | N/A |
+| 41 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 42 | [Happy Birthday Richard](http://twitter.com/search?q=Happy+Birthday+Richard) | N/A |
+| 43 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 44 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 45 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
+| 46 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 47 | [Mikel](http://twitter.com/search?q=Mikel) | N/A |
+| 48 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
+| 49 | [South Korean](http://twitter.com/search?q=South+Korean) | N/A |
 
 
 

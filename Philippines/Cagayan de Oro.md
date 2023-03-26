@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-26 13:19:19 UTC`
+📆 Last Updated: `2023-03-26 14:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 2 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 3 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 4 | [TALA LISA IN BULACAN](http://twitter.com/search?q=TALA+LISA+IN+BULACAN) | N/A |
-| 5 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 2 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 3 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 4 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 5 | [#IVE_KITSCH_MV_TEASER](http://twitter.com/search?q=%23IVE_KITSCH_MV_TEASER) | N/A |
 | 6 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 7 | [BGYO AT AYALA MALLS FELIZ](http://twitter.com/search?q=BGYO+AT+AYALA+MALLS+FELIZ) | N/A |
-| 8 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
-| 9 | [JENNIE DAZES PHILIPPINES](http://twitter.com/search?q=JENNIE+DAZES+PHILIPPINES) | N/A |
-| 10 | [Cheng](http://twitter.com/search?q=Cheng) | N/A |
+| 7 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 8 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
+| 9 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
+| 10 | [Lili](http://twitter.com/search?q=Lili) | N/A |
 | 11 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
-| 12 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 13 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
-| 14 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 15 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 16 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 17 | [ANJBRENT THE HAPPIEST BLINKS](http://twitter.com/search?q=ANJBRENT+THE+HAPPIEST+BLINKS) | N/A |
-| 18 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 19 | [ARIN](http://twitter.com/search?q=ARIN) | N/A |
-| 20 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
-| 21 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 22 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 23 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 24 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
-| 25 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 26 | [kang taehyun](http://twitter.com/search?q=kang+taehyun) | N/A |
-| 27 | [Hoon](http://twitter.com/search?q=Hoon) | N/A |
-| 28 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
-| 29 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
-| 30 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 31 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
-| 32 | [#HORI7ON_GoesToPampanga](http://twitter.com/search?q=%23HORI7ON_GoesToPampanga) | N/A |
-| 33 | [#TheClashKakampiOKalaban](http://twitter.com/search?q=%23TheClashKakampiOKalaban) | N/A |
-| 34 | [#PVLfinals](http://twitter.com/search?q=%23PVLfinals) | N/A |
-| 35 | [#TVKPH5Outing](http://twitter.com/search?q=%23TVKPH5Outing) | N/A |
-| 36 | [#บียัวเต๊าะบิว](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b9%8a%e0%b8%b2%e0%b8%b0%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 37 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 38 | [#lucalive](http://twitter.com/search?q=%23lucalive) | N/A |
-| 39 | [#freenbeckyfanboom](http://twitter.com/search?q=%23freenbeckyfanboom) | N/A |
-| 40 | [#TXT_ASM_TOUR_in_SEOUL_Day2](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day2) | N/A |
-| 41 | [#VXON_VINCE](http://twitter.com/search?q=%23VXON_VINCE) | N/A |
-| 42 | [#daigfindthewitch](http://twitter.com/search?q=%23daigfindthewitch) | N/A |
-| 43 | [#VCTPacific](http://twitter.com/search?q=%23VCTPacific) | N/A |
-| 44 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 45 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
-| 46 | [#AnggeG](http://twitter.com/search?q=%23AnggeG) | N/A |
-| 47 | [#AngelicaGegante](http://twitter.com/search?q=%23AngelicaGegante) | N/A |
-| 48 | [#shainnagayle](http://twitter.com/search?q=%23shainnagayle) | N/A |
+| 12 | [BGYO AT AYALA MALLS FELIZ](http://twitter.com/search?q=BGYO+AT+AYALA+MALLS+FELIZ) | N/A |
+| 13 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
+| 14 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 15 | [JENNIE DAZES PHILIPPINES](http://twitter.com/search?q=JENNIE+DAZES+PHILIPPINES) | N/A |
+| 16 | [Cheng](http://twitter.com/search?q=Cheng) | N/A |
+| 17 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
+| 18 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 19 | [Coach O](http://twitter.com/search?q=Coach+O) | N/A |
+| 20 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 21 | [Boombayah](http://twitter.com/search?q=Boombayah) | N/A |
+| 22 | [BORNPINK IN MANILA D2](http://twitter.com/search?q=BORNPINK+IN+MANILA+D2) | N/A |
+| 23 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
+| 24 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 25 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
+| 26 | [Yangyang](http://twitter.com/search?q=Yangyang) | N/A |
+| 27 | [ANJBRENT THE HAPPIEST BLINKS](http://twitter.com/search?q=ANJBRENT+THE+HAPPIEST+BLINKS) | N/A |
+| 28 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
+| 29 | [ARIN](http://twitter.com/search?q=ARIN) | N/A |
+| 30 | [MAHAL KO KAYO](http://twitter.com/search?q=MAHAL+KO+KAYO) | N/A |
+| 31 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 32 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 33 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 34 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 35 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
+| 36 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
+| 37 | [hoon](http://twitter.com/search?q=hoon) | N/A |
+| 38 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
+| 39 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 40 | [#아이브_첫_티저](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%b8%8c_%ec%b2%ab_%ed%8b%b0%ec%a0%80) | N/A |
+| 41 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 42 | [#DARAGON](http://twitter.com/search?q=%23DARAGON) | N/A |
+| 43 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 44 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
+| 45 | [#pvlononesports](http://twitter.com/search?q=%23pvlononesports) | N/A |
+| 46 | [#lucalive](http://twitter.com/search?q=%23lucalive) | N/A |
+| 47 | [#BBBiggerWaves](http://twitter.com/search?q=%23BBBiggerWaves) | N/A |
+| 48 | [#TheClashKakampiOKalaban](http://twitter.com/search?q=%23TheClashKakampiOKalaban) | N/A |
+| 49 | [#PVLfinals](http://twitter.com/search?q=%23PVLfinals) | N/A |
 
 
 

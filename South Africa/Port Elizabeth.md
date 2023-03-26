@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-26 13:19:22 UTC`
+📆 Last Updated: `2023-03-26 14:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 2 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 3 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 4 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 2 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 3 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 4 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
 | 5 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 6 | [#phandapushaplay](http://twitter.com/search?q=%23phandapushaplay) | N/A |
-| 7 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
-| 8 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
-| 9 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 6 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
+| 7 | [#TravelWiseMzansi](http://twitter.com/search?q=%23TravelWiseMzansi) | N/A |
+| 8 | [De Kock](http://twitter.com/search?q=De+Kock) | N/A |
+| 9 | [#SeatAtTheTable23](http://twitter.com/search?q=%23SeatAtTheTable23) | N/A |
 | 10 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
-| 11 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 12 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 13 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 14 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 15 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 16 | [party with khosi](http://twitter.com/search?q=party+with+khosi) | N/A |
-| 17 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 18 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
-| 19 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
-| 20 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 22 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 23 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
-| 24 | [recharge lounge](http://twitter.com/search?q=recharge+lounge) | N/A |
-| 25 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 26 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
-| 27 | [turn up with ipeleng](http://twitter.com/search?q=turn+up+with+ipeleng) | N/A |
-| 28 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
+| 11 | [Bowler](http://twitter.com/search?q=Bowler) | N/A |
+| 12 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
+| 13 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 14 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 15 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 16 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 17 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 18 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 19 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 20 | [Windies](http://twitter.com/search?q=Windies) | N/A |
+| 21 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
+| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 23 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
+| 24 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
+| 25 | [recharge lounge](http://twitter.com/search?q=recharge+lounge) | N/A |
+| 26 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 27 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 28 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
 | 29 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 30 | [Ntokozo](http://twitter.com/search?q=Ntokozo) | N/A |
-| 31 | [Gavin Watson](http://twitter.com/search?q=Gavin+Watson) | N/A |
-| 32 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 33 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 34 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 35 | [Broos](http://twitter.com/search?q=Broos) | N/A |
-| 36 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 37 | [the beenavy experience](http://twitter.com/search?q=the+beenavy+experience) | N/A |
+| 30 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
+| 31 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
+| 32 | [Ntokozo](http://twitter.com/search?q=Ntokozo) | N/A |
+| 33 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 34 | [Shamsi](http://twitter.com/search?q=Shamsi) | N/A |
+| 35 | [Supersport Park](http://twitter.com/search?q=Supersport+Park) | N/A |
+| 36 | [Gavin Watson](http://twitter.com/search?q=Gavin+Watson) | N/A |
+| 37 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
 | 38 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 39 | [De Beers](http://twitter.com/search?q=De+Beers) | N/A |
-| 40 | [Correctional Services](http://twitter.com/search?q=Correctional+Services) | N/A |
-| 41 | [Shamsi](http://twitter.com/search?q=Shamsi) | N/A |
-| 42 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 43 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 44 | [Msimango](http://twitter.com/search?q=Msimango) | N/A |
-| 45 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 46 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 39 | [Magala](http://twitter.com/search?q=Magala) | N/A |
+| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 41 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 42 | [the beenavy experience](http://twitter.com/search?q=the+beenavy+experience) | N/A |
+| 43 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 44 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 45 | [de beers](http://twitter.com/search?q=de+beers) | N/A |
+| 46 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
 | 47 | [Sunday Times](http://twitter.com/search?q=Sunday+Times) | N/A |
-| 48 | [Athol](http://twitter.com/search?q=Athol) | N/A |
+| 48 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 
 
 

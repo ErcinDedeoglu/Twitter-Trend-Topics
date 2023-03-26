@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-26 13:19:03 UTC`
+📆 Last Updated: `2023-03-26 14:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 2 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 3 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 4 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 5 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 6 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 7 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 8 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
-| 9 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
-| 10 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 11 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 12 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 13 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
-| 14 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
-| 15 | [Pedro Cardoso](http://twitter.com/search?q=Pedro+Cardoso) | N/A |
-| 16 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 17 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 18 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 21 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 22 | [Mete](http://twitter.com/search?q=Mete) | N/A |
-| 23 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 24 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 25 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
-| 26 | [Tame Impala](http://twitter.com/search?q=Tame+Impala) | N/A |
-| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 28 | [#selecaobrasileiranaespn](http://twitter.com/search?q=%23selecaobrasileiranaespn) | N/A |
-| 29 | [Moro](http://twitter.com/search?q=Moro) | N/A |
-| 30 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 31 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 32 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 33 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 34 | [Gremio](http://twitter.com/search?q=Gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a professional organization or trade union. |
-| 35 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 36 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 37 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 38 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 39 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 40 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
-| 41 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
-| 42 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 43 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 44 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 45 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 46 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
-| 47 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
-| 48 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
-| 49 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
+| 1 | [kevin parker](http://twitter.com/search?q=kevin+parker) | N/A |
+| 2 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
+| 3 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
+| 4 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 5 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 6 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 7 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 8 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
+| 9 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 10 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 11 | [#MotoGPnaESPN](http://twitter.com/search?q=%23MotoGPnaESPN) | N/A |
+| 12 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
+| 13 | [#GigantesNoVE](http://twitter.com/search?q=%23GigantesNoVE) | N/A |
+| 14 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 15 | [ELE NÃO VEM MAIS](http://twitter.com/search?q=ELE+N%c3%83O+VEM+MAIS) | N/A |
+| 16 | [Nazaré](http://twitter.com/search?q=Nazar%c3%a9) | N/A |
+| 17 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
+| 18 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
+| 19 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
+| 20 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
+| 21 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 22 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
+| 23 | [Jota Quest](http://twitter.com/search?q=Jota+Quest) | N/A |
+| 24 | [Marc Marquez](http://twitter.com/search?q=Marc+Marquez) | N/A |
+| 25 | [Cancelou](http://twitter.com/search?q=Cancelou) | N/A |
+| 26 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
+| 27 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 29 | [Dia de Inter](http://twitter.com/search?q=Dia+de+Inter) | N/A |
+| 30 | [Xena](http://twitter.com/search?q=Xena) | N/A |
+| 31 | [Arrasaram](http://twitter.com/search?q=Arrasaram) | N/A |
+| 32 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
+| 33 | [STJD](http://twitter.com/search?q=STJD) | N/A |
+| 34 | [Furacão](http://twitter.com/search?q=Furac%c3%a3o) | N/A |
+| 35 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 36 | [Canalhice](http://twitter.com/search?q=Canalhice) | N/A |
+| 37 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 38 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 39 | [RexPa](http://twitter.com/search?q=RexPa) | N/A |
+| 40 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
+| 41 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 42 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 43 | [Jornalista](http://twitter.com/search?q=Jornalista) | N/A |
+| 44 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
+| 45 | [Agostinho Carrara](http://twitter.com/search?q=Agostinho+Carrara) | N/A |
+| 46 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
+| 47 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 48 | [Kanye West](http://twitter.com/search?q=Kanye+West) | N/A |
+| 49 | [PowerPoint](http://twitter.com/search?q=PowerPoint) | N/A |
 
 
 

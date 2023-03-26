@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-26 13:19:00 UTC`
+📆 Last Updated: `2023-03-26 14:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 2 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 3 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
-| 4 | [Rita Olivares](http://twitter.com/search?q=Rita+Olivares) | N/A |
+| 1 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 2 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
+| 3 | [Rita Olivares](http://twitter.com/search?q=Rita+Olivares) | N/A |
+| 4 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
 | 5 | [#AdiosParedesEnTVN](http://twitter.com/search?q=%23AdiosParedesEnTVN) | N/A |
 | 6 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 7 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
-| 8 | [Sgto](http://twitter.com/search?q=Sgto) | N/A |
+| 7 | [Querellas](http://twitter.com/search?q=Querellas) | N/A |
+| 8 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
 | 9 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 10 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 11 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 12 | [Querellas](http://twitter.com/search?q=Querellas) | N/A |
-| 13 | [General Yañez](http://twitter.com/search?q=General+Ya%c3%b1ez) | N/A |
-| 14 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 15 | [bolados](http://twitter.com/search?q=bolados) | N/A |
-| 16 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 17 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 18 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 19 | [damian pizarro](http://twitter.com/search?q=damian+pizarro) | N/A |
-| 20 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 21 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 10 | [Nain](http://twitter.com/search?q=Nain) | N/A |
+| 11 | [Sgto](http://twitter.com/search?q=Sgto) | N/A |
+| 12 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 13 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
+| 14 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 15 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 16 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 17 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 18 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 19 | [ASESINATO](http://twitter.com/search?q=ASESINATO) | N/A |
+| 20 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 21 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
 | 22 | [Basta](http://twitter.com/search?q=Basta) | N/A |
-| 23 | [Asesinada](http://twitter.com/search?q=Asesinada) | N/A |
-| 24 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 25 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
-| 26 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 27 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
-| 28 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 29 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 30 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 31 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 32 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 33 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 34 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 35 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 36 | [Sanhueza](http://twitter.com/search?q=Sanhueza) | N/A |
-| 37 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 38 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
-| 39 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
-| 40 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
-| 41 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 42 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
-| 43 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 44 | [Rosa Agustina](http://twitter.com/search?q=Rosa+Agustina) | N/A |
-| 45 | [Maldito](http://twitter.com/search?q=Maldito) | N/A |
-| 46 | [Nelson Mauri](http://twitter.com/search?q=Nelson+Mauri) | N/A |
-| 47 | [karol dance](http://twitter.com/search?q=karol+dance) | N/A |
-| 48 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 49 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 23 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
+| 24 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
+| 25 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 26 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 27 | [Mirosevic](http://twitter.com/search?q=Mirosevic) | N/A |
+| 28 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 29 | [Damian Pizarro](http://twitter.com/search?q=Damian+Pizarro) | N/A |
+| 30 | [ASESINADA](http://twitter.com/search?q=ASESINADA) | N/A |
+| 31 | [Indulta](http://twitter.com/search?q=Indulta) | N/A |
+| 32 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
+| 33 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
+| 34 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 35 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 36 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
+| 37 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 38 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 39 | [Mártir](http://twitter.com/search?q=M%c3%a1rtir) | N/A |
+| 40 | [Condolencias](http://twitter.com/search?q=Condolencias) | N/A |
+| 41 | [Pena de Muerte](http://twitter.com/search?q=Pena+de+Muerte) | N/A |
+| 42 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 43 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
+| 44 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
+| 45 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
+| 46 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 47 | [sanhueza](http://twitter.com/search?q=sanhueza) | N/A |
+| 48 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
+| 49 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
 
 
 

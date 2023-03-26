@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-26 13:19:44 UTC`
+📆 Last Updated: `2023-03-26 14:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for New Zealand
 | ------- | ------------ | ------------ |
 | 1 | [#NRLWarriorsBulldogs](http://twitter.com/search?q=%23NRLWarriorsBulldogs) | N/A |
 | 2 | [Posie](http://twitter.com/search?q=Posie) | N/A |
-| 3 | [Marama Davidson](http://twitter.com/search?q=Marama+Davidson) | N/A |
+| 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 4 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 5 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 5 | [Marama Davidson](http://twitter.com/search?q=Marama+Davidson) | N/A |
 | 6 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
 | 7 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
 | 8 | [#LetWomenSpeakAuckland](http://twitter.com/search?q=%23LetWomenSpeakAuckland) | N/A |
@@ -27,23 +27,23 @@ This is top 50 for New Zealand
 | 10 | [#nzlvchn](http://twitter.com/search?q=%23nzlvchn) | N/A |
 | 11 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
 | 12 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 13 | [Destiny Church](http://twitter.com/search?q=Destiny+Church) | N/A |
-| 14 | [Tamaki](http://twitter.com/search?q=Tamaki) | N/A |
-| 15 | [Violence](http://twitter.com/search?q=Violence) | N/A |
+| 13 | [tamaki](http://twitter.com/search?q=tamaki) | N/A |
+| 14 | [Violence](http://twitter.com/search?q=Violence) | N/A |
+| 15 | [Destiny Church](http://twitter.com/search?q=Destiny+Church) | N/A |
 | 16 | [Tomato](http://twitter.com/search?q=Tomato) | N/A |
 | 17 | [All Whites](http://twitter.com/search?q=All+Whites) | N/A |
-| 18 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 19 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 20 | [Georgina Beyer](http://twitter.com/search?q=Georgina+Beyer) | N/A |
+| 18 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 19 | [Georgina Beyer](http://twitter.com/search?q=Georgina+Beyer) | N/A |
+| 20 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
 | 21 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
 | 22 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 23 | [NZ Police](http://twitter.com/search?q=NZ+Police) | N/A |
+| 23 | [nz police](http://twitter.com/search?q=nz+police) | N/A |
 | 24 | [Signed](http://twitter.com/search?q=Signed) | N/A |
 | 25 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 26 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 27 | [Sack Shaneel Lal](http://twitter.com/search?q=Sack+Shaneel+Lal) | N/A |
-| 28 | [Golriz](http://twitter.com/search?q=Golriz) | N/A |
-| 29 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 27 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 28 | [Sack Shaneel Lal](http://twitter.com/search?q=Sack+Shaneel+Lal) | N/A |
+| 29 | [golriz](http://twitter.com/search?q=golriz) | N/A |
 | 30 | [Blues](http://twitter.com/search?q=Blues) | N/A |
 | 31 | [Violent](http://twitter.com/search?q=Violent) | N/A |
 | 32 | [Mt Smart](http://twitter.com/search?q=Mt+Smart) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for New Zealand
 | 44 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 45 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
 | 46 | [pōneke](http://twitter.com/search?q=p%c5%8dneke) | N/A |
-| 47 | [Corina](http://twitter.com/search?q=Corina) | N/A |
+| 47 | [corina](http://twitter.com/search?q=corina) | N/A |
 | 48 | [aotea square](http://twitter.com/search?q=aotea+square) | N/A |
 | 49 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
 | 50 | [Labor](http://twitter.com/search?q=Labor) | N/A |
