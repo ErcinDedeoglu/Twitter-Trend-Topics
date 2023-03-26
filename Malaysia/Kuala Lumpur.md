@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-26 07:17:51 UTC`
+📆 Last Updated: `2023-03-26 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,17 +26,17 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 9 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
 | 10 | [otms](http://twitter.com/search?q=otms) | N/A |
 | 11 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 12 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 13 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 14 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 12 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 13 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 14 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 15 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 16 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 17 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 18 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 19 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 20 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 22 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 16 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 17 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 18 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 19 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 20 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 21 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 22 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
 | 23 | [build you are luved](http://twitter.com/search?q=build+you+are+luved) | N/A |
 | 24 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
 | 25 | [MELT](http://twitter.com/search?q=MELT) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 28 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
 | 29 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
 | 30 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 33 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 34 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 35 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 36 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 37 | [umji](http://twitter.com/search?q=umji) | N/A |
-| 38 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 39 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
-| 40 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 41 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 42 | [Context](http://twitter.com/search?q=Context) | N/A |
-| 43 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 44 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 45 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 46 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 31 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 32 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 33 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 34 | [Ilhoon](http://twitter.com/search?q=Ilhoon) | N/A |
+| 35 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 36 | [umji](http://twitter.com/search?q=umji) | N/A |
+| 37 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 38 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
+| 39 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 40 | [BamBam](http://twitter.com/search?q=BamBam) | N/A |
+| 41 | [Context](http://twitter.com/search?q=Context) | N/A |
+| 42 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 43 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 46 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
 | 47 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
-| 48 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 49 | [Penang](http://twitter.com/search?q=Penang) | N/A |
-| 50 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 48 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 49 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 50 | [Penang](http://twitter.com/search?q=Penang) | N/A |
 
 
 

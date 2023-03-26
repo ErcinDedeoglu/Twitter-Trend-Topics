@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-26 07:18:08 UTC`
+📆 Last Updated: `2023-03-26 08:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#AustinFC](http://twitter.com/search?q=%23AustinFC) | N/A |
 | 2 | [#verde](http://twitter.com/search?q=%23verde) | N/A |
-| 3 | [#DTID](http://twitter.com/search?q=%23DTID) | N/A |
-| 4 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
-| 5 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 6 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 7 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
+| 3 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
+| 4 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 5 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 6 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
+| 7 | [MARCUS MUMFORD](http://twitter.com/search?q=MARCUS+MUMFORD) | N/A |
 | 8 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 9 | [MARCUS MUMFORD](http://twitter.com/search?q=MARCUS+MUMFORD) | N/A |
-| 10 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 11 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 12 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 13 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 14 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
-| 15 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 16 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
+| 9 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
+| 10 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 11 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 12 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 13 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
+| 14 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 15 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 16 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
 | 17 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 18 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 18 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
 | 19 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
 | 20 | [hannah](http://twitter.com/search?q=hannah) | N/A |
-| 21 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 22 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 23 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 24 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
-| 25 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 26 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 27 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 28 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 29 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 30 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 31 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 32 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 33 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 34 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 35 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 22 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
+| 23 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 24 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 25 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 26 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
+| 27 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 28 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 29 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 30 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 31 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 32 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 33 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 34 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 35 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
 | 36 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 37 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 37 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
 | 38 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 39 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
-| 40 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 41 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 42 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 43 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 44 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 45 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 46 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
-| 47 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 48 | [Commey](http://twitter.com/search?q=Commey) | N/A |
-| 49 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
-| 50 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 39 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 40 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 41 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
+| 42 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 43 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 44 | [Commey](http://twitter.com/search?q=Commey) | N/A |
+| 45 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 46 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
+| 47 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
+| 48 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 49 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 50 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-26 07:18:19 UTC`
+📆 Last Updated: `2023-03-26 08:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for Dominican Republic
 | 4 | [#DemocraciaParaTodos](http://twitter.com/search?q=%23DemocraciaParaTodos) | N/A |
 | 5 | [#QueremosPanNoCirco](http://twitter.com/search?q=%23QueremosPanNoCirco) | N/A |
 | 6 | [#sdecambiacondio](http://twitter.com/search?q=%23sdecambiacondio) | N/A |
-| 7 | [Rey de España](http://twitter.com/search?q=Rey+de+Espa%c3%b1a) | N/A |
-| 8 | [Dirección Central](http://twitter.com/search?q=Direcci%c3%b3n+Central) | N/A |
-| 9 | [Fefita](http://twitter.com/search?q=Fefita) | N/A |
-| 10 | [#AsambleaFP](http://twitter.com/search?q=%23AsambleaFP) | N/A |
+| 7 | [rey de españa](http://twitter.com/search?q=rey+de+espa%c3%b1a) | N/A |
+| 8 | [dirección central](http://twitter.com/search?q=direcci%c3%b3n+central) | N/A |
+| 9 | [fefita](http://twitter.com/search?q=fefita) | N/A |
+| 10 | [#asambleafp](http://twitter.com/search?q=%23asambleafp) | N/A |
 | 11 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
 | 12 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
 | 13 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Dominican Republic
 | 43 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 44 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
 | 45 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
-| 46 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
+| 46 | [francisco javier](http://twitter.com/search?q=francisco+javier) | N/A |
 | 47 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
 | 48 | [fortaleza ozama](http://twitter.com/search?q=fortaleza+ozama) | N/A |
 | 49 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 50 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 50 | [El Estado](http://twitter.com/search?q=El+Estado) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-26 07:17:28 UTC`
+📆 Last Updated: `2023-03-26 08:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AdiosParedesEnTVN](http://twitter.com/search?q=%23AdiosParedesEnTVN) | N/A |
+| 1 | [#adiosparedesentvn](http://twitter.com/search?q=%23adiosparedesentvn) | N/A |
 | 2 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
 | 3 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
 | 4 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
@@ -29,8 +29,8 @@ This is top 50 for [Chile](</Chile>)
 | 12 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
 | 13 | [#AdiosCapi7an](http://twitter.com/search?q=%23AdiosCapi7an) | N/A |
 | 14 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
-| 15 | [Carabinera](http://twitter.com/search?q=Carabinera) | N/A |
-| 16 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
+| 15 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
+| 16 | [Carabinera](http://twitter.com/search?q=Carabinera) | N/A |
 | 17 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
 | 18 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
 | 19 | [Carter](http://twitter.com/search?q=Carter) | N/A |
@@ -41,29 +41,29 @@ This is top 50 for [Chile](</Chile>)
 | 24 | [Karol Dance](http://twitter.com/search?q=Karol+Dance) | N/A |
 | 25 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
 | 26 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 27 | [Sanhueza](http://twitter.com/search?q=Sanhueza) | N/A |
+| 27 | [sanhueza](http://twitter.com/search?q=sanhueza) | N/A |
 | 28 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 29 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
-| 30 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
-| 31 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 32 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 33 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 34 | [CONACEM](http://twitter.com/search?q=CONACEM) | N/A |
-| 35 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 36 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 37 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 38 | [Daniel Matamala](http://twitter.com/search?q=Daniel+Matamala) | N/A |
-| 39 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 40 | [Kong](http://twitter.com/search?q=Kong) | N/A |
-| 41 | [Pibe](http://twitter.com/search?q=Pibe) | N/A |
-| 42 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 43 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
-| 44 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 45 | [hannah](http://twitter.com/search?q=hannah) | N/A |
-| 46 | [pajarito valdés](http://twitter.com/search?q=pajarito+vald%c3%a9s) | N/A |
-| 47 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 48 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 49 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 29 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 30 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 31 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
+| 32 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 33 | [CONACEM](http://twitter.com/search?q=CONACEM) | N/A |
+| 34 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 35 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 36 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 37 | [Daniel Matamala](http://twitter.com/search?q=Daniel+Matamala) | N/A |
+| 38 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
+| 39 | [Pibe](http://twitter.com/search?q=Pibe) | N/A |
+| 40 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
+| 41 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 42 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 43 | [pajarito valdés](http://twitter.com/search?q=pajarito+vald%c3%a9s) | N/A |
+| 44 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
+| 45 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 46 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 47 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
+| 48 | [Princesa Alba](http://twitter.com/search?q=Princesa+Alba) | N/A |
+| 49 | [Gracias Capitán](http://twitter.com/search?q=Gracias+Capit%c3%a1n) | N/A |
 
 
 

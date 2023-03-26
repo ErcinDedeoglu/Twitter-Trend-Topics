@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-26 07:18:18 UTC`
+📆 Last Updated: `2023-03-26 08:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,32 +18,35 @@ This is top 50 for Belarus
 | 1 | [#OurNeverEndingSKZ](http://twitter.com/search?q=%23OurNeverEndingSKZ) | N/A |
 | 2 | [#나침반이_가리킨_스키즈_5주년](http://twitter.com/search?q=%23%eb%82%98%ec%b9%a8%eb%b0%98%ec%9d%b4_%ea%b0%80%eb%a6%ac%ed%82%a8_%ec%8a%a4%ed%82%a4%ec%a6%88_5%ec%a3%bc%eb%85%84) | N/A |
 | 3 | [Жыве Беларусь](http://twitter.com/search?q=%d0%96%d1%8b%d0%b2%d0%b5+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 4 | [#straykids5thanniversery](http://twitter.com/search?q=%23straykids5thanniversery) | N/A |
-| 5 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 6 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 7 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 4 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 5 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
+| 6 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 7 | [#StrayKids5thAnniversary](http://twitter.com/search?q=%23StrayKids5thAnniversary) | N/A |
 | 8 | [Прости](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8) | N/A |
-| 9 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 9 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
 | 10 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
 | 11 | [дзякую](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d1%8e) | N/A |
 | 12 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
-| 13 | [Чимина](http://twitter.com/search?q=%d0%a7%d0%b8%d0%bc%d0%b8%d0%bd%d0%b0) | N/A |
-| 14 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
-| 15 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 13 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 14 | [Чимина](http://twitter.com/search?q=%d0%a7%d0%b8%d0%bc%d0%b8%d0%bd%d0%b0) | N/A |
+| 15 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
 | 16 | [#AIart](http://twitter.com/search?q=%23AIart) | N/A |
-| 17 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
-| 18 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
+| 17 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
+| 18 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 19 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 20 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 21 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 22 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 21 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 22 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 23 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 24 | [калі](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bb%d1%96) | N/A |
-| 25 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 26 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
-| 27 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
-| 28 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
-| 29 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 24 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
+| 25 | [калі](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bb%d1%96) | N/A |
+| 26 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 27 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
+| 28 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 29 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
+| 30 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
+| 31 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
+| 32 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
 
 
 
