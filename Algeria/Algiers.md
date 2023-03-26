@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-26 05:17:43 UTC`
+📆 Last Updated: `2023-03-26 06:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,8 +30,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 13 | [رشيد نكاز](http://twitter.com/search?q=%d8%b1%d8%b4%d9%8a%d8%af+%d9%86%d9%83%d8%a7%d8%b2) | N/A |
 | 14 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
 | 15 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
-| 16 | [Le Maroc](http://twitter.com/search?q=Le+Maroc) | N/A |
-| 17 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
+| 16 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
+| 17 | [Le Maroc](http://twitter.com/search?q=Le+Maroc) | N/A |
 | 18 | [Imane Khelif](http://twitter.com/search?q=Imane+Khelif) | N/A |
 | 19 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
 | 20 | [#الولايات_المتحده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for [Algeria](</Algeria>)
 | 26 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
 | 27 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 28 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 29 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 30 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
-| 31 | [الامن الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 33 | [الجيش الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 34 | [المنتخب الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 35 | [boudaoui](http://twitter.com/search?q=boudaoui) | N/A |
-| 36 | [عيسى](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
-| 37 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 38 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 39 | [محمد بن هادي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a) | N/A |
-| 40 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 41 | [عبد العزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 42 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 43 | [البطوله العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 44 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 45 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 46 | [محمد علي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
-| 47 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 48 | [راك كبير](http://twitter.com/search?q=%d8%b1%d8%a7%d9%83+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
-| 49 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 50 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 29 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
+| 30 | [الامن الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 31 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 32 | [الجيش الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 33 | [المنتخب الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 34 | [boudaoui](http://twitter.com/search?q=boudaoui) | N/A |
+| 35 | [عيسى](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
+| 36 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 37 | [سيتي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 38 | [محمد بن هادي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a) | N/A |
+| 39 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 40 | [عبد العزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 41 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 42 | [البطوله العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 43 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 44 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 46 | [راك كبير](http://twitter.com/search?q=%d8%b1%d8%a7%d9%83+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 48 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
+| 49 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 50 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-26 05:17:58 UTC`
+📆 Last Updated: `2023-03-26 06:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 | 2 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
 | 3 | [Khris](http://twitter.com/search?q=Khris) | N/A |
-| 4 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 5 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 6 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 7 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 8 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
+| 4 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 5 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 6 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 7 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
+| 8 | [MARCUS MUMFORD](http://twitter.com/search?q=MARCUS+MUMFORD) | N/A |
 | 9 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 10 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 10 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
 | 11 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 12 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 13 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 12 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 13 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
 | 14 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
 | 15 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
 | 16 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 17 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 18 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
-| 19 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 20 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 22 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 23 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 24 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 25 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
-| 26 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 27 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 28 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 29 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
-| 30 | [#FoodWars](http://twitter.com/search?q=%23FoodWars) | N/A |
-| 31 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 32 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 33 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 34 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 35 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
-| 36 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 37 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 38 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
-| 39 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 40 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 41 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 42 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
-| 43 | [Commey](http://twitter.com/search?q=Commey) | N/A |
-| 44 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
-| 45 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
-| 46 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 47 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
-| 48 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 49 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 50 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 17 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
+| 18 | [hannah](http://twitter.com/search?q=hannah) | N/A |
+| 19 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 20 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 21 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 22 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 23 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
+| 24 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
+| 25 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 26 | [#FoodWars](http://twitter.com/search?q=%23FoodWars) | N/A |
+| 27 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
+| 28 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 29 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 30 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 31 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 32 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 33 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
+| 34 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 35 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 36 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 37 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 38 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 39 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 40 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 41 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 42 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 43 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 44 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 45 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 46 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
+| 47 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 48 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 49 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 50 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
 
 
 

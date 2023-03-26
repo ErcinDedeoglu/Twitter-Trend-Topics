@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-26 05:18:04 UTC`
+📆 Last Updated: `2023-03-26 06:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Dominican Republic
 | 6 | [#sdecambiacondio](http://twitter.com/search?q=%23sdecambiacondio) | N/A |
 | 7 | [Rey de España](http://twitter.com/search?q=Rey+de+Espa%c3%b1a) | N/A |
 | 8 | [Dirección Central](http://twitter.com/search?q=Direcci%c3%b3n+Central) | N/A |
-| 9 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
-| 10 | [Fefita](http://twitter.com/search?q=Fefita) | N/A |
-| 11 | [#AsambleaFP](http://twitter.com/search?q=%23AsambleaFP) | N/A |
-| 12 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 13 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 14 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
-| 15 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 16 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 17 | [Aila](http://twitter.com/search?q=Aila) | N/A |
-| 18 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 19 | [dalisa](http://twitter.com/search?q=dalisa) | N/A |
-| 20 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 21 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 9 | [Fefita](http://twitter.com/search?q=Fefita) | N/A |
+| 10 | [#AsambleaFP](http://twitter.com/search?q=%23AsambleaFP) | N/A |
+| 11 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 12 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |
+| 13 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
+| 14 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 15 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 16 | [Aila](http://twitter.com/search?q=Aila) | N/A |
+| 17 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 18 | [Dalisa](http://twitter.com/search?q=Dalisa) | N/A |
+| 19 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 20 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
+| 21 | [Villa Mella](http://twitter.com/search?q=Villa+Mella) | N/A |
 | 22 | [Catarey](http://twitter.com/search?q=Catarey) | N/A |
-| 23 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 24 | [Villa Mella](http://twitter.com/search?q=Villa+Mella) | N/A |
-| 25 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
-| 26 | [Pedro Sánchez](http://twitter.com/search?q=Pedro+S%c3%a1nchez) | N/A |
-| 27 | [Marcha Verde](http://twitter.com/search?q=Marcha+Verde) | N/A |
-| 28 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
-| 29 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 30 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
-| 31 | [Enriquillo Matos](http://twitter.com/search?q=Enriquillo+Matos) | N/A |
-| 32 | [gonzalo castillo](http://twitter.com/search?q=gonzalo+castillo) | N/A |
-| 33 | [kinito](http://twitter.com/search?q=kinito) | N/A |
-| 34 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 35 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
-| 36 | [presidente luis abinader](http://twitter.com/search?q=presidente+luis+abinader) | N/A |
-| 37 | [Manerra](http://twitter.com/search?q=Manerra) | N/A |
-| 38 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
-| 39 | [Don Francisco](http://twitter.com/search?q=Don+Francisco) | N/A |
-| 40 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 41 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 42 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 43 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 44 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 45 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 46 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
-| 47 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
-| 48 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 49 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 50 | [fortaleza ozama](http://twitter.com/search?q=fortaleza+ozama) | N/A |
+| 23 | [Gaga](http://twitter.com/search?q=Gaga) | N/A |
+| 24 | [Pedro Sánchez](http://twitter.com/search?q=Pedro+S%c3%a1nchez) | N/A |
+| 25 | [Marcha Verde](http://twitter.com/search?q=Marcha+Verde) | N/A |
+| 26 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
+| 27 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 28 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
+| 29 | [Enriquillo Matos](http://twitter.com/search?q=Enriquillo+Matos) | N/A |
+| 30 | [gonzalo castillo](http://twitter.com/search?q=gonzalo+castillo) | N/A |
+| 31 | [kinito](http://twitter.com/search?q=kinito) | N/A |
+| 32 | [África](http://twitter.com/search?q=%c3%81frica) | N/A |
+| 33 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 34 | [presidente luis abinader](http://twitter.com/search?q=presidente+luis+abinader) | N/A |
+| 35 | [manerra](http://twitter.com/search?q=manerra) | N/A |
+| 36 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
+| 37 | [Don Francisco](http://twitter.com/search?q=Don+Francisco) | N/A |
+| 38 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 39 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 40 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
+| 41 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 42 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 43 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 44 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 45 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
+| 46 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
+| 47 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 48 | [fortaleza ozama](http://twitter.com/search?q=fortaleza+ozama) | N/A |
+| 49 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 50 | [Brito](http://twitter.com/search?q=Brito) | N/A |
 
 
 

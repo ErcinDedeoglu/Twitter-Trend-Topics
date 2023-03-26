@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-26 05:17:20 UTC`
+📆 Last Updated: `2023-03-26 06:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,48 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 2 | [Plant](http://twitter.com/search?q=Plant) | N/A |
-| 3 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 4 | [Anika](http://twitter.com/search?q=Anika) | N/A |
-| 5 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 6 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 7 | [#LikeCrazy_DeepHouseRemix](http://twitter.com/search?q=%23LikeCrazy_DeepHouseRemix) | N/A |
+| 2 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 3 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 4 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 5 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
+| 6 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 7 | [Anika](http://twitter.com/search?q=Anika) | N/A |
 | 8 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 9 | [Rayadas](http://twitter.com/search?q=Rayadas) | N/A |
-| 10 | [#ChabeloPorSiempre](http://twitter.com/search?q=%23ChabeloPorSiempre) | N/A |
-| 11 | [#LikeCrazyUKGarageRemix](http://twitter.com/search?q=%23LikeCrazyUKGarageRemix) | N/A |
-| 12 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
+| 9 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 10 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 11 | [Eva Espejo](http://twitter.com/search?q=Eva+Espejo) | N/A |
+| 12 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
 | 13 | [#ClasicoRegioFemenil](http://twitter.com/search?q=%23ClasicoRegioFemenil) | N/A |
-| 14 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 15 | [Nayeli](http://twitter.com/search?q=Nayeli) | N/A |
-| 16 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 17 | [Wacho](http://twitter.com/search?q=Wacho) | Wacho is a Spanish slang term that is used to describe someone who is attractive or good-looking. It can also be used to express admiration for someone's physical appearance. In English, it could be translated as "hot" or "sexy". |
-| 18 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 19 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 20 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 21 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 22 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 23 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
-| 24 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 25 | [Mezcal](http://twitter.com/search?q=Mezcal) | N/A |
-| 26 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 27 | [all of those voices](http://twitter.com/search?q=all+of+those+voices) | N/A |
-| 28 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 29 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
-| 30 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 31 | [Calica](http://twitter.com/search?q=Calica) | N/A |
-| 32 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
-| 33 | [López Dóriga](http://twitter.com/search?q=L%c3%b3pez+D%c3%b3riga) | N/A |
-| 34 | [#AmorEnElAire](http://twitter.com/search?q=%23AmorEnElAire) | N/A |
-| 35 | [#ESPNKnockOut](http://twitter.com/search?q=%23ESPNKnockOut) | N/A |
-| 36 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 37 | [#TequeremosSpreen](http://twitter.com/search?q=%23TequeremosSpreen) | N/A |
+| 14 | [#ChabeloPorSiempre](http://twitter.com/search?q=%23ChabeloPorSiempre) | N/A |
+| 15 | [Rangel](http://twitter.com/search?q=Rangel) | N/A |
+| 16 | [#LikeCrazy_DeepHouseRemix](http://twitter.com/search?q=%23LikeCrazy_DeepHouseRemix) | N/A |
+| 17 | [#LikeCrazyUKGarageRemix](http://twitter.com/search?q=%23LikeCrazyUKGarageRemix) | N/A |
+| 18 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 19 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
+| 20 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 22 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 23 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 24 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 25 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 26 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
+| 27 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 28 | [AOTV](http://twitter.com/search?q=AOTV) | N/A |
+| 29 | [Mezcal](http://twitter.com/search?q=Mezcal) | N/A |
+| 30 | [all of those voices](http://twitter.com/search?q=all+of+those+voices) | N/A |
+| 31 | [Arjona](http://twitter.com/search?q=Arjona) | N/A |
+| 32 | [Calica](http://twitter.com/search?q=Calica) | N/A |
+| 33 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
+| 34 | [#ESPNKnockOut](http://twitter.com/search?q=%23ESPNKnockOut) | N/A |
+| 35 | [#AmorEnElAire](http://twitter.com/search?q=%23AmorEnElAire) | N/A |
+| 36 | [#TequeremosSpreen](http://twitter.com/search?q=%23TequeremosSpreen) | N/A |
+| 37 | [#Popocatépetl](http://twitter.com/search?q=%23Popocat%c3%a9petl) | N/A |
 | 38 | [#ContingenciaAmbiental](http://twitter.com/search?q=%23ContingenciaAmbiental) | N/A |
-| 39 | [#TigresFemenil](http://twitter.com/search?q=%23TigresFemenil) | N/A |
-| 40 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
-| 41 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
-| 42 | [#LikeCrazy_Jimin](http://twitter.com/search?q=%23LikeCrazy_Jimin) | N/A |
-| 43 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
-| 44 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
+| 39 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
+| 40 | [#LigaMXFemenil](http://twitter.com/search?q=%23LigaMXFemenil) | N/A |
+| 41 | [#LikeCrazy_Jimin](http://twitter.com/search?q=%23LikeCrazy_Jimin) | N/A |
+| 42 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
+| 43 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
 
 
 

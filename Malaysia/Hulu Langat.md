@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-03-26 05:18:10 UTC`
+📆 Last Updated: `2023-03-26 06:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 1 | [#ZALORABirthdaySale](http://twitter.com/search?q=%23ZALORABirthdaySale) | N/A |
 | 2 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 3 | [#HappinessForMASHIHO](http://twitter.com/search?q=%23HappinessForMASHIHO) | N/A |
-| 4 | [#Rover1stWin](http://twitter.com/search?q=%23Rover1stWin) | N/A |
+| 4 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
 | 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 6 | [ongteo](http://twitter.com/search?q=ongteo) | N/A |
 | 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 8 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 9 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 10 | [otms](http://twitter.com/search?q=otms) | N/A |
-| 11 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
-| 12 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 13 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 8 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 9 | [otms](http://twitter.com/search?q=otms) | N/A |
+| 10 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 11 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 12 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 13 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
 | 14 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 15 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 16 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
-| 17 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 18 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 20 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 21 | [vmin](http://twitter.com/search?q=vmin) | N/A |
-| 22 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 23 | [build you are luved](http://twitter.com/search?q=build+you+are+luved) | N/A |
-| 24 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
-| 25 | [MELT](http://twitter.com/search?q=MELT) | N/A |
-| 26 | [minseok](http://twitter.com/search?q=minseok) | N/A |
-| 27 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 15 | [Happy 5th](http://twitter.com/search?q=Happy+5th) | N/A |
+| 16 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
+| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 18 | [minseok](http://twitter.com/search?q=minseok) | N/A |
+| 19 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 20 | [PH WELCOMES THE GREAT LALISA](http://twitter.com/search?q=PH+WELCOMES+THE+GREAT+LALISA) | N/A |
+| 21 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 22 | [vmin](http://twitter.com/search?q=vmin) | N/A |
+| 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 24 | [build you are luved](http://twitter.com/search?q=build+you+are+luved) | N/A |
+| 25 | [Mahiro](http://twitter.com/search?q=Mahiro) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [MELT](http://twitter.com/search?q=MELT) | N/A |
 | 28 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
 | 29 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 30 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 31 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
-| 32 | [umji](http://twitter.com/search?q=umji) | N/A |
-| 33 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
-| 34 | [Yong](http://twitter.com/search?q=Yong) | N/A |
-| 35 | [GLCs](http://twitter.com/search?q=GLCs) | N/A |
-| 36 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 37 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
-| 38 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 39 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 40 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 41 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 42 | [Context](http://twitter.com/search?q=Context) | N/A |
-| 43 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 44 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 45 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 30 | [Happy 1M](http://twitter.com/search?q=Happy+1M) | N/A |
+| 31 | [umji](http://twitter.com/search?q=umji) | N/A |
+| 32 | [Mr Chew](http://twitter.com/search?q=Mr+Chew) | N/A |
+| 33 | [Yong](http://twitter.com/search?q=Yong) | N/A |
+| 34 | [GLCs](http://twitter.com/search?q=GLCs) | N/A |
+| 35 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 36 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
+| 37 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 38 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 39 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 40 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 41 | [Context](http://twitter.com/search?q=Context) | N/A |
+| 42 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
+| 43 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 44 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 45 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
 | 46 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
-| 47 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 48 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
-| 49 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 47 | [Penang](http://twitter.com/search?q=Penang) | N/A |
+| 48 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 49 | [Winny](http://twitter.com/search?q=Winny) | N/A |
 
 
 

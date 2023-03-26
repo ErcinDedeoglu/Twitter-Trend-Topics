@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-26 05:17:44 UTC`
+📆 Last Updated: `2023-03-26 06:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 2 | [#ramadanday4](http://twitter.com/search?q=%23ramadanday4) | N/A |
-| 3 | [#apeiro](http://twitter.com/search?q=%23apeiro) | N/A |
+| 2 | [#apeiro](http://twitter.com/search?q=%23apeiro) | N/A |
+| 3 | [#ramadanday4](http://twitter.com/search?q=%23ramadanday4) | N/A |
 | 4 | [#britishcouncilartshowcase](http://twitter.com/search?q=%23britishcouncilartshowcase) | N/A |
-| 5 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 6 | [#aristontakesthefield](http://twitter.com/search?q=%23aristontakesthefield) | N/A |
-| 7 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
+| 5 | [#aristontakesthefield](http://twitter.com/search?q=%23aristontakesthefield) | N/A |
+| 6 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 7 | [the beenavy experience](http://twitter.com/search?q=the+beenavy+experience) | N/A |
 | 8 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 9 | [London](http://twitter.com/search?q=London) | N/A |
-| 10 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
-| 11 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 12 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
+| 9 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
+| 10 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 11 | [London](http://twitter.com/search?q=London) | N/A |
+| 12 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
 | 13 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 14 | [buga with yvonne](http://twitter.com/search?q=buga+with+yvonne) | N/A |
-| 15 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 16 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 17 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 18 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 19 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 20 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 21 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 22 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 23 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
-| 24 | [phyna x rixari sales](http://twitter.com/search?q=phyna+x+rixari+sales) | N/A |
-| 25 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 27 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 28 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
-| 29 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
-| 30 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 31 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 32 | [Specimen](http://twitter.com/search?q=Specimen) | N/A |
-| 33 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 34 | [Agneepath](http://twitter.com/search?q=Agneepath) | N/A |
+| 14 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
+| 15 | [buga with yvonne](http://twitter.com/search?q=buga+with+yvonne) | N/A |
+| 16 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
+| 17 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 18 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 19 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 20 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 21 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
+| 22 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 23 | [phyna x rixari sales](http://twitter.com/search?q=phyna+x+rixari+sales) | N/A |
+| 24 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
+| 25 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 26 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
+| 27 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 29 | [Specimen](http://twitter.com/search?q=Specimen) | N/A |
+| 30 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 31 | [Agneepath](http://twitter.com/search?q=Agneepath) | N/A |
+| 32 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
+| 33 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 34 | [Religion](http://twitter.com/search?q=Religion) | N/A |
 | 35 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
-| 36 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 37 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 38 | [eedc](http://twitter.com/search?q=eedc) | N/A |
-| 39 | [chukwueze](http://twitter.com/search?q=chukwueze) | N/A |
-| 40 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 36 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 37 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
+| 38 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 39 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 40 | [chukwueze](http://twitter.com/search?q=chukwueze) | N/A |
 | 41 | [pastor b](http://twitter.com/search?q=pastor+b) | N/A |
 | 42 | [House 2](http://twitter.com/search?q=House+2) | N/A |
-| 43 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 44 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
-| 45 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
-| 46 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
-| 47 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 48 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 43 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
+| 44 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 45 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
+| 46 | [iftar Mubarak](http://twitter.com/search?q=iftar+Mubarak) | N/A |
+| 47 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 48 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 
 
 

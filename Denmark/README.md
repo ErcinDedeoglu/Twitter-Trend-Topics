@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-26 05:18:04 UTC`
+📆 Last Updated: `2023-03-26 06:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,21 +29,21 @@ This is top 50 for Denmark
 | 12 | [mogens jensen](http://twitter.com/search?q=mogens+jensen) | N/A |
 | 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 14 | [moderaternes](http://twitter.com/search?q=moderaternes) | N/A |
-| 15 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 16 | [thomas rørdam](http://twitter.com/search?q=thomas+r%c3%b8rdam) | N/A |
-| 17 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 18 | [mette frederiksen](http://twitter.com/search?q=mette+frederiksen) | N/A |
-| 19 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 20 | [#midjourney](http://twitter.com/search?q=%23midjourney) | N/A |
-| 21 | [Muscovy](http://twitter.com/search?q=Muscovy) | N/A |
-| 22 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
+| 15 | [thomas rørdam](http://twitter.com/search?q=thomas+r%c3%b8rdam) | N/A |
+| 16 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 17 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 18 | [#midjourney](http://twitter.com/search?q=%23midjourney) | N/A |
+| 19 | [Muscovy](http://twitter.com/search?q=Muscovy) | N/A |
+| 20 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
+| 21 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 22 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 23 | [Lars Løkke](http://twitter.com/search?q=Lars+L%c3%b8kke) | N/A |
-| 24 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 25 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 26 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 27 | [forsvaret](http://twitter.com/search?q=forsvaret) | N/A |
-| 28 | [#fordanmark](http://twitter.com/search?q=%23fordanmark) | N/A |
-| 29 | [thomasberg](http://twitter.com/search?q=thomasberg) | N/A |
+| 24 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 25 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 26 | [forsvaret](http://twitter.com/search?q=forsvaret) | N/A |
+| 27 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
+| 28 | [thomasberg](http://twitter.com/search?q=thomasberg) | N/A |
+| 29 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
 | 30 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
 | 31 | [David](http://twitter.com/search?q=David) | N/A |
 | 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
