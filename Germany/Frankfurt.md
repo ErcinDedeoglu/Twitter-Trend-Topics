@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-26 22:17:26 UTC`
+📆 Last Updated: `2023-03-26 23:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,49 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OBWahlFfm](http://twitter.com/search?q=%23OBWahlFfm) | N/A |
-| 2 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 3 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
-| 4 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
-| 5 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 2 | [#Mazi](http://twitter.com/search?q=%23Mazi) | N/A |
+| 3 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 4 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
+| 5 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
 | 6 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
-| 7 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 8 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 7 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 8 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
 | 9 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 10 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 11 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
-| 12 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
+| 10 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 11 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
+| 12 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
 | 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 14 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
 | 15 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 16 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 17 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 19 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
-| 20 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 16 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
+| 19 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 20 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
 | 21 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 22 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 23 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
-| 24 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 25 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 26 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
-| 27 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
-| 28 | [Nein-Stimmen](http://twitter.com/search?q=Nein-Stimmen) | N/A |
-| 29 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 22 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
+| 23 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
+| 24 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 25 | [Nein-Stimmen](http://twitter.com/search?q=Nein-Stimmen) | N/A |
+| 26 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
+| 27 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
+| 28 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 29 | [Klimaneutralität](http://twitter.com/search?q=Klimaneutralit%c3%a4t) | N/A |
 | 30 | [Mike Josef](http://twitter.com/search?q=Mike+Josef) | N/A |
 | 31 | [Klatsche](http://twitter.com/search?q=Klatsche) | N/A |
-| 32 | [Klimaneutralität](http://twitter.com/search?q=Klimaneutralit%c3%a4t) | N/A |
-| 33 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 34 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
-| 35 | [Klimasekte](http://twitter.com/search?q=Klimasekte) | N/A |
-| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 37 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
-| 38 | [Getränk](http://twitter.com/search?q=Getr%c3%a4nk) | N/A |
-| 39 | [Senat](http://twitter.com/search?q=Senat) | N/A |
-| 40 | [Papst](http://twitter.com/search?q=Papst) | N/A |
-| 41 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
-| 42 | [#KitchenImpossible](http://twitter.com/search?q=%23KitchenImpossible) | N/A |
-| 43 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
-| 44 | [#Volksabstimmung](http://twitter.com/search?q=%23Volksabstimmung) | N/A |
-| 45 | [#Klimaneutral2030](http://twitter.com/search?q=%23Klimaneutral2030) | N/A |
-| 46 | [#Frankfurt](http://twitter.com/search?q=%23Frankfurt) | N/A |
-| 47 | [#Kassel](http://twitter.com/search?q=%23Kassel) | N/A |
+| 32 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 33 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
+| 34 | [Klimasekte](http://twitter.com/search?q=Klimasekte) | N/A |
+| 35 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 36 | [Getränk](http://twitter.com/search?q=Getr%c3%a4nk) | N/A |
+| 37 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
+| 38 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 39 | [#KitchenImpossible](http://twitter.com/search?q=%23KitchenImpossible) | N/A |
+| 40 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 41 | [#Neubauer](http://twitter.com/search?q=%23Neubauer) | N/A |
+| 42 | [#Volksabstimmung](http://twitter.com/search?q=%23Volksabstimmung) | N/A |
+| 43 | [#Frankfurt](http://twitter.com/search?q=%23Frankfurt) | N/A |
+| 44 | [#Klimaneutral2030](http://twitter.com/search?q=%23Klimaneutral2030) | N/A |
 
 
 

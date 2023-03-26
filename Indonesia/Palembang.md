@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-26 22:17:32 UTC`
+📆 Last Updated: `2023-03-26 23:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 7 | [Kota](http://twitter.com/search?q=Kota) | N/A |
 | 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 9 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 10 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
-| 11 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 9 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
+| 10 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 12 | [Makin Taat Allah](http://twitter.com/search?q=Makin+Taat+Allah) | N/A |
 | 13 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
 | 14 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 15 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 16 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
-| 17 | [Manuk](http://twitter.com/search?q=Manuk) | N/A |
-| 18 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
-| 19 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 20 | [Batal](http://twitter.com/search?q=Batal) | N/A |
-| 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 22 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
-| 23 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 24 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 25 | [BESOK SENIN](http://twitter.com/search?q=BESOK+SENIN) | N/A |
-| 26 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 27 | [BABI PUTIH](http://twitter.com/search?q=BABI+PUTIH) | N/A |
-| 28 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 29 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
+| 15 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 16 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 17 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
+| 18 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 19 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
+| 20 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 21 | [Manuk](http://twitter.com/search?q=Manuk) | N/A |
+| 22 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 23 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
+| 24 | [Batal](http://twitter.com/search?q=Batal) | N/A |
+| 25 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 26 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 27 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
+| 28 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 29 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
 | 30 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 31 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
-| 32 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
-| 33 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 34 | [Happy Birthday XIUMIN](http://twitter.com/search?q=Happy+Birthday+XIUMIN) | N/A |
-| 35 | [Shalat Tarawih](http://twitter.com/search?q=Shalat+Tarawih) | N/A |
-| 36 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
-| 37 | [Imsak](http://twitter.com/search?q=Imsak) | N/A |
+| 31 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
+| 32 | [BABI PUTIH](http://twitter.com/search?q=BABI+PUTIH) | N/A |
+| 33 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
+| 34 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 35 | [Happy Birthday XIUMIN](http://twitter.com/search?q=Happy+Birthday+XIUMIN) | N/A |
+| 36 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
+| 37 | [Shalat Tarawih](http://twitter.com/search?q=Shalat+Tarawih) | N/A |
 | 38 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 39 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 40 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
-| 41 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 42 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 43 | [INTM](http://twitter.com/search?q=INTM) | N/A |
-| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 45 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 46 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 47 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 48 | [Katla 431 X](http://twitter.com/search?q=Katla+431+X) | N/A |
-| 49 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 39 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 40 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 41 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
+| 42 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
+| 43 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 44 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 45 | [INTM](http://twitter.com/search?q=INTM) | N/A |
+| 46 | [Imsak](http://twitter.com/search?q=Imsak) | N/A |
+| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 48 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 49 | [Katla 431 X](http://twitter.com/search?q=Katla+431+X) | N/A |
 
 
 

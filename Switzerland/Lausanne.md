@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-26 22:17:30 UTC`
+📆 Last Updated: `2023-03-26 23:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 2 | [#GSHC](http://twitter.com/search?q=%23GSHC) | N/A |
-| 3 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 4 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 5 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 6 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 7 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 2 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 3 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 4 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 5 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
+| 6 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 7 | [#GSHC](http://twitter.com/search?q=%23GSHC) | N/A |
 | 8 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
 | 9 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 10 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
@@ -30,39 +30,39 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 13 | [Richard](http://twitter.com/search?q=Richard) | N/A |
 | 14 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
 | 15 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
-| 16 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 17 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
-| 18 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 19 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
+| 16 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
+| 17 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
+| 18 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
+| 19 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
 | 20 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
 | 21 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
 | 22 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 23 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 24 | [Senf](http://twitter.com/search?q=Senf) | N/A |
-| 25 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 26 | [Identität](http://twitter.com/search?q=Identit%c3%a4t) | N/A |
-| 27 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 28 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 29 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
-| 30 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 31 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
-| 32 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 33 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 34 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
-| 35 | [kantone](http://twitter.com/search?q=kantone) | N/A |
-| 36 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
-| 39 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 40 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 41 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
-| 42 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
-| 43 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 44 | [Führerschein](http://twitter.com/search?q=F%c3%bchrerschein) | N/A |
-| 45 | [Märkte](http://twitter.com/search?q=M%c3%a4rkte) | N/A |
-| 46 | [Mission](http://twitter.com/search?q=Mission) | N/A |
-| 47 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 48 | [Gäste](http://twitter.com/search?q=G%c3%a4ste) | N/A |
+| 24 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 25 | [Identität](http://twitter.com/search?q=Identit%c3%a4t) | N/A |
+| 26 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 27 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 28 | [Senf](http://twitter.com/search?q=Senf) | N/A |
+| 29 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 30 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
+| 31 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 32 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 33 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
+| 34 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
+| 35 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
+| 36 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 37 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 38 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 39 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
+| 40 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
+| 41 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
+| 42 | [Führerschein](http://twitter.com/search?q=F%c3%bchrerschein) | N/A |
+| 43 | [Märkte](http://twitter.com/search?q=M%c3%a4rkte) | N/A |
+| 44 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 45 | [Mission](http://twitter.com/search?q=Mission) | N/A |
+| 46 | [Gäste](http://twitter.com/search?q=G%c3%a4ste) | N/A |
+| 47 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 48 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
 
 
 

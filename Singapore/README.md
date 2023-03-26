@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-26 22:18:06 UTC`
+📆 Last Updated: `2023-03-26 23:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Singapore
 | 4 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 5 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 6 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 7 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 8 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 9 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
 | 10 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
 | 11 | [Joong](http://twitter.com/search?q=Joong) | N/A |
 | 12 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 13 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 14 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 15 | [Freen](http://twitter.com/search?q=Freen) | N/A |
 | 16 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
 | 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 18 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
-| 19 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 20 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 21 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 22 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 23 | [Natsume](http://twitter.com/search?q=Natsume) | N/A |
-| 24 | [Gong Jun](http://twitter.com/search?q=Gong+Jun) | N/A |
-| 25 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
-| 26 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 27 | [Chew](http://twitter.com/search?q=Chew) | N/A |
-| 28 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 29 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 30 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 31 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 32 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
-| 33 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 35 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [2022 weibo night](http://twitter.com/search?q=2022+weibo+night) | N/A |
-| 40 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 41 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 42 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 43 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 44 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
-| 45 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
-| 46 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 47 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 48 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 49 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 50 | [IM SORRY](http://twitter.com/search?q=IM+SORRY) | N/A |
+| 18 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 19 | [Gandhi](http://twitter.com/search?q=Gandhi) | N/A |
+| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 21 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 22 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 23 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 24 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
+| 25 | [Natsume](http://twitter.com/search?q=Natsume) | N/A |
+| 26 | [gong jun](http://twitter.com/search?q=gong+jun) | N/A |
+| 27 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 28 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 29 | [Chew](http://twitter.com/search?q=Chew) | N/A |
+| 30 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 31 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 32 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 33 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 34 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 35 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 36 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 37 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 38 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 39 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 41 | [2022 weibo night](http://twitter.com/search?q=2022+weibo+night) | N/A |
+| 42 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 45 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 46 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
+| 47 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 48 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 49 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 50 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
 
 
 

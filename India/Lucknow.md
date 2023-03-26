@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-26 22:17:47 UTC`
+📆 Last Updated: `2023-03-26 23:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,40 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [समाजवादी पार्टी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
 | 2 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
-| 3 | [#MumbaiIndians](http://twitter.com/search?q=%23MumbaiIndians) | N/A |
-| 4 | [#WPLFinal](http://twitter.com/search?q=%23WPLFinal) | N/A |
+| 3 | [#WPLFinal](http://twitter.com/search?q=%23WPLFinal) | N/A |
+| 4 | [#MumbaiIndians](http://twitter.com/search?q=%23MumbaiIndians) | N/A |
 | 5 | [#Innocent](http://twitter.com/search?q=%23Innocent) | N/A |
 | 6 | [#WPL2023final](http://twitter.com/search?q=%23WPL2023final) | N/A |
 | 7 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
 | 8 | [RIP Legend](http://twitter.com/search?q=RIP+Legend) | N/A |
-| 9 | [Happy Birthday Anna](http://twitter.com/search?q=Happy+Birthday+Anna) | N/A |
-| 10 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 11 | [Shikha P](http://twitter.com/search?q=Shikha+P) | N/A |
-| 12 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 13 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 14 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
-| 15 | [CHANGE MAKER MUNAWAR](http://twitter.com/search?q=CHANGE+MAKER+MUNAWAR) | N/A |
-| 16 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 17 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
-| 18 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
-| 19 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 21 | [Lovlina Borgohain](http://twitter.com/search?q=Lovlina+Borgohain) | N/A |
-| 22 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 23 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 24 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 25 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 26 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 27 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
-| 28 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 29 | [#AFGvPAK](http://twitter.com/search?q=%23AFGvPAK) | N/A |
-| 30 | [#MIvsDC](http://twitter.com/search?q=%23MIvsDC) | N/A |
-| 31 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
-| 32 | [#PakistanCricket](http://twitter.com/search?q=%23PakistanCricket) | N/A |
-| 33 | [#राइट_टू_हेल्थ_संजीवनी_है](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%87%e0%a4%9f_%e0%a4%9f%e0%a5%82_%e0%a4%b9%e0%a5%87%e0%a4%b2%e0%a5%8d%e0%a4%a5_%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
-| 34 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
-| 35 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
-| 36 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
-| 37 | [#OneFamily](http://twitter.com/search?q=%23OneFamily) | N/A |
-| 38 | [#NikhatZareen](http://twitter.com/search?q=%23NikhatZareen) | N/A |
-| 39 | [#AaliRe](http://twitter.com/search?q=%23AaliRe) | N/A |
-| 40 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
-| 41 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
-| 42 | [#SSMB28FromJAN13](http://twitter.com/search?q=%23SSMB28FromJAN13) | N/A |
-| 43 | [#RCBUnbox](http://twitter.com/search?q=%23RCBUnbox) | N/A |
-| 44 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
-| 45 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 46 | [#अतीक़अहमद](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a4%e0%a5%80%e0%a4%95%e0%a4%bc%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 47 | [#Trivikram](http://twitter.com/search?q=%23Trivikram) | N/A |
-| 48 | [#OrangeReRelease](http://twitter.com/search?q=%23OrangeReRelease) | N/A |
+| 9 | [Shikha P](http://twitter.com/search?q=Shikha+P) | N/A |
+| 10 | [Charan Anna](http://twitter.com/search?q=Charan+Anna) | N/A |
+| 11 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 12 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 13 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
+| 14 | [Bumrah](http://twitter.com/search?q=Bumrah) | N/A |
+| 15 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 16 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 17 | [Lovlina Borgohain](http://twitter.com/search?q=Lovlina+Borgohain) | N/A |
+| 18 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 19 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
+| 20 | [#AFGvPAK](http://twitter.com/search?q=%23AFGvPAK) | N/A |
+| 21 | [#MIvsDC](http://twitter.com/search?q=%23MIvsDC) | N/A |
+| 22 | [#HBDRamCharan](http://twitter.com/search?q=%23HBDRamCharan) | N/A |
+| 23 | [#HappyBirthdayRamCharan](http://twitter.com/search?q=%23HappyBirthdayRamCharan) | N/A |
+| 24 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
+| 25 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
+| 26 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
+| 27 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
+| 28 | [#RamCharan𓃵](http://twitter.com/search?q=%23RamCharan%f0%93%83%b5) | N/A |
+| 29 | [#OneFamily](http://twitter.com/search?q=%23OneFamily) | N/A |
+| 30 | [#NikhatZareen](http://twitter.com/search?q=%23NikhatZareen) | N/A |
+| 31 | [#AaliRe](http://twitter.com/search?q=%23AaliRe) | N/A |
+| 32 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 33 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
+| 34 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
+| 35 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 36 | [#OrangeReRelease](http://twitter.com/search?q=%23OrangeReRelease) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-26 22:17:58 UTC`
+📆 Last Updated: `2023-03-26 23:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Horns](http://twitter.com/search?q=Horns) | N/A |
-| 2 | [#Straykidsinfortworth](http://twitter.com/search?q=%23Straykidsinfortworth) | N/A |
-| 3 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
-| 4 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 1 | [#Straykidsinfortworth](http://twitter.com/search?q=%23Straykidsinfortworth) | N/A |
+| 2 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
+| 3 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 4 | [#Elite8](http://twitter.com/search?q=%23Elite8) | N/A |
 | 5 | [#MFFL](http://twitter.com/search?q=%23MFFL) | #MFFL stands for "Mavs Fan For Life" and is used by fans of the Dallas Mavericks NBA basketball team to show their loyalty and support. |
 | 6 | [Disu](http://twitter.com/search?q=Disu) | N/A |
-| 7 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 8 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 9 | [#Elite8](http://twitter.com/search?q=%23Elite8) | N/A |
+| 7 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 8 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 9 | [Cuban](http://twitter.com/search?q=Cuban) | N/A |
 | 10 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 11 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 14 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 12 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 13 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 14 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 15 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 17 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 18 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 19 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 20 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 21 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 22 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 23 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 24 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 16 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 17 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 18 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 19 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 20 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 21 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 22 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 23 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
+| 24 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
 | 25 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 26 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 27 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 28 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 29 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 30 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 31 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 32 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 33 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
-| 34 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 35 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
-| 36 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
-| 37 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 38 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 39 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 40 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 41 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 42 | [McAvoy](http://twitter.com/search?q=McAvoy) | McAvoy is a Scottish surname derived from the Gaelic Mac an Bhaird, meaning "son of the bard". It is most commonly found in the counties of Ayrshire and Renfrewshire. |
-| 43 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 44 | [Whalers](http://twitter.com/search?q=Whalers) | N/A |
-| 45 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
-| 46 | [Vooch](http://twitter.com/search?q=Vooch) | N/A |
-| 47 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
+| 26 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 27 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 28 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 29 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 30 | [Evan Mobley](http://twitter.com/search?q=Evan+Mobley) | Evan Mobley is the name of an American basketball player who currently plays for the University of Southern California. He is considered one of the top prospects in the 2021 NBA Draft. The name Evan Mobley is derived from his given name, Evan, and his middle name, Mobley. |
+| 31 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 32 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 33 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 34 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 35 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 36 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 37 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
+| 38 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 39 | [Dillon Mitchell](http://twitter.com/search?q=Dillon+Mitchell) | N/A |
+| 40 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
+| 41 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 42 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 43 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 44 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 45 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
+| 46 | [Whalers](http://twitter.com/search?q=Whalers) | N/A |
+| 47 | [McAvoy](http://twitter.com/search?q=McAvoy) | McAvoy is a Scottish surname derived from the Gaelic Mac an Bhaird, meaning "son of the bard". It is most commonly found in the counties of Ayrshire and Renfrewshire. |
 | 48 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
 
 
