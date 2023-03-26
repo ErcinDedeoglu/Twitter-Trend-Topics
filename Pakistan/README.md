@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-26 12:19:08 UTC`
+📆 Last Updated: `2023-03-26 13:19:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Pakistan
 | 3 | [#حقیقی_آزادی_جلسہ](http://twitter.com/search?q=%23%d8%ad%d9%82%db%8c%d9%82%db%8c_%d8%a2%d8%b2%d8%a7%d8%af%db%8c_%d8%ac%d9%84%d8%b3%db%81) | N/A |
 | 4 | [#غلاظت_کا_ڈھیر_فتنہ_پارٹی](http://twitter.com/search?q=%23%d8%ba%d9%84%d8%a7%d8%b8%d8%aa_%da%a9%d8%a7_%da%88%da%be%db%8c%d8%b1_%d9%81%d8%aa%d9%86%db%81_%d9%be%d8%a7%d8%b1%d9%b9%db%8c) | N/A |
 | 5 | [#LahoreRejectsFitna](http://twitter.com/search?q=%23LahoreRejectsFitna) | N/A |
-| 6 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 7 | [Kashmiri](http://twitter.com/search?q=Kashmiri) | N/A |
-| 8 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 9 | [Interior Minister](http://twitter.com/search?q=Interior+Minister) | N/A |
-| 10 | [azadi](http://twitter.com/search?q=azadi) | N/A |
-| 11 | [Wahab riaz](http://twitter.com/search?q=Wahab+riaz) | N/A |
-| 12 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 13 | [Rana Sanaullah](http://twitter.com/search?q=Rana+Sanaullah) | N/A |
-| 14 | [ihsanullah](http://twitter.com/search?q=ihsanullah) | N/A |
-| 15 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 16 | [hina](http://twitter.com/search?q=hina) | N/A |
-| 17 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 18 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 6 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 8 | [Kashmiri](http://twitter.com/search?q=Kashmiri) | N/A |
+| 9 | [Rana](http://twitter.com/search?q=Rana) | N/A |
+| 10 | [F for Full House](http://twitter.com/search?q=F+for+Full+House) | N/A |
+| 11 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 12 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 13 | [Interior Minister](http://twitter.com/search?q=Interior+Minister) | N/A |
+| 14 | [Wahab riaz](http://twitter.com/search?q=Wahab+riaz) | N/A |
+| 15 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 16 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 17 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
+| 18 | [Hina](http://twitter.com/search?q=Hina) | N/A |
+| 19 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 20 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 21 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
-| 22 | [Dentonic](http://twitter.com/search?q=Dentonic) | N/A |
-| 23 | [bol news](http://twitter.com/search?q=bol+news) | N/A |
-| 24 | [PMML](http://twitter.com/search?q=PMML) | N/A |
-| 25 | [Faheem Ashraf](http://twitter.com/search?q=Faheem+Ashraf) | N/A |
-| 26 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
+| 21 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 22 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 23 | [Dentonic](http://twitter.com/search?q=Dentonic) | N/A |
+| 24 | [bol news](http://twitter.com/search?q=bol+news) | N/A |
+| 25 | [PMML](http://twitter.com/search?q=PMML) | N/A |
+| 26 | [Faheem Ashraf](http://twitter.com/search?q=Faheem+Ashraf) | N/A |
 | 27 | [Containers](http://twitter.com/search?q=Containers) | N/A |
-| 28 | [G for Garage](http://twitter.com/search?q=G+for+Garage) | N/A |
-| 29 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 30 | [sunielshetty x shehnaaz](http://twitter.com/search?q=sunielshetty+x+shehnaaz) | N/A |
-| 31 | [Frying](http://twitter.com/search?q=Frying) | N/A |
-| 32 | [MILF](http://twitter.com/search?q=MILF) | N/A |
-| 33 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
-| 34 | [Jealousy](http://twitter.com/search?q=Jealousy) | N/A |
-| 35 | [Phir](http://twitter.com/search?q=Phir) | N/A |
-| 36 | [PML N](http://twitter.com/search?q=PML+N) | N/A |
-| 37 | [Elections](http://twitter.com/search?q=Elections) | N/A |
-| 38 | [Chemistry](http://twitter.com/search?q=Chemistry) | N/A |
-| 39 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
-| 40 | [Ma Sha Allah](http://twitter.com/search?q=Ma+Sha+Allah) | N/A |
-| 41 | [Roza](http://twitter.com/search?q=Roza) | N/A |
-| 42 | [Chitral](http://twitter.com/search?q=Chitral) | N/A |
-| 43 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 44 | [Atta](http://twitter.com/search?q=Atta) | N/A |
-| 45 | [Alvi](http://twitter.com/search?q=Alvi) | N/A |
-| 46 | [Shutup](http://twitter.com/search?q=Shutup) | N/A |
-| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 48 | [Theek](http://twitter.com/search?q=Theek) | N/A |
-| 49 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 50 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 28 | [Zille Shah](http://twitter.com/search?q=Zille+Shah) | N/A |
+| 29 | [G for Garage](http://twitter.com/search?q=G+for+Garage) | N/A |
+| 30 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 31 | [SUNIELSHETTY X SHEHNAAZ](http://twitter.com/search?q=SUNIELSHETTY+X+SHEHNAAZ) | N/A |
+| 32 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 33 | [Daily Times](http://twitter.com/search?q=Daily+Times) | N/A |
+| 34 | [Atta](http://twitter.com/search?q=Atta) | N/A |
+| 35 | [MILF](http://twitter.com/search?q=MILF) | N/A |
+| 36 | [Iftari](http://twitter.com/search?q=Iftari) | N/A |
+| 37 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 38 | [Jealousy](http://twitter.com/search?q=Jealousy) | N/A |
+| 39 | [PML N](http://twitter.com/search?q=PML+N) | N/A |
+| 40 | [CPEC](http://twitter.com/search?q=CPEC) | N/A |
+| 41 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 42 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 43 | [Roza](http://twitter.com/search?q=Roza) | N/A |
+| 44 | [Aray](http://twitter.com/search?q=Aray) | N/A |
+| 45 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 46 | [Theek](http://twitter.com/search?q=Theek) | N/A |
+| 47 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 48 | [chal](http://twitter.com/search?q=chal) | N/A |
+| 49 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 50 | [Haram](http://twitter.com/search?q=Haram) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-26 12:18:29 UTC`
+📆 Last Updated: `2023-03-26 13:19:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
-| 2 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
-| 3 | [borgman](http://twitter.com/search?q=borgman) | N/A |
+| 2 | [borgman](http://twitter.com/search?q=borgman) | N/A |
+| 3 | [SvFF](http://twitter.com/search?q=SvFF) | N/A |
 | 4 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
 | 5 | [Blomqvist](http://twitter.com/search?q=Blomqvist) | N/A |
 | 6 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 7 | [Janne](http://twitter.com/search?q=Janne) | N/A |
-| 8 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 9 | [jesper karlsson](http://twitter.com/search?q=jesper+karlsson) | N/A |
-| 10 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
-| 11 | [bromé](http://twitter.com/search?q=brom%c3%a9) | N/A |
-| 12 | [Öppna](http://twitter.com/search?q=%c3%96ppna) | N/A |
-| 13 | [Lennström](http://twitter.com/search?q=Lennstr%c3%b6m) | N/A |
-| 14 | [claesson](http://twitter.com/search?q=claesson) | N/A |
-| 15 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
-| 16 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 17 | [augustinsson](http://twitter.com/search?q=augustinsson) | N/A |
-| 18 | [Modo](http://twitter.com/search?q=Modo) | N/A |
-| 19 | [Bagenda](http://twitter.com/search?q=Bagenda) | N/A |
-| 20 | [Sanny](http://twitter.com/search?q=Sanny) | N/A |
-| 21 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 22 | [Moa Ilar](http://twitter.com/search?q=Moa+Ilar) | N/A |
-| 23 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
-| 24 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
-| 25 | [markus allard](http://twitter.com/search?q=markus+allard) | N/A |
-| 26 | [Maja Dahlqvist](http://twitter.com/search?q=Maja+Dahlqvist) | N/A |
-| 27 | [wessner](http://twitter.com/search?q=wessner) | N/A |
-| 28 | [forsberg](http://twitter.com/search?q=forsberg) | N/A |
-| 29 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
-| 30 | [Lasch](http://twitter.com/search?q=Lasch) | N/A |
-| 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 32 | [gerard](http://twitter.com/search?q=gerard) | N/A |
+| 7 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 8 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
+| 9 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
+| 10 | [öppna](http://twitter.com/search?q=%c3%b6ppna) | N/A |
+| 11 | [Bromé](http://twitter.com/search?q=Brom%c3%a9) | N/A |
+| 12 | [Lennström](http://twitter.com/search?q=Lennstr%c3%b6m) | N/A |
+| 13 | [claesson](http://twitter.com/search?q=claesson) | N/A |
+| 14 | [Modo](http://twitter.com/search?q=Modo) | N/A |
+| 15 | [augustinsson](http://twitter.com/search?q=augustinsson) | N/A |
+| 16 | [Bagenda](http://twitter.com/search?q=Bagenda) | N/A |
+| 17 | [Sanny](http://twitter.com/search?q=Sanny) | N/A |
+| 18 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 19 | [Moa Ilar](http://twitter.com/search?q=Moa+Ilar) | N/A |
+| 20 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
+| 21 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 22 | [Earth Hour](http://twitter.com/search?q=Earth+Hour) | N/A |
+| 23 | [Libanon](http://twitter.com/search?q=Libanon) | N/A |
+| 24 | [markus allard](http://twitter.com/search?q=markus+allard) | N/A |
+| 25 | [maja dahlqvist](http://twitter.com/search?q=maja+dahlqvist) | N/A |
+| 26 | [wessner](http://twitter.com/search?q=wessner) | N/A |
+| 27 | [forsberg](http://twitter.com/search?q=forsberg) | N/A |
+| 28 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
+| 29 | [Lasch](http://twitter.com/search?q=Lasch) | N/A |
+| 30 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 31 | [Avanza](http://twitter.com/search?q=Avanza) | N/A |
+| 32 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
 | 33 | [#våffeldagen](http://twitter.com/search?q=%23v%c3%a5ffeldagen) | N/A |
-| 34 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 35 | [rönnberg](http://twitter.com/search?q=r%c3%b6nnberg) | N/A |
-| 36 | [cajuste](http://twitter.com/search?q=cajuste) | N/A |
-| 37 | [AIKs](http://twitter.com/search?q=AIKs) | N/A |
-| 38 | [karl-erik nilsson](http://twitter.com/search?q=karl-erik+nilsson) | N/A |
-| 39 | [#sommartid](http://twitter.com/search?q=%23sommartid) | N/A |
-| 40 | [Norin](http://twitter.com/search?q=Norin) | N/A |
-| 41 | [magda gad](http://twitter.com/search?q=magda+gad) | N/A |
-| 42 | [Löjligt](http://twitter.com/search?q=L%c3%b6jligt) | N/A |
-| 43 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
-| 44 | [sverigemötet](http://twitter.com/search?q=sverigem%c3%b6tet) | N/A |
-| 45 | [therese](http://twitter.com/search?q=therese) | N/A |
-| 46 | [märsta](http://twitter.com/search?q=m%c3%a4rsta) | N/A |
-| 47 | [#frölundahc](http://twitter.com/search?q=%23fr%c3%b6lundahc) | N/A |
-| 48 | [hanif bali](http://twitter.com/search?q=hanif+bali) | N/A |
+| 34 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 35 | [Bollnäs](http://twitter.com/search?q=Bolln%c3%a4s) | N/A |
+| 36 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 37 | [rönnberg](http://twitter.com/search?q=r%c3%b6nnberg) | N/A |
+| 38 | [cajuste](http://twitter.com/search?q=cajuste) | N/A |
+| 39 | [aiks](http://twitter.com/search?q=aiks) | N/A |
+| 40 | [Therese](http://twitter.com/search?q=Therese) | N/A |
+| 41 | [#sommartid](http://twitter.com/search?q=%23sommartid) | N/A |
+| 42 | [Norin](http://twitter.com/search?q=Norin) | N/A |
+| 43 | [Löjligt](http://twitter.com/search?q=L%c3%b6jligt) | N/A |
+| 44 | [Fas 3](http://twitter.com/search?q=Fas+3) | N/A |
+| 45 | [Zlatan](http://twitter.com/search?q=Zlatan) | Zlatan is a nickname for the Swedish soccer player Zlatan Ibrahimović. It is derived from his first name and is used to refer to him in a friendly or affectionate way. In English, it can be translated as "golden one". |
+| 46 | [sverigemötet](http://twitter.com/search?q=sverigem%c3%b6tet) | N/A |
+| 47 | [märsta](http://twitter.com/search?q=m%c3%a4rsta) | N/A |
+| 48 | [#frölundahc](http://twitter.com/search?q=%23fr%c3%b6lundahc) | N/A |
 
 
 

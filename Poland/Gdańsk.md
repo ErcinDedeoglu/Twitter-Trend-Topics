@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-26 12:18:20 UTC`
+📆 Last Updated: `2023-03-26 13:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
 | 5 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
 | 6 | [#OfensywaTuska](http://twitter.com/search?q=%23OfensywaTuska) | N/A |
-| 7 | [NSDAP](http://twitter.com/search?q=NSDAP) | N/A |
-| 8 | [#czechpol](http://twitter.com/search?q=%23czechpol) | N/A |
+| 7 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 8 | [NSDAP](http://twitter.com/search?q=NSDAP) | N/A |
 | 9 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
 | 10 | [Sosnowcu](http://twitter.com/search?q=Sosnowcu) | N/A |
-| 11 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
-| 12 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
+| 11 | [arsenałem](http://twitter.com/search?q=arsena%c5%82em) | N/A |
+| 12 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
 | 13 | [Julita](http://twitter.com/search?q=Julita) | N/A |
-| 14 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
-| 15 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 16 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 17 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 18 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 19 | [Piorun](http://twitter.com/search?q=Piorun) | N/A |
-| 20 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 21 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
-| 22 | [Emilewicz](http://twitter.com/search?q=Emilewicz) | N/A |
-| 23 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 24 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
-| 25 | [Czechów](http://twitter.com/search?q=Czech%c3%b3w) | N/A |
-| 26 | [Czesi](http://twitter.com/search?q=Czesi) | N/A |
-| 27 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 28 | [Gumny](http://twitter.com/search?q=Gumny) | N/A |
+| 14 | [Paczul](http://twitter.com/search?q=Paczul) | N/A |
+| 15 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 16 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 17 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 18 | [Piorun](http://twitter.com/search?q=Piorun) | N/A |
+| 19 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
+| 20 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 21 | [bednarek](http://twitter.com/search?q=bednarek) | N/A |
+| 22 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 23 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
+| 24 | [Emilewicz](http://twitter.com/search?q=Emilewicz) | N/A |
+| 25 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
+| 26 | [Baltic Pipe](http://twitter.com/search?q=Baltic+Pipe) | N/A |
+| 27 | [Czechów](http://twitter.com/search?q=Czech%c3%b3w) | N/A |
+| 28 | [Godek](http://twitter.com/search?q=Godek) | N/A |
 | 29 | [Zieliński](http://twitter.com/search?q=Zieli%c5%84ski) | N/A |
 | 30 | [Semka](http://twitter.com/search?q=Semka) | N/A |
-| 31 | [Kaja Godek](http://twitter.com/search?q=Kaja+Godek) | N/A |
-| 32 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 33 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
-| 34 | [azarenką](http://twitter.com/search?q=azarenk%c4%85) | N/A |
-| 35 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
-| 36 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 37 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 38 | [Jadźka](http://twitter.com/search?q=Jad%c5%baka) | N/A |
-| 39 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
-| 40 | [Bosak](http://twitter.com/search?q=Bosak) | N/A |
-| 41 | [Korwin](http://twitter.com/search?q=Korwin) | N/A |
+| 31 | [Kiwior](http://twitter.com/search?q=Kiwior) | Kiwior is a Polish word that means "dove" in English. |
+| 32 | [Czesi](http://twitter.com/search?q=Czesi) | N/A |
+| 33 | [Gumny](http://twitter.com/search?q=Gumny) | N/A |
+| 34 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 35 | [azarenką](http://twitter.com/search?q=azarenk%c4%85) | N/A |
+| 36 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
+| 37 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
+| 38 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
+| 39 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
+| 40 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | N/A |
+| 41 | [emily](http://twitter.com/search?q=emily) | N/A |
 | 42 | [brawo magda](http://twitter.com/search?q=brawo+magda) | N/A |
-| 43 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
+| 43 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
 | 44 | [Sosnowiec](http://twitter.com/search?q=Sosnowiec) | N/A |
-| 45 | [aleksander zniszczoł](http://twitter.com/search?q=aleksander+zniszczo%c5%82) | N/A |
-| 46 | [Friz](http://twitter.com/search?q=Friz) | N/A |
-| 47 | [akcji](http://twitter.com/search?q=akcji) | N/A |
-| 48 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 49 | [Baltic Pipe](http://twitter.com/search?q=Baltic+Pipe) | N/A |
-| 50 | [Hubi](http://twitter.com/search?q=Hubi) | N/A |
+| 45 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 46 | [Bosak](http://twitter.com/search?q=Bosak) | N/A |
+| 47 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 48 | [Friz](http://twitter.com/search?q=Friz) | N/A |
+| 49 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
+| 50 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
 
 
 

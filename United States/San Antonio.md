@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-26 12:19:00 UTC`
+📆 Last Updated: `2023-03-26 13:19:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 2 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 3 | [#MCROSAKA](http://twitter.com/search?q=%23MCROSAKA) | N/A |
-| 4 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 5 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 6 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 7 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 8 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 9 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 10 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 11 | [marcus mumford](http://twitter.com/search?q=marcus+mumford) | N/A |
-| 12 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
-| 13 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 14 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 15 | [leonard nimoy](http://twitter.com/search?q=leonard+nimoy) | N/A |
-| 16 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
-| 17 | [kenny bayless](http://twitter.com/search?q=kenny+bayless) | N/A |
-| 18 | [Cult](http://twitter.com/search?q=Cult) | N/A |
-| 19 | [Erica](http://twitter.com/search?q=Erica) | N/A |
+| 2 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 4 | [#MCROSAKA](http://twitter.com/search?q=%23MCROSAKA) | N/A |
+| 5 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 6 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
+| 7 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 8 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 9 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 10 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 11 | [MARCUS MUMFORD](http://twitter.com/search?q=MARCUS+MUMFORD) | N/A |
+| 12 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
+| 13 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
+| 14 | [Cult](http://twitter.com/search?q=Cult) | N/A |
+| 15 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
+| 16 | [Leonard Nimoy](http://twitter.com/search?q=Leonard+Nimoy) | N/A |
+| 17 | [Erica](http://twitter.com/search?q=Erica) | N/A |
+| 18 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
+| 19 | [White Horse](http://twitter.com/search?q=White+Horse) | N/A |
 | 20 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 21 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 22 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 23 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 24 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 25 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
-| 26 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 27 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 28 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 29 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 30 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 31 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 32 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
-| 33 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 34 | [Nugent](http://twitter.com/search?q=Nugent) | N/A |
+| 21 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 22 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 23 | [Nugent](http://twitter.com/search?q=Nugent) | N/A |
+| 24 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 25 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 26 | [Ezra](http://twitter.com/search?q=Ezra) | Ezra is a Hebrew name meaning "help" or "helper". It is also the name of a book in the Old Testament of the Bible. |
+| 27 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 28 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 29 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 30 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 31 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 32 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 33 | [Jim Jones](http://twitter.com/search?q=Jim+Jones) | N/A |
+| 34 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
 | 35 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 36 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
-| 37 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
-| 38 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 39 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
-| 40 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
+| 36 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
+| 37 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
+| 38 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 39 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
+| 40 | [Pope](http://twitter.com/search?q=Pope) | N/A |
 | 41 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
-| 42 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 43 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 44 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
-| 45 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 46 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 47 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
-| 48 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 49 | [#rejected](http://twitter.com/search?q=%23rejected) | N/A |
-| 50 | [#gawx](http://twitter.com/search?q=%23gawx) | N/A |
+| 42 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 43 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 44 | [#SundayThoughts](http://twitter.com/search?q=%23SundayThoughts) | N/A |
+| 45 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
+| 46 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
+| 47 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
+| 48 | [#rejected](http://twitter.com/search?q=%23rejected) | N/A |
+| 49 | [#gawx](http://twitter.com/search?q=%23gawx) | N/A |
+| 50 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
 
 
 

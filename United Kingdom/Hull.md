@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-03-26 12:18:09 UTC`
+📆 Last Updated: `2023-03-26 13:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
-| 2 | [#LauraKuenssberg](http://twitter.com/search?q=%23LauraKuenssberg) | N/A |
-| 3 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 4 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
-| 5 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
-| 6 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 7 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
-| 8 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
-| 9 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 10 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 11 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 12 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
-| 13 | [British Summer Time](http://twitter.com/search?q=British+Summer+Time) | N/A |
-| 14 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 15 | [Happy Birthday Richard](http://twitter.com/search?q=Happy+Birthday+Richard) | N/A |
-| 16 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 17 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 18 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
-| 19 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 1 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 2 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 3 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 4 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 5 | [Shearer](http://twitter.com/search?q=Shearer) | Shearer is a term used to describe someone who works in a coal mine, cutting and removing coal from the face of the seam. It is also used to refer to someone who cuts and shapes metal, such as a blacksmith or a tinsmith. |
+| 6 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 7 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
+| 8 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 9 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 10 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
+| 11 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
+| 12 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
+| 13 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 14 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 15 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 16 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 17 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
+| 18 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 19 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
 | 20 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 21 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
-| 22 | [England v Ukraine](http://twitter.com/search?q=England+v+Ukraine) | N/A |
-| 23 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
-| 24 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 25 | [prince andrew](http://twitter.com/search?q=prince+andrew) | N/A |
-| 26 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
-| 27 | [Graham Brady](http://twitter.com/search?q=Graham+Brady) | N/A |
-| 28 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 29 | [Hannan](http://twitter.com/search?q=Hannan) | N/A |
-| 30 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 31 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 32 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 33 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 34 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 35 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 36 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 37 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 38 | [Burnham](http://twitter.com/search?q=Burnham) | N/A |
-| 39 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 40 | [AIDS](http://twitter.com/search?q=AIDS) | N/A |
-| 41 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 42 | [Male](http://twitter.com/search?q=Male) | N/A |
-| 43 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 44 | [#JDxAirMaxDay](http://twitter.com/search?q=%23JDxAirMaxDay) | N/A |
-| 45 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 46 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 47 | [#SundayBrunch](http://twitter.com/search?q=%23SundayBrunch) | N/A |
-| 48 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 49 | [#Goalscorer365](http://twitter.com/search?q=%23Goalscorer365) | N/A |
+| 21 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 22 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
+| 23 | [England v Ukraine](http://twitter.com/search?q=England+v+Ukraine) | N/A |
+| 24 | [Labour MPs](http://twitter.com/search?q=Labour+MPs) | N/A |
+| 25 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 26 | [Led By Donkeys](http://twitter.com/search?q=Led+By+Donkeys) | N/A |
+| 27 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 28 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 29 | [Happy Birthday Richard](http://twitter.com/search?q=Happy+Birthday+Richard) | N/A |
+| 30 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 31 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
+| 32 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
+| 33 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
+| 34 | [Mikel](http://twitter.com/search?q=Mikel) | N/A |
+| 35 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 36 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
+| 37 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 38 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 39 | [Hannan](http://twitter.com/search?q=Hannan) | N/A |
+| 40 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 41 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
+| 42 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 43 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 44 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 45 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 46 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 47 | [Burnham](http://twitter.com/search?q=Burnham) | N/A |
+| 48 | [AIDS](http://twitter.com/search?q=AIDS) | N/A |
+| 49 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 
 
 

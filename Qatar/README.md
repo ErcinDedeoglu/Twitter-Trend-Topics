@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-26 12:19:08 UTC`
+📆 Last Updated: `2023-03-26 13:19:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,34 +17,34 @@ This is top 50 for Qatar
 | ------- | ------------ | ------------ |
 | 1 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
 | 2 | [البطوله الدوليه الوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 3 | [#ساعه_الارض](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 4 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 5 | [منتخب عربي](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 6 | [#التوقيت_الصيفي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa_%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
+| 3 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 4 | [#ساعه_الارض](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 5 | [#التوقيت_الصيفي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa_%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
+| 6 | [منتخب عربي](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 7 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
 | 8 | [#العنابي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d8%a8%d9%8a) | N/A |
 | 9 | [السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
 | 10 | [الحلقه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
 | 11 | [#دفعه_لندن](http://twitter.com/search?q=%23%d8%af%d9%81%d8%b9%d9%87_%d9%84%d9%86%d8%af%d9%86) | N/A |
 | 12 | [تايلاند](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d8%a7%d9%86%d8%af) | N/A |
-| 13 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 14 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
-| 15 | [توماس توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d9%85%d8%a7%d8%b3+%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 16 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 17 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 18 | [الحياه الدنيا](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 19 | [علي التوالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d9%84%d9%8a) | N/A |
-| 20 | [فلك الحمد](http://twitter.com/search?q=%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | N/A |
-| 21 | [اللغه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 22 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 23 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 24 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
-| 25 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 26 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 27 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 28 | [وامريكا](http://twitter.com/search?q=%d9%88%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
-| 29 | [تلفزيون قطر](http://twitter.com/search?q=%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d9%82%d8%b7%d8%b1) | N/A |
-| 30 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 13 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
+| 14 | [توماس توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d9%85%d8%a7%d8%b3+%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 15 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 16 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 17 | [الحياه الدنيا](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 18 | [علي التوالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d9%84%d9%8a) | N/A |
+| 19 | [فلك الحمد](http://twitter.com/search?q=%d9%81%d9%84%d9%83+%d8%a7%d9%84%d8%ad%d9%85%d8%af) | N/A |
+| 20 | [اللغه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 21 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 22 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
+| 23 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 24 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 25 | [وروسيا](http://twitter.com/search?q=%d9%88%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 26 | [وامريكا](http://twitter.com/search?q=%d9%88%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 27 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 28 | [تلفزيون قطر](http://twitter.com/search?q=%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d9%82%d8%b7%d8%b1) | N/A |
+| 29 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 30 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
 | 31 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 32 | [Africans](http://twitter.com/search?q=Africans) | N/A |
 | 33 | [الولايات المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for Qatar
 | 36 | [شاهد مقطع الفيديو الخاص](http://twitter.com/search?q=%d8%b4%d8%a7%d9%87%d8%af+%d9%85%d9%82%d8%b7%d8%b9+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
 | 37 | [Modi](http://twitter.com/search?q=Modi) | N/A |
 | 38 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
 | 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 41 | [درب لوسيل](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d9%84%d9%88%d8%b3%d9%8a%d9%84) | N/A |
 | 42 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 43 | [التصفيات الموهله](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%84%d9%87) | N/A |
-| 44 | [المتحدث الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d8%ab+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
-| 45 | [ابريل المقبل](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 46 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 47 | [Ooredoo](http://twitter.com/search?q=Ooredoo) | N/A |
-| 48 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 49 | [الدوحة](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%ad%d8%a9) | N/A |
-| 50 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 44 | [التغير المناخي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a) | N/A |
+| 45 | [التصفيات الموهله](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%84%d9%87) | N/A |
+| 46 | [ابريل المقبل](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 47 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
+| 48 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 49 | [ooredoo](http://twitter.com/search?q=ooredoo) | N/A |
+| 50 | [الدوحة](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%ad%d8%a9) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sharjah
 
-📆 Last Updated: `2023-03-26 12:18:43 UTC`
+📆 Last Updated: `2023-03-26 13:19:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 5 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 6 | [#ساعه_الارض](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
 | 7 | [الاعتراف الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d9%81+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 8 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 9 | [Jalsa](http://twitter.com/search?q=Jalsa) | N/A |
-| 10 | [ديربي الامارات](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 11 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 12 | [Rana](http://twitter.com/search?q=Rana) | N/A |
-| 13 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 14 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 15 | [الاتحاد الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 16 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 17 | [الصليب الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%a8+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 18 | [لجمعيات الهلال الاحمر](http://twitter.com/search?q=%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 19 | [اللهم البركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%a8%d8%b1%d9%83%d9%87) | N/A |
-| 20 | [بو مريم](http://twitter.com/search?q=%d8%a8%d9%88+%d9%85%d8%b1%d9%8a%d9%85) | N/A |
-| 21 | [الامسيه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 22 | [Teri](http://twitter.com/search?q=Teri) | N/A |
-| 23 | [Ushba Tesoro](http://twitter.com/search?q=Ushba+Tesoro) | N/A |
-| 24 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 25 | [Minar e Pakistan](http://twitter.com/search?q=Minar+e+Pakistan) | N/A |
+| 8 | [Jalsa](http://twitter.com/search?q=Jalsa) | N/A |
+| 9 | [ديربي الامارات](http://twitter.com/search?q=%d8%af%d9%8a%d8%b1%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 10 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 11 | [Rana](http://twitter.com/search?q=Rana) | N/A |
+| 12 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 13 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 14 | [الاتحاد الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 15 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 16 | [الصليب الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%a8+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 17 | [لجمعيات الهلال الاحمر](http://twitter.com/search?q=%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 18 | [اللهم البركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%a8%d8%b1%d9%83%d9%87) | N/A |
+| 19 | [بو مريم](http://twitter.com/search?q=%d8%a8%d9%88+%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 20 | [الامسيه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 21 | [Teri](http://twitter.com/search?q=Teri) | N/A |
+| 22 | [Ushba Tesoro](http://twitter.com/search?q=Ushba+Tesoro) | N/A |
+| 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 24 | [Minar e Pakistan](http://twitter.com/search?q=Minar+e+Pakistan) | N/A |
+| 25 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
 | 26 | [غير الضروريه](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b6%d8%b1%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 27 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
-| 28 | [الاجيال القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 29 | [حسن الحياه](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
-| 30 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 31 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
-| 32 | [كوريا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 27 | [الاجيال القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%8a%d8%a7%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 28 | [حسن الحياه](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
+| 29 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 30 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
+| 31 | [كوريا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 32 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
 | 33 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 34 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
 | 35 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 36 | [25 مارس 2023](http://twitter.com/search?q=25+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 37 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 38 | [رامز](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
-| 39 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 40 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 41 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 42 | [al quoz sprint](http://twitter.com/search?q=al+quoz+sprint) | N/A |
-| 43 | [Equinox](http://twitter.com/search?q=Equinox) | N/A |
-| 44 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
-| 45 | [المره الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 46 | [الاجهزه الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 47 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 48 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 49 | [توماس توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d9%85%d8%a7%d8%b3+%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 50 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 36 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 37 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 38 | [al quoz sprint](http://twitter.com/search?q=al+quoz+sprint) | N/A |
+| 39 | [Equinox](http://twitter.com/search?q=Equinox) | N/A |
+| 40 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
+| 41 | [المره الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 42 | [الاجهزه الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 43 | [مضمار ميدان](http://twitter.com/search?q=%d9%85%d8%b6%d9%85%d8%a7%d8%b1+%d9%85%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 44 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 45 | [توماس توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d9%85%d8%a7%d8%b3+%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 46 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 47 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 48 | [Tera](http://twitter.com/search?q=Tera) | N/A |
+| 49 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 50 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
 
 
 

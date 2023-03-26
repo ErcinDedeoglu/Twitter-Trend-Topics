@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-26 12:19:03 UTC`
+📆 Last Updated: `2023-03-26 13:19:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
-| 2 | [Carabinera](http://twitter.com/search?q=Carabinera) | N/A |
-| 3 | [#AdiosParedesEnTVN](http://twitter.com/search?q=%23AdiosParedesEnTVN) | N/A |
+| 1 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
+| 2 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 3 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
 | 4 | [Rita Olivares](http://twitter.com/search?q=Rita+Olivares) | N/A |
-| 5 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
-| 6 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 7 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 8 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 9 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 10 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 11 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 12 | [bolados](http://twitter.com/search?q=bolados) | N/A |
-| 13 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 14 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
-| 15 | [QEPD](http://twitter.com/search?q=QEPD) | N/A |
-| 16 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 17 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 18 | [#AdiosCapi7an](http://twitter.com/search?q=%23AdiosCapi7an) | N/A |
-| 19 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
-| 20 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 21 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 22 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 23 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 24 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 25 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 26 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 27 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 28 | [peluca](http://twitter.com/search?q=peluca) | N/A |
-| 29 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 30 | [sanhueza](http://twitter.com/search?q=sanhueza) | N/A |
-| 31 | [colón](http://twitter.com/search?q=col%c3%b3n) | N/A |
-| 32 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 33 | [justo villar](http://twitter.com/search?q=justo+villar) | N/A |
-| 34 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
-| 35 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 36 | [Maldito](http://twitter.com/search?q=Maldito) | N/A |
-| 37 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 38 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 39 | [Nelson Mauri](http://twitter.com/search?q=Nelson+Mauri) | N/A |
-| 40 | [karol dance](http://twitter.com/search?q=karol+dance) | N/A |
-| 41 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 42 | [Pibe](http://twitter.com/search?q=Pibe) | N/A |
-| 43 | [chorri](http://twitter.com/search?q=chorri) | N/A |
-| 44 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 45 | [CONACEM](http://twitter.com/search?q=CONACEM) | N/A |
-| 46 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 47 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 48 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 49 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
-| 50 | [pajarito valdés](http://twitter.com/search?q=pajarito+vald%c3%a9s) | N/A |
+| 5 | [#AdiosParedesEnTVN](http://twitter.com/search?q=%23AdiosParedesEnTVN) | N/A |
+| 6 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
+| 7 | [Sgto](http://twitter.com/search?q=Sgto) | N/A |
+| 8 | [#LaDivinaComida](http://twitter.com/search?q=%23LaDivinaComida) | N/A |
+| 9 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 10 | [#URGENTE](http://twitter.com/search?q=%23URGENTE) | N/A |
+| 11 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 12 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 13 | [Querellas](http://twitter.com/search?q=Querellas) | N/A |
+| 14 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 15 | [General Yañez](http://twitter.com/search?q=General+Ya%c3%b1ez) | N/A |
+| 16 | [bolados](http://twitter.com/search?q=bolados) | N/A |
+| 17 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 18 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
+| 19 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 20 | [damian pizarro](http://twitter.com/search?q=damian+pizarro) | N/A |
+| 21 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 22 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 23 | [Asesinada](http://twitter.com/search?q=Asesinada) | N/A |
+| 24 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
+| 25 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 26 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 27 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
+| 28 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
+| 29 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 30 | [poblete](http://twitter.com/search?q=poblete) | N/A |
+| 31 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
+| 32 | [Condolencias](http://twitter.com/search?q=Condolencias) | N/A |
+| 33 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 34 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 35 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
+| 36 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
+| 37 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 38 | [Sanhueza](http://twitter.com/search?q=Sanhueza) | N/A |
+| 39 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 40 | [Lamentable](http://twitter.com/search?q=Lamentable) | N/A |
+| 41 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
+| 42 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 43 | [Marcela](http://twitter.com/search?q=Marcela) | N/A |
+| 44 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 45 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
+| 46 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 47 | [Rosa Agustina](http://twitter.com/search?q=Rosa+Agustina) | N/A |
+| 48 | [Nelson Mauri](http://twitter.com/search?q=Nelson+Mauri) | N/A |
+| 49 | [karol dance](http://twitter.com/search?q=karol+dance) | N/A |
+| 50 | [Villar](http://twitter.com/search?q=Villar) | N/A |
 
 
 
