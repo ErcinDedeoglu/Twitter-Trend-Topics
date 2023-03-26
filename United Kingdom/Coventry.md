@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-03-25 23:16:38 UTC`
+📆 Last Updated: `2023-03-26 00:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 2 | [England U21s](http://twitter.com/search?q=England+U21s) | N/A |
-| 3 | [John Wick 4](http://twitter.com/search?q=John+Wick+4) | N/A |
-| 4 | [#RedRoses](http://twitter.com/search?q=%23RedRoses) | N/A |
-| 5 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
-| 6 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 7 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 8 | [#drfc](http://twitter.com/search?q=%23drfc) | N/A |
-| 9 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 10 | [Notts County](http://twitter.com/search?q=Notts+County) | N/A |
-| 11 | [Pompey](http://twitter.com/search?q=Pompey) | N/A |
-| 12 | [#ecfc](http://twitter.com/search?q=%23ecfc) | N/A |
-| 13 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 14 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 15 | [North London](http://twitter.com/search?q=North+London) | North London is an informal term used to refer to the northern part of the city of London, England. It is generally taken to include the areas within the London Boroughs of Camden, Islington, Hackney, Haringey and Enfield. |
-| 16 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
-| 17 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
-| 18 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 19 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 20 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 21 | [David Light](http://twitter.com/search?q=David+Light) | N/A |
-| 22 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
+| 1 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 2 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 3 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 4 | [#WGCDellMatchplay](http://twitter.com/search?q=%23WGCDellMatchplay) | N/A |
+| 5 | [#PFLNewcastle](http://twitter.com/search?q=%23PFLNewcastle) | N/A |
+| 6 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
+| 7 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 8 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 9 | [#pufc](http://twitter.com/search?q=%23pufc) | N/A |
+| 10 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 11 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
+| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 13 | [Nathan Broadhead](http://twitter.com/search?q=Nathan+Broadhead) | N/A |
+| 14 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 15 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 16 | [David Light](http://twitter.com/search?q=David+Light) | N/A |
+| 17 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 18 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 19 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
+| 20 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 21 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 22 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
 | 23 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 24 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
-| 25 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
-| 26 | [Top Tory MPs](http://twitter.com/search?q=Top+Tory+MPs) | N/A |
-| 27 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 28 | [Andrew Lloyd Webber](http://twitter.com/search?q=Andrew+Lloyd+Webber) | N/A |
-| 29 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 30 | [Rob Page](http://twitter.com/search?q=Rob+Page) | N/A |
-| 31 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
-| 32 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 33 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 34 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 35 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
-| 36 | [Frazer Clarke](http://twitter.com/search?q=Frazer+Clarke) | N/A |
-| 37 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
-| 38 | [Ben Shalom](http://twitter.com/search?q=Ben+Shalom) | N/A |
-| 39 | [East 17](http://twitter.com/search?q=East+17) | N/A |
-| 40 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
-| 41 | [On My Own](http://twitter.com/search?q=On+My+Own) | N/A |
-| 42 | [RIP Nick](http://twitter.com/search?q=RIP+Nick) | N/A |
-| 43 | [Andrey Santos](http://twitter.com/search?q=Andrey+Santos) | N/A |
-| 44 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 45 | [James Brown](http://twitter.com/search?q=James+Brown) | James Brown is the stage name of the late American singer, songwriter, and musician. He was known as the "Godfather of Soul" and was a major influence on funk, soul, and rhythm and blues music. His style of music was characterized by its strong beats, syncopated rhythms, and his signature raspy vocals. |
-| 46 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
-| 47 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 48 | [Neco](http://twitter.com/search?q=Neco) | N/A |
-| 49 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
+| 24 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 25 | [Jim Davidson](http://twitter.com/search?q=Jim+Davidson) | N/A |
+| 26 | [Andrew Lloyd Webber](http://twitter.com/search?q=Andrew+Lloyd+Webber) | N/A |
+| 27 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 28 | [Korean](http://twitter.com/search?q=Korean) | N/A |
+| 29 | [Priest 17](http://twitter.com/search?q=Priest+17) | N/A |
+| 30 | [Ben Shalom](http://twitter.com/search?q=Ben+Shalom) | N/A |
+| 31 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 32 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
+| 33 | [Deepest](http://twitter.com/search?q=Deepest) | N/A |
+| 34 | [Frazer Clarke](http://twitter.com/search?q=Frazer+Clarke) | N/A |
+| 35 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 36 | [Rob Page](http://twitter.com/search?q=Rob+Page) | N/A |
+| 37 | [East 17](http://twitter.com/search?q=East+17) | N/A |
+| 38 | [RIP Nick](http://twitter.com/search?q=RIP+Nick) | N/A |
+| 39 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 40 | [On My Own](http://twitter.com/search?q=On+My+Own) | N/A |
+| 41 | [Andrey Santos](http://twitter.com/search?q=Andrey+Santos) | N/A |
+| 42 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 43 | [Greedy](http://twitter.com/search?q=Greedy) | N/A |
+| 44 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 45 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 46 | [Andy Burnham](http://twitter.com/search?q=Andy+Burnham) | N/A |
+| 47 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 48 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 49 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
 
 
 

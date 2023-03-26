@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-25 23:17:26 UTC`
+📆 Last Updated: `2023-03-26 00:29:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,43 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 2 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
-| 3 | [#AdiosParedesEnTVN](http://twitter.com/search?q=%23AdiosParedesEnTVN) | N/A |
-| 4 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
-| 5 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 6 | [#AdiosCapi7an](http://twitter.com/search?q=%23AdiosCapi7an) | N/A |
-| 7 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 8 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 9 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 10 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 11 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
-| 12 | [Quinteros](http://twitter.com/search?q=Quinteros) | Quinteros is a Spanish surname. It is derived from the Latin word "quintus," which means "fifth." The name is thought to have originated from a family of five brothers who lived in Spain during the Middle Ages. In English, the meaning of Quinteros is "of the fifth." |
-| 13 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 2 | [#AdiosParedesEnTVN](http://twitter.com/search?q=%23AdiosParedesEnTVN) | N/A |
+| 3 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 4 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 5 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 6 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
+| 7 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 8 | [#AdiosCapi7an](http://twitter.com/search?q=%23AdiosCapi7an) | N/A |
+| 9 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 10 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 11 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 12 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 13 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
 | 14 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
-| 15 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 16 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 17 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 18 | [Campillai](http://twitter.com/search?q=Campillai) | N/A |
-| 19 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 20 | [Princesa Alba](http://twitter.com/search?q=Princesa+Alba) | N/A |
-| 21 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 22 | [Justo Villar](http://twitter.com/search?q=Justo+Villar) | N/A |
-| 23 | [Nelson Mauri](http://twitter.com/search?q=Nelson+Mauri) | N/A |
-| 24 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
-| 25 | [Sanhueza](http://twitter.com/search?q=Sanhueza) | N/A |
-| 26 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
-| 27 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 28 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 30 | [Fierro](http://twitter.com/search?q=Fierro) | N/A |
-| 31 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 32 | [Barroso](http://twitter.com/search?q=Barroso) | N/A |
-| 33 | [El 3](http://twitter.com/search?q=El+3) | N/A |
-| 34 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 35 | [Pajarito Valdés](http://twitter.com/search?q=Pajarito+Vald%c3%a9s) | N/A |
-| 36 | [CONACEM](http://twitter.com/search?q=CONACEM) | N/A |
-| 37 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 38 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 39 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 40 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 41 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 42 | [Kiki](http://twitter.com/search?q=Kiki) | N/A |
-| 43 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 44 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 45 | [Senadora](http://twitter.com/search?q=Senadora) | N/A |
-| 46 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 47 | [Eliminemos](http://twitter.com/search?q=Eliminemos) | N/A |
-| 48 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 49 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 50 | [Diagnóstico](http://twitter.com/search?q=Diagn%c3%b3stico) | N/A |
+| 15 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 16 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
+| 17 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 18 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 19 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 20 | [Vicente Pizarro](http://twitter.com/search?q=Vicente+Pizarro) | N/A |
+| 21 | [Capitán](http://twitter.com/search?q=Capit%c3%a1n) | N/A |
+| 22 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 23 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 24 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
+| 25 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 26 | [Princesa Alba](http://twitter.com/search?q=Princesa+Alba) | N/A |
+| 27 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 28 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 29 | [Salta](http://twitter.com/search?q=Salta) | N/A |
+| 30 | [Sanhueza](http://twitter.com/search?q=Sanhueza) | N/A |
+| 31 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 32 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
+| 33 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
+| 34 | [Psiquiatra](http://twitter.com/search?q=Psiquiatra) | N/A |
+| 35 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 36 | [Ñuñoa](http://twitter.com/search?q=%c3%91u%c3%b1oa) | N/A |
+| 37 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 38 | [Pollo Valdivia](http://twitter.com/search?q=Pollo+Valdivia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-25 23:17:18 UTC`
+📆 Last Updated: `2023-03-26 00:29:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 2 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 3 | [COTA](http://twitter.com/search?q=COTA) | N/A |
-| 4 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 5 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 6 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 7 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 8 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 9 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
-| 10 | [#RCTID](http://twitter.com/search?q=%23RCTID) | N/A |
-| 11 | [Alex Perez](http://twitter.com/search?q=Alex+Perez) | N/A |
-| 12 | [Buckeyes](http://twitter.com/search?q=Buckeyes) | Buckeyes is a nickname for people from the state of Ohio in the United States. It is derived from the state tree, the buckeye, which is a type of horse chestnut. The term is often used to refer to fans of Ohio State University's sports teams, who are known as "Buckeye Nation". |
-| 13 | [#LAGalaxy](http://twitter.com/search?q=%23LAGalaxy) | N/A |
-| 14 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 15 | [Jordan Nwora](http://twitter.com/search?q=Jordan+Nwora) | N/A |
-| 16 | [Cotie McMahon](http://twitter.com/search?q=Cotie+McMahon) | N/A |
-| 17 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 18 | [#UFCFightNight](http://twitter.com/search?q=%23UFCFightNight) | N/A |
-| 19 | [Lacerda](http://twitter.com/search?q=Lacerda) | N/A |
-| 20 | [Steven Peterson](http://twitter.com/search?q=Steven+Peterson) | N/A |
-| 21 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
-| 22 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
-| 23 | [Efra](http://twitter.com/search?q=Efra) | N/A |
-| 24 | [Azzi](http://twitter.com/search?q=Azzi) | N/A |
-| 25 | [Altamirano](http://twitter.com/search?q=Altamirano) | N/A |
-| 26 | [Lucas Alexander](http://twitter.com/search?q=Lucas+Alexander) | N/A |
-| 27 | [Sills](http://twitter.com/search?q=Sills) | N/A |
-| 28 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 29 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 30 | [Timbers](http://twitter.com/search?q=Timbers) | N/A |
-| 31 | [Dorka](http://twitter.com/search?q=Dorka) | N/A |
-| 32 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 33 | [Sheldon Creed](http://twitter.com/search?q=Sheldon+Creed) | N/A |
-| 34 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 35 | [Kape](http://twitter.com/search?q=Kape) | N/A |
-| 36 | [Kingsbarns](http://twitter.com/search?q=Kingsbarns) | N/A |
-| 37 | [Game 2](http://twitter.com/search?q=Game+2) | N/A |
-| 38 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 39 | [RSBN](http://twitter.com/search?q=RSBN) | N/A |
-| 40 | [Allmendinger](http://twitter.com/search?q=Allmendinger) | N/A |
-| 41 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
-| 42 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 43 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 44 | [Lizotte](http://twitter.com/search?q=Lizotte) | N/A |
-| 45 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 46 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 47 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 48 | [Halak](http://twitter.com/search?q=Halak) | N/A |
-| 49 | [Ryan Reaves](http://twitter.com/search?q=Ryan+Reaves) | N/A |
-| 50 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
+| 2 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 3 | [Dan Patrick](http://twitter.com/search?q=Dan+Patrick) | N/A |
+| 4 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 5 | [Rory](http://twitter.com/search?q=Rory) | Rory is a unisex name of Irish origin, derived from the Gaelic word "ruaidhrí" meaning "red king". It is also a nickname for the name Roderick or Aurora. |
+| 6 | [Luke Combs](http://twitter.com/search?q=Luke+Combs) | N/A |
+| 7 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 8 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 9 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
+| 10 | [COTA](http://twitter.com/search?q=COTA) | N/A |
+| 11 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 13 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 14 | [Nowell](http://twitter.com/search?q=Nowell) | N/A |
+| 15 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 16 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 17 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 18 | [#FAUvsKSU](http://twitter.com/search?q=%23FAUvsKSU) | N/A |
+| 19 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
+| 20 | [K State](http://twitter.com/search?q=K+State) | N/A |
+| 21 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 22 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
+| 23 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 24 | [Keyontae Johnson](http://twitter.com/search?q=Keyontae+Johnson) | Keyontae Johnson is an American college basketball player for the Florida Gators. He is a forward who was named the 2020 SEC Player of the Year. The name Keyontae means "brave and strong leader" in English. |
+| 25 | [Goldin](http://twitter.com/search?q=Goldin) | N/A |
+| 26 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 27 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 28 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 29 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
+| 30 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 31 | [Tomlin](http://twitter.com/search?q=Tomlin) | Tomlin is a surname of English origin. It is derived from the Old English personal name Toma, which means "twin". The name can also be found in Scotland and Ireland. |
+| 32 | [Cerrone](http://twitter.com/search?q=Cerrone) | N/A |
+| 33 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 34 | [Chidi](http://twitter.com/search?q=Chidi) | N/A |
+| 35 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 36 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 37 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 38 | [Dylan Crews](http://twitter.com/search?q=Dylan+Crews) | N/A |
+| 39 | [Alex Perez](http://twitter.com/search?q=Alex+Perez) | N/A |
+| 40 | [Jordan Nwora](http://twitter.com/search?q=Jordan+Nwora) | N/A |
+| 41 | [Lacerda](http://twitter.com/search?q=Lacerda) | N/A |
+| 42 | [UFC Hall of Fame](http://twitter.com/search?q=UFC+Hall+of+Fame) | N/A |
+| 43 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 44 | [Duraev](http://twitter.com/search?q=Duraev) | N/A |
+| 45 | [Ohio State](http://twitter.com/search?q=Ohio+State) | Ohio State is the name of a public research university located in Columbus, Ohio. It is the flagship institution of the Ohio State University System and one of the largest universities in the United States. The university was founded in 1870 as a land-grant university and is currently ranked among the top 20 universities in the world. |
+| 46 | [Lady Vols](http://twitter.com/search?q=Lady+Vols) | Lady Vols is the nickname for the women's sports teams at the University of Tennessee. The name is derived from the school's mascot, a female version of Smokey, a bluetick coonhound. The Lady Vols compete in NCAA Division I athletics and have won eight national championships in basketball and one in softball. |
+| 47 | [Kevin Feige](http://twitter.com/search?q=Kevin+Feige) | N/A |
+| 48 | [Greenlee](http://twitter.com/search?q=Greenlee) | N/A |
+| 49 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
+| 50 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-25 23:16:44 UTC`
+📆 Last Updated: `2023-03-26 00:29:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 1 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 2 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
 | 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
-| 5 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
-| 6 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 7 | [#MePregunto](http://twitter.com/search?q=%23MePregunto) | N/A |
-| 8 | [#FEP2023](http://twitter.com/search?q=%23FEP2023) | N/A |
-| 9 | [#EsElColmo](http://twitter.com/search?q=%23EsElColmo) | N/A |
-| 10 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
-| 11 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 12 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
-| 13 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
-| 14 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 15 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 4 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 5 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
+| 6 | [Pons](http://twitter.com/search?q=Pons) | N/A |
+| 7 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 8 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 9 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
+| 10 | [#ElCambioEsImparable](http://twitter.com/search?q=%23ElCambioEsImparable) | N/A |
+| 11 | [Jefferson Duque](http://twitter.com/search?q=Jefferson+Duque) | N/A |
+| 12 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 13 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
+| 14 | [#MePregunto](http://twitter.com/search?q=%23MePregunto) | N/A |
+| 15 | [#EsElColmo](http://twitter.com/search?q=%23EsElColmo) | N/A |
 | 16 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
-| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 18 | [Chunga](http://twitter.com/search?q=Chunga) | N/A |
-| 19 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
-| 20 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 21 | [Monomeros](http://twitter.com/search?q=Monomeros) | N/A |
-| 22 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 23 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
-| 24 | [Mojica](http://twitter.com/search?q=Mojica) | N/A |
-| 25 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 26 | [Loudest Concert](http://twitter.com/search?q=Loudest+Concert) | N/A |
-| 27 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 28 | [HANTEO CORRUPT](http://twitter.com/search?q=HANTEO+CORRUPT) | N/A |
-| 29 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
-| 30 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 31 | [Seen the Most](http://twitter.com/search?q=Seen+the+Most) | N/A |
-| 32 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
-| 33 | [Jerry Rivera](http://twitter.com/search?q=Jerry+Rivera) | N/A |
-| 34 | [Quórum](http://twitter.com/search?q=Qu%c3%b3rum) | N/A |
-| 35 | [Egan Bernal](http://twitter.com/search?q=Egan+Bernal) | N/A |
-| 36 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
-| 37 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
-| 38 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 39 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 40 | [LGBTI](http://twitter.com/search?q=LGBTI) | N/A |
-| 41 | [Palogrande](http://twitter.com/search?q=Palogrande) | N/A |
-| 42 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 43 | [Devuelva](http://twitter.com/search?q=Devuelva) | N/A |
-| 44 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 45 | [Director de la Policía](http://twitter.com/search?q=Director+de+la+Polic%c3%ada) | N/A |
-| 46 | [Most Surprising](http://twitter.com/search?q=Most+Surprising) | N/A |
-| 47 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 48 | [Wish I Could Have Seen](http://twitter.com/search?q=Wish+I+Could+Have+Seen) | N/A |
-| 49 | [Last Concert](http://twitter.com/search?q=Last+Concert) | N/A |
-| 50 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 17 | [Rosalia](http://twitter.com/search?q=Rosalia) | N/A |
+| 18 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 19 | [Solís](http://twitter.com/search?q=Sol%c3%ads) | N/A |
+| 20 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 21 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 22 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 23 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
+| 24 | [Pardo](http://twitter.com/search?q=Pardo) | N/A |
+| 25 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
+| 26 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
+| 27 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 28 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 29 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 30 | [Banguero](http://twitter.com/search?q=Banguero) | N/A |
+| 31 | [Monomeros](http://twitter.com/search?q=Monomeros) | N/A |
+| 32 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 33 | [Mojica](http://twitter.com/search?q=Mojica) | N/A |
+| 34 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
+| 35 | [hanteo corrupt](http://twitter.com/search?q=hanteo+corrupt) | N/A |
+| 36 | [Loudest Concert](http://twitter.com/search?q=Loudest+Concert) | N/A |
+| 37 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 38 | [Valoyes](http://twitter.com/search?q=Valoyes) | N/A |
+| 39 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
+| 40 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
+| 41 | [Meza](http://twitter.com/search?q=Meza) | N/A |
+| 42 | [Chunga](http://twitter.com/search?q=Chunga) | N/A |
+| 43 | [Quórum](http://twitter.com/search?q=Qu%c3%b3rum) | N/A |
+| 44 | [Egan Bernal](http://twitter.com/search?q=Egan+Bernal) | N/A |
+| 45 | [Seen the Most](http://twitter.com/search?q=Seen+the+Most) | N/A |
+| 46 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 47 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
+| 48 | [First Concert](http://twitter.com/search?q=First+Concert) | N/A |
+| 49 | [LGBTI](http://twitter.com/search?q=LGBTI) | N/A |
+| 50 | [Director de la Policía](http://twitter.com/search?q=Director+de+la+Polic%c3%ada) | N/A |
 
 
 

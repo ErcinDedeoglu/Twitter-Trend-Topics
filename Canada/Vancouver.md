@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-25 23:16:37 UTC`
+📆 Last Updated: `2023-03-26 00:29:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 2 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 3 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 3 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
 | 4 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 5 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 8 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 9 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
-| 10 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
-| 11 | [Walker Duehr](http://twitter.com/search?q=Walker+Duehr) | N/A |
-| 12 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
-| 13 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 14 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 15 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
-| 16 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
-| 17 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 18 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
-| 19 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 20 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 21 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 22 | [London](http://twitter.com/search?q=London) | N/A |
-| 23 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 24 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 25 | [Giles](http://twitter.com/search?q=Giles) | N/A |
-| 26 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
-| 27 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 28 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 29 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
-| 30 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 31 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 32 | [Mikael Backlund](http://twitter.com/search?q=Mikael+Backlund) | N/A |
-| 33 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 34 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 35 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 36 | [Stornoway](http://twitter.com/search?q=Stornoway) | N/A |
-| 37 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
-| 38 | [St. Albert](http://twitter.com/search?q=St.+Albert) | N/A |
-| 39 | [Mississippi](http://twitter.com/search?q=Mississippi) | N/A |
-| 40 | [Scheifele](http://twitter.com/search?q=Scheifele) | N/A |
-| 41 | [Parsons](http://twitter.com/search?q=Parsons) | Parsons is a surname of English origin. It is derived from the Old English personal name Piers, which means "rock" or "stone". The name was originally given to someone who lived near a stone outcrop or a rocky area. |
-| 42 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 43 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 44 | [Canada China](http://twitter.com/search?q=Canada+China) | N/A |
-| 45 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 46 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 47 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 48 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 49 | [Internet Archive](http://twitter.com/search?q=Internet+Archive) | N/A |
-| 50 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 5 | [Mike Matheson](http://twitter.com/search?q=Mike+Matheson) | N/A |
+| 6 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 8 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 9 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 10 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 11 | [Roxham](http://twitter.com/search?q=Roxham) | N/A |
+| 12 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 13 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
+| 14 | [Proulx](http://twitter.com/search?q=Proulx) | N/A |
+| 15 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 16 | [Holden](http://twitter.com/search?q=Holden) | N/A |
+| 17 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 18 | [Bono](http://twitter.com/search?q=Bono) | N/A |
+| 19 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 20 | [Burns](http://twitter.com/search?q=Burns) | N/A |
+| 21 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 22 | [Jonah Hill](http://twitter.com/search?q=Jonah+Hill) | N/A |
+| 23 | [Walker Duehr](http://twitter.com/search?q=Walker+Duehr) | N/A |
+| 24 | [UFC Hall of Fame](http://twitter.com/search?q=UFC+Hall+of+Fame) | N/A |
+| 25 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 26 | [Powwow](http://twitter.com/search?q=Powwow) | N/A |
+| 27 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 28 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 29 | [Matt Murray](http://twitter.com/search?q=Matt+Murray) | N/A |
+| 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 31 | [Michaels](http://twitter.com/search?q=Michaels) | N/A |
+| 32 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 33 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 34 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 35 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 36 | [Duraev](http://twitter.com/search?q=Duraev) | N/A |
+| 37 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 38 | [London](http://twitter.com/search?q=London) | N/A |
+| 39 | [Ylonen](http://twitter.com/search?q=Ylonen) | N/A |
+| 40 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 41 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 42 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 43 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
+| 44 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 45 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 46 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 47 | [Giles](http://twitter.com/search?q=Giles) | N/A |
+| 48 | [21 Jump Street](http://twitter.com/search?q=21+Jump+Street) | N/A |
+| 49 | [Scheer](http://twitter.com/search?q=Scheer) | N/A |
+| 50 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
 
 
 

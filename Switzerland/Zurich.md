@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-25 23:16:55 UTC`
+📆 Last Updated: `2023-03-26 00:29:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
 | 2 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
-| 3 | [#BLRSUI](http://twitter.com/search?q=%23BLRSUI) | N/A |
+| 3 | [#blrsui](http://twitter.com/search?q=%23blrsui) | N/A |
 | 4 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
 | 5 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 6 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
@@ -34,34 +34,34 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [Amdouni](http://twitter.com/search?q=Amdouni) | N/A |
 | 18 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
 | 19 | [Kantone](http://twitter.com/search?q=Kantone) | N/A |
-| 20 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 21 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
-| 22 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 20 | [Charles III](http://twitter.com/search?q=Charles+III) | N/A |
+| 21 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 23 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
 | 24 | [Serbs](http://twitter.com/search?q=Serbs) | N/A |
-| 25 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 26 | [Tradition](http://twitter.com/search?q=Tradition) | N/A |
-| 27 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
-| 28 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 30 | [Wein](http://twitter.com/search?q=Wein) | N/A |
+| 25 | [Wein](http://twitter.com/search?q=Wein) | N/A |
+| 26 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 27 | [Tradition](http://twitter.com/search?q=Tradition) | N/A |
+| 28 | [Jogginghosen](http://twitter.com/search?q=Jogginghosen) | N/A |
+| 29 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 31 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
 | 32 | [Tassen im Schrank](http://twitter.com/search?q=Tassen+im+Schrank) | N/A |
 | 33 | [LLMs](http://twitter.com/search?q=LLMs) | N/A |
 | 34 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
 | 35 | [Serbian](http://twitter.com/search?q=Serbian) | N/A |
-| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 36 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
 | 37 | [Fortschritt](http://twitter.com/search?q=Fortschritt) | N/A |
-| 38 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 39 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
-| 40 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 38 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 39 | [Presse](http://twitter.com/search?q=Presse) | N/A |
+| 40 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
 | 41 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
 | 42 | [berset](http://twitter.com/search?q=berset) | N/A |
-| 43 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 43 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 44 | [Ticket](http://twitter.com/search?q=Ticket) | N/A |
 | 45 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 46 | [Zeug](http://twitter.com/search?q=Zeug) | N/A |
-| 47 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 46 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 47 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
 | 48 | [Christen](http://twitter.com/search?q=Christen) | N/A |
 | 49 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 

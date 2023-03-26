@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-03-25 23:17:24 UTC`
+📆 Last Updated: `2023-03-26 00:29:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ドバイターフ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%bf%e3%83%bc%e3%83%95) | N/A |
-| 2 | [#トラジャ桜まつり](http://twitter.com/search?q=%23%e3%83%88%e3%83%a9%e3%82%b8%e3%83%a3%e6%a1%9c%e3%81%be%e3%81%a4%e3%82%8a) | N/A |
-| 3 | [#CherryBlossFest](http://twitter.com/search?q=%23CherryBlossFest) | N/A |
-| 4 | [#TravisJapan](http://twitter.com/search?q=%23TravisJapan) | N/A |
-| 5 | [イクイノックス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%82%a4%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | イクイノックス is a Japanese brand of men's clothing. The name is derived from the Latin phrase "ex inox", which means "from stainless steel". In English, it can be translated to mean "stainless steel fashion". |
-| 6 | [#Gメン](http://twitter.com/search?q=%23G%e3%83%a1%e3%83%b3) | N/A |
-| 7 | [白虎衣装](http://twitter.com/search?q=%e7%99%bd%e8%99%8e%e8%a1%a3%e8%a3%85) | N/A |
-| 8 | [#ラストマン](http://twitter.com/search?q=%23%e3%83%a9%e3%82%b9%e3%83%88%e3%83%9e%e3%83%b3) | N/A |
-| 9 | [雨の日曜日](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e6%97%a5%e6%9b%9c%e6%97%a5) | N/A |
-| 10 | [ゆきちゃん卒業](http://twitter.com/search?q=%e3%82%86%e3%81%8d%e3%81%a1%e3%82%83%e3%82%93%e5%8d%92%e6%a5%ad) | N/A |
-| 11 | [エピ凪映画化](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e5%87%aa%e6%98%a0%e7%94%bb%e5%8c%96) | N/A |
-| 12 | [ベラルーシ](http://twitter.com/search?q=%e3%83%99%e3%83%a9%e3%83%ab%e3%83%bc%e3%82%b7) | N/A |
-| 13 | [ユウディアス](http://twitter.com/search?q=%e3%83%a6%e3%82%a6%e3%83%87%e3%82%a3%e3%82%a2%e3%82%b9) | N/A |
-| 14 | [サク山チョコ次郎の日](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e5%b1%b1%e3%83%81%e3%83%a7%e3%82%b3%e6%ac%a1%e9%83%8e%e3%81%ae%e6%97%a5) | N/A |
-| 15 | [第429回](http://twitter.com/search?q=%e7%ac%ac429%e5%9b%9e) | N/A |
-| 16 | [日曜劇場](http://twitter.com/search?q=%e6%97%a5%e6%9b%9c%e5%8a%87%e5%a0%b4) | 日曜劇場 is a Japanese television program that airs on Sundays. It is a variety show featuring a mix of comedy, music, and drama. The English translation of 日曜劇場 is Sunday Theater. |
-| 17 | [公務員定年引き上げ](http://twitter.com/search?q=%e5%85%ac%e5%8b%99%e5%93%a1%e5%ae%9a%e5%b9%b4%e5%bc%95%e3%81%8d%e4%b8%8a%e3%81%92) | N/A |
-| 18 | [エピ凪劇場版](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e5%87%aa%e5%8a%87%e5%a0%b4%e7%89%88) | N/A |
-| 19 | [ブルロ2期](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%ad2%e6%9c%9f) | N/A |
-| 20 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
-| 21 | [戦術核兵器](http://twitter.com/search?q=%e6%88%a6%e8%a1%93%e6%a0%b8%e5%85%b5%e5%99%a8) | N/A |
-| 22 | [初の刑事役](http://twitter.com/search?q=%e5%88%9d%e3%81%ae%e5%88%91%e4%ba%8b%e5%bd%b9) | N/A |
-| 23 | [ズウィージョウ](http://twitter.com/search?q=%e3%82%ba%e3%82%a6%e3%82%a3%e3%83%bc%e3%82%b8%e3%83%a7%e3%82%a6) | N/A |
-| 24 | [食品サンプルの日](http://twitter.com/search?q=%e9%a3%9f%e5%93%81%e3%82%b5%e3%83%b3%e3%83%97%e3%83%ab%e3%81%ae%e6%97%a5) | N/A |
-| 25 | [咎人コラボ](http://twitter.com/search?q=%e5%92%8e%e4%ba%ba%e3%82%b3%e3%83%a9%e3%83%9c) | 咎人コラボ (Togabito Collaboration) is a Japanese video game series developed by Nippon Ichi Software. It is a dungeon-crawling role-playing game in which players take on the role of a "Togabito", or "Sinners", who must explore dungeons and battle monsters in order to save the world from destruction. The English translation of the title would be "Sinner's Collaboration". |
-| 26 | [公開日決定](http://twitter.com/search?q=%e5%85%ac%e9%96%8b%e6%97%a5%e6%b1%ba%e5%ae%9a) | N/A |
-| 27 | [ドバイワールドカップ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 28 | [ノーステッキ](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%82%b9%e3%83%86%e3%83%83%e3%82%ad) | N/A |
-| 29 | [ブルーロック2期](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af2%e6%9c%9f) | N/A |
-| 30 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 31 | [エピソード凪](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e3%82%bd%e3%83%bc%e3%83%89%e5%87%aa) | N/A |
-| 32 | [国・地方](http://twitter.com/search?q=%e5%9b%bd%e3%83%bb%e5%9c%b0%e6%96%b9) | N/A |
-| 33 | [高松宮記念](http://twitter.com/search?q=%e9%ab%98%e6%9d%be%e5%ae%ae%e8%a8%98%e5%bf%b5) | 高松宮記念 is a memorial event held in Takamatsu, Kagawa Prefecture, Japan. It is held annually on April 22nd to commemorate the establishment of Takamatsu Castle by the first lord of the Sanuki Province, Ikoma Takatoshi. The event includes a parade of people dressed in traditional costumes and a variety of performances. In English, it is known as the Takamatsu Castle Memorial Festival. |
-| 34 | [オーティス](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
-| 35 | [凱旋門賞](http://twitter.com/search?q=%e5%87%b1%e6%97%8b%e9%96%80%e8%b3%9e) | N/A |
-| 36 | [オルフェ](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%95%e3%82%a7) | N/A |
-| 37 | [ドバイWC](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4WC) | N/A |
-| 38 | [リマちゃん](http://twitter.com/search?q=%e3%83%aa%e3%83%9e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 39 | [バナムさん](http://twitter.com/search?q=%e3%83%90%e3%83%8a%e3%83%a0%e3%81%95%e3%82%93) | N/A |
-| 40 | [ドバイシーマクラシック](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%b7%e3%83%bc%e3%83%9e%e3%82%af%e3%83%a9%e3%82%b7%e3%83%83%e3%82%af) | N/A |
-| 41 | [髙木くん](http://twitter.com/search?q=%e9%ab%99%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
-| 42 | [カチューシャの唄の日](http://twitter.com/search?q=%e3%82%ab%e3%83%81%e3%83%a5%e3%83%bc%e3%82%b7%e3%83%a3%e3%81%ae%e5%94%84%e3%81%ae%e6%97%a5) | N/A |
-| 43 | [JUST DANCE](http://twitter.com/search?q=JUST+DANCE) | N/A |
-| 44 | [ダート馬](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%88%e9%a6%ac) | N/A |
-| 45 | [川崎記念](http://twitter.com/search?q=%e5%b7%9d%e5%b4%8e%e8%a8%98%e5%bf%b5) | 川崎記念 is a Japanese horse race held annually at the Kawasaki Racecourse in Kanagawa Prefecture. The race is named after the city of Kawasaki, and it is one of the most prestigious races in Japan. In English, it translates to "Kawasaki Memorial Race". |
-| 46 | [中村悠一](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e6%82%a0%e4%b8%80) | N/A |
-| 47 | [Wordle 645](http://twitter.com/search?q=Wordle+645) | N/A |
-| 48 | [エピng](http://twitter.com/search?q=%e3%82%a8%e3%83%94ng) | N/A |
-| 49 | [エンジン車販売容認](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e8%bb%8a%e8%b2%a9%e5%a3%b2%e5%ae%b9%e8%aa%8d) | N/A |
+| 1 | [#起きたら802](http://twitter.com/search?q=%23%e8%b5%b7%e3%81%8d%e3%81%9f%e3%82%89802) | N/A |
+| 2 | [#HappyRIMADay](http://twitter.com/search?q=%23HappyRIMADay) | N/A |
+| 3 | [#祝19歳はっぴーりまちゃーじ](http://twitter.com/search?q=%23%e7%a5%9d19%e6%ad%b3%e3%81%af%e3%81%a3%e3%81%b4%e3%83%bc%e3%82%8a%e3%81%be%e3%81%a1%e3%82%83%e3%83%bc%e3%81%98) | N/A |
+| 4 | [メイケイエール](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b1%e3%82%a4%e3%82%a8%e3%83%bc%e3%83%ab) | N/A |
+| 5 | [#NiziU](http://twitter.com/search?q=%23NiziU) | N/A |
+| 6 | [ドバイワールドカップ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 7 | [ダービー](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 8 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
+| 9 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
+| 10 | [プリキュア](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2) | プリキュア is short for "Pretty Cure," a popular Japanese magical girl anime series. The series follows the adventures of a group of girls who transform into powerful warriors to protect the world from evil forces. In English, it can be translated as "Pretty Cure." |
+| 11 | [ツバサくん](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e3%81%8f%e3%82%93) | N/A |
+| 12 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 13 | [エルちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | エルちゃん is a nickname for the character Elle from the Japanese manga series Chobits. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 14 | [キュアウィング](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%82%a6%e3%82%a3%e3%83%b3%e3%82%b0) | キュアウィング (Kyuu Wingu) is a Japanese term for a type of healing technique that uses the power of positive energy to help people heal from physical and emotional pain. It is based on the idea that the power of love and kindness can be used to heal and restore balance in a person's life. The technique involves sending positive energy to the person in need, either through touch or visualization. |
+| 15 | [航空力学](http://twitter.com/search?q=%e8%88%aa%e7%a9%ba%e5%8a%9b%e5%ad%a6) | N/A |
+| 16 | [つばさくん](http://twitter.com/search?q=%e3%81%a4%e3%81%b0%e3%81%95%e3%81%8f%e3%82%93) | N/A |
+| 17 | [グレース](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%82%b9) | N/A |
+| 18 | [プニバード族](http://twitter.com/search?q=%e3%83%97%e3%83%8b%e3%83%90%e3%83%bc%e3%83%89%e6%97%8f) | N/A |
+| 19 | [スカイランド](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 20 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
+| 21 | [あげはさん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%95%e3%82%93) | N/A |
+| 22 | [イクイノックス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%82%a4%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | イクイノックス is a Japanese brand of men's clothing. The name is derived from the Latin phrase "ex inox", which means "from stainless steel". In English, it can be translated to mean "stainless steel fashion". |
+| 23 | [雨の日曜日](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e6%97%a5%e6%9b%9c%e6%97%a5) | N/A |
+| 24 | [メカクレショタ](http://twitter.com/search?q=%e3%83%a1%e3%82%ab%e3%82%af%e3%83%ac%e3%82%b7%e3%83%a7%e3%82%bf) | N/A |
+| 25 | [ツバサ君](http://twitter.com/search?q=%e3%83%84%e3%83%90%e3%82%b5%e5%90%9b) | N/A |
+| 26 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
+| 27 | [レーザーブースト](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%82%b6%e3%83%bc%e3%83%96%e3%83%bc%e3%82%b9%e3%83%88) | N/A |
+| 28 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 29 | [あげはちゃん](http://twitter.com/search?q=%e3%81%82%e3%81%92%e3%81%af%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [ベロバちゃん](http://twitter.com/search?q=%e3%83%99%e3%83%ad%e3%83%90%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 31 | [ウシュバテソーロ](http://twitter.com/search?q=%e3%82%a6%e3%82%b7%e3%83%a5%e3%83%90%e3%83%86%e3%82%bd%e3%83%bc%e3%83%ad) | ウシュバテソーロ is a type of traditional dance from the Kumaon region of India. It is performed by men and women in colorful costumes and involves clapping, singing, and dancing. The name translates to "dance of joy" in English. |
+| 32 | [福くんさん](http://twitter.com/search?q=%e7%a6%8f%e3%81%8f%e3%82%93%e3%81%95%e3%82%93) | N/A |
+| 33 | [ジーンくん](http://twitter.com/search?q=%e3%82%b8%e3%83%bc%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
+| 34 | [ソラシド市](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%82%b7%e3%83%89%e5%b8%82) | N/A |
+| 35 | [ベロバ350歳](http://twitter.com/search?q=%e3%83%99%e3%83%ad%e3%83%90350%e6%ad%b3) | N/A |
+| 36 | [エピ凪映画化](http://twitter.com/search?q=%e3%82%a8%e3%83%94%e5%87%aa%e6%98%a0%e7%94%bb%e5%8c%96) | N/A |
+| 37 | [ゆきちゃん卒業](http://twitter.com/search?q=%e3%82%86%e3%81%8d%e3%81%a1%e3%82%83%e3%82%93%e5%8d%92%e6%a5%ad) | N/A |
+| 38 | [白虎衣装](http://twitter.com/search?q=%e7%99%bd%e8%99%8e%e8%a1%a3%e8%a3%85) | N/A |
+| 39 | [ぷいきゅあ](http://twitter.com/search?q=%e3%81%b7%e3%81%84%e3%81%8d%e3%82%85%e3%81%82) | ぷいきゅあ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
+| 40 | [ベロバさん](http://twitter.com/search?q=%e3%83%99%e3%83%ad%e3%83%90%e3%81%95%e3%82%93) | N/A |
+| 41 | [あゆむらせ](http://twitter.com/search?q=%e3%81%82%e3%82%86%e3%82%80%e3%82%89%e3%81%9b) | あゆむらせ is a Japanese phrase that means "Let's take a break". It is often used to suggest taking a break from work or other activities. |
+| 42 | [最強の健康優良児](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e3%81%ae%e5%81%a5%e5%ba%b7%e5%84%aa%e8%89%af%e5%85%90) | N/A |
+| 43 | [タイクーン](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%82%af%e3%83%bc%e3%83%b3) | タイクーン (taikūn) is a Japanese word that means "tycoon" or "magnate". It is used to refer to someone who has achieved great success in business or industry. |
+| 44 | [ベラルーシ](http://twitter.com/search?q=%e3%83%99%e3%83%a9%e3%83%ab%e3%83%bc%e3%82%b7) | N/A |
+| 45 | [織田信長](http://twitter.com/search?q=%e7%b9%94%e7%94%b0%e4%bf%a1%e9%95%b7) | 織田信長 (Oda Nobunaga) was a powerful Japanese daimyo (feudal lord) of the Sengoku period (1467-1603). He is widely regarded as one of the three unifiers of Japan, along with Toyotomi Hideyoshi and Tokugawa Ieyasu. He was a major figure in the unification of Japan during the late 16th century, and his ambition to control all of Japan ultimately led to his downfall. |
+| 46 | [つかまり立ち](http://twitter.com/search?q=%e3%81%a4%e3%81%8b%e3%81%be%e3%82%8a%e7%ab%8b%e3%81%a1) | N/A |
+| 47 | [わんだーらんど](http://twitter.com/search?q=%e3%82%8f%e3%82%93%e3%81%a0%e3%83%bc%e3%82%89%e3%82%93%e3%81%a9) | N/A |
+| 48 | [瞬足のCM](http://twitter.com/search?q=%e7%9e%ac%e8%b6%b3%e3%81%aeCM) | N/A |
+| 49 | [日曜劇場](http://twitter.com/search?q=%e6%97%a5%e6%9b%9c%e5%8a%87%e5%a0%b4) | 日曜劇場 is a Japanese television program that airs on Sundays. It is a variety show featuring a mix of comedy, music, and drama. The English translation of 日曜劇場 is Sunday Theater. |
 
 
 

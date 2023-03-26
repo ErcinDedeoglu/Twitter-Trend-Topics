@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-03-25 23:16:42 UTC`
+📆 Last Updated: `2023-03-26 00:29:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,49 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
-| 3 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
-| 4 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 5 | [Troncoso](http://twitter.com/search?q=Troncoso) | N/A |
-| 6 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 7 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
-| 8 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
-| 9 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 10 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 11 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
-| 12 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
-| 13 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
-| 14 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
-| 15 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 16 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
-| 17 | [#HastaSiempreCuate](http://twitter.com/search?q=%23HastaSiempreCuate) | N/A |
-| 18 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 19 | [#GiveChecoWings](http://twitter.com/search?q=%23GiveChecoWings) | N/A |
-| 20 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 21 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
-| 22 | [Elsa Aguirre](http://twitter.com/search?q=Elsa+Aguirre) | N/A |
-| 23 | [César Costa](http://twitter.com/search?q=C%c3%a9sar+Costa) | N/A |
-| 24 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 25 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
-| 26 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
-| 27 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 2 | [Pacer](http://twitter.com/search?q=Pacer) | N/A |
+| 3 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 4 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 5 | [#FestivalTurístico](http://twitter.com/search?q=%23FestivalTur%c3%adstico) | N/A |
+| 6 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 7 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 8 | [#ReformaJudicialYA](http://twitter.com/search?q=%23ReformaJudicialYA) | N/A |
+| 9 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 10 | [Muebles Troncoso](http://twitter.com/search?q=Muebles+Troncoso) | N/A |
+| 11 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 12 | [Chespirito](http://twitter.com/search?q=Chespirito) | N/A |
+| 13 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
+| 14 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 15 | [Sergio Corona](http://twitter.com/search?q=Sergio+Corona) | N/A |
+| 16 | [María Victoria](http://twitter.com/search?q=Mar%c3%ada+Victoria) | N/A |
+| 17 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 18 | [#LaCiudadQueLoTieneTodo](http://twitter.com/search?q=%23LaCiudadQueLoTieneTodo) | N/A |
+| 19 | [López Tarso](http://twitter.com/search?q=L%c3%b3pez+Tarso) | N/A |
+| 20 | [Aguilera](http://twitter.com/search?q=Aguilera) | N/A |
+| 21 | [La Carabina de Ambrosio](http://twitter.com/search?q=La+Carabina+de+Ambrosio) | N/A |
+| 22 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 23 | [Catafixia](http://twitter.com/search?q=Catafixia) | N/A |
+| 24 | [César Costa](http://twitter.com/search?q=C%c3%a9sar+Costa) | N/A |
+| 25 | [Elsa Aguirre](http://twitter.com/search?q=Elsa+Aguirre) | N/A |
+| 26 | [NO MAMEN](http://twitter.com/search?q=NO+MAMEN) | N/A |
+| 27 | [Adiós Superman](http://twitter.com/search?q=Adi%c3%b3s+Superman) | N/A |
 | 28 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 29 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
-| 30 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 31 | [Adela Micha](http://twitter.com/search?q=Adela+Micha) | N/A |
-| 32 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 33 | [Martha Debayle](http://twitter.com/search?q=Martha+Debayle) | Martha Debayle is a Mexican radio show hosted by Martha Debayle. It is a morning show that covers topics such as music, entertainment, lifestyle, and current events. The show is broadcast on the radio station W Radio in Mexico City and other cities in Mexico. The name of the show translates to "Martha of the Waves" in English. |
-| 34 | [Ilegal](http://twitter.com/search?q=Ilegal) | N/A |
-| 35 | [Irma Serrano](http://twitter.com/search?q=Irma+Serrano) | N/A |
-| 36 | [Plan C](http://twitter.com/search?q=Plan+C) | N/A |
-| 37 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 38 | [Rebeca Jones](http://twitter.com/search?q=Rebeca+Jones) | N/A |
-| 39 | [El 25](http://twitter.com/search?q=El+25) | N/A |
-| 40 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 41 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
-| 42 | [Ari Telch](http://twitter.com/search?q=Ari+Telch) | N/A |
-| 43 | [Lois](http://twitter.com/search?q=Lois) | N/A |
-| 44 | [#HarleyQuinn](http://twitter.com/search?q=%23HarleyQuinn) | N/A |
-| 45 | [#ULTIMAHORA](http://twitter.com/search?q=%23ULTIMAHORA) | N/A |
-| 46 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
-| 47 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 48 | [#QDEP](http://twitter.com/search?q=%23QDEP) | N/A |
-| 49 | [#VotoMasivoPorMorena2023Y2024](http://twitter.com/search?q=%23VotoMasivoPorMorena2023Y2024) | N/A |
+| 29 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 30 | [Voluntad](http://twitter.com/search?q=Voluntad) | N/A |
+| 31 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 32 | [López Dóriga](http://twitter.com/search?q=L%c3%b3pez+D%c3%b3riga) | N/A |
+| 33 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 34 | [Isabel](http://twitter.com/search?q=Isabel) | N/A |
+| 35 | [Plan C](http://twitter.com/search?q=Plan+C) | N/A |
+| 36 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 37 | [Mortal Kombat](http://twitter.com/search?q=Mortal+Kombat) | N/A |
+| 38 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
+| 39 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
+| 40 | [#HastaSiempreCuate](http://twitter.com/search?q=%23HastaSiempreCuate) | N/A |
+| 41 | [#HarleyQuinn](http://twitter.com/search?q=%23HarleyQuinn) | N/A |
+| 42 | [#VotoMasivoPorMorena2023Y2024](http://twitter.com/search?q=%23VotoMasivoPorMorena2023Y2024) | N/A |
+| 43 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 44 | [#QDEP](http://twitter.com/search?q=%23QDEP) | N/A |
 
 
 
