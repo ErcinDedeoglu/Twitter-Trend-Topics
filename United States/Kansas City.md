@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-26 10:17:34 UTC`
+📆 Last Updated: `2023-03-26 11:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 2 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 3 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
-| 4 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
-| 5 | [Marcus Mumford](http://twitter.com/search?q=Marcus+Mumford) | N/A |
-| 6 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 7 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 8 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 9 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 10 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
-| 11 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 12 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 13 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 14 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 15 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
-| 16 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 17 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 18 | [#rejected](http://twitter.com/search?q=%23rejected) | N/A |
-| 19 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
-| 20 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 21 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 22 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 23 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 24 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 25 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
-| 26 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 27 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 28 | [Idubbbz](http://twitter.com/search?q=Idubbbz) | N/A |
+| 2 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 3 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 4 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 6 | [#MCROSAKA](http://twitter.com/search?q=%23MCROSAKA) | N/A |
+| 7 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
+| 8 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
+| 9 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
+| 10 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
+| 11 | [marcus mumford](http://twitter.com/search?q=marcus+mumford) | N/A |
+| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 13 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
+| 14 | [player of the matchday](http://twitter.com/search?q=player+of+the+matchday) | N/A |
+| 15 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
+| 16 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 17 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 18 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 19 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 20 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 21 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 22 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 23 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
+| 24 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 25 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 26 | [Idubbbz](http://twitter.com/search?q=Idubbbz) | N/A |
+| 27 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 28 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
 | 29 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
 | 30 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 31 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
+| 31 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
 | 32 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 33 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 34 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 35 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 36 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 33 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 34 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 35 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 36 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
 | 37 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 38 | [callahan](http://twitter.com/search?q=callahan) | N/A |
-| 39 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 40 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 41 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 42 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 43 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
-| 44 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 45 | [Anisa](http://twitter.com/search?q=Anisa) | N/A |
-| 46 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
+| 38 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 39 | [Nugent](http://twitter.com/search?q=Nugent) | N/A |
+| 40 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 41 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 42 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 43 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
+| 44 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 45 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 46 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
 
 
 

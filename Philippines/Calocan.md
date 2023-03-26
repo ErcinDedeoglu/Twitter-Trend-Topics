@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-26 10:17:17 UTC`
+📆 Last Updated: `2023-03-26 11:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,38 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
-| 2 | [#BORNPINKinManila_BulacanD1](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD1) | N/A |
-| 3 | [BGYO AT AYALA MALLS FELIZ](http://twitter.com/search?q=BGYO+AT+AYALA+MALLS+FELIZ) | N/A |
-| 4 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
-| 5 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 6 | [#KATHreignsAt27](http://twitter.com/search?q=%23KATHreignsAt27) | N/A |
-| 7 | [QUEEN KATHRYN DAY](http://twitter.com/search?q=QUEEN+KATHRYN+DAY) | N/A |
-| 8 | [SUNGHOON LIVE](http://twitter.com/search?q=SUNGHOON+LIVE) | N/A |
-| 9 | [ARIN](http://twitter.com/search?q=ARIN) | N/A |
-| 10 | [Xiumin](http://twitter.com/search?q=Xiumin) | N/A |
-| 11 | [Tyang](http://twitter.com/search?q=Tyang) | N/A |
-| 12 | [JENNIE DAZES PHILIPPINES](http://twitter.com/search?q=JENNIE+DAZES+PHILIPPINES) | N/A |
-| 13 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
-| 14 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
-| 15 | [KAIA LETS GO](http://twitter.com/search?q=KAIA+LETS+GO) | N/A |
-| 16 | [ROSÉ ENAMORS PHILIPPINES](http://twitter.com/search?q=ROS%c3%89+ENAMORS+PHILIPPINES) | N/A |
-| 17 | [BarDa WayYouLookAtMeMV](http://twitter.com/search?q=BarDa+WayYouLookAtMeMV) | N/A |
-| 18 | [luxeslim alexa billboard](http://twitter.com/search?q=luxeslim+alexa+billboard) | N/A |
-| 19 | [KAORI JAPANVLOG 2023](http://twitter.com/search?q=KAORI+JAPANVLOG+2023) | N/A |
-| 20 | [Iza Calzado](http://twitter.com/search?q=Iza+Calzado) | N/A |
-| 21 | ["Canino"](http://twitter.com/search?q=%22Canino%22) | N/A |
-| 22 | [Coach Ramil](http://twitter.com/search?q=Coach+Ramil) | N/A |
-| 23 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 24 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 25 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
-| 26 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 27 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 28 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 29 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
-| 30 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
-| 31 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 32 | [CRIZJO LAST COOL OFF](http://twitter.com/search?q=CRIZJO+LAST+COOL+OFF) | N/A |
-| 33 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 34 | [alamat can see your voice](http://twitter.com/search?q=alamat+can+see+your+voice) | N/A |
-| 35 | [mama liu](http://twitter.com/search?q=mama+liu) | N/A |
-| 36 | [KDays 200k ON SPOTIFY](http://twitter.com/search?q=KDays+200k+ON+SPOTIFY) | N/A |
-| 37 | [MNL48 ASAP SUMMER HOTTER](http://twitter.com/search?q=MNL48+ASAP+SUMMER+HOTTER) | N/A |
-| 38 | [KALUGURAN DAKA MARCUS](http://twitter.com/search?q=KALUGURAN+DAKA+MARCUS) | N/A |
-| 39 | [Kim Minseok](http://twitter.com/search?q=Kim+Minseok) | N/A |
-| 40 | [MASANTING KA JEROMY](http://twitter.com/search?q=MASANTING+KA+JEROMY) | N/A |
-| 41 | [My OT7](http://twitter.com/search?q=My+OT7) | N/A |
-| 42 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 43 | [julieverightest woman](http://twitter.com/search?q=julieverightest+woman) | N/A |
-| 44 | [belen](http://twitter.com/search?q=belen) | N/A |
-| 45 | [Nierva](http://twitter.com/search?q=Nierva) | N/A |
-| 46 | [Jules](http://twitter.com/search?q=Jules) | N/A |
-| 47 | [KICK BACK](http://twitter.com/search?q=KICK+BACK) | N/A |
-| 48 | [aos juliesanjose](http://twitter.com/search?q=aos+juliesanjose) | N/A |
-| 49 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 50 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
+| 1 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 2 | [BGYO AT AYALA MALLS FELIZ](http://twitter.com/search?q=BGYO+AT+AYALA+MALLS+FELIZ) | N/A |
+| 3 | [#HORI7ON_GoesToPampanga](http://twitter.com/search?q=%23HORI7ON_GoesToPampanga) | N/A |
+| 4 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
+| 5 | [#BORNPINKinManila_BulacanD2](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD2) | N/A |
+| 6 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 7 | [JENNIE DAZES PHILIPPINES](http://twitter.com/search?q=JENNIE+DAZES+PHILIPPINES) | N/A |
+| 8 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
+| 9 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 10 | [#DaigFindTheWitch](http://twitter.com/search?q=%23DaigFindTheWitch) | N/A |
+| 11 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
+| 12 | [Hoon](http://twitter.com/search?q=Hoon) | N/A |
+| 13 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
+| 14 | [KANG TAEHYUN](http://twitter.com/search?q=KANG+TAEHYUN) | N/A |
+| 15 | [KAORI JAPANVLOG 2023](http://twitter.com/search?q=KAORI+JAPANVLOG+2023) | N/A |
+| 16 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
+| 17 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
+| 18 | [Anji Salvacion](http://twitter.com/search?q=Anji+Salvacion) | N/A |
+| 19 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 20 | [#TXT_ASM_TOUR_in_SEOUL_Day2](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day2) | N/A |
+| 21 | [#นุนิวxMakroPRO](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7xMakroPRO) | N/A |
+| 22 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
+| 23 | [#BOBBY_Inkigayo_Comeback](http://twitter.com/search?q=%23BOBBY_Inkigayo_Comeback) | N/A |
+| 24 | [#럭키맨_김지원_사랑해](http://twitter.com/search?q=%23%eb%9f%ad%ed%82%a4%eb%a7%a8_%ea%b9%80%ec%a7%80%ec%9b%90_%ec%82%ac%eb%9e%91%ed%95%b4) | N/A |
+| 25 | [#MCGILoveAbounds](http://twitter.com/search?q=%23MCGILoveAbounds) | N/A |
+| 26 | [#BOYCOTTEBxAPTxGMA746](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA746) | N/A |
+| 27 | [#ProjectSINAGTALA](http://twitter.com/search?q=%23ProjectSINAGTALA) | N/A |
+| 28 | [#WeiShenV](http://twitter.com/search?q=%23WeiShenV) | N/A |
+| 29 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
+| 30 | [#VXON_Comeback](http://twitter.com/search?q=%23VXON_Comeback) | N/A |
+| 31 | [#VXON_BreakingBad](http://twitter.com/search?q=%23VXON_BreakingBad) | N/A |
+| 32 | [#GulfKanawut](http://twitter.com/search?q=%23GulfKanawut) | N/A |
 
 
 

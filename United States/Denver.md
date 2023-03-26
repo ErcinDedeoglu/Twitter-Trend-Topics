@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-26 10:17:32 UTC`
+📆 Last Updated: `2023-03-26 11:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 2 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 3 | [giannis](http://twitter.com/search?q=giannis) | N/A |
-| 4 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 5 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 6 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 7 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
-| 8 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
-| 9 | [Marcus Mumford](http://twitter.com/search?q=Marcus+Mumford) | N/A |
-| 10 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 11 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 12 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 13 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 14 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
-| 15 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 16 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 17 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 18 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 19 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
-| 20 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 22 | [#rejected](http://twitter.com/search?q=%23rejected) | N/A |
-| 23 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
-| 24 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 25 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 26 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 27 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
-| 28 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 29 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 30 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
-| 31 | [Charlo](http://twitter.com/search?q=Charlo) | N/A |
-| 32 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 33 | [Idubbbz](http://twitter.com/search?q=Idubbbz) | N/A |
-| 34 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 35 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 36 | [Eric Andre](http://twitter.com/search?q=Eric+Andre) | N/A |
-| 37 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 38 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 39 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 40 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 41 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 42 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 43 | [callahan](http://twitter.com/search?q=callahan) | N/A |
-| 44 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 45 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 46 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 47 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 48 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
-| 49 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 50 | [Anisa](http://twitter.com/search?q=Anisa) | N/A |
+| 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 3 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 5 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 6 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 7 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 8 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 9 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 10 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 11 | [#MCROSAKA](http://twitter.com/search?q=%23MCROSAKA) | N/A |
+| 12 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
+| 13 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
+| 14 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
+| 15 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
+| 16 | [marcus mumford](http://twitter.com/search?q=marcus+mumford) | N/A |
+| 17 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 18 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
+| 19 | [player of the matchday](http://twitter.com/search?q=player+of+the+matchday) | N/A |
+| 20 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
+| 21 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
+| 22 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 23 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 24 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 25 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 26 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 27 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 29 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
+| 30 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 31 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 32 | [Idubbbz](http://twitter.com/search?q=Idubbbz) | N/A |
+| 33 | [honduras](http://twitter.com/search?q=honduras) | N/A |
+| 34 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
+| 35 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 36 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 37 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
+| 38 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 39 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 40 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 41 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 42 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
+| 43 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 44 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 45 | [Nugent](http://twitter.com/search?q=Nugent) | N/A |
+| 46 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 47 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 48 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 49 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
+| 50 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
 
 
 

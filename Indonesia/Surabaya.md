@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-03-26 10:17:11 UTC`
+📆 Last Updated: `2023-03-26 11:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 2 | [#XHBD_FairyKing](http://twitter.com/search?q=%23XHBD_FairyKing) | N/A |
-| 3 | [#요정킹시우민_생일축하해](http://twitter.com/search?q=%23%ec%9a%94%ec%a0%95%ed%82%b9%ec%8b%9c%ec%9a%b0%eb%af%bc_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 4 | [#KerjaNyata](http://twitter.com/search?q=%23KerjaNyata) | N/A |
+| 1 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 2 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 3 | [Wajah Baru PSSI](http://twitter.com/search?q=Wajah+Baru+PSSI) | N/A |
+| 4 | [#lapakcot](http://twitter.com/search?q=%23lapakcot) | N/A |
 | 5 | [#CosmostalesJKT48](http://twitter.com/search?q=%23CosmostalesJKT48) | N/A |
-| 6 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
-| 7 | [Wajah Baru PSSI](http://twitter.com/search?q=Wajah+Baru+PSSI) | N/A |
-| 8 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 9 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 6 | [#KerjaNyata](http://twitter.com/search?q=%23KerjaNyata) | N/A |
+| 7 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 8 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 9 | [TALA LISA IN BULACAN](http://twitter.com/search?q=TALA+LISA+IN+BULACAN) | N/A |
 | 10 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 11 | [HAPPY BIRTHDAY XIUMIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+XIUMIN) | N/A |
-| 12 | [Batal](http://twitter.com/search?q=Batal) | N/A |
-| 13 | [TALA LISA IN BULACAN](http://twitter.com/search?q=TALA+LISA+IN+BULACAN) | N/A |
-| 14 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 15 | [Great Hall](http://twitter.com/search?q=Great+Hall) | N/A |
-| 16 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
-| 17 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
-| 18 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 19 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
-| 20 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 21 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 22 | [Fizi](http://twitter.com/search?q=Fizi) | N/A |
-| 23 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
-| 24 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
-| 25 | [Ritz Carlton](http://twitter.com/search?q=Ritz+Carlton) | N/A |
-| 26 | [DOTE](http://twitter.com/search?q=DOTE) | N/A |
-| 27 | [Beast](http://twitter.com/search?q=Beast) | N/A |
-| 28 | [ARIN](http://twitter.com/search?q=ARIN) | N/A |
-| 29 | [Wota](http://twitter.com/search?q=Wota) | N/A |
-| 30 | [Chef Arnold](http://twitter.com/search?q=Chef+Arnold) | N/A |
-| 31 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 32 | [TXT 2ND WORLD TOUR BEGINS](http://twitter.com/search?q=TXT+2ND+WORLD+TOUR+BEGINS) | N/A |
-| 33 | [Cinderella](http://twitter.com/search?q=Cinderella) | N/A |
-| 34 | [Belle](http://twitter.com/search?q=Belle) | N/A |
-| 35 | [Blue Spring](http://twitter.com/search?q=Blue+Spring) | N/A |
-| 36 | [Sore](http://twitter.com/search?q=Sore) | N/A |
-| 37 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 38 | [Timothy](http://twitter.com/search?q=Timothy) | N/A |
-| 39 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 40 | [Puasa](http://twitter.com/search?q=Puasa) | N/A |
-| 41 | [Lyodra](http://twitter.com/search?q=Lyodra) | N/A |
-| 42 | [Danang](http://twitter.com/search?q=Danang) | N/A |
-| 43 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 44 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 45 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 46 | [Klitih](http://twitter.com/search?q=Klitih) | N/A |
-| 47 | [Jordi Amat](http://twitter.com/search?q=Jordi+Amat) | N/A |
-| 48 | [Rizky Ridho](http://twitter.com/search?q=Rizky+Ridho) | N/A |
-| 49 | [Ziva](http://twitter.com/search?q=Ziva) | N/A |
-| 50 | [BUMN](http://twitter.com/search?q=BUMN) | N/A |
+| 11 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 12 | [Beast](http://twitter.com/search?q=Beast) | N/A |
+| 13 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 14 | [Belle](http://twitter.com/search?q=Belle) | N/A |
+| 15 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 16 | [Batal](http://twitter.com/search?q=Batal) | N/A |
+| 17 | [ARIN](http://twitter.com/search?q=ARIN) | N/A |
+| 18 | [Great Hall](http://twitter.com/search?q=Great+Hall) | N/A |
+| 19 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
+| 20 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
+| 21 | [Prof](http://twitter.com/search?q=Prof) | N/A |
+| 22 | [Risol](http://twitter.com/search?q=Risol) | N/A |
+| 23 | [Olimpiade](http://twitter.com/search?q=Olimpiade) | N/A |
+| 24 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
+| 25 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 26 | [Ngabuburit](http://twitter.com/search?q=Ngabuburit) | N/A |
+| 27 | [bakwan](http://twitter.com/search?q=bakwan) | N/A |
+| 28 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 29 | [Adzan](http://twitter.com/search?q=Adzan) | N/A |
+| 30 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
+| 31 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
+| 32 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
+| 33 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
+| 34 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 35 | [Ritz Carlton](http://twitter.com/search?q=Ritz+Carlton) | N/A |
+| 36 | [Klitih](http://twitter.com/search?q=Klitih) | N/A |
+| 37 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 38 | [#53ปีช่อง3ดีต่อใจxGulf](http://twitter.com/search?q=%2353%e0%b8%9b%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%873%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88xGulf) | N/A |
+| 39 | [#TXT_ASM_TOUR_in_SEOUL_Day2](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day2) | N/A |
+| 40 | [#zonauangᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0) | N/A |
+| 41 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
+| 42 | [#นุนิวxMakroPRO](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7xMakroPRO) | N/A |
+| 43 | [#럭키맨_김지원_사랑해](http://twitter.com/search?q=%23%eb%9f%ad%ed%82%a4%eb%a7%a8_%ea%b9%80%ec%a7%80%ec%9b%90_%ec%82%ac%eb%9e%91%ed%95%b4) | N/A |
+| 44 | [#BOBBY_Inkigayo_Comeback](http://twitter.com/search?q=%23BOBBY_Inkigayo_Comeback) | N/A |
+| 45 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
+| 46 | [#ChoiWooShik](http://twitter.com/search?q=%23ChoiWooShik) | N/A |
+| 47 | [#GulfKanawut](http://twitter.com/search?q=%23GulfKanawut) | N/A |
+| 48 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 49 | [#ShanDay](http://twitter.com/search?q=%23ShanDay) | N/A |
+| 50 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
 
 
 
