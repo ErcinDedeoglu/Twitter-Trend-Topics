@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-26 11:18:02 UTC`
+📆 Last Updated: `2023-03-26 12:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 | 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 5 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 6 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 7 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 8 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 6 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 7 | [#MCROSAKA](http://twitter.com/search?q=%23MCROSAKA) | N/A |
+| 8 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
 | 9 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 10 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 11 | [#MCROSAKA](http://twitter.com/search?q=%23MCROSAKA) | N/A |
-| 12 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
+| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 11 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 12 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
 | 13 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 14 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
-| 15 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
+| 14 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 15 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
 | 16 | [marcus mumford](http://twitter.com/search?q=marcus+mumford) | N/A |
-| 17 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 17 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
 | 18 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 19 | [player of the matchday](http://twitter.com/search?q=player+of+the+matchday) | N/A |
-| 20 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
-| 21 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 22 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 23 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 24 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 19 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 20 | [leonard nimoy](http://twitter.com/search?q=leonard+nimoy) | N/A |
+| 21 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
+| 22 | [kenny bayless](http://twitter.com/search?q=kenny+bayless) | N/A |
+| 23 | [Cult](http://twitter.com/search?q=Cult) | N/A |
+| 24 | [Erica](http://twitter.com/search?q=Erica) | N/A |
 | 25 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 26 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 27 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 29 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
+| 26 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 27 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 28 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 29 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 30 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 31 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 32 | [Idubbbz](http://twitter.com/search?q=Idubbbz) | N/A |
-| 33 | [honduras](http://twitter.com/search?q=honduras) | N/A |
-| 34 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
-| 35 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 31 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 32 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 33 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 34 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 35 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
 | 36 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 37 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
-| 38 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 39 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 37 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
+| 38 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 39 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
 | 40 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 41 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 42 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
-| 43 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 44 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 45 | [Nugent](http://twitter.com/search?q=Nugent) | N/A |
-| 46 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 41 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
+| 42 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 43 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
+| 44 | [Nugent](http://twitter.com/search?q=Nugent) | N/A |
+| 45 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
+| 46 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
 | 47 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 48 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 49 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
-| 50 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 48 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 49 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 50 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
 
 
 

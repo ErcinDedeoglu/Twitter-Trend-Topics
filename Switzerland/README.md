@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-26 11:18:19 UTC`
+📆 Last Updated: `2023-03-26 12:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
 | 2 | [#blrsui](http://twitter.com/search?q=%23blrsui) | N/A |
-| 3 | [#Zeitumstellung](http://twitter.com/search?q=%23Zeitumstellung) | N/A |
+| 3 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
 | 4 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
 | 5 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 6 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 7 | [#Sommerzeit](http://twitter.com/search?q=%23Sommerzeit) | N/A |
-| 8 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 9 | [#dvglpch](http://twitter.com/search?q=%23dvglpch) | N/A |
-| 10 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 11 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
-| 12 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
-| 13 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 14 | [İtten](http://twitter.com/search?q=%c4%b0tten) | N/A |
-| 15 | [Senf](http://twitter.com/search?q=Senf) | N/A |
-| 16 | [amdouni](http://twitter.com/search?q=amdouni) | N/A |
-| 17 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
-| 18 | [Eigenkapital](http://twitter.com/search?q=Eigenkapital) | N/A |
-| 19 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 20 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
-| 21 | [Sozialismus](http://twitter.com/search?q=Sozialismus) | N/A |
-| 22 | [Tradition](http://twitter.com/search?q=Tradition) | N/A |
-| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 24 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 25 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
-| 26 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 27 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 28 | [LLMs](http://twitter.com/search?q=LLMs) | N/A |
-| 29 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 30 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 31 | [Herbst](http://twitter.com/search?q=Herbst) | N/A |
-| 32 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
-| 33 | [Fakt](http://twitter.com/search?q=Fakt) | N/A |
-| 34 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 35 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 36 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
-| 37 | [Finma](http://twitter.com/search?q=Finma) | N/A |
-| 38 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 39 | [Kantone](http://twitter.com/search?q=Kantone) | N/A |
-| 40 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 41 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
-| 42 | [Osten](http://twitter.com/search?q=Osten) | N/A |
-| 43 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 44 | [Serbs](http://twitter.com/search?q=Serbs) | N/A |
-| 45 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
-| 46 | [Ecke](http://twitter.com/search?q=Ecke) | N/A |
-| 47 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 48 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 49 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
-| 50 | [Zusammenhang](http://twitter.com/search?q=Zusammenhang) | N/A |
+| 7 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 8 | [#Sommerzeit](http://twitter.com/search?q=%23Sommerzeit) | N/A |
+| 9 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 10 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
+| 11 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 12 | [Aufmerksamkeit](http://twitter.com/search?q=Aufmerksamkeit) | N/A |
+| 13 | [#MutzurLösung](http://twitter.com/search?q=%23MutzurL%c3%b6sung) | N/A |
+| 14 | [itten](http://twitter.com/search?q=itten) | N/A |
+| 15 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
+| 16 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 17 | [Senf](http://twitter.com/search?q=Senf) | N/A |
+| 18 | [amdouni](http://twitter.com/search?q=amdouni) | N/A |
+| 19 | [Finma](http://twitter.com/search?q=Finma) | N/A |
+| 20 | [Euro 2024](http://twitter.com/search?q=Euro+2024) | N/A |
+| 21 | [eigenkapital](http://twitter.com/search?q=eigenkapital) | N/A |
+| 22 | [Sozialismus](http://twitter.com/search?q=Sozialismus) | N/A |
+| 23 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
+| 24 | [Argumentation](http://twitter.com/search?q=Argumentation) | N/A |
+| 25 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
+| 26 | [Tradition](http://twitter.com/search?q=Tradition) | N/A |
+| 27 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 28 | [rechtsstaat](http://twitter.com/search?q=rechtsstaat) | N/A |
+| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 30 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 31 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 32 | [Biélorussie](http://twitter.com/search?q=Bi%c3%a9lorussie) | N/A |
+| 33 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 34 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 35 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
+| 36 | [Krankheit](http://twitter.com/search?q=Krankheit) | N/A |
+| 37 | [Fakt](http://twitter.com/search?q=Fakt) | N/A |
+| 38 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 39 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
+| 40 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 41 | [Kantone](http://twitter.com/search?q=Kantone) | N/A |
+| 42 | [Hetzer](http://twitter.com/search?q=Hetzer) | N/A |
+| 43 | [Osten](http://twitter.com/search?q=Osten) | N/A |
+| 44 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 45 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 46 | [Migros](http://twitter.com/search?q=Migros) | N/A |
+| 47 | [Serbs](http://twitter.com/search?q=Serbs) | N/A |
+| 48 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
+| 49 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
+| 50 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
 
 
 

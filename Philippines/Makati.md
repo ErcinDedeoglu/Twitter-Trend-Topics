@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-26 11:17:43 UTC`
+📆 Last Updated: `2023-03-26 12:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,36 +17,42 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
 | 2 | [BGYO AT AYALA MALLS FELIZ](http://twitter.com/search?q=BGYO+AT+AYALA+MALLS+FELIZ) | N/A |
-| 3 | [#HORI7ON_GoesToPampanga](http://twitter.com/search?q=%23HORI7ON_GoesToPampanga) | N/A |
-| 4 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
-| 5 | [#BORNPINKinManila_BulacanD2](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD2) | N/A |
-| 6 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 7 | [JENNIE DAZES PHILIPPINES](http://twitter.com/search?q=JENNIE+DAZES+PHILIPPINES) | N/A |
-| 8 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
-| 9 | [#DaigFindTheWitch](http://twitter.com/search?q=%23DaigFindTheWitch) | N/A |
+| 3 | [#WayV_Phantom_in_MANILA](http://twitter.com/search?q=%23WayV_Phantom_in_MANILA) | N/A |
+| 4 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
+| 5 | [#HORI7ON_GoesToPampanga](http://twitter.com/search?q=%23HORI7ON_GoesToPampanga) | N/A |
+| 6 | [TALA LISA IN BULACAN](http://twitter.com/search?q=TALA+LISA+IN+BULACAN) | N/A |
+| 7 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 8 | [JENNIE DAZES PHILIPPINES](http://twitter.com/search?q=JENNIE+DAZES+PHILIPPINES) | N/A |
+| 9 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
 | 10 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 11 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
-| 12 | [Hoon](http://twitter.com/search?q=Hoon) | N/A |
-| 13 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
-| 14 | [KANG TAEHYUN](http://twitter.com/search?q=KANG+TAEHYUN) | N/A |
-| 15 | [KAORI JAPANVLOG 2023](http://twitter.com/search?q=KAORI+JAPANVLOG+2023) | N/A |
-| 16 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
-| 17 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
-| 18 | [Anji Salvacion](http://twitter.com/search?q=Anji+Salvacion) | N/A |
-| 19 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 20 | [#TXT_ASM_TOUR_in_SEOUL_Day2](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day2) | N/A |
-| 21 | [#นุนิวxMakroPRO](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7xMakroPRO) | N/A |
-| 22 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
-| 23 | [#BOBBY_Inkigayo_Comeback](http://twitter.com/search?q=%23BOBBY_Inkigayo_Comeback) | N/A |
-| 24 | [#럭키맨_김지원_사랑해](http://twitter.com/search?q=%23%eb%9f%ad%ed%82%a4%eb%a7%a8_%ea%b9%80%ec%a7%80%ec%9b%90_%ec%82%ac%eb%9e%91%ed%95%b4) | N/A |
-| 25 | [#MCGILoveAbounds](http://twitter.com/search?q=%23MCGILoveAbounds) | N/A |
-| 26 | [#BOYCOTTEBxAPTxGMA746](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA746) | N/A |
-| 27 | [#ProjectSINAGTALA](http://twitter.com/search?q=%23ProjectSINAGTALA) | N/A |
-| 28 | [#WeiShenV](http://twitter.com/search?q=%23WeiShenV) | N/A |
-| 29 | [#VXON_Comeback](http://twitter.com/search?q=%23VXON_Comeback) | N/A |
-| 30 | [#VXON_BreakingBad](http://twitter.com/search?q=%23VXON_BreakingBad) | N/A |
-| 31 | [#MONEY](http://twitter.com/search?q=%23MONEY) | N/A |
-| 32 | [#GulfKanawut](http://twitter.com/search?q=%23GulfKanawut) | N/A |
+| 11 | [ARIN](http://twitter.com/search?q=ARIN) | N/A |
+| 12 | [#VXON_VINCE](http://twitter.com/search?q=%23VXON_VINCE) | N/A |
+| 13 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 14 | [ANJBRENT THE HAPPIEST BLINKS](http://twitter.com/search?q=ANJBRENT+THE+HAPPIEST+BLINKS) | N/A |
+| 15 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 16 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
+| 17 | [Hoon](http://twitter.com/search?q=Hoon) | N/A |
+| 18 | [KANG TAEHYUN](http://twitter.com/search?q=KANG+TAEHYUN) | N/A |
+| 19 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
+| 20 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
+| 21 | [ACEs](http://twitter.com/search?q=ACEs) | N/A |
+| 22 | [Anji Salvacion](http://twitter.com/search?q=Anji+Salvacion) | N/A |
+| 23 | [#DaigFindTheWitch](http://twitter.com/search?q=%23DaigFindTheWitch) | N/A |
+| 24 | [#TXT_ASM_TOUR_in_SEOUL_Day2](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day2) | N/A |
+| 25 | [#นุนิวxMakroPRO](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7xMakroPRO) | N/A |
+| 26 | [#freenbeckyfanboom](http://twitter.com/search?q=%23freenbeckyfanboom) | N/A |
+| 27 | [#VCTPacific](http://twitter.com/search?q=%23VCTPacific) | N/A |
+| 28 | [#BOBBY_Inkigayo_Comeback](http://twitter.com/search?q=%23BOBBY_Inkigayo_Comeback) | N/A |
+| 29 | [#럭키맨_김지원_사랑해](http://twitter.com/search?q=%23%eb%9f%ad%ed%82%a4%eb%a7%a8_%ea%b9%80%ec%a7%80%ec%9b%90_%ec%82%ac%eb%9e%91%ed%95%b4) | N/A |
+| 30 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
+| 31 | [#VXON_Comeback](http://twitter.com/search?q=%23VXON_Comeback) | N/A |
+| 32 | [#ShainnaGayle](http://twitter.com/search?q=%23ShainnaGayle) | N/A |
+| 33 | [#VXON_BreakingBad](http://twitter.com/search?q=%23VXON_BreakingBad) | N/A |
+| 34 | [#BOYCOTTEBxAPTxGMA746](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA746) | N/A |
+| 35 | [#MCGILoveAbounds](http://twitter.com/search?q=%23MCGILoveAbounds) | N/A |
+| 36 | [#ProjectSINAGTALA](http://twitter.com/search?q=%23ProjectSINAGTALA) | N/A |
+| 37 | [#WeiShenV](http://twitter.com/search?q=%23WeiShenV) | N/A |
+| 38 | [#GulfKanawut](http://twitter.com/search?q=%23GulfKanawut) | N/A |
 
 
 

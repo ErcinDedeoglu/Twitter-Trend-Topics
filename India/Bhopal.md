@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-26 11:17:56 UTC`
+📆 Last Updated: `2023-03-26 12:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [भारतीय जनता पार्टी](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 2 | [#HBDDaddyOfMemesMarket](http://twitter.com/search?q=%23HBDDaddyOfMemesMarket) | N/A |
-| 3 | [#ShindeShahiInMaharashtra](http://twitter.com/search?q=%23ShindeShahiInMaharashtra) | N/A |
-| 4 | [#JPNaddaInBhopal](http://twitter.com/search?q=%23JPNaddaInBhopal) | N/A |
-| 5 | [#news18indiaadhiveshan](http://twitter.com/search?q=%23news18indiaadhiveshan) | N/A |
-| 6 | [#MannKiBaat](http://twitter.com/search?q=%23MannKiBaat) | N/A |
-| 7 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 2 | [#SSMB28](http://twitter.com/search?q=%23SSMB28) | N/A |
+| 3 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
+| 4 | [#HBDDaddyOfMemesMarket](http://twitter.com/search?q=%23HBDDaddyOfMemesMarket) | N/A |
+| 5 | [#JPNaddaInBhopal](http://twitter.com/search?q=%23JPNaddaInBhopal) | N/A |
+| 6 | [#ShindeShahiInMaharashtra](http://twitter.com/search?q=%23ShindeShahiInMaharashtra) | N/A |
+| 7 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
 | 8 | [Shinde Bulldozer Man](http://twitter.com/search?q=Shinde+Bulldozer+Man) | N/A |
-| 9 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
+| 9 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
 | 10 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 11 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 12 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 13 | [MAJOR MISSING PRIYANKIT](http://twitter.com/search?q=MAJOR+MISSING+PRIYANKIT) | N/A |
-| 14 | [Chirag Shetty](http://twitter.com/search?q=Chirag+Shetty) | N/A |
-| 15 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
-| 16 | [Eknath Shinde](http://twitter.com/search?q=Eknath+Shinde) | N/A |
+| 11 | [STAY BLESSED SUMBUL](http://twitter.com/search?q=STAY+BLESSED+SUMBUL) | N/A |
+| 12 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 13 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 14 | [MAJOR MISSING PRIYANKIT](http://twitter.com/search?q=MAJOR+MISSING+PRIYANKIT) | N/A |
+| 15 | [Stay Tuned](http://twitter.com/search?q=Stay+Tuned) | N/A |
+| 16 | [Chirag Shetty](http://twitter.com/search?q=Chirag+Shetty) | N/A |
 | 17 | [सड़क मार्ग](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a1%e0%a4%bc%e0%a4%95+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%97) | N/A |
-| 18 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
-| 19 | [Pandavas](http://twitter.com/search?q=Pandavas) | N/A |
-| 20 | [WE LOVE YOU ALICE](http://twitter.com/search?q=WE+LOVE+YOU+ALICE) | N/A |
-| 21 | [Oneweb India-2 Mission](http://twitter.com/search?q=Oneweb+India-2+Mission) | N/A |
-| 22 | [सिसोदिया समाज](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 23 | [महादेवी वर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
-| 24 | [SURILI ERA BEGINS](http://twitter.com/search?q=SURILI+ERA+BEGINS) | N/A |
-| 25 | [श्री नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
-| 26 | [सतीश धवन अंतरिक्ष केंद्र](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%a7%e0%a4%b5%e0%a4%a8+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
-| 27 | [Satish Dhawan Space Centre](http://twitter.com/search?q=Satish+Dhawan+Space+Centre) | N/A |
-| 28 | [Lord Ram](http://twitter.com/search?q=Lord+Ram) | N/A |
-| 29 | [भारतीय अंतरिक्ष अनुसंधान संगठन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a4%a0%e0%a4%a8) | N/A |
-| 30 | [Arif](http://twitter.com/search?q=Arif) | N/A |
-| 31 | [लोकप्रिय कार्यक्रम](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
-| 32 | [HBD SUPER SHAHEERA](http://twitter.com/search?q=HBD+SUPER+SHAHEERA) | N/A |
-| 33 | [पंचम स्वरूप](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 34 | [आधुनिक मीरा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a4%be) | N/A |
-| 35 | [Reservation](http://twitter.com/search?q=Reservation) | N/A |
-| 36 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 37 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 38 | [सदा देवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 39 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
-| 40 | [#AkankshaDubey](http://twitter.com/search?q=%23AkankshaDubey) | N/A |
-| 41 | [#AasmanSeAage](http://twitter.com/search?q=%23AasmanSeAage) | N/A |
-| 42 | [#bhojpuriactress](http://twitter.com/search?q=%23bhojpuriactress) | N/A |
-| 43 | [#RCBUnbox](http://twitter.com/search?q=%23RCBUnbox) | N/A |
-| 44 | [#KanjoosMakhichoos](http://twitter.com/search?q=%23KanjoosMakhichoos) | N/A |
-| 45 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
-| 46 | [#GalaxyA54giveaway](http://twitter.com/search?q=%23GalaxyA54giveaway) | N/A |
-| 47 | [#AmpYourAwesome](http://twitter.com/search?q=%23AmpYourAwesome) | N/A |
-| 48 | [#SankalpSatyagraha](http://twitter.com/search?q=%23SankalpSatyagraha) | N/A |
-| 49 | [#ISRO](http://twitter.com/search?q=%23ISRO) | N/A |
+| 18 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
+| 19 | [Dis'Qualified MP](http://twitter.com/search?q=Dis%27Qualified+MP) | N/A |
+| 20 | [Eknath Shinde](http://twitter.com/search?q=Eknath+Shinde) | N/A |
+| 21 | [Satwiksairaj Rankireddy](http://twitter.com/search?q=Satwiksairaj+Rankireddy) | N/A |
+| 22 | [A. 4](http://twitter.com/search?q=A.+4) | N/A |
+| 23 | [Pandavas](http://twitter.com/search?q=Pandavas) | N/A |
+| 24 | [Bajrang](http://twitter.com/search?q=Bajrang) | N/A |
+| 25 | [WE LOVE YOU ALICE](http://twitter.com/search?q=WE+LOVE+YOU+ALICE) | N/A |
+| 26 | [सिसोदिया समाज](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 27 | [Oneweb India-2 Mission](http://twitter.com/search?q=Oneweb+India-2+Mission) | N/A |
+| 28 | [श्री नरेंद्र मोदी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a5%8b%e0%a4%a6%e0%a5%80) | N/A |
+| 29 | [महादेवी वर्मा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%ae%e0%a4%be) | N/A |
+| 30 | [प्रभु राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 31 | [Arif](http://twitter.com/search?q=Arif) | N/A |
+| 32 | [सतीश धवन अंतरिक्ष केंद्र](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%a7%e0%a4%b5%e0%a4%a8+%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7+%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0) | N/A |
+| 33 | [Satish Dhawan Space Centre](http://twitter.com/search?q=Satish+Dhawan+Space+Centre) | N/A |
+| 34 | [Lord Ram](http://twitter.com/search?q=Lord+Ram) | N/A |
+| 35 | [प्रदेश कार्यालय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 36 | [पंचम स्वरूप](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9a%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 37 | [HBD SUPER SHAHEERA](http://twitter.com/search?q=HBD+SUPER+SHAHEERA) | N/A |
+| 38 | [आधुनिक मीरा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ae%e0%a5%80%e0%a4%b0%e0%a4%be) | N/A |
+| 39 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
+| 40 | [सदा देवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 41 | [#AkankshaDubey](http://twitter.com/search?q=%23AkankshaDubey) | N/A |
+| 42 | [#AasmanSeAage](http://twitter.com/search?q=%23AasmanSeAage) | N/A |
+| 43 | [#MannKiBaat](http://twitter.com/search?q=%23MannKiBaat) | N/A |
+| 44 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
+| 45 | [#News18IndiaAdhiveshan](http://twitter.com/search?q=%23News18IndiaAdhiveshan) | N/A |
+| 46 | [#bhojpuriactress](http://twitter.com/search?q=%23bhojpuriactress) | N/A |
+| 47 | [#RCBUnbox](http://twitter.com/search?q=%23RCBUnbox) | N/A |
+| 48 | [#AmpYourAwesome](http://twitter.com/search?q=%23AmpYourAwesome) | N/A |
+| 49 | [#राइट_टू_हेल्थ_संजीवनी_है](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%87%e0%a4%9f_%e0%a4%9f%e0%a5%82_%e0%a4%b9%e0%a5%87%e0%a4%b2%e0%a5%8d%e0%a4%a5_%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
 
 
 

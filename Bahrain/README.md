@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-03-26 11:18:11 UTC`
+📆 Last Updated: `2023-03-26 12:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,38 @@ This is top 50 for Bahrain
 | 13 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
 | 14 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
 | 15 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 16 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 17 | [ابي عبد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%b9%d8%a8%d8%af) | N/A |
-| 18 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 19 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 20 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 21 | [الموسم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 23 | [فاطمة](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d8%a9) | N/A |
-| 24 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 25 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
-| 26 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 27 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 28 | [السميع العليم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d9%85) | N/A |
-| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 30 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
-| 31 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 32 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
-| 33 | [royal crowns](http://twitter.com/search?q=royal+crowns) | N/A |
-| 34 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 35 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 36 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
-| 37 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
-| 38 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 39 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
-| 40 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
-| 41 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 42 | [الانستا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
-| 43 | [Read Bio](http://twitter.com/search?q=Read+Bio) | N/A |
-| 44 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
-| 45 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 46 | [اليوتيوب](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
-| 47 | [علي الخير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 48 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 49 | [منتخب الارجنتين](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86) | N/A |
+| 16 | [ابي عبد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%b9%d8%a8%d8%af) | N/A |
+| 17 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
+| 18 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 19 | [الموسم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 20 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 21 | [فاطمة](http://twitter.com/search?q=%d9%81%d8%a7%d8%b7%d9%85%d8%a9) | N/A |
+| 22 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 23 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
+| 24 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 25 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 26 | [السميع العليم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 28 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
+| 29 | [Imran Khan](http://twitter.com/search?q=Imran+Khan) | N/A |
+| 30 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 31 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
+| 32 | [royal crowns](http://twitter.com/search?q=royal+crowns) | N/A |
+| 33 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 34 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 35 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
+| 36 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
+| 37 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 38 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
+| 39 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
+| 40 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 41 | [الانستا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%b3%d8%aa%d8%a7) | N/A |
+| 42 | [Read Bio](http://twitter.com/search?q=Read+Bio) | N/A |
+| 43 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 44 | [اليوتيوب](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
+| 45 | [علي الخير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 46 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 47 | [منتخب الارجنتين](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-03-26 11:18:05 UTC`
+📆 Last Updated: `2023-03-26 12:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 2 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 3 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 4 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 5 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 6 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 7 | [#MCROSAKA](http://twitter.com/search?q=%23MCROSAKA) | N/A |
-| 8 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
-| 9 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 10 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
-| 11 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
-| 12 | [marcus mumford](http://twitter.com/search?q=marcus+mumford) | N/A |
-| 13 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 14 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 15 | [player of the matchday](http://twitter.com/search?q=player+of+the+matchday) | N/A |
-| 16 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
-| 17 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 18 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 19 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 20 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 21 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 22 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 23 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 24 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 25 | [Mexican Monster](http://twitter.com/search?q=Mexican+Monster) | N/A |
-| 26 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 27 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 28 | [Idubbbz](http://twitter.com/search?q=Idubbbz) | N/A |
-| 29 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 30 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
-| 31 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 32 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 33 | [eric andre](http://twitter.com/search?q=eric+andre) | N/A |
-| 34 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 35 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 36 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
-| 37 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 38 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
-| 39 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 40 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 1 | [Trey](http://twitter.com/search?q=Trey) | N/A |
+| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 3 | [#MCROSAKA](http://twitter.com/search?q=%23MCROSAKA) | N/A |
+| 4 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 6 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 8 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
+| 9 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 10 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
+| 11 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 12 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 13 | [marcus mumford](http://twitter.com/search?q=marcus+mumford) | N/A |
+| 14 | [WHITE HORSE](http://twitter.com/search?q=WHITE+HORSE) | N/A |
+| 15 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
+| 16 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
+| 17 | [leonard nimoy](http://twitter.com/search?q=leonard+nimoy) | N/A |
+| 18 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
+| 19 | [kenny bayless](http://twitter.com/search?q=kenny+bayless) | N/A |
+| 20 | [Cult](http://twitter.com/search?q=Cult) | N/A |
+| 21 | [Erica](http://twitter.com/search?q=Erica) | N/A |
+| 22 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 23 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 24 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
+| 25 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 26 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 27 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 28 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
+| 29 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 30 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 31 | [Cuomo](http://twitter.com/search?q=Cuomo) | N/A |
+| 32 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 33 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 34 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
+| 35 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
+| 36 | [Cigna](http://twitter.com/search?q=Cigna) | N/A |
+| 37 | [Ezra Miller](http://twitter.com/search?q=Ezra+Miller) | Ezra Miller is an American actor, singer, and musician. He is best known for his roles in the films We Need to Talk About Kevin (2011), The Perks of Being a Wallflower (2012), and Fantastic Beasts and Where to Find Them (2016). His name is derived from the Hebrew Bible, where Ezra was a scribe who helped rebuild the Jewish nation after their exile in Babylon. |
+| 38 | [Jeter](http://twitter.com/search?q=Jeter) | Jeter is a French surname derived from the Old French word "jeter," which means "to throw." It is also a given name, usually given to boys, and is derived from the surname. |
+| 39 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 40 | [Lincoln Project](http://twitter.com/search?q=Lincoln+Project) | N/A |
 | 41 | [Nugent](http://twitter.com/search?q=Nugent) | N/A |
-| 42 | [Trigger](http://twitter.com/search?q=Trigger) | N/A |
-| 43 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 44 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 45 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
-| 46 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 47 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 48 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
-| 49 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 42 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
+| 43 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
+| 44 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 45 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 46 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 47 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 48 | [#Wordle645](http://twitter.com/search?q=%23Wordle645) | N/A |
+| 49 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
 
 
 

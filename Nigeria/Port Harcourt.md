@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-26 11:17:46 UTC`
+📆 Last Updated: `2023-03-26 12:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,45 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
-| 2 | [#TheRisingSunMovie](http://twitter.com/search?q=%23TheRisingSunMovie) | N/A |
-| 3 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 2 | [#TinubuForPrison](http://twitter.com/search?q=%23TinubuForPrison) | N/A |
+| 3 | [#FCMBOnlineAccount](http://twitter.com/search?q=%23FCMBOnlineAccount) | N/A |
 | 4 | [#AristonChallenge](http://twitter.com/search?q=%23AristonChallenge) | N/A |
-| 5 | [#britishcouncilartshowcase](http://twitter.com/search?q=%23britishcouncilartshowcase) | N/A |
-| 6 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 7 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 8 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 9 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 10 | [Oladipo Diya](http://twitter.com/search?q=Oladipo+Diya) | N/A |
-| 11 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 12 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 13 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
-| 14 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
-| 15 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
-| 16 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
-| 17 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
-| 18 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 19 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 20 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
-| 21 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 22 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 23 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
-| 24 | [phyna x rixari sales](http://twitter.com/search?q=phyna+x+rixari+sales) | N/A |
-| 25 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 26 | [SPECIMEN](http://twitter.com/search?q=SPECIMEN) | N/A |
-| 27 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
-| 28 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 29 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 30 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 31 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
-| 32 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 33 | [Department](http://twitter.com/search?q=Department) | N/A |
-| 34 | [London](http://twitter.com/search?q=London) | N/A |
-| 35 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 36 | [buga with yvonne](http://twitter.com/search?q=buga+with+yvonne) | N/A |
-| 37 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
-| 38 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 39 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 40 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 41 | [Agneepath](http://twitter.com/search?q=Agneepath) | N/A |
-| 42 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
-| 43 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 44 | [ekweremadu](http://twitter.com/search?q=ekweremadu) | N/A |
-| 45 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 46 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
-| 47 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
-| 48 | [iftar mubarak](http://twitter.com/search?q=iftar+mubarak) | N/A |
+| 5 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 6 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
+| 7 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
+| 8 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 9 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
+| 10 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 11 | [Oladipo Diya](http://twitter.com/search?q=Oladipo+Diya) | N/A |
+| 12 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
+| 13 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
+| 14 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 15 | [President of Nigeria](http://twitter.com/search?q=President+of+Nigeria) | N/A |
+| 16 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
+| 17 | [Odumodublvck](http://twitter.com/search?q=Odumodublvck) | N/A |
+| 18 | [Department](http://twitter.com/search?q=Department) | N/A |
+| 19 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 20 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 21 | [Psquare](http://twitter.com/search?q=Psquare) | N/A |
+| 22 | [Gaffer](http://twitter.com/search?q=Gaffer) | N/A |
+| 23 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 24 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 25 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 26 | [Happy Birthday Boss](http://twitter.com/search?q=Happy+Birthday+Boss) | N/A |
+| 27 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 28 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 29 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 30 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
+| 31 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 32 | [Ekelebe Stunner](http://twitter.com/search?q=Ekelebe+Stunner) | N/A |
+| 33 | [#SundayService](http://twitter.com/search?q=%23SundayService) | N/A |
+| 34 | [#TheRisingSunMovie](http://twitter.com/search?q=%23TheRisingSunMovie) | N/A |
+| 35 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
+| 36 | [#JohnWick4](http://twitter.com/search?q=%23JohnWick4) | N/A |
+| 37 | [#GlobalCrusadewithKumuyi](http://twitter.com/search?q=%23GlobalCrusadewithKumuyi) | N/A |
+| 38 | [#PastorKumuyiSaid](http://twitter.com/search?q=%23PastorKumuyiSaid) | N/A |
+| 39 | [#GCKinCameroon](http://twitter.com/search?q=%23GCKinCameroon) | N/A |
+| 40 | [#worship](http://twitter.com/search?q=%23worship) | N/A |
 
 
 

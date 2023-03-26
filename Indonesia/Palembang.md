@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-26 11:17:36 UTC`
+📆 Last Updated: `2023-03-26 12:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 2 | [Wajah Baru PSSI](http://twitter.com/search?q=Wajah+Baru+PSSI) | N/A |
-| 3 | [#CosmostalesJKT48](http://twitter.com/search?q=%23CosmostalesJKT48) | N/A |
+| 2 | [#บียัวเต๊าะบิว](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b9%8a%e0%b8%b2%e0%b8%b0%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 3 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
 | 4 | [#lapakcot](http://twitter.com/search?q=%23lapakcot) | N/A |
 | 5 | [TALA LISA IN BULACAN](http://twitter.com/search?q=TALA+LISA+IN+BULACAN) | N/A |
-| 6 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 7 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 8 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 9 | [Beast](http://twitter.com/search?q=Beast) | N/A |
-| 10 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 11 | [Belle](http://twitter.com/search?q=Belle) | N/A |
-| 12 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 13 | [Batal](http://twitter.com/search?q=Batal) | N/A |
+| 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 8 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 9 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 10 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 11 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 12 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 13 | [Beast](http://twitter.com/search?q=Beast) | N/A |
 | 14 | [ARIN](http://twitter.com/search?q=ARIN) | N/A |
-| 15 | [Great Hall](http://twitter.com/search?q=Great+Hall) | N/A |
-| 16 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
-| 17 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
-| 18 | [Prof](http://twitter.com/search?q=Prof) | N/A |
-| 19 | [Risol](http://twitter.com/search?q=Risol) | N/A |
-| 20 | [Olimpiade](http://twitter.com/search?q=Olimpiade) | N/A |
-| 21 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
-| 22 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 23 | [Ngabuburit](http://twitter.com/search?q=Ngabuburit) | N/A |
-| 24 | [bakwan](http://twitter.com/search?q=bakwan) | N/A |
-| 25 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
-| 26 | [Adzan](http://twitter.com/search?q=Adzan) | N/A |
-| 27 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
-| 28 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
-| 29 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
-| 30 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
-| 31 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 32 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 33 | [Ritz Carlton](http://twitter.com/search?q=Ritz+Carlton) | N/A |
+| 15 | [Batal](http://twitter.com/search?q=Batal) | N/A |
+| 16 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
+| 17 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 18 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
+| 19 | [Selamat Berbuka Puasa](http://twitter.com/search?q=Selamat+Berbuka+Puasa) | N/A |
+| 20 | [Belle](http://twitter.com/search?q=Belle) | N/A |
+| 21 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 22 | [Olimpiade](http://twitter.com/search?q=Olimpiade) | N/A |
+| 23 | [Prof](http://twitter.com/search?q=Prof) | N/A |
+| 24 | [Risol](http://twitter.com/search?q=Risol) | N/A |
+| 25 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 26 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
+| 27 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
+| 28 | [Bakwan](http://twitter.com/search?q=Bakwan) | N/A |
+| 29 | [Palsu](http://twitter.com/search?q=Palsu) | N/A |
+| 30 | [Adzan](http://twitter.com/search?q=Adzan) | N/A |
+| 31 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 32 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
+| 33 | [Hujan](http://twitter.com/search?q=Hujan) | N/A |
 | 34 | [Klitih](http://twitter.com/search?q=Klitih) | N/A |
-| 35 | [#KerjaNyata](http://twitter.com/search?q=%23KerjaNyata) | N/A |
-| 36 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 37 | [#53ปีช่อง3ดีต่อใจxGulf](http://twitter.com/search?q=%2353%e0%b8%9b%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%873%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88xGulf) | N/A |
-| 38 | [#TXT_ASM_TOUR_in_SEOUL_Day2](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day2) | N/A |
-| 39 | [#zonauangᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0) | N/A |
-| 40 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
-| 41 | [#นุนิวxMakroPRO](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7xMakroPRO) | N/A |
-| 42 | [#럭키맨_김지원_사랑해](http://twitter.com/search?q=%23%eb%9f%ad%ed%82%a4%eb%a7%a8_%ea%b9%80%ec%a7%80%ec%9b%90_%ec%82%ac%eb%9e%91%ed%95%b4) | N/A |
-| 43 | [#BOBBY_Inkigayo_Comeback](http://twitter.com/search?q=%23BOBBY_Inkigayo_Comeback) | N/A |
-| 44 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
-| 45 | [#ChoiWooShik](http://twitter.com/search?q=%23ChoiWooShik) | N/A |
-| 46 | [#GulfKanawut](http://twitter.com/search?q=%23GulfKanawut) | N/A |
-| 47 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 35 | [Ngabuburit](http://twitter.com/search?q=Ngabuburit) | N/A |
+| 36 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 37 | [Ritz Carlton](http://twitter.com/search?q=Ritz+Carlton) | N/A |
+| 38 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 39 | [#KerjaNyata](http://twitter.com/search?q=%23KerjaNyata) | N/A |
+| 40 | [#53ปีช่อง3ดีต่อใจxGulf](http://twitter.com/search?q=%2353%e0%b8%9b%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%873%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88xGulf) | N/A |
+| 41 | [#zonauangᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0) | N/A |
+| 42 | [#CosmostalesJKT48](http://twitter.com/search?q=%23CosmostalesJKT48) | N/A |
+| 43 | [#TXT_ASM_TOUR_in_SEOUL_Day2](http://twitter.com/search?q=%23TXT_ASM_TOUR_in_SEOUL_Day2) | N/A |
+| 44 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
+| 45 | [#GISELLE](http://twitter.com/search?q=%23GISELLE) | N/A |
+| 46 | [#นุนิวxMakroPRO](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7xMakroPRO) | N/A |
+| 47 | [#ChoiWooShik](http://twitter.com/search?q=%23ChoiWooShik) | N/A |
 
 
 
