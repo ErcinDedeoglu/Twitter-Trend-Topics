@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-26 09:17:47 UTC`
+📆 Last Updated: `2023-03-26 10:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GERPER](http://twitter.com/search?q=%23GERPER) | N/A |
-| 2 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 1 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
+| 2 | [#GERPER](http://twitter.com/search?q=%23GERPER) | N/A |
 | 3 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 4 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
+| 4 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
 | 5 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
 | 6 | [#nuhrimzweiten](http://twitter.com/search?q=%23nuhrimzweiten) | N/A |
 | 7 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 8 | [Warme Atmosphäre](http://twitter.com/search?q=Warme+Atmosph%c3%a4re) | N/A |
-| 9 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 10 | [#cmtipp](http://twitter.com/search?q=%23cmtipp) | N/A |
+| 8 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 9 | [Warme Atmosphäre](http://twitter.com/search?q=Warme+Atmosph%c3%a4re) | N/A |
+| 10 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
 | 11 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 12 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 13 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 14 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 15 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 16 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 12 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 13 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 14 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 15 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 16 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
 | 17 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
-| 18 | [Hausaufgaben](http://twitter.com/search?q=Hausaufgaben) | N/A |
-| 19 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 20 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 18 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 19 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 20 | [Hausaufgaben](http://twitter.com/search?q=Hausaufgaben) | N/A |
 | 21 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 22 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
-| 23 | [Absicht eine Mauer](http://twitter.com/search?q=Absicht+eine+Mauer) | N/A |
+| 22 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 23 | [Timo Werner](http://twitter.com/search?q=Timo+Werner) | N/A |
 | 24 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 25 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
-| 26 | [Einschüchterung](http://twitter.com/search?q=Einsch%c3%bcchterung) | N/A |
-| 27 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 28 | [Kommission](http://twitter.com/search?q=Kommission) | N/A |
-| 29 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 30 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 25 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 26 | [Straftaten](http://twitter.com/search?q=Straftaten) | N/A |
+| 27 | [Dauerregen](http://twitter.com/search?q=Dauerregen) | N/A |
+| 28 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
+| 29 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 30 | [Streik](http://twitter.com/search?q=Streik) | N/A |
 | 31 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
 | 32 | [Bauch](http://twitter.com/search?q=Bauch) | N/A |
-| 33 | [Füllkrug](http://twitter.com/search?q=F%c3%bcllkrug) | N/A |
-| 34 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
-| 35 | [Streik](http://twitter.com/search?q=Streik) | N/A |
-| 36 | [Stau](http://twitter.com/search?q=Stau) | N/A |
-| 37 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 38 | [Lisa Eckhart](http://twitter.com/search?q=Lisa+Eckhart) | N/A |
-| 39 | [Dauerregen](http://twitter.com/search?q=Dauerregen) | N/A |
-| 40 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 41 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 42 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 43 | [Sonntagmorgen](http://twitter.com/search?q=Sonntagmorgen) | N/A |
-| 44 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 45 | [Trinken](http://twitter.com/search?q=Trinken) | N/A |
-| 46 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 47 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 48 | [Stationierung](http://twitter.com/search?q=Stationierung) | N/A |
-| 49 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 50 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
+| 33 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 34 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 35 | [Füllkrug](http://twitter.com/search?q=F%c3%bcllkrug) | N/A |
+| 36 | [Absicht eine Mauer](http://twitter.com/search?q=Absicht+eine+Mauer) | N/A |
+| 37 | [Lisa Eckhart](http://twitter.com/search?q=Lisa+Eckhart) | N/A |
+| 38 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
+| 39 | [Stau](http://twitter.com/search?q=Stau) | N/A |
+| 40 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 41 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 42 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 43 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 44 | [Stationierung](http://twitter.com/search?q=Stationierung) | N/A |
+| 45 | [T-Online](http://twitter.com/search?q=T-Online) | N/A |
+| 46 | [Terroristen](http://twitter.com/search?q=Terroristen) | N/A |
+| 47 | [Kanzlei](http://twitter.com/search?q=Kanzlei) | N/A |
+| 48 | [Habt den Sonntag](http://twitter.com/search?q=Habt+den+Sonntag) | N/A |
+| 49 | [Backofen](http://twitter.com/search?q=Backofen) | N/A |
+| 50 | [Schiedsrichterin](http://twitter.com/search?q=Schiedsrichterin) | N/A |
 
 
 

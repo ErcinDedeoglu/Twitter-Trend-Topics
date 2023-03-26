@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-26 09:17:46 UTC`
+📆 Last Updated: `2023-03-26 10:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,39 +32,39 @@ This is top 50 for Denmark
 | 15 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 16 | [Barbara Bertelsen](http://twitter.com/search?q=Barbara+Bertelsen) | N/A |
 | 17 | [Moderaternes](http://twitter.com/search?q=Moderaternes) | N/A |
-| 18 | [Kender](http://twitter.com/search?q=Kender) | N/A |
+| 18 | [#ENVtubers](http://twitter.com/search?q=%23ENVtubers) | N/A |
 | 19 | [Muscovy](http://twitter.com/search?q=Muscovy) | N/A |
-| 20 | [#ENVtubers](http://twitter.com/search?q=%23ENVtubers) | N/A |
-| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 22 | [#midjourney](http://twitter.com/search?q=%23midjourney) | N/A |
-| 23 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
-| 24 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 25 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 26 | [Mogens Jensen](http://twitter.com/search?q=Mogens+Jensen) | N/A |
-| 27 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
-| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 29 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 30 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 31 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
-| 32 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
-| 33 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 34 | [Lars Løkke](http://twitter.com/search?q=Lars+L%c3%b8kke) | N/A |
-| 35 | [David](http://twitter.com/search?q=David) | N/A |
-| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 37 | [zanka](http://twitter.com/search?q=zanka) | N/A |
-| 38 | [Vesten](http://twitter.com/search?q=Vesten) | N/A |
-| 39 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 40 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 41 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 42 | [Minksagen](http://twitter.com/search?q=Minksagen) | N/A |
-| 43 | [Bruxelles](http://twitter.com/search?q=Bruxelles) | N/A |
-| 44 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 45 | [danskerne](http://twitter.com/search?q=danskerne) | N/A |
-| 46 | [Regeringen](http://twitter.com/search?q=Regeringen) | N/A |
-| 47 | [Elise](http://twitter.com/search?q=Elise) | N/A |
-| 48 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 49 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 50 | [Emil](http://twitter.com/search?q=Emil) | N/A |
+| 20 | [#midjourney](http://twitter.com/search?q=%23midjourney) | N/A |
+| 21 | [Wout van Aert](http://twitter.com/search?q=Wout+van+Aert) | N/A |
+| 22 | [Mette Frederiksen](http://twitter.com/search?q=Mette+Frederiksen) | N/A |
+| 23 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
+| 24 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 25 | [Mogens Jensen](http://twitter.com/search?q=Mogens+Jensen) | N/A |
+| 26 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 27 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 28 | [Norge](http://twitter.com/search?q=Norge) | N/A |
+| 29 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
+| 30 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 31 | [Lars Løkke](http://twitter.com/search?q=Lars+L%c3%b8kke) | N/A |
+| 32 | [Zanka](http://twitter.com/search?q=Zanka) | N/A |
+| 33 | [Vesten](http://twitter.com/search?q=Vesten) | N/A |
+| 34 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 35 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 36 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 37 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 38 | [Minksagen](http://twitter.com/search?q=Minksagen) | N/A |
+| 39 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
+| 40 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 41 | [danskerne](http://twitter.com/search?q=danskerne) | N/A |
+| 42 | [Elise](http://twitter.com/search?q=Elise) | N/A |
+| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 44 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 45 | [Emil](http://twitter.com/search?q=Emil) | N/A |
+| 46 | [vestegnen](http://twitter.com/search?q=vestegnen) | N/A |
+| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 48 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 49 | [Aarhus](http://twitter.com/search?q=Aarhus) | N/A |
+| 50 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 
 
 

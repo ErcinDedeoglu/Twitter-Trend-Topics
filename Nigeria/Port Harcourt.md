@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-26 09:17:22 UTC`
+📆 Last Updated: `2023-03-26 10:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
-| 2 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 3 | [Oladipo Diya](http://twitter.com/search?q=Oladipo+Diya) | N/A |
-| 4 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
-| 5 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
-| 6 | [#GlobalCrusadewithKumuyi](http://twitter.com/search?q=%23GlobalCrusadewithKumuyi) | N/A |
-| 7 | [#TinubuForPrison](http://twitter.com/search?q=%23TinubuForPrison) | N/A |
-| 8 | [#britishcouncilartshowcase](http://twitter.com/search?q=%23britishcouncilartshowcase) | N/A |
-| 9 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 10 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
-| 11 | [Declan Rice](http://twitter.com/search?q=Declan+Rice) | Declan Rice is an English professional footballer who plays as a midfielder for Premier League club West Ham United and the England national team. His name is derived from the Irish Gaelic name "Deaglán", which means "full of goodness". |
-| 12 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
-| 13 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 14 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
-| 15 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 16 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 2 | [#TheRisingSunMovie](http://twitter.com/search?q=%23TheRisingSunMovie) | N/A |
+| 3 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 4 | [#TinubuForPrison](http://twitter.com/search?q=%23TinubuForPrison) | N/A |
+| 5 | [#GlobalCrusadewithKumuyi](http://twitter.com/search?q=%23GlobalCrusadewithKumuyi) | N/A |
+| 6 | [Reno](http://twitter.com/search?q=Reno) | Reno is short for the city of Reno, Nevada, which is known as "The Biggest Little City in the World." It is a popular tourist destination due to its many casinos and entertainment venues. |
+| 7 | [Imagination](http://twitter.com/search?q=Imagination) | N/A |
+| 8 | [Oladipo Diya](http://twitter.com/search?q=Oladipo+Diya) | N/A |
+| 9 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 10 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
+| 11 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 12 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
+| 13 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 14 | [Department](http://twitter.com/search?q=Department) | N/A |
+| 15 | [Yoruba Muslims](http://twitter.com/search?q=Yoruba+Muslims) | N/A |
+| 16 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
 | 17 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
-| 18 | [London](http://twitter.com/search?q=London) | N/A |
+| 18 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 19 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 20 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 21 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
-| 22 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 23 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 24 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
-| 25 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
-| 26 | [phyna x rixari sales](http://twitter.com/search?q=phyna+x+rixari+sales) | N/A |
-| 27 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
-| 28 | [SPECIMEN](http://twitter.com/search?q=SPECIMEN) | N/A |
-| 29 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 30 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 31 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
-| 32 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 33 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 34 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 35 | [Gaffer](http://twitter.com/search?q=Gaffer) | N/A |
-| 36 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 37 | [Agneepath](http://twitter.com/search?q=Agneepath) | N/A |
-| 38 | [BUGA WITH YVONNE](http://twitter.com/search?q=BUGA+WITH+YVONNE) | N/A |
-| 39 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
-| 40 | [chukwueze](http://twitter.com/search?q=chukwueze) | N/A |
-| 41 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 42 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
-| 43 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
-| 44 | [B.O.D](http://twitter.com/search?q=B.O.D) | N/A |
+| 20 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 21 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 22 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 23 | [Anobi](http://twitter.com/search?q=Anobi) | N/A |
+| 24 | [Keyamo](http://twitter.com/search?q=Keyamo) | N/A |
+| 25 | [PHYNA X PHYNATION](http://twitter.com/search?q=PHYNA+X+PHYNATION) | N/A |
+| 26 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
+| 27 | [phyna x rixari sales](http://twitter.com/search?q=phyna+x+rixari+sales) | N/A |
+| 28 | [London](http://twitter.com/search?q=London) | N/A |
+| 29 | [Gaffer](http://twitter.com/search?q=Gaffer) | N/A |
+| 30 | [SPECIMEN](http://twitter.com/search?q=SPECIMEN) | N/A |
+| 31 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 32 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 33 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 34 | [Kenneth](http://twitter.com/search?q=Kenneth) | N/A |
+| 35 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 36 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 37 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 39 | [Agneepath](http://twitter.com/search?q=Agneepath) | N/A |
+| 40 | [BUGA WITH YVONNE](http://twitter.com/search?q=BUGA+WITH+YVONNE) | N/A |
+| 41 | [guinea bissau](http://twitter.com/search?q=guinea+bissau) | N/A |
+| 42 | [Donald Duke](http://twitter.com/search?q=Donald+Duke) | N/A |
+| 43 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 44 | [King Nasir](http://twitter.com/search?q=King+Nasir) | N/A |
 | 45 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 46 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 47 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 46 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 47 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
+| 48 | [iftar mubarak](http://twitter.com/search?q=iftar+mubarak) | N/A |
 
 
 

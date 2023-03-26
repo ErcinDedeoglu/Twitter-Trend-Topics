@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-26 09:16:57 UTC`
+📆 Last Updated: `2023-03-26 10:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 7 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
 | 8 | [Teresa Nuques](http://twitter.com/search?q=Teresa+Nuques) | N/A |
 | 9 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 10 | [pindal](http://twitter.com/search?q=pindal) | N/A |
+| 10 | [Pindal](http://twitter.com/search?q=Pindal) | N/A |
 | 11 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 12 | [Salado](http://twitter.com/search?q=Salado) | N/A |
-| 13 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
-| 14 | [julio guerrero](http://twitter.com/search?q=julio+guerrero) | N/A |
-| 15 | [gastos reservados](http://twitter.com/search?q=gastos+reservados) | N/A |
-| 16 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 17 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 18 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 19 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 20 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 21 | [#moronasantiagodecidió](http://twitter.com/search?q=%23moronasantiagodecidi%c3%b3) | N/A |
-| 22 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 23 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
-| 24 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 25 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 26 | [rosa cerda](http://twitter.com/search?q=rosa+cerda) | N/A |
-| 27 | [vargas torres](http://twitter.com/search?q=vargas+torres) | N/A |
-| 28 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 29 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 30 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 31 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 32 | [Evo Morales](http://twitter.com/search?q=Evo+Morales) | N/A |
-| 33 | [Mirtha Legrand](http://twitter.com/search?q=Mirtha+Legrand) | N/A |
-| 34 | [jocay](http://twitter.com/search?q=jocay) | N/A |
-| 35 | [trujillato](http://twitter.com/search?q=trujillato) | N/A |
-| 36 | [Pachakutik](http://twitter.com/search?q=Pachakutik) | N/A |
-| 37 | [Insulto](http://twitter.com/search?q=Insulto) | N/A |
-| 38 | [quishpe](http://twitter.com/search?q=quishpe) | N/A |
-| 39 | [Dante](http://twitter.com/search?q=Dante) | N/A |
-| 40 | [ROBEN BIEN](http://twitter.com/search?q=ROBEN+BIEN) | N/A |
-| 41 | [Iberoamérica](http://twitter.com/search?q=Iberoam%c3%a9rica) | N/A |
-| 42 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
-| 43 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
-| 44 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 45 | [Tiko Tiko](http://twitter.com/search?q=Tiko+Tiko) | N/A |
-| 46 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 47 | [Juan Montalvo](http://twitter.com/search?q=Juan+Montalvo) | N/A |
-| 48 | [salitre](http://twitter.com/search?q=salitre) | N/A |
-| 49 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 50 | [Rómulo Otero](http://twitter.com/search?q=R%c3%b3mulo+Otero) | N/A |
+| 12 | [vamos ecuador](http://twitter.com/search?q=vamos+ecuador) | N/A |
+| 13 | [Salado](http://twitter.com/search?q=Salado) | N/A |
+| 14 | [#HoraDelPlaneta](http://twitter.com/search?q=%23HoraDelPlaneta) | N/A |
+| 15 | [julio guerrero](http://twitter.com/search?q=julio+guerrero) | N/A |
+| 16 | [gastos reservados](http://twitter.com/search?q=gastos+reservados) | N/A |
+| 17 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 18 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 19 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 20 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 21 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 22 | [#moronasantiagodecidió](http://twitter.com/search?q=%23moronasantiagodecidi%c3%b3) | N/A |
+| 23 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 24 | [Pocho](http://twitter.com/search?q=Pocho) | Pocho is a Spanish slang term used to describe someone who is of Mexican descent but has lost touch with their cultural heritage. It can be used as an insult or a term of endearment, depending on the context. In English, it can be translated to mean "assimilated" or "out of touch". |
+| 25 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 26 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 27 | [rosa cerda](http://twitter.com/search?q=rosa+cerda) | N/A |
+| 28 | [VARGAS TORRES](http://twitter.com/search?q=VARGAS+TORRES) | N/A |
+| 29 | [PONCE](http://twitter.com/search?q=PONCE) | N/A |
+| 30 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 31 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 32 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
+| 33 | [Evo Morales](http://twitter.com/search?q=Evo+Morales) | N/A |
+| 34 | [Mirtha Legrand](http://twitter.com/search?q=Mirtha+Legrand) | N/A |
+| 35 | [jocay](http://twitter.com/search?q=jocay) | N/A |
+| 36 | [trujillato](http://twitter.com/search?q=trujillato) | N/A |
+| 37 | [Pachakutik](http://twitter.com/search?q=Pachakutik) | N/A |
+| 38 | [Insulto](http://twitter.com/search?q=Insulto) | N/A |
+| 39 | [quishpe](http://twitter.com/search?q=quishpe) | N/A |
+| 40 | [Dante](http://twitter.com/search?q=Dante) | N/A |
+| 41 | [roben bien](http://twitter.com/search?q=roben+bien) | N/A |
+| 42 | [Iberoamérica](http://twitter.com/search?q=Iberoam%c3%a9rica) | N/A |
+| 43 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
+| 44 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 45 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 46 | [tiko tiko](http://twitter.com/search?q=tiko+tiko) | N/A |
+| 47 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 48 | [juan montalvo](http://twitter.com/search?q=juan+montalvo) | N/A |
+| 49 | [salitre](http://twitter.com/search?q=salitre) | N/A |
+| 50 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
 
 
 

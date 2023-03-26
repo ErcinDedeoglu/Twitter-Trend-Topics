@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-26 09:17:24 UTC`
+📆 Last Updated: `2023-03-26 10:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
 | 2 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 3 | [#uMjoloWithAzola](http://twitter.com/search?q=%23uMjoloWithAzola) | N/A |
+| 3 | [#McCafeMotivationalMonday](http://twitter.com/search?q=%23McCafeMotivationalMonday) | N/A |
 | 4 | [#phandapushaplay](http://twitter.com/search?q=%23phandapushaplay) | N/A |
 | 5 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 6 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 7 | [#RechargeSundays](http://twitter.com/search?q=%23RechargeSundays) | N/A |
-| 8 | [#McCafeMotivationalMonday](http://twitter.com/search?q=%23McCafeMotivationalMonday) | N/A |
-| 9 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 10 | [Recharge Lounge](http://twitter.com/search?q=Recharge+Lounge) | N/A |
+| 6 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 7 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
+| 8 | [#Khobang](http://twitter.com/search?q=%23Khobang) | N/A |
+| 9 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 10 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
 | 11 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 12 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 13 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 14 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
-| 15 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 16 | [PARTY WITH KHOSI](http://twitter.com/search?q=PARTY+WITH+KHOSI) | N/A |
+| 12 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
+| 13 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 14 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 15 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 16 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
 | 17 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 18 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 19 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
-| 20 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 21 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 22 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 23 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
-| 24 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 25 | [Sunday Times](http://twitter.com/search?q=Sunday+Times) | N/A |
-| 26 | [Catfish](http://twitter.com/search?q=Catfish) | N/A |
-| 27 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 28 | [turn up with ipeleng](http://twitter.com/search?q=turn+up+with+ipeleng) | N/A |
-| 29 | [reasons to vote ipeleng](http://twitter.com/search?q=reasons+to+vote+ipeleng) | N/A |
-| 30 | [Broos](http://twitter.com/search?q=Broos) | N/A |
-| 31 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 18 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 19 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 20 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 21 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 23 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 24 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 25 | [turn up with ipeleng](http://twitter.com/search?q=turn+up+with+ipeleng) | N/A |
+| 26 | [reasons to vote ipeleng](http://twitter.com/search?q=reasons+to+vote+ipeleng) | N/A |
+| 27 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
+| 28 | [Broos](http://twitter.com/search?q=Broos) | N/A |
+| 29 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 30 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
+| 31 | [Zack](http://twitter.com/search?q=Zack) | N/A |
 | 32 | [Ntokozo](http://twitter.com/search?q=Ntokozo) | N/A |
-| 33 | [Zimbabwe](http://twitter.com/search?q=Zimbabwe) | N/A |
-| 34 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
-| 35 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
-| 36 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
-| 37 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 33 | [BEAUTY MEETS BEENAVY](http://twitter.com/search?q=BEAUTY+MEETS+BEENAVY) | N/A |
+| 34 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 35 | [David Miller](http://twitter.com/search?q=David+Miller) | N/A |
+| 36 | [Correctional Services](http://twitter.com/search?q=Correctional+Services) | N/A |
+| 37 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
 | 38 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 39 | [David Miller](http://twitter.com/search?q=David+Miller) | N/A |
-| 40 | [Correctional Services](http://twitter.com/search?q=Correctional+Services) | N/A |
-| 41 | [Tumelo](http://twitter.com/search?q=Tumelo) | N/A |
-| 42 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 43 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 44 | [Gavin Watson](http://twitter.com/search?q=Gavin+Watson) | N/A |
-| 45 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
-| 46 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 47 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 48 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
-| 49 | [helman](http://twitter.com/search?q=helman) | N/A |
-| 50 | [Athol](http://twitter.com/search?q=Athol) | N/A |
+| 39 | [THE BEENAVY EXPERIENCE](http://twitter.com/search?q=THE+BEENAVY+EXPERIENCE) | N/A |
+| 40 | [gavin watson](http://twitter.com/search?q=gavin+watson) | N/A |
+| 41 | [Catfish](http://twitter.com/search?q=Catfish) | N/A |
+| 42 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 43 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 44 | [Saleng](http://twitter.com/search?q=Saleng) | N/A |
+| 45 | [helman](http://twitter.com/search?q=helman) | N/A |
+| 46 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
+| 47 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 48 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 49 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
+| 50 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
 
 
 
