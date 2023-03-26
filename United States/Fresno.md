@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-26 04:18:20 UTC`
+📆 Last Updated: `2023-03-26 05:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 2 | [Delly](http://twitter.com/search?q=Delly) | N/A |
-| 3 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
-| 4 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 5 | [#RamirezCommey](http://twitter.com/search?q=%23RamirezCommey) | N/A |
-| 6 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
+| 2 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
+| 3 | [Delly](http://twitter.com/search?q=Delly) | N/A |
+| 4 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
+| 5 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 6 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
 | 7 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
 | 8 | [#WYAT](http://twitter.com/search?q=%23WYAT) | N/A |
-| 9 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 10 | [#NWSL](http://twitter.com/search?q=%23NWSL) | N/A |
-| 11 | [#WonderCon](http://twitter.com/search?q=%23WonderCon) | N/A |
+| 9 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 10 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 11 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
 | 12 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 13 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 14 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 15 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 16 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 13 | [#NWSL](http://twitter.com/search?q=%23NWSL) | N/A |
+| 14 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 15 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 16 | [Waco](http://twitter.com/search?q=Waco) | N/A |
 | 17 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 18 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 20 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 21 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 22 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 23 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 24 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 25 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 26 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 27 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 28 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 29 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
-| 30 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 31 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
-| 32 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
-| 33 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
-| 34 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 35 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 36 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 37 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 38 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
-| 39 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 40 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 41 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 42 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
-| 43 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 44 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
-| 45 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 46 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
-| 47 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 48 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 49 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 18 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 19 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 20 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 21 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
+| 22 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 23 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 24 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
+| 25 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 26 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
+| 27 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 28 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 29 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 30 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 31 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 32 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 33 | [Timme](http://twitter.com/search?q=Timme) | N/A |
+| 34 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 35 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 36 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 37 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 38 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 39 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 40 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 41 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
+| 42 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 43 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 44 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 45 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 46 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 47 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 48 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 49 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
 
 
 

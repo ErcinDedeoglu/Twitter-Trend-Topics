@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-26 04:17:55 UTC`
+📆 Last Updated: `2023-03-26 05:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Norway](</Norway>)
 | ------- | ------------ | ------------ |
 | 1 | [Spania](http://twitter.com/search?q=Spania) | N/A |
 | 2 | [bjørkan](http://twitter.com/search?q=bj%c3%b8rkan) | N/A |
-| 3 | [Sørloth](http://twitter.com/search?q=S%c3%b8rloth) | N/A |
+| 3 | [sørloth](http://twitter.com/search?q=s%c3%b8rloth) | N/A |
 | 4 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
 | 5 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
 | 6 | [#spanor](http://twitter.com/search?q=%23spanor) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for [Norway](</Norway>)
 | 13 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
 | 14 | [nyland](http://twitter.com/search?q=nyland) | N/A |
 | 15 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 16 | [skottland](http://twitter.com/search?q=skottland) | N/A |
+| 16 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
 | 17 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 18 | [høyres](http://twitter.com/search?q=h%c3%b8yres) | N/A |
 | 19 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
@@ -38,31 +38,31 @@ This is top 50 for [Norway](</Norway>)
 | 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 22 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
 | 23 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 24 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 25 | [braut](http://twitter.com/search?q=braut) | N/A |
-| 26 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 24 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 25 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 26 | [braut](http://twitter.com/search?q=braut) | N/A |
 | 27 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
 | 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 29 | [Nusa](http://twitter.com/search?q=Nusa) | N/A |
 | 30 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 31 | [Kult](http://twitter.com/search?q=Kult) | N/A |
+| 31 | [kult](http://twitter.com/search?q=kult) | N/A |
 | 32 | [Schjelderup](http://twitter.com/search?q=Schjelderup) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 35 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
-| 36 | [toppserien](http://twitter.com/search?q=toppserien) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [flakk](http://twitter.com/search?q=flakk) | N/A |
-| 39 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 40 | [maguire](http://twitter.com/search?q=maguire) | N/A |
-| 41 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 42 | [koteng arena](http://twitter.com/search?q=koteng+arena) | N/A |
-| 43 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 44 | [Comet](http://twitter.com/search?q=Comet) | N/A |
-| 45 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 46 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 47 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 33 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 34 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
+| 35 | [toppserien](http://twitter.com/search?q=toppserien) | N/A |
+| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 37 | [flakk](http://twitter.com/search?q=flakk) | N/A |
+| 38 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 39 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 40 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 41 | [koteng arena](http://twitter.com/search?q=koteng+arena) | N/A |
+| 42 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 43 | [Comet](http://twitter.com/search?q=Comet) | N/A |
+| 44 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 45 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 
 
 

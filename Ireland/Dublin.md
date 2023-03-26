@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-26 04:17:48 UTC`
+📆 Last Updated: `2023-03-26 05:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 4 | [#lp23](http://twitter.com/search?q=%23lp23) | N/A |
 | 5 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
 | 6 | [dolores keane](http://twitter.com/search?q=dolores+keane) | N/A |
-| 7 | [mullingar](http://twitter.com/search?q=mullingar) | N/A |
+| 7 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
 | 8 | [#CONvEDI](http://twitter.com/search?q=%23CONvEDI) | N/A |
 | 9 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
 | 10 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 47 | [Blade](http://twitter.com/search?q=Blade) | N/A |
 | 48 | [ALL SQUARE](http://twitter.com/search?q=ALL+SQUARE) | N/A |
 | 49 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
-| 50 | [Ruddock](http://twitter.com/search?q=Ruddock) | N/A |
+| 50 | [ruddock](http://twitter.com/search?q=ruddock) | N/A |
 
 
 

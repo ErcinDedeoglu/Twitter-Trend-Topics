@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-26 04:18:35 UTC`
+📆 Last Updated: `2023-03-26 05:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for Ukraine
 | 17 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 18 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
 | 19 | [медведева](http://twitter.com/search?q=%d0%bc%d0%b5%d0%b4%d0%b2%d0%b5%d0%b4%d0%b5%d0%b2%d0%b0) | N/A |
-| 20 | [плюс](http://twitter.com/search?q=%d0%bf%d0%bb%d1%8e%d1%81) | N/A |
+| 20 | [Плюс](http://twitter.com/search?q=%d0%9f%d0%bb%d1%8e%d1%81) | N/A |
 | 21 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
 | 22 | [армении](http://twitter.com/search?q=%d0%b0%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
 | 23 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 24 | [О БОЖЕ](http://twitter.com/search?q=%d0%9e+%d0%91%d0%9e%d0%96%d0%95) | N/A |
+| 24 | [о боже](http://twitter.com/search?q=%d0%be+%d0%b1%d0%be%d0%b6%d0%b5) | N/A |
 | 25 | [taras and inked heritage](http://twitter.com/search?q=taras+and+inked+heritage) | N/A |
 | 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 27 | [майдан](http://twitter.com/search?q=%d0%bc%d0%b0%d0%b9%d0%b4%d0%b0%d0%bd) | N/A |
 | 28 | [такий](http://twitter.com/search?q=%d1%82%d0%b0%d0%ba%d0%b8%d0%b9) | N/A |
-| 29 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
-| 30 | [сирии](http://twitter.com/search?q=%d1%81%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
-| 31 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 32 | [пздц](http://twitter.com/search?q=%d0%bf%d0%b7%d0%b4%d1%86) | N/A |
-| 33 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 34 | [Dope](http://twitter.com/search?q=Dope) | N/A |
-| 35 | [сталина](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b0) | N/A |
-| 36 | [Kherson](http://twitter.com/search?q=Kherson) | N/A |
-| 37 | [скажи](http://twitter.com/search?q=%d1%81%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
-| 38 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
-| 39 | [польше](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 40 | [димон](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%be%d0%bd) | N/A |
+| 29 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 30 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
+| 31 | [пздц](http://twitter.com/search?q=%d0%bf%d0%b7%d0%b4%d1%86) | N/A |
+| 32 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 33 | [Dope](http://twitter.com/search?q=Dope) | N/A |
+| 34 | [Сталина](http://twitter.com/search?q=%d0%a1%d1%82%d0%b0%d0%bb%d0%b8%d0%bd%d0%b0) | N/A |
+| 35 | [Kherson](http://twitter.com/search?q=Kherson) | N/A |
+| 36 | [скажи](http://twitter.com/search?q=%d1%81%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
+| 37 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 38 | [польше](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 39 | [димон](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bc%d0%be%d0%bd) | N/A |
+| 40 | [Хватит](http://twitter.com/search?q=%d0%a5%d0%b2%d0%b0%d1%82%d0%b8%d1%82) | N/A |
 | 41 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 42 | [отож](http://twitter.com/search?q=%d0%be%d1%82%d0%be%d0%b6) | N/A |
-| 43 | [David](http://twitter.com/search?q=David) | N/A |
-| 44 | [Хехе](http://twitter.com/search?q=%d0%a5%d0%b5%d1%85%d0%b5) | N/A |
-| 45 | [СУПЕР](http://twitter.com/search?q=%d0%a1%d0%a3%d0%9f%d0%95%d0%a0) | N/A |
-| 46 | [Azov](http://twitter.com/search?q=Azov) | N/A |
-| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 48 | [вполне](http://twitter.com/search?q=%d0%b2%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
-| 49 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 50 | [Slovakia](http://twitter.com/search?q=Slovakia) | Slovakia is a country in Central Europe. It is bordered by Austria, the Czech Republic, Hungary, Poland, and Ukraine. The official language is Slovak and the capital city is Bratislava. The name Slovakia comes from the Slavic word slovo, meaning "word" or "speech". |
+| 42 | [Сирии](http://twitter.com/search?q=%d0%a1%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
+| 43 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 44 | [отож](http://twitter.com/search?q=%d0%be%d1%82%d0%be%d0%b6) | N/A |
+| 45 | [David](http://twitter.com/search?q=David) | N/A |
+| 46 | [Хехе](http://twitter.com/search?q=%d0%a5%d0%b5%d1%85%d0%b5) | N/A |
+| 47 | [СУПЕР](http://twitter.com/search?q=%d0%a1%d0%a3%d0%9f%d0%95%d0%a0) | N/A |
+| 48 | [Azov](http://twitter.com/search?q=Azov) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [вполне](http://twitter.com/search?q=%d0%b2%d0%bf%d0%be%d0%bb%d0%bd%d0%b5) | N/A |
 
 
 

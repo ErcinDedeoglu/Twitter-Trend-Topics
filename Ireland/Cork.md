@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-26 04:17:47 UTC`
+📆 Last Updated: `2023-03-26 05:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 3 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
 | 4 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
 | 5 | [dolores keane](http://twitter.com/search?q=dolores+keane) | N/A |
-| 6 | [mullingar](http://twitter.com/search?q=mullingar) | N/A |
+| 6 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
 | 7 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
 | 8 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
 | 9 | [Munster](http://twitter.com/search?q=Munster) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 45 | [Blade](http://twitter.com/search?q=Blade) | N/A |
 | 46 | [ALL SQUARE](http://twitter.com/search?q=ALL+SQUARE) | N/A |
 | 47 | [Stormers](http://twitter.com/search?q=Stormers) | N/A |
-| 48 | [Ruddock](http://twitter.com/search?q=Ruddock) | N/A |
+| 48 | [ruddock](http://twitter.com/search?q=ruddock) | N/A |
 
 
 

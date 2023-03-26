@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-26 04:18:33 UTC`
+📆 Last Updated: `2023-03-26 05:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Norway
 | ------- | ------------ | ------------ |
 | 1 | [Spania](http://twitter.com/search?q=Spania) | N/A |
 | 2 | [bjørkan](http://twitter.com/search?q=bj%c3%b8rkan) | N/A |
-| 3 | [Sørloth](http://twitter.com/search?q=S%c3%b8rloth) | N/A |
+| 3 | [sørloth](http://twitter.com/search?q=s%c3%b8rloth) | N/A |
 | 4 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
 | 5 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
 | 6 | [#spanor](http://twitter.com/search?q=%23spanor) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for Norway
 | 13 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
 | 14 | [nyland](http://twitter.com/search?q=nyland) | N/A |
 | 15 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 16 | [skottland](http://twitter.com/search?q=skottland) | N/A |
+| 16 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
 | 17 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 18 | [høyres](http://twitter.com/search?q=h%c3%b8yres) | N/A |
 | 19 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
@@ -38,14 +38,14 @@ This is top 50 for Norway
 | 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 22 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
 | 23 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 24 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 25 | [braut](http://twitter.com/search?q=braut) | N/A |
-| 26 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 24 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 25 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 26 | [braut](http://twitter.com/search?q=braut) | N/A |
 | 27 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
 | 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 29 | [Nusa](http://twitter.com/search?q=Nusa) | N/A |
 | 30 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 31 | [Kult](http://twitter.com/search?q=Kult) | N/A |
+| 31 | [kult](http://twitter.com/search?q=kult) | N/A |
 | 32 | [Schjelderup](http://twitter.com/search?q=Schjelderup) | N/A |
 | 33 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 34 | [statkraft](http://twitter.com/search?q=statkraft) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Norway
 | 45 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
 | 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 48 | [norske](http://twitter.com/search?q=norske) | N/A |
-| 49 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 50 | [ringerike](http://twitter.com/search?q=ringerike) | N/A |
+| 48 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 49 | [ringerike](http://twitter.com/search?q=ringerike) | N/A |
+| 50 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 
 
 

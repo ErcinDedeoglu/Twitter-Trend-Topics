@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-26 04:18:23 UTC`
+📆 Last Updated: `2023-03-26 05:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 2 | [Vientos](http://twitter.com/search?q=Vientos) | N/A |
-| 3 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
-| 4 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 1 | [Vientos](http://twitter.com/search?q=Vientos) | N/A |
+| 2 | [#NYCFC](http://twitter.com/search?q=%23NYCFC) | N/A |
+| 3 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 4 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
 | 5 | [Eppler](http://twitter.com/search?q=Eppler) | N/A |
 | 6 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 7 | [#RBNY](http://twitter.com/search?q=%23RBNY) | N/A |
-| 8 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 9 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 10 | [Owls](http://twitter.com/search?q=Owls) | N/A |
-| 11 | [Kansas State](http://twitter.com/search?q=Kansas+State) | N/A |
-| 12 | [#NetsWorld](http://twitter.com/search?q=%23NetsWorld) | N/A |
-| 13 | [K State](http://twitter.com/search?q=K+State) | N/A |
-| 14 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 15 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 16 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
-| 17 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 18 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 19 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 7 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 8 | [Owls](http://twitter.com/search?q=Owls) | N/A |
+| 9 | [#NetsWorld](http://twitter.com/search?q=%23NetsWorld) | N/A |
+| 10 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 11 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 12 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 13 | [K-State](http://twitter.com/search?q=K-State) | K-State is an abbreviation for Kansas State University, a public research university located in Manhattan, Kansas. The university was founded in 1863 and is the oldest public institution of higher learning in the state of Kansas. |
+| 14 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 15 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 16 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 17 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 18 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 19 | [Kenny Bayless](http://twitter.com/search?q=Kenny+Bayless) | N/A |
 | 20 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
 | 21 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
 | 22 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 23 | [#BenavidezPlant](http://twitter.com/search?q=%23BenavidezPlant) | N/A |
-| 24 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 25 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 26 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
-| 27 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
-| 28 | [Timme](http://twitter.com/search?q=Timme) | N/A |
-| 29 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 30 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 23 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 24 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 25 | [#AllForCITY](http://twitter.com/search?q=%23AllForCITY) | N/A |
+| 26 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 27 | [Jeff Green](http://twitter.com/search?q=Jeff+Green) | N/A |
+| 28 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 29 | [#boxing](http://twitter.com/search?q=%23boxing) | N/A |
+| 30 | [Timme](http://twitter.com/search?q=Timme) | N/A |
 | 31 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 32 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
-| 33 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
-| 34 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
-| 35 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 32 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 33 | [Zags](http://twitter.com/search?q=Zags) | Zags is a slang term used to refer to the Gonzaga University Bulldogs, the athletic teams of Gonzaga University in Spokane, Washington. It is derived from the university's nickname, the Bulldogs. |
+| 34 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 35 | [Joey Spencer](http://twitter.com/search?q=Joey+Spencer) | N/A |
 | 36 | [emily](http://twitter.com/search?q=emily) | N/A |
-| 37 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
-| 38 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
-| 39 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 37 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 38 | [Mantha](http://twitter.com/search?q=Mantha) | N/A |
+| 39 | [Uncle Jeff](http://twitter.com/search?q=Uncle+Jeff) | N/A |
 | 40 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 41 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 42 | [Florida Atlantic](http://twitter.com/search?q=Florida+Atlantic) | N/A |
-| 43 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
-| 44 | [Mark Few](http://twitter.com/search?q=Mark+Few) | N/A |
-| 45 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 46 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
-| 47 | [Jim Gray](http://twitter.com/search?q=Jim+Gray) | N/A |
-| 48 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 49 | [Hawkins](http://twitter.com/search?q=Hawkins) | N/A |
-| 50 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 41 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 42 | [Holly Holm](http://twitter.com/search?q=Holly+Holm) | N/A |
+| 43 | [Sandhagen](http://twitter.com/search?q=Sandhagen) | N/A |
+| 44 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 45 | [Dan Hurley](http://twitter.com/search?q=Dan+Hurley) | N/A |
+| 46 | [Jordan Morris](http://twitter.com/search?q=Jordan+Morris) | N/A |
+| 47 | [Huskies](http://twitter.com/search?q=Huskies) | N/A |
+| 48 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 49 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
+| 50 | [Klauss](http://twitter.com/search?q=Klauss) | N/A |
 
 
 

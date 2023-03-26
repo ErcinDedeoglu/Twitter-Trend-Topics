@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-26 04:18:28 UTC`
+📆 Last Updated: `2023-03-26 05:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,41 +21,41 @@ This is top 50 for Austria
 | 4 | [#autaze](http://twitter.com/search?q=%23autaze) | N/A |
 | 5 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
 | 6 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 7 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 8 | [#dsds](http://twitter.com/search?q=%23dsds) | N/A |
-| 9 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 10 | [fleischmann](http://twitter.com/search?q=fleischmann) | N/A |
-| 11 | [obst oder gemüse](http://twitter.com/search?q=obst+oder+gem%c3%bcse) | N/A |
-| 12 | [#indiebookday](http://twitter.com/search?q=%23indiebookday) | N/A |
-| 13 | [Bewerber](http://twitter.com/search?q=Bewerber) | N/A |
-| 14 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 7 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 8 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 9 | [#dsds](http://twitter.com/search?q=%23dsds) | N/A |
+| 10 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 11 | [fleischmann](http://twitter.com/search?q=fleischmann) | N/A |
+| 12 | [obst oder gemüse](http://twitter.com/search?q=obst+oder+gem%c3%bcse) | N/A |
+| 13 | [#indiebookday](http://twitter.com/search?q=%23indiebookday) | N/A |
+| 14 | [bewerber](http://twitter.com/search?q=bewerber) | N/A |
 | 15 | [Autoindustrie](http://twitter.com/search?q=Autoindustrie) | N/A |
 | 16 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 17 | [tanzt du](http://twitter.com/search?q=tanzt+du) | N/A |
-| 18 | [bewerbungen](http://twitter.com/search?q=bewerbungen) | N/A |
-| 19 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 20 | [robert menasse](http://twitter.com/search?q=robert+menasse) | N/A |
-| 21 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 22 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
-| 23 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 24 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
-| 25 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 26 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 27 | [Rosemarie](http://twitter.com/search?q=Rosemarie) | N/A |
-| 28 | [Hersteller](http://twitter.com/search?q=Hersteller) | N/A |
-| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 30 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
-| 31 | [verbrennungsmotor](http://twitter.com/search?q=verbrennungsmotor) | N/A |
-| 32 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
-| 33 | [lobbyisten](http://twitter.com/search?q=lobbyisten) | N/A |
-| 34 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 35 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 36 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
-| 37 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 38 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 39 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
-| 40 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
-| 41 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 18 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 19 | [robert menasse](http://twitter.com/search?q=robert+menasse) | N/A |
+| 20 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 21 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
+| 22 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 23 | [Technologien](http://twitter.com/search?q=Technologien) | N/A |
+| 24 | [Rosemarie](http://twitter.com/search?q=Rosemarie) | N/A |
+| 25 | [Hersteller](http://twitter.com/search?q=Hersteller) | N/A |
+| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 27 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 28 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 29 | [verbrennungsmotor](http://twitter.com/search?q=verbrennungsmotor) | N/A |
+| 30 | [E-Autos](http://twitter.com/search?q=E-Autos) | N/A |
+| 31 | [lobbyisten](http://twitter.com/search?q=lobbyisten) | N/A |
+| 32 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 33 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 34 | [Diesel](http://twitter.com/search?q=Diesel) | N/A |
+| 35 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 36 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 37 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 38 | [kandidaten](http://twitter.com/search?q=kandidaten) | N/A |
+| 39 | [angelobung](http://twitter.com/search?q=angelobung) | N/A |
+| 40 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 41 | [Bewerbungen](http://twitter.com/search?q=Bewerbungen) | N/A |
 | 42 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
 | 43 | [Hype](http://twitter.com/search?q=Hype) | N/A |
 | 44 | [Flughafen](http://twitter.com/search?q=Flughafen) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-03-26 04:17:47 UTC`
+📆 Last Updated: `2023-03-26 05:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
 | 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
 | 4 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 5 | [#OfensywaTuska](http://twitter.com/search?q=%23OfensywaTuska) | N/A |
-| 6 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 7 | [#polcze](http://twitter.com/search?q=%23polcze) | N/A |
-| 8 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 9 | [czechów](http://twitter.com/search?q=czech%c3%b3w) | N/A |
-| 10 | [Sosnowcu](http://twitter.com/search?q=Sosnowcu) | N/A |
-| 11 | [czesi](http://twitter.com/search?q=czesi) | N/A |
-| 12 | [Oliwier](http://twitter.com/search?q=Oliwier) | N/A |
-| 13 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
-| 14 | [Julita](http://twitter.com/search?q=Julita) | N/A |
+| 5 | [#ofensywatuska](http://twitter.com/search?q=%23ofensywatuska) | N/A |
+| 6 | [#polcze](http://twitter.com/search?q=%23polcze) | N/A |
+| 7 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 8 | [czechów](http://twitter.com/search?q=czech%c3%b3w) | N/A |
+| 9 | [czesi](http://twitter.com/search?q=czesi) | N/A |
+| 10 | [oliwier](http://twitter.com/search?q=oliwier) | N/A |
+| 11 | [Sosnowcu](http://twitter.com/search?q=Sosnowcu) | N/A |
+| 12 | [Julita](http://twitter.com/search?q=Julita) | N/A |
+| 13 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
+| 14 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
 | 15 | [kiwior](http://twitter.com/search?q=kiwior) | N/A |
 | 16 | [bednarek](http://twitter.com/search?q=bednarek) | N/A |
 | 17 | [zieliński](http://twitter.com/search?q=zieli%c5%84ski) | N/A |
-| 18 | [glika](http://twitter.com/search?q=glika) | N/A |
-| 19 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
-| 20 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
-| 21 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 22 | [szymański](http://twitter.com/search?q=szyma%c5%84ski) | N/A |
-| 23 | [Gumny](http://twitter.com/search?q=Gumny) | N/A |
-| 24 | [Piorun](http://twitter.com/search?q=Piorun) | N/A |
-| 25 | [wyspy owcze](http://twitter.com/search?q=wyspy+owcze) | N/A |
-| 26 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
-| 27 | [Lahti](http://twitter.com/search?q=Lahti) | N/A |
-| 28 | [Semka](http://twitter.com/search?q=Semka) | N/A |
-| 29 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 30 | [Santosa](http://twitter.com/search?q=Santosa) | Santosa is a Sanskrit term that translates to contentment, peace, and joy. It is a spiritual practice of cultivating inner peace and joy through acceptance and gratitude. |
-| 31 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 32 | [Magda Linette](http://twitter.com/search?q=Magda+Linette) | N/A |
-| 33 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
-| 34 | [godek](http://twitter.com/search?q=godek) | N/A |
-| 35 | [Bosak](http://twitter.com/search?q=Bosak) | N/A |
-| 36 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 37 | [Zielu](http://twitter.com/search?q=Zielu) | N/A |
-| 38 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 39 | [Pola](http://twitter.com/search?q=Pola) | N/A |
-| 40 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 41 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 42 | [białorusi](http://twitter.com/search?q=bia%c5%82orusi) | N/A |
-| 43 | [Pradze](http://twitter.com/search?q=Pradze) | N/A |
-| 44 | [Azarenką](http://twitter.com/search?q=Azarenk%c4%85) | N/A |
-| 45 | [lewego](http://twitter.com/search?q=lewego) | N/A |
-| 46 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 47 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 48 | [faszyzm](http://twitter.com/search?q=faszyzm) | N/A |
-| 49 | [Friz](http://twitter.com/search?q=Friz) | N/A |
-| 50 | [karbownika](http://twitter.com/search?q=karbownika) | N/A |
+| 18 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
+| 19 | [Bielik](http://twitter.com/search?q=Bielik) | N/A |
+| 20 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
+| 21 | [szymański](http://twitter.com/search?q=szyma%c5%84ski) | N/A |
+| 22 | [Glika](http://twitter.com/search?q=Glika) | N/A |
+| 23 | [gumny](http://twitter.com/search?q=gumny) | N/A |
+| 24 | [wyspy owcze](http://twitter.com/search?q=wyspy+owcze) | N/A |
+| 25 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
+| 26 | [semka](http://twitter.com/search?q=semka) | N/A |
+| 27 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 28 | [Piorun](http://twitter.com/search?q=Piorun) | N/A |
+| 29 | [santosa](http://twitter.com/search?q=santosa) | N/A |
+| 30 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 31 | [magda linette](http://twitter.com/search?q=magda+linette) | N/A |
+| 32 | [godek](http://twitter.com/search?q=godek) | N/A |
+| 33 | [bosak](http://twitter.com/search?q=bosak) | N/A |
+| 34 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 35 | [zielu](http://twitter.com/search?q=zielu) | N/A |
+| 36 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 37 | [Pola](http://twitter.com/search?q=Pola) | N/A |
+| 38 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 39 | [azarenką](http://twitter.com/search?q=azarenk%c4%85) | N/A |
+| 40 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 41 | [lewego](http://twitter.com/search?q=lewego) | N/A |
+| 42 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 43 | [Friz](http://twitter.com/search?q=Friz) | N/A |
+| 44 | [karbownika](http://twitter.com/search?q=karbownika) | N/A |
+| 45 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 46 | [Brauna](http://twitter.com/search?q=Brauna) | N/A |
+| 47 | [aleksander zniszczoł](http://twitter.com/search?q=aleksander+zniszczo%c5%82) | N/A |
+| 48 | [Pradze](http://twitter.com/search?q=Pradze) | N/A |
+| 49 | [dzień meczowy](http://twitter.com/search?q=dzie%c5%84+meczowy) | N/A |
+| 50 | [linettego](http://twitter.com/search?q=linettego) | N/A |
 
 
 

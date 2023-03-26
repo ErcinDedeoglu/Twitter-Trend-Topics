@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-26 04:17:44 UTC`
+📆 Last Updated: `2023-03-26 05:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
-| 2 | [poze](http://twitter.com/search?q=poze) | N/A |
-| 3 | [Reinaldo](http://twitter.com/search?q=Reinaldo) | Reinaldo is a Spanish name derived from the Germanic name Reinhold, which means "wise ruler". It is also a Portuguese name derived from the Latin name Reginaldus, which means "ruler of judgment". |
-| 4 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 1 | [poze](http://twitter.com/search?q=poze) | N/A |
+| 2 | [Djonga](http://twitter.com/search?q=Djonga) | Djonga is a Brazilian slang term that is used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is a leader or trendsetter. In English, it could be translated as "cool cat" or "trendsetter". |
+| 3 | [Tasha](http://twitter.com/search?q=Tasha) | N/A |
+| 4 | [tracie](http://twitter.com/search?q=tracie) | N/A |
 | 5 | [twenty one pilots](http://twitter.com/search?q=twenty+one+pilots) | N/A |
 | 6 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 7 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
-| 8 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 9 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
-| 10 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 11 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
-| 12 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
-| 13 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
-| 14 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 16 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 7 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 8 | [#AltasHoras](http://twitter.com/search?q=%23AltasHoras) | #AltasHoras is a Brazilian late-night talk show hosted by journalist Patrícia Poeta. The show features interviews with celebrities, musical performances, and comedy sketches. In English, the phrase "Altas Horas" translates to "Late Hours". |
+| 9 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 10 | [Marrocos](http://twitter.com/search?q=Marrocos) | N/A |
+| 11 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
+| 12 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 13 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
+| 14 | [Paquetá](http://twitter.com/search?q=Paquet%c3%a1) | N/A |
+| 15 | [emily](http://twitter.com/search?q=emily) | N/A |
+| 16 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
 | 17 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
 | 18 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 19 | [tame impala](http://twitter.com/search?q=tame+impala) | N/A |
-| 20 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
-| 21 | [Letícia Sabatella](http://twitter.com/search?q=Let%c3%adcia+Sabatella) | N/A |
-| 22 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 23 | [Dois Rios](http://twitter.com/search?q=Dois+Rios) | N/A |
-| 24 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
-| 25 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
-| 26 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 27 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 28 | [#TodasAsFlores](http://twitter.com/search?q=%23TodasAsFlores) | N/A |
-| 29 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
-| 30 | [#ColdplayRio](http://twitter.com/search?q=%23ColdplayRio) | N/A |
-| 31 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 32 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
-| 33 | [Samuel Rosa](http://twitter.com/search?q=Samuel+Rosa) | Samuel Rosa is a Portuguese name. It is derived from the Hebrew name Samuel, which means "God has heard". |
-| 34 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 35 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
-| 36 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 38 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
-| 39 | [kevin parker](http://twitter.com/search?q=kevin+parker) | N/A |
-| 40 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 41 | [Car Radio](http://twitter.com/search?q=Car+Radio) | N/A |
-| 42 | [#BakeCelebridades](http://twitter.com/search?q=%23BakeCelebridades) | N/A |
-| 43 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 44 | [Serginho](http://twitter.com/search?q=Serginho) | N/A |
-| 45 | [Weverton](http://twitter.com/search?q=Weverton) | Weverton is a Portuguese name derived from the Germanic name Wifard, which means “strong guardian”. It is also a common surname in Brazil. |
-| 46 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 47 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 48 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 49 | [21 pilots](http://twitter.com/search?q=21+pilots) | N/A |
-| 50 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 20 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
+| 21 | [#ColdplayRio](http://twitter.com/search?q=%23ColdplayRio) | N/A |
+| 22 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 23 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
+| 24 | [Letícia Sabatella](http://twitter.com/search?q=Let%c3%adcia+Sabatella) | N/A |
+| 25 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 26 | [Dois Rios](http://twitter.com/search?q=Dois+Rios) | N/A |
+| 27 | [Veiga](http://twitter.com/search?q=Veiga) | Veiga is a Portuguese surname derived from the Latin word "vigia," which means "watchman." It is also the name of a river in Portugal. In English, it can be translated to mean "watchman" or "guardian." |
+| 28 | [kevin parker](http://twitter.com/search?q=kevin+parker) | N/A |
+| 29 | [#GloNoLolla](http://twitter.com/search?q=%23GloNoLolla) | N/A |
+| 30 | [#TodasAsFlores](http://twitter.com/search?q=%23TodasAsFlores) | N/A |
+| 31 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
+| 32 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 33 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 34 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 35 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 36 | [21 pilots](http://twitter.com/search?q=21+pilots) | N/A |
+| 37 | [Samuel Rosa](http://twitter.com/search?q=Samuel+Rosa) | Samuel Rosa is a Portuguese name. It is derived from the Hebrew name Samuel, which means "God has heard". |
+| 38 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 39 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 40 | [O Harry](http://twitter.com/search?q=O+Harry) | "O Harry" is an expression of surprise or disbelief, similar to "Oh my!" or "Oh wow!" It is often used as an exclamation when something unexpected or remarkable happens. |
+| 41 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 42 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 43 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 44 | [Paula Fernandes](http://twitter.com/search?q=Paula+Fernandes) | N/A |
+| 45 | [sofi tukker](http://twitter.com/search?q=sofi+tukker) | N/A |
+| 46 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 47 | [Seleção](http://twitter.com/search?q=Sele%c3%a7%c3%a3o) | N/A |
+| 48 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 49 | [olivia wilde](http://twitter.com/search?q=olivia+wilde) | N/A |
+| 50 | [the 1975](http://twitter.com/search?q=the+1975) | N/A |
 
 
 

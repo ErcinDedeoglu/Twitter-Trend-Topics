@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-26 04:18:34 UTC`
+📆 Last Updated: `2023-03-26 05:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,23 +20,23 @@ This is top 50 for Qatar
 | 3 | [#ساعه_الارض](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
 | 4 | [البطوله الدوليه الوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%af%d9%8a%d9%87) | N/A |
 | 5 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
-| 6 | [#التوقيت_الصيفي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa_%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
-| 7 | [#العنابي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d8%a8%d9%8a) | N/A |
-| 8 | [لمعلومات الطيران](http://twitter.com/search?q=%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
-| 9 | [تايلاند](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d8%a7%d9%86%d8%af) | N/A |
-| 10 | [#دفعه_لندن](http://twitter.com/search?q=%23%d8%af%d9%81%d8%b9%d9%87_%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 11 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 12 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
-| 13 | [تلفزيون قطر](http://twitter.com/search?q=%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d9%82%d8%b7%d8%b1) | N/A |
-| 14 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 15 | [ابريل المقبل](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 17 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 18 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 19 | [توماس توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d9%85%d8%a7%d8%b3+%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 20 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 21 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 22 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 6 | [منتخب عربي](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 7 | [#التوقيت_الصيفي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa_%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
+| 8 | [#العنابي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%86%d8%a7%d8%a8%d9%8a) | N/A |
+| 9 | [لمعلومات الطيران](http://twitter.com/search?q=%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86) | N/A |
+| 10 | [تايلاند](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d8%a7%d9%86%d8%af) | N/A |
+| 11 | [#دفعه_لندن](http://twitter.com/search?q=%23%d8%af%d9%81%d8%b9%d9%87_%d9%84%d9%86%d8%af%d9%86) | N/A |
+| 12 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 13 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
+| 14 | [تلفزيون قطر](http://twitter.com/search?q=%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d9%82%d8%b7%d8%b1) | N/A |
+| 15 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 16 | [ابريل المقبل](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 18 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 19 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 20 | [توماس توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d9%85%d8%a7%d8%b3+%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 21 | [الشهر الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 22 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 23 | [الحياه الدنيا](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
 | 24 | [شاهد مقطع الفيديو الخاص](http://twitter.com/search?q=%d8%b4%d8%a7%d9%87%d8%af+%d9%85%d9%82%d8%b7%d8%b9+%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
 | 25 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
@@ -60,11 +60,11 @@ This is top 50 for Qatar
 | 43 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
 | 44 | [Kenyans](http://twitter.com/search?q=Kenyans) | N/A |
 | 45 | [شيخ الاسلام](http://twitter.com/search?q=%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 46 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 47 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
+| 46 | [درب لوسيل](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d9%84%d9%88%d8%b3%d9%8a%d9%84) | N/A |
+| 47 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
 | 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 49 | [التصفيات الموهله](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%84%d9%87) | N/A |
-| 50 | [وليد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af) | وليد (pronounced "waleed") is an Arabic name meaning "born at night". It is also a common given name in the Middle East and North Africa. |
+| 49 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
+| 50 | [التصفيات الموهله](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%88%d9%87%d9%84%d9%87) | N/A |
 
 
 
