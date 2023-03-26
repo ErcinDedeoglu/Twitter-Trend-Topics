@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-26 18:17:26 UTC`
+📆 Last Updated: `2023-03-26 19:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 2 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 3 | [#squaremeafrica](http://twitter.com/search?q=%23squaremeafrica) | N/A |
-| 4 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
-| 5 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
-| 6 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
-| 7 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
-| 8 | [#MayfairXBeautyTukura](http://twitter.com/search?q=%23MayfairXBeautyTukura) | N/A |
-| 9 | [CONGRATULATIONS BEAUTY TUKURA](http://twitter.com/search?q=CONGRATULATIONS+BEAUTY+TUKURA) | N/A |
-| 10 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 11 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 12 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
-| 13 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
-| 14 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 15 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
-| 16 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 17 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 18 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
-| 19 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 20 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 21 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 22 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 23 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
-| 24 | [Bitcorn](http://twitter.com/search?q=Bitcorn) | N/A |
-| 25 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 26 | [Congratulations Boss](http://twitter.com/search?q=Congratulations+Boss) | N/A |
-| 27 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 28 | [England](http://twitter.com/search?q=England) | N/A |
-| 29 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 30 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 31 | [Jabi](http://twitter.com/search?q=Jabi) | N/A |
-| 32 | [Rascal](http://twitter.com/search?q=Rascal) | N/A |
-| 33 | [Ekelebe](http://twitter.com/search?q=Ekelebe) | N/A |
-| 34 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 35 | [Blind](http://twitter.com/search?q=Blind) | N/A |
-| 36 | [NDLEA](http://twitter.com/search?q=NDLEA) | N/A |
-| 37 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 38 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
-| 39 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 40 | [President of Nigeria](http://twitter.com/search?q=President+of+Nigeria) | N/A |
-| 41 | [Oladipo Diya](http://twitter.com/search?q=Oladipo+Diya) | N/A |
-| 42 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 43 | [Abacha](http://twitter.com/search?q=Abacha) | N/A |
-| 44 | [Psquare](http://twitter.com/search?q=Psquare) | N/A |
-| 45 | [#butterflies2023](http://twitter.com/search?q=%23butterflies2023) | N/A |
-| 46 | [#TinubuForPrison](http://twitter.com/search?q=%23TinubuForPrison) | N/A |
-| 47 | [#NPFL23](http://twitter.com/search?q=%23NPFL23) | N/A |
-| 48 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
-| 49 | [#ChitoVera](http://twitter.com/search?q=%23ChitoVera) | N/A |
+| 2 | [#LetBawaGo](http://twitter.com/search?q=%23LetBawaGo) | N/A |
+| 3 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
+| 4 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 5 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 6 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 7 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
+| 8 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 9 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 10 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 11 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 12 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
+| 13 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
+| 14 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
+| 15 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 16 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 17 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 18 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 19 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 20 | [POTY](http://twitter.com/search?q=POTY) | N/A |
+| 21 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 22 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 23 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 24 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 25 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 26 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
+| 27 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 28 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
+| 29 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 30 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 31 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 32 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 33 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 34 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 35 | [Bitcorn](http://twitter.com/search?q=Bitcorn) | N/A |
+| 36 | [England](http://twitter.com/search?q=England) | N/A |
+| 37 | [Jabi](http://twitter.com/search?q=Jabi) | N/A |
+| 38 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 39 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 40 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
+| 41 | [Ekelebe](http://twitter.com/search?q=Ekelebe) | N/A |
+| 42 | [NDLEA](http://twitter.com/search?q=NDLEA) | N/A |
+| 43 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 44 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 45 | [No 1](http://twitter.com/search?q=No+1) | N/A |
+| 46 | [Number 1](http://twitter.com/search?q=Number+1) | N/A |
+| 47 | [Rascal](http://twitter.com/search?q=Rascal) | N/A |
+| 48 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
+| 49 | [Oladipo Diya](http://twitter.com/search?q=Oladipo+Diya) | N/A |
 
 
 

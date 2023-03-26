@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-26 18:17:43 UTC`
+📆 Last Updated: `2023-03-26 19:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VamosWave](http://twitter.com/search?q=%23VamosWave) | N/A |
-| 2 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 2 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
 | 3 | [#WonderCon](http://twitter.com/search?q=%23WonderCon) | N/A |
 | 4 | [Waco](http://twitter.com/search?q=Waco) | N/A |
 | 5 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 6 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 8 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 9 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 6 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 7 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 8 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 9 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
 | 10 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 11 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 12 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
-| 13 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 14 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
-| 15 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 16 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 17 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
-| 18 | [Creighton -2.5](http://twitter.com/search?q=Creighton+-2.5) | N/A |
-| 19 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
-| 20 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
-| 21 | [Studies](http://twitter.com/search?q=Studies) | N/A |
-| 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 23 | [Tim Mara](http://twitter.com/search?q=Tim+Mara) | N/A |
-| 24 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
-| 25 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
-| 26 | [YOU COULD START A CULT](http://twitter.com/search?q=YOU+COULD+START+A+CULT) | N/A |
-| 27 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 28 | [Digital Blackface](http://twitter.com/search?q=Digital+Blackface) | N/A |
-| 29 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 30 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
-| 31 | [Art Rooney](http://twitter.com/search?q=Art+Rooney) | N/A |
-| 32 | [Val Ness](http://twitter.com/search?q=Val+Ness) | N/A |
-| 33 | [George Preston Marshall](http://twitter.com/search?q=George+Preston+Marshall) | N/A |
-| 34 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
-| 35 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
-| 36 | [Curly Lambeau](http://twitter.com/search?q=Curly+Lambeau) | N/A |
-| 37 | [Paul Brown](http://twitter.com/search?q=Paul+Brown) | N/A |
-| 38 | [Dan Blaine](http://twitter.com/search?q=Dan+Blaine) | N/A |
-| 39 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
-| 40 | [James Bouknight](http://twitter.com/search?q=James+Bouknight) | N/A |
-| 41 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 42 | [Bush 41](http://twitter.com/search?q=Bush+41) | N/A |
-| 43 | [Mark Williams](http://twitter.com/search?q=Mark+Williams) | N/A |
-| 44 | [Joe Carr](http://twitter.com/search?q=Joe+Carr) | N/A |
-| 45 | [Durbin](http://twitter.com/search?q=Durbin) | N/A |
-| 46 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
-| 47 | [Bud Adams](http://twitter.com/search?q=Bud+Adams) | N/A |
-| 48 | [Shorthand](http://twitter.com/search?q=Shorthand) | N/A |
-| 49 | [Leonard Nimoy](http://twitter.com/search?q=Leonard+Nimoy) | N/A |
-| 50 | [David Jones](http://twitter.com/search?q=David+Jones) | N/A |
+| 11 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 12 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 13 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 14 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 15 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 16 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
+| 17 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
+| 18 | [YOU COULD START A CULT](http://twitter.com/search?q=YOU+COULD+START+A+CULT) | N/A |
+| 19 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
+| 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 21 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
+| 22 | [Cam Young](http://twitter.com/search?q=Cam+Young) | N/A |
+| 23 | [Jhony Brito](http://twitter.com/search?q=Jhony+Brito) | N/A |
+| 24 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
+| 25 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 26 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
+| 27 | [Void](http://twitter.com/search?q=Void) | N/A |
+| 28 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 29 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 30 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
+| 31 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
+| 32 | [Sparg0](http://twitter.com/search?q=Sparg0) | N/A |
+| 33 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 34 | [THE KING IS BACK](http://twitter.com/search?q=THE+KING+IS+BACK) | N/A |
+| 35 | [Soulja](http://twitter.com/search?q=Soulja) | N/A |
+| 36 | [Cameron Young](http://twitter.com/search?q=Cameron+Young) | N/A |
+| 37 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
+| 38 | [Without Warning](http://twitter.com/search?q=Without+Warning) | N/A |
+| 39 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
+| 40 | [Bush 41](http://twitter.com/search?q=Bush+41) | N/A |
+| 41 | [McIlroy](http://twitter.com/search?q=McIlroy) | N/A |
+| 42 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
+| 43 | [Studies](http://twitter.com/search?q=Studies) | N/A |
+| 44 | [Locastro](http://twitter.com/search?q=Locastro) | N/A |
+| 45 | [NEVER GROW UP](http://twitter.com/search?q=NEVER+GROW+UP) | N/A |
+| 46 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 47 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 48 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
+| 49 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
 
 
 

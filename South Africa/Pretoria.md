@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-26 18:17:27 UTC`
+📆 Last Updated: `2023-03-26 19:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DateMyFamily](http://twitter.com/search?q=%23DateMyFamily) | N/A |
-| 2 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 3 | [#MakotiAreYouTheOne](http://twitter.com/search?q=%23MakotiAreYouTheOne) | N/A |
-| 4 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
-| 5 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 6 | [#YouPromisedToMarryMe](http://twitter.com/search?q=%23YouPromisedToMarryMe) | N/A |
-| 7 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 8 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 9 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
-| 10 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
-| 11 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 12 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 13 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
-| 14 | [markram](http://twitter.com/search?q=markram) | N/A |
-| 15 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
-| 16 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 17 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 18 | [Kwanda](http://twitter.com/search?q=Kwanda) | N/A |
-| 19 | [Uncle Waffles](http://twitter.com/search?q=Uncle+Waffles) | N/A |
-| 20 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 21 | [party with khosi](http://twitter.com/search?q=party+with+khosi) | N/A |
-| 22 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 23 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 24 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 25 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 26 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
-| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 28 | [Quinny](http://twitter.com/search?q=Quinny) | N/A |
-| 29 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 30 | [Supersport Park](http://twitter.com/search?q=Supersport+Park) | N/A |
-| 31 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
-| 32 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 33 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 34 | [Ntokozo](http://twitter.com/search?q=Ntokozo) | N/A |
-| 35 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 36 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 37 | [Windies](http://twitter.com/search?q=Windies) | N/A |
-| 38 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
-| 39 | [THABANG THE AFRICAN STAR](http://twitter.com/search?q=THABANG+THE+AFRICAN+STAR) | N/A |
-| 40 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
-| 41 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
-| 42 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 43 | [KHOSI THE AFRICAN TITAN](http://twitter.com/search?q=KHOSI+THE+AFRICAN+TITAN) | N/A |
-| 44 | [Reifer](http://twitter.com/search?q=Reifer) | N/A |
-| 45 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
-| 46 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 47 | [England](http://twitter.com/search?q=England) | N/A |
-| 48 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
-| 49 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 1 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 2 | [#DateMyFamily](http://twitter.com/search?q=%23DateMyFamily) | N/A |
+| 3 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
+| 4 | [#YouPromisedToMarryMe](http://twitter.com/search?q=%23YouPromisedToMarryMe) | N/A |
+| 5 | [#XRepo](http://twitter.com/search?q=%23XRepo) | N/A |
+| 6 | [#isencaneLengane](http://twitter.com/search?q=%23isencaneLengane) | N/A |
+| 7 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 8 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 9 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 10 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 11 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
+| 12 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 13 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
+| 14 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 15 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 16 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 17 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 18 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 19 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 21 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 22 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
+| 23 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 24 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 25 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 26 | [Moshe](http://twitter.com/search?q=Moshe) | N/A |
+| 27 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 28 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
+| 29 | [markram](http://twitter.com/search?q=markram) | N/A |
+| 30 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 31 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 32 | [Quinny](http://twitter.com/search?q=Quinny) | N/A |
+| 33 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
+| 34 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 35 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 36 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
+| 37 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
+| 38 | [Supersport Park](http://twitter.com/search?q=Supersport+Park) | N/A |
+| 39 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 40 | [Windies](http://twitter.com/search?q=Windies) | N/A |
+| 41 | [Ntokozo](http://twitter.com/search?q=Ntokozo) | N/A |
+| 42 | [Finale](http://twitter.com/search?q=Finale) | N/A |
+| 43 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
+| 44 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
+| 45 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 46 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
+| 47 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 48 | [Reifer](http://twitter.com/search?q=Reifer) | N/A |
+| 49 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
 | 50 | [Recharge Lounge](http://twitter.com/search?q=Recharge+Lounge) | N/A |
 
 

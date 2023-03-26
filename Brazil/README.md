@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-26 18:17:46 UTC`
+📆 Last Updated: `2023-03-26 19:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 3 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 4 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 5 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 6 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
-| 7 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 8 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 9 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
-| 10 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 11 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 12 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 13 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 14 | [andrew garfield](http://twitter.com/search?q=andrew+garfield) | N/A |
-| 15 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 16 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 17 | [Projota](http://twitter.com/search?q=Projota) | Projota is a Brazilian rapper, singer, and songwriter. His name is derived from the Portuguese word "projetar," which means "to project." He is known for his socially conscious lyrics and has become one of the most popular rappers in Brazil. In English, Projota means "one who projects." |
-| 18 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
-| 19 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 20 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
-| 21 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 22 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 23 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 24 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
-| 25 | [pyke](http://twitter.com/search?q=pyke) | N/A |
-| 26 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 27 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
-| 28 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 29 | [Del Rey](http://twitter.com/search?q=Del+Rey) | N/A |
-| 30 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
-| 31 | [Cazaquistão](http://twitter.com/search?q=Cazaquist%c3%a3o) | N/A |
-| 32 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 33 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 34 | [Kit Connor](http://twitter.com/search?q=Kit+Connor) | N/A |
-| 35 | [FAITH IN THE FUTURE](http://twitter.com/search?q=FAITH+IN+THE+FUTURE) | N/A |
-| 36 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
-| 37 | [Stardust](http://twitter.com/search?q=Stardust) | N/A |
-| 38 | [Route](http://twitter.com/search?q=Route) | N/A |
-| 39 | [Naldo Benny](http://twitter.com/search?q=Naldo+Benny) | N/A |
-| 40 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
-| 41 | [Lava](http://twitter.com/search?q=Lava) | N/A |
-| 42 | [Veigar](http://twitter.com/search?q=Veigar) | N/A |
-| 43 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
-| 44 | [7 Belo](http://twitter.com/search?q=7+Belo) | N/A |
-| 45 | [ELE NÃO VEM MAIS](http://twitter.com/search?q=ELE+N%c3%83O+VEM+MAIS) | N/A |
-| 46 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 47 | [Cancelou](http://twitter.com/search?q=Cancelou) | N/A |
-| 48 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 49 | [Peter Parker](http://twitter.com/search?q=Peter+Parker) | N/A |
-| 50 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 2 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
+| 3 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 4 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 5 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
+| 6 | [#ParalamasNoMultishow](http://twitter.com/search?q=%23ParalamasNoMultishow) | N/A |
+| 7 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 8 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
+| 9 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 10 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 11 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
+| 12 | [#TOP100KPOPMEMBERS](http://twitter.com/search?q=%23TOP100KPOPMEMBERS) | N/A |
+| 13 | [É O ROBS](http://twitter.com/search?q=%c3%89+O+ROBS) | N/A |
+| 14 | [Croc](http://twitter.com/search?q=Croc) | N/A |
+| 15 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 16 | [Projota](http://twitter.com/search?q=Projota) | Projota is a Brazilian rapper, singer, and songwriter. His name is derived from the Portuguese word "projetar," which means "to project." He is known for his socially conscious lyrics and has become one of the most popular rappers in Brazil. In English, Projota means "one who projects." |
+| 17 | [Robo](http://twitter.com/search?q=Robo) | N/A |
+| 18 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 19 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 20 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 21 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 22 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
+| 23 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 24 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
+| 25 | [aimee](http://twitter.com/search?q=aimee) | N/A |
+| 26 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
+| 27 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
+| 28 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
+| 29 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 30 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 31 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
+| 32 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
+| 33 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 34 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
+| 35 | [Route](http://twitter.com/search?q=Route) | N/A |
+| 36 | [Del Rey](http://twitter.com/search?q=Del+Rey) | N/A |
+| 37 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 38 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 39 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 40 | [Kit Connor](http://twitter.com/search?q=Kit+Connor) | N/A |
+| 41 | [RexPa](http://twitter.com/search?q=RexPa) | N/A |
+| 42 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 43 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 44 | [xvideos](http://twitter.com/search?q=xvideos) | N/A |
+| 45 | [Naldo Benny](http://twitter.com/search?q=Naldo+Benny) | N/A |
+| 46 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 47 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
+| 48 | [pyke](http://twitter.com/search?q=pyke) | N/A |
+| 49 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 50 | [Stardust](http://twitter.com/search?q=Stardust) | N/A |
 
 
 

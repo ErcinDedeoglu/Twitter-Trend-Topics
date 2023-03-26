@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-26 18:17:27 UTC`
+📆 Last Updated: `2023-03-26 19:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Kenya](</Kenya>)
 | 2 | [#MaandamanoMondays](http://twitter.com/search?q=%23MaandamanoMondays) | N/A |
 | 3 | [IG Koome](http://twitter.com/search?q=IG+Koome) | N/A |
 | 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 5 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 6 | [#reggaesplash](http://twitter.com/search?q=%23reggaesplash) | N/A |
-| 7 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 5 | [#reggaesplash](http://twitter.com/search?q=%23reggaesplash) | N/A |
+| 6 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 7 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 8 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 9 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 10 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 11 | [#kabugala23](http://twitter.com/search?q=%23kabugala23) | N/A |
-| 12 | [#masculinitysaturday](http://twitter.com/search?q=%23masculinitysaturday) | N/A |
-| 13 | [The IG](http://twitter.com/search?q=The+IG) | N/A |
-| 14 | [Rigathi Gachagua](http://twitter.com/search?q=Rigathi+Gachagua) | N/A |
+| 9 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
+| 10 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 11 | [Rigathi Gachagua](http://twitter.com/search?q=Rigathi+Gachagua) | N/A |
+| 12 | [#kabugala23](http://twitter.com/search?q=%23kabugala23) | N/A |
+| 13 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 14 | [The IG](http://twitter.com/search?q=The+IG) | N/A |
 | 15 | [Rosecoco](http://twitter.com/search?q=Rosecoco) | N/A |
 | 16 | [BeDigitallyFit Na Robisearch](http://twitter.com/search?q=BeDigitallyFit+Na+Robisearch) | N/A |
 | 17 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 18 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 19 | [Martha Karua](http://twitter.com/search?q=Martha+Karua) | N/A |
-| 20 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 21 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
+| 18 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 19 | [Jalas](http://twitter.com/search?q=Jalas) | N/A |
+| 20 | [Kesho](http://twitter.com/search?q=Kesho) | N/A |
+| 21 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
 | 22 | [CX-5](http://twitter.com/search?q=CX-5) | N/A |
-| 23 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 24 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
-| 25 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
-| 26 | [England](http://twitter.com/search?q=England) | N/A |
-| 27 | [Hague](http://twitter.com/search?q=Hague) | N/A |
+| 23 | [Star Boy](http://twitter.com/search?q=Star+Boy) | N/A |
+| 24 | [Martha Karua](http://twitter.com/search?q=Martha+Karua) | N/A |
+| 25 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 26 | [Hague](http://twitter.com/search?q=Hague) | N/A |
+| 27 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
 | 28 | [Mama Lucy](http://twitter.com/search?q=Mama+Lucy) | N/A |
-| 29 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 30 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
-| 31 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
-| 32 | [Inspector General](http://twitter.com/search?q=Inspector+General) | N/A |
-| 33 | [Jalango](http://twitter.com/search?q=Jalango) | N/A |
-| 34 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 35 | [DJ Juranka](http://twitter.com/search?q=DJ+Juranka) | N/A |
-| 36 | [Blood of Jesus](http://twitter.com/search?q=Blood+of+Jesus) | N/A |
-| 37 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
-| 38 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
-| 39 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 40 | [the dci](http://twitter.com/search?q=the+dci) | N/A |
-| 41 | [Koffi](http://twitter.com/search?q=Koffi) | N/A |
-| 42 | [Pilsner Lager](http://twitter.com/search?q=Pilsner+Lager) | N/A |
-| 43 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 44 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 45 | [Kesho](http://twitter.com/search?q=Kesho) | N/A |
-| 46 | [Red Square Villas](http://twitter.com/search?q=Red+Square+Villas) | N/A |
-| 47 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 48 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 49 | [Fally](http://twitter.com/search?q=Fally) | N/A |
-| 50 | [EPRA](http://twitter.com/search?q=EPRA) | N/A |
+| 29 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
+| 30 | [Inspector General](http://twitter.com/search?q=Inspector+General) | N/A |
+| 31 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 32 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
+| 33 | [England](http://twitter.com/search?q=England) | N/A |
+| 34 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
+| 35 | [Jalango](http://twitter.com/search?q=Jalango) | N/A |
+| 36 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 37 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 38 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 39 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 40 | [Blood of Jesus](http://twitter.com/search?q=Blood+of+Jesus) | N/A |
+| 41 | [Dj Juranka](http://twitter.com/search?q=Dj+Juranka) | N/A |
+| 42 | [Koffi](http://twitter.com/search?q=Koffi) | N/A |
+| 43 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
+| 44 | [Pilsner Lager](http://twitter.com/search?q=Pilsner+Lager) | N/A |
+| 45 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 46 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 47 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
+| 48 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 49 | [Red Square Villas](http://twitter.com/search?q=Red+Square+Villas) | N/A |
+| 50 | [Harry Kane](http://twitter.com/search?q=Harry+Kane) | Harry Kane is an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. His name is often used as a metaphor for someone who is a natural leader and has the ability to score goals. |
 
 
 
