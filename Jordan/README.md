@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-26 21:17:34 UTC`
+📆 Last Updated: `2023-03-26 22:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Jordan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
+| 1 | [#نتنياهو](http://twitter.com/search?q=%23%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88) | N/A |
 | 2 | [4 رمضان](http://twitter.com/search?q=4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 3 | [علي الجامعه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
-| 4 | [#متحف_الدبابات_الملكي](http://twitter.com/search?q=%23%d9%85%d8%aa%d8%ad%d9%81_%d8%a7%d9%84%d8%af%d8%a8%d8%a7%d8%a8%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 5 | [خالد بن الوليد](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af) | N/A |
+| 4 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
+| 5 | [#متحف_الدبابات_الملكي](http://twitter.com/search?q=%23%d9%85%d8%aa%d8%ad%d9%81_%d8%a7%d9%84%d8%af%d8%a8%d8%a7%d8%a8%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
 | 6 | [بيكيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 7 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 8 | [التويتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
-| 9 | [مبارك دكتور](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
+| 7 | [خالد بن الوليد](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af) | N/A |
+| 8 | [مبارك دكتور](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
+| 9 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 10 | [نظام المساهمه الماليه](http://twitter.com/search?q=%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d9%87%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 11 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
-| 12 | [الامن العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 13 | [علي البرازيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
-| 14 | [#الرخصه_المهنيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%ae%d8%b5%d9%87_%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a%d9%87) | N/A |
-| 15 | [عدم الاستقرار الجوي](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
-| 16 | [#دفعه_لندن](http://twitter.com/search?q=%23%d8%af%d9%81%d8%b9%d9%87_%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 17 | [#امطار_الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 18 | [الحاله الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 19 | [المسجد الأقصى](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a3%d9%82%d8%b5%d9%89) | N/A |
-| 20 | [أعصاب](http://twitter.com/search?q=%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8) | N/A |
-| 21 | [#حواره](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%a7%d8%b1%d9%87) | N/A |
-| 22 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 23 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 24 | [الحمي القلاعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%8a+%d8%a7%d9%84%d9%82%d9%84%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 25 | [إربد](http://twitter.com/search?q=%d8%a5%d8%b1%d8%a8%d8%af) | N/A |
-| 26 | [رامز](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
-| 27 | [عظام](http://twitter.com/search?q=%d8%b9%d8%b8%d8%a7%d9%85) | N/A |
-| 28 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 29 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
-| 30 | [الشعب الفلسطيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a) | N/A |
-| 31 | [الدنمارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83) | N/A |
-| 32 | [الاحتلال الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 33 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
-| 34 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 35 | [المصحف الشريف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
-| 36 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 37 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 38 | [بناء علي](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a) | N/A |
-| 39 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
-| 40 | [الموسم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 41 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
-| 42 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 43 | [الاسبوع الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 44 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 45 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 46 | [المملكة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9) | N/A |
-| 47 | [الصبر الطويل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a8%d8%b1+%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84) | N/A |
-| 48 | [الاعمال الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
-| 49 | [عماد فراجين](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%af+%d9%81%d8%b1%d8%a7%d8%ac%d9%8a%d9%86) | N/A |
-| 50 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
+| 11 | [الامن العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 12 | [علي البرازيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
+| 13 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 14 | [#دفعه_لندن](http://twitter.com/search?q=%23%d8%af%d9%81%d8%b9%d9%87_%d9%84%d9%86%d8%af%d9%86) | N/A |
+| 15 | [#امطار_الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 16 | [التويتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | N/A |
+| 17 | [أعصاب](http://twitter.com/search?q=%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8) | N/A |
+| 18 | [#الرخصه_المهنيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%ae%d8%b5%d9%87_%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a%d9%87) | N/A |
+| 19 | [عدم الاستقرار الجوي](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
+| 20 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 21 | [الحاله الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 22 | [اللبس الشرعي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a8%d8%b3+%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a) | N/A |
+| 23 | [المسجد الأقصى](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a3%d9%82%d8%b5%d9%89) | N/A |
+| 24 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 25 | [الجلدية](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%84%d8%af%d9%8a%d8%a9) | N/A |
+| 26 | [عظام](http://twitter.com/search?q=%d8%b9%d8%b8%d8%a7%d9%85) | N/A |
+| 27 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 28 | [أشعة](http://twitter.com/search?q=%d8%a3%d8%b4%d8%b9%d8%a9) | N/A |
+| 29 | [الحمي القلاعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d9%8a+%d8%a7%d9%84%d9%82%d9%84%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 30 | [إربد](http://twitter.com/search?q=%d8%a5%d8%b1%d8%a8%d8%af) | N/A |
+| 31 | [رامز](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d8%b2) | N/A |
+| 32 | [اليوم الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 33 | [المصلي القبلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%a8%d9%84%d9%8a) | N/A |
+| 34 | [الدنمارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83) | N/A |
+| 35 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 36 | [المصحف الشريف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
+| 37 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 38 | [الشعب الفلسطيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a) | N/A |
+| 39 | [الجامعه الاردنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a%d9%87) | N/A |
+| 40 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
+| 41 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 42 | [بناء علي](http://twitter.com/search?q=%d8%a8%d9%86%d8%a7%d8%a1+%d8%b9%d9%84%d9%8a) | N/A |
+| 43 | [رونالدو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | رونالدو is the Portuguese spelling of the name Ronaldo, which is a popular given name in many countries. In English, it means "counselor of the ruler". |
+| 44 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
+| 45 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 46 | [الاسبوع الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 47 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 48 | [المملكة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d8%a9) | N/A |
+| 49 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
+| 50 | [الصبر الطويل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%a8%d8%b1+%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84) | N/A |
 
 
 

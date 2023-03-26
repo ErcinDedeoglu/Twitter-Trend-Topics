@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-26 21:17:00 UTC`
+📆 Last Updated: `2023-03-26 22:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 7 | [Kota](http://twitter.com/search?q=Kota) | N/A |
-| 8 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
-| 9 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 10 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 11 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 12 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
-| 13 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 14 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 15 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
-| 16 | [Batal](http://twitter.com/search?q=Batal) | N/A |
-| 17 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
-| 18 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 19 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 20 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 21 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 22 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 23 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 24 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 25 | [Manuk](http://twitter.com/search?q=Manuk) | N/A |
-| 26 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
-| 27 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 28 | [Happy Birthday XIUMIN](http://twitter.com/search?q=Happy+Birthday+XIUMIN) | N/A |
-| 29 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
-| 30 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
-| 31 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 32 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 33 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 34 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
-| 35 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 36 | [INTM](http://twitter.com/search?q=INTM) | N/A |
-| 37 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 38 | [YOU DID GREAT TXT](http://twitter.com/search?q=YOU+DID+GREAT+TXT) | N/A |
-| 39 | [BABI PUTIH](http://twitter.com/search?q=BABI+PUTIH) | N/A |
-| 40 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
-| 41 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 42 | [Fizi](http://twitter.com/search?q=Fizi) | N/A |
-| 43 | [GOYONG](http://twitter.com/search?q=GOYONG) | N/A |
-| 44 | [txt 2nd world tour begins](http://twitter.com/search?q=txt+2nd+world+tour+begins) | N/A |
-| 45 | [Gus Fahrur](http://twitter.com/search?q=Gus+Fahrur) | Gus Fahrur is an Indonesian phrase that translates to "Let's go!" It is often used as an expression of enthusiasm or encouragement. |
-| 46 | [Pekerjaan](http://twitter.com/search?q=Pekerjaan) | N/A |
-| 47 | [Imroatus](http://twitter.com/search?q=Imroatus) | N/A |
-| 48 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 49 | [Ritz Carlton](http://twitter.com/search?q=Ritz+Carlton) | N/A |
+| 8 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 10 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
+| 11 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 13 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 14 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 15 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 16 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
+| 17 | [Manuk](http://twitter.com/search?q=Manuk) | N/A |
+| 18 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
+| 19 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 20 | [Batal](http://twitter.com/search?q=Batal) | N/A |
+| 21 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 22 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
+| 23 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 24 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 25 | [BESOK SENIN](http://twitter.com/search?q=BESOK+SENIN) | N/A |
+| 26 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 27 | [BABI PUTIH](http://twitter.com/search?q=BABI+PUTIH) | N/A |
+| 28 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
+| 29 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
+| 30 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 31 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
+| 32 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
+| 33 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 34 | [Happy Birthday XIUMIN](http://twitter.com/search?q=Happy+Birthday+XIUMIN) | N/A |
+| 35 | [Shalat Tarawih](http://twitter.com/search?q=Shalat+Tarawih) | N/A |
+| 36 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 37 | [Imsak](http://twitter.com/search?q=Imsak) | N/A |
+| 38 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
+| 39 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 40 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
+| 41 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
+| 42 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 43 | [INTM](http://twitter.com/search?q=INTM) | N/A |
+| 44 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 45 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 46 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 47 | [Katla 431 X](http://twitter.com/search?q=Katla+431+X) | N/A |
+| 48 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 49 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 
 
 

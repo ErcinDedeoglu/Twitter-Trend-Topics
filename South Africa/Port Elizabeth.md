@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-26 21:17:11 UTC`
+📆 Last Updated: `2023-03-26 22:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 1 | [#sizokthola](http://twitter.com/search?q=%23sizokthola) | N/A |
 | 2 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
 | 3 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 4 | [#isencaneLengane](http://twitter.com/search?q=%23isencaneLengane) | N/A |
-| 5 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 6 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 7 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 8 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
-| 9 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
+| 4 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 7 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 8 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 9 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 10 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
+| 11 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
 | 12 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
 | 13 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
 | 14 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
 | 15 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 16 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
-| 17 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
-| 18 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
-| 19 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 20 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 21 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 22 | [Xolani](http://twitter.com/search?q=Xolani) | N/A |
-| 23 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 17 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
+| 18 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 19 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 20 | [Xolani](http://twitter.com/search?q=Xolani) | N/A |
+| 21 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 22 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
+| 23 | [Markram](http://twitter.com/search?q=Markram) | N/A |
 | 24 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 25 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 26 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
-| 27 | [markram](http://twitter.com/search?q=markram) | N/A |
-| 28 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 29 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 25 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 26 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 27 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 28 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 29 | [Quinny](http://twitter.com/search?q=Quinny) | N/A |
 | 30 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 31 | [Finale](http://twitter.com/search?q=Finale) | N/A |
-| 32 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 33 | [Quinny](http://twitter.com/search?q=Quinny) | N/A |
-| 34 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
-| 35 | [Supersport Park](http://twitter.com/search?q=Supersport+Park) | N/A |
-| 36 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 37 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 38 | [Windies](http://twitter.com/search?q=Windies) | N/A |
-| 39 | [JUICY JAY X THE ANTELOPE](http://twitter.com/search?q=JUICY+JAY+X+THE+ANTELOPE) | N/A |
-| 40 | [Hendricks](http://twitter.com/search?q=Hendricks) | N/A |
-| 41 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
+| 31 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 32 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
+| 33 | [Supersport Park](http://twitter.com/search?q=Supersport+Park) | N/A |
+| 34 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
+| 35 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 36 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
+| 37 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 38 | [JUICY JAY X THE ANTELOPE](http://twitter.com/search?q=JUICY+JAY+X+THE+ANTELOPE) | N/A |
+| 39 | [Kanaga](http://twitter.com/search?q=Kanaga) | Kanaga is a traditional symbol of the Dogon people of Mali, West Africa. It is composed of a circle with four arms extending outward from the center. The symbol is believed to represent the universe and its four cardinal points, as well as the four elements: earth, air, fire, and water. In English, Kanaga means "circle of life". |
+| 40 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
+| 41 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 42 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
-| 43 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 43 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
 | 44 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
-| 45 | [Moja Love](http://twitter.com/search?q=Moja+Love) | N/A |
-| 46 | [Reifer](http://twitter.com/search?q=Reifer) | N/A |
-| 47 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 48 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 45 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
+| 46 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 47 | [Moja Love](http://twitter.com/search?q=Moja+Love) | N/A |
+| 48 | [Hendricks](http://twitter.com/search?q=Hendricks) | N/A |
 
 
 

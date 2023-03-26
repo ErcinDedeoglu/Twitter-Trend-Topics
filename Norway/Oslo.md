@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-26 21:16:58 UTC`
+📆 Last Updated: `2023-03-26 22:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [bjørkan](http://twitter.com/search?q=bj%c3%b8rkan) | N/A |
-| 2 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 3 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 4 | [sørloth](http://twitter.com/search?q=s%c3%b8rloth) | N/A |
-| 5 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
-| 6 | [#spanor](http://twitter.com/search?q=%23spanor) | N/A |
-| 7 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 8 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
-| 9 | [sander berge](http://twitter.com/search?q=sander+berge) | N/A |
-| 10 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 11 | [#espnor](http://twitter.com/search?q=%23espnor) | N/A |
-| 12 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 14 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 15 | [Braut](http://twitter.com/search?q=Braut) | N/A |
-| 16 | [Hødd](http://twitter.com/search?q=H%c3%b8dd) | N/A |
-| 17 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
-| 18 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 19 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 20 | [Nyland](http://twitter.com/search?q=Nyland) | N/A |
-| 21 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
-| 22 | [Schjelderup](http://twitter.com/search?q=Schjelderup) | N/A |
-| 23 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 24 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 25 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
-| 26 | [ullevål](http://twitter.com/search?q=ullev%c3%a5l) | N/A |
-| 27 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 2 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 4 | [Spania](http://twitter.com/search?q=Spania) | N/A |
+| 5 | [Norge](http://twitter.com/search?q=Norge) | N/A |
+| 6 | [sørloth](http://twitter.com/search?q=s%c3%b8rloth) | N/A |
+| 7 | [#spanor](http://twitter.com/search?q=%23spanor) | N/A |
+| 8 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 9 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
+| 10 | [sander berge](http://twitter.com/search?q=sander+berge) | N/A |
+| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 12 | [#espnor](http://twitter.com/search?q=%23espnor) | N/A |
+| 13 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 14 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
+| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 18 | [Braut](http://twitter.com/search?q=Braut) | N/A |
+| 19 | [Hødd](http://twitter.com/search?q=H%c3%b8dd) | N/A |
+| 20 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
+| 21 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 22 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 23 | [nyland](http://twitter.com/search?q=nyland) | N/A |
+| 24 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
+| 25 | [Schjelderup](http://twitter.com/search?q=Schjelderup) | N/A |
+| 26 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
+| 27 | [ullevål](http://twitter.com/search?q=ullev%c3%a5l) | N/A |
 | 28 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
-| 29 | [Koteng Arena](http://twitter.com/search?q=Koteng+Arena) | N/A |
-| 30 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 31 | [Erna](http://twitter.com/search?q=Erna) | N/A |
-| 32 | [Ryerson](http://twitter.com/search?q=Ryerson) | N/A |
-| 33 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 34 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
-| 35 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 36 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
-| 37 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
-| 38 | [Nusa](http://twitter.com/search?q=Nusa) | N/A |
-| 39 | [østfold](http://twitter.com/search?q=%c3%b8stfold) | N/A |
-| 40 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 41 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 42 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 43 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
-| 44 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 45 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 46 | [Moss](http://twitter.com/search?q=Moss) | N/A |
-| 47 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 48 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 49 | [bedre](http://twitter.com/search?q=bedre) | N/A |
-| 50 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 29 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 30 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 31 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 32 | [Koteng Arena](http://twitter.com/search?q=Koteng+Arena) | N/A |
+| 33 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 34 | [Erna](http://twitter.com/search?q=Erna) | N/A |
+| 35 | [Ryerson](http://twitter.com/search?q=Ryerson) | N/A |
+| 36 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 37 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
+| 38 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 39 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
+| 40 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
+| 41 | [Nusa](http://twitter.com/search?q=Nusa) | N/A |
+| 42 | [østfold](http://twitter.com/search?q=%c3%b8stfold) | N/A |
+| 43 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 44 | [Moss](http://twitter.com/search?q=Moss) | N/A |
+| 45 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 47 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 48 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
+| 49 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 50 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 
 
 

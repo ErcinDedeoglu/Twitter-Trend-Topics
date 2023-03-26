@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-26 21:16:47 UTC`
+📆 Last Updated: `2023-03-26 22:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 2 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
-| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 4 | [#TheRoseNoCanalBIS](http://twitter.com/search?q=%23TheRoseNoCanalBIS) | N/A |
-| 5 | [woosung](http://twitter.com/search?q=woosung) | N/A |
-| 6 | [#MCLomaNoFaro](http://twitter.com/search?q=%23MCLomaNoFaro) | N/A |
-| 7 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 8 | [#L7nnonNoMultishow](http://twitter.com/search?q=%23L7nnonNoMultishow) | N/A |
-| 9 | [#Domingao](http://twitter.com/search?q=%23Domingao) | N/A |
-| 10 | [Mano Walter](http://twitter.com/search?q=Mano+Walter) | N/A |
-| 11 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
-| 12 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 13 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 14 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 15 | [Gabriel Xavier](http://twitter.com/search?q=Gabriel+Xavier) | N/A |
-| 16 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
-| 17 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 18 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
-| 19 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 20 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
-| 21 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 22 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 23 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 24 | [BUD E LUD NO LOLLA BR](http://twitter.com/search?q=BUD+E+LUD+NO+LOLLA+BR) | N/A |
-| 25 | [Matheus Bahia](http://twitter.com/search?q=Matheus+Bahia) | N/A |
-| 26 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 27 | [Rezende](http://twitter.com/search?q=Rezende) | N/A |
-| 28 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 29 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 30 | [Vovó Tartaruga](http://twitter.com/search?q=Vov%c3%b3+Tartaruga) | N/A |
-| 31 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 32 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
-| 33 | [RexPa](http://twitter.com/search?q=RexPa) | N/A |
-| 34 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
-| 35 | [Route](http://twitter.com/search?q=Route) | N/A |
-| 36 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 37 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 38 | [Croc](http://twitter.com/search?q=Croc) | N/A |
-| 39 | [xvideos](http://twitter.com/search?q=xvideos) | N/A |
-| 40 | [Robs](http://twitter.com/search?q=Robs) | N/A |
-| 41 | [Abelha Rainha](http://twitter.com/search?q=Abelha+Rainha) | N/A |
-| 42 | [O Náutico](http://twitter.com/search?q=O+N%c3%a1utico) | N/A |
-| 43 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
-| 44 | [Robo](http://twitter.com/search?q=Robo) | N/A |
-| 45 | [Larissa Luz](http://twitter.com/search?q=Larissa+Luz) | N/A |
-| 46 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 47 | [Hirit](http://twitter.com/search?q=Hirit) | N/A |
-| 48 | [Felipe Garcia](http://twitter.com/search?q=Felipe+Garcia) | N/A |
-| 49 | [Netuno](http://twitter.com/search?q=Netuno) | N/A |
-| 50 | [Gabriel Davis](http://twitter.com/search?q=Gabriel+Davis) | N/A |
+| 1 | [Erick](http://twitter.com/search?q=Erick) | N/A |
+| 2 | [Sergipe](http://twitter.com/search?q=Sergipe) | N/A |
+| 3 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 4 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 5 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 6 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 7 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 8 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 9 | [#TheMaskedSingerbr](http://twitter.com/search?q=%23TheMaskedSingerbr) | #TheMaskedSingerbr is a hashtag used to promote the Brazilian version of the popular reality TV show The Masked Singer. The show features celebrities competing against each other while wearing elaborate costumes and masks to conceal their identities. |
+| 10 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 11 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 12 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 13 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 14 | [#TheRoseNoCanalBIS](http://twitter.com/search?q=%23TheRoseNoCanalBIS) | N/A |
+| 15 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 16 | [#Domingao](http://twitter.com/search?q=%23Domingao) | N/A |
+| 17 | [Maurício](http://twitter.com/search?q=Maur%c3%adcio) | N/A |
+| 18 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 19 | [Baralhas](http://twitter.com/search?q=Baralhas) | N/A |
+| 20 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
+| 21 | [woosung](http://twitter.com/search?q=woosung) | N/A |
+| 22 | [Mano Walter](http://twitter.com/search?q=Mano+Walter) | N/A |
+| 23 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
+| 24 | [#L7nnonNoMultishow](http://twitter.com/search?q=%23L7nnonNoMultishow) | N/A |
+| 25 | [DIAZ NO DANCA](http://twitter.com/search?q=DIAZ+NO+DANCA) | N/A |
+| 26 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
+| 27 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
+| 28 | [Thauan Lara](http://twitter.com/search?q=Thauan+Lara) | N/A |
+| 29 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 30 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 31 | [ESTAMOS COM VOCÊ BLACK](http://twitter.com/search?q=ESTAMOS+COM+VOC%c3%8a+BLACK) | N/A |
+| 32 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 33 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 34 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 35 | [Gabriel Xavier](http://twitter.com/search?q=Gabriel+Xavier) | N/A |
+| 36 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
+| 37 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 38 | [kvsh](http://twitter.com/search?q=kvsh) | N/A |
+| 39 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 40 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 41 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 42 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
+| 43 | [mc zaac](http://twitter.com/search?q=mc+zaac) | N/A |
+| 44 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 45 | [Beverley](http://twitter.com/search?q=Beverley) | N/A |
+| 46 | [BUD E LUD NO LOLLA BR](http://twitter.com/search?q=BUD+E+LUD+NO+LOLLA+BR) | N/A |
+| 47 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
+| 48 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 49 | [Rezende](http://twitter.com/search?q=Rezende) | N/A |
+| 50 | [Beira-Rio](http://twitter.com/search?q=Beira-Rio) | N/A |
 
 
 

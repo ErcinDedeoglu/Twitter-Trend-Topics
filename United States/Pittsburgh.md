@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-03-26 21:17:27 UTC`
+📆 Last Updated: `2023-03-26 22:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Philadelphia](http://twitter.com/search?q=%23Philadelphia) | N/A |
-| 2 | [#Philly](http://twitter.com/search?q=%23Philly) | N/A |
-| 3 | [Bucks County](http://twitter.com/search?q=Bucks+County) | N/A |
+| 1 | [#Philly](http://twitter.com/search?q=%23Philly) | N/A |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 4 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 5 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 6 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 7 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 9 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 10 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 11 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 12 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 13 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 14 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 5 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 7 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 8 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 9 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 10 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 12 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 13 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
+| 14 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 15 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 16 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 16 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
 | 17 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 18 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
-| 19 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
-| 20 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 21 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 22 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 23 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 24 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
-| 25 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 26 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 27 | [Vooch](http://twitter.com/search?q=Vooch) | N/A |
-| 28 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 29 | [#EchoParkGP](http://twitter.com/search?q=%23EchoParkGP) | N/A |
-| 30 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 31 | [Mavericks](http://twitter.com/search?q=Mavericks) | Mavericks is a term used to describe an independent-minded person who does not conform to the norms of society. It is often used to describe someone who is willing to take risks and challenge the status quo. |
-| 32 | [Final 4](http://twitter.com/search?q=Final+4) | N/A |
-| 33 | [Clark Kellogg](http://twitter.com/search?q=Clark+Kellogg) | N/A |
-| 34 | [Clock](http://twitter.com/search?q=Clock) | N/A |
-| 35 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 36 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 37 | [Mountain West](http://twitter.com/search?q=Mountain+West) | N/A |
-| 38 | [Gene Steratore](http://twitter.com/search?q=Gene+Steratore) | N/A |
-| 39 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
-| 40 | [Brian Dutcher](http://twitter.com/search?q=Brian+Dutcher) | N/A |
-| 41 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
-| 42 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
-| 43 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 44 | [Lee Cassell](http://twitter.com/search?q=Lee+Cassell) | N/A |
-| 45 | [Trammell](http://twitter.com/search?q=Trammell) | N/A |
-| 46 | [Ty Dillon](http://twitter.com/search?q=Ty+Dillon) | N/A |
-| 47 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 48 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 49 | [Whalers](http://twitter.com/search?q=Whalers) | N/A |
+| 18 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 19 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 20 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 21 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 22 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 23 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 24 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 25 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
+| 26 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 27 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
+| 28 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
+| 29 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 30 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 31 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 32 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 33 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 34 | [McAvoy](http://twitter.com/search?q=McAvoy) | McAvoy is a Scottish surname derived from the Gaelic Mac an Bhaird, meaning "son of the bard". It is most commonly found in the counties of Ayrshire and Renfrewshire. |
+| 35 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 36 | [#EchoParkGP](http://twitter.com/search?q=%23EchoParkGP) | N/A |
+| 37 | [Whalers](http://twitter.com/search?q=Whalers) | N/A |
+| 38 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
+| 39 | [Vooch](http://twitter.com/search?q=Vooch) | N/A |
+| 40 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
+| 41 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
+| 42 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
+| 43 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 44 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
+| 45 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 46 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 47 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 48 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 49 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
 
 
 

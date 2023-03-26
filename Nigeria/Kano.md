@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-03-26 21:17:09 UTC`
+📆 Last Updated: `2023-03-26 22:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 2 | [#EndBawaTenure](http://twitter.com/search?q=%23EndBawaTenure) | N/A |
-| 3 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 4 | [#EndBawaReign](http://twitter.com/search?q=%23EndBawaReign) | N/A |
-| 5 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
-| 6 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 8 | [#LetBawaGo](http://twitter.com/search?q=%23LetBawaGo) | N/A |
-| 9 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 10 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 11 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 12 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 13 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 14 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 15 | [#KanagaJnr](http://twitter.com/search?q=%23KanagaJnr) | N/A |
-| 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 17 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 18 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 19 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
-| 20 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 21 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
-| 22 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
-| 23 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 24 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
-| 25 | [Tomorrow is Monday](http://twitter.com/search?q=Tomorrow+is+Monday) | N/A |
-| 26 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 27 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 28 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
-| 29 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 30 | [Kforce](http://twitter.com/search?q=Kforce) | N/A |
-| 31 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 32 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 33 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
-| 34 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 35 | [POTY](http://twitter.com/search?q=POTY) | N/A |
-| 36 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 37 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 38 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
-| 39 | [Jabi](http://twitter.com/search?q=Jabi) | N/A |
-| 40 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 41 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 42 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
-| 43 | [NDLEA](http://twitter.com/search?q=NDLEA) | N/A |
-| 44 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 45 | [25% in Abuja](http://twitter.com/search?q=25%25+in+Abuja) | N/A |
-| 46 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 47 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
-| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 49 | [No 1](http://twitter.com/search?q=No+1) | N/A |
-| 50 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 1 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 2 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 3 | [#EndBawaReign](http://twitter.com/search?q=%23EndBawaReign) | N/A |
+| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 5 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 6 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 7 | [#EndBawaTenure](http://twitter.com/search?q=%23EndBawaTenure) | N/A |
+| 8 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 9 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
+| 10 | [#GhanavsNigeria](http://twitter.com/search?q=%23GhanavsNigeria) | N/A |
+| 11 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 12 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 13 | [#LetBawaGo](http://twitter.com/search?q=%23LetBawaGo) | N/A |
+| 14 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 15 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 16 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 17 | [Falana](http://twitter.com/search?q=Falana) | N/A |
+| 18 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 19 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 20 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 21 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 22 | [Tomorrow is Monday](http://twitter.com/search?q=Tomorrow+is+Monday) | N/A |
+| 23 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 24 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 25 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 26 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 27 | [Ebubu](http://twitter.com/search?q=Ebubu) | Ebubu is a Nigerian language spoken by the Ebubu people in Rivers State, Nigeria. It is a dialect of the Igbo language and its meaning in English is "people". |
+| 28 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
+| 29 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 30 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 31 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 32 | [Pessi](http://twitter.com/search?q=Pessi) | N/A |
+| 33 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 34 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 35 | [25% in Abuja](http://twitter.com/search?q=25%25+in+Abuja) | N/A |
+| 36 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 37 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 38 | [Kforce](http://twitter.com/search?q=Kforce) | N/A |
+| 39 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 40 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 41 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 42 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 43 | [Jabi](http://twitter.com/search?q=Jabi) | N/A |
+| 44 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 45 | [Ghanaians](http://twitter.com/search?q=Ghanaians) | N/A |
+| 46 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 47 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 48 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
+| 49 | [NDLEA](http://twitter.com/search?q=NDLEA) | N/A |
+| 50 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
 
 
 

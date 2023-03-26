@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-26 21:17:39 UTC`
+📆 Last Updated: `2023-03-26 22:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for Vietnam
 | 18 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
 | 19 | [$MOB Token](http://twitter.com/search?q=%24MOB+Token) | N/A |
 | 20 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 21 | [Nunew](http://twitter.com/search?q=Nunew) | N/A |
+| 21 | [NuNew](http://twitter.com/search?q=NuNew) | N/A |
 | 22 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 | 23 | [Fourth](http://twitter.com/search?q=Fourth) | N/A |
 | 24 | [Black](http://twitter.com/search?q=Black) | N/A |
@@ -46,21 +46,21 @@ This is top 50 for Vietnam
 | 29 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 30 | [chất](http://twitter.com/search?q=ch%e1%ba%a5t) | N/A |
 | 31 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 32 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 33 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 34 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 36 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 37 | [Knives](http://twitter.com/search?q=Knives) | N/A |
-| 38 | [trong](http://twitter.com/search?q=trong) | N/A |
-| 39 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 40 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 41 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 32 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 33 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 35 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 36 | [Knives](http://twitter.com/search?q=Knives) | N/A |
+| 37 | [trong](http://twitter.com/search?q=trong) | N/A |
+| 38 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 39 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 40 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 41 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 42 | [England](http://twitter.com/search?q=England) | N/A |
 | 43 | [GENG](http://twitter.com/search?q=GENG) | N/A |
-| 44 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
+| 44 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 45 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 46 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 46 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
 
 
 

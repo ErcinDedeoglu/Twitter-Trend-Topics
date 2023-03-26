@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-26 21:17:31 UTC`
+📆 Last Updated: `2023-03-26 22:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 2 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 3 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 4 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 5 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 6 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 7 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
-| 8 | [#LaPeñaDeMorfi](http://twitter.com/search?q=%23LaPe%c3%b1aDeMorfi) | N/A |
-| 9 | [Ayrton Costa](http://twitter.com/search?q=Ayrton+Costa) | N/A |
-| 10 | [Malta](http://twitter.com/search?q=Malta) | N/A |
-| 11 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 12 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 13 | [Landa](http://twitter.com/search?q=Landa) | N/A |
-| 14 | [Mateo Retegui](http://twitter.com/search?q=Mateo+Retegui) | N/A |
-| 15 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 16 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
-| 17 | [Chacarita](http://twitter.com/search?q=Chacarita) | N/A |
-| 18 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 19 | [Aldosivi](http://twitter.com/search?q=Aldosivi) | N/A |
-| 20 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 21 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 22 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 23 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 24 | [Chiqui](http://twitter.com/search?q=Chiqui) | N/A |
-| 25 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 26 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
-| 27 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 28 | [Jesica Cirio](http://twitter.com/search?q=Jesica+Cirio) | N/A |
-| 29 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
-| 30 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 31 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 32 | [Ciantini](http://twitter.com/search?q=Ciantini) | N/A |
-| 33 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
-| 34 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 35 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
-| 36 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 37 | [Rozin](http://twitter.com/search?q=Rozin) | N/A |
-| 38 | [Pudiendo](http://twitter.com/search?q=Pudiendo) | N/A |
-| 39 | [Bresh](http://twitter.com/search?q=Bresh) | N/A |
-| 40 | [Menem](http://twitter.com/search?q=Menem) | N/A |
-| 41 | [VOTO MARCOS AL 7020](http://twitter.com/search?q=VOTO+MARCOS+AL+7020) | N/A |
-| 42 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 44 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 45 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 46 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 47 | [Pichetto](http://twitter.com/search?q=Pichetto) | N/A |
-| 48 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 49 | [Majul](http://twitter.com/search?q=Majul) | N/A |
-| 50 | [Iguacel](http://twitter.com/search?q=Iguacel) | N/A |
+| 2 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 3 | [Kevin López](http://twitter.com/search?q=Kevin+L%c3%b3pez) | N/A |
+| 4 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 5 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 6 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 7 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 8 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 9 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 10 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
+| 11 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 12 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
+| 13 | [Ayrton Costa](http://twitter.com/search?q=Ayrton+Costa) | N/A |
+| 14 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 15 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 16 | [Milei](http://twitter.com/search?q=Milei) | N/A |
+| 17 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 18 | [Malta](http://twitter.com/search?q=Malta) | N/A |
+| 19 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 20 | [Mateo Retegui](http://twitter.com/search?q=Mateo+Retegui) | N/A |
+| 21 | [#LaPeñaDeMorfi](http://twitter.com/search?q=%23LaPe%c3%b1aDeMorfi) | N/A |
+| 22 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 23 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 24 | [Chacarita](http://twitter.com/search?q=Chacarita) | N/A |
+| 25 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 26 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 27 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
+| 28 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 29 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
+| 30 | [Aldosivi](http://twitter.com/search?q=Aldosivi) | N/A |
+| 31 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 32 | [Landa](http://twitter.com/search?q=Landa) | N/A |
+| 33 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 34 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 35 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 36 | [Chiqui](http://twitter.com/search?q=Chiqui) | N/A |
+| 37 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 38 | [#PrimeraNacional](http://twitter.com/search?q=%23PrimeraNacional) | N/A |
+| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 40 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
+| 41 | [#FederalA](http://twitter.com/search?q=%23FederalA) | N/A |
+| 42 | [Jesica Cirio](http://twitter.com/search?q=Jesica+Cirio) | N/A |
+| 43 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 44 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
+| 45 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 46 | [Rozin](http://twitter.com/search?q=Rozin) | N/A |
+| 47 | [Ciantini](http://twitter.com/search?q=Ciantini) | N/A |
+| 48 | [Pudiendo](http://twitter.com/search?q=Pudiendo) | N/A |
+| 49 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
+| 50 | [Chevrolet](http://twitter.com/search?q=Chevrolet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-26 21:17:38 UTC`
+📆 Last Updated: `2023-03-26 22:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for Singapore
 | 5 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 6 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 | 7 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 8 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 9 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 10 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 10 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 11 | [Joong](http://twitter.com/search?q=Joong) | N/A |
 | 12 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 13 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
 | 14 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for Singapore
 | 20 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
 | 21 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
 | 22 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 23 | [natsume](http://twitter.com/search?q=natsume) | N/A |
+| 23 | [Natsume](http://twitter.com/search?q=Natsume) | N/A |
 | 24 | [Gong Jun](http://twitter.com/search?q=Gong+Jun) | N/A |
 | 25 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
 | 26 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
@@ -52,14 +52,14 @@ This is top 50 for Singapore
 | 35 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 37 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 38 | [2022 Weibo Night](http://twitter.com/search?q=2022+Weibo+Night) | N/A |
-| 39 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [2022 weibo night](http://twitter.com/search?q=2022+weibo+night) | N/A |
 | 40 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 41 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 42 | [Jail](http://twitter.com/search?q=Jail) | N/A |
-| 43 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
-| 44 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 41 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 42 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 43 | [Jail](http://twitter.com/search?q=Jail) | N/A |
+| 44 | [Sputnik](http://twitter.com/search?q=Sputnik) | N/A |
+| 45 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
 | 46 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
 | 47 | [Becky](http://twitter.com/search?q=Becky) | N/A |
 | 48 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
