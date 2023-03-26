@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-26 16:17:31 UTC`
+📆 Last Updated: `2023-03-26 17:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 2 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 1 | [समाजवादी पार्टी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a6%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 2 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
 | 3 | [#WPLFinal](http://twitter.com/search?q=%23WPLFinal) | N/A |
-| 4 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
-| 5 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
-| 6 | [#SSMB28](http://twitter.com/search?q=%23SSMB28) | N/A |
+| 4 | [#राइट_टू_हेल्थ_संजीवनी_है](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%87%e0%a4%9f_%e0%a4%9f%e0%a5%82_%e0%a4%b9%e0%a5%87%e0%a4%b2%e0%a5%8d%e0%a4%a5_%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
+| 5 | [#SAvWI](http://twitter.com/search?q=%23SAvWI) | N/A |
+| 6 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
 | 7 | [#DCvMI](http://twitter.com/search?q=%23DCvMI) | N/A |
 | 8 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 9 | [Radha Yadav](http://twitter.com/search?q=Radha+Yadav) | N/A |
-| 10 | [BrokerApp Launch Event](http://twitter.com/search?q=BrokerApp+Launch+Event) | N/A |
-| 11 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 12 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 13 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
-| 14 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
-| 15 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 16 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 17 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 18 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 19 | [FARHAD DONT RUIN HERAPHERI](http://twitter.com/search?q=FARHAD+DONT+RUIN+HERAPHERI) | N/A |
-| 20 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
-| 21 | [UMAR X AKASA MV TMRW](http://twitter.com/search?q=UMAR+X+AKASA+MV+TMRW) | N/A |
-| 22 | [Caitlin Parker](http://twitter.com/search?q=Caitlin+Parker) | N/A |
-| 23 | [Nguyen Thi Tam](http://twitter.com/search?q=Nguyen+Thi+Tam) | N/A |
-| 24 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 25 | [VERSATILE GAURAV KHANNA](http://twitter.com/search?q=VERSATILE+GAURAV+KHANNA) | N/A |
-| 26 | [No Ball](http://twitter.com/search?q=No+Ball) | N/A |
-| 27 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 28 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
-| 29 | [RIVETING KV AS SAJID](http://twitter.com/search?q=RIVETING+KV+AS+SAJID) | N/A |
-| 30 | [50 Kg](http://twitter.com/search?q=50+Kg) | N/A |
-| 31 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
-| 32 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 33 | [सुषमा स्वराज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a4%ae%e0%a4%be+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 34 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 35 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
-| 36 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
-| 37 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
-| 38 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 39 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 40 | [NITI AS PRACHI RULING HEARTS](http://twitter.com/search?q=NITI+AS+PRACHI+RULING+HEARTS) | N/A |
-| 41 | [Brahma](http://twitter.com/search?q=Brahma) | N/A |
-| 42 | [STAY BLESSED SUMBUL](http://twitter.com/search?q=STAY+BLESSED+SUMBUL) | N/A |
-| 43 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
-| 44 | [Mass](http://twitter.com/search?q=Mass) | N/A |
-| 45 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 46 | [Pongal](http://twitter.com/search?q=Pongal) | N/A |
-| 47 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 48 | [Sankranti](http://twitter.com/search?q=Sankranti) | N/A |
-| 49 | [#राइट_टू_हेल्थ_संजीवनी_है](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%87%e0%a4%9f_%e0%a4%9f%e0%a5%82_%e0%a4%b9%e0%a5%87%e0%a4%b2%e0%a5%8d%e0%a4%a5_%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
-| 50 | [#MIvsDC](http://twitter.com/search?q=%23MIvsDC) | N/A |
+| 9 | [Shikha P](http://twitter.com/search?q=Shikha+P) | N/A |
+| 10 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 11 | [Harman](http://twitter.com/search?q=Harman) | N/A |
+| 12 | [BrokerApp Launch Event](http://twitter.com/search?q=BrokerApp+Launch+Event) | N/A |
+| 13 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 14 | [Game Changer](http://twitter.com/search?q=Game+Changer) | N/A |
+| 15 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 16 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
+| 17 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
+| 18 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 19 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 20 | [Lisa S](http://twitter.com/search?q=Lisa+S) | N/A |
+| 21 | [Hayley Matthews](http://twitter.com/search?q=Hayley+Matthews) | N/A |
+| 22 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 23 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 24 | [Caitlin Parker](http://twitter.com/search?q=Caitlin+Parker) | N/A |
+| 25 | [UMAR X AKASA MV TMRW](http://twitter.com/search?q=UMAR+X+AKASA+MV+TMRW) | N/A |
+| 26 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 27 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 28 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 29 | [50 Kg](http://twitter.com/search?q=50+Kg) | N/A |
+| 30 | [T20Is](http://twitter.com/search?q=T20Is) | N/A |
+| 31 | [FARHAD DONT RUIN HERAPHERI](http://twitter.com/search?q=FARHAD+DONT+RUIN+HERAPHERI) | N/A |
+| 32 | [निकहत ज़रीन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%95%e0%a4%b9%e0%a4%a4+%e0%a4%9c%e0%a4%bc%e0%a4%b0%e0%a5%80%e0%a4%a8) | N/A |
+| 33 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
+| 34 | [VERSATILE GAURAV KHANNA](http://twitter.com/search?q=VERSATILE+GAURAV+KHANNA) | N/A |
+| 35 | [Goats](http://twitter.com/search?q=Goats) | N/A |
+| 36 | [No Ball](http://twitter.com/search?q=No+Ball) | N/A |
+| 37 | [Ambani](http://twitter.com/search?q=Ambani) | N/A |
+| 38 | [RIVETING KV AS SAJID](http://twitter.com/search?q=RIVETING+KV+AS+SAJID) | N/A |
+| 39 | [सुषमा स्वराज](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b7%e0%a4%ae%e0%a4%be+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 40 | [STAY BLESSED SUMBUL](http://twitter.com/search?q=STAY+BLESSED+SUMBUL) | N/A |
+| 41 | [देवी भागवत](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%ad%e0%a4%be%e0%a4%97%e0%a4%b5%e0%a4%a4) | N/A |
+| 42 | [Nguyen Thi Tam](http://twitter.com/search?q=Nguyen+Thi+Tam) | N/A |
+| 43 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 44 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 45 | [Sushant Butterfly Effect](http://twitter.com/search?q=Sushant+Butterfly+Effect) | N/A |
+| 46 | [पूर्ण परमेश्वर](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 47 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
+| 48 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 49 | [NITI AS PRACHI RULING HEARTS](http://twitter.com/search?q=NITI+AS+PRACHI+RULING+HEARTS) | N/A |
+| 50 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
 
 
 

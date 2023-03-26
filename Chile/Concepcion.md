@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-26 16:17:04 UTC`
+📆 Last Updated: `2023-03-26 17:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,55 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 2 | [#MesaCentral](http://twitter.com/search?q=%23MesaCentral) | N/A |
-| 3 | [#enacional](http://twitter.com/search?q=%23enacional) | N/A |
-| 4 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 5 | [#EstadoNacional](http://twitter.com/search?q=%23EstadoNacional) | N/A |
-| 6 | [#URGENTE](http://twitter.com/search?q=%23URGENTE) | N/A |
-| 7 | [Nain](http://twitter.com/search?q=Nain) | N/A |
+| 2 | [#URGENTE](http://twitter.com/search?q=%23URGENTE) | N/A |
+| 3 | [#MesaCentral](http://twitter.com/search?q=%23MesaCentral) | N/A |
+| 4 | [Nain](http://twitter.com/search?q=Nain) | N/A |
+| 5 | [#estadonacional](http://twitter.com/search?q=%23estadonacional) | N/A |
+| 6 | [#enacional](http://twitter.com/search?q=%23enacional) | N/A |
+| 7 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
 | 8 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
-| 9 | [ASESINATO](http://twitter.com/search?q=ASESINATO) | N/A |
-| 10 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 11 | [Matapacos](http://twitter.com/search?q=Matapacos) | N/A |
-| 12 | [ASESINADA](http://twitter.com/search?q=ASESINADA) | N/A |
-| 13 | [Toha](http://twitter.com/search?q=Toha) | N/A |
-| 14 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
-| 15 | [Sgto](http://twitter.com/search?q=Sgto) | N/A |
-| 16 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
-| 17 | [institución](http://twitter.com/search?q=instituci%c3%b3n) | N/A |
-| 18 | [Basta](http://twitter.com/search?q=Basta) | N/A |
-| 19 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 20 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
-| 21 | [querellas](http://twitter.com/search?q=querellas) | N/A |
-| 22 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
-| 23 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
-| 24 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
-| 25 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
-| 26 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
-| 27 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 28 | [vlado](http://twitter.com/search?q=vlado) | N/A |
-| 29 | [Maldito](http://twitter.com/search?q=Maldito) | N/A |
-| 30 | [Todo Chile](http://twitter.com/search?q=Todo+Chile) | N/A |
-| 31 | [Mirosevic](http://twitter.com/search?q=Mirosevic) | N/A |
-| 32 | [Votaste](http://twitter.com/search?q=Votaste) | N/A |
-| 33 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 34 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
-| 35 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 36 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 37 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 38 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
-| 39 | [#CHVNoticias](http://twitter.com/search?q=%23CHVNoticias) | N/A |
-| 40 | [#QEPD](http://twitter.com/search?q=%23QEPD) | N/A |
-| 41 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 42 | [#ChileEstaDeLuto](http://twitter.com/search?q=%23ChileEstaDeLuto) | N/A |
-| 43 | [#GobiernodeInutiles](http://twitter.com/search?q=%23GobiernodeInutiles) | N/A |
-| 44 | [#BoricNarcoPresidente](http://twitter.com/search?q=%23BoricNarcoPresidente) | N/A |
+| 9 | [Matapacos](http://twitter.com/search?q=Matapacos) | N/A |
+| 10 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
+| 11 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 12 | [Toha](http://twitter.com/search?q=Toha) | N/A |
+| 13 | [ASESINATO](http://twitter.com/search?q=ASESINATO) | N/A |
+| 14 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 15 | [ASESINADA](http://twitter.com/search?q=ASESINADA) | N/A |
+| 16 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 17 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
+| 18 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
+| 19 | [Sgto](http://twitter.com/search?q=Sgto) | N/A |
+| 20 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
+| 21 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 22 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 23 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
+| 24 | [General Director](http://twitter.com/search?q=General+Director) | N/A |
+| 25 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 26 | [Todo Chile](http://twitter.com/search?q=Todo+Chile) | N/A |
+| 27 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
+| 28 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 29 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
+| 30 | [Votaste](http://twitter.com/search?q=Votaste) | N/A |
+| 31 | [Querellas](http://twitter.com/search?q=Querellas) | N/A |
+| 32 | [Sepu](http://twitter.com/search?q=Sepu) | N/A |
+| 33 | [Maldito](http://twitter.com/search?q=Maldito) | N/A |
+| 34 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
+| 35 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
+| 36 | [Coloma](http://twitter.com/search?q=Coloma) | N/A |
+| 37 | [Mirosevic](http://twitter.com/search?q=Mirosevic) | N/A |
+| 38 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 39 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 40 | [Ponte](http://twitter.com/search?q=Ponte) | N/A |
+| 41 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 42 | [#KingsLeagueF4](http://twitter.com/search?q=%23KingsLeagueF4) | N/A |
+| 43 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
+| 44 | [#NiUnaMenos](http://twitter.com/search?q=%23NiUnaMenos) | N/A |
 | 45 | [#BoricUnPeligroparaChile](http://twitter.com/search?q=%23BoricUnPeligroparaChile) | N/A |
-| 46 | [#BoricNoSeLaPuede](http://twitter.com/search?q=%23BoricNoSeLaPuede) | N/A |
+| 46 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 47 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 48 | [#CHVNoticias](http://twitter.com/search?q=%23CHVNoticias) | N/A |
+| 49 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 50 | [#chileestadeluto](http://twitter.com/search?q=%23chileestadeluto) | N/A |
 
 
 

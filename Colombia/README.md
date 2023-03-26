@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-26 16:17:45 UTC`
+📆 Last Updated: `2023-03-26 17:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 2 | [#Supercargado](http://twitter.com/search?q=%23Supercargado) | N/A |
-| 3 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 4 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 5 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 6 | [#IdeasParaLaReformaLaboral](http://twitter.com/search?q=%23IdeasParaLaReformaLaboral) | N/A |
-| 7 | [Los Danieles](http://twitter.com/search?q=Los+Danieles) | N/A |
-| 8 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 9 | [Kazajistán](http://twitter.com/search?q=Kazajist%c3%a1n) | N/A |
-| 10 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 11 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
-| 12 | [Repita](http://twitter.com/search?q=Repita) | N/A |
-| 13 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 14 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
-| 15 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 2 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 4 | [#IdeasParaLaReformaLaboral](http://twitter.com/search?q=%23IdeasParaLaReformaLaboral) | N/A |
+| 5 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 6 | [#Supercargado](http://twitter.com/search?q=%23Supercargado) | N/A |
+| 7 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 8 | [#LosDanieles](http://twitter.com/search?q=%23LosDanieles) | N/A |
+| 9 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 10 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
+| 11 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 12 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 13 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
+| 14 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 15 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
 | 16 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 17 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 18 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 17 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
+| 18 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
 | 19 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
 | 20 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 21 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
-| 22 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 23 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
-| 24 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 21 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 22 | [Repita](http://twitter.com/search?q=Repita) | N/A |
+| 23 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 24 | [Amparo Grisales](http://twitter.com/search?q=Amparo+Grisales) | N/A |
 | 25 | [Jenny Arias](http://twitter.com/search?q=Jenny+Arias) | N/A |
-| 26 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 27 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
-| 28 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
-| 29 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
-| 30 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 31 | [Alci Acosta](http://twitter.com/search?q=Alci+Acosta) | N/A |
-| 32 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
-| 33 | [martin luther king](http://twitter.com/search?q=martin+luther+king) | N/A |
-| 34 | [UN AÑO YULERIA](http://twitter.com/search?q=UN+A%c3%91O+YULERIA) | N/A |
-| 35 | [Castro Devenish](http://twitter.com/search?q=Castro+Devenish) | N/A |
-| 36 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 37 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
-| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 39 | [Kevin Mier](http://twitter.com/search?q=Kevin+Mier) | N/A |
-| 40 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
-| 41 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
-| 42 | [Gilinski](http://twitter.com/search?q=Gilinski) | N/A |
-| 43 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 44 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 45 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
-| 46 | [Angie Valdez](http://twitter.com/search?q=Angie+Valdez) | N/A |
-| 47 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 48 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
-| 49 | [Jefferson Duque](http://twitter.com/search?q=Jefferson+Duque) | N/A |
-| 50 | [Last Concert](http://twitter.com/search?q=Last+Concert) | N/A |
+| 26 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
+| 27 | [Juan Guarnizo](http://twitter.com/search?q=Juan+Guarnizo) | N/A |
+| 28 | [Daniel Torres](http://twitter.com/search?q=Daniel+Torres) | N/A |
+| 29 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 30 | [Elsa Noguera](http://twitter.com/search?q=Elsa+Noguera) | N/A |
+| 31 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
+| 32 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 33 | [UN AÑO YULERIA](http://twitter.com/search?q=UN+A%c3%91O+YULERIA) | N/A |
+| 34 | [Alci Acosta](http://twitter.com/search?q=Alci+Acosta) | N/A |
+| 35 | [Manuel Marulanda Vélez](http://twitter.com/search?q=Manuel+Marulanda+V%c3%a9lez) | N/A |
+| 36 | [Castro Devenish](http://twitter.com/search?q=Castro+Devenish) | N/A |
+| 37 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 38 | [Martin Luther King](http://twitter.com/search?q=Martin+Luther+King) | Martin Luther King, Jr. (1929-1968) was an American civil rights leader who advocated for the rights of African Americans and other minority groups. He is best known for his role in the civil rights movement, including his famous "I Have a Dream" speech, which he delivered in 1963 at the March on Washington. He was awarded the Nobel Peace Prize in 1964 for his nonviolent resistance to racial prejudice and segregation. His legacy continues to inspire people around the world to fight for justice and equality. |
+| 39 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
+| 40 | [Kevin Mier](http://twitter.com/search?q=Kevin+Mier) | N/A |
+| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 42 | [Chipi Chipi](http://twitter.com/search?q=Chipi+Chipi) | N/A |
+| 43 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
+| 44 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 45 | [Estéreo Picnic](http://twitter.com/search?q=Est%c3%a9reo+Picnic) | N/A |
+| 46 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 47 | [Fondo Monetario Internacional](http://twitter.com/search?q=Fondo+Monetario+Internacional) | N/A |
+| 48 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
+| 49 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 50 | [Xavier López](http://twitter.com/search?q=Xavier+L%c3%b3pez) | N/A |
 
 
 

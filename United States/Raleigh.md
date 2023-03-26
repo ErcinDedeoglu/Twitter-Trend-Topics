@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-26 16:17:41 UTC`
+📆 Last Updated: `2023-03-26 17:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#sundaymorning](http://twitter.com/search?q=%23sundaymorning) | N/A |
-| 2 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 3 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 4 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
-| 5 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
-| 6 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 7 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 8 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
-| 9 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
-| 10 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
-| 11 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
-| 12 | [Tim Mara](http://twitter.com/search?q=Tim+Mara) | N/A |
-| 13 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 14 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 15 | [Digital Blackface](http://twitter.com/search?q=Digital+Blackface) | N/A |
-| 16 | [Durbin](http://twitter.com/search?q=Durbin) | N/A |
-| 17 | [Val Ness](http://twitter.com/search?q=Val+Ness) | N/A |
-| 18 | [George Preston Marshall](http://twitter.com/search?q=George+Preston+Marshall) | N/A |
-| 19 | [Curly Lambeau](http://twitter.com/search?q=Curly+Lambeau) | N/A |
-| 20 | [HAPPY BIRTHDAY LISA](http://twitter.com/search?q=HAPPY+BIRTHDAY+LISA) | N/A |
-| 21 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
-| 22 | [Troup County](http://twitter.com/search?q=Troup+County) | N/A |
-| 23 | [Studies](http://twitter.com/search?q=Studies) | N/A |
-| 24 | [Happy Birthday Paige](http://twitter.com/search?q=Happy+Birthday+Paige) | N/A |
-| 25 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
-| 26 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 27 | [Every Sunday](http://twitter.com/search?q=Every+Sunday) | N/A |
-| 28 | [David Jones](http://twitter.com/search?q=David+Jones) | N/A |
-| 29 | [Karl Rove](http://twitter.com/search?q=Karl+Rove) | N/A |
-| 30 | [Meet the Press](http://twitter.com/search?q=Meet+the+Press) | N/A |
-| 31 | [Championship Sunday](http://twitter.com/search?q=Championship+Sunday) | Championship Sunday is the day of the year when the championship games of professional sports leagues are played. It is usually the last day of the season and is a highly anticipated event for fans of the sport. The term is most commonly used in American football, but can also refer to other sports such as basketball, baseball, and hockey. |
-| 32 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 33 | [Congrats Jack](http://twitter.com/search?q=Congrats+Jack) | N/A |
-| 34 | [Player of the Matchday](http://twitter.com/search?q=Player+of+the+Matchday) | N/A |
-| 35 | [Leonard Nimoy](http://twitter.com/search?q=Leonard+Nimoy) | N/A |
-| 36 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
-| 37 | [On a Sunday](http://twitter.com/search?q=On+a+Sunday) | N/A |
-| 38 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
-| 39 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
-| 40 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 41 | [Scrambled](http://twitter.com/search?q=Scrambled) | N/A |
-| 42 | [Diana Ross](http://twitter.com/search?q=Diana+Ross) | N/A |
-| 43 | [Scottie Scheffler](http://twitter.com/search?q=Scottie+Scheffler) | N/A |
-| 44 | [Steven Tyler](http://twitter.com/search?q=Steven+Tyler) | N/A |
-| 45 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 46 | [Darren](http://twitter.com/search?q=Darren) | N/A |
-| 47 | [Beyond the Lights](http://twitter.com/search?q=Beyond+the+Lights) | N/A |
-| 48 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 49 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
+| 1 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 2 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 3 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 4 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 6 | [#AirMaxDay](http://twitter.com/search?q=%23AirMaxDay) | N/A |
+| 7 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 8 | [John Blake](http://twitter.com/search?q=John+Blake) | N/A |
+| 9 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 10 | [Chuck Todd](http://twitter.com/search?q=Chuck+Todd) | Chuck Todd is an American television journalist and the current moderator of NBC's Meet the Press. He is also the political director for NBC News. |
+| 11 | [LASIK](http://twitter.com/search?q=LASIK) | N/A |
+| 12 | [George Halas](http://twitter.com/search?q=George+Halas) | N/A |
+| 13 | [Creighton -2.5](http://twitter.com/search?q=Creighton+-2.5) | N/A |
+| 14 | [Tim Mara](http://twitter.com/search?q=Tim+Mara) | N/A |
+| 15 | [Studies](http://twitter.com/search?q=Studies) | N/A |
+| 16 | [Digital Blackface](http://twitter.com/search?q=Digital+Blackface) | N/A |
+| 17 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 18 | [Congratulations Leah](http://twitter.com/search?q=Congratulations+Leah) | N/A |
+| 19 | [Art Rooney](http://twitter.com/search?q=Art+Rooney) | N/A |
+| 20 | [Val Ness](http://twitter.com/search?q=Val+Ness) | N/A |
+| 21 | [Curly Lambeau](http://twitter.com/search?q=Curly+Lambeau) | N/A |
+| 22 | [George Preston Marshall](http://twitter.com/search?q=George+Preston+Marshall) | N/A |
+| 23 | [Joe Carr](http://twitter.com/search?q=Joe+Carr) | N/A |
+| 24 | [Zacian](http://twitter.com/search?q=Zacian) | N/A |
+| 25 | [Jack Depler](http://twitter.com/search?q=Jack+Depler) | N/A |
+| 26 | [Paul Brown](http://twitter.com/search?q=Paul+Brown) | N/A |
+| 27 | [Dan Blaine](http://twitter.com/search?q=Dan+Blaine) | N/A |
+| 28 | [On A Night Like Tonight](http://twitter.com/search?q=On+A+Night+Like+Tonight) | N/A |
+| 29 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 30 | [Durbin](http://twitter.com/search?q=Durbin) | N/A |
+| 31 | [Art Modell](http://twitter.com/search?q=Art+Modell) | N/A |
+| 32 | [David Jones](http://twitter.com/search?q=David+Jones) | N/A |
+| 33 | [Bobby Bonilla](http://twitter.com/search?q=Bobby+Bonilla) | N/A |
+| 34 | [James Dooley](http://twitter.com/search?q=James+Dooley) | N/A |
+| 35 | [Tacopina](http://twitter.com/search?q=Tacopina) | N/A |
+| 36 | [Charles Coppen](http://twitter.com/search?q=Charles+Coppen) | N/A |
+| 37 | [Peter Laudati](http://twitter.com/search?q=Peter+Laudati) | N/A |
+| 38 | [On a Sunday](http://twitter.com/search?q=On+a+Sunday) | N/A |
+| 39 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 40 | [Lazy Sunday](http://twitter.com/search?q=Lazy+Sunday) | N/A |
+| 41 | [Happy Birthday Paige](http://twitter.com/search?q=Happy+Birthday+Paige) | N/A |
+| 42 | [Bill Dwyer](http://twitter.com/search?q=Bill+Dwyer) | N/A |
+| 43 | [HAPPY BIRTHDAY LISA](http://twitter.com/search?q=HAPPY+BIRTHDAY+LISA) | N/A |
+| 44 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
+| 45 | [Tapper](http://twitter.com/search?q=Tapper) | N/A |
+| 46 | [Karl Rove](http://twitter.com/search?q=Karl+Rove) | N/A |
+| 47 | [Steven Tyler](http://twitter.com/search?q=Steven+Tyler) | N/A |
+| 48 | [Daily Quordle 426](http://twitter.com/search?q=Daily+Quordle+426) | N/A |
+| 49 | [Troup County](http://twitter.com/search?q=Troup+County) | N/A |
 
 
 

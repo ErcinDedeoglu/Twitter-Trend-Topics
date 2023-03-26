@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-26 16:17:13 UTC`
+📆 Last Updated: `2023-03-26 17:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,44 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 1 | [#IvanoMarescotti](http://twitter.com/search?q=%23IvanoMarescotti) | N/A |
 | 2 | [#Marquez](http://twitter.com/search?q=%23Marquez) | N/A |
-| 3 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
-| 4 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 5 | [Grazia](http://twitter.com/search?q=Grazia) | N/A |
+| 3 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 4 | [#MotoGP](http://twitter.com/search?q=%23MotoGP) | N/A |
+| 5 | [#brunettafuori](http://twitter.com/search?q=%23brunettafuori) | N/A |
 | 6 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
-| 7 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 8 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 9 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 10 | [Valentino](http://twitter.com/search?q=Valentino) | Valentino is a popular Italian fashion house founded in 1960 by Valentino Garavani. The brand is known for its glamorous and sophisticated designs, which often feature intricate embroidery and beading. The name Valentino is derived from the Latin word valens, meaning “strong” or “powerful”. |
-| 11 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 12 | [Pecco](http://twitter.com/search?q=Pecco) | N/A |
-| 13 | [Malta](http://twitter.com/search?q=Malta) | N/A |
-| 14 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 15 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 16 | [Honda](http://twitter.com/search?q=Honda) | Honda is a Japanese multinational corporation primarily known for manufacturing automobiles and motorcycles. The word Honda is derived from the name of its founder, Soichiro Honda. In English, Honda means “original field” or “original source”. |
-| 17 | [turone](http://twitter.com/search?q=turone) | N/A |
+| 7 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 8 | [Grazia](http://twitter.com/search?q=Grazia) | N/A |
+| 9 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 10 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 11 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 12 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
+| 13 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 14 | [Valentino](http://twitter.com/search?q=Valentino) | Valentino is a popular Italian fashion house founded in 1960 by Valentino Garavani. The brand is known for its glamorous and sophisticated designs, which often feature intricate embroidery and beading. The name Valentino is derived from the Latin word valens, meaning “strong” or “powerful”. |
+| 15 | [Malta](http://twitter.com/search?q=Malta) | N/A |
+| 16 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 17 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
 | 18 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
-| 19 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 20 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 21 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 22 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
-| 23 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
-| 24 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 25 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 26 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 27 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
-| 28 | [#eurosportciclismo](http://twitter.com/search?q=%23eurosportciclismo) | N/A |
-| 29 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
-| 30 | [#Bagnaia](http://twitter.com/search?q=%23Bagnaia) | N/A |
-| 31 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
-| 32 | [#mezzorainpiù](http://twitter.com/search?q=%23mezzorainpi%c3%b9) | N/A |
-| 33 | [#portimaogp](http://twitter.com/search?q=%23portimaogp) | N/A |
-| 34 | [#26marzo](http://twitter.com/search?q=%2326marzo) | N/A |
-| 35 | [#Ducati](http://twitter.com/search?q=%23Ducati) | N/A |
-| 36 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
-| 37 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 38 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 39 | [#RosaRosae](http://twitter.com/search?q=%23RosaRosae) | N/A |
+| 19 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 20 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
+| 21 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 22 | [#PortugueseGP](http://twitter.com/search?q=%23PortugueseGP) | N/A |
+| 23 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 24 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 25 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 26 | [#Piantedosi](http://twitter.com/search?q=%23Piantedosi) | N/A |
+| 27 | [#Verissimo](http://twitter.com/search?q=%23Verissimo) | N/A |
+| 28 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
+| 29 | [#PortimaoGP](http://twitter.com/search?q=%23PortimaoGP) | N/A |
+| 30 | [#eurosportciclismo](http://twitter.com/search?q=%23eurosportciclismo) | N/A |
+| 31 | [#Bagnaia](http://twitter.com/search?q=%23Bagnaia) | N/A |
+| 32 | [#Ducati](http://twitter.com/search?q=%23Ducati) | N/A |
+| 33 | [#26marzo](http://twitter.com/search?q=%2326marzo) | N/A |
+| 34 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 35 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
+| 36 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 37 | [#Zaniolo](http://twitter.com/search?q=%23Zaniolo) | N/A |
+| 38 | [#RosaRosae](http://twitter.com/search?q=%23RosaRosae) | N/A |
 
 
 

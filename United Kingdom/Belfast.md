@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-26 16:17:01 UTC`
+📆 Last Updated: `2023-03-26 17:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
-| 2 | [#boatrace](http://twitter.com/search?q=%23boatrace) | N/A |
-| 3 | [#SWFC](http://twitter.com/search?q=%23SWFC) | N/A |
-| 4 | [#JDxAirMaxDay](http://twitter.com/search?q=%23JDxAirMaxDay) | N/A |
-| 5 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 6 | [Marley](http://twitter.com/search?q=Marley) | N/A |
-| 7 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 8 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
-| 9 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 10 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 11 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 12 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
-| 13 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 14 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
-| 15 | [Big Dunc](http://twitter.com/search?q=Big+Dunc) | N/A |
-| 16 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
-| 17 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
-| 18 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
-| 19 | [Joe Cole](http://twitter.com/search?q=Joe+Cole) | N/A |
-| 20 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 21 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
-| 22 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 23 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
-| 24 | [Madders](http://twitter.com/search?q=Madders) | N/A |
-| 25 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 26 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
-| 27 | [Crisps](http://twitter.com/search?q=Crisps) | N/A |
-| 28 | [Phil Foden](http://twitter.com/search?q=Phil+Foden) | N/A |
-| 29 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 30 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 31 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 32 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 33 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
-| 34 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 35 | [Darren Moore](http://twitter.com/search?q=Darren+Moore) | N/A |
-| 36 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 37 | [bannan](http://twitter.com/search?q=bannan) | N/A |
-| 38 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 39 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
-| 40 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
-| 41 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
-| 42 | [David Lammy](http://twitter.com/search?q=David+Lammy) | N/A |
-| 43 | [Van Persie](http://twitter.com/search?q=Van+Persie) | N/A |
-| 44 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 45 | [Hutton](http://twitter.com/search?q=Hutton) | N/A |
-| 46 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 47 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
-| 48 | [Racecourse](http://twitter.com/search?q=Racecourse) | N/A |
+| 1 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 2 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
+| 3 | [#boatrace](http://twitter.com/search?q=%23boatrace) | N/A |
+| 4 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 5 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 6 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 7 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 8 | [Matt Bianco](http://twitter.com/search?q=Matt+Bianco) | N/A |
+| 9 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 10 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 11 | [#JDxAirMaxDay](http://twitter.com/search?q=%23JDxAirMaxDay) | N/A |
+| 12 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 13 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 14 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
+| 15 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 16 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 17 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 18 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
+| 19 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 20 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 21 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 22 | [Big Dunc](http://twitter.com/search?q=Big+Dunc) | N/A |
+| 23 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 24 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
+| 25 | [Keighley](http://twitter.com/search?q=Keighley) | N/A |
+| 26 | [Issy Wong](http://twitter.com/search?q=Issy+Wong) | N/A |
+| 27 | [Joe Cole](http://twitter.com/search?q=Joe+Cole) | N/A |
+| 28 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
+| 29 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 30 | [Madders](http://twitter.com/search?q=Madders) | N/A |
+| 31 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 32 | [Jill Scott](http://twitter.com/search?q=Jill+Scott) | N/A |
+| 33 | [Hojlund](http://twitter.com/search?q=Hojlund) | N/A |
+| 34 | [Crisps](http://twitter.com/search?q=Crisps) | N/A |
+| 35 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
+| 36 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
+| 37 | [World Class](http://twitter.com/search?q=World+Class) | N/A |
+| 38 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 39 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 40 | [Oxbridge](http://twitter.com/search?q=Oxbridge) | N/A |
+| 41 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 42 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 43 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 44 | [Darren Moore](http://twitter.com/search?q=Darren+Moore) | N/A |
+| 45 | [Vaulks](http://twitter.com/search?q=Vaulks) | N/A |
+| 46 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 47 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 48 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
 
 
 

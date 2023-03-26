@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-26 16:17:17 UTC`
+📆 Last Updated: `2023-03-26 17:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 2 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
-| 3 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 4 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
-| 5 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 2 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 3 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 4 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
+| 5 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
 | 6 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
-| 7 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
-| 8 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 9 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 10 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 11 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 7 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 8 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
+| 9 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 10 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 11 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
 | 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 13 | [Pekerjaan](http://twitter.com/search?q=Pekerjaan) | N/A |
-| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 15 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 16 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 17 | [Impian](http://twitter.com/search?q=Impian) | N/A |
-| 18 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 19 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 20 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 21 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 22 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
-| 23 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 24 | [Goyong](http://twitter.com/search?q=Goyong) | N/A |
-| 25 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 26 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 27 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
-| 28 | [INTM](http://twitter.com/search?q=INTM) | N/A |
+| 14 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 15 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
+| 16 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 18 | [Impian](http://twitter.com/search?q=Impian) | N/A |
+| 19 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 20 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 21 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 22 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 23 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
+| 24 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 25 | [Goyong](http://twitter.com/search?q=Goyong) | N/A |
+| 26 | [Brightwin](http://twitter.com/search?q=Brightwin) | N/A |
+| 27 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 28 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
 | 29 | [Sumenep](http://twitter.com/search?q=Sumenep) | N/A |
-| 30 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 31 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
-| 32 | [Askara](http://twitter.com/search?q=Askara) | N/A |
-| 33 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 34 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 35 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 36 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 37 | [Pecco](http://twitter.com/search?q=Pecco) | N/A |
-| 38 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 30 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
+| 31 | [Askara](http://twitter.com/search?q=Askara) | N/A |
+| 32 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 33 | [INTM](http://twitter.com/search?q=INTM) | N/A |
+| 34 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 35 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
+| 36 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 37 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
+| 38 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
 | 39 | [Buya Hamka](http://twitter.com/search?q=Buya+Hamka) | N/A |
-| 40 | [Ducati](http://twitter.com/search?q=Ducati) | N/A |
-| 41 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 42 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
-| 43 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 44 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 45 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 46 | [Risol](http://twitter.com/search?q=Risol) | N/A |
-| 47 | [Gorengan](http://twitter.com/search?q=Gorengan) | N/A |
-| 48 | [#TREASURE_Here_I_Stand](http://twitter.com/search?q=%23TREASURE_Here_I_Stand) | N/A |
-| 49 | [#Here_I_Stand_D2](http://twitter.com/search?q=%23Here_I_Stand_D2) | N/A |
+| 40 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 41 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
+| 42 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 43 | [#TREASURE_Here_I_Stand](http://twitter.com/search?q=%23TREASURE_Here_I_Stand) | N/A |
+| 44 | [#Here_I_Stand_D2](http://twitter.com/search?q=%23Here_I_Stand_D2) | N/A |
+| 45 | [#SoloistJISOOin4Days](http://twitter.com/search?q=%23SoloistJISOOin4Days) | N/A |
+| 46 | [#IVE_KITSCH_MV_TEASER](http://twitter.com/search?q=%23IVE_KITSCH_MV_TEASER) | N/A |
+| 47 | [#아이브_첫_티저](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%b8%8c_%ec%b2%ab_%ed%8b%b0%ec%a0%80) | N/A |
+| 48 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 49 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 
 
 

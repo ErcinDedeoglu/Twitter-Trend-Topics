@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-26 16:17:07 UTC`
+📆 Last Updated: `2023-03-26 17:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Natal](http://twitter.com/search?q=Natal) | Natal is a Portuguese word meaning "birth". It is often used to refer to the place of one's birth, or the celebration of one's birth. |
-| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 3 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 4 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 2 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
+| 3 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 4 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
 | 5 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 6 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 7 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 8 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 9 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
-| 10 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 11 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 12 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
-| 13 | [Cazaquistão](http://twitter.com/search?q=Cazaquist%c3%a3o) | N/A |
-| 14 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 6 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 7 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 8 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
+| 9 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 10 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 11 | [#goLOS](http://twitter.com/search?q=%23goLOS) | N/A |
+| 12 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 13 | [andrew garfield](http://twitter.com/search?q=andrew+garfield) | N/A |
+| 14 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
 | 15 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 16 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
+| 16 | [Cazaquistão](http://twitter.com/search?q=Cazaquist%c3%a3o) | N/A |
 | 17 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
-| 18 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
-| 19 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 20 | [FAITH IN THE FUTURE](http://twitter.com/search?q=FAITH+IN+THE+FUTURE) | N/A |
-| 21 | [Del Rey](http://twitter.com/search?q=Del+Rey) | N/A |
-| 22 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
-| 23 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 18 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 19 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 20 | [Del Rey](http://twitter.com/search?q=Del+Rey) | N/A |
+| 21 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 22 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 23 | [NO DIA](http://twitter.com/search?q=NO+DIA) | N/A |
 | 24 | [Kit Connor](http://twitter.com/search?q=Kit+Connor) | N/A |
-| 25 | [ELE NÃO VEM MAIS](http://twitter.com/search?q=ELE+N%c3%83O+VEM+MAIS) | N/A |
-| 26 | [Andrew Garfield](http://twitter.com/search?q=Andrew+Garfield) | Andrew Garfield is an English actor. He is best known for his roles in films such as The Social Network, The Amazing Spider-Man, and Hacksaw Ridge. |
-| 27 | [pusha t](http://twitter.com/search?q=pusha+t) | N/A |
-| 28 | [STJD](http://twitter.com/search?q=STJD) | N/A |
-| 29 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 30 | [7 Belo](http://twitter.com/search?q=7+Belo) | N/A |
-| 31 | [Fred e Black](http://twitter.com/search?q=Fred+e+Black) | N/A |
-| 32 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
-| 33 | [nick nelson](http://twitter.com/search?q=nick+nelson) | N/A |
-| 34 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 35 | [Xena](http://twitter.com/search?q=Xena) | N/A |
-| 36 | [Cancelou](http://twitter.com/search?q=Cancelou) | N/A |
-| 37 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
-| 38 | [Bom Domingo](http://twitter.com/search?q=Bom+Domingo) | N/A |
-| 39 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 40 | [Headliner](http://twitter.com/search?q=Headliner) | N/A |
-| 41 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 42 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 43 | [Naldo Benny](http://twitter.com/search?q=Naldo+Benny) | N/A |
-| 44 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 45 | [COWBOY LIKE ME](http://twitter.com/search?q=COWBOY+LIKE+ME) | N/A |
-| 46 | [Jota Quest](http://twitter.com/search?q=Jota+Quest) | N/A |
-| 47 | [LULA TEM RAZÃO](http://twitter.com/search?q=LULA+TEM+RAZ%c3%83O) | N/A |
-| 48 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
-| 49 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
-| 50 | [Dia de Inter](http://twitter.com/search?q=Dia+de+Inter) | N/A |
+| 25 | [FAITH IN THE FUTURE](http://twitter.com/search?q=FAITH+IN+THE+FUTURE) | N/A |
+| 26 | [#DomingoLegal](http://twitter.com/search?q=%23DomingoLegal) | N/A |
+| 27 | [Rock in Rio](http://twitter.com/search?q=Rock+in+Rio) | N/A |
+| 28 | [ELE NÃO VEM MAIS](http://twitter.com/search?q=ELE+N%c3%83O+VEM+MAIS) | N/A |
+| 29 | [FECHADOS COM DOMI](http://twitter.com/search?q=FECHADOS+COM+DOMI) | N/A |
+| 30 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
+| 31 | [Los Grandes](http://twitter.com/search?q=Los+Grandes) | N/A |
+| 32 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 33 | [STJD](http://twitter.com/search?q=STJD) | N/A |
+| 34 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 35 | [Cancelou](http://twitter.com/search?q=Cancelou) | N/A |
+| 36 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 37 | [Pusha T](http://twitter.com/search?q=Pusha+T) | N/A |
+| 38 | [Joong](http://twitter.com/search?q=Joong) | N/A |
+| 39 | [Fred e Black](http://twitter.com/search?q=Fred+e+Black) | N/A |
+| 40 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 41 | [7 Belo](http://twitter.com/search?q=7+Belo) | N/A |
+| 42 | [Ranger](http://twitter.com/search?q=Ranger) | N/A |
+| 43 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 44 | [Peter Parker](http://twitter.com/search?q=Peter+Parker) | N/A |
+| 45 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 46 | [Xena](http://twitter.com/search?q=Xena) | N/A |
+| 47 | [RexPa](http://twitter.com/search?q=RexPa) | N/A |
+| 48 | [Mentos](http://twitter.com/search?q=Mentos) | N/A |
+| 49 | [nick nelson](http://twitter.com/search?q=nick+nelson) | N/A |
+| 50 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 
 
 

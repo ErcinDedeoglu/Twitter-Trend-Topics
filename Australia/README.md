@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-26 16:17:44 UTC`
+📆 Last Updated: `2023-03-26 17:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,20 +35,20 @@ This is top 50 for Australia
 | 18 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
 | 19 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 20 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 21 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 22 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 23 | [gutho](http://twitter.com/search?q=gutho) | N/A |
-| 24 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
-| 25 | [Royston](http://twitter.com/search?q=Royston) | N/A |
+| 21 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 22 | [gutho](http://twitter.com/search?q=gutho) | N/A |
+| 23 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
+| 24 | [Royston](http://twitter.com/search?q=Royston) | N/A |
+| 25 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
 | 26 | [Langford](http://twitter.com/search?q=Langford) | N/A |
 | 27 | [Steele](http://twitter.com/search?q=Steele) | N/A |
 | 28 | [Antony Green](http://twitter.com/search?q=Antony+Green) | N/A |
-| 29 | [nicho hynes](http://twitter.com/search?q=nicho+hynes) | N/A |
+| 29 | [Nicho Hynes](http://twitter.com/search?q=Nicho+Hynes) | N/A |
 | 30 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 31 | [tassie](http://twitter.com/search?q=tassie) | N/A |
-| 32 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
-| 33 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
-| 34 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 31 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 32 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
+| 33 | [One Nation](http://twitter.com/search?q=One+Nation) | N/A |
+| 34 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
 | 35 | [icac](http://twitter.com/search?q=icac) | N/A |
 | 36 | [Vixens](http://twitter.com/search?q=Vixens) | N/A |
 | 37 | [Simon](http://twitter.com/search?q=Simon) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Australia
 | 39 | [Setterfield](http://twitter.com/search?q=Setterfield) | N/A |
 | 40 | [Bevo](http://twitter.com/search?q=Bevo) | N/A |
 | 41 | [Broad](http://twitter.com/search?q=Broad) | N/A |
-| 42 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 43 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 44 | [John Howard](http://twitter.com/search?q=John+Howard) | N/A |
-| 45 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 46 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 42 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 43 | [John Howard](http://twitter.com/search?q=John+Howard) | N/A |
+| 44 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 45 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 46 | [Nats](http://twitter.com/search?q=Nats) | N/A |
 | 47 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 48 | [father bob](http://twitter.com/search?q=father+bob) | N/A |
-| 49 | [Credlin](http://twitter.com/search?q=Credlin) | N/A |
-| 50 | [Sloan](http://twitter.com/search?q=Sloan) | N/A |
+| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 49 | [father bob](http://twitter.com/search?q=father+bob) | N/A |
+| 50 | [Credlin](http://twitter.com/search?q=Credlin) | N/A |
 
 
 
