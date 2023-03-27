@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-27 02:31:11 UTC`
+📆 Last Updated: `2023-03-27 03:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,35 +17,35 @@ This is top 50 for [Norway](</Norway>)
 | ------- | ------------ | ------------ |
 | 1 | [bjørkan](http://twitter.com/search?q=bj%c3%b8rkan) | N/A |
 | 2 | [spania](http://twitter.com/search?q=spania) | N/A |
-| 3 | [Sørloth](http://twitter.com/search?q=S%c3%b8rloth) | N/A |
+| 3 | [sørloth](http://twitter.com/search?q=s%c3%b8rloth) | N/A |
 | 4 | [#spanor](http://twitter.com/search?q=%23spanor) | N/A |
 | 5 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 | 6 | [aursnes](http://twitter.com/search?q=aursnes) | N/A |
 | 7 | [sander berge](http://twitter.com/search?q=sander+berge) | N/A |
-| 8 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 9 | [#ESPNOR](http://twitter.com/search?q=%23ESPNOR) | N/A |
-| 10 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 11 | [solbakken](http://twitter.com/search?q=solbakken) | N/A |
-| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 14 | [hødd](http://twitter.com/search?q=h%c3%b8dd) | N/A |
-| 15 | [skottland](http://twitter.com/search?q=skottland) | N/A |
-| 16 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 17 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 18 | [nyland](http://twitter.com/search?q=nyland) | N/A |
-| 19 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
-| 20 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 21 | [ullevål](http://twitter.com/search?q=ullev%c3%a5l) | N/A |
-| 22 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
-| 23 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 24 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 25 | [koteng arena](http://twitter.com/search?q=koteng+arena) | N/A |
-| 26 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 8 | [#ESPNOR](http://twitter.com/search?q=%23ESPNOR) | N/A |
+| 9 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 10 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
+| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 13 | [hødd](http://twitter.com/search?q=h%c3%b8dd) | N/A |
+| 14 | [skottland](http://twitter.com/search?q=skottland) | N/A |
+| 15 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 16 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 17 | [nyland](http://twitter.com/search?q=nyland) | N/A |
+| 18 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
+| 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 20 | [ullevål](http://twitter.com/search?q=ullev%c3%a5l) | N/A |
+| 21 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
+| 22 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 23 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 24 | [koteng arena](http://twitter.com/search?q=koteng+arena) | N/A |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 28 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
 | 29 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
 | 30 | [ryerson](http://twitter.com/search?q=ryerson) | N/A |
-| 31 | [Nusa](http://twitter.com/search?q=Nusa) | N/A |
+| 31 | [nusa](http://twitter.com/search?q=nusa) | N/A |
 | 32 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
 | 33 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 | 34 | [jordal](http://twitter.com/search?q=jordal) | N/A |

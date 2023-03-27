@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-27 02:31:11 UTC`
+📆 Last Updated: `2023-03-27 03:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,18 +17,18 @@ This is top 50 for [Sweden](</Sweden>)
 | ------- | ------------ | ------------ |
 | 1 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
 | 2 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
-| 3 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 4 | [kazakstan](http://twitter.com/search?q=kazakstan) | N/A |
-| 5 | [Hanif](http://twitter.com/search?q=Hanif) | N/A |
-| 6 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 3 | [kazakstan](http://twitter.com/search?q=kazakstan) | N/A |
+| 4 | [Hanif](http://twitter.com/search?q=Hanif) | N/A |
+| 5 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 7 | [lennström](http://twitter.com/search?q=lennstr%c3%b6m) | N/A |
 | 8 | [blomqvist](http://twitter.com/search?q=blomqvist) | N/A |
-| 9 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 10 | [växjö](http://twitter.com/search?q=v%c3%a4xj%c3%b6) | N/A |
-| 11 | [kalvå](http://twitter.com/search?q=kalv%c3%a5) | N/A |
-| 12 | [Svff](http://twitter.com/search?q=Svff) | N/A |
-| 13 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
-| 14 | [sanny](http://twitter.com/search?q=sanny) | N/A |
+| 9 | [växjö](http://twitter.com/search?q=v%c3%a4xj%c3%b6) | N/A |
+| 10 | [kalvå](http://twitter.com/search?q=kalv%c3%a5) | N/A |
+| 11 | [Svff](http://twitter.com/search?q=Svff) | N/A |
+| 12 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
+| 13 | [sanny](http://twitter.com/search?q=sanny) | N/A |
+| 14 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 15 | [borgman](http://twitter.com/search?q=borgman) | N/A |
 | 16 | [Malte](http://twitter.com/search?q=Malte) | N/A |
 | 17 | [#moraik](http://twitter.com/search?q=%23moraik) | N/A |
@@ -38,30 +38,30 @@ This is top 50 for [Sweden](</Sweden>)
 | 21 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 | 22 | [fas 3](http://twitter.com/search?q=fas+3) | N/A |
 | 23 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
-| 24 | [markus allard](http://twitter.com/search?q=markus+allard) | N/A |
-| 25 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 26 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 27 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
-| 28 | [nybro](http://twitter.com/search?q=nybro) | N/A |
-| 29 | [bollnäs](http://twitter.com/search?q=bolln%c3%a4s) | N/A |
-| 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 31 | [bromé](http://twitter.com/search?q=brom%c3%a9) | N/A |
-| 32 | [proletären](http://twitter.com/search?q=prolet%c3%a4ren) | N/A |
-| 33 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
-| 34 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
-| 35 | [Modo](http://twitter.com/search?q=Modo) | N/A |
-| 36 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 37 | [mariestad](http://twitter.com/search?q=mariestad) | N/A |
-| 38 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 39 | [norin](http://twitter.com/search?q=norin) | N/A |
-| 40 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 41 | [vitryssland](http://twitter.com/search?q=vitryssland) | N/A |
-| 42 | [jörgen jönsson](http://twitter.com/search?q=j%c3%b6rgen+j%c3%b6nsson) | N/A |
-| 43 | [luleå hockey](http://twitter.com/search?q=lule%c3%a5+hockey) | N/A |
-| 44 | [högskoleprovet](http://twitter.com/search?q=h%c3%b6gskoleprovet) | N/A |
-| 45 | [moa ilar](http://twitter.com/search?q=moa+ilar) | N/A |
-| 46 | [Harald](http://twitter.com/search?q=Harald) | N/A |
-| 47 | [Janne](http://twitter.com/search?q=Janne) | N/A |
+| 24 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 25 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 26 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
+| 27 | [nybro](http://twitter.com/search?q=nybro) | N/A |
+| 28 | [bollnäs](http://twitter.com/search?q=bolln%c3%a4s) | N/A |
+| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 30 | [bromé](http://twitter.com/search?q=brom%c3%a9) | N/A |
+| 31 | [proletären](http://twitter.com/search?q=prolet%c3%a4ren) | N/A |
+| 32 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
+| 33 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
+| 34 | [Modo](http://twitter.com/search?q=Modo) | N/A |
+| 35 | [mariestad](http://twitter.com/search?q=mariestad) | N/A |
+| 36 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 37 | [norin](http://twitter.com/search?q=norin) | N/A |
+| 38 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 39 | [vitryssland](http://twitter.com/search?q=vitryssland) | N/A |
+| 40 | [jörgen jönsson](http://twitter.com/search?q=j%c3%b6rgen+j%c3%b6nsson) | N/A |
+| 41 | [Markus Allard](http://twitter.com/search?q=Markus+Allard) | N/A |
+| 42 | [luleå hockey](http://twitter.com/search?q=lule%c3%a5+hockey) | N/A |
+| 43 | [högskoleprovet](http://twitter.com/search?q=h%c3%b6gskoleprovet) | N/A |
+| 44 | [moa ilar](http://twitter.com/search?q=moa+ilar) | N/A |
+| 45 | [Harald](http://twitter.com/search?q=Harald) | N/A |
+| 46 | [Janne](http://twitter.com/search?q=Janne) | N/A |
+| 47 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 48 | [arbetsförmedlingen](http://twitter.com/search?q=arbetsf%c3%b6rmedlingen) | N/A |
 
 

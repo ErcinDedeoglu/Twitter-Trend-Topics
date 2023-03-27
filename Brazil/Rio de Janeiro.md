@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-27 02:31:02 UTC`
+📆 Last Updated: `2023-03-27 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 3 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 1 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 2 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 5 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
-| 6 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 8 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 9 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 11 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 12 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 13 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 14 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 15 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 16 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 17 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 18 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 19 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 20 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
-| 21 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 22 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
-| 23 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 6 | [#LollapaloozaBrasil](http://twitter.com/search?q=%23LollapaloozaBrasil) | N/A |
+| 7 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 8 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 9 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
+| 10 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 11 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 12 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 13 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
+| 14 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 15 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 16 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 17 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 18 | [#RosalíaNoMultishow](http://twitter.com/search?q=%23Rosal%c3%adaNoMultishow) | N/A |
+| 19 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 20 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 21 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 22 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 23 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
 | 24 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 25 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
-| 26 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 27 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 28 | [#CigarettesASNoCanalBIS](http://twitter.com/search?q=%23CigarettesASNoCanalBIS) | N/A |
-| 29 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 30 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 31 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
-| 32 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 33 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 34 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
-| 35 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 36 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
-| 37 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 38 | [daiki](http://twitter.com/search?q=daiki) | N/A |
-| 39 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 40 | [#LollapaloozaBrasil](http://twitter.com/search?q=%23LollapaloozaBrasil) | N/A |
-| 41 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 42 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
-| 43 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
-| 44 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 45 | [Conselho Tutelar](http://twitter.com/search?q=Conselho+Tutelar) | N/A |
-| 46 | [MAMAMOO COME TO BRAZIL](http://twitter.com/search?q=MAMAMOO+COME+TO+BRAZIL) | N/A |
-| 47 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 48 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 49 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 50 | [Porto Alegre](http://twitter.com/search?q=Porto+Alegre) | N/A |
+| 25 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 26 | [Tchau Bruna](http://twitter.com/search?q=Tchau+Bruna) | N/A |
+| 27 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 28 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 29 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 30 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
+| 31 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 32 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 33 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 34 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
+| 35 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 36 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 37 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
+| 38 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 39 | [Pipocou](http://twitter.com/search?q=Pipocou) | N/A |
+| 40 | [Mercado Livre](http://twitter.com/search?q=Mercado+Livre) | N/A |
+| 41 | [daiki](http://twitter.com/search?q=daiki) | N/A |
+| 42 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 43 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 44 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 45 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 46 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
+| 47 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
+| 48 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 49 | [The Union](http://twitter.com/search?q=The+Union) | N/A |
+| 50 | [Vai Amandinha](http://twitter.com/search?q=Vai+Amandinha) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-27 02:31:11 UTC`
+📆 Last Updated: `2023-03-27 03:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,40 +28,40 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 11 | [eigenkapitalquote](http://twitter.com/search?q=eigenkapitalquote) | N/A |
 | 12 | [Richard](http://twitter.com/search?q=Richard) | N/A |
 | 13 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
-| 14 | [glarner](http://twitter.com/search?q=glarner) | N/A |
-| 15 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 16 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
-| 17 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 18 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 19 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
-| 20 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 21 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 22 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 23 | [Identität](http://twitter.com/search?q=Identit%c3%a4t) | N/A |
-| 24 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 25 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
-| 26 | [Senf](http://twitter.com/search?q=Senf) | N/A |
-| 27 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
-| 28 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 29 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
-| 30 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 31 | [resultat](http://twitter.com/search?q=resultat) | N/A |
-| 32 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 33 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
-| 34 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 35 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
-| 36 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
-| 37 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
-| 38 | [Führerschein](http://twitter.com/search?q=F%c3%bchrerschein) | N/A |
-| 39 | [Märkte](http://twitter.com/search?q=M%c3%a4rkte) | N/A |
-| 40 | [Mission](http://twitter.com/search?q=Mission) | N/A |
-| 41 | [Gäste](http://twitter.com/search?q=G%c3%a4ste) | N/A |
-| 42 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 43 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 44 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 45 | [Bellissimo](http://twitter.com/search?q=Bellissimo) | N/A |
-| 46 | [Verdacht](http://twitter.com/search?q=Verdacht) | N/A |
-| 47 | [Serbs](http://twitter.com/search?q=Serbs) | N/A |
+| 14 | [America](http://twitter.com/search?q=America) | N/A |
+| 15 | [glarner](http://twitter.com/search?q=glarner) | N/A |
+| 16 | [auswahl](http://twitter.com/search?q=auswahl) | N/A |
+| 17 | [rassist](http://twitter.com/search?q=rassist) | N/A |
+| 18 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 19 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 20 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
+| 21 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 22 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 23 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 24 | [Identität](http://twitter.com/search?q=Identit%c3%a4t) | N/A |
+| 25 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 26 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
+| 27 | [senf](http://twitter.com/search?q=senf) | N/A |
+| 28 | [Kirche](http://twitter.com/search?q=Kirche) | N/A |
+| 29 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 30 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
+| 31 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 32 | [resultat](http://twitter.com/search?q=resultat) | N/A |
+| 33 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 34 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
+| 35 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 36 | [Journalist](http://twitter.com/search?q=Journalist) | N/A |
+| 37 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
+| 38 | [Franzosen](http://twitter.com/search?q=Franzosen) | N/A |
+| 39 | [Führerschein](http://twitter.com/search?q=F%c3%bchrerschein) | N/A |
+| 40 | [Märkte](http://twitter.com/search?q=M%c3%a4rkte) | N/A |
+| 41 | [Mission](http://twitter.com/search?q=Mission) | N/A |
+| 42 | [Gäste](http://twitter.com/search?q=G%c3%a4ste) | N/A |
+| 43 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 44 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 45 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
+| 46 | [Bellissimo](http://twitter.com/search?q=Bellissimo) | N/A |
+| 47 | [Verdacht](http://twitter.com/search?q=Verdacht) | N/A |
 
 
 

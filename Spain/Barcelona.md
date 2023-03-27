@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-27 02:31:09 UTC`
+📆 Last Updated: `2023-03-27 03:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,33 +38,33 @@ This is top 50 for [Spain](</Spain>)
 | 21 | [Domingo de Pasión](http://twitter.com/search?q=Domingo+de+Pasi%c3%b3n) | N/A |
 | 22 | [Queipo](http://twitter.com/search?q=Queipo) | N/A |
 | 23 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 25 | [Indra](http://twitter.com/search?q=Indra) | N/A |
-| 26 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 24 | [Indra](http://twitter.com/search?q=Indra) | N/A |
+| 25 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 26 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 27 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
 | 28 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 29 | [Jose Juan](http://twitter.com/search?q=Jose+Juan) | N/A |
-| 30 | [Isa Pi](http://twitter.com/search?q=Isa+Pi) | N/A |
-| 31 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 32 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
-| 33 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 34 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 35 | [BeReal](http://twitter.com/search?q=BeReal) | N/A |
+| 30 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 31 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
+| 32 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 33 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 34 | [BeReal](http://twitter.com/search?q=BeReal) | N/A |
+| 35 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
 | 36 | [Riazor](http://twitter.com/search?q=Riazor) | N/A |
-| 37 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 38 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 39 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
-| 40 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 41 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 42 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
-| 43 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 44 | [Enrique Casellas](http://twitter.com/search?q=Enrique+Casellas) | N/A |
-| 45 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
-| 46 | [Vada](http://twitter.com/search?q=Vada) | N/A |
-| 47 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 48 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 49 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 50 | [Mantovani](http://twitter.com/search?q=Mantovani) | N/A |
+| 37 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 38 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 39 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 40 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
+| 41 | [Enrique Casellas](http://twitter.com/search?q=Enrique+Casellas) | N/A |
+| 42 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
+| 43 | [Vada](http://twitter.com/search?q=Vada) | N/A |
+| 44 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 45 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 46 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 47 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 48 | [Mantovani](http://twitter.com/search?q=Mantovani) | N/A |
+| 49 | [Juan Guarnizo](http://twitter.com/search?q=Juan+Guarnizo) | N/A |
+| 50 | [Blue Lock](http://twitter.com/search?q=Blue+Lock) | N/A |
 
 
 

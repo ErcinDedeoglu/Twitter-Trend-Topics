@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-27 02:31:01 UTC`
+📆 Last Updated: `2023-03-27 03:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 3 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 4 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 5 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 6 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 7 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 8 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 9 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 10 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 11 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
-| 12 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 13 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
-| 14 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 15 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 16 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
-| 17 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 18 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 19 | [#CigarettesASNoCanalBIS](http://twitter.com/search?q=%23CigarettesASNoCanalBIS) | N/A |
-| 20 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 21 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 22 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
-| 23 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 24 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 25 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
-| 26 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 2 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 3 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 4 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
+| 5 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 6 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 7 | [#RosalíaNoMultishow](http://twitter.com/search?q=%23Rosal%c3%adaNoMultishow) | N/A |
+| 8 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 9 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 10 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 11 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 12 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 13 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 14 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 15 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
+| 16 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 17 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 18 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 19 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 20 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 21 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
+| 22 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 23 | [Tchau Bruna](http://twitter.com/search?q=Tchau+Bruna) | N/A |
+| 24 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 25 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 26 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
 | 27 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 28 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
-| 29 | [daiki](http://twitter.com/search?q=daiki) | N/A |
-| 30 | [#LollapaloozaBrasil](http://twitter.com/search?q=%23LollapaloozaBrasil) | N/A |
-| 31 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 32 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 33 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
-| 34 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
-| 35 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 36 | [Conselho Tutelar](http://twitter.com/search?q=Conselho+Tutelar) | N/A |
-| 37 | [MAMAMOO COME TO BRAZIL](http://twitter.com/search?q=MAMAMOO+COME+TO+BRAZIL) | N/A |
-| 38 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 39 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 40 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 41 | [Porto Alegre](http://twitter.com/search?q=Porto+Alegre) | N/A |
-| 42 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 43 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 44 | [Baldasso](http://twitter.com/search?q=Baldasso) | N/A |
-| 45 | [CRIANÇA NO COLO](http://twitter.com/search?q=CRIAN%c3%87A+NO+COLO) | N/A |
-| 46 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
-| 47 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 48 | [Swedish House Mafia](http://twitter.com/search?q=Swedish+House+Mafia) | N/A |
-| 49 | [blinding lights](http://twitter.com/search?q=blinding+lights) | N/A |
-| 50 | [Jelly](http://twitter.com/search?q=Jelly) | N/A |
+| 28 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 29 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
+| 30 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 31 | [Pipocou](http://twitter.com/search?q=Pipocou) | N/A |
+| 32 | [daiki](http://twitter.com/search?q=daiki) | N/A |
+| 33 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 34 | [The Union](http://twitter.com/search?q=The+Union) | N/A |
+| 35 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 36 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 37 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
+| 38 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 39 | [Mercado Livre](http://twitter.com/search?q=Mercado+Livre) | N/A |
+| 40 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
+| 41 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
+| 42 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 43 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 44 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
+| 45 | [Vai Amandinha](http://twitter.com/search?q=Vai+Amandinha) | N/A |
+| 46 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
+| 47 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
+| 48 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 49 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
+| 50 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
 
 
 

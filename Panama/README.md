@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-27 02:31:47 UTC`
+📆 Last Updated: `2023-03-27 03:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Panama
 | 7 | [#BenavidezPlant](http://twitter.com/search?q=%23BenavidezPlant) | N/A |
 | 8 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 9 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 10 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 11 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 12 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 13 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 14 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 15 | [umecit](http://twitter.com/search?q=umecit) | N/A |
-| 16 | [Martinica](http://twitter.com/search?q=Martinica) | N/A |
-| 17 | [mayin](http://twitter.com/search?q=mayin) | N/A |
-| 18 | [endara](http://twitter.com/search?q=endara) | N/A |
-| 19 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 20 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 21 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
-| 22 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 23 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
-| 24 | [Oigan](http://twitter.com/search?q=Oigan) | N/A |
-| 25 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
-| 26 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
-| 27 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 28 | [Colon](http://twitter.com/search?q=Colon) | N/A |
-| 29 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 30 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 31 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 32 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 33 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 34 | [Matrimonio](http://twitter.com/search?q=Matrimonio) | N/A |
-| 35 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 36 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 37 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
-| 38 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 39 | [Interesante](http://twitter.com/search?q=Interesante) | N/A |
-| 40 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
-| 41 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
-| 42 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 43 | [rommel fernández](http://twitter.com/search?q=rommel+fern%c3%a1ndez) | N/A |
-| 44 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 45 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 46 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 47 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 48 | [Coincido](http://twitter.com/search?q=Coincido) | N/A |
-| 49 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 50 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 10 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 11 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 12 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 13 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 14 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 15 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 16 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 17 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 18 | [umecit](http://twitter.com/search?q=umecit) | N/A |
+| 19 | [Martinica](http://twitter.com/search?q=Martinica) | N/A |
+| 20 | [Mayin](http://twitter.com/search?q=Mayin) | N/A |
+| 21 | [endara](http://twitter.com/search?q=endara) | N/A |
+| 22 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 23 | [Valenzuela](http://twitter.com/search?q=Valenzuela) | N/A |
+| 24 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
+| 25 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
+| 26 | [Villa Lucre](http://twitter.com/search?q=Villa+Lucre) | N/A |
+| 27 | [Oigan](http://twitter.com/search?q=Oigan) | N/A |
+| 28 | [Colbert](http://twitter.com/search?q=Colbert) | N/A |
+| 29 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 30 | [Partido Popular](http://twitter.com/search?q=Partido+Popular) | N/A |
+| 31 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 32 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 33 | [Colon](http://twitter.com/search?q=Colon) | N/A |
+| 34 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 35 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 36 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 37 | [Matrimonio](http://twitter.com/search?q=Matrimonio) | N/A |
+| 38 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
+| 39 | [Coca Cola](http://twitter.com/search?q=Coca+Cola) | N/A |
+| 40 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 41 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 42 | [Interesante](http://twitter.com/search?q=Interesante) | N/A |
+| 43 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
+| 44 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 45 | [Feliz Cumpleaños](http://twitter.com/search?q=Feliz+Cumplea%c3%b1os) | N/A |
+| 46 | [rommel fernández](http://twitter.com/search?q=rommel+fern%c3%a1ndez) | N/A |
+| 47 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 48 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 49 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 50 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
 
 
 

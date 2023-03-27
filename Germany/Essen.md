@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-27 02:31:07 UTC`
+📆 Last Updated: `2023-03-27 03:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
 | 6 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
 | 7 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 8 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 9 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 8 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 9 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
 | 10 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 11 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
 | 12 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
@@ -34,35 +34,35 @@ This is top 50 for [Germany](</Germany>)
 | 17 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 18 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
 | 19 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 20 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 21 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
-| 22 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 23 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 24 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
-| 25 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 26 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 27 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 28 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 20 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
+| 21 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 22 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 23 | [lkw-fahrer](http://twitter.com/search?q=lkw-fahrer) | N/A |
+| 24 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 25 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 26 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 27 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 28 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 29 | [Mike Josef](http://twitter.com/search?q=Mike+Josef) | N/A |
-| 30 | [warme atmosphäre](http://twitter.com/search?q=warme+atmosph%c3%a4re) | N/A |
-| 31 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 32 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 33 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
-| 34 | [Hausaufgaben](http://twitter.com/search?q=Hausaufgaben) | N/A |
-| 35 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 30 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 31 | [warme atmosphäre](http://twitter.com/search?q=warme+atmosph%c3%a4re) | N/A |
+| 32 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 33 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 34 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 35 | [Hausaufgaben](http://twitter.com/search?q=Hausaufgaben) | N/A |
 | 36 | [Lieblingsjahreszeit](http://twitter.com/search?q=Lieblingsjahreszeit) | N/A |
-| 37 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 38 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
-| 39 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 40 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 41 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 42 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 43 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 44 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
-| 45 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 46 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 37 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
+| 38 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 39 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
+| 40 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 41 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 42 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
+| 43 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 44 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 45 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 46 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
 | 47 | [Briefwahl](http://twitter.com/search?q=Briefwahl) | N/A |
-| 48 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 48 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
 
 
 

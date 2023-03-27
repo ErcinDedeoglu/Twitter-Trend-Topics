@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-27 02:31:42 UTC`
+📆 Last Updated: `2023-03-27 03:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,10 +30,10 @@ This is top 50 for Denmark
 | 13 | [mathias jensen](http://twitter.com/search?q=mathias+jensen) | N/A |
 | 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 15 | [Astana](http://twitter.com/search?q=Astana) | N/A |
-| 16 | [Australien](http://twitter.com/search?q=Australien) | N/A |
+| 16 | [australien](http://twitter.com/search?q=australien) | N/A |
 | 17 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
 | 18 | [Gent-Wevelgem](http://twitter.com/search?q=Gent-Wevelgem) | N/A |
-| 19 | [Højbjerg](http://twitter.com/search?q=H%c3%b8jbjerg) | N/A |
+| 19 | [højbjerg](http://twitter.com/search?q=h%c3%b8jbjerg) | N/A |
 | 20 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 21 | [damsgaard](http://twitter.com/search?q=damsgaard) | N/A |
 | 22 | [Finland](http://twitter.com/search?q=Finland) | N/A |
@@ -42,12 +42,12 @@ This is top 50 for Denmark
 | 25 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
 | 26 | [stryger](http://twitter.com/search?q=stryger) | N/A |
 | 27 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 28 | [Schmeichel](http://twitter.com/search?q=Schmeichel) | N/A |
+| 28 | [schmeichel](http://twitter.com/search?q=schmeichel) | N/A |
 | 29 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
 | 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 31 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 32 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
-| 33 | [Faze](http://twitter.com/search?q=Faze) | N/A |
+| 33 | [FaZe](http://twitter.com/search?q=FaZe) | N/A |
 | 34 | [søren](http://twitter.com/search?q=s%c3%b8ren) | N/A |
 | 35 | [zanka](http://twitter.com/search?q=zanka) | N/A |
 | 36 | [sjælland](http://twitter.com/search?q=sj%c3%a6lland) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Denmark
 | 47 | [Brentford](http://twitter.com/search?q=Brentford) | Brentford is a town in West London, England. It is located on the River Thames and is part of the London Borough of Hounslow. The town has a long history and was once an important market town. It is now a popular residential area with many shops, restaurants, and pubs. |
 | 48 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 49 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 50 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 50 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-03-27 02:31:14 UTC`
+📆 Last Updated: `2023-03-27 03:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
-| 2 | [#springst](http://twitter.com/search?q=%23springst) | N/A |
-| 3 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 4 | [#NRLDragonsSharks](http://twitter.com/search?q=%23NRLDragonsSharks) | N/A |
-| 5 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 6 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 7 | [#AFLEaglesGiants](http://twitter.com/search?q=%23AFLEaglesGiants) | N/A |
-| 8 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 9 | [#NRLKnightsRaiders](http://twitter.com/search?q=%23NRLKnightsRaiders) | N/A |
-| 10 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 11 | [#AFLDonsSuns](http://twitter.com/search?q=%23AFLDonsSuns) | N/A |
-| 12 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 13 | [Richard Boyle](http://twitter.com/search?q=Richard+Boyle) | N/A |
-| 14 | [Adam Bandt](http://twitter.com/search?q=Adam+Bandt) | N/A |
-| 15 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 16 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 17 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
-| 18 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 19 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
-| 20 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 21 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 22 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 23 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
-| 24 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 25 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 1 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 2 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
+| 3 | [#springst](http://twitter.com/search?q=%23springst) | N/A |
+| 4 | [Labor](http://twitter.com/search?q=Labor) | N/A |
+| 5 | [Victorian Liberals](http://twitter.com/search?q=Victorian+Liberals) | N/A |
+| 6 | [#NRLDragonsSharks](http://twitter.com/search?q=%23NRLDragonsSharks) | N/A |
+| 7 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 8 | [#AFLEaglesGiants](http://twitter.com/search?q=%23AFLEaglesGiants) | N/A |
+| 9 | [#ASKKENTY](http://twitter.com/search?q=%23ASKKENTY) | N/A |
+| 10 | [#NRLKnightsRaiders](http://twitter.com/search?q=%23NRLKnightsRaiders) | N/A |
+| 11 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 12 | [Richard Boyle](http://twitter.com/search?q=Richard+Boyle) | N/A |
+| 13 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 14 | [Latitude Financial](http://twitter.com/search?q=Latitude+Financial) | N/A |
+| 15 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
+| 16 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
+| 17 | [Adam Bandt](http://twitter.com/search?q=Adam+Bandt) | N/A |
+| 18 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 19 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 20 | [Safeguard Mechanism](http://twitter.com/search?q=Safeguard+Mechanism) | N/A |
+| 21 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 22 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 23 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 24 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
+| 25 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
 | 26 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 27 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 28 | [Royston](http://twitter.com/search?q=Royston) | N/A |
-| 29 | [Chris Minns](http://twitter.com/search?q=Chris+Minns) | N/A |
-| 30 | [Hynes](http://twitter.com/search?q=Hynes) | N/A |
+| 27 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 28 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 29 | [Royston](http://twitter.com/search?q=Royston) | N/A |
+| 30 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 31 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 32 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 32 | [Chris Minns](http://twitter.com/search?q=Chris+Minns) | N/A |
 | 33 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 34 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
-| 35 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 36 | [Steele](http://twitter.com/search?q=Steele) | N/A |
-| 37 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 38 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 39 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 40 | [Tassie](http://twitter.com/search?q=Tassie) | N/A |
-| 41 | [Vixens](http://twitter.com/search?q=Vixens) | N/A |
-| 42 | [Bowen](http://twitter.com/search?q=Bowen) | Bowen is a surname of Welsh origin. It is derived from the Welsh personal name Owain, which is composed of the elements "og" (young) and "cu" (warrior). The name can also be spelled as Bowen, Bowne, or Bown. |
-| 43 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 44 | [Setterfield](http://twitter.com/search?q=Setterfield) | N/A |
+| 34 | [Hynes](http://twitter.com/search?q=Hynes) | N/A |
+| 35 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 36 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 37 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 38 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 39 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
+| 40 | [Steele](http://twitter.com/search?q=Steele) | N/A |
+| 41 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
+| 42 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 43 | [President](http://twitter.com/search?q=President) | N/A |
+| 44 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
 | 45 | [Michelle](http://twitter.com/search?q=Michelle) | N/A |
-| 46 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 47 | [ICAC](http://twitter.com/search?q=ICAC) | N/A |
-| 48 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 46 | [Vixens](http://twitter.com/search?q=Vixens) | N/A |
+| 47 | [Barrie](http://twitter.com/search?q=Barrie) | N/A |
+| 48 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
 | 49 | [Langford](http://twitter.com/search?q=Langford) | N/A |
-| 50 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 50 | [ICAC](http://twitter.com/search?q=ICAC) | N/A |
 
 
 

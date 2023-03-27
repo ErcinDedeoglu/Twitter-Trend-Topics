@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-27 02:31:11 UTC`
+📆 Last Updated: `2023-03-27 03:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,12 +26,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 9 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 10 | [zemes](http://twitter.com/search?q=zemes) | N/A |
 | 11 | [somijā](http://twitter.com/search?q=somij%c4%81) | N/A |
-| 12 | [tieši](http://twitter.com/search?q=tie%c5%a1i) | N/A |
-| 13 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
+| 12 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 13 | [Saprotu](http://twitter.com/search?q=Saprotu) | N/A |
 | 14 | [#евро2024](http://twitter.com/search?q=%23%d0%b5%d0%b2%d1%80%d0%be2024) | N/A |
 | 15 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
 | 16 | [dievs](http://twitter.com/search?q=dievs) | N/A |
-| 17 | [manam](http://twitter.com/search?q=manam) | N/A |
+| 17 | [Manam](http://twitter.com/search?q=Manam) | N/A |
 | 18 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
 | 19 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
 | 20 | [tiešām](http://twitter.com/search?q=tie%c5%a1%c4%81m) | N/A |

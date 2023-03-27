@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-27 02:31:04 UTC`
+📆 Last Updated: `2023-03-27 03:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,9 +25,9 @@ This is top 50 for [Poland](</Poland>)
 | 8 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
 | 9 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
 | 10 | [NSDAP](http://twitter.com/search?q=NSDAP) | N/A |
-| 11 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
+| 11 | [arsenałem](http://twitter.com/search?q=arsena%c5%82em) | N/A |
 | 12 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 13 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 13 | [tarczyński](http://twitter.com/search?q=tarczy%c5%84ski) | N/A |
 | 14 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
 | 15 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
 | 16 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for [Poland](</Poland>)
 | 38 | [Unii](http://twitter.com/search?q=Unii) | N/A |
 | 39 | [hubi](http://twitter.com/search?q=hubi) | N/A |
 | 40 | [jadźka](http://twitter.com/search?q=jad%c5%baka) | N/A |
-| 41 | [Bosak](http://twitter.com/search?q=Bosak) | N/A |
-| 42 | [przechodził](http://twitter.com/search?q=przechodzi%c5%82) | N/A |
-| 43 | [Flaki](http://twitter.com/search?q=Flaki) | N/A |
-| 44 | [Słychać](http://twitter.com/search?q=S%c5%82ycha%c4%87) | N/A |
-| 45 | [emilewicz](http://twitter.com/search?q=emilewicz) | N/A |
-| 46 | [sosnowcu](http://twitter.com/search?q=sosnowcu) | N/A |
-| 47 | [akcji](http://twitter.com/search?q=akcji) | N/A |
-| 48 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
-| 49 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 50 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
+| 41 | [bosak](http://twitter.com/search?q=bosak) | N/A |
+| 42 | [Flaki](http://twitter.com/search?q=Flaki) | N/A |
+| 43 | [Słychać](http://twitter.com/search?q=S%c5%82ycha%c4%87) | N/A |
+| 44 | [emilewicz](http://twitter.com/search?q=emilewicz) | N/A |
+| 45 | [sosnowcu](http://twitter.com/search?q=sosnowcu) | N/A |
+| 46 | [akcji](http://twitter.com/search?q=akcji) | N/A |
+| 47 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
+| 48 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 49 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
+| 50 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
 
 
 

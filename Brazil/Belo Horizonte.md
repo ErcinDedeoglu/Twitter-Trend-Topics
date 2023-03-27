@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-27 02:31:01 UTC`
+📆 Last Updated: `2023-03-27 03:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 2 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
-| 3 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
-| 4 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 5 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 6 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 7 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 8 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 9 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 10 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 11 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 12 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 13 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
-| 14 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 15 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
-| 16 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 17 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 18 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
-| 19 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 20 | [#CigarettesASNoCanalBIS](http://twitter.com/search?q=%23CigarettesASNoCanalBIS) | N/A |
-| 21 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 22 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 23 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 24 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
-| 25 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 26 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 27 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
-| 28 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 29 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
-| 30 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 31 | [daiki](http://twitter.com/search?q=daiki) | N/A |
-| 32 | [#LollapaloozaBrasil](http://twitter.com/search?q=%23LollapaloozaBrasil) | N/A |
-| 33 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 34 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 35 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
-| 36 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
-| 37 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 38 | [Conselho Tutelar](http://twitter.com/search?q=Conselho+Tutelar) | N/A |
-| 39 | [MAMAMOO COME TO BRAZIL](http://twitter.com/search?q=MAMAMOO+COME+TO+BRAZIL) | N/A |
-| 40 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 41 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 42 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 43 | [Porto Alegre](http://twitter.com/search?q=Porto+Alegre) | N/A |
-| 44 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 45 | [Baldasso](http://twitter.com/search?q=Baldasso) | N/A |
-| 46 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 47 | [CRIANÇA NO COLO](http://twitter.com/search?q=CRIAN%c3%87A+NO+COLO) | N/A |
-| 48 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
-| 49 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 50 | [Swedish House Mafia](http://twitter.com/search?q=Swedish+House+Mafia) | N/A |
+| 1 | [#LollapaloozaBrasil](http://twitter.com/search?q=%23LollapaloozaBrasil) | N/A |
+| 2 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 3 | [Mate Couro](http://twitter.com/search?q=Mate+Couro) | N/A |
+| 4 | [Guarapan](http://twitter.com/search?q=Guarapan) | N/A |
+| 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 6 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 7 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 8 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
+| 9 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 10 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 11 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 12 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 13 | [#RosalíaNoMultishow](http://twitter.com/search?q=%23Rosal%c3%adaNoMultishow) | N/A |
+| 14 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 15 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 16 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 17 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 18 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
+| 19 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 20 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 21 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 22 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 23 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 24 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
+| 25 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 26 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 27 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 28 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
+| 29 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 30 | [Vai Amanda](http://twitter.com/search?q=Vai+Amanda) | N/A |
+| 31 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 32 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
+| 33 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 34 | [Pipocou](http://twitter.com/search?q=Pipocou) | N/A |
+| 35 | [Mercado Livre](http://twitter.com/search?q=Mercado+Livre) | N/A |
+| 36 | [daiki](http://twitter.com/search?q=daiki) | N/A |
+| 37 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 38 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 39 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 40 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 41 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
+| 42 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
+| 43 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 44 | [The Union](http://twitter.com/search?q=The+Union) | N/A |
+| 45 | [Vai Amandinha](http://twitter.com/search?q=Vai+Amandinha) | N/A |
+| 46 | [Se a Amanda](http://twitter.com/search?q=Se+a+Amanda) | N/A |
+| 47 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 48 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
+| 49 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 50 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
 
 
 
