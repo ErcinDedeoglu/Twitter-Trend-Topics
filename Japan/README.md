@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Japan
 
-📆 Last Updated: `2023-03-27 22:18:07 UTC`
+📆 Last Updated: `2023-03-27 23:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Japan
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#おは戦50328mk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650328mk) | N/A |
-| 2 | [#cnann](http://twitter.com/search?q=%23cnann) | #cnann is an acronym for "Ceann Comhairle" which is a title given to the presiding officer of the Irish Dáil (lower house of parliament). In English, it translates to "Chairman of the House". |
-| 3 | [ヤスくん舞台](http://twitter.com/search?q=%e3%83%a4%e3%82%b9%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
-| 4 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
-| 5 | [#すきすきワンワン](http://twitter.com/search?q=%23%e3%81%99%e3%81%8d%e3%81%99%e3%81%8d%e3%83%af%e3%83%b3%e3%83%af%e3%83%b3) | #すきすきワンワン is an expression used to express love and affection for someone or something. It is often used as a hashtag on social media. In English, it can be translated to "I love you so much!" |
-| 6 | [#ちょうどいいラジオ](http://twitter.com/search?q=%23%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e3%81%84%e3%81%84%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
-| 7 | [第431回](http://twitter.com/search?q=%e7%ac%ac431%e5%9b%9e) | N/A |
-| 8 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 9 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 10 | [#ゆと打って出てきたものがお前に不足](http://twitter.com/search?q=%23%e3%82%86%e3%81%a8%e6%89%93%e3%81%a3%e3%81%a6%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%82%e3%81%ae%e3%81%8c%e3%81%8a%e5%89%8d%e3%81%ab%e4%b8%8d%e8%b6%b3) | N/A |
-| 11 | [三ツ矢サイダーの日](http://twitter.com/search?q=%e4%b8%89%e3%83%84%e7%9f%a2%e3%82%b5%e3%82%a4%e3%83%80%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
-| 12 | [トレパク](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%91%e3%82%af) | N/A |
-| 13 | [三つ葉の日](http://twitter.com/search?q=%e4%b8%89%e3%81%a4%e8%91%89%e3%81%ae%e6%97%a5) | N/A |
-| 14 | [エンブレ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac) | N/A |
-| 15 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
-| 16 | [シルクロードの日](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89%e3%81%ae%e6%97%a5) | N/A |
-| 17 | [eショップ](http://twitter.com/search?q=e%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
-| 18 | [車間距離](http://twitter.com/search?q=%e8%bb%8a%e9%96%93%e8%b7%9d%e9%9b%a2) | N/A |
-| 19 | [コタくん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%8f%e3%82%93) | コタくん is a character from the Japanese manga series, Kochikame. He is a police officer who works in the Tokyo Metropolitan Police Department's Kameari Branch. His name is derived from the Japanese word for police officer, "Kōta". In English, his name can be translated to "Officer Kota". |
-| 20 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
-| 21 | [遊戯王マンチョコ](http://twitter.com/search?q=%e9%81%8a%e6%88%af%e7%8e%8b%e3%83%9e%e3%83%b3%e3%83%81%e3%83%a7%e3%82%b3) | N/A |
-| 22 | [ポケモンバンク](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%90%e3%83%b3%e3%82%af) | N/A |
-| 23 | [ヨンボクラチャ](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%9c%e3%82%af%e3%83%a9%e3%83%81%e3%83%a3) | N/A |
-| 24 | [iOS16.4](http://twitter.com/search?q=iOS16.4) | N/A |
-| 25 | [Wordle 647](http://twitter.com/search?q=Wordle+647) | N/A |
-| 26 | [章ちゃん](http://twitter.com/search?q=%e7%ab%a0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 27 | [ポケムーバー](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a0%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 28 | [カンニング竹山](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%8b%e3%83%b3%e3%82%b0%e7%ab%b9%e5%b1%b1) | N/A |
-| 29 | [サトシゲッコウガ](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%82%b7%e3%82%b2%e3%83%83%e3%82%b3%e3%82%a6%e3%82%ac) | N/A |
-| 30 | [WiiU](http://twitter.com/search?q=WiiU) | N/A |
-| 31 | [Starxo](http://twitter.com/search?q=Starxo) | N/A |
-| 32 | [Sheydos](http://twitter.com/search?q=Sheydos) | N/A |
-| 33 | [ツナちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 34 | [EMEA](http://twitter.com/search?q=EMEA) | N/A |
-| 35 | [三ツ矢の日](http://twitter.com/search?q=%e4%b8%89%e3%83%84%e7%9f%a2%e3%81%ae%e6%97%a5) | N/A |
-| 36 | [ペンギン池落下騒動](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3%e6%b1%a0%e8%90%bd%e4%b8%8b%e9%a8%92%e5%8b%95) | N/A |
-| 37 | [山下智久](http://twitter.com/search?q=%e5%b1%b1%e4%b8%8b%e6%99%ba%e4%b9%85) | N/A |
-| 38 | [バイナンス](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%8a%e3%83%b3%e3%82%b9) | N/A |
-| 39 | [審神者の日](http://twitter.com/search?q=%e5%af%a9%e7%a5%9e%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
-| 40 | [サンムーン体験版](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%a0%e3%83%bc%e3%83%b3%e4%bd%93%e9%a8%93%e7%89%88) | N/A |
-| 41 | [エモニー](http://twitter.com/search?q=%e3%82%a8%e3%83%a2%e3%83%8b%e3%83%bc) | N/A |
-| 42 | [残高追加](http://twitter.com/search?q=%e6%ae%8b%e9%ab%98%e8%bf%bd%e5%8a%a0) | N/A |
-| 43 | [ハーモニカのネックレス](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a2%e3%83%8b%e3%82%ab%e3%81%ae%e3%83%8d%e3%83%83%e3%82%af%e3%83%ac%e3%82%b9) | N/A |
-| 44 | [大江戸シーラン](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e6%88%b8%e3%82%b7%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
-| 45 | [迷惑運転](http://twitter.com/search?q=%e8%bf%b7%e6%83%91%e9%81%8b%e8%bb%a2) | N/A |
-| 46 | [JOLED](http://twitter.com/search?q=JOLED) | N/A |
-| 47 | [ダンダダン](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%80%e3%83%80%e3%83%b3) | N/A |
-| 48 | [負債総額337億円](http://twitter.com/search?q=%e8%b2%a0%e5%82%b5%e7%b7%8f%e9%a1%8d337%e5%84%84%e5%86%86) | N/A |
-| 49 | [岸くんの演技](http://twitter.com/search?q=%e5%b2%b8%e3%81%8f%e3%82%93%e3%81%ae%e6%bc%94%e6%8a%80) | 岸くんの演技 is a phrase used to describe the acting of Japanese actor Kishu Kusanagi. It is often used to refer to his ability to portray a wide range of characters and emotions in his performances. In English, it could be translated as "Kishu Kusanagi's Acting". |
-| 50 | [ポケバンク](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%90%e3%83%b3%e3%82%af) | N/A |
+| 2 | [ヤスくん](http://twitter.com/search?q=%e3%83%a4%e3%82%b9%e3%81%8f%e3%82%93) | N/A |
+| 3 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
+| 4 | [久留美ちゃん](http://twitter.com/search?q=%e4%b9%85%e7%95%99%e7%be%8e%e3%81%a1%e3%82%83%e3%82%93) | 久留美ちゃん is a nickname for the Japanese female name Kurumi. It is often used as an affectionate term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 5 | [三ツ矢サイダーの日](http://twitter.com/search?q=%e4%b8%89%e3%83%84%e7%9f%a2%e3%82%b5%e3%82%a4%e3%83%80%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 6 | [ロイヤルタイム](http://twitter.com/search?q=%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab%e3%82%bf%e3%82%a4%e3%83%a0) | N/A |
+| 7 | [荒金さん](http://twitter.com/search?q=%e8%8d%92%e9%87%91%e3%81%95%e3%82%93) | N/A |
+| 8 | [#thetime_tbs](http://twitter.com/search?q=%23thetime_tbs) | N/A |
+| 9 | [#ちょうどいいラジオ](http://twitter.com/search?q=%23%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e3%81%84%e3%81%84%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
+| 10 | [#朝こよ](http://twitter.com/search?q=%23%e6%9c%9d%e3%81%93%e3%82%88) | N/A |
+| 11 | [#安田章大](http://twitter.com/search?q=%23%e5%ae%89%e7%94%b0%e7%ab%a0%e5%a4%a7) | N/A |
+| 12 | [第431回](http://twitter.com/search?q=%e7%ac%ac431%e5%9b%9e) | N/A |
+| 13 | [舘様クッキング](http://twitter.com/search?q=%e8%88%98%e6%a7%98%e3%82%af%e3%83%83%e3%82%ad%e3%83%b3%e3%82%b0) | N/A |
+| 14 | [シルクロードの日](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89%e3%81%ae%e6%97%a5) | N/A |
+| 15 | [エンブレ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac) | N/A |
+| 16 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 17 | [iOS16.4](http://twitter.com/search?q=iOS16.4) | N/A |
+| 18 | [ロックダウン](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%80%e3%82%a6%e3%83%b3) | N/A |
+| 19 | [悠人兄ちゃん](http://twitter.com/search?q=%e6%82%a0%e4%ba%ba%e5%85%84%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 20 | [三つ葉の日](http://twitter.com/search?q=%e4%b8%89%e3%81%a4%e8%91%89%e3%81%ae%e6%97%a5) | N/A |
+| 21 | [車間距離](http://twitter.com/search?q=%e8%bb%8a%e9%96%93%e8%b7%9d%e9%9b%a2) | N/A |
+| 22 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 23 | [トレパク](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%91%e3%82%af) | N/A |
+| 24 | [章ちゃん](http://twitter.com/search?q=%e7%ab%a0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 25 | [柏木公園](http://twitter.com/search?q=%e6%9f%8f%e6%9c%a8%e5%85%ac%e5%9c%92) | N/A |
+| 26 | [eショップ](http://twitter.com/search?q=e%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
+| 27 | [遊戯王マンチョコ](http://twitter.com/search?q=%e9%81%8a%e6%88%af%e7%8e%8b%e3%83%9e%e3%83%b3%e3%83%81%e3%83%a7%e3%82%b3) | N/A |
+| 28 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 29 | [安田くん](http://twitter.com/search?q=%e5%ae%89%e7%94%b0%e3%81%8f%e3%82%93) | N/A |
+| 30 | [ヨンボクラチャ](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%9c%e3%82%af%e3%83%a9%e3%83%81%e3%83%a3) | N/A |
+| 31 | [Wordle 647](http://twitter.com/search?q=Wordle+647) | N/A |
+| 32 | [ポケモンバンク](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%90%e3%83%b3%e3%82%af) | N/A |
+| 33 | [カンニング竹山](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%8b%e3%83%b3%e3%82%b0%e7%ab%b9%e5%b1%b1) | N/A |
+| 34 | [グクWラ](http://twitter.com/search?q=%e3%82%b0%e3%82%afW%e3%83%a9) | N/A |
+| 35 | [ポケムーバー](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a0%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 36 | [バイナンス](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%8a%e3%83%b3%e3%82%b9) | N/A |
+| 37 | [コタくん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%8f%e3%82%93) | コタくん is a character from the Japanese manga series, Kochikame. He is a police officer who works in the Tokyo Metropolitan Police Department's Kameari Branch. His name is derived from the Japanese word for police officer, "Kōta". In English, his name can be translated to "Officer Kota". |
+| 38 | [三ツ矢の日](http://twitter.com/search?q=%e4%b8%89%e3%83%84%e7%9f%a2%e3%81%ae%e6%97%a5) | N/A |
+| 39 | [WiiU](http://twitter.com/search?q=WiiU) | N/A |
+| 40 | [審神者の日](http://twitter.com/search?q=%e5%af%a9%e7%a5%9e%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
+| 41 | [Ruby](http://twitter.com/search?q=Ruby) | N/A |
+| 42 | [ペンギン池落下騒動](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3%e6%b1%a0%e8%90%bd%e4%b8%8b%e9%a8%92%e5%8b%95) | N/A |
+| 43 | [迷惑運転](http://twitter.com/search?q=%e8%bf%b7%e6%83%91%e9%81%8b%e8%bb%a2) | N/A |
+| 44 | [水着ベリアル](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%83%99%e3%83%aa%e3%82%a2%e3%83%ab) | N/A |
+| 45 | [ツナちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [サトシゲッコウガ](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%82%b7%e3%82%b2%e3%83%83%e3%82%b3%e3%82%a6%e3%82%ac) | N/A |
+| 47 | [経営破綻](http://twitter.com/search?q=%e7%b5%8c%e5%96%b6%e7%a0%b4%e7%b6%bb) | N/A |
+| 48 | [放送法文書](http://twitter.com/search?q=%e6%94%be%e9%80%81%e6%b3%95%e6%96%87%e6%9b%b8) | N/A |
+| 49 | [サンムーン体験版](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%a0%e3%83%bc%e3%83%b3%e4%bd%93%e9%a8%93%e7%89%88) | N/A |
+| 50 | [ドラゴンの子](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%81%ae%e5%ad%90) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-27 22:17:21 UTC`
+📆 Last Updated: `2023-03-27 23:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
 | 2 | [#HomenajeALosCampeones](http://twitter.com/search?q=%23HomenajeALosCampeones) | N/A |
-| 3 | [#InversionMercadoPago](http://twitter.com/search?q=%23InversionMercadoPago) | N/A |
-| 4 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 5 | [#VamosLosPrimos](http://twitter.com/search?q=%23VamosLosPrimos) | N/A |
-| 6 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 7 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
-| 8 | [#GatoNoTeDioLaNafta](http://twitter.com/search?q=%23GatoNoTeDioLaNafta) | N/A |
-| 9 | [Lapicera](http://twitter.com/search?q=Lapicera) | N/A |
-| 10 | [#integracionharrie](http://twitter.com/search?q=%23integracionharrie) | N/A |
-| 11 | [Cristina Pérez](http://twitter.com/search?q=Cristina+P%c3%a9rez) | N/A |
-| 12 | [Gana Marcos](http://twitter.com/search?q=Gana+Marcos) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 15 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [Aliassime](http://twitter.com/search?q=Aliassime) | N/A |
-| 18 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 19 | [Mariquita](http://twitter.com/search?q=Mariquita) | N/A |
-| 20 | [Indio](http://twitter.com/search?q=Indio) | N/A |
-| 21 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
-| 22 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 23 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 24 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 25 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 26 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 27 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 28 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 29 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 30 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 31 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 32 | [Comando Unificado Conurbano](http://twitter.com/search?q=Comando+Unificado+Conurbano) | N/A |
-| 33 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 34 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 35 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 36 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
-| 37 | [Proceda](http://twitter.com/search?q=Proceda) | N/A |
-| 38 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 39 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 40 | [Gran Hermano 2023](http://twitter.com/search?q=Gran+Hermano+2023) | N/A |
-| 41 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 42 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 43 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
-| 44 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 45 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 46 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 47 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 48 | [Feinmann](http://twitter.com/search?q=Feinmann) | N/A |
-| 49 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 50 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 3 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 4 | [La Sole](http://twitter.com/search?q=La+Sole) | N/A |
+| 5 | [Dominguez](http://twitter.com/search?q=Dominguez) | N/A |
+| 6 | [#LaNocheDeLasEstrellas](http://twitter.com/search?q=%23LaNocheDeLasEstrellas) | N/A |
+| 7 | [FULBO](http://twitter.com/search?q=FULBO) | N/A |
+| 8 | [#InversionMercadoPago](http://twitter.com/search?q=%23InversionMercadoPago) | N/A |
+| 9 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 10 | [#VamosLosPrimos](http://twitter.com/search?q=%23VamosLosPrimos) | N/A |
+| 11 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 12 | [Cristina Pérez](http://twitter.com/search?q=Cristina+P%c3%a9rez) | N/A |
+| 13 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 14 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
+| 17 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
+| 18 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 19 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 20 | [Lapicera](http://twitter.com/search?q=Lapicera) | N/A |
+| 21 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 22 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 23 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 24 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 25 | [Gana Marcos](http://twitter.com/search?q=Gana+Marcos) | N/A |
+| 26 | [Sudamérica](http://twitter.com/search?q=Sudam%c3%a9rica) | N/A |
+| 27 | [Central Park](http://twitter.com/search?q=Central+Park) | N/A |
+| 28 | [Skay](http://twitter.com/search?q=Skay) | N/A |
+| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 30 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
+| 31 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 32 | [Atletico Nacional](http://twitter.com/search?q=Atletico+Nacional) | N/A |
+| 33 | [Si Messi](http://twitter.com/search?q=Si+Messi) | N/A |
+| 34 | [Aliassime](http://twitter.com/search?q=Aliassime) | N/A |
+| 35 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
+| 36 | [Indio](http://twitter.com/search?q=Indio) | N/A |
+| 37 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 38 | [IOMA](http://twitter.com/search?q=IOMA) | N/A |
+| 39 | [Mariquita](http://twitter.com/search?q=Mariquita) | N/A |
+| 40 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
+| 41 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 42 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 43 | [milky dolly](http://twitter.com/search?q=milky+dolly) | N/A |
+| 44 | [Asunción](http://twitter.com/search?q=Asunci%c3%b3n) | N/A |
+| 45 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 46 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 47 | [Fuerzas Armadas](http://twitter.com/search?q=Fuerzas+Armadas) | N/A |
+| 48 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 49 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 50 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 
 
 

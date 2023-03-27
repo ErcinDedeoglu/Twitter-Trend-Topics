@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-03-27 22:18:12 UTC`
+📆 Last Updated: `2023-03-27 23:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for Thailand
 | 5 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
 | 6 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 7 | [BAMBAM D-DAY POSTER](http://twitter.com/search?q=BAMBAM+D-DAY+POSTER) | N/A |
-| 8 | [d-1 bambam is back](http://twitter.com/search?q=d-1+bambam+is+back) | N/A |
-| 9 | [shopee nnn](http://twitter.com/search?q=shopee+nnn) | N/A |
+| 8 | [shopee nnn](http://twitter.com/search?q=shopee+nnn) | N/A |
+| 9 | [D-1 BAMBAM IS BACK](http://twitter.com/search?q=D-1+BAMBAM+IS+BACK) | N/A |
 | 10 | [charlotte possible](http://twitter.com/search?q=charlotte+possible) | N/A |
 | 11 | [joyful day27 to engfa](http://twitter.com/search?q=joyful+day27+to+engfa) | N/A |
 | 12 | [fabulous freenbecky](http://twitter.com/search?q=fabulous+freenbecky) | N/A |
 | 13 | [beyour luve build](http://twitter.com/search?q=beyour+luve+build) | N/A |
-| 14 | [TOUCH MY BODY](http://twitter.com/search?q=TOUCH+MY+BODY) | N/A |
-| 15 | [countdown to cl concert d4](http://twitter.com/search?q=countdown+to+cl+concert+d4) | N/A |
+| 14 | [countdown to cl concert d4](http://twitter.com/search?q=countdown+to+cl+concert+d4) | N/A |
+| 15 | [Touch My Body](http://twitter.com/search?q=Touch+My+Body) | N/A |
 | 16 | [OffGun Fun Outing](http://twitter.com/search?q=OffGun+Fun+Outing) | N/A |
-| 17 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
-| 18 | [Ready for Launch](http://twitter.com/search?q=Ready+for+Launch) | N/A |
-| 19 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 20 | [America](http://twitter.com/search?q=America) | N/A |
-| 21 | [KEM MOOKDA](http://twitter.com/search?q=KEM+MOOKDA) | N/A |
-| 22 | [#MarkTuanAsiatour2023](http://twitter.com/search?q=%23MarkTuanAsiatour2023) | N/A |
-| 23 | [#เจ็ดแสนทวิตพิชิตใจนุนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%88%e0%b9%87%e0%b8%94%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%95%e0%b8%9e%e0%b8%b4%e0%b8%8a%e0%b8%b4%e0%b8%95%e0%b9%83%e0%b8%88%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 24 | [#DOJAEJUNGisReady](http://twitter.com/search?q=%23DOJAEJUNGisReady) | N/A |
-| 25 | [#รักร้ายEP3](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2EP3) | N/A |
-| 26 | [#ครบรอบ4ปีวีมาร์ค](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a3%e0%b8%9a%e0%b8%a3%e0%b8%ad%e0%b8%9a4%e0%b8%9b%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%84) | N/A |
-| 27 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 28 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
-| 29 | [#MidnightMuseumEP7](http://twitter.com/search?q=%23MidnightMuseumEP7) | N/A |
-| 30 | [#53ปีช่อง3ดีต่อใจ](http://twitter.com/search?q=%2353%e0%b8%9b%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%873%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
-| 31 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 32 | [#31มีนาคอนเสิร์ตชาล็อต](http://twitter.com/search?q=%2331%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 17 | [Ready for Launch](http://twitter.com/search?q=Ready+for+Launch) | N/A |
+| 18 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 19 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
+| 20 | [Wishing](http://twitter.com/search?q=Wishing) | N/A |
+| 21 | [America](http://twitter.com/search?q=America) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Bright Morning](http://twitter.com/search?q=Bright+Morning) | N/A |
+| 24 | [#MarkTuanAsiatour2023](http://twitter.com/search?q=%23MarkTuanAsiatour2023) | N/A |
+| 25 | [#เจ็ดแสนทวิตพิชิตใจนุนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%88%e0%b9%87%e0%b8%94%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%95%e0%b8%9e%e0%b8%b4%e0%b8%8a%e0%b8%b4%e0%b8%95%e0%b9%83%e0%b8%88%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 26 | [#DOJAEJUNGisReady](http://twitter.com/search?q=%23DOJAEJUNGisReady) | N/A |
+| 27 | [#รักร้ายEP3](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2EP3) | N/A |
+| 28 | [#ครบรอบ4ปีวีมาร์ค](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a3%e0%b8%9a%e0%b8%a3%e0%b8%ad%e0%b8%9a4%e0%b8%9b%e0%b8%b5%e0%b8%a7%e0%b8%b5%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%84) | N/A |
+| 29 | [#ฟรีนเบคFanBoomD2](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%9a%e0%b8%84FanBoomD2) | N/A |
+| 30 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 31 | [#MidnightMuseumEP7](http://twitter.com/search?q=%23MidnightMuseumEP7) | N/A |
+| 32 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 | 33 | [#theothersideASIATOUR](http://twitter.com/search?q=%23theothersideASIATOUR) | N/A |
-| 34 | [#SulwhasooxPrem](http://twitter.com/search?q=%23SulwhasooxPrem) | N/A |
-| 35 | [#SourandSweetDDayPoster](http://twitter.com/search?q=%23SourandSweetDDayPoster) | N/A |
-| 36 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
-| 37 | [#รักเธอonlyyouxatlas](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%98%e0%b8%adonlyyouxatlas) | N/A |
-| 38 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
-| 39 | [#sourandsweet_d1](http://twitter.com/search?q=%23sourandsweet_d1) | N/A |
-| 40 | [#efmdjplaylistxpeck](http://twitter.com/search?q=%23efmdjplaylistxpeck) | N/A |
-| 41 | [#ซนซนขอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%99%e0%b8%8b%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | #ซนซนขอแลกฟอล is a hashtag used on social media in Thailand. It translates to "Let's exchange gifts" and is used to encourage people to exchange gifts with each other. |
-| 42 | [#ฝุ่นภาคเหนือ](http://twitter.com/search?q=%23%e0%b8%9d%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad) | N/A |
-| 43 | [#LAZADAxLAZ1Party](http://twitter.com/search?q=%23LAZADAxLAZ1Party) | N/A |
-| 44 | [#ไบรท์วิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b8%97%e0%b9%8c%e0%b8%a7%e0%b8%b4%e0%b8%99) | N/A |
-| 45 | [#หมอหลวงep2](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87ep2) | N/A |
-| 46 | [#Flex1045xJeffSatur](http://twitter.com/search?q=%23Flex1045xJeffSatur) | N/A |
-| 47 | [#LetsseeSAKURAwithYW](http://twitter.com/search?q=%23LetsseeSAKURAwithYW) | N/A |
-| 48 | [#saveแม่สาย](http://twitter.com/search?q=%23save%e0%b9%81%e0%b8%a1%e0%b9%88%e0%b8%aa%e0%b8%b2%e0%b8%a2) | N/A |
+| 34 | [#31มีนาคอนเสิร์ตชาล็อต](http://twitter.com/search?q=%2331%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%b2%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
+| 35 | [#53ปีช่อง3ดีต่อใจ](http://twitter.com/search?q=%2353%e0%b8%9b%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%873%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
+| 36 | [#SulwhasooxPrem](http://twitter.com/search?q=%23SulwhasooxPrem) | N/A |
+| 37 | [#SourandSweetDDayPoster](http://twitter.com/search?q=%23SourandSweetDDayPoster) | N/A |
+| 38 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
+| 39 | [#รักเธอonlyyouxatlas](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b9%80%e0%b8%98%e0%b8%adonlyyouxatlas) | N/A |
+| 40 | [#ซนซนขอแลกฟอล](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%99%e0%b8%8b%e0%b8%99%e0%b8%82%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b8%81%e0%b8%9f%e0%b8%ad%e0%b8%a5) | #ซนซนขอแลกฟอล is a hashtag used on social media in Thailand. It translates to "Let's exchange gifts" and is used to encourage people to exchange gifts with each other. |
+| 41 | [#ฝุ่นภาคเหนือ](http://twitter.com/search?q=%23%e0%b8%9d%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%84%e0%b9%80%e0%b8%ab%e0%b8%99%e0%b8%b7%e0%b8%ad) | N/A |
+| 42 | [#lazadaxlaz1party](http://twitter.com/search?q=%23lazadaxlaz1party) | N/A |
+| 43 | [#Flex1045xJeffSatur](http://twitter.com/search?q=%23Flex1045xJeffSatur) | N/A |
+| 44 | [#LetsseeSAKURAwithYW](http://twitter.com/search?q=%23LetsseeSAKURAwithYW) | N/A |
+| 45 | [#BelovedFestival53ปีดีต่อใจ](http://twitter.com/search?q=%23BelovedFestival53%e0%b8%9b%e0%b8%b5%e0%b8%94%e0%b8%b5%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%83%e0%b8%88) | N/A |
+| 46 | [#EFMDJPlaylistXPeck](http://twitter.com/search?q=%23EFMDJPlaylistXPeck) | N/A |
+| 47 | [#saveแม่สาย](http://twitter.com/search?q=%23save%e0%b9%81%e0%b8%a1%e0%b9%88%e0%b8%aa%e0%b8%b2%e0%b8%a2) | N/A |
+| 48 | [#ไบรท์วิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b8%97%e0%b9%8c%e0%b8%a7%e0%b8%b4%e0%b8%99) | N/A |
 | 49 | [#แฉxJeffSatur](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%89xJeffSatur) | N/A |
 | 50 | [#1M200KwithNoeul](http://twitter.com/search?q=%231M200KwithNoeul) | N/A |
 

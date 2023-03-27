@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-03-27 22:17:48 UTC`
+📆 Last Updated: `2023-03-27 23:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Oman](</Oman>)
 | 5 | [#رمضان_الخير_2023](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_2023) | N/A |
 | 6 | [حصن صحم](http://twitter.com/search?q=%d8%ad%d8%b5%d9%86+%d8%b5%d8%ad%d9%85) | N/A |
 | 7 | [نوح وابراهيم](http://twitter.com/search?q=%d9%86%d9%88%d8%ad+%d9%88%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 8 | [الحاله الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 9 | [مال مسقط](http://twitter.com/search?q=%d9%85%d8%a7%d9%84+%d9%85%d8%b3%d9%82%d8%b7) | N/A |
+| 8 | [مال مسقط](http://twitter.com/search?q=%d9%85%d8%a7%d9%84+%d9%85%d8%b3%d9%82%d8%b7) | N/A |
+| 9 | [الحاله الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
 | 10 | [العام السابع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9) | N/A |
 | 11 | [٥ رمضان](http://twitter.com/search?q=%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 12 | [الاجواء الجميله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d9%88%d8%a7%d8%a1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84%d9%87) | N/A |
 | 13 | [الامطار المتوقعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d9%82%d8%b9%d9%87) | N/A |
-| 14 | [زيد بن حارثة](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af+%d8%a8%d9%86+%d8%ad%d8%a7%d8%b1%d8%ab%d8%a9) | N/A |
-| 15 | [احمد بن سعيد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 16 | [علي المومنين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 17 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
-| 18 | [وزارة التربية والتعليم](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
-| 19 | [الباطنة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86%d8%a9) | N/A |
-| 20 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 21 | [المعلمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 22 | [حصن السويق](http://twitter.com/search?q=%d8%ad%d8%b5%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d9%82) | N/A |
-| 23 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 24 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 25 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 26 | [ولاية الخابورة](http://twitter.com/search?q=%d9%88%d9%84%d8%a7%d9%8a%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%a8%d9%88%d8%b1%d8%a9) | N/A |
-| 27 | [عبدالعزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 28 | [المركز الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 29 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 30 | [جنوب الشرقيه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
-| 31 | [محمد بن سليمان الكندي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d9%86%d8%af%d9%8a) | N/A |
-| 32 | [الوطني الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 33 | [مال الفحم](http://twitter.com/search?q=%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%81%d8%ad%d9%85) | N/A |
-| 34 | [الاجراءات القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 35 | [حارس المدرسه](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 36 | [النفط الخام](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%81%d8%b7+%d8%a7%d9%84%d8%ae%d8%a7%d9%85) | N/A |
-| 37 | [اوكي سنتر](http://twitter.com/search?q=%d8%a7%d9%88%d9%83%d9%8a+%d8%b3%d9%86%d8%aa%d8%b1) | N/A |
-| 38 | [المها العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 39 | [الكعبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%8a) | N/A |
-| 40 | [العمل الصالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 41 | [المهارات الحياتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
-| 42 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 43 | [الطيران المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 44 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 45 | [ياسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
-| 46 | [الامطار الرعديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%b1%d8%b9%d8%af%d9%8a%d9%87) | N/A |
-| 47 | [مرصد الاسعار](http://twitter.com/search?q=%d9%85%d8%b1%d8%b5%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d8%b9%d8%a7%d8%b1) | N/A |
-| 48 | [جامعه صحار](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%b5%d8%ad%d8%a7%d8%b1) | N/A |
-| 49 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 14 | [احمد بن سعيد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 15 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
+| 16 | [وزارة التربية والتعليم](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 17 | [الباطنة](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86%d8%a9) | N/A |
+| 18 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 19 | [المعلمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 20 | [حصن السويق](http://twitter.com/search?q=%d8%ad%d8%b5%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d9%82) | N/A |
+| 21 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 22 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 23 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 24 | [ولاية الخابورة](http://twitter.com/search?q=%d9%88%d9%84%d8%a7%d9%8a%d8%a9+%d8%a7%d9%84%d8%ae%d8%a7%d8%a8%d9%88%d8%b1%d8%a9) | N/A |
+| 25 | [جنوب الشرقيه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
+| 26 | [عبدالعزيز](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 27 | [المركز الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 28 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 29 | [محمد بن سليمان الكندي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d9%86%d8%af%d9%8a) | N/A |
+| 30 | [الوطني الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 31 | [مال الفحم](http://twitter.com/search?q=%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%81%d8%ad%d9%85) | N/A |
+| 32 | [الاجراءات القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%b1%d8%a7%d8%a1%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 33 | [حارس المدرسه](http://twitter.com/search?q=%d8%ad%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 34 | [النفط الخام](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%81%d8%b7+%d8%a7%d9%84%d8%ae%d8%a7%d9%85) | N/A |
+| 35 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 36 | [اوكي سنتر](http://twitter.com/search?q=%d8%a7%d9%88%d9%83%d9%8a+%d8%b3%d9%86%d8%aa%d8%b1) | N/A |
+| 37 | [المها العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 38 | [الكعبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b9%d8%a8%d9%8a) | N/A |
+| 39 | [العمل الصالح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
+| 40 | [المهارات الحياتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
+| 41 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 42 | [الطيران المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 43 | [ياسين](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86) | N/A |
+| 44 | [الامطار الرعديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%b1%d8%b9%d8%af%d9%8a%d9%87) | N/A |
+| 45 | [مرصد الاسعار](http://twitter.com/search?q=%d9%85%d8%b1%d8%b5%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d8%b9%d8%a7%d8%b1) | N/A |
+| 46 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 47 | [جامعه صحار](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%b5%d8%ad%d8%a7%d8%b1) | N/A |
+| 48 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 49 | [جاي الخير](http://twitter.com/search?q=%d8%ac%d8%a7%d9%8a+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
 | 50 | [التوجيه المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
 
 

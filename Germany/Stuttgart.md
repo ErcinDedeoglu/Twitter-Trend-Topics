@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-27 22:17:26 UTC`
+📆 Last Updated: `2023-03-27 23:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 2 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 1 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 2 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
 | 3 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
 | 4 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
 | 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 7 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 8 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 9 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 10 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 6 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 7 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 8 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 9 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 10 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
 | 11 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
 | 12 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
 | 13 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
@@ -32,38 +32,38 @@ This is top 50 for [Germany](</Germany>)
 | 15 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
 | 16 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
 | 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 19 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 20 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 21 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 22 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
-| 23 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 24 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 25 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 26 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 27 | [Anja Kohl](http://twitter.com/search?q=Anja+Kohl) | N/A |
-| 28 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 29 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 30 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
-| 31 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 32 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
-| 33 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
-| 34 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 35 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 36 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 37 | [Tilo](http://twitter.com/search?q=Tilo) | N/A |
+| 18 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 19 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 20 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 21 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 22 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
+| 23 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 24 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 25 | [Anja Kohl](http://twitter.com/search?q=Anja+Kohl) | N/A |
+| 26 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 27 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 28 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
+| 29 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 30 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
+| 31 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
+| 32 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 33 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
+| 34 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 35 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 36 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 37 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 38 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 39 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
-| 40 | [Planet](http://twitter.com/search?q=Planet) | N/A |
-| 41 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 42 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 43 | [Leos](http://twitter.com/search?q=Leos) | N/A |
-| 44 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 39 | [Tilo](http://twitter.com/search?q=Tilo) | N/A |
+| 40 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 41 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 42 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 43 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 44 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
 | 45 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
-| 46 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 47 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 48 | [Zyniker](http://twitter.com/search?q=Zyniker) | N/A |
-| 49 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 46 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 47 | [Zyniker](http://twitter.com/search?q=Zyniker) | N/A |
+| 48 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 49 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-27 22:18:07 UTC`
+📆 Last Updated: `2023-03-27 23:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Guatemala
 | 4 | [Sammy Morales](http://twitter.com/search?q=Sammy+Morales) | N/A |
 | 5 | [#EleccionesGT](http://twitter.com/search?q=%23EleccionesGT) | N/A |
 | 6 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 7 | [#KingsLeagueF4](http://twitter.com/search?q=%23KingsLeagueF4) | N/A |
-| 8 | [Quinto Domingo de Cuaresma](http://twitter.com/search?q=Quinto+Domingo+de+Cuaresma) | N/A |
-| 9 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 10 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 11 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 12 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 13 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 14 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 15 | [Taxisco](http://twitter.com/search?q=Taxisco) | N/A |
-| 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 18 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
+| 7 | [Massiel Carrillo](http://twitter.com/search?q=Massiel+Carrillo) | N/A |
+| 8 | [#KingsLeagueF4](http://twitter.com/search?q=%23KingsLeagueF4) | N/A |
+| 9 | [Puerto Barrios](http://twitter.com/search?q=Puerto+Barrios) | N/A |
+| 10 | [Quinto Domingo de Cuaresma](http://twitter.com/search?q=Quinto+Domingo+de+Cuaresma) | N/A |
+| 11 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 12 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 13 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 14 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 15 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 16 | [Taxisco](http://twitter.com/search?q=Taxisco) | N/A |
+| 17 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 18 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 19 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 20 | [Pacífico](http://twitter.com/search?q=Pac%c3%adfico) | N/A |
-| 21 | [Santa Rosa](http://twitter.com/search?q=Santa+Rosa) | N/A |
+| 21 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
 | 22 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
 | 23 | [Semilla](http://twitter.com/search?q=Semilla) | N/A |
-| 24 | [san bartolomé becerra](http://twitter.com/search?q=san+bartolom%c3%a9+becerra) | N/A |
-| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 26 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 27 | [Villacorta](http://twitter.com/search?q=Villacorta) | N/A |
-| 28 | [Guate](http://twitter.com/search?q=Guate) | N/A |
-| 29 | [48 Cantones](http://twitter.com/search?q=48+Cantones) | N/A |
-| 30 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 31 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 32 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 33 | [Parlacen](http://twitter.com/search?q=Parlacen) | N/A |
-| 34 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
-| 35 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 36 | [NULO](http://twitter.com/search?q=NULO) | N/A |
-| 37 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
-| 38 | [CODECA](http://twitter.com/search?q=CODECA) | N/A |
-| 39 | [Roberto Arzú](http://twitter.com/search?q=Roberto+Arz%c3%ba) | N/A |
-| 40 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 42 | [Adri](http://twitter.com/search?q=Adri) | N/A |
+| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 25 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 26 | [Contaminación](http://twitter.com/search?q=Contaminaci%c3%b3n) | N/A |
+| 27 | [48 Cantones](http://twitter.com/search?q=48+Cantones) | N/A |
+| 28 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 29 | [Guate](http://twitter.com/search?q=Guate) | N/A |
+| 30 | [Parlacen](http://twitter.com/search?q=Parlacen) | N/A |
+| 31 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 32 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 33 | [Villacorta](http://twitter.com/search?q=Villacorta) | N/A |
+| 34 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 35 | [Nulo](http://twitter.com/search?q=Nulo) | N/A |
+| 36 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
+| 37 | [CODECA](http://twitter.com/search?q=CODECA) | N/A |
+| 38 | [Roberto Arzú](http://twitter.com/search?q=Roberto+Arz%c3%ba) | N/A |
+| 39 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 40 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 41 | [Adri](http://twitter.com/search?q=Adri) | N/A |
+| 42 | [Santa Rosa](http://twitter.com/search?q=Santa+Rosa) | N/A |
 | 43 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 44 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 45 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 46 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 47 | [La Terminal](http://twitter.com/search?q=La+Terminal) | N/A |
-| 48 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 49 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
-| 50 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 44 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 45 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 46 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 47 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 48 | [La Terminal](http://twitter.com/search?q=La+Terminal) | N/A |
+| 49 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 50 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
 
 
 

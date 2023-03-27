@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-27 22:18:01 UTC`
+📆 Last Updated: `2023-03-27 23:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PrincipalsAdvocate](http://twitter.com/search?q=%23PrincipalsAdvocate) | N/A |
-| 2 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 1 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 2 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 3 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 4 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 4 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 5 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 6 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 7 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 8 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 9 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 10 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
-| 11 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
-| 12 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 13 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 14 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 15 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 16 | [#BanAssaultWeapons](http://twitter.com/search?q=%23BanAssaultWeapons) | N/A |
+| 6 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 7 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 8 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 9 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
+| 10 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 11 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 12 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 13 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
+| 14 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 15 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 16 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
 | 17 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 18 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 19 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 20 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 21 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
-| 22 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
-| 23 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 24 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 25 | [Meek Mill](http://twitter.com/search?q=Meek+Mill) | N/A |
-| 26 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 27 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 28 | [Three 9](http://twitter.com/search?q=Three+9) | N/A |
+| 18 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 19 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 20 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 21 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 22 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 23 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
+| 24 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
+| 25 | [Three 9](http://twitter.com/search?q=Three+9) | N/A |
+| 26 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
+| 27 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
+| 28 | [Meek Mill](http://twitter.com/search?q=Meek+Mill) | N/A |
 | 29 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 30 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 31 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 32 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 33 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 35 | [Samantha Hyde](http://twitter.com/search?q=Samantha+Hyde) | N/A |
-| 36 | [Katherine Koonce](http://twitter.com/search?q=Katherine+Koonce) | N/A |
-| 37 | [alex russo](http://twitter.com/search?q=alex+russo) | N/A |
-| 38 | [Shove](http://twitter.com/search?q=Shove) | N/A |
-| 39 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 40 | [Umps](http://twitter.com/search?q=Umps) | N/A |
-| 41 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 42 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 43 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 44 | [Evelyn Dieckhaus](http://twitter.com/search?q=Evelyn+Dieckhaus) | N/A |
-| 45 | [Highland Park](http://twitter.com/search?q=Highland+Park) | N/A |
-| 46 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
-| 47 | [Biological](http://twitter.com/search?q=Biological) | N/A |
-| 48 | [Andy Ogles](http://twitter.com/search?q=Andy+Ogles) | N/A |
-| 49 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
+| 30 | [Testosterone](http://twitter.com/search?q=Testosterone) | N/A |
+| 31 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 32 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 33 | [Katherine Koonce](http://twitter.com/search?q=Katherine+Koonce) | N/A |
+| 34 | [Alex Russo](http://twitter.com/search?q=Alex+Russo) | N/A |
+| 35 | [Armed](http://twitter.com/search?q=Armed) | N/A |
+| 36 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 37 | [Biological](http://twitter.com/search?q=Biological) | N/A |
+| 38 | [Evelyn Dieckhaus](http://twitter.com/search?q=Evelyn+Dieckhaus) | N/A |
+| 39 | [Mentally](http://twitter.com/search?q=Mentally) | N/A |
+| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 41 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 42 | [Sour Candy](http://twitter.com/search?q=Sour+Candy) | N/A |
+| 43 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 44 | [Cynthia Peak](http://twitter.com/search?q=Cynthia+Peak) | N/A |
+| 45 | [Samantha Hyde](http://twitter.com/search?q=Samantha+Hyde) | N/A |
+| 46 | [Hallie Scruggs](http://twitter.com/search?q=Hallie+Scruggs) | N/A |
+| 47 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 48 | [Shove](http://twitter.com/search?q=Shove) | N/A |
+| 49 | [Mike Hill](http://twitter.com/search?q=Mike+Hill) | N/A |
 
 
 

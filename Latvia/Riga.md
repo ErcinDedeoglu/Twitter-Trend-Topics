@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-27 22:17:29 UTC`
+📆 Last Updated: `2023-03-27 23:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 5 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
 | 6 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
 | 7 | [Bauskas](http://twitter.com/search?q=Bauskas) | N/A |
-| 8 | [AirBaltic](http://twitter.com/search?q=AirBaltic) | N/A |
+| 8 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
 | 9 | [Audi](http://twitter.com/search?q=Audi) | N/A |
 | 10 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
 | 11 | [Kasko](http://twitter.com/search?q=Kasko) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for [Latvia](</Latvia>)
 | 25 | [tiem](http://twitter.com/search?q=tiem) | N/A |
 | 26 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
 | 27 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | N/A |
-| 28 | [Beidz](http://twitter.com/search?q=Beidz) | N/A |
+| 28 | [beidz](http://twitter.com/search?q=beidz) | N/A |
 | 29 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 | 30 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 31 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
-| 32 | [Vispār](http://twitter.com/search?q=Visp%c4%81r) | N/A |
-| 33 | [Staķis](http://twitter.com/search?q=Sta%c4%b7is) | N/A |
-| 34 | [drīz](http://twitter.com/search?q=dr%c4%abz) | N/A |
-| 35 | [toties](http://twitter.com/search?q=toties) | N/A |
-| 36 | [Vajadzēja](http://twitter.com/search?q=Vajadz%c4%93ja) | N/A |
-| 37 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 38 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
-| 39 | [parīzē](http://twitter.com/search?q=par%c4%abz%c4%93) | N/A |
-| 40 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
-| 41 | [Cilvēki](http://twitter.com/search?q=Cilv%c4%93ki) | N/A |
-| 42 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
-| 43 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
-| 44 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 45 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
-| 46 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
-| 47 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 48 | [nekas](http://twitter.com/search?q=nekas) | N/A |
-| 49 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 50 | [Saprotu](http://twitter.com/search?q=Saprotu) | N/A |
+| 31 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 32 | [Staķis](http://twitter.com/search?q=Sta%c4%b7is) | N/A |
+| 33 | [drīz](http://twitter.com/search?q=dr%c4%abz) | N/A |
+| 34 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 35 | [Vajadzēja](http://twitter.com/search?q=Vajadz%c4%93ja) | N/A |
+| 36 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 37 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
+| 38 | [parīzē](http://twitter.com/search?q=par%c4%abz%c4%93) | N/A |
+| 39 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
+| 40 | [Cilvēki](http://twitter.com/search?q=Cilv%c4%93ki) | N/A |
+| 41 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
+| 42 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 43 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
+| 44 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
+| 45 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 46 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 47 | [nekas](http://twitter.com/search?q=nekas) | N/A |
+| 48 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 49 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
+| 50 | [siguldas](http://twitter.com/search?q=siguldas) | N/A |
 
 
 
