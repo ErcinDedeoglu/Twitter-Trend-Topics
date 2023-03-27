@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-03-27 13:44:22 UTC`
+📆 Last Updated: `2023-03-27 14:27:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 4 | [#EscudoBolivariano2023](http://twitter.com/search?q=%23EscudoBolivariano2023) | N/A |
 | 5 | [#PuebloYFANBInvictos](http://twitter.com/search?q=%23PuebloYFANBInvictos) | N/A |
-| 6 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
-| 7 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
-| 8 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 9 | [Lanco](http://twitter.com/search?q=Lanco) | N/A |
-| 10 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 6 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
+| 7 | [Lanco](http://twitter.com/search?q=Lanco) | N/A |
+| 8 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 9 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
+| 10 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
 | 11 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
 | 12 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 13 | [Provincia de Venezuela](http://twitter.com/search?q=Provincia+de+Venezuela) | N/A |
-| 14 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
-| 15 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
-| 16 | [Info](http://twitter.com/search?q=Info) | N/A |
-| 17 | [Panteón Nacional](http://twitter.com/search?q=Pante%c3%b3n+Nacional) | N/A |
-| 18 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 19 | [Carite](http://twitter.com/search?q=Carite) | N/A |
+| 13 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
+| 14 | [Panteón Nacional](http://twitter.com/search?q=Pante%c3%b3n+Nacional) | N/A |
+| 15 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 16 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
+| 17 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 18 | [Carite](http://twitter.com/search?q=Carite) | N/A |
+| 19 | [Provincia de Venezuela](http://twitter.com/search?q=Provincia+de+Venezuela) | N/A |
 | 20 | [Andy Montañez](http://twitter.com/search?q=Andy+Monta%c3%b1ez) | N/A |
-| 21 | [Fido Dido](http://twitter.com/search?q=Fido+Dido) | N/A |
+| 21 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 22 | [marco antonio muñiz](http://twitter.com/search?q=marco+antonio+mu%c3%b1iz) | N/A |
-| 23 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 24 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 25 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 26 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 27 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 28 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 29 | [nicole junkermann](http://twitter.com/search?q=nicole+junkermann) | N/A |
-| 30 | [Compre](http://twitter.com/search?q=Compre) | N/A |
-| 31 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 32 | [Trululu](http://twitter.com/search?q=Trululu) | N/A |
-| 33 | [La Asunción](http://twitter.com/search?q=La+Asunci%c3%b3n) | N/A |
-| 34 | [Bandera Roja](http://twitter.com/search?q=Bandera+Roja) | N/A |
-| 35 | [Teresa Carreño](http://twitter.com/search?q=Teresa+Carre%c3%b1o) | N/A |
-| 36 | [Verónica Castro](http://twitter.com/search?q=Ver%c3%b3nica+Castro) | N/A |
-| 37 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 38 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 39 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 40 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 42 | [darién](http://twitter.com/search?q=dari%c3%a9n) | N/A |
+| 23 | [Fido Dido](http://twitter.com/search?q=Fido+Dido) | N/A |
+| 24 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
+| 25 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
+| 26 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 27 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 28 | [Compre](http://twitter.com/search?q=Compre) | N/A |
+| 29 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 30 | [trululu](http://twitter.com/search?q=trululu) | N/A |
+| 31 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 32 | [La Asunción](http://twitter.com/search?q=La+Asunci%c3%b3n) | N/A |
+| 33 | [Bandera Roja](http://twitter.com/search?q=Bandera+Roja) | N/A |
+| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 35 | [Verónica Castro](http://twitter.com/search?q=Ver%c3%b3nica+Castro) | N/A |
+| 36 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 37 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 38 | [bendecido domingo](http://twitter.com/search?q=bendecido+domingo) | N/A |
+| 39 | [Lakeland](http://twitter.com/search?q=Lakeland) | Lakeland is a city in central Florida, located between Tampa and Orlando. It is known for its many lakes, which give the city its name. The city is also home to several universities and colleges, as well as a variety of cultural attractions. |
+| 40 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 41 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 42 | [Darién](http://twitter.com/search?q=Dari%c3%a9n) | N/A |
 | 43 | [Burt Reynolds](http://twitter.com/search?q=Burt+Reynolds) | N/A |
 | 44 | [albóndiga](http://twitter.com/search?q=alb%c3%b3ndiga) | N/A |
 | 45 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
 | 46 | [Milton](http://twitter.com/search?q=Milton) | N/A |
-| 47 | [Henri Pittier](http://twitter.com/search?q=Henri+Pittier) | N/A |
-| 48 | [Rocío Durcal](http://twitter.com/search?q=Roc%c3%ado+Durcal) | N/A |
-| 49 | [el 26](http://twitter.com/search?q=el+26) | N/A |
+| 47 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 48 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 49 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 
 
 

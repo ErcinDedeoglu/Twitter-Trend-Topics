@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-27 13:44:54 UTC`
+📆 Last Updated: `2023-03-27 14:28:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 2 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 3 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 4 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 5 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 6 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 7 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 8 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 9 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 10 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 11 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 12 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 13 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
-| 14 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 15 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
-| 16 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 17 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 18 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 19 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 21 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 22 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
-| 23 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 24 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 25 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 26 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 27 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
-| 28 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 29 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 30 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 31 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 32 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 33 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 34 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
-| 35 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 36 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
-| 37 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 38 | [Saylor](http://twitter.com/search?q=Saylor) | N/A |
-| 39 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 40 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 41 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 42 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
-| 43 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
-| 44 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
+| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 4 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 5 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
+| 6 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 7 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 8 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 9 | [New Tyler](http://twitter.com/search?q=New+Tyler) | N/A |
+| 10 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 11 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 12 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 13 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
+| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 15 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 16 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 17 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 18 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 19 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
+| 20 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
+| 21 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 22 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 23 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 24 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
+| 25 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 26 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
+| 27 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 28 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 29 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 30 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 31 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
+| 32 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
+| 33 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
+| 34 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 35 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 36 | [Term](http://twitter.com/search?q=Term) | N/A |
+| 37 | [Robert Kraft](http://twitter.com/search?q=Robert+Kraft) | N/A |
+| 38 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
+| 39 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 40 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
+| 41 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
+| 42 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 43 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
+| 44 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
 | 45 | [Huckabee](http://twitter.com/search?q=Huckabee) | N/A |
-| 46 | [The Braves](http://twitter.com/search?q=The+Braves) | N/A |
-| 47 | [Home Depot](http://twitter.com/search?q=Home+Depot) | N/A |
-| 48 | [Elton](http://twitter.com/search?q=Elton) | N/A |
+| 46 | [For God](http://twitter.com/search?q=For+God) | N/A |
+| 47 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 48 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
 
 
 

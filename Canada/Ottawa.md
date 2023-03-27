@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-27 13:44:13 UTC`
+📆 Last Updated: `2023-03-27 14:27:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 2 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 3 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 4 | [Santé Québec](http://twitter.com/search?q=Sant%c3%a9+Qu%c3%a9bec) | N/A |
-| 5 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 7 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 8 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 9 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 10 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 11 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 13 | [#lavoixtva](http://twitter.com/search?q=%23lavoixtva) | N/A |
+| 1 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 4 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 5 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
+| 6 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 7 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 8 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 9 | [Santé Québec](http://twitter.com/search?q=Sant%c3%a9+Qu%c3%a9bec) | N/A |
+| 10 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 14 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 15 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 15 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 16 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 17 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 18 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 19 | [Isobel Cup](http://twitter.com/search?q=Isobel+Cup) | N/A |
-| 20 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 21 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 23 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 24 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 17 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 18 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 19 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 20 | [Isobel Cup](http://twitter.com/search?q=Isobel+Cup) | N/A |
+| 21 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 22 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
 | 25 | [250K in ETH](http://twitter.com/search?q=250K+in+ETH) | N/A |
-| 26 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 27 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 28 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 29 | [Jack edwards](http://twitter.com/search?q=Jack+edwards) | N/A |
-| 30 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 31 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 32 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 33 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
-| 34 | [teletoon](http://twitter.com/search?q=teletoon) | N/A |
-| 35 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 36 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
-| 37 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 38 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 39 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 40 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 41 | [TYSON BARRIE](http://twitter.com/search?q=TYSON+BARRIE) | N/A |
-| 42 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 43 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 26 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 27 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
+| 28 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 29 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 30 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
+| 31 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 32 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 33 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
+| 34 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 35 | [bibi](http://twitter.com/search?q=bibi) | N/A |
+| 36 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 37 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 38 | [TYSON BARRIE](http://twitter.com/search?q=TYSON+BARRIE) | N/A |
+| 39 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 40 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 41 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 42 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 43 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 44 | [Ron MacLean](http://twitter.com/search?q=Ron+MacLean) | N/A |
-| 45 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 46 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 47 | [reddick](http://twitter.com/search?q=reddick) | N/A |
-| 48 | [Olivia Chow](http://twitter.com/search?q=Olivia+Chow) | N/A |
-| 49 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 50 | [McDonough](http://twitter.com/search?q=McDonough) | N/A |
+| 45 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 46 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 47 | [keele](http://twitter.com/search?q=keele) | N/A |
+| 48 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 49 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 50 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
 
 
 

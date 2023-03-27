@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-27 13:44:32 UTC`
+📆 Last Updated: `2023-03-27 14:27:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,39 +31,39 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 14 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
 | 15 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
 | 16 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 17 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 18 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 19 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 20 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
-| 21 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 22 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 23 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 24 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 25 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
-| 26 | [Senf](http://twitter.com/search?q=Senf) | N/A |
-| 27 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 28 | [Blocher](http://twitter.com/search?q=Blocher) | N/A |
-| 29 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
-| 30 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
-| 31 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 32 | [organisation](http://twitter.com/search?q=organisation) | N/A |
+| 17 | [Blocher](http://twitter.com/search?q=Blocher) | N/A |
+| 18 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 19 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 20 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 21 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
+| 22 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 23 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
+| 24 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
+| 25 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 26 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 27 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
+| 28 | [Senf](http://twitter.com/search?q=Senf) | N/A |
+| 29 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
+| 30 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
+| 31 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
+| 32 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
 | 33 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
 | 34 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
 | 35 | [Effekt](http://twitter.com/search?q=Effekt) | N/A |
-| 36 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
-| 37 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 38 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 39 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
-| 40 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 41 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 42 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 36 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 37 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
+| 38 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 39 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
+| 40 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 41 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
+| 42 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
 | 43 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 44 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
+| 44 | [kräfte](http://twitter.com/search?q=kr%c3%a4fte) | N/A |
 | 45 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
 | 46 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
 | 47 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
 | 48 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
-| 49 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 49 | [Führerschein](http://twitter.com/search?q=F%c3%bchrerschein) | N/A |
 
 
 

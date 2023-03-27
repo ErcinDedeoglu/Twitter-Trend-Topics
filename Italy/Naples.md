@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-27 13:44:30 UTC`
+📆 Last Updated: `2023-03-27 14:27:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
 | 2 | [#27marzo](http://twitter.com/search?q=%2327marzo) | N/A |
 | 3 | [#MaltaItalia](http://twitter.com/search?q=%23MaltaItalia) | N/A |
-| 4 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 5 | [#Mengoni70Platini](http://twitter.com/search?q=%23Mengoni70Platini) | N/A |
+| 4 | [#Mengoni70Platini](http://twitter.com/search?q=%23Mengoni70Platini) | N/A |
+| 5 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 6 | [#PotrestiEssere](http://twitter.com/search?q=%23PotrestiEssere) | N/A |
-| 7 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
-| 8 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 7 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 8 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
 | 9 | [Turone](http://twitter.com/search?q=Turone) | N/A |
 | 10 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
 | 11 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
 | 12 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
-| 13 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
-| 14 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 15 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
+| 13 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 14 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 15 | [bielorussia](http://twitter.com/search?q=bielorussia) | N/A |
 | 16 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
 | 17 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 18 | [Alessandra De Stefano](http://twitter.com/search?q=Alessandra+De+Stefano) | N/A |
-| 19 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 18 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 19 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
 | 20 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
-| 21 | [CNEL](http://twitter.com/search?q=CNEL) | N/A |
-| 22 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 23 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 24 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 25 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 26 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
-| 27 | [Carlo Sassi](http://twitter.com/search?q=Carlo+Sassi) | N/A |
-| 28 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 29 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 30 | [pessina](http://twitter.com/search?q=pessina) | N/A |
-| 31 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 21 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 22 | [CNEL](http://twitter.com/search?q=CNEL) | N/A |
+| 23 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 24 | [Carlo Sassi](http://twitter.com/search?q=Carlo+Sassi) | N/A |
+| 25 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
+| 26 | [Pessina](http://twitter.com/search?q=Pessina) | N/A |
+| 27 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 28 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 29 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 30 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 31 | [Alessandra De Stefano](http://twitter.com/search?q=Alessandra+De+Stefano) | N/A |
 | 32 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 33 | [ADAMO ED](http://twitter.com/search?q=ADAMO+ED) | N/A |
-| 34 | [wilma](http://twitter.com/search?q=wilma) | N/A |
-| 35 | [paolo limiti](http://twitter.com/search?q=paolo+limiti) | N/A |
-| 36 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
-| 37 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 33 | [adamo ed](http://twitter.com/search?q=adamo+ed) | N/A |
+| 34 | [Paolo Limiti](http://twitter.com/search?q=Paolo+Limiti) | N/A |
+| 35 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 36 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 37 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
 | 38 | [Erba](http://twitter.com/search?q=Erba) | N/A |
-| 39 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 40 | [Vaciago](http://twitter.com/search?q=Vaciago) | N/A |
-| 41 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
-| 42 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 43 | [kjaer](http://twitter.com/search?q=kjaer) | N/A |
-| 44 | [Pioggia](http://twitter.com/search?q=Pioggia) | N/A |
-| 45 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
-| 46 | [Louise Michel](http://twitter.com/search?q=Louise+Michel) | N/A |
-| 47 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 48 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 49 | [Ciao Ivano](http://twitter.com/search?q=Ciao+Ivano) | N/A |
-| 50 | [Ziliani](http://twitter.com/search?q=Ziliani) | N/A |
+| 39 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 40 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
+| 41 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 42 | [Vaciago](http://twitter.com/search?q=Vaciago) | N/A |
+| 43 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
+| 44 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
+| 45 | [Louise Michel](http://twitter.com/search?q=Louise+Michel) | N/A |
+| 46 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 47 | [Ciao Ivano](http://twitter.com/search?q=Ciao+Ivano) | N/A |
+| 48 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 49 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
+| 50 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-27 13:44:40 UTC`
+📆 Last Updated: `2023-03-27 14:27:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 2 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 3 | [GGMovieSoon WithDONNY](http://twitter.com/search?q=GGMovieSoon+WithDONNY) | N/A |
-| 4 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 5 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 6 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
-| 7 | [#DLTheExIsBack](http://twitter.com/search?q=%23DLTheExIsBack) | N/A |
-| 8 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 9 | [Happy Birthday Lazada](http://twitter.com/search?q=Happy+Birthday+Lazada) | N/A |
-| 10 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
-| 11 | [#UrdujaWagi](http://twitter.com/search?q=%23UrdujaWagi) | N/A |
-| 12 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
-| 13 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 14 | [#DreamChaserCutiePie](http://twitter.com/search?q=%23DreamChaserCutiePie) | N/A |
-| 15 | [ONE VIBRENT MONTH](http://twitter.com/search?q=ONE+VIBRENT+MONTH) | N/A |
-| 16 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 17 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
-| 18 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
-| 19 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
-| 20 | [Elena 1944](http://twitter.com/search?q=Elena+1944) | N/A |
-| 21 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 22 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 1 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
+| 2 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 3 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 4 | [GGMovieSoon WithDONNY](http://twitter.com/search?q=GGMovieSoon+WithDONNY) | N/A |
+| 5 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
+| 6 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 7 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 8 | [#DLTheExIsBack](http://twitter.com/search?q=%23DLTheExIsBack) | N/A |
+| 9 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 10 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 11 | [ONE VIBRENT MONTH](http://twitter.com/search?q=ONE+VIBRENT+MONTH) | N/A |
+| 12 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 13 | [Happy Birthday Lazada](http://twitter.com/search?q=Happy+Birthday+Lazada) | N/A |
+| 14 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 15 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 16 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
+| 17 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
+| 18 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 19 | [new era of kathryn](http://twitter.com/search?q=new+era+of+kathryn) | N/A |
+| 20 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 21 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
+| 22 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
 | 23 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 24 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 25 | [Dolly De Leon](http://twitter.com/search?q=Dolly+De+Leon) | Dolly De Leon is a popular Mexican phrase that is used to express admiration or approval. It literally translates to "Good for you, Dolly!" and is often used as a way of congratulating someone on their success or achievements. |
-| 26 | [JK for CK](http://twitter.com/search?q=JK+for+CK) | N/A |
-| 27 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 28 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 29 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 24 | [Elena 1944](http://twitter.com/search?q=Elena+1944) | N/A |
+| 25 | [JK for CK](http://twitter.com/search?q=JK+for+CK) | N/A |
+| 26 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 27 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 28 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 29 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 | 30 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 31 | [Baek](http://twitter.com/search?q=Baek) | N/A |
-| 32 | [KDLEX TWOgether IN JAPAN](http://twitter.com/search?q=KDLEX+TWOgether+IN+JAPAN) | N/A |
-| 33 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 34 | [#fpjbqbalak](http://twitter.com/search?q=%23fpjbqbalak) | N/A |
-| 35 | [#NewMovieAlertKathryn](http://twitter.com/search?q=%23NewMovieAlertKathryn) | N/A |
-| 36 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 37 | [#JKxCK](http://twitter.com/search?q=%23JKxCK) | N/A |
-| 38 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
-| 39 | [#averygoodgirl](http://twitter.com/search?q=%23averygoodgirl) | N/A |
-| 40 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
-| 41 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
-| 42 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 43 | [#VXON_Comeback](http://twitter.com/search?q=%23VXON_Comeback) | N/A |
-| 44 | [#VXON_BreakingBad](http://twitter.com/search?q=%23VXON_BreakingBad) | N/A |
-| 45 | [#ManCrushMonday](http://twitter.com/search?q=%23ManCrushMonday) | N/A |
+| 31 | [DOLLY DE LEON](http://twitter.com/search?q=DOLLY+DE+LEON) | N/A |
+| 32 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 33 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 34 | [KDLEX TWOgether IN JAPAN](http://twitter.com/search?q=KDLEX+TWOgether+IN+JAPAN) | N/A |
+| 35 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 36 | [#UrdujaWagi](http://twitter.com/search?q=%23UrdujaWagi) | N/A |
+| 37 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 38 | [#DreamChaserCutiePie](http://twitter.com/search?q=%23DreamChaserCutiePie) | N/A |
+| 39 | [#BrightWin](http://twitter.com/search?q=%23BrightWin) | N/A |
+| 40 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
+| 41 | [#fpjbqbalak](http://twitter.com/search?q=%23fpjbqbalak) | N/A |
+| 42 | [#JKxCK](http://twitter.com/search?q=%23JKxCK) | N/A |
+| 43 | [#GlobalPrayerForHumanity](http://twitter.com/search?q=%23GlobalPrayerForHumanity) | N/A |
+| 44 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 45 | [#averygoodgirl](http://twitter.com/search?q=%23averygoodgirl) | N/A |
+| 46 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
+| 47 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 48 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 49 | [#VXON_Comeback](http://twitter.com/search?q=%23VXON_Comeback) | N/A |
+| 50 | [#VXON_BreakingBad](http://twitter.com/search?q=%23VXON_BreakingBad) | N/A |
 
 
 

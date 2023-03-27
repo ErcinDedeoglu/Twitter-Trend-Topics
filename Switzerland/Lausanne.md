@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-27 13:44:32 UTC`
+📆 Last Updated: `2023-03-27 14:27:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,39 +29,39 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 12 | [Serie](http://twitter.com/search?q=Serie) | N/A |
 | 13 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
 | 14 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
-| 15 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
-| 16 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 17 | [zeitung](http://twitter.com/search?q=zeitung) | N/A |
+| 15 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 16 | [Blocher](http://twitter.com/search?q=Blocher) | N/A |
+| 17 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
 | 18 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 19 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 20 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
-| 21 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 22 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 23 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 24 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 25 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
-| 26 | [Senf](http://twitter.com/search?q=Senf) | N/A |
-| 27 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
-| 28 | [Blocher](http://twitter.com/search?q=Blocher) | N/A |
+| 19 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 20 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
+| 21 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 22 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
+| 23 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
+| 24 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 25 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 26 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
+| 27 | [Senf](http://twitter.com/search?q=Senf) | N/A |
+| 28 | [März 2023](http://twitter.com/search?q=M%c3%a4rz+2023) | N/A |
 | 29 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
 | 30 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
-| 31 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 32 | [organisation](http://twitter.com/search?q=organisation) | N/A |
-| 33 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
-| 34 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
-| 35 | [Effekt](http://twitter.com/search?q=Effekt) | N/A |
+| 31 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 32 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
+| 33 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
+| 34 | [Effekt](http://twitter.com/search?q=Effekt) | N/A |
+| 35 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
 | 36 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
 | 37 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 38 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 39 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
-| 40 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 38 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
+| 39 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 40 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
 | 41 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 42 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 43 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 44 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
-| 45 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 46 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 47 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 42 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 43 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
+| 44 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 45 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 46 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 47 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
 
 
 

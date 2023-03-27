@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-27 13:44:27 UTC`
+📆 Last Updated: `2023-03-27 14:27:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 2 | [#CDISCOUNTMISSIONMARS](http://twitter.com/search?q=%23CDISCOUNTMISSIONMARS) | N/A |
-| 3 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 4 | [#SainteSoline](http://twitter.com/search?q=%23SainteSoline) | N/A |
-| 5 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 6 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 7 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 8 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
-| 9 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 10 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 11 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 12 | [Jonathan Clauss](http://twitter.com/search?q=Jonathan+Clauss) | N/A |
+| 1 | [#CDISCOUNTMISSIONMARS](http://twitter.com/search?q=%23CDISCOUNTMISSIONMARS) | N/A |
+| 2 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 3 | [#SainteSoline](http://twitter.com/search?q=%23SainteSoline) | N/A |
+| 4 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 5 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
+| 6 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
+| 7 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 8 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 9 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
+| 10 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 11 | [Jonathan Clauss](http://twitter.com/search?q=Jonathan+Clauss) | N/A |
+| 12 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
 | 13 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
-| 14 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 15 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 16 | [BRGM](http://twitter.com/search?q=BRGM) | N/A |
-| 17 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 18 | [Bénédicte Taurine](http://twitter.com/search?q=B%c3%a9n%c3%a9dicte+Taurine) | N/A |
-| 19 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 20 | [Acola](http://twitter.com/search?q=Acola) | N/A |
-| 21 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 14 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 15 | [BRGM](http://twitter.com/search?q=BRGM) | N/A |
+| 16 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 17 | [Bénédicte Taurine](http://twitter.com/search?q=B%c3%a9n%c3%a9dicte+Taurine) | N/A |
+| 18 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 19 | [Acola](http://twitter.com/search?q=Acola) | N/A |
+| 20 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 21 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
 | 22 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
-| 23 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
-| 24 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 25 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
+| 23 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 24 | [Zarco](http://twitter.com/search?q=Zarco) | N/A |
+| 25 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
 | 26 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
 | 27 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 28 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 29 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 30 | [Lacoste](http://twitter.com/search?q=Lacoste) | N/A |
-| 31 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 32 | [Summit](http://twitter.com/search?q=Summit) | N/A |
-| 33 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
-| 34 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
-| 35 | [Louvre](http://twitter.com/search?q=Louvre) | N/A |
-| 36 | [France Connect](http://twitter.com/search?q=France+Connect) | N/A |
+| 28 | [Summit](http://twitter.com/search?q=Summit) | N/A |
+| 29 | [France Connect](http://twitter.com/search?q=France+Connect) | N/A |
+| 30 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 31 | [bon dimanche](http://twitter.com/search?q=bon+dimanche) | N/A |
+| 32 | [Le PS](http://twitter.com/search?q=Le+PS) | N/A |
+| 33 | [Lacoste](http://twitter.com/search?q=Lacoste) | N/A |
+| 34 | [Raffarin](http://twitter.com/search?q=Raffarin) | N/A |
+| 35 | [Les Flammes](http://twitter.com/search?q=Les+Flammes) | N/A |
+| 36 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 37 | [MuteAce](http://twitter.com/search?q=MuteAce) | N/A |
-| 38 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 39 | [laure calamy](http://twitter.com/search?q=laure+calamy) | N/A |
-| 40 | [Raffarin](http://twitter.com/search?q=Raffarin) | N/A |
-| 41 | [Polska](http://twitter.com/search?q=Polska) | N/A |
-| 42 | [seductive sunday](http://twitter.com/search?q=seductive+sunday) | N/A |
-| 43 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 44 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 45 | [Si la France](http://twitter.com/search?q=Si+la+France) | N/A |
-| 46 | [Chauffe](http://twitter.com/search?q=Chauffe) | N/A |
-| 47 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 48 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 49 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 50 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 38 | [laure calamy](http://twitter.com/search?q=laure+calamy) | N/A |
+| 39 | [Chauffe](http://twitter.com/search?q=Chauffe) | N/A |
+| 40 | [seductive sunday](http://twitter.com/search?q=seductive+sunday) | N/A |
+| 41 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 42 | [Polska](http://twitter.com/search?q=Polska) | N/A |
+| 43 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 44 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 45 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 46 | [Nozman](http://twitter.com/search?q=Nozman) | N/A |
+| 47 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 48 | [Agnostique](http://twitter.com/search?q=Agnostique) | N/A |
+| 49 | [Motta](http://twitter.com/search?q=Motta) | N/A |
+| 50 | [Gluto](http://twitter.com/search?q=Gluto) | N/A |
 
 
 

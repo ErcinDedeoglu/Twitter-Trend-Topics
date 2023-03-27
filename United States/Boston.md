@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-27 13:44:54 UTC`
+📆 Last Updated: `2023-03-27 14:28:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [United States](</United States>)
 | 6 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
 | 7 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
 | 8 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 9 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
-| 10 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 11 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 12 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 13 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 15 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
-| 16 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 17 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 18 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 19 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 20 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
-| 21 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 22 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 23 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 24 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 25 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 26 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 27 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
-| 28 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 29 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
-| 30 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 31 | [Saylor](http://twitter.com/search?q=Saylor) | N/A |
-| 32 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 33 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 34 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 35 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
-| 36 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
-| 37 | [Huckabee](http://twitter.com/search?q=Huckabee) | N/A |
-| 38 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
-| 39 | [Home Depot](http://twitter.com/search?q=Home+Depot) | N/A |
-| 40 | [The Braves](http://twitter.com/search?q=The+Braves) | N/A |
-| 41 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 42 | [Elton](http://twitter.com/search?q=Elton) | N/A |
-| 43 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 44 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 45 | [Shannon Sharpe](http://twitter.com/search?q=Shannon+Sharpe) | Shannon Sharpe is an American former professional football player and current sports analyst. He was a tight end for the Denver Broncos and Baltimore Ravens of the National Football League (NFL). He was inducted into the Pro Football Hall of Fame in 2011. The phrase "Shannon Sharpe" is used to refer to his accomplishments as a football player and his status as a Hall of Famer. |
-| 46 | [Knesset](http://twitter.com/search?q=Knesset) | N/A |
-| 47 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 48 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
+| 9 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 10 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 11 | [New Tyler](http://twitter.com/search?q=New+Tyler) | N/A |
+| 12 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 13 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 14 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 17 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 18 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 19 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 20 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
+| 21 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 22 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
+| 23 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 24 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 25 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
+| 26 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 27 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
+| 28 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 29 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 30 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 31 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
+| 32 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 33 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
+| 34 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
+| 35 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
+| 36 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 37 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 38 | [Term](http://twitter.com/search?q=Term) | N/A |
+| 39 | [Robert Kraft](http://twitter.com/search?q=Robert+Kraft) | N/A |
+| 40 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
+| 41 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 42 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
+| 43 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
+| 44 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 45 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
+| 46 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
+| 47 | [Huckabee](http://twitter.com/search?q=Huckabee) | N/A |
+| 48 | [For God](http://twitter.com/search?q=For+God) | N/A |
 
 
 

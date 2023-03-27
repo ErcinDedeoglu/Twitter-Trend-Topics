@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-03-27 13:44:58 UTC`
+📆 Last Updated: `2023-03-27 14:28:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#oklaed](http://twitter.com/search?q=%23oklaed) | N/A |
-| 2 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 5 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 6 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
-| 7 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
-| 8 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 9 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 10 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 11 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 13 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
-| 14 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 15 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 16 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 17 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 18 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
-| 19 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 20 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 21 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 22 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 23 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 24 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 25 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
-| 26 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 27 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
-| 28 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 29 | [Saylor](http://twitter.com/search?q=Saylor) | N/A |
-| 30 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 31 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 32 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
-| 33 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 34 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
-| 35 | [Huckabee](http://twitter.com/search?q=Huckabee) | N/A |
-| 36 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
-| 37 | [Home Depot](http://twitter.com/search?q=Home+Depot) | N/A |
-| 38 | [The Braves](http://twitter.com/search?q=The+Braves) | N/A |
-| 39 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 40 | [Elton](http://twitter.com/search?q=Elton) | N/A |
-| 41 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 42 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 43 | [Shannon Sharpe](http://twitter.com/search?q=Shannon+Sharpe) | Shannon Sharpe is an American former professional football player and current sports analyst. He was a tight end for the Denver Broncos and Baltimore Ravens of the National Football League (NFL). He was inducted into the Pro Football Hall of Fame in 2011. The phrase "Shannon Sharpe" is used to refer to his accomplishments as a football player and his status as a Hall of Famer. |
-| 44 | [Knesset](http://twitter.com/search?q=Knesset) | N/A |
-| 45 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 46 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
-| 47 | [eShop](http://twitter.com/search?q=eShop) | N/A |
-| 48 | [Post 4](http://twitter.com/search?q=Post+4) | N/A |
+| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 3 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 4 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
+| 5 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 6 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 7 | [New Tyler](http://twitter.com/search?q=New+Tyler) | N/A |
+| 8 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 9 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 10 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
+| 11 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 12 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 13 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 14 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 15 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 16 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
+| 17 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
+| 18 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 19 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 20 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 21 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
+| 22 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 23 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
+| 24 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 25 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 26 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 27 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 28 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
+| 29 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
+| 30 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
+| 31 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 32 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 33 | [Term](http://twitter.com/search?q=Term) | N/A |
+| 34 | [Robert Kraft](http://twitter.com/search?q=Robert+Kraft) | N/A |
+| 35 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
+| 36 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 37 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
+| 38 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
+| 39 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 40 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
+| 41 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
+| 42 | [Huckabee](http://twitter.com/search?q=Huckabee) | N/A |
+| 43 | [For God](http://twitter.com/search?q=For+God) | N/A |
+| 44 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 45 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
+| 46 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 
 
 

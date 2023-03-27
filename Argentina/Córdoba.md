@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-27 13:44:25 UTC`
+📆 Last Updated: `2023-03-27 14:27:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [Macri](http://twitter.com/search?q=Macri) | N/A |
 | 2 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 3 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 4 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
-| 5 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
-| 6 | [Bullrich](http://twitter.com/search?q=Bullrich) | N/A |
-| 7 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 8 | [#LongoEnRivadavia](http://twitter.com/search?q=%23LongoEnRivadavia) | N/A |
-| 9 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
-| 10 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
-| 11 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 12 | [Diego Ramos](http://twitter.com/search?q=Diego+Ramos) | N/A |
-| 13 | [Marley](http://twitter.com/search?q=Marley) | N/A |
-| 14 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 15 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
-| 16 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 17 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
-| 18 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 19 | [GH 2023](http://twitter.com/search?q=GH+2023) | N/A |
-| 20 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 21 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 22 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 23 | [Landa](http://twitter.com/search?q=Landa) | N/A |
-| 24 | [Feinmann](http://twitter.com/search?q=Feinmann) | N/A |
-| 25 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 26 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 27 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 28 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 29 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 30 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
-| 31 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 32 | [Majul](http://twitter.com/search?q=Majul) | N/A |
-| 33 | [kevin lopez](http://twitter.com/search?q=kevin+lopez) | N/A |
-| 34 | [Pasó Hitler](http://twitter.com/search?q=Pas%c3%b3+Hitler) | N/A |
-| 35 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 36 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 37 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 38 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 39 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 40 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 41 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 42 | [Ricardito](http://twitter.com/search?q=Ricardito) | N/A |
-| 43 | [Senior](http://twitter.com/search?q=Senior) | N/A |
-| 44 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 45 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 46 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
-| 47 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 48 | [martitegui](http://twitter.com/search?q=martitegui) | N/A |
-| 49 | [Gran Hermano 2023](http://twitter.com/search?q=Gran+Hermano+2023) | N/A |
-| 50 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 3 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
+| 4 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 5 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 6 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 7 | [Bullrich](http://twitter.com/search?q=Bullrich) | N/A |
+| 8 | [#ALabarbarossa](http://twitter.com/search?q=%23ALabarbarossa) | N/A |
+| 9 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
+| 10 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 11 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 12 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 13 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
+| 14 | [Milei](http://twitter.com/search?q=Milei) | N/A |
+| 15 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 16 | [Diego Ramos](http://twitter.com/search?q=Diego+Ramos) | N/A |
+| 17 | [Longobardi](http://twitter.com/search?q=Longobardi) | N/A |
+| 18 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 19 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 20 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 21 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 22 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 23 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
+| 24 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 25 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 26 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 27 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
+| 28 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 29 | [gh 2023](http://twitter.com/search?q=gh+2023) | N/A |
+| 30 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 31 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
+| 32 | [Landa](http://twitter.com/search?q=Landa) | N/A |
+| 33 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
+| 34 | [Feinmann](http://twitter.com/search?q=Feinmann) | N/A |
+| 35 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 37 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 38 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 39 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 40 | [Comando Unificado Conurbano](http://twitter.com/search?q=Comando+Unificado+Conurbano) | N/A |
+| 41 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
+| 42 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
+| 43 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 44 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
+| 45 | [Majul](http://twitter.com/search?q=Majul) | N/A |
+| 46 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 47 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 48 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 49 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
+| 50 | [Senior](http://twitter.com/search?q=Senior) | N/A |
 
 
 

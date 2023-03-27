@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-27 13:44:14 UTC`
+📆 Last Updated: `2023-03-27 14:27:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
 | 2 | [#SNPLeadershipElection](http://twitter.com/search?q=%23SNPLeadershipElection) | N/A |
-| 3 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 4 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 3 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 4 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
 | 5 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 6 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 7 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 8 | [#AutismAcceptanceWeek](http://twitter.com/search?q=%23AutismAcceptanceWeek) | N/A |
-| 9 | [Scottish National Party](http://twitter.com/search?q=Scottish+National+Party) | N/A |
-| 10 | [Hoggy](http://twitter.com/search?q=Hoggy) | N/A |
-| 11 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 12 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 6 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 7 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 8 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 9 | [#AutismAcceptanceWeek](http://twitter.com/search?q=%23AutismAcceptanceWeek) | N/A |
+| 10 | [Scottish National Party](http://twitter.com/search?q=Scottish+National+Party) | N/A |
+| 11 | [Hoggy](http://twitter.com/search?q=Hoggy) | N/A |
+| 12 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
 | 13 | [Stuart Hogg](http://twitter.com/search?q=Stuart+Hogg) | N/A |
-| 14 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
-| 15 | [Solidarity Jeremy](http://twitter.com/search?q=Solidarity+Jeremy) | N/A |
-| 16 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 17 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 18 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 19 | [Lallana](http://twitter.com/search?q=Lallana) | Lallana is a Spanish surname derived from the Latin word lallare, which means "to sing". It is also a common given name in India, derived from the Sanskrit word lalana, which means "playful". |
-| 20 | [Chelmsford](http://twitter.com/search?q=Chelmsford) | N/A |
-| 21 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 22 | [Gini](http://twitter.com/search?q=Gini) | N/A |
-| 23 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 24 | [Big Issue](http://twitter.com/search?q=Big+Issue) | N/A |
-| 25 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 26 | [Scottish Independence](http://twitter.com/search?q=Scottish+Independence) | N/A |
-| 27 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 28 | [Ash Sarkar](http://twitter.com/search?q=Ash+Sarkar) | N/A |
-| 29 | [Brandon Williams](http://twitter.com/search?q=Brandon+Williams) | N/A |
-| 30 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
-| 31 | [Zeze](http://twitter.com/search?q=Zeze) | N/A |
-| 32 | [The Union](http://twitter.com/search?q=The+Union) | N/A |
-| 33 | [Yousless](http://twitter.com/search?q=Yousless) | N/A |
-| 34 | [Ed Miliband](http://twitter.com/search?q=Ed+Miliband) | N/A |
-| 35 | [The Athletic](http://twitter.com/search?q=The+Athletic) | N/A |
-| 36 | [Independent](http://twitter.com/search?q=Independent) | N/A |
-| 37 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 38 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 39 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 40 | [Tess](http://twitter.com/search?q=Tess) | Tess is short for the name Theresa, which is of Greek origin and means "harvester". |
-| 41 | [Ian Dury](http://twitter.com/search?q=Ian+Dury) | N/A |
-| 42 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 43 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
-| 44 | [Euston](http://twitter.com/search?q=Euston) | N/A |
-| 45 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
-| 46 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 47 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 48 | [Tory Britain](http://twitter.com/search?q=Tory+Britain) | N/A |
+| 14 | [Solidarity Jeremy](http://twitter.com/search?q=Solidarity+Jeremy) | N/A |
+| 15 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 16 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 17 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 18 | [Poor Scotland](http://twitter.com/search?q=Poor+Scotland) | N/A |
+| 19 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 20 | [Lallana](http://twitter.com/search?q=Lallana) | Lallana is a Spanish surname derived from the Latin word lallare, which means "to sing". It is also a common given name in India, derived from the Sanskrit word lalana, which means "playful". |
+| 21 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 22 | [chelmsford](http://twitter.com/search?q=chelmsford) | N/A |
+| 23 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 24 | [Gini](http://twitter.com/search?q=Gini) | N/A |
+| 25 | [Scottish Independence](http://twitter.com/search?q=Scottish+Independence) | N/A |
+| 26 | [The Union](http://twitter.com/search?q=The+Union) | N/A |
+| 27 | [Brandon Williams](http://twitter.com/search?q=Brandon+Williams) | N/A |
+| 28 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 29 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
+| 30 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 31 | [Yousless](http://twitter.com/search?q=Yousless) | N/A |
+| 32 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 33 | [Ed Miliband](http://twitter.com/search?q=Ed+Miliband) | N/A |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [Elton](http://twitter.com/search?q=Elton) | N/A |
+| 36 | [Big Issue](http://twitter.com/search?q=Big+Issue) | N/A |
+| 37 | [Rigged](http://twitter.com/search?q=Rigged) | N/A |
+| 38 | [Zeze](http://twitter.com/search?q=Zeze) | N/A |
+| 39 | [Scottish Labour](http://twitter.com/search?q=Scottish+Labour) | N/A |
+| 40 | [The Athletic](http://twitter.com/search?q=The+Athletic) | N/A |
+| 41 | [Independent](http://twitter.com/search?q=Independent) | N/A |
+| 42 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
+| 43 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 44 | [Tess](http://twitter.com/search?q=Tess) | Tess is short for the name Theresa, which is of Greek origin and means "harvester". |
+| 45 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 46 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 47 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
 
 
 

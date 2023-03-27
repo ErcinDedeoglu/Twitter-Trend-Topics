@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-27 13:44:34 UTC`
+📆 Last Updated: `2023-03-27 14:27:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 2 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
-| 3 | [#SkintificRamadanBox](http://twitter.com/search?q=%23SkintificRamadanBox) | N/A |
-| 4 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 5 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 6 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 7 | [Want Skintific](http://twitter.com/search?q=Want+Skintific) | N/A |
-| 8 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 9 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
-| 10 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 11 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
-| 12 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 13 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 14 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 15 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
+| 1 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
+| 2 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 3 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
+| 4 | [#SkintificRamadanBox](http://twitter.com/search?q=%23SkintificRamadanBox) | N/A |
+| 5 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 6 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 7 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 8 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
+| 9 | [Want Skintific](http://twitter.com/search?q=Want+Skintific) | N/A |
+| 10 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 11 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 12 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 13 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
+| 14 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 15 | [Pakin](http://twitter.com/search?q=Pakin) | N/A |
 | 16 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 17 | [Box Ver](http://twitter.com/search?q=Box+Ver) | N/A |
-| 18 | [KITSCH IS OUT NOW](http://twitter.com/search?q=KITSCH+IS+OUT+NOW) | N/A |
-| 19 | [selamat berbuka puasa](http://twitter.com/search?q=selamat+berbuka+puasa) | N/A |
-| 20 | [Berubah](http://twitter.com/search?q=Berubah) | N/A |
-| 21 | [park jihoon](http://twitter.com/search?q=park+jihoon) | N/A |
-| 22 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 23 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
-| 24 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 25 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
-| 26 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
-| 27 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
-| 28 | [soree](http://twitter.com/search?q=soree) | N/A |
-| 29 | [turki](http://twitter.com/search?q=turki) | N/A |
+| 17 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
+| 18 | [Box Ver](http://twitter.com/search?q=Box+Ver) | N/A |
+| 19 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
+| 20 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 21 | [Berubah](http://twitter.com/search?q=Berubah) | N/A |
+| 22 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
+| 23 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 24 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 25 | [Berbuka](http://twitter.com/search?q=Berbuka) | N/A |
+| 26 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 27 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
+| 28 | [Risol](http://twitter.com/search?q=Risol) | N/A |
+| 29 | [Turki](http://twitter.com/search?q=Turki) | N/A |
 | 30 | [MYEONZART IS COMING](http://twitter.com/search?q=MYEONZART+IS+COMING) | N/A |
-| 31 | [Risol](http://twitter.com/search?q=Risol) | N/A |
-| 32 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
-| 33 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
-| 34 | [congratsss](http://twitter.com/search?q=congratsss) | N/A |
-| 35 | [CAT 1](http://twitter.com/search?q=CAT+1) | CAT 1 is an abbreviation for Category 1, which is a classification used to describe the severity of a hurricane. Category 1 hurricanes have sustained winds of 74-95 mph and can cause some damage to buildings, trees, and power lines. |
-| 36 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
-| 37 | [#kameraday](http://twitter.com/search?q=%23kameraday) | N/A |
-| 38 | [#TREASURE_Crystal_1](http://twitter.com/search?q=%23TREASURE_Crystal_1) | N/A |
-| 39 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
-| 40 | [#genshintwt](http://twitter.com/search?q=%23genshintwt) | N/A |
-| 41 | [#IVE_KITSCH_RELEASE](http://twitter.com/search?q=%23IVE_KITSCH_RELEASE) | N/A |
-| 42 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
-| 43 | [#AlwaysBySehunSide](http://twitter.com/search?q=%23AlwaysBySehunSide) | N/A |
-| 44 | [#세훈버블](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%eb%b2%84%eb%b8%94) | N/A |
-| 45 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
-| 46 | [#SUGA_AgustD_Jakarta](http://twitter.com/search?q=%23SUGA_AgustD_Jakarta) | N/A |
-| 47 | [#언제나세훈이편](http://twitter.com/search?q=%23%ec%96%b8%ec%a0%9c%eb%82%98%ec%84%b8%ed%9b%88%ec%9d%b4%ed%8e%b8) | N/A |
-| 48 | [#SUHO_MOZART_MUSICAL](http://twitter.com/search?q=%23SUHO_MOZART_MUSICAL) | N/A |
+| 31 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 32 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 33 | [#kameraday](http://twitter.com/search?q=%23kameraday) | N/A |
+| 34 | [#세훈버블](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%eb%b2%84%eb%b8%94) | N/A |
+| 35 | [#TREASURE_Crystal_1](http://twitter.com/search?q=%23TREASURE_Crystal_1) | N/A |
+| 36 | [#genshintwt](http://twitter.com/search?q=%23genshintwt) | N/A |
+| 37 | [#IVE_KITSCH_RELEASE](http://twitter.com/search?q=%23IVE_KITSCH_RELEASE) | N/A |
+| 38 | [#SUGA_AgustD_Jakarta](http://twitter.com/search?q=%23SUGA_AgustD_Jakarta) | N/A |
+| 39 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
+| 40 | [#언제나세훈이편](http://twitter.com/search?q=%23%ec%96%b8%ec%a0%9c%eb%82%98%ec%84%b8%ed%9b%88%ec%9d%b4%ed%8e%b8) | N/A |
+| 41 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 42 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 43 | [#SUGA_AgustD_TOUR_in_Jakarta](http://twitter.com/search?q=%23SUGA_AgustD_TOUR_in_Jakarta) | N/A |
+| 44 | [#SUHO_MOZART_MUSICAL](http://twitter.com/search?q=%23SUHO_MOZART_MUSICAL) | N/A |
 
 
 

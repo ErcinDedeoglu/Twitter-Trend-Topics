@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-27 13:44:23 UTC`
+📆 Last Updated: `2023-03-27 14:27:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 2 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 3 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 4 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
-| 5 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 6 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 7 | [#redacaosportv](http://twitter.com/search?q=%23redacaosportv) | N/A |
-| 8 | [#segundou](http://twitter.com/search?q=%23segundou) | N/A |
-| 9 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 10 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
-| 11 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 12 | [#foraBRUNAGRIPHAO](http://twitter.com/search?q=%23foraBRUNAGRIPHAO) | N/A |
-| 13 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
-| 14 | [Colo](http://twitter.com/search?q=Colo) | N/A |
-| 15 | [DELATA TACLA DURAN](http://twitter.com/search?q=DELATA+TACLA+DURAN) | N/A |
-| 16 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
-| 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 18 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
-| 19 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 20 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 21 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 22 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 23 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
-| 24 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 25 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 26 | [Argentinos Jrs](http://twitter.com/search?q=Argentinos+Jrs) | N/A |
-| 27 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 28 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 29 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 30 | [Ministério da Verdade](http://twitter.com/search?q=Minist%c3%a9rio+da+Verdade) | N/A |
-| 31 | [Renato Russo](http://twitter.com/search?q=Renato+Russo) | N/A |
-| 32 | [UFRN](http://twitter.com/search?q=UFRN) | N/A |
-| 33 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
-| 34 | [ESTOU COM LULA](http://twitter.com/search?q=ESTOU+COM+LULA) | N/A |
-| 35 | [Mariah Carey](http://twitter.com/search?q=Mariah+Carey) | N/A |
-| 36 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
-| 37 | [james potter](http://twitter.com/search?q=james+potter) | N/A |
-| 38 | [Paulo Kogos](http://twitter.com/search?q=Paulo+Kogos) | N/A |
-| 39 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 40 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 41 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 42 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 43 | [Raul Seixas](http://twitter.com/search?q=Raul+Seixas) | N/A |
-| 44 | [Chad](http://twitter.com/search?q=Chad) | N/A |
-| 45 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 46 | [Patético](http://twitter.com/search?q=Pat%c3%a9tico) | N/A |
-| 47 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
-| 48 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
-| 49 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
-| 50 | [Suíça](http://twitter.com/search?q=Su%c3%ad%c3%a7a) | N/A |
+| 2 | [Maya Gabeira](http://twitter.com/search?q=Maya+Gabeira) | N/A |
+| 3 | [SP e RJ](http://twitter.com/search?q=SP+e+RJ) | SP e RJ is an abbreviation for São Paulo and Rio de Janeiro, two of the largest cities in Brazil. In English, it translates to "São Paulo and Rio de Janeiro". |
+| 4 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 5 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
+| 6 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 7 | [#maisvoce](http://twitter.com/search?q=%23maisvoce) | N/A |
+| 8 | [#redacaosportv](http://twitter.com/search?q=%23redacaosportv) | N/A |
+| 9 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 10 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 11 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 12 | [RJ e SP](http://twitter.com/search?q=RJ+e+SP) | N/A |
+| 13 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
+| 14 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
+| 15 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 16 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
+| 17 | [São Paulo e Rio de Janeiro](http://twitter.com/search?q=S%c3%a3o+Paulo+e+Rio+de+Janeiro) | N/A |
+| 18 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
+| 19 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 20 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
+| 21 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 22 | [Colo](http://twitter.com/search?q=Colo) | N/A |
+| 23 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 24 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 25 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 26 | [Mais 4](http://twitter.com/search?q=Mais+4) | N/A |
+| 27 | [DELATA TACLA DURAN](http://twitter.com/search?q=DELATA+TACLA+DURAN) | N/A |
+| 28 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 30 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
+| 31 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
+| 32 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
+| 33 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 34 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 35 | [JusBrasil](http://twitter.com/search?q=JusBrasil) | N/A |
+| 36 | [Argentinos Jrs](http://twitter.com/search?q=Argentinos+Jrs) | N/A |
+| 37 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 38 | [ESTOU COM LULA](http://twitter.com/search?q=ESTOU+COM+LULA) | N/A |
+| 39 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 40 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 41 | [Ministério da Verdade](http://twitter.com/search?q=Minist%c3%a9rio+da+Verdade) | N/A |
+| 42 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 43 | [UFRN](http://twitter.com/search?q=UFRN) | N/A |
+| 44 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
+| 45 | [Paulo Kogos](http://twitter.com/search?q=Paulo+Kogos) | N/A |
+| 46 | [james potter](http://twitter.com/search?q=james+potter) | N/A |
+| 47 | [Mariah Carey](http://twitter.com/search?q=Mariah+Carey) | N/A |
+| 48 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
+| 49 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 50 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
 
 
 

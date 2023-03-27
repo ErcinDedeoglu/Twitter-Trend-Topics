@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-27 13:44:58 UTC`
+📆 Last Updated: `2023-03-27 14:28:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
 | 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 3 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
 | 4 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
 | 5 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
 | 6 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 7 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
-| 8 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 9 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 10 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 11 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 7 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 8 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 9 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 10 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 11 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
 | 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 13 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 14 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
-| 15 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 16 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 17 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 18 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 19 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
-| 20 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 21 | [TONY MONTANA](http://twitter.com/search?q=TONY+MONTANA) | N/A |
-| 22 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 23 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 24 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 25 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 26 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
-| 27 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 28 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
-| 29 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 30 | [Saylor](http://twitter.com/search?q=Saylor) | N/A |
-| 31 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 32 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 33 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 34 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
-| 35 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
-| 36 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
-| 37 | [Huckabee](http://twitter.com/search?q=Huckabee) | N/A |
-| 38 | [The Braves](http://twitter.com/search?q=The+Braves) | N/A |
-| 39 | [Home Depot](http://twitter.com/search?q=Home+Depot) | N/A |
-| 40 | [Elton](http://twitter.com/search?q=Elton) | N/A |
-| 41 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 42 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 43 | [John Kerry](http://twitter.com/search?q=John+Kerry) | N/A |
-| 44 | [Shannon Sharpe](http://twitter.com/search?q=Shannon+Sharpe) | Shannon Sharpe is an American former professional football player and current sports analyst. He was a tight end for the Denver Broncos and Baltimore Ravens of the National Football League (NFL). He was inducted into the Pro Football Hall of Fame in 2011. The phrase "Shannon Sharpe" is used to refer to his accomplishments as a football player and his status as a Hall of Famer. |
-| 45 | [Knesset](http://twitter.com/search?q=Knesset) | N/A |
-| 46 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 13 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 14 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 15 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 16 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 17 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
+| 18 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 19 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
+| 20 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 21 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 22 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
+| 23 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 24 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
+| 25 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 26 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 27 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 28 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
+| 29 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 30 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
+| 31 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
+| 32 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
+| 33 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 34 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 35 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 36 | [Robert Kraft](http://twitter.com/search?q=Robert+Kraft) | N/A |
+| 37 | [Term](http://twitter.com/search?q=Term) | N/A |
+| 38 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
+| 39 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
+| 40 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 41 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
+| 42 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 43 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
+| 44 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
+| 45 | [Huckabee](http://twitter.com/search?q=Huckabee) | N/A |
+| 46 | [For God](http://twitter.com/search?q=For+God) | N/A |
 
 
 
