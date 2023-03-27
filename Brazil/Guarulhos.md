@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-27 04:17:24 UTC`
+📆 Last Updated: `2023-03-27 05:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 2 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 3 | [Jelly](http://twitter.com/search?q=Jelly) | N/A |
-| 4 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 5 | [IEM Dallas](http://twitter.com/search?q=IEM+Dallas) | N/A |
-| 6 | [Mami](http://twitter.com/search?q=Mami) | N/A |
-| 7 | [Conselho Tutelar](http://twitter.com/search?q=Conselho+Tutelar) | N/A |
-| 8 | [Thiaguinho](http://twitter.com/search?q=Thiaguinho) | Thiaguinho is a nickname for the Brazilian singer and songwriter Thiago Rodrigues dos Santos. The name Thiaguinho means "little Thiago" in Portuguese. |
-| 9 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
-| 10 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 11 | [Loud](http://twitter.com/search?q=Loud) | N/A |
-| 12 | [rosy](http://twitter.com/search?q=rosy) | N/A |
-| 13 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 14 | [#VCTGameChangers](http://twitter.com/search?q=%23VCTGameChangers) | N/A |
-| 15 | [Bruninha](http://twitter.com/search?q=Bruninha) | N/A |
-| 16 | [#LollapaloozaBrasil](http://twitter.com/search?q=%23LollapaloozaBrasil) | N/A |
-| 17 | [#DomingoEspetacular](http://twitter.com/search?q=%23DomingoEspetacular) | N/A |
-| 18 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 19 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
-| 20 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 21 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
-| 22 | [ADMs](http://twitter.com/search?q=ADMs) | N/A |
-| 23 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 24 | [Eliana](http://twitter.com/search?q=Eliana) | N/A |
-| 25 | [Patético](http://twitter.com/search?q=Pat%c3%a9tico) | N/A |
-| 26 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 27 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 28 | [Porto Alegre](http://twitter.com/search?q=Porto+Alegre) | N/A |
-| 29 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 30 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 31 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 32 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 33 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 34 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 35 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 36 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
-| 37 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 38 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 39 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 40 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 41 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 42 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 43 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 44 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 45 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
-| 46 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 47 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 48 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 49 | [tony stark](http://twitter.com/search?q=tony+stark) | N/A |
-| 50 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
+| 1 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 2 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 3 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 4 | [Mami](http://twitter.com/search?q=Mami) | N/A |
+| 5 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
+| 6 | [Thiaguinho](http://twitter.com/search?q=Thiaguinho) | Thiaguinho is a nickname for the Brazilian singer and songwriter Thiago Rodrigues dos Santos. The name Thiaguinho means "little Thiago" in Portuguese. |
+| 7 | [Loud](http://twitter.com/search?q=Loud) | N/A |
+| 8 | [rosy](http://twitter.com/search?q=rosy) | N/A |
+| 9 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 10 | [#VCTGameChangers](http://twitter.com/search?q=%23VCTGameChangers) | N/A |
+| 11 | [Bruninha](http://twitter.com/search?q=Bruninha) | N/A |
+| 12 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
+| 13 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 14 | [Pabllo Vittar](http://twitter.com/search?q=Pabllo+Vittar) | N/A |
+| 15 | [Patético](http://twitter.com/search?q=Pat%c3%a9tico) | N/A |
+| 16 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 17 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
+| 18 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 19 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 20 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 21 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 22 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 23 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 24 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 25 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 26 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
+| 27 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 28 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 29 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 30 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
+| 31 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 32 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 33 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 34 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 35 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 36 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 37 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
+| 38 | [tony stark](http://twitter.com/search?q=tony+stark) | N/A |
+| 39 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 40 | [FOCO NO GSHOW](http://twitter.com/search?q=FOCO+NO+GSHOW) | N/A |
+| 41 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 42 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
+| 43 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 44 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 45 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 46 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 47 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
+| 48 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
+| 49 | [Mercado Livre](http://twitter.com/search?q=Mercado+Livre) | N/A |
+| 50 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
 
 
 

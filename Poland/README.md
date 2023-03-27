@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-27 04:18:04 UTC`
+📆 Last Updated: `2023-03-27 05:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Poland
 | 3 | [Mentzena](http://twitter.com/search?q=Mentzena) | N/A |
 | 4 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
 | 5 | [#PiStoPolexit](http://twitter.com/search?q=%23PiStoPolexit) | N/A |
-| 6 | [#czepol](http://twitter.com/search?q=%23czepol) | N/A |
-| 7 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
-| 8 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 9 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 10 | [NSDAP](http://twitter.com/search?q=NSDAP) | N/A |
-| 11 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
-| 12 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 13 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
-| 14 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
-| 15 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
-| 16 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 17 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
-| 18 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 19 | [Korwin](http://twitter.com/search?q=Korwin) | N/A |
-| 20 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
-| 21 | [paczul](http://twitter.com/search?q=paczul) | N/A |
-| 22 | [oliwier](http://twitter.com/search?q=oliwier) | N/A |
-| 23 | [azarenką](http://twitter.com/search?q=azarenk%c4%85) | N/A |
-| 24 | [Kazachstan](http://twitter.com/search?q=Kazachstan) | N/A |
-| 25 | [kaja godek](http://twitter.com/search?q=kaja+godek) | N/A |
-| 26 | [baltic pipe](http://twitter.com/search?q=baltic+pipe) | N/A |
-| 27 | [Ryoyu Kobayashi](http://twitter.com/search?q=Ryoyu+Kobayashi) | N/A |
-| 28 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 29 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
-| 30 | [skra](http://twitter.com/search?q=skra) | N/A |
-| 31 | [Julita](http://twitter.com/search?q=Julita) | N/A |
-| 32 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
-| 33 | [friz](http://twitter.com/search?q=friz) | N/A |
-| 34 | [pięknej](http://twitter.com/search?q=pi%c4%99knej) | N/A |
-| 35 | [piorun](http://twitter.com/search?q=piorun) | N/A |
-| 36 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 37 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
-| 38 | [Hubi](http://twitter.com/search?q=Hubi) | N/A |
-| 39 | [jadźka](http://twitter.com/search?q=jad%c5%baka) | N/A |
-| 40 | [bosak](http://twitter.com/search?q=bosak) | N/A |
-| 41 | [flaki](http://twitter.com/search?q=flaki) | N/A |
-| 42 | [słychać](http://twitter.com/search?q=s%c5%82ycha%c4%87) | N/A |
-| 43 | [emilewicz](http://twitter.com/search?q=emilewicz) | N/A |
-| 44 | [sosnowcu](http://twitter.com/search?q=sosnowcu) | N/A |
-| 45 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
-| 46 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 47 | [Unii](http://twitter.com/search?q=Unii) | N/A |
-| 48 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
-| 49 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 50 | [niedziela](http://twitter.com/search?q=niedziela) | N/A |
+| 6 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 7 | [#czepol](http://twitter.com/search?q=%23czepol) | N/A |
+| 8 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
+| 9 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 10 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
+| 11 | [NSDAP](http://twitter.com/search?q=NSDAP) | N/A |
+| 12 | [Poniedziałek](http://twitter.com/search?q=Poniedzia%c5%82ek) | N/A |
+| 13 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
+| 14 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
+| 15 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 16 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 17 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
+| 18 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
+| 19 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 20 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 21 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
+| 22 | [sławek](http://twitter.com/search?q=s%c5%82awek) | N/A |
+| 23 | [Korwin](http://twitter.com/search?q=Korwin) | N/A |
+| 24 | [paczul](http://twitter.com/search?q=paczul) | N/A |
+| 25 | [azarenką](http://twitter.com/search?q=azarenk%c4%85) | N/A |
+| 26 | [Kazachstan](http://twitter.com/search?q=Kazachstan) | N/A |
+| 27 | [kaja godek](http://twitter.com/search?q=kaja+godek) | N/A |
+| 28 | [Ryoyu Kobayashi](http://twitter.com/search?q=Ryoyu+Kobayashi) | N/A |
+| 29 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 30 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
+| 31 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
+| 32 | [Julita](http://twitter.com/search?q=Julita) | N/A |
+| 33 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
+| 34 | [friz](http://twitter.com/search?q=friz) | N/A |
+| 35 | [pięknej](http://twitter.com/search?q=pi%c4%99knej) | N/A |
+| 36 | [piorun](http://twitter.com/search?q=piorun) | N/A |
+| 37 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 38 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
+| 39 | [Hubi](http://twitter.com/search?q=Hubi) | N/A |
+| 40 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 41 | [jadźka](http://twitter.com/search?q=jad%c5%baka) | N/A |
+| 42 | [Skra](http://twitter.com/search?q=Skra) | N/A |
+| 43 | [flaki](http://twitter.com/search?q=flaki) | N/A |
+| 44 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
+| 45 | [Słychać](http://twitter.com/search?q=S%c5%82ycha%c4%87) | N/A |
+| 46 | [emilewicz](http://twitter.com/search?q=emilewicz) | N/A |
+| 47 | [sosnowcu](http://twitter.com/search?q=sosnowcu) | N/A |
+| 48 | [Baltic Pipe](http://twitter.com/search?q=Baltic+Pipe) | N/A |
+| 49 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 50 | [Unii](http://twitter.com/search?q=Unii) | N/A |
 
 
 

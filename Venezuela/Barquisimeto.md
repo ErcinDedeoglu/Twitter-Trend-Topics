@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-27 04:17:24 UTC`
+📆 Last Updated: `2023-03-27 05:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 5 | [Lanco](http://twitter.com/search?q=Lanco) | N/A |
 | 6 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
 | 7 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
-| 8 | [#VenezuelaContraLaCorrupción](http://twitter.com/search?q=%23VenezuelaContraLaCorrupci%c3%b3n) | N/A |
-| 9 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 10 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
-| 11 | [Carite](http://twitter.com/search?q=Carite) | N/A |
-| 12 | [Info](http://twitter.com/search?q=Info) | N/A |
-| 13 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 14 | [Andy Montañez](http://twitter.com/search?q=Andy+Monta%c3%b1ez) | N/A |
-| 15 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 8 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
+| 9 | [Carite](http://twitter.com/search?q=Carite) | N/A |
+| 10 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 11 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 12 | [#YoVotoXTodos](http://twitter.com/search?q=%23YoVotoXTodos) | N/A |
+| 13 | [Andy Montañez](http://twitter.com/search?q=Andy+Monta%c3%b1ez) | N/A |
+| 14 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 15 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
 | 16 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
 | 17 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 18 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 19 | [Gracias Señor](http://twitter.com/search?q=Gracias+Se%c3%b1or) | N/A |
-| 20 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
-| 21 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 22 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 23 | [Trululu](http://twitter.com/search?q=Trululu) | N/A |
-| 24 | [Fido Dido](http://twitter.com/search?q=Fido+Dido) | N/A |
-| 25 | [Marco Antonio Muñiz](http://twitter.com/search?q=Marco+Antonio+Mu%c3%b1iz) | N/A |
-| 26 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 27 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
-| 28 | [Teresa Carreño](http://twitter.com/search?q=Teresa+Carre%c3%b1o) | N/A |
-| 29 | [Bandera Roja](http://twitter.com/search?q=Bandera+Roja) | N/A |
-| 30 | [Yare](http://twitter.com/search?q=Yare) | N/A |
-| 31 | [Compre](http://twitter.com/search?q=Compre) | N/A |
-| 32 | [Burt Reynolds](http://twitter.com/search?q=Burt+Reynolds) | N/A |
-| 33 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 34 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 35 | [Día Mundial del Clima](http://twitter.com/search?q=D%c3%ada+Mundial+del+Clima) | N/A |
-| 36 | [Milton](http://twitter.com/search?q=Milton) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 39 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 40 | [Verónica Castro](http://twitter.com/search?q=Ver%c3%b3nica+Castro) | N/A |
-| 41 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 42 | [Milagro](http://twitter.com/search?q=Milagro) | N/A |
-| 43 | [La Asunción](http://twitter.com/search?q=La+Asunci%c3%b3n) | N/A |
-| 44 | [Acuaman](http://twitter.com/search?q=Acuaman) | N/A |
-| 45 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
-| 46 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 47 | [Alberto Ramos](http://twitter.com/search?q=Alberto+Ramos) | N/A |
-| 48 | [Bendecido Domingo](http://twitter.com/search?q=Bendecido+Domingo) | N/A |
+| 18 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
+| 19 | [Trululu](http://twitter.com/search?q=Trululu) | N/A |
+| 20 | [Fido Dido](http://twitter.com/search?q=Fido+Dido) | N/A |
+| 21 | [Marco Antonio Muñiz](http://twitter.com/search?q=Marco+Antonio+Mu%c3%b1iz) | N/A |
+| 22 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 23 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
+| 24 | [Teresa Carreño](http://twitter.com/search?q=Teresa+Carre%c3%b1o) | N/A |
+| 25 | [Bandera Roja](http://twitter.com/search?q=Bandera+Roja) | N/A |
+| 26 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 27 | [Yare](http://twitter.com/search?q=Yare) | N/A |
+| 28 | [Compre](http://twitter.com/search?q=Compre) | N/A |
+| 29 | [Burt Reynolds](http://twitter.com/search?q=Burt+Reynolds) | N/A |
+| 30 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 31 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 32 | [Día Mundial del Clima](http://twitter.com/search?q=D%c3%ada+Mundial+del+Clima) | N/A |
+| 33 | [Milton](http://twitter.com/search?q=Milton) | N/A |
+| 34 | [Gracias Señor](http://twitter.com/search?q=Gracias+Se%c3%b1or) | N/A |
+| 35 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
+| 36 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 37 | [Verónica Castro](http://twitter.com/search?q=Ver%c3%b3nica+Castro) | N/A |
+| 38 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 40 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 41 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 42 | [La Asunción](http://twitter.com/search?q=La+Asunci%c3%b3n) | N/A |
+| 43 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
+| 44 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 45 | [Alberto Ramos](http://twitter.com/search?q=Alberto+Ramos) | N/A |
+| 46 | [Bendecido Domingo](http://twitter.com/search?q=Bendecido+Domingo) | N/A |
+| 47 | [Jorge Palacios](http://twitter.com/search?q=Jorge+Palacios) | N/A |
+| 48 | [Albóndiga](http://twitter.com/search?q=Alb%c3%b3ndiga) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-27 04:17:46 UTC`
+📆 Last Updated: `2023-03-27 05:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
 | 7 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 8 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 9 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 10 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 9 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 10 | [ZAMAN KHAN](http://twitter.com/search?q=ZAMAN+KHAN) | N/A |
 | 11 | [Amir Sohail](http://twitter.com/search?q=Amir+Sohail) | N/A |
 | 12 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
 | 13 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 14 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 15 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 16 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 17 | [f for full house](http://twitter.com/search?q=f+for+full+house) | N/A |
+| 14 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 15 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 16 | [f for full house](http://twitter.com/search?q=f+for+full+house) | N/A |
+| 17 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
 | 18 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 19 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
-| 20 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 21 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 22 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 23 | [vote for railway engine](http://twitter.com/search?q=vote+for+railway+engine) | N/A |
-| 24 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
-| 25 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 26 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
-| 27 | [simon doull](http://twitter.com/search?q=simon+doull) | N/A |
-| 28 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 29 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 30 | [Strike](http://twitter.com/search?q=Strike) | N/A |
-| 31 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
-| 32 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 33 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 34 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
-| 35 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 36 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 37 | [Interior Minister](http://twitter.com/search?q=Interior+Minister) | N/A |
-| 38 | [gigi](http://twitter.com/search?q=gigi) | N/A |
+| 19 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 20 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
+| 21 | [vote for railway engine](http://twitter.com/search?q=vote+for+railway+engine) | N/A |
+| 22 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 23 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 24 | [tayyab tahir](http://twitter.com/search?q=tayyab+tahir) | N/A |
+| 25 | [simon doull](http://twitter.com/search?q=simon+doull) | N/A |
+| 26 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 27 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
+| 28 | [Interior Minister](http://twitter.com/search?q=Interior+Minister) | N/A |
+| 29 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 30 | [Ihsan](http://twitter.com/search?q=Ihsan) | N/A |
+| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 32 | [Strike](http://twitter.com/search?q=Strike) | N/A |
+| 33 | [QUINTON DE KOCK](http://twitter.com/search?q=QUINTON+DE+KOCK) | N/A |
+| 34 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 35 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 36 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 37 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
+| 38 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
 | 39 | [Zayn Malik](http://twitter.com/search?q=Zayn+Malik) | N/A |
-| 40 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 41 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 42 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 43 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 44 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 45 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
+| 40 | [Maghrib](http://twitter.com/search?q=Maghrib) | N/A |
+| 41 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 42 | [German](http://twitter.com/search?q=German) | N/A |
+| 43 | [Sindhi](http://twitter.com/search?q=Sindhi) | N/A |
+| 44 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 45 | [Count](http://twitter.com/search?q=Count) | N/A |
 | 46 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 47 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 48 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 49 | [Subhanallah](http://twitter.com/search?q=Subhanallah) | N/A |
-| 50 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 47 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 48 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 49 | [Contact](http://twitter.com/search?q=Contact) | N/A |
+| 50 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 
 
 

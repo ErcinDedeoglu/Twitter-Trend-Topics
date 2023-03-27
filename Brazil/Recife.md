@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-27 04:17:23 UTC`
+📆 Last Updated: `2023-03-27 05:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
-| 2 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
-| 3 | [Nordeste](http://twitter.com/search?q=Nordeste) | N/A |
-| 4 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
-| 5 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
-| 6 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
-| 7 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 8 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 9 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 10 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 11 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 12 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 13 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 14 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 15 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 16 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 1 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 2 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 3 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
+| 4 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 5 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 6 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 7 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 8 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 9 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 10 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 11 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 12 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 13 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
+| 14 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 15 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 16 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
 | 17 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
-| 18 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 19 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 20 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 21 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 18 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 19 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
+| 20 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 21 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
 | 22 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
 | 23 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 24 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 25 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 26 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 27 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 28 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 29 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
-| 30 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 31 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 32 | [tony stark](http://twitter.com/search?q=tony+stark) | N/A |
-| 33 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
-| 34 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 35 | [FOCO NO GSHOW](http://twitter.com/search?q=FOCO+NO+GSHOW) | N/A |
-| 36 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 37 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 38 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 39 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 40 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 41 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
+| 24 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 25 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 26 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
+| 27 | [tony stark](http://twitter.com/search?q=tony+stark) | N/A |
+| 28 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 29 | [FOCO NO GSHOW](http://twitter.com/search?q=FOCO+NO+GSHOW) | N/A |
+| 30 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 31 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
+| 32 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 33 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 34 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 35 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 36 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 37 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
+| 38 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
+| 39 | [Mercado Livre](http://twitter.com/search?q=Mercado+Livre) | N/A |
+| 40 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
+| 41 | [QUEM SAI](http://twitter.com/search?q=QUEM+SAI) | N/A |
 | 42 | [Pipocou](http://twitter.com/search?q=Pipocou) | N/A |
-| 43 | [Mercado Livre](http://twitter.com/search?q=Mercado+Livre) | N/A |
-| 44 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
-| 45 | [QUEM SAI](http://twitter.com/search?q=QUEM+SAI) | N/A |
-| 46 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
-| 47 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
-| 48 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 49 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 50 | [Cumanda](http://twitter.com/search?q=Cumanda) | N/A |
+| 43 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 44 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 45 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 46 | [Golden State](http://twitter.com/search?q=Golden+State) | Golden State is a nickname for the U.S. state of California. It is derived from the state's nickname, The Golden State, which was first used in print by author and historian O.P. Austin in 1876. The term is often used to refer to the entire West Coast of the United States, or more specifically, to the area along the Pacific coast from Oregon to Southern California. |
+| 47 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 48 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
+| 49 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 50 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
 
 
 

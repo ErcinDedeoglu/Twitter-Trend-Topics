@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-03-27 04:17:50 UTC`
+📆 Last Updated: `2023-03-27 05:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KöksalEngür](http://twitter.com/search?q=%23K%c3%b6ksalEng%c3%bcr) | N/A |
-| 2 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 3 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 4 | [#Netanyahu](http://twitter.com/search?q=%23Netanyahu) | N/A |
-| 5 | [#TelAviv](http://twitter.com/search?q=%23TelAviv) | N/A |
-| 6 | [#StajyereBayramOlsun](http://twitter.com/search?q=%23StajyereBayramOlsun) | N/A |
-| 7 | [Hayırlı Sahurlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sahurlar) | N/A |
-| 8 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
-| 9 | [Aziz Allah](http://twitter.com/search?q=Aziz+Allah) | N/A |
-| 10 | [Beter](http://twitter.com/search?q=Beter) | N/A |
-| 11 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 12 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
-| 13 | [Sonumuz Türkiye](http://twitter.com/search?q=Sonumuz+T%c3%bcrkiye) | N/A |
-| 14 | [Nurullah Genç](http://twitter.com/search?q=Nurullah+Gen%c3%a7) | N/A |
-| 15 | [Bereketli Sahurlar](http://twitter.com/search?q=Bereketli+Sahurlar) | N/A |
-| 16 | [PARAVAN ADAY](http://twitter.com/search?q=PARAVAN+ADAY) | N/A |
-| 17 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 18 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 19 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
-| 20 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
-| 21 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 22 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
-| 23 | [Yiyin](http://twitter.com/search?q=Yiyin) | N/A |
-| 24 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
-| 25 | [Tayyibe](http://twitter.com/search?q=Tayyibe) | N/A |
-| 26 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
-| 27 | [#2000lerKabineye](http://twitter.com/search?q=%232000lerKabineye) | N/A |
-| 28 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
-| 29 | [#Filistin](http://twitter.com/search?q=%23Filistin) | N/A |
-| 30 | [#SahurVakti](http://twitter.com/search?q=%23SahurVakti) | N/A |
-| 31 | [#KIZILELMA](http://twitter.com/search?q=%23KIZILELMA) | N/A |
-| 32 | [#SahurBereketi](http://twitter.com/search?q=%23SahurBereketi) | N/A |
-| 33 | [#YeniProfilResmi](http://twitter.com/search?q=%23YeniProfilResmi) | N/A |
-| 34 | [#DevletBahceli](http://twitter.com/search?q=%23DevletBahceli) | N/A |
-| 35 | [#ErdoğanAklınızıAlacak](http://twitter.com/search?q=%23Erdo%c4%9fanAkl%c4%b1n%c4%b1z%c4%b1Alacak) | N/A |
+| 1 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 2 | [#KöksalEngür](http://twitter.com/search?q=%23K%c3%b6ksalEng%c3%bcr) | N/A |
+| 3 | [Felaketler SonBulacak](http://twitter.com/search?q=Felaketler+SonBulacak) | N/A |
+| 4 | [#SanaSöz](http://twitter.com/search?q=%23SanaS%c3%b6z) | N/A |
+| 5 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 6 | [#YeniMüjdeStaja](http://twitter.com/search?q=%23YeniM%c3%bcjdeStaja) | N/A |
+| 7 | [#SinanOGANa100Binimza](http://twitter.com/search?q=%23SinanOGANa100Binimza) | N/A |
+| 8 | [marmara üniversitesi mezunlar](http://twitter.com/search?q=marmara+%c3%bcniversitesi+mezunlar) | N/A |
+| 9 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 10 | [Yedili Masa](http://twitter.com/search?q=Yedili+Masa) | Yedili Masa is a traditional Turkish game that is similar to checkers. It is played on a board with 64 squares, and each player has 12 pieces. The goal of the game is to capture all of the opponent's pieces. The name Yedili Masa translates to "Seven Table" in English, referring to the seven-by-seven grid of the board. |
+| 11 | [depremzedelerle iftar](http://twitter.com/search?q=depremzedelerle+iftar) | N/A |
+| 12 | [izmirlikızlar güzeldir](http://twitter.com/search?q=izmirlik%c4%b1zlar+g%c3%bczeldir) | N/A |
+| 13 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 14 | [35yaşşartı torbayasaya](http://twitter.com/search?q=35ya%c5%9f%c5%9fart%c4%b1+torbayasaya) | N/A |
+| 15 | [afete şartsiztayin](http://twitter.com/search?q=afete+%c5%9fartsiztayin) | N/A |
+| 16 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
+| 17 | [yapıkayıt torbada](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+torbada) | N/A |
+| 18 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
+| 19 | [güzel kızlar](http://twitter.com/search?q=g%c3%bczel+k%c4%b1zlar) | N/A |
+| 20 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 21 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 22 | [taşeroniçin kadrovakti](http://twitter.com/search?q=ta%c5%9feroni%c3%a7in+kadrovakti) | N/A |
+| 23 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
+| 24 | [Red Kit](http://twitter.com/search?q=Red+Kit) | N/A |
+| 25 | [BirÖmür YetmezAytol](http://twitter.com/search?q=Bir%c3%96m%c3%bcr+YetmezAytol) | N/A |
+| 26 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 27 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
+| 28 | [HADDİNİ BİL FAZIL SAY](http://twitter.com/search?q=HADD%c4%b0N%c4%b0+B%c4%b0L+FAZIL+SAY) | N/A |
+| 29 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
+| 30 | [yenimüjde ehliyetaffıolsun](http://twitter.com/search?q=yenim%c3%bcjde+ehliyetaff%c4%b1olsun) | N/A |
+| 31 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
+| 32 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 33 | [onur bulut](http://twitter.com/search?q=onur+bulut) | N/A |
+| 34 | [Ozan Kabak](http://twitter.com/search?q=Ozan+Kabak) | N/A |
+| 35 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 36 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
+| 37 | [show tv](http://twitter.com/search?q=show+tv) | N/A |
+| 38 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 39 | [Tayyibe Merve Çakar](http://twitter.com/search?q=Tayyibe+Merve+%c3%87akar) | N/A |
+| 40 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
+| 41 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 42 | [Temel](http://twitter.com/search?q=Temel) | N/A |
+| 43 | [Günaydın Devrim](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Devrim) | N/A |
+| 44 | [PARAVAN ADAY](http://twitter.com/search?q=PARAVAN+ADAY) | N/A |
+| 45 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 46 | [Varank](http://twitter.com/search?q=Varank) | N/A |
+| 47 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
+| 48 | [Canan](http://twitter.com/search?q=Canan) | N/A |
+| 49 | [Atatürk](http://twitter.com/search?q=Atat%c3%bcrk) | N/A |
+| 50 | [Seslendirme](http://twitter.com/search?q=Seslendirme) | N/A |
 
 
 
