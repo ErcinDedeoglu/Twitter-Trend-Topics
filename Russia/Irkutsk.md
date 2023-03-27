@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Irkutsk
 
-📆 Last Updated: `2023-03-27 14:27:53 UTC`
+📆 Last Updated: `2023-03-27 15:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,43 +17,47 @@ This is top 50 for [Russia](</Russia>)
 | ------- | ------------ | ------------ |
 | 1 | [#маска](http://twitter.com/search?q=%23%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
 | 2 | [Израиле](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d0%b5) | N/A |
-| 3 | [пригожина](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd%d0%b0) | N/A |
+| 3 | [пригожин](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd) | N/A |
 | 4 | [естественно](http://twitter.com/search?q=%d0%b5%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
 | 5 | [рф-сми](http://twitter.com/search?q=%d1%80%d1%84-%d1%81%d0%bc%d0%b8) | N/A |
-| 6 | [Белоруссии](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%be%d1%80%d1%83%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 6 | [белоруссии](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%be%d1%80%d1%83%d1%81%d1%81%d0%b8%d0%b8) | N/A |
 | 7 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 8 | [Скажи](http://twitter.com/search?q=%d0%a1%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
-| 9 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 10 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
-| 11 | [Добро](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%be) | N/A |
-| 12 | [Вряд](http://twitter.com/search?q=%d0%92%d1%80%d1%8f%d0%b4) | N/A |
-| 13 | [Ютубе](http://twitter.com/search?q=%d0%ae%d1%82%d1%83%d0%b1%d0%b5) | N/A |
-| 14 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 15 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
-| 16 | [Лучший](http://twitter.com/search?q=%d0%9b%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
-| 17 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
-| 18 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 19 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 20 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 21 | [Женя](http://twitter.com/search?q=%d0%96%d0%b5%d0%bd%d1%8f) | N/A |
-| 22 | [армении](http://twitter.com/search?q=%d0%b0%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
-| 23 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 24 | [париже](http://twitter.com/search?q=%d0%bf%d0%b0%d1%80%d0%b8%d0%b6%d0%b5) | N/A |
-| 25 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 26 | [#NFTCollection](http://twitter.com/search?q=%23NFTCollection) | N/A |
-| 27 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
-| 28 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 29 | [#ohmpawat](http://twitter.com/search?q=%23ohmpawat) | N/A |
-| 30 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 31 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | N/A |
-| 32 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 33 | [САМЫЕ](http://twitter.com/search?q=%d0%a1%d0%90%d0%9c%d0%ab%d0%95) | N/A |
-| 34 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
-| 35 | [Супер](http://twitter.com/search?q=%d0%a1%d1%83%d0%bf%d0%b5%d1%80) | N/A |
-| 36 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
-| 37 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
-| 38 | [Даааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
-| 39 | [говорят](http://twitter.com/search?q=%d0%b3%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
+| 8 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 9 | [СКАЖИ](http://twitter.com/search?q=%d0%a1%d0%9a%d0%90%d0%96%d0%98) | N/A |
+| 10 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 11 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
+| 12 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | N/A |
+| 13 | [Вряд](http://twitter.com/search?q=%d0%92%d1%80%d1%8f%d0%b4) | N/A |
+| 14 | [Ютубе](http://twitter.com/search?q=%d0%ae%d1%82%d1%83%d0%b1%d0%b5) | N/A |
+| 15 | [Вижу](http://twitter.com/search?q=%d0%92%d0%b8%d0%b6%d1%83) | N/A |
+| 16 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 17 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
+| 18 | [лучший](http://twitter.com/search?q=%d0%bb%d1%83%d1%87%d1%88%d0%b8%d0%b9) | N/A |
+| 19 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 20 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 21 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 22 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 23 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 24 | [Женя](http://twitter.com/search?q=%d0%96%d0%b5%d0%bd%d1%8f) | N/A |
+| 25 | [армении](http://twitter.com/search?q=%d0%b0%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
+| 26 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 27 | [париже](http://twitter.com/search?q=%d0%bf%d0%b0%d1%80%d0%b8%d0%b6%d0%b5) | N/A |
+| 28 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 29 | [#NFTCollection](http://twitter.com/search?q=%23NFTCollection) | N/A |
+| 30 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
+| 31 | [#ohmpawat](http://twitter.com/search?q=%23ohmpawat) | N/A |
+| 32 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 33 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | N/A |
+| 34 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 35 | [самые](http://twitter.com/search?q=%d1%81%d0%b0%d0%bc%d1%8b%d0%b5) | N/A |
+| 36 | [Сибири](http://twitter.com/search?q=%d0%a1%d0%b8%d0%b1%d0%b8%d1%80%d0%b8) | N/A |
+| 37 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 38 | [Супер](http://twitter.com/search?q=%d0%a1%d1%83%d0%bf%d0%b5%d1%80) | N/A |
+| 39 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
+| 40 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
+| 41 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
+| 42 | [Даааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
+| 43 | [говорят](http://twitter.com/search?q=%d0%b3%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
 
 
 

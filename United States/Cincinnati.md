@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-03-27 14:28:02 UTC`
+📆 Last Updated: `2023-03-27 15:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 2 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
-| 3 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 4 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 5 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 6 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 7 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 1 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 2 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 3 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 6 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 7 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 8 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 9 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
 | 10 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
-| 11 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 12 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
-| 13 | [New Tyler](http://twitter.com/search?q=New+Tyler) | N/A |
-| 14 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
-| 15 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 16 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
+| 11 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 12 | [Evil Dead Rise](http://twitter.com/search?q=Evil+Dead+Rise) | N/A |
+| 13 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 14 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 15 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 16 | [maisie](http://twitter.com/search?q=maisie) | N/A |
 | 17 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 18 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 19 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 20 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 21 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 22 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 23 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
-| 24 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 25 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 26 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 27 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
-| 28 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
-| 29 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
-| 30 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 31 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 32 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 33 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 34 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
-| 35 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
-| 36 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 37 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 38 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 39 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 40 | [Robert Kraft](http://twitter.com/search?q=Robert+Kraft) | N/A |
-| 41 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
-| 42 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 43 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
-| 44 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
-| 45 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 46 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
+| 18 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
+| 19 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 20 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 21 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 22 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 23 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
+| 24 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 25 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 26 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 27 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 28 | [How to Blow Up a Pipeline](http://twitter.com/search?q=How+to+Blow+Up+a+Pipeline) | N/A |
+| 29 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
+| 30 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 31 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
+| 32 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 33 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 34 | [AFC North](http://twitter.com/search?q=AFC+North) | N/A |
+| 35 | [CMIYGL](http://twitter.com/search?q=CMIYGL) | N/A |
+| 36 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 37 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
+| 38 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 39 | [Saleh](http://twitter.com/search?q=Saleh) | Saleh is an Arabic name that means "righteous" or "pious". |
+| 40 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
+| 41 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
+| 42 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 43 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
+| 44 | [CALL ME IF YOU GET LOST](http://twitter.com/search?q=CALL+ME+IF+YOU+GET+LOST) | N/A |
+| 45 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 46 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
+| 47 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
+| 48 | [Saylor](http://twitter.com/search?q=Saylor) | N/A |
+| 49 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
 
 
 

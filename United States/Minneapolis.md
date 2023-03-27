@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-27 14:28:06 UTC`
+📆 Last Updated: `2023-03-27 15:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
 | 2 | [Jaden](http://twitter.com/search?q=Jaden) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 5 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 6 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
-| 7 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 8 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 9 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
-| 10 | [New Tyler](http://twitter.com/search?q=New+Tyler) | N/A |
-| 11 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
-| 12 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 13 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 14 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
-| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 16 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 17 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 18 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 19 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 20 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 21 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
-| 22 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 23 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 24 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 25 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
-| 26 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
-| 27 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
-| 28 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 29 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 30 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 31 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 32 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
-| 33 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
-| 34 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 35 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 36 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 37 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 38 | [Robert Kraft](http://twitter.com/search?q=Robert+Kraft) | N/A |
-| 39 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
-| 40 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 41 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
-| 42 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
-| 43 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
+| 3 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 4 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 5 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 8 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 9 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 11 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 12 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 13 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
+| 14 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 15 | [Evil Dead Rise](http://twitter.com/search?q=Evil+Dead+Rise) | N/A |
+| 16 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 17 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 18 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 19 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
+| 22 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 23 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 24 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 25 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 26 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
+| 27 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 28 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 29 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 30 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 31 | [How to Blow Up a Pipeline](http://twitter.com/search?q=How+to+Blow+Up+a+Pipeline) | N/A |
+| 32 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
+| 33 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 34 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
+| 35 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 36 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 37 | [AFC North](http://twitter.com/search?q=AFC+North) | N/A |
+| 38 | [CMIYGL](http://twitter.com/search?q=CMIYGL) | N/A |
+| 39 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 40 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
+| 41 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 42 | [Saleh](http://twitter.com/search?q=Saleh) | Saleh is an Arabic name that means "righteous" or "pious". |
+| 43 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
 | 44 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
-| 45 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
-| 46 | [Huckabee](http://twitter.com/search?q=Huckabee) | N/A |
-| 47 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 48 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 49 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
+| 45 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 46 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
+| 47 | [CALL ME IF YOU GET LOST](http://twitter.com/search?q=CALL+ME+IF+YOU+GET+LOST) | N/A |
+| 48 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 49 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
 
 
 

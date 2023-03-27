@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-27 14:28:09 UTC`
+📆 Last Updated: `2023-03-27 15:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
 | 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 3 | [#Nnattawin](http://twitter.com/search?q=%23Nnattawin) | #Nnattawin is an Indigenous hashtag used on social media to celebrate and recognize Indigenous people, cultures, and communities. It is derived from the Cree word “Nnattawin” which means “we are here” or “we are still here.” |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 6 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 7 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
-| 8 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 9 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 10 | [New Tyler](http://twitter.com/search?q=New+Tyler) | N/A |
-| 11 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
-| 12 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
-| 13 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 14 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
-| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 16 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 17 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 18 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 19 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 20 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 21 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
-| 22 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 23 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 24 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
-| 25 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 26 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
-| 27 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 28 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 29 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
-| 30 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 31 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 32 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
-| 33 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
-| 34 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 35 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 36 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 37 | [Term](http://twitter.com/search?q=Term) | N/A |
-| 38 | [Robert Kraft](http://twitter.com/search?q=Robert+Kraft) | N/A |
-| 39 | [Sailing](http://twitter.com/search?q=Sailing) | N/A |
-| 40 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 41 | [Dershowitz](http://twitter.com/search?q=Dershowitz) | N/A |
-| 42 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
-| 43 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 44 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
-| 45 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
-| 46 | [Huckabee](http://twitter.com/search?q=Huckabee) | N/A |
-| 47 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 48 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
-| 49 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 50 | [Saylor](http://twitter.com/search?q=Saylor) | N/A |
+| 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 5 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 6 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 9 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 10 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 11 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 12 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 13 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
+| 14 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 15 | [Evil Dead Rise](http://twitter.com/search?q=Evil+Dead+Rise) | N/A |
+| 16 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 17 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 18 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 19 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
+| 22 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 23 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 24 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 25 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 26 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
+| 27 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 28 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 29 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 30 | [How to Blow Up a Pipeline](http://twitter.com/search?q=How+to+Blow+Up+a+Pipeline) | N/A |
+| 31 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 32 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
+| 33 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
+| 34 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 35 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 36 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 37 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
+| 38 | [CMIYGL](http://twitter.com/search?q=CMIYGL) | N/A |
+| 39 | [AFC North](http://twitter.com/search?q=AFC+North) | N/A |
+| 40 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
+| 41 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 42 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 43 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
+| 44 | [Saleh](http://twitter.com/search?q=Saleh) | Saleh is an Arabic name that means "righteous" or "pious". |
+| 45 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 46 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
+| 47 | [CALL ME IF YOU GET LOST](http://twitter.com/search?q=CALL+ME+IF+YOU+GET+LOST) | N/A |
+| 48 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 49 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
+| 50 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
 
 
 

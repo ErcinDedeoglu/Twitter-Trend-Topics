@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-27 14:28:15 UTC`
+📆 Last Updated: `2023-03-27 15:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 2 | [#27marzo](http://twitter.com/search?q=%2327marzo) | N/A |
-| 3 | [#MaltaItalia](http://twitter.com/search?q=%23MaltaItalia) | N/A |
-| 4 | [#Mengoni70Platini](http://twitter.com/search?q=%23Mengoni70Platini) | N/A |
-| 5 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 6 | [#PotrestiEssere](http://twitter.com/search?q=%23PotrestiEssere) | N/A |
-| 7 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 8 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
-| 9 | [Turone](http://twitter.com/search?q=Turone) | N/A |
-| 10 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 11 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 12 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
-| 13 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 14 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 1 | [#27marzo](http://twitter.com/search?q=%2327marzo) | N/A |
+| 2 | [#MaltaItalia](http://twitter.com/search?q=%23MaltaItalia) | N/A |
+| 3 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 4 | [#queenfiorde](http://twitter.com/search?q=%23queenfiorde) | N/A |
+| 5 | [#Mengoni70Platini](http://twitter.com/search?q=%23Mengoni70Platini) | N/A |
+| 6 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
+| 7 | [Turone](http://twitter.com/search?q=Turone) | N/A |
+| 8 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 9 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 10 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
+| 11 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 12 | [De Vrij](http://twitter.com/search?q=De+Vrij) | N/A |
+| 13 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 14 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
 | 15 | [bielorussia](http://twitter.com/search?q=bielorussia) | N/A |
 | 16 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 17 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 17 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
 | 18 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 19 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
-| 20 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
+| 19 | [mannelli](http://twitter.com/search?q=mannelli) | N/A |
+| 20 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
 | 21 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 22 | [CNEL](http://twitter.com/search?q=CNEL) | N/A |
-| 23 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 24 | [Carlo Sassi](http://twitter.com/search?q=Carlo+Sassi) | N/A |
-| 25 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
-| 26 | [Pessina](http://twitter.com/search?q=Pessina) | N/A |
-| 27 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 28 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
-| 29 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 30 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 31 | [Alessandra De Stefano](http://twitter.com/search?q=Alessandra+De+Stefano) | N/A |
-| 32 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 33 | [adamo ed](http://twitter.com/search?q=adamo+ed) | N/A |
-| 34 | [Paolo Limiti](http://twitter.com/search?q=Paolo+Limiti) | N/A |
-| 35 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 36 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
-| 37 | [Erba](http://twitter.com/search?q=Erba) | N/A |
-| 38 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 39 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
-| 40 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 41 | [Vaciago](http://twitter.com/search?q=Vaciago) | N/A |
-| 42 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 43 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
-| 44 | [Louise Michel](http://twitter.com/search?q=Louise+Michel) | N/A |
-| 45 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 46 | [Ciao Ivano](http://twitter.com/search?q=Ciao+Ivano) | N/A |
-| 47 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
-| 48 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 49 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 50 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 22 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 23 | [CNEL](http://twitter.com/search?q=CNEL) | N/A |
+| 24 | [Marcello](http://twitter.com/search?q=Marcello) | N/A |
+| 25 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 26 | [Carlo Sassi](http://twitter.com/search?q=Carlo+Sassi) | N/A |
+| 27 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 28 | [pessina](http://twitter.com/search?q=pessina) | N/A |
+| 29 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 30 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 31 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 32 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
+| 33 | [Alessandra De Stefano](http://twitter.com/search?q=Alessandra+De+Stefano) | N/A |
+| 34 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 35 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
+| 36 | [adamo ed](http://twitter.com/search?q=adamo+ed) | N/A |
+| 37 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 38 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 39 | [erba](http://twitter.com/search?q=erba) | N/A |
+| 40 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
+| 41 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
+| 42 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 43 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 44 | [Vaciago](http://twitter.com/search?q=Vaciago) | N/A |
+| 45 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
+| 46 | [Louise Michel](http://twitter.com/search?q=Louise+Michel) | N/A |
+| 47 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 48 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 49 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 50 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
 
 
 

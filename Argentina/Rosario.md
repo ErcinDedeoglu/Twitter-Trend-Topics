@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-27 14:27:27 UTC`
+📆 Last Updated: `2023-03-27 15:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 2 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 3 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
-| 4 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
-| 5 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 6 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 7 | [#ALabarbarossa](http://twitter.com/search?q=%23ALabarbarossa) | N/A |
-| 8 | [Bullrich](http://twitter.com/search?q=Bullrich) | N/A |
-| 9 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
-| 10 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 11 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 12 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 13 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
-| 14 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 15 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 16 | [Diego Ramos](http://twitter.com/search?q=Diego+Ramos) | N/A |
-| 17 | [Longobardi](http://twitter.com/search?q=Longobardi) | N/A |
-| 18 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 19 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 20 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 21 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 22 | [Marley](http://twitter.com/search?q=Marley) | N/A |
+| 2 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
+| 3 | [Bullrich](http://twitter.com/search?q=Bullrich) | N/A |
+| 4 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 5 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
+| 6 | [Otamendi](http://twitter.com/search?q=Otamendi) | N/A |
+| 7 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 8 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 9 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 10 | [#ALabarbarossa](http://twitter.com/search?q=%23ALabarbarossa) | N/A |
+| 11 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 12 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
+| 15 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 16 | [Milei](http://twitter.com/search?q=Milei) | N/A |
+| 17 | [Diego Ramos](http://twitter.com/search?q=Diego+Ramos) | N/A |
+| 18 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 19 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 20 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 21 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 22 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
 | 23 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
-| 24 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 24 | [Marley](http://twitter.com/search?q=Marley) | N/A |
 | 25 | [Borges](http://twitter.com/search?q=Borges) | N/A |
 | 26 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 27 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
+| 27 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
 | 28 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 29 | [gh 2023](http://twitter.com/search?q=gh+2023) | N/A |
 | 30 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 31 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 32 | [Feinmann](http://twitter.com/search?q=Feinmann) | N/A |
-| 33 | [Landa](http://twitter.com/search?q=Landa) | N/A |
-| 34 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 35 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 37 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
-| 38 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 39 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 40 | [Comando Unificado Conurbano](http://twitter.com/search?q=Comando+Unificado+Conurbano) | N/A |
+| 31 | [Julieta al 9009](http://twitter.com/search?q=Julieta+al+9009) | N/A |
+| 32 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 33 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 34 | [Landa](http://twitter.com/search?q=Landa) | N/A |
+| 35 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 36 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
+| 37 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
+| 38 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
+| 39 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 40 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
 | 41 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
 | 42 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 43 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 44 | [Majul](http://twitter.com/search?q=Majul) | N/A |
-| 45 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 46 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
+| 43 | [Majul](http://twitter.com/search?q=Majul) | N/A |
+| 44 | [Grandeza](http://twitter.com/search?q=Grandeza) | N/A |
+| 45 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 46 | [Feinmann](http://twitter.com/search?q=Feinmann) | N/A |
 | 47 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 48 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
-| 49 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
-| 50 | [Senior](http://twitter.com/search?q=Senior) | N/A |
+| 48 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 49 | [Comando Unificado Conurbano](http://twitter.com/search?q=Comando+Unificado+Conurbano) | N/A |
+| 50 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
 
 
 

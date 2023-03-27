@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-27 14:28:13 UTC`
+📆 Last Updated: `2023-03-27 15:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ecuador
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Alausí](http://twitter.com/search?q=%23Alaus%c3%ad) | N/A |
-| 2 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 3 | [#ufcsanantonio](http://twitter.com/search?q=%23ufcsanantonio) | N/A |
-| 4 | [ANA Y MAR MCTO](http://twitter.com/search?q=ANA+Y+MAR+MCTO) | N/A |
-| 5 | [#Chimborazo](http://twitter.com/search?q=%23Chimborazo) | N/A |
-| 6 | [#Tragedia](http://twitter.com/search?q=%23Tragedia) | N/A |
-| 7 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 8 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 9 | [Rohon](http://twitter.com/search?q=Rohon) | N/A |
-| 10 | [Casual](http://twitter.com/search?q=Casual) | N/A |
-| 11 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 12 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 13 | [Byron Moreno](http://twitter.com/search?q=Byron+Moreno) | N/A |
-| 14 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 15 | [Pindal](http://twitter.com/search?q=Pindal) | N/A |
-| 16 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
-| 17 | [pueblo viejo](http://twitter.com/search?q=pueblo+viejo) | N/A |
-| 18 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 19 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 20 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 21 | [Casabaca](http://twitter.com/search?q=Casabaca) | N/A |
-| 22 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 23 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 24 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
-| 25 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 26 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 27 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 28 | [gestión de riesgos](http://twitter.com/search?q=gesti%c3%b3n+de+riesgos) | N/A |
-| 29 | [Salado](http://twitter.com/search?q=Salado) | N/A |
-| 30 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
-| 31 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 32 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 33 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 34 | [joao rojas](http://twitter.com/search?q=joao+rojas) | N/A |
-| 35 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
-| 36 | [Julio Guerrero](http://twitter.com/search?q=Julio+Guerrero) | N/A |
-| 37 | [Vilma](http://twitter.com/search?q=Vilma) | N/A |
-| 38 | [Rosa Cerda](http://twitter.com/search?q=Rosa+Cerda) | N/A |
-| 39 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 40 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 41 | [carapaz](http://twitter.com/search?q=carapaz) | N/A |
-| 42 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 43 | [UN AÑO YULERIA](http://twitter.com/search?q=UN+A%c3%91O+YULERIA) | N/A |
-| 44 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 45 | [Viejas](http://twitter.com/search?q=Viejas) | N/A |
-| 46 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 47 | [Clamor](http://twitter.com/search?q=Clamor) | N/A |
-| 48 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 49 | [Yaku](http://twitter.com/search?q=Yaku) | N/A |
-| 50 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 2 | [#ChitoVera](http://twitter.com/search?q=%23ChitoVera) | N/A |
+| 3 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 4 | [#Chimborazo](http://twitter.com/search?q=%23Chimborazo) | N/A |
+| 5 | [ANA Y MAR MCTO](http://twitter.com/search?q=ANA+Y+MAR+MCTO) | N/A |
+| 6 | [edwin salazar](http://twitter.com/search?q=edwin+salazar) | N/A |
+| 7 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 8 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 9 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 10 | [rohon](http://twitter.com/search?q=rohon) | N/A |
+| 11 | [Casual](http://twitter.com/search?q=Casual) | N/A |
+| 12 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 13 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 14 | [Byron Moreno](http://twitter.com/search?q=Byron+Moreno) | N/A |
+| 15 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 16 | [Pindal](http://twitter.com/search?q=Pindal) | N/A |
+| 17 | [Gestión de Riesgos](http://twitter.com/search?q=Gesti%c3%b3n+de+Riesgos) | N/A |
+| 18 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
+| 19 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 20 | [Casabaca](http://twitter.com/search?q=Casabaca) | N/A |
+| 21 | [Pueblo Viejo](http://twitter.com/search?q=Pueblo+Viejo) | N/A |
+| 22 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 23 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 24 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
+| 25 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
+| 26 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 27 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 28 | [Salado](http://twitter.com/search?q=Salado) | N/A |
+| 29 | [Rosa Cerda](http://twitter.com/search?q=Rosa+Cerda) | N/A |
+| 30 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 31 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
+| 32 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 33 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
+| 34 | [Joao Rojas](http://twitter.com/search?q=Joao+Rojas) | N/A |
+| 35 | [julio guerrero](http://twitter.com/search?q=julio+guerrero) | N/A |
+| 36 | [vilma](http://twitter.com/search?q=vilma) | N/A |
+| 37 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
+| 38 | [denunciado](http://twitter.com/search?q=denunciado) | N/A |
+| 39 | [carapaz](http://twitter.com/search?q=carapaz) | N/A |
+| 40 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
+| 41 | [UN AÑO YULERIA](http://twitter.com/search?q=UN+A%c3%91O+YULERIA) | N/A |
+| 42 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
+| 43 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 44 | [viejas](http://twitter.com/search?q=viejas) | N/A |
+| 45 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 46 | [Clamor](http://twitter.com/search?q=Clamor) | N/A |
+| 47 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 48 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 49 | [Nuques](http://twitter.com/search?q=Nuques) | N/A |
+| 50 | [alcaldesa](http://twitter.com/search?q=alcaldesa) | N/A |
 
 
 
