@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-03-27 05:17:39 UTC`
+📆 Last Updated: `2023-03-27 06:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 1 | [#برنامج_حكايه_وعد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%ad%d9%83%d8%a7%d9%8a%d9%87_%d9%88%d8%b9%d8%af) | N/A |
 | 2 | [#چلو_چلو_مینار_پاکستان_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d9%85%db%8c%d9%86%d8%a7%d8%b1_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%86%d9%84%d9%88) | N/A |
 | 3 | [#PakvsAfg](http://twitter.com/search?q=%23PakvsAfg) | N/A |
-| 4 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 5 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 6 | [#جلسہ_نہیں_ریفرینڈم_ہے](http://twitter.com/search?q=%23%d8%ac%d9%84%d8%b3%db%81_%d9%86%db%81%db%8c%da%ba_%d8%b1%db%8c%d9%81%d8%b1%db%8c%d9%86%da%88%d9%85_%db%81%db%92) | N/A |
+| 4 | [٤ رمضان](http://twitter.com/search?q=%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 5 | [#شرطه_ابوظبي](http://twitter.com/search?q=%23%d8%b4%d8%b1%d8%b7%d9%87_%d8%a7%d8%a8%d9%88%d8%b8%d8%a8%d9%8a) | N/A |
+| 6 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 7 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 8 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
 | 9 | [الجمعيات الخيريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
@@ -36,21 +36,21 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 19 | [بيكيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%8a%d9%87) | N/A |
 | 20 | [الاعتراف الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d8%b1%d8%a7%d9%81+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 | 21 | [Teri](http://twitter.com/search?q=Teri) | N/A |
-| 22 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 23 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 24 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 25 | [Rana](http://twitter.com/search?q=Rana) | N/A |
-| 26 | [الاتحاد الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 27 | [علي دوله الامارات](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 28 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 22 | [الاتحاد الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 23 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 24 | [Rana](http://twitter.com/search?q=Rana) | N/A |
+| 25 | [علي دوله الامارات](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 26 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 27 | [دورتموند](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d8%aa%d9%85%d9%88%d9%86%d8%af) | N/A |
+| 28 | [كوريا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
 | 29 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 30 | [كوريا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 31 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 32 | [حسن الحياه](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
-| 33 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 34 | [جامع الناس](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
-| 35 | [Azam](http://twitter.com/search?q=Azam) | N/A |
-| 36 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 30 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 31 | [حسن الحياه](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87) | N/A |
+| 32 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 33 | [جامع الناس](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9+%d8%a7%d9%84%d9%86%d8%a7%d8%b3) | N/A |
+| 34 | [Azam](http://twitter.com/search?q=Azam) | N/A |
+| 35 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 36 | [والإمارات](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
 | 37 | [Jalsa](http://twitter.com/search?q=Jalsa) | N/A |
 | 38 | [الصليب الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%a8+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
 | 39 | [لجمعيات الهلال الاحمر](http://twitter.com/search?q=%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 42 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
 | 43 | [حاكم عجمان](http://twitter.com/search?q=%d8%ad%d8%a7%d9%83%d9%85+%d8%b9%d8%ac%d9%85%d8%a7%d9%86) | N/A |
 | 44 | [Abeg](http://twitter.com/search?q=Abeg) | N/A |
-| 45 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
-| 46 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
-| 47 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 48 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 49 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 50 | [علي الهواء](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%a1) | N/A |
+| 45 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
+| 46 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 47 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 48 | [علي الهواء](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d9%88%d8%a7%d8%a1) | N/A |
+| 49 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
+| 50 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | N/A |
 
 
 

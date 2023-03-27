@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-27 05:17:37 UTC`
+📆 Last Updated: `2023-03-27 06:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
-| 2 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
-| 3 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 4 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 5 | [#AHiFambeni](http://twitter.com/search?q=%23AHiFambeni) | N/A |
-| 6 | [#SAvsWI](http://twitter.com/search?q=%23SAvsWI) | N/A |
+| 2 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
+| 3 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 4 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
+| 5 | [#SAvsWI](http://twitter.com/search?q=%23SAvsWI) | N/A |
+| 6 | [#DateMyFamily](http://twitter.com/search?q=%23DateMyFamily) | N/A |
 | 7 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
 | 8 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 9 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
+| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 10 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 11 | [QUINTON DE KOCK](http://twitter.com/search?q=QUINTON+DE+KOCK) | N/A |
-| 12 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 14 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 15 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 16 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 17 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
-| 18 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 11 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
+| 12 | [Senzo Meyiwa](http://twitter.com/search?q=Senzo+Meyiwa) | N/A |
+| 13 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 15 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 16 | [markram](http://twitter.com/search?q=markram) | N/A |
+| 17 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 18 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
 | 19 | [juicy jay x the antelope](http://twitter.com/search?q=juicy+jay+x+the+antelope) | N/A |
 | 20 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
 | 21 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 22 | [siyacela](http://twitter.com/search?q=siyacela) | N/A |
-| 23 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
-| 24 | [supersport park](http://twitter.com/search?q=supersport+park) | N/A |
+| 22 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 23 | [siyacela](http://twitter.com/search?q=siyacela) | N/A |
+| 24 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
 | 25 | [reeza](http://twitter.com/search?q=reeza) | N/A |
-| 26 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 27 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 29 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 30 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 31 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 32 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
-| 33 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
-| 34 | [Hendricks](http://twitter.com/search?q=Hendricks) | N/A |
-| 35 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 36 | [reifer](http://twitter.com/search?q=reifer) | N/A |
-| 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 26 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 27 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 28 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 29 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
+| 32 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
+| 33 | [Hendricks](http://twitter.com/search?q=Hendricks) | N/A |
+| 34 | [reifer](http://twitter.com/search?q=reifer) | N/A |
+| 35 | [recharge lounge](http://twitter.com/search?q=recharge+lounge) | N/A |
+| 36 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 37 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
 | 38 | [Quinny](http://twitter.com/search?q=Quinny) | N/A |
-| 39 | [recharge lounge](http://twitter.com/search?q=recharge+lounge) | N/A |
-| 40 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 42 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
-| 43 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 44 | [Magala](http://twitter.com/search?q=Magala) | N/A |
-| 45 | [Senzo Meyiwa](http://twitter.com/search?q=Senzo+Meyiwa) | N/A |
-| 46 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
-| 47 | [Windies](http://twitter.com/search?q=Windies) | N/A |
-| 48 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 49 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 50 | [uncle waffles](http://twitter.com/search?q=uncle+waffles) | N/A |
+| 39 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 40 | [Magala](http://twitter.com/search?q=Magala) | N/A |
+| 41 | [Candy Crush](http://twitter.com/search?q=Candy+Crush) | N/A |
+| 42 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
+| 43 | [Lucas Radebe](http://twitter.com/search?q=Lucas+Radebe) | N/A |
+| 44 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
+| 45 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 46 | [Windies](http://twitter.com/search?q=Windies) | N/A |
+| 47 | [SuperSport Park](http://twitter.com/search?q=SuperSport+Park) | N/A |
+| 48 | [uncle waffles](http://twitter.com/search?q=uncle+waffles) | N/A |
+| 49 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 50 | [T20I](http://twitter.com/search?q=T20I) | N/A |
 
 
 

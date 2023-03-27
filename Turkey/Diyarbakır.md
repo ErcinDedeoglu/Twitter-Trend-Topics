@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-27 05:17:47 UTC`
+📆 Last Updated: `2023-03-27 06:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
 | 2 | [#KöksalEngür](http://twitter.com/search?q=%23K%c3%b6ksalEng%c3%bcr) | N/A |
-| 3 | [Felaketler SonBulacak](http://twitter.com/search?q=Felaketler+SonBulacak) | N/A |
+| 3 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
 | 4 | [#SanaSöz](http://twitter.com/search?q=%23SanaS%c3%b6z) | N/A |
-| 5 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 5 | [Felaketler SonBulacak](http://twitter.com/search?q=Felaketler+SonBulacak) | N/A |
 | 6 | [marmara üniversitesi mezunlar](http://twitter.com/search?q=marmara+%c3%bcniversitesi+mezunlar) | N/A |
 | 7 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
 | 8 | [Yedili Masa](http://twitter.com/search?q=Yedili+Masa) | Yedili Masa is a traditional Turkish game that is similar to checkers. It is played on a board with 64 squares, and each player has 12 pieces. The goal of the game is to capture all of the opponent's pieces. The name Yedili Masa translates to "Seven Table" in English, referring to the seven-by-seven grid of the board. |
 | 9 | [depremzedelerle iftar](http://twitter.com/search?q=depremzedelerle+iftar) | N/A |
-| 10 | [izmirlikızlar güzeldir](http://twitter.com/search?q=izmirlik%c4%b1zlar+g%c3%bczeldir) | N/A |
-| 11 | [35yaşşartı torbayasaya](http://twitter.com/search?q=35ya%c5%9f%c5%9fart%c4%b1+torbayasaya) | N/A |
-| 12 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 13 | [Hayırlı Sahurlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sahurlar) | N/A |
-| 14 | [afete şartsiztayin](http://twitter.com/search?q=afete+%c5%9fartsiztayin) | N/A |
-| 15 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
-| 16 | [yapıkayıt torbada](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+torbada) | N/A |
-| 17 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
-| 18 | [güzel kızlar](http://twitter.com/search?q=g%c3%bczel+k%c4%b1zlar) | N/A |
-| 19 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
-| 20 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
-| 21 | [taşeroniçin kadrovakti](http://twitter.com/search?q=ta%c5%9feroni%c3%a7in+kadrovakti) | N/A |
-| 22 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
-| 23 | [Red Kit](http://twitter.com/search?q=Red+Kit) | N/A |
-| 24 | [BirÖmür YetmezAytol](http://twitter.com/search?q=Bir%c3%96m%c3%bcr+YetmezAytol) | N/A |
-| 25 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 26 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
-| 27 | [HADDİNİ BİL FAZIL SAY](http://twitter.com/search?q=HADD%c4%b0N%c4%b0+B%c4%b0L+FAZIL+SAY) | N/A |
-| 28 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
-| 29 | [yenimüjde ehliyetaffıolsun](http://twitter.com/search?q=yenim%c3%bcjde+ehliyetaff%c4%b1olsun) | N/A |
-| 30 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
-| 31 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 32 | [onur bulut](http://twitter.com/search?q=onur+bulut) | N/A |
-| 33 | [Ozan Kabak](http://twitter.com/search?q=Ozan+Kabak) | N/A |
+| 10 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 11 | [izmirlikızlar güzeldir](http://twitter.com/search?q=izmirlik%c4%b1zlar+g%c3%bczeldir) | N/A |
+| 12 | [35yaşşartı torbayasaya](http://twitter.com/search?q=35ya%c5%9f%c5%9fart%c4%b1+torbayasaya) | N/A |
+| 13 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 14 | [Red Kit](http://twitter.com/search?q=Red+Kit) | N/A |
+| 15 | [afete şartsiztayin](http://twitter.com/search?q=afete+%c5%9fartsiztayin) | N/A |
+| 16 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
+| 17 | [yapıkayıt torbada](http://twitter.com/search?q=yap%c4%b1kay%c4%b1t+torbada) | N/A |
+| 18 | [ADAM YİNE KAZANACAK](http://twitter.com/search?q=ADAM+Y%c4%b0NE+KAZANACAK) | N/A |
+| 19 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
+| 20 | [güzel kızlar](http://twitter.com/search?q=g%c3%bczel+k%c4%b1zlar) | N/A |
+| 21 | [Seslendirme](http://twitter.com/search?q=Seslendirme) | N/A |
+| 22 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 23 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 24 | [Hasan Cemal](http://twitter.com/search?q=Hasan+Cemal) | N/A |
+| 25 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
+| 26 | [Tayyibe Merve Çakar](http://twitter.com/search?q=Tayyibe+Merve+%c3%87akar) | N/A |
+| 27 | [BirÖmür YetmezAytol](http://twitter.com/search?q=Bir%c3%96m%c3%bcr+YetmezAytol) | N/A |
+| 28 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
+| 29 | [haddini bil fazil say](http://twitter.com/search?q=haddini+bil+fazil+say) | N/A |
+| 30 | [onur bulut](http://twitter.com/search?q=onur+bulut) | N/A |
+| 31 | [Cemil](http://twitter.com/search?q=Cemil) | N/A |
+| 32 | [ozan kabak](http://twitter.com/search?q=ozan+kabak) | N/A |
+| 33 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
 | 34 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
-| 35 | [show tv](http://twitter.com/search?q=show+tv) | N/A |
-| 36 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 37 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 38 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
-| 39 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 40 | [Tayyibe Merve Çakar](http://twitter.com/search?q=Tayyibe+Merve+%c3%87akar) | N/A |
-| 41 | [Temel](http://twitter.com/search?q=Temel) | N/A |
-| 42 | [Günaydın Devrim](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Devrim) | N/A |
-| 43 | [PARAVAN ADAY](http://twitter.com/search?q=PARAVAN+ADAY) | N/A |
-| 44 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 45 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 46 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
-| 47 | [Filistin](http://twitter.com/search?q=Filistin) | N/A |
-| 48 | [Atatürk](http://twitter.com/search?q=Atat%c3%bcrk) | N/A |
+| 35 | [Taşeronİçin KadroVakti](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+KadroVakti) | N/A |
+| 36 | [show tv](http://twitter.com/search?q=show+tv) | N/A |
+| 37 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 38 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
+| 39 | [Büdü](http://twitter.com/search?q=B%c3%bcd%c3%bc) | N/A |
+| 40 | [Atatürk](http://twitter.com/search?q=Atat%c3%bcrk) | N/A |
+| 41 | [Selman](http://twitter.com/search?q=Selman) | N/A |
+| 42 | [yenimüjde ehliyetaffıolsun](http://twitter.com/search?q=yenim%c3%bcjde+ehliyetaff%c4%b1olsun) | N/A |
+| 43 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 44 | [Melih Gökçek](http://twitter.com/search?q=Melih+G%c3%b6k%c3%a7ek) | N/A |
+| 45 | [Oyun Treni](http://twitter.com/search?q=Oyun+Treni) | N/A |
+| 46 | [PARAVAN ADAY](http://twitter.com/search?q=PARAVAN+ADAY) | N/A |
+| 47 | [Varank](http://twitter.com/search?q=Varank) | N/A |
+| 48 | [Temel](http://twitter.com/search?q=Temel) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-03-27 05:17:58 UTC`
+📆 Last Updated: `2023-03-27 06:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [山梨学院](http://twitter.com/search?q=%e5%b1%b1%e6%a2%a8%e5%ad%a6%e9%99%a2) | N/A |
-| 2 | [プロパイロットのせい](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%91%e3%82%a4%e3%83%ad%e3%83%83%e3%83%88%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 1 | [#鶴房汐恩](http://twitter.com/search?q=%23%e9%b6%b4%e6%88%bf%e6%b1%90%e6%81%a9) | N/A |
+| 2 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
 | 3 | [#お花見](http://twitter.com/search?q=%23%e3%81%8a%e8%8a%b1%e8%a6%8b) | N/A |
-| 4 | [光一さん](http://twitter.com/search?q=%e5%85%89%e4%b8%80%e3%81%95%e3%82%93) | N/A |
-| 5 | [光一くん](http://twitter.com/search?q=%e5%85%89%e4%b8%80%e3%81%8f%e3%82%93) | N/A |
-| 6 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
-| 7 | [中村さん](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e3%81%95%e3%82%93) | N/A |
-| 8 | [法的措置](http://twitter.com/search?q=%e6%b3%95%e7%9a%84%e6%8e%aa%e7%bd%ae) | N/A |
-| 9 | [#Bリーグマスコット](http://twitter.com/search?q=%23B%e3%83%aa%e3%83%bc%e3%82%b0%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88) | N/A |
-| 10 | [#ウマ娘キャラ診断](http://twitter.com/search?q=%23%e3%82%a6%e3%83%9e%e5%a8%98%e3%82%ad%e3%83%a3%e3%83%a9%e8%a8%ba%e6%96%ad) | N/A |
-| 11 | [#あなたをウマ娘のキャラに例えるなら](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e3%82%a6%e3%83%9e%e5%a8%98%e3%81%ae%e3%82%ad%e3%83%a3%e3%83%a9%e3%81%ab%e4%be%8b%e3%81%88%e3%82%8b%e3%81%aa%e3%82%89) | N/A |
-| 12 | [ダイケンキ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%b1%e3%83%b3%e3%82%ad) | N/A |
-| 13 | [colaさん](http://twitter.com/search?q=cola%e3%81%95%e3%82%93) | Colaさん is a Japanese term of endearment used to refer to someone in a friendly way. It is similar to the English terms "dear" or "sweetheart". |
-| 14 | [ムリおじ](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%81%8a%e3%81%98) | N/A |
-| 15 | [バクフーン](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%95%e3%83%bc%e3%83%b3) | N/A |
-| 16 | [プリズムコンボ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%9c) | N/A |
-| 17 | [Waves](http://twitter.com/search?q=Waves) | N/A |
-| 18 | [水着ベリアル](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%83%99%e3%83%aa%e3%82%a2%e3%83%ab) | N/A |
-| 19 | [ネオジオング](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%82%b8%e3%82%aa%e3%83%b3%e3%82%b0) | N/A |
-| 20 | [専大松戸](http://twitter.com/search?q=%e5%b0%82%e5%a4%a7%e6%9d%be%e6%88%b8) | N/A |
-| 21 | [シャンクス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%af%e3%82%b9) | N/A |
-| 22 | [ラーメンデート](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%87%e3%83%bc%e3%83%88) | N/A |
-| 23 | [ロックマンエグゼ](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3%e3%82%a8%e3%82%b0%e3%82%bc) | N/A |
-| 24 | [しいたけ占い](http://twitter.com/search?q=%e3%81%97%e3%81%84%e3%81%9f%e3%81%91%e5%8d%a0%e3%81%84) | しいたけ占い (Shiitake Fortune Telling) is a traditional Japanese fortune-telling game that uses shiitake mushrooms. Players take turns picking up mushrooms from a pile and interpreting the shape of the mushroom to determine their fortune. The fortunes range from good luck to bad luck, and can be interpreted in various ways. In English, it is sometimes referred to as Shiitake Mushroom Divination. |
-| 25 | [メジロマックイーン](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%ad%e3%83%9e%e3%83%83%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3) | N/A |
-| 26 | [日本動物園水族館協会](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%8b%95%e7%89%a9%e5%9c%92%e6%b0%b4%e6%97%8f%e9%a4%a8%e5%8d%94%e4%bc%9a) | N/A |
-| 27 | [エニカラ](http://twitter.com/search?q=%e3%82%a8%e3%83%8b%e3%82%ab%e3%83%a9) | N/A |
-| 28 | [ハモリ我慢](http://twitter.com/search?q=%e3%83%8f%e3%83%a2%e3%83%aa%e6%88%91%e6%85%a2) | N/A |
-| 29 | [セレクトくじ](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%82%af%e3%83%88%e3%81%8f%e3%81%98) | N/A |
-| 30 | [自分なりの流儀](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%aa%e3%82%8a%e3%81%ae%e6%b5%81%e5%84%80) | N/A |
-| 31 | [自分の信念](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e4%bf%a1%e5%bf%b5) | N/A |
-| 32 | [ライスシャワー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%b9%e3%82%b7%e3%83%a3%e3%83%af%e3%83%bc) | N/A |
-| 33 | [大逃げタイプ](http://twitter.com/search?q=%e5%a4%a7%e9%80%83%e3%81%92%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
-| 34 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
-| 35 | [ムリナール](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%83%8a%e3%83%bc%e3%83%ab) | N/A |
-| 36 | [動物福祉](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e7%a6%8f%e7%a5%89) | N/A |
-| 37 | [ネットバトラー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%83%88%e3%83%90%e3%83%88%e3%83%a9%e3%83%bc) | N/A |
-| 38 | [ヒスイ御三家](http://twitter.com/search?q=%e3%83%92%e3%82%b9%e3%82%a4%e5%be%a1%e4%b8%89%e5%ae%b6) | N/A |
-| 39 | [虫テラス](http://twitter.com/search?q=%e8%99%ab%e3%83%86%e3%83%a9%e3%82%b9) | N/A |
-| 40 | [ミジュマル](http://twitter.com/search?q=%e3%83%9f%e3%82%b8%e3%83%a5%e3%83%9e%e3%83%ab) | ミジュマル (Mijumaru) is a species of Pokémon from the Pokémon franchise. It is a Water-type Pokémon that evolves into Dewott and then Samurott. Its English name is Oshawott. |
-| 41 | [抜群のパワフルさ](http://twitter.com/search?q=%e6%8a%9c%e7%be%a4%e3%81%ae%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%81%95) | N/A |
-| 42 | [ペンギン池落下問題](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3%e6%b1%a0%e8%90%bd%e4%b8%8b%e5%95%8f%e9%a1%8c) | N/A |
-| 43 | [フレグランス](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%82%b0%e3%83%a9%e3%83%b3%e3%82%b9) | N/A |
+| 4 | [スイちゃん](http://twitter.com/search?q=%e3%82%b9%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 5 | [プロパイロットのせい](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%91%e3%82%a4%e3%83%ad%e3%83%83%e3%83%88%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 6 | [#ZIP](http://twitter.com/search?q=%23ZIP) | N/A |
+| 7 | [チャーリーとチョコレート工場](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%83%aa%e3%83%bc%e3%81%a8%e3%83%81%e3%83%a7%e3%82%b3%e3%83%ac%e3%83%bc%e3%83%88%e5%b7%a5%e5%a0%b4) | N/A |
+| 8 | [#今週のワンピ](http://twitter.com/search?q=%23%e4%bb%8a%e9%80%b1%e3%81%ae%e3%83%af%e3%83%b3%e3%83%94) | N/A |
+| 9 | [光一くん](http://twitter.com/search?q=%e5%85%89%e4%b8%80%e3%81%8f%e3%82%93) | N/A |
+| 10 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
+| 11 | [ムリおじ](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%81%8a%e3%81%98) | N/A |
+| 12 | [ひなたくん](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%9f%e3%81%8f%e3%82%93) | N/A |
+| 13 | [ダイケンキ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%b1%e3%83%b3%e3%82%ad) | N/A |
+| 14 | [colaさん](http://twitter.com/search?q=cola%e3%81%95%e3%82%93) | Colaさん is a Japanese term of endearment used to refer to someone in a friendly way. It is similar to the English terms "dear" or "sweetheart". |
+| 15 | [Waves](http://twitter.com/search?q=Waves) | N/A |
+| 16 | [ムリナール](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%83%8a%e3%83%bc%e3%83%ab) | N/A |
+| 17 | [プリズムコンボ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%9c) | N/A |
+| 18 | [バイスマスター](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 19 | [バクフーン](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%95%e3%83%bc%e3%83%b3) | N/A |
+| 20 | [日本動物園水族館協会](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%8b%95%e7%89%a9%e5%9c%92%e6%b0%b4%e6%97%8f%e9%a4%a8%e5%8d%94%e4%bc%9a) | N/A |
+| 21 | [ラーメンデート](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%87%e3%83%bc%e3%83%88) | N/A |
+| 22 | [きな子の謎解き成功](http://twitter.com/search?q=%e3%81%8d%e3%81%aa%e5%ad%90%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 23 | [エニカラ](http://twitter.com/search?q=%e3%82%a8%e3%83%8b%e3%82%ab%e3%83%a9) | N/A |
+| 24 | [メジロマックイーン](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%ad%e3%83%9e%e3%83%83%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3) | N/A |
+| 25 | [水着ベリアル](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%83%99%e3%83%aa%e3%82%a2%e3%83%ab) | N/A |
+| 26 | [カバーの株](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%bc%e3%81%ae%e6%a0%aa) | N/A |
+| 27 | [ネオジオング](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%82%b8%e3%82%aa%e3%83%b3%e3%82%b0) | N/A |
+| 28 | [シャンクス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%af%e3%82%b9) | N/A |
+| 29 | [ビルドシリーズ](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
+| 30 | [専大松戸](http://twitter.com/search?q=%e5%b0%82%e5%a4%a7%e6%9d%be%e6%88%b8) | N/A |
+| 31 | [ヘアアレ](http://twitter.com/search?q=%e3%83%98%e3%82%a2%e3%82%a2%e3%83%ac) | N/A |
+| 32 | [ロックマンエグゼ](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3%e3%82%a8%e3%82%b0%e3%82%bc) | N/A |
+| 33 | [ライスシャワー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%b9%e3%82%b7%e3%83%a3%e3%83%af%e3%83%bc) | N/A |
+| 34 | [自分の信念](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e4%bf%a1%e5%bf%b5) | N/A |
+| 35 | [動物福祉](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e7%a6%8f%e7%a5%89) | N/A |
+| 36 | [ガンダムビルドメタバース](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%83%93%e3%83%ab%e3%83%89%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 37 | [自分なりの流儀](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%aa%e3%82%8a%e3%81%ae%e6%b5%81%e5%84%80) | N/A |
+| 38 | [しいたけ占い](http://twitter.com/search?q=%e3%81%97%e3%81%84%e3%81%9f%e3%81%91%e5%8d%a0%e3%81%84) | しいたけ占い (Shiitake Fortune Telling) is a traditional Japanese fortune-telling game that uses shiitake mushrooms. Players take turns picking up mushrooms from a pile and interpreting the shape of the mushroom to determine their fortune. The fortunes range from good luck to bad luck, and can be interpreted in various ways. In English, it is sometimes referred to as Shiitake Mushroom Divination. |
+| 39 | [龍友くん](http://twitter.com/search?q=%e9%be%8d%e5%8f%8b%e3%81%8f%e3%82%93) | N/A |
+| 40 | [解釈違い](http://twitter.com/search?q=%e8%a7%a3%e9%87%88%e9%81%95%e3%81%84) | N/A |
+| 41 | [ペンギン池落下問題](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%82%ae%e3%83%b3%e6%b1%a0%e8%90%bd%e4%b8%8b%e5%95%8f%e9%a1%8c) | N/A |
+| 42 | [栗山監督の会見](http://twitter.com/search?q=%e6%a0%97%e5%b1%b1%e7%9b%a3%e7%9d%a3%e3%81%ae%e4%bc%9a%e8%a6%8b) | N/A |
+| 43 | [大逃げタイプ](http://twitter.com/search?q=%e5%a4%a7%e9%80%83%e3%81%92%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
 | 44 | [シンボリルドルフ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%ab%e3%83%89%e3%83%ab%e3%83%95) | N/A |
-| 45 | [メガホーン](http://twitter.com/search?q=%e3%83%a1%e3%82%ac%e3%83%9b%e3%83%bc%e3%83%b3) | N/A |
-| 46 | [取扱注意](http://twitter.com/search?q=%e5%8f%96%e6%89%b1%e6%b3%a8%e6%84%8f) | N/A |
-| 47 | [SHUFFLE UNIT CD](http://twitter.com/search?q=SHUFFLE+UNIT+CD) | N/A |
-| 48 | [サイレンススズカ](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%ac%e3%83%b3%e3%82%b9%e3%82%b9%e3%82%ba%e3%82%ab) | N/A |
-| 49 | [VOGUE GIRL](http://twitter.com/search?q=VOGUE+GIRL) | N/A |
+| 45 | [ロイヤルエクスプレス](http://twitter.com/search?q=%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab%e3%82%a8%e3%82%af%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b9) | N/A |
+| 46 | [ハモリ我慢](http://twitter.com/search?q=%e3%83%8f%e3%83%a2%e3%83%aa%e6%88%91%e6%85%a2) | N/A |
+| 47 | [ネットバトラー](http://twitter.com/search?q=%e3%83%8d%e3%83%83%e3%83%88%e3%83%90%e3%83%88%e3%83%a9%e3%83%bc) | N/A |
+| 48 | [セレクトくじ](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%82%af%e3%83%88%e3%81%8f%e3%81%98) | N/A |
+| 49 | [抜群のパワフルさ](http://twitter.com/search?q=%e6%8a%9c%e7%be%a4%e3%81%ae%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%81%95) | N/A |
 
 
 

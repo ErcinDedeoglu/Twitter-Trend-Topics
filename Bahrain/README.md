@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-03-27 05:18:00 UTC`
+📆 Last Updated: `2023-03-27 06:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,15 +20,15 @@ This is top 50 for Bahrain
 | 3 | [#اللهم_شافي_فايز_الساده](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%87%d9%85_%d8%b4%d8%a7%d9%81%d9%8a_%d9%81%d8%a7%d9%8a%d8%b2_%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d9%87) | N/A |
 | 4 | [اكرم الاكرمين](http://twitter.com/search?q=%d8%a7%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d9%83%d8%b1%d9%85%d9%8a%d9%86) | N/A |
 | 5 | [مجيب اللهم](http://twitter.com/search?q=%d9%85%d8%ac%d9%8a%d8%a8+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 6 | [#جلسہ_نہیں_ریفرینڈم_ہے](http://twitter.com/search?q=%23%d8%ac%d9%84%d8%b3%db%81_%d9%86%db%81%db%8c%da%ba_%d8%b1%db%8c%d9%81%d8%b1%db%8c%d9%86%da%88%d9%85_%db%81%db%92) | N/A |
-| 7 | [قبور الراحلين](http://twitter.com/search?q=%d9%82%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%ad%d9%84%d9%8a%d9%86) | N/A |
-| 8 | [#چلو_چلو_مینار_پاکستان_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d9%85%db%8c%d9%86%d8%a7%d8%b1_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%86%d9%84%d9%88) | N/A |
+| 6 | [قبور الراحلين](http://twitter.com/search?q=%d9%82%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%ad%d9%84%d9%8a%d9%86) | N/A |
+| 7 | [#چلو_چلو_مینار_پاکستان_چلو](http://twitter.com/search?q=%23%da%86%d9%84%d9%88_%da%86%d9%84%d9%88_%d9%85%db%8c%d9%86%d8%a7%d8%b1_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%da%86%d9%84%d9%88) | N/A |
+| 8 | [#يوم_الشباب_البحريني](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86%d9%8a) | N/A |
 | 9 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
 | 10 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
 | 11 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 12 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 13 | [عقب الفطور](http://twitter.com/search?q=%d8%b9%d9%82%d8%a8+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
-| 14 | [علي الشفاه الذابلات](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d9%87+%d8%a7%d9%84%d8%b0%d8%a7%d8%a8%d9%84%d8%a7%d8%aa) | N/A |
+| 12 | [عقب الفطور](http://twitter.com/search?q=%d8%b9%d9%82%d8%a8+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
+| 13 | [علي الشفاه الذابلات](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d9%87+%d8%a7%d9%84%d8%b0%d8%a7%d8%a8%d9%84%d8%a7%d8%aa) | N/A |
+| 14 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 15 | [جبر خاطر](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1+%d8%ae%d8%a7%d8%b7%d8%b1) | N/A |
 | 16 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
 | 17 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | N/A |
@@ -52,15 +52,14 @@ This is top 50 for Bahrain
 | 35 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 36 | [الامم المتحده](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%85+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87) | N/A |
 | 37 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 38 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 39 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
-| 40 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 41 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
-| 42 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 43 | [Read Bio](http://twitter.com/search?q=Read+Bio) | N/A |
-| 44 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 45 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 46 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 38 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
+| 39 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 40 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 41 | [read bio](http://twitter.com/search?q=read+bio) | N/A |
+| 42 | [أمريكا](http://twitter.com/search?q=%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 43 | [دول العالم](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 44 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 45 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 
 
 

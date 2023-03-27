@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-27 05:17:51 UTC`
+📆 Last Updated: `2023-03-27 06:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 1 | [Inglewood](http://twitter.com/search?q=Inglewood) | N/A |
 | 2 | [Blues](http://twitter.com/search?q=Blues) | N/A |
 | 3 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 4 | [Fiala](http://twitter.com/search?q=Fiala) | N/A |
-| 5 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 6 | [#AngelCityFC](http://twitter.com/search?q=%23AngelCityFC) | N/A |
-| 7 | [#Warriors](http://twitter.com/search?q=%23Warriors) | N/A |
-| 8 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 9 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 10 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 4 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 5 | [Fiala](http://twitter.com/search?q=Fiala) | N/A |
+| 6 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
+| 7 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 8 | [#Warriors](http://twitter.com/search?q=%23Warriors) | N/A |
+| 9 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 10 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
 | 11 | [#NWSL](http://twitter.com/search?q=%23NWSL) | N/A |
-| 12 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 12 | [#VtuberUprisings](http://twitter.com/search?q=%23VtuberUprisings) | N/A |
 | 13 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
 | 14 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
 | 15 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 16 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 17 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 16 | [Acola](http://twitter.com/search?q=Acola) | N/A |
+| 17 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
 | 18 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 19 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 20 | [Acola](http://twitter.com/search?q=Acola) | N/A |
-| 21 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 22 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 23 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 24 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 25 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
-| 26 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 27 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 28 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 29 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
-| 30 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
-| 31 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
-| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 33 | [HAPPY BIRTHDAY UNI](http://twitter.com/search?q=HAPPY+BIRTHDAY+UNI) | N/A |
-| 34 | [Summit](http://twitter.com/search?q=Summit) | N/A |
-| 35 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 36 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 37 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 38 | [Hailey Van Lith](http://twitter.com/search?q=Hailey+Van+Lith) | N/A |
-| 39 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 40 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 41 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 42 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
-| 43 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 44 | [3DS eShop](http://twitter.com/search?q=3DS+eShop) | N/A |
+| 19 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 20 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 21 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 22 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 23 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 24 | [Summit](http://twitter.com/search?q=Summit) | N/A |
+| 25 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 26 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 27 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 28 | [eShop](http://twitter.com/search?q=eShop) | N/A |
+| 29 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 30 | [HAPPY BIRTHDAY UNI](http://twitter.com/search?q=HAPPY+BIRTHDAY+UNI) | N/A |
+| 31 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 32 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
+| 33 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
+| 34 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 35 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 36 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 37 | [Copley](http://twitter.com/search?q=Copley) | N/A |
+| 38 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 39 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
+| 40 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 41 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 42 | [Hailey Van Lith](http://twitter.com/search?q=Hailey+Van+Lith) | N/A |
+| 43 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 44 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
 | 45 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 46 | [Copley](http://twitter.com/search?q=Copley) | N/A |
-| 47 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 48 | [Whitecaps](http://twitter.com/search?q=Whitecaps) | N/A |
-| 49 | [NPOY](http://twitter.com/search?q=NPOY) | N/A |
+| 46 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 47 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 48 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
+| 49 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
 
 
 

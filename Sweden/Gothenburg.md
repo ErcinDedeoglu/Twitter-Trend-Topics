@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-03-27 05:17:24 UTC`
+📆 Last Updated: `2023-03-27 06:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
-| 2 | [kazakstan](http://twitter.com/search?q=kazakstan) | N/A |
-| 3 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
+| 2 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 3 | [kazakstan](http://twitter.com/search?q=kazakstan) | N/A |
 | 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 5 | [Hanif](http://twitter.com/search?q=Hanif) | N/A |
-| 6 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
-| 7 | [lennström](http://twitter.com/search?q=lennstr%c3%b6m) | N/A |
-| 8 | [blomqvist](http://twitter.com/search?q=blomqvist) | N/A |
-| 9 | [växjö](http://twitter.com/search?q=v%c3%a4xj%c3%b6) | N/A |
+| 5 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
+| 6 | [Hanif Bali](http://twitter.com/search?q=Hanif+Bali) | N/A |
+| 7 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 8 | [lennström](http://twitter.com/search?q=lennstr%c3%b6m) | N/A |
+| 9 | [blomqvist](http://twitter.com/search?q=blomqvist) | N/A |
 | 10 | [kalvå](http://twitter.com/search?q=kalv%c3%a5) | N/A |
-| 11 | [Svff](http://twitter.com/search?q=Svff) | N/A |
-| 12 | [shinnimin](http://twitter.com/search?q=shinnimin) | N/A |
-| 13 | [sanny](http://twitter.com/search?q=sanny) | N/A |
-| 14 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 15 | [borgman](http://twitter.com/search?q=borgman) | N/A |
-| 16 | [Malte](http://twitter.com/search?q=Malte) | N/A |
-| 17 | [#moraik](http://twitter.com/search?q=%23moraik) | N/A |
-| 18 | [komarov](http://twitter.com/search?q=komarov) | N/A |
-| 19 | [#hockeyettan](http://twitter.com/search?q=%23hockeyettan) | N/A |
-| 20 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 21 | [Maja](http://twitter.com/search?q=Maja) | N/A |
-| 22 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 23 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
-| 24 | [bollnäs](http://twitter.com/search?q=bolln%c3%a4s) | N/A |
-| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 11 | [sanny](http://twitter.com/search?q=sanny) | N/A |
+| 12 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 13 | [borgman](http://twitter.com/search?q=borgman) | N/A |
+| 14 | [Malte](http://twitter.com/search?q=Malte) | N/A |
+| 15 | [#svff](http://twitter.com/search?q=%23svff) | N/A |
+| 16 | [#moraik](http://twitter.com/search?q=%23moraik) | N/A |
+| 17 | [komarov](http://twitter.com/search?q=komarov) | N/A |
+| 18 | [#hockeyettan](http://twitter.com/search?q=%23hockeyettan) | N/A |
+| 19 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 20 | [Maja](http://twitter.com/search?q=Maja) | N/A |
+| 21 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
+| 22 | [bollnäs](http://twitter.com/search?q=bolln%c3%a4s) | N/A |
+| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 24 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 25 | [bagenda](http://twitter.com/search?q=bagenda) | N/A |
 | 26 | [bromé](http://twitter.com/search?q=brom%c3%a9) | N/A |
-| 27 | [proletären](http://twitter.com/search?q=prolet%c3%a4ren) | N/A |
-| 28 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
-| 29 | [Fas 3](http://twitter.com/search?q=Fas+3) | N/A |
-| 30 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
-| 31 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 32 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 27 | [Märta](http://twitter.com/search?q=M%c3%a4rta) | N/A |
+| 28 | [proletären](http://twitter.com/search?q=prolet%c3%a4ren) | N/A |
+| 29 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
+| 30 | [#EarthHour](http://twitter.com/search?q=%23EarthHour) | N/A |
+| 31 | [Fas 3](http://twitter.com/search?q=Fas+3) | N/A |
+| 32 | [Davidson](http://twitter.com/search?q=Davidson) | N/A |
 | 33 | [mariestad](http://twitter.com/search?q=mariestad) | N/A |
-| 34 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 35 | [norin](http://twitter.com/search?q=norin) | N/A |
-| 36 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 37 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
-| 38 | [Öppna](http://twitter.com/search?q=%c3%96ppna) | N/A |
-| 39 | [jörgen jönsson](http://twitter.com/search?q=j%c3%b6rgen+j%c3%b6nsson) | N/A |
-| 40 | [Markus Allard](http://twitter.com/search?q=Markus+Allard) | N/A |
-| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 34 | [norin](http://twitter.com/search?q=norin) | N/A |
+| 35 | [Öppna](http://twitter.com/search?q=%c3%96ppna) | N/A |
+| 36 | [Läkare](http://twitter.com/search?q=L%c3%a4kare) | N/A |
+| 37 | [jörgen jönsson](http://twitter.com/search?q=j%c3%b6rgen+j%c3%b6nsson) | N/A |
+| 38 | [Markus Allard](http://twitter.com/search?q=Markus+Allard) | N/A |
+| 39 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
+| 40 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
+| 41 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 42 | [högskoleprovet](http://twitter.com/search?q=h%c3%b6gskoleprovet) | N/A |
 | 43 | [Vitryssland](http://twitter.com/search?q=Vitryssland) | N/A |
-| 44 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
-| 45 | [moa ilar](http://twitter.com/search?q=moa+ilar) | N/A |
-| 46 | [Nybro](http://twitter.com/search?q=Nybro) | N/A |
-| 47 | [Harald](http://twitter.com/search?q=Harald) | N/A |
-| 48 | [Janne](http://twitter.com/search?q=Janne) | N/A |
+| 44 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 45 | [Luleå](http://twitter.com/search?q=Lule%c3%a5) | N/A |
+| 46 | [moa ilar](http://twitter.com/search?q=moa+ilar) | N/A |
+| 47 | [Nybro](http://twitter.com/search?q=Nybro) | N/A |
+| 48 | [Harald](http://twitter.com/search?q=Harald) | N/A |
+| 49 | [Janne](http://twitter.com/search?q=Janne) | N/A |
 
 
 

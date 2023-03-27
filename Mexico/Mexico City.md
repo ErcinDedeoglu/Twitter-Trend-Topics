@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-27 05:17:06 UTC`
+📆 Last Updated: `2023-03-27 06:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
+| 1 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
 | 2 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 3 | [Plan C](http://twitter.com/search?q=Plan+C) | N/A |
+| 3 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
 | 4 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
 | 5 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 6 | [#BatallaDeEliminación](http://twitter.com/search?q=%23BatallaDeEliminaci%c3%b3n) | N/A |
 | 7 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
 | 8 | [Raúl Jiménez](http://twitter.com/search?q=Ra%c3%bal+Jim%c3%a9nez) | N/A |
 | 9 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 10 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
-| 11 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 10 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 11 | [TIGER TIGER GO](http://twitter.com/search?q=TIGER+TIGER+GO) | N/A |
 | 12 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 13 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 14 | [Jorge Sánchez](http://twitter.com/search?q=Jorge+S%c3%a1nchez) | N/A |
-| 15 | [#ConMiGente](http://twitter.com/search?q=%23ConMiGente) | N/A |
-| 16 | [TIGER TIGER GO](http://twitter.com/search?q=TIGER+TIGER+GO) | N/A |
-| 17 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 18 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 19 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 20 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 21 | [Meli](http://twitter.com/search?q=Meli) | N/A |
-| 22 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 23 | [Edson](http://twitter.com/search?q=Edson) | N/A |
-| 24 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 13 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
+| 14 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 15 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 16 | [Meli](http://twitter.com/search?q=Meli) | N/A |
+| 17 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 18 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 19 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 20 | [Jorge Sánchez](http://twitter.com/search?q=Jorge+S%c3%a1nchez) | N/A |
+| 21 | [Mati](http://twitter.com/search?q=Mati) | N/A |
+| 22 | [#ConMiGente](http://twitter.com/search?q=%23ConMiGente) | N/A |
+| 23 | [Tzasna](http://twitter.com/search?q=Tzasna) | N/A |
+| 24 | [#CalabozosYDragones](http://twitter.com/search?q=%23CalabozosYDragones) | N/A |
 | 25 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 26 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 27 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 28 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 29 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 30 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 31 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 32 | [#CalabozosYDragones](http://twitter.com/search?q=%23CalabozosYDragones) | N/A |
-| 33 | [Shawn Mendes](http://twitter.com/search?q=Shawn+Mendes) | N/A |
-| 34 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 35 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
-| 36 | [Ymay](http://twitter.com/search?q=Ymay) | N/A |
-| 37 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 38 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
-| 39 | [Argentina y España](http://twitter.com/search?q=Argentina+y+Espa%c3%b1a) | N/A |
-| 40 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 41 | [Jaime Camil](http://twitter.com/search?q=Jaime+Camil) | N/A |
+| 26 | [Argentina y España](http://twitter.com/search?q=Argentina+y+Espa%c3%b1a) | N/A |
+| 27 | [Edson](http://twitter.com/search?q=Edson) | N/A |
+| 28 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 29 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 30 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 31 | [Shawn Mendes](http://twitter.com/search?q=Shawn+Mendes) | N/A |
+| 32 | [Ymay](http://twitter.com/search?q=Ymay) | N/A |
+| 33 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 34 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 35 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 36 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 37 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 38 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 39 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 40 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 42 | [Almada](http://twitter.com/search?q=Almada) | N/A |
-| 43 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 44 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 45 | [QUEREMOS CONCIERTO DE MAMAMOO](http://twitter.com/search?q=QUEREMOS+CONCIERTO+DE+MAMAMOO) | N/A |
-| 46 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 47 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
-| 48 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 43 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
+| 44 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 45 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 46 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 47 | [QUEREMOS CONCIERTO DE MAMAMOO](http://twitter.com/search?q=QUEREMOS+CONCIERTO+DE+MAMAMOO) | N/A |
+| 48 | [Jaime Camil](http://twitter.com/search?q=Jaime+Camil) | N/A |
 | 49 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 50 | [Orbelin](http://twitter.com/search?q=Orbelin) | N/A |
+| 50 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
 
 
 

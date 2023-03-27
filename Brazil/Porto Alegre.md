@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-27 05:17:12 UTC`
+📆 Last Updated: `2023-03-27 06:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
-| 2 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
-| 3 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 4 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 5 | [Marco Aurélio](http://twitter.com/search?q=Marco+Aur%c3%a9lio) | N/A |
-| 6 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 7 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 8 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 9 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 10 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 11 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 12 | [Baldasso](http://twitter.com/search?q=Baldasso) | N/A |
-| 13 | [Lucas Silva](http://twitter.com/search?q=Lucas+Silva) | N/A |
-| 14 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 15 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
-| 16 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 17 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 18 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 19 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
-| 20 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 21 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 22 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 23 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 24 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 25 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 26 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
-| 27 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 28 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 29 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
-| 30 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 31 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
-| 32 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 33 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 34 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 35 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 36 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 37 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 38 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 39 | [tony stark](http://twitter.com/search?q=tony+stark) | N/A |
-| 40 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 41 | [FOCO NO GSHOW](http://twitter.com/search?q=FOCO+NO+GSHOW) | N/A |
-| 42 | [Falso](http://twitter.com/search?q=Falso) | N/A |
-| 43 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 44 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 45 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 46 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 47 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 48 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
-| 49 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
-| 50 | [Mercado Livre](http://twitter.com/search?q=Mercado+Livre) | N/A |
+| 1 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
+| 2 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 3 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 4 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
+| 5 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 6 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 7 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 8 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 9 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 10 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 11 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 12 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 13 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 14 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
+| 15 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 16 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 17 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 18 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 19 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 20 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
+| 21 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 22 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
+| 23 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 24 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 25 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 26 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 27 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
+| 28 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 29 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 30 | [FOCO NO GSHOW](http://twitter.com/search?q=FOCO+NO+GSHOW) | N/A |
+| 31 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
+| 32 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 33 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
+| 34 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 35 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 36 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 37 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
+| 38 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
+| 39 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
+| 40 | [Pipocou](http://twitter.com/search?q=Pipocou) | N/A |
+| 41 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 42 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 43 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 44 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
+| 45 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 46 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 47 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 48 | [Cumanda](http://twitter.com/search?q=Cumanda) | N/A |
+| 49 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
+| 50 | [As 4](http://twitter.com/search?q=As+4) | N/A |
 
 
 
