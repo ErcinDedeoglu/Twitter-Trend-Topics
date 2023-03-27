@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-27 01:44:19 UTC`
+📆 Last Updated: `2023-03-27 02:31:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,46 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
 | 3 | [#Netanyahu](http://twitter.com/search?q=%23Netanyahu) | N/A |
 | 4 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
-| 5 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
-| 6 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
-| 7 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
-| 8 | [Hayırlı Sahurlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sahurlar) | N/A |
-| 9 | [Sonumuz Türkiye](http://twitter.com/search?q=Sonumuz+T%c3%bcrkiye) | N/A |
-| 10 | [Filistin](http://twitter.com/search?q=Filistin) | N/A |
-| 11 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 12 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 13 | [PARAVAN ADAY](http://twitter.com/search?q=PARAVAN+ADAY) | N/A |
-| 14 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
-| 15 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
-| 16 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
+| 5 | [#StajyereBayramOlsun](http://twitter.com/search?q=%23StajyereBayramOlsun) | N/A |
+| 6 | [Hayırlı Sahurlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sahurlar) | N/A |
+| 7 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
+| 8 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
+| 9 | [Aziz Allah](http://twitter.com/search?q=Aziz+Allah) | N/A |
+| 10 | [Sonumuz Türkiye](http://twitter.com/search?q=Sonumuz+T%c3%bcrkiye) | N/A |
+| 11 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
+| 12 | [Bereketli Sahurlar](http://twitter.com/search?q=Bereketli+Sahurlar) | N/A |
+| 13 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 14 | [PARAVAN ADAY](http://twitter.com/search?q=PARAVAN+ADAY) | N/A |
+| 15 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 16 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
 | 17 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
 | 18 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 19 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
-| 20 | [Atatürk](http://twitter.com/search?q=Atat%c3%bcrk) | N/A |
-| 21 | [Merve](http://twitter.com/search?q=Merve) | N/A |
-| 22 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
-| 23 | [Gonca](http://twitter.com/search?q=Gonca) | N/A |
-| 24 | [Ilgaz](http://twitter.com/search?q=Ilgaz) | Ilgaz is a Turkish name derived from the word "ilgaz," which means "attraction" or "allure." It is also the name of a mountain range in Turkey. |
-| 25 | [Tayyibe](http://twitter.com/search?q=Tayyibe) | N/A |
-| 26 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 27 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 28 | [Turks](http://twitter.com/search?q=Turks) | N/A |
-| 29 | [Eyüp](http://twitter.com/search?q=Ey%c3%bcp) | N/A |
-| 30 | [Yiyin](http://twitter.com/search?q=Yiyin) | N/A |
-| 31 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 32 | [İpek](http://twitter.com/search?q=%c4%b0pek) | N/A |
-| 33 | [YeniMüjde EhliyetAffıOlsun](http://twitter.com/search?q=YeniM%c3%bcjde+EhliyetAff%c4%b1Olsun) | N/A |
-| 34 | [#StajyereBayramOlsun](http://twitter.com/search?q=%23StajyereBayramOlsun) | N/A |
-| 35 | [#2000lerKabineye](http://twitter.com/search?q=%232000lerKabineye) | N/A |
-| 36 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
-| 37 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 38 | [#AçıkveNet](http://twitter.com/search?q=%23A%c3%a7%c4%b1kveNet) | #AçıkveNet is a Turkish hashtag that translates to "clear and open" in English. It is used to express the idea of being open and honest in communication. |
-| 39 | [#SedatPekerKonuşsun](http://twitter.com/search?q=%23SedatPekerKonu%c5%9fsun) | N/A |
-| 40 | [#KIZILELMA](http://twitter.com/search?q=%23KIZILELMA) | N/A |
-| 41 | [#Bedel](http://twitter.com/search?q=%23Bedel) | N/A |
-| 42 | [#SahurVakti](http://twitter.com/search?q=%23SahurVakti) | N/A |
-| 43 | [#güzelgünler](http://twitter.com/search?q=%23g%c3%bczelg%c3%bcnler) | N/A |
-| 44 | [#KorucularStatüBekliyor](http://twitter.com/search?q=%23KorucularStat%c3%bcBekliyor) | N/A |
-| 45 | [#DevletBahceli](http://twitter.com/search?q=%23DevletBahceli) | N/A |
-| 46 | [#infazkorumatorbayasaya](http://twitter.com/search?q=%23infazkorumatorbayasaya) | N/A |
-| 47 | [#ABOvePRİMfarkınaMÜJDEgelsin](http://twitter.com/search?q=%23ABOvePR%c4%b0Mfark%c4%b1naM%c3%9cJDEgelsin) | N/A |
-| 48 | [#BizKimdenKaçıyordukAnne](http://twitter.com/search?q=%23BizKimdenKa%c3%a7%c4%b1yordukAnne) | N/A |
+| 19 | [Merve](http://twitter.com/search?q=Merve) | N/A |
+| 20 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 21 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
+| 22 | [Ilgaz](http://twitter.com/search?q=Ilgaz) | Ilgaz is a Turkish name derived from the word "ilgaz," which means "attraction" or "allure." It is also the name of a mountain range in Turkey. |
+| 23 | [Tayyibe](http://twitter.com/search?q=Tayyibe) | N/A |
+| 24 | [Varank](http://twitter.com/search?q=Varank) | N/A |
+| 25 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 26 | [Turks](http://twitter.com/search?q=Turks) | N/A |
+| 27 | [Eyüp](http://twitter.com/search?q=Ey%c3%bcp) | N/A |
+| 28 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
+| 29 | [#2000lerKabineye](http://twitter.com/search?q=%232000lerKabineye) | N/A |
+| 30 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 31 | [#Filistin](http://twitter.com/search?q=%23Filistin) | N/A |
+| 32 | [#SahurVakti](http://twitter.com/search?q=%23SahurVakti) | N/A |
+| 33 | [#KIZILELMA](http://twitter.com/search?q=%23KIZILELMA) | N/A |
+| 34 | [#SahurBereketi](http://twitter.com/search?q=%23SahurBereketi) | N/A |
+| 35 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
+| 36 | [#AçıkveNet](http://twitter.com/search?q=%23A%c3%a7%c4%b1kveNet) | #AçıkveNet is a Turkish hashtag that translates to "clear and open" in English. It is used to express the idea of being open and honest in communication. |
+| 37 | [#SedatPekerKonuşsun](http://twitter.com/search?q=%23SedatPekerKonu%c5%9fsun) | N/A |
+| 38 | [#güzelgünler](http://twitter.com/search?q=%23g%c3%bczelg%c3%bcnler) | N/A |
+| 39 | [#KorucularStatüBekliyor](http://twitter.com/search?q=%23KorucularStat%c3%bcBekliyor) | N/A |
+| 40 | [#infazkorumatorbayasaya](http://twitter.com/search?q=%23infazkorumatorbayasaya) | N/A |
+| 41 | [#DevletBahceli](http://twitter.com/search?q=%23DevletBahceli) | N/A |
+| 42 | [#ABOvePRİMfarkınaMÜJDEgelsin](http://twitter.com/search?q=%23ABOvePR%c4%b0Mfark%c4%b1naM%c3%9cJDEgelsin) | N/A |
+| 43 | [#ErdoğanAklınızıAlacak](http://twitter.com/search?q=%23Erdo%c4%9fanAkl%c4%b1n%c4%b1z%c4%b1Alacak) | N/A |
+| 44 | [#AlKan](http://twitter.com/search?q=%23AlKan) | N/A |
 
 
 

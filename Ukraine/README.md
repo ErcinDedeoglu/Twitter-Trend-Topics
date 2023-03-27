@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-27 01:44:35 UTC`
+📆 Last Updated: `2023-03-27 02:31:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for Ukraine
 | 17 | [киля](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bb%d1%8f) | N/A |
 | 18 | [крикнула](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d0%ba%d0%bd%d1%83%d0%bb%d0%b0) | N/A |
 | 19 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 20 | [класс](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 20 | [КЛАСС](http://twitter.com/search?q=%d0%9a%d0%9b%d0%90%d0%a1%d0%a1) | N/A |
 | 21 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
 | 22 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
 | 23 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Ukraine
 | 29 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
 | 30 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 31 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 32 | [Morning Morning](http://twitter.com/search?q=Morning+Morning) | N/A |
+| 32 | [morning morning](http://twitter.com/search?q=morning+morning) | N/A |
 | 33 | [мені](http://twitter.com/search?q=%d0%bc%d0%b5%d0%bd%d1%96) | N/A |
 | 34 | [супер](http://twitter.com/search?q=%d1%81%d1%83%d0%bf%d0%b5%d1%80) | N/A |
 | 35 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 36 | [Плюс](http://twitter.com/search?q=%d0%9f%d0%bb%d1%8e%d1%81) | N/A |
+| 36 | [плюс](http://twitter.com/search?q=%d0%bf%d0%bb%d1%8e%d1%81) | N/A |
 | 37 | [армении](http://twitter.com/search?q=%d0%b0%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
 | 38 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 39 | [Anna](http://twitter.com/search?q=Anna) | N/A |
 | 40 | [America](http://twitter.com/search?q=America) | N/A |
-| 41 | [Дякую](http://twitter.com/search?q=%d0%94%d1%8f%d0%ba%d1%83%d1%8e) | N/A |
-| 42 | [коля](http://twitter.com/search?q=%d0%ba%d0%be%d0%bb%d1%8f) | N/A |
-| 43 | [Kindell](http://twitter.com/search?q=Kindell) | N/A |
-| 44 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 45 | [Хехе](http://twitter.com/search?q=%d0%a5%d0%b5%d1%85%d0%b5) | N/A |
-| 46 | [Рада](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b0) | N/A |
-| 47 | [David](http://twitter.com/search?q=David) | N/A |
-| 48 | [$TIME](http://twitter.com/search?q=%24TIME) | N/A |
-| 49 | [Одессу](http://twitter.com/search?q=%d0%9e%d0%b4%d0%b5%d1%81%d1%81%d1%83) | N/A |
-| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 41 | [коля](http://twitter.com/search?q=%d0%ba%d0%be%d0%bb%d1%8f) | N/A |
+| 42 | [Kindell](http://twitter.com/search?q=Kindell) | N/A |
+| 43 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 44 | [хехе](http://twitter.com/search?q=%d1%85%d0%b5%d1%85%d0%b5) | N/A |
+| 45 | [Рада](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b0) | N/A |
+| 46 | [David](http://twitter.com/search?q=David) | N/A |
+| 47 | [$TIME](http://twitter.com/search?q=%24TIME) | N/A |
+| 48 | [одессу](http://twitter.com/search?q=%d0%be%d0%b4%d0%b5%d1%81%d1%81%d1%83) | N/A |
+| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 50 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
 
 
 

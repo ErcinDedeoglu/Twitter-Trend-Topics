@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-03-27 01:44:09 UTC`
+📆 Last Updated: `2023-03-27 02:31:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,37 +33,37 @@ This is top 50 for [Ghana](</Ghana>)
 | 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 17 | [#linkinforlife](http://twitter.com/search?q=%23linkinforlife) | N/A |
 | 18 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 19 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 20 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 21 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 22 | [#MaaliAlbum](http://twitter.com/search?q=%23MaaliAlbum) | N/A |
-| 23 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 24 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 25 | [wendy shay](http://twitter.com/search?q=wendy+shay) | N/A |
-| 26 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
-| 27 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 28 | [Medeama](http://twitter.com/search?q=Medeama) | N/A |
-| 29 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 19 | [Panama](http://twitter.com/search?q=Panama) | N/A |
+| 20 | [#MaaliAlbum](http://twitter.com/search?q=%23MaaliAlbum) | N/A |
+| 21 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 22 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 23 | [wendy shay](http://twitter.com/search?q=wendy+shay) | N/A |
+| 24 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
+| 25 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 26 | [Medeama](http://twitter.com/search?q=Medeama) | N/A |
+| 27 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 28 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 29 | [wele](http://twitter.com/search?q=wele) | N/A |
 | 30 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 31 | [wele](http://twitter.com/search?q=wele) | N/A |
-| 32 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 33 | [2M Express](http://twitter.com/search?q=2M+Express) | N/A |
-| 34 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 35 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 36 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 37 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 38 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 39 | [Zerbo](http://twitter.com/search?q=Zerbo) | N/A |
-| 40 | [Aang](http://twitter.com/search?q=Aang) | N/A |
-| 41 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 42 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 43 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 44 | [NDC MPs](http://twitter.com/search?q=NDC+MPs) | N/A |
-| 45 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 46 | [Pele](http://twitter.com/search?q=Pele) | N/A |
-| 47 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 48 | [Cook](http://twitter.com/search?q=Cook) | N/A |
-| 49 | [Aduana](http://twitter.com/search?q=Aduana) | N/A |
+| 31 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 32 | [2M Express](http://twitter.com/search?q=2M+Express) | N/A |
+| 33 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 34 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
+| 35 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 36 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 37 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 38 | [Zerbo](http://twitter.com/search?q=Zerbo) | N/A |
+| 39 | [Aang](http://twitter.com/search?q=Aang) | N/A |
+| 40 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 41 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 42 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 43 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 44 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 45 | [Pele](http://twitter.com/search?q=Pele) | N/A |
+| 46 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 47 | [Cook](http://twitter.com/search?q=Cook) | N/A |
+| 48 | [Aduana](http://twitter.com/search?q=Aduana) | N/A |
+| 49 | [richmond ayi](http://twitter.com/search?q=richmond+ayi) | N/A |
 
 
 

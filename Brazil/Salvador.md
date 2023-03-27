@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-27 01:43:51 UTC`
+📆 Last Updated: `2023-03-27 02:31:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gabriel Xavier](http://twitter.com/search?q=Gabriel+Xavier) | N/A |
-| 2 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 3 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
-| 4 | [Rezende](http://twitter.com/search?q=Rezende) | N/A |
-| 5 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 6 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
-| 7 | [Matheus Bahia](http://twitter.com/search?q=Matheus+Bahia) | N/A |
-| 8 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 9 | [#RosalíaNoMultishow](http://twitter.com/search?q=%23Rosal%c3%adaNoMultishow) | N/A |
+| 1 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 2 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 3 | [Jacuipense](http://twitter.com/search?q=Jacuipense) | N/A |
+| 4 | [Gabriel Xavier](http://twitter.com/search?q=Gabriel+Xavier) | N/A |
+| 5 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 6 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 7 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 8 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 9 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
 | 10 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
 | 11 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 12 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 13 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
-| 14 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 12 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 13 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 14 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
 | 15 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
-| 16 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
-| 17 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 18 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 19 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
+| 16 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 17 | [#DancaDosFamosos](http://twitter.com/search?q=%23DancaDosFamosos) | N/A |
+| 18 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 19 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
 | 20 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
-| 21 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 22 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 21 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
+| 22 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 23 | [#CigarettesASNoCanalBIS](http://twitter.com/search?q=%23CigarettesASNoCanalBIS) | N/A |
-| 24 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 25 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 26 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
-| 27 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 28 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 29 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 30 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 31 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
-| 32 | [Porto Alegre](http://twitter.com/search?q=Porto+Alegre) | N/A |
-| 33 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
-| 34 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 35 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 36 | [CRIANÇA NO COLO](http://twitter.com/search?q=CRIAN%c3%87A+NO+COLO) | N/A |
-| 37 | [Conselho Tutelar](http://twitter.com/search?q=Conselho+Tutelar) | N/A |
-| 38 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
-| 39 | [Baldasso](http://twitter.com/search?q=Baldasso) | N/A |
-| 40 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 24 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 25 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 26 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
+| 27 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 28 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
+| 29 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 30 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
+| 31 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 32 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
+| 33 | [daiki](http://twitter.com/search?q=daiki) | N/A |
+| 34 | [#LollapaloozaBrasil](http://twitter.com/search?q=%23LollapaloozaBrasil) | N/A |
+| 35 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 36 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 37 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
+| 38 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
+| 39 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
+| 40 | [Conselho Tutelar](http://twitter.com/search?q=Conselho+Tutelar) | N/A |
 | 41 | [MAMAMOO COME TO BRAZIL](http://twitter.com/search?q=MAMAMOO+COME+TO+BRAZIL) | N/A |
-| 42 | [daiki](http://twitter.com/search?q=daiki) | N/A |
-| 43 | [Rafa Kalimann](http://twitter.com/search?q=Rafa+Kalimann) | N/A |
-| 44 | [blinding lights](http://twitter.com/search?q=blinding+lights) | N/A |
-| 45 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 46 | [Cigarra](http://twitter.com/search?q=Cigarra) | N/A |
-| 47 | [Jelly](http://twitter.com/search?q=Jelly) | N/A |
-| 48 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 49 | [Zezin](http://twitter.com/search?q=Zezin) | N/A |
-| 50 | [rosy](http://twitter.com/search?q=rosy) | N/A |
+| 42 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 43 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 44 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 45 | [Porto Alegre](http://twitter.com/search?q=Porto+Alegre) | N/A |
+| 46 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 47 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 48 | [Baldasso](http://twitter.com/search?q=Baldasso) | N/A |
+| 49 | [CRIANÇA NO COLO](http://twitter.com/search?q=CRIAN%c3%87A+NO+COLO) | N/A |
+| 50 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
 
 
 

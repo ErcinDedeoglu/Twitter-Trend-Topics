@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-27 01:43:53 UTC`
+📆 Last Updated: `2023-03-27 02:31:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
 | 4 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
 | 5 | [#PiStoPolexit](http://twitter.com/search?q=%23PiStoPolexit) | N/A |
-| 6 | [#CZEPOL](http://twitter.com/search?q=%23CZEPOL) | N/A |
+| 6 | [#czepol](http://twitter.com/search?q=%23czepol) | N/A |
 | 7 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
 | 8 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
 | 9 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
@@ -37,11 +37,11 @@ This is top 50 for [Poland](</Poland>)
 | 20 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
 | 21 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
 | 22 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
-| 23 | [Paczul](http://twitter.com/search?q=Paczul) | N/A |
+| 23 | [paczul](http://twitter.com/search?q=paczul) | N/A |
 | 24 | [oliwier](http://twitter.com/search?q=oliwier) | N/A |
 | 25 | [azarenką](http://twitter.com/search?q=azarenk%c4%85) | N/A |
 | 26 | [Kazachstan](http://twitter.com/search?q=Kazachstan) | N/A |
-| 27 | [Kaja Godek](http://twitter.com/search?q=Kaja+Godek) | N/A |
+| 27 | [kaja godek](http://twitter.com/search?q=kaja+godek) | N/A |
 | 28 | [baltic pipe](http://twitter.com/search?q=baltic+pipe) | N/A |
 | 29 | [ryoyu kobayashi](http://twitter.com/search?q=ryoyu+kobayashi) | N/A |
 | 30 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for [Poland](</Poland>)
 | 33 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
 | 34 | [friz](http://twitter.com/search?q=friz) | N/A |
 | 35 | [pięknej](http://twitter.com/search?q=pi%c4%99knej) | N/A |
-| 36 | [Piorun](http://twitter.com/search?q=Piorun) | N/A |
+| 36 | [piorun](http://twitter.com/search?q=piorun) | N/A |
 | 37 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
 | 38 | [Braun](http://twitter.com/search?q=Braun) | Braun is a German word meaning "brown". It is commonly used to describe the color of hair, eyes, or skin. |
 | 39 | [Unii](http://twitter.com/search?q=Unii) | N/A |
-| 40 | [Hubi](http://twitter.com/search?q=Hubi) | N/A |
+| 40 | [hubi](http://twitter.com/search?q=hubi) | N/A |
 | 41 | [jadźka](http://twitter.com/search?q=jad%c5%baka) | N/A |
 | 42 | [Bosak](http://twitter.com/search?q=Bosak) | N/A |
 | 43 | [przechodził](http://twitter.com/search?q=przechodzi%c5%82) | N/A |
 | 44 | [Flaki](http://twitter.com/search?q=Flaki) | N/A |
 | 45 | [Słychać](http://twitter.com/search?q=S%c5%82ycha%c4%87) | N/A |
-| 46 | [Wieczny](http://twitter.com/search?q=Wieczny) | N/A |
-| 47 | [Emilewicz](http://twitter.com/search?q=Emilewicz) | N/A |
-| 48 | [sosnowcu](http://twitter.com/search?q=sosnowcu) | N/A |
-| 49 | [akcji](http://twitter.com/search?q=akcji) | N/A |
-| 50 | [calvin klein](http://twitter.com/search?q=calvin+klein) | N/A |
+| 46 | [emilewicz](http://twitter.com/search?q=emilewicz) | N/A |
+| 47 | [sosnowcu](http://twitter.com/search?q=sosnowcu) | N/A |
+| 48 | [akcji](http://twitter.com/search?q=akcji) | N/A |
+| 49 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 50 | [Balcerowicz](http://twitter.com/search?q=Balcerowicz) | N/A |
 
 
 

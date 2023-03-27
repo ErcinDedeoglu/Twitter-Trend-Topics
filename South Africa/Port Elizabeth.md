@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-27 01:44:11 UTC`
+📆 Last Updated: `2023-03-27 02:31:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,37 +21,37 @@ This is top 50 for [South Africa](</South Africa>)
 | 4 | [#DateMyFamily](http://twitter.com/search?q=%23DateMyFamily) | N/A |
 | 5 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
 | 6 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 7 | [proteas](http://twitter.com/search?q=proteas) | N/A |
+| 7 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
 | 8 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
 | 9 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 12 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 10 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 11 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 12 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
 | 13 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 14 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 15 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 16 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 17 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 18 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 19 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 20 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
-| 21 | [JUICY JAY X THE ANTELOPE](http://twitter.com/search?q=JUICY+JAY+X+THE+ANTELOPE) | N/A |
-| 22 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 23 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 24 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 25 | [siyacela](http://twitter.com/search?q=siyacela) | N/A |
-| 26 | [Lerato](http://twitter.com/search?q=Lerato) | N/A |
-| 27 | [supersport park](http://twitter.com/search?q=supersport+park) | N/A |
-| 28 | [reeza](http://twitter.com/search?q=reeza) | N/A |
-| 29 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
-| 30 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
-| 31 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
-| 32 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
-| 33 | [Hendricks](http://twitter.com/search?q=Hendricks) | N/A |
-| 34 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 35 | [reifer](http://twitter.com/search?q=reifer) | N/A |
-| 36 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
-| 37 | [Quinny](http://twitter.com/search?q=Quinny) | N/A |
+| 14 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 15 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 16 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 17 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 18 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 19 | [JUICY JAY X THE ANTELOPE](http://twitter.com/search?q=JUICY+JAY+X+THE+ANTELOPE) | N/A |
+| 20 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
+| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 22 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 23 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 24 | [siyacela](http://twitter.com/search?q=siyacela) | N/A |
+| 25 | [lerato](http://twitter.com/search?q=lerato) | N/A |
+| 26 | [supersport park](http://twitter.com/search?q=supersport+park) | N/A |
+| 27 | [reeza](http://twitter.com/search?q=reeza) | N/A |
+| 28 | [Gwen](http://twitter.com/search?q=Gwen) | N/A |
+| 29 | [GroundUp](http://twitter.com/search?q=GroundUp) | N/A |
+| 30 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
+| 31 | [Baddies](http://twitter.com/search?q=Baddies) | N/A |
+| 32 | [Hendricks](http://twitter.com/search?q=Hendricks) | N/A |
+| 33 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 34 | [reifer](http://twitter.com/search?q=reifer) | N/A |
+| 35 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
+| 36 | [Quinny](http://twitter.com/search?q=Quinny) | N/A |
+| 37 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 38 | [recharge lounge](http://twitter.com/search?q=recharge+lounge) | N/A |
 | 39 | [Windies](http://twitter.com/search?q=Windies) | N/A |
 | 40 | [Brett](http://twitter.com/search?q=Brett) | N/A |
@@ -60,9 +60,9 @@ This is top 50 for [South Africa](</South Africa>)
 | 43 | [magala](http://twitter.com/search?q=magala) | N/A |
 | 44 | [Top 7](http://twitter.com/search?q=Top+7) | N/A |
 | 45 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 46 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
-| 47 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 48 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 46 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 47 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 48 | [Zack](http://twitter.com/search?q=Zack) | N/A |
 
 
 

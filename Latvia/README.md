@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-27 01:44:32 UTC`
+📆 Last Updated: `2023-03-27 02:31:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for Latvia
 | 11 | [somijā](http://twitter.com/search?q=somij%c4%81) | N/A |
 | 12 | [tieši](http://twitter.com/search?q=tie%c5%a1i) | N/A |
 | 13 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
-| 14 | [#ЕВРО2024](http://twitter.com/search?q=%23%d0%95%d0%92%d0%a0%d0%9e2024) | N/A |
+| 14 | [#евро2024](http://twitter.com/search?q=%23%d0%b5%d0%b2%d1%80%d0%be2024) | N/A |
 | 15 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | N/A |
 | 16 | [dievs](http://twitter.com/search?q=dievs) | N/A |
 | 17 | [manam](http://twitter.com/search?q=manam) | N/A |
@@ -50,10 +50,10 @@ This is top 50 for Latvia
 | 33 | [Mans](http://twitter.com/search?q=Mans) | N/A |
 | 34 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
 | 35 | [nevar](http://twitter.com/search?q=nevar) | N/A |
-| 36 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
+| 36 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
 | 37 | [atceros](http://twitter.com/search?q=atceros) | N/A |
 | 38 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
-| 39 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | N/A |
+| 39 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
 | 40 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | N/A |
 | 41 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 42 | [tevis](http://twitter.com/search?q=tevis) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Latvia
 | 44 | [šoreiz](http://twitter.com/search?q=%c5%a1oreiz) | N/A |
 | 45 | [Laba](http://twitter.com/search?q=Laba) | N/A |
 | 46 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 47 | [Toties](http://twitter.com/search?q=Toties) | N/A |
+| 47 | [toties](http://twitter.com/search?q=toties) | N/A |
 | 48 | [iespējams](http://twitter.com/search?q=iesp%c4%93jams) | N/A |
 | 49 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 50 | [šitā](http://twitter.com/search?q=%c5%a1it%c4%81) | N/A |

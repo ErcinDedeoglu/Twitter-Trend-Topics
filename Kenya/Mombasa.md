@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-27 01:44:10 UTC`
+📆 Last Updated: `2023-03-27 02:31:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,26 +45,26 @@ This is top 50 for [Kenya](</Kenya>)
 | 28 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
 | 29 | [David Ndii](http://twitter.com/search?q=David+Ndii) | N/A |
 | 30 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 31 | [Jalango](http://twitter.com/search?q=Jalango) | N/A |
-| 32 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 34 | [Mama Lucy](http://twitter.com/search?q=Mama+Lucy) | N/A |
-| 35 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 36 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 37 | [red square villas](http://twitter.com/search?q=red+square+villas) | N/A |
-| 38 | [England](http://twitter.com/search?q=England) | N/A |
-| 39 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
-| 40 | [Blood of Jesus](http://twitter.com/search?q=Blood+of+Jesus) | N/A |
-| 41 | [dj juranka](http://twitter.com/search?q=dj+juranka) | N/A |
-| 42 | [Koffi](http://twitter.com/search?q=Koffi) | N/A |
-| 43 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 44 | [happy sabbath](http://twitter.com/search?q=happy+sabbath) | N/A |
-| 45 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
-| 46 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 47 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 31 | [jalango](http://twitter.com/search?q=jalango) | N/A |
+| 32 | [Mama Lucy](http://twitter.com/search?q=Mama+Lucy) | N/A |
+| 33 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 34 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 35 | [red square villas](http://twitter.com/search?q=red+square+villas) | N/A |
+| 36 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
+| 37 | [Blood of Jesus](http://twitter.com/search?q=Blood+of+Jesus) | N/A |
+| 38 | [dj juranka](http://twitter.com/search?q=dj+juranka) | N/A |
+| 39 | [Koffi](http://twitter.com/search?q=Koffi) | N/A |
+| 40 | [England](http://twitter.com/search?q=England) | N/A |
+| 41 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
+| 42 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 43 | [happy sabbath](http://twitter.com/search?q=happy+sabbath) | N/A |
+| 44 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
+| 45 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 46 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 47 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 48 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 49 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 50 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 50 | [Burundi](http://twitter.com/search?q=Burundi) | N/A |
 
 
 

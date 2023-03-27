@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-27 01:44:24 UTC`
+📆 Last Updated: `2023-03-27 02:31:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 2 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 3 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 4 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 5 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 6 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 7 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
-| 8 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 9 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 10 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
-| 11 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 12 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 13 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 14 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 15 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 16 | [#Mazi](http://twitter.com/search?q=%23Mazi) | N/A |
-| 17 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 18 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 19 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 20 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 21 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 22 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 24 | [Frozen Four](http://twitter.com/search?q=Frozen+Four) | N/A |
-| 25 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 26 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 27 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 28 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [willa](http://twitter.com/search?q=willa) | N/A |
-| 31 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 32 | [Jordan Miller](http://twitter.com/search?q=Jordan+Miller) | N/A |
-| 33 | [Hailey Van Lith](http://twitter.com/search?q=Hailey+Van+Lith) | N/A |
-| 34 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 35 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 36 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 37 | [The U](http://twitter.com/search?q=The+U) | N/A |
-| 38 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 39 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 40 | [Cunningham](http://twitter.com/search?q=Cunningham) | N/A |
-| 41 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 42 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 43 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 44 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 45 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
-| 46 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 47 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 48 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 49 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 50 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 1 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 2 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
+| 3 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 4 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 5 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 6 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 7 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 8 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 9 | [#Yellowjackets](http://twitter.com/search?q=%23Yellowjackets) | N/A |
+| 10 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
+| 11 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 12 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 13 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 14 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 15 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 16 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 17 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 18 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 19 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 20 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 21 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 22 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
+| 23 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 24 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 25 | [Hailey Van Lith](http://twitter.com/search?q=Hailey+Van+Lith) | N/A |
+| 26 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 28 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 29 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 30 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 31 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 32 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 33 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 34 | [Raul Jimenez](http://twitter.com/search?q=Raul+Jimenez) | N/A |
+| 35 | [Frozen Four](http://twitter.com/search?q=Frozen+Four) | N/A |
+| 36 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
+| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 38 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 39 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 40 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 41 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 42 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 43 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
+| 44 | [Swedish House Mafia](http://twitter.com/search?q=Swedish+House+Mafia) | N/A |
+| 45 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 46 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 47 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 48 | [Jordan Miller](http://twitter.com/search?q=Jordan+Miller) | N/A |
+| 49 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 50 | [Coppertone](http://twitter.com/search?q=Coppertone) | N/A |
 
 
 

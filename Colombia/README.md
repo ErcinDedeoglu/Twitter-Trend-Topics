@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-27 01:44:29 UTC`
+📆 Last Updated: `2023-03-27 02:31:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 2 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 3 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 4 | [#PremiosIndia2023](http://twitter.com/search?q=%23PremiosIndia2023) | N/A |
-| 5 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
-| 6 | [Bustamante](http://twitter.com/search?q=Bustamante) | N/A |
-| 7 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 8 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 9 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 10 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 11 | [India Catalina](http://twitter.com/search?q=India+Catalina) | N/A |
-| 12 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
-| 13 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 14 | [#MatadorMaltratador](http://twitter.com/search?q=%23MatadorMaltratador) | N/A |
-| 15 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
-| 16 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
-| 17 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 18 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 19 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
-| 20 | [Vamos Millonarios](http://twitter.com/search?q=Vamos+Millonarios) | N/A |
-| 21 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
-| 22 | [Niche](http://twitter.com/search?q=Niche) | N/A |
-| 23 | [Leys](http://twitter.com/search?q=Leys) | N/A |
-| 24 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
-| 25 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 26 | [Falque](http://twitter.com/search?q=Falque) | N/A |
-| 27 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
-| 28 | [Vasquez](http://twitter.com/search?q=Vasquez) | N/A |
-| 29 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 30 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 31 | [Vamos Millos](http://twitter.com/search?q=Vamos+Millos) | N/A |
-| 32 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 33 | [Brayan](http://twitter.com/search?q=Brayan) | N/A |
-| 34 | [Fabry](http://twitter.com/search?q=Fabry) | N/A |
-| 35 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 36 | [Palmaseca](http://twitter.com/search?q=Palmaseca) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [#ClasicoVallecaucano](http://twitter.com/search?q=%23ClasicoVallecaucano) | N/A |
-| 39 | [#PetroLíderMundial](http://twitter.com/search?q=%23PetroL%c3%adderMundial) | N/A |
-| 40 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 41 | [Tirofijo](http://twitter.com/search?q=Tirofijo) | N/A |
-| 42 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 43 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 44 | [Sierra Nevada](http://twitter.com/search?q=Sierra+Nevada) | N/A |
-| 45 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 46 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 47 | [León](http://twitter.com/search?q=Le%c3%b3n) | N/A |
-| 48 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 49 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 50 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 1 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 2 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 3 | [#PremiosIndia2023](http://twitter.com/search?q=%23PremiosIndia2023) | N/A |
+| 4 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 5 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 6 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 7 | [Macka](http://twitter.com/search?q=Macka) | N/A |
+| 8 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 9 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 10 | [#PremiosIndiaCatalina2023](http://twitter.com/search?q=%23PremiosIndiaCatalina2023) | N/A |
+| 11 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 12 | [#MatadorMaltratador](http://twitter.com/search?q=%23MatadorMaltratador) | N/A |
+| 13 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 14 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 15 | [Vamos Millonarios](http://twitter.com/search?q=Vamos+Millonarios) | N/A |
+| 16 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 17 | [Barboza](http://twitter.com/search?q=Barboza) | Barboza is a Spanish word meaning "barbarian". It is often used to describe someone who is uncivilized or rude. |
+| 18 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
+| 19 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 20 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 21 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
+| 22 | [Noticias Uno](http://twitter.com/search?q=Noticias+Uno) | N/A |
+| 23 | [Niche](http://twitter.com/search?q=Niche) | N/A |
+| 24 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
+| 25 | [Larry](http://twitter.com/search?q=Larry) | N/A |
+| 26 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 27 | [Giraldo](http://twitter.com/search?q=Giraldo) | N/A |
+| 28 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
+| 29 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
+| 30 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 31 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
+| 32 | [Vasquez](http://twitter.com/search?q=Vasquez) | N/A |
+| 33 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 34 | [Camargo](http://twitter.com/search?q=Camargo) | N/A |
+| 35 | [Leys](http://twitter.com/search?q=Leys) | N/A |
+| 36 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 37 | [Fabry](http://twitter.com/search?q=Fabry) | N/A |
+| 38 | [Falque](http://twitter.com/search?q=Falque) | N/A |
+| 39 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 40 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 41 | [Brayan](http://twitter.com/search?q=Brayan) | N/A |
+| 42 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 43 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 44 | [Palmaseca](http://twitter.com/search?q=Palmaseca) | N/A |
+| 45 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 46 | [#ClasicoVallecaucano](http://twitter.com/search?q=%23ClasicoVallecaucano) | N/A |
+| 47 | [Tirofijo](http://twitter.com/search?q=Tirofijo) | N/A |
+| 48 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 49 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 50 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
 
 
 

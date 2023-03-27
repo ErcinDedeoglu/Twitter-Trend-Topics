@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-03-27 01:43:42 UTC`
+📆 Last Updated: `2023-03-27 02:30:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,38 +16,38 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
-| 2 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 3 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 2 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 3 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 4 | [#GreatExpectations](http://twitter.com/search?q=%23GreatExpectations) | N/A |
-| 5 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 6 | [#boatrace](http://twitter.com/search?q=%23boatrace) | N/A |
+| 5 | [#boatrace](http://twitter.com/search?q=%23boatrace) | N/A |
+| 6 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
 | 7 | [#JDxAirMaxDay](http://twitter.com/search?q=%23JDxAirMaxDay) | N/A |
 | 8 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 10 | [#clocksgoforward](http://twitter.com/search?q=%23clocksgoforward) | N/A |
-| 11 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 9 | [#TemptingFortune](http://twitter.com/search?q=%23TemptingFortune) | N/A |
+| 10 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 12 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 13 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
 | 14 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
 | 15 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
 | 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 | 17 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 18 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 19 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 20 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 21 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
-| 22 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 23 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 24 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 25 | [Matt Bianco](http://twitter.com/search?q=Matt+Bianco) | N/A |
-| 26 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 27 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 28 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 18 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 19 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 20 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
+| 21 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
+| 22 | [matt bianco](http://twitter.com/search?q=matt+bianco) | N/A |
+| 23 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 24 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 25 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 26 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 27 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 28 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 29 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 30 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 30 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
 | 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 32 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
-| 33 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
+| 32 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
+| 33 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 34 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
 | 35 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
 | 36 | [Lani](http://twitter.com/search?q=Lani) | N/A |

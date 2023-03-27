@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-27 01:43:42 UTC`
+📆 Last Updated: `2023-03-27 02:30:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 2 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 3 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 4 | [#LaVoixTVA](http://twitter.com/search?q=%23LaVoixTVA) | N/A |
-| 5 | [#tlmep](http://twitter.com/search?q=%23tlmep) | N/A |
-| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 7 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 8 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 9 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 10 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 11 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 12 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 13 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 14 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 15 | [Tyson Barrie](http://twitter.com/search?q=Tyson+Barrie) | N/A |
-| 16 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 17 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 18 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 19 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 20 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 21 | [Kerfoot](http://twitter.com/search?q=Kerfoot) | N/A |
-| 22 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 23 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 24 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 25 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 26 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
-| 27 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 28 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
-| 29 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 30 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 31 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 32 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 33 | [Dakota Joshua](http://twitter.com/search?q=Dakota+Joshua) | N/A |
-| 34 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
-| 35 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 36 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 37 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 38 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 40 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 41 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 42 | [McDonough](http://twitter.com/search?q=McDonough) | N/A |
-| 43 | [Lindholm](http://twitter.com/search?q=Lindholm) | N/A |
-| 44 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 45 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 46 | [Coronato](http://twitter.com/search?q=Coronato) | N/A |
-| 47 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 48 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 49 | [Ron Maclean](http://twitter.com/search?q=Ron+Maclean) | N/A |
-| 50 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 3 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 4 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 5 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 6 | [#tlmep](http://twitter.com/search?q=%23tlmep) | N/A |
+| 7 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 8 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 9 | [#LaVoixTVA](http://twitter.com/search?q=%23LaVoixTVA) | N/A |
+| 10 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 11 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 12 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 14 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 15 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 16 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 17 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 18 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
+| 19 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 20 | [Tyson Barrie](http://twitter.com/search?q=Tyson+Barrie) | N/A |
+| 21 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 22 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 23 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 24 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 25 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
+| 26 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 27 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 28 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 29 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 30 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 31 | [Penn State](http://twitter.com/search?q=Penn+State) | Penn State is a public research university with 24 campuses across Pennsylvania. It is the largest university in the state and one of the largest universities in the United States. The school's motto is "Making Lives Better Through Education, Research, and Service." |
+| 32 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 33 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 34 | [Dakota Joshua](http://twitter.com/search?q=Dakota+Joshua) | N/A |
+| 35 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 36 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
+| 37 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 38 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 39 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 40 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 41 | [McDonough](http://twitter.com/search?q=McDonough) | N/A |
+| 42 | [Lindholm](http://twitter.com/search?q=Lindholm) | N/A |
+| 43 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 44 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 45 | [Ron Maclean](http://twitter.com/search?q=Ron+Maclean) | N/A |
+| 46 | [Benavidez](http://twitter.com/search?q=Benavidez) | N/A |
+| 47 | [Frozen Four](http://twitter.com/search?q=Frozen+Four) | N/A |
+| 48 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 49 | [Bianca Andreescu](http://twitter.com/search?q=Bianca+Andreescu) | N/A |
+| 50 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 
 
 

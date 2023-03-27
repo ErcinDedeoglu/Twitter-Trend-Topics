@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-27 01:43:57 UTC`
+📆 Last Updated: `2023-03-27 02:31:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,18 +29,18 @@ This is top 50 for [Italy](</Italy>)
 | 12 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
 | 13 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
 | 14 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 15 | [calvin klein](http://twitter.com/search?q=calvin+klein) | N/A |
+| 15 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 | 16 | [CNEL](http://twitter.com/search?q=CNEL) | N/A |
-| 17 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 18 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
-| 19 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 20 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 21 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 22 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
-| 23 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
-| 24 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 25 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 26 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 17 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
+| 18 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 19 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 20 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
+| 21 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 22 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
+| 23 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 24 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 25 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 26 | [Ciao Ivano](http://twitter.com/search?q=Ciao+Ivano) | N/A |
 | 27 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
 | 28 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
 | 29 | [Pessina](http://twitter.com/search?q=Pessina) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for [Italy](</Italy>)
 | 42 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
 | 43 | [Cuccarini](http://twitter.com/search?q=Cuccarini) | N/A |
 | 44 | [giavazzi](http://twitter.com/search?q=giavazzi) | N/A |
-| 45 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 47 | [Randazzo](http://twitter.com/search?q=Randazzo) | N/A |
-| 48 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
-| 49 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 50 | [Pioggia](http://twitter.com/search?q=Pioggia) | N/A |
+| 45 | [Randazzo](http://twitter.com/search?q=Randazzo) | N/A |
+| 46 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
+| 47 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
+| 48 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 49 | [Pioggia](http://twitter.com/search?q=Pioggia) | N/A |
+| 50 | [Notte](http://twitter.com/search?q=Notte) | N/A |
 
 
 

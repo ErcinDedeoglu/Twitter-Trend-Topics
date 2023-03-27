@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-27 01:44:30 UTC`
+📆 Last Updated: `2023-03-27 02:31:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,17 +28,17 @@ This is top 50 for Ireland
 | 11 | [Monaghan](http://twitter.com/search?q=Monaghan) | N/A |
 | 12 | [#gaabeo](http://twitter.com/search?q=%23gaabeo) | N/A |
 | 13 | [Sligo](http://twitter.com/search?q=Sligo) | N/A |
-| 14 | [Bren](http://twitter.com/search?q=Bren) | N/A |
-| 15 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 16 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 17 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
-| 18 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 14 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 15 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
+| 16 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
+| 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 18 | [Bren](http://twitter.com/search?q=Bren) | N/A |
 | 19 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
 | 20 | [Division 3](http://twitter.com/search?q=Division+3) | N/A |
 | 21 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
 | 22 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
 | 23 | [turners cross](http://twitter.com/search?q=turners+cross) | N/A |
-| 24 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
+| 24 | [tom cannon](http://twitter.com/search?q=tom+cannon) | N/A |
 | 25 | [Munster](http://twitter.com/search?q=Munster) | N/A |
 | 26 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
 | 27 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Ireland
 | 34 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
 | 35 | [03mins 1st half](http://twitter.com/search?q=03mins+1st+half) | N/A |
 | 36 | [Courtown](http://twitter.com/search?q=Courtown) | N/A |
-| 37 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 38 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
-| 39 | [pearse stadium](http://twitter.com/search?q=pearse+stadium) | N/A |
-| 40 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 41 | [sam curtis](http://twitter.com/search?q=sam+curtis) | N/A |
-| 42 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
-| 43 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 44 | [allianz football league](http://twitter.com/search?q=allianz+football+league) | N/A |
-| 45 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
-| 46 | [Donegal](http://twitter.com/search?q=Donegal) | N/A |
-| 47 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 48 | [cian lynch](http://twitter.com/search?q=cian+lynch) | N/A |
-| 49 | [Roscommon](http://twitter.com/search?q=Roscommon) | N/A |
-| 50 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
+| 37 | [Tipp](http://twitter.com/search?q=Tipp) | N/A |
+| 38 | [pearse stadium](http://twitter.com/search?q=pearse+stadium) | N/A |
+| 39 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 40 | [sam curtis](http://twitter.com/search?q=sam+curtis) | N/A |
+| 41 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
+| 42 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 43 | [allianz football league](http://twitter.com/search?q=allianz+football+league) | N/A |
+| 44 | [TRAs](http://twitter.com/search?q=TRAs) | N/A |
+| 45 | [Donegal](http://twitter.com/search?q=Donegal) | N/A |
+| 46 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 47 | [cian lynch](http://twitter.com/search?q=cian+lynch) | N/A |
+| 48 | [Roscommon](http://twitter.com/search?q=Roscommon) | N/A |
+| 49 | [Gardai](http://twitter.com/search?q=Gardai) | N/A |
+| 50 | [Limerick](http://twitter.com/search?q=Limerick) | N/A |
 
 
 

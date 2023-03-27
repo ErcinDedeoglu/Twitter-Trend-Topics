@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-27 01:44:28 UTC`
+📆 Last Updated: `2023-03-27 02:31:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
-| 2 | [Malena](http://twitter.com/search?q=Malena) | N/A |
-| 3 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 4 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 5 | [#LaCornisa](http://twitter.com/search?q=%23LaCornisa) | N/A |
+| 1 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
+| 2 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
+| 3 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
+| 4 | [TODOS CON MARCOS AL 9009](http://twitter.com/search?q=TODOS+CON+MARCOS+AL+9009) | N/A |
+| 5 | [Macri](http://twitter.com/search?q=Macri) | N/A |
 | 6 | [Diego Ramos](http://twitter.com/search?q=Diego+Ramos) | N/A |
-| 7 | [Martitegui](http://twitter.com/search?q=Martitegui) | N/A |
-| 8 | [TODOS CON MARCOS AL 9009](http://twitter.com/search?q=TODOS+CON+MARCOS+AL+9009) | N/A |
-| 9 | [Carreño](http://twitter.com/search?q=Carre%c3%b1o) | N/A |
-| 10 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 11 | [Senior](http://twitter.com/search?q=Senior) | N/A |
-| 12 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 13 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
-| 14 | [Marquise](http://twitter.com/search?q=Marquise) | N/A |
-| 15 | [Majul](http://twitter.com/search?q=Majul) | N/A |
-| 16 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 17 | [Clemente](http://twitter.com/search?q=Clemente) | N/A |
-| 18 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 19 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 20 | [Quilmes](http://twitter.com/search?q=Quilmes) | N/A |
-| 21 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 22 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 23 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 24 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
-| 25 | [Jorgelina](http://twitter.com/search?q=Jorgelina) | N/A |
-| 26 | [Moncho](http://twitter.com/search?q=Moncho) | N/A |
-| 27 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 28 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 29 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 30 | [Monzón](http://twitter.com/search?q=Monz%c3%b3n) | N/A |
-| 31 | [Colman](http://twitter.com/search?q=Colman) | N/A |
-| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 33 | [Coello](http://twitter.com/search?q=Coello) | N/A |
-| 34 | [Kevin Lopez](http://twitter.com/search?q=Kevin+Lopez) | N/A |
-| 35 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 36 | [#Independiente](http://twitter.com/search?q=%23Independiente) | N/A |
-| 37 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 38 | [Labruna](http://twitter.com/search?q=Labruna) | N/A |
-| 39 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
-| 40 | [Elizalde](http://twitter.com/search?q=Elizalde) | N/A |
-| 41 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 42 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 43 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 44 | [Manes](http://twitter.com/search?q=Manes) | N/A |
-| 45 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 46 | [Dady](http://twitter.com/search?q=Dady) | N/A |
-| 47 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 48 | [Grabes](http://twitter.com/search?q=Grabes) | N/A |
-| 49 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 50 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 7 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
+| 8 | [Carreño](http://twitter.com/search?q=Carre%c3%b1o) | N/A |
+| 9 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
+| 10 | [#LaCornisa](http://twitter.com/search?q=%23LaCornisa) | N/A |
+| 11 | [Malena](http://twitter.com/search?q=Malena) | N/A |
+| 12 | [Senior](http://twitter.com/search?q=Senior) | N/A |
+| 13 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 14 | [#CanibalesEnC5N](http://twitter.com/search?q=%23CanibalesEnC5N) | N/A |
+| 15 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 16 | [Julieta y Nacho](http://twitter.com/search?q=Julieta+y+Nacho) | N/A |
+| 17 | [Martitegui](http://twitter.com/search?q=Martitegui) | N/A |
+| 18 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 19 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 20 | [Clemente](http://twitter.com/search?q=Clemente) | N/A |
+| 21 | [Majul](http://twitter.com/search?q=Majul) | N/A |
+| 22 | [Marquise](http://twitter.com/search?q=Marquise) | N/A |
+| 23 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 24 | [Marculi](http://twitter.com/search?q=Marculi) | N/A |
+| 25 | [Asís](http://twitter.com/search?q=As%c3%ads) | N/A |
+| 26 | [Quilmes](http://twitter.com/search?q=Quilmes) | N/A |
+| 27 | [Chelo Delgado](http://twitter.com/search?q=Chelo+Delgado) | N/A |
+| 28 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 29 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 30 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 31 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 32 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 33 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 34 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 35 | [Jorgelina](http://twitter.com/search?q=Jorgelina) | N/A |
+| 36 | [Ricardito](http://twitter.com/search?q=Ricardito) | N/A |
+| 37 | [Colman](http://twitter.com/search?q=Colman) | N/A |
+| 38 | [Coello](http://twitter.com/search?q=Coello) | N/A |
+| 39 | [Moncho](http://twitter.com/search?q=Moncho) | N/A |
+| 40 | [Monzón](http://twitter.com/search?q=Monz%c3%b3n) | N/A |
+| 41 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 42 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 43 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 44 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
+| 45 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 46 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 47 | [Manes](http://twitter.com/search?q=Manes) | N/A |
+| 48 | [Labruna](http://twitter.com/search?q=Labruna) | N/A |
+| 49 | [Grabes](http://twitter.com/search?q=Grabes) | N/A |
+| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 
 
 

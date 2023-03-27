@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-27 01:44:29 UTC`
+📆 Last Updated: `2023-03-27 02:31:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KAZDEN](http://twitter.com/search?q=%23KAZDEN) | N/A |
-| 2 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
+| 2 | [#fordanmark](http://twitter.com/search?q=%23fordanmark) | N/A |
 | 3 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
 | 4 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
 | 5 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
@@ -24,12 +24,12 @@ This is top 50 for Denmark
 | 7 | [kjær](http://twitter.com/search?q=kj%c3%a6r) | N/A |
 | 8 | [kenneth perez](http://twitter.com/search?q=kenneth+perez) | N/A |
 | 9 | [#presselogen](http://twitter.com/search?q=%23presselogen) | N/A |
-| 10 | [David Nielsen](http://twitter.com/search?q=David+Nielsen) | N/A |
+| 10 | [david nielsen](http://twitter.com/search?q=david+nielsen) | N/A |
 | 11 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
 | 12 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
 | 13 | [mathias jensen](http://twitter.com/search?q=mathias+jensen) | N/A |
 | 14 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 15 | [astana](http://twitter.com/search?q=astana) | N/A |
+| 15 | [Astana](http://twitter.com/search?q=Astana) | N/A |
 | 16 | [Australien](http://twitter.com/search?q=Australien) | N/A |
 | 17 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
 | 18 | [Gent-Wevelgem](http://twitter.com/search?q=Gent-Wevelgem) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for Denmark
 | 30 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 | 31 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 32 | [Kaliningrad](http://twitter.com/search?q=Kaliningrad) | N/A |
-| 33 | [FaZe](http://twitter.com/search?q=FaZe) | N/A |
+| 33 | [Faze](http://twitter.com/search?q=Faze) | N/A |
 | 34 | [søren](http://twitter.com/search?q=s%c3%b8ren) | N/A |
 | 35 | [zanka](http://twitter.com/search?q=zanka) | N/A |
 | 36 | [sjælland](http://twitter.com/search?q=sj%c3%a6lland) | N/A |
