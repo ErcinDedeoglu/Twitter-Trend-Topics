@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-27 16:17:59 UTC`
+📆 Last Updated: `2023-03-27 17:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LuckyStar](http://twitter.com/search?q=%23LuckyStar) | N/A |
-| 2 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
-| 3 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
-| 4 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 5 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 6 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 9 | [Sardines](http://twitter.com/search?q=Sardines) | N/A |
-| 10 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
+| 1 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
+| 2 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
+| 3 | [#LuckyStar](http://twitter.com/search?q=%23LuckyStar) | N/A |
+| 4 | [#BBTitans](http://twitter.com/search?q=%23BBTitans) | #BBTitans is a hashtag used on social media to refer to the DC Comics superhero team, the Teen Titans. The hashtag is often used to discuss news and updates related to the team, as well as to share fan art and other content related to the characters. |
+| 5 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 6 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
+| 7 | [#outofthisworldZA](http://twitter.com/search?q=%23outofthisworldZA) | N/A |
+| 8 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 9 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
+| 10 | [Mr Langa](http://twitter.com/search?q=Mr+Langa) | N/A |
 | 11 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 12 | [NQF Level 8](http://twitter.com/search?q=NQF+Level+8) | N/A |
-| 13 | [THEMBABROLY IS HUMAN](http://twitter.com/search?q=THEMBABROLY+IS+HUMAN) | N/A |
-| 14 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
-| 15 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
-| 16 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 17 | [Generations](http://twitter.com/search?q=Generations) | N/A |
-| 18 | [Candy Crush](http://twitter.com/search?q=Candy+Crush) | N/A |
-| 19 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
-| 20 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
-| 21 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 22 | [juicy jay x the antelope](http://twitter.com/search?q=juicy+jay+x+the+antelope) | N/A |
-| 23 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 24 | [Prep](http://twitter.com/search?q=Prep) | N/A |
-| 25 | [Yezi Starr](http://twitter.com/search?q=Yezi+Starr) | N/A |
-| 26 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 27 | [Hendricks](http://twitter.com/search?q=Hendricks) | N/A |
-| 28 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 29 | [Plane](http://twitter.com/search?q=Plane) | N/A |
-| 30 | [Quinny](http://twitter.com/search?q=Quinny) | N/A |
-| 31 | [recharge lounge](http://twitter.com/search?q=recharge+lounge) | N/A |
-| 32 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 33 | [Angie](http://twitter.com/search?q=Angie) | N/A |
-| 34 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
-| 35 | [BLUE AIVA IS COMING](http://twitter.com/search?q=BLUE+AIVA+IS+COMING) | N/A |
-| 36 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 37 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
-| 38 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
-| 39 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 40 | [mfundi vundla](http://twitter.com/search?q=mfundi+vundla) | N/A |
-| 41 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
-| 42 | [JUICY JAY THE STANDARD](http://twitter.com/search?q=JUICY+JAY+THE+STANDARD) | N/A |
-| 43 | [Windies](http://twitter.com/search?q=Windies) | N/A |
-| 44 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 45 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 46 | [NELISA IS COMING](http://twitter.com/search?q=NELISA+IS+COMING) | N/A |
-| 47 | [siyacela](http://twitter.com/search?q=siyacela) | N/A |
-| 48 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 49 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 50 | [johnson charles](http://twitter.com/search?q=johnson+charles) | N/A |
+| 12 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
+| 13 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
+| 14 | [NQF Level 8](http://twitter.com/search?q=NQF+Level+8) | N/A |
+| 15 | [COLGATE AND THEMBABROLY](http://twitter.com/search?q=COLGATE+AND+THEMBABROLY) | N/A |
+| 16 | [Sardines](http://twitter.com/search?q=Sardines) | N/A |
+| 17 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
+| 18 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 19 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 20 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
+| 21 | [Yezi Starr](http://twitter.com/search?q=Yezi+Starr) | N/A |
+| 22 | [Generations](http://twitter.com/search?q=Generations) | N/A |
+| 23 | [Candy Crush](http://twitter.com/search?q=Candy+Crush) | N/A |
+| 24 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 25 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
+| 26 | [juicy jay x the antelope](http://twitter.com/search?q=juicy+jay+x+the+antelope) | N/A |
+| 27 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 28 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 29 | [Varsity Cup](http://twitter.com/search?q=Varsity+Cup) | N/A |
+| 30 | [Hendricks](http://twitter.com/search?q=Hendricks) | N/A |
+| 31 | [Easter Eggs](http://twitter.com/search?q=Easter+Eggs) | N/A |
+| 32 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 33 | [Tom Cruise](http://twitter.com/search?q=Tom+Cruise) | N/A |
+| 34 | [Prep](http://twitter.com/search?q=Prep) | N/A |
+| 35 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
+| 36 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
+| 37 | [JUICY JAY THE STANDARD](http://twitter.com/search?q=JUICY+JAY+THE+STANDARD) | N/A |
+| 38 | [Plane](http://twitter.com/search?q=Plane) | N/A |
+| 39 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
+| 40 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 41 | [BLUE AIVA IS COMING](http://twitter.com/search?q=BLUE+AIVA+IS+COMING) | N/A |
+| 42 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 43 | [Mfundi Vundla](http://twitter.com/search?q=Mfundi+Vundla) | N/A |
+| 44 | [Windies](http://twitter.com/search?q=Windies) | N/A |
+| 45 | [NELISA IS COMING](http://twitter.com/search?q=NELISA+IS+COMING) | N/A |
+| 46 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 47 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 48 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 49 | [Cashew](http://twitter.com/search?q=Cashew) | N/A |
+| 50 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
 
 
 

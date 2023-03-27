@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-27 16:18:25 UTC`
+📆 Last Updated: `2023-03-27 17:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 2 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
-| 3 | [#Zomertijd](http://twitter.com/search?q=%23Zomertijd) | N/A |
-| 4 | [Rust](http://twitter.com/search?q=Rust) | N/A |
-| 5 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 6 | [Tedje van Es](http://twitter.com/search?q=Tedje+van+Es) | N/A |
-| 7 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 8 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 9 | [cabaretier](http://twitter.com/search?q=cabaretier) | N/A |
-| 10 | [#herdbo](http://twitter.com/search?q=%23herdbo) | N/A |
-| 11 | [#nedgib](http://twitter.com/search?q=%23nedgib) | N/A |
-| 12 | [Keek](http://twitter.com/search?q=Keek) | N/A |
-| 13 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 14 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
-| 15 | [VPRO](http://twitter.com/search?q=VPRO) | N/A |
-| 16 | [Frank van Putten](http://twitter.com/search?q=Frank+van+Putten) | N/A |
-| 17 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 18 | [Walter de Rochebrune](http://twitter.com/search?q=Walter+de+Rochebrune) | N/A |
-| 19 | [De Tegenpartij](http://twitter.com/search?q=De+Tegenpartij) | N/A |
-| 20 | [Sterkte](http://twitter.com/search?q=Sterkte) | N/A |
-| 21 | [Foppe](http://twitter.com/search?q=Foppe) | N/A |
-| 22 | [Porsches](http://twitter.com/search?q=Porsches) | N/A |
-| 23 | [Juinen](http://twitter.com/search?q=Juinen) | N/A |
-| 24 | [Donald](http://twitter.com/search?q=Donald) | N/A |
-| 25 | [maurice de hond](http://twitter.com/search?q=maurice+de+hond) | N/A |
-| 26 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 27 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 28 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 29 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 30 | [Wisp](http://twitter.com/search?q=Wisp) | N/A |
-| 31 | [baarsma](http://twitter.com/search?q=baarsma) | N/A |
-| 32 | [bedankt wim](http://twitter.com/search?q=bedankt+wim) | N/A |
-| 33 | [Diva](http://twitter.com/search?q=Diva) | N/A |
-| 34 | [Aad van der Naad](http://twitter.com/search?q=Aad+van+der+Naad) | N/A |
-| 35 | [Jacobse](http://twitter.com/search?q=Jacobse) | N/A |
-| 36 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 37 | [Christien](http://twitter.com/search?q=Christien) | N/A |
-| 38 | [Yasmine](http://twitter.com/search?q=Yasmine) | N/A |
+| 2 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 3 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 4 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
+| 5 | [#zomertijd](http://twitter.com/search?q=%23zomertijd) | N/A |
+| 6 | [Rust](http://twitter.com/search?q=Rust) | N/A |
+| 7 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 8 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
+| 9 | [Donald de Marcas](http://twitter.com/search?q=Donald+de+Marcas) | N/A |
+| 10 | [Tedje van Es](http://twitter.com/search?q=Tedje+van+Es) | N/A |
+| 11 | [Keek](http://twitter.com/search?q=Keek) | N/A |
+| 12 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 13 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
+| 14 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 15 | [Cabaretier](http://twitter.com/search?q=Cabaretier) | N/A |
+| 16 | [VPRO](http://twitter.com/search?q=VPRO) | N/A |
+| 17 | [Frank van Putten](http://twitter.com/search?q=Frank+van+Putten) | N/A |
+| 18 | [Sterkte](http://twitter.com/search?q=Sterkte) | N/A |
+| 19 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 20 | [Walter de Rochebrune](http://twitter.com/search?q=Walter+de+Rochebrune) | N/A |
+| 21 | [De Tegenpartij](http://twitter.com/search?q=De+Tegenpartij) | N/A |
+| 22 | [porsches](http://twitter.com/search?q=porsches) | N/A |
+| 23 | [Diva](http://twitter.com/search?q=Diva) | N/A |
+| 24 | [maurice de hond](http://twitter.com/search?q=maurice+de+hond) | N/A |
+| 25 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 26 | [Juinen](http://twitter.com/search?q=Juinen) | N/A |
+| 27 | [Foppe](http://twitter.com/search?q=Foppe) | N/A |
+| 28 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 29 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 30 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 31 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 32 | [Wisp](http://twitter.com/search?q=Wisp) | N/A |
+| 33 | [jacobse](http://twitter.com/search?q=jacobse) | N/A |
+| 34 | [Yasmine](http://twitter.com/search?q=Yasmine) | N/A |
+| 35 | [Aad van der Naad](http://twitter.com/search?q=Aad+van+der+Naad) | N/A |
+| 36 | [Christien](http://twitter.com/search?q=Christien) | N/A |
+| 37 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 38 | [Bedankt Wim](http://twitter.com/search?q=Bedankt+Wim) | N/A |
 | 39 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 40 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 41 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 42 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
+| 40 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 41 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
+| 42 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
 | 43 | [Micha Wertheim](http://twitter.com/search?q=Micha+Wertheim) | N/A |
-| 44 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 45 | [Besten](http://twitter.com/search?q=Besten) | N/A |
-| 46 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 47 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 48 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 49 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
-| 50 | [Hannelore](http://twitter.com/search?q=Hannelore) | N/A |
+| 44 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
+| 45 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 46 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 47 | [Besten](http://twitter.com/search?q=Besten) | N/A |
+| 48 | [Gijp](http://twitter.com/search?q=Gijp) | N/A |
+| 49 | [VVD'ers](http://twitter.com/search?q=VVD%27ers) | N/A |
+| 50 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
 
 
 

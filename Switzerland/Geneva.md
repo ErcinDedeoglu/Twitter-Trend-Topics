@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-27 16:17:45 UTC`
+📆 Last Updated: `2023-03-27 17:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 7 | [eigenkapitalquote](http://twitter.com/search?q=eigenkapitalquote) | N/A |
 | 8 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 9 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 10 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 11 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 12 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
-| 13 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
+| 9 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 10 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
+| 11 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 12 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 13 | [Richard](http://twitter.com/search?q=Richard) | N/A |
 | 14 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
 | 15 | [Widerstand](http://twitter.com/search?q=Widerstand) | N/A |
 | 16 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
 | 17 | [Blocher](http://twitter.com/search?q=Blocher) | N/A |
 | 18 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 19 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 20 | [Käse](http://twitter.com/search?q=K%c3%a4se) | N/A |
-| 21 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 22 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
-| 23 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
-| 24 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 25 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 26 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 27 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
-| 28 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 29 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 30 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 31 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
-| 32 | [senf](http://twitter.com/search?q=senf) | N/A |
+| 19 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
+| 20 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 21 | [Käse](http://twitter.com/search?q=K%c3%a4se) | N/A |
+| 22 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
+| 23 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
+| 24 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 25 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 26 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 27 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 28 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 29 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 30 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
+| 31 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 32 | [Senf](http://twitter.com/search?q=Senf) | N/A |
 | 33 | [Effekt](http://twitter.com/search?q=Effekt) | N/A |
-| 34 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 35 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
-| 36 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
-| 37 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 38 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
-| 39 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 40 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
-| 41 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 42 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
-| 43 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
-| 44 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 45 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 46 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 47 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 48 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 34 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
+| 35 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 36 | [J'suis](http://twitter.com/search?q=J%27suis) | N/A |
+| 37 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 38 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
+| 39 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 40 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
+| 41 | [Gewicht](http://twitter.com/search?q=Gewicht) | N/A |
+| 42 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
+| 43 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 44 | [Nature](http://twitter.com/search?q=Nature) | N/A |
+| 45 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 46 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 47 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
+| 48 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
 
 
 

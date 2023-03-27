@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-27 16:17:36 UTC`
+📆 Last Updated: `2023-03-27 17:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,51 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
 | 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 3 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 4 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 3 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 5 | [Porto Alegre](http://twitter.com/search?q=Porto+Alegre) | N/A |
-| 6 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 6 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
 | 7 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
 | 8 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 9 | [SP e RJ](http://twitter.com/search?q=SP+e+RJ) | SP e RJ is an abbreviation for São Paulo and Rio de Janeiro, two of the largest cities in Brazil. In English, it translates to "São Paulo and Rio de Janeiro". |
-| 10 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
-| 11 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 12 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
+| 9 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
+| 10 | [SP e RJ](http://twitter.com/search?q=SP+e+RJ) | SP e RJ is an abbreviation for São Paulo and Rio de Janeiro, two of the largest cities in Brazil. In English, it translates to "São Paulo and Rio de Janeiro". |
+| 11 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
+| 12 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
 | 13 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 14 | [RJ e SP](http://twitter.com/search?q=RJ+e+SP) | N/A |
-| 15 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 16 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 17 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
-| 18 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 19 | [Maya Gabeira](http://twitter.com/search?q=Maya+Gabeira) | N/A |
-| 20 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
-| 21 | [#maisvoce](http://twitter.com/search?q=%23maisvoce) | N/A |
-| 22 | [jeon jungkook](http://twitter.com/search?q=jeon+jungkook) | N/A |
-| 23 | [jeon jungkook](http://twitter.com/search?q=jeon+jungkook) | N/A |
-| 24 | [São Paulo e Rio de Janeiro](http://twitter.com/search?q=S%c3%a3o+Paulo+e+Rio+de+Janeiro) | N/A |
-| 25 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 26 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 27 | [O RBD](http://twitter.com/search?q=O+RBD) | N/A |
-| 28 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 29 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 30 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 14 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 15 | [Mondial](http://twitter.com/search?q=Mondial) | N/A |
+| 16 | [RJ e SP](http://twitter.com/search?q=RJ+e+SP) | N/A |
+| 17 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 18 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 19 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
+| 20 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 21 | [#F90BR](http://twitter.com/search?q=%23F90BR) | N/A |
+| 22 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 23 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 24 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 25 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
+| 26 | [Suzano](http://twitter.com/search?q=Suzano) | N/A |
+| 27 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 28 | [Guadalupe](http://twitter.com/search?q=Guadalupe) | N/A |
+| 29 | [Elisabete Tenreiro](http://twitter.com/search?q=Elisabete+Tenreiro) | N/A |
+| 30 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
 | 31 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 32 | [ALL EYES ON](http://twitter.com/search?q=ALL+EYES+ON) | N/A |
+| 32 | [E.E. Thomazia Montoro](http://twitter.com/search?q=E.E.+Thomazia+Montoro) | N/A |
 | 33 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 34 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 35 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 36 | [Colo](http://twitter.com/search?q=Colo) | N/A |
-| 37 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
-| 38 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
-| 39 | [Argentinos Jrs](http://twitter.com/search?q=Argentinos+Jrs) | N/A |
-| 40 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
-| 41 | [SP e Rio](http://twitter.com/search?q=SP+e+Rio) | N/A |
-| 42 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
-| 43 | [Mais 4](http://twitter.com/search?q=Mais+4) | N/A |
-| 44 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 45 | [Suzano](http://twitter.com/search?q=Suzano) | N/A |
-| 46 | [Rio e SP](http://twitter.com/search?q=Rio+e+SP) | N/A |
-| 47 | [E.E. Thomazia Montoro](http://twitter.com/search?q=E.E.+Thomazia+Montoro) | N/A |
-| 48 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 34 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
+| 35 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
+| 36 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 37 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 38 | [O RBD](http://twitter.com/search?q=O+RBD) | N/A |
+| 39 | [SEM ÂNIMO](http://twitter.com/search?q=SEM+%c3%82NIMO) | N/A |
+| 40 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
+| 41 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 42 | [São Paulo e Rio de Janeiro](http://twitter.com/search?q=S%c3%a3o+Paulo+e+Rio+de+Janeiro) | N/A |
+| 43 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 44 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 45 | [ALL EYES ON](http://twitter.com/search?q=ALL+EYES+ON) | N/A |
+| 46 | [Colo](http://twitter.com/search?q=Colo) | N/A |
+| 47 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
 
 
 
