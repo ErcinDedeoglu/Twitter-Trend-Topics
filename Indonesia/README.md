@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-27 17:18:41 UTC`
+📆 Last Updated: `2023-03-27 18:19:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 2 | [#DOJAEJUNGisReady](http://twitter.com/search?q=%23DOJAEJUNGisReady) | N/A |
-| 3 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 4 | [#MEin3Days](http://twitter.com/search?q=%23MEin3Days) | N/A |
-| 5 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
-| 6 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
-| 7 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
-| 8 | [London](http://twitter.com/search?q=London) | N/A |
-| 9 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 10 | [BELUM DEWASA](http://twitter.com/search?q=BELUM+DEWASA) | N/A |
-| 11 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 12 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 13 | [Kurniawan](http://twitter.com/search?q=Kurniawan) | N/A |
-| 14 | [Want Skintific](http://twitter.com/search?q=Want+Skintific) | N/A |
-| 15 | [Hpbd](http://twitter.com/search?q=Hpbd) | N/A |
-| 16 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 17 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 18 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 19 | [Pakin](http://twitter.com/search?q=Pakin) | N/A |
-| 20 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 21 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 22 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 23 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 24 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 25 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
-| 26 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
-| 27 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
-| 28 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
-| 29 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
-| 30 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 31 | [#BrightWin](http://twitter.com/search?q=%23BrightWin) | N/A |
-| 32 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
-| 33 | [#HappySakuraDay](http://twitter.com/search?q=%23HappySakuraDay) | N/A |
-| 34 | [#春野サクラ誕生祭2023](http://twitter.com/search?q=%23%e6%98%a5%e9%87%8e%e3%82%b5%e3%82%af%e3%83%a9%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 35 | [#SkintificRamadanBox](http://twitter.com/search?q=%23SkintificRamadanBox) | N/A |
-| 36 | [#IndonesianIdol](http://twitter.com/search?q=%23IndonesianIdol) | N/A |
-| 37 | [#JacksonWang](http://twitter.com/search?q=%23JacksonWang) | N/A |
-| 38 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 39 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
-| 40 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 41 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 42 | [#zeeletter](http://twitter.com/search?q=%23zeeletter) | N/A |
-| 43 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
-| 44 | [#TREASURE_Crystal_1](http://twitter.com/search?q=%23TREASURE_Crystal_1) | N/A |
-| 45 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
-| 46 | [#OneTwoThreeSmileInJKT](http://twitter.com/search?q=%23OneTwoThreeSmileInJKT) | N/A |
-| 47 | [#genshintwt](http://twitter.com/search?q=%23genshintwt) | N/A |
+| 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 2 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 4 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 5 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 6 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 7 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 8 | [#DOJAEJUNGisReady](http://twitter.com/search?q=%23DOJAEJUNGisReady) | N/A |
+| 9 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
+| 10 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 11 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
+| 12 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 13 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 14 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 15 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 16 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
+| 17 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 18 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 19 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 20 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 21 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 22 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 23 | [Neyl](http://twitter.com/search?q=Neyl) | N/A |
+| 24 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 25 | [London](http://twitter.com/search?q=London) | N/A |
+| 26 | [Want Skintific](http://twitter.com/search?q=Want+Skintific) | N/A |
+| 27 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 28 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 29 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
+| 30 | [haechan you did great](http://twitter.com/search?q=haechan+you+did+great) | N/A |
+| 31 | [besok senin](http://twitter.com/search?q=besok+senin) | N/A |
+| 32 | [stop kriminalisasi helmut](http://twitter.com/search?q=stop+kriminalisasi+helmut) | N/A |
+| 33 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
+| 34 | [happy birthday xiumin](http://twitter.com/search?q=happy+birthday+xiumin) | N/A |
+| 35 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
+| 36 | [Anies Sandi](http://twitter.com/search?q=Anies+Sandi) | N/A |
+| 37 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
+| 38 | [semua lawan dbd](http://twitter.com/search?q=semua+lawan+dbd) | N/A |
+| 39 | [MYEONZART IS COMING](http://twitter.com/search?q=MYEONZART+IS+COMING) | N/A |
+| 40 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 41 | [MAP OF RMs SOUL](http://twitter.com/search?q=MAP+OF+RMs+SOUL) | N/A |
+| 42 | [BELUM DEWASA](http://twitter.com/search?q=BELUM+DEWASA) | N/A |
+| 43 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 44 | [Pakin](http://twitter.com/search?q=Pakin) | N/A |
+| 45 | [Unhamil](http://twitter.com/search?q=Unhamil) | N/A |
+| 46 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
+| 47 | [Aamiin Ya Allah](http://twitter.com/search?q=Aamiin+Ya+Allah) | N/A |
+| 48 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 49 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 50 | [SarawatTine](http://twitter.com/search?q=SarawatTine) | N/A |
 
 
 

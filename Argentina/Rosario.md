@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-27 17:17:50 UTC`
+📆 Last Updated: `2023-03-27 18:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Argentina](</Argentina>)
 | ------- | ------------ | ------------ |
 | 1 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
 | 2 | [#InversionMercadoPago](http://twitter.com/search?q=%23InversionMercadoPago) | N/A |
-| 3 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 4 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 5 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 6 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 7 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 8 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 9 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 10 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 11 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
-| 12 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
-| 13 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 14 | [Gana Marcos](http://twitter.com/search?q=Gana+Marcos) | N/A |
-| 15 | [#MEin3Days](http://twitter.com/search?q=%23MEin3Days) | N/A |
-| 16 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 3 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 4 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 5 | [#cortaporlozano](http://twitter.com/search?q=%23cortaporlozano) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 8 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 11 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 12 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 13 | [Gana Marcos](http://twitter.com/search?q=Gana+Marcos) | N/A |
+| 14 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 15 | [#espnf90](http://twitter.com/search?q=%23espnf90) | N/A |
+| 16 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
 | 17 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
-| 18 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
-| 19 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
-| 20 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
-| 21 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 22 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 23 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 24 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 25 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 26 | [Comando Unificado Conurbano](http://twitter.com/search?q=Comando+Unificado+Conurbano) | N/A |
-| 27 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 28 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
-| 29 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 30 | [Boca](http://twitter.com/search?q=Boca) | N/A |
-| 31 | [Feinmann](http://twitter.com/search?q=Feinmann) | N/A |
-| 32 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 33 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 36 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
-| 37 | [Milani](http://twitter.com/search?q=Milani) | N/A |
-| 38 | [Manes](http://twitter.com/search?q=Manes) | N/A |
-| 39 | [Longobardi](http://twitter.com/search?q=Longobardi) | N/A |
-| 40 | [Diego Ramos](http://twitter.com/search?q=Diego+Ramos) | N/A |
-| 41 | [Anotate](http://twitter.com/search?q=Anotate) | N/A |
-| 42 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 43 | [Blanca](http://twitter.com/search?q=Blanca) | N/A |
-| 44 | [Gran Hermano 2023](http://twitter.com/search?q=Gran+Hermano+2023) | N/A |
-| 45 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 46 | [Ricardito](http://twitter.com/search?q=Ricardito) | N/A |
-| 47 | [Carrio](http://twitter.com/search?q=Carrio) | N/A |
-| 48 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
-| 49 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 50 | [#ALabarbarossa](http://twitter.com/search?q=%23ALabarbarossa) | N/A |
+| 18 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
+| 19 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 20 | [BBVA](http://twitter.com/search?q=BBVA) | N/A |
+| 21 | [#MEin3Days](http://twitter.com/search?q=%23MEin3Days) | N/A |
+| 22 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
+| 23 | [Proceda](http://twitter.com/search?q=Proceda) | N/A |
+| 24 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
+| 25 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 26 | [Tarantino](http://twitter.com/search?q=Tarantino) | N/A |
+| 27 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 28 | [Comando Unificado Conurbano](http://twitter.com/search?q=Comando+Unificado+Conurbano) | N/A |
+| 29 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
+| 30 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 31 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 32 | [Manes](http://twitter.com/search?q=Manes) | N/A |
+| 33 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
+| 34 | [Boca](http://twitter.com/search?q=Boca) | N/A |
+| 35 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 36 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 37 | [Feinmann](http://twitter.com/search?q=Feinmann) | N/A |
+| 38 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 39 | [Anotate](http://twitter.com/search?q=Anotate) | N/A |
+| 40 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 41 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 42 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 43 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 44 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
+| 45 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 46 | [Longobardi](http://twitter.com/search?q=Longobardi) | N/A |
+| 47 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 48 | [Diego Ramos](http://twitter.com/search?q=Diego+Ramos) | N/A |
+| 49 | [Ricardito](http://twitter.com/search?q=Ricardito) | N/A |
+| 50 | [Gran Hermano 2023](http://twitter.com/search?q=Gran+Hermano+2023) | N/A |
 
 
 

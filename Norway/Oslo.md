@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-27 17:18:01 UTC`
+📆 Last Updated: `2023-03-27 18:19:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 2 | [Sissener](http://twitter.com/search?q=Sissener) | N/A |
+| 2 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
 | 3 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 4 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 4 | [Sissener](http://twitter.com/search?q=Sissener) | N/A |
 | 5 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
-| 6 | [#NarkoTwitter](http://twitter.com/search?q=%23NarkoTwitter) | N/A |
-| 7 | [Viken](http://twitter.com/search?q=Viken) | N/A |
-| 8 | [hødd](http://twitter.com/search?q=h%c3%b8dd) | N/A |
-| 9 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [nyland](http://twitter.com/search?q=nyland) | N/A |
-| 12 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 13 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 14 | [agder](http://twitter.com/search?q=agder) | N/A |
-| 15 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 16 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 17 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 18 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
-| 19 | [koteng arena](http://twitter.com/search?q=koteng+arena) | N/A |
-| 20 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 21 | [fredrik aursnes](http://twitter.com/search?q=fredrik+aursnes) | N/A |
-| 22 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 23 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 24 | [ryerson](http://twitter.com/search?q=ryerson) | N/A |
-| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 26 | [Nusa](http://twitter.com/search?q=Nusa) | N/A |
-| 27 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 28 | [Synes](http://twitter.com/search?q=Synes) | N/A |
-| 29 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
-| 30 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 31 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 32 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 33 | [tøyen](http://twitter.com/search?q=t%c3%b8yen) | N/A |
-| 34 | [Vedum](http://twitter.com/search?q=Vedum) | N/A |
-| 35 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 36 | [Veldig](http://twitter.com/search?q=Veldig) | N/A |
-| 37 | [Molde](http://twitter.com/search?q=Molde) | N/A |
-| 38 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 39 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 41 | [Moss](http://twitter.com/search?q=Moss) | N/A |
-| 42 | [Slovenia](http://twitter.com/search?q=Slovenia) | N/A |
-| 43 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 44 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 6 | [Viken](http://twitter.com/search?q=Viken) | N/A |
+| 7 | [hødd](http://twitter.com/search?q=h%c3%b8dd) | N/A |
+| 8 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Stabæk](http://twitter.com/search?q=Stab%c3%a6k) | N/A |
+| 11 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 12 | [agder](http://twitter.com/search?q=agder) | N/A |
+| 13 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 14 | [koteng arena](http://twitter.com/search?q=koteng+arena) | N/A |
+| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 16 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 17 | [EØS-avtalen](http://twitter.com/search?q=E%c3%98S-avtalen) | N/A |
+| 18 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [fredrik aursnes](http://twitter.com/search?q=fredrik+aursnes) | N/A |
+| 21 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 22 | [Nusa](http://twitter.com/search?q=Nusa) | N/A |
+| 23 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 24 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
+| 25 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 26 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 28 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 29 | [tøyen](http://twitter.com/search?q=t%c3%b8yen) | N/A |
+| 30 | [Republican](http://twitter.com/search?q=Republican) | N/A |
+| 31 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
+| 32 | [Synes](http://twitter.com/search?q=Synes) | N/A |
+| 33 | [Vedum](http://twitter.com/search?q=Vedum) | N/A |
+| 34 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 35 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 36 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 37 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 38 | [Moss](http://twitter.com/search?q=Moss) | N/A |
+| 39 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 40 | [Spania](http://twitter.com/search?q=Spania) | N/A |
+| 41 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 42 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 43 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 44 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 | 45 | [Flakk](http://twitter.com/search?q=Flakk) | N/A |
-| 46 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 47 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
-| 48 | [heilt](http://twitter.com/search?q=heilt) | N/A |
-| 49 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 50 | [Kult](http://twitter.com/search?q=Kult) | N/A |
+| 46 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
+| 47 | [heilt](http://twitter.com/search?q=heilt) | N/A |
+| 48 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 49 | [Kult](http://twitter.com/search?q=Kult) | N/A |
+| 50 | [Neida](http://twitter.com/search?q=Neida) | N/A |
 
 
 

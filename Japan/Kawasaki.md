@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-27 17:18:05 UTC`
+📆 Last Updated: `2023-03-27 18:19:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [#SfC予選D](http://twitter.com/search?q=%23SfC%e4%ba%88%e9%81%b8D) | N/A |
 | 2 | [#Bリーグマスコット](http://twitter.com/search?q=%23B%e3%83%aa%e3%83%bc%e3%82%b0%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88) | N/A |
-| 3 | [#StageforCinderella](http://twitter.com/search?q=%23StageforCinderella) | N/A |
-| 4 | [#原嘉孝](http://twitter.com/search?q=%23%e5%8e%9f%e5%98%89%e5%ad%9d) | N/A |
-| 5 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 6 | [さくらの日](http://twitter.com/search?q=%e3%81%95%e3%81%8f%e3%82%89%e3%81%ae%e6%97%a5) | N/A |
-| 7 | [マーリン](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%aa%e3%83%b3) | N/A |
-| 8 | [セーラー](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
-| 9 | [ラーメンデート](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%87%e3%83%bc%e3%83%88) | N/A |
-| 10 | [ライトアップ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 11 | [キムタク](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%bf%e3%82%af) | キムタク is a nickname for the Japanese actor and singer Kimura Takuya. It is a combination of his first and last name. In English, it would be translated as "Kimtaku". |
-| 12 | [レイちゃん](http://twitter.com/search?q=%e3%83%ac%e3%82%a4%e3%81%a1%e3%82%83%e3%82%93) | レイちゃん is a nickname for the Japanese name Rei. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
-| 13 | [コタくん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%8f%e3%82%93) | コタくん is a character from the Japanese manga series, Kochikame. He is a police officer who works in the Tokyo Metropolitan Police Department's Kameari Branch. His name is derived from the Japanese word for police officer, "Kōta". In English, his name can be translated to "Officer Kota". |
-| 14 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
-| 15 | [eショップ](http://twitter.com/search?q=e%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
-| 16 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 17 | [トレパク](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%91%e3%82%af) | N/A |
-| 18 | [エンブレ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac) | N/A |
-| 19 | [第431回](http://twitter.com/search?q=%e7%ac%ac431%e5%9b%9e) | N/A |
-| 20 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
-| 21 | [おつりーぬ](http://twitter.com/search?q=%e3%81%8a%e3%81%a4%e3%82%8a%e3%83%bc%e3%81%ac) | おつりーぬ is a Japanese phrase that roughly translates to "Thank you very much." It is used as a polite way to express gratitude. |
-| 22 | [ポケムーバー](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a0%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 23 | [エモ泥棒](http://twitter.com/search?q=%e3%82%a8%e3%83%a2%e6%b3%a5%e6%a3%92) | N/A |
-| 24 | [ポケモンバンク](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%90%e3%83%b3%e3%82%af) | N/A |
-| 25 | [WiiU](http://twitter.com/search?q=WiiU) | N/A |
-| 26 | [コタツ回](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%84%e5%9b%9e) | N/A |
-| 27 | [鷲津さん](http://twitter.com/search?q=%e9%b7%b2%e6%b4%a5%e3%81%95%e3%82%93) | 鷲津さん is a Japanese name, and it can be written in English as Washizu. It is a combination of the characters for “eagle” and “harbor”. |
-| 28 | [トンベリ](http://twitter.com/search?q=%e3%83%88%e3%83%b3%e3%83%99%e3%83%aa) | N/A |
-| 29 | [サラタイ](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%82%bf%e3%82%a4) | N/A |
-| 30 | [莉犬くん](http://twitter.com/search?q=%e8%8e%89%e7%8a%ac%e3%81%8f%e3%82%93) | N/A |
-| 31 | [真澄くん](http://twitter.com/search?q=%e7%9c%9f%e6%be%84%e3%81%8f%e3%82%93) | 真澄くん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name translates to "Masaki-kun" and he is a young boy who lives in the same neighborhood as the main characters. He is known for his mischievous behavior and his love of pranks. |
-| 32 | [ヨンボクラチャ](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%9c%e3%82%af%e3%83%a9%e3%83%81%e3%83%a3) | N/A |
-| 33 | [宇宙Six](http://twitter.com/search?q=%e5%ae%87%e5%ae%99Six) | N/A |
-| 34 | [浮所くん](http://twitter.com/search?q=%e6%b5%ae%e6%89%80%e3%81%8f%e3%82%93) | N/A |
-| 35 | [犬飼さん](http://twitter.com/search?q=%e7%8a%ac%e9%a3%bc%e3%81%95%e3%82%93) | N/A |
-| 36 | [こたつ回](http://twitter.com/search?q=%e3%81%93%e3%81%9f%e3%81%a4%e5%9b%9e) | N/A |
-| 37 | [柿田さん](http://twitter.com/search?q=%e6%9f%bf%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 38 | [コタてん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%a6%e3%82%93) | N/A |
-| 39 | [車間距離](http://twitter.com/search?q=%e8%bb%8a%e9%96%93%e8%b7%9d%e9%9b%a2) | N/A |
-| 40 | [Snain](http://twitter.com/search?q=Snain) | N/A |
-| 41 | [ぐっばいび](http://twitter.com/search?q=%e3%81%90%e3%81%a3%e3%81%b0%e3%81%84%e3%81%b3) | ぐっばいび is a Japanese slang term that roughly translates to "cool" or "awesome." It is often used to express admiration or approval. |
-| 42 | [ロクシタン](http://twitter.com/search?q=%e3%83%ad%e3%82%af%e3%82%b7%e3%82%bf%e3%83%b3) | N/A |
-| 43 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 44 | [岸くんの演技](http://twitter.com/search?q=%e5%b2%b8%e3%81%8f%e3%82%93%e3%81%ae%e6%bc%94%e6%8a%80) | 岸くんの演技 is a phrase used to describe the acting of Japanese actor Kishu Kusanagi. It is often used to refer to his ability to portray a wide range of characters and emotions in his performances. In English, it could be translated as "Kishu Kusanagi's Acting". |
-| 45 | [サンムーン体験版](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%a0%e3%83%bc%e3%83%b3%e4%bd%93%e9%a8%93%e7%89%88) | N/A |
-| 46 | [shaoゲッコー](http://twitter.com/search?q=shao%e3%82%b2%e3%83%83%e3%82%b3%e3%83%bc) | N/A |
-| 47 | [電話番号](http://twitter.com/search?q=%e9%9b%bb%e8%a9%b1%e7%95%aa%e5%8f%b7) | N/A |
-| 48 | [ツナちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 3 | [ユンギさん](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ae%e3%81%95%e3%82%93) | ユンギさん is a Japanese nickname for the popular Korean singer Jungkook, who is a member of the K-pop group BTS. In English, it can be translated to "Jungkook-san". |
+| 4 | [マーリン](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%aa%e3%83%b3) | N/A |
+| 5 | [#cnann](http://twitter.com/search?q=%23cnann) | #cnann is an acronym for "Ceann Comhairle" which is a title given to the presiding officer of the Irish Dáil (lower house of parliament). In English, it translates to "Chairman of the House". |
+| 6 | [#すきすきワンワン](http://twitter.com/search?q=%23%e3%81%99%e3%81%8d%e3%81%99%e3%81%8d%e3%83%af%e3%83%b3%e3%83%af%e3%83%b3) | #すきすきワンワン is an expression used to express love and affection for someone or something. It is often used as a hashtag on social media. In English, it can be translated to "I love you so much!" |
+| 7 | [コタくん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%8f%e3%82%93) | コタくん is a character from the Japanese manga series, Kochikame. He is a police officer who works in the Tokyo Metropolitan Police Department's Kameari Branch. His name is derived from the Japanese word for police officer, "Kōta". In English, his name can be translated to "Officer Kota". |
+| 8 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 9 | [トレパク](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%91%e3%82%af) | N/A |
+| 10 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
+| 11 | [eショップ](http://twitter.com/search?q=e%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
+| 12 | [エンブレ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac) | N/A |
+| 13 | [第431回](http://twitter.com/search?q=%e7%ac%ac431%e5%9b%9e) | N/A |
+| 14 | [大江戸シーラン](http://twitter.com/search?q=%e5%a4%a7%e6%b1%9f%e6%88%b8%e3%82%b7%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 15 | [ポケムーバー](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a0%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 16 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 17 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
+| 18 | [WiiU](http://twitter.com/search?q=WiiU) | N/A |
+| 19 | [ポケモンバンク](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%90%e3%83%b3%e3%82%af) | N/A |
+| 20 | [おつりーぬ](http://twitter.com/search?q=%e3%81%8a%e3%81%a4%e3%82%8a%e3%83%bc%e3%81%ac) | おつりーぬ is a Japanese phrase that roughly translates to "Thank you very much." It is used as a polite way to express gratitude. |
+| 21 | [エモ泥棒](http://twitter.com/search?q=%e3%82%a8%e3%83%a2%e6%b3%a5%e6%a3%92) | N/A |
+| 22 | [エモニー](http://twitter.com/search?q=%e3%82%a8%e3%83%a2%e3%83%8b%e3%83%bc) | N/A |
+| 23 | [コタツ回](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%84%e5%9b%9e) | N/A |
+| 24 | [岸くんの演技](http://twitter.com/search?q=%e5%b2%b8%e3%81%8f%e3%82%93%e3%81%ae%e6%bc%94%e6%8a%80) | 岸くんの演技 is a phrase used to describe the acting of Japanese actor Kishu Kusanagi. It is often used to refer to his ability to portray a wide range of characters and emotions in his performances. In English, it could be translated as "Kishu Kusanagi's Acting". |
+| 25 | [トンベリ](http://twitter.com/search?q=%e3%83%88%e3%83%b3%e3%83%99%e3%83%aa) | N/A |
+| 26 | [鷲津さん](http://twitter.com/search?q=%e9%b7%b2%e6%b4%a5%e3%81%95%e3%82%93) | 鷲津さん is a Japanese name, and it can be written in English as Washizu. It is a combination of the characters for “eagle” and “harbor”. |
+| 27 | [莉犬くん](http://twitter.com/search?q=%e8%8e%89%e7%8a%ac%e3%81%8f%e3%82%93) | N/A |
+| 28 | [サラタイ](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%82%bf%e3%82%a4) | N/A |
+| 29 | [真澄くん](http://twitter.com/search?q=%e7%9c%9f%e6%be%84%e3%81%8f%e3%82%93) | 真澄くん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name translates to "Masaki-kun" and he is a young boy who lives in the same neighborhood as the main characters. He is known for his mischievous behavior and his love of pranks. |
+| 30 | [浮所くん](http://twitter.com/search?q=%e6%b5%ae%e6%89%80%e3%81%8f%e3%82%93) | N/A |
+| 31 | [ヨンボクラチャ](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%9c%e3%82%af%e3%83%a9%e3%83%81%e3%83%a3) | N/A |
+| 32 | [Creepy Nuts](http://twitter.com/search?q=Creepy+Nuts) | N/A |
+| 33 | [サンムーン体験版](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%a0%e3%83%bc%e3%83%b3%e4%bd%93%e9%a8%93%e7%89%88) | N/A |
+| 34 | [コタてん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%a6%e3%82%93) | N/A |
+| 35 | [Snain](http://twitter.com/search?q=Snain) | N/A |
+| 36 | [宇宙Six](http://twitter.com/search?q=%e5%ae%87%e5%ae%99Six) | N/A |
+| 37 | [shaoゲッコー](http://twitter.com/search?q=shao%e3%82%b2%e3%83%83%e3%82%b3%e3%83%bc) | N/A |
+| 38 | [車間距離](http://twitter.com/search?q=%e8%bb%8a%e9%96%93%e8%b7%9d%e9%9b%a2) | N/A |
+| 39 | [柿田さん](http://twitter.com/search?q=%e6%9f%bf%e7%94%b0%e3%81%95%e3%82%93) | N/A |
+| 40 | [ぐっばいび](http://twitter.com/search?q=%e3%81%90%e3%81%a3%e3%81%b0%e3%81%84%e3%81%b3) | ぐっばいび is a Japanese slang term that roughly translates to "cool" or "awesome." It is often used to express admiration or approval. |
+| 41 | [こたつ回](http://twitter.com/search?q=%e3%81%93%e3%81%9f%e3%81%a4%e5%9b%9e) | N/A |
+| 42 | [電話番号](http://twitter.com/search?q=%e9%9b%bb%e8%a9%b1%e7%95%aa%e5%8f%b7) | N/A |
+| 43 | [犬飼さん](http://twitter.com/search?q=%e7%8a%ac%e9%a3%bc%e3%81%95%e3%82%93) | N/A |
+| 44 | [ロクシタン](http://twitter.com/search?q=%e3%83%ad%e3%82%af%e3%82%b7%e3%82%bf%e3%83%b3) | N/A |
+| 45 | [残高追加](http://twitter.com/search?q=%e6%ae%8b%e9%ab%98%e8%bf%bd%e5%8a%a0) | N/A |
+| 46 | [迷惑運転](http://twitter.com/search?q=%e8%bf%b7%e6%83%91%e9%81%8b%e8%bb%a2) | N/A |
+| 47 | [ツナちゃん](http://twitter.com/search?q=%e3%83%84%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [ジスジュン](http://twitter.com/search?q=%e3%82%b8%e3%82%b9%e3%82%b8%e3%83%a5%e3%83%b3) | N/A |
 
 
 

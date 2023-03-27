@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-27 17:17:53 UTC`
+📆 Last Updated: `2023-03-27 18:19:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IREFRA](http://twitter.com/search?q=%23IREFRA) | N/A |
-| 2 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 3 | [Kellie Harrington](http://twitter.com/search?q=Kellie+Harrington) | N/A |
-| 4 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
+| 1 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
+| 2 | [#IREFRA](http://twitter.com/search?q=%23IREFRA) | N/A |
+| 3 | [#MICHELINStar23](http://twitter.com/search?q=%23MICHELINStar23) | N/A |
+| 4 | [#michelinguideGBI](http://twitter.com/search?q=%23michelinguideGBI) | N/A |
 | 5 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 6 | [Kellie Harrington](http://twitter.com/search?q=Kellie+Harrington) | N/A |
+| 7 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
 | 8 | [Ireland v France](http://twitter.com/search?q=Ireland+v+France) | N/A |
-| 9 | [Stephen Cluxton](http://twitter.com/search?q=Stephen+Cluxton) | N/A |
-| 10 | [Shona](http://twitter.com/search?q=Shona) | N/A |
-| 11 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 12 | [danny searle](http://twitter.com/search?q=danny+searle) | N/A |
-| 13 | [dolores keane](http://twitter.com/search?q=dolores+keane) | N/A |
-| 14 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 15 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 16 | [Knight](http://twitter.com/search?q=Knight) | N/A |
-| 17 | [Waterford FC](http://twitter.com/search?q=Waterford+FC) | N/A |
-| 18 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
-| 19 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
-| 20 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 21 | [Johnny Kenny](http://twitter.com/search?q=Johnny+Kenny) | N/A |
-| 22 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 23 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 25 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 26 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 27 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 28 | [pearse stadium](http://twitter.com/search?q=pearse+stadium) | N/A |
-| 29 | [Una Mullally](http://twitter.com/search?q=Una+Mullally) | N/A |
-| 30 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 31 | [Independents](http://twitter.com/search?q=Independents) | N/A |
-| 32 | [Cora Staunton](http://twitter.com/search?q=Cora+Staunton) | N/A |
-| 33 | [Division 4](http://twitter.com/search?q=Division+4) | N/A |
-| 34 | [sam curtis](http://twitter.com/search?q=sam+curtis) | N/A |
-| 35 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 36 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 37 | [Donegal](http://twitter.com/search?q=Donegal) | N/A |
-| 38 | [SETU](http://twitter.com/search?q=SETU) | N/A |
-| 39 | [Mason](http://twitter.com/search?q=Mason) | N/A |
-| 40 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 41 | [Boys in Green](http://twitter.com/search?q=Boys+in+Green) | N/A |
-| 42 | [turner's cross](http://twitter.com/search?q=turner%27s+cross) | N/A |
-| 43 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 44 | [Leinster](http://twitter.com/search?q=Leinster) | N/A |
-| 45 | [Aidan O'Brien](http://twitter.com/search?q=Aidan+O%27Brien) | N/A |
-| 46 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 47 | [priest 17](http://twitter.com/search?q=priest+17) | N/A |
-| 48 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
-| 49 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 9 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 10 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
+| 11 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
+| 12 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 13 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 14 | [Melanie Greally](http://twitter.com/search?q=Melanie+Greally) | N/A |
+| 15 | [Shona](http://twitter.com/search?q=Shona) | N/A |
+| 16 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 17 | [danny searle](http://twitter.com/search?q=danny+searle) | N/A |
+| 18 | [dolores keane](http://twitter.com/search?q=dolores+keane) | N/A |
+| 19 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 20 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 21 | [Waterford FC](http://twitter.com/search?q=Waterford+FC) | N/A |
+| 22 | [Cluxton](http://twitter.com/search?q=Cluxton) | N/A |
+| 23 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 24 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 25 | [johnny kenny](http://twitter.com/search?q=johnny+kenny) | N/A |
+| 26 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 27 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 28 | [Cannon](http://twitter.com/search?q=Cannon) | N/A |
+| 29 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
+| 30 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 31 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 32 | [pearse stadium](http://twitter.com/search?q=pearse+stadium) | N/A |
+| 33 | [Una Mullally](http://twitter.com/search?q=Una+Mullally) | N/A |
+| 34 | [Independents](http://twitter.com/search?q=Independents) | N/A |
+| 35 | [Cora Staunton](http://twitter.com/search?q=Cora+Staunton) | N/A |
+| 36 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 37 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 38 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 39 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 40 | [Donegal](http://twitter.com/search?q=Donegal) | N/A |
+| 41 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 42 | [Mason](http://twitter.com/search?q=Mason) | N/A |
+| 43 | [SETU](http://twitter.com/search?q=SETU) | N/A |
+| 44 | [turner's cross](http://twitter.com/search?q=turner%27s+cross) | N/A |
+| 45 | [Boys in Green](http://twitter.com/search?q=Boys+in+Green) | N/A |
+| 46 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 47 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 48 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 49 | [Aidan O'Brien](http://twitter.com/search?q=Aidan+O%27Brien) | N/A |
 
 
 

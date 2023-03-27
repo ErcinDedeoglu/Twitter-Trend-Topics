@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-27 17:17:56 UTC`
+📆 Last Updated: `2023-03-27 18:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
-| 2 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
-| 3 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
-| 4 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
+| 1 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
+| 2 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 4 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
 | 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 7 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
 | 8 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
 | 9 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 10 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 11 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 12 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 11 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 12 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
 | 13 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
 | 14 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
 | 15 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
@@ -34,36 +34,36 @@ This is top 50 for [Germany](</Germany>)
 | 17 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
 | 18 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
 | 19 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 20 | [wahlberechtigten](http://twitter.com/search?q=wahlberechtigten) | N/A |
-| 21 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 22 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
+| 20 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 21 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
+| 22 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
 | 23 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 24 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 25 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 24 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
+| 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 26 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 27 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 27 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 | 28 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 29 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 30 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 31 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 32 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 33 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 34 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 35 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
-| 36 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 37 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 38 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 29 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 30 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 31 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 32 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
+| 33 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
+| 34 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 35 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 36 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 37 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 38 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
 | 39 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
-| 40 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 41 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 42 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
-| 43 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
-| 44 | [aktivisten](http://twitter.com/search?q=aktivisten) | N/A |
-| 45 | [Klimaneutralität](http://twitter.com/search?q=Klimaneutralit%c3%a4t) | N/A |
+| 40 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 41 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
+| 42 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 43 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 44 | [Klimaneutralität](http://twitter.com/search?q=Klimaneutralit%c3%a4t) | N/A |
+| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 46 | [warme atmosphäre](http://twitter.com/search?q=warme+atmosph%c3%a4re) | N/A |
-| 47 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 48 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 49 | [Sonnenschein](http://twitter.com/search?q=Sonnenschein) | N/A |
+| 47 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 48 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 49 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
 
 
 

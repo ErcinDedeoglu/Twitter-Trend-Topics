@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-27 17:18:31 UTC`
+📆 Last Updated: `2023-03-27 18:19:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 2 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 3 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 4 | [#schoolshooting](http://twitter.com/search?q=%23schoolshooting) | N/A |
-| 5 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
-| 6 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 9 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
-| 10 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 11 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 12 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 13 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
-| 14 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
-| 15 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
-| 16 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
-| 17 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 18 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 19 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 20 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 21 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
-| 22 | [Flacco](http://twitter.com/search?q=Flacco) | Flacco is a nickname for Joe Flacco, an American football quarterback who currently plays for the New York Jets. The name is derived from his last name and is used as a term of endearment by his fans. In English, it means "beloved Joe Flacco". |
-| 23 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
-| 24 | [Taylor Rapp](http://twitter.com/search?q=Taylor+Rapp) | N/A |
-| 25 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 26 | [Evil Dead Rise](http://twitter.com/search?q=Evil+Dead+Rise) | N/A |
-| 27 | [WAKAAN ROCKS](http://twitter.com/search?q=WAKAAN+ROCKS) | N/A |
-| 28 | [Monday in America](http://twitter.com/search?q=Monday+in+America) | N/A |
-| 29 | [AFC North](http://twitter.com/search?q=AFC+North) | N/A |
-| 30 | [Deshaun Watson](http://twitter.com/search?q=Deshaun+Watson) | N/A |
-| 31 | [Christian School](http://twitter.com/search?q=Christian+School) | N/A |
-| 32 | [Marie Harf](http://twitter.com/search?q=Marie+Harf) | N/A |
-| 33 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
-| 34 | [MVP QB](http://twitter.com/search?q=MVP+QB) | N/A |
-| 35 | [North Dakota](http://twitter.com/search?q=North+Dakota) | N/A |
-| 36 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 37 | [John Lynch](http://twitter.com/search?q=John+Lynch) | John Lynch is a common Irish surname. It is derived from the Gaelic name Mac Giolla Eoin, which means "son of the devotee of St. John". The name is most commonly associated with the Irish counties of Donegal and Mayo. |
-| 38 | [Harbs](http://twitter.com/search?q=Harbs) | N/A |
-| 39 | [Woodmont Baptist Church](http://twitter.com/search?q=Woodmont+Baptist+Church) | N/A |
-| 40 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
-| 41 | [Open Beta](http://twitter.com/search?q=Open+Beta) | N/A |
-| 42 | [How to Blow Up a Pipeline](http://twitter.com/search?q=How+to+Blow+Up+a+Pipeline) | N/A |
-| 43 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 44 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
-| 45 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
-| 46 | [Bill Lee](http://twitter.com/search?q=Bill+Lee) | N/A |
-| 47 | [Beaky](http://twitter.com/search?q=Beaky) | N/A |
-| 48 | [HFAC](http://twitter.com/search?q=HFAC) | N/A |
+| 1 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 2 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 3 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 6 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 7 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
+| 8 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 9 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 10 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 11 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
+| 12 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 13 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
+| 14 | [#BanAssaultWeapons](http://twitter.com/search?q=%23BanAssaultWeapons) | N/A |
+| 15 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
+| 16 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 17 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
+| 18 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 19 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
+| 20 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 21 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 22 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 23 | [Christian School](http://twitter.com/search?q=Christian+School) | N/A |
+| 24 | [heize](http://twitter.com/search?q=heize) | N/A |
+| 25 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 26 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
+| 27 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
+| 28 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
+| 29 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 30 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 31 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 32 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 33 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 34 | [Marsha Blackburn](http://twitter.com/search?q=Marsha+Blackburn) | N/A |
+| 35 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
+| 36 | [Tanner Houck](http://twitter.com/search?q=Tanner+Houck) | N/A |
+| 37 | [Questlove](http://twitter.com/search?q=Questlove) | N/A |
+| 38 | [Bill Lee](http://twitter.com/search?q=Bill+Lee) | N/A |
+| 39 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 40 | [3 Children](http://twitter.com/search?q=3+Children) | N/A |
+| 41 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 42 | [Huntley](http://twitter.com/search?q=Huntley) | Huntley is a surname of English origin. It is derived from the Old English words "hunta" meaning hunter and "leah" meaning clearing or meadow. The name was originally given to someone who lived in or near a hunting ground. |
+| 43 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 44 | [Only in America](http://twitter.com/search?q=Only+in+America) | N/A |
+| 45 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
+| 46 | [Flacco](http://twitter.com/search?q=Flacco) | Flacco is a nickname for Joe Flacco, an American football quarterback who currently plays for the New York Jets. The name is derived from his last name and is used as a term of endearment by his fans. In English, it means "beloved Joe Flacco". |
+| 47 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 48 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-03-27 17:18:13 UTC`
+📆 Last Updated: `2023-03-27 18:19:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#PeakRamadanGoodness](http://twitter.com/search?q=%23PeakRamadanGoodness) | N/A |
-| 4 | [#FinalTouchDone](http://twitter.com/search?q=%23FinalTouchDone) | N/A |
-| 5 | [#GNBNGA](http://twitter.com/search?q=%23GNBNGA) | N/A |
-| 6 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
-| 7 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
-| 8 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 9 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 10 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 11 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 12 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 13 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 14 | [President of the United States](http://twitter.com/search?q=President+of+the+United+States) | N/A |
-| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 16 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 1 | [#GNBNGA](http://twitter.com/search?q=%23GNBNGA) | N/A |
+| 2 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 3 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 4 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
+| 5 | [#FinalTouchDone](http://twitter.com/search?q=%23FinalTouchDone) | N/A |
+| 6 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
+| 7 | [#PeakRamadanGoodness](http://twitter.com/search?q=%23PeakRamadanGoodness) | N/A |
+| 8 | [#BOIFundsHealthSector](http://twitter.com/search?q=%23BOIFundsHealthSector) | N/A |
+| 9 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
+| 10 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
+| 11 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
+| 12 | [DSTV](http://twitter.com/search?q=DSTV) | N/A |
+| 13 | [Loya](http://twitter.com/search?q=Loya) | N/A |
+| 14 | [Dano](http://twitter.com/search?q=Dano) | N/A |
+| 15 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
+| 16 | [Greece](http://twitter.com/search?q=Greece) | N/A |
 | 17 | [Hourly](http://twitter.com/search?q=Hourly) | N/A |
-| 18 | [Davido and Asake](http://twitter.com/search?q=Davido+and+Asake) | N/A |
-| 19 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 20 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 21 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 22 | [Fani-Kayode](http://twitter.com/search?q=Fani-Kayode) | N/A |
-| 23 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
-| 24 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 25 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 26 | [Zaidu](http://twitter.com/search?q=Zaidu) | N/A |
-| 27 | [today is sunday](http://twitter.com/search?q=today+is+sunday) | N/A |
-| 28 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 29 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 30 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 31 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 32 | [Onyeka](http://twitter.com/search?q=Onyeka) | N/A |
-| 33 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 34 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 35 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
-| 36 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 37 | [tomorrow is monday](http://twitter.com/search?q=tomorrow+is+monday) | N/A |
-| 38 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 39 | [Loya](http://twitter.com/search?q=Loya) | N/A |
-| 40 | [Falana](http://twitter.com/search?q=Falana) | N/A |
-| 41 | [Dano](http://twitter.com/search?q=Dano) | N/A |
-| 42 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 43 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 44 | [Buhari](http://twitter.com/search?q=Buhari) | N/A |
-| 45 | [UNSTOPPABLE YEMI CREGX](http://twitter.com/search?q=UNSTOPPABLE+YEMI+CREGX) | N/A |
-| 46 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
-| 47 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 48 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
-| 49 | [Rascals](http://twitter.com/search?q=Rascals) | N/A |
-| 50 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 18 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
+| 19 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 20 | [Fidelity](http://twitter.com/search?q=Fidelity) | N/A |
+| 21 | [Davido and Asake](http://twitter.com/search?q=Davido+and+Asake) | N/A |
+| 22 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 23 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 24 | [Payday](http://twitter.com/search?q=Payday) | N/A |
+| 25 | [Akure](http://twitter.com/search?q=Akure) | N/A |
+| 26 | [Airport](http://twitter.com/search?q=Airport) | N/A |
+| 27 | [Soso](http://twitter.com/search?q=Soso) | N/A |
+| 28 | [Fani-Kayode](http://twitter.com/search?q=Fani-Kayode) | N/A |
+| 29 | [Boko Haram](http://twitter.com/search?q=Boko+Haram) | N/A |
+| 30 | [Obiano](http://twitter.com/search?q=Obiano) | N/A |
+| 31 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
+| 32 | [#UntilMoneyDoUsPart](http://twitter.com/search?q=%23UntilMoneyDoUsPart) | N/A |
+| 33 | [#lastdaysinfuta](http://twitter.com/search?q=%23lastdaysinfuta) | N/A |
+| 34 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
+| 35 | [#pbtips](http://twitter.com/search?q=%23pbtips) | N/A |
+| 36 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 37 | [#Reno8TNowAvailable](http://twitter.com/search?q=%23Reno8TNowAvailable) | N/A |
+| 38 | [#TinubuIsADrugDealer](http://twitter.com/search?q=%23TinubuIsADrugDealer) | N/A |
+| 39 | [#Tinubuisadrugbaron](http://twitter.com/search?q=%23Tinubuisadrugbaron) | N/A |
+| 40 | [#ThabangMazibuko](http://twitter.com/search?q=%23ThabangMazibuko) | N/A |
 
 
 
