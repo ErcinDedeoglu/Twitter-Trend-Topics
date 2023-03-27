@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-27 10:17:38 UTC`
+📆 Last Updated: `2023-03-27 11:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Germany](</Germany>)
 | 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 13 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
 | 14 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 15 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 16 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 15 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 16 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
 | 17 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
 | 18 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
 | 19 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
 | 20 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
 | 21 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 22 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
+| 22 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 23 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 24 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 25 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
-| 26 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 27 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 24 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 25 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 26 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 27 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
 | 28 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 29 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 30 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 31 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
-| 32 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 33 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 34 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 35 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 36 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 37 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 38 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 39 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
-| 40 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 41 | [Pfund](http://twitter.com/search?q=Pfund) | N/A |
-| 42 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 43 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 44 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 45 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 46 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
-| 47 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 48 | [Lächeln](http://twitter.com/search?q=L%c3%a4cheln) | N/A |
-| 49 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 50 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
+| 29 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 30 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 31 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 32 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
+| 33 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
+| 34 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
+| 35 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 36 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 37 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
+| 38 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 39 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 40 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 41 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 42 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
+| 43 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 44 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 45 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
+| 46 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 47 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 48 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 49 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 50 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 
 
 

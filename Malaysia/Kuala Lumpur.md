@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-27 10:17:49 UTC`
+📆 Last Updated: `2023-03-27 11:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 1 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 2 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 3 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 4 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 5 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
-| 6 | [#IVE_KITSCH_RELEASE](http://twitter.com/search?q=%23IVE_KITSCH_RELEASE) | N/A |
-| 7 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 8 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 4 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 5 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 6 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 7 | [JOSHUA](http://twitter.com/search?q=JOSHUA) | N/A |
+| 8 | [#IVE_KITSCH_RELEASE](http://twitter.com/search?q=%23IVE_KITSCH_RELEASE) | N/A |
 | 9 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
 | 10 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
-| 11 | [KITSCH IS OUT NOW](http://twitter.com/search?q=KITSCH+IS+OUT+NOW) | N/A |
-| 12 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 11 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 12 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
 | 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 14 | [Joong](http://twitter.com/search?q=Joong) | N/A |
 | 15 | [GohLai](http://twitter.com/search?q=GohLai) | N/A |
 | 16 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 17 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
+| 17 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
 | 18 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 19 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
-| 20 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 21 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 22 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 24 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 22 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
+| 23 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
+| 24 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
 | 25 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
-| 26 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 27 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
-| 28 | [Jeongwoo](http://twitter.com/search?q=Jeongwoo) | N/A |
-| 29 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
-| 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 31 | [maurice benard](http://twitter.com/search?q=maurice+benard) | N/A |
-| 32 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 33 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 26 | [Jeongwoo](http://twitter.com/search?q=Jeongwoo) | N/A |
+| 27 | [maurice benard](http://twitter.com/search?q=maurice+benard) | N/A |
+| 28 | [Happy Birthday Lisa](http://twitter.com/search?q=Happy+Birthday+Lisa) | N/A |
+| 29 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 30 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 31 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 32 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 33 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
 | 34 | [Sephora](http://twitter.com/search?q=Sephora) | N/A |
-| 35 | [Park Jihoon](http://twitter.com/search?q=Park+Jihoon) | N/A |
-| 36 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
-| 37 | [sudirman cup](http://twitter.com/search?q=sudirman+cup) | N/A |
-| 38 | [Animoca](http://twitter.com/search?q=Animoca) | N/A |
-| 39 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
-| 40 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
-| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 42 | [ceddy](http://twitter.com/search?q=ceddy) | N/A |
-| 43 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 45 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 46 | [ILHOON](http://twitter.com/search?q=ILHOON) | ILHOON is the stage name of Jung Ilhoon, a South Korean singer, rapper, songwriter, and actor. He is a member of the boy group BTOB. The name ILHOON is derived from his given name, Ilhoon. |
-| 47 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 48 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
-| 49 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 50 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 35 | [Animoca](http://twitter.com/search?q=Animoca) | N/A |
+| 36 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 37 | [Park Jihoon](http://twitter.com/search?q=Park+Jihoon) | N/A |
+| 38 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
+| 39 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 40 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 41 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
+| 42 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 43 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 44 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
+| 45 | [Malays](http://twitter.com/search?q=Malays) | N/A |
+| 46 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 47 | [minjae](http://twitter.com/search?q=minjae) | N/A |
+| 48 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 49 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 50 | [Najib](http://twitter.com/search?q=Najib) | N/A |
 
 
 

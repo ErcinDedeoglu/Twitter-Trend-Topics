@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-27 10:18:13 UTC`
+📆 Last Updated: `2023-03-27 11:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for Germany
 | 3 | [#mazi](http://twitter.com/search?q=%23mazi) | N/A |
 | 4 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
 | 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 6 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 7 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
 | 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 9 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
 | 10 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
@@ -29,42 +29,42 @@ This is top 50 for Germany
 | 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 13 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
 | 14 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 15 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 16 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 15 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 16 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
 | 17 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
 | 18 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 19 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
-| 20 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 19 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 20 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
 | 21 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 22 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
+| 22 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 23 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 24 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 25 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 24 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 25 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
 | 26 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 27 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
+| 27 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
 | 28 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 29 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 30 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 31 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
+| 29 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 30 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 31 | [Latif](http://twitter.com/search?q=Latif) | N/A |
 | 32 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 33 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 34 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 35 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 36 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
-| 37 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 38 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 39 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 40 | [Pfund](http://twitter.com/search?q=Pfund) | N/A |
-| 41 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 42 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 43 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
-| 44 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 45 | [Lächeln](http://twitter.com/search?q=L%c3%a4cheln) | N/A |
-| 46 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 47 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 48 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 49 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 50 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
+| 33 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 34 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
+| 35 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 36 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
+| 37 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 38 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
+| 39 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 40 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 41 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 42 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 43 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 44 | [Jahrzehnten](http://twitter.com/search?q=Jahrzehnten) | N/A |
+| 45 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 46 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
+| 47 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 48 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 49 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 50 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
 
 
 

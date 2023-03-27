@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-03-27 10:17:59 UTC`
+📆 Last Updated: `2023-03-27 11:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GameChanger](http://twitter.com/search?q=%23GameChanger) | N/A |
-| 2 | [#PreBookrealmeC55Now](http://twitter.com/search?q=%23PreBookrealmeC55Now) | N/A |
-| 3 | [Freedom For Balochistan](http://twitter.com/search?q=Freedom+For+Balochistan) | N/A |
-| 4 | [#SaveBikeTaxis](http://twitter.com/search?q=%23SaveBikeTaxis) | N/A |
-| 5 | [#HeroesAlsoNeedHelp](http://twitter.com/search?q=%23HeroesAlsoNeedHelp) | N/A |
-| 6 | [#JusticeForStartups](http://twitter.com/search?q=%23JusticeForStartups) | N/A |
-| 7 | [cpjoshi bjp rajasthan](http://twitter.com/search?q=cpjoshi+bjp+rajasthan) | N/A |
-| 8 | [काला जादू](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9c%e0%a4%be%e0%a4%a6%e0%a5%82) | N/A |
-| 9 | [Yash](http://twitter.com/search?q=Yash) | N/A |
-| 10 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 11 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 13 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
-| 14 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 15 | [First Look](http://twitter.com/search?q=First+Look) | N/A |
-| 16 | [बरेली जेल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 17 | [India Bangladesh](http://twitter.com/search?q=India+Bangladesh) | N/A |
-| 18 | [Ajay Devgan](http://twitter.com/search?q=Ajay+Devgan) | N/A |
-| 19 | [तेजस्वी यादव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 1 | [#PreBookrealmeC55Now](http://twitter.com/search?q=%23PreBookrealmeC55Now) | N/A |
+| 2 | [#GameChanger](http://twitter.com/search?q=%23GameChanger) | N/A |
+| 3 | [#Aashiqana3OnHotstar](http://twitter.com/search?q=%23Aashiqana3OnHotstar) | N/A |
+| 4 | [#HeroesAlsoNeedHelp](http://twitter.com/search?q=%23HeroesAlsoNeedHelp) | N/A |
+| 5 | [#Internet4All](http://twitter.com/search?q=%23Internet4All) | N/A |
+| 6 | [Multilingual Internet](http://twitter.com/search?q=Multilingual+Internet) | N/A |
+| 7 | [Freedom For Balochistan](http://twitter.com/search?q=Freedom+For+Balochistan) | N/A |
+| 8 | [RCap SREI Debt Resolution](http://twitter.com/search?q=RCap+SREI+Debt+Resolution) | N/A |
+| 9 | [CONGRATULATIONS JUNGKOOK](http://twitter.com/search?q=CONGRATULATIONS+JUNGKOOK) | N/A |
+| 10 | [Yash](http://twitter.com/search?q=Yash) | N/A |
+| 11 | [3 DAYS TO BHOLAA](http://twitter.com/search?q=3+DAYS+TO+BHOLAA) | N/A |
+| 12 | [काला जादू](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9c%e0%a4%be%e0%a4%a6%e0%a5%82) | N/A |
+| 13 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 14 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 15 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 16 | [First Look](http://twitter.com/search?q=First+Look) | N/A |
+| 17 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 18 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
+| 19 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
 | 20 | [Shardul](http://twitter.com/search?q=Shardul) | N/A |
-| 21 | [गांधी प्रतिमा](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
-| 22 | [श्री रत्नाकर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%95%e0%a4%b0) | N/A |
-| 23 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 24 | [Mega Power Star](http://twitter.com/search?q=Mega+Power+Star) | N/A |
-| 25 | [गुजरात प्रदेश](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 26 | [Badhai](http://twitter.com/search?q=Badhai) | N/A |
-| 27 | [न्यूज चैनल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9c+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
-| 28 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
-| 29 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 31 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 32 | [छठे स्वरूप](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a0%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 21 | [बरेली जेल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 22 | [तेजस्वी यादव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 23 | [गांधी प्रतिमा](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
+| 24 | [गुजरात प्रदेश](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 25 | [श्री रत्नाकर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%95%e0%a4%b0) | N/A |
+| 26 | [न्यूज चैनल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9c+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
+| 27 | [ajay devgan](http://twitter.com/search?q=ajay+devgan) | N/A |
+| 28 | [Mega Power Star](http://twitter.com/search?q=Mega+Power+Star) | N/A |
+| 29 | [Badhai](http://twitter.com/search?q=Badhai) | N/A |
+| 30 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 31 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 32 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
 | 33 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 34 | [Sant Shri Asharamji Gurukul](http://twitter.com/search?q=Sant+Shri+Asharamji+Gurukul) | N/A |
-| 35 | [Bright Future Of Bharat](http://twitter.com/search?q=Bright+Future+Of+Bharat) | N/A |
-| 36 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 37 | [Garu](http://twitter.com/search?q=Garu) | N/A |
-| 38 | [सूर्य उपासना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
-| 39 | [Om Namah Shivay](http://twitter.com/search?q=Om+Namah+Shivay) | N/A |
-| 40 | [#BholaaThisThursday](http://twitter.com/search?q=%23BholaaThisThursday) | N/A |
+| 34 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 35 | [#SaveBikeTaxis](http://twitter.com/search?q=%23SaveBikeTaxis) | N/A |
+| 36 | [#BholaaThisThursday](http://twitter.com/search?q=%23BholaaThisThursday) | N/A |
+| 37 | [#JusticeForStartups](http://twitter.com/search?q=%23JusticeForStartups) | N/A |
+| 38 | [#aajtak](http://twitter.com/search?q=%23aajtak) | N/A |
+| 39 | [#69000_शिक्षकभर्ती_आरक्षण_चोरी](http://twitter.com/search?q=%2369000_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80_%e0%a4%86%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3_%e0%a4%9a%e0%a5%8b%e0%a4%b0%e0%a5%80) | N/A |
+| 40 | [#verifiedbysensibull](http://twitter.com/search?q=%23verifiedbysensibull) | N/A |
 | 41 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 42 | [#HBDRamCharan](http://twitter.com/search?q=%23HBDRamCharan) | N/A |
-| 43 | [#69000_शिक्षकभर्ती_आरक्षण_चोरी](http://twitter.com/search?q=%2369000_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80_%e0%a4%86%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3_%e0%a4%9a%e0%a5%8b%e0%a4%b0%e0%a5%80) | N/A |
-| 44 | [#aajtak](http://twitter.com/search?q=%23aajtak) | N/A |
-| 45 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 42 | [#EPFO](http://twitter.com/search?q=%23EPFO) | N/A |
+| 43 | [#RamCharan](http://twitter.com/search?q=%23RamCharan) | N/A |
+| 44 | [#अतीक़अहमद](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a4%e0%a5%80%e0%a4%95%e0%a4%bc%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
+| 45 | [#हम_भैराराम_के_साथ_है](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ad%e0%a5%88%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88) | N/A |
 | 46 | [#AtiqueAhmed](http://twitter.com/search?q=%23AtiqueAhmed) | N/A |
-| 47 | [#अतीक़अहमद](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a4%e0%a5%80%e0%a4%95%e0%a4%bc%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 48 | [#Chatrapathi](http://twitter.com/search?q=%23Chatrapathi) | N/A |
-| 49 | [#EPFO](http://twitter.com/search?q=%23EPFO) | N/A |
-| 50 | [#हम_भैराराम_के_साथ_है](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ad%e0%a5%88%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88) | N/A |
+| 47 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 48 | [#SteveSmith](http://twitter.com/search?q=%23SteveSmith) | N/A |
+| 49 | [#SansadGherao](http://twitter.com/search?q=%23SansadGherao) | N/A |
+| 50 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
 
 
 

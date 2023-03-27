@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-27 10:18:09 UTC`
+📆 Last Updated: `2023-03-27 11:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 2 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 4 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 5 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 6 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 7 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 8 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 9 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 10 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 11 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 12 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 13 | [#Wordle646](http://twitter.com/search?q=%23Wordle646) | N/A |
-| 14 | [First Citizens Bank](http://twitter.com/search?q=First+Citizens+Bank) | N/A |
-| 15 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 16 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 17 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 18 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 19 | [eShop](http://twitter.com/search?q=eShop) | N/A |
-| 20 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 21 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 22 | [#baddiestwest](http://twitter.com/search?q=%23baddiestwest) | N/A |
-| 23 | [Acola](http://twitter.com/search?q=Acola) | N/A |
-| 24 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 25 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 26 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 27 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 28 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 29 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 30 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 31 | [HAPPY BIRTHDAY UNI](http://twitter.com/search?q=HAPPY+BIRTHDAY+UNI) | N/A |
-| 32 | [Summit](http://twitter.com/search?q=Summit) | N/A |
-| 33 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 34 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
-| 35 | [Post 4](http://twitter.com/search?q=Post+4) | N/A |
-| 36 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
-| 37 | [Slash](http://twitter.com/search?q=Slash) | N/A |
-| 38 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 39 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 40 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 41 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 42 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 43 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 44 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
-| 45 | [Shatner](http://twitter.com/search?q=Shatner) | N/A |
-| 46 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
-| 47 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
-| 48 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
-| 49 | [Coppertone](http://twitter.com/search?q=Coppertone) | N/A |
-| 50 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 3 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 4 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 5 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 6 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 7 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 8 | [#Wordle646](http://twitter.com/search?q=%23Wordle646) | N/A |
+| 9 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 10 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 11 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 12 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 13 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 14 | [#PrinceHarry](http://twitter.com/search?q=%23PrinceHarry) | N/A |
+| 15 | [#GoodKingHarry](http://twitter.com/search?q=%23GoodKingHarry) | N/A |
+| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 17 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 18 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 19 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 20 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 21 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 22 | [eShop](http://twitter.com/search?q=eShop) | N/A |
+| 23 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 24 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 25 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 26 | [Acola](http://twitter.com/search?q=Acola) | N/A |
+| 27 | [HAPPY BIRTHDAY UNI](http://twitter.com/search?q=HAPPY+BIRTHDAY+UNI) | N/A |
+| 28 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 29 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 30 | [Post 4](http://twitter.com/search?q=Post+4) | N/A |
+| 31 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
+| 32 | [Slash](http://twitter.com/search?q=Slash) | N/A |
+| 33 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 34 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 35 | [Summit](http://twitter.com/search?q=Summit) | N/A |
+| 36 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 37 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
+| 38 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 39 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 40 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 41 | [Shatner](http://twitter.com/search?q=Shatner) | N/A |
+| 42 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
+| 43 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 44 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 45 | [#baddiestwest](http://twitter.com/search?q=%23baddiestwest) | N/A |
+| 46 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 47 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 48 | [#Hawkeyes](http://twitter.com/search?q=%23Hawkeyes) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-03-27 10:17:27 UTC`
+📆 Last Updated: `2023-03-27 11:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Mexico](</Mexico>)
 | 8 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
 | 9 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
 | 10 | [Cocca](http://twitter.com/search?q=Cocca) | N/A |
-| 11 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 11 | [#felizdomingo](http://twitter.com/search?q=%23felizdomingo) | N/A |
 | 12 | [#SeleccionMexicana](http://twitter.com/search?q=%23SeleccionMexicana) | N/A |
 | 13 | [#BatallaDeEliminación](http://twitter.com/search?q=%23BatallaDeEliminaci%c3%b3n) | N/A |
 | 14 | [Lainez](http://twitter.com/search?q=Lainez) | Lainez is a Spanish surname. It is derived from the Latin name "Laneus", which means "from the lane". In English, it can be translated to mean "from the lane". |
 | 15 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
 | 16 | [Edson](http://twitter.com/search?q=Edson) | N/A |
-| 17 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 18 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 19 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 20 | [ANIQUILADORES](http://twitter.com/search?q=ANIQUILADORES) | N/A |
-| 21 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 22 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 23 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
-| 24 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 25 | [Jaime Camil](http://twitter.com/search?q=Jaime+Camil) | N/A |
-| 26 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 27 | [TIGER TIGER GO](http://twitter.com/search?q=TIGER+TIGER+GO) | N/A |
-| 28 | [Plan C](http://twitter.com/search?q=Plan+C) | N/A |
-| 29 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 30 | [QUEREMOS CONCIERTO DE MAMAMOO](http://twitter.com/search?q=QUEREMOS+CONCIERTO+DE+MAMAMOO) | N/A |
-| 31 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 32 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 33 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 34 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
-| 35 | [Orbelin](http://twitter.com/search?q=Orbelin) | N/A |
-| 36 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 37 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
-| 38 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 39 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
-| 40 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 41 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 42 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 43 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 44 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 45 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 46 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 47 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 48 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 49 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 50 | [Fase](http://twitter.com/search?q=Fase) | N/A |
+| 17 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 18 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 19 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 20 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 22 | [Televisa](http://twitter.com/search?q=Televisa) | N/A |
+| 23 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
+| 24 | [Jaime Camil](http://twitter.com/search?q=Jaime+Camil) | N/A |
+| 25 | [tiger tiger go](http://twitter.com/search?q=tiger+tiger+go) | N/A |
+| 26 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 27 | [QUEREMOS CONCIERTO DE MAMAMOO](http://twitter.com/search?q=QUEREMOS+CONCIERTO+DE+MAMAMOO) | N/A |
+| 28 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 29 | [Plan C](http://twitter.com/search?q=Plan+C) | N/A |
+| 30 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 31 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 32 | [Orbelin](http://twitter.com/search?q=Orbelin) | N/A |
+| 33 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 34 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 35 | [Luis Chávez](http://twitter.com/search?q=Luis+Ch%c3%a1vez) | N/A |
+| 36 | [Oswaldo](http://twitter.com/search?q=Oswaldo) | N/A |
+| 37 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 38 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 39 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 40 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 41 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 42 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 43 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 44 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 45 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 46 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 47 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 48 | [Ymay](http://twitter.com/search?q=Ymay) | N/A |
+| 49 | [Swedish House Mafia](http://twitter.com/search?q=Swedish+House+Mafia) | N/A |
+| 50 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
 
 
 

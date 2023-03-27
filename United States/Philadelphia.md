@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-27 10:18:08 UTC`
+📆 Last Updated: `2023-03-27 11:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
 | 2 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
 | 3 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
-| 4 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 5 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 6 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 7 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 8 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 10 | [#Wordle646](http://twitter.com/search?q=%23Wordle646) | N/A |
-| 11 | [First Citizens Bank](http://twitter.com/search?q=First+Citizens+Bank) | N/A |
-| 12 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 13 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 14 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 15 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 16 | [eShop](http://twitter.com/search?q=eShop) | N/A |
+| 4 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 5 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 6 | [#Wordle646](http://twitter.com/search?q=%23Wordle646) | N/A |
+| 7 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 8 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 9 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 10 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 11 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 12 | [#PrinceHarry](http://twitter.com/search?q=%23PrinceHarry) | N/A |
+| 13 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 14 | [#GoodKingHarry](http://twitter.com/search?q=%23GoodKingHarry) | N/A |
+| 15 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 16 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 17 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 18 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 19 | [#baddiestwest](http://twitter.com/search?q=%23baddiestwest) | N/A |
-| 20 | [Acola](http://twitter.com/search?q=Acola) | N/A |
-| 21 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 18 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 19 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 20 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 21 | [eShop](http://twitter.com/search?q=eShop) | N/A |
 | 22 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 23 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 24 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 25 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 26 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 23 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 24 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 25 | [Acola](http://twitter.com/search?q=Acola) | N/A |
+| 26 | [HAPPY BIRTHDAY UNI](http://twitter.com/search?q=HAPPY+BIRTHDAY+UNI) | N/A |
 | 27 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 28 | [HAPPY BIRTHDAY UNI](http://twitter.com/search?q=HAPPY+BIRTHDAY+UNI) | N/A |
-| 29 | [Summit](http://twitter.com/search?q=Summit) | N/A |
-| 30 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 31 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
-| 32 | [Post 4](http://twitter.com/search?q=Post+4) | N/A |
-| 33 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
-| 34 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 35 | [Slash](http://twitter.com/search?q=Slash) | N/A |
-| 36 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 37 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 38 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 39 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 40 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 41 | [Braveheart](http://twitter.com/search?q=Braveheart) | N/A |
-| 42 | [Shatner](http://twitter.com/search?q=Shatner) | N/A |
-| 43 | [Go Hawks](http://twitter.com/search?q=Go+Hawks) | N/A |
-| 44 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
-| 45 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
-| 46 | [Coppertone](http://twitter.com/search?q=Coppertone) | N/A |
-| 47 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 48 | [leon kennedy](http://twitter.com/search?q=leon+kennedy) | N/A |
-| 49 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 50 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 28 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 29 | [Post 4](http://twitter.com/search?q=Post+4) | N/A |
+| 30 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
+| 31 | [Slash](http://twitter.com/search?q=Slash) | N/A |
+| 32 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 33 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 34 | [Summit](http://twitter.com/search?q=Summit) | N/A |
+| 35 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 36 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
+| 37 | [Tweek](http://twitter.com/search?q=Tweek) | Tweek is a slang term used to describe someone who is overly anxious or nervous. It can also be used to describe someone who is easily agitated or excitable. |
+| 38 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 39 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
+| 40 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 41 | [Shatner](http://twitter.com/search?q=Shatner) | N/A |
+| 42 | [Adam Sandler](http://twitter.com/search?q=Adam+Sandler) | N/A |
+| 43 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 44 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 45 | [#baddiestwest](http://twitter.com/search?q=%23baddiestwest) | N/A |
+| 46 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 47 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 48 | [#Hawkeyes](http://twitter.com/search?q=%23Hawkeyes) | N/A |
+| 49 | [#seekingbrotherhusband](http://twitter.com/search?q=%23seekingbrotherhusband) | N/A |
 
 
 
