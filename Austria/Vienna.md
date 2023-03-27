@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-27 07:18:57 UTC`
+📆 Last Updated: `2023-03-27 08:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#w2703](http://twitter.com/search?q=%23w2703) | N/A |
-| 2 | [#imZentrum](http://twitter.com/search?q=%23imZentrum) | N/A |
-| 3 | [#BlockGas](http://twitter.com/search?q=%23BlockGas) | N/A |
-| 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 2 | [#BlockGas](http://twitter.com/search?q=%23BlockGas) | N/A |
+| 3 | [#imZentrum](http://twitter.com/search?q=%23imZentrum) | N/A |
+| 4 | [Pfefferspray](http://twitter.com/search?q=Pfefferspray) | N/A |
 | 5 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 6 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
-| 7 | [Dunst](http://twitter.com/search?q=Dunst) | N/A |
-| 8 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
-| 9 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 10 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 11 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 6 | [Dunst](http://twitter.com/search?q=Dunst) | N/A |
+| 7 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
+| 8 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 9 | [#EuropeanGasConference](http://twitter.com/search?q=%23EuropeanGasConference) | N/A |
+| 10 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 11 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
 | 12 | [Christine](http://twitter.com/search?q=Christine) | N/A |
 | 13 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 14 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 15 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 16 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 17 | [sackerl](http://twitter.com/search?q=sackerl) | N/A |
-| 18 | [Kogler](http://twitter.com/search?q=Kogler) | N/A |
-| 19 | [Zitat](http://twitter.com/search?q=Zitat) | N/A |
-| 20 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 21 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 22 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 23 | [Tarek Leitner](http://twitter.com/search?q=Tarek+Leitner) | N/A |
-| 24 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
-| 25 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
-| 26 | [kabel](http://twitter.com/search?q=kabel) | N/A |
-| 27 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
-| 28 | [Widerspruch](http://twitter.com/search?q=Widerspruch) | N/A |
-| 29 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 30 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 31 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 32 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 33 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 34 | [grosz](http://twitter.com/search?q=grosz) | N/A |
-| 35 | [Hürden](http://twitter.com/search?q=H%c3%bcrden) | N/A |
-| 36 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 37 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 38 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 14 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 15 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 16 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 17 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 18 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 19 | [sackerl](http://twitter.com/search?q=sackerl) | N/A |
+| 20 | [Kogler](http://twitter.com/search?q=Kogler) | N/A |
+| 21 | [Zitat](http://twitter.com/search?q=Zitat) | N/A |
+| 22 | [Tarek Leitner](http://twitter.com/search?q=Tarek+Leitner) | N/A |
+| 23 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 24 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
+| 25 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 26 | [Babler](http://twitter.com/search?q=Babler) | N/A |
+| 27 | [Aktien](http://twitter.com/search?q=Aktien) | N/A |
+| 28 | [Kabel](http://twitter.com/search?q=Kabel) | N/A |
+| 29 | [Widerspruch](http://twitter.com/search?q=Widerspruch) | N/A |
+| 30 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 31 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 32 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 33 | [Grosz](http://twitter.com/search?q=Grosz) | N/A |
+| 34 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
+| 35 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 36 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 37 | [Überblick](http://twitter.com/search?q=%c3%9cberblick) | N/A |
+| 38 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
 | 39 | [Landesabgabe](http://twitter.com/search?q=Landesabgabe) | N/A |
 | 40 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
-| 41 | [Protest](http://twitter.com/search?q=Protest) | N/A |
-| 42 | [Brücken](http://twitter.com/search?q=Br%c3%bccken) | N/A |
-| 43 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
-| 44 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 45 | [Kellernazis](http://twitter.com/search?q=Kellernazis) | N/A |
-| 46 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 47 | [Motor](http://twitter.com/search?q=Motor) | N/A |
+| 41 | [Brücken](http://twitter.com/search?q=Br%c3%bccken) | N/A |
+| 42 | [E-Fuels](http://twitter.com/search?q=E-Fuels) | N/A |
+| 43 | [Bevölkerung](http://twitter.com/search?q=Bev%c3%b6lkerung) | N/A |
+| 44 | [Kellernazis](http://twitter.com/search?q=Kellernazis) | N/A |
+| 45 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 46 | [Motor](http://twitter.com/search?q=Motor) | N/A |
+| 47 | [Klimaterroristen](http://twitter.com/search?q=Klimaterroristen) | N/A |
 | 48 | [Plätze](http://twitter.com/search?q=Pl%c3%a4tze) | N/A |
-| 49 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 50 | [karl nehammer](http://twitter.com/search?q=karl+nehammer) | N/A |
+| 49 | [Steirer](http://twitter.com/search?q=Steirer) | N/A |
+| 50 | [Karl Nehammer](http://twitter.com/search?q=Karl+Nehammer) | N/A |
 
 
 

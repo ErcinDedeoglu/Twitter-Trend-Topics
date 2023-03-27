@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-27 07:19:23 UTC`
+📆 Last Updated: `2023-03-27 08:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,40 +19,49 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#KöksalEngür](http://twitter.com/search?q=%23K%c3%b6ksalEng%c3%bcr) | N/A |
 | 3 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
 | 4 | [#TelAviv](http://twitter.com/search?q=%23TelAviv) | N/A |
-| 5 | [#2000lerKabineye](http://twitter.com/search?q=%232000lerKabineye) | N/A |
+| 5 | [#DünyaTiyatroGünü](http://twitter.com/search?q=%23D%c3%bcnyaTiyatroG%c3%bcn%c3%bc) | N/A |
 | 6 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 7 | [Felaketler SonBulacak](http://twitter.com/search?q=Felaketler+SonBulacak) | N/A |
-| 8 | [Red Kit](http://twitter.com/search?q=Red+Kit) | N/A |
-| 9 | [Tayyibe Merve Çakar](http://twitter.com/search?q=Tayyibe+Merve+%c3%87akar) | N/A |
-| 10 | [Taliban İttifakı](http://twitter.com/search?q=Taliban+%c4%b0ttifak%c4%b1) | N/A |
-| 11 | [Sonumuz Türkiye](http://twitter.com/search?q=Sonumuz+T%c3%bcrkiye) | N/A |
-| 12 | [Mecnun](http://twitter.com/search?q=Mecnun) | N/A |
-| 13 | [Seslendirme](http://twitter.com/search?q=Seslendirme) | N/A |
-| 14 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 15 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
-| 16 | [Büdü](http://twitter.com/search?q=B%c3%bcd%c3%bc) | N/A |
-| 17 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
-| 18 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 19 | [Atatürkçülük](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
-| 20 | [Uzaya](http://twitter.com/search?q=Uzaya) | N/A |
-| 21 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 22 | [Beter](http://twitter.com/search?q=Beter) | N/A |
-| 23 | [Baban](http://twitter.com/search?q=Baban) | N/A |
-| 24 | [Hayırlı Sahurlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sahurlar) | N/A |
-| 25 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
-| 26 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
-| 27 | [#27MartDünyaTiyatroGünü](http://twitter.com/search?q=%2327MartD%c3%bcnyaTiyatroG%c3%bcn%c3%bc) | N/A |
-| 28 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
-| 29 | [#şaşırdım](http://twitter.com/search?q=%23%c5%9fa%c5%9f%c4%b1rd%c4%b1m) | N/A |
-| 30 | [#EğriyeEğriDoğruyaDoğru](http://twitter.com/search?q=%23E%c4%9friyeE%c4%9friDo%c4%9fruyaDo%c4%9fru) | N/A |
-| 31 | [#StajyereBayramOlsun](http://twitter.com/search?q=%23StajyereBayramOlsun) | N/A |
-| 32 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
-| 33 | [#BayraktarTB3](http://twitter.com/search?q=%23BayraktarTB3) | N/A |
-| 34 | [#BizKimdenKaçıyordukAnne](http://twitter.com/search?q=%23BizKimdenKa%c3%a7%c4%b1yordukAnne) | N/A |
-| 35 | [#Filistin](http://twitter.com/search?q=%23Filistin) | N/A |
-| 36 | [#Mazi](http://twitter.com/search?q=%23Mazi) | N/A |
-| 37 | [#YeniProfilResmi](http://twitter.com/search?q=%23YeniProfilResmi) | N/A |
-| 38 | [#KIZILELMA](http://twitter.com/search?q=%23KIZILELMA) | N/A |
+| 7 | [Taliban İttifakı](http://twitter.com/search?q=Taliban+%c4%b0ttifak%c4%b1) | N/A |
+| 8 | [Faik](http://twitter.com/search?q=Faik) | N/A |
+| 9 | [Kütüphane Haftası](http://twitter.com/search?q=K%c3%bct%c3%bcphane+Haftas%c4%b1) | N/A |
+| 10 | [Tayyibe Merve Çakar](http://twitter.com/search?q=Tayyibe+Merve+%c3%87akar) | N/A |
+| 11 | [Mustafa Ata Traş](http://twitter.com/search?q=Mustafa+Ata+Tra%c5%9f) | N/A |
+| 12 | [Red Kit](http://twitter.com/search?q=Red+Kit) | N/A |
+| 13 | [Yılmaz Erdoğan](http://twitter.com/search?q=Y%c4%b1lmaz+Erdo%c4%9fan) | N/A |
+| 14 | [Mecnun](http://twitter.com/search?q=Mecnun) | N/A |
+| 15 | [Sonumuz Türkiye](http://twitter.com/search?q=Sonumuz+T%c3%bcrkiye) | N/A |
+| 16 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 17 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
+| 18 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
+| 19 | [Seslendirme](http://twitter.com/search?q=Seslendirme) | N/A |
+| 20 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
+| 21 | [Koalisyon](http://twitter.com/search?q=Koalisyon) | N/A |
+| 22 | [Büdü](http://twitter.com/search?q=B%c3%bcd%c3%bc) | N/A |
+| 23 | [Atatürkçülük](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
+| 24 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
+| 25 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 26 | [Atatürkün](http://twitter.com/search?q=Atat%c3%bcrk%c3%bcn) | N/A |
+| 27 | [Varank](http://twitter.com/search?q=Varank) | N/A |
+| 28 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
+| 29 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 30 | [Uzaya](http://twitter.com/search?q=Uzaya) | N/A |
+| 31 | [Baban](http://twitter.com/search?q=Baban) | N/A |
+| 32 | [Beter](http://twitter.com/search?q=Beter) | N/A |
+| 33 | [İpek](http://twitter.com/search?q=%c4%b0pek) | N/A |
+| 34 | [#2000lerKabineye](http://twitter.com/search?q=%232000lerKabineye) | N/A |
+| 35 | [#StajyereBayramOlsun](http://twitter.com/search?q=%23StajyereBayramOlsun) | N/A |
+| 36 | [#EğriyeEğriDoğruyaDoğru](http://twitter.com/search?q=%23E%c4%9friyeE%c4%9friDo%c4%9fruyaDo%c4%9fru) | N/A |
+| 37 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 38 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
+| 39 | [#şaşırdım](http://twitter.com/search?q=%23%c5%9fa%c5%9f%c4%b1rd%c4%b1m) | N/A |
+| 40 | [#BayraktarTB3](http://twitter.com/search?q=%23BayraktarTB3) | N/A |
+| 41 | [#mutluhaftalar](http://twitter.com/search?q=%23mutluhaftalar) | N/A |
+| 42 | [#FikriArıkan](http://twitter.com/search?q=%23FikriAr%c4%b1kan) | N/A |
+| 43 | [#BizKimdenKaçıyordukAnne](http://twitter.com/search?q=%23BizKimdenKa%c3%a7%c4%b1yordukAnne) | N/A |
+| 44 | [#Filistin](http://twitter.com/search?q=%23Filistin) | N/A |
+| 45 | [#ABOvePRİMfarkınaMÜJDEgelsin](http://twitter.com/search?q=%23ABOvePR%c4%b0Mfark%c4%b1naM%c3%9cJDEgelsin) | N/A |
+| 46 | [#YeniProfilResmi](http://twitter.com/search?q=%23YeniProfilResmi) | N/A |
+| 47 | [#KIZILELMA](http://twitter.com/search?q=%23KIZILELMA) | N/A |
 
 
 

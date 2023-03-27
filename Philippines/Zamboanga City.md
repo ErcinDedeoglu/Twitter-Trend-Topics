@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-27 07:19:12 UTC`
+📆 Last Updated: `2023-03-27 08:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 2 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 3 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 4 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 2 | [#BORNPINKinManila_BulacanD2](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD2) | N/A |
+| 3 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 4 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 5 | [KDLEX TWOgether IN JAPAN](http://twitter.com/search?q=KDLEX+TWOgether+IN+JAPAN) | N/A |
-| 6 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
-| 7 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 8 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 9 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 10 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 11 | [MYEONZART IS COMING](http://twitter.com/search?q=MYEONZART+IS+COMING) | N/A |
-| 12 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 13 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
-| 14 | [YOONMIN](http://twitter.com/search?q=YOONMIN) | N/A |
-| 15 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 16 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 17 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
-| 18 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 19 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 20 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
-| 21 | [NEW MOVIES](http://twitter.com/search?q=NEW+MOVIES) | N/A |
-| 22 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 23 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
-| 24 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
-| 25 | [happy birthday xiumin](http://twitter.com/search?q=happy+birthday+xiumin) | N/A |
-| 26 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 27 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
-| 28 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 29 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
-| 30 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 31 | [THIRD STORY](http://twitter.com/search?q=THIRD+STORY) | N/A |
-| 32 | [Narra](http://twitter.com/search?q=Narra) | N/A |
-| 33 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
-| 34 | [Jiyong](http://twitter.com/search?q=Jiyong) | N/A |
-| 35 | [Xiaojun](http://twitter.com/search?q=Xiaojun) | N/A |
-| 36 | [Boombayah](http://twitter.com/search?q=Boombayah) | N/A |
-| 37 | [EVERYONE SILENT](http://twitter.com/search?q=EVERYONE+SILENT) | N/A |
-| 38 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 39 | [Malabon City](http://twitter.com/search?q=Malabon+City) | N/A |
-| 40 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 41 | [Yangyang](http://twitter.com/search?q=Yangyang) | N/A |
-| 42 | [FIRST EYE CONTACT](http://twitter.com/search?q=FIRST+EYE+CONTACT) | N/A |
-| 43 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 44 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
-| 45 | [TXT MEMORIES](http://twitter.com/search?q=TXT+MEMORIES) | N/A |
-| 46 | [Be You](http://twitter.com/search?q=Be+You) | N/A |
-| 47 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 48 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 49 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
+| 6 | [#NewMovieAlertKathryn](http://twitter.com/search?q=%23NewMovieAlertKathryn) | N/A |
+| 7 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
+| 8 | [YOONMIN](http://twitter.com/search?q=YOONMIN) | N/A |
+| 9 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 10 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 11 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 12 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 13 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 14 | [KITSCH IS OUT NOW](http://twitter.com/search?q=KITSCH+IS+OUT+NOW) | N/A |
+| 15 | [MONDAY MAN IS BACK](http://twitter.com/search?q=MONDAY+MAN+IS+BACK) | N/A |
+| 16 | [HAPPY MONJAY](http://twitter.com/search?q=HAPPY+MONJAY) | N/A |
+| 17 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 18 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
+| 19 | [MYEONZART IS COMING](http://twitter.com/search?q=MYEONZART+IS+COMING) | N/A |
+| 20 | [QUEEN KATHRYN DAY](http://twitter.com/search?q=QUEEN+KATHRYN+DAY) | N/A |
+| 21 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 22 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 23 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
+| 24 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 25 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
+| 26 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 27 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
+| 28 | [happy birthday xiumin](http://twitter.com/search?q=happy+birthday+xiumin) | N/A |
+| 29 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
+| 30 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
+| 31 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 32 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
+| 33 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
+| 34 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 35 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
+| 36 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
+| 37 | [Narra](http://twitter.com/search?q=Narra) | N/A |
+| 38 | [Pulp](http://twitter.com/search?q=Pulp) | N/A |
+| 39 | [Jiyong](http://twitter.com/search?q=Jiyong) | N/A |
+| 40 | [Park Jongseong](http://twitter.com/search?q=Park+Jongseong) | N/A |
+| 41 | [Xiaojun](http://twitter.com/search?q=Xiaojun) | N/A |
+| 42 | [Boombayah](http://twitter.com/search?q=Boombayah) | N/A |
+| 43 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 44 | [LIFE UPDATE](http://twitter.com/search?q=LIFE+UPDATE) | N/A |
+| 45 | [FIRST EYE CONTACT](http://twitter.com/search?q=FIRST+EYE+CONTACT) | N/A |
+| 46 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 47 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
+| 48 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
+| 49 | [Yangyang](http://twitter.com/search?q=Yangyang) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-27 07:19:13 UTC`
+📆 Last Updated: `2023-03-27 08:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,13 +33,13 @@ This is top 50 for [Algeria](</Algeria>)
 | 16 | [Brésil](http://twitter.com/search?q=Br%c3%a9sil) | N/A |
 | 17 | [الحرب الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
 | 18 | [عبد الصمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b5%d9%85%d8%af) | N/A |
-| 19 | [الاتحاد الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 20 | [علي الساحر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1) | N/A |
-| 21 | [Le Maroc](http://twitter.com/search?q=Le+Maroc) | N/A |
-| 22 | [سويسرا](http://twitter.com/search?q=%d8%b3%d9%88%d9%8a%d8%b3%d8%b1%d8%a7) | N/A |
-| 23 | [الكيان الغاصب](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d8%b5%d8%a8) | N/A |
-| 24 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 25 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 19 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 20 | [الاتحاد الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 21 | [علي الساحر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1) | N/A |
+| 22 | [Le Maroc](http://twitter.com/search?q=Le+Maroc) | N/A |
+| 23 | [سويسرا](http://twitter.com/search?q=%d8%b3%d9%88%d9%8a%d8%b3%d8%b1%d8%a7) | N/A |
+| 24 | [الكيان الغاصب](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d8%b5%d8%a8) | N/A |
+| 25 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 26 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
 | 27 | [الموسم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 28 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for [Algeria](</Algeria>)
 | 32 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
 | 33 | [الاتحاديه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 34 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 35 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
-| 36 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 37 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 38 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
-| 39 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 40 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 41 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 42 | [ابي عبد المعز](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%b9%d8%b2) | N/A |
-| 43 | [الدوله الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
-| 44 | [علي الدين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 45 | [Masterclass](http://twitter.com/search?q=Masterclass) | N/A |
+| 35 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 36 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 37 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 38 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 39 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
+| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 41 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
+| 42 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 43 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 44 | [ابي عبد المعز](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d8%b9%d8%b2) | N/A |
+| 45 | [الدوله الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | N/A |
 | 46 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 48 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 49 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 50 | [وفرنسا](http://twitter.com/search?q=%d9%88%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 47 | [الايام القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
+| 48 | [الابالله العلي العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 49 | [وفرنسا](http://twitter.com/search?q=%d9%88%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 50 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-27 07:19:20 UTC`
+📆 Last Updated: `2023-03-27 08:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 8 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
 | 9 | [ZAMAN KHAN](http://twitter.com/search?q=ZAMAN+KHAN) | N/A |
 | 10 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 11 | [Islamabad High Court](http://twitter.com/search?q=Islamabad+High+Court) | N/A |
-| 12 | [Amir Sohail](http://twitter.com/search?q=Amir+Sohail) | N/A |
-| 13 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 14 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
-| 15 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 16 | [f for full house](http://twitter.com/search?q=f+for+full+house) | N/A |
-| 17 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 18 | [vote for railway engine](http://twitter.com/search?q=vote+for+railway+engine) | N/A |
+| 11 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 12 | [Abdullah Shafique](http://twitter.com/search?q=Abdullah+Shafique) | N/A |
+| 13 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 14 | [f for full house](http://twitter.com/search?q=f+for+full+house) | N/A |
+| 15 | [Amir sohail](http://twitter.com/search?q=Amir+sohail) | N/A |
+| 16 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
+| 17 | [vote for railway engine](http://twitter.com/search?q=vote+for+railway+engine) | N/A |
+| 18 | [T20I](http://twitter.com/search?q=T20I) | N/A |
 | 19 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
-| 20 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 21 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 22 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 23 | [simon doull](http://twitter.com/search?q=simon+doull) | N/A |
-| 24 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
-| 25 | [Tayyab](http://twitter.com/search?q=Tayyab) | N/A |
-| 26 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 27 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
-| 28 | [Interior Minister](http://twitter.com/search?q=Interior+Minister) | N/A |
-| 29 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 30 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 31 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 32 | [Flop](http://twitter.com/search?q=Flop) | N/A |
-| 33 | [Strike](http://twitter.com/search?q=Strike) | N/A |
-| 34 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 35 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
-| 36 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
-| 37 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
-| 38 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 20 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 21 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 22 | [simon doull](http://twitter.com/search?q=simon+doull) | N/A |
+| 23 | [Hockey](http://twitter.com/search?q=Hockey) | N/A |
+| 24 | [tayyab](http://twitter.com/search?q=tayyab) | N/A |
+| 25 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 26 | [Sharjah](http://twitter.com/search?q=Sharjah) | N/A |
+| 27 | [Interior Minister](http://twitter.com/search?q=Interior+Minister) | N/A |
+| 28 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 29 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
+| 30 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 31 | [Flop](http://twitter.com/search?q=Flop) | N/A |
+| 32 | [Strike](http://twitter.com/search?q=Strike) | N/A |
+| 33 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
+| 34 | [Centurion](http://twitter.com/search?q=Centurion) | N/A |
+| 35 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
+| 36 | [Fawad](http://twitter.com/search?q=Fawad) | N/A |
+| 37 | [Courts](http://twitter.com/search?q=Courts) | N/A |
+| 38 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 39 | [Positive](http://twitter.com/search?q=Positive) | N/A |
-| 40 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 41 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
+| 40 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
+| 41 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
 | 42 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 43 | [Well Done](http://twitter.com/search?q=Well+Done) | N/A |
-| 44 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 44 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
 | 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 46 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 46 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
 | 47 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 48 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 49 | [Legit](http://twitter.com/search?q=Legit) | N/A |
-| 50 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 48 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 49 | [Baloch](http://twitter.com/search?q=Baloch) | N/A |
+| 50 | [Ameeeeen](http://twitter.com/search?q=Ameeeeen) | N/A |
 
 
 

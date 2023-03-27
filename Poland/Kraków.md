@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-27 07:18:56 UTC`
+📆 Last Updated: `2023-03-27 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#jedziemy](http://twitter.com/search?q=%23jedziemy) | N/A |
-| 2 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 3 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 4 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 5 | [Mentzena](http://twitter.com/search?q=Mentzena) | N/A |
-| 6 | [#PiStoPolexit](http://twitter.com/search?q=%23PiStoPolexit) | N/A |
+| 1 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 2 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 4 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
+| 5 | [#PiStoPolexit](http://twitter.com/search?q=%23PiStoPolexit) | N/A |
+| 6 | [Mentzena](http://twitter.com/search?q=Mentzena) | N/A |
 | 7 | [#POLALB](http://twitter.com/search?q=%23POLALB) | N/A |
-| 8 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
-| 9 | [#czepol](http://twitter.com/search?q=%23czepol) | N/A |
+| 8 | [#jedziemy](http://twitter.com/search?q=%23jedziemy) | N/A |
+| 9 | [#CZEPOL](http://twitter.com/search?q=%23CZEPOL) | N/A |
 | 10 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
 | 11 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 12 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 13 | [Poniedziałek](http://twitter.com/search?q=Poniedzia%c5%82ek) | N/A |
-| 14 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 15 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 16 | [NSDAP](http://twitter.com/search?q=NSDAP) | N/A |
-| 17 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 18 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
-| 19 | [Żakowski](http://twitter.com/search?q=%c5%bbakowski) | N/A |
-| 20 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
-| 21 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
-| 22 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
-| 23 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
-| 24 | [Tottenhamu](http://twitter.com/search?q=Tottenhamu) | N/A |
-| 25 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
-| 26 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 27 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
-| 28 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
-| 29 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
-| 30 | [Kazachstan](http://twitter.com/search?q=Kazachstan) | N/A |
-| 31 | [kaja godek](http://twitter.com/search?q=kaja+godek) | N/A |
-| 32 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
-| 33 | [Ryoyu Kobayashi](http://twitter.com/search?q=Ryoyu+Kobayashi) | N/A |
-| 34 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
-| 35 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 36 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 37 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
-| 38 | [friz](http://twitter.com/search?q=friz) | N/A |
-| 39 | [pięknej](http://twitter.com/search?q=pi%c4%99knej) | N/A |
-| 40 | [piorun](http://twitter.com/search?q=piorun) | N/A |
-| 41 | [Baltic Pipe](http://twitter.com/search?q=Baltic+Pipe) | N/A |
+| 12 | [Poniedziałek](http://twitter.com/search?q=Poniedzia%c5%82ek) | N/A |
+| 13 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 14 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 15 | [NSDAP](http://twitter.com/search?q=NSDAP) | N/A |
+| 16 | [Międzynarodowy Dzień Teatru](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Dzie%c5%84+Teatru) | N/A |
+| 17 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
+| 18 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
+| 19 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
+| 20 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 21 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 22 | [Tottenhamu](http://twitter.com/search?q=Tottenhamu) | N/A |
+| 23 | [Żakowski](http://twitter.com/search?q=%c5%bbakowski) | N/A |
+| 24 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
+| 25 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
+| 26 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 27 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 28 | [Korwina](http://twitter.com/search?q=Korwina) | N/A |
+| 29 | [Kazachstan](http://twitter.com/search?q=Kazachstan) | N/A |
+| 30 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
+| 31 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
+| 32 | [ryoyu kobayashi](http://twitter.com/search?q=ryoyu+kobayashi) | N/A |
+| 33 | [kamil stoch](http://twitter.com/search?q=kamil+stoch) | N/A |
+| 34 | [Tyszka](http://twitter.com/search?q=Tyszka) | N/A |
+| 35 | [friz](http://twitter.com/search?q=friz) | N/A |
+| 36 | [pięknej](http://twitter.com/search?q=pi%c4%99knej) | N/A |
+| 37 | [Panie Dominiku](http://twitter.com/search?q=Panie+Dominiku) | N/A |
+| 38 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
+| 39 | [hubi](http://twitter.com/search?q=hubi) | N/A |
+| 40 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 41 | [Paczul](http://twitter.com/search?q=Paczul) | N/A |
 | 42 | [Wieczny](http://twitter.com/search?q=Wieczny) | N/A |
-| 43 | [Hubi](http://twitter.com/search?q=Hubi) | N/A |
-| 44 | [Panie](http://twitter.com/search?q=Panie) | N/A |
-| 45 | [Wyjątkowy](http://twitter.com/search?q=Wyj%c4%85tkowy) | N/A |
+| 43 | [Zera](http://twitter.com/search?q=Zera) | N/A |
+| 44 | [Baltic Pipe](http://twitter.com/search?q=Baltic+Pipe) | N/A |
+| 45 | [Unii](http://twitter.com/search?q=Unii) | N/A |
 | 46 | [Skra](http://twitter.com/search?q=Skra) | N/A |
-| 47 | [Paczul](http://twitter.com/search?q=Paczul) | N/A |
-| 48 | [flaki](http://twitter.com/search?q=flaki) | N/A |
-| 49 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 50 | [Normalny](http://twitter.com/search?q=Normalny) | N/A |
+| 47 | [flaki](http://twitter.com/search?q=flaki) | N/A |
+| 48 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 49 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 50 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-03-27 07:18:54 UTC`
+📆 Last Updated: `2023-03-27 08:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 2 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 3 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
-| 4 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 5 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 6 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 7 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
-| 8 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 9 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 10 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 11 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 1 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 2 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
+| 3 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
+| 4 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 5 | [beira rio](http://twitter.com/search?q=beira+rio) | N/A |
+| 6 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
+| 7 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
+| 8 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 9 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 10 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 11 | [#ForaMosca](http://twitter.com/search?q=%23ForaMosca) | N/A |
 | 12 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
 | 13 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
 | 14 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
-| 15 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 16 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 15 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 16 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
 | 17 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
-| 18 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 19 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
-| 20 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 21 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
-| 22 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
-| 23 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 24 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
-| 25 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 26 | [tony stark](http://twitter.com/search?q=tony+stark) | N/A |
-| 27 | [Falso](http://twitter.com/search?q=Falso) | N/A |
-| 28 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 29 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 30 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 31 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
-| 32 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 33 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 34 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
-| 35 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
-| 36 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 37 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 38 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
-| 39 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 40 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
-| 41 | [Cumanda](http://twitter.com/search?q=Cumanda) | N/A |
-| 42 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
-| 43 | [As 4](http://twitter.com/search?q=As+4) | N/A |
-| 44 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 45 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 46 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 47 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
-| 48 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 49 | [daiki](http://twitter.com/search?q=daiki) | N/A |
-| 50 | [Tove Lo](http://twitter.com/search?q=Tove+Lo) | N/A |
+| 18 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 19 | [DRAYMOND GREEN](http://twitter.com/search?q=DRAYMOND+GREEN) | N/A |
+| 20 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 21 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 22 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 23 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 24 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 25 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
+| 26 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 27 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 28 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
+| 29 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
+| 30 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 31 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 32 | [As 4](http://twitter.com/search?q=As+4) | N/A |
+| 33 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 34 | [baco](http://twitter.com/search?q=baco) | N/A |
+| 35 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
+| 36 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
+| 37 | [Laritruce](http://twitter.com/search?q=Laritruce) | N/A |
+| 38 | [rosy](http://twitter.com/search?q=rosy) | N/A |
+| 39 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 40 | [#ColdplayRio](http://twitter.com/search?q=%23ColdplayRio) | N/A |
 
 
 

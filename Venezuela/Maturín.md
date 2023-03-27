@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-03-27 07:18:56 UTC`
+📆 Last Updated: `2023-03-27 08:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#26Mar](http://twitter.com/search?q=%2326Mar) | N/A |
 | 2 | [#ManoDuraABandasCorruptas](http://twitter.com/search?q=%23ManoDuraABandasCorruptas) | N/A |
 | 3 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 4 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 4 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
 | 5 | [Lanco](http://twitter.com/search?q=Lanco) | N/A |
 | 6 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
 | 7 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 16 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 17 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
 | 18 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 19 | [Fido Dido](http://twitter.com/search?q=Fido+Dido) | N/A |
+| 19 | [fido dido](http://twitter.com/search?q=fido+dido) | N/A |
 | 20 | [Marco Antonio Muñiz](http://twitter.com/search?q=Marco+Antonio+Mu%c3%b1iz) | N/A |
 | 21 | [teresa carreño](http://twitter.com/search?q=teresa+carre%c3%b1o) | N/A |
 | 22 | [Trululu](http://twitter.com/search?q=Trululu) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 29 | [día mundial del clima](http://twitter.com/search?q=d%c3%ada+mundial+del+clima) | N/A |
 | 30 | [Burt Reynolds](http://twitter.com/search?q=Burt+Reynolds) | N/A |
 | 31 | [Milton](http://twitter.com/search?q=Milton) | N/A |
-| 32 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
-| 33 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 34 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 35 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 36 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 32 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 33 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
+| 34 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 35 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 36 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
 | 37 | [La Asunción](http://twitter.com/search?q=La+Asunci%c3%b3n) | N/A |
-| 38 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 39 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
-| 40 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 41 | [Verónica Castro](http://twitter.com/search?q=Ver%c3%b3nica+Castro) | N/A |
-| 42 | [Alberto Ramos](http://twitter.com/search?q=Alberto+Ramos) | N/A |
+| 38 | [Verónica Castro](http://twitter.com/search?q=Ver%c3%b3nica+Castro) | N/A |
+| 39 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 40 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
+| 41 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 42 | [alberto ramos](http://twitter.com/search?q=alberto+ramos) | N/A |
 | 43 | [bendecido domingo](http://twitter.com/search?q=bendecido+domingo) | N/A |
-| 44 | [Jorge Palacios](http://twitter.com/search?q=Jorge+Palacios) | N/A |
-| 45 | [albóndiga](http://twitter.com/search?q=alb%c3%b3ndiga) | N/A |
-| 46 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 47 | [forza di oro](http://twitter.com/search?q=forza+di+oro) | N/A |
-| 48 | [comandante hugo chávez](http://twitter.com/search?q=comandante+hugo+ch%c3%a1vez) | N/A |
-| 49 | [UN AÑO YULERIA](http://twitter.com/search?q=UN+A%c3%91O+YULERIA) | N/A |
-| 50 | [Rocío Durcal](http://twitter.com/search?q=Roc%c3%ado+Durcal) | N/A |
+| 44 | [albóndiga](http://twitter.com/search?q=alb%c3%b3ndiga) | N/A |
+| 45 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 46 | [forza di oro](http://twitter.com/search?q=forza+di+oro) | N/A |
+| 47 | [comandante hugo chávez](http://twitter.com/search?q=comandante+hugo+ch%c3%a1vez) | N/A |
+| 48 | [un año yuleria](http://twitter.com/search?q=un+a%c3%b1o+yuleria) | N/A |
+| 49 | [Rocío Durcal](http://twitter.com/search?q=Roc%c3%ado+Durcal) | N/A |
+| 50 | [El 26](http://twitter.com/search?q=El+26) | N/A |
 
 
 

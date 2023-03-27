@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-27 07:18:48 UTC`
+📆 Last Updated: `2023-03-27 08:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,10 +25,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 8 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
 | 9 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
 | 10 | [#queremospannocirco](http://twitter.com/search?q=%23queremospannocirco) | N/A |
-| 11 | [#CarnavalSDN2023](http://twitter.com/search?q=%23CarnavalSDN2023) | N/A |
+| 11 | [#carnavalsdn2023](http://twitter.com/search?q=%23carnavalsdn2023) | N/A |
 | 12 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
 | 13 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
-| 14 | [UN AÑO YULERIA](http://twitter.com/search?q=UN+A%c3%91O+YULERIA) | N/A |
+| 14 | [un año yuleria](http://twitter.com/search?q=un+a%c3%b1o+yuleria) | N/A |
 | 15 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
 | 16 | [Plaza de la Bandera](http://twitter.com/search?q=Plaza+de+la+Bandera) | N/A |
 | 17 | [Miguel Vargas](http://twitter.com/search?q=Miguel+Vargas) | N/A |
@@ -41,11 +41,11 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 24 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
 | 25 | [Dictador](http://twitter.com/search?q=Dictador) | N/A |
 | 26 | [Defendiendo](http://twitter.com/search?q=Defendiendo) | N/A |
-| 27 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
+| 27 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
 | 28 | [fiordaliza pichardo](http://twitter.com/search?q=fiordaliza+pichardo) | N/A |
 | 29 | [laura acosta](http://twitter.com/search?q=laura+acosta) | N/A |
 | 30 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
-| 31 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
+| 31 | [guillermo moreno](http://twitter.com/search?q=guillermo+moreno) | N/A |
 | 32 | [El País](http://twitter.com/search?q=El+Pa%c3%ads) | N/A |
 | 33 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
 | 34 | [Maluma](http://twitter.com/search?q=Maluma) | N/A |

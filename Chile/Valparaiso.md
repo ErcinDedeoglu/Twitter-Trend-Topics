@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-27 07:18:52 UTC`
+📆 Last Updated: `2023-03-27 08:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,13 +29,13 @@ This is top 50 for [Chile](</Chile>)
 | 12 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
 | 13 | [General Director](http://twitter.com/search?q=General+Director) | N/A |
 | 14 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
-| 15 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 16 | [ASESINADA](http://twitter.com/search?q=ASESINADA) | N/A |
+| 15 | [marcianeke](http://twitter.com/search?q=marcianeke) | N/A |
+| 16 | [asesinada](http://twitter.com/search?q=asesinada) | N/A |
 | 17 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
 | 18 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
-| 19 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 20 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 21 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 19 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 20 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 21 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
 | 22 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
 | 23 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
 | 24 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
@@ -43,26 +43,26 @@ This is top 50 for [Chile](</Chile>)
 | 26 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 27 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
 | 28 | [Paca](http://twitter.com/search?q=Paca) | N/A |
-| 29 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
-| 30 | [Mesa de Seguridad](http://twitter.com/search?q=Mesa+de+Seguridad) | N/A |
+| 29 | [willy semler](http://twitter.com/search?q=willy+semler) | N/A |
+| 30 | [mesa de seguridad](http://twitter.com/search?q=mesa+de+seguridad) | N/A |
 | 31 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
 | 32 | [palladino](http://twitter.com/search?q=palladino) | N/A |
 | 33 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
 | 34 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 35 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
-| 36 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 35 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 36 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
 | 37 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 | 38 | [aprovechamiento](http://twitter.com/search?q=aprovechamiento) | N/A |
 | 39 | [el belloto](http://twitter.com/search?q=el+belloto) | N/A |
 | 40 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
-| 41 | [Querellas](http://twitter.com/search?q=Querellas) | N/A |
+| 41 | [querellas](http://twitter.com/search?q=querellas) | N/A |
 | 42 | [Votaste](http://twitter.com/search?q=Votaste) | N/A |
-| 43 | [Condolencias](http://twitter.com/search?q=Condolencias) | N/A |
+| 43 | [condolencias](http://twitter.com/search?q=condolencias) | N/A |
 | 44 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 45 | [Acusación Constitucional](http://twitter.com/search?q=Acusaci%c3%b3n+Constitucional) | N/A |
-| 46 | [Todo Chile](http://twitter.com/search?q=Todo+Chile) | N/A |
-| 47 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 48 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 45 | [Todo Chile](http://twitter.com/search?q=Todo+Chile) | N/A |
+| 46 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 47 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 48 | [TRABAJOS EN LA VÍA](http://twitter.com/search?q=TRABAJOS+EN+LA+V%c3%8dA) | N/A |
 
 
 
