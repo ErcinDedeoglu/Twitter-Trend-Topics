@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-27 15:18:39 UTC`
+📆 Last Updated: `2023-03-27 16:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [#POLALB](http://twitter.com/search?q=%23POLALB) | N/A |
 | 2 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
-| 3 | [#WiaraPytaCoacha](http://twitter.com/search?q=%23WiaraPytaCoacha) | N/A |
+| 3 | [#PiStoPolexit](http://twitter.com/search?q=%23PiStoPolexit) | N/A |
 | 4 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 5 | [#PiStoPolexit](http://twitter.com/search?q=%23PiStoPolexit) | N/A |
+| 5 | [#WiaraPytaCoacha](http://twitter.com/search?q=%23WiaraPytaCoacha) | N/A |
 | 6 | [#JesteśGotowy](http://twitter.com/search?q=%23Jeste%c5%9bGotowy) | N/A |
-| 7 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 8 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 9 | [#czepol](http://twitter.com/search?q=%23czepol) | N/A |
-| 10 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 11 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
-| 12 | [Państwowej Komisji](http://twitter.com/search?q=Pa%c5%84stwowej+Komisji) | N/A |
-| 13 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 14 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
-| 15 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 16 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
-| 17 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
-| 18 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
-| 19 | [Kremówka](http://twitter.com/search?q=Krem%c3%b3wka) | N/A |
-| 20 | [międzynarodowy dzień teatru](http://twitter.com/search?q=mi%c4%99dzynarodowy+dzie%c5%84+teatru) | N/A |
+| 7 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 8 | [#CZEPOL](http://twitter.com/search?q=%23CZEPOL) | N/A |
+| 9 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 10 | [Tusk](http://twitter.com/search?q=Tusk) | N/A |
+| 11 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
+| 12 | [Strzelcach Opolskich](http://twitter.com/search?q=Strzelcach+Opolskich) | N/A |
+| 13 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 14 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
+| 15 | [leopard 2](http://twitter.com/search?q=leopard+2) | N/A |
+| 16 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 17 | [Państwowej Komisji](http://twitter.com/search?q=Pa%c5%84stwowej+Komisji) | N/A |
+| 18 | [Międzynarodowy Dzień Teatru](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Dzie%c5%84+Teatru) | N/A |
+| 19 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 20 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | N/A |
 | 21 | [Palestyńczyków](http://twitter.com/search?q=Palesty%c5%84czyk%c3%b3w) | N/A |
 | 22 | [Wehrmachtu](http://twitter.com/search?q=Wehrmachtu) | N/A |
 | 23 | [Żydzi](http://twitter.com/search?q=%c5%bbydzi) | N/A |
-| 24 | [NSDAP](http://twitter.com/search?q=NSDAP) | N/A |
-| 25 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
-| 26 | [Wieczny](http://twitter.com/search?q=Wieczny) | N/A |
-| 27 | [tvmn](http://twitter.com/search?q=tvmn) | N/A |
-| 28 | [Baltic Pipe](http://twitter.com/search?q=Baltic+Pipe) | N/A |
+| 24 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
+| 25 | [Wieczny](http://twitter.com/search?q=Wieczny) | N/A |
+| 26 | [tvmn](http://twitter.com/search?q=tvmn) | N/A |
+| 27 | [Unii](http://twitter.com/search?q=Unii) | N/A |
+| 28 | [NSDAP](http://twitter.com/search?q=NSDAP) | N/A |
 | 29 | [Białorusi](http://twitter.com/search?q=Bia%c5%82orusi) | N/A |
-| 30 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 30 | [Błażej Kmieciak](http://twitter.com/search?q=B%c5%82a%c5%bcej+Kmieciak) | N/A |
 | 31 | [Żakowski](http://twitter.com/search?q=%c5%bbakowski) | N/A |
-| 32 | [Unii](http://twitter.com/search?q=Unii) | N/A |
-| 33 | [Korwin](http://twitter.com/search?q=Korwin) | N/A |
-| 34 | [Błażej Kmieciak](http://twitter.com/search?q=B%c5%82a%c5%bcej+Kmieciak) | N/A |
-| 35 | [ryoyu kobayashi](http://twitter.com/search?q=ryoyu+kobayashi) | N/A |
-| 36 | [Żywcu](http://twitter.com/search?q=%c5%bbywcu) | N/A |
-| 37 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 38 | [Szczęsny](http://twitter.com/search?q=Szcz%c4%99sny) | N/A |
-| 39 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
-| 40 | [Dariusz Banasik](http://twitter.com/search?q=Dariusz+Banasik) | N/A |
-| 41 | [pięknej](http://twitter.com/search?q=pi%c4%99knej) | N/A |
-| 42 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
-| 43 | [Wehrmachcie](http://twitter.com/search?q=Wehrmachcie) | N/A |
-| 44 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 45 | [Rada Ministrów](http://twitter.com/search?q=Rada+Ministr%c3%b3w) | N/A |
-| 46 | [Poniedziałek](http://twitter.com/search?q=Poniedzia%c5%82ek) | N/A |
-| 47 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 48 | [Panie Dominiku](http://twitter.com/search?q=Panie+Dominiku) | N/A |
-| 49 | [Paczul](http://twitter.com/search?q=Paczul) | N/A |
-| 50 | [Rady](http://twitter.com/search?q=Rady) | N/A |
+| 32 | [Żywcu](http://twitter.com/search?q=%c5%bbywcu) | N/A |
+| 33 | [Baltic Pipe](http://twitter.com/search?q=Baltic+Pipe) | N/A |
+| 34 | [Bąkiewicza](http://twitter.com/search?q=B%c4%85kiewicza) | N/A |
+| 35 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | N/A |
+| 36 | [Korwin](http://twitter.com/search?q=Korwin) | N/A |
+| 37 | [Faszyzm](http://twitter.com/search?q=Faszyzm) | N/A |
+| 38 | [Rady](http://twitter.com/search?q=Rady) | N/A |
+| 39 | [Panie Dominiku](http://twitter.com/search?q=Panie+Dominiku) | N/A |
+| 40 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
+| 41 | [Mazguła](http://twitter.com/search?q=Mazgu%c5%82a) | N/A |
+| 42 | [Wehrmachcie](http://twitter.com/search?q=Wehrmachcie) | N/A |
+| 43 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 44 | [Rada Ministrów](http://twitter.com/search?q=Rada+Ministr%c3%b3w) | N/A |
+| 45 | [Kremówka](http://twitter.com/search?q=Krem%c3%b3wka) | N/A |
+| 46 | [poniedziałek](http://twitter.com/search?q=poniedzia%c5%82ek) | N/A |
+| 47 | [Dariusz Banasik](http://twitter.com/search?q=Dariusz+Banasik) | N/A |
+| 48 | [Paczul](http://twitter.com/search?q=Paczul) | N/A |
+| 49 | [Foreign Policy](http://twitter.com/search?q=Foreign+Policy) | N/A |
+| 50 | [Dziadek](http://twitter.com/search?q=Dziadek) | N/A |
 
 
 

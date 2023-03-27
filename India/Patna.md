@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-27 15:18:19 UTC`
+📆 Last Updated: `2023-03-27 16:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 2 | [#realmec55saletomorrow](http://twitter.com/search?q=%23realmec55saletomorrow) | N/A |
-| 3 | [#20ICONICyearsOfAlluArjun](http://twitter.com/search?q=%2320ICONICyearsOfAlluArjun) | N/A |
-| 4 | [#BoyapatiRAPOonOct20](http://twitter.com/search?q=%23BoyapatiRAPOonOct20) | N/A |
-| 5 | [GLOBAL ICON ALLUARJUN](http://twitter.com/search?q=GLOBAL+ICON+ALLUARJUN) | N/A |
-| 6 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
+| 1 | [#HeroesAlsoNeedHelp](http://twitter.com/search?q=%23HeroesAlsoNeedHelp) | N/A |
+| 2 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
+| 3 | [#realmec55saletomorrow](http://twitter.com/search?q=%23realmec55saletomorrow) | N/A |
+| 4 | [#20ICONICyearsOfAlluArjun](http://twitter.com/search?q=%2320ICONICyearsOfAlluArjun) | N/A |
+| 5 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
+| 6 | [GLOBAL ICON ALLUARJUN](http://twitter.com/search?q=GLOBAL+ICON+ALLUARJUN) | N/A |
 | 7 | [GO WELL CSK](http://twitter.com/search?q=GO+WELL+CSK) | N/A |
-| 8 | [BEGINNING OF VEERSHA](http://twitter.com/search?q=BEGINNING+OF+VEERSHA) | N/A |
-| 9 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 10 | [सरकारी आवास](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8) | N/A |
-| 11 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
-| 12 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 13 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 14 | [Lok Sabha Housing Committee](http://twitter.com/search?q=Lok+Sabha+Housing+Committee) | N/A |
-| 15 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 17 | [तुगलक लेन](http://twitter.com/search?q=%e0%a4%a4%e0%a5%81%e0%a4%97%e0%a4%b2%e0%a4%95+%e0%a4%b2%e0%a5%87%e0%a4%a8) | N/A |
-| 18 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 19 | [काला जादू](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9c%e0%a4%be%e0%a4%a6%e0%a5%82) | N/A |
-| 20 | [multilingual internet](http://twitter.com/search?q=multilingual+internet) | N/A |
-| 21 | [नैनी सेंट्रल जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%b8%e0%a5%87%e0%a4%82%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%b2+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 22 | [Sandeep Sharma](http://twitter.com/search?q=Sandeep+Sharma) | N/A |
-| 23 | [संध्या वंदन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 24 | [EPFO](http://twitter.com/search?q=EPFO) | N/A |
-| 25 | [Ishq Bina](http://twitter.com/search?q=Ishq+Bina) | N/A |
+| 8 | [सरकारी आवास](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8) | N/A |
+| 9 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 10 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
+| 11 | [BEGINNING OF VEERSHA](http://twitter.com/search?q=BEGINNING+OF+VEERSHA) | N/A |
+| 12 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 13 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 14 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 17 | [Lok Sabha Housing Committee](http://twitter.com/search?q=Lok+Sabha+Housing+Committee) | N/A |
+| 18 | [Sandeep Sharma](http://twitter.com/search?q=Sandeep+Sharma) | N/A |
+| 19 | [तुगलक लेन](http://twitter.com/search?q=%e0%a4%a4%e0%a5%81%e0%a4%97%e0%a4%b2%e0%a4%95+%e0%a4%b2%e0%a5%87%e0%a4%a8) | N/A |
+| 20 | [काला जादू](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9c%e0%a4%be%e0%a4%a6%e0%a5%82) | N/A |
+| 21 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 22 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 23 | [Ishq Bina](http://twitter.com/search?q=Ishq+Bina) | N/A |
+| 24 | [संध्या वंदन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 25 | [प्रदेश कार्यालय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
 | 26 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
-| 27 | [Yash](http://twitter.com/search?q=Yash) | N/A |
-| 28 | [बिलकिस बानो](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%bf%e0%a4%b8+%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%8b) | N/A |
-| 29 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 30 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 31 | [प्रदेश कार्यालय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 32 | [न्यूज़ चैनल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9c%e0%a4%bc+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
-| 33 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 34 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 35 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 36 | [#Aashiqana3OnHotstar](http://twitter.com/search?q=%23Aashiqana3OnHotstar) | N/A |
-| 37 | [#हम_भैराराम_के_साथ_है](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ad%e0%a5%88%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88) | N/A |
-| 38 | [#OsarattumPathuThala](http://twitter.com/search?q=%23OsarattumPathuThala) | N/A |
+| 27 | [बिलकिस बानो](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b2%e0%a4%95%e0%a4%bf%e0%a4%b8+%e0%a4%ac%e0%a4%be%e0%a4%a8%e0%a5%8b) | N/A |
+| 28 | [Yash](http://twitter.com/search?q=Yash) | N/A |
+| 29 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 30 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 31 | [न्यूज़ चैनल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9c%e0%a4%bc+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
+| 32 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 33 | [#BoyapatiRAPOOnOct20](http://twitter.com/search?q=%23BoyapatiRAPOOnOct20) | N/A |
+| 34 | [#हम_भैराराम_के_साथ_है](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ad%e0%a5%88%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88) | N/A |
+| 35 | [#OsarattumPathuThala](http://twitter.com/search?q=%23OsarattumPathuThala) | N/A |
+| 36 | [#WhistlePodu](http://twitter.com/search?q=%23WhistlePodu) | N/A |
+| 37 | [#Cheetah](http://twitter.com/search?q=%23Cheetah) | N/A |
+| 38 | [#NitishRana](http://twitter.com/search?q=%23NitishRana) | N/A |
 | 39 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 40 | [#NitishRana](http://twitter.com/search?q=%23NitishRana) | N/A |
-| 41 | [#Cheetah](http://twitter.com/search?q=%23Cheetah) | N/A |
-| 42 | [#KunoNationalPark](http://twitter.com/search?q=%23KunoNationalPark) | N/A |
-| 43 | [#RahulGhandi](http://twitter.com/search?q=%23RahulGhandi) | N/A |
-| 44 | [#MadalVirupakshappa](http://twitter.com/search?q=%23MadalVirupakshappa) | N/A |
-| 45 | [#HeroesAlsoNeedHelp](http://twitter.com/search?q=%23HeroesAlsoNeedHelp) | N/A |
-| 46 | [#TirumalaUnderAttack](http://twitter.com/search?q=%23TirumalaUnderAttack) | N/A |
-| 47 | [#GameChanger](http://twitter.com/search?q=%23GameChanger) | N/A |
-| 48 | [#aajtak](http://twitter.com/search?q=%23aajtak) | N/A |
+| 40 | [#KunoNationalPark](http://twitter.com/search?q=%23KunoNationalPark) | N/A |
+| 41 | [#ChennaiSuperKings](http://twitter.com/search?q=%23ChennaiSuperKings) | N/A |
+| 42 | [#MadalVirupakshappa](http://twitter.com/search?q=%23MadalVirupakshappa) | N/A |
+| 43 | [#MSDhoni𓃵](http://twitter.com/search?q=%23MSDhoni%f0%93%83%b5) | N/A |
+| 44 | [#RahulGhandi](http://twitter.com/search?q=%23RahulGhandi) | N/A |
+| 45 | [#Aashiqana3OnHotstar](http://twitter.com/search?q=%23Aashiqana3OnHotstar) | N/A |
+| 46 | [#AnbuDen](http://twitter.com/search?q=%23AnbuDen) | N/A |
+| 47 | [#aajtak](http://twitter.com/search?q=%23aajtak) | N/A |
+| 48 | [#SUCHWITA](http://twitter.com/search?q=%23SUCHWITA) | N/A |
 
 
 

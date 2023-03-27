@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-27 15:17:36 UTC`
+📆 Last Updated: `2023-03-27 16:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#罠の戦争](http://twitter.com/search?q=%23%e7%bd%a0%e3%81%ae%e6%88%a6%e4%ba%89) | #罠の戦争 is a Japanese phrase that translates to "War of Traps". It is used to describe a situation in which two parties are engaged in a battle of wits, trying to outsmart each other by setting traps and counter-traps. |
-| 2 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
-| 3 | [#ゆと打って出てきたものがお前に不足](http://twitter.com/search?q=%23%e3%82%86%e3%81%a8%e6%89%93%e3%81%a3%e3%81%a6%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%82%e3%81%ae%e3%81%8c%e3%81%8a%e5%89%8d%e3%81%ab%e4%b8%8d%e8%b6%b3) | N/A |
-| 4 | [#冒険少年](http://twitter.com/search?q=%23%e5%86%92%e9%99%ba%e5%b0%91%e5%b9%b4) | #冒険少年 is a Japanese hashtag that translates to "adventurous youth" in English. It is used to refer to young people who are adventurous and willing to take risks. |
-| 5 | [#ダ・カーポしませんか](http://twitter.com/search?q=%23%e3%83%80%e3%83%bb%e3%82%ab%e3%83%bc%e3%83%9d%e3%81%97%e3%81%be%e3%81%9b%e3%82%93%e3%81%8b) | "#ダ・カーポしませんか" is a hashtag used on social media in Japan. It translates to "Won't you join us for Da Capo?" Da Capo is a popular Japanese card game. The phrase is used to invite people to join in playing the game. |
-| 6 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
-| 7 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 8 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 9 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
-| 10 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
-| 11 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
-| 12 | [エンブレ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac) | N/A |
-| 13 | [鷲津さん](http://twitter.com/search?q=%e9%b7%b2%e6%b4%a5%e3%81%95%e3%82%93) | 鷲津さん is a Japanese name, and it can be written in English as Washizu. It is a combination of the characters for “eagle” and “harbor”. |
-| 14 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 15 | [ニンテンドーeショップ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%86%e3%83%b3%e3%83%89%e3%83%bce%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
-| 16 | [コタツ回](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%84%e5%9b%9e) | N/A |
-| 17 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 18 | [こたつ回](http://twitter.com/search?q=%e3%81%93%e3%81%9f%e3%81%a4%e5%9b%9e) | N/A |
-| 19 | [ブレーキランプ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad%e3%83%a9%e3%83%b3%e3%83%97) | N/A |
-| 20 | [サラタイ](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%82%bf%e3%82%a4) | N/A |
-| 21 | [真澄くん](http://twitter.com/search?q=%e7%9c%9f%e6%be%84%e3%81%8f%e3%82%93) | 真澄くん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name translates to "Masaki-kun" and he is a young boy who lives in the same neighborhood as the main characters. He is known for his mischievous behavior and his love of pranks. |
-| 22 | [犬飼さん](http://twitter.com/search?q=%e7%8a%ac%e9%a3%bc%e3%81%95%e3%82%93) | N/A |
-| 23 | [宇宙Six](http://twitter.com/search?q=%e5%ae%87%e5%ae%99Six) | N/A |
-| 24 | [おつりーぬ](http://twitter.com/search?q=%e3%81%8a%e3%81%a4%e3%82%8a%e3%83%bc%e3%81%ac) | おつりーぬ is a Japanese phrase that roughly translates to "Thank you very much." It is used as a polite way to express gratitude. |
-| 25 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 26 | [SP e RJ](http://twitter.com/search?q=SP+e+RJ) | SP e RJ is an abbreviation for São Paulo and Rio de Janeiro, two of the largest cities in Brazil. In English, it translates to "São Paulo and Rio de Janeiro". |
-| 27 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 28 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 29 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
-| 30 | [BAMBAM D-DAY POSTER](http://twitter.com/search?q=BAMBAM+D-DAY+POSTER) | N/A |
-| 31 | [ロック解除](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e8%a7%a3%e9%99%a4) | N/A |
-| 32 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 33 | [ロクシタン](http://twitter.com/search?q=%e3%83%ad%e3%82%af%e3%82%b7%e3%82%bf%e3%83%b3) | N/A |
-| 34 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 35 | [マーリン](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%aa%e3%83%b3) | N/A |
-| 36 | [あばれる君](http://twitter.com/search?q=%e3%81%82%e3%81%b0%e3%82%8c%e3%82%8b%e5%90%9b) | N/A |
-| 37 | [温泉の人](http://twitter.com/search?q=%e6%b8%a9%e6%b3%89%e3%81%ae%e4%ba%ba) | N/A |
-| 38 | [蛍原さん](http://twitter.com/search?q=%e8%9b%8d%e5%8e%9f%e3%81%95%e3%82%93) | 蛍原さん is a character from the Japanese manga series, Chihayafuru. Her name is Hotaru Yukishiro and she is a classmate of the main character, Chihaya Ayase. She is a talented karuta player and serves as an inspiration to Chihaya. In English, her name can be translated to "Hotaru from the Firefly Field". |
-| 39 | [WiiU](http://twitter.com/search?q=WiiU) | N/A |
-| 40 | [ポケモンバンク](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%90%e3%83%b3%e3%82%af) | N/A |
-| 41 | [ポケムーバー](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a0%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 42 | [車間距離](http://twitter.com/search?q=%e8%bb%8a%e9%96%93%e8%b7%9d%e9%9b%a2) | N/A |
-| 43 | [青沼さん](http://twitter.com/search?q=%e9%9d%92%e6%b2%bc%e3%81%95%e3%82%93) | N/A |
-| 44 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 45 | [二次創作](http://twitter.com/search?q=%e4%ba%8c%e6%ac%a1%e5%89%b5%e4%bd%9c) | N/A |
-| 46 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 47 | [ぐっばいび](http://twitter.com/search?q=%e3%81%90%e3%81%a3%e3%81%b0%e3%81%84%e3%81%b3) | ぐっばいび is a Japanese slang term that roughly translates to "cool" or "awesome." It is often used to express admiration or approval. |
-| 48 | [迷惑運転](http://twitter.com/search?q=%e8%bf%b7%e6%83%91%e9%81%8b%e8%bb%a2) | N/A |
-| 49 | [莉犬くん](http://twitter.com/search?q=%e8%8e%89%e7%8a%ac%e3%81%8f%e3%82%93) | N/A |
-| 50 | [わこりーぬ](http://twitter.com/search?q=%e3%82%8f%e3%81%93%e3%82%8a%e3%83%bc%e3%81%ac) | わこりーぬ is a Japanese slang term that means "I don't know". |
+| 1 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 2 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 3 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 4 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
+| 5 | [#罠の戦争](http://twitter.com/search?q=%23%e7%bd%a0%e3%81%ae%e6%88%a6%e4%ba%89) | #罠の戦争 is a Japanese phrase that translates to "War of Traps". It is used to describe a situation in which two parties are engaged in a battle of wits, trying to outsmart each other by setting traps and counter-traps. |
+| 6 | [#ゆと打って出てきたものがお前に不足](http://twitter.com/search?q=%23%e3%82%86%e3%81%a8%e6%89%93%e3%81%a3%e3%81%a6%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%82%e3%81%ae%e3%81%8c%e3%81%8a%e5%89%8d%e3%81%ab%e4%b8%8d%e8%b6%b3) | N/A |
+| 7 | [#cnann](http://twitter.com/search?q=%23cnann) | #cnann is an acronym for "Ceann Comhairle" which is a title given to the presiding officer of the Irish Dáil (lower house of parliament). In English, it translates to "Chairman of the House". |
+| 8 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
+| 9 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 11 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 12 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
+| 13 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
+| 14 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 15 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
+| 16 | [eショップ](http://twitter.com/search?q=e%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
+| 17 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 18 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
+| 19 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
+| 20 | [Temel Atma Töreni](http://twitter.com/search?q=Temel+Atma+T%c3%b6reni) | N/A |
+| 21 | [エンブレ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac) | N/A |
+| 22 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 23 | [第431回](http://twitter.com/search?q=%e7%ac%ac431%e5%9b%9e) | N/A |
+| 24 | [鷲津さん](http://twitter.com/search?q=%e9%b7%b2%e6%b4%a5%e3%81%95%e3%82%93) | 鷲津さん is a Japanese name, and it can be written in English as Washizu. It is a combination of the characters for “eagle” and “harbor”. |
+| 25 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 26 | [BAMBAM D-DAY POSTER](http://twitter.com/search?q=BAMBAM+D-DAY+POSTER) | N/A |
+| 27 | [コタツ回](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%84%e5%9b%9e) | N/A |
+| 28 | [ブレーキランプ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad%e3%83%a9%e3%83%b3%e3%83%97) | N/A |
+| 29 | [Erdoğan Adıyaman](http://twitter.com/search?q=Erdo%c4%9fan+Ad%c4%b1yaman) | N/A |
+| 30 | [Snain](http://twitter.com/search?q=Snain) | N/A |
+| 31 | [サラタイ](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%82%bf%e3%82%a4) | N/A |
+| 32 | [コタくん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%8f%e3%82%93) | コタくん is a character from the Japanese manga series, Kochikame. He is a police officer who works in the Tokyo Metropolitan Police Department's Kameari Branch. His name is derived from the Japanese word for police officer, "Kōta". In English, his name can be translated to "Officer Kota". |
+| 33 | [SP e RJ](http://twitter.com/search?q=SP+e+RJ) | SP e RJ is an abbreviation for São Paulo and Rio de Janeiro, two of the largest cities in Brazil. In English, it translates to "São Paulo and Rio de Janeiro". |
+| 34 | [真澄くん](http://twitter.com/search?q=%e7%9c%9f%e6%be%84%e3%81%8f%e3%82%93) | 真澄くん is a character from the Japanese manga series "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". His name translates to "Masaki-kun" and he is a young boy who lives in the same neighborhood as the main characters. He is known for his mischievous behavior and his love of pranks. |
+| 35 | [Gaziantepte Ramazan](http://twitter.com/search?q=Gaziantepte+Ramazan) | N/A |
+| 36 | [ポケムーバー](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a0%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 37 | [こたつ回](http://twitter.com/search?q=%e3%81%93%e3%81%9f%e3%81%a4%e5%9b%9e) | N/A |
+| 38 | [ポケモンバンク](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%83%90%e3%83%b3%e3%82%af) | N/A |
+| 39 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 40 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 41 | [宇宙Six](http://twitter.com/search?q=%e5%ae%87%e5%ae%99Six) | N/A |
+| 42 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
+| 43 | [犬飼さん](http://twitter.com/search?q=%e7%8a%ac%e9%a3%bc%e3%81%95%e3%82%93) | N/A |
+| 44 | [トレパク](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%91%e3%82%af) | N/A |
+| 45 | [WiiU](http://twitter.com/search?q=WiiU) | N/A |
+| 46 | [エモ泥棒](http://twitter.com/search?q=%e3%82%a8%e3%83%a2%e6%b3%a5%e6%a3%92) | N/A |
+| 47 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 48 | [ヨンボクラチャ](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%9c%e3%82%af%e3%83%a9%e3%83%81%e3%83%a3) | N/A |
+| 49 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 50 | [トンベリ](http://twitter.com/search?q=%e3%83%88%e3%83%b3%e3%83%99%e3%83%aa) | N/A |
 
 
 

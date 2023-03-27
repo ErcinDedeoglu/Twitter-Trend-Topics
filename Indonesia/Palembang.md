@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-27 15:18:01 UTC`
+📆 Last Updated: `2023-03-27 16:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
 | 2 | [#DOJAEJUNGisReady](http://twitter.com/search?q=%23DOJAEJUNGisReady) | N/A |
 | 3 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
-| 4 | [#BrightWin](http://twitter.com/search?q=%23BrightWin) | N/A |
+| 4 | [#MEin3Days](http://twitter.com/search?q=%23MEin3Days) | N/A |
 | 5 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 6 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 7 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 8 | [Want Skintific](http://twitter.com/search?q=Want+Skintific) | N/A |
-| 9 | [Pakin](http://twitter.com/search?q=Pakin) | N/A |
-| 10 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 6 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
+| 7 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 8 | [hpbd](http://twitter.com/search?q=hpbd) | N/A |
+| 9 | [Want Skintific](http://twitter.com/search?q=Want+Skintific) | N/A |
+| 10 | [Kurniawan](http://twitter.com/search?q=Kurniawan) | N/A |
 | 11 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 12 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
-| 13 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 14 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 15 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 16 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 17 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
-| 18 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 19 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
-| 20 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
-| 21 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 22 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
-| 23 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 24 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
-| 25 | [berubah](http://twitter.com/search?q=berubah) | N/A |
-| 26 | [Berbuka](http://twitter.com/search?q=Berbuka) | N/A |
-| 27 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 28 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
-| 29 | [risol](http://twitter.com/search?q=risol) | N/A |
+| 12 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 13 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 14 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 15 | [Pakin](http://twitter.com/search?q=Pakin) | N/A |
+| 16 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 17 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 18 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
+| 19 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 20 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
+| 21 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 22 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
+| 23 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
+| 24 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 25 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 26 | [Nahan](http://twitter.com/search?q=Nahan) | N/A |
+| 27 | [Berubah](http://twitter.com/search?q=Berubah) | N/A |
+| 28 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 29 | [Risol](http://twitter.com/search?q=Risol) | N/A |
 | 30 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
-| 31 | [#MEin3Days](http://twitter.com/search?q=%23MEin3Days) | N/A |
-| 32 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
-| 33 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 34 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 35 | [#SkintificRamadanBox](http://twitter.com/search?q=%23SkintificRamadanBox) | N/A |
-| 36 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 37 | [#HappySakuraDay](http://twitter.com/search?q=%23HappySakuraDay) | N/A |
-| 38 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
-| 39 | [#kameraday](http://twitter.com/search?q=%23kameraday) | N/A |
-| 40 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 41 | [#TREASURE_Crystal_1](http://twitter.com/search?q=%23TREASURE_Crystal_1) | N/A |
-| 42 | [#genshintwt](http://twitter.com/search?q=%23genshintwt) | N/A |
-| 43 | [#SUGA_AgustD_Jakarta](http://twitter.com/search?q=%23SUGA_AgustD_Jakarta) | N/A |
-| 44 | [#OneTwoThreeSmileInJKT](http://twitter.com/search?q=%23OneTwoThreeSmileInJKT) | N/A |
-| 45 | [#세훈버블](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%eb%b2%84%eb%b8%94) | N/A |
-| 46 | [#SUGA_AgustD_TOUR_in_Jakarta](http://twitter.com/search?q=%23SUGA_AgustD_TOUR_in_Jakarta) | N/A |
-| 47 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
-| 48 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
+| 31 | [#BrightWin](http://twitter.com/search?q=%23BrightWin) | N/A |
+| 32 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
+| 33 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
+| 34 | [#HappySakuraDay](http://twitter.com/search?q=%23HappySakuraDay) | N/A |
+| 35 | [#kamday](http://twitter.com/search?q=%23kamday) | N/A |
+| 36 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 37 | [#JacksonWang](http://twitter.com/search?q=%23JacksonWang) | N/A |
+| 38 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 39 | [#SkintificRamadanBox](http://twitter.com/search?q=%23SkintificRamadanBox) | N/A |
+| 40 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 41 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 42 | [#kameraday](http://twitter.com/search?q=%23kameraday) | N/A |
+| 43 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 44 | [#Kep1er](http://twitter.com/search?q=%23Kep1er) | N/A |
+| 45 | [#TREASURE_Crystal_1](http://twitter.com/search?q=%23TREASURE_Crystal_1) | N/A |
+| 46 | [#OneTwoThreeSmileInJKT](http://twitter.com/search?q=%23OneTwoThreeSmileInJKT) | N/A |
+| 47 | [#genshintwt](http://twitter.com/search?q=%23genshintwt) | N/A |
+| 48 | [#세훈버블](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%eb%b2%84%eb%b8%94) | N/A |
 
 
 

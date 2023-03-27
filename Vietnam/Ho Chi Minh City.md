@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-27 15:18:10 UTC`
+📆 Last Updated: `2023-03-27 16:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 3 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
 | 4 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 | 5 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 6 | [UNFILTERED BIBLEBUILD](http://twitter.com/search?q=UNFILTERED+BIBLEBUILD) | N/A |
+| 6 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
 | 7 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 8 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 9 | [wintermute](http://twitter.com/search?q=wintermute) | N/A |
-| 10 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
-| 11 | [Private Key](http://twitter.com/search?q=Private+Key) | N/A |
-| 12 | [MPC Wallet](http://twitter.com/search?q=MPC+Wallet) | N/A |
-| 13 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
-| 14 | [Lilies](http://twitter.com/search?q=Lilies) | N/A |
-| 15 | [kitsch mv teaser out now](http://twitter.com/search?q=kitsch+mv+teaser+out+now) | N/A |
-| 16 | [Chung](http://twitter.com/search?q=Chung) | N/A |
-| 17 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 18 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
-| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 20 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 21 | [joong](http://twitter.com/search?q=joong) | N/A |
-| 22 | [Đăng](http://twitter.com/search?q=%c4%90%c4%83ng) | N/A |
-| 23 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 24 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 25 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 9 | [Private Key](http://twitter.com/search?q=Private+Key) | N/A |
+| 10 | [MPC Wallet](http://twitter.com/search?q=MPC+Wallet) | N/A |
+| 11 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 12 | [wintermute](http://twitter.com/search?q=wintermute) | N/A |
+| 13 | [Lilies](http://twitter.com/search?q=Lilies) | N/A |
+| 14 | [kitsch mv teaser out now](http://twitter.com/search?q=kitsch+mv+teaser+out+now) | N/A |
+| 15 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 16 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
+| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 18 | [Nhưng](http://twitter.com/search?q=Nh%c6%b0ng) | N/A |
+| 19 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 20 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 21 | [Đăng](http://twitter.com/search?q=%c4%90%c4%83ng) | N/A |
+| 22 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 23 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 24 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 25 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
 | 26 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 27 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 28 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
-| 29 | [ngồi](http://twitter.com/search?q=ng%e1%bb%93i) | N/A |
-| 30 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 31 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 32 | [hcmc](http://twitter.com/search?q=hcmc) | N/A |
-| 33 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 34 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 35 | [Fourth](http://twitter.com/search?q=Fourth) | N/A |
-| 36 | [cả 2](http://twitter.com/search?q=c%e1%ba%a3+2) | N/A |
-| 37 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 38 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 39 | [$mob token](http://twitter.com/search?q=%24mob+token) | N/A |
-| 40 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 41 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 42 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 43 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 44 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 45 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 46 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 47 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 48 | [syria](http://twitter.com/search?q=syria) | N/A |
-| 49 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 50 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
+| 27 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
+| 28 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 29 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
+| 30 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 31 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 32 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 33 | [hcmc](http://twitter.com/search?q=hcmc) | N/A |
+| 34 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 35 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 36 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 37 | [Fourth](http://twitter.com/search?q=Fourth) | N/A |
+| 38 | [cả 2](http://twitter.com/search?q=c%e1%ba%a3+2) | N/A |
+| 39 | [ngồi](http://twitter.com/search?q=ng%e1%bb%93i) | N/A |
+| 40 | [$mob token](http://twitter.com/search?q=%24mob+token) | N/A |
+| 41 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 42 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 43 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 44 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 45 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 46 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 47 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 48 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 49 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 50 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 
 
 

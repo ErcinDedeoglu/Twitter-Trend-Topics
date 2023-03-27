@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-27 15:18:25 UTC`
+📆 Last Updated: `2023-03-27 16:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WWEDenver](http://twitter.com/search?q=%23WWEDenver) | N/A |
 | 2 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
-| 3 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 4 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 3 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 5 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 8 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
-| 9 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 10 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 11 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
-| 12 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 13 | [Evil Dead Rise](http://twitter.com/search?q=Evil+Dead+Rise) | N/A |
-| 14 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
-| 15 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 16 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
-| 17 | [maisie](http://twitter.com/search?q=maisie) | N/A |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [Tyrese Proctor](http://twitter.com/search?q=Tyrese+Proctor) | N/A |
-| 20 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 21 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 22 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
-| 23 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 24 | [Death Proof](http://twitter.com/search?q=Death+Proof) | N/A |
-| 25 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
-| 26 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 27 | [How to Blow Up a Pipeline](http://twitter.com/search?q=How+to+Blow+Up+a+Pipeline) | N/A |
-| 28 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 29 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 30 | [Brian Davis](http://twitter.com/search?q=Brian+Davis) | N/A |
-| 31 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 6 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 9 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
+| 10 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 11 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 12 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 13 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 14 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 15 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 16 | [Flacco](http://twitter.com/search?q=Flacco) | Flacco is a nickname for Joe Flacco, an American football quarterback who currently plays for the New York Jets. The name is derived from his last name and is used as a term of endearment by his fans. In English, it means "beloved Joe Flacco". |
+| 17 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 18 | [AFC North](http://twitter.com/search?q=AFC+North) | N/A |
+| 19 | [City Connect](http://twitter.com/search?q=City+Connect) | N/A |
+| 20 | [Evil Dead Rise](http://twitter.com/search?q=Evil+Dead+Rise) | N/A |
+| 21 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 22 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
+| 23 | [MVP QB](http://twitter.com/search?q=MVP+QB) | N/A |
+| 24 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
+| 25 | [Harbs](http://twitter.com/search?q=Harbs) | N/A |
+| 26 | [Dave Scott](http://twitter.com/search?q=Dave+Scott) | N/A |
+| 27 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 28 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 29 | [How to Blow Up a Pipeline](http://twitter.com/search?q=How+to+Blow+Up+a+Pipeline) | N/A |
+| 30 | [Robert Saleh](http://twitter.com/search?q=Robert+Saleh) | N/A |
+| 31 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
 | 32 | [Bonnie and Clyde](http://twitter.com/search?q=Bonnie+and+Clyde) | N/A |
-| 33 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 34 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 35 | [AFC North](http://twitter.com/search?q=AFC+North) | N/A |
-| 36 | [CMIYGL](http://twitter.com/search?q=CMIYGL) | N/A |
-| 37 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 38 | [Guthrie](http://twitter.com/search?q=Guthrie) | N/A |
-| 39 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 40 | [Saleh](http://twitter.com/search?q=Saleh) | Saleh is an Arabic name that means "righteous" or "pious". |
-| 41 | [Hank Aaron](http://twitter.com/search?q=Hank+Aaron) | N/A |
-| 42 | [And Then There Were None](http://twitter.com/search?q=And+Then+There+Were+None) | N/A |
-| 43 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 44 | [Tim Locastro](http://twitter.com/search?q=Tim+Locastro) | N/A |
-| 45 | [CALL ME IF YOU GET LOST](http://twitter.com/search?q=CALL+ME+IF+YOU+GET+LOST) | N/A |
-| 46 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 47 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
-| 48 | [Hello Monday](http://twitter.com/search?q=Hello+Monday) | N/A |
-| 49 | [Saylor](http://twitter.com/search?q=Saylor) | N/A |
-| 50 | [Dana White](http://twitter.com/search?q=Dana+White) | Dana White is the President of the Ultimate Fighting Championship (UFC), a mixed martial arts organization. He is responsible for overseeing the day-to-day operations of the UFC, including managing its business and marketing strategies, negotiating contracts with fighters and other personnel, and promoting events. |
+| 33 | [First Citizens](http://twitter.com/search?q=First+Citizens) | N/A |
+| 34 | [CMIYGL](http://twitter.com/search?q=CMIYGL) | N/A |
+| 35 | [Bill Belichick](http://twitter.com/search?q=Bill+Belichick) | N/A |
+| 36 | [John Lynch](http://twitter.com/search?q=John+Lynch) | John Lynch is a common Irish surname. It is derived from the Gaelic name Mac Giolla Eoin, which means "son of the devotee of St. John". The name is most commonly associated with the Irish counties of Donegal and Mayo. |
+| 37 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 38 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 39 | [Showing Up](http://twitter.com/search?q=Showing+Up) | N/A |
+| 40 | [maisie](http://twitter.com/search?q=maisie) | N/A |
+| 41 | [Proctor](http://twitter.com/search?q=Proctor) | N/A |
+| 42 | [Call Me If You Get Lost](http://twitter.com/search?q=Call+Me+If+You+Get+Lost) | N/A |
+| 43 | [Eric DeCosta](http://twitter.com/search?q=Eric+DeCosta) | N/A |
+| 44 | [Kingery](http://twitter.com/search?q=Kingery) | N/A |
+| 45 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 46 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 47 | [Greg Roman](http://twitter.com/search?q=Greg+Roman) | Greg Roman is the name of an American football coach. He is currently the offensive coordinator for the Baltimore Ravens of the National Football League (NFL). He has previously served as offensive coordinator for the San Francisco 49ers, Buffalo Bills, and Stanford Cardinal. |
+| 48 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 49 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 50 | [Polite Society](http://twitter.com/search?q=Polite+Society) | N/A |
 
 
 
