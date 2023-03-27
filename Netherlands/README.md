@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-27 11:17:47 UTC`
+📆 Last Updated: `2023-03-27 13:45:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Netherlands
 | ------- | ------------ | ------------ |
 | 1 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
 | 2 | [Rust](http://twitter.com/search?q=Rust) | N/A |
-| 3 | [#zomertijd](http://twitter.com/search?q=%23zomertijd) | N/A |
-| 4 | [Tedje van Es](http://twitter.com/search?q=Tedje+van+Es) | N/A |
-| 5 | [Cabaretier](http://twitter.com/search?q=Cabaretier) | N/A |
-| 6 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
-| 7 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 8 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 9 | [Keek](http://twitter.com/search?q=Keek) | N/A |
-| 10 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
-| 11 | [Juinen](http://twitter.com/search?q=Juinen) | N/A |
-| 12 | [Walter de Rochebrune](http://twitter.com/search?q=Walter+de+Rochebrune) | N/A |
-| 13 | [Foppe](http://twitter.com/search?q=Foppe) | N/A |
-| 14 | [VPRO](http://twitter.com/search?q=VPRO) | N/A |
-| 15 | [Frank van Putten](http://twitter.com/search?q=Frank+van+Putten) | N/A |
-| 16 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 17 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 18 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 19 | [De Tegenpartij](http://twitter.com/search?q=De+Tegenpartij) | N/A |
-| 20 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 21 | [#herdbo](http://twitter.com/search?q=%23herdbo) | N/A |
-| 22 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
-| 23 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 24 | [Sterkte Ron](http://twitter.com/search?q=Sterkte+Ron) | N/A |
-| 25 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 3 | [#Zomertijd](http://twitter.com/search?q=%23Zomertijd) | N/A |
+| 4 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
+| 5 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 6 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 7 | [Tedje van Es](http://twitter.com/search?q=Tedje+van+Es) | N/A |
+| 8 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 9 | [Cabaretier](http://twitter.com/search?q=Cabaretier) | N/A |
+| 10 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 11 | [#herdbo](http://twitter.com/search?q=%23herdbo) | N/A |
+| 12 | [VPRO](http://twitter.com/search?q=VPRO) | N/A |
+| 13 | [Walter de Rochebrune](http://twitter.com/search?q=Walter+de+Rochebrune) | N/A |
+| 14 | [#NEDGIB](http://twitter.com/search?q=%23NEDGIB) | N/A |
+| 15 | [Keek](http://twitter.com/search?q=Keek) | N/A |
+| 16 | [De Tegenpartij](http://twitter.com/search?q=De+Tegenpartij) | N/A |
+| 17 | [Juinen](http://twitter.com/search?q=Juinen) | N/A |
+| 18 | [Frank van Putten](http://twitter.com/search?q=Frank+van+Putten) | N/A |
+| 19 | [Sterkte Ron](http://twitter.com/search?q=Sterkte+Ron) | N/A |
+| 20 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 21 | [Foppe](http://twitter.com/search?q=Foppe) | N/A |
+| 22 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 23 | [#zondag](http://twitter.com/search?q=%23zondag) | N/A |
+| 24 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 25 | [Porsches](http://twitter.com/search?q=Porsches) | N/A |
 | 26 | [Maurice de Hond](http://twitter.com/search?q=Maurice+de+Hond) | N/A |
-| 27 | [Porsches](http://twitter.com/search?q=Porsches) | N/A |
-| 28 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 27 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 28 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
 | 29 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
-| 30 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 30 | [Robbie Kerkhof](http://twitter.com/search?q=Robbie+Kerkhof) | N/A |
 | 31 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 32 | [Duits](http://twitter.com/search?q=Duits) | N/A |
-| 33 | [Baarsma](http://twitter.com/search?q=Baarsma) | N/A |
-| 34 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 35 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 36 | [Arriva](http://twitter.com/search?q=Arriva) | N/A |
-| 37 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
-| 38 | [Hart](http://twitter.com/search?q=Hart) | N/A |
-| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 40 | [Micha Wertheim](http://twitter.com/search?q=Micha+Wertheim) | N/A |
-| 41 | [jeroen wester](http://twitter.com/search?q=jeroen+wester) | N/A |
-| 42 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 43 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 44 | [Asha](http://twitter.com/search?q=Asha) | N/A |
-| 45 | [Hannelore](http://twitter.com/search?q=Hannelore) | N/A |
+| 32 | [Aad van der Naad](http://twitter.com/search?q=Aad+van+der+Naad) | N/A |
+| 33 | [baarsma](http://twitter.com/search?q=baarsma) | N/A |
+| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 36 | [Bedankt Wim](http://twitter.com/search?q=Bedankt+Wim) | N/A |
+| 37 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 38 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 39 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
+| 40 | [Wisp](http://twitter.com/search?q=Wisp) | N/A |
+| 41 | [Micha Wertheim](http://twitter.com/search?q=Micha+Wertheim) | N/A |
+| 42 | [Duits](http://twitter.com/search?q=Duits) | N/A |
+| 43 | [Yasmine](http://twitter.com/search?q=Yasmine) | N/A |
+| 44 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 45 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
 | 46 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
-| 47 | [voorjaar](http://twitter.com/search?q=voorjaar) | N/A |
-| 48 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 49 | [Veenendaal](http://twitter.com/search?q=Veenendaal) | N/A |
-| 50 | [Vier Nederlanders](http://twitter.com/search?q=Vier+Nederlanders) | N/A |
+| 47 | [Besten](http://twitter.com/search?q=Besten) | N/A |
+| 48 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 49 | [Jaap Smit](http://twitter.com/search?q=Jaap+Smit) | N/A |
+| 50 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
 
 
 

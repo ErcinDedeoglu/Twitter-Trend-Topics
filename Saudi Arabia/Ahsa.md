@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-03-27 11:17:52 UTC`
+📆 Last Updated: `2023-03-27 13:45:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#مكافاه_مصرف_الراجحي3](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a3) | N/A |
-| 2 | [#امطار_الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 2 | [#الراتب](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%a7%d8%aa%d8%a8) | N/A |
 | 3 | [#الرخصه_المهنيه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d8%ae%d8%b5%d9%87_%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a%d9%87) | N/A |
 | 4 | [#مراحل_سعود_القحطاني](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d8%b3%d8%b9%d9%88%d8%af_%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 5 | [#رمضان_مع_ابوفهد](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af) | N/A |
+| 5 | [#امطار_الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
 | 6 | [٥ رمضان](http://twitter.com/search?q=%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 7 | [مشروع المسار الرياضي](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 8 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 9 | [المعدن المذاب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%af%d9%86+%d8%a7%d9%84%d9%85%d8%b0%d8%a7%d8%a8) | N/A |
+| 7 | [عيسى](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
+| 8 | [المعدن المذاب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d8%af%d9%86+%d8%a7%d9%84%d9%85%d8%b0%d8%a7%d8%a8) | N/A |
+| 9 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 10 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 11 | [عيسى](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
-| 12 | [دوار الشراع](http://twitter.com/search?q=%d8%af%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%b9) | N/A |
-| 13 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 14 | [السنه النبويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a%d9%87) | N/A |
-| 15 | [ابو مشاعل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b4%d8%a7%d8%b9%d9%84) | N/A |
-| 16 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
-| 17 | [السنه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 18 | [علي حفظ القران](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d9%81%d8%b8+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
-| 19 | [المسار الايسر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d9%8a%d8%b3%d8%b1) | N/A |
-| 20 | [شمال الرياض](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 21 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 22 | [زاكاري ليفي](http://twitter.com/search?q=%d8%b2%d8%a7%d9%83%d8%a7%d8%b1%d9%8a+%d9%84%d9%8a%d9%81%d9%8a) | N/A |
-| 23 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 24 | [سيدي القاضي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a) | N/A |
-| 25 | [WQ-18](http://twitter.com/search?q=WQ-18) | N/A |
-| 26 | [الملك القدوس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%82%d8%af%d9%88%d8%b3) | N/A |
-| 27 | [الكفر الخلفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%81%d8%b1+%d8%a7%d9%84%d8%ae%d9%84%d9%81%d9%8a) | N/A |
-| 28 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
-| 29 | [مسجد قباء](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d9%82%d8%a8%d8%a7%d8%a1) | N/A |
-| 30 | [حلا الاوريو](http://twitter.com/search?q=%d8%ad%d9%84%d8%a7+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%8a%d9%88) | N/A |
-| 31 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
-| 32 | [الفهم الصحيح](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%87%d9%85+%d8%a7%d9%84%d8%b5%d8%ad%d9%8a%d8%ad) | N/A |
-| 33 | [الساحل الغربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a) | N/A |
-| 34 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 35 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 36 | [الخيل المسومه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%b3%d9%88%d9%85%d9%87) | N/A |
-| 37 | [خالد الفراج](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ac) | N/A |
-| 38 | [مركز الملك](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 39 | [علي صوت المطر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | "علي صوت المطر" is an Arabic phrase that translates to "to the sound of the rain". It is often used as a metaphor for something that is calming and peaceful. |
-| 40 | [اللون المفضل](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d9%86+%d8%a7%d9%84%d9%85%d9%81%d8%b6%d9%84) | N/A |
-| 41 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 42 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 43 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 44 | [اسماء بنت ابي بكر الصديق](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%a1+%d8%a8%d9%86%d8%aa+%d8%a7%d8%a8%d9%8a+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
-| 45 | [اختبار التخصص](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d8%aa%d8%ae%d8%b5%d8%b5) | N/A |
-| 46 | [علي العلياني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7%d9%86%d9%8a) | N/A |
-| 47 | [عزيزي الطالب](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2%d9%8a+%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 48 | [الاغنيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ba%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 49 | [علي الاقبال](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d8%a8%d8%a7%d9%84) | N/A |
-| 50 | [تعزيز الهويه الاسلاميه](http://twitter.com/search?q=%d8%aa%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a7%d9%84%d9%87%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 11 | [دوار الشراع](http://twitter.com/search?q=%d8%af%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%b9) | N/A |
+| 12 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 13 | [ابو مشاعل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b4%d8%a7%d8%b9%d9%84) | N/A |
+| 14 | [حرف الراء](http://twitter.com/search?q=%d8%ad%d8%b1%d9%81+%d8%a7%d9%84%d8%b1%d8%a7%d8%a1) | N/A |
+| 15 | [السنه النبويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a%d9%87) | N/A |
+| 16 | [السنه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 17 | [شباب البومب](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
+| 18 | [المسار الايسر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d9%8a%d8%b3%d8%b1) | N/A |
+| 19 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 20 | [سير العمليه التعليميه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 21 | [سيدي القاضي](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%a7%d8%b6%d9%8a) | N/A |
+| 22 | [علي حصه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%b5%d9%87) | N/A |
+| 23 | [مسجد قباء](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d9%82%d8%a8%d8%a7%d8%a1) | N/A |
+| 24 | [الكفر الخلفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%81%d8%b1+%d8%a7%d9%84%d8%ae%d9%84%d9%81%d9%8a) | N/A |
+| 25 | [الملك القدوس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%82%d8%af%d9%88%d8%b3) | N/A |
+| 26 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 27 | [الخيل المسومه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%8a%d9%84+%d8%a7%d9%84%d9%85%d8%b3%d9%88%d9%85%d9%87) | N/A |
+| 28 | [حلا الاوريو](http://twitter.com/search?q=%d8%ad%d9%84%d8%a7+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%8a%d9%88) | N/A |
+| 29 | [عباس ابراهيم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 30 | [القران الكريم](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 31 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
+| 32 | [مركز الملك](http://twitter.com/search?q=%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 33 | [اسماء بنت ابي بكر الصديق](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%a1+%d8%a8%d9%86%d8%aa+%d8%a7%d8%a8%d9%8a+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
+| 34 | [الحصص الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d8%b5+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 35 | [علي العلياني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7%d9%86%d9%8a) | N/A |
+| 36 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 37 | [اختبار التخصص](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d8%aa%d8%ae%d8%b5%d8%b5) | N/A |
+| 38 | [خالد الفراج](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ac) | N/A |
+| 39 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 40 | [القناطير المقنطره](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%86%d8%a7%d8%b7%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%82%d9%86%d8%b7%d8%b1%d9%87) | N/A |
+| 41 | [ابو نوره](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d9%88%d8%b1%d9%87) | ابو نوره is an Arabic phrase meaning "Father of Light". It is often used as a term of endearment for a father or other male figure. |
+| 42 | [الشخصيه الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%ae%d8%b5%d9%8a%d9%87+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 43 | [الدراسه الحضوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%ad%d8%b6%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 44 | [الموسم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 45 | [علي صوت المطر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | "علي صوت المطر" is an Arabic phrase that translates to "to the sound of the rain". It is often used as a metaphor for something that is calming and peaceful. |
+| 46 | [الاغنيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ba%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 47 | [اللون المفضل](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d9%86+%d8%a7%d9%84%d9%85%d9%81%d8%b6%d9%84) | N/A |
+| 48 | [خالد الدحيدح](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d8%af%d8%ad) | N/A |
+| 49 | [علي حفظ القران](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d9%81%d8%b8+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
+| 50 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
 
 
 

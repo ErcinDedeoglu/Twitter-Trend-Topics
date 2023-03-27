@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-27 11:16:43 UTC`
+📆 Last Updated: `2023-03-27 13:44:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 2 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 5 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 6 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 7 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 8 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 9 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 11 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 12 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 13 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 14 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 15 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 16 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 17 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 3 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 4 | [Santé Québec](http://twitter.com/search?q=Sant%c3%a9+Qu%c3%a9bec) | N/A |
+| 5 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 6 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 7 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 8 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 9 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 10 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 11 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 13 | [#lavoixtva](http://twitter.com/search?q=%23lavoixtva) | N/A |
+| 14 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 15 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 16 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 17 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 | 18 | [Isobel Cup](http://twitter.com/search?q=Isobel+Cup) | N/A |
-| 19 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
-| 20 | [250K in ETH](http://twitter.com/search?q=250K+in+ETH) | N/A |
-| 21 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 22 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 19 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 20 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 22 | [Ted Nugent](http://twitter.com/search?q=Ted+Nugent) | N/A |
 | 23 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 24 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
-| 25 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
-| 26 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 27 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 28 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 30 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 31 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 32 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
-| 33 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 34 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 35 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 36 | [TYSON BARRIE](http://twitter.com/search?q=TYSON+BARRIE) | N/A |
-| 37 | [CALVIN KLEIN](http://twitter.com/search?q=CALVIN+KLEIN) | N/A |
-| 38 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 39 | [sean farrell](http://twitter.com/search?q=sean+farrell) | N/A |
-| 40 | [BEASLEY](http://twitter.com/search?q=BEASLEY) | N/A |
-| 41 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 42 | [Ron Maclean](http://twitter.com/search?q=Ron+Maclean) | N/A |
-| 43 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 44 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
-| 45 | [Toronto Six](http://twitter.com/search?q=Toronto+Six) | N/A |
-| 46 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 47 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 48 | [3DS eShop](http://twitter.com/search?q=3DS+eShop) | N/A |
+| 24 | [250K in ETH](http://twitter.com/search?q=250K+in+ETH) | N/A |
+| 25 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 26 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 27 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 28 | [Jack edwards](http://twitter.com/search?q=Jack+edwards) | N/A |
+| 29 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 30 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 31 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 32 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
+| 33 | [teletoon](http://twitter.com/search?q=teletoon) | N/A |
+| 34 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 35 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
+| 36 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 37 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 38 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 39 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 40 | [TYSON BARRIE](http://twitter.com/search?q=TYSON+BARRIE) | N/A |
+| 41 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 42 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 43 | [Ron MacLean](http://twitter.com/search?q=Ron+MacLean) | N/A |
+| 44 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 45 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 46 | [reddick](http://twitter.com/search?q=reddick) | N/A |
+| 47 | [Olivia Chow](http://twitter.com/search?q=Olivia+Chow) | N/A |
+| 48 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
 | 49 | [McDonough](http://twitter.com/search?q=McDonough) | N/A |
 
 

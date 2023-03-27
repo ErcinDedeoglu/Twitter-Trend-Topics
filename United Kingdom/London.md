@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-27 11:16:47 UTC`
+📆 Last Updated: `2023-03-27 13:44:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 2 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 3 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 4 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 5 | [Tory MPs](http://twitter.com/search?q=Tory+MPs) | N/A |
-| 6 | [#THFC](http://twitter.com/search?q=%23THFC) | N/A |
-| 7 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 8 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 10 | [#AutismAcceptanceWeek](http://twitter.com/search?q=%23AutismAcceptanceWeek) | N/A |
-| 11 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 12 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 13 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 14 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 15 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
-| 16 | [Ian Dury](http://twitter.com/search?q=Ian+Dury) | N/A |
-| 17 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 18 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 19 | [Euston](http://twitter.com/search?q=Euston) | N/A |
-| 20 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 21 | [Tess](http://twitter.com/search?q=Tess) | Tess is short for the name Theresa, which is of Greek origin and means "harvester". |
-| 22 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 23 | [Tory Britain](http://twitter.com/search?q=Tory+Britain) | N/A |
-| 24 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 25 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 26 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 27 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 28 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 29 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 30 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 31 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 32 | [#ASongOrMovieForMaleNames](http://twitter.com/search?q=%23ASongOrMovieForMaleNames) | N/A |
-| 33 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 34 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 35 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 36 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
-| 37 | [#ITEC2023](http://twitter.com/search?q=%23ITEC2023) | N/A |
-| 38 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 39 | [#ToriesOut263](http://twitter.com/search?q=%23ToriesOut263) | N/A |
-| 40 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 41 | [#NSID2023](http://twitter.com/search?q=%23NSID2023) | N/A |
-| 42 | [#accepted](http://twitter.com/search?q=%23accepted) | N/A |
-| 43 | [#MondayBlues](http://twitter.com/search?q=%23MondayBlues) | N/A |
-| 44 | [#ToriesUnfitToGovern](http://twitter.com/search?q=%23ToriesUnfitToGovern) | N/A |
-| 45 | [#Wordle646](http://twitter.com/search?q=%23Wordle646) | N/A |
-| 46 | [#GeneralElectionN0W](http://twitter.com/search?q=%23GeneralElectionN0W) | N/A |
-| 47 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 48 | [#autismawareness](http://twitter.com/search?q=%23autismawareness) | N/A |
-| 49 | [#Levyout](http://twitter.com/search?q=%23Levyout) | N/A |
+| 1 | [Nicola Sturgeon](http://twitter.com/search?q=Nicola+Sturgeon) | N/A |
+| 2 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
+| 3 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
+| 4 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 5 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 6 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 7 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 8 | [#SNPLeadershipElection](http://twitter.com/search?q=%23SNPLeadershipElection) | N/A |
+| 9 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
+| 10 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 11 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 12 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 13 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 14 | [#AutismAcceptanceWeek](http://twitter.com/search?q=%23AutismAcceptanceWeek) | N/A |
+| 15 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 16 | [Hoggy](http://twitter.com/search?q=Hoggy) | N/A |
+| 17 | [Scottish National Party](http://twitter.com/search?q=Scottish+National+Party) | N/A |
+| 18 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 19 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 20 | [Stuart Hogg](http://twitter.com/search?q=Stuart+Hogg) | N/A |
+| 21 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 22 | [Solidarity Jeremy](http://twitter.com/search?q=Solidarity+Jeremy) | N/A |
+| 23 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 24 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 25 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 26 | [Lallana](http://twitter.com/search?q=Lallana) | Lallana is a Spanish surname derived from the Latin word lallare, which means "to sing". It is also a common given name in India, derived from the Sanskrit word lalana, which means "playful". |
+| 27 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 28 | [Chelmsford](http://twitter.com/search?q=Chelmsford) | N/A |
+| 29 | [Gini](http://twitter.com/search?q=Gini) | N/A |
+| 30 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
+| 31 | [Big Issue](http://twitter.com/search?q=Big+Issue) | N/A |
+| 32 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 33 | [Scottish Independence](http://twitter.com/search?q=Scottish+Independence) | N/A |
+| 34 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 35 | [Ash Sarkar](http://twitter.com/search?q=Ash+Sarkar) | N/A |
+| 36 | [Brandon Williams](http://twitter.com/search?q=Brandon+Williams) | N/A |
+| 37 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 38 | [The Union](http://twitter.com/search?q=The+Union) | N/A |
+| 39 | [Zeze](http://twitter.com/search?q=Zeze) | N/A |
+| 40 | [Yousless](http://twitter.com/search?q=Yousless) | N/A |
+| 41 | [Tess](http://twitter.com/search?q=Tess) | Tess is short for the name Theresa, which is of Greek origin and means "harvester". |
+| 42 | [Ed Miliband](http://twitter.com/search?q=Ed+Miliband) | N/A |
+| 43 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 44 | [The Athletic](http://twitter.com/search?q=The+Athletic) | N/A |
+| 45 | [Independent](http://twitter.com/search?q=Independent) | N/A |
+| 46 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 47 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 48 | [Ian Dury](http://twitter.com/search?q=Ian+Dury) | N/A |
+| 49 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 
 
 

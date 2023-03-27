@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-27 11:17:46 UTC`
+📆 Last Updated: `2023-03-27 13:45:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Lebanon
 | 1 | [#التوقيت_الصيفي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa_%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
 | 2 | [#الكيان_الموقت](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
 | 3 | [#حوت__المطار](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%aa__%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d8%b1) | N/A |
-| 4 | [#برنامج_حكايه_وعد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%ad%d9%83%d8%a7%d9%8a%d9%87_%d9%88%d8%b9%d8%af) | N/A |
-| 5 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 6 | [#نتنياهو](http://twitter.com/search?q=%23%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88) | N/A |
-| 7 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 8 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 4 | [ليل الاربعاء](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | N/A |
+| 5 | [#برنامج_حكايه_وعد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%ad%d9%83%d8%a7%d9%8a%d9%87_%d9%88%d8%b9%d8%af) | N/A |
+| 6 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 7 | [#sagriy](http://twitter.com/search?q=%23sagriy) | N/A |
+| 8 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 9 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
-| 10 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
-| 11 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 12 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
-| 13 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
-| 14 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
-| 15 | [عباس الحلبي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d9%84%d8%ad%d9%84%d8%a8%d9%8a) | N/A |
-| 16 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 17 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
-| 18 | [الكيان الغاصب](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d8%b5%d8%a8) | N/A |
-| 19 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 20 | [الدولار الجمركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%b1%d9%83%d9%8a) | N/A |
-| 21 | [توقيت مصر](http://twitter.com/search?q=%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d9%85%d8%b5%d8%b1) | N/A |
-| 22 | [كميل شمعون](http://twitter.com/search?q=%d9%83%d9%85%d9%8a%d9%84+%d8%b4%d9%85%d8%b9%d9%88%d9%86) | N/A |
-| 23 | [توقيت عالمي](http://twitter.com/search?q=%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 24 | [الاصلاح القضايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a) | N/A |
-| 25 | [وزارة التربية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9) | N/A |
-| 26 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 28 | [بشير الجميل](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 29 | [وزير الحرب](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8) | N/A |
-| 30 | [المتخلفين الرجعيين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%aa%d8%ae%d9%84%d9%81%d9%8a%d9%86+%d8%a7%d9%84%d8%b1%d8%ac%d8%b9%d9%8a%d9%8a%d9%86) | N/A |
-| 31 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
-| 32 | [الحرب الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
-| 33 | [ديما صادق](http://twitter.com/search?q=%d8%af%d9%8a%d9%85%d8%a7+%d8%b5%d8%a7%d8%af%d9%82) | N/A |
-| 34 | [عيش مشترك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b4+%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
-| 35 | [ايا توقيت](http://twitter.com/search?q=%d8%a7%d9%8a%d8%a7+%d8%aa%d9%88%d9%82%d9%8a%d8%aa) | N/A |
-| 36 | [المدارس الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
-| 37 | [حسن خالد](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 38 | [اتخاذ القرار](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ae%d8%a7%d8%b0+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
-| 39 | [رييس الحكومه العسكريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%87) | N/A |
-| 40 | [الموتمر الوطني الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
-| 41 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 42 | [غسان](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86) | N/A |
-| 43 | [النعرات الطايفيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b9%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%8a%d9%87) | N/A |
-| 44 | [جنبلاط](http://twitter.com/search?q=%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
-| 45 | [رجل دين](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%af%d9%8a%d9%86) | N/A |
-| 46 | [سماحة السيد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 47 | [الاداره الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 48 | [الوحده الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 49 | [الانقسام الطايفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%82%d8%b3%d8%a7%d9%85+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%8a) | N/A |
-| 50 | [العصر الحجري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d8%b1+%d8%a7%d9%84%d8%ad%d8%ac%d8%b1%d9%8a) | N/A |
+| 10 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 11 | [علي التحمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%85%d9%84) | N/A |
+| 12 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
+| 13 | [الخميس المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 14 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
+| 15 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
+| 16 | [الدولار الجمركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%b1%d9%83%d9%8a) | N/A |
+| 17 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 18 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 19 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
+| 20 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 21 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
+| 22 | [الكيان الغاصب](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d8%b5%d8%a8) | N/A |
+| 23 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 25 | [كميل شمعون](http://twitter.com/search?q=%d9%83%d9%85%d9%8a%d9%84+%d8%b4%d9%85%d8%b9%d9%88%d9%86) | N/A |
+| 26 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
+| 27 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 28 | [وزارة التربية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9) | N/A |
+| 29 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 30 | [رييس الحكومه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
+| 31 | [الاصلاح القضايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a) | N/A |
+| 32 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
+| 33 | [بشير الجميل](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 34 | [حسن خالد](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 35 | [الاستفراغ الطايفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%81%d8%b1%d8%a7%d8%ba+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%8a) | N/A |
+| 36 | [عيش مشترك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b4+%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
+| 37 | [اتخاذ القرار](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ae%d8%a7%d8%b0+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
+| 38 | [الحرب الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
+| 39 | [ديما صادق](http://twitter.com/search?q=%d8%af%d9%8a%d9%85%d8%a7+%d8%b5%d8%a7%d8%af%d9%82) | N/A |
+| 40 | [وزير الحرب](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8) | N/A |
+| 41 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 42 | [بمصر](http://twitter.com/search?q=%d8%a8%d9%85%d8%b5%d8%b1) | N/A |
+| 43 | [الموتمر الوطني الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
+| 44 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 45 | [نجيب](http://twitter.com/search?q=%d9%86%d8%ac%d9%8a%d8%a8) | N/A |
+| 46 | [جنبلاط](http://twitter.com/search?q=%d8%ac%d9%86%d8%a8%d9%84%d8%a7%d8%b7) | N/A |
+| 47 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 48 | [سماحة السيد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 49 | [عباس الحلبي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%a7%d8%b3+%d8%a7%d9%84%d8%ad%d9%84%d8%a8%d9%8a) | N/A |
+| 50 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
 
 
 

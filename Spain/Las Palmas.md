@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-27 11:17:04 UTC`
+📆 Last Updated: `2023-03-27 13:44:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,51 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ConexiónHonduras4](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras4) | N/A |
-| 2 | [#DíaMundialDelTeatro](http://twitter.com/search?q=%23D%c3%adaMundialDelTeatro) | N/A |
-| 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 4 | [#AtomicHeartEnGAME](http://twitter.com/search?q=%23AtomicHeartEnGAME) | N/A |
-| 5 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
-| 6 | [Héctor Gómez](http://twitter.com/search?q=H%c3%a9ctor+G%c3%b3mez) | N/A |
-| 7 | [José Manuel Miñones](http://twitter.com/search?q=Jos%c3%a9+Manuel+Mi%c3%b1ones) | N/A |
-| 8 | [Industria](http://twitter.com/search?q=Industria) | N/A |
-| 9 | [Sanidad](http://twitter.com/search?q=Sanidad) | N/A |
-| 10 | [Carolina Darias](http://twitter.com/search?q=Carolina+Darias) | N/A |
-| 11 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 12 | [samiha ayoub](http://twitter.com/search?q=samiha+ayoub) | N/A |
-| 13 | [Comercio y Turismo](http://twitter.com/search?q=Comercio+y+Turismo) | N/A |
-| 14 | [Marhuenda](http://twitter.com/search?q=Marhuenda) | N/A |
-| 15 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
-| 16 | [445 X](http://twitter.com/search?q=445+X) | N/A |
-| 17 | [Juanfran](http://twitter.com/search?q=Juanfran) | N/A |
-| 18 | [Nacionalidad](http://twitter.com/search?q=Nacionalidad) | N/A |
-| 19 | [Lunes 27](http://twitter.com/search?q=Lunes+27) | N/A |
-| 20 | [Santander](http://twitter.com/search?q=Santander) | N/A |
-| 21 | [El 27](http://twitter.com/search?q=El+27) | N/A |
-| 22 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 23 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 24 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 25 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
-| 26 | [Domingo de Ramos](http://twitter.com/search?q=Domingo+de+Ramos) | N/A |
-| 27 | [Semana Santa 2023](http://twitter.com/search?q=Semana+Santa+2023) | N/A |
-| 28 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 29 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 30 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 31 | [Bicimad](http://twitter.com/search?q=Bicimad) | N/A |
-| 32 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 33 | [cercedilla](http://twitter.com/search?q=cercedilla) | N/A |
-| 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 35 | [Defensa](http://twitter.com/search?q=Defensa) | N/A |
+| 2 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
+| 3 | [#QUESOrteazo](http://twitter.com/search?q=%23QUESOrteazo) | N/A |
+| 4 | [#diamundialdelteatro](http://twitter.com/search?q=%23diamundialdelteatro) | N/A |
+| 5 | [#PrimaveraEnTU](http://twitter.com/search?q=%23PrimaveraEnTU) | N/A |
+| 6 | [Enhorabuena Paco](http://twitter.com/search?q=Enhorabuena+Paco) | N/A |
+| 7 | [Hiba Abouk](http://twitter.com/search?q=Hiba+Abouk) | N/A |
+| 8 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 9 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
+| 10 | [Montmeló](http://twitter.com/search?q=Montmel%c3%b3) | N/A |
+| 11 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 12 | [IFFHS](http://twitter.com/search?q=IFFHS) | N/A |
+| 13 | [Héctor Gómez](http://twitter.com/search?q=H%c3%a9ctor+G%c3%b3mez) | N/A |
+| 14 | [Maka](http://twitter.com/search?q=Maka) | N/A |
+| 15 | [Marhuenda](http://twitter.com/search?q=Marhuenda) | N/A |
+| 16 | [Más País](http://twitter.com/search?q=M%c3%a1s+Pa%c3%ads) | N/A |
+| 17 | [Petrer](http://twitter.com/search?q=Petrer) | N/A |
+| 18 | [Industria](http://twitter.com/search?q=Industria) | N/A |
+| 19 | [José Miñones](http://twitter.com/search?q=Jos%c3%a9+Mi%c3%b1ones) | N/A |
+| 20 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 21 | [Sanidad](http://twitter.com/search?q=Sanidad) | N/A |
+| 22 | [Carolina Darias](http://twitter.com/search?q=Carolina+Darias) | N/A |
+| 23 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
+| 24 | [Juanfran](http://twitter.com/search?q=Juanfran) | N/A |
+| 25 | [Comercio y Turismo](http://twitter.com/search?q=Comercio+y+Turismo) | N/A |
+| 26 | [Alcobendas](http://twitter.com/search?q=Alcobendas) | N/A |
+| 27 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 28 | [445 X](http://twitter.com/search?q=445+X) | N/A |
+| 29 | [Nacionalidad](http://twitter.com/search?q=Nacionalidad) | N/A |
+| 30 | [Semana Santa 2023](http://twitter.com/search?q=Semana+Santa+2023) | N/A |
+| 31 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
+| 32 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 33 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 34 | [Lunes 27](http://twitter.com/search?q=Lunes+27) | N/A |
+| 35 | [viernes de dolores](http://twitter.com/search?q=viernes+de+dolores) | N/A |
 | 36 | [#ladrillovisto](http://twitter.com/search?q=%23ladrillovisto) | N/A |
-| 37 | [#ECIgamingMinecraftLegends](http://twitter.com/search?q=%23ECIgamingMinecraftLegends) | N/A |
-| 38 | [#APOYOROCIO27M](http://twitter.com/search?q=%23APOYOROCIO27M) | N/A |
-| 39 | [#YoMeRebelo27M](http://twitter.com/search?q=%23YoMeRebelo27M) | N/A |
-| 40 | [#LunesDeOjos](http://twitter.com/search?q=%23LunesDeOjos) | N/A |
-| 41 | [#CILE2023](http://twitter.com/search?q=%23CILE2023) | N/A |
-| 42 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
+| 37 | [#AtomicHeartEnGAME](http://twitter.com/search?q=%23AtomicHeartEnGAME) | N/A |
+| 38 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 39 | [#ECIgamingMinecraftLegends](http://twitter.com/search?q=%23ECIgamingMinecraftLegends) | N/A |
+| 40 | [#AmordazadosPorLey](http://twitter.com/search?q=%23AmordazadosPorLey) | N/A |
+| 41 | [#Gianmarco27M](http://twitter.com/search?q=%23Gianmarco27M) | N/A |
+| 42 | [#CILE2023](http://twitter.com/search?q=%23CILE2023) | N/A |
+| 43 | [#APOYOROCIO27M](http://twitter.com/search?q=%23APOYOROCIO27M) | N/A |
+| 44 | [#YoMeRebelo27M](http://twitter.com/search?q=%23YoMeRebelo27M) | N/A |
+| 45 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 46 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
 
 
 

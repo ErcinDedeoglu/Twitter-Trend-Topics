@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-03-27 11:16:53 UTC`
+📆 Last Updated: `2023-03-27 13:44:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#27Mar](http://twitter.com/search?q=%2327Mar) | N/A |
 | 2 | [#NiCorrupciónNiGuarimbas](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiGuarimbas) | N/A |
 | 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 4 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 5 | [#ManoDuraABandasCorruptas](http://twitter.com/search?q=%23ManoDuraABandasCorruptas) | N/A |
-| 6 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 7 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 8 | [Lanco](http://twitter.com/search?q=Lanco) | N/A |
-| 9 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
-| 10 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
-| 11 | [Jacke](http://twitter.com/search?q=Jacke) | N/A |
-| 12 | [#YoVotoXTodos](http://twitter.com/search?q=%23YoVotoXTodos) | N/A |
-| 13 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 4 | [#EscudoBolivariano2023](http://twitter.com/search?q=%23EscudoBolivariano2023) | N/A |
+| 5 | [#PuebloYFANBInvictos](http://twitter.com/search?q=%23PuebloYFANBInvictos) | N/A |
+| 6 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
+| 7 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
+| 8 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 9 | [Lanco](http://twitter.com/search?q=Lanco) | N/A |
+| 10 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 11 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 12 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 13 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
 | 14 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
-| 15 | [Carite](http://twitter.com/search?q=Carite) | N/A |
-| 16 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 17 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 18 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
+| 15 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 16 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 17 | [Panteón Nacional](http://twitter.com/search?q=Pante%c3%b3n+Nacional) | N/A |
+| 18 | [Carite](http://twitter.com/search?q=Carite) | N/A |
 | 19 | [Andy Montañez](http://twitter.com/search?q=Andy+Monta%c3%b1ez) | N/A |
-| 20 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 21 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 22 | [marco antonio muñiz](http://twitter.com/search?q=marco+antonio+mu%c3%b1iz) | N/A |
-| 23 | [Fido Dido](http://twitter.com/search?q=Fido+Dido) | N/A |
-| 24 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 25 | [trululu](http://twitter.com/search?q=trululu) | N/A |
-| 26 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 27 | [Yare](http://twitter.com/search?q=Yare) | N/A |
-| 28 | [Compre](http://twitter.com/search?q=Compre) | N/A |
-| 29 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 30 | [Bandera Roja](http://twitter.com/search?q=Bandera+Roja) | N/A |
-| 31 | [Día Mundial del Clima](http://twitter.com/search?q=D%c3%ada+Mundial+del+Clima) | N/A |
-| 32 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 33 | [Burt Reynolds](http://twitter.com/search?q=Burt+Reynolds) | N/A |
-| 34 | [la asunción](http://twitter.com/search?q=la+asunci%c3%b3n) | N/A |
+| 20 | [Fido Dido](http://twitter.com/search?q=Fido+Dido) | N/A |
+| 21 | [marco antonio muñiz](http://twitter.com/search?q=marco+antonio+mu%c3%b1iz) | N/A |
+| 22 | [Provincia de Venezuela](http://twitter.com/search?q=Provincia+de+Venezuela) | N/A |
+| 23 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
+| 24 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 25 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 26 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 27 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
+| 28 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 29 | [Compre](http://twitter.com/search?q=Compre) | N/A |
+| 30 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 31 | [Trululu](http://twitter.com/search?q=Trululu) | N/A |
+| 32 | [La Asunción](http://twitter.com/search?q=La+Asunci%c3%b3n) | N/A |
+| 33 | [Bandera Roja](http://twitter.com/search?q=Bandera+Roja) | N/A |
+| 34 | [Teresa Carreño](http://twitter.com/search?q=Teresa+Carre%c3%b1o) | N/A |
 | 35 | [Verónica Castro](http://twitter.com/search?q=Ver%c3%b3nica+Castro) | N/A |
-| 36 | [Milton](http://twitter.com/search?q=Milton) | N/A |
-| 37 | [Teresa Carreño](http://twitter.com/search?q=Teresa+Carre%c3%b1o) | N/A |
-| 38 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 39 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 40 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 41 | [Alberto Ramos](http://twitter.com/search?q=Alberto+Ramos) | N/A |
-| 42 | [bendecido domingo](http://twitter.com/search?q=bendecido+domingo) | N/A |
-| 43 | [Albóndiga](http://twitter.com/search?q=Alb%c3%b3ndiga) | N/A |
-| 44 | [Henri Pittier](http://twitter.com/search?q=Henri+Pittier) | N/A |
-| 45 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 46 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 47 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 48 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
-| 49 | [forza di oro](http://twitter.com/search?q=forza+di+oro) | N/A |
+| 36 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 37 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 38 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 39 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
+| 40 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 41 | [darién](http://twitter.com/search?q=dari%c3%a9n) | N/A |
+| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 43 | [Burt Reynolds](http://twitter.com/search?q=Burt+Reynolds) | N/A |
+| 44 | [albóndiga](http://twitter.com/search?q=alb%c3%b3ndiga) | N/A |
+| 45 | [Sally Field](http://twitter.com/search?q=Sally+Field) | N/A |
+| 46 | [Milton](http://twitter.com/search?q=Milton) | N/A |
+| 47 | [Henri Pittier](http://twitter.com/search?q=Henri+Pittier) | N/A |
+| 48 | [Rocío Durcal](http://twitter.com/search?q=Roc%c3%ado+Durcal) | N/A |
+| 49 | [el 26](http://twitter.com/search?q=el+26) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fukuoka
 
-📆 Last Updated: `2023-03-27 11:17:10 UTC`
+📆 Last Updated: `2023-03-27 13:44:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ゆと打って出てきたものがお前に不足](http://twitter.com/search?q=%23%e3%82%86%e3%81%a8%e6%89%93%e3%81%a3%e3%81%a6%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%82%e3%81%ae%e3%81%8c%e3%81%8a%e5%89%8d%e3%81%ab%e4%b8%8d%e8%b6%b3) | N/A |
-| 2 | [#ドレミファドン](http://twitter.com/search?q=%23%e3%83%89%e3%83%ac%e3%83%9f%e3%83%95%e3%82%a1%e3%83%89%e3%83%b3) | #ドレミファドン is a Japanese hashtag that translates to "Do Re Mi Fa Don". It is used to express enthusiasm for music, and can be used in the context of singing, playing an instrument, or simply enjoying music. |
-| 3 | [#冒険少年](http://twitter.com/search?q=%23%e5%86%92%e9%99%ba%e5%b0%91%e5%b9%b4) | #冒険少年 is a Japanese hashtag that translates to "adventurous youth" in English. It is used to refer to young people who are adventurous and willing to take risks. |
-| 4 | [マーリン](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%aa%e3%83%b3) | N/A |
-| 5 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 6 | [めめこじのファン](http://twitter.com/search?q=%e3%82%81%e3%82%81%e3%81%93%e3%81%98%e3%81%ae%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
-| 7 | [セーラー服](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%a9%e3%83%bc%e6%9c%8d) | N/A |
-| 8 | [CDTV](http://twitter.com/search?q=CDTV) | CDTV stands for Commodore Dynamic Total Vision, which was a multimedia entertainment system developed by Commodore International in 1991. It was a combination of a CD-ROM drive, an Amiga 500 computer, and a remote control. The system was designed to play interactive multimedia titles on CD-ROMs, as well as audio CDs and other types of media. |
-| 9 | [#KPQP](http://twitter.com/search?q=%23KPQP) | N/A |
-| 10 | [ひなたくん](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%9f%e3%81%8f%e3%82%93) | N/A |
-| 11 | [あなたのHO](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%aeHO) | N/A |
-| 12 | [ラーメンデート](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%87%e3%83%bc%e3%83%88) | N/A |
-| 13 | [濵ちゃん](http://twitter.com/search?q=%e6%bf%b5%e3%81%a1%e3%82%83%e3%82%93) | 濵ちゃん is a nickname for the Japanese singer, songwriter, and actor Kenshi Yonezu. It is derived from his real name, Hachi Yonezu. In English, it can be translated to mean "Hachi-chan". |
-| 14 | [ムリおじ](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%81%8a%e3%81%98) | N/A |
+| 1 | [#居酒屋清子](http://twitter.com/search?q=%23%e5%b1%85%e9%85%92%e5%b1%8b%e6%b8%85%e5%ad%90) | N/A |
+| 2 | [#罠の戦争](http://twitter.com/search?q=%23%e7%bd%a0%e3%81%ae%e6%88%a6%e4%ba%89) | #罠の戦争 is a Japanese phrase that translates to "War of Traps". It is used to describe a situation in which two parties are engaged in a battle of wits, trying to outsmart each other by setting traps and counter-traps. |
+| 3 | [#ゆと打って出てきたものがお前に不足](http://twitter.com/search?q=%23%e3%82%86%e3%81%a8%e6%89%93%e3%81%a3%e3%81%a6%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%82%e3%81%ae%e3%81%8c%e3%81%8a%e5%89%8d%e3%81%ab%e4%b8%8d%e8%b6%b3) | N/A |
+| 4 | [#冒険少年](http://twitter.com/search?q=%23%e5%86%92%e9%99%ba%e5%b0%91%e5%b9%b4) | #冒険少年 is a Japanese hashtag that translates to "adventurous youth" in English. It is used to refer to young people who are adventurous and willing to take risks. |
+| 5 | [中丸くん](http://twitter.com/search?q=%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93) | N/A |
+| 6 | [鷲津さん](http://twitter.com/search?q=%e9%b7%b2%e6%b4%a5%e3%81%95%e3%82%93) | 鷲津さん is a Japanese name, and it can be written in English as Washizu. It is a combination of the characters for “eagle” and “harbor”. |
+| 7 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
+| 8 | [あばれる君](http://twitter.com/search?q=%e3%81%82%e3%81%b0%e3%82%8c%e3%82%8b%e5%90%9b) | N/A |
+| 9 | [マーリン](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%aa%e3%83%b3) | N/A |
+| 10 | [エンブレ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%96%e3%83%ac) | N/A |
+| 11 | [クッキーモンスター](http://twitter.com/search?q=%e3%82%af%e3%83%83%e3%82%ad%e3%83%bc%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 12 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 13 | [囲碁将棋](http://twitter.com/search?q=%e5%9b%b2%e7%a2%81%e5%b0%86%e6%a3%8b) | N/A |
+| 14 | [蛍原さん](http://twitter.com/search?q=%e8%9b%8d%e5%8e%9f%e3%81%95%e3%82%93) | 蛍原さん is a character from the Japanese manga series, Chihayafuru. Her name is Hotaru Yukishiro and she is a classmate of the main character, Chihaya Ayase. She is a talented karuta player and serves as an inspiration to Chihaya. In English, her name can be translated to "Hotaru from the Firefly Field". |
 | 15 | [イントロドン](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%88%e3%83%ad%e3%83%89%e3%83%b3) | イントロドン (introdon) is a Japanese term used to describe the introductory music that plays at the beginning of a television show or movie. It is often used to set the tone and mood of the show or movie. In English, it can be translated as "intro music". |
-| 16 | [原ちゃん](http://twitter.com/search?q=%e5%8e%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 17 | [女王の教室](http://twitter.com/search?q=%e5%a5%b3%e7%8e%8b%e3%81%ae%e6%95%99%e5%ae%a4) | N/A |
-| 18 | [京都のタクシー](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e3%81%ae%e3%82%bf%e3%82%af%e3%82%b7%e3%83%bc) | N/A |
-| 19 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 20 | [トンベリ](http://twitter.com/search?q=%e3%83%88%e3%83%b3%e3%83%99%e3%83%aa) | N/A |
-| 21 | [ホプミン](http://twitter.com/search?q=%e3%83%9b%e3%83%97%e3%83%9f%e3%83%b3) | N/A |
-| 22 | [エッグハント](http://twitter.com/search?q=%e3%82%a8%e3%83%83%e3%82%b0%e3%83%8f%e3%83%b3%e3%83%88) | N/A |
-| 23 | [アニメイントロ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%a4%e3%83%b3%e3%83%88%e3%83%ad) | アニメイントロ (Anime Intro) is the opening sequence of an anime series. It typically consists of a short animation, music, and narration that introduces the characters and setting of the show. In English, it is often referred to as an "anime intro" or "anime opening". |
-| 24 | [キムタク](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%bf%e3%82%af) | キムタク is a nickname for the Japanese actor and singer Kimura Takuya. It is a combination of his first and last name. In English, it would be translated as "Kimtaku". |
-| 25 | [海ちゃんの誕生日](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 26 | [シュチム](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%83%a0) | N/A |
-| 27 | [居酒屋アー写](http://twitter.com/search?q=%e5%b1%85%e9%85%92%e5%b1%8b%e3%82%a2%e3%83%bc%e5%86%99) | N/A |
-| 28 | [不適切リプライ](http://twitter.com/search?q=%e4%b8%8d%e9%81%a9%e5%88%87%e3%83%aa%e3%83%97%e3%83%a9%e3%82%a4) | N/A |
-| 29 | [アニソンイントロ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%82%bd%e3%83%b3%e3%82%a4%e3%83%b3%e3%83%88%e3%83%ad) | アニソンイントロ (Anison Intro) is a term used to refer to the opening theme song of an anime series. It is usually a catchy, upbeat song that serves as an introduction to the show and its characters. In English, it can be translated as "Anime Intro Theme Song". |
-| 30 | [ケセラセラ](http://twitter.com/search?q=%e3%82%b1%e3%82%bb%e3%83%a9%e3%82%bb%e3%83%a9) | N/A |
-| 31 | [神の試練](http://twitter.com/search?q=%e7%a5%9e%e3%81%ae%e8%a9%a6%e7%b7%b4) | N/A |
-| 32 | [ブレザー](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%82%b6%e3%83%bc) | N/A |
-| 33 | [ムリナール](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%83%8a%e3%83%bc%e3%83%ab) | N/A |
-| 34 | [解釈違い](http://twitter.com/search?q=%e8%a7%a3%e9%87%88%e9%81%95%e3%81%84) | N/A |
-| 35 | [波瑠ちゃん](http://twitter.com/search?q=%e6%b3%a2%e7%91%a0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 36 | [HO憤怒](http://twitter.com/search?q=HO%e6%86%a4%e6%80%92) | N/A |
-| 37 | [ボイプラデビュー組](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e7%b5%84) | N/A |
-| 38 | [館の現当主](http://twitter.com/search?q=%e9%a4%a8%e3%81%ae%e7%8f%be%e5%bd%93%e4%b8%bb) | N/A |
-| 39 | [あばれる君](http://twitter.com/search?q=%e3%81%82%e3%81%b0%e3%82%8c%e3%82%8b%e5%90%9b) | N/A |
-| 40 | [IVEの新曲](http://twitter.com/search?q=IVE%e3%81%ae%e6%96%b0%e6%9b%b2) | N/A |
-| 41 | [オトナモード](http://twitter.com/search?q=%e3%82%aa%e3%83%88%e3%83%8a%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
-| 42 | [館の主人](http://twitter.com/search?q=%e9%a4%a8%e3%81%ae%e4%b8%bb%e4%ba%ba) | N/A |
-| 43 | [waves](http://twitter.com/search?q=waves) | N/A |
-| 44 | [ジャニーズ13組](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba13%e7%b5%84) | N/A |
-| 45 | [久しぶりの音楽番組](http://twitter.com/search?q=%e4%b9%85%e3%81%97%e3%81%b6%e3%82%8a%e3%81%ae%e9%9f%b3%e6%a5%bd%e7%95%aa%e7%b5%84) | N/A |
-| 46 | [水着ベリアル](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%83%99%e3%83%aa%e3%82%a2%e3%83%ab) | N/A |
-| 47 | [ガンダムメタバース](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 48 | [シャドバ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%89%e3%83%90) | N/A |
-| 49 | [けーこん](http://twitter.com/search?q=%e3%81%91%e3%83%bc%e3%81%93%e3%82%93) | N/A |
+| 16 | [天使のテーゼ](http://twitter.com/search?q=%e5%a4%a9%e4%bd%bf%e3%81%ae%e3%83%86%e3%83%bc%e3%82%bc) | N/A |
+| 17 | [セーラー服](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%a9%e3%83%bc%e6%9c%8d) | N/A |
+| 18 | [ブレーキランプ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad%e3%83%a9%e3%83%b3%e3%83%97) | N/A |
+| 19 | [めめこじのファン](http://twitter.com/search?q=%e3%82%81%e3%82%81%e3%81%93%e3%81%98%e3%81%ae%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 20 | [キムタク](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%bf%e3%82%af) | キムタク is a nickname for the Japanese actor and singer Kimura Takuya. It is a combination of his first and last name. In English, it would be translated as "Kimtaku". |
+| 21 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
+| 22 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 23 | [迷惑運転](http://twitter.com/search?q=%e8%bf%b7%e6%83%91%e9%81%8b%e8%bb%a2) | N/A |
+| 24 | [丹生ちゃん](http://twitter.com/search?q=%e4%b8%b9%e7%94%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 25 | [わこりーぬ](http://twitter.com/search?q=%e3%82%8f%e3%81%93%e3%82%8a%e3%83%bc%e3%81%ac) | わこりーぬ is a Japanese slang term that means "I don't know". |
+| 26 | [ラーメンデート](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%87%e3%83%bc%e3%83%88) | N/A |
+| 27 | [CDTV](http://twitter.com/search?q=CDTV) | CDTV stands for Commodore Dynamic Total Vision, which was a multimedia entertainment system developed by Commodore International in 1991. It was a combination of a CD-ROM drive, an Amiga 500 computer, and a remote control. The system was designed to play interactive multimedia titles on CD-ROMs, as well as audio CDs and other types of media. |
+| 28 | [あなたのHO](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%aeHO) | N/A |
+| 29 | [The k4sen](http://twitter.com/search?q=The+k4sen) | The k4sen is a Japanese phrase that translates to "the four seasons". It is used to refer to the four distinct periods of the year: spring, summer, autumn, and winter. |
+| 30 | [鷹野さん](http://twitter.com/search?q=%e9%b7%b9%e9%87%8e%e3%81%95%e3%82%93) | 鷹野さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated as "Mr. Taka-no" or "Sir Taka-no". |
+| 31 | [トンベリ](http://twitter.com/search?q=%e3%83%88%e3%83%b3%e3%83%99%e3%83%aa) | N/A |
+| 32 | [濵ちゃん](http://twitter.com/search?q=%e6%bf%b5%e3%81%a1%e3%82%83%e3%82%93) | 濵ちゃん is a nickname for the Japanese singer, songwriter, and actor Kenshi Yonezu. It is derived from his real name, Hachi Yonezu. In English, it can be translated to mean "Hachi-chan". |
+| 33 | [鷲津の顔](http://twitter.com/search?q=%e9%b7%b2%e6%b4%a5%e3%81%ae%e9%a1%94) | N/A |
+| 34 | [女王の教室](http://twitter.com/search?q=%e5%a5%b3%e7%8e%8b%e3%81%ae%e6%95%99%e5%ae%a4) | N/A |
+| 35 | [サラタイ](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%82%bf%e3%82%a4) | N/A |
+| 36 | [イントロクイズ](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%88%e3%83%ad%e3%82%af%e3%82%a4%e3%82%ba) | イントロクイズ (Intro Quiz) is a Japanese game show that features a series of questions about popular music. Contestants must answer the questions correctly in order to win prizes. The name comes from the fact that each round begins with an introduction or "intro" to the song being featured. In English, it can be translated as "Intro Quiz". |
+| 37 | [空想エレクティカ](http://twitter.com/search?q=%e7%a9%ba%e6%83%b3%e3%82%a8%e3%83%ac%e3%82%af%e3%83%86%e3%82%a3%e3%82%ab) | N/A |
+| 38 | [関さんLOL](http://twitter.com/search?q=%e9%96%a2%e3%81%95%e3%82%93LOL) | N/A |
+| 39 | [可南子さん](http://twitter.com/search?q=%e5%8f%af%e5%8d%97%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 40 | [天海さん](http://twitter.com/search?q=%e5%a4%a9%e6%b5%b7%e3%81%95%e3%82%93) | N/A |
+| 41 | [ゆっちのスペース](http://twitter.com/search?q=%e3%82%86%e3%81%a3%e3%81%a1%e3%81%ae%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9) | N/A |
+| 42 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 43 | [アルバムのCM](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%a0%e3%81%aeCM) | N/A |
+| 44 | [ニンテンドーeショップ](http://twitter.com/search?q=%e3%83%8b%e3%83%b3%e3%83%86%e3%83%b3%e3%83%89%e3%83%bce%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
+| 45 | [原ちゃん](http://twitter.com/search?q=%e5%8e%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 47 | [i do meのcm](http://twitter.com/search?q=i+do+me%e3%81%aecm) | N/A |
+| 48 | [ローマの休日](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%9e%e3%81%ae%e4%bc%91%e6%97%a5) | N/A |
+| 49 | [二次創作](http://twitter.com/search?q=%e4%ba%8c%e6%ac%a1%e5%89%b5%e4%bd%9c) | N/A |
 
 
 

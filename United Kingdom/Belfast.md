@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-27 11:16:47 UTC`
+📆 Last Updated: `2023-03-27 13:44:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#AutismAcceptanceWeek](http://twitter.com/search?q=%23AutismAcceptanceWeek) | N/A |
-| 4 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 5 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 6 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 7 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 8 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
-| 9 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 10 | [Ian Dury](http://twitter.com/search?q=Ian+Dury) | N/A |
-| 11 | [Euston](http://twitter.com/search?q=Euston) | N/A |
-| 12 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
-| 13 | [Tess](http://twitter.com/search?q=Tess) | Tess is short for the name Theresa, which is of Greek origin and means "harvester". |
-| 14 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 15 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
-| 16 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 17 | [Tory Britain](http://twitter.com/search?q=Tory+Britain) | N/A |
-| 18 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
-| 19 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 20 | [Chelmsford](http://twitter.com/search?q=Chelmsford) | N/A |
-| 21 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 22 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 23 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 24 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 25 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 26 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 27 | [#ASongOrMovieForMaleNames](http://twitter.com/search?q=%23ASongOrMovieForMaleNames) | N/A |
-| 28 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 29 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 30 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 31 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
-| 32 | [#ITEC2023](http://twitter.com/search?q=%23ITEC2023) | N/A |
-| 33 | [#NSID2023](http://twitter.com/search?q=%23NSID2023) | N/A |
-| 34 | [#ToriesOut263](http://twitter.com/search?q=%23ToriesOut263) | N/A |
-| 35 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 36 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 37 | [#accepted](http://twitter.com/search?q=%23accepted) | N/A |
-| 38 | [#MondayBlues](http://twitter.com/search?q=%23MondayBlues) | N/A |
-| 39 | [#ToriesUnfitToGovern](http://twitter.com/search?q=%23ToriesUnfitToGovern) | N/A |
-| 40 | [#Wordle646](http://twitter.com/search?q=%23Wordle646) | N/A |
-| 41 | [#GeneralElectionN0W](http://twitter.com/search?q=%23GeneralElectionN0W) | N/A |
-| 42 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
-| 43 | [#autismawareness](http://twitter.com/search?q=%23autismawareness) | N/A |
-| 44 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
-| 45 | [#Levyout](http://twitter.com/search?q=%23Levyout) | N/A |
-| 46 | [#nitrousoxide](http://twitter.com/search?q=%23nitrousoxide) | N/A |
-| 47 | [#ENICOut](http://twitter.com/search?q=%23ENICOut) | N/A |
-| 48 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 49 | [#Conte](http://twitter.com/search?q=%23Conte) | N/A |
+| 1 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 2 | [#SNPLeadershipElection](http://twitter.com/search?q=%23SNPLeadershipElection) | N/A |
+| 3 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
+| 4 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 5 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 6 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 7 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 8 | [#AutismAcceptanceWeek](http://twitter.com/search?q=%23AutismAcceptanceWeek) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [Hoggy](http://twitter.com/search?q=Hoggy) | N/A |
+| 11 | [Scottish National Party](http://twitter.com/search?q=Scottish+National+Party) | N/A |
+| 12 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 13 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 14 | [Stuart Hogg](http://twitter.com/search?q=Stuart+Hogg) | N/A |
+| 15 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 16 | [Solidarity Jeremy](http://twitter.com/search?q=Solidarity+Jeremy) | N/A |
+| 17 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 18 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 19 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 20 | [Lallana](http://twitter.com/search?q=Lallana) | Lallana is a Spanish surname derived from the Latin word lallare, which means "to sing". It is also a common given name in India, derived from the Sanskrit word lalana, which means "playful". |
+| 21 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 22 | [Chelmsford](http://twitter.com/search?q=Chelmsford) | N/A |
+| 23 | [Gini](http://twitter.com/search?q=Gini) | N/A |
+| 24 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
+| 25 | [Big Issue](http://twitter.com/search?q=Big+Issue) | N/A |
+| 26 | [JUNGKOOK](http://twitter.com/search?q=JUNGKOOK) | JUNGKOOK is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name JUNGKOOK literally translates to "center of the nation" in Korean. |
+| 27 | [Scottish Independence](http://twitter.com/search?q=Scottish+Independence) | N/A |
+| 28 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 29 | [Ash Sarkar](http://twitter.com/search?q=Ash+Sarkar) | N/A |
+| 30 | [Brandon Williams](http://twitter.com/search?q=Brandon+Williams) | N/A |
+| 31 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 32 | [The Union](http://twitter.com/search?q=The+Union) | N/A |
+| 33 | [Zeze](http://twitter.com/search?q=Zeze) | N/A |
+| 34 | [Yousless](http://twitter.com/search?q=Yousless) | N/A |
+| 35 | [Ed Miliband](http://twitter.com/search?q=Ed+Miliband) | N/A |
+| 36 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 37 | [The Athletic](http://twitter.com/search?q=The+Athletic) | N/A |
+| 38 | [Independent](http://twitter.com/search?q=Independent) | N/A |
+| 39 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 40 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 41 | [Tess](http://twitter.com/search?q=Tess) | Tess is short for the name Theresa, which is of Greek origin and means "harvester". |
+| 42 | [Ian Dury](http://twitter.com/search?q=Ian+Dury) | N/A |
+| 43 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 44 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
+| 45 | [Euston](http://twitter.com/search?q=Euston) | N/A |
+| 46 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
+| 47 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 48 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 49 | [Tory Britain](http://twitter.com/search?q=Tory+Britain) | N/A |
 
 
 
