@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-27 09:18:02 UTC`
+📆 Last Updated: `2023-03-27 10:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 3 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 4 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 5 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
-| 6 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 7 | [#นุนิวxMakroPro](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7xMakroPro) | N/A |
-| 8 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
-| 9 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 6 | [#IVE_KITSCH_RELEASE](http://twitter.com/search?q=%23IVE_KITSCH_RELEASE) | N/A |
+| 7 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 8 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 9 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
 | 10 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
-| 11 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 12 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 13 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 14 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
+| 11 | [KITSCH IS OUT NOW](http://twitter.com/search?q=KITSCH+IS+OUT+NOW) | N/A |
+| 12 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 14 | [Joong](http://twitter.com/search?q=Joong) | N/A |
 | 15 | [GohLai](http://twitter.com/search?q=GohLai) | N/A |
-| 16 | [BOBBY YOU DID WELL](http://twitter.com/search?q=BOBBY+YOU+DID+WELL) | N/A |
-| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 18 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 16 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 17 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
+| 18 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 19 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
 | 20 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
 | 21 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 22 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 23 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 22 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 23 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 24 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 25 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
 | 26 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 27 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
+| 27 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
 | 28 | [Jeongwoo](http://twitter.com/search?q=Jeongwoo) | N/A |
-| 29 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 29 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
 | 30 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 31 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 32 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 33 | [happy birthday xiumin](http://twitter.com/search?q=happy+birthday+xiumin) | N/A |
+| 31 | [maurice benard](http://twitter.com/search?q=maurice+benard) | N/A |
+| 32 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 33 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
 | 34 | [Sephora](http://twitter.com/search?q=Sephora) | N/A |
 | 35 | [Park Jihoon](http://twitter.com/search?q=Park+Jihoon) | N/A |
 | 36 | [Lewis Hamilton](http://twitter.com/search?q=Lewis+Hamilton) | N/A |
 | 37 | [sudirman cup](http://twitter.com/search?q=sudirman+cup) | N/A |
-| 38 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 39 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 40 | [Ceddy](http://twitter.com/search?q=Ceddy) | N/A |
-| 41 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 42 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
-| 43 | [Dex heller](http://twitter.com/search?q=Dex+heller) | N/A |
-| 44 | [ILHOON](http://twitter.com/search?q=ILHOON) | ILHOON is the stage name of Jung Ilhoon, a South Korean singer, rapper, songwriter, and actor. He is a member of the boy group BTOB. The name ILHOON is derived from his given name, Ilhoon. |
-| 45 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 46 | [Buddhist](http://twitter.com/search?q=Buddhist) | N/A |
-| 47 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 48 | [Kim Minseok](http://twitter.com/search?q=Kim+Minseok) | N/A |
-| 49 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 50 | [Animoca](http://twitter.com/search?q=Animoca) | N/A |
+| 38 | [Animoca](http://twitter.com/search?q=Animoca) | N/A |
+| 39 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 40 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
+| 41 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 42 | [ceddy](http://twitter.com/search?q=ceddy) | N/A |
+| 43 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
+| 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 45 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 46 | [ILHOON](http://twitter.com/search?q=ILHOON) | ILHOON is the stage name of Jung Ilhoon, a South Korean singer, rapper, songwriter, and actor. He is a member of the boy group BTOB. The name ILHOON is derived from his given name, Ilhoon. |
+| 47 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 48 | [Gigi](http://twitter.com/search?q=Gigi) | Gigi is a French name, derived from the diminutive of the name Georges. It is also a 1958 musical film about a young Parisian girl who is being groomed as a courtesan in turn-of-the-20th-century France. In English, Gigi means "little one". |
+| 49 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 50 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
 
 
 

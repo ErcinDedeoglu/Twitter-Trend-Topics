@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-27 09:17:37 UTC`
+📆 Last Updated: `2023-03-27 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 2 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 3 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 4 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 2 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 3 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 4 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
 | 5 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
 | 6 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 7 | [Woll](http://twitter.com/search?q=Woll) | N/A |
@@ -38,31 +38,31 @@ This is top 50 for [Canada](</Canada>)
 | 21 | [Isobel Cup](http://twitter.com/search?q=Isobel+Cup) | N/A |
 | 22 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
 | 23 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 24 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 25 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 26 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 27 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 28 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 29 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
-| 30 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 31 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 32 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 24 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 25 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 26 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 27 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
+| 28 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 29 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 30 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 31 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 32 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 34 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
 | 35 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
 | 36 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
 | 37 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
 | 38 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 39 | [Tyson Barrie](http://twitter.com/search?q=Tyson+Barrie) | N/A |
-| 40 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 41 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 42 | [Ron Maclean](http://twitter.com/search?q=Ron+Maclean) | N/A |
-| 43 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 44 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 45 | [sean farrell](http://twitter.com/search?q=sean+farrell) | N/A |
-| 46 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 47 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 48 | [liljegren](http://twitter.com/search?q=liljegren) | N/A |
+| 39 | [TYSON BARRIE](http://twitter.com/search?q=TYSON+BARRIE) | N/A |
+| 40 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 41 | [Ron Maclean](http://twitter.com/search?q=Ron+Maclean) | N/A |
+| 42 | [Preds](http://twitter.com/search?q=Preds) | N/A |
+| 43 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 44 | [sean farrell](http://twitter.com/search?q=sean+farrell) | N/A |
+| 45 | [BEASLEY](http://twitter.com/search?q=BEASLEY) | N/A |
+| 46 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 47 | [liljegren](http://twitter.com/search?q=liljegren) | N/A |
+| 48 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
 | 49 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 50 | [Toronto Six](http://twitter.com/search?q=Toronto+Six) | N/A |
 

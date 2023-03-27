@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-27 09:18:29 UTC`
+📆 Last Updated: `2023-03-27 10:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 2 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 3 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
-| 4 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 5 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 6 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
-| 7 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 8 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
-| 9 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
-| 10 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 11 | [Wirtschaft](http://twitter.com/search?q=Wirtschaft) | N/A |
-| 12 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
-| 13 | [eigenkapitalquote](http://twitter.com/search?q=eigenkapitalquote) | N/A |
-| 14 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 15 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 16 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
-| 17 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
-| 18 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 19 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 20 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
+| 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 2 | [#tatort](http://twitter.com/search?q=%23tatort) | N/A |
+| 3 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 4 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
+| 7 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
+| 8 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 9 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 10 | [eigenkapitalquote](http://twitter.com/search?q=eigenkapitalquote) | N/A |
+| 11 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 12 | [Käse](http://twitter.com/search?q=K%c3%a4se) | N/A |
+| 13 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
+| 14 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 15 | [Steffen](http://twitter.com/search?q=Steffen) | N/A |
+| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 17 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 18 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
+| 19 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 20 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
 | 21 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
 | 22 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 23 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 24 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 25 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
-| 26 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
-| 27 | [Senf](http://twitter.com/search?q=Senf) | N/A |
-| 28 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 29 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
-| 30 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
-| 31 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 32 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
-| 33 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
-| 34 | [Charakter](http://twitter.com/search?q=Charakter) | N/A |
-| 35 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 36 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 37 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
-| 38 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
-| 39 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
-| 40 | [Identität](http://twitter.com/search?q=Identit%c3%a4t) | N/A |
-| 41 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 42 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
-| 43 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 44 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
-| 45 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
-| 46 | [Führerschein](http://twitter.com/search?q=F%c3%bchrerschein) | N/A |
-| 47 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 48 | [Mission](http://twitter.com/search?q=Mission) | N/A |
-| 49 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
-| 50 | [Cardano](http://twitter.com/search?q=Cardano) | N/A |
+| 23 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
+| 24 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 25 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 26 | [Vollpfosten](http://twitter.com/search?q=Vollpfosten) | N/A |
+| 27 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
+| 28 | [Senf](http://twitter.com/search?q=Senf) | N/A |
+| 29 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
+| 30 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 31 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 32 | [Wandel](http://twitter.com/search?q=Wandel) | N/A |
+| 33 | [Blocher](http://twitter.com/search?q=Blocher) | N/A |
+| 34 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 35 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
+| 36 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 37 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
+| 38 | [Ebene](http://twitter.com/search?q=Ebene) | N/A |
+| 39 | [Charakter](http://twitter.com/search?q=Charakter) | N/A |
+| 40 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 41 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 42 | [Kräfte](http://twitter.com/search?q=Kr%c3%a4fte) | N/A |
+| 43 | [Kreuz](http://twitter.com/search?q=Kreuz) | N/A |
+| 44 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 45 | [Wobei](http://twitter.com/search?q=Wobei) | N/A |
+| 46 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
+| 47 | [Führerschein](http://twitter.com/search?q=F%c3%bchrerschein) | N/A |
+| 48 | [Renaissance](http://twitter.com/search?q=Renaissance) | Renaissance is a period in European history from the 14th to the 17th century, characterized by a revival of art, literature, and learning. It is often referred to as the "rebirth" of classical culture. The Renaissance was a time of great cultural and intellectual achievement, marked by advances in science, philosophy, and the arts. |
+| 49 | [Cardano](http://twitter.com/search?q=Cardano) | N/A |
+| 50 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
 
 
 

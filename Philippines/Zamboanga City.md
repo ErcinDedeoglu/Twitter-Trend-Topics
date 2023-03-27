@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-27 09:18:03 UTC`
+📆 Last Updated: `2023-03-27 10:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 1 | [#NewMovieAlertKathryn](http://twitter.com/search?q=%23NewMovieAlertKathryn) | N/A |
 | 2 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 3 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 4 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 5 | [#NewMovieAlertKathryn](http://twitter.com/search?q=%23NewMovieAlertKathryn) | N/A |
-| 6 | [KDLEX TWOgether IN JAPAN](http://twitter.com/search?q=KDLEX+TWOgether+IN+JAPAN) | N/A |
-| 7 | [KITSCH IS OUT NOW](http://twitter.com/search?q=KITSCH+IS+OUT+NOW) | N/A |
-| 8 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
-| 9 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
-| 10 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 11 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 12 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 13 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 14 | [OUR MONJAY MAN IS BACK](http://twitter.com/search?q=OUR+MONJAY+MAN+IS+BACK) | N/A |
-| 15 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 16 | [MAHALIA'S BIRTHDAY](http://twitter.com/search?q=MAHALIA%27S+BIRTHDAY) | N/A |
-| 17 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
+| 4 | [#BORNPINKinManila_BulacanD2](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD2) | N/A |
+| 5 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 6 | [Elena 1944](http://twitter.com/search?q=Elena+1944) | N/A |
+| 7 | [Dolly De Leon](http://twitter.com/search?q=Dolly+De+Leon) | Dolly De Leon is a popular Mexican phrase that is used to express admiration or approval. It literally translates to "Good for you, Dolly!" and is often used as a way of congratulating someone on their success or achievements. |
+| 8 | [KDLEX TWOgether IN JAPAN](http://twitter.com/search?q=KDLEX+TWOgether+IN+JAPAN) | N/A |
+| 9 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
+| 10 | [Direk](http://twitter.com/search?q=Direk) | N/A |
+| 11 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 12 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 13 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 14 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 15 | [Baekhyun](http://twitter.com/search?q=Baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤, which mean “white virtue”. It is usually given to boys and can also be written as Baekhyeon or Baek-hyun. |
+| 16 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 17 | [VXON FRANZ COMEBACK TEASER](http://twitter.com/search?q=VXON+FRANZ+COMEBACK+TEASER) | N/A |
 | 18 | [MONDAY MAN](http://twitter.com/search?q=MONDAY+MAN) | N/A |
-| 19 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 20 | [HAPPY MONJAY](http://twitter.com/search?q=HAPPY+MONJAY) | N/A |
-| 21 | [MYEONZART IS COMING](http://twitter.com/search?q=MYEONZART+IS+COMING) | N/A |
-| 22 | [cheol](http://twitter.com/search?q=cheol) | Cheol is a Korean word that means "iron". It is often used to refer to the metal itself, as well as tools and weapons made from it. |
-| 23 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 24 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
-| 25 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 26 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 27 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 28 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 29 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
-| 30 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 31 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 32 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
+| 19 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
+| 20 | [Channie](http://twitter.com/search?q=Channie) | Channie is a Korean nickname for the name "Chanhee," which means "shining" in English. |
+| 21 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 22 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 23 | [MAHALIA'S BIRTHDAY](http://twitter.com/search?q=MAHALIA%27S+BIRTHDAY) | N/A |
+| 24 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 25 | [OUR MONJAY MAN IS BACK](http://twitter.com/search?q=OUR+MONJAY+MAN+IS+BACK) | N/A |
+| 26 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
+| 27 | [Black Sheep](http://twitter.com/search?q=Black+Sheep) | N/A |
+| 28 | [Choi Seungcheol](http://twitter.com/search?q=Choi+Seungcheol) | N/A |
+| 29 | [creamline](http://twitter.com/search?q=creamline) | N/A |
+| 30 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
+| 31 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 32 | [Star Cinema](http://twitter.com/search?q=Star+Cinema) | N/A |
 | 33 | [happy birthday xiumin](http://twitter.com/search?q=happy+birthday+xiumin) | N/A |
-| 34 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 35 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
-| 36 | [Roel Degamo](http://twitter.com/search?q=Roel+Degamo) | N/A |
-| 37 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 38 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 39 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
-| 40 | [Jiyong](http://twitter.com/search?q=Jiyong) | N/A |
-| 41 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
-| 42 | [Xiaojun](http://twitter.com/search?q=Xiaojun) | N/A |
-| 43 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 44 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 45 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 46 | [FIRST EYE CONTACT](http://twitter.com/search?q=FIRST+EYE+CONTACT) | N/A |
-| 47 | [Boombayah](http://twitter.com/search?q=Boombayah) | N/A |
-| 48 | [EXO-SC](http://twitter.com/search?q=EXO-SC) | N/A |
-| 49 | [Christopher](http://twitter.com/search?q=Christopher) | N/A |
+| 34 | [KALDAG NI MOONBIN](http://twitter.com/search?q=KALDAG+NI+MOONBIN) | N/A |
+| 35 | [Ricci](http://twitter.com/search?q=Ricci) | N/A |
+| 36 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
+| 37 | [HAPPY MONJAY](http://twitter.com/search?q=HAPPY+MONJAY) | N/A |
+| 38 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
+| 39 | [School AU POV](http://twitter.com/search?q=School+AU+POV) | N/A |
+| 40 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 41 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 42 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
+| 43 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 44 | [Jiyong](http://twitter.com/search?q=Jiyong) | N/A |
+| 45 | [Filo Blinks](http://twitter.com/search?q=Filo+Blinks) | N/A |
+| 46 | [FaBulous FreenBecky](http://twitter.com/search?q=FaBulous+FreenBecky) | N/A |
+| 47 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 48 | [MYEONZART IS COMING](http://twitter.com/search?q=MYEONZART+IS+COMING) | N/A |
+| 49 | [minghao](http://twitter.com/search?q=minghao) | N/A |
 
 
 

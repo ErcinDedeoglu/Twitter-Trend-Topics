@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-27 09:17:36 UTC`
+📆 Last Updated: `2023-03-27 10:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ゆと打って出てきたものがお前に不足](http://twitter.com/search?q=%23%e3%82%86%e3%81%a8%e6%89%93%e3%81%a3%e3%81%a6%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%82%e3%81%ae%e3%81%8c%e3%81%8a%e5%89%8d%e3%81%ab%e4%b8%8d%e8%b6%b3) | N/A |
-| 2 | [セーラー服](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%a9%e3%83%bc%e6%9c%8d) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 5 | [ムリおじ](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%81%8a%e3%81%98) | N/A |
-| 6 | [#IVE_KITSCH_RELEASE](http://twitter.com/search?q=%23IVE_KITSCH_RELEASE) | N/A |
-| 7 | [ひなたくん](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%9f%e3%81%8f%e3%82%93) | N/A |
-| 8 | [#さくらの日](http://twitter.com/search?q=%23%e3%81%95%e3%81%8f%e3%82%89%e3%81%ae%e6%97%a5) | N/A |
-| 9 | [#あなたをウマ娘のキャラに例えるなら](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e3%82%a6%e3%83%9e%e5%a8%98%e3%81%ae%e3%82%ad%e3%83%a3%e3%83%a9%e3%81%ab%e4%be%8b%e3%81%88%e3%82%8b%e3%81%aa%e3%82%89) | N/A |
-| 10 | [KITSCH IS OUT NOW](http://twitter.com/search?q=KITSCH+IS+OUT+NOW) | N/A |
-| 11 | [ラーメンデート](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%87%e3%83%bc%e3%83%88) | N/A |
-| 12 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 13 | [京都のタクシー](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e3%81%ae%e3%82%bf%e3%82%af%e3%82%b7%e3%83%bc) | N/A |
-| 14 | [セルフプロデュース](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%95%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | N/A |
-| 15 | [エッグハント](http://twitter.com/search?q=%e3%82%a8%e3%83%83%e3%82%b0%e3%83%8f%e3%83%b3%e3%83%88) | N/A |
-| 16 | [バイスマスター](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 17 | [シュチム](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%83%a0) | N/A |
-| 18 | [Waves](http://twitter.com/search?q=Waves) | N/A |
-| 19 | [あなたのHO](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%aeHO) | N/A |
-| 20 | [ムリナール](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%83%8a%e3%83%bc%e3%83%ab) | N/A |
-| 21 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
-| 22 | [KDLEX TWOgether IN JAPAN](http://twitter.com/search?q=KDLEX+TWOgether+IN+JAPAN) | N/A |
-| 23 | [解釈違い](http://twitter.com/search?q=%e8%a7%a3%e9%87%88%e9%81%95%e3%81%84) | N/A |
-| 24 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 25 | [ブレザー](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%82%b6%e3%83%bc) | N/A |
-| 26 | [メイシア](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b7%e3%82%a2) | N/A |
-| 27 | [ガンダムメタバース](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 28 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 29 | [暑熱対策](http://twitter.com/search?q=%e6%9a%91%e7%86%b1%e5%af%be%e7%ad%96) | N/A |
-| 30 | [YAGOOのメン限](http://twitter.com/search?q=YAGOO%e3%81%ae%e3%83%a1%e3%83%b3%e9%99%90) | N/A |
-| 31 | [CPJOSHI BJP RAJASTHAN](http://twitter.com/search?q=CPJOSHI+BJP+RAJASTHAN) | N/A |
-| 32 | [Héctor Gómez](http://twitter.com/search?q=H%c3%a9ctor+G%c3%b3mez) | N/A |
-| 33 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 34 | [マンガ大賞](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%ac%e5%a4%a7%e8%b3%9e) | N/A |
-| 35 | [ボイプラKCON](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9KCON) | N/A |
-| 36 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 37 | [スケバン](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%90%e3%83%b3) | N/A |
-| 38 | [マーリンPU](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%aa%e3%83%b3PU) | N/A |
-| 39 | [メジロマックイーン](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%ad%e3%83%9e%e3%83%83%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3) | N/A |
-| 40 | [KCON1](http://twitter.com/search?q=KCON1) | N/A |
-| 41 | [ダイケンキ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%b1%e3%83%b3%e3%82%ad) | N/A |
-| 42 | [VTA2](http://twitter.com/search?q=VTA2) | N/A |
-| 43 | [First Citizens Bank](http://twitter.com/search?q=First+Citizens+Bank) | N/A |
-| 44 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 45 | [きな子の謎解き成功](http://twitter.com/search?q=%e3%81%8d%e3%81%aa%e5%ad%90%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 46 | [ガンダムビルドメタバース](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%83%93%e3%83%ab%e3%83%89%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 47 | [プリズムコンボ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%9c) | N/A |
-| 48 | [#ウマ娘キャラ診断](http://twitter.com/search?q=%23%e3%82%a6%e3%83%9e%e5%a8%98%e3%82%ad%e3%83%a3%e3%83%a9%e8%a8%ba%e6%96%ad) | N/A |
-| 49 | [#아이해브아이브](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%ed%95%b4%eb%b8%8c%ec%95%84%ec%9d%b4%eb%b8%8c) | N/A |
-| 50 | [#IveIVE](http://twitter.com/search?q=%23IveIVE) | N/A |
+| 2 | [マーリン](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%aa%e3%83%b3) | N/A |
+| 3 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 4 | [#冒険少年](http://twitter.com/search?q=%23%e5%86%92%e9%99%ba%e5%b0%91%e5%b9%b4) | #冒険少年 is a Japanese hashtag that translates to "adventurous youth" in English. It is used to refer to young people who are adventurous and willing to take risks. |
+| 5 | [セーラー服](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%a9%e3%83%bc%e6%9c%8d) | N/A |
+| 6 | [めめこじのファン](http://twitter.com/search?q=%e3%82%81%e3%82%81%e3%81%93%e3%81%98%e3%81%ae%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 7 | [CDTV](http://twitter.com/search?q=CDTV) | CDTV stands for Commodore Dynamic Total Vision, which was a multimedia entertainment system developed by Commodore International in 1991. It was a combination of a CD-ROM drive, an Amiga 500 computer, and a remote control. The system was designed to play interactive multimedia titles on CD-ROMs, as well as audio CDs and other types of media. |
+| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 9 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 10 | [#IVE_KITSCH_RELEASE](http://twitter.com/search?q=%23IVE_KITSCH_RELEASE) | N/A |
+| 11 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 12 | [ひなたくん](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%9f%e3%81%8f%e3%82%93) | N/A |
+| 13 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 14 | [ムリおじ](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%81%8a%e3%81%98) | N/A |
+| 15 | [ラーメンデート](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%87%e3%83%bc%e3%83%88) | N/A |
+| 16 | [エッグハント](http://twitter.com/search?q=%e3%82%a8%e3%83%83%e3%82%b0%e3%83%8f%e3%83%b3%e3%83%88) | N/A |
+| 17 | [あなたのHO](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%aeHO) | N/A |
+| 18 | [京都のタクシー](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e3%81%ae%e3%82%bf%e3%82%af%e3%82%b7%e3%83%bc) | N/A |
+| 19 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 20 | [ケセラセラ](http://twitter.com/search?q=%e3%82%b1%e3%82%bb%e3%83%a9%e3%82%bb%e3%83%a9) | N/A |
+| 21 | [シュチム](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%83%a0) | N/A |
+| 22 | [トンベリ](http://twitter.com/search?q=%e3%83%88%e3%83%b3%e3%83%99%e3%83%aa) | N/A |
+| 23 | [NEW ERA OF KATHRYN](http://twitter.com/search?q=NEW+ERA+OF+KATHRYN) | N/A |
+| 24 | [Freedom For Balochistan](http://twitter.com/search?q=Freedom+For+Balochistan) | N/A |
+| 25 | [神の試練](http://twitter.com/search?q=%e7%a5%9e%e3%81%ae%e8%a9%a6%e7%b7%b4) | N/A |
+| 26 | [解釈違い](http://twitter.com/search?q=%e8%a7%a3%e9%87%88%e9%81%95%e3%81%84) | N/A |
+| 27 | [ムリナール](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%83%8a%e3%83%bc%e3%83%ab) | N/A |
+| 28 | [セルフプロデュース](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%95%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | N/A |
+| 29 | [海ちゃんの誕生日](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 30 | [ブレザー](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%82%b6%e3%83%bc) | N/A |
+| 31 | [バイスマスター](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 32 | [ドラマ主題歌](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e4%b8%bb%e9%a1%8c%e6%ad%8c) | N/A |
+| 33 | [Van Kooten](http://twitter.com/search?q=Van+Kooten) | N/A |
+| 34 | [Waves](http://twitter.com/search?q=Waves) | N/A |
+| 35 | [ジャニーズ13組](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba13%e7%b5%84) | N/A |
+| 36 | [不適切リプライ](http://twitter.com/search?q=%e4%b8%8d%e9%81%a9%e5%88%87%e3%83%aa%e3%83%97%e3%83%a9%e3%82%a4) | N/A |
+| 37 | [ホプミン](http://twitter.com/search?q=%e3%83%9b%e3%83%97%e3%83%9f%e3%83%b3) | N/A |
+| 38 | [ボイプラデビュー組](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc%e7%b5%84) | N/A |
+| 39 | [メイシア](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b7%e3%82%a2) | N/A |
+| 40 | [シティ当選](http://twitter.com/search?q=%e3%82%b7%e3%83%86%e3%82%a3%e5%bd%93%e9%81%b8) | シティ当選 is a Japanese phrase that translates to "winning the city lottery". It is used to refer to winning a lottery or competition that is held in a particular city. |
+| 41 | [シャドバ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%89%e3%83%90) | N/A |
+| 42 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
+| 43 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 44 | [スケバン](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%90%e3%83%b3) | N/A |
+| 45 | [ガンダムメタバース](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 46 | [Anies Sandi](http://twitter.com/search?q=Anies+Sandi) | N/A |
+| 47 | [UNFILTERED BIBLEBUILD](http://twitter.com/search?q=UNFILTERED+BIBLEBUILD) | N/A |
+| 48 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 49 | [まことお兄さん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
+| 50 | [けーこん](http://twitter.com/search?q=%e3%81%91%e3%83%bc%e3%81%93%e3%82%93) | N/A |
 
 
 

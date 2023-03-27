@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-27 09:17:53 UTC`
+📆 Last Updated: `2023-03-27 10:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#zomertijd](http://twitter.com/search?q=%23zomertijd) | N/A |
-| 3 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
-| 4 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
-| 5 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 6 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 7 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 8 | [#buitenhof](http://twitter.com/search?q=%23buitenhof) | N/A |
-| 9 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 10 | [#herdbo](http://twitter.com/search?q=%23herdbo) | N/A |
-| 11 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 12 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
-| 13 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 14 | [Maurice de Hond](http://twitter.com/search?q=Maurice+de+Hond) | N/A |
-| 15 | [Sterkte Ron](http://twitter.com/search?q=Sterkte+Ron) | N/A |
-| 16 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 17 | [De Kuip](http://twitter.com/search?q=De+Kuip) | N/A |
-| 18 | [Ludwig](http://twitter.com/search?q=Ludwig) | N/A |
-| 19 | [Hart](http://twitter.com/search?q=Hart) | N/A |
-| 20 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 21 | [Porsches](http://twitter.com/search?q=Porsches) | N/A |
-| 22 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 23 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 24 | [Beterschap](http://twitter.com/search?q=Beterschap) | N/A |
-| 25 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 26 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
-| 27 | [Asha](http://twitter.com/search?q=Asha) | N/A |
-| 28 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 29 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 30 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
-| 31 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 32 | [esther ouwehand](http://twitter.com/search?q=esther+ouwehand) | N/A |
-| 33 | [Succes](http://twitter.com/search?q=Succes) | N/A |
-| 34 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
-| 35 | [Jeroen Wester](http://twitter.com/search?q=Jeroen+Wester) | N/A |
-| 36 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 37 | [bbb-afkeer](http://twitter.com/search?q=bbb-afkeer) | N/A |
-| 38 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
-| 39 | [voorjaar](http://twitter.com/search?q=voorjaar) | N/A |
-| 40 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 41 | [Telstar](http://twitter.com/search?q=Telstar) | N/A |
-| 42 | [Arriva](http://twitter.com/search?q=Arriva) | N/A |
-| 43 | [Lorelei](http://twitter.com/search?q=Lorelei) | N/A |
-| 44 | [Vier Nederlanders](http://twitter.com/search?q=Vier+Nederlanders) | N/A |
-| 45 | [Hannelore](http://twitter.com/search?q=Hannelore) | N/A |
-| 46 | [top oss](http://twitter.com/search?q=top+oss) | N/A |
-| 47 | [dirk van duijvenbode](http://twitter.com/search?q=dirk+van+duijvenbode) | N/A |
-| 48 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 49 | [Jaap Smit](http://twitter.com/search?q=Jaap+Smit) | N/A |
-| 50 | [Colby](http://twitter.com/search?q=Colby) | Colby is a unisex given name of English origin. It is derived from the surname Colby, which is a habitational name from any of the various places in England named with the Old Norse elements koli ‘coal’ + býr ‘settlement’. The name can also be used as a diminutive form of the name Nicholas. |
+| 1 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 2 | [Van Kooten](http://twitter.com/search?q=Van+Kooten) | N/A |
+| 3 | [Cabaretier](http://twitter.com/search?q=Cabaretier) | N/A |
+| 4 | [#zomertijd](http://twitter.com/search?q=%23zomertijd) | N/A |
+| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 6 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
+| 7 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
+| 8 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 9 | [Keek](http://twitter.com/search?q=Keek) | N/A |
+| 10 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 11 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 12 | [#bigbrothernlbe](http://twitter.com/search?q=%23bigbrothernlbe) | N/A |
+| 13 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 14 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 15 | [#herdbo](http://twitter.com/search?q=%23herdbo) | N/A |
+| 16 | [Sterkte Ron](http://twitter.com/search?q=Sterkte+Ron) | N/A |
+| 17 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 18 | [Maurice de Hond](http://twitter.com/search?q=Maurice+de+Hond) | N/A |
+| 19 | [De Kuip](http://twitter.com/search?q=De+Kuip) | N/A |
+| 20 | [Omtzigt](http://twitter.com/search?q=Omtzigt) | N/A |
+| 21 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 22 | [Porsches](http://twitter.com/search?q=Porsches) | N/A |
+| 23 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 24 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 25 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
+| 26 | [Asha](http://twitter.com/search?q=Asha) | N/A |
+| 27 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 28 | [Duits](http://twitter.com/search?q=Duits) | N/A |
+| 29 | [Arriva](http://twitter.com/search?q=Arriva) | N/A |
+| 30 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
+| 31 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 32 | [Tedje van Es](http://twitter.com/search?q=Tedje+van+Es) | N/A |
+| 33 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
+| 34 | [Hart](http://twitter.com/search?q=Hart) | N/A |
+| 35 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 36 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 37 | [Baarsma](http://twitter.com/search?q=Baarsma) | N/A |
+| 38 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
+| 39 | [Jeroen Wester](http://twitter.com/search?q=Jeroen+Wester) | N/A |
+| 40 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 41 | [bbb-afkeer](http://twitter.com/search?q=bbb-afkeer) | N/A |
+| 42 | [Volkskrant](http://twitter.com/search?q=Volkskrant) | N/A |
+| 43 | [Hannelore](http://twitter.com/search?q=Hannelore) | N/A |
+| 44 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
+| 45 | [voorjaar](http://twitter.com/search?q=voorjaar) | N/A |
+| 46 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 47 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 48 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 49 | [Lorelei](http://twitter.com/search?q=Lorelei) | N/A |
+| 50 | [Vier Nederlanders](http://twitter.com/search?q=Vier+Nederlanders) | N/A |
 
 
 

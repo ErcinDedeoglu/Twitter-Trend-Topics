@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-27 09:18:25 UTC`
+📆 Last Updated: `2023-03-27 10:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,14 +26,14 @@ This is top 50 for Guatemala
 | 9 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
 | 10 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 11 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 12 | [chivas](http://twitter.com/search?q=chivas) | N/A |
+| 12 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
 | 13 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
-| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 15 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 16 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 14 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 15 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 16 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 17 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 18 | [un año yuleria](http://twitter.com/search?q=un+a%c3%b1o+yuleria) | N/A |
-| 19 | [foppa](http://twitter.com/search?q=foppa) | N/A |
+| 19 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
 | 20 | [Adri](http://twitter.com/search?q=Adri) | N/A |
 | 21 | [san bartolomé becerra](http://twitter.com/search?q=san+bartolom%c3%a9+becerra) | N/A |
 | 22 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
@@ -51,13 +51,13 @@ This is top 50 for Guatemala
 | 34 | [guayana francesa](http://twitter.com/search?q=guayana+francesa) | N/A |
 | 35 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 36 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 38 | [El TSE](http://twitter.com/search?q=El+TSE) | N/A |
+| 37 | [El TSE](http://twitter.com/search?q=El+TSE) | N/A |
+| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 39 | [Artículo 20](http://twitter.com/search?q=Art%c3%adculo+20) | N/A |
 | 40 | [Quique](http://twitter.com/search?q=Quique) | N/A |
 | 41 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
-| 42 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 43 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 42 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 43 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 44 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 45 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
 | 46 | [Gallo](http://twitter.com/search?q=Gallo) | N/A |

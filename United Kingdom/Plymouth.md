@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-03-27 09:17:40 UTC`
+📆 Last Updated: `2023-03-27 10:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 2 | [#engukr](http://twitter.com/search?q=%23engukr) | N/A |
-| 3 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 4 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 6 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 7 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 8 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 9 | [Philp](http://twitter.com/search?q=Philp) | N/A |
-| 10 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 11 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
-| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 1 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 2 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 3 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 4 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
+| 7 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 8 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 9 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
+| 10 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
+| 11 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 12 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
 | 13 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
-| 14 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 15 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 16 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
-| 17 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 18 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 19 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 20 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 21 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 22 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
-| 23 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 24 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 25 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 26 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 27 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 28 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 29 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 30 | [Matt Bianco](http://twitter.com/search?q=Matt+Bianco) | N/A |
-| 31 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
-| 32 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 33 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 34 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 35 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
-| 36 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 39 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 40 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 41 | [Ian Dury](http://twitter.com/search?q=Ian+Dury) | N/A |
-| 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 43 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 44 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 45 | [Staithes](http://twitter.com/search?q=Staithes) | N/A |
-| 46 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 47 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 48 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 49 | [Linda Nolan](http://twitter.com/search?q=Linda+Nolan) | N/A |
+| 14 | [Wordle 646 X](http://twitter.com/search?q=Wordle+646+X) | N/A |
+| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 16 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 17 | [On Friday](http://twitter.com/search?q=On+Friday) | N/A |
+| 18 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 19 | [30p Lee](http://twitter.com/search?q=30p+Lee) | N/A |
+| 20 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 21 | [Euston](http://twitter.com/search?q=Euston) | N/A |
+| 22 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 23 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 24 | [#AutismAcceptanceWeek](http://twitter.com/search?q=%23AutismAcceptanceWeek) | N/A |
+| 25 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 26 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 27 | [#ASongOrMovieForMaleNames](http://twitter.com/search?q=%23ASongOrMovieForMaleNames) | N/A |
+| 28 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 29 | [#ToriesOut263](http://twitter.com/search?q=%23ToriesOut263) | N/A |
+| 30 | [#GMSF](http://twitter.com/search?q=%23GMSF) | N/A |
+| 31 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 32 | [#NSID2023](http://twitter.com/search?q=%23NSID2023) | N/A |
+| 33 | [#ITEC2023](http://twitter.com/search?q=%23ITEC2023) | N/A |
+| 34 | [#accepted](http://twitter.com/search?q=%23accepted) | N/A |
+| 35 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 36 | [#MondayBlues](http://twitter.com/search?q=%23MondayBlues) | N/A |
+| 37 | [#ToriesUnfitToGovern](http://twitter.com/search?q=%23ToriesUnfitToGovern) | N/A |
+| 38 | [#sunrise](http://twitter.com/search?q=%23sunrise) | N/A |
+| 39 | [#Levyout](http://twitter.com/search?q=%23Levyout) | N/A |
+| 40 | [#nitrousoxide](http://twitter.com/search?q=%23nitrousoxide) | N/A |
+| 41 | [#GeneralElectionN0W](http://twitter.com/search?q=%23GeneralElectionN0W) | N/A |
+| 42 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 43 | [#ENICOut](http://twitter.com/search?q=%23ENICOut) | N/A |
+| 44 | [#Spurs](http://twitter.com/search?q=%23Spurs) | N/A |
 
 
 

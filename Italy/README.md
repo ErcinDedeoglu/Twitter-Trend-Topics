@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-27 09:18:26 UTC`
+📆 Last Updated: `2023-03-27 10:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Italy
 | 2 | [#27marzo](http://twitter.com/search?q=%2327marzo) | N/A |
 | 3 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
 | 4 | [#PotrestiEssere](http://twitter.com/search?q=%23PotrestiEssere) | N/A |
-| 5 | [#IvanoMarescotti](http://twitter.com/search?q=%23IvanoMarescotti) | N/A |
-| 6 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
+| 5 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
+| 6 | [#IvanoMarescotti](http://twitter.com/search?q=%23IvanoMarescotti) | N/A |
 | 7 | [BUONA DOMENICA](http://twitter.com/search?q=BUONA+DOMENICA) | N/A |
 | 8 | [Turone](http://twitter.com/search?q=Turone) | N/A |
 | 9 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
 | 10 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
-| 11 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 12 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 13 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 14 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 11 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
+| 12 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 13 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 14 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
 | 15 | [CNEL](http://twitter.com/search?q=CNEL) | N/A |
-| 16 | [Carlo Sassi](http://twitter.com/search?q=Carlo+Sassi) | N/A |
-| 17 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
-| 18 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
-| 19 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 20 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 21 | [Buongiorno Lorena](http://twitter.com/search?q=Buongiorno+Lorena) | N/A |
-| 22 | [Buongiorno Lorena](http://twitter.com/search?q=Buongiorno+Lorena) | N/A |
-| 23 | [Buongiorno Lorena](http://twitter.com/search?q=Buongiorno+Lorena) | N/A |
-| 24 | [Buongiorno Lorena](http://twitter.com/search?q=Buongiorno+Lorena) | N/A |
-| 25 | [Buongiorno Lorena](http://twitter.com/search?q=Buongiorno+Lorena) | N/A |
-| 26 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 27 | [Pessina](http://twitter.com/search?q=Pessina) | N/A |
-| 28 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 29 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 30 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 31 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
-| 32 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 33 | [paolo limiti](http://twitter.com/search?q=paolo+limiti) | N/A |
-| 34 | [Erba](http://twitter.com/search?q=Erba) | N/A |
-| 35 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 36 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 37 | [Buon Lunedì](http://twitter.com/search?q=Buon+Luned%c3%ac) | N/A |
-| 38 | [Vaciago](http://twitter.com/search?q=Vaciago) | N/A |
-| 39 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
-| 40 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
-| 41 | [Viviana](http://twitter.com/search?q=Viviana) | N/A |
-| 42 | [dottor randazzo](http://twitter.com/search?q=dottor+randazzo) | N/A |
-| 43 | [Ciao IVANO](http://twitter.com/search?q=Ciao+IVANO) | N/A |
-| 44 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
-| 45 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
-| 46 | [Pioggia](http://twitter.com/search?q=Pioggia) | N/A |
+| 16 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
+| 17 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
+| 18 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
+| 19 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 20 | [Carlo Sassi](http://twitter.com/search?q=Carlo+Sassi) | N/A |
+| 21 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 22 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 23 | [Pessina](http://twitter.com/search?q=Pessina) | N/A |
+| 24 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 25 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 26 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 27 | [paolo limiti](http://twitter.com/search?q=paolo+limiti) | N/A |
+| 28 | [Vaciago](http://twitter.com/search?q=Vaciago) | N/A |
+| 29 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
+| 30 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 31 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
+| 32 | [Viviana](http://twitter.com/search?q=Viviana) | N/A |
+| 33 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
+| 34 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
+| 35 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 36 | [dottor randazzo](http://twitter.com/search?q=dottor+randazzo) | N/A |
+| 37 | [Erba](http://twitter.com/search?q=Erba) | N/A |
+| 38 | [Ciao IVANO](http://twitter.com/search?q=Ciao+IVANO) | N/A |
+| 39 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 40 | [Pioggia](http://twitter.com/search?q=Pioggia) | N/A |
+| 41 | [Il 27](http://twitter.com/search?q=Il+27) | N/A |
+| 42 | [Fedriga](http://twitter.com/search?q=Fedriga) | N/A |
+| 43 | [Buon Lunedì](http://twitter.com/search?q=Buon+Luned%c3%ac) | N/A |
+| 44 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 45 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 46 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
 | 47 | [Cuccarini](http://twitter.com/search?q=Cuccarini) | N/A |
-| 48 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 49 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
-| 50 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 48 | [gigi riva](http://twitter.com/search?q=gigi+riva) | N/A |
+| 49 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 50 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
 
 
 
