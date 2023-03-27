@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-03-27 06:18:06 UTC`
+📆 Last Updated: `2023-03-27 07:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,17 +25,17 @@ This is top 50 for [Chile](</Chile>)
 | 8 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
 | 9 | [Matapacos](http://twitter.com/search?q=Matapacos) | N/A |
 | 10 | [Sgto](http://twitter.com/search?q=Sgto) | N/A |
-| 11 | [ASESINATO](http://twitter.com/search?q=ASESINATO) | N/A |
+| 11 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
 | 12 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
 | 13 | [Beatles](http://twitter.com/search?q=Beatles) | N/A |
 | 14 | [General Director](http://twitter.com/search?q=General+Director) | N/A |
 | 15 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
-| 16 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 17 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 18 | [ASESINADA](http://twitter.com/search?q=ASESINADA) | N/A |
+| 16 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 17 | [ASESINADA](http://twitter.com/search?q=ASESINADA) | N/A |
+| 18 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
 | 19 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
-| 20 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 21 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 20 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
+| 21 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
 | 22 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 23 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
 | 24 | [Matamala](http://twitter.com/search?q=Matamala) | N/A |
@@ -45,24 +45,24 @@ This is top 50 for [Chile](</Chile>)
 | 28 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
 | 29 | [Paca](http://twitter.com/search?q=Paca) | N/A |
 | 30 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
-| 31 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 32 | [Mesa de Seguridad](http://twitter.com/search?q=Mesa+de+Seguridad) | N/A |
-| 33 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 34 | [Palladino](http://twitter.com/search?q=Palladino) | N/A |
-| 35 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
-| 36 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 37 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
-| 38 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
-| 39 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 40 | [Aprovechamiento](http://twitter.com/search?q=Aprovechamiento) | N/A |
-| 41 | [el belloto](http://twitter.com/search?q=el+belloto) | N/A |
-| 42 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
-| 43 | [Acusación Constitucional](http://twitter.com/search?q=Acusaci%c3%b3n+Constitucional) | N/A |
-| 44 | [Querellas](http://twitter.com/search?q=Querellas) | N/A |
-| 45 | [Votaste](http://twitter.com/search?q=Votaste) | N/A |
-| 46 | [Condolencias](http://twitter.com/search?q=Condolencias) | N/A |
+| 31 | [Mesa de Seguridad](http://twitter.com/search?q=Mesa+de+Seguridad) | N/A |
+| 32 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
+| 33 | [palladino](http://twitter.com/search?q=palladino) | N/A |
+| 34 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
+| 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 36 | [Hipocresía](http://twitter.com/search?q=Hipocres%c3%ada) | N/A |
+| 37 | [Macaya](http://twitter.com/search?q=Macaya) | N/A |
+| 38 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 39 | [Aprovechamiento](http://twitter.com/search?q=Aprovechamiento) | N/A |
+| 40 | [el belloto](http://twitter.com/search?q=el+belloto) | N/A |
+| 41 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 42 | [Querellas](http://twitter.com/search?q=Querellas) | N/A |
+| 43 | [Votaste](http://twitter.com/search?q=Votaste) | N/A |
+| 44 | [Condolencias](http://twitter.com/search?q=Condolencias) | N/A |
+| 45 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 46 | [Acusación Constitucional](http://twitter.com/search?q=Acusaci%c3%b3n+Constitucional) | N/A |
 | 47 | [Todo Chile](http://twitter.com/search?q=Todo+Chile) | N/A |
-| 48 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 48 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
 | 49 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
 
 

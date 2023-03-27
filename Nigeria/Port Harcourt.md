@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-27 06:18:28 UTC`
+📆 Last Updated: `2023-03-27 07:19:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
 | 3 | [#TinubuForPrison](http://twitter.com/search?q=%23TinubuForPrison) | N/A |
 | 4 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 5 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
-| 6 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 7 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 8 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 5 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 6 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
+| 7 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 8 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 9 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 10 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 11 | [Congratulations Mayor](http://twitter.com/search?q=Congratulations+Mayor) | N/A |
-| 12 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 14 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 15 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 16 | [the beenavy experience](http://twitter.com/search?q=the+beenavy+experience) | N/A |
-| 17 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 18 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 19 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 21 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
-| 22 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 23 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
-| 24 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
-| 25 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
-| 26 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
-| 27 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 28 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 29 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 30 | [Oladipo Diya](http://twitter.com/search?q=Oladipo+Diya) | N/A |
-| 31 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 32 | [congratulations beauty tukura](http://twitter.com/search?q=congratulations+beauty+tukura) | N/A |
-| 33 | [beauty meets beenavy](http://twitter.com/search?q=beauty+meets+beenavy) | N/A |
-| 34 | [Tomorrow is Monday](http://twitter.com/search?q=Tomorrow+is+Monday) | N/A |
-| 35 | [EKELEBE STUNNER](http://twitter.com/search?q=EKELEBE+STUNNER) | N/A |
-| 36 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 37 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 38 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
-| 39 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
-| 40 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
-| 41 | [Rascals](http://twitter.com/search?q=Rascals) | N/A |
-| 42 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 43 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 44 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 45 | [Jabi](http://twitter.com/search?q=Jabi) | N/A |
-| 46 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 47 | [Panama](http://twitter.com/search?q=Panama) | N/A |
-| 48 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 12 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 13 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 14 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 15 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 16 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 17 | [the beenavy experience](http://twitter.com/search?q=the+beenavy+experience) | N/A |
+| 18 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 19 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 20 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 21 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 22 | [Another Monday](http://twitter.com/search?q=Another+Monday) | N/A |
+| 23 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 24 | [The DJ](http://twitter.com/search?q=The+DJ) | The DJ is an abbreviation for disc jockey, which is a person who plays recorded music for an audience. DJs typically play music at clubs, parties, and other events. |
+| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 26 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 27 | [Today is Sunday](http://twitter.com/search?q=Today+is+Sunday) | N/A |
+| 28 | [Obasanjo](http://twitter.com/search?q=Obasanjo) | Obasanjo is a Yoruba name meaning "the king has returned". It is the surname of Olusegun Obasanjo, a former Nigerian military leader and two-term president. |
+| 29 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 30 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 31 | [Oladipo Diya](http://twitter.com/search?q=Oladipo+Diya) | N/A |
+| 32 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 33 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 34 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 35 | [CONGRATULATIONS BEAUTY TUKURA](http://twitter.com/search?q=CONGRATULATIONS+BEAUTY+TUKURA) | N/A |
+| 36 | [beauty meets beenavy](http://twitter.com/search?q=beauty+meets+beenavy) | N/A |
+| 37 | [Tomorrow is Monday](http://twitter.com/search?q=Tomorrow+is+Monday) | N/A |
+| 38 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 39 | [Amiyah](http://twitter.com/search?q=Amiyah) | N/A |
+| 40 | [EKELEBE STUNNER](http://twitter.com/search?q=EKELEBE+STUNNER) | N/A |
+| 41 | [Anambra](http://twitter.com/search?q=Anambra) | N/A |
+| 42 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 43 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
+| 44 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 45 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 46 | [Rascals](http://twitter.com/search?q=Rascals) | N/A |
+| 47 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 48 | [Jabi](http://twitter.com/search?q=Jabi) | N/A |
 
 
 

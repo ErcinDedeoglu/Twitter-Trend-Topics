@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-27 06:18:12 UTC`
+📆 Last Updated: `2023-03-27 07:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TommyTiernanShow](http://twitter.com/search?q=%23TommyTiernanShow) | N/A |
-| 2 | [stephen cluxton](http://twitter.com/search?q=stephen+cluxton) | N/A |
+| 2 | [Stephen cluxton](http://twitter.com/search?q=Stephen+cluxton) | N/A |
 | 3 | [#diysos](http://twitter.com/search?q=%23diysos) | N/A |
 | 4 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 5 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
+| 5 | [#engukr](http://twitter.com/search?q=%23engukr) | N/A |
 | 6 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 7 | [#lp23](http://twitter.com/search?q=%23lp23) | N/A |
-| 8 | [Monaghan](http://twitter.com/search?q=Monaghan) | N/A |
+| 7 | [Monaghan](http://twitter.com/search?q=Monaghan) | N/A |
+| 8 | [#gaabeo](http://twitter.com/search?q=%23gaabeo) | N/A |
 | 9 | [Sligo](http://twitter.com/search?q=Sligo) | N/A |
-| 10 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 11 | [Half Time](http://twitter.com/search?q=Half+Time) | N/A |
-| 12 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 13 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
-| 14 | [Division 3](http://twitter.com/search?q=Division+3) | N/A |
-| 15 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
-| 16 | [Bren](http://twitter.com/search?q=Bren) | N/A |
-| 17 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 18 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 19 | [turners cross](http://twitter.com/search?q=turners+cross) | N/A |
-| 20 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
-| 21 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 22 | [okolie](http://twitter.com/search?q=okolie) | N/A |
+| 10 | [half time](http://twitter.com/search?q=half+time) | N/A |
+| 11 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 12 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 14 | [Dolores](http://twitter.com/search?q=Dolores) | N/A |
+| 15 | [Division 3](http://twitter.com/search?q=Division+3) | N/A |
+| 16 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
+| 17 | [Bren](http://twitter.com/search?q=Bren) | N/A |
+| 18 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 19 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 20 | [Turners Cross](http://twitter.com/search?q=Turners+Cross) | N/A |
+| 21 | [Tom Cannon](http://twitter.com/search?q=Tom+Cannon) | N/A |
+| 22 | [Okolie](http://twitter.com/search?q=Okolie) | N/A |
 | 23 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
 | 24 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
 | 25 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 26 | [johnny kenny](http://twitter.com/search?q=johnny+kenny) | N/A |
+| 26 | [Johnny Kenny](http://twitter.com/search?q=Johnny+Kenny) | N/A |
 | 27 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
 | 28 | [Armagh](http://twitter.com/search?q=Armagh) | N/A |
 | 29 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
 | 30 | [03mins 1st half](http://twitter.com/search?q=03mins+1st+half) | N/A |
 | 31 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 32 | [courtown](http://twitter.com/search?q=courtown) | N/A |
+| 32 | [pearse stadium](http://twitter.com/search?q=pearse+stadium) | N/A |
 | 33 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 34 | [pearse stadium](http://twitter.com/search?q=pearse+stadium) | N/A |
-| 35 | [sam curtis](http://twitter.com/search?q=sam+curtis) | N/A |
-| 36 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 37 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 38 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 39 | [allianz football league](http://twitter.com/search?q=allianz+football+league) | N/A |
-| 40 | [Donegal](http://twitter.com/search?q=Donegal) | N/A |
-| 41 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 42 | [cian lynch](http://twitter.com/search?q=cian+lynch) | N/A |
-| 43 | [roscommon](http://twitter.com/search?q=roscommon) | N/A |
-| 44 | [gardai](http://twitter.com/search?q=gardai) | N/A |
-| 45 | [Limerick](http://twitter.com/search?q=Limerick) | N/A |
-| 46 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 47 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 48 | [London](http://twitter.com/search?q=London) | N/A |
-| 49 | [Div 1](http://twitter.com/search?q=Div+1) | N/A |
+| 34 | [sam curtis](http://twitter.com/search?q=sam+curtis) | N/A |
+| 35 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 36 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 37 | [allianz football league](http://twitter.com/search?q=allianz+football+league) | N/A |
+| 38 | [Donegal](http://twitter.com/search?q=Donegal) | N/A |
+| 39 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 40 | [Courtown](http://twitter.com/search?q=Courtown) | N/A |
+| 41 | [cian lynch](http://twitter.com/search?q=cian+lynch) | N/A |
+| 42 | [roscommon](http://twitter.com/search?q=roscommon) | N/A |
+| 43 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 44 | [Div 1](http://twitter.com/search?q=Div+1) | N/A |
+| 45 | [bacik](http://twitter.com/search?q=bacik) | N/A |
+| 46 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 47 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 48 | [The Government](http://twitter.com/search?q=The+Government) | N/A |
+| 49 | [SDLP](http://twitter.com/search?q=SDLP) | N/A |
 
 
 

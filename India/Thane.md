@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thane
 
-📆 Last Updated: `2023-03-27 06:18:35 UTC`
+📆 Last Updated: `2023-03-27 07:19:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GameChanger](http://twitter.com/search?q=%23GameChanger) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
+| 2 | [#Chatrapathi](http://twitter.com/search?q=%23Chatrapathi) | N/A |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 4 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 5 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 5 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
 | 6 | [CPJOSHI BJP RAJASTHAN](http://twitter.com/search?q=CPJOSHI+BJP+RAJASTHAN) | N/A |
 | 7 | [India Bangladesh Friendship](http://twitter.com/search?q=India+Bangladesh+Friendship) | N/A |
 | 8 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
-| 9 | [Bright Future Of Bharat](http://twitter.com/search?q=Bright+Future+Of+Bharat) | N/A |
-| 10 | [Gurukul Shiksha Paddhati](http://twitter.com/search?q=Gurukul+Shiksha+Paddhati) | N/A |
-| 11 | [Sant Shri Asharamji Gurukul](http://twitter.com/search?q=Sant+Shri+Asharamji+Gurukul) | N/A |
-| 12 | [गुजरात प्रदेश](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 13 | [Mega Power Star](http://twitter.com/search?q=Mega+Power+Star) | N/A |
-| 14 | [Shankar](http://twitter.com/search?q=Shankar) | N/A |
-| 15 | [श्री रत्नाकर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%95%e0%a4%b0) | N/A |
-| 16 | [बरेली जेल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 17 | [EPFO](http://twitter.com/search?q=EPFO) | N/A |
-| 18 | [छठे स्वरूप](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a0%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 19 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 20 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 21 | [Thaman](http://twitter.com/search?q=Thaman) | N/A |
-| 22 | [Badhai](http://twitter.com/search?q=Badhai) | N/A |
-| 23 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 24 | [Om Namah Shivaya](http://twitter.com/search?q=Om+Namah+Shivaya) | N/A |
-| 25 | [Malayalam](http://twitter.com/search?q=Malayalam) | N/A |
+| 9 | [Sant Shri Asharamji Gurukul](http://twitter.com/search?q=Sant+Shri+Asharamji+Gurukul) | N/A |
+| 10 | [गुजरात प्रदेश](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 11 | [Bright Future Of Bharat](http://twitter.com/search?q=Bright+Future+Of+Bharat) | N/A |
+| 12 | [Gurukul Shiksha Paddhati](http://twitter.com/search?q=Gurukul+Shiksha+Paddhati) | N/A |
+| 13 | [श्री रत्नाकर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%95%e0%a4%b0) | N/A |
+| 14 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 15 | [EPFO](http://twitter.com/search?q=EPFO) | N/A |
+| 16 | [गांधी प्रतिमा](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%bf%e0%a4%ae%e0%a4%be) | N/A |
+| 17 | [Shardul](http://twitter.com/search?q=Shardul) | N/A |
+| 18 | [Mega Power Star](http://twitter.com/search?q=Mega+Power+Star) | N/A |
+| 19 | [बरेली जेल](http://twitter.com/search?q=%e0%a4%ac%e0%a4%b0%e0%a5%87%e0%a4%b2%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 20 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 21 | [छठे स्वरूप](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a0%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 22 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
+| 23 | [Thaman](http://twitter.com/search?q=Thaman) | N/A |
+| 24 | [Badhai](http://twitter.com/search?q=Badhai) | N/A |
+| 25 | [Om Namah Shivay](http://twitter.com/search?q=Om+Namah+Shivay) | N/A |
 | 26 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 27 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
-| 28 | [Garu](http://twitter.com/search?q=Garu) | N/A |
-| 29 | [Title](http://twitter.com/search?q=Title) | N/A |
-| 30 | [सूर्य उपासना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
-| 31 | [Heartiest Congratulations](http://twitter.com/search?q=Heartiest+Congratulations) | N/A |
-| 32 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 33 | [Many Congratulations](http://twitter.com/search?q=Many+Congratulations) | N/A |
+| 27 | [Garu](http://twitter.com/search?q=Garu) | N/A |
+| 28 | [सूर्य उपासना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
+| 29 | [न्यूज चैनल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9c+%e0%a4%9a%e0%a5%88%e0%a4%a8%e0%a4%b2) | N/A |
+| 30 | [Many Congratulations](http://twitter.com/search?q=Many+Congratulations) | N/A |
+| 31 | [Malayalam](http://twitter.com/search?q=Malayalam) | N/A |
+| 32 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
+| 33 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
 | 34 | [कृपा दृष्टि](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
-| 35 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 36 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 37 | [#ElderlyCare](http://twitter.com/search?q=%23ElderlyCare) | N/A |
-| 38 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
-| 39 | [#AtiqAhmad](http://twitter.com/search?q=%23AtiqAhmad) | N/A |
-| 40 | [#TejashwiYadav](http://twitter.com/search?q=%23TejashwiYadav) | N/A |
-| 41 | [#हमारी_संस्कृति_हमारे_संस्कार](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%80_%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf_%e0%a4%b9%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%87_%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 42 | [#अतीक़अहमद](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a4%e0%a5%80%e0%a4%95%e0%a4%bc%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 43 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 44 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 45 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 46 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 47 | [#RC16](http://twitter.com/search?q=%23RC16) | N/A |
-| 48 | [#cskvslsg](http://twitter.com/search?q=%23cskvslsg) | N/A |
-| 49 | [#MondayBlues](http://twitter.com/search?q=%23MondayBlues) | N/A |
-| 50 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 35 | [Heartiest Congratulations](http://twitter.com/search?q=Heartiest+Congratulations) | N/A |
+| 36 | [Hotstar](http://twitter.com/search?q=Hotstar) | N/A |
+| 37 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 38 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
+| 39 | [#अतीक़अहमद](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a4%e0%a5%80%e0%a4%95%e0%a4%bc%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
+| 40 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 41 | [#TejashwiYadav](http://twitter.com/search?q=%23TejashwiYadav) | N/A |
+| 42 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 43 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 44 | [#UnMuteLoktantra](http://twitter.com/search?q=%23UnMuteLoktantra) | N/A |
+| 45 | [#RC16](http://twitter.com/search?q=%23RC16) | N/A |
+| 46 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 47 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 48 | [#ElderlyCare](http://twitter.com/search?q=%23ElderlyCare) | N/A |
+| 49 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
+| 50 | [#MondayBlues](http://twitter.com/search?q=%23MondayBlues) | N/A |
 
 
 

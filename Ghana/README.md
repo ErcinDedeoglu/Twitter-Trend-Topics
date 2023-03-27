@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-27 06:18:48 UTC`
+📆 Last Updated: `2023-03-27 07:19:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for Ghana
 | ------- | ------------ | ------------ |
 | 1 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
 | 2 | [#GhanavsNigeria](http://twitter.com/search?q=%23GhanavsNigeria) | N/A |
-| 3 | [#TheCalling](http://twitter.com/search?q=%23TheCalling) | N/A |
-| 4 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 5 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
-| 6 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 3 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 4 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
+| 5 | [#TheCalling](http://twitter.com/search?q=%23TheCalling) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 7 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 8 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 8 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 10 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
 | 11 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for Ghana
 | 17 | [Panama](http://twitter.com/search?q=Panama) | N/A |
 | 18 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
 | 19 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 20 | [Wendy shay](http://twitter.com/search?q=Wendy+shay) | N/A |
-| 21 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
-| 22 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 23 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 24 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 25 | [Medeama](http://twitter.com/search?q=Medeama) | N/A |
-| 26 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 27 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 28 | [2m express](http://twitter.com/search?q=2m+express) | N/A |
-| 29 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 30 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 31 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 32 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 33 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 34 | [Aang](http://twitter.com/search?q=Aang) | N/A |
-| 35 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 36 | [Zerbo](http://twitter.com/search?q=Zerbo) | N/A |
-| 37 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 38 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 39 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 40 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 41 | [Pele](http://twitter.com/search?q=Pele) | N/A |
-| 42 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 43 | [richmond ayi](http://twitter.com/search?q=richmond+ayi) | N/A |
-| 44 | [welcome to ghana](http://twitter.com/search?q=welcome+to+ghana) | N/A |
-| 45 | [Blaqboi](http://twitter.com/search?q=Blaqboi) | N/A |
-| 46 | [Cook](http://twitter.com/search?q=Cook) | N/A |
-| 47 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
-| 48 | [felix](http://twitter.com/search?q=felix) | N/A |
+| 20 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 21 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 22 | [Medeama](http://twitter.com/search?q=Medeama) | N/A |
+| 23 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 24 | [Bukayo Saka](http://twitter.com/search?q=Bukayo+Saka) | N/A |
+| 25 | [Zerbo](http://twitter.com/search?q=Zerbo) | N/A |
+| 26 | [2m express](http://twitter.com/search?q=2m+express) | N/A |
+| 27 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 29 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
+| 30 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 31 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 32 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 33 | [Aang](http://twitter.com/search?q=Aang) | N/A |
+| 34 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
+| 35 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 36 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 37 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
+| 38 | [Pele](http://twitter.com/search?q=Pele) | N/A |
+| 39 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 40 | [NDC MPs](http://twitter.com/search?q=NDC+MPs) | N/A |
+| 41 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 42 | [richmond ayi](http://twitter.com/search?q=richmond+ayi) | N/A |
+| 43 | [welcome to ghana](http://twitter.com/search?q=welcome+to+ghana) | N/A |
+| 44 | [Cook](http://twitter.com/search?q=Cook) | N/A |
+| 45 | [Croatia](http://twitter.com/search?q=Croatia) | N/A |
+| 46 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 47 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
+| 48 | [Aduana](http://twitter.com/search?q=Aduana) | N/A |
 | 49 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 50 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
+| 50 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
 
 
 

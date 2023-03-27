@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-27 06:18:47 UTC`
+📆 Last Updated: `2023-03-27 07:19:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Australia
 | 1 | [#nrldragonssharks](http://twitter.com/search?q=%23nrldragonssharks) | N/A |
 | 2 | [Labor](http://twitter.com/search?q=Labor) | N/A |
 | 3 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 4 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 5 | [#nrlknightsraiders](http://twitter.com/search?q=%23nrlknightsraiders) | N/A |
-| 6 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 7 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
-| 8 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 9 | [#springst](http://twitter.com/search?q=%23springst) | N/A |
-| 10 | [#AFLEaglesGiants](http://twitter.com/search?q=%23AFLEaglesGiants) | N/A |
-| 11 | [#NRLWarriorsBulldogs](http://twitter.com/search?q=%23NRLWarriorsBulldogs) | N/A |
-| 12 | [Layton](http://twitter.com/search?q=Layton) | N/A |
-| 13 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 14 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 15 | [Hynes](http://twitter.com/search?q=Hynes) | N/A |
-| 16 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 17 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 18 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 4 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 5 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 6 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 7 | [#AFLEaglesGiants](http://twitter.com/search?q=%23AFLEaglesGiants) | N/A |
+| 8 | [#NRLWarriorsBulldogs](http://twitter.com/search?q=%23NRLWarriorsBulldogs) | N/A |
+| 9 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 10 | [#aflbomberssuns](http://twitter.com/search?q=%23aflbomberssuns) | N/A |
+| 11 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 12 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
+| 13 | [#AFLSwansHawks](http://twitter.com/search?q=%23AFLSwansHawks) | N/A |
+| 14 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
+| 15 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 16 | [Hynes](http://twitter.com/search?q=Hynes) | N/A |
+| 17 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 18 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
 | 19 | [Royston](http://twitter.com/search?q=Royston) | N/A |
 | 20 | [Richard Boyle](http://twitter.com/search?q=Richard+Boyle) | N/A |
-| 21 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 22 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 23 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
-| 24 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 25 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 26 | [Latitude Financial](http://twitter.com/search?q=Latitude+Financial) | N/A |
-| 27 | [Kirsti](http://twitter.com/search?q=Kirsti) | N/A |
-| 28 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
-| 29 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 30 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
-| 31 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 32 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 33 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 34 | [Chris Minns](http://twitter.com/search?q=Chris+Minns) | N/A |
-| 35 | [Stringer](http://twitter.com/search?q=Stringer) | N/A |
-| 36 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
-| 37 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
-| 38 | [Steele](http://twitter.com/search?q=Steele) | N/A |
-| 39 | [Paul Fletcher](http://twitter.com/search?q=Paul+Fletcher) | N/A |
-| 40 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 41 | [President Obama](http://twitter.com/search?q=President+Obama) | N/A |
-| 42 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
-| 43 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
-| 44 | [Grafton](http://twitter.com/search?q=Grafton) | N/A |
-| 45 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 46 | [Setterfield](http://twitter.com/search?q=Setterfield) | N/A |
-| 47 | [Vixens](http://twitter.com/search?q=Vixens) | N/A |
-| 48 | [Broad](http://twitter.com/search?q=Broad) | N/A |
-| 49 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 50 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 21 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 22 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
+| 23 | [Latitude Financial](http://twitter.com/search?q=Latitude+Financial) | N/A |
+| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 25 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 26 | [Matt Kean](http://twitter.com/search?q=Matt+Kean) | N/A |
+| 27 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 28 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 29 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 30 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 31 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 32 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 33 | [Stringer](http://twitter.com/search?q=Stringer) | N/A |
+| 34 | [Tasmania](http://twitter.com/search?q=Tasmania) | N/A |
+| 35 | [Heppell](http://twitter.com/search?q=Heppell) | N/A |
+| 36 | [Kirsti](http://twitter.com/search?q=Kirsti) | N/A |
+| 37 | [Steele](http://twitter.com/search?q=Steele) | N/A |
+| 38 | [Indue](http://twitter.com/search?q=Indue) | N/A |
+| 39 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 40 | [Mahoney](http://twitter.com/search?q=Mahoney) | N/A |
+| 41 | [Barack](http://twitter.com/search?q=Barack) | N/A |
+| 42 | [Chris Minns](http://twitter.com/search?q=Chris+Minns) | N/A |
+| 43 | [Langford](http://twitter.com/search?q=Langford) | N/A |
+| 44 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
+| 45 | [Grafton](http://twitter.com/search?q=Grafton) | N/A |
+| 46 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 47 | [Setterfield](http://twitter.com/search?q=Setterfield) | N/A |
+| 48 | [Paul Fletcher](http://twitter.com/search?q=Paul+Fletcher) | N/A |
+| 49 | [Broad](http://twitter.com/search?q=Broad) | N/A |
+| 50 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
 
 
 

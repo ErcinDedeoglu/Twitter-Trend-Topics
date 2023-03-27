@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-27 06:17:59 UTC`
+📆 Last Updated: `2023-03-27 07:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ENGUKR](http://twitter.com/search?q=%23ENGUKR) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [#engukr](http://twitter.com/search?q=%23engukr) | N/A |
 | 3 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 4 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 5 | [#GreatExpectations](http://twitter.com/search?q=%23GreatExpectations) | N/A |
-| 6 | [#boatrace](http://twitter.com/search?q=%23boatrace) | N/A |
-| 7 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 8 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 9 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
-| 10 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 13 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 14 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 15 | [okolie](http://twitter.com/search?q=okolie) | N/A |
-| 16 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
-| 17 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 18 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 5 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 6 | [Terry Christian](http://twitter.com/search?q=Terry+Christian) | N/A |
+| 7 | [#earlybiz](http://twitter.com/search?q=%23earlybiz) | N/A |
+| 8 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 9 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
+| 10 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 11 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 13 | [Baby Dog](http://twitter.com/search?q=Baby+Dog) | N/A |
+| 14 | [Wordle 646 X](http://twitter.com/search?q=Wordle+646+X) | N/A |
+| 15 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 17 | [Led by Donkeys](http://twitter.com/search?q=Led+by+Donkeys) | N/A |
+| 18 | [Irina](http://twitter.com/search?q=Irina) | N/A |
 | 19 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
 | 20 | [Hancock](http://twitter.com/search?q=Hancock) | N/A |
-| 21 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 22 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 23 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 24 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 25 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 26 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
-| 27 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 28 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
-| 29 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 30 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
-| 31 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
-| 32 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 33 | [Matt Bianco](http://twitter.com/search?q=Matt+Bianco) | N/A |
-| 34 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 35 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
-| 36 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
-| 37 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 38 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 39 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 40 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 41 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 43 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 44 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 45 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 46 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
-| 47 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 48 | [Posie Parker](http://twitter.com/search?q=Posie+Parker) | N/A |
-| 49 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 50 | [Air Max 90](http://twitter.com/search?q=Air+Max+90) | N/A |
+| 21 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 22 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 23 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
+| 24 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 25 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
+| 26 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
+| 27 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
+| 28 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 29 | [Ivan Toney](http://twitter.com/search?q=Ivan+Toney) | N/A |
+| 30 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 32 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 33 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
+| 34 | [Ian Dury](http://twitter.com/search?q=Ian+Dury) | N/A |
+| 35 | [Matt Bianco](http://twitter.com/search?q=Matt+Bianco) | N/A |
+| 36 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 37 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 38 | [Southgate](http://twitter.com/search?q=Southgate) | N/A |
+| 39 | [Forest Green](http://twitter.com/search?q=Forest+Green) | N/A |
+| 40 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 41 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 42 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 43 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 44 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 45 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 46 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 49 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 50 | [Rentaghost](http://twitter.com/search?q=Rentaghost) | N/A |
 
 
 

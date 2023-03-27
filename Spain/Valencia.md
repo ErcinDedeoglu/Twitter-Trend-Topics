@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-27 06:18:17 UTC`
+📆 Last Updated: `2023-03-27 07:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 2 | [#ConexiónHonduras4](http://twitter.com/search?q=%23Conexi%c3%b3nHonduras4) | N/A |
 | 3 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 4 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 5 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
+| 4 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
+| 5 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 6 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 7 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 8 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 9 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 7 | [#diamundialdelteatro](http://twitter.com/search?q=%23diamundialdelteatro) | N/A |
+| 8 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
+| 9 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
 | 10 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 11 | [445 X](http://twitter.com/search?q=445+X) | N/A |
-| 12 | [#lodeballesta](http://twitter.com/search?q=%23lodeballesta) | N/A |
-| 13 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 14 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
-| 15 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 12 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 13 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
+| 14 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 15 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
 | 16 | [Adara](http://twitter.com/search?q=Adara) | N/A |
 | 17 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 18 | [gudelj](http://twitter.com/search?q=gudelj) | N/A |
-| 19 | [Hispanoamérica](http://twitter.com/search?q=Hispanoam%c3%a9rica) | N/A |
-| 20 | [Indra](http://twitter.com/search?q=Indra) | N/A |
-| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 23 | [Domingo de Pasión](http://twitter.com/search?q=Domingo+de+Pasi%c3%b3n) | N/A |
-| 24 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 25 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
+| 18 | [Reyes Maroto](http://twitter.com/search?q=Reyes+Maroto) | N/A |
+| 19 | [HOY 27](http://twitter.com/search?q=HOY+27) | N/A |
+| 20 | [Jn 8](http://twitter.com/search?q=Jn+8) | N/A |
+| 21 | [Indra](http://twitter.com/search?q=Indra) | N/A |
+| 22 | [El 74%](http://twitter.com/search?q=El+74%25) | N/A |
+| 23 | [Hispanoamérica](http://twitter.com/search?q=Hispanoam%c3%a9rica) | N/A |
+| 24 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
+| 25 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 26 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
-| 27 | [Queipo](http://twitter.com/search?q=Queipo) | N/A |
-| 28 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 29 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 30 | [RACE WEEK](http://twitter.com/search?q=RACE+WEEK) | N/A |
-| 31 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 32 | [Riazor](http://twitter.com/search?q=Riazor) | N/A |
-| 33 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 34 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 35 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 36 | [Juan Guarnizo](http://twitter.com/search?q=Juan+Guarnizo) | N/A |
-| 37 | [Enrique Casellas](http://twitter.com/search?q=Enrique+Casellas) | N/A |
-| 38 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 39 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
-| 40 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 41 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
-| 42 | [Amrabat](http://twitter.com/search?q=Amrabat) | Amrabat is an Arabic name meaning "blessings". It is also used as a surname. |
-| 43 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 44 | [BeReal](http://twitter.com/search?q=BeReal) | N/A |
-| 45 | [Vada](http://twitter.com/search?q=Vada) | N/A |
-| 46 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 47 | [Dorkis](http://twitter.com/search?q=Dorkis) | N/A |
-| 48 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 49 | [Cumbre Iberoamericana](http://twitter.com/search?q=Cumbre+Iberoamericana) | N/A |
-| 50 | [MANTOVANI](http://twitter.com/search?q=MANTOVANI) | N/A |
+| 27 | [Domingo de Pasión](http://twitter.com/search?q=Domingo+de+Pasi%c3%b3n) | N/A |
+| 28 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 29 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 30 | [Queipo](http://twitter.com/search?q=Queipo) | N/A |
+| 31 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 32 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
+| 33 | [Casimiro](http://twitter.com/search?q=Casimiro) | N/A |
+| 34 | [Riazor](http://twitter.com/search?q=Riazor) | N/A |
+| 35 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 36 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 37 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 38 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 39 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 40 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 41 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
+| 42 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 43 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
+| 44 | [Enrique Casellas](http://twitter.com/search?q=Enrique+Casellas) | N/A |
+| 45 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 46 | [Lunes 27](http://twitter.com/search?q=Lunes+27) | N/A |
+| 47 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 48 | [Dorkis](http://twitter.com/search?q=Dorkis) | N/A |
+| 49 | [Billy Wilder](http://twitter.com/search?q=Billy+Wilder) | N/A |
+| 50 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
 
 
 
