@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-27 00:29:17 UTC`
+📆 Last Updated: `2023-03-27 01:44:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#MarchMadness](http://twitter.com/search?q=%23MarchMadness) | N/A |
 | 2 | [#DontPickUs](http://twitter.com/search?q=%23DontPickUs) | N/A |
-| 3 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 4 | [Pack](http://twitter.com/search?q=Pack) | N/A |
-| 5 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 6 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 7 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 8 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 9 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 10 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 11 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 12 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 3 | [Coach L](http://twitter.com/search?q=Coach+L) | N/A |
+| 4 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 5 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 6 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 7 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 8 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 9 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 10 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 11 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 12 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
 | 13 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 14 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 16 | [Jordan Miller](http://twitter.com/search?q=Jordan+Miller) | N/A |
-| 17 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 18 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 20 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 21 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 22 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
-| 23 | [The U](http://twitter.com/search?q=The+U) | N/A |
-| 24 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 25 | [Cunningham](http://twitter.com/search?q=Cunningham) | N/A |
-| 26 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 27 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
-| 28 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 29 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
-| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 31 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 32 | [Omier](http://twitter.com/search?q=Omier) | N/A |
-| 33 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
-| 34 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
-| 35 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 36 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 37 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 38 | [Kurt Busch](http://twitter.com/search?q=Kurt+Busch) | N/A |
-| 39 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 40 | [Coach L](http://twitter.com/search?q=Coach+L) | N/A |
-| 41 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
-| 42 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 43 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 44 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 45 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 46 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
-| 47 | [Coppertone](http://twitter.com/search?q=Coppertone) | N/A |
-| 48 | [CLEVELAND CAVALIERS](http://twitter.com/search?q=CLEVELAND+CAVALIERS) | N/A |
-| 49 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 14 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 15 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 16 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 17 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 18 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 19 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 20 | [Frozen Four](http://twitter.com/search?q=Frozen+Four) | N/A |
+| 21 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 22 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 23 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
+| 24 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 26 | [willa](http://twitter.com/search?q=willa) | N/A |
+| 27 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
+| 28 | [Jordan Miller](http://twitter.com/search?q=Jordan+Miller) | N/A |
+| 29 | [Hailey Van Lith](http://twitter.com/search?q=Hailey+Van+Lith) | N/A |
+| 30 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 31 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 32 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 33 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 34 | [The U](http://twitter.com/search?q=The+U) | N/A |
+| 35 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 36 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 37 | [Cunningham](http://twitter.com/search?q=Cunningham) | N/A |
+| 38 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 39 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 40 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 41 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 42 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 43 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
+| 44 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 45 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 46 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 47 | [Marcia](http://twitter.com/search?q=Marcia) | Marcia is a female given name of Latin origin, derived from the Roman god Mars. It means "warlike" or "brave". |
+| 48 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
+| 49 | [Wong](http://twitter.com/search?q=Wong) | N/A |
 
 
 

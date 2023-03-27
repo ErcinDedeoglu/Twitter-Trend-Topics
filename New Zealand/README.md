@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-27 00:29:23 UTC`
+📆 Last Updated: `2023-03-27 01:44:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tova](http://twitter.com/search?q=Tova) | N/A |
-| 2 | [#nrlwarriorsbulldogs](http://twitter.com/search?q=%23nrlwarriorsbulldogs) | N/A |
+| 1 | [#NRLWarriorsBulldogs](http://twitter.com/search?q=%23NRLWarriorsBulldogs) | N/A |
+| 2 | [Tova](http://twitter.com/search?q=Tova) | N/A |
 | 3 | [Posie](http://twitter.com/search?q=Posie) | N/A |
-| 4 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 5 | [Marama Davidson](http://twitter.com/search?q=Marama+Davidson) | N/A |
-| 6 | [#nzlvchn](http://twitter.com/search?q=%23nzlvchn) | N/A |
-| 7 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 4 | [Marama Davidson](http://twitter.com/search?q=Marama+Davidson) | N/A |
+| 5 | [#nzlvchn](http://twitter.com/search?q=%23nzlvchn) | N/A |
+| 6 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 7 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
 | 8 | [#LetWomenSpeakAuckland](http://twitter.com/search?q=%23LetWomenSpeakAuckland) | N/A |
-| 9 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 10 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 9 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 10 | [Springbok](http://twitter.com/search?q=Springbok) | N/A |
 | 11 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 12 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 13 | [All Whites](http://twitter.com/search?q=All+Whites) | N/A |
-| 14 | [Kiwibank](http://twitter.com/search?q=Kiwibank) | N/A |
-| 15 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
-| 16 | [Violence](http://twitter.com/search?q=Violence) | N/A |
-| 17 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
-| 18 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 19 | [Georgina Beyer](http://twitter.com/search?q=Georgina+Beyer) | N/A |
-| 20 | [Sack Shaneel Lal](http://twitter.com/search?q=Sack+Shaneel+Lal) | N/A |
-| 21 | [Destiny Church](http://twitter.com/search?q=Destiny+Church) | N/A |
-| 22 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 23 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 24 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 25 | [Signed](http://twitter.com/search?q=Signed) | N/A |
-| 26 | [NZ Police](http://twitter.com/search?q=NZ+Police) | N/A |
+| 12 | [Violence](http://twitter.com/search?q=Violence) | N/A |
+| 13 | [Kiwibank](http://twitter.com/search?q=Kiwibank) | N/A |
+| 14 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
+| 15 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
+| 16 | [Sack Shaneel Lal](http://twitter.com/search?q=Sack+Shaneel+Lal) | N/A |
+| 17 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 18 | [Georgina Beyer](http://twitter.com/search?q=Georgina+Beyer) | N/A |
+| 19 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 20 | [Aotearoa](http://twitter.com/search?q=Aotearoa) | N/A |
+| 21 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 22 | [Destiny Church](http://twitter.com/search?q=Destiny+Church) | N/A |
+| 23 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 24 | [NZ Police](http://twitter.com/search?q=NZ+Police) | N/A |
+| 25 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 26 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
 | 27 | [Tomato](http://twitter.com/search?q=Tomato) | N/A |
-| 28 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 29 | [Free Speech Union](http://twitter.com/search?q=Free+Speech+Union) | N/A |
-| 30 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
-| 31 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 32 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
-| 33 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 34 | [Springbok](http://twitter.com/search?q=Springbok) | N/A |
-| 35 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 36 | [Tamaki](http://twitter.com/search?q=Tamaki) | N/A |
-| 37 | [ōtautahi](http://twitter.com/search?q=%c5%8dtautahi) | N/A |
+| 28 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
+| 29 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 30 | [Assault](http://twitter.com/search?q=Assault) | N/A |
+| 31 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
+| 32 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 33 | [Free Speech Union](http://twitter.com/search?q=Free+Speech+Union) | N/A |
+| 34 | [Tamaki](http://twitter.com/search?q=Tamaki) | N/A |
+| 35 | [NZer](http://twitter.com/search?q=NZer) | N/A |
+| 36 | [NZ Herald](http://twitter.com/search?q=NZ+Herald) | N/A |
+| 37 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 38 | [Male](http://twitter.com/search?q=Male) | N/A |
-| 39 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 40 | [London](http://twitter.com/search?q=London) | N/A |
-| 41 | [NZer](http://twitter.com/search?q=NZer) | N/A |
-| 42 | [Byron](http://twitter.com/search?q=Byron) | N/A |
-| 43 | [NZ Herald](http://twitter.com/search?q=NZ+Herald) | N/A |
-| 44 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 45 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
-| 46 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
-| 47 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 48 | [te whanganui](http://twitter.com/search?q=te+whanganui) | N/A |
-| 49 | [Jack Tame](http://twitter.com/search?q=Jack+Tame) | N/A |
-| 50 | [Keri](http://twitter.com/search?q=Keri) | N/A |
+| 39 | [Byron](http://twitter.com/search?q=Byron) | N/A |
+| 40 | [CPAC](http://twitter.com/search?q=CPAC) | N/A |
+| 41 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 42 | [Be Kind](http://twitter.com/search?q=Be+Kind) | N/A |
+| 43 | [Signed](http://twitter.com/search?q=Signed) | N/A |
+| 44 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 45 | [te whanganui](http://twitter.com/search?q=te+whanganui) | N/A |
+| 46 | [jack tame](http://twitter.com/search?q=jack+tame) | N/A |
+| 47 | [Keri](http://twitter.com/search?q=Keri) | N/A |
+| 48 | [Up the Wahs](http://twitter.com/search?q=Up+the+Wahs) | N/A |
+| 49 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 50 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 
 
 

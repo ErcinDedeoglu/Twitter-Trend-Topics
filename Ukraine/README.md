@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-27 00:29:25 UTC`
+📆 Last Updated: `2023-03-27 01:44:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for Ukraine
 | 13 | [харькове](http://twitter.com/search?q=%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
 | 14 | [#war_in_ukraine](http://twitter.com/search?q=%23war_in_ukraine) | N/A |
 | 15 | [UN Security Council](http://twitter.com/search?q=UN+Security+Council) | N/A |
-| 16 | [Чекаю](http://twitter.com/search?q=%d0%a7%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
+| 16 | [чекаю](http://twitter.com/search?q=%d1%87%d0%b5%d0%ba%d0%b0%d1%8e) | N/A |
 | 17 | [киля](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bb%d1%8f) | N/A |
 | 18 | [крикнула](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d0%ba%d0%bd%d1%83%d0%bb%d0%b0) | N/A |
 | 19 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
 | 20 | [класс](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d1%81) | N/A |
-| 21 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
-| 22 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
-| 23 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 24 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 25 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 26 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 27 | [Сирии](http://twitter.com/search?q=%d0%a1%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
-| 28 | [Hungarian](http://twitter.com/search?q=Hungarian) | N/A |
-| 29 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 30 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
-| 31 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 32 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 33 | [America](http://twitter.com/search?q=America) | N/A |
-| 34 | [Morning Morning](http://twitter.com/search?q=Morning+Morning) | N/A |
-| 35 | [Мені](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d1%96) | N/A |
-| 36 | [супер](http://twitter.com/search?q=%d1%81%d1%83%d0%bf%d0%b5%d1%80) | N/A |
-| 37 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 38 | [Плюс](http://twitter.com/search?q=%d0%9f%d0%bb%d1%8e%d1%81) | N/A |
-| 39 | [армении](http://twitter.com/search?q=%d0%b0%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
-| 40 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 41 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 42 | [Дякую](http://twitter.com/search?q=%d0%94%d1%8f%d0%ba%d1%83%d1%8e) | N/A |
-| 43 | [коля](http://twitter.com/search?q=%d0%ba%d0%be%d0%bb%d1%8f) | N/A |
-| 44 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 21 | [Crimea is Ukraine](http://twitter.com/search?q=Crimea+is+Ukraine) | "Crimea is Ukraine" is a political statement that asserts that the Crimean Peninsula is part of Ukraine. It is a rejection of Russia's 2014 annexation of Crimea, which was not recognized by most countries in the international community. The phrase has become a rallying cry for those who oppose Russian aggression in Ukraine and support Ukrainian sovereignty over Crimea. |
+| 22 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 23 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 24 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 25 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 26 | [Сирии](http://twitter.com/search?q=%d0%a1%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
+| 27 | [Hungarian](http://twitter.com/search?q=Hungarian) | N/A |
+| 28 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 29 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | N/A |
+| 30 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 31 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
+| 32 | [Morning Morning](http://twitter.com/search?q=Morning+Morning) | N/A |
+| 33 | [мені](http://twitter.com/search?q=%d0%bc%d0%b5%d0%bd%d1%96) | N/A |
+| 34 | [супер](http://twitter.com/search?q=%d1%81%d1%83%d0%bf%d0%b5%d1%80) | N/A |
+| 35 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 36 | [Плюс](http://twitter.com/search?q=%d0%9f%d0%bb%d1%8e%d1%81) | N/A |
+| 37 | [армении](http://twitter.com/search?q=%d0%b0%d1%80%d0%bc%d0%b5%d0%bd%d0%b8%d0%b8) | N/A |
+| 38 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 39 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 40 | [America](http://twitter.com/search?q=America) | N/A |
+| 41 | [Дякую](http://twitter.com/search?q=%d0%94%d1%8f%d0%ba%d1%83%d1%8e) | N/A |
+| 42 | [коля](http://twitter.com/search?q=%d0%ba%d0%be%d0%bb%d1%8f) | N/A |
+| 43 | [Kindell](http://twitter.com/search?q=Kindell) | N/A |
+| 44 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
 | 45 | [Хехе](http://twitter.com/search?q=%d0%a5%d0%b5%d1%85%d0%b5) | N/A |
 | 46 | [Рада](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b0) | N/A |
 | 47 | [David](http://twitter.com/search?q=David) | N/A |
-| 48 | [kindell](http://twitter.com/search?q=kindell) | N/A |
-| 49 | [$TIME](http://twitter.com/search?q=%24TIME) | N/A |
-| 50 | [Одессу](http://twitter.com/search?q=%d0%9e%d0%b4%d0%b5%d1%81%d1%81%d1%83) | N/A |
+| 48 | [$TIME](http://twitter.com/search?q=%24TIME) | N/A |
+| 49 | [Одессу](http://twitter.com/search?q=%d0%9e%d0%b4%d0%b5%d1%81%d1%81%d1%83) | N/A |
+| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 
 
 

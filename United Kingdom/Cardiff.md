@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-27 00:28:32 UTC`
+📆 Last Updated: `2023-03-27 01:43:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,41 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 3 | [#GreatExpectations](http://twitter.com/search?q=%23GreatExpectations) | N/A |
 | 4 | [#TemptingFortune](http://twitter.com/search?q=%23TemptingFortune) | N/A |
 | 5 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 6 | [#Spurs](http://twitter.com/search?q=%23Spurs) | N/A |
-| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 9 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 10 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 11 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
-| 12 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 13 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 14 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 15 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
-| 16 | [Matt Berry](http://twitter.com/search?q=Matt+Berry) | N/A |
-| 17 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
-| 18 | [Waves](http://twitter.com/search?q=Waves) | N/A |
-| 19 | [Miss Havisham](http://twitter.com/search?q=Miss+Havisham) | N/A |
-| 20 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 21 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 22 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
-| 23 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
-| 24 | [Andrew Doyle](http://twitter.com/search?q=Andrew+Doyle) | N/A |
-| 25 | [BeReal](http://twitter.com/search?q=BeReal) | N/A |
-| 26 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 27 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 28 | [Gemma Collins](http://twitter.com/search?q=Gemma+Collins) | Gemma Collins is an English television personality, businesswoman, and media personality. She is best known for appearing in the ITVBe reality series The Only Way Is Essex. The phrase "Gemma Collins" has come to be associated with her larger-than-life persona and outspoken nature. |
-| 29 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 30 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 31 | [England 2-0 Ukraine](http://twitter.com/search?q=England+2-0+Ukraine) | N/A |
-| 32 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 33 | [calvin klein](http://twitter.com/search?q=calvin+klein) | N/A |
-| 34 | [Toney](http://twitter.com/search?q=Toney) | Toney is a slang term for money. It is often used to refer to large amounts of money, or to describe someone who has a lot of money. |
-| 35 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 36 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
-| 37 | [Malta](http://twitter.com/search?q=Malta) | N/A |
-| 38 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 39 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 40 | [Crisps](http://twitter.com/search?q=Crisps) | N/A |
-| 41 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 42 | [Gazza](http://twitter.com/search?q=Gazza) | N/A |
-| 43 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 44 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 45 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 46 | [#forgotten80s](http://twitter.com/search?q=%23forgotten80s) | N/A |
-| 47 | [#WildIsles](http://twitter.com/search?q=%23WildIsles) | N/A |
-| 48 | [#Grace](http://twitter.com/search?q=%23Grace) | N/A |
+| 6 | [#forgotten80s](http://twitter.com/search?q=%23forgotten80s) | N/A |
+| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 9 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 10 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
+| 11 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 12 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
+| 15 | [Dickens](http://twitter.com/search?q=Dickens) | N/A |
+| 16 | [Waves](http://twitter.com/search?q=Waves) | N/A |
+| 17 | [Miss Havisham](http://twitter.com/search?q=Miss+Havisham) | N/A |
+| 18 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 19 | [Tel Aviv](http://twitter.com/search?q=Tel+Aviv) | N/A |
+| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 21 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 22 | [Gemma Collins](http://twitter.com/search?q=Gemma+Collins) | Gemma Collins is an English television personality, businesswoman, and media personality. She is best known for appearing in the ITVBe reality series The Only Way Is Essex. The phrase "Gemma Collins" has come to be associated with her larger-than-life persona and outspoken nature. |
+| 23 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
+| 24 | [Bear Grylls](http://twitter.com/search?q=Bear+Grylls) | N/A |
+| 25 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 26 | [Malta](http://twitter.com/search?q=Malta) | N/A |
+| 27 | [Calvin](http://twitter.com/search?q=Calvin) | N/A |
+| 28 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 29 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 30 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 31 | [#Spurs](http://twitter.com/search?q=%23Spurs) | N/A |
+| 32 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 33 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 34 | [#GBBO](http://twitter.com/search?q=%23GBBO) | N/A |
+| 35 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 36 | [#WildIsles](http://twitter.com/search?q=%23WildIsles) | N/A |
+| 37 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 38 | [#GAWA](http://twitter.com/search?q=%23GAWA) | N/A |
+| 39 | [#TheNightAgent](http://twitter.com/search?q=%23TheNightAgent) | N/A |
+| 40 | [#AFGvPAK](http://twitter.com/search?q=%23AFGvPAK) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-03-27 00:28:46 UTC`
+📆 Last Updated: `2023-03-27 01:43:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Germany](</Germany>)
 | 9 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
 | 10 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
 | 11 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 12 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 12 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 13 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
 | 14 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
 | 15 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
 | 16 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
 | 17 | [Streik](http://twitter.com/search?q=Streik) | N/A |
 | 18 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
-| 19 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 20 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 19 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 20 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 21 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 22 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 23 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 24 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 22 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 23 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 24 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
 | 25 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 26 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
-| 27 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 28 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
-| 29 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 30 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
-| 31 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 32 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 33 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
-| 34 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 35 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 36 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 37 | [Mike Josef](http://twitter.com/search?q=Mike+Josef) | N/A |
-| 38 | [Warme Atmosphäre](http://twitter.com/search?q=Warme+Atmosph%c3%a4re) | N/A |
-| 39 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 40 | [Hausaufgaben](http://twitter.com/search?q=Hausaufgaben) | N/A |
-| 41 | [Lieblingsjahreszeit](http://twitter.com/search?q=Lieblingsjahreszeit) | N/A |
-| 42 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
-| 43 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 44 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
-| 45 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 46 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 47 | [Bill Kaulitz](http://twitter.com/search?q=Bill+Kaulitz) | N/A |
-| 48 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 49 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 50 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
+| 26 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
+| 27 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
+| 28 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 29 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 30 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 31 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 32 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 33 | [Mike Josef](http://twitter.com/search?q=Mike+Josef) | N/A |
+| 34 | [warme atmosphäre](http://twitter.com/search?q=warme+atmosph%c3%a4re) | N/A |
+| 35 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 36 | [Lieblingsjahreszeit](http://twitter.com/search?q=Lieblingsjahreszeit) | N/A |
+| 37 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
+| 38 | [Hausaufgaben](http://twitter.com/search?q=Hausaufgaben) | N/A |
+| 39 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 40 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 41 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 42 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 43 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 44 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 45 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 46 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
+| 47 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
+| 48 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 49 | [Briefwahl](http://twitter.com/search?q=Briefwahl) | N/A |
+| 50 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 
 
 

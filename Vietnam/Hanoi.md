@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-27 00:28:58 UTC`
+📆 Last Updated: `2023-03-27 01:44:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 5 | [#บียัวเต๊าะบิว](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b9%8a%e0%b8%b2%e0%b8%b0%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
 | 6 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
 | 7 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
-| 8 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
-| 9 | [Private Key](http://twitter.com/search?q=Private+Key) | N/A |
-| 10 | [MPC Wallet](http://twitter.com/search?q=MPC+Wallet) | N/A |
+| 8 | [Private Key](http://twitter.com/search?q=Private+Key) | N/A |
+| 9 | [MPC Wallet](http://twitter.com/search?q=MPC+Wallet) | N/A |
+| 10 | [COUNTDOWN TO DOJAEJUNG](http://twitter.com/search?q=COUNTDOWN+TO+DOJAEJUNG) | N/A |
 | 11 | [Lilies](http://twitter.com/search?q=Lilies) | N/A |
-| 12 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 13 | [Chung](http://twitter.com/search?q=Chung) | N/A |
+| 12 | [Chung](http://twitter.com/search?q=Chung) | N/A |
+| 13 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
 | 14 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 15 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 16 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 15 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
+| 16 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 17 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
 | 18 | [$MOB Token](http://twitter.com/search?q=%24MOB+Token) | N/A |
 | 19 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 20 | [NuNew](http://twitter.com/search?q=NuNew) | N/A |
-| 21 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 21 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
 | 22 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 | 23 | [Fourth](http://twitter.com/search?q=Fourth) | N/A |
 | 24 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 25 | [Western](http://twitter.com/search?q=Western) | N/A |
 | 26 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
 | 27 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 28 | [chuyện](http://twitter.com/search?q=chuy%e1%bb%87n) | N/A |
-| 29 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 30 | [chất](http://twitter.com/search?q=ch%e1%ba%a5t) | N/A |
-| 31 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 32 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
-| 33 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 35 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
-| 36 | [Knives](http://twitter.com/search?q=Knives) | N/A |
-| 37 | [trong](http://twitter.com/search?q=trong) | N/A |
-| 38 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 39 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 40 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 41 | [England](http://twitter.com/search?q=England) | N/A |
-| 42 | [GENG](http://twitter.com/search?q=GENG) | N/A |
-| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 44 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
-| 45 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 46 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
-| 47 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 48 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 49 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
-| 50 | [Vash](http://twitter.com/search?q=Vash) | N/A |
+| 28 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 29 | [chất](http://twitter.com/search?q=ch%e1%ba%a5t) | N/A |
+| 30 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 31 | [Deutsche Bank](http://twitter.com/search?q=Deutsche+Bank) | N/A |
+| 32 | [xinh](http://twitter.com/search?q=xinh) | N/A |
+| 33 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 34 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 35 | [Knives](http://twitter.com/search?q=Knives) | N/A |
+| 36 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 37 | [Chuyện](http://twitter.com/search?q=Chuy%e1%bb%87n) | N/A |
+| 38 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 39 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 40 | [England](http://twitter.com/search?q=England) | N/A |
+| 41 | [GENG](http://twitter.com/search?q=GENG) | N/A |
+| 42 | [America](http://twitter.com/search?q=America) | N/A |
+| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 44 | [Trong](http://twitter.com/search?q=Trong) | N/A |
+| 45 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 46 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
+| 47 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 48 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 49 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 50 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
 
 
 
