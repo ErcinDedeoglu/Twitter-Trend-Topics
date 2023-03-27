@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-27 19:16:40 UTC`
+📆 Last Updated: `2023-03-27 20:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 1 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
 | 2 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
 | 3 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
 | 4 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
 | 5 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 6 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 7 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 8 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 7 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 8 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 11 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 12 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 13 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
-| 14 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 15 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
-| 16 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 17 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 18 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
-| 19 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
-| 20 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 21 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 22 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
-| 23 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 24 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 25 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 26 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
-| 27 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 28 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 29 | [Christian School](http://twitter.com/search?q=Christian+School) | N/A |
-| 30 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
-| 31 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
-| 32 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
-| 33 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 34 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 35 | [Umps](http://twitter.com/search?q=Umps) | N/A |
-| 36 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
-| 37 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
-| 38 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 39 | [She's 28](http://twitter.com/search?q=She%27s+28) | N/A |
-| 40 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
-| 41 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 42 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
-| 43 | [Bill Lee](http://twitter.com/search?q=Bill+Lee) | N/A |
-| 44 | [Andy Ogles](http://twitter.com/search?q=Andy+Ogles) | N/A |
-| 45 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 46 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 47 | [Only in America](http://twitter.com/search?q=Only+in+America) | N/A |
-| 48 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 49 | [heize](http://twitter.com/search?q=heize) | N/A |
-| 50 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
+| 10 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 11 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 12 | [#guncontrol](http://twitter.com/search?q=%23guncontrol) | N/A |
+| 13 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 14 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 15 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 16 | [#gunreformnow](http://twitter.com/search?q=%23gunreformnow) | N/A |
+| 17 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
+| 18 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 19 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 20 | [#BanAssaultWeapons](http://twitter.com/search?q=%23BanAssaultWeapons) | N/A |
+| 21 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 22 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 23 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
+| 24 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 25 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 26 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 27 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 28 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 29 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 30 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
+| 31 | [Umps](http://twitter.com/search?q=Umps) | N/A |
+| 32 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 33 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
+| 34 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 35 | [Andy Ogles](http://twitter.com/search?q=Andy+Ogles) | N/A |
+| 36 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
+| 37 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 38 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
+| 39 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 40 | [Samantha Hyde](http://twitter.com/search?q=Samantha+Hyde) | N/A |
+| 41 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
+| 42 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 43 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 44 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 45 | [Shove](http://twitter.com/search?q=Shove) | N/A |
+| 46 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
+| 47 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
+| 48 | [Highland Park](http://twitter.com/search?q=Highland+Park) | N/A |
+| 49 | [She's 28](http://twitter.com/search?q=She%27s+28) | N/A |
+| 50 | [Bill Lee](http://twitter.com/search?q=Bill+Lee) | N/A |
 
 
 

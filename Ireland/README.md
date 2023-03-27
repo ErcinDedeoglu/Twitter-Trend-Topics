@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-27 19:16:50 UTC`
+📆 Last Updated: `2023-03-27 20:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ireland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
-| 2 | [#IREFRA](http://twitter.com/search?q=%23IREFRA) | N/A |
-| 3 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 4 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 5 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
-| 6 | [#MICHELINSTAR23](http://twitter.com/search?q=%23MICHELINSTAR23) | N/A |
-| 7 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 8 | [#michelinguideGBI](http://twitter.com/search?q=%23michelinguideGBI) | N/A |
-| 9 | [COME ON YOU BOYS IN GREEN](http://twitter.com/search?q=COME+ON+YOU+BOYS+IN+GREEN) | N/A |
-| 10 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 11 | [Terre](http://twitter.com/search?q=Terre) | N/A |
-| 12 | [Spar](http://twitter.com/search?q=Spar) | N/A |
-| 13 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 14 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
-| 15 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 16 | [Evan Ferguson](http://twitter.com/search?q=Evan+Ferguson) | Evan Ferguson is a Scottish surname. It is derived from the Gaelic name Fergus, which means "strong man". The name is most commonly found in Scotland and Northern Ireland. |
-| 17 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
-| 18 | [Knight](http://twitter.com/search?q=Knight) | N/A |
-| 19 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 20 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 21 | [Melanie Greally](http://twitter.com/search?q=Melanie+Greally) | N/A |
-| 22 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
-| 23 | [Shona](http://twitter.com/search?q=Shona) | N/A |
-| 24 | [danny searle](http://twitter.com/search?q=danny+searle) | N/A |
-| 25 | [dolores keane](http://twitter.com/search?q=dolores+keane) | N/A |
-| 26 | [waterford fc](http://twitter.com/search?q=waterford+fc) | N/A |
-| 27 | [Cluxton](http://twitter.com/search?q=Cluxton) | N/A |
-| 28 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 29 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 30 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 31 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
-| 32 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 33 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 34 | [Una Mullally](http://twitter.com/search?q=Una+Mullally) | N/A |
-| 35 | [Independents](http://twitter.com/search?q=Independents) | N/A |
-| 36 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [Amhrán](http://twitter.com/search?q=Amhr%c3%a1n) | N/A |
-| 39 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 40 | [Cora Staunton](http://twitter.com/search?q=Cora+Staunton) | N/A |
-| 41 | [Donegal](http://twitter.com/search?q=Donegal) | N/A |
-| 42 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 43 | [Mason](http://twitter.com/search?q=Mason) | N/A |
-| 44 | [Mullingar](http://twitter.com/search?q=Mullingar) | N/A |
-| 45 | [SETU](http://twitter.com/search?q=SETU) | N/A |
-| 46 | [turner's cross](http://twitter.com/search?q=turner%27s+cross) | N/A |
-| 47 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 48 | [Aidan O'Brien](http://twitter.com/search?q=Aidan+O%27Brien) | N/A |
-| 49 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 50 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 2 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
+| 3 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
+| 4 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 5 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
+| 6 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 7 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
+| 8 | [#irelandvsfrance](http://twitter.com/search?q=%23irelandvsfrance) | N/A |
+| 9 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 10 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 11 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
+| 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 13 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 14 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 15 | [COME ON YOU BOYS IN GREEN](http://twitter.com/search?q=COME+ON+YOU+BOYS+IN+GREEN) | N/A |
+| 16 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 17 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 18 | [Stephen Kenny](http://twitter.com/search?q=Stephen+Kenny) | N/A |
+| 19 | [Terre](http://twitter.com/search?q=Terre) | N/A |
+| 20 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 21 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 22 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 23 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 24 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
+| 25 | [Dede](http://twitter.com/search?q=Dede) | N/A |
+| 26 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 27 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 28 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
+| 29 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 30 | [Shona](http://twitter.com/search?q=Shona) | N/A |
+| 31 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 32 | [danny searle](http://twitter.com/search?q=danny+searle) | N/A |
+| 33 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 34 | [dolores keane](http://twitter.com/search?q=dolores+keane) | N/A |
+| 35 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 36 | [waterford fc](http://twitter.com/search?q=waterford+fc) | N/A |
+| 37 | [Melanie Greally](http://twitter.com/search?q=Melanie+Greally) | N/A |
+| 38 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 39 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 41 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 42 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
+| 43 | [Independents](http://twitter.com/search?q=Independents) | N/A |
+| 44 | [Nolan](http://twitter.com/search?q=Nolan) | N/A |
+| 45 | [Amhrán](http://twitter.com/search?q=Amhr%c3%a1n) | N/A |
+| 46 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 47 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 48 | [Cora Staunton](http://twitter.com/search?q=Cora+Staunton) | N/A |
+| 49 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
+| 50 | [Una Mullally](http://twitter.com/search?q=Una+Mullally) | N/A |
 
 
 

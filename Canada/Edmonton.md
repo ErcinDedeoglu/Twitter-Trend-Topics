@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-27 19:16:04 UTC`
+📆 Last Updated: `2023-03-27 20:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Nashville](http://twitter.com/search?q=%23Nashville) | N/A |
+| 1 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 2 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
 | 6 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 7 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 8 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 9 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 10 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 12 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
-| 13 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 14 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 15 | [America](http://twitter.com/search?q=America) | N/A |
-| 16 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 17 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 18 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 19 | [Dvorak](http://twitter.com/search?q=Dvorak) | N/A |
-| 20 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 22 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 24 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
-| 25 | [Brett Ryan](http://twitter.com/search?q=Brett+Ryan) | N/A |
-| 26 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 27 | [Travis Jordan](http://twitter.com/search?q=Travis+Jordan) | N/A |
-| 28 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
-| 29 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 30 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 31 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 32 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 33 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 34 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
-| 35 | [Covenant School](http://twitter.com/search?q=Covenant+School) | N/A |
+| 7 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 8 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 9 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 11 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
+| 12 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
+| 13 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 14 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 15 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 16 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 17 | [America](http://twitter.com/search?q=America) | N/A |
+| 18 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 19 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 20 | [Dvorak](http://twitter.com/search?q=Dvorak) | N/A |
+| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 22 | [Brett Ryan](http://twitter.com/search?q=Brett+Ryan) | N/A |
+| 23 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 25 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 26 | [Travis Jordan](http://twitter.com/search?q=Travis+Jordan) | N/A |
+| 27 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 28 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 29 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
+| 30 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 31 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 32 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
+| 33 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 34 | [Reinbacher](http://twitter.com/search?q=Reinbacher) | N/A |
+| 35 | [Umps](http://twitter.com/search?q=Umps) | N/A |
 | 36 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 37 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 38 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 39 | [Isobel Cup](http://twitter.com/search?q=Isobel+Cup) | N/A |
-| 40 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 41 | [BMO Field](http://twitter.com/search?q=BMO+Field) | N/A |
+| 37 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 38 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 39 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 40 | [Isobel Cup](http://twitter.com/search?q=Isobel+Cup) | N/A |
+| 41 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
 | 42 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
 | 43 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 44 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 45 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 46 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 47 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 44 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 45 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 46 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 47 | [Sarah Fischer](http://twitter.com/search?q=Sarah+Fischer) | N/A |
 
 
 

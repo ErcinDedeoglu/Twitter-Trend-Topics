@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-27 19:16:18 UTC`
+📆 Last Updated: `2023-03-27 20:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
-| 2 | [#27marzo](http://twitter.com/search?q=%2327marzo) | N/A |
-| 3 | [#queenfiorde](http://twitter.com/search?q=%23queenfiorde) | N/A |
-| 4 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 5 | [#MaltaItalia](http://twitter.com/search?q=%23MaltaItalia) | N/A |
+| 1 | [#GianniMinà](http://twitter.com/search?q=%23GianniMin%c3%a0) | N/A |
+| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 3 | [#PresaDiretta](http://twitter.com/search?q=%23PresaDiretta) | N/A |
+| 4 | [#quartarepubblica](http://twitter.com/search?q=%23quartarepubblica) | N/A |
+| 5 | [#queenfiorde](http://twitter.com/search?q=%23queenfiorde) | N/A |
 | 6 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
-| 7 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 8 | [Turone](http://twitter.com/search?q=Turone) | N/A |
-| 9 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 10 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
-| 11 | [Cocco](http://twitter.com/search?q=Cocco) | N/A |
-| 12 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
-| 13 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
-| 14 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
-| 15 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 16 | [Cecchi Paone](http://twitter.com/search?q=Cecchi+Paone) | N/A |
-| 17 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 18 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 19 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 20 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 21 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 22 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
-| 23 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 24 | [Domenicali](http://twitter.com/search?q=Domenicali) | N/A |
-| 25 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 26 | [Mariella](http://twitter.com/search?q=Mariella) | N/A |
-| 27 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 28 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 29 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
-| 30 | [Carlo Sassi](http://twitter.com/search?q=Carlo+Sassi) | N/A |
-| 31 | [Alessandra De Stefano](http://twitter.com/search?q=Alessandra+De+Stefano) | N/A |
-| 32 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 33 | [Elisabetta](http://twitter.com/search?q=Elisabetta) | N/A |
-| 34 | [vaciago](http://twitter.com/search?q=vaciago) | N/A |
-| 35 | [Erba](http://twitter.com/search?q=Erba) | N/A |
-| 36 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
-| 37 | [Cnel](http://twitter.com/search?q=Cnel) | N/A |
-| 38 | [Ostapenko](http://twitter.com/search?q=Ostapenko) | Ostapenko is a Ukrainian surname derived from the given name Ostap, which is derived from the Greek name Eustathios. The meaning of Ostap in English is "stable". |
-| 39 | [Bansky](http://twitter.com/search?q=Bansky) | N/A |
-| 40 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
-| 41 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 42 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 43 | [Knesset](http://twitter.com/search?q=Knesset) | N/A |
-| 44 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
-| 45 | [Caffè](http://twitter.com/search?q=Caff%c3%a8) | N/A |
-| 46 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
-| 47 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 48 | [Ben Affleck](http://twitter.com/search?q=Ben+Affleck) | Ben Affleck is an American actor, director, producer, and screenwriter. He is best known for his roles in films such as Good Will Hunting, Armageddon, Pearl Harbor, The Town, Argo, and Batman v Superman: Dawn of Justice. |
-| 49 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 50 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
+| 7 | [Malpezzi](http://twitter.com/search?q=Malpezzi) | N/A |
+| 8 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 9 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 10 | [Turone](http://twitter.com/search?q=Turone) | N/A |
+| 11 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
+| 12 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 13 | [Mariella](http://twitter.com/search?q=Mariella) | N/A |
+| 14 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 15 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 16 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 17 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
+| 18 | [Cocco](http://twitter.com/search?q=Cocco) | N/A |
+| 19 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 20 | [Elisabetta](http://twitter.com/search?q=Elisabetta) | N/A |
+| 21 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
+| 22 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 23 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
+| 24 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 25 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 26 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 27 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
+| 28 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
+| 29 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 30 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 31 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
+| 32 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 33 | [Cecchi Paone](http://twitter.com/search?q=Cecchi+Paone) | N/A |
+| 34 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 35 | [Alessandra De Stefano](http://twitter.com/search?q=Alessandra+De+Stefano) | N/A |
+| 36 | [Carlo Sassi](http://twitter.com/search?q=Carlo+Sassi) | N/A |
+| 37 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 38 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
+| 39 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
+| 40 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
+| 41 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 42 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 43 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
+| 44 | [Cnel](http://twitter.com/search?q=Cnel) | N/A |
+| 45 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 46 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 47 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 48 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 49 | [Knesset](http://twitter.com/search?q=Knesset) | N/A |
+| 50 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
 
 
 

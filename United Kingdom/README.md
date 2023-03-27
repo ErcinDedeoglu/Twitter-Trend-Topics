@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-27 19:16:54 UTC`
+📆 Last Updated: `2023-03-27 20:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 2 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 3 | [#PayUp](http://twitter.com/search?q=%23PayUp) | N/A |
-| 4 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 5 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 8 | [#TeacherStrike](http://twitter.com/search?q=%23TeacherStrike) | N/A |
-| 9 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 10 | [#reject](http://twitter.com/search?q=%23reject) | N/A |
-| 11 | [NASUWT](http://twitter.com/search?q=NASUWT) | N/A |
-| 12 | [#IREFRA](http://twitter.com/search?q=%23IREFRA) | N/A |
-| 13 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 14 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 15 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
-| 16 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 17 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 18 | [Independence](http://twitter.com/search?q=Independence) | N/A |
-| 19 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
-| 20 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 21 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 22 | [Indy](http://twitter.com/search?q=Indy) | N/A |
-| 23 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 24 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 25 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 26 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 27 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 28 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 29 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 30 | [Momentum](http://twitter.com/search?q=Momentum) | N/A |
-| 31 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 32 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 33 | [Chelmsford](http://twitter.com/search?q=Chelmsford) | N/A |
-| 34 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
-| 35 | [Keir](http://twitter.com/search?q=Keir) | N/A |
-| 36 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 37 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 38 | [Eubank](http://twitter.com/search?q=Eubank) | Eubank is a surname of English origin. It is derived from the Old English words ea (river) and banke (bank or slope). The name refers to someone who lived near a riverbank. |
-| 39 | [Reservoir Dogs](http://twitter.com/search?q=Reservoir+Dogs) | N/A |
-| 40 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 41 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
-| 42 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 43 | [Hoggy](http://twitter.com/search?q=Hoggy) | N/A |
-| 44 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 45 | [Yousless](http://twitter.com/search?q=Yousless) | N/A |
-| 46 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 47 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 48 | [Scottish National Party](http://twitter.com/search?q=Scottish+National+Party) | N/A |
-| 49 | [Lallana](http://twitter.com/search?q=Lallana) | Lallana is a Spanish surname derived from the Latin word lallare, which means "to sing". It is also a common given name in India, derived from the Sanskrit word lalana, which means "playful". |
-| 50 | [Stuart Hogg](http://twitter.com/search?q=Stuart+Hogg) | N/A |
+| 1 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 2 | [#coronationstreet](http://twitter.com/search?q=%23coronationstreet) | N/A |
+| 3 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 4 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 5 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 6 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
+| 7 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 8 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 9 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 10 | [#Panorama](http://twitter.com/search?q=%23Panorama) | N/A |
+| 11 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 12 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 13 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 16 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 17 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 18 | [NASUWT](http://twitter.com/search?q=NASUWT) | N/A |
+| 19 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 20 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 21 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 22 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 23 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
+| 24 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 25 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 26 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 27 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 28 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 29 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 30 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 31 | [Islington](http://twitter.com/search?q=Islington) | N/A |
+| 32 | [Independence](http://twitter.com/search?q=Independence) | N/A |
+| 33 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 34 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 35 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 36 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 37 | [Keir](http://twitter.com/search?q=Keir) | N/A |
+| 38 | [Momentum](http://twitter.com/search?q=Momentum) | N/A |
+| 39 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 40 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
+| 41 | [Chelmsford](http://twitter.com/search?q=Chelmsford) | N/A |
+| 42 | [Eubank](http://twitter.com/search?q=Eubank) | Eubank is a surname of English origin. It is derived from the Old English words ea (river) and banke (bank or slope). The name refers to someone who lived near a riverbank. |
+| 43 | [Reservoir Dogs](http://twitter.com/search?q=Reservoir+Dogs) | N/A |
+| 44 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 45 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 46 | [Republic of Ireland](http://twitter.com/search?q=Republic+of+Ireland) | N/A |
+| 47 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 48 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 49 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 50 | [Yousless](http://twitter.com/search?q=Yousless) | N/A |
 
 
 
