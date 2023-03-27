@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-03-27 20:17:36 UTC`
+📆 Last Updated: `2023-03-27 21:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NEDGIB](http://twitter.com/search?q=%23NEDGIB) | N/A |
-| 2 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 3 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 4 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 5 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
-| 6 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 7 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 8 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 9 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 2 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 3 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 4 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 5 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 6 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 7 | [Oranje](http://twitter.com/search?q=Oranje) | N/A |
+| 8 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
+| 9 | [Depay](http://twitter.com/search?q=Depay) | Depay is a Dutch surname derived from the word "de paai," which means "the pasture." It is also a common given name in the Netherlands. In English, it can be translated to mean "from the pasture." |
 | 10 | [#HMMIK](http://twitter.com/search?q=%23HMMIK) | N/A |
-| 11 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
-| 12 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
-| 13 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 14 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
-| 15 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 16 | [Rust](http://twitter.com/search?q=Rust) | N/A |
-| 17 | [Jeroen Grueter](http://twitter.com/search?q=Jeroen+Grueter) | N/A |
-| 18 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 19 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 20 | [Tedje van Es](http://twitter.com/search?q=Tedje+van+Es) | N/A |
-| 21 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
-| 22 | [VPRO](http://twitter.com/search?q=VPRO) | N/A |
-| 23 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 24 | [Keek](http://twitter.com/search?q=Keek) | N/A |
-| 25 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 26 | [Smeets](http://twitter.com/search?q=Smeets) | N/A |
-| 27 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 28 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 29 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 30 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 31 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 32 | [Cabaretier](http://twitter.com/search?q=Cabaretier) | N/A |
-| 33 | [Frank van Putten](http://twitter.com/search?q=Frank+van+Putten) | N/A |
-| 34 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 35 | [De Tegenpartij](http://twitter.com/search?q=De+Tegenpartij) | N/A |
-| 36 | [Yasmine](http://twitter.com/search?q=Yasmine) | N/A |
-| 37 | [Sterkte](http://twitter.com/search?q=Sterkte) | N/A |
-| 38 | [Donald](http://twitter.com/search?q=Donald) | N/A |
-| 39 | [maurice de hond](http://twitter.com/search?q=maurice+de+hond) | N/A |
-| 40 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 41 | [Ed Nijpels](http://twitter.com/search?q=Ed+Nijpels) | N/A |
-| 42 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 43 | [Juinen](http://twitter.com/search?q=Juinen) | N/A |
-| 44 | [Foppe](http://twitter.com/search?q=Foppe) | N/A |
-| 45 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 46 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 47 | [Jacobse](http://twitter.com/search?q=Jacobse) | N/A |
-| 48 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 49 | [Wisp](http://twitter.com/search?q=Wisp) | N/A |
-| 50 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 11 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 12 | [Simons](http://twitter.com/search?q=Simons) | N/A |
+| 13 | [Blind](http://twitter.com/search?q=Blind) | N/A |
+| 14 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 15 | [Jeroen Grueter](http://twitter.com/search?q=Jeroen+Grueter) | N/A |
+| 16 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
+| 17 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 18 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
+| 19 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 20 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
+| 21 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 22 | [Rust](http://twitter.com/search?q=Rust) | N/A |
+| 23 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 24 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 25 | [Tedje van Es](http://twitter.com/search?q=Tedje+van+Es) | N/A |
+| 26 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
+| 27 | [Keek](http://twitter.com/search?q=Keek) | N/A |
+| 28 | [Nathan Aké](http://twitter.com/search?q=Nathan+Ak%c3%a9) | N/A |
+| 29 | [VPRO](http://twitter.com/search?q=VPRO) | N/A |
+| 30 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 31 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 32 | [Niels Hartman](http://twitter.com/search?q=Niels+Hartman) | N/A |
+| 33 | [Smeets](http://twitter.com/search?q=Smeets) | N/A |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 36 | [Ed Nijpels](http://twitter.com/search?q=Ed+Nijpels) | N/A |
+| 37 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 38 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 39 | [Cabaretier](http://twitter.com/search?q=Cabaretier) | N/A |
+| 40 | [Frank van Putten](http://twitter.com/search?q=Frank+van+Putten) | N/A |
+| 41 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 42 | [De Tegenpartij](http://twitter.com/search?q=De+Tegenpartij) | N/A |
+| 43 | [Yasmine](http://twitter.com/search?q=Yasmine) | N/A |
+| 44 | [maurice de hond](http://twitter.com/search?q=maurice+de+hond) | N/A |
+| 45 | [Donald de Marcas](http://twitter.com/search?q=Donald+de+Marcas) | N/A |
+| 46 | [Ierland](http://twitter.com/search?q=Ierland) | N/A |
+| 47 | [Sterkte](http://twitter.com/search?q=Sterkte) | N/A |
+| 48 | [Juinen](http://twitter.com/search?q=Juinen) | N/A |
+| 49 | [Cillessen](http://twitter.com/search?q=Cillessen) | N/A |
+| 50 | [Foppe](http://twitter.com/search?q=Foppe) | N/A |
 
 
 

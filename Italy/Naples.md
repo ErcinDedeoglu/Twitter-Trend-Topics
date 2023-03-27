@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-27 20:17:35 UTC`
+📆 Last Updated: `2023-03-27 21:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,45 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GianniMinà](http://twitter.com/search?q=%23GianniMin%c3%a0) | N/A |
-| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 2 | [#quartarepubblica](http://twitter.com/search?q=%23quartarepubblica) | N/A |
 | 3 | [#PresaDiretta](http://twitter.com/search?q=%23PresaDiretta) | N/A |
-| 4 | [#quartarepubblica](http://twitter.com/search?q=%23quartarepubblica) | N/A |
-| 5 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 6 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
-| 7 | [Malpezzi](http://twitter.com/search?q=Malpezzi) | N/A |
-| 8 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 9 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 10 | [Turone](http://twitter.com/search?q=Turone) | N/A |
-| 11 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
-| 12 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 13 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 14 | [Mariella](http://twitter.com/search?q=Mariella) | N/A |
-| 15 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 16 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 17 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
-| 18 | [Cocco](http://twitter.com/search?q=Cocco) | N/A |
-| 19 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 20 | [Elisabetta](http://twitter.com/search?q=Elisabetta) | N/A |
-| 21 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
-| 22 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 23 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 24 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
-| 25 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 26 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 27 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 28 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
-| 29 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 30 | [Codacons](http://twitter.com/search?q=Codacons) | N/A |
-| 31 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 32 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 33 | [Cecchi Paone](http://twitter.com/search?q=Cecchi+Paone) | N/A |
-| 34 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 35 | [Alessandra De Stefano](http://twitter.com/search?q=Alessandra+De+Stefano) | N/A |
-| 36 | [Carlo Sassi](http://twitter.com/search?q=Carlo+Sassi) | N/A |
-| 37 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 38 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
-| 39 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 40 | [Gnonto](http://twitter.com/search?q=Gnonto) | Gnonto is a slang term used to describe someone who is lazy or unmotivated. It can also be used to describe someone who is not taking action or making an effort. In English, it can be translated as "lazy" or "unmotivated". |
-| 41 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
-| 42 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 43 | [NETFLIX DO SOMETHING](http://twitter.com/search?q=NETFLIX+DO+SOMETHING) | N/A |
-| 44 | [Cnel](http://twitter.com/search?q=Cnel) | N/A |
-| 45 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 46 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 47 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
-| 48 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 49 | [Knesset](http://twitter.com/search?q=Knesset) | N/A |
-| 50 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 4 | [#queenfiorde](http://twitter.com/search?q=%23queenfiorde) | N/A |
+| 5 | [#gfvipparty](http://twitter.com/search?q=%23gfvipparty) | N/A |
+| 6 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 7 | [Agnese](http://twitter.com/search?q=Agnese) | N/A |
+| 8 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 9 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 10 | [Malpezzi](http://twitter.com/search?q=Malpezzi) | N/A |
+| 11 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 12 | [Sergio Leone](http://twitter.com/search?q=Sergio+Leone) | N/A |
+| 13 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 14 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
+| 15 | [Mariella](http://twitter.com/search?q=Mariella) | N/A |
+| 16 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 17 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
+| 18 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 19 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 20 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 21 | [Elisabetta](http://twitter.com/search?q=Elisabetta) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 23 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 24 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 25 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
+| 26 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 27 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 28 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 29 | [Libero](http://twitter.com/search?q=Libero) | N/A |
+| 30 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
+| 31 | [#staseratuttoepossibile](http://twitter.com/search?q=%23staseratuttoepossibile) | N/A |
+| 32 | [#bisognaSaper](http://twitter.com/search?q=%23bisognaSaper) | N/A |
+| 33 | [#gfivp](http://twitter.com/search?q=%23gfivp) | N/A |
+| 34 | [#Maignan](http://twitter.com/search?q=%23Maignan) | N/A |
+| 35 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 36 | [#DeVrij](http://twitter.com/search?q=%23DeVrij) | N/A |
+| 37 | [#Mengoni70Platini](http://twitter.com/search?q=%23Mengoni70Platini) | N/A |
+| 38 | [#QuentinTarantino](http://twitter.com/search?q=%23QuentinTarantino) | N/A |
+| 39 | [#Israele](http://twitter.com/search?q=%23Israele) | N/A |
+| 40 | [#GiornataMondialeDelTeatro](http://twitter.com/search?q=%23GiornataMondialeDelTeatro) | N/A |
 
 
 

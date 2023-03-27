@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-27 20:18:10 UTC`
+📆 Last Updated: `2023-03-27 21:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,44 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#EkoByHorlu](http://twitter.com/search?q=%23EkoByHorlu) | N/A |
-| 2 | [#TheFinalTouchDone](http://twitter.com/search?q=%23TheFinalTouchDone) | N/A |
-| 3 | [#GNBNGA](http://twitter.com/search?q=%23GNBNGA) | N/A |
-| 4 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
-| 5 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 6 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
-| 7 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
+| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 3 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
+| 4 | [#TinubuForPrison](http://twitter.com/search?q=%23TinubuForPrison) | N/A |
+| 5 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
+| 6 | [#PeakRamadanGoodness](http://twitter.com/search?q=%23PeakRamadanGoodness) | N/A |
+| 7 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
 | 8 | [Whitemoney](http://twitter.com/search?q=Whitemoney) | N/A |
-| 9 | [#TheCreativeSpace](http://twitter.com/search?q=%23TheCreativeSpace) | N/A |
-| 10 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
-| 11 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
-| 12 | [Iwobi](http://twitter.com/search?q=Iwobi) | Iwobi is a Nigerian name derived from the Igbo language. It means "gift of God" or "blessing from God". |
-| 13 | [Guinea Bissau](http://twitter.com/search?q=Guinea+Bissau) | N/A |
-| 14 | [Loya](http://twitter.com/search?q=Loya) | N/A |
-| 15 | [Peak](http://twitter.com/search?q=Peak) | N/A |
-| 16 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 17 | [Dano](http://twitter.com/search?q=Dano) | N/A |
-| 18 | [Spiritual](http://twitter.com/search?q=Spiritual) | N/A |
-| 19 | [DSTV](http://twitter.com/search?q=DSTV) | N/A |
-| 20 | [Hourly](http://twitter.com/search?q=Hourly) | N/A |
-| 21 | [Peseiro](http://twitter.com/search?q=Peseiro) | N/A |
-| 22 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 23 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
-| 24 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 25 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
-| 26 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
-| 27 | [FUTA](http://twitter.com/search?q=FUTA) | N/A |
-| 28 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 29 | [Akure](http://twitter.com/search?q=Akure) | N/A |
-| 30 | [Davido and Asake](http://twitter.com/search?q=Davido+and+Asake) | N/A |
-| 31 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 32 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 33 | [Airport](http://twitter.com/search?q=Airport) | N/A |
-| 34 | [Payday](http://twitter.com/search?q=Payday) | N/A |
-| 35 | [#AFCON2023Q](http://twitter.com/search?q=%23AFCON2023Q) | N/A |
-| 36 | [#protest](http://twitter.com/search?q=%23protest) | N/A |
-| 37 | [#GlobalCrusadewithKumuyi](http://twitter.com/search?q=%23GlobalCrusadewithKumuyi) | N/A |
-| 38 | [#GCKinCameroon](http://twitter.com/search?q=%23GCKinCameroon) | N/A |
-| 39 | [#UntilMoneyDoUsPart](http://twitter.com/search?q=%23UntilMoneyDoUsPart) | N/A |
+| 9 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 10 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 11 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 12 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 13 | [Czech](http://twitter.com/search?q=Czech) | N/A |
+| 14 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 15 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 16 | [Hourly](http://twitter.com/search?q=Hourly) | N/A |
+| 17 | [Davido and Asake](http://twitter.com/search?q=Davido+and+Asake) | N/A |
+| 18 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 19 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 21 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 22 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 23 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 24 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 25 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 26 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 27 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
+| 28 | [Fani-Kayode](http://twitter.com/search?q=Fani-Kayode) | N/A |
+| 29 | [Loya](http://twitter.com/search?q=Loya) | N/A |
+| 30 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 31 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 32 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 33 | [congratulations mayor](http://twitter.com/search?q=congratulations+mayor) | N/A |
+| 34 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 35 | [tomorrow is monday](http://twitter.com/search?q=tomorrow+is+monday) | N/A |
+| 36 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 37 | [Dano](http://twitter.com/search?q=Dano) | N/A |
+| 38 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 39 | [Soludo](http://twitter.com/search?q=Soludo) | N/A |
+| 40 | [UNSTOPPABLE YEMI CREGX](http://twitter.com/search?q=UNSTOPPABLE+YEMI+CREGX) | N/A |
+| 41 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 42 | [25% in FCT](http://twitter.com/search?q=25%25+in+FCT) | N/A |
+| 43 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 44 | [Falana](http://twitter.com/search?q=Falana) | N/A |
+| 45 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 46 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 47 | [Benz](http://twitter.com/search?q=Benz) | N/A |
+| 48 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 49 | [President](http://twitter.com/search?q=President) | N/A |
+| 50 | [Phyno](http://twitter.com/search?q=Phyno) | N/A |
 
 
 

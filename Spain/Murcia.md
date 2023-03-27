@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-27 20:17:37 UTC`
+📆 Last Updated: `2023-03-27 21:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#firstdates27m](http://twitter.com/search?q=%23firstdates27m) | N/A |
-| 2 | [#Pasapalabra733](http://twitter.com/search?q=%23Pasapalabra733) | N/A |
-| 3 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
-| 4 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 5 | [#QueTuFuerzaNosAcompañe](http://twitter.com/search?q=%23QueTuFuerzaNosAcompa%c3%b1e) | N/A |
-| 6 | [#alphahouse](http://twitter.com/search?q=%23alphahouse) | N/A |
-| 7 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [Rosa Díez](http://twitter.com/search?q=Rosa+D%c3%adez) | N/A |
-| 10 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 11 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 12 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
-| 13 | [Yadira Maestre](http://twitter.com/search?q=Yadira+Maestre) | N/A |
-| 14 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 15 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
-| 16 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 17 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 18 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 19 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 20 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 21 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
-| 22 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
-| 23 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 24 | [Montán](http://twitter.com/search?q=Mont%c3%a1n) | N/A |
-| 25 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 26 | [David de Miguel Ángel](http://twitter.com/search?q=David+de+Miguel+%c3%81ngel) | N/A |
-| 27 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
-| 28 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
-| 29 | [Hiba Abouk](http://twitter.com/search?q=Hiba+Abouk) | N/A |
-| 30 | [Garzón](http://twitter.com/search?q=Garz%c3%b3n) | N/A |
-| 31 | [IFFHS](http://twitter.com/search?q=IFFHS) | N/A |
-| 32 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 33 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
-| 34 | [Bicimad](http://twitter.com/search?q=Bicimad) | N/A |
-| 35 | [Más País](http://twitter.com/search?q=M%c3%a1s+Pa%c3%ads) | N/A |
-| 36 | [Marhuenda](http://twitter.com/search?q=Marhuenda) | N/A |
-| 37 | [#VCTEMEA](http://twitter.com/search?q=%23VCTEMEA) | N/A |
-| 38 | [#QUESOrteazo](http://twitter.com/search?q=%23QUESOrteazo) | N/A |
-| 39 | [#ElCazador689](http://twitter.com/search?q=%23ElCazador689) | N/A |
-| 40 | [#PremiosTalía](http://twitter.com/search?q=%23PremiosTal%c3%ada) | N/A |
-| 41 | [#diamundialdelteatro](http://twitter.com/search?q=%23diamundialdelteatro) | N/A |
-| 42 | [#AmordazadosPorLey](http://twitter.com/search?q=%23AmordazadosPorLey) | N/A |
-| 43 | [#IFVillanuevaViver](http://twitter.com/search?q=%23IFVillanuevaViver) | N/A |
-| 44 | [#YoMeRebelo27M](http://twitter.com/search?q=%23YoMeRebelo27M) | N/A |
-| 45 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 46 | [#PrimaveraEnTU](http://twitter.com/search?q=%23PrimaveraEnTU) | N/A |
-| 47 | [#CILE2023](http://twitter.com/search?q=%23CILE2023) | N/A |
+| 1 | [#LaIslaDeLasTentaciones10](http://twitter.com/search?q=%23LaIslaDeLasTentaciones10) | N/A |
+| 2 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
+| 3 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 4 | [#conquis11ETB](http://twitter.com/search?q=%23conquis11ETB) | N/A |
+| 5 | [#CrimsJordiTV3](http://twitter.com/search?q=%23CrimsJordiTV3) | N/A |
+| 6 | [#firstdates27m](http://twitter.com/search?q=%23firstdates27m) | N/A |
+| 7 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 9 | [Idiakez](http://twitter.com/search?q=Idiakez) | N/A |
+| 10 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
+| 11 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 12 | [Leganés](http://twitter.com/search?q=Legan%c3%a9s) | N/A |
+| 13 | [Rubén Castro](http://twitter.com/search?q=Rub%c3%a9n+Castro) | N/A |
+| 14 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 15 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
+| 16 | [Riesgo](http://twitter.com/search?q=Riesgo) | N/A |
+| 17 | [Rosa Díez](http://twitter.com/search?q=Rosa+D%c3%adez) | N/A |
+| 18 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
+| 19 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 20 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 21 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 22 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 23 | [SI SE PUEDE](http://twitter.com/search?q=SI+SE+PUEDE) | N/A |
+| 24 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
+| 25 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 26 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 28 | [Yadira Maestre](http://twitter.com/search?q=Yadira+Maestre) | N/A |
+| 29 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 30 | [Cruyff](http://twitter.com/search?q=Cruyff) | N/A |
+| 31 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 32 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
+| 33 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 34 | [La Palma](http://twitter.com/search?q=La+Palma) | N/A |
+| 35 | [Zendal](http://twitter.com/search?q=Zendal) | N/A |
+| 36 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 37 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 38 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 39 | [Miguel Ángel](http://twitter.com/search?q=Miguel+%c3%81ngel) | N/A |
+| 40 | [Garzón](http://twitter.com/search?q=Garz%c3%b3n) | N/A |
+| 41 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
+| 42 | [Maka](http://twitter.com/search?q=Maka) | N/A |
+| 43 | [LAJs](http://twitter.com/search?q=LAJs) | N/A |
+| 44 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 45 | [IFFHS](http://twitter.com/search?q=IFFHS) | N/A |
+| 46 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
+| 47 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
 
 
 

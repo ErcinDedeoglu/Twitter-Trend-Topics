@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-27 20:17:45 UTC`
+📆 Last Updated: `2023-03-27 21:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 2 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 5 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
 | 6 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
 | 7 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 8 | [#here_i_stand_d2](http://twitter.com/search?q=%23here_i_stand_d2) | N/A |
-| 9 | [treasure in japan](http://twitter.com/search?q=treasure+in+japan) | N/A |
+| 9 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
 | 10 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
 | 11 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
 | 12 | [joong](http://twitter.com/search?q=joong) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 17 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
 | 18 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
 | 19 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
-| 20 | [heize](http://twitter.com/search?q=heize) | N/A |
+| 20 | [Heize](http://twitter.com/search?q=Heize) | N/A |
 | 21 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 22 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 23 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 24 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 25 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 26 | [Parking](http://twitter.com/search?q=Parking) | N/A |
-| 27 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 29 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
-| 30 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 31 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
-| 32 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
-| 33 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
-| 34 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 35 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 36 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 37 | [animoca](http://twitter.com/search?q=animoca) | N/A |
-| 38 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 39 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 40 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
-| 41 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 42 | [beyour luve build](http://twitter.com/search?q=beyour+luve+build) | N/A |
-| 43 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 44 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 45 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 46 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
-| 47 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 48 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
-| 49 | [Seungri](http://twitter.com/search?q=Seungri) | N/A |
-| 50 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 22 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 23 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 24 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
+| 25 | [Parking](http://twitter.com/search?q=Parking) | N/A |
+| 26 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 27 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
+| 28 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 29 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
+| 30 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
+| 31 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 32 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
+| 33 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 34 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 35 | [Animoca](http://twitter.com/search?q=Animoca) | N/A |
+| 36 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 37 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
+| 38 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
+| 39 | [beyour luve build](http://twitter.com/search?q=beyour+luve+build) | N/A |
+| 40 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 41 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 42 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 43 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 44 | [Singaporean](http://twitter.com/search?q=Singaporean) | N/A |
+| 45 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 46 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 47 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
+| 48 | [Seungri](http://twitter.com/search?q=Seungri) | N/A |
+| 49 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 50 | [Michael](http://twitter.com/search?q=Michael) | N/A |
 
 
 

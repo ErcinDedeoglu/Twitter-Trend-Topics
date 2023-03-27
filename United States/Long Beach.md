@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-27 20:18:01 UTC`
+📆 Last Updated: `2023-03-27 21:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 2 | [#MAHSAAct](http://twitter.com/search?q=%23MAHSAAct) | N/A |
-| 3 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 4 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 5 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 6 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 7 | [Israelis](http://twitter.com/search?q=Israelis) | N/A |
-| 8 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 9 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 10 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 11 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 12 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 1 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 2 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 3 | [#MAHSAAct](http://twitter.com/search?q=%23MAHSAAct) | N/A |
+| 4 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 5 | [#GOPDomesticTerrorists](http://twitter.com/search?q=%23GOPDomesticTerrorists) | N/A |
+| 6 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 7 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 8 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 9 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 10 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 11 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 12 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 13 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 14 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
 | 15 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 16 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 17 | [#guncontrol](http://twitter.com/search?q=%23guncontrol) | N/A |
-| 18 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 19 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 20 | [#gunreformnow](http://twitter.com/search?q=%23gunreformnow) | N/A |
-| 21 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 22 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
-| 23 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 24 | [#BanAssaultWeapons](http://twitter.com/search?q=%23BanAssaultWeapons) | N/A |
-| 25 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 26 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 27 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 28 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 29 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 30 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 31 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 32 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 33 | [Umps](http://twitter.com/search?q=Umps) | N/A |
-| 34 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 35 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
-| 36 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 37 | [Andy Ogles](http://twitter.com/search?q=Andy+Ogles) | N/A |
-| 38 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
-| 39 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 40 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
-| 41 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 42 | [Samantha Hyde](http://twitter.com/search?q=Samantha+Hyde) | N/A |
-| 43 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
+| 16 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
+| 17 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 18 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 19 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 20 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 21 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 22 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 23 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
+| 24 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 27 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 28 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
+| 29 | [Meek Mill](http://twitter.com/search?q=Meek+Mill) | N/A |
+| 30 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 31 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 32 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 33 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 34 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 35 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 36 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 37 | [Umps](http://twitter.com/search?q=Umps) | N/A |
+| 38 | [Samantha Hyde](http://twitter.com/search?q=Samantha+Hyde) | N/A |
+| 39 | [Shove](http://twitter.com/search?q=Shove) | N/A |
+| 40 | [Andy Ogles](http://twitter.com/search?q=Andy+Ogles) | N/A |
+| 41 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
+| 42 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 43 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
 | 44 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 45 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 46 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
-| 47 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 48 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
-| 49 | [Shove](http://twitter.com/search?q=Shove) | N/A |
+| 45 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
+| 46 | [Tar Heel](http://twitter.com/search?q=Tar+Heel) | N/A |
+| 47 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 48 | [Highland Park](http://twitter.com/search?q=Highland+Park) | N/A |
+| 49 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
 
 
 

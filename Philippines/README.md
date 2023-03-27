@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-27 20:18:11 UTC`
+📆 Last Updated: `2023-03-27 21:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 3 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 2 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 4 | [#BORNPINKinManila_BulacanD2](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD2) | N/A |
 | 5 | [#NewMovieAlertKathryn](http://twitter.com/search?q=%23NewMovieAlertKathryn) | N/A |
 | 6 | [ggmoviesoon withdonny](http://twitter.com/search?q=ggmoviesoon+withdonny) | N/A |
 | 7 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 8 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 9 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
-| 10 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 11 | [KDLEX TWOgether IN JAPAN](http://twitter.com/search?q=KDLEX+TWOgether+IN+JAPAN) | N/A |
+| 10 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
+| 11 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
 | 12 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
 | 13 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 14 | [ONE VIBRENT MONTH](http://twitter.com/search?q=ONE+VIBRENT+MONTH) | N/A |
+| 14 | [one vibrent month](http://twitter.com/search?q=one+vibrent+month) | N/A |
 | 15 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 16 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 17 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 18 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 19 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 20 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 21 | [bgyo at ayala malls feliz](http://twitter.com/search?q=bgyo+at+ayala+malls+feliz) | N/A |
-| 22 | [ItsALASpecialDay WithNuebe](http://twitter.com/search?q=ItsALASpecialDay+WithNuebe) | N/A |
+| 16 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 17 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 18 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 19 | [bgyo at ayala malls feliz](http://twitter.com/search?q=bgyo+at+ayala+malls+feliz) | N/A |
+| 20 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 21 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 22 | [Lili](http://twitter.com/search?q=Lili) | N/A |
 | 23 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
 | 24 | [Elena 1944](http://twitter.com/search?q=Elena+1944) | N/A |
 | 25 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 26 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 27 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
-| 28 | [treasure in japan](http://twitter.com/search?q=treasure+in+japan) | N/A |
-| 29 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
-| 30 | [countdown to dojaejung](http://twitter.com/search?q=countdown+to+dojaejung) | N/A |
-| 31 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 32 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 33 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
-| 34 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
-| 35 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 36 | [DOLLY DE LEON](http://twitter.com/search?q=DOLLY+DE+LEON) | N/A |
-| 37 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 38 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 39 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 40 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 41 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
-| 42 | [PHP WISH PERFORMANCE](http://twitter.com/search?q=PHP+WISH+PERFORMANCE) | N/A |
-| 43 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 44 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 45 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 46 | [bangtan](http://twitter.com/search?q=bangtan) | N/A |
-| 47 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 48 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 49 | [London](http://twitter.com/search?q=London) | N/A |
+| 26 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
+| 27 | [The Church Built by God](http://twitter.com/search?q=The+Church+Built+by+God) | The Church Built by God is a phrase used to refer to the Christian Church, which is seen as being founded by God and established on the teachings of Jesus Christ. It is often used to emphasize the importance of the Church in Christian faith and practice. |
+| 28 | [countdown to dojaejung](http://twitter.com/search?q=countdown+to+dojaejung) | N/A |
+| 29 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 30 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
+| 31 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 32 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
+| 33 | [DOLLY DE LEON](http://twitter.com/search?q=DOLLY+DE+LEON) | N/A |
+| 34 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 35 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
+| 36 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 37 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 38 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 39 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
+| 40 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
+| 41 | [PHP WISH PERFORMANCE](http://twitter.com/search?q=PHP+WISH+PERFORMANCE) | N/A |
+| 42 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
+| 43 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 44 | [Happy Anniversary Queen](http://twitter.com/search?q=Happy+Anniversary+Queen) | N/A |
+| 45 | [Snain](http://twitter.com/search?q=Snain) | N/A |
+| 46 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 47 | [bangtan](http://twitter.com/search?q=bangtan) | N/A |
+| 48 | [Happy Birthday Jackson](http://twitter.com/search?q=Happy+Birthday+Jackson) | N/A |
+| 49 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 50 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
 
 

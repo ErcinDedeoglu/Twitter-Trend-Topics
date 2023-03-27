@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-27 20:18:02 UTC`
+📆 Last Updated: `2023-03-27 21:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 2 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 1 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
+| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 3 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 4 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 5 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
 | 6 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 9 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 10 | [#guncontrol](http://twitter.com/search?q=%23guncontrol) | N/A |
-| 11 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 12 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 13 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 14 | [#gunreformnow](http://twitter.com/search?q=%23gunreformnow) | N/A |
-| 15 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
-| 16 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 17 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 18 | [#BanAssaultWeapons](http://twitter.com/search?q=%23BanAssaultWeapons) | N/A |
-| 19 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 20 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 21 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
-| 22 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 23 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 24 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 25 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 26 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 27 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 28 | [Umps](http://twitter.com/search?q=Umps) | N/A |
-| 29 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 30 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
-| 31 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 32 | [Andy Ogles](http://twitter.com/search?q=Andy+Ogles) | N/A |
-| 33 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
-| 34 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 35 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
-| 36 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 37 | [Samantha Hyde](http://twitter.com/search?q=Samantha+Hyde) | N/A |
-| 38 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
+| 7 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 8 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 9 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
+| 10 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 11 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 12 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 13 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 14 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 15 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
+| 16 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 17 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
+| 18 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 21 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 22 | [#BanAssaultWeapons](http://twitter.com/search?q=%23BanAssaultWeapons) | N/A |
+| 23 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
+| 24 | [Meek Mill](http://twitter.com/search?q=Meek+Mill) | N/A |
+| 25 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 26 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 27 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 28 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 29 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 30 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 31 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 32 | [Samantha Hyde](http://twitter.com/search?q=Samantha+Hyde) | N/A |
+| 33 | [Umps](http://twitter.com/search?q=Umps) | N/A |
+| 34 | [Shove](http://twitter.com/search?q=Shove) | N/A |
+| 35 | [Andy Ogles](http://twitter.com/search?q=Andy+Ogles) | N/A |
+| 36 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
+| 37 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 38 | [Kendrick Perkins](http://twitter.com/search?q=Kendrick+Perkins) | N/A |
 | 39 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 40 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 41 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 42 | [Shove](http://twitter.com/search?q=Shove) | N/A |
-| 43 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
-| 44 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
-| 45 | [Highland Park](http://twitter.com/search?q=Highland+Park) | N/A |
-| 46 | [She's 28](http://twitter.com/search?q=She%27s+28) | N/A |
-| 47 | [Bill Lee](http://twitter.com/search?q=Bill+Lee) | N/A |
-| 48 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 49 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
-| 50 | [Armed](http://twitter.com/search?q=Armed) | N/A |
+| 40 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
+| 41 | [Tar Heel](http://twitter.com/search?q=Tar+Heel) | N/A |
+| 42 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 43 | [Highland Park](http://twitter.com/search?q=Highland+Park) | N/A |
+| 44 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
+| 45 | [Armed](http://twitter.com/search?q=Armed) | N/A |
+| 46 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 47 | [Mac Jones](http://twitter.com/search?q=Mac+Jones) | Mac Jones is a nickname for the American football quarterback Mac Jones, who currently plays for the University of Alabama. The name is derived from his initials, MJ. |
+| 48 | [Aiden Hale](http://twitter.com/search?q=Aiden+Hale) | N/A |
+| 49 | [Angel Hernandez](http://twitter.com/search?q=Angel+Hernandez) | N/A |
+| 50 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 
 
 

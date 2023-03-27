@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-27 20:18:05 UTC`
+📆 Last Updated: `2023-03-27 21:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 2 | [#Nashville](http://twitter.com/search?q=%23Nashville) | N/A |
-| 3 | [#मूत्रकारिता](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%a4%e0%a4%be) | N/A |
-| 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 5 | [#हम_भैराराम_के_साथ_है](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae_%e0%a4%ad%e0%a5%88%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae_%e0%a4%95%e0%a5%87_%e0%a4%b8%e0%a4%be%e0%a4%a5_%e0%a4%b9%e0%a5%88) | N/A |
-| 6 | [#MSDhoni𓃵](http://twitter.com/search?q=%23MSDhoni%f0%93%83%b5) | N/A |
-| 7 | [#KedarJadhav](http://twitter.com/search?q=%23KedarJadhav) | N/A |
-| 8 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 9 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 10 | [GO WELL CSK](http://twitter.com/search?q=GO+WELL+CSK) | N/A |
-| 11 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
-| 12 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 13 | [सरकारी आवास](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8) | N/A |
-| 14 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 1 | [#GameChanger](http://twitter.com/search?q=%23GameChanger) | N/A |
+| 2 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
+| 3 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
+| 4 | [#20ICONICyearsOfAlluArjun](http://twitter.com/search?q=%2320ICONICyearsOfAlluArjun) | N/A |
+| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 8 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
+| 9 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 10 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
+| 11 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
+| 12 | [cpjoshi bjp rajasthan](http://twitter.com/search?q=cpjoshi+bjp+rajasthan) | N/A |
+| 13 | [multilingual internet](http://twitter.com/search?q=multilingual+internet) | N/A |
+| 14 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
 | 15 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 16 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 17 | [bangtan](http://twitter.com/search?q=bangtan) | N/A |
-| 18 | [Sandeep Sharma](http://twitter.com/search?q=Sandeep+Sharma) | N/A |
-| 19 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 20 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
-| 21 | [EPFO](http://twitter.com/search?q=EPFO) | N/A |
-| 22 | [#20ICONICyearsOfAlluArjun](http://twitter.com/search?q=%2320ICONICyearsOfAlluArjun) | N/A |
-| 23 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
-| 24 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
-| 25 | [#atikahmad](http://twitter.com/search?q=%23atikahmad) | N/A |
-| 26 | [#aajtak](http://twitter.com/search?q=%23aajtak) | N/A |
-| 27 | [#AddMoreScreensToDasara](http://twitter.com/search?q=%23AddMoreScreensToDasara) | N/A |
-| 28 | [#KunoNationalPark](http://twitter.com/search?q=%23KunoNationalPark) | N/A |
-| 29 | [#Cheetah](http://twitter.com/search?q=%23Cheetah) | N/A |
-| 30 | [#OsarattumPathuThala](http://twitter.com/search?q=%23OsarattumPathuThala) | N/A |
-| 31 | [#WhistlePodu](http://twitter.com/search?q=%23WhistlePodu) | N/A |
-| 32 | [#BoyapatiRAPOOnOct20](http://twitter.com/search?q=%23BoyapatiRAPOOnOct20) | N/A |
-| 33 | [#RahulGhandi](http://twitter.com/search?q=%23RahulGhandi) | N/A |
-| 34 | [#Maaveeran](http://twitter.com/search?q=%23Maaveeran) | N/A |
-| 35 | [#Sivakarthikeyan](http://twitter.com/search?q=%23Sivakarthikeyan) | N/A |
-| 36 | [#ChennaiSuperKings](http://twitter.com/search?q=%23ChennaiSuperKings) | N/A |
-| 37 | [#madalvirupakshappa](http://twitter.com/search?q=%23madalvirupakshappa) | N/A |
-| 38 | [#NitishRana](http://twitter.com/search?q=%23NitishRana) | N/A |
-| 39 | [#1947August16](http://twitter.com/search?q=%231947August16) | N/A |
-| 40 | [#RandeepRai](http://twitter.com/search?q=%23RandeepRai) | N/A |
-| 41 | [#RTHBill](http://twitter.com/search?q=%23RTHBill) | N/A |
-| 42 | [#Adipurush](http://twitter.com/search?q=%23Adipurush) | N/A |
-| 43 | [#Yellove](http://twitter.com/search?q=%23Yellove) | N/A |
-| 44 | [#TATAIPL2023](http://twitter.com/search?q=%23TATAIPL2023) | N/A |
+| 16 | [काला जादू](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9c%e0%a4%be%e0%a4%a6%e0%a5%82) | N/A |
+| 17 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 18 | [GLOBAL ICON ALLUARJUN](http://twitter.com/search?q=GLOBAL+ICON+ALLUARJUN) | N/A |
+| 19 | [bright future of bharat](http://twitter.com/search?q=bright+future+of+bharat) | N/A |
+| 20 | [gurukul shiksha paddhati](http://twitter.com/search?q=gurukul+shiksha+paddhati) | N/A |
+| 21 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 22 | [sant shri asharamji gurukul](http://twitter.com/search?q=sant+shri+asharamji+gurukul) | N/A |
+| 23 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
+| 24 | [EPFO](http://twitter.com/search?q=EPFO) | N/A |
+| 25 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 26 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
+| 27 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 28 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 29 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
+| 30 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
+| 31 | [Charan Anna](http://twitter.com/search?q=Charan+Anna) | N/A |
+| 32 | [सरकारी आवास](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8) | N/A |
+| 33 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 34 | [GO WELL CSK](http://twitter.com/search?q=GO+WELL+CSK) | N/A |
+| 35 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 36 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 37 | [Heize](http://twitter.com/search?q=Heize) | N/A |
+| 38 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 39 | [SRKians](http://twitter.com/search?q=SRKians) | N/A |
+| 40 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 41 | [Hakla](http://twitter.com/search?q=Hakla) | N/A |
+| 42 | [My Current Tech Stack](http://twitter.com/search?q=My+Current+Tech+Stack) | N/A |
+| 43 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 44 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
+| 45 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 46 | [bighit](http://twitter.com/search?q=bighit) | N/A |
+| 47 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 48 | [bangtan](http://twitter.com/search?q=bangtan) | N/A |
+| 49 | [Bagga](http://twitter.com/search?q=Bagga) | N/A |
+| 50 | [Motilal Nehru](http://twitter.com/search?q=Motilal+Nehru) | N/A |
 
 
 

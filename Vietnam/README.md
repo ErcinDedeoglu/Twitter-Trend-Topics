@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-27 20:18:13 UTC`
+📆 Last Updated: `2023-03-27 21:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Vietnam
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 2 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 3 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 2 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 3 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 | 4 | [#BIBLEBUILDxBUBBLES](http://twitter.com/search?q=%23BIBLEBUILDxBUBBLES) | N/A |
 | 5 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 6 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
@@ -29,9 +29,9 @@ This is top 50 for Vietnam
 | 12 | [kitsch mv teaser out now](http://twitter.com/search?q=kitsch+mv+teaser+out+now) | N/A |
 | 13 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
 | 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 15 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 16 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 17 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 15 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 16 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 17 | [Joong](http://twitter.com/search?q=Joong) | N/A |
 | 18 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
 | 19 | [Chung](http://twitter.com/search?q=Chung) | N/A |
 | 20 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Vietnam
 | 31 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
 | 32 | [Quest](http://twitter.com/search?q=Quest) | N/A |
 | 33 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 34 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
-| 35 | [cả 2](http://twitter.com/search?q=c%e1%ba%a3+2) | N/A |
-| 36 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
-| 37 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 38 | [ngồi](http://twitter.com/search?q=ng%e1%bb%93i) | N/A |
-| 39 | [$MOB Token](http://twitter.com/search?q=%24MOB+Token) | N/A |
-| 40 | [sài gòn](http://twitter.com/search?q=s%c3%a0i+g%c3%b2n) | N/A |
-| 41 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 42 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 43 | [Satang](http://twitter.com/search?q=Satang) | N/A |
-| 44 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 45 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 47 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 48 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 49 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
-| 50 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 34 | [cả 2](http://twitter.com/search?q=c%e1%ba%a3+2) | N/A |
+| 35 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 36 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 37 | [$MOB Token](http://twitter.com/search?q=%24MOB+Token) | N/A |
+| 38 | [Ngồi](http://twitter.com/search?q=Ng%e1%bb%93i) | N/A |
+| 39 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 40 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 41 | [Satang](http://twitter.com/search?q=Satang) | N/A |
+| 42 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 43 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 44 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 45 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 46 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 47 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
+| 48 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 49 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 50 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
 
 
 

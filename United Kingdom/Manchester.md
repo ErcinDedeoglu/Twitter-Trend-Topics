@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-03-27 20:17:22 UTC`
+📆 Last Updated: `2023-03-27 21:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 1 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
 | 2 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
-| 3 | [#BodyPartsInFilmOrSong](http://twitter.com/search?q=%23BodyPartsInFilmOrSong) | N/A |
-| 4 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
-| 5 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 6 | [#StarmerOut](http://twitter.com/search?q=%23StarmerOut) | N/A |
-| 7 | [Chelmsford](http://twitter.com/search?q=Chelmsford) | N/A |
-| 8 | [Sturgeon](http://twitter.com/search?q=Sturgeon) | Sturgeon is a type of large fish that is found in the waters of the Northern Hemisphere. It is an anadromous fish, meaning it spends part of its life in fresh water and part in salt water. Sturgeon are prized for their roe, which is used to make caviar. |
-| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 10 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 11 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 12 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
-| 13 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 14 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 3 | [#StarmerOut](http://twitter.com/search?q=%23StarmerOut) | N/A |
+| 4 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 5 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
+| 6 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
+| 7 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 8 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 9 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 10 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 11 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 12 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 13 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
+| 14 | [Josh](http://twitter.com/search?q=Josh) | N/A |
 | 15 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 16 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 17 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
-| 18 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 19 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 20 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 21 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 22 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 25 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 26 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 27 | [NASUWT](http://twitter.com/search?q=NASUWT) | N/A |
-| 28 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 29 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 16 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 17 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 18 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 19 | [NASUWT](http://twitter.com/search?q=NASUWT) | N/A |
+| 20 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 21 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 22 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 23 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 24 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 25 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 28 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
+| 29 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 | 30 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 31 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 31 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
 | 32 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 33 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 34 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
-| 35 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 33 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 34 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 35 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 36 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 37 | [Indy](http://twitter.com/search?q=Indy) | N/A |
-| 38 | [Islington](http://twitter.com/search?q=Islington) | N/A |
-| 39 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 40 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 41 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 42 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
-| 43 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 44 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 45 | [Momentum](http://twitter.com/search?q=Momentum) | N/A |
-| 46 | [Keir](http://twitter.com/search?q=Keir) | N/A |
-| 47 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 48 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 37 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 38 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 39 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 40 | [Independence](http://twitter.com/search?q=Independence) | N/A |
+| 41 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 42 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 43 | [Ding](http://twitter.com/search?q=Ding) | N/A |
+| 44 | [Keir](http://twitter.com/search?q=Keir) | N/A |
+| 45 | [Republic of Ireland](http://twitter.com/search?q=Republic+of+Ireland) | N/A |
+| 46 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 47 | [Eubank](http://twitter.com/search?q=Eubank) | Eubank is a surname of English origin. It is derived from the Old English words ea (river) and banke (bank or slope). The name refers to someone who lived near a riverbank. |
+| 48 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 49 | [Reservoir Dogs](http://twitter.com/search?q=Reservoir+Dogs) | N/A |
-| 50 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 50 | [Chelmsford](http://twitter.com/search?q=Chelmsford) | N/A |
 
 
 
