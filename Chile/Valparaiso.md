@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-27 21:16:20 UTC`
+📆 Last Updated: `2023-03-27 22:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Chile](</Chile>)
 | 1 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
 | 2 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
 | 3 | [Rita Olivares](http://twitter.com/search?q=Rita+Olivares) | N/A |
-| 4 | [#thevoicechv](http://twitter.com/search?q=%23thevoicechv) | N/A |
-| 5 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 6 | [#contigoendirecto](http://twitter.com/search?q=%23contigoendirecto) | N/A |
-| 7 | [Garín](http://twitter.com/search?q=Gar%c3%adn) | N/A |
-| 8 | [Nain](http://twitter.com/search?q=Nain) | N/A |
-| 9 | [Matapacos](http://twitter.com/search?q=Matapacos) | N/A |
-| 10 | [Carabineros de Chile](http://twitter.com/search?q=Carabineros+de+Chile) | N/A |
-| 11 | [Mauricio Israel](http://twitter.com/search?q=Mauricio+Israel) | N/A |
-| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 13 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 14 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
+| 4 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 5 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
+| 6 | [Nain](http://twitter.com/search?q=Nain) | N/A |
+| 7 | [Matapacos](http://twitter.com/search?q=Matapacos) | N/A |
+| 8 | [Mauricio Israel](http://twitter.com/search?q=Mauricio+Israel) | N/A |
+| 9 | [#contigoendirectochv](http://twitter.com/search?q=%23contigoendirectochv) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Yañez](http://twitter.com/search?q=Ya%c3%b1ez) | N/A |
+| 12 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 13 | [Garín](http://twitter.com/search?q=Gar%c3%adn) | N/A |
+| 14 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
 | 15 | [Claudia Schüler](http://twitter.com/search?q=Claudia+Sch%c3%bcler) | N/A |
-| 16 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
+| 16 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
 | 17 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
 | 18 | [Mesa de Seguridad](http://twitter.com/search?q=Mesa+de+Seguridad) | N/A |
-| 19 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
-| 20 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 21 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
-| 22 | [General Director](http://twitter.com/search?q=General+Director) | N/A |
-| 23 | [Paca](http://twitter.com/search?q=Paca) | N/A |
+| 19 | [Tobalaba](http://twitter.com/search?q=Tobalaba) | N/A |
+| 20 | [Cínica](http://twitter.com/search?q=C%c3%adnica) | N/A |
+| 21 | [General Director](http://twitter.com/search?q=General+Director) | N/A |
+| 22 | [Paca](http://twitter.com/search?q=Paca) | N/A |
+| 23 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
 | 24 | [Institución](http://twitter.com/search?q=Instituci%c3%b3n) | N/A |
-| 25 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 26 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
+| 25 | [Ossandon](http://twitter.com/search?q=Ossandon) | N/A |
+| 26 | [Sgto](http://twitter.com/search?q=Sgto) | N/A |
 | 27 | [Asesinato](http://twitter.com/search?q=Asesinato) | N/A |
-| 28 | [Ossandon](http://twitter.com/search?q=Ossandon) | N/A |
-| 29 | [Sgto](http://twitter.com/search?q=Sgto) | N/A |
-| 30 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
-| 31 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 32 | [Desbordes](http://twitter.com/search?q=Desbordes) | N/A |
-| 33 | [Mario Alvear](http://twitter.com/search?q=Mario+Alvear) | N/A |
-| 34 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
-| 35 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 36 | [HASTA CUANDO](http://twitter.com/search?q=HASTA+CUANDO) | N/A |
-| 37 | [Belloto](http://twitter.com/search?q=Belloto) | N/A |
-| 38 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
-| 39 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 40 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
-| 41 | [Las Diablas](http://twitter.com/search?q=Las+Diablas) | N/A |
+| 28 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 29 | [Mario Alvear](http://twitter.com/search?q=Mario+Alvear) | N/A |
+| 30 | [Desbordes](http://twitter.com/search?q=Desbordes) | N/A |
+| 31 | [Cállate](http://twitter.com/search?q=C%c3%a1llate) | N/A |
+| 32 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
+| 33 | [Camila Flores](http://twitter.com/search?q=Camila+Flores) | N/A |
+| 34 | [Willy Semler](http://twitter.com/search?q=Willy+Semler) | N/A |
+| 35 | [Belloto](http://twitter.com/search?q=Belloto) | N/A |
+| 36 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 37 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 38 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 39 | [Chahuán](http://twitter.com/search?q=Chahu%c3%a1n) | N/A |
+| 40 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
+| 41 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
 | 42 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 43 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 44 | [Chahuan](http://twitter.com/search?q=Chahuan) | N/A |
-| 45 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 46 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
-| 47 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
-| 48 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 43 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
+| 44 | [Las Diablas](http://twitter.com/search?q=Las+Diablas) | N/A |
+| 45 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 46 | [Gral](http://twitter.com/search?q=Gral) | N/A |
+| 47 | [Primera Línea](http://twitter.com/search?q=Primera+L%c3%adnea) | N/A |
+| 48 | [Cavada](http://twitter.com/search?q=Cavada) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-27 21:16:48 UTC`
+📆 Last Updated: `2023-03-27 22:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,14 +22,14 @@ This is top 50 for [India](</India>)
 | 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 6 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
 | 7 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
-| 8 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 9 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
+| 8 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
+| 9 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
 | 10 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
 | 11 | [cpjoshi bjp rajasthan](http://twitter.com/search?q=cpjoshi+bjp+rajasthan) | N/A |
 | 12 | [multilingual internet](http://twitter.com/search?q=multilingual+internet) | N/A |
-| 13 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 14 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 15 | [काला जादू](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9c%e0%a4%be%e0%a4%a6%e0%a5%82) | N/A |
+| 13 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 14 | [काला जादू](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9c%e0%a4%be%e0%a4%a6%e0%a5%82) | N/A |
+| 15 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
 | 16 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
 | 17 | [GLOBAL ICON ALLUARJUN](http://twitter.com/search?q=GLOBAL+ICON+ALLUARJUN) | N/A |
 | 18 | [bright future of bharat](http://twitter.com/search?q=bright+future+of+bharat) | N/A |
@@ -38,30 +38,30 @@ This is top 50 for [India](</India>)
 | 21 | [sant shri asharamji gurukul](http://twitter.com/search?q=sant+shri+asharamji+gurukul) | N/A |
 | 22 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
 | 23 | [EPFO](http://twitter.com/search?q=EPFO) | N/A |
-| 24 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 25 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 26 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 27 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 28 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
-| 29 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
+| 24 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
+| 25 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 26 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 27 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
+| 28 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
+| 29 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
 | 30 | [Charan Anna](http://twitter.com/search?q=Charan+Anna) | N/A |
 | 31 | [सरकारी आवास](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8) | N/A |
 | 32 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
 | 33 | [GO WELL CSK](http://twitter.com/search?q=GO+WELL+CSK) | N/A |
 | 34 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
 | 35 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 36 | [Heize](http://twitter.com/search?q=Heize) | N/A |
-| 37 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 38 | [SRKians](http://twitter.com/search?q=SRKians) | N/A |
-| 39 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 40 | [Hakla](http://twitter.com/search?q=Hakla) | N/A |
-| 41 | [My Current Tech Stack](http://twitter.com/search?q=My+Current+Tech+Stack) | N/A |
-| 42 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 43 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
+| 36 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 37 | [heize](http://twitter.com/search?q=heize) | N/A |
+| 38 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 39 | [My Current Tech Stack](http://twitter.com/search?q=My+Current+Tech+Stack) | N/A |
+| 40 | [SRKians](http://twitter.com/search?q=SRKians) | N/A |
+| 41 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 42 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 43 | [Pakistani](http://twitter.com/search?q=Pakistani) | N/A |
 | 44 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 45 | [bighit](http://twitter.com/search?q=bighit) | N/A |
-| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 47 | [bangtan](http://twitter.com/search?q=bangtan) | N/A |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [bighit](http://twitter.com/search?q=bighit) | N/A |
+| 47 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 
 
 

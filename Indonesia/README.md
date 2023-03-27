@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-27 21:17:03 UTC`
+📆 Last Updated: `2023-03-27 22:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Indonesia
 | 6 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 | 7 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
 | 8 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 9 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
-| 10 | [#SkintificRamadanBox](http://twitter.com/search?q=%23SkintificRamadanBox) | N/A |
-| 11 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 12 | [Alat](http://twitter.com/search?q=Alat) | N/A |
-| 13 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 14 | [Serangga](http://twitter.com/search?q=Serangga) | N/A |
+| 9 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 10 | [#KimSeonHoInJKT](http://twitter.com/search?q=%23KimSeonHoInJKT) | N/A |
+| 11 | [#SkintificRamadanBox](http://twitter.com/search?q=%23SkintificRamadanBox) | N/A |
+| 12 | [Serangga](http://twitter.com/search?q=Serangga) | N/A |
+| 13 | [Alat](http://twitter.com/search?q=Alat) | N/A |
+| 14 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
 | 15 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
 | 16 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 17 | [wts wts](http://twitter.com/search?q=wts+wts) | N/A |
-| 18 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 17 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 18 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
 | 19 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
 | 20 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 21 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 22 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 21 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 22 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
 | 23 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 24 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 24 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
 | 25 | [Want Skintific](http://twitter.com/search?q=Want+Skintific) | N/A |
-| 26 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 27 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 28 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
+| 26 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 27 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 28 | [jaemin black hair](http://twitter.com/search?q=jaemin+black+hair) | N/A |
 | 29 | [haechan you did great](http://twitter.com/search?q=haechan+you+did+great) | N/A |
 | 30 | [besok senin](http://twitter.com/search?q=besok+senin) | N/A |
-| 31 | [stop kriminalisasi helmut](http://twitter.com/search?q=stop+kriminalisasi+helmut) | N/A |
-| 32 | [London](http://twitter.com/search?q=London) | N/A |
-| 33 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 31 | [Subuhan](http://twitter.com/search?q=Subuhan) | N/A |
+| 32 | [stop kriminalisasi helmut](http://twitter.com/search?q=stop+kriminalisasi+helmut) | N/A |
+| 33 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 34 | [jisoo lyric poster](http://twitter.com/search?q=jisoo+lyric+poster) | N/A |
 | 35 | [anies sandi](http://twitter.com/search?q=anies+sandi) | N/A |
-| 36 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
-| 37 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
+| 36 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
+| 37 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
 | 38 | [semua lawan dbd](http://twitter.com/search?q=semua+lawan+dbd) | N/A |
-| 39 | [MYEONZART IS COMING](http://twitter.com/search?q=MYEONZART+IS+COMING) | N/A |
-| 40 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 41 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 42 | [salonpas](http://twitter.com/search?q=salonpas) | N/A |
-| 43 | [Pakin](http://twitter.com/search?q=Pakin) | N/A |
-| 44 | [BELUM DEWASA](http://twitter.com/search?q=BELUM+DEWASA) | N/A |
-| 45 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 46 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
-| 47 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 48 | [Neyl](http://twitter.com/search?q=Neyl) | N/A |
-| 49 | [Kurniawan](http://twitter.com/search?q=Kurniawan) | N/A |
-| 50 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
+| 39 | [myeonzart is coming](http://twitter.com/search?q=myeonzart+is+coming) | N/A |
+| 40 | [London](http://twitter.com/search?q=London) | N/A |
+| 41 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 42 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 43 | [salonpas](http://twitter.com/search?q=salonpas) | N/A |
+| 44 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 45 | [BELUM DEWASA](http://twitter.com/search?q=BELUM+DEWASA) | N/A |
+| 46 | [Kurniawan](http://twitter.com/search?q=Kurniawan) | N/A |
+| 47 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 48 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 49 | [Pakin](http://twitter.com/search?q=Pakin) | N/A |
+| 50 | [Crown](http://twitter.com/search?q=Crown) | N/A |
 
 
 

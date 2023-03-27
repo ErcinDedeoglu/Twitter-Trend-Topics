@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-27 21:16:40 UTC`
+📆 Last Updated: `2023-03-27 22:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,13 +34,13 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 17 | [joong](http://twitter.com/search?q=joong) | N/A |
 | 18 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
 | 19 | [Chung](http://twitter.com/search?q=Chung) | N/A |
-| 20 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 21 | [Pond](http://twitter.com/search?q=Pond) | N/A |
-| 22 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 23 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 24 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 25 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
-| 26 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 20 | [Pond](http://twitter.com/search?q=Pond) | N/A |
+| 21 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 22 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 23 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
+| 24 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
+| 25 | [vinh](http://twitter.com/search?q=vinh) | N/A |
+| 26 | [Đăng](http://twitter.com/search?q=%c4%90%c4%83ng) | N/A |
 | 27 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
 | 28 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 29 | [hcmc](http://twitter.com/search?q=hcmc) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 32 | [Quest](http://twitter.com/search?q=Quest) | N/A |
 | 33 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 | 34 | [cả 2](http://twitter.com/search?q=c%e1%ba%a3+2) | N/A |
-| 35 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 35 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
 | 36 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 37 | [$MOB Token](http://twitter.com/search?q=%24MOB+Token) | N/A |
 | 38 | [Ngồi](http://twitter.com/search?q=Ng%e1%bb%93i) | N/A |

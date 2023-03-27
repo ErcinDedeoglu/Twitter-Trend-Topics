@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-27 21:16:17 UTC`
+📆 Last Updated: `2023-03-27 22:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
-| 2 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
-| 3 | [#StarmerOut](http://twitter.com/search?q=%23StarmerOut) | N/A |
-| 4 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 5 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
-| 6 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 7 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 8 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
-| 9 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 10 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 11 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 12 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 13 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 14 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 15 | [Daisy](http://twitter.com/search?q=Daisy) | N/A |
-| 16 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 17 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 18 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 19 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 20 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 21 | [NASUWT](http://twitter.com/search?q=NASUWT) | N/A |
-| 22 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 23 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 24 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 25 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 26 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 1 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 2 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
+| 3 | [#VoteReject](http://twitter.com/search?q=%23VoteReject) | N/A |
+| 4 | [Scots](http://twitter.com/search?q=Scots) | N/A |
+| 5 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 6 | [#StarmerOut](http://twitter.com/search?q=%23StarmerOut) | N/A |
+| 7 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 8 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
+| 9 | [#ItWasAScam](http://twitter.com/search?q=%23ItWasAScam) | N/A |
+| 10 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 11 | [The Labour Party](http://twitter.com/search?q=The+Labour+Party) | N/A |
+| 12 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 13 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 14 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 15 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 16 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 17 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 18 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 19 | [Fran Alonso](http://twitter.com/search?q=Fran+Alonso) | N/A |
+| 20 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 21 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 22 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 23 | [Charlotte Jordan](http://twitter.com/search?q=Charlotte+Jordan) | N/A |
+| 24 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 25 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 26 | [NASUWT](http://twitter.com/search?q=NASUWT) | N/A |
 | 27 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 30 | [UNFUNDED](http://twitter.com/search?q=UNFUNDED) | N/A |
-| 31 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 32 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 33 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
-| 34 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 35 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 36 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
-| 37 | [Indy](http://twitter.com/search?q=Indy) | N/A |
-| 38 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 39 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 40 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 41 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 42 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 43 | [Independence](http://twitter.com/search?q=Independence) | N/A |
-| 44 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 45 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 46 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 47 | [Keir](http://twitter.com/search?q=Keir) | N/A |
-| 48 | [Republic of Ireland](http://twitter.com/search?q=Republic+of+Ireland) | N/A |
-| 49 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 28 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 29 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 30 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
+| 31 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 32 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 35 | [Unfunded](http://twitter.com/search?q=Unfunded) | N/A |
+| 36 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 37 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 38 | [First Minister](http://twitter.com/search?q=First+Minister) | N/A |
+| 39 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
+| 40 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 41 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 42 | [Indy](http://twitter.com/search?q=Indy) | N/A |
+| 43 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 44 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 45 | [Independence](http://twitter.com/search?q=Independence) | N/A |
+| 46 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 47 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 48 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 49 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
 
 
 

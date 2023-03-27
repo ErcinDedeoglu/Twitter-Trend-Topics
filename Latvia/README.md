@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-27 21:17:04 UTC`
+📆 Last Updated: `2023-03-27 22:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,11 +20,11 @@ This is top 50 for Latvia
 | 3 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
 | 4 | [baltkrievijā](http://twitter.com/search?q=baltkrievij%c4%81) | N/A |
 | 5 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
-| 6 | [Bauskas](http://twitter.com/search?q=Bauskas) | N/A |
-| 7 | [Nebūs](http://twitter.com/search?q=Neb%c5%abs) | N/A |
+| 6 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
+| 7 | [Bauskas](http://twitter.com/search?q=Bauskas) | N/A |
 | 8 | [AirBaltic](http://twitter.com/search?q=AirBaltic) | N/A |
 | 9 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 10 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
+| 10 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
 | 11 | [Kasko](http://twitter.com/search?q=Kasko) | N/A |
 | 12 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
 | 13 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Latvia
 | 42 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
 | 43 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
 | 44 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 45 | [Labāk](http://twitter.com/search?q=Lab%c4%81k) | N/A |
-| 46 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
-| 47 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
-| 48 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 49 | [Nekas](http://twitter.com/search?q=Nekas) | N/A |
-| 50 | [labdien](http://twitter.com/search?q=labdien) | N/A |
+| 45 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
+| 46 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
+| 47 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 48 | [nekas](http://twitter.com/search?q=nekas) | N/A |
+| 49 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 50 | [Saprotu](http://twitter.com/search?q=Saprotu) | N/A |
 
 
 

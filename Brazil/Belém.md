@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-03-27 21:16:22 UTC`
+📆 Last Updated: `2023-03-27 22:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 2 | [#ANGEL22MTVHITS](http://twitter.com/search?q=%23ANGEL22MTVHITS) | N/A |
-| 3 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
-| 4 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 2 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 3 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 4 | [#tvzpocah](http://twitter.com/search?q=%23tvzpocah) | N/A |
 | 5 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
-| 6 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
-| 7 | [Mondial](http://twitter.com/search?q=Mondial) | N/A |
-| 8 | [Meu WhatsApp](http://twitter.com/search?q=Meu+WhatsApp) | N/A |
-| 9 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
-| 10 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 11 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 12 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Elisabete Tenreiro](http://twitter.com/search?q=Elisabete+Tenreiro) | N/A |
-| 15 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 16 | [Suzano](http://twitter.com/search?q=Suzano) | N/A |
-| 17 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 18 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 19 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 20 | [Betty Ross](http://twitter.com/search?q=Betty+Ross) | N/A |
-| 21 | [Albânia](http://twitter.com/search?q=Alb%c3%a2nia) | N/A |
-| 22 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 23 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
-| 24 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 25 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 26 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 27 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 28 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
-| 29 | [siwon](http://twitter.com/search?q=siwon) | N/A |
-| 30 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 31 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 32 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
-| 33 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 34 | [Tangerina](http://twitter.com/search?q=Tangerina) | N/A |
-| 35 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 36 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 37 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 38 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
-| 39 | [Berserk](http://twitter.com/search?q=Berserk) | N/A |
-| 40 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 41 | [Bullying](http://twitter.com/search?q=Bullying) | N/A |
-| 42 | [Mauro Galvão](http://twitter.com/search?q=Mauro+Galv%c3%a3o) | Mauro Galvão is a Brazilian name, derived from the Latin name Maurus, meaning "dark-skinned". It is also a common surname in Portugal. In English, the name Mauro Galvão can be translated to mean "dark-skinned man". |
-| 43 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
-| 44 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 45 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 46 | [Leila Pereira](http://twitter.com/search?q=Leila+Pereira) | N/A |
-| 47 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
-| 48 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 6 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
+| 7 | [alex russo](http://twitter.com/search?q=alex+russo) | N/A |
+| 8 | [#ADona075](http://twitter.com/search?q=%23ADona075) | N/A |
+| 9 | [#ANGEL22MTVHITS](http://twitter.com/search?q=%23ANGEL22MTVHITS) | N/A |
+| 10 | [Meu WhatsApp](http://twitter.com/search?q=Meu+WhatsApp) | N/A |
+| 11 | [Mondial](http://twitter.com/search?q=Mondial) | N/A |
+| 12 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
+| 13 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 14 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 15 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
+| 16 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 17 | [#Jimin30onHot100](http://twitter.com/search?q=%23Jimin30onHot100) | N/A |
+| 18 | [Irlanda](http://twitter.com/search?q=Irlanda) | N/A |
+| 19 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
+| 20 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
+| 21 | [Elisabeth Tenreiro](http://twitter.com/search?q=Elisabeth+Tenreiro) | N/A |
+| 22 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 23 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
+| 24 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
+| 25 | [Suzano](http://twitter.com/search?q=Suzano) | N/A |
+| 26 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 27 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 28 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 29 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 30 | [Albânia](http://twitter.com/search?q=Alb%c3%a2nia) | N/A |
+| 31 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 32 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [Betty Ross](http://twitter.com/search?q=Betty+Ross) | N/A |
+| 35 | [Liv Tyler](http://twitter.com/search?q=Liv+Tyler) | N/A |
+| 36 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 37 | [Libertadores 2023](http://twitter.com/search?q=Libertadores+2023) | N/A |
+| 38 | [siwon](http://twitter.com/search?q=siwon) | N/A |
+| 39 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
+| 40 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
+| 41 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 42 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 43 | [Billboard Hot 100](http://twitter.com/search?q=Billboard+Hot+100) | N/A |
+| 44 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 45 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 46 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
+| 47 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 48 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
 
 
 
