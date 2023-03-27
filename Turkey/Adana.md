@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-03-27 03:17:30 UTC`
+📆 Last Updated: `2023-03-27 04:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,41 +16,37 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KöksalEngür](http://twitter.com/search?q=%23K%c3%b6ksalEng%c3%bcr) | N/A |
-| 2 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 3 | [#Netanyahu](http://twitter.com/search?q=%23Netanyahu) | N/A |
-| 4 | [#TelAviv](http://twitter.com/search?q=%23TelAviv) | N/A |
-| 5 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 2 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 3 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 4 | [#Netanyahu](http://twitter.com/search?q=%23Netanyahu) | N/A |
+| 5 | [#TelAviv](http://twitter.com/search?q=%23TelAviv) | N/A |
 | 6 | [Hayırlı Sahurlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sahurlar) | N/A |
 | 7 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
 | 8 | [Aziz Allah](http://twitter.com/search?q=Aziz+Allah) | N/A |
-| 9 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
+| 9 | [Beter](http://twitter.com/search?q=Beter) | N/A |
 | 10 | [Her Ramazan](http://twitter.com/search?q=Her+Ramazan) | N/A |
-| 11 | [Sonumuz Türkiye](http://twitter.com/search?q=Sonumuz+T%c3%bcrkiye) | N/A |
-| 12 | [PARAVAN ADAY](http://twitter.com/search?q=PARAVAN+ADAY) | N/A |
+| 11 | [Davulcu](http://twitter.com/search?q=Davulcu) | N/A |
+| 12 | [Sonumuz Türkiye](http://twitter.com/search?q=Sonumuz+T%c3%bcrkiye) | N/A |
 | 13 | [Nurullah Genç](http://twitter.com/search?q=Nurullah+Gen%c3%a7) | N/A |
-| 14 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 15 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
-| 16 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
-| 17 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
-| 18 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
-| 19 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
-| 20 | [Yiyin](http://twitter.com/search?q=Yiyin) | N/A |
-| 21 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
-| 22 | [Merve](http://twitter.com/search?q=Merve) | N/A |
+| 14 | [PARAVAN ADAY](http://twitter.com/search?q=PARAVAN+ADAY) | N/A |
+| 15 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 16 | [ADAM KAZANACAK](http://twitter.com/search?q=ADAM+KAZANACAK) | N/A |
+| 17 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
+| 18 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
+| 19 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 20 | [Aboubakar](http://twitter.com/search?q=Aboubakar) | Aboubakar is an Arabic name meaning "father of Bakar". It is also a common name in West Africa. |
+| 21 | [Yiyin](http://twitter.com/search?q=Yiyin) | N/A |
+| 22 | [Samsun](http://twitter.com/search?q=Samsun) | N/A |
 | 23 | [Tayyibe](http://twitter.com/search?q=Tayyibe) | N/A |
 | 24 | [Uzay](http://twitter.com/search?q=Uzay) | N/A |
 | 25 | [#StajyereBayramOlsun](http://twitter.com/search?q=%23StajyereBayramOlsun) | N/A |
-| 26 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
-| 27 | [#2000lerKabineye](http://twitter.com/search?q=%232000lerKabineye) | N/A |
+| 26 | [#2000lerKabineye](http://twitter.com/search?q=%232000lerKabineye) | N/A |
+| 27 | [#LeylaİleMecnun](http://twitter.com/search?q=%23Leyla%c4%b0leMecnun) | N/A |
 | 28 | [#Filistin](http://twitter.com/search?q=%23Filistin) | N/A |
 | 29 | [#KIZILELMA](http://twitter.com/search?q=%23KIZILELMA) | N/A |
-| 30 | [#yargı](http://twitter.com/search?q=%23yarg%c4%b1) | N/A |
-| 31 | [#YeniProfilResmi](http://twitter.com/search?q=%23YeniProfilResmi) | N/A |
-| 32 | [#SedatPekerKonuşsun](http://twitter.com/search?q=%23SedatPekerKonu%c5%9fsun) | N/A |
-| 33 | [#KorucularStatüBekliyor](http://twitter.com/search?q=%23KorucularStat%c3%bcBekliyor) | N/A |
-| 34 | [#infazkorumatorbayasaya](http://twitter.com/search?q=%23infazkorumatorbayasaya) | N/A |
-| 35 | [#DevletBahceli](http://twitter.com/search?q=%23DevletBahceli) | N/A |
-| 36 | [#ErdoğanAklınızıAlacak](http://twitter.com/search?q=%23Erdo%c4%9fanAkl%c4%b1n%c4%b1z%c4%b1Alacak) | N/A |
+| 30 | [#YeniProfilResmi](http://twitter.com/search?q=%23YeniProfilResmi) | N/A |
+| 31 | [#DevletBahceli](http://twitter.com/search?q=%23DevletBahceli) | N/A |
+| 32 | [#ErdoğanAklınızıAlacak](http://twitter.com/search?q=%23Erdo%c4%9fanAkl%c4%b1n%c4%b1z%c4%b1Alacak) | N/A |
 
 
 

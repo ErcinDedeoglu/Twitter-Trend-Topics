@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-03-27 03:17:29 UTC`
+📆 Last Updated: `2023-03-27 04:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,39 +19,45 @@ This is top 50 for [India](</India>)
 | 2 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
 | 3 | [#ElderlyCare](http://twitter.com/search?q=%23ElderlyCare) | N/A |
 | 4 | [#हमारी_संस्कृति_हमारे_संस्कार](http://twitter.com/search?q=%23%e0%a4%b9%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%80_%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf_%e0%a4%b9%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%87_%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 5 | [Bright Future Of Bharat](http://twitter.com/search?q=Bright+Future+Of+Bharat) | N/A |
-| 6 | [Gurukul Shiksha Paddhati](http://twitter.com/search?q=Gurukul+Shiksha+Paddhati) | N/A |
-| 7 | [Sant Shri Asharamji Gurukul](http://twitter.com/search?q=Sant+Shri+Asharamji+Gurukul) | N/A |
-| 8 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
-| 9 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 10 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
-| 11 | [Mega Powerstar](http://twitter.com/search?q=Mega+Powerstar) | N/A |
-| 12 | [Shankar](http://twitter.com/search?q=Shankar) | N/A |
-| 13 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
-| 14 | [Title](http://twitter.com/search?q=Title) | N/A |
-| 15 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 16 | [Malayalam](http://twitter.com/search?q=Malayalam) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [Bright Future Of Bharat](http://twitter.com/search?q=Bright+Future+Of+Bharat) | N/A |
+| 7 | [Gurukul Shiksha Paddhati](http://twitter.com/search?q=Gurukul+Shiksha+Paddhati) | N/A |
+| 8 | [Sant Shri Asharamji Gurukul](http://twitter.com/search?q=Sant+Shri+Asharamji+Gurukul) | N/A |
+| 9 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
+| 10 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 11 | [Shankar](http://twitter.com/search?q=Shankar) | N/A |
+| 12 | [Mega Power Star](http://twitter.com/search?q=Mega+Power+Star) | N/A |
+| 13 | [गुजरात प्रदेश](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 14 | [छठे स्वरूप](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a0%e0%a5%87+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 15 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 16 | [Title](http://twitter.com/search?q=Title) | N/A |
 | 17 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 18 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 19 | [ISRO](http://twitter.com/search?q=ISRO) | N/A |
-| 20 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 21 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 22 | [#GodMorningMonday](http://twitter.com/search?q=%23GodMorningMonday) | N/A |
-| 23 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 24 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
-| 25 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 26 | [#Innocent](http://twitter.com/search?q=%23Innocent) | N/A |
-| 27 | [#SVC50](http://twitter.com/search?q=%23SVC50) | N/A |
-| 28 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
-| 29 | [#BilkisBano](http://twitter.com/search?q=%23BilkisBano) | N/A |
-| 30 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
-| 31 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
-| 32 | [#MumbaiIndians](http://twitter.com/search?q=%23MumbaiIndians) | N/A |
-| 33 | [#AFGvPAK](http://twitter.com/search?q=%23AFGvPAK) | N/A |
-| 34 | [#WPL2023final](http://twitter.com/search?q=%23WPL2023final) | N/A |
-| 35 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
-| 36 | [#NikhatZareen](http://twitter.com/search?q=%23NikhatZareen) | N/A |
-| 37 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
+| 18 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
+| 19 | [Malayalam](http://twitter.com/search?q=Malayalam) | N/A |
+| 20 | [सूर्य उपासना](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%89%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a4%a8%e0%a4%be) | N/A |
+| 21 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 22 | [देवी दुर्गा](http://twitter.com/search?q=%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 23 | [ISRO](http://twitter.com/search?q=ISRO) | N/A |
+| 24 | [#RC15](http://twitter.com/search?q=%23RC15) | N/A |
+| 25 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
+| 26 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 27 | [#MondayThoughts](http://twitter.com/search?q=%23MondayThoughts) | N/A |
+| 28 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 29 | [#माँ_कात्यायनी](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%be%e0%a4%81_%e0%a4%95%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af%e0%a4%a8%e0%a5%80) | N/A |
+| 30 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
+| 31 | [#GodMorningMonday](http://twitter.com/search?q=%23GodMorningMonday) | N/A |
+| 32 | [#Innocent](http://twitter.com/search?q=%23Innocent) | N/A |
+| 33 | [#विश्व_रंगमंच_दिवस](http://twitter.com/search?q=%23%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b5_%e0%a4%b0%e0%a4%82%e0%a4%97%e0%a4%ae%e0%a4%82%e0%a4%9a_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 34 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 35 | [#BilkisBano](http://twitter.com/search?q=%23BilkisBano) | N/A |
+| 36 | [#SVC50](http://twitter.com/search?q=%23SVC50) | N/A |
+| 37 | [#KiaraAdvani](http://twitter.com/search?q=%23KiaraAdvani) | N/A |
+| 38 | [#GoodMorningEveryone](http://twitter.com/search?q=%23GoodMorningEveryone) | N/A |
+| 39 | [#अतीक़अहमद](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a4%e0%a5%80%e0%a4%95%e0%a4%bc%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
+| 40 | [#UddhavThackeray](http://twitter.com/search?q=%23UddhavThackeray) | N/A |
+| 41 | [#UntoldStory_Of_GoddessDurga](http://twitter.com/search?q=%23UntoldStory_Of_GoddessDurga) | N/A |
+| 42 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
+| 43 | [#AFGvPAK](http://twitter.com/search?q=%23AFGvPAK) | N/A |
 
 
 

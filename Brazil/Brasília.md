@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-27 03:17:02 UTC`
+📆 Last Updated: `2023-03-27 04:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 2 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 1 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 2 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
 | 3 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 4 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
-| 5 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 6 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 7 | [#RosalíaNoMultishow](http://twitter.com/search?q=%23Rosal%c3%adaNoMultishow) | N/A |
-| 8 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 9 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 4 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 5 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 6 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 7 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 8 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 9 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
 | 10 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 11 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 12 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
-| 13 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 14 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
-| 15 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 16 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 17 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 11 | [Rosália](http://twitter.com/search?q=Ros%c3%a1lia) | N/A |
+| 12 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 13 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
+| 14 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 15 | [Arregou](http://twitter.com/search?q=Arregou) | N/A |
+| 16 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 17 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
 | 18 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 19 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 20 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 21 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
-| 22 | [Arregão](http://twitter.com/search?q=Arreg%c3%a3o) | N/A |
-| 23 | [Tchau Bruna](http://twitter.com/search?q=Tchau+Bruna) | N/A |
-| 24 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 25 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 26 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
-| 27 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 28 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
-| 29 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 30 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 31 | [Pipocou](http://twitter.com/search?q=Pipocou) | N/A |
-| 32 | [daiki](http://twitter.com/search?q=daiki) | N/A |
-| 33 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 34 | [The Union](http://twitter.com/search?q=The+Union) | N/A |
-| 35 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 36 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
-| 37 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
-| 38 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 39 | [Mercado Livre](http://twitter.com/search?q=Mercado+Livre) | N/A |
-| 40 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 41 | [Barcellos](http://twitter.com/search?q=Barcellos) | N/A |
-| 42 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 43 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 44 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
-| 45 | [Vai Amandinha](http://twitter.com/search?q=Vai+Amandinha) | N/A |
-| 46 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 47 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
-| 48 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 49 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
-| 50 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 19 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 20 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 21 | [Deserto](http://twitter.com/search?q=Deserto) | N/A |
+| 22 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 23 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
+| 24 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 25 | [Falsinho](http://twitter.com/search?q=Falsinho) | N/A |
+| 26 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
+| 27 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 28 | [tony stark](http://twitter.com/search?q=tony+stark) | N/A |
+| 29 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
+| 30 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 31 | [FOCO NO GSHOW](http://twitter.com/search?q=FOCO+NO+GSHOW) | N/A |
+| 32 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
+| 33 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 34 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 35 | [Rouge](http://twitter.com/search?q=Rouge) | Rouge is a type of makeup used to give the cheeks a rosy color. It is usually applied with a brush or sponge and comes in powder, cream, or liquid form. In English, rouge means "red" or "pink". |
+| 36 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 37 | [Boa Amandinha](http://twitter.com/search?q=Boa+Amandinha) | N/A |
+| 38 | [Pipocou](http://twitter.com/search?q=Pipocou) | N/A |
+| 39 | [Amandinha Tadeu](http://twitter.com/search?q=Amandinha+Tadeu) | N/A |
+| 40 | [Mercado Livre](http://twitter.com/search?q=Mercado+Livre) | N/A |
+| 41 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 42 | [QUEM SAI](http://twitter.com/search?q=QUEM+SAI) | N/A |
+| 43 | [Bate e Volta](http://twitter.com/search?q=Bate+e+Volta) | N/A |
+| 44 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 45 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 46 | [Cumanda](http://twitter.com/search?q=Cumanda) | N/A |
+| 47 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 48 | [Covarde](http://twitter.com/search?q=Covarde) | N/A |
+| 49 | [Golden State](http://twitter.com/search?q=Golden+State) | Golden State is a nickname for the U.S. state of California. It is derived from the state's nickname, The Golden State, which was first used in print by author and historian O.P. Austin in 1876. The term is often used to refer to the entire West Coast of the United States, or more specifically, to the area along the Pacific coast from Oregon to Southern California. |
+| 50 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
 
 
 

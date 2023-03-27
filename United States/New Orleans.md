@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Orleans
 
-📆 Last Updated: `2023-03-27 03:17:36 UTC`
+📆 Last Updated: `2023-03-27 04:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [United States](</United States>)
 | 3 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
 | 4 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
 | 5 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 6 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 7 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 8 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 9 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 10 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 11 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 12 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 13 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
-| 14 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 15 | [#seekingbrotherhusband](http://twitter.com/search?q=%23seekingbrotherhusband) | N/A |
-| 16 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 17 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 18 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
-| 19 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 20 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 21 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 23 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
-| 24 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
-| 25 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
-| 26 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 27 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 28 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
-| 29 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 30 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 31 | [Raul Jimenez](http://twitter.com/search?q=Raul+Jimenez) | N/A |
-| 32 | [Lynn Williams](http://twitter.com/search?q=Lynn+Williams) | Lynn Williams is a Welsh name meaning “lake” or “pool”. It is derived from the Welsh word llyn, which means “lake” or “pool”. |
-| 33 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 34 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
-| 35 | [Alyssa Thompson](http://twitter.com/search?q=Alyssa+Thompson) | N/A |
-| 36 | [Frozen Four](http://twitter.com/search?q=Frozen+Four) | N/A |
-| 37 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 38 | [Willa](http://twitter.com/search?q=Willa) | N/A |
-| 39 | [Kim Mulkey](http://twitter.com/search?q=Kim+Mulkey) | N/A |
-| 40 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
-| 41 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
-| 42 | [Coppertone](http://twitter.com/search?q=Coppertone) | N/A |
-| 43 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 44 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 45 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 46 | [The Hundred](http://twitter.com/search?q=The+Hundred) | N/A |
-| 47 | [Mahmoud](http://twitter.com/search?q=Mahmoud) | N/A |
-| 48 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 49 | [Karl Anthony](http://twitter.com/search?q=Karl+Anthony) | N/A |
+| 6 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 7 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 8 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 9 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 10 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 11 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 12 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 13 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 14 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 15 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 16 | [#90dayfiancetheotherway](http://twitter.com/search?q=%2390dayfiancetheotherway) | N/A |
+| 17 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 18 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 19 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 20 | [#seekingbrotherhusband](http://twitter.com/search?q=%23seekingbrotherhusband) | N/A |
+| 21 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 22 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 23 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 24 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 25 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 26 | [The Disgusting Brothers](http://twitter.com/search?q=The+Disgusting+Brothers) | N/A |
+| 27 | [Van Lith](http://twitter.com/search?q=Van+Lith) | N/A |
+| 28 | [Jayda](http://twitter.com/search?q=Jayda) | N/A |
+| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 30 | [sarah snook](http://twitter.com/search?q=sarah+snook) | N/A |
+| 31 | [HAPPY BIRTHDAY UNI](http://twitter.com/search?q=HAPPY+BIRTHDAY+UNI) | N/A |
+| 32 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 33 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 34 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 35 | [Lynn Williams](http://twitter.com/search?q=Lynn+Williams) | Lynn Williams is a Welsh name meaning “lake” or “pool”. It is derived from the Welsh word llyn, which means “lake” or “pool”. |
+| 36 | [Whitecaps](http://twitter.com/search?q=Whitecaps) | N/A |
+| 37 | [Tocha](http://twitter.com/search?q=Tocha) | N/A |
+| 38 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 39 | [NPOY](http://twitter.com/search?q=NPOY) | N/A |
+| 40 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 41 | [Raul Jimenez](http://twitter.com/search?q=Raul+Jimenez) | N/A |
+| 42 | [Triple Double](http://twitter.com/search?q=Triple+Double) | N/A |
+| 43 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 44 | [The Hundred](http://twitter.com/search?q=The+Hundred) | N/A |
+| 45 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
+| 46 | [Willa](http://twitter.com/search?q=Willa) | N/A |
+| 47 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 48 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 49 | [Big D](http://twitter.com/search?q=Big+D) | N/A |
 
 
 

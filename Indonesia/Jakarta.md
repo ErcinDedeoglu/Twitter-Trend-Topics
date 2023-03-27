@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-27 03:17:13 UTC`
+📆 Last Updated: `2023-03-27 04:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,47 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 2 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 3 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 4 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 5 | [#Lepaskanhelmut](http://twitter.com/search?q=%23Lepaskanhelmut) | N/A |
-| 6 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 7 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 8 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 10 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
-| 11 | [Semua Lawan DBD](http://twitter.com/search?q=Semua+Lawan+DBD) | N/A |
-| 12 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
-| 13 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 14 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 15 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 16 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
-| 17 | [20 Mei](http://twitter.com/search?q=20+Mei) | N/A |
-| 18 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
-| 19 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
-| 20 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 21 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
-| 22 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 23 | [BISMILLAH YA ALLAH](http://twitter.com/search?q=BISMILLAH+YA+ALLAH) | N/A |
-| 24 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
-| 25 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
-| 26 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 27 | [Batal](http://twitter.com/search?q=Batal) | N/A |
-| 28 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 29 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 30 | [jisung brown](http://twitter.com/search?q=jisung+brown) | N/A |
-| 31 | [London](http://twitter.com/search?q=London) | N/A |
-| 32 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 33 | [Taat Syariah Kaffah](http://twitter.com/search?q=Taat+Syariah+Kaffah) | N/A |
-| 34 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 35 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 36 | [Joong](http://twitter.com/search?q=Joong) | N/A |
-| 37 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
-| 38 | [Ngaruh](http://twitter.com/search?q=Ngaruh) | N/A |
-| 39 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 40 | [Happy Birthday XIUMIN](http://twitter.com/search?q=Happy+Birthday+XIUMIN) | N/A |
-| 41 | [MARK LEE THANK YOU](http://twitter.com/search?q=MARK+LEE+THANK+YOU) | N/A |
-| 42 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 43 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 44 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 45 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
-| 46 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 47 | [Komnas HAM](http://twitter.com/search?q=Komnas+HAM) | N/A |
-| 48 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
-| 49 | [Makin Taat Allah](http://twitter.com/search?q=Makin+Taat+Allah) | N/A |
-| 50 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 5 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 6 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 7 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 8 | [Stop Kriminalisasi Helmut](http://twitter.com/search?q=Stop+Kriminalisasi+Helmut) | N/A |
+| 9 | [#Lepaskanhelmut](http://twitter.com/search?q=%23Lepaskanhelmut) | N/A |
+| 10 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 11 | [JISOO COUNTDOWN LIVE POSTER](http://twitter.com/search?q=JISOO+COUNTDOWN+LIVE+POSTER) | N/A |
+| 12 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 13 | [Semua Lawan DBD](http://twitter.com/search?q=Semua+Lawan+DBD) | N/A |
+| 14 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 15 | [SMTOWN](http://twitter.com/search?q=SMTOWN) | N/A |
+| 16 | [BISMILLAH YA ALLAH](http://twitter.com/search?q=BISMILLAH+YA+ALLAH) | N/A |
+| 17 | [Dyandra](http://twitter.com/search?q=Dyandra) | N/A |
+| 18 | [SOLD OUT](http://twitter.com/search?q=SOLD+OUT) | N/A |
+| 19 | [#AwasDigigitNyamuk](http://twitter.com/search?q=%23AwasDigigitNyamuk) | N/A |
+| 20 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 21 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 22 | [London](http://twitter.com/search?q=London) | N/A |
+| 23 | [Taat Syariah Kaffah](http://twitter.com/search?q=Taat+Syariah+Kaffah) | N/A |
+| 24 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 25 | [#SoloistJISOOin4Days](http://twitter.com/search?q=%23SoloistJISOOin4Days) | N/A |
+| 26 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 27 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 28 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 29 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 31 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 32 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 33 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 34 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 35 | [Piala Dunia U-20](http://twitter.com/search?q=Piala+Dunia+U-20) | N/A |
+| 36 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 37 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 38 | [Kota](http://twitter.com/search?q=Kota) | N/A |
+| 39 | [#RamadhanDay5](http://twitter.com/search?q=%23RamadhanDay5) | N/A |
+| 40 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 41 | [#Vindes](http://twitter.com/search?q=%23Vindes) | N/A |
+| 42 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 43 | [#TREASURE_Here_I_Stand](http://twitter.com/search?q=%23TREASURE_Here_I_Stand) | N/A |
 
 
 

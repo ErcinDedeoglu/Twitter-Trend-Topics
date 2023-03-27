@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-03-27 03:17:41 UTC`
+📆 Last Updated: `2023-03-27 04:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,26 +16,26 @@ This is top 50 for Egypt
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 2 | [٥ رمضان](http://twitter.com/search?q=%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 3 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 4 | [#بابا_المجال](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%a8%d8%a7_%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84) | N/A |
-| 5 | [علي قاسم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a7%d8%b3%d9%85) | N/A |
-| 6 | [كاس الرابطه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7%d9%87) | N/A |
-| 7 | [#عمرو_سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88_%d8%b3%d8%b9%d8%af) | N/A |
+| 2 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 3 | [٥ رمضان](http://twitter.com/search?q=%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 4 | [علي قاسم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a7%d8%b3%d9%85) | N/A |
+| 5 | [#بابا_المجال](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%a8%d8%a7_%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84) | N/A |
+| 6 | [#عمرو_سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88_%d8%b3%d8%b9%d8%af) | N/A |
+| 7 | [#تل_ابيب](http://twitter.com/search?q=%23%d8%aa%d9%84_%d8%a7%d8%a8%d9%8a%d8%a8) | N/A |
 | 8 | [خالد يوسف](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 9 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
-| 10 | [#مرتضي_منصور](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%aa%d8%b6%d9%8a_%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
-| 11 | [#مصطفي__شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a__%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 9 | [كاس الرابطه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7%d9%87) | N/A |
+| 10 | [#الاجهر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%ac%d9%87%d8%b1) | N/A |
+| 11 | [#احمد_فهمي](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d9%81%d9%87%d9%85%d9%8a) | N/A |
 | 12 | [محمد فؤاد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%81%d8%a4%d8%a7%d8%af) | N/A |
-| 13 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 14 | [خليل](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 15 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
+| 13 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
+| 14 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 15 | [خليل](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84) | N/A |
 | 16 | [اسماء جلال](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%a1+%d8%ac%d9%84%d8%a7%d9%84) | N/A |
 | 17 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
 | 18 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
 | 19 | [باسم مرسي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
-| 20 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
-| 21 | [الربيع العبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9+%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d9%8a) | N/A |
+| 20 | [الربيع العبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9+%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d9%8a) | N/A |
+| 21 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
 | 22 | [مصطفي شلبي](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d8%b4%d9%84%d8%a8%d9%8a) | مصطفي شلبي is an Arabic name, and it translates to English as Mustafa Shalabi. |
 | 23 | [خالد النبوي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a) | N/A |
 | 24 | [عبدالله جمعه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ac%d9%85%d8%b9%d9%87) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for Egypt
 | 27 | [اليوم الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
 | 28 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
 | 29 | [اللون المفضل](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d9%86+%d8%a7%d9%84%d9%85%d9%81%d8%b6%d9%84) | N/A |
-| 30 | [يوسف شاهين](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%b4%d8%a7%d9%87%d9%8a%d9%86) | N/A |
-| 31 | [طارق يحيي](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d9%8a%d8%ad%d9%8a%d9%8a) | N/A |
-| 32 | [منتخب المغرب](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
+| 30 | [طارق يحيي](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d9%8a%d8%ad%d9%8a%d9%8a) | N/A |
+| 31 | [علي البرازيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
+| 32 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
 | 33 | [هشام الجخ](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%ae) | N/A |
-| 34 | [سري الليل](http://twitter.com/search?q=%d8%b3%d8%b1%d9%8a+%d8%a7%d9%84%d9%84%d9%8a%d9%84) | سري الليل is an Arabic phrase that translates to "Secret of the Night" in English. It is often used to refer to something mysterious or unknown. |
-| 35 | [محمد رمضان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 36 | [احمد امين](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 37 | [فانك اكرم](http://twitter.com/search?q=%d9%81%d8%a7%d9%86%d9%83+%d8%a7%d9%83%d8%b1%d9%85) | N/A |
-| 38 | [الجول التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
-| 39 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
+| 34 | [فانك اكرم](http://twitter.com/search?q=%d9%81%d8%a7%d9%86%d9%83+%d8%a7%d9%83%d8%b1%d9%85) | N/A |
+| 35 | [يوسف شاهين](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%b4%d8%a7%d9%87%d9%8a%d9%86) | N/A |
+| 36 | [الجول التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 37 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
+| 38 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
+| 39 | [احمد امين](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
 | 40 | [الفريق الوحيد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af) | N/A |
-| 41 | [منتخب مصر الاولمبي](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%85%d8%b5%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%85%d8%a8%d9%8a) | N/A |
-| 42 | [علاء ميهوب](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1+%d9%85%d9%8a%d9%87%d9%88%d8%a8) | N/A |
-| 43 | [الحوار الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 44 | [الوقت الاصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d9%8a) | N/A |
-| 45 | [عمر خيرت](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ae%d9%8a%d8%b1%d8%aa) | N/A |
-| 46 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 41 | [محمد رمضان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 42 | [منتخب مصر الاولمبي](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%85%d8%b5%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%85%d8%a8%d9%8a) | N/A |
+| 43 | [علاء ميهوب](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1+%d9%85%d9%8a%d9%87%d9%88%d8%a8) | N/A |
+| 44 | [الحوار الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 45 | [الوقت الاصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d9%8a) | N/A |
+| 46 | [عمر خيرت](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ae%d9%8a%d8%b1%d8%aa) | N/A |
 | 47 | [ابراهيم حسن](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%ad%d8%b3%d9%86) | N/A |
 | 48 | [انبي](http://twitter.com/search?q=%d8%a7%d9%86%d8%a8%d9%8a) | N/A |
-| 49 | [الدوره الرمضانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 50 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 49 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 50 | [الدوره الرمضانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 
 
 

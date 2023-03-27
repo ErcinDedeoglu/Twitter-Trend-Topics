@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-27 03:17:12 UTC`
+📆 Last Updated: `2023-03-27 04:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,11 +26,11 @@ This is top 50 for [Norway](</Norway>)
 | 9 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 10 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
 | 11 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 13 | [hødd](http://twitter.com/search?q=h%c3%b8dd) | N/A |
-| 14 | [skottland](http://twitter.com/search?q=skottland) | N/A |
-| 15 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 16 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 14 | [hødd](http://twitter.com/search?q=h%c3%b8dd) | N/A |
+| 15 | [skottland](http://twitter.com/search?q=skottland) | N/A |
+| 16 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
 | 17 | [nyland](http://twitter.com/search?q=nyland) | N/A |
 | 18 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
 | 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
@@ -41,14 +41,14 @@ This is top 50 for [Norway](</Norway>)
 | 24 | [koteng arena](http://twitter.com/search?q=koteng+arena) | N/A |
 | 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 26 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 28 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 27 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 28 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
 | 29 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
 | 30 | [ryerson](http://twitter.com/search?q=ryerson) | N/A |
 | 31 | [nusa](http://twitter.com/search?q=nusa) | N/A |
 | 32 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
-| 33 | [#LetWomenSpeak](http://twitter.com/search?q=%23LetWomenSpeak) | N/A |
-| 34 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 33 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 34 | [America](http://twitter.com/search?q=America) | N/A |
 | 35 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 36 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
 | 37 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Norway](</Norway>)
 | 43 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 44 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
 | 45 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 46 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 47 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 48 | [bedre](http://twitter.com/search?q=bedre) | N/A |
-| 49 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 50 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 46 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 47 | [bedre](http://twitter.com/search?q=bedre) | N/A |
+| 48 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 49 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
+| 50 | [Slovenia](http://twitter.com/search?q=Slovenia) | N/A |
 
 
 

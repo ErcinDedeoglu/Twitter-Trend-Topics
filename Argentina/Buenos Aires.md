@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-27 03:17:05 UTC`
+📆 Last Updated: `2023-03-27 04:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 2 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 3 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
-| 4 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
-| 5 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
-| 6 | [Diego Ramos](http://twitter.com/search?q=Diego+Ramos) | N/A |
-| 7 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 8 | [#CanibalesEnC5N](http://twitter.com/search?q=%23CanibalesEnC5N) | N/A |
-| 9 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
-| 10 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
-| 11 | [Julieta y Nacho](http://twitter.com/search?q=Julieta+y+Nacho) | N/A |
-| 12 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 13 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 14 | [Carreño](http://twitter.com/search?q=Carre%c3%b1o) | N/A |
-| 15 | [Malena](http://twitter.com/search?q=Malena) | N/A |
-| 16 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 17 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 18 | [Senior](http://twitter.com/search?q=Senior) | N/A |
-| 19 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 20 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
-| 21 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 22 | [Marculi](http://twitter.com/search?q=Marculi) | N/A |
-| 23 | [#Nacho9009](http://twitter.com/search?q=%23Nacho9009) | N/A |
-| 24 | [Ricardito](http://twitter.com/search?q=Ricardito) | N/A |
-| 25 | [Martitegui](http://twitter.com/search?q=Martitegui) | N/A |
-| 26 | [Clemente](http://twitter.com/search?q=Clemente) | N/A |
-| 27 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 28 | [Chelo Delgado](http://twitter.com/search?q=Chelo+Delgado) | N/A |
-| 29 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 30 | [Majul](http://twitter.com/search?q=Majul) | N/A |
-| 31 | [Asís](http://twitter.com/search?q=As%c3%ads) | N/A |
-| 32 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 33 | [Marquise](http://twitter.com/search?q=Marquise) | N/A |
-| 34 | [Jorgelina](http://twitter.com/search?q=Jorgelina) | N/A |
-| 35 | [Quilmes](http://twitter.com/search?q=Quilmes) | N/A |
-| 36 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 37 | [Bullrich](http://twitter.com/search?q=Bullrich) | N/A |
-| 38 | [Colman](http://twitter.com/search?q=Colman) | N/A |
-| 39 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 40 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
-| 41 | [Coello](http://twitter.com/search?q=Coello) | N/A |
-| 42 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 43 | [Coscu](http://twitter.com/search?q=Coscu) | N/A |
-| 44 | [Moncho](http://twitter.com/search?q=Moncho) | N/A |
-| 45 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 46 | [Elizalde](http://twitter.com/search?q=Elizalde) | N/A |
-| 47 | [Grabes](http://twitter.com/search?q=Grabes) | N/A |
-| 48 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 49 | [Manes](http://twitter.com/search?q=Manes) | N/A |
-| 50 | [Giménez](http://twitter.com/search?q=Gim%c3%a9nez) | N/A |
+| 1 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 2 | [Bullrich](http://twitter.com/search?q=Bullrich) | N/A |
+| 3 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 4 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 5 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
+| 6 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
+| 7 | [gh 2023](http://twitter.com/search?q=gh+2023) | N/A |
+| 8 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
+| 9 | [Gran Hermano 2023](http://twitter.com/search?q=Gran+Hermano+2023) | N/A |
+| 10 | [Diego Ramos](http://twitter.com/search?q=Diego+Ramos) | N/A |
+| 11 | [Piazza](http://twitter.com/search?q=Piazza) | N/A |
+| 12 | [Pabla](http://twitter.com/search?q=Pabla) | N/A |
+| 13 | [Anotate](http://twitter.com/search?q=Anotate) | N/A |
+| 14 | [#CanibalesEnC5N](http://twitter.com/search?q=%23CanibalesEnC5N) | N/A |
+| 15 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
+| 16 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 17 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 18 | [JULIETA AL 9009](http://twitter.com/search?q=JULIETA+AL+9009) | N/A |
+| 19 | [BLANCA Y PERFECTA](http://twitter.com/search?q=BLANCA+Y+PERFECTA) | N/A |
+| 20 | [Julieta y Nacho](http://twitter.com/search?q=Julieta+y+Nacho) | N/A |
+| 21 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 22 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 23 | [Juariu](http://twitter.com/search?q=Juariu) | N/A |
+| 24 | [Carreño](http://twitter.com/search?q=Carre%c3%b1o) | N/A |
+| 25 | [Malena](http://twitter.com/search?q=Malena) | N/A |
+| 26 | [Marculi](http://twitter.com/search?q=Marculi) | N/A |
+| 27 | [#Nacho9009](http://twitter.com/search?q=%23Nacho9009) | N/A |
+| 28 | [Senior](http://twitter.com/search?q=Senior) | N/A |
+| 29 | [#GranHernano](http://twitter.com/search?q=%23GranHernano) | N/A |
+| 30 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
+| 31 | [Julieta y Marcos](http://twitter.com/search?q=Julieta+y+Marcos) | N/A |
+| 32 | [Asís](http://twitter.com/search?q=As%c3%ads) | N/A |
+| 33 | [Martitegui](http://twitter.com/search?q=Martitegui) | N/A |
+| 34 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 35 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 36 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 37 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 38 | [Clemente](http://twitter.com/search?q=Clemente) | N/A |
+| 39 | [Ricardito](http://twitter.com/search?q=Ricardito) | N/A |
+| 40 | [chelo delgado](http://twitter.com/search?q=chelo+delgado) | N/A |
+| 41 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
+| 42 | [Majul](http://twitter.com/search?q=Majul) | N/A |
+| 43 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 44 | [MARCOS GANADOR](http://twitter.com/search?q=MARCOS+GANADOR) | N/A |
+| 45 | [Marquise](http://twitter.com/search?q=Marquise) | N/A |
+| 46 | [Juli y Marcos](http://twitter.com/search?q=Juli+y+Marcos) | N/A |
+| 47 | [Juli y Nacho](http://twitter.com/search?q=Juli+y+Nacho) | N/A |
+| 48 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 49 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 50 | [Quilmes](http://twitter.com/search?q=Quilmes) | N/A |
 
 
 

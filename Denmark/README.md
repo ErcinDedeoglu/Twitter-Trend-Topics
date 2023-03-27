@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-27 03:17:41 UTC`
+📆 Last Updated: `2023-03-27 04:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KAZDEN](http://twitter.com/search?q=%23KAZDEN) | N/A |
-| 2 | [#fordanmark](http://twitter.com/search?q=%23fordanmark) | N/A |
-| 3 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
-| 4 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
-| 5 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
-| 6 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
-| 7 | [kjær](http://twitter.com/search?q=kj%c3%a6r) | N/A |
-| 8 | [kenneth perez](http://twitter.com/search?q=kenneth+perez) | N/A |
+| 1 | [#kazden](http://twitter.com/search?q=%23kazden) | N/A |
+| 2 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
+| 3 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
+| 4 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
+| 5 | [Kazakhstan](http://twitter.com/search?q=Kazakhstan) | N/A |
+| 6 | [kjær](http://twitter.com/search?q=kj%c3%a6r) | N/A |
+| 7 | [kenneth perez](http://twitter.com/search?q=kenneth+perez) | N/A |
+| 8 | [Daramy](http://twitter.com/search?q=Daramy) | N/A |
 | 9 | [#presselogen](http://twitter.com/search?q=%23presselogen) | N/A |
 | 10 | [david nielsen](http://twitter.com/search?q=david+nielsen) | N/A |
 | 11 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
@@ -36,10 +36,10 @@ This is top 50 for Denmark
 | 19 | [højbjerg](http://twitter.com/search?q=h%c3%b8jbjerg) | N/A |
 | 20 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 21 | [damsgaard](http://twitter.com/search?q=damsgaard) | N/A |
-| 22 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 23 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 24 | [mæhle](http://twitter.com/search?q=m%c3%a6hle) | N/A |
-| 25 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 22 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 23 | [mæhle](http://twitter.com/search?q=m%c3%a6hle) | N/A |
+| 24 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 26 | [stryger](http://twitter.com/search?q=stryger) | N/A |
 | 27 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 28 | [schmeichel](http://twitter.com/search?q=schmeichel) | N/A |
@@ -54,10 +54,10 @@ This is top 50 for Denmark
 | 37 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
 | 38 | [asgreen](http://twitter.com/search?q=asgreen) | N/A |
 | 39 | [Van Aert](http://twitter.com/search?q=Van+Aert) | N/A |
-| 40 | [mads p](http://twitter.com/search?q=mads+p) | N/A |
-| 41 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 43 | [Muscovy](http://twitter.com/search?q=Muscovy) | N/A |
+| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 41 | [mads p](http://twitter.com/search?q=mads+p) | N/A |
+| 42 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 43 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 44 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 45 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
 | 46 | [pointen](http://twitter.com/search?q=pointen) | N/A |
