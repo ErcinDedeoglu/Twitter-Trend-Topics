@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-26 23:17:00 UTC`
+📆 Last Updated: `2023-03-27 00:28:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Norway](</Norway>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [bjørkan](http://twitter.com/search?q=bj%c3%b8rkan) | N/A |
-| 2 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 3 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 4 | [Spania](http://twitter.com/search?q=Spania) | N/A |
+| 2 | [Spania](http://twitter.com/search?q=Spania) | N/A |
+| 3 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 4 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 5 | [Norge](http://twitter.com/search?q=Norge) | N/A |
 | 6 | [Sørloth](http://twitter.com/search?q=S%c3%b8rloth) | N/A |
 | 7 | [#spanor](http://twitter.com/search?q=%23spanor) | N/A |
@@ -26,35 +26,35 @@ This is top 50 for [Norway](</Norway>)
 | 9 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
 | 10 | [sander berge](http://twitter.com/search?q=sander+berge) | N/A |
 | 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 12 | [#espnor](http://twitter.com/search?q=%23espnor) | N/A |
-| 13 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 14 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 15 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 16 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
-| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [Hødd](http://twitter.com/search?q=H%c3%b8dd) | N/A |
-| 20 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
-| 21 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 22 | [nyland](http://twitter.com/search?q=nyland) | N/A |
-| 23 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 24 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
-| 25 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
-| 26 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 27 | [ullevål](http://twitter.com/search?q=ullev%c3%a5l) | N/A |
-| 28 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
-| 29 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 30 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 31 | [Koteng Arena](http://twitter.com/search?q=Koteng+Arena) | N/A |
-| 32 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
-| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 12 | [#ESPNOR](http://twitter.com/search?q=%23ESPNOR) | N/A |
+| 13 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 15 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
+| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 17 | [hødd](http://twitter.com/search?q=h%c3%b8dd) | N/A |
+| 18 | [skottland](http://twitter.com/search?q=skottland) | N/A |
+| 19 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 20 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 21 | [nyland](http://twitter.com/search?q=nyland) | N/A |
+| 22 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 23 | [jarlsberg](http://twitter.com/search?q=jarlsberg) | N/A |
+| 24 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
+| 25 | [ullevål](http://twitter.com/search?q=ullev%c3%a5l) | N/A |
+| 26 | [lørenskog](http://twitter.com/search?q=l%c3%b8renskog) | N/A |
+| 27 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 28 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 29 | [koteng arena](http://twitter.com/search?q=koteng+arena) | N/A |
+| 30 | [Diablo 4](http://twitter.com/search?q=Diablo+4) | N/A |
+| 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 33 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
 | 34 | [Erna](http://twitter.com/search?q=Erna) | N/A |
-| 35 | [Ryerson](http://twitter.com/search?q=Ryerson) | N/A |
+| 35 | [ryerson](http://twitter.com/search?q=ryerson) | N/A |
 | 36 | [Nusa](http://twitter.com/search?q=Nusa) | N/A |
 | 37 | [#UkraineRussiaWar](http://twitter.com/search?q=%23UkraineRussiaWar) | N/A |
 | 38 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 39 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 39 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 40 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
 | 41 | [Malaga](http://twitter.com/search?q=Malaga) | N/A |
 | 42 | [østfold](http://twitter.com/search?q=%c3%b8stfold) | N/A |
 | 43 | [Woke](http://twitter.com/search?q=Woke) | N/A |
@@ -62,7 +62,8 @@ This is top 50 for [Norway](</Norway>)
 | 45 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
 | 46 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 47 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 48 | [Frankrike](http://twitter.com/search?q=Frankrike) | N/A |
+| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 49 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-26 23:17:32 UTC`
+📆 Last Updated: `2023-03-27 00:29:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,22 +19,22 @@ This is top 50 for Indonesia
 | 2 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 3 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 4 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
-| 5 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
-| 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 6 | [#기다렸어_도재정_핫데뷔](http://twitter.com/search?q=%23%ea%b8%b0%eb%8b%a4%eb%a0%b8%ec%96%b4_%eb%8f%84%ec%9e%ac%ec%a0%95_%ed%95%ab%eb%8d%b0%eb%b7%94) | N/A |
 | 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 8 | [Kota](http://twitter.com/search?q=Kota) | N/A |
-| 9 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 10 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 8 | [Taat Syariah Kaffah](http://twitter.com/search?q=Taat+Syariah+Kaffah) | N/A |
+| 9 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 10 | [Makin Taat Allah](http://twitter.com/search?q=Makin+Taat+Allah) | N/A |
 | 11 | [Nuri](http://twitter.com/search?q=Nuri) | N/A |
-| 12 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 13 | [Makin Taat Allah](http://twitter.com/search?q=Makin+Taat+Allah) | N/A |
-| 14 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 15 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 16 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 17 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 18 | [Taat Syariah Kaffah](http://twitter.com/search?q=Taat+Syariah+Kaffah) | N/A |
-| 19 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
-| 20 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 12 | [MARK LEE THANK YOU](http://twitter.com/search?q=MARK+LEE+THANK+YOU) | N/A |
+| 13 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 14 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 15 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 16 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 17 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 18 | [HAECHAN YOU DID GREAT](http://twitter.com/search?q=HAECHAN+YOU+DID+GREAT) | N/A |
+| 19 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 20 | [Kota](http://twitter.com/search?q=Kota) | N/A |
 | 21 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
 | 22 | [KITSCH MV TEASER OUT NOW](http://twitter.com/search?q=KITSCH+MV+TEASER+OUT+NOW) | N/A |
 | 23 | [Manuk](http://twitter.com/search?q=Manuk) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for Indonesia
 | 27 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 28 | [Joong](http://twitter.com/search?q=Joong) | N/A |
 | 29 | [WE LOVE YOU](http://twitter.com/search?q=WE+LOVE+YOU) | N/A |
-| 30 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 31 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 32 | [Here I Stand](http://twitter.com/search?q=Here+I+Stand) | N/A |
-| 33 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
-| 34 | [BABI PUTIH](http://twitter.com/search?q=BABI+PUTIH) | N/A |
-| 35 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
-| 36 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 37 | [Happy Birthday XIUMIN](http://twitter.com/search?q=Happy+Birthday+XIUMIN) | N/A |
-| 38 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
-| 39 | [Shalat Tarawih](http://twitter.com/search?q=Shalat+Tarawih) | N/A |
-| 40 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
-| 41 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
-| 42 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 43 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 44 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
-| 45 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
-| 46 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 47 | [INTM](http://twitter.com/search?q=INTM) | N/A |
-| 48 | [Imsak](http://twitter.com/search?q=Imsak) | N/A |
-| 49 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 50 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 30 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 31 | [Jongu](http://twitter.com/search?q=Jongu) | N/A |
+| 32 | [Zaenab](http://twitter.com/search?q=Zaenab) | N/A |
+| 33 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 34 | [Happy Birthday XIUMIN](http://twitter.com/search?q=Happy+Birthday+XIUMIN) | N/A |
+| 35 | [Subuh](http://twitter.com/search?q=Subuh) | N/A |
+| 36 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
+| 37 | [Otsulemao](http://twitter.com/search?q=Otsulemao) | N/A |
+| 38 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 39 | [BEYOUR LUVE BUILD](http://twitter.com/search?q=BEYOUR+LUVE+BUILD) | N/A |
+| 40 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
+| 41 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 42 | [Jogja](http://twitter.com/search?q=Jogja) | N/A |
+| 43 | [Bukber](http://twitter.com/search?q=Bukber) | N/A |
+| 44 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 45 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 46 | [Semangat](http://twitter.com/search?q=Semangat) | N/A |
+| 47 | [welcome back mashiho](http://twitter.com/search?q=welcome+back+mashiho) | N/A |
+| 48 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 49 | [Imsak](http://twitter.com/search?q=Imsak) | N/A |
+| 50 | [Nala](http://twitter.com/search?q=Nala) | N/A |
 
 
 

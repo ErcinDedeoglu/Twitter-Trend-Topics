@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-26 23:16:56 UTC`
+📆 Last Updated: `2023-03-27 00:28:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Mazi](http://twitter.com/search?q=%23Mazi) | N/A |
-| 2 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 3 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
-| 4 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
-| 5 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 6 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 7 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 8 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
-| 9 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
-| 10 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 11 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 12 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 13 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 14 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 16 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 17 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 18 | [Verlierer](http://twitter.com/search?q=Verlierer) | N/A |
-| 19 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 20 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
-| 21 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 22 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 23 | [Nein-Stimmen](http://twitter.com/search?q=Nein-Stimmen) | N/A |
-| 24 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
-| 25 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
-| 26 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 27 | [Klimaneutralität](http://twitter.com/search?q=Klimaneutralit%c3%a4t) | N/A |
-| 28 | [Mike Josef](http://twitter.com/search?q=Mike+Josef) | N/A |
-| 29 | [Klatsche](http://twitter.com/search?q=Klatsche) | N/A |
-| 30 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 31 | [Scheitern](http://twitter.com/search?q=Scheitern) | N/A |
-| 32 | [Klimasekte](http://twitter.com/search?q=Klimasekte) | N/A |
-| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [Getränk](http://twitter.com/search?q=Getr%c3%a4nk) | N/A |
-| 35 | [#annewill](http://twitter.com/search?q=%23annewill) | N/A |
-| 36 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
-| 37 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 38 | [#KitchenImpossible](http://twitter.com/search?q=%23KitchenImpossible) | N/A |
-| 39 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
-| 40 | [#Neubauer](http://twitter.com/search?q=%23Neubauer) | N/A |
-| 41 | [#Volksabstimmung](http://twitter.com/search?q=%23Volksabstimmung) | N/A |
-| 42 | [#Frankfurt](http://twitter.com/search?q=%23Frankfurt) | N/A |
-| 43 | [#OBWahlFfm](http://twitter.com/search?q=%23OBWahlFfm) | N/A |
-| 44 | [#Klimaneutral2030](http://twitter.com/search?q=%23Klimaneutral2030) | N/A |
+| 2 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
+| 3 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
+| 4 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 5 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 6 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
+| 7 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
+| 8 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 9 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 10 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 11 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 12 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 13 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
+| 14 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 15 | [Streik](http://twitter.com/search?q=Streik) | N/A |
+| 16 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
+| 17 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 18 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 19 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 20 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 21 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 22 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 23 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 24 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
+| 25 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 26 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
+| 27 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 28 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
+| 29 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 30 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 31 | [Spahn](http://twitter.com/search?q=Spahn) | N/A |
+| 32 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 33 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 34 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 35 | [Mike Josef](http://twitter.com/search?q=Mike+Josef) | N/A |
+| 36 | [Warme Atmosphäre](http://twitter.com/search?q=Warme+Atmosph%c3%a4re) | N/A |
+| 37 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 38 | [Hausaufgaben](http://twitter.com/search?q=Hausaufgaben) | N/A |
+| 39 | [Lieblingsjahreszeit](http://twitter.com/search?q=Lieblingsjahreszeit) | N/A |
+| 40 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
+| 41 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 42 | [Subventionen](http://twitter.com/search?q=Subventionen) | N/A |
+| 43 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 44 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 45 | [Bill Kaulitz](http://twitter.com/search?q=Bill+Kaulitz) | N/A |
+| 46 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 47 | [Jasna](http://twitter.com/search?q=Jasna) | N/A |
+| 48 | [Briefwahl](http://twitter.com/search?q=Briefwahl) | N/A |
 
 
 

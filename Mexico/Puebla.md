@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-03-26 23:16:48 UTC`
+📆 Last Updated: `2023-03-27 00:28:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 2 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 3 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
-| 4 | [Jaime Camil](http://twitter.com/search?q=Jaime+Camil) | N/A |
-| 5 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 6 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 7 | [#BerthaAlcaldePresidentaDelINE](http://twitter.com/search?q=%23BerthaAlcaldePresidentaDelINE) | N/A |
-| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 9 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 10 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 11 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 12 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 13 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 14 | [#TianguisTurístico](http://twitter.com/search?q=%23TianguisTur%c3%adstico) | N/A |
-| 15 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
-| 16 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 17 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
-| 18 | [Liga MX](http://twitter.com/search?q=Liga+MX) | Liga MX is the top division of professional football in Mexico. It is also known as Liga BBVA MX, due to its sponsorship by BBVA. The league consists of 18 teams and is divided into two tournaments: Apertura (opening) and Clausura (closing). The winner of each tournament qualifies for the CONCACAF Champions League. In English, Liga MX translates to Mexican League. |
-| 19 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 20 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
-| 21 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 22 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 23 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 24 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 25 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 26 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 27 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 28 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 29 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 30 | [Delfina Gómez](http://twitter.com/search?q=Delfina+G%c3%b3mez) | N/A |
-| 31 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 32 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 33 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 34 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
-| 35 | [Inglés](http://twitter.com/search?q=Ingl%c3%a9s) | N/A |
-| 36 | [Después de Chabelo](http://twitter.com/search?q=Despu%c3%a9s+de+Chabelo) | N/A |
-| 37 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 38 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
-| 39 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 40 | [#ContingenciaAmbiental](http://twitter.com/search?q=%23ContingenciaAmbiental) | N/A |
-| 41 | [#MorenaDestruyeAMexico](http://twitter.com/search?q=%23MorenaDestruyeAMexico) | N/A |
-| 42 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 1 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 2 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 3 | [Jorge Sánchez](http://twitter.com/search?q=Jorge+S%c3%a1nchez) | N/A |
+| 4 | [#MY_CON_MEXICO](http://twitter.com/search?q=%23MY_CON_MEXICO) | N/A |
+| 5 | [#MY_CON_LATINOAMERICA](http://twitter.com/search?q=%23MY_CON_LATINOAMERICA) | N/A |
+| 6 | [#ConMiGente](http://twitter.com/search?q=%23ConMiGente) | N/A |
+| 7 | [Azteca](http://twitter.com/search?q=Azteca) | N/A |
+| 8 | [QUEREMOS CONCIERTO DE MAMAMOO](http://twitter.com/search?q=QUEREMOS+CONCIERTO+DE+MAMAMOO) | N/A |
+| 9 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 10 | [#TianguisTurístico](http://twitter.com/search?q=%23TianguisTur%c3%adstico) | N/A |
+| 11 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 12 | [Jaime Camil](http://twitter.com/search?q=Jaime+Camil) | N/A |
+| 13 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 14 | [Montes](http://twitter.com/search?q=Montes) | N/A |
+| 15 | [#NationsLeague](http://twitter.com/search?q=%23NationsLeague) | N/A |
+| 16 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 17 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 18 | [Phil Collins](http://twitter.com/search?q=Phil+Collins) | N/A |
+| 19 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 20 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 21 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 22 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 23 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 25 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 26 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 27 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 28 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 29 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 30 | [Shawn Mendes](http://twitter.com/search?q=Shawn+Mendes) | N/A |
+| 31 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
+| 32 | [Liga MX](http://twitter.com/search?q=Liga+MX) | Liga MX is the top division of professional football in Mexico. It is also known as Liga BBVA MX, due to its sponsorship by BBVA. The league consists of 18 teams and is divided into two tournaments: Apertura (opening) and Clausura (closing). The winner of each tournament qualifies for the CONCACAF Champions League. In English, Liga MX translates to Mexican League. |
+| 33 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
+| 34 | [calvin klein](http://twitter.com/search?q=calvin+klein) | N/A |
+| 35 | [Delfina Gómez](http://twitter.com/search?q=Delfina+G%c3%b3mez) | N/A |
+| 36 | [Espe](http://twitter.com/search?q=Espe) | N/A |
+| 37 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 38 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 39 | [Inglés](http://twitter.com/search?q=Ingl%c3%a9s) | N/A |
+| 40 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 41 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
+| 42 | [Después de Chabelo](http://twitter.com/search?q=Despu%c3%a9s+de+Chabelo) | N/A |
+| 43 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 44 | [#SeleccionMexicana](http://twitter.com/search?q=%23SeleccionMexicana) | N/A |
+| 45 | [#UnaNuevaEra](http://twitter.com/search?q=%23UnaNuevaEra) | N/A |
+| 46 | [#BerthaAlcaldePresidentaDelINE](http://twitter.com/search?q=%23BerthaAlcaldePresidentaDelINE) | N/A |
+| 47 | [#LaCiudadQueLoTieneTodo](http://twitter.com/search?q=%23LaCiudadQueLoTieneTodo) | N/A |
+| 48 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 49 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-26 23:16:52 UTC`
+📆 Last Updated: `2023-03-27 00:28:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 1 | [Luana](http://twitter.com/search?q=Luana) | Luana is a female given name of Italian origin, derived from the Latin word luna, meaning "moon". It is also used as a Hawaiian name, where it means "enjoyment". |
 | 2 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 3 | [Taça Independência](http://twitter.com/search?q=Ta%c3%a7a+Independ%c3%aancia) | N/A |
-| 4 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 5 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 6 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 7 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
-| 8 | [Olaf](http://twitter.com/search?q=Olaf) | N/A |
-| 9 | [Paulinha](http://twitter.com/search?q=Paulinha) | N/A |
-| 10 | [Paralamas](http://twitter.com/search?q=Paralamas) | N/A |
-| 11 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 12 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 13 | [#churrasbsd](http://twitter.com/search?q=%23churrasbsd) | N/A |
-| 14 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [Ilsinho](http://twitter.com/search?q=Ilsinho) | N/A |
+| 5 | [Sheron](http://twitter.com/search?q=Sheron) | N/A |
+| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 7 | [woosung](http://twitter.com/search?q=woosung) | N/A |
+| 8 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 9 | [calvin klein](http://twitter.com/search?q=calvin+klein) | N/A |
+| 10 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 11 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 12 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 13 | [Gilberto Gil](http://twitter.com/search?q=Gilberto+Gil) | N/A |
+| 14 | [Eliana](http://twitter.com/search?q=Eliana) | N/A |
 | 15 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 16 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 17 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 18 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 19 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 20 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 21 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 22 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 23 | [#Mazi](http://twitter.com/search?q=%23Mazi) | N/A |
-| 24 | [tove](http://twitter.com/search?q=tove) | Tove is a Scandinavian female given name, derived from the Old Norse name Thófa. It is also a variant of the English name Toby. In English, it means "God is good". |
-| 25 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
-| 26 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 27 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
-| 28 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
-| 29 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 30 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 31 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 32 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 33 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 34 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 35 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
-| 36 | [The Wall](http://twitter.com/search?q=The+Wall) | N/A |
-| 37 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
-| 38 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 39 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
-| 40 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 41 | [Baralhas](http://twitter.com/search?q=Baralhas) | N/A |
-| 42 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
-| 43 | [Maurício](http://twitter.com/search?q=Maur%c3%adcio) | N/A |
-| 44 | [ESTAMOS COM VOCÊ BLACK](http://twitter.com/search?q=ESTAMOS+COM+VOC%c3%8a+BLACK) | N/A |
-| 45 | [Rafa Kalimann](http://twitter.com/search?q=Rafa+Kalimann) | N/A |
-| 46 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 47 | [Grupo C](http://twitter.com/search?q=Grupo+C) | N/A |
-| 48 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 49 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 50 | [La Fama](http://twitter.com/search?q=La+Fama) | N/A |
+| 16 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 17 | [#VCTGameChangers](http://twitter.com/search?q=%23VCTGameChangers) | N/A |
+| 18 | [Juca Chaves](http://twitter.com/search?q=Juca+Chaves) | N/A |
+| 19 | [#churrasbsd](http://twitter.com/search?q=%23churrasbsd) | N/A |
+| 20 | [Paulinha](http://twitter.com/search?q=Paulinha) | N/A |
+| 21 | [Paralamas](http://twitter.com/search?q=Paralamas) | N/A |
+| 22 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 23 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 24 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 25 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 26 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
+| 27 | [Caxias](http://twitter.com/search?q=Caxias) | Caxias is a city in the state of Rio de Janeiro, Brazil. The name Caxias is derived from the Tupi language and means "place of many rocks". In English, it can be translated to mean "place of many stones". |
+| 28 | [#Mazi](http://twitter.com/search?q=%23Mazi) | N/A |
+| 29 | [#RosalíaNoMultishow](http://twitter.com/search?q=%23Rosal%c3%adaNoMultishow) | N/A |
+| 30 | [Estevão](http://twitter.com/search?q=Estev%c3%a3o) | Estevão is a Portuguese name derived from the Latin name Stephanus, which means "crown". In English, Estevão would be translated as Stephen. |
+| 31 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 32 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 33 | [Beira Rio](http://twitter.com/search?q=Beira+Rio) | N/A |
+| 34 | [Moledo](http://twitter.com/search?q=Moledo) | N/A |
+| 35 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 36 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 37 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 38 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
+| 39 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 40 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 41 | [Gauchão](http://twitter.com/search?q=Gauch%c3%a3o) | N/A |
+| 42 | [José Loreto](http://twitter.com/search?q=Jos%c3%a9+Loreto) | N/A |
+| 43 | [Porto Alegre](http://twitter.com/search?q=Porto+Alegre) | N/A |
+| 44 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
+| 45 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 46 | [Baco](http://twitter.com/search?q=Baco) | N/A |
+| 47 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 48 | [CRIANÇA NO COLO](http://twitter.com/search?q=CRIAN%c3%87A+NO+COLO) | N/A |
+| 49 | [Motomami](http://twitter.com/search?q=Motomami) | N/A |
+| 50 | [Drake](http://twitter.com/search?q=Drake) | N/A |
 
 
 

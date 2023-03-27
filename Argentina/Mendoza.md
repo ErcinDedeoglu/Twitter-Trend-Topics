@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-26 23:16:49 UTC`
+📆 Last Updated: `2023-03-27 00:28:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 2 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 3 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 4 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 5 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 6 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 7 | [Kevin López](http://twitter.com/search?q=Kevin+L%c3%b3pez) | N/A |
-| 8 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 9 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 10 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 11 | [Elizalde](http://twitter.com/search?q=Elizalde) | N/A |
-| 12 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 13 | [Bullrich](http://twitter.com/search?q=Bullrich) | N/A |
-| 14 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 15 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 16 | [Borges](http://twitter.com/search?q=Borges) | N/A |
-| 17 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
-| 18 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 19 | [Moncho](http://twitter.com/search?q=Moncho) | N/A |
-| 20 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
-| 21 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
-| 22 | [Grabes](http://twitter.com/search?q=Grabes) | N/A |
-| 23 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 24 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 25 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 26 | [Mateo Retegui](http://twitter.com/search?q=Mateo+Retegui) | N/A |
-| 27 | [Malta](http://twitter.com/search?q=Malta) | N/A |
-| 28 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 29 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 30 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
-| 31 | [#LaPeñaDeMorfi](http://twitter.com/search?q=%23LaPe%c3%b1aDeMorfi) | N/A |
-| 32 | [#PrimeraNacional](http://twitter.com/search?q=%23PrimeraNacional) | N/A |
-| 33 | [#FederalA](http://twitter.com/search?q=%23FederalA) | N/A |
-| 34 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 35 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 36 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 37 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
-| 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 39 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 40 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 41 | [Chacarita](http://twitter.com/search?q=Chacarita) | N/A |
-| 42 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 43 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 44 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 45 | [Rozin](http://twitter.com/search?q=Rozin) | N/A |
-| 46 | [Aldosivi](http://twitter.com/search?q=Aldosivi) | N/A |
+| 1 | [Macri](http://twitter.com/search?q=Macri) | N/A |
+| 2 | [#LaCornisa](http://twitter.com/search?q=%23LaCornisa) | N/A |
+| 3 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 4 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 5 | [#PeronismoParaTodos](http://twitter.com/search?q=%23PeronismoParaTodos) | N/A |
+| 6 | [Lilita](http://twitter.com/search?q=Lilita) | N/A |
+| 7 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 8 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 9 | [Moncho](http://twitter.com/search?q=Moncho) | N/A |
+| 10 | [#Independiente](http://twitter.com/search?q=%23Independiente) | N/A |
+| 11 | [Coello](http://twitter.com/search?q=Coello) | N/A |
+| 12 | [Hernando](http://twitter.com/search?q=Hernando) | N/A |
+| 13 | [Majul](http://twitter.com/search?q=Majul) | N/A |
+| 14 | [Monzón](http://twitter.com/search?q=Monz%c3%b3n) | N/A |
+| 15 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 16 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 17 | [Kevin Lopez](http://twitter.com/search?q=Kevin+Lopez) | N/A |
+| 18 | [Carrió](http://twitter.com/search?q=Carri%c3%b3) | N/A |
+| 19 | [Bullrich](http://twitter.com/search?q=Bullrich) | N/A |
+| 20 | [Elizalde](http://twitter.com/search?q=Elizalde) | N/A |
+| 21 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 22 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 23 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 24 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 25 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 26 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 27 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 28 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 29 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 30 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
+| 31 | [María Kodama](http://twitter.com/search?q=Mar%c3%ada+Kodama) | N/A |
+| 32 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 33 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 34 | [Grabes](http://twitter.com/search?q=Grabes) | N/A |
+| 35 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 36 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 37 | [#FederalA](http://twitter.com/search?q=%23FederalA) | N/A |
+| 38 | [Malta](http://twitter.com/search?q=Malta) | N/A |
+| 39 | [#PrimeraNacional](http://twitter.com/search?q=%23PrimeraNacional) | N/A |
+| 40 | [Ayala](http://twitter.com/search?q=Ayala) | N/A |
+| 41 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 42 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 43 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 44 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 45 | [Aldosivi](http://twitter.com/search?q=Aldosivi) | N/A |
+| 46 | [Mateo Retegui](http://twitter.com/search?q=Mateo+Retegui) | N/A |
 | 47 | [Scioli](http://twitter.com/search?q=Scioli) | N/A |
-| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 49 | [Landa](http://twitter.com/search?q=Landa) | N/A |
-| 50 | [Chiqui](http://twitter.com/search?q=Chiqui) | N/A |
+| 48 | [Pudiendo](http://twitter.com/search?q=Pudiendo) | N/A |
+| 49 | [Mi Presidente](http://twitter.com/search?q=Mi+Presidente) | N/A |
+| 50 | [Chacarita](http://twitter.com/search?q=Chacarita) | N/A |
 
 
 

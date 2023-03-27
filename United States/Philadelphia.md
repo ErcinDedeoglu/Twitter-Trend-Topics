@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-03-26 23:17:26 UTC`
+📆 Last Updated: `2023-03-27 00:29:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 2 | [#Philadelphia](http://twitter.com/search?q=%23Philadelphia) | N/A |
-| 3 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
-| 4 | [#DevNilsons](http://twitter.com/search?q=%23DevNilsons) | N/A |
-| 5 | [#Mazi](http://twitter.com/search?q=%23Mazi) | N/A |
-| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 7 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 8 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 9 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 10 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 11 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
-| 12 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 13 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 14 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 15 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 16 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
-| 17 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 18 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
-| 19 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 20 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 21 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 22 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 23 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
-| 24 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
-| 25 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 26 | [Evan Mobley](http://twitter.com/search?q=Evan+Mobley) | Evan Mobley is the name of an American basketball player who currently plays for the University of Southern California. He is considered one of the top prospects in the 2021 NBA Draft. The name Evan Mobley is derived from his given name, Evan, and his middle name, Mobley. |
-| 27 | [Aztecs](http://twitter.com/search?q=Aztecs) | N/A |
-| 28 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 29 | [#MIAvsTEX](http://twitter.com/search?q=%23MIAvsTEX) | N/A |
-| 30 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 31 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 32 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 33 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 34 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
-| 35 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 36 | [Dillon Mitchell](http://twitter.com/search?q=Dillon+Mitchell) | N/A |
-| 37 | [Quinnipiac](http://twitter.com/search?q=Quinnipiac) | N/A |
-| 38 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 39 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 40 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 41 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
-| 42 | [Whalers](http://twitter.com/search?q=Whalers) | N/A |
-| 43 | [McAvoy](http://twitter.com/search?q=McAvoy) | McAvoy is a Scottish surname derived from the Gaelic Mac an Bhaird, meaning "son of the bard". It is most commonly found in the counties of Ayrshire and Renfrewshire. |
-| 44 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
-| 45 | [Coppertone](http://twitter.com/search?q=Coppertone) | N/A |
-| 46 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
-| 47 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 48 | [Timmy Allen](http://twitter.com/search?q=Timmy+Allen) | N/A |
-| 49 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 50 | [Sam Burns](http://twitter.com/search?q=Sam+Burns) | N/A |
+| 2 | [Big 12](http://twitter.com/search?q=Big+12) | Big 12 is a collegiate athletic conference composed of ten universities located in the central United States. The conference was formed in 1996 when four schools from the former Big Eight Conference joined with four schools from the Southwest Conference. The Big 12 Conference is considered one of the "Power Five" conferences, which are the five major college sports conferences in the United States. |
+| 3 | [Delaware River](http://twitter.com/search?q=Delaware+River) | N/A |
+| 4 | [Michigan](http://twitter.com/search?q=Michigan) | Michigan is a state in the Midwestern United States. It is bordered by four of the five Great Lakes, and is the only state to be surrounded by three out of the five. Michigan is known for its diverse landscape, which includes forests, beaches, and rolling hills. The state's name comes from the Ojibwe word "mishigami," which means "large lake." |
+| 5 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 6 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 7 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 8 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 9 | [#DevNilsons](http://twitter.com/search?q=%23DevNilsons) | N/A |
+| 10 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 11 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 12 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 13 | [#Mazi](http://twitter.com/search?q=%23Mazi) | N/A |
+| 14 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 15 | [#Final4](http://twitter.com/search?q=%23Final4) | N/A |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [#TheQueensOfRB](http://twitter.com/search?q=%23TheQueensOfRB) | N/A |
+| 18 | [#BaddiesWest](http://twitter.com/search?q=%23BaddiesWest) | #BaddiesWest is a hashtag used on social media to refer to the West Coast of the United States. It is often used to describe people, places, and things that are associated with the West Coast lifestyle. |
+| 19 | [Jordan Miller](http://twitter.com/search?q=Jordan+Miller) | N/A |
+| 20 | [SDSU](http://twitter.com/search?q=SDSU) | N/A |
+| 21 | [Reddick](http://twitter.com/search?q=Reddick) | Reddick is a surname of English origin. It is derived from the Old English words "read" (red) and "wic" (dwelling), meaning "red dwelling". |
+| 22 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 23 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 24 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 25 | [Jim Larranaga](http://twitter.com/search?q=Jim+Larranaga) | N/A |
+| 26 | [The U](http://twitter.com/search?q=The+U) | N/A |
+| 27 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 28 | [Cunningham](http://twitter.com/search?q=Cunningham) | N/A |
+| 29 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 30 | [Rodney Terry](http://twitter.com/search?q=Rodney+Terry) | N/A |
+| 31 | [San Diego State](http://twitter.com/search?q=San+Diego+State) | N/A |
+| 32 | [Marcus Carr](http://twitter.com/search?q=Marcus+Carr) | N/A |
+| 33 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 34 | [Angel Reese](http://twitter.com/search?q=Angel+Reese) | N/A |
+| 35 | [Omier](http://twitter.com/search?q=Omier) | N/A |
+| 36 | [Longhorns](http://twitter.com/search?q=Longhorns) | N/A |
+| 37 | [Peraza](http://twitter.com/search?q=Peraza) | N/A |
+| 38 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 39 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 40 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 41 | [Kurt Busch](http://twitter.com/search?q=Kurt+Busch) | N/A |
+| 42 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 43 | [Coach L](http://twitter.com/search?q=Coach+L) | N/A |
+| 44 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
+| 45 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 46 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 47 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 48 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 49 | [Jarrett Allen](http://twitter.com/search?q=Jarrett+Allen) | Jarrett Allen is an American professional basketball player who currently plays for the Brooklyn Nets of the National Basketball Association (NBA). He was selected by the Nets with the 22nd overall pick in the 2017 NBA draft. He is known for his defensive prowess and ability to finish around the rim. |
+| 50 | [Coppertone](http://twitter.com/search?q=Coppertone) | N/A |
 
 
 
