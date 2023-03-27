@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-27 08:18:49 UTC`
+📆 Last Updated: `2023-03-27 09:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Guatemala
 | ------- | ------------ | ------------ |
 | 1 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
 | 2 | [Chabelo](http://twitter.com/search?q=Chabelo) | N/A |
-| 3 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 3 | [ANIQUILADORES](http://twitter.com/search?q=ANIQUILADORES) | N/A |
 | 4 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
 | 5 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
 | 6 | [Quinto Domingo de Cuaresma](http://twitter.com/search?q=Quinto+Domingo+de+Cuaresma) | N/A |
@@ -26,29 +26,29 @@ This is top 50 for Guatemala
 | 9 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
 | 10 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 11 | [Espe](http://twitter.com/search?q=Espe) | N/A |
-| 12 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 12 | [chivas](http://twitter.com/search?q=chivas) | N/A |
 | 13 | [#ULTRALIVE](http://twitter.com/search?q=%23ULTRALIVE) | N/A |
 | 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 15 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 16 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 17 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 18 | [un año yuleria](http://twitter.com/search?q=un+a%c3%b1o+yuleria) | N/A |
-| 19 | [Foppa](http://twitter.com/search?q=Foppa) | N/A |
+| 19 | [foppa](http://twitter.com/search?q=foppa) | N/A |
 | 20 | [Adri](http://twitter.com/search?q=Adri) | N/A |
-| 21 | [San Bartolomé Becerra](http://twitter.com/search?q=San+Bartolom%c3%a9+Becerra) | N/A |
+| 21 | [san bartolomé becerra](http://twitter.com/search?q=san+bartolom%c3%a9+becerra) | N/A |
 | 22 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
 | 23 | [#tbtyuleria](http://twitter.com/search?q=%23tbtyuleria) | N/A |
 | 24 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 25 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
 | 26 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
 | 27 | [Roberto Arzú](http://twitter.com/search?q=Roberto+Arz%c3%ba) | N/A |
-| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 29 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 28 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 29 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
 | 30 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 31 | [Santa Lucía](http://twitter.com/search?q=Santa+Luc%c3%ada) | N/A |
 | 32 | [Troncos](http://twitter.com/search?q=Troncos) | N/A |
 | 33 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 34 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
+| 34 | [guayana francesa](http://twitter.com/search?q=guayana+francesa) | N/A |
 | 35 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 36 | [Corona](http://twitter.com/search?q=Corona) | N/A |
 | 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |

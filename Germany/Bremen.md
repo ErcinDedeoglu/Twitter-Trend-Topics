@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-27 08:18:05 UTC`
+📆 Last Updated: `2023-03-27 09:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
-| 2 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
-| 3 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
-| 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 5 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 6 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 2 | [#Volksentscheid](http://twitter.com/search?q=%23Volksentscheid) | N/A |
+| 3 | [#Mazi](http://twitter.com/search?q=%23Mazi) | N/A |
+| 4 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 7 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
 | 8 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
 | 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
@@ -28,41 +28,41 @@ This is top 50 for [Germany](</Germany>)
 | 11 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
 | 12 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
 | 13 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 14 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 15 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
-| 16 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 17 | [Homeoffice](http://twitter.com/search?q=Homeoffice) | N/A |
-| 18 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 19 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 20 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
-| 21 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 22 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
-| 23 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 24 | [Volle Solidarität](http://twitter.com/search?q=Volle+Solidarit%c3%a4t) | N/A |
-| 25 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 26 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
-| 27 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 28 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 29 | [Schöne Woche](http://twitter.com/search?q=Sch%c3%b6ne+Woche) | N/A |
-| 30 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 31 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 32 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 33 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 34 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
-| 35 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 36 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 37 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
-| 38 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 39 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 40 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
-| 41 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 42 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
-| 43 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 44 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
-| 45 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
-| 46 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
-| 47 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 48 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 14 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 15 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 16 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 17 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
+| 18 | [Wahlberechtigten](http://twitter.com/search?q=Wahlberechtigten) | N/A |
+| 19 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 20 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
+| 21 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 22 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 23 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
+| 24 | [Wahllokal](http://twitter.com/search?q=Wahllokal) | N/A |
+| 25 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 26 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 27 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 28 | [Homeoffice](http://twitter.com/search?q=Homeoffice) | N/A |
+| 29 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 30 | [Danke Berlin](http://twitter.com/search?q=Danke+Berlin) | N/A |
+| 31 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 32 | [Schöne Woche](http://twitter.com/search?q=Sch%c3%b6ne+Woche) | N/A |
+| 33 | [Selbstjustiz](http://twitter.com/search?q=Selbstjustiz) | N/A |
+| 34 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 35 | [Winterzeit](http://twitter.com/search?q=Winterzeit) | N/A |
+| 36 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 37 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
+| 38 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 39 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 40 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 41 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 42 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 43 | [Luisa](http://twitter.com/search?q=Luisa) | N/A |
+| 44 | [LKW-Fahrer](http://twitter.com/search?q=LKW-Fahrer) | N/A |
+| 45 | [Berufe](http://twitter.com/search?q=Berufe) | N/A |
+| 46 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 47 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 48 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
 
 
 

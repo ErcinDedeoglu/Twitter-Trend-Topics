@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-27 08:18:35 UTC`
+📆 Last Updated: `2023-03-27 09:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [BilenKazanır GooglePlayyde](http://twitter.com/search?q=BilenKazan%c4%b1r+GooglePlayyde) | N/A |
-| 2 | [#KöksalEngür](http://twitter.com/search?q=%23K%c3%b6ksalEng%c3%bcr) | N/A |
-| 3 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 1 | [#KöksalEngür](http://twitter.com/search?q=%23K%c3%b6ksalEng%c3%bcr) | N/A |
+| 2 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 3 | [#DünyaTiyatroGünü](http://twitter.com/search?q=%23D%c3%bcnyaTiyatroG%c3%bcn%c3%bc) | N/A |
 | 4 | [#TelAviv](http://twitter.com/search?q=%23TelAviv) | N/A |
-| 5 | [#DünyaTiyatroGünü](http://twitter.com/search?q=%23D%c3%bcnyaTiyatroG%c3%bcn%c3%bc) | N/A |
-| 6 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 7 | [Taliban İttifakı](http://twitter.com/search?q=Taliban+%c4%b0ttifak%c4%b1) | N/A |
-| 8 | [Faik](http://twitter.com/search?q=Faik) | N/A |
+| 5 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 6 | [Yılmaz Erdoğan](http://twitter.com/search?q=Y%c4%b1lmaz+Erdo%c4%9fan) | N/A |
+| 7 | [Faik](http://twitter.com/search?q=Faik) | N/A |
+| 8 | [Taliban İttifakı](http://twitter.com/search?q=Taliban+%c4%b0ttifak%c4%b1) | N/A |
 | 9 | [Kütüphane Haftası](http://twitter.com/search?q=K%c3%bct%c3%bcphane+Haftas%c4%b1) | N/A |
-| 10 | [Tayyibe Merve Çakar](http://twitter.com/search?q=Tayyibe+Merve+%c3%87akar) | N/A |
-| 11 | [Mustafa Ata Traş](http://twitter.com/search?q=Mustafa+Ata+Tra%c5%9f) | N/A |
-| 12 | [Red Kit](http://twitter.com/search?q=Red+Kit) | N/A |
-| 13 | [Yılmaz Erdoğan](http://twitter.com/search?q=Y%c4%b1lmaz+Erdo%c4%9fan) | N/A |
-| 14 | [Mecnun](http://twitter.com/search?q=Mecnun) | N/A |
-| 15 | [Sonumuz Türkiye](http://twitter.com/search?q=Sonumuz+T%c3%bcrkiye) | N/A |
-| 16 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 17 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
-| 18 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
-| 19 | [Seslendirme](http://twitter.com/search?q=Seslendirme) | N/A |
-| 20 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
-| 21 | [Koalisyon](http://twitter.com/search?q=Koalisyon) | N/A |
-| 22 | [Büdü](http://twitter.com/search?q=B%c3%bcd%c3%bc) | N/A |
-| 23 | [Atatürkçülük](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
-| 24 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
-| 25 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
-| 26 | [Atatürkün](http://twitter.com/search?q=Atat%c3%bcrk%c3%bcn) | N/A |
-| 27 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 28 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
-| 29 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 30 | [Uzaya](http://twitter.com/search?q=Uzaya) | N/A |
-| 31 | [Baban](http://twitter.com/search?q=Baban) | N/A |
-| 32 | [Beter](http://twitter.com/search?q=Beter) | N/A |
-| 33 | [İpek](http://twitter.com/search?q=%c4%b0pek) | N/A |
-| 34 | [#2000lerKabineye](http://twitter.com/search?q=%232000lerKabineye) | N/A |
-| 35 | [#StajyereBayramOlsun](http://twitter.com/search?q=%23StajyereBayramOlsun) | N/A |
-| 36 | [#EğriyeEğriDoğruyaDoğru](http://twitter.com/search?q=%23E%c4%9friyeE%c4%9friDo%c4%9fruyaDo%c4%9fru) | N/A |
-| 37 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
-| 38 | [#iyihaftalar](http://twitter.com/search?q=%23iyihaftalar) | N/A |
-| 39 | [#şaşırdım](http://twitter.com/search?q=%23%c5%9fa%c5%9f%c4%b1rd%c4%b1m) | N/A |
-| 40 | [#BayraktarTB3](http://twitter.com/search?q=%23BayraktarTB3) | N/A |
-| 41 | [#mutluhaftalar](http://twitter.com/search?q=%23mutluhaftalar) | N/A |
-| 42 | [#FikriArıkan](http://twitter.com/search?q=%23FikriAr%c4%b1kan) | N/A |
-| 43 | [#Filistin](http://twitter.com/search?q=%23Filistin) | N/A |
-| 44 | [#BizKimdenKaçıyordukAnne](http://twitter.com/search?q=%23BizKimdenKa%c3%a7%c4%b1yordukAnne) | N/A |
-| 45 | [#ABOvePRİMfarkınaMÜJDEgelsin](http://twitter.com/search?q=%23ABOvePR%c4%b0Mfark%c4%b1naM%c3%9cJDEgelsin) | N/A |
-| 46 | [#YeniProfilResmi](http://twitter.com/search?q=%23YeniProfilResmi) | N/A |
-| 47 | [#KIZILELMA](http://twitter.com/search?q=%23KIZILELMA) | N/A |
+| 10 | [Red Kit](http://twitter.com/search?q=Red+Kit) | N/A |
+| 11 | [Sonumuz Türkiye](http://twitter.com/search?q=Sonumuz+T%c3%bcrkiye) | N/A |
+| 12 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 13 | [Mustafa Ata Traş](http://twitter.com/search?q=Mustafa+Ata+Tra%c5%9f) | N/A |
+| 14 | [Gökhan](http://twitter.com/search?q=G%c3%b6khan) | N/A |
+| 15 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 16 | [Cemal Enginyurt](http://twitter.com/search?q=Cemal+Enginyurt) | Cemal Enginyurt is a Turkish name, derived from the words "cemal" (meaning "beauty") and "enginyurt" (meaning "engineer"). The name can be translated to mean "beautiful engineer". |
+| 17 | [Kemal Özkiraz](http://twitter.com/search?q=Kemal+%c3%96zkiraz) | N/A |
+| 18 | [Selçuk Bayraktar](http://twitter.com/search?q=Sel%c3%a7uk+Bayraktar) | Selçuk Bayraktar is a Turkish surname. It translates to "Flag of Selçuk" in English. The name is derived from the Selçuk Turks, a Turkic people who founded the Seljuk Empire in the 11th century. |
+| 19 | [Kendisine Allah'tan](http://twitter.com/search?q=Kendisine+Allah%27tan) | N/A |
+| 20 | [Taktik](http://twitter.com/search?q=Taktik) | N/A |
+| 21 | [Mecnun](http://twitter.com/search?q=Mecnun) | N/A |
+| 22 | [Tayyibe Merve Çakar](http://twitter.com/search?q=Tayyibe+Merve+%c3%87akar) | N/A |
+| 23 | [Domuz](http://twitter.com/search?q=Domuz) | N/A |
+| 24 | [Levent Kırca](http://twitter.com/search?q=Levent+K%c4%b1rca) | N/A |
+| 25 | [Varank](http://twitter.com/search?q=Varank) | N/A |
+| 26 | [Büdü](http://twitter.com/search?q=B%c3%bcd%c3%bc) | N/A |
+| 27 | [Koalisyon](http://twitter.com/search?q=Koalisyon) | N/A |
+| 28 | [Aksakallı](http://twitter.com/search?q=Aksakall%c4%b1) | N/A |
+| 29 | [PARAVAN ADAY](http://twitter.com/search?q=PARAVAN+ADAY) | N/A |
+| 30 | [Atatürkün](http://twitter.com/search?q=Atat%c3%bcrk%c3%bcn) | N/A |
+| 31 | [Sanatçı](http://twitter.com/search?q=Sanat%c3%a7%c4%b1) | N/A |
+| 32 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
+| 33 | [Atatürkçülük](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
+| 34 | [Yalakadan](http://twitter.com/search?q=Yalakadan) | N/A |
+| 35 | [Uzaya](http://twitter.com/search?q=Uzaya) | N/A |
+| 36 | [İlker](http://twitter.com/search?q=%c4%b0lker) | N/A |
+| 37 | [Yargı](http://twitter.com/search?q=Yarg%c4%b1) | N/A |
+| 38 | [İpek](http://twitter.com/search?q=%c4%b0pek) | N/A |
+| 39 | [Sevilay](http://twitter.com/search?q=Sevilay) | N/A |
+| 40 | [Baban](http://twitter.com/search?q=Baban) | N/A |
+| 41 | [#ABOKısmi5000SandığıBekliyor](http://twitter.com/search?q=%23ABOK%c4%b1smi5000Sand%c4%b1%c4%9f%c4%b1Bekliyor) | N/A |
+| 42 | [#2000lerKabineye](http://twitter.com/search?q=%232000lerKabineye) | N/A |
+| 43 | [#akfye](http://twitter.com/search?q=%23akfye) | N/A |
+| 44 | [#StajyereBayramOlsun](http://twitter.com/search?q=%23StajyereBayramOlsun) | N/A |
+| 45 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 46 | [#EğriyeEğriDoğruyaDoğru](http://twitter.com/search?q=%23E%c4%9friyeE%c4%9friDo%c4%9fruyaDo%c4%9fru) | N/A |
+| 47 | [#YeniMujde5000veKısmi](http://twitter.com/search?q=%23YeniMujde5000veK%c4%b1smi) | N/A |
+| 48 | [#FikriArıkan](http://twitter.com/search?q=%23FikriAr%c4%b1kan) | N/A |
 
 
 

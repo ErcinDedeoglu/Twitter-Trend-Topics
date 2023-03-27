@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-03-27 08:18:16 UTC`
+📆 Last Updated: `2023-03-27 09:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#おおまえチャン](http://twitter.com/search?q=%23%e3%81%8a%e3%81%8a%e3%81%be%e3%81%88%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
-| 2 | [ムリおじ](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%81%8a%e3%81%98) | N/A |
-| 3 | [セーラー服](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%a9%e3%83%bc%e6%9c%8d) | N/A |
+| 1 | [#ゆと打って出てきたものがお前に不足](http://twitter.com/search?q=%23%e3%82%86%e3%81%a8%e6%89%93%e3%81%a3%e3%81%a6%e5%87%ba%e3%81%a6%e3%81%8d%e3%81%9f%e3%82%82%e3%81%ae%e3%81%8c%e3%81%8a%e5%89%8d%e3%81%ab%e4%b8%8d%e8%b6%b3) | N/A |
+| 2 | [セーラー服](http://twitter.com/search?q=%e3%82%bb%e3%83%bc%e3%83%a9%e3%83%bc%e6%9c%8d) | N/A |
+| 3 | [ムリおじ](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%81%8a%e3%81%98) | N/A |
 | 4 | [ひなたくん](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%9f%e3%81%8f%e3%82%93) | N/A |
-| 5 | [#ウマ娘キャラ診断](http://twitter.com/search?q=%23%e3%82%a6%e3%83%9e%e5%a8%98%e3%82%ad%e3%83%a3%e3%83%a9%e8%a8%ba%e6%96%ad) | N/A |
+| 5 | [#さくらの日](http://twitter.com/search?q=%23%e3%81%95%e3%81%8f%e3%82%89%e3%81%ae%e6%97%a5) | N/A |
 | 6 | [#あなたをウマ娘のキャラに例えるなら](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e3%82%a6%e3%83%9e%e5%a8%98%e3%81%ae%e3%82%ad%e3%83%a3%e3%83%a9%e3%81%ab%e4%be%8b%e3%81%88%e3%82%8b%e3%81%aa%e3%82%89) | N/A |
-| 7 | [#さくらの日](http://twitter.com/search?q=%23%e3%81%95%e3%81%8f%e3%82%89%e3%81%ae%e6%97%a5) | N/A |
-| 8 | [セルフプロデュース](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%95%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | N/A |
-| 9 | [#NEWSmile](http://twitter.com/search?q=%23NEWSmile) | N/A |
-| 10 | [ラーメンデート](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%87%e3%83%bc%e3%83%88) | N/A |
-| 11 | [バイスマスター](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 12 | [Waves](http://twitter.com/search?q=Waves) | N/A |
-| 13 | [シュチム](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%83%a0) | N/A |
-| 14 | [京都のタクシー](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e3%81%ae%e3%82%bf%e3%82%af%e3%82%b7%e3%83%bc) | N/A |
-| 15 | [ムリナール](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%83%8a%e3%83%bc%e3%83%ab) | N/A |
-| 16 | [ダイケンキ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%b1%e3%83%b3%e3%82%ad) | N/A |
-| 17 | [colaさん](http://twitter.com/search?q=cola%e3%81%95%e3%82%93) | Colaさん is a Japanese term of endearment used to refer to someone in a friendly way. It is similar to the English terms "dear" or "sweetheart". |
-| 18 | [解釈違い](http://twitter.com/search?q=%e8%a7%a3%e9%87%88%e9%81%95%e3%81%84) | N/A |
-| 19 | [あなたのHO](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%aeHO) | N/A |
-| 20 | [プリズムコンボ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%9c) | N/A |
-| 21 | [きな子の謎解き成功](http://twitter.com/search?q=%e3%81%8d%e3%81%aa%e5%ad%90%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 22 | [日本動物園水族館協会](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%8b%95%e7%89%a9%e5%9c%92%e6%b0%b4%e6%97%8f%e9%a4%a8%e5%8d%94%e4%bc%9a) | N/A |
-| 23 | [ガンダムビルドメタバース](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%83%93%e3%83%ab%e3%83%89%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 24 | [メジロマックイーン](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%ad%e3%83%9e%e3%83%83%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3) | N/A |
-| 25 | [ライスシャワー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%b9%e3%82%b7%e3%83%a3%e3%83%af%e3%83%bc) | N/A |
-| 26 | [自分の信念](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e4%bf%a1%e5%bf%b5) | N/A |
+| 7 | [#ウマ娘キャラ診断](http://twitter.com/search?q=%23%e3%82%a6%e3%83%9e%e5%a8%98%e3%82%ad%e3%83%a3%e3%83%a9%e8%a8%ba%e6%96%ad) | N/A |
+| 8 | [ラーメンデート](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%87%e3%83%bc%e3%83%88) | N/A |
+| 9 | [#あなたは何の生まれ変わりか](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e4%bd%95%e3%81%ae%e7%94%9f%e3%81%be%e3%82%8c%e5%a4%89%e3%82%8f%e3%82%8a%e3%81%8b) | N/A |
+| 10 | [京都のタクシー](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e3%81%ae%e3%82%bf%e3%82%af%e3%82%b7%e3%83%bc) | N/A |
+| 11 | [エッグハント](http://twitter.com/search?q=%e3%82%a8%e3%83%83%e3%82%b0%e3%83%8f%e3%83%b3%e3%83%88) | N/A |
+| 12 | [セルフプロデュース](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%83%95%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b9) | N/A |
+| 13 | [バイスマスター](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%b9%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 14 | [シュチム](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%83%a0) | N/A |
+| 15 | [Waves](http://twitter.com/search?q=Waves) | N/A |
+| 16 | [あなたのHO](http://twitter.com/search?q=%e3%81%82%e3%81%aa%e3%81%9f%e3%81%aeHO) | N/A |
+| 17 | [ムリナール](http://twitter.com/search?q=%e3%83%a0%e3%83%aa%e3%83%8a%e3%83%bc%e3%83%ab) | N/A |
+| 18 | [マーリンPU](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%aa%e3%83%b3PU) | N/A |
+| 19 | [ブレザー](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%82%b6%e3%83%bc) | N/A |
+| 20 | [解釈違い](http://twitter.com/search?q=%e8%a7%a3%e9%87%88%e9%81%95%e3%81%84) | N/A |
+| 21 | [メイシア](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b7%e3%82%a2) | N/A |
+| 22 | [ガンダムメタバース](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 23 | [暑熱対策](http://twitter.com/search?q=%e6%9a%91%e7%86%b1%e5%af%be%e7%ad%96) | N/A |
+| 24 | [マンガ大賞](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%ac%e5%a4%a7%e8%b3%9e) | N/A |
+| 25 | [ボイプラKCON](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9KCON) | N/A |
+| 26 | [スケバン](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%90%e3%83%b3) | N/A |
 | 27 | [YAGOOのメン限](http://twitter.com/search?q=YAGOO%e3%81%ae%e3%83%a1%e3%83%b3%e9%99%90) | N/A |
-| 28 | [ヘアアレ](http://twitter.com/search?q=%e3%83%98%e3%82%a2%e3%82%a2%e3%83%ac) | N/A |
-| 29 | [ビルドシリーズ](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
-| 30 | [ロイヤルエクスプレス](http://twitter.com/search?q=%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab%e3%82%a8%e3%82%af%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b9) | N/A |
-| 31 | [ガンダムメタバース](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
-| 32 | [カバーの株](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%bc%e3%81%ae%e6%a0%aa) | N/A |
-| 33 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 34 | [竹山さん](http://twitter.com/search?q=%e7%ab%b9%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
-| 35 | [ロックマンエグゼ](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3%e3%82%a8%e3%82%b0%e3%82%bc) | N/A |
-| 36 | [動物福祉](http://twitter.com/search?q=%e5%8b%95%e7%89%a9%e7%a6%8f%e7%a5%89) | N/A |
-| 37 | [マンガ大賞](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%ac%e5%a4%a7%e8%b3%9e) | N/A |
-| 38 | [自分なりの流儀](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%aa%e3%82%8a%e3%81%ae%e6%b5%81%e5%84%80) | N/A |
-| 39 | [龍友くん](http://twitter.com/search?q=%e9%be%8d%e5%8f%8b%e3%81%8f%e3%82%93) | N/A |
-| 40 | [アルダンの新衣装](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%80%e3%83%b3%e3%81%ae%e6%96%b0%e8%a1%a3%e8%a3%85) | N/A |
-| 41 | [大逃げタイプ](http://twitter.com/search?q=%e5%a4%a7%e9%80%83%e3%81%92%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
-| 42 | [予選グループD](http://twitter.com/search?q=%e4%ba%88%e9%81%b8%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97D) | N/A |
-| 43 | [水着ベリアル](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%83%99%e3%83%aa%e3%82%a2%e3%83%ab) | N/A |
-| 44 | [シャンクス](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%af%e3%82%b9) | N/A |
-| 45 | [ウィッチクラフト](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%83%e3%83%81%e3%82%af%e3%83%a9%e3%83%95%e3%83%88) | N/A |
-| 46 | [エッグハント](http://twitter.com/search?q=%e3%82%a8%e3%83%83%e3%82%b0%e3%83%8f%e3%83%b3%e3%83%88) | N/A |
-| 47 | [エニカラ](http://twitter.com/search?q=%e3%82%a8%e3%83%8b%e3%82%ab%e3%83%a9) | N/A |
-| 48 | [抜群のパワフルさ](http://twitter.com/search?q=%e6%8a%9c%e7%be%a4%e3%81%ae%e3%83%91%e3%83%af%e3%83%95%e3%83%ab%e3%81%95) | N/A |
-| 49 | [シンボリルドルフ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%9c%e3%83%aa%e3%83%ab%e3%83%89%e3%83%ab%e3%83%95) | N/A |
-| 50 | [麻布食品](http://twitter.com/search?q=%e9%ba%bb%e5%b8%83%e9%a3%9f%e5%93%81) | N/A |
+| 28 | [VTA2](http://twitter.com/search?q=VTA2) | N/A |
+| 29 | [きな子の謎解き成功](http://twitter.com/search?q=%e3%81%8d%e3%81%aa%e5%ad%90%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 30 | [メジロマックイーン](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%ad%e3%83%9e%e3%83%83%e3%82%af%e3%82%a4%e3%83%bc%e3%83%b3) | N/A |
+| 31 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 32 | [ガンダムビルドメタバース](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%83%93%e3%83%ab%e3%83%89%e3%83%a1%e3%82%bf%e3%83%90%e3%83%bc%e3%82%b9) | N/A |
+| 33 | [プリズムコンボ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%9c) | N/A |
+| 34 | [佐伯一徹](http://twitter.com/search?q=%e4%bd%90%e4%bc%af%e4%b8%80%e5%be%b9) | N/A |
+| 35 | [けーこん](http://twitter.com/search?q=%e3%81%91%e3%83%bc%e3%81%93%e3%82%93) | N/A |
+| 36 | [ダイケンキ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%b1%e3%83%b3%e3%82%ad) | N/A |
+| 37 | [ヘアアレ](http://twitter.com/search?q=%e3%83%98%e3%82%a2%e3%82%a2%e3%83%ac) | N/A |
+| 38 | [ドラマ主題歌](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e4%b8%bb%e9%a1%8c%e6%ad%8c) | N/A |
+| 39 | [ライスシャワー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%b9%e3%82%b7%e3%83%a3%e3%83%af%e3%83%bc) | N/A |
+| 40 | [日本動物園水族館協会](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%8b%95%e7%89%a9%e5%9c%92%e6%b0%b4%e6%97%8f%e9%a4%a8%e5%8d%94%e4%bc%9a) | N/A |
+| 41 | [自分の信念](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e4%bf%a1%e5%bf%b5) | N/A |
+| 42 | [ロイヤルエクスプレス](http://twitter.com/search?q=%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab%e3%82%a8%e3%82%af%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b9) | N/A |
+| 43 | [菅谷梨沙](http://twitter.com/search?q=%e8%8f%85%e8%b0%b7%e6%a2%a8%e6%b2%99) | N/A |
+| 44 | [予選グループD](http://twitter.com/search?q=%e4%ba%88%e9%81%b8%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97D) | N/A |
+| 45 | [さとみくんレコーディング](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 46 | [ケセラセラ](http://twitter.com/search?q=%e3%82%b1%e3%82%bb%e3%83%a9%e3%82%bb%e3%83%a9) | N/A |
+| 47 | [ビルドシリーズ](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
+| 48 | [colaさん](http://twitter.com/search?q=cola%e3%81%95%e3%82%93) | Colaさん is a Japanese term of endearment used to refer to someone in a friendly way. It is similar to the English terms "dear" or "sweetheart". |
+| 49 | [サンデーコラボ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%87%e3%83%bc%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
+| 50 | [御料車庫](http://twitter.com/search?q=%e5%be%a1%e6%96%99%e8%bb%8a%e5%ba%ab) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-27 08:17:58 UTC`
+📆 Last Updated: `2023-03-27 09:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,19 +16,19 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chito](http://twitter.com/search?q=Chito) | Chito is a Japanese term meaning "a thousand years". It is often used to express a wish for long life and good health. |
-| 2 | [#Alausí](http://twitter.com/search?q=%23Alaus%c3%ad) | N/A |
+| 2 | [#Alausi](http://twitter.com/search?q=%23Alausi) | N/A |
 | 3 | [#UFCSanAntonio](http://twitter.com/search?q=%23UFCSanAntonio) | N/A |
 | 4 | [ANA Y MAR MCTO](http://twitter.com/search?q=ANA+Y+MAR+MCTO) | N/A |
 | 5 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 6 | [#Chimborazo](http://twitter.com/search?q=%23Chimborazo) | N/A |
-| 7 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 8 | [Rohon](http://twitter.com/search?q=Rohon) | N/A |
-| 9 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
+| 6 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 7 | [Rohon](http://twitter.com/search?q=Rohon) | N/A |
+| 8 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
+| 9 | [#Chimborazo](http://twitter.com/search?q=%23Chimborazo) | N/A |
 | 10 | [byron moreno](http://twitter.com/search?q=byron+moreno) | N/A |
 | 11 | [#ufcfightnight](http://twitter.com/search?q=%23ufcfightnight) | N/A |
-| 12 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 13 | [Casabaca](http://twitter.com/search?q=Casabaca) | N/A |
-| 14 | [Pindal](http://twitter.com/search?q=Pindal) | N/A |
+| 12 | [ANIQUILADORES](http://twitter.com/search?q=ANIQUILADORES) | N/A |
+| 13 | [casabaca](http://twitter.com/search?q=casabaca) | N/A |
+| 14 | [pindal](http://twitter.com/search?q=pindal) | N/A |
 | 15 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
 | 16 | [Cory Sandhagen](http://twitter.com/search?q=Cory+Sandhagen) | N/A |
 | 17 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 34 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 35 | [salado](http://twitter.com/search?q=salado) | N/A |
 | 36 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 37 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 38 | [Nuques](http://twitter.com/search?q=Nuques) | N/A |
-| 39 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
-| 40 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 41 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
-| 42 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 37 | [nuques](http://twitter.com/search?q=nuques) | N/A |
+| 38 | [Marlon](http://twitter.com/search?q=Marlon) | N/A |
+| 39 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 40 | [guayacanes](http://twitter.com/search?q=guayacanes) | N/A |
+| 41 | [Borges](http://twitter.com/search?q=Borges) | N/A |
+| 42 | [Joao Rojas](http://twitter.com/search?q=Joao+Rojas) | N/A |
 | 43 | [Julio Guerrero](http://twitter.com/search?q=Julio+Guerrero) | N/A |
-| 44 | [Joao Rojas](http://twitter.com/search?q=Joao+Rojas) | N/A |
+| 44 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
 | 45 | [Cerda](http://twitter.com/search?q=Cerda) | N/A |
 | 46 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
 | 47 | [Carapaz](http://twitter.com/search?q=Carapaz) | N/A |
 | 48 | [un año yuleria](http://twitter.com/search?q=un+a%c3%b1o+yuleria) | N/A |
 | 49 | [Jacobo](http://twitter.com/search?q=Jacobo) | N/A |
-| 50 | [Viejas](http://twitter.com/search?q=Viejas) | N/A |
+| 50 | [viejas](http://twitter.com/search?q=viejas) | N/A |
 
 
 
