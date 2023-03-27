@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-27 18:19:06 UTC`
+📆 Last Updated: `2023-03-27 19:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 2 | [Maicelo](http://twitter.com/search?q=Maicelo) | N/A |
-| 3 | [Makanaky](http://twitter.com/search?q=Makanaky) | N/A |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [Makanaky](http://twitter.com/search?q=Makanaky) | N/A |
+| 3 | [Maicelo](http://twitter.com/search?q=Maicelo) | N/A |
 | 4 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 5 | [Influencer](http://twitter.com/search?q=Influencer) | N/A |
-| 6 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 7 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
-| 8 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 9 | [Shimabukuro](http://twitter.com/search?q=Shimabukuro) | N/A |
-| 10 | [Grau](http://twitter.com/search?q=Grau) | N/A |
-| 11 | [#thedreamshow2_in_peru](http://twitter.com/search?q=%23thedreamshow2_in_peru) | N/A |
-| 12 | [#MEin3Days](http://twitter.com/search?q=%23MEin3Days) | N/A |
-| 13 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 14 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 15 | [Miguez](http://twitter.com/search?q=Miguez) | N/A |
-| 16 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 17 | [oslimg mora](http://twitter.com/search?q=oslimg+mora) | N/A |
-| 18 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 19 | [Zanelatto](http://twitter.com/search?q=Zanelatto) | N/A |
-| 20 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 21 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
-| 22 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 23 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
-| 24 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 25 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 5 | [Grau](http://twitter.com/search?q=Grau) | N/A |
+| 6 | [Shimabukuro](http://twitter.com/search?q=Shimabukuro) | N/A |
+| 7 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 8 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 9 | [Influencer](http://twitter.com/search?q=Influencer) | N/A |
+| 10 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 11 | [oslimg mora](http://twitter.com/search?q=oslimg+mora) | N/A |
+| 12 | [Zanelatto](http://twitter.com/search?q=Zanelatto) | N/A |
+| 13 | [Pecho](http://twitter.com/search?q=Pecho) | N/A |
+| 14 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 15 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 16 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 17 | [Miguez](http://twitter.com/search?q=Miguez) | N/A |
+| 18 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
+| 19 | [Tavara](http://twitter.com/search?q=Tavara) | N/A |
+| 20 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 21 | [ESSALUD](http://twitter.com/search?q=ESSALUD) | N/A |
+| 22 | [#OO_LI_PROJECT_WOODZ_IN_PERU](http://twitter.com/search?q=%23OO_LI_PROJECT_WOODZ_IN_PERU) | N/A |
+| 23 | [#PuntoFinal](http://twitter.com/search?q=%23PuntoFinal) | N/A |
+| 24 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 25 | [Fiscal](http://twitter.com/search?q=Fiscal) | N/A |
 | 26 | [Job 2](http://twitter.com/search?q=Job+2) | N/A |
-| 27 | [Tavara](http://twitter.com/search?q=Tavara) | N/A |
-| 28 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 27 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 28 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
 | 29 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 30 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 31 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 32 | [EsSalud](http://twitter.com/search?q=EsSalud) | N/A |
+| 30 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 31 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
+| 32 | [Mujica](http://twitter.com/search?q=Mujica) | Mujica is a Spanish surname. It is derived from the Latin word "mucia," which means "soft." In English, the name Mujica can be translated to mean "gentle" or "tender." |
 | 33 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 34 | [Mujica](http://twitter.com/search?q=Mujica) | Mujica is a Spanish surname. It is derived from the Latin word "mucia," which means "soft." In English, the name Mujica can be translated to mean "gentle" or "tender." |
-| 35 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 36 | [Tarma](http://twitter.com/search?q=Tarma) | N/A |
-| 37 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 38 | [molivoleibol](http://twitter.com/search?q=molivoleibol) | N/A |
-| 39 | [Abram](http://twitter.com/search?q=Abram) | N/A |
-| 40 | [Bernal](http://twitter.com/search?q=Bernal) | N/A |
-| 41 | [Patricia Benavides](http://twitter.com/search?q=Patricia+Benavides) | N/A |
-| 42 | [lnsv](http://twitter.com/search?q=lnsv) | N/A |
+| 34 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 35 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
+| 36 | [Patricia Benavides](http://twitter.com/search?q=Patricia+Benavides) | N/A |
+| 37 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 38 | [Tarma](http://twitter.com/search?q=Tarma) | N/A |
+| 39 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 40 | [molivoleibol](http://twitter.com/search?q=molivoleibol) | N/A |
+| 41 | [Abram](http://twitter.com/search?q=Abram) | N/A |
+| 42 | [Bernal](http://twitter.com/search?q=Bernal) | N/A |
 | 43 | [Alianza](http://twitter.com/search?q=Alianza) | N/A |
-| 44 | [Alberto Otárola](http://twitter.com/search?q=Alberto+Ot%c3%a1rola) | N/A |
+| 44 | [lnsv](http://twitter.com/search?q=lnsv) | N/A |
 | 45 | [Presidenciable](http://twitter.com/search?q=Presidenciable) | N/A |
 | 46 | [Vilchez](http://twitter.com/search?q=Vilchez) | N/A |
 | 47 | [Cueva](http://twitter.com/search?q=Cueva) | N/A |
 | 48 | [Tesis](http://twitter.com/search?q=Tesis) | N/A |
-| 49 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
-| 50 | [Perú Libre](http://twitter.com/search?q=Per%c3%ba+Libre) | N/A |
+| 49 | [Perú Libre](http://twitter.com/search?q=Per%c3%ba+Libre) | N/A |
+| 50 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
 
 
 

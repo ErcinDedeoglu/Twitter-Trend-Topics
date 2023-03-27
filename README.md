@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-27 18:18:53 UTC`
+📆 Last Updated: `2023-03-27 19:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 2 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 3 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 4 | [#cnann](http://twitter.com/search?q=%23cnann) | #cnann is an acronym for "Ceann Comhairle" which is a title given to the presiding officer of the Irish Dáil (lower house of parliament). In English, it translates to "Chairman of the House". |
-| 5 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 6 | [#SanaSöz](http://twitter.com/search?q=%23SanaS%c3%b6z) | N/A |
-| 7 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
-| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 9 | [#schoolshooting](http://twitter.com/search?q=%23schoolshooting) | N/A |
-| 10 | [#すきすきワンワン](http://twitter.com/search?q=%23%e3%81%99%e3%81%8d%e3%81%99%e3%81%8d%e3%83%af%e3%83%b3%e3%83%af%e3%83%b3) | #すきすきワンワン is an expression used to express love and affection for someone or something. It is often used as a hashtag on social media. In English, it can be translated to "I love you so much!" |
-| 11 | [Torbada DenklikMüjdesi](http://twitter.com/search?q=Torbada+DenklikM%c3%bcjdesi) | N/A |
-| 12 | [Bombacı Terörist](http://twitter.com/search?q=Bombac%c4%b1+Ter%c3%b6rist) | N/A |
+| 2 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
+| 5 | [#SanaSöz](http://twitter.com/search?q=%23SanaS%c3%b6z) | N/A |
+| 6 | [#RamazandaOkuyoruz](http://twitter.com/search?q=%23RamazandaOkuyoruz) | N/A |
+| 7 | [Torbada DenklikMüjdesi](http://twitter.com/search?q=Torbada+DenklikM%c3%bcjdesi) | N/A |
+| 8 | [#MemuraRefahZammı](http://twitter.com/search?q=%23MemuraRefahZamm%c4%b1) | N/A |
+| 9 | [#فوازير_غازي_الذيابي3](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a3) | N/A |
+| 10 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 11 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 12 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 13 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 14 | [heize](http://twitter.com/search?q=heize) | N/A |
-| 15 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 16 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 17 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 18 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 19 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 20 | [コタくん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%8f%e3%82%93) | コタくん is a character from the Japanese manga series, Kochikame. He is a police officer who works in the Tokyo Metropolitan Police Department's Kameari Branch. His name is derived from the Japanese word for police officer, "Kōta". In English, his name can be translated to "Officer Kota". |
-| 21 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 22 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 23 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
-| 24 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 25 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 26 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
-| 27 | [Still With You](http://twitter.com/search?q=Still+With+You) | N/A |
-| 28 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 29 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
-| 30 | [トレパク](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%91%e3%82%af) | N/A |
-| 31 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
-| 32 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
-| 33 | [JK LIVE](http://twitter.com/search?q=JK+LIVE) | JK LIVE is a Japanese streaming service that allows users to watch live broadcasts of events, concerts, and other entertainment. The acronym stands for "Japan Kansai Live", referring to the Kansai region of Japan where the service is based. |
-| 34 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 35 | [MeclisKapanmadan Afİstiyoruz](http://twitter.com/search?q=MeclisKapanmadan+Af%c4%b0stiyoruz) | N/A |
-| 36 | [Joseph Paintsil](http://twitter.com/search?q=Joseph+Paintsil) | N/A |
-| 37 | [eショップ](http://twitter.com/search?q=e%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
-| 38 | [エンジンブレーキ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%83%b3%e3%83%96%e3%83%ac%e3%83%bc%e3%82%ad) | N/A |
-| 39 | [Ashimeru](http://twitter.com/search?q=Ashimeru) | N/A |
-| 40 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
-| 41 | [حسن الصبحان](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d8%a8%d8%ad%d8%a7%d9%86) | N/A |
-| 42 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
-| 43 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
-| 44 | [Bukari](http://twitter.com/search?q=Bukari) | N/A |
-| 45 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 46 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
-| 47 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
-| 48 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 49 | [Alausí](http://twitter.com/search?q=Alaus%c3%ad) | N/A |
-| 50 | [Super Eagles](http://twitter.com/search?q=Super+Eagles) | N/A |
+| 14 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 15 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 16 | [Bombacı Terörist](http://twitter.com/search?q=Bombac%c4%b1+Ter%c3%b6rist) | N/A |
+| 17 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 18 | [YTGelirUzmanınaAdalet](http://twitter.com/search?q=YTGelirUzman%c4%b1naAdalet) | N/A |
+| 19 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 20 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 21 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
+| 22 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 23 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 24 | [heize](http://twitter.com/search?q=heize) | N/A |
+| 25 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 26 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
+| 27 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 28 | [Buğra Kim](http://twitter.com/search?q=Bu%c4%9fra+Kim) | N/A |
+| 29 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 30 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 31 | [حسن الصبحان](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b5%d8%a8%d8%ad%d8%a7%d9%86) | N/A |
+| 32 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 33 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 34 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
+| 35 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 36 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
+| 37 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
+| 38 | [Starxo](http://twitter.com/search?q=Starxo) | N/A |
+| 39 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 40 | [コタくん](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%81%8f%e3%82%93) | コタくん is a character from the Japanese manga series, Kochikame. He is a police officer who works in the Tokyo Metropolitan Police Department's Kameari Branch. His name is derived from the Japanese word for police officer, "Kōta". In English, his name can be translated to "Officer Kota". |
+| 41 | [Nubians](http://twitter.com/search?q=Nubians) | N/A |
+| 42 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 43 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
+| 44 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 45 | [Christian School](http://twitter.com/search?q=Christian+School) | N/A |
+| 46 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
+| 47 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
+| 48 | [Garin](http://twitter.com/search?q=Garin) | N/A |
+| 49 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 50 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
 
 
 

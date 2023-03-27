@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-27 18:19:46 UTC`
+📆 Last Updated: `2023-03-27 19:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
-| 2 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
-| 3 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 4 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 6 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 9 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 10 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
-| 11 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 12 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 13 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
-| 14 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 15 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
-| 16 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
-| 17 | [#BanAssaultWeapons](http://twitter.com/search?q=%23BanAssaultWeapons) | N/A |
-| 18 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
-| 19 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 20 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
-| 21 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 22 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
-| 23 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 24 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 25 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 26 | [Christian School](http://twitter.com/search?q=Christian+School) | N/A |
-| 27 | [heize](http://twitter.com/search?q=heize) | N/A |
-| 28 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 29 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
-| 30 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
-| 31 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
-| 32 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 33 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 34 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 35 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
-| 36 | [Marsha Blackburn](http://twitter.com/search?q=Marsha+Blackburn) | N/A |
-| 37 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 38 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
-| 39 | [Tanner Houck](http://twitter.com/search?q=Tanner+Houck) | N/A |
-| 40 | [Questlove](http://twitter.com/search?q=Questlove) | N/A |
-| 41 | [Bill Lee](http://twitter.com/search?q=Bill+Lee) | N/A |
-| 42 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 43 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 44 | [3 Children](http://twitter.com/search?q=3+Children) | N/A |
-| 45 | [Huntley](http://twitter.com/search?q=Huntley) | Huntley is a surname of English origin. It is derived from the Old English words "hunta" meaning hunter and "leah" meaning clearing or meadow. The name was originally given to someone who lived in or near a hunting ground. |
-| 46 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 1 | [Browns](http://twitter.com/search?q=Browns) | Browns is a term used to refer to people with brown skin, usually of African or Latin American descent. It is also sometimes used as a slang term for people of mixed race. |
+| 2 | [Super Bowl](http://twitter.com/search?q=Super+Bowl) | Super Bowl is the annual championship game of the National Football League (NFL) in the United States. It is the culmination of a regular season that begins in the late summer of the previous calendar year. The game is played between the champions of the NFC and AFC conferences, and is one of the most watched sporting events in the world. The winner receives the Vince Lombardi Trophy, named after legendary NFL coach Vince Lombardi. |
+| 3 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 4 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 5 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 6 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 7 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 8 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 11 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 12 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 13 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
+| 14 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 15 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
+| 16 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 17 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 18 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
+| 19 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
+| 20 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 21 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 22 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
+| 23 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 24 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 25 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 26 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
+| 27 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 28 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 29 | [Christian School](http://twitter.com/search?q=Christian+School) | N/A |
+| 30 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
+| 31 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
+| 32 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
+| 33 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 34 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 35 | [Umps](http://twitter.com/search?q=Umps) | N/A |
+| 36 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
+| 37 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
+| 38 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 39 | [She's 28](http://twitter.com/search?q=She%27s+28) | N/A |
+| 40 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
+| 41 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 42 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
+| 43 | [Bill Lee](http://twitter.com/search?q=Bill+Lee) | N/A |
+| 44 | [Andy Ogles](http://twitter.com/search?q=Andy+Ogles) | N/A |
+| 45 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 46 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
 | 47 | [Only in America](http://twitter.com/search?q=Only+in+America) | N/A |
-| 48 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
-| 49 | [Flacco](http://twitter.com/search?q=Flacco) | Flacco is a nickname for Joe Flacco, an American football quarterback who currently plays for the New York Jets. The name is derived from his last name and is used as a term of endearment by his fans. In English, it means "beloved Joe Flacco". |
-| 50 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
+| 48 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 49 | [heize](http://twitter.com/search?q=heize) | N/A |
+| 50 | [Umpires](http://twitter.com/search?q=Umpires) | N/A |
 
 
 

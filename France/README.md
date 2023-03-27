@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-27 18:19:59 UTC`
+📆 Last Updated: `2023-03-27 19:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NIGALG](http://twitter.com/search?q=%23NIGALG) | N/A |
-| 2 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 1 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
+| 2 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 3 | [#mariageeliduswag](http://twitter.com/search?q=%23mariageeliduswag) | N/A |
-| 4 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 5 | [DEEBOT X1e OMNI](http://twitter.com/search?q=DEEBOT+X1e+OMNI) | N/A |
-| 6 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 7 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 8 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 9 | [Chaibi](http://twitter.com/search?q=Chaibi) | N/A |
-| 10 | [Bounedjah](http://twitter.com/search?q=Bounedjah) | N/A |
-| 11 | [Fiché S](http://twitter.com/search?q=Fich%c3%a9+S) | N/A |
-| 12 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 13 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 14 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
-| 17 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 18 | [Jonathan Clauss](http://twitter.com/search?q=Jonathan+Clauss) | N/A |
-| 19 | [Tour Eiffel](http://twitter.com/search?q=Tour+Eiffel) | N/A |
-| 20 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 21 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
-| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 23 | [Chauffe](http://twitter.com/search?q=Chauffe) | N/A |
-| 24 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 25 | [Raffarin](http://twitter.com/search?q=Raffarin) | N/A |
-| 26 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
-| 27 | [Motta](http://twitter.com/search?q=Motta) | N/A |
-| 28 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 29 | [Louvre](http://twitter.com/search?q=Louvre) | N/A |
-| 30 | [Bouffe](http://twitter.com/search?q=Bouffe) | N/A |
-| 31 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 32 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 33 | [Tondelier](http://twitter.com/search?q=Tondelier) | N/A |
-| 34 | [Khali](http://twitter.com/search?q=Khali) | N/A |
-| 35 | [#FrandroidOffreMoi](http://twitter.com/search?q=%23FrandroidOffreMoi) | N/A |
-| 36 | [#SnekiLundi](http://twitter.com/search?q=%23SnekiLundi) | N/A |
-| 37 | [#SoutienMehdi](http://twitter.com/search?q=%23SoutienMehdi) | N/A |
-| 38 | [#Top5Winamax](http://twitter.com/search?q=%23Top5Winamax) | N/A |
-| 39 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 40 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 41 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
-| 42 | [#CDISCOUNTMISSIONMARS](http://twitter.com/search?q=%23CDISCOUNTMISSIONMARS) | N/A |
-| 43 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
-| 44 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
-| 45 | [#sainte_soline](http://twitter.com/search?q=%23sainte_soline) | N/A |
-| 46 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
-| 47 | [#BRAV_M](http://twitter.com/search?q=%23BRAV_M) | N/A |
-| 48 | [#SPME2023](http://twitter.com/search?q=%23SPME2023) | N/A |
-| 49 | [#EURO2024Qualifiers](http://twitter.com/search?q=%23EURO2024Qualifiers) | N/A |
-| 50 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 4 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
+| 5 | [ALLEZ LES BLEUS](http://twitter.com/search?q=ALLEZ+LES+BLEUS) | N/A |
+| 6 | [#FRAIRL](http://twitter.com/search?q=%23FRAIRL) | N/A |
+| 7 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 8 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 9 | [DEEBOT X1e OMNI](http://twitter.com/search?q=DEEBOT+X1e+OMNI) | N/A |
+| 10 | [Kolo](http://twitter.com/search?q=Kolo) | N/A |
+| 11 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 12 | [Fiché S](http://twitter.com/search?q=Fich%c3%a9+S) | N/A |
+| 13 | [Irlande](http://twitter.com/search?q=Irlande) | N/A |
+| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 15 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 16 | [Bounedjah](http://twitter.com/search?q=Bounedjah) | N/A |
+| 17 | [Chaibi](http://twitter.com/search?q=Chaibi) | N/A |
+| 18 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
+| 19 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 20 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
+| 21 | [Denver](http://twitter.com/search?q=Denver) | Denver is the capital and most populous city of the U.S. state of Colorado. It is located in the South Platte River Valley on the western edge of the High Plains just east of the Front Range of the Rocky Mountains. The name Denver is derived from an old French term meaning "green valley". |
+| 22 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 23 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 24 | [Hadjam](http://twitter.com/search?q=Hadjam) | N/A |
+| 25 | [Jonathan Clauss](http://twitter.com/search?q=Jonathan+Clauss) | N/A |
+| 26 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 27 | [Tour Eiffel](http://twitter.com/search?q=Tour+Eiffel) | N/A |
+| 28 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 29 | [Chauffe](http://twitter.com/search?q=Chauffe) | N/A |
+| 30 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 31 | [Skriniar](http://twitter.com/search?q=Skriniar) | Skriniar is a surname of Slovak origin. It is derived from the word skrin, which means "cupboard" or "wardrobe". In English, the name Skriniar can be translated to mean "one who comes from a cupboard". |
+| 32 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 33 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 35 | [Louvre](http://twitter.com/search?q=Louvre) | N/A |
+| 36 | [Raffarin](http://twitter.com/search?q=Raffarin) | N/A |
+| 37 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 38 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 39 | [Tondelier](http://twitter.com/search?q=Tondelier) | N/A |
+| 40 | [Khali](http://twitter.com/search?q=Khali) | N/A |
+| 41 | [#NIGALG](http://twitter.com/search?q=%23NIGALG) | N/A |
+| 42 | [#FrandroidOffreMoi](http://twitter.com/search?q=%23FrandroidOffreMoi) | N/A |
+| 43 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 44 | [#SnekiLundi](http://twitter.com/search?q=%23SnekiLundi) | N/A |
+| 45 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
+| 46 | [#SoutienMehdi](http://twitter.com/search?q=%23SoutienMehdi) | N/A |
+| 47 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 48 | [#sainte_soline](http://twitter.com/search?q=%23sainte_soline) | N/A |
+| 49 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
+| 50 | [#CDISCOUNTMISSIONMARS](http://twitter.com/search?q=%23CDISCOUNTMISSIONMARS) | N/A |
 
 
 

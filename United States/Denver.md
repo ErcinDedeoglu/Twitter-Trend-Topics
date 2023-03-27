@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-27 18:19:47 UTC`
+📆 Last Updated: `2023-03-27 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 2 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 3 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
-| 4 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 6 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 9 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 10 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
-| 11 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 12 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 13 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
-| 14 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 15 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
-| 16 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
-| 17 | [#BanAssaultWeapons](http://twitter.com/search?q=%23BanAssaultWeapons) | N/A |
-| 18 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
-| 19 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
-| 20 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 21 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
-| 22 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 23 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 24 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 25 | [Christian School](http://twitter.com/search?q=Christian+School) | N/A |
-| 26 | [heize](http://twitter.com/search?q=heize) | N/A |
-| 27 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 28 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
-| 29 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
-| 30 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
-| 31 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 32 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 33 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 34 | [Harbaugh](http://twitter.com/search?q=Harbaugh) | Harbaugh is a surname of German origin. It is derived from the German words "harb" meaning "army" and "berg" meaning "mountain". The name can be translated to mean "army mountain". |
-| 35 | [Marsha Blackburn](http://twitter.com/search?q=Marsha+Blackburn) | N/A |
-| 36 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 37 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
-| 38 | [Tanner Houck](http://twitter.com/search?q=Tanner+Houck) | N/A |
-| 39 | [Questlove](http://twitter.com/search?q=Questlove) | N/A |
-| 40 | [Bill Lee](http://twitter.com/search?q=Bill+Lee) | N/A |
-| 41 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 42 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 43 | [3 Children](http://twitter.com/search?q=3+Children) | N/A |
-| 44 | [Huntley](http://twitter.com/search?q=Huntley) | Huntley is a surname of English origin. It is derived from the Old English words "hunta" meaning hunter and "leah" meaning clearing or meadow. The name was originally given to someone who lived in or near a hunting ground. |
-| 45 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
-| 46 | [Only in America](http://twitter.com/search?q=Only+in+America) | N/A |
-| 47 | [iOS 16.4](http://twitter.com/search?q=iOS+16.4) | N/A |
-| 48 | [Flacco](http://twitter.com/search?q=Flacco) | Flacco is a nickname for Joe Flacco, an American football quarterback who currently plays for the New York Jets. The name is derived from his last name and is used as a term of endearment by his fans. In English, it means "beloved Joe Flacco". |
-| 49 | [Molly Shannon](http://twitter.com/search?q=Molly+Shannon) | N/A |
-| 50 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 1 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 2 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 3 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 5 | [#cowx](http://twitter.com/search?q=%23cowx) | N/A |
+| 6 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 7 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 8 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 11 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 12 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 13 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 14 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
+| 15 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 16 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
+| 17 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 18 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 19 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
+| 20 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
+| 21 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 22 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 23 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
+| 24 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
+| 25 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 26 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 27 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 28 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 29 | [Christian School](http://twitter.com/search?q=Christian+School) | N/A |
+| 30 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
+| 31 | [Green Hills](http://twitter.com/search?q=Green+Hills) | N/A |
+| 32 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
+| 33 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 34 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 35 | [Umps](http://twitter.com/search?q=Umps) | N/A |
+| 36 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 37 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
+| 38 | [Randy Rosenberg](http://twitter.com/search?q=Randy+Rosenberg) | N/A |
+| 39 | [She's 28](http://twitter.com/search?q=She%27s+28) | N/A |
+| 40 | [Biggest Regression](http://twitter.com/search?q=Biggest+Regression) | N/A |
+| 41 | [Colts](http://twitter.com/search?q=Colts) | Colts is a term used to refer to a young male horse, usually under the age of four. It is derived from the Latin word "coltus," which means "young horse." |
+| 42 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
+| 43 | [Bill Lee](http://twitter.com/search?q=Bill+Lee) | N/A |
+| 44 | [Andy Ogles](http://twitter.com/search?q=Andy+Ogles) | N/A |
+| 45 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 46 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 47 | [Only in America](http://twitter.com/search?q=Only+in+America) | N/A |
+| 48 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 49 | [Armed](http://twitter.com/search?q=Armed) | N/A |
+| 50 | [heize](http://twitter.com/search?q=heize) | N/A |
 
 
 

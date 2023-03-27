@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-27 18:19:21 UTC`
+📆 Last Updated: `2023-03-27 19:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 8 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
 | 9 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
 | 10 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 11 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 12 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 11 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 12 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
 | 13 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
 | 14 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
-| 15 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 15 | [Alat](http://twitter.com/search?q=Alat) | N/A |
 | 16 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
 | 17 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 18 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 19 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 20 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 21 | [Neyl](http://twitter.com/search?q=Neyl) | N/A |
-| 22 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 18 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 19 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 20 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 21 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 22 | [Neyl](http://twitter.com/search?q=Neyl) | N/A |
 | 23 | [London](http://twitter.com/search?q=London) | N/A |
-| 24 | [Want Skintific](http://twitter.com/search?q=Want+Skintific) | N/A |
-| 25 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 26 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 24 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 25 | [Want Skintific](http://twitter.com/search?q=Want+Skintific) | N/A |
+| 26 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
 | 27 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
-| 28 | [haechan you did great](http://twitter.com/search?q=haechan+you+did+great) | N/A |
-| 29 | [besok senin](http://twitter.com/search?q=besok+senin) | N/A |
-| 30 | [stop kriminalisasi helmut](http://twitter.com/search?q=stop+kriminalisasi+helmut) | N/A |
-| 31 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
-| 32 | [happy birthday xiumin](http://twitter.com/search?q=happy+birthday+xiumin) | N/A |
-| 33 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
-| 34 | [Anies Sandi](http://twitter.com/search?q=Anies+Sandi) | N/A |
-| 35 | [TREASURE IN JAPAN](http://twitter.com/search?q=TREASURE+IN+JAPAN) | N/A |
-| 36 | [semua lawan dbd](http://twitter.com/search?q=semua+lawan+dbd) | N/A |
-| 37 | [MYEONZART IS COMING](http://twitter.com/search?q=MYEONZART+IS+COMING) | N/A |
-| 38 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
-| 39 | [MAP OF RMs SOUL](http://twitter.com/search?q=MAP+OF+RMs+SOUL) | N/A |
-| 40 | [BELUM DEWASA](http://twitter.com/search?q=BELUM+DEWASA) | N/A |
-| 41 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 42 | [Pakin](http://twitter.com/search?q=Pakin) | N/A |
-| 43 | [Unhamil](http://twitter.com/search?q=Unhamil) | N/A |
+| 28 | [Salma](http://twitter.com/search?q=Salma) | Salma is a female given name of Arabic origin, meaning "peaceful". |
+| 29 | [haechan you did great](http://twitter.com/search?q=haechan+you+did+great) | N/A |
+| 30 | [besok senin](http://twitter.com/search?q=besok+senin) | N/A |
+| 31 | [stop kriminalisasi helmut](http://twitter.com/search?q=stop+kriminalisasi+helmut) | N/A |
+| 32 | [KAJJ](http://twitter.com/search?q=KAJJ) | N/A |
+| 33 | [happy birthday xiumin](http://twitter.com/search?q=happy+birthday+xiumin) | N/A |
+| 34 | [JISOO LYRIC POSTER](http://twitter.com/search?q=JISOO+LYRIC+POSTER) | N/A |
+| 35 | [anies sandi](http://twitter.com/search?q=anies+sandi) | N/A |
+| 36 | [treasure in japan](http://twitter.com/search?q=treasure+in+japan) | N/A |
+| 37 | [semua lawan dbd](http://twitter.com/search?q=semua+lawan+dbd) | N/A |
+| 38 | [BELUM DEWASA](http://twitter.com/search?q=BELUM+DEWASA) | N/A |
+| 39 | [MYEONZART IS COMING](http://twitter.com/search?q=MYEONZART+IS+COMING) | N/A |
+| 40 | [Manggarai](http://twitter.com/search?q=Manggarai) | N/A |
+| 41 | [MAP OF RMs SOUL](http://twitter.com/search?q=MAP+OF+RMs+SOUL) | N/A |
+| 42 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 43 | [Pakin](http://twitter.com/search?q=Pakin) | N/A |
 | 44 | [Salonpas](http://twitter.com/search?q=Salonpas) | N/A |
-| 45 | [Aamiin Ya Allah](http://twitter.com/search?q=Aamiin+Ya+Allah) | N/A |
-| 46 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 47 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 48 | [SarawatTine](http://twitter.com/search?q=SarawatTine) | N/A |
+| 45 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 46 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
+| 47 | [Aamiin Ya Allah](http://twitter.com/search?q=Aamiin+Ya+Allah) | N/A |
+| 48 | [Cancel](http://twitter.com/search?q=Cancel) | Cancel is an English verb meaning to call off or stop something that has been planned or arranged. It can also mean to invalidate or make something void. |
 
 
 

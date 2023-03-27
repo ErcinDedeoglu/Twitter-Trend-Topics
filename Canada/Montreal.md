@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-03-27 18:18:54 UTC`
+📆 Last Updated: `2023-03-27 19:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 2 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 3 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
-| 6 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 7 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 8 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 10 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 11 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 13 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 1 | [#Nashville](http://twitter.com/search?q=%23Nashville) | N/A |
+| 2 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 5 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 6 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 7 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 8 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 9 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 10 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 12 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
+| 13 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
 | 14 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 15 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 16 | [Dvorak](http://twitter.com/search?q=Dvorak) | N/A |
-| 17 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 20 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
-| 21 | [Global](http://twitter.com/search?q=Global) | N/A |
-| 22 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 23 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 24 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 25 | [Isobel Cup](http://twitter.com/search?q=Isobel+Cup) | N/A |
-| 26 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 27 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
-| 28 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 29 | [Brett Ryan](http://twitter.com/search?q=Brett+Ryan) | N/A |
-| 30 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
-| 31 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 32 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 33 | [Avenged Sevenfold](http://twitter.com/search?q=Avenged+Sevenfold) | N/A |
-| 34 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
-| 35 | [Waco](http://twitter.com/search?q=Waco) | N/A |
-| 36 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 37 | [BMO Field](http://twitter.com/search?q=BMO+Field) | N/A |
-| 38 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 39 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 40 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 41 | [Travis Jordan](http://twitter.com/search?q=Travis+Jordan) | N/A |
-| 42 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 43 | [Santé Québec](http://twitter.com/search?q=Sant%c3%a9+Qu%c3%a9bec) | N/A |
-| 44 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
-| 45 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 46 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 47 | [Jack Edwards](http://twitter.com/search?q=Jack+Edwards) | N/A |
+| 15 | [America](http://twitter.com/search?q=America) | N/A |
+| 16 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 17 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 18 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 19 | [Dvorak](http://twitter.com/search?q=Dvorak) | N/A |
+| 20 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 21 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 22 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 24 | [Multiversus](http://twitter.com/search?q=Multiversus) | N/A |
+| 25 | [Brett Ryan](http://twitter.com/search?q=Brett+Ryan) | N/A |
+| 26 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 27 | [Travis Jordan](http://twitter.com/search?q=Travis+Jordan) | N/A |
+| 28 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
+| 29 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 30 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 31 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 32 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 33 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 34 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
+| 35 | [Covenant School](http://twitter.com/search?q=Covenant+School) | N/A |
+| 36 | [Caitlin Clark](http://twitter.com/search?q=Caitlin+Clark) | Caitlin Clark is a female given name. It is derived from the Irish name Caitlín, which is a diminutive form of the name Caitríona, meaning "pure". |
+| 37 | [Waco](http://twitter.com/search?q=Waco) | N/A |
+| 38 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 39 | [Isobel Cup](http://twitter.com/search?q=Isobel+Cup) | N/A |
+| 40 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 41 | [BMO Field](http://twitter.com/search?q=BMO+Field) | N/A |
+| 42 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 43 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 44 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 45 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 46 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 47 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
 | 48 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 49 | [Shiv](http://twitter.com/search?q=Shiv) | N/A |
-| 50 | [Sarah Fischer](http://twitter.com/search?q=Sarah+Fischer) | N/A |
+| 49 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 50 | [Don Cherry](http://twitter.com/search?q=Don+Cherry) | N/A |
 
 
 
