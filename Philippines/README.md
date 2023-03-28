@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-28 10:17:56 UTC`
+📆 Last Updated: `2023-03-28 11:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
-| 2 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 5 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 6 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
-| 7 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 8 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 9 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 10 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
-| 11 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 12 | [#THESHOW_MCXIAOJUN](http://twitter.com/search?q=%23THESHOW_MCXIAOJUN) | N/A |
-| 13 | [GGMovieSoon WithDONNY](http://twitter.com/search?q=GGMovieSoon+WithDONNY) | N/A |
-| 14 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 15 | [me tracklist](http://twitter.com/search?q=me+tracklist) | N/A |
-| 16 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 17 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
-| 18 | [KomChadLuek IDF](http://twitter.com/search?q=KomChadLuek+IDF) | N/A |
-| 19 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 20 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 21 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
-| 22 | [MC XIAOJUN THE FIRST SHOW](http://twitter.com/search?q=MC+XIAOJUN+THE+FIRST+SHOW) | N/A |
-| 23 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 24 | [G-DRAGON BMW XM AMBASSADOR](http://twitter.com/search?q=G-DRAGON+BMW+XM+AMBASSADOR) | N/A |
-| 25 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 26 | [Morente](http://twitter.com/search?q=Morente) | N/A |
-| 27 | [Dmac](http://twitter.com/search?q=Dmac) | N/A |
-| 28 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
-| 29 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 30 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
-| 31 | [ItsALASpecialDay WithNuebe](http://twitter.com/search?q=ItsALASpecialDay+WithNuebe) | N/A |
-| 32 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 33 | [Baron](http://twitter.com/search?q=Baron) | N/A |
-| 34 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
-| 35 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 36 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 37 | [PIENakaBlessed JEREVI](http://twitter.com/search?q=PIENakaBlessed+JEREVI) | N/A |
-| 38 | [rachelle ann](http://twitter.com/search?q=rachelle+ann) | N/A |
-| 39 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 40 | [Kianna](http://twitter.com/search?q=Kianna) | N/A |
-| 41 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 42 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 43 | [ONE VIBRENT MONTH](http://twitter.com/search?q=ONE+VIBRENT+MONTH) | N/A |
-| 44 | [Dolly de Leon](http://twitter.com/search?q=Dolly+de+Leon) | N/A |
-| 45 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 46 | [Happy Birthday Lazada](http://twitter.com/search?q=Happy+Birthday+Lazada) | N/A |
-| 47 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
-| 48 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 49 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
-| 50 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
+| 1 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 2 | [#KCLawardsxFreenBecky](http://twitter.com/search?q=%23KCLawardsxFreenBecky) | N/A |
+| 3 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 4 | [#SB19EventGuestingsVlog](http://twitter.com/search?q=%23SB19EventGuestingsVlog) | N/A |
+| 5 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
+| 6 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 7 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 8 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 9 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 10 | [KomChadLuek IDF](http://twitter.com/search?q=KomChadLuek+IDF) | N/A |
+| 11 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
+| 12 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 13 | [Congratulations F2](http://twitter.com/search?q=Congratulations+F2) | N/A |
+| 14 | [#PVLFinalsGame2](http://twitter.com/search?q=%23PVLFinalsGame2) | N/A |
+| 15 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
+| 16 | [MC XIAOJUN THE FIRST SHOW](http://twitter.com/search?q=MC+XIAOJUN+THE+FIRST+SHOW) | N/A |
+| 17 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 18 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 19 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 20 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
+| 21 | [G-DRAGON BMW XM AMBASSADOR](http://twitter.com/search?q=G-DRAGON+BMW+XM+AMBASSADOR) | N/A |
+| 22 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
+| 23 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 24 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 25 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
+| 26 | [Duterte](http://twitter.com/search?q=Duterte) | N/A |
+| 27 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 28 | [#THESHOW_MCXIAOJUN](http://twitter.com/search?q=%23THESHOW_MCXIAOJUN) | N/A |
+| 29 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
+| 30 | [#YML_Rhythm](http://twitter.com/search?q=%23YML_Rhythm) | N/A |
+| 31 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
+| 32 | [#BamBam](http://twitter.com/search?q=%23BamBam) | N/A |
+| 33 | [#143YesMyLove](http://twitter.com/search?q=%23143YesMyLove) | N/A |
+| 34 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 35 | [#GDRAGONxBMWKOREA](http://twitter.com/search?q=%23GDRAGONxBMWKOREA) | N/A |
+| 36 | [#SB19Spotify190Million](http://twitter.com/search?q=%23SB19Spotify190Million) | N/A |
+| 37 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 38 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 39 | [#BIGBANG](http://twitter.com/search?q=%23BIGBANG) | #BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name "BIGBANG" is derived from the English phrase "big bang theory," which refers to the idea that the universe was created in a single massive explosion. In English, #BIGBANG means a large and powerful force or event that has a major impact on something. |
+| 40 | [#GeminiFourth](http://twitter.com/search?q=%23GeminiFourth) | N/A |
+| 41 | [#BOYCOTTEBxAPTxGMA748](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA748) | N/A |
+| 42 | [#BarDaInvestorsLoveISHIN](http://twitter.com/search?q=%23BarDaInvestorsLoveISHIN) | N/A |
 
 
 

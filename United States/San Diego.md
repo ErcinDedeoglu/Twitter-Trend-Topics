@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-28 10:17:48 UTC`
+📆 Last Updated: `2023-03-28 11:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 2 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 3 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 4 | [#Wordle647](http://twitter.com/search?q=%23Wordle647) | N/A |
-| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 6 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 7 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 1 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 2 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 3 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 4 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 5 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 7 | [#Wordle647](http://twitter.com/search?q=%23Wordle647) | N/A |
+| 8 | [For You](http://twitter.com/search?q=For+You) | N/A |
 | 9 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
 | 10 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 11 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
-| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 13 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 14 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 15 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 16 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 17 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
-| 18 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 19 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 20 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 21 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 22 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 23 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 24 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 25 | [Apple Music Classical](http://twitter.com/search?q=Apple+Music+Classical) | N/A |
-| 26 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 27 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 28 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 29 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 30 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 31 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 32 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 33 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 34 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 35 | [Stormblood](http://twitter.com/search?q=Stormblood) | N/A |
-| 36 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 37 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 38 | [Bewitched](http://twitter.com/search?q=Bewitched) | N/A |
-| 39 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 40 | [Transgenderism](http://twitter.com/search?q=Transgenderism) | N/A |
-| 41 | [SSRIs](http://twitter.com/search?q=SSRIs) | N/A |
-| 42 | [Post 4](http://twitter.com/search?q=Post+4) | N/A |
-| 43 | [Immanuel Quickley](http://twitter.com/search?q=Immanuel+Quickley) | N/A |
-| 44 | [Newsweek](http://twitter.com/search?q=Newsweek) | N/A |
-| 45 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 46 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 47 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
-| 48 | [#ForeverGiant](http://twitter.com/search?q=%23ForeverGiant) | N/A |
-| 49 | [#TransTerrorism](http://twitter.com/search?q=%23TransTerrorism) | N/A |
-| 50 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 11 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 12 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 13 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 14 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 15 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 16 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
+| 17 | [Armed](http://twitter.com/search?q=Armed) | N/A |
+| 18 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 19 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 20 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
+| 21 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 22 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 23 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
+| 24 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
+| 25 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 26 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 27 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 28 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 29 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 30 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 31 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 32 | [Demonic](http://twitter.com/search?q=Demonic) | N/A |
+| 33 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 34 | [Colorado Springs](http://twitter.com/search?q=Colorado+Springs) | N/A |
+| 35 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 36 | [Stormblood](http://twitter.com/search?q=Stormblood) | N/A |
+| 37 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 38 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 39 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
+| 40 | [#GOPGunsOverPeople](http://twitter.com/search?q=%23GOPGunsOverPeople) | N/A |
+| 41 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 42 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 43 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
+| 44 | [#TransTerrorism](http://twitter.com/search?q=%23TransTerrorism) | N/A |
+| 45 | [#ForeverGiant](http://twitter.com/search?q=%23ForeverGiant) | N/A |
+| 46 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 47 | [#summerhouse](http://twitter.com/search?q=%23summerhouse) | N/A |
+| 48 | [#StrayKidsinFortWorth](http://twitter.com/search?q=%23StrayKidsinFortWorth) | N/A |
 
 
 

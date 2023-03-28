@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-28 10:17:53 UTC`
+📆 Last Updated: `2023-03-28 11:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Santis](http://twitter.com/search?q=Santis) | N/A |
+| 1 | [santis](http://twitter.com/search?q=santis) | N/A |
 | 2 | [Guate](http://twitter.com/search?q=Guate) | N/A |
 | 3 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
 | 4 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
@@ -33,16 +33,16 @@ This is top 50 for Guatemala
 | 16 | [rubio rubin](http://twitter.com/search?q=rubio+rubin) | N/A |
 | 17 | [sammy morales](http://twitter.com/search?q=sammy+morales) | N/A |
 | 18 | [Sele](http://twitter.com/search?q=Sele) | N/A |
-| 19 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
+| 19 | [mixco](http://twitter.com/search?q=mixco) | N/A |
 | 20 | [quinto domingo de cuaresma](http://twitter.com/search?q=quinto+domingo+de+cuaresma) | N/A |
 | 21 | [doroteo guamuch flores](http://twitter.com/search?q=doroteo+guamuch+flores) | N/A |
-| 22 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 23 | [massiel carrillo](http://twitter.com/search?q=massiel+carrillo) | N/A |
-| 24 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 25 | [Copa América](http://twitter.com/search?q=Copa+Am%c3%a9rica) | Copa América is the oldest international continental football competition in the world. It is an event organized by CONMEBOL, the South American Football Confederation, and it is held every four years. The tournament features teams from all 10 South American countries, as well as two invited teams from other confederations. The name Copa América translates to "America Cup" in English. |
-| 26 | [semilla](http://twitter.com/search?q=semilla) | N/A |
-| 27 | [#EleccionesGT](http://twitter.com/search?q=%23EleccionesGT) | N/A |
-| 28 | [#votadiferente](http://twitter.com/search?q=%23votadiferente) | N/A |
+| 22 | [massiel carrillo](http://twitter.com/search?q=massiel+carrillo) | N/A |
+| 23 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 24 | [Copa América](http://twitter.com/search?q=Copa+Am%c3%a9rica) | Copa América is the oldest international continental football competition in the world. It is an event organized by CONMEBOL, the South American Football Confederation, and it is held every four years. The tournament features teams from all 10 South American countries, as well as two invited teams from other confederations. The name Copa América translates to "America Cup" in English. |
+| 25 | [semilla](http://twitter.com/search?q=semilla) | N/A |
+| 26 | [#eleccionesgt](http://twitter.com/search?q=%23eleccionesgt) | N/A |
+| 27 | [#votadiferente](http://twitter.com/search?q=%23votadiferente) | N/A |
+| 28 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 | 29 | [#NationsLeague](http://twitter.com/search?q=%23NationsLeague) | N/A |
 | 30 | [aniquiladores](http://twitter.com/search?q=aniquiladores) | N/A |
 | 31 | [contaminación](http://twitter.com/search?q=contaminaci%c3%b3n) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Guatemala
 | 36 | [taxisco](http://twitter.com/search?q=taxisco) | N/A |
 | 37 | [carlos pineda](http://twitter.com/search?q=carlos+pineda) | N/A |
 | 38 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 39 | [sirviendo](http://twitter.com/search?q=sirviendo) | N/A |
+| 39 | [SIRVIENDO](http://twitter.com/search?q=SIRVIENDO) | N/A |
 | 40 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 41 | [48 cantones](http://twitter.com/search?q=48+cantones) | N/A |
 | 42 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |

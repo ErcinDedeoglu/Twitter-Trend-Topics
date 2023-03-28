@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sapporo
 
-📆 Last Updated: `2023-03-28 10:17:22 UTC`
+📆 Last Updated: `2023-03-28 11:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [トラジャ](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%b8%e3%83%a3) | トラジャ is a Japanese word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult to deal with or an obstacle that needs to be overcome. |
-| 2 | [クロスデュエル](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%82%b9%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
-| 3 | [#鈴木絢音卒業セレモニー](http://twitter.com/search?q=%23%e9%88%b4%e6%9c%a8%e7%b5%a2%e9%9f%b3%e5%8d%92%e6%a5%ad%e3%82%bb%e3%83%ac%e3%83%a2%e3%83%8b%e3%83%bc) | N/A |
-| 4 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
-| 5 | [#節約のためにやめたもの](http://twitter.com/search?q=%23%e7%af%80%e7%b4%84%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab%e3%82%84%e3%82%81%e3%81%9f%e3%82%82%e3%81%ae) | N/A |
-| 6 | [#ブルーバースデー生配信](http://twitter.com/search?q=%23%e3%83%96%e3%83%ab%e3%83%bc%e3%83%90%e3%83%bc%e3%82%b9%e3%83%87%e3%83%bc%e7%94%9f%e9%85%8d%e4%bf%a1) | #ブルーバースデー生配信 is a hashtag used on social media in Japan to promote live streaming events for birthdays. In English, it translates to "Live Streaming Birthday". |
-| 7 | [#ジャンプチ5周年](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97%e3%83%815%e5%91%a8%e5%b9%b4) | N/A |
-| 8 | [#ジャンプチ検定](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97%e3%83%81%e6%a4%9c%e5%ae%9a) | N/A |
-| 9 | [回答時間](http://twitter.com/search?q=%e5%9b%9e%e7%ad%94%e6%99%82%e9%96%93) | N/A |
-| 10 | [鎌田ボランチ](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
-| 11 | [カシーフ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
-| 12 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
-| 13 | [コンフュージョンUR](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%95%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3UR) | N/A |
-| 14 | [保津川下り](http://twitter.com/search?q=%e4%bf%9d%e6%b4%a5%e5%b7%9d%e4%b8%8b%e3%82%8a) | N/A |
-| 15 | [ステアラ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9) | N/A |
-| 16 | [ジャイガ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%ac) | N/A |
-| 17 | [青森県東方沖](http://twitter.com/search?q=%e9%9d%92%e6%a3%ae%e7%9c%8c%e6%9d%b1%e6%96%b9%e6%b2%96) | N/A |
-| 18 | [海面変動](http://twitter.com/search?q=%e6%b5%b7%e9%9d%a2%e5%a4%89%e5%8b%95) | 海面変動 is a Japanese term that refers to changes in sea level. It literally translates to "sea surface variation" in English. |
-| 19 | [Sakuちゃん](http://twitter.com/search?q=Saku%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 20 | [原くんのブログ](http://twitter.com/search?q=%e5%8e%9f%e3%81%8f%e3%82%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0) | N/A |
-| 21 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
-| 22 | [ジャルジャル](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%ab) | N/A |
-| 23 | [投票機能](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%a9%9f%e8%83%bd) | N/A |
-| 24 | [町野スタメン](http://twitter.com/search?q=%e7%94%ba%e9%87%8e%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 25 | [レコーディング](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 26 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
-| 27 | [キャンドゥ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%82%a5) | N/A |
-| 28 | [M6.1](http://twitter.com/search?q=M6.1) | N/A |
-| 29 | [生姜の絵文字](http://twitter.com/search?q=%e7%94%9f%e5%a7%9c%e3%81%ae%e7%b5%b5%e6%96%87%e5%ad%97) | N/A |
-| 30 | [BOYS PLANET/안무](http://twitter.com/search?q=BOYS+PLANET%2f%ec%95%88%eb%ac%b4) | N/A |
-| 31 | [船頭さん](http://twitter.com/search?q=%e8%88%b9%e9%a0%ad%e3%81%95%e3%82%93) | N/A |
-| 32 | [コロンビア](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2) | N/A |
-| 33 | [バーイベ](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%a4%e3%83%99) | N/A |
-| 34 | [ニビルセット](http://twitter.com/search?q=%e3%83%8b%e3%83%93%e3%83%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
-| 35 | [カオスマンション](http://twitter.com/search?q=%e3%82%ab%e3%82%aa%e3%82%b9%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 36 | [アーカルム外伝](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%ab%e3%83%ab%e3%83%a0%e5%a4%96%e4%bc%9d) | N/A |
-| 37 | [龍谷大平安](http://twitter.com/search?q=%e9%be%8d%e8%b0%b7%e5%a4%a7%e5%b9%b3%e5%ae%89) | N/A |
-| 38 | [ヨドコウ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%82%b3%e3%82%a6) | N/A |
-| 39 | [西村スタメン](http://twitter.com/search?q=%e8%a5%bf%e6%9d%91%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 40 | [ベジテパラ](http://twitter.com/search?q=%e3%83%99%e3%82%b8%e3%83%86%e3%83%91%e3%83%a9) | N/A |
-| 41 | [タッグフォース](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%82%b0%e3%83%95%e3%82%a9%e3%83%bc%e3%82%b9) | N/A |
-| 42 | [グランギニョル](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%82%ae%e3%83%8b%e3%83%a7%e3%83%ab) | N/A |
-| 43 | [津波予報](http://twitter.com/search?q=%e6%b4%a5%e6%b3%a2%e4%ba%88%e5%a0%b1) | 津波予報 is a Japanese term that translates to "tsunami warning". It is an alert issued by the Japan Meteorological Agency when a tsunami is expected to occur in the near future. |
-| 44 | [チャイナカンフー](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%82%a4%e3%83%8a%e3%82%ab%e3%83%b3%e3%83%95%e3%83%bc) | N/A |
-| 45 | [金属バット](http://twitter.com/search?q=%e9%87%91%e5%b1%9e%e3%83%90%e3%83%83%e3%83%88) | 金属バット (kinzoku batto) is a metal bat, typically made of aluminum or other metal alloys. It is used in baseball and softball as a hitting tool. |
-| 46 | [ハメスベンチ外](http://twitter.com/search?q=%e3%83%8f%e3%83%a1%e3%82%b9%e3%83%99%e3%83%b3%e3%83%81%e5%a4%96) | N/A |
-| 47 | [北海道地震](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%9c%b0%e9%9c%87) | N/A |
-| 48 | [アンケート機能](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%82%b1%e3%83%bc%e3%83%88%e6%a9%9f%e8%83%bd) | N/A |
-| 49 | [MAO RINK](http://twitter.com/search?q=MAO+RINK) | N/A |
-| 50 | [ファルカオ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e3%82%ab%e3%82%aa) | N/A |
+| 2 | [EXILE](http://twitter.com/search?q=EXILE) | EXILE is the state of being forced to leave one's home country or region, usually for political or punitive reasons. It can also refer to the period of time during which a person is in exile. In English, the word "exile" has come to mean both the act of being forced out of one's home and the state of living away from it. |
+| 3 | [エスコン](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%b3%e3%83%b3) | N/A |
+| 4 | [コロンビア](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2) | N/A |
+| 5 | [#サッカー日本代表](http://twitter.com/search?q=%23%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e6%97%a5%e6%9c%ac%e4%bb%a3%e8%a1%a8) | N/A |
+| 6 | [#鈴木絢音卒業セレモニー](http://twitter.com/search?q=%23%e9%88%b4%e6%9c%a8%e7%b5%a2%e9%9f%b3%e5%8d%92%e6%a5%ad%e3%82%bb%e3%83%ac%e3%83%a2%e3%83%8b%e3%83%bc) | N/A |
+| 7 | [ヘディング](http://twitter.com/search?q=%e3%83%98%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | ヘディング is a Japanese word that means "heading" in English. It is used to refer to the title or heading of a document, article, or other written work. |
+| 8 | [クロスデュエル](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%82%b9%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
+| 9 | [カシーフ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
+| 10 | [バングーナガンデ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%82%b0%e3%83%bc%e3%83%8a%e3%82%ac%e3%83%b3%e3%83%87) | N/A |
+| 11 | [デュラン](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%a9%e3%83%b3) | N/A |
+| 12 | [三笘さん](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%95%e3%82%93) | 三笘さん is a Japanese phrase that literally translates to "Mr. Three Plates." It is used as a term of endearment for someone who is kind and generous. |
+| 13 | [#キリンチャレンジカップ](http://twitter.com/search?q=%23%e3%82%ad%e3%83%aa%e3%83%b3%e3%83%81%e3%83%a3%e3%83%ac%e3%83%b3%e3%82%b8%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 14 | [鎌田ボランチ](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
+| 15 | [#桃鈴ねね誕生日2023](http://twitter.com/search?q=%23%e6%a1%83%e9%88%b4%e3%81%ad%e3%81%ad%e8%aa%95%e7%94%9f%e6%97%a52023) | N/A |
+| 16 | [#節約のためにやめたもの](http://twitter.com/search?q=%23%e7%af%80%e7%b4%84%e3%81%ae%e3%81%9f%e3%82%81%e3%81%ab%e3%82%84%e3%82%81%e3%81%9f%e3%82%82%e3%81%ae) | N/A |
+| 17 | [ファルカオ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e3%82%ab%e3%82%aa) | N/A |
+| 18 | [シュミット](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%9f%e3%83%83%e3%83%88) | N/A |
+| 19 | [ヨドコウ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%82%b3%e3%82%a6) | N/A |
+| 20 | [ジャイガ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%ac) | N/A |
+| 21 | [アナスターシャ](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | N/A |
+| 22 | [日本先制](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%85%88%e5%88%b6) | N/A |
+| 23 | [コントラ](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%88%e3%83%a9) | N/A |
+| 24 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
+| 25 | [アナザーシエテ](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%b6%e3%83%bc%e3%82%b7%e3%82%a8%e3%83%86) | N/A |
+| 26 | [バブさん](http://twitter.com/search?q=%e3%83%90%e3%83%96%e3%81%95%e3%82%93) | N/A |
+| 27 | [三笘のゴール](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%ae%e3%82%b4%e3%83%bc%e3%83%ab) | 三笘のゴール is a Japanese proverb that literally translates to "three pieces of wood make a goal". It is used to express the idea that with the right combination of effort and resources, even difficult tasks can be accomplished. |
+| 28 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
+| 29 | [最後のシ者](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e3%82%b7%e8%80%85) | N/A |
+| 30 | [ジャルジャル](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%ab) | N/A |
+| 31 | [コンフュージョンUR](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%95%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3UR) | N/A |
+| 32 | [回答時間](http://twitter.com/search?q=%e5%9b%9e%e7%ad%94%e6%99%82%e9%96%93) | N/A |
+| 33 | [アウェイユニ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%82%a7%e3%82%a4%e3%83%a6%e3%83%8b) | N/A |
+| 34 | [ステアラ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9) | N/A |
+| 35 | [三苫さん](http://twitter.com/search?q=%e4%b8%89%e8%8b%ab%e3%81%95%e3%82%93) | 三苫さん (Mitsumune-san) is a Japanese term of endearment used to refer to someone who is close to you, such as a friend or family member. It can be translated into English as "dear" or "sweetheart". |
+| 36 | [許斐先生](http://twitter.com/search?q=%e8%a8%b1%e6%96%90%e5%85%88%e7%94%9f) | N/A |
+| 37 | [保津川下り](http://twitter.com/search?q=%e4%bf%9d%e6%b4%a5%e5%b7%9d%e4%b8%8b%e3%82%8a) | N/A |
+| 38 | [板倉キャプテン](http://twitter.com/search?q=%e6%9d%bf%e5%80%89%e3%82%ad%e3%83%a3%e3%83%97%e3%83%86%e3%83%b3) | N/A |
+| 39 | [原くんのブログ](http://twitter.com/search?q=%e5%8e%9f%e3%81%8f%e3%82%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0) | N/A |
+| 40 | [伊東純也](http://twitter.com/search?q=%e4%bc%8a%e6%9d%b1%e7%b4%94%e4%b9%9f) | N/A |
+| 41 | [通りすがりのマダム](http://twitter.com/search?q=%e9%80%9a%e3%82%8a%e3%81%99%e3%81%8c%e3%82%8a%e3%81%ae%e3%83%9e%e3%83%80%e3%83%a0) | N/A |
+| 42 | [レコーディング](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 43 | [伊藤洋輝](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e6%b4%8b%e8%bc%9d) | N/A |
+| 44 | [キャンドゥ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%82%a5) | N/A |
+| 45 | [青森県東方沖](http://twitter.com/search?q=%e9%9d%92%e6%a3%ae%e7%9c%8c%e6%9d%b1%e6%96%b9%e6%b2%96) | N/A |
+| 46 | [守田のクロス](http://twitter.com/search?q=%e5%ae%88%e7%94%b0%e3%81%ae%e3%82%af%e3%83%ad%e3%82%b9) | N/A |
+| 47 | [ベンチ外](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%83%81%e5%a4%96) | N/A |
+| 48 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
+| 49 | [三笘くん](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%8f%e3%82%93) | N/A |
+| 50 | [海面変動](http://twitter.com/search?q=%e6%b5%b7%e9%9d%a2%e5%a4%89%e5%8b%95) | 海面変動 is a Japanese term that refers to changes in sea level. It literally translates to "sea surface variation" in English. |
 
 
 

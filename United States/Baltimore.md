@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-03-28 10:17:41 UTC`
+📆 Last Updated: `2023-03-28 11:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 2 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 3 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 4 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 5 | [#Wordle647](http://twitter.com/search?q=%23Wordle647) | N/A |
-| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 7 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 8 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 10 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
-| 11 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 12 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
-| 13 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 14 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 15 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 16 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 17 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 18 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
-| 19 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 20 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 21 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 22 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 23 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 24 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 25 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 26 | [Apple Music Classical](http://twitter.com/search?q=Apple+Music+Classical) | N/A |
-| 27 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 28 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 29 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 30 | [Assault](http://twitter.com/search?q=Assault) | N/A |
-| 31 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 32 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 33 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 34 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 35 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 36 | [Stormblood](http://twitter.com/search?q=Stormblood) | N/A |
-| 37 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 38 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 39 | [Bewitched](http://twitter.com/search?q=Bewitched) | N/A |
-| 40 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 41 | [SSRIs](http://twitter.com/search?q=SSRIs) | N/A |
-| 42 | [Post 4](http://twitter.com/search?q=Post+4) | N/A |
-| 43 | [Immanuel Quickley](http://twitter.com/search?q=Immanuel+Quickley) | N/A |
-| 44 | [Newsweek](http://twitter.com/search?q=Newsweek) | N/A |
-| 45 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 46 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
-| 47 | [#ForeverGiant](http://twitter.com/search?q=%23ForeverGiant) | N/A |
-| 48 | [#TransTerrorism](http://twitter.com/search?q=%23TransTerrorism) | N/A |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 2 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 3 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 4 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 5 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 6 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 7 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
+| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 9 | [#Wordle647](http://twitter.com/search?q=%23Wordle647) | N/A |
+| 10 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 11 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
+| 12 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 13 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 14 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 15 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 16 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 17 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 18 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
+| 19 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 20 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 21 | [Armed](http://twitter.com/search?q=Armed) | N/A |
+| 22 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
+| 23 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 24 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 25 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
+| 26 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
+| 27 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 28 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 29 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 30 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 31 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 32 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 33 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 34 | [Demonic](http://twitter.com/search?q=Demonic) | N/A |
+| 35 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 36 | [Colorado Springs](http://twitter.com/search?q=Colorado+Springs) | N/A |
+| 37 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 38 | [Stormblood](http://twitter.com/search?q=Stormblood) | N/A |
+| 39 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 40 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 41 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 42 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
+| 43 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 44 | [#TransTerrorism](http://twitter.com/search?q=%23TransTerrorism) | N/A |
+| 45 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
+| 46 | [#ForeverGiant](http://twitter.com/search?q=%23ForeverGiant) | N/A |
+| 47 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 48 | [#summerhouse](http://twitter.com/search?q=%23summerhouse) | N/A |
 
 
 

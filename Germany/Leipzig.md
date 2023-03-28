@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-28 10:17:13 UTC`
+📆 Last Updated: `2023-03-28 11:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 1 | [#mazilaunch](http://twitter.com/search?q=%23mazilaunch) | N/A |
 | 2 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
-| 3 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
-| 4 | [#KlimaMachtwort](http://twitter.com/search?q=%23KlimaMachtwort) | N/A |
-| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 3 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
+| 4 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
+| 5 | [Volksentscheid](http://twitter.com/search?q=Volksentscheid) | N/A |
 | 6 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 7 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 8 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
 | 9 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 10 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 11 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 12 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 14 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 10 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 11 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 12 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 13 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 14 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 15 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 16 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 17 | ['Möbel'](http://twitter.com/search?q=%27M%c3%b6bel%27) | N/A |
-| 18 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 19 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 20 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
-| 21 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 22 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 23 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 24 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 27 | [Schönen Montag](http://twitter.com/search?q=Sch%c3%b6nen+Montag) | N/A |
-| 28 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 29 | [Umbruch](http://twitter.com/search?q=Umbruch) | N/A |
-| 30 | [Planet](http://twitter.com/search?q=Planet) | N/A |
-| 31 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 32 | ['schattenspiele'](http://twitter.com/search?q=%27schattenspiele%27) | N/A |
-| 33 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
-| 34 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 35 | [Milliardär](http://twitter.com/search?q=Milliard%c3%a4r) | N/A |
-| 36 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 37 | [Klamroth](http://twitter.com/search?q=Klamroth) | N/A |
-| 38 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 39 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
-| 40 | [Tilo](http://twitter.com/search?q=Tilo) | N/A |
-| 41 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
-| 42 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
-| 43 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 44 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 45 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 46 | [Öl- und Gasheizungen](http://twitter.com/search?q=%c3%96l-+und+Gasheizungen) | N/A |
-| 47 | [Nutzer](http://twitter.com/search?q=Nutzer) | N/A |
-| 48 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 16 | ['Möbel'](http://twitter.com/search?q=%27M%c3%b6bel%27) | N/A |
+| 17 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 18 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 19 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 21 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
+| 22 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
+| 23 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 24 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 25 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 27 | [Anschreiben](http://twitter.com/search?q=Anschreiben) | N/A |
+| 28 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 29 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 30 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 31 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 32 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 33 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 34 | ['schattenspiele'](http://twitter.com/search?q=%27schattenspiele%27) | N/A |
+| 35 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 36 | [Planet](http://twitter.com/search?q=Planet) | N/A |
+| 37 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
+| 38 | [Erbe](http://twitter.com/search?q=Erbe) | N/A |
+| 39 | [Klamroth](http://twitter.com/search?q=Klamroth) | N/A |
+| 40 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
+| 41 | [Milliardär](http://twitter.com/search?q=Milliard%c3%a4r) | N/A |
+| 42 | [Tilo](http://twitter.com/search?q=Tilo) | N/A |
+| 43 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 44 | [Betäubung](http://twitter.com/search?q=Bet%c3%a4ubung) | N/A |
+| 45 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 46 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 47 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 48 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
 | 49 | [Nein-Stimmen](http://twitter.com/search?q=Nein-Stimmen) | N/A |
 
 

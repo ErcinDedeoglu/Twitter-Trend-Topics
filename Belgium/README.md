@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-28 10:17:51 UTC`
+📆 Last Updated: `2023-03-28 11:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [sihame el kaouakibi](http://twitter.com/search?q=sihame+el+kaouakibi) | N/A |
-| 2 | [#NoFFA](http://twitter.com/search?q=%23NoFFA) | N/A |
-| 3 | [#NoFutureForAgrotoxics](http://twitter.com/search?q=%23NoFutureForAgrotoxics) | N/A |
-| 4 | [#ForumforAg](http://twitter.com/search?q=%23ForumforAg) | N/A |
-| 5 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 6 | [#bestemmingx](http://twitter.com/search?q=%23bestemmingx) | N/A |
-| 7 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 8 | [Vlaams Parlement](http://twitter.com/search?q=Vlaams+Parlement) | N/A |
-| 9 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 10 | [Mike Maignan](http://twitter.com/search?q=Mike+Maignan) | N/A |
-| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 12 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 13 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 14 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 2 | [#ForumforAg](http://twitter.com/search?q=%23ForumforAg) | N/A |
+| 3 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
+| 4 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 5 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 6 | [Vlaams Parlement](http://twitter.com/search?q=Vlaams+Parlement) | N/A |
+| 7 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 8 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 9 | [Mike Maignan](http://twitter.com/search?q=Mike+Maignan) | N/A |
+| 10 | [#NEDGIB](http://twitter.com/search?q=%23NEDGIB) | N/A |
+| 11 | [#NoFFA](http://twitter.com/search?q=%23NoFFA) | N/A |
+| 12 | [#AFIR](http://twitter.com/search?q=%23AFIR) | N/A |
+| 13 | [Wevelgem](http://twitter.com/search?q=Wevelgem) | N/A |
+| 14 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 15 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
 | 16 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 17 | [De Roma](http://twitter.com/search?q=De+Roma) | N/A |
-| 18 | [Dermine](http://twitter.com/search?q=Dermine) | N/A |
-| 19 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 20 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 21 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
-| 22 | [Vlaanderen](http://twitter.com/search?q=Vlaanderen) | N/A |
-| 23 | [commissioner](http://twitter.com/search?q=commissioner) | N/A |
-| 24 | [Somers](http://twitter.com/search?q=Somers) | N/A |
-| 25 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 26 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
-| 27 | [Justitie](http://twitter.com/search?q=Justitie) | N/A |
-| 28 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 29 | [Council](http://twitter.com/search?q=Council) | N/A |
-| 30 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
-| 31 | [Schotland](http://twitter.com/search?q=Schotland) | N/A |
-| 32 | [Antwerp](http://twitter.com/search?q=Antwerp) | N/A |
-| 33 | [Van Kooten](http://twitter.com/search?q=Van+Kooten) | N/A |
-| 34 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 35 | [🇪🇺](http://twitter.com/search?q=%f0%9f%87%aa%f0%9f%87%ba) | N/A |
-| 36 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 37 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
-| 38 | [Conny](http://twitter.com/search?q=Conny) | N/A |
-| 39 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 40 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 41 | [Rechters](http://twitter.com/search?q=Rechters) | N/A |
-| 42 | [Molenbeek](http://twitter.com/search?q=Molenbeek) | N/A |
-| 43 | [Thuis](http://twitter.com/search?q=Thuis) | N/A |
-| 44 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 45 | [Museeuw](http://twitter.com/search?q=Museeuw) | N/A |
-| 46 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 47 | [MEPs](http://twitter.com/search?q=MEPs) | N/A |
-| 48 | [États](http://twitter.com/search?q=%c3%89tats) | N/A |
-| 49 | [Zweden](http://twitter.com/search?q=Zweden) | N/A |
-| 50 | [Oekraïners](http://twitter.com/search?q=Oekra%c3%afners) | N/A |
+| 17 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 18 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 19 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 20 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
+| 21 | [Vlaanderen](http://twitter.com/search?q=Vlaanderen) | N/A |
+| 22 | [Council](http://twitter.com/search?q=Council) | N/A |
+| 23 | [Somers](http://twitter.com/search?q=Somers) | N/A |
+| 24 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
+| 25 | [La Belgique](http://twitter.com/search?q=La+Belgique) | N/A |
+| 26 | [Louise](http://twitter.com/search?q=Louise) | N/A |
+| 27 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 28 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 29 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
+| 30 | [Justitie](http://twitter.com/search?q=Justitie) | N/A |
+| 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 32 | [Schotland](http://twitter.com/search?q=Schotland) | N/A |
+| 33 | [MEPs](http://twitter.com/search?q=MEPs) | N/A |
+| 34 | [🇪🇺](http://twitter.com/search?q=%f0%9f%87%aa%f0%9f%87%ba) | N/A |
+| 35 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 36 | [Delhaize](http://twitter.com/search?q=Delhaize) | N/A |
+| 37 | [Conny](http://twitter.com/search?q=Conny) | N/A |
+| 38 | [Rechters](http://twitter.com/search?q=Rechters) | N/A |
+| 39 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 40 | [Molenbeek](http://twitter.com/search?q=Molenbeek) | N/A |
+| 41 | [Thuis](http://twitter.com/search?q=Thuis) | N/A |
+| 42 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 43 | [Antwerp](http://twitter.com/search?q=Antwerp) | N/A |
+| 44 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 45 | [Sterk](http://twitter.com/search?q=Sterk) | N/A |
+| 46 | [Famke](http://twitter.com/search?q=Famke) | N/A |
+| 47 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 48 | [Lavia](http://twitter.com/search?q=Lavia) | Lavia is a female given name of Latin origin, derived from the word "lavare" which means "to wash". It is often associated with purity and innocence. In English, Lavia can be translated to mean "pure one". |
+| 49 | [Freya](http://twitter.com/search?q=Freya) | N/A |
+| 50 | [Toos](http://twitter.com/search?q=Toos) | N/A |
 
 
 

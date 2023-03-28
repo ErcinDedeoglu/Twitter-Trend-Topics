@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-28 10:17:26 UTC`
+📆 Last Updated: `2023-03-28 11:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
-| 2 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 4 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 5 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 6 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
-| 7 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 8 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 9 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 10 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 11 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
-| 12 | [#BORNPINKinManila_BulacanD2](http://twitter.com/search?q=%23BORNPINKinManila_BulacanD2) | N/A |
-| 13 | [GGMovieSoon WithDONNY](http://twitter.com/search?q=GGMovieSoon+WithDONNY) | N/A |
-| 14 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 15 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 16 | [me tracklist](http://twitter.com/search?q=me+tracklist) | N/A |
-| 17 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 18 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
-| 19 | [MC XIAOJUN THE FIRST SHOW](http://twitter.com/search?q=MC+XIAOJUN+THE+FIRST+SHOW) | N/A |
-| 20 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
-| 21 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
-| 22 | [G-DRAGON BMW XM AMBASSADOR](http://twitter.com/search?q=G-DRAGON+BMW+XM+AMBASSADOR) | N/A |
-| 23 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 24 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 25 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
-| 26 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 27 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
-| 28 | [ItsALASpecialDay WithNuebe](http://twitter.com/search?q=ItsALASpecialDay+WithNuebe) | N/A |
-| 29 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 30 | [Morente](http://twitter.com/search?q=Morente) | N/A |
-| 31 | [Baron](http://twitter.com/search?q=Baron) | N/A |
-| 32 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
-| 33 | [rachelle ann](http://twitter.com/search?q=rachelle+ann) | N/A |
-| 34 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 35 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 36 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 37 | [PIENakaBlessed JEREVI](http://twitter.com/search?q=PIENakaBlessed+JEREVI) | N/A |
-| 38 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 39 | [Kianna](http://twitter.com/search?q=Kianna) | N/A |
-| 40 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 41 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 42 | [ONE VIBRENT MONTH](http://twitter.com/search?q=ONE+VIBRENT+MONTH) | N/A |
-| 43 | [Dolly de Leon](http://twitter.com/search?q=Dolly+de+Leon) | N/A |
-| 44 | [Happy Birthday Lazada](http://twitter.com/search?q=Happy+Birthday+Lazada) | N/A |
-| 45 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
-| 46 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 47 | [Sour & Sweet](http://twitter.com/search?q=Sour+%26+Sweet) | N/A |
-| 48 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 49 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
-| 50 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 1 | [Duterte](http://twitter.com/search?q=Duterte) | N/A |
+| 2 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 3 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 4 | [#KCLawardsxFreenBecky](http://twitter.com/search?q=%23KCLawardsxFreenBecky) | N/A |
+| 5 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 6 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 7 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
+| 8 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [#SB19EventGuestingsVlog](http://twitter.com/search?q=%23SB19EventGuestingsVlog) | N/A |
+| 11 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 12 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 13 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 14 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 15 | [Tyang](http://twitter.com/search?q=Tyang) | N/A |
+| 16 | [KomChadLuek IDF](http://twitter.com/search?q=KomChadLuek+IDF) | N/A |
+| 17 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
+| 18 | [Congratulations F2](http://twitter.com/search?q=Congratulations+F2) | N/A |
+| 19 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 20 | [YML RHYTHM MV OUTNOW](http://twitter.com/search?q=YML+RHYTHM+MV+OUTNOW) | N/A |
+| 21 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
+| 22 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
+| 23 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 24 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
+| 25 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
+| 26 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 27 | [G-DRAGON BMW XM AMBASSADOR](http://twitter.com/search?q=G-DRAGON+BMW+XM+AMBASSADOR) | N/A |
+| 28 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 29 | [GGMovieSoon WithDONNY](http://twitter.com/search?q=GGMovieSoon+WithDONNY) | N/A |
+| 30 | [F2 Logistics](http://twitter.com/search?q=F2+Logistics) | N/A |
+| 31 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 32 | [Morente](http://twitter.com/search?q=Morente) | N/A |
+| 33 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
+| 34 | [Myla](http://twitter.com/search?q=Myla) | N/A |
+| 35 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 36 | [WHAT IS LOVE](http://twitter.com/search?q=WHAT+IS+LOVE) | N/A |
+| 37 | [ItsALASpecialDay WithNuebe](http://twitter.com/search?q=ItsALASpecialDay+WithNuebe) | N/A |
+| 38 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
+| 39 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 40 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
+| 41 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 42 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 43 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 44 | [Coach Reg](http://twitter.com/search?q=Coach+Reg) | N/A |
+| 45 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 46 | [LET'S GO F2](http://twitter.com/search?q=LET%27S+GO+F2) | N/A |
+| 47 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 48 | [Supercharger](http://twitter.com/search?q=Supercharger) | N/A |
+| 49 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 50 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
 
 
 

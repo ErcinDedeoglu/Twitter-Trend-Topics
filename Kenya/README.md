@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-28 10:17:54 UTC`
+📆 Last Updated: `2023-03-28 11:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Kenya
 | 1 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
 | 2 | [#MaandamanoMondays](http://twitter.com/search?q=%23MaandamanoMondays) | N/A |
 | 3 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
-| 4 | [#Demonstrations](http://twitter.com/search?q=%23Demonstrations) | N/A |
-| 5 | [Kikuyus](http://twitter.com/search?q=Kikuyus) | N/A |
-| 6 | [Nubians](http://twitter.com/search?q=Nubians) | N/A |
-| 7 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 8 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 9 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 10 | [Weston](http://twitter.com/search?q=Weston) | N/A |
-| 11 | [#MrAndMissClimateKE](http://twitter.com/search?q=%23MrAndMissClimateKE) | N/A |
-| 12 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 13 | [gachagua](http://twitter.com/search?q=gachagua) | N/A |
-| 14 | [#HealingServiceInAbidjan](http://twitter.com/search?q=%23HealingServiceInAbidjan) | N/A |
-| 15 | [Mungiki](http://twitter.com/search?q=Mungiki) | N/A |
+| 4 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 5 | [#Demonstrations](http://twitter.com/search?q=%23Demonstrations) | N/A |
+| 6 | [Kikuyus](http://twitter.com/search?q=Kikuyus) | N/A |
+| 7 | [Nubians](http://twitter.com/search?q=Nubians) | N/A |
+| 8 | [#BestFishFarmersAwards](http://twitter.com/search?q=%23BestFishFarmersAwards) | N/A |
+| 9 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 10 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 11 | [Weston](http://twitter.com/search?q=Weston) | N/A |
+| 12 | [#MrAndMissClimateKE](http://twitter.com/search?q=%23MrAndMissClimateKE) | N/A |
+| 13 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
+| 14 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
+| 15 | [mungiki](http://twitter.com/search?q=mungiki) | N/A |
 | 16 | [Boniface Mwangi](http://twitter.com/search?q=Boniface+Mwangi) | N/A |
-| 17 | [Kawangware](http://twitter.com/search?q=Kawangware) | N/A |
-| 18 | [Ruiru](http://twitter.com/search?q=Ruiru) | N/A |
-| 19 | [Makau Mutua](http://twitter.com/search?q=Makau+Mutua) | N/A |
-| 20 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
-| 21 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 22 | [Koome](http://twitter.com/search?q=Koome) | N/A |
-| 23 | [Ruai](http://twitter.com/search?q=Ruai) | N/A |
-| 24 | [BeDigitallyFit Na Robisearch](http://twitter.com/search?q=BeDigitallyFit+Na+Robisearch) | N/A |
-| 25 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
-| 26 | [embu mega businessexpo](http://twitter.com/search?q=embu+mega+businessexpo) | N/A |
-| 27 | [Jayden](http://twitter.com/search?q=Jayden) | N/A |
-| 28 | [Kariobangi](http://twitter.com/search?q=Kariobangi) | N/A |
+| 17 | [Ruiru](http://twitter.com/search?q=Ruiru) | N/A |
+| 18 | [Kawangware](http://twitter.com/search?q=Kawangware) | N/A |
+| 19 | [Dialogue](http://twitter.com/search?q=Dialogue) | N/A |
+| 20 | [makau mutua](http://twitter.com/search?q=makau+mutua) | N/A |
+| 21 | [Koome](http://twitter.com/search?q=Koome) | N/A |
+| 22 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
+| 23 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 24 | [Ruai](http://twitter.com/search?q=Ruai) | N/A |
+| 25 | [BeDigitallyFit Na Robisearch](http://twitter.com/search?q=BeDigitallyFit+Na+Robisearch) | N/A |
+| 26 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 27 | [embu mega businessexpo](http://twitter.com/search?q=embu+mega+businessexpo) | N/A |
+| 28 | [Jayden](http://twitter.com/search?q=Jayden) | N/A |
 | 29 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
-| 30 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 30 | [Kariobangi](http://twitter.com/search?q=Kariobangi) | N/A |
 | 31 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 32 | [Goons](http://twitter.com/search?q=Goons) | N/A |
-| 33 | [Brookside](http://twitter.com/search?q=Brookside) | N/A |
-| 34 | [Kamakis](http://twitter.com/search?q=Kamakis) | N/A |
-| 35 | [Awasi](http://twitter.com/search?q=Awasi) | N/A |
-| 36 | [Anarchy](http://twitter.com/search?q=Anarchy) | N/A |
-| 37 | [Hague](http://twitter.com/search?q=Hague) | N/A |
-| 38 | [Gideon Moi](http://twitter.com/search?q=Gideon+Moi) | N/A |
-| 39 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
-| 40 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 41 | [Maguta Maguta](http://twitter.com/search?q=Maguta+Maguta) | N/A |
-| 42 | [Sossion](http://twitter.com/search?q=Sossion) | N/A |
-| 43 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 44 | [Sheep](http://twitter.com/search?q=Sheep) | N/A |
-| 45 | [Civil](http://twitter.com/search?q=Civil) | N/A |
-| 46 | [Jomo](http://twitter.com/search?q=Jomo) | N/A |
-| 47 | [waking](http://twitter.com/search?q=waking) | N/A |
-| 48 | [Cost of Living](http://twitter.com/search?q=Cost+of+Living) | N/A |
-| 49 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
-| 50 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 32 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 33 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
+| 34 | [Mosque](http://twitter.com/search?q=Mosque) | N/A |
+| 35 | [Goons](http://twitter.com/search?q=Goons) | N/A |
+| 36 | [Brookside](http://twitter.com/search?q=Brookside) | N/A |
+| 37 | [Kamakis](http://twitter.com/search?q=Kamakis) | N/A |
+| 38 | [Awasi](http://twitter.com/search?q=Awasi) | N/A |
+| 39 | [Anarchy](http://twitter.com/search?q=Anarchy) | N/A |
+| 40 | [Sossion](http://twitter.com/search?q=Sossion) | N/A |
+| 41 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
+| 42 | [Maguta Maguta](http://twitter.com/search?q=Maguta+Maguta) | N/A |
+| 43 | [Gideon Moi](http://twitter.com/search?q=Gideon+Moi) | N/A |
+| 44 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 45 | [State House](http://twitter.com/search?q=State+House) | N/A |
+| 46 | [Civil](http://twitter.com/search?q=Civil) | N/A |
+| 47 | [Jomo](http://twitter.com/search?q=Jomo) | N/A |
+| 48 | [Hague](http://twitter.com/search?q=Hague) | N/A |
+| 49 | [Luos](http://twitter.com/search?q=Luos) | N/A |
+| 50 | [Waking](http://twitter.com/search?q=Waking) | N/A |
 
 
 

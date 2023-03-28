@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-28 10:17:22 UTC`
+📆 Last Updated: `2023-03-28 11:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [エスコン](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%b3%e3%83%b3) | N/A |
-| 2 | [#情シスSlack](http://twitter.com/search?q=%23%e6%83%85%e3%82%b7%e3%82%b9Slack) | N/A |
-| 3 | [カラット棒](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%83%e3%83%88%e6%a3%92) | カラット棒 (karatto-bou) is a tool used to measure the weight of diamonds and other precious stones. It is a rod with notches of different sizes, each notch representing a specific carat weight. In English, it is known as a carat scale or carat balance. |
-| 4 | [地震のせい](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 5 | [アシマリ](http://twitter.com/search?q=%e3%82%a2%e3%82%b7%e3%83%9e%e3%83%aa) | N/A |
-| 6 | [ギルクラ](http://twitter.com/search?q=%e3%82%ae%e3%83%ab%e3%82%af%e3%83%a9) | N/A |
-| 7 | [#ふなっしートレイン](http://twitter.com/search?q=%23%e3%81%b5%e3%81%aa%e3%81%a3%e3%81%97%e3%83%bc%e3%83%88%e3%83%ac%e3%82%a4%e3%83%b3) | N/A |
-| 8 | [キャンジャニちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | キャンジャニちゃん is a character from the Japanese manga series, Kyou Kara Maou. The character's name is Yuuri Shibuya and he is a 15-year-old high school student who is chosen to be the new Maou (Demon King) of the Demon World. His nickname, "キャンジャニちゃん", is derived from his last name, Shibuya, which can be written as "しぶや" in Japanese. In English, it translates to "Shibuya-chan". |
-| 9 | [マグニチュード](http://twitter.com/search?q=%e3%83%9e%e3%82%b0%e3%83%8b%e3%83%81%e3%83%a5%e3%83%bc%e3%83%89) | N/A |
-| 10 | [とりの日](http://twitter.com/search?q=%e3%81%a8%e3%82%8a%e3%81%ae%e6%97%a5) | N/A |
-| 11 | [ずんだもん](http://twitter.com/search?q=%e3%81%9a%e3%82%93%e3%81%a0%e3%82%82%e3%82%93) | N/A |
-| 12 | [アニメガ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%ac) | N/A |
-| 13 | [DXTEEN](http://twitter.com/search?q=DXTEEN) | N/A |
-| 14 | [#山﨑賢人](http://twitter.com/search?q=%23%e5%b1%b1%ef%a8%91%e8%b3%a2%e4%ba%ba) | N/A |
-| 15 | [牛歩戦術](http://twitter.com/search?q=%e7%89%9b%e6%ad%a9%e6%88%a6%e8%a1%93) | N/A |
-| 16 | [ギガモン](http://twitter.com/search?q=%e3%82%ae%e3%82%ac%e3%83%a2%e3%83%b3) | N/A |
-| 17 | [シール希望](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%ab%e5%b8%8c%e6%9c%9b) | N/A |
-| 18 | [渡辺徹さん](http://twitter.com/search?q=%e6%b8%a1%e8%be%ba%e5%be%b9%e3%81%95%e3%82%93) | N/A |
-| 19 | [#ミナト町純情オセロ](http://twitter.com/search?q=%23%e3%83%9f%e3%83%8a%e3%83%88%e7%94%ba%e7%b4%94%e6%83%85%e3%82%aa%e3%82%bb%e3%83%ad) | N/A |
-| 20 | [クラゲの絵文字](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b2%e3%81%ae%e7%b5%b5%e6%96%87%e5%ad%97) | N/A |
-| 21 | [コーンロウ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%b3%e3%83%ad%e3%82%a6) | N/A |
-| 22 | [クロスデュエル](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%82%b9%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
-| 23 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
-| 24 | [回答時間](http://twitter.com/search?q=%e5%9b%9e%e7%ad%94%e6%99%82%e9%96%93) | N/A |
-| 25 | [鎌田ボランチ](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
-| 26 | [カシーフ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
-| 27 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
-| 28 | [コンフュージョンUR](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%95%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3UR) | N/A |
-| 29 | [保津川下り](http://twitter.com/search?q=%e4%bf%9d%e6%b4%a5%e5%b7%9d%e4%b8%8b%e3%82%8a) | N/A |
-| 30 | [ステアラ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9) | N/A |
-| 31 | [ジャイガ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%ac) | N/A |
-| 32 | [青森県東方沖](http://twitter.com/search?q=%e9%9d%92%e6%a3%ae%e7%9c%8c%e6%9d%b1%e6%96%b9%e6%b2%96) | N/A |
-| 33 | [海面変動](http://twitter.com/search?q=%e6%b5%b7%e9%9d%a2%e5%a4%89%e5%8b%95) | 海面変動 is a Japanese term that refers to changes in sea level. It literally translates to "sea surface variation" in English. |
-| 34 | [Sakuちゃん](http://twitter.com/search?q=Saku%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 35 | [原くんのブログ](http://twitter.com/search?q=%e5%8e%9f%e3%81%8f%e3%82%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0) | N/A |
-| 36 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
-| 37 | [ジャルジャル](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%ab) | N/A |
-| 38 | [投票機能](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%a9%9f%e8%83%bd) | N/A |
-| 39 | [町野スタメン](http://twitter.com/search?q=%e7%94%ba%e9%87%8e%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 40 | [レコーディング](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 41 | [キャンドゥ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%82%a5) | N/A |
-| 42 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
-| 43 | [M6.1](http://twitter.com/search?q=M6.1) | N/A |
-| 44 | [生姜の絵文字](http://twitter.com/search?q=%e7%94%9f%e5%a7%9c%e3%81%ae%e7%b5%b5%e6%96%87%e5%ad%97) | N/A |
-| 45 | [コロンビア](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2) | N/A |
-| 46 | [BOYS PLANET/안무](http://twitter.com/search?q=BOYS+PLANET%2f%ec%95%88%eb%ac%b4) | N/A |
-| 47 | [船頭さん](http://twitter.com/search?q=%e8%88%b9%e9%a0%ad%e3%81%95%e3%82%93) | N/A |
-| 48 | [バーイベ](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%a4%e3%83%99) | N/A |
-| 49 | [ニビルセット](http://twitter.com/search?q=%e3%83%8b%e3%83%93%e3%83%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
+| 1 | [#干し芋](http://twitter.com/search?q=%23%e5%b9%b2%e3%81%97%e8%8a%8b) | N/A |
+| 2 | [#マジンガーZ](http://twitter.com/search?q=%23%e3%83%9e%e3%82%b8%e3%83%b3%e3%82%ac%e3%83%bcZ) | N/A |
+| 3 | [チャイナ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%82%a4%e3%83%8a) | チャイナ is a Japanese word for China. It is derived from the Chinese pronunciation of the country's name, Zhōngguó. In English, it is often used as an informal way to refer to China. |
+| 4 | [カヲルくん](http://twitter.com/search?q=%e3%82%ab%e3%83%b2%e3%83%ab%e3%81%8f%e3%82%93) | N/A |
+| 5 | [#情シスSlack](http://twitter.com/search?q=%23%e6%83%85%e3%82%b7%e3%82%b9Slack) | N/A |
+| 6 | [西村スタメン](http://twitter.com/search?q=%e8%a5%bf%e6%9d%91%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 7 | [地震の影響](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e3%81%ae%e5%bd%b1%e9%9f%bf) | N/A |
+| 8 | [ひろみちお兄さん](http://twitter.com/search?q=%e3%81%b2%e3%82%8d%e3%81%bf%e3%81%a1%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
+| 9 | [#try1422](http://twitter.com/search?q=%23try1422) | N/A |
+| 10 | [ダンプラ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
+| 11 | [金属バット](http://twitter.com/search?q=%e9%87%91%e5%b1%9e%e3%83%90%e3%83%83%e3%83%88) | 金属バット (kinzoku batto) is a metal bat, typically made of aluminum or other metal alloys. It is used in baseball and softball as a hitting tool. |
+| 12 | [登場キャラ](http://twitter.com/search?q=%e7%99%bb%e5%a0%b4%e3%82%ad%e3%83%a3%e3%83%a9) | N/A |
+| 13 | [アナシエ](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%b7%e3%82%a8) | N/A |
+| 14 | [ニビルセット](http://twitter.com/search?q=%e3%83%8b%e3%83%93%e3%83%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
+| 15 | [Carat棒](http://twitter.com/search?q=Carat%e6%a3%92) | N/A |
+| 16 | [エスコン](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%b3%e3%83%b3) | N/A |
+| 17 | [コロンビア](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2) | N/A |
+| 18 | [ヘディング](http://twitter.com/search?q=%e3%83%98%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | ヘディング is a Japanese word that means "heading" in English. It is used to refer to the title or heading of a document, article, or other written work. |
+| 19 | [カシーフ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
+| 20 | [クロスデュエル](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%82%b9%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
+| 21 | [バングーナガンデ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%82%b0%e3%83%bc%e3%83%8a%e3%82%ac%e3%83%b3%e3%83%87) | N/A |
+| 22 | [デュラン](http://twitter.com/search?q=%e3%83%87%e3%83%a5%e3%83%a9%e3%83%b3) | N/A |
+| 23 | [三笘さん](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%95%e3%82%93) | 三笘さん is a Japanese phrase that literally translates to "Mr. Three Plates." It is used as a term of endearment for someone who is kind and generous. |
+| 24 | [鎌田ボランチ](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
+| 25 | [ファルカオ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e3%82%ab%e3%82%aa) | N/A |
+| 26 | [シュミット](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%9f%e3%83%83%e3%83%88) | N/A |
+| 27 | [ヨドコウ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%82%b3%e3%82%a6) | N/A |
+| 28 | [ジャイガ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%ac) | N/A |
+| 29 | [アナスターシャ](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | N/A |
+| 30 | [コントラ](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%88%e3%83%a9) | N/A |
+| 31 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
+| 32 | [アナザーシエテ](http://twitter.com/search?q=%e3%82%a2%e3%83%8a%e3%82%b6%e3%83%bc%e3%82%b7%e3%82%a8%e3%83%86) | N/A |
+| 33 | [日本先制](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e5%85%88%e5%88%b6) | N/A |
+| 34 | [バブさん](http://twitter.com/search?q=%e3%83%90%e3%83%96%e3%81%95%e3%82%93) | N/A |
+| 35 | [三笘のゴール](http://twitter.com/search?q=%e4%b8%89%e7%ac%98%e3%81%ae%e3%82%b4%e3%83%bc%e3%83%ab) | 三笘のゴール is a Japanese proverb that literally translates to "three pieces of wood make a goal". It is used to express the idea that with the right combination of effort and resources, even difficult tasks can be accomplished. |
+| 36 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
+| 37 | [最後のシ者](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e3%82%b7%e8%80%85) | N/A |
+| 38 | [ジャルジャル](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%ab) | N/A |
+| 39 | [コンフュージョンUR](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%95%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3UR) | N/A |
+| 40 | [回答時間](http://twitter.com/search?q=%e5%9b%9e%e7%ad%94%e6%99%82%e9%96%93) | N/A |
+| 41 | [アウェイユニ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%82%a7%e3%82%a4%e3%83%a6%e3%83%8b) | N/A |
+| 42 | [ステアラ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9) | N/A |
+| 43 | [許斐先生](http://twitter.com/search?q=%e8%a8%b1%e6%96%90%e5%85%88%e7%94%9f) | N/A |
+| 44 | [保津川下り](http://twitter.com/search?q=%e4%bf%9d%e6%b4%a5%e5%b7%9d%e4%b8%8b%e3%82%8a) | N/A |
+| 45 | [三苫さん](http://twitter.com/search?q=%e4%b8%89%e8%8b%ab%e3%81%95%e3%82%93) | 三苫さん (Mitsumune-san) is a Japanese term of endearment used to refer to someone who is close to you, such as a friend or family member. It can be translated into English as "dear" or "sweetheart". |
+| 46 | [板倉キャプテン](http://twitter.com/search?q=%e6%9d%bf%e5%80%89%e3%82%ad%e3%83%a3%e3%83%97%e3%83%86%e3%83%b3) | N/A |
+| 47 | [原くんのブログ](http://twitter.com/search?q=%e5%8e%9f%e3%81%8f%e3%82%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0) | N/A |
+| 48 | [伊東純也](http://twitter.com/search?q=%e4%bc%8a%e6%9d%b1%e7%b4%94%e4%b9%9f) | N/A |
+| 49 | [通りすがりのマダム](http://twitter.com/search?q=%e9%80%9a%e3%82%8a%e3%81%99%e3%81%8c%e3%82%8a%e3%81%ae%e3%83%9e%e3%83%80%e3%83%a0) | N/A |
 
 
 
