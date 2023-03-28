@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hulu Langat
 
-📆 Last Updated: `2023-03-28 05:17:56 UTC`
+📆 Last Updated: `2023-03-28 06:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,17 +23,17 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 6 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 7 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
 | 8 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 9 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 9 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
 | 10 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
 | 11 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
 | 12 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 13 | [jaemin black hair](http://twitter.com/search?q=jaemin+black+hair) | N/A |
+| 13 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
 | 14 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 15 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 16 | [PriceCatcher](http://twitter.com/search?q=PriceCatcher) | N/A |
-| 17 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
+| 15 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 16 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 17 | [PriceCatcher](http://twitter.com/search?q=PriceCatcher) | N/A |
 | 18 | [HEIZE](http://twitter.com/search?q=HEIZE) | N/A |
-| 19 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 19 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
 | 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 21 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
 | 22 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
@@ -42,27 +42,27 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 25 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
 | 26 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 27 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
-| 28 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 29 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
-| 30 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
-| 31 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
-| 32 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 33 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 28 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
+| 29 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 30 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
+| 31 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 32 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 33 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
 | 34 | [animoca](http://twitter.com/search?q=animoca) | N/A |
 | 35 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
-| 36 | [parking](http://twitter.com/search?q=parking) | N/A |
+| 36 | [Parking](http://twitter.com/search?q=Parking) | N/A |
 | 37 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
 | 38 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
 | 39 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
 | 40 | [beyour luve build](http://twitter.com/search?q=beyour+luve+build) | N/A |
-| 41 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 42 | [Lili](http://twitter.com/search?q=Lili) | N/A |
 | 43 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 44 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 45 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 46 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 47 | [Singaporeans](http://twitter.com/search?q=Singaporeans) | N/A |
-| 48 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
+| 45 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 46 | [minho](http://twitter.com/search?q=minho) | N/A |
+| 47 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
+| 48 | [Singaporeans](http://twitter.com/search?q=Singaporeans) | N/A |
 | 49 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 
 

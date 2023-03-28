@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-03-28 05:17:00 UTC`
+📆 Last Updated: `2023-03-28 06:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 2 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 3 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 4 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 6 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 7 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 2 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 3 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 5 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 6 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 7 | [For You](http://twitter.com/search?q=For+You) | N/A |
 | 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 9 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 12 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 13 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 14 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 15 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 16 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 17 | [Michael Pezzetta](http://twitter.com/search?q=Michael+Pezzetta) | N/A |
-| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 19 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 20 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [Tiger Williams](http://twitter.com/search?q=Tiger+Williams) | N/A |
-| 23 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 24 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 11 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 12 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 13 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 14 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 15 | [Michael Pezzetta](http://twitter.com/search?q=Michael+Pezzetta) | N/A |
+| 16 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 17 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 19 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 21 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 22 | [Travis Jordan](http://twitter.com/search?q=Travis+Jordan) | N/A |
+| 23 | [Brett Ryan](http://twitter.com/search?q=Brett+Ryan) | N/A |
+| 24 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
 | 25 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 26 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 27 | [Travis Jordan](http://twitter.com/search?q=Travis+Jordan) | N/A |
-| 28 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 29 | [Brett Ryan](http://twitter.com/search?q=Brett+Ryan) | N/A |
-| 30 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 31 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 32 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
-| 33 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
-| 34 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
-| 35 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 36 | [America](http://twitter.com/search?q=America) | N/A |
-| 37 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 38 | [joseph woll](http://twitter.com/search?q=joseph+woll) | N/A |
-| 39 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 40 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
-| 41 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 42 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 43 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
-| 44 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 45 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
-| 46 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 47 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
-| 48 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 50 | [Mullett Arena](http://twitter.com/search?q=Mullett+Arena) | N/A |
+| 26 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 27 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 28 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 29 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 30 | [America](http://twitter.com/search?q=America) | N/A |
+| 31 | [Tiger Williams](http://twitter.com/search?q=Tiger+Williams) | N/A |
+| 32 | [joseph woll](http://twitter.com/search?q=joseph+woll) | N/A |
+| 33 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 34 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
+| 35 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
+| 36 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
+| 37 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 38 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
+| 39 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 40 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 41 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 42 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 43 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 44 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 45 | [Mullett Arena](http://twitter.com/search?q=Mullett+Arena) | N/A |
+| 46 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 47 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
+| 48 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 49 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 50 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
 
 
 

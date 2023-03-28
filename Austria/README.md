@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-28 05:17:49 UTC`
+📆 Last Updated: `2023-03-28 06:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Austria
 | 4 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
 | 5 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
 | 6 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 7 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 7 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
 | 8 | [Pfefferspray](http://twitter.com/search?q=Pfefferspray) | N/A |
-| 9 | [Christian Deutsch](http://twitter.com/search?q=Christian+Deutsch) | N/A |
-| 10 | [stimmungsbild](http://twitter.com/search?q=stimmungsbild) | N/A |
-| 11 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 12 | [estland](http://twitter.com/search?q=estland) | N/A |
+| 9 | [Helga](http://twitter.com/search?q=Helga) | N/A |
+| 10 | [Christian Deutsch](http://twitter.com/search?q=Christian+Deutsch) | N/A |
+| 11 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 12 | [Stimmungsbild](http://twitter.com/search?q=Stimmungsbild) | N/A |
 | 13 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 16 | [Befragung](http://twitter.com/search?q=Befragung) | N/A |
-| 17 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 18 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 19 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
-| 20 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 21 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 22 | [statut](http://twitter.com/search?q=statut) | N/A |
-| 23 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
-| 24 | [dunst](http://twitter.com/search?q=dunst) | N/A |
-| 25 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 26 | [mitgliedsbeitrag](http://twitter.com/search?q=mitgliedsbeitrag) | N/A |
-| 27 | [Unterstützungserklärungen](http://twitter.com/search?q=Unterst%c3%bctzungserkl%c3%a4rungen) | N/A |
-| 28 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 29 | [Bundesgeschäftsführer](http://twitter.com/search?q=Bundesgesch%c3%a4ftsf%c3%bchrer) | N/A |
-| 30 | [Ruder](http://twitter.com/search?q=Ruder) | N/A |
-| 31 | [Klimaaktivist](http://twitter.com/search?q=Klimaaktivist) | N/A |
-| 32 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
-| 33 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 34 | [lieblingsmusik](http://twitter.com/search?q=lieblingsmusik) | N/A |
-| 35 | [Schwurblern](http://twitter.com/search?q=Schwurblern) | N/A |
-| 36 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
-| 37 | [Steine](http://twitter.com/search?q=Steine) | N/A |
-| 38 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 40 | [Volksentscheid](http://twitter.com/search?q=Volksentscheid) | N/A |
-| 41 | [Kessel](http://twitter.com/search?q=Kessel) | N/A |
-| 42 | [innenminister](http://twitter.com/search?q=innenminister) | N/A |
-| 43 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 44 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 45 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 46 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 47 | [Kogler](http://twitter.com/search?q=Kogler) | N/A |
-| 48 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
-| 49 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 50 | [tarek leitner](http://twitter.com/search?q=tarek+leitner) | N/A |
+| 14 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [Bine](http://twitter.com/search?q=Bine) | N/A |
+| 17 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 18 | [Befragung](http://twitter.com/search?q=Befragung) | N/A |
+| 19 | [Estland](http://twitter.com/search?q=Estland) | N/A |
+| 20 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 21 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 22 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 23 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 24 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 25 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 26 | [statut](http://twitter.com/search?q=statut) | N/A |
+| 27 | [Parteitag](http://twitter.com/search?q=Parteitag) | N/A |
+| 28 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
+| 29 | [dunst](http://twitter.com/search?q=dunst) | N/A |
+| 30 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 31 | [Unterstützungserklärungen](http://twitter.com/search?q=Unterst%c3%bctzungserkl%c3%a4rungen) | N/A |
+| 32 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 33 | [mitgliedsbeitrag](http://twitter.com/search?q=mitgliedsbeitrag) | N/A |
+| 34 | [Bundesgeschäftsführer](http://twitter.com/search?q=Bundesgesch%c3%a4ftsf%c3%bchrer) | N/A |
+| 35 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 36 | [Ruder](http://twitter.com/search?q=Ruder) | N/A |
+| 37 | [Straßen](http://twitter.com/search?q=Stra%c3%9fen) | N/A |
+| 38 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 39 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
+| 40 | [Steine](http://twitter.com/search?q=Steine) | N/A |
+| 41 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
+| 42 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
+| 43 | [Schwurblern](http://twitter.com/search?q=Schwurblern) | N/A |
+| 44 | [Atomwaffen](http://twitter.com/search?q=Atomwaffen) | N/A |
+| 45 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 47 | [Möglichkeiten](http://twitter.com/search?q=M%c3%b6glichkeiten) | N/A |
+| 48 | [Volksentscheid](http://twitter.com/search?q=Volksentscheid) | N/A |
+| 49 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 50 | [Kessel](http://twitter.com/search?q=Kessel) | N/A |
 
 
 

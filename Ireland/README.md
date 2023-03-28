@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-28 05:17:50 UTC`
+📆 Last Updated: `2023-03-28 06:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,11 +21,11 @@ This is top 50 for Ireland
 | 4 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
 | 5 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
 | 6 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 7 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 8 | [#irelandvsfrance](http://twitter.com/search?q=%23irelandvsfrance) | N/A |
-| 9 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
-| 10 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 7 | [#irelandvsfrance](http://twitter.com/search?q=%23irelandvsfrance) | N/A |
+| 8 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 9 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
+| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 11 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
 | 12 | [Spar](http://twitter.com/search?q=Spar) | N/A |
 | 13 | [Shane](http://twitter.com/search?q=Shane) | N/A |
 | 14 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for Ireland
 | 23 | [Greece](http://twitter.com/search?q=Greece) | N/A |
 | 24 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
 | 25 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 26 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
+| 26 | [bazunu](http://twitter.com/search?q=bazunu) | N/A |
 | 27 | [Idah](http://twitter.com/search?q=Idah) | N/A |
 | 28 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
 | 29 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Ireland
 | 40 | [waterford fc](http://twitter.com/search?q=waterford+fc) | N/A |
 | 41 | [melanie greally](http://twitter.com/search?q=melanie+greally) | N/A |
 | 42 | [Terre](http://twitter.com/search?q=Terre) | N/A |
-| 43 | [Egan](http://twitter.com/search?q=Egan) | N/A |
-| 44 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 45 | [come on you boys in green](http://twitter.com/search?q=come+on+you+boys+in+green) | N/A |
-| 46 | [stephen cluxton](http://twitter.com/search?q=stephen+cluxton) | N/A |
-| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 48 | [Dede](http://twitter.com/search?q=Dede) | N/A |
-| 49 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 50 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
+| 43 | [America](http://twitter.com/search?q=America) | N/A |
+| 44 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 45 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 46 | [come on you boys in green](http://twitter.com/search?q=come+on+you+boys+in+green) | N/A |
+| 47 | [stephen cluxton](http://twitter.com/search?q=stephen+cluxton) | N/A |
+| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 49 | [Dede](http://twitter.com/search?q=Dede) | N/A |
+| 50 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
 
 
 
