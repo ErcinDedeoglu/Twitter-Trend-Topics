@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-28 18:17:39 UTC`
+📆 Last Updated: `2023-03-28 19:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
-| 2 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 3 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 5 | [#AncestryHour](http://twitter.com/search?q=%23AncestryHour) | N/A |
-| 6 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 7 | [Finance](http://twitter.com/search?q=Finance) | N/A |
-| 8 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
-| 9 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 10 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
-| 11 | [#KitchensInFilmOrSong](http://twitter.com/search?q=%23KitchensInFilmOrSong) | N/A |
-| 12 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 13 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 14 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 15 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 16 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
-| 17 | [Dagger](http://twitter.com/search?q=Dagger) | N/A |
-| 18 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 19 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 20 | [Outrageously](http://twitter.com/search?q=Outrageously) | N/A |
-| 21 | [Scotland vs Spain](http://twitter.com/search?q=Scotland+vs+Spain) | N/A |
-| 22 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
-| 23 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 24 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 25 | [Deputy First Minister](http://twitter.com/search?q=Deputy+First+Minister) | N/A |
-| 26 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 27 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 28 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 29 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 30 | [Thunderbirds](http://twitter.com/search?q=Thunderbirds) | N/A |
-| 31 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 32 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 33 | [Top Cat](http://twitter.com/search?q=Top+Cat) | N/A |
-| 34 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
-| 35 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 36 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 37 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 38 | [Royal Mail](http://twitter.com/search?q=Royal+Mail) | N/A |
-| 39 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 40 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 41 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
-| 42 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 43 | [Morley](http://twitter.com/search?q=Morley) | N/A |
-| 44 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 45 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 46 | [Superloop](http://twitter.com/search?q=Superloop) | N/A |
-| 47 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 48 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 49 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 50 | [Walmart](http://twitter.com/search?q=Walmart) | N/A |
+| 1 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
+| 2 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 3 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 4 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 5 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
+| 6 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 7 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
+| 8 | [#AncestryHour](http://twitter.com/search?q=%23AncestryHour) | N/A |
+| 9 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 11 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 12 | [#QIHour](http://twitter.com/search?q=%23QIHour) | N/A |
+| 13 | [#LeadingQI](http://twitter.com/search?q=%23LeadingQI) | N/A |
+| 14 | [Finance](http://twitter.com/search?q=Finance) | N/A |
+| 15 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 16 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 17 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 18 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
+| 19 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 20 | [Gareth Bale](http://twitter.com/search?q=Gareth+Bale) | Gareth Bale is a Welsh professional footballer who plays as a winger for Premier League club Tottenham Hotspur and the Wales national team. His meaning in English is "a talented and successful Welsh soccer player". |
+| 21 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
+| 22 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 23 | [Dagger](http://twitter.com/search?q=Dagger) | N/A |
+| 24 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 25 | [Jonathan Gullis](http://twitter.com/search?q=Jonathan+Gullis) | N/A |
+| 26 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 27 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 28 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 29 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 30 | [Outrageously](http://twitter.com/search?q=Outrageously) | N/A |
+| 31 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 32 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
+| 33 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 34 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 35 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 36 | [Deputy First Minister](http://twitter.com/search?q=Deputy+First+Minister) | N/A |
+| 37 | [Corey](http://twitter.com/search?q=Corey) | N/A |
+| 38 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 39 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 40 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 41 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 42 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 43 | [Unison](http://twitter.com/search?q=Unison) | N/A |
+| 44 | [Thunderbirds](http://twitter.com/search?q=Thunderbirds) | N/A |
+| 45 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 46 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 47 | [Morley](http://twitter.com/search?q=Morley) | N/A |
+| 48 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 49 | [Top Cat](http://twitter.com/search?q=Top+Cat) | N/A |
+| 50 | [Royal Mail](http://twitter.com/search?q=Royal+Mail) | N/A |
 
 
 

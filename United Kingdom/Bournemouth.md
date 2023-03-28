@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-03-28 18:16:45 UTC`
+📆 Last Updated: `2023-03-28 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 2 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
-| 3 | [#boxgivesmeextra](http://twitter.com/search?q=%23boxgivesmeextra) | N/A |
+| 1 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 2 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 3 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
 | 4 | [Biggins](http://twitter.com/search?q=Biggins) | N/A |
-| 5 | [Momentum](http://twitter.com/search?q=Momentum) | N/A |
-| 6 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 7 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
-| 8 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
-| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 10 | [#QConLondon](http://twitter.com/search?q=%23QConLondon) | N/A |
-| 11 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
-| 12 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 13 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 14 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 5 | [#QConLondon](http://twitter.com/search?q=%23QConLondon) | N/A |
+| 6 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
+| 7 | [Scott McTominay](http://twitter.com/search?q=Scott+McTominay) | N/A |
+| 8 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 9 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
+| 10 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 11 | [#AncestryHour](http://twitter.com/search?q=%23AncestryHour) | N/A |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 13 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 14 | [Finance](http://twitter.com/search?q=Finance) | N/A |
 | 15 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 16 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
-| 17 | [Finance](http://twitter.com/search?q=Finance) | N/A |
-| 18 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
-| 19 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 20 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 21 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 22 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 23 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 24 | [Dagger](http://twitter.com/search?q=Dagger) | N/A |
-| 25 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 26 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 27 | [Outrageously](http://twitter.com/search?q=Outrageously) | N/A |
-| 28 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
-| 29 | [Scotland vs Spain](http://twitter.com/search?q=Scotland+vs+Spain) | N/A |
+| 16 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 17 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
+| 18 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 19 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 20 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
+| 21 | [Gareth Bale](http://twitter.com/search?q=Gareth+Bale) | Gareth Bale is a Welsh professional footballer who plays as a winger for Premier League club Tottenham Hotspur and the Wales national team. His meaning in English is "a talented and successful Welsh soccer player". |
+| 22 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 23 | [Dagger](http://twitter.com/search?q=Dagger) | N/A |
+| 24 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 25 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 26 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 27 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 28 | [Outrageously](http://twitter.com/search?q=Outrageously) | N/A |
+| 29 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
 | 30 | [Deputy First Minister](http://twitter.com/search?q=Deputy+First+Minister) | N/A |
-| 31 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 32 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 33 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 34 | [Thunderbirds](http://twitter.com/search?q=Thunderbirds) | N/A |
-| 35 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 36 | [Afghans](http://twitter.com/search?q=Afghans) | N/A |
-| 37 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 38 | [Top Cat](http://twitter.com/search?q=Top+Cat) | N/A |
-| 39 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 40 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 41 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 42 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 43 | [Royal Mail](http://twitter.com/search?q=Royal+Mail) | N/A |
-| 44 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 45 | [Superloop](http://twitter.com/search?q=Superloop) | N/A |
-| 46 | [Morley](http://twitter.com/search?q=Morley) | N/A |
-| 47 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 48 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 49 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 31 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 32 | [Corey](http://twitter.com/search?q=Corey) | N/A |
+| 33 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 34 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 35 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 36 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 37 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 38 | [Unison](http://twitter.com/search?q=Unison) | N/A |
+| 39 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 40 | [Thunderbirds](http://twitter.com/search?q=Thunderbirds) | N/A |
+| 41 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 42 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 43 | [Morley](http://twitter.com/search?q=Morley) | N/A |
+| 44 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 45 | [Top Cat](http://twitter.com/search?q=Top+Cat) | N/A |
+| 46 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 47 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 48 | [Royal Mail](http://twitter.com/search?q=Royal+Mail) | N/A |
+| 49 | [OLED](http://twitter.com/search?q=OLED) | N/A |
 
 
 

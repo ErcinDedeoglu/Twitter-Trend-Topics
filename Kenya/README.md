@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-28 18:17:36 UTC`
+📆 Last Updated: `2023-03-28 19:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Kenya
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
+| 1 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
 | 2 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
-| 3 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
-| 4 | [#MaandamanoMondays](http://twitter.com/search?q=%23MaandamanoMondays) | N/A |
-| 5 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 6 | [Kikuyus](http://twitter.com/search?q=Kikuyus) | N/A |
-| 7 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
-| 8 | [#Demonstrations](http://twitter.com/search?q=%23Demonstrations) | N/A |
-| 9 | [#HarambeeStars](http://twitter.com/search?q=%23HarambeeStars) | N/A |
-| 10 | [Nubians](http://twitter.com/search?q=Nubians) | N/A |
-| 11 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 12 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 13 | [Weston](http://twitter.com/search?q=Weston) | N/A |
-| 14 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
-| 15 | [Mama Ngina](http://twitter.com/search?q=Mama+Ngina) | N/A |
-| 16 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 17 | [Muhindi Mweusi](http://twitter.com/search?q=Muhindi+Mweusi) | N/A |
-| 18 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 19 | [Koome](http://twitter.com/search?q=Koome) | N/A |
-| 20 | [embu mega businessexpo](http://twitter.com/search?q=embu+mega+businessexpo) | N/A |
-| 21 | [Kawangware](http://twitter.com/search?q=Kawangware) | N/A |
+| 3 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
+| 4 | [#HarambeeStars](http://twitter.com/search?q=%23HarambeeStars) | N/A |
+| 5 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
+| 6 | [Matasi](http://twitter.com/search?q=Matasi) | N/A |
+| 7 | [#MaandamanoMondays](http://twitter.com/search?q=%23MaandamanoMondays) | N/A |
+| 8 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
+| 9 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
+| 10 | [Olunga](http://twitter.com/search?q=Olunga) | N/A |
+| 11 | [Kikuyus](http://twitter.com/search?q=Kikuyus) | N/A |
+| 12 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 13 | [#Demonstrations](http://twitter.com/search?q=%23Demonstrations) | N/A |
+| 14 | [Nubians](http://twitter.com/search?q=Nubians) | N/A |
+| 15 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 16 | [Weston](http://twitter.com/search?q=Weston) | N/A |
+| 17 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 18 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
+| 19 | [Mama Ngina](http://twitter.com/search?q=Mama+Ngina) | N/A |
+| 20 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 21 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 22 | [bedigitallyfit na robisearch](http://twitter.com/search?q=bedigitallyfit+na+robisearch) | N/A |
-| 23 | [Boniface Mwangi](http://twitter.com/search?q=Boniface+Mwangi) | N/A |
-| 24 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
-| 25 | [Makau Mutua](http://twitter.com/search?q=Makau+Mutua) | N/A |
-| 26 | [Ruiru](http://twitter.com/search?q=Ruiru) | N/A |
-| 27 | [Kariobangi](http://twitter.com/search?q=Kariobangi) | N/A |
-| 28 | [Mungiki](http://twitter.com/search?q=Mungiki) | N/A |
-| 29 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
-| 30 | [Ruai](http://twitter.com/search?q=Ruai) | N/A |
-| 31 | [Gideon Moi](http://twitter.com/search?q=Gideon+Moi) | N/A |
-| 32 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 33 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
-| 34 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
-| 35 | [Jayden](http://twitter.com/search?q=Jayden) | N/A |
-| 36 | [Sossion](http://twitter.com/search?q=Sossion) | N/A |
-| 37 | [Sheep](http://twitter.com/search?q=Sheep) | N/A |
-| 38 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
-| 39 | [Goons](http://twitter.com/search?q=Goons) | N/A |
-| 40 | [Awasi](http://twitter.com/search?q=Awasi) | N/A |
-| 41 | [Swiftly](http://twitter.com/search?q=Swiftly) | N/A |
-| 42 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 23 | [embu mega businessexpo](http://twitter.com/search?q=embu+mega+businessexpo) | N/A |
+| 24 | [Koome](http://twitter.com/search?q=Koome) | N/A |
+| 25 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
+| 26 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
+| 27 | [Muhindi Mweusi](http://twitter.com/search?q=Muhindi+Mweusi) | N/A |
+| 28 | [Kawangware](http://twitter.com/search?q=Kawangware) | N/A |
+| 29 | [Makau Mutua](http://twitter.com/search?q=Makau+Mutua) | N/A |
+| 30 | [Smash](http://twitter.com/search?q=Smash) | N/A |
+| 31 | [Mungiki](http://twitter.com/search?q=Mungiki) | N/A |
+| 32 | [Ruiru](http://twitter.com/search?q=Ruiru) | N/A |
+| 33 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
+| 34 | [Gideon Moi](http://twitter.com/search?q=Gideon+Moi) | N/A |
+| 35 | [Nyamira](http://twitter.com/search?q=Nyamira) | N/A |
+| 36 | [Boniface Mwangi](http://twitter.com/search?q=Boniface+Mwangi) | N/A |
+| 37 | [Ruai](http://twitter.com/search?q=Ruai) | N/A |
+| 38 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 39 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 40 | [Jayden](http://twitter.com/search?q=Jayden) | N/A |
+| 41 | [Gaucho](http://twitter.com/search?q=Gaucho) | N/A |
+| 42 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
 | 43 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 44 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
-| 45 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
-| 46 | [Religious](http://twitter.com/search?q=Religious) | N/A |
-| 47 | [Anarchy](http://twitter.com/search?q=Anarchy) | N/A |
-| 48 | [Dynasties](http://twitter.com/search?q=Dynasties) | N/A |
-| 49 | [NCIC](http://twitter.com/search?q=NCIC) | N/A |
-| 50 | [Gloria](http://twitter.com/search?q=Gloria) | N/A |
+| 44 | [Awasi](http://twitter.com/search?q=Awasi) | N/A |
+| 45 | [Sossion](http://twitter.com/search?q=Sossion) | N/A |
+| 46 | [Kariobangi](http://twitter.com/search?q=Kariobangi) | N/A |
+| 47 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
+| 48 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 49 | [Anarchy](http://twitter.com/search?q=Anarchy) | N/A |
+| 50 | [Sheep](http://twitter.com/search?q=Sheep) | N/A |
 
 
 

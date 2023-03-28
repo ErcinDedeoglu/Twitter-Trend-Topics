@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-28 18:17:02 UTC`
+📆 Last Updated: `2023-03-28 19:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 2 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
-| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 4 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 5 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 6 | [Los Mossos](http://twitter.com/search?q=Los+Mossos) | N/A |
-| 7 | [#HayQueArreglarMadridCorriendo](http://twitter.com/search?q=%23HayQueArreglarMadridCorriendo) | N/A |
-| 8 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 9 | [#LluviaAdaraSv](http://twitter.com/search?q=%23LluviaAdaraSv) | N/A |
-| 10 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
-| 11 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
-| 12 | [#Desalia2023](http://twitter.com/search?q=%23Desalia2023) | N/A |
-| 13 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
-| 14 | [#Pecado28Mar](http://twitter.com/search?q=%23Pecado28Mar) | N/A |
-| 15 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 16 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 17 | [Supremo](http://twitter.com/search?q=Supremo) | N/A |
-| 18 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
-| 19 | [El Bolton](http://twitter.com/search?q=El+Bolton) | N/A |
-| 20 | [Pablo Aguirregabiria](http://twitter.com/search?q=Pablo+Aguirregabiria) | N/A |
-| 21 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 22 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 23 | [Junts](http://twitter.com/search?q=Junts) | N/A |
-| 24 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
-| 25 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 26 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
-| 27 | [Heretics](http://twitter.com/search?q=Heretics) | N/A |
-| 28 | [Elyoya](http://twitter.com/search?q=Elyoya) | N/A |
-| 29 | [Claire Redfield](http://twitter.com/search?q=Claire+Redfield) | N/A |
-| 30 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 31 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 32 | [Aranjuez](http://twitter.com/search?q=Aranjuez) | N/A |
-| 33 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
-| 34 | [Chris Redfield](http://twitter.com/search?q=Chris+Redfield) | N/A |
-| 35 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 36 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 37 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 38 | [Ley de Familias](http://twitter.com/search?q=Ley+de+Familias) | N/A |
-| 39 | [Intertoto](http://twitter.com/search?q=Intertoto) | N/A |
-| 40 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 41 | [Belén Esteban](http://twitter.com/search?q=Bel%c3%a9n+Esteban) | N/A |
-| 42 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 43 | [Bellerín](http://twitter.com/search?q=Beller%c3%adn) | N/A |
-| 44 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 45 | [El CGPJ](http://twitter.com/search?q=El+CGPJ) | N/A |
-| 46 | [Gameplay](http://twitter.com/search?q=Gameplay) | N/A |
-| 47 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 48 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
-| 49 | [Belarra](http://twitter.com/search?q=Belarra) | N/A |
-| 50 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 1 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 2 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 3 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
+| 4 | [#LluviaAdaraSv](http://twitter.com/search?q=%23LluviaAdaraSv) | N/A |
+| 5 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 6 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 7 | [#Pasapalabra734](http://twitter.com/search?q=%23Pasapalabra734) | N/A |
+| 8 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
+| 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 10 | [Hampden Park](http://twitter.com/search?q=Hampden+Park) | N/A |
+| 11 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 13 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
+| 14 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 15 | [Los Mossos](http://twitter.com/search?q=Los+Mossos) | N/A |
+| 16 | [#HayQueArreglarMadridCorriendo](http://twitter.com/search?q=%23HayQueArreglarMadridCorriendo) | N/A |
+| 17 | [Flower of Scotland](http://twitter.com/search?q=Flower+of+Scotland) | N/A |
+| 18 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
+| 19 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
+| 20 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 21 | [Luis de la Cope](http://twitter.com/search?q=Luis+de+la+Cope) | N/A |
+| 22 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
+| 23 | [#Desalia2023](http://twitter.com/search?q=%23Desalia2023) | N/A |
+| 24 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 25 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 26 | [Pablo Aguirregabiria](http://twitter.com/search?q=Pablo+Aguirregabiria) | N/A |
+| 27 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 28 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
+| 29 | [Supremo](http://twitter.com/search?q=Supremo) | N/A |
+| 30 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
+| 31 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
+| 32 | [Junts](http://twitter.com/search?q=Junts) | N/A |
+| 33 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 34 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 35 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 36 | [Aranjuez](http://twitter.com/search?q=Aranjuez) | N/A |
+| 37 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 38 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 39 | [Elyoya](http://twitter.com/search?q=Elyoya) | N/A |
+| 40 | [Heretics](http://twitter.com/search?q=Heretics) | N/A |
+| 41 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 42 | [Europeo](http://twitter.com/search?q=Europeo) | N/A |
+| 43 | [Chris Redfield](http://twitter.com/search?q=Chris+Redfield) | N/A |
+| 44 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 45 | [Glasgow](http://twitter.com/search?q=Glasgow) | N/A |
+| 46 | [La UE](http://twitter.com/search?q=La+UE) | N/A |
+| 47 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
+| 48 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 49 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
+| 50 | [Bellerín](http://twitter.com/search?q=Beller%c3%adn) | N/A |
 
 
 

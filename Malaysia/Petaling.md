@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Petaling
 
-📆 Last Updated: `2023-03-28 18:17:40 UTC`
+📆 Last Updated: `2023-03-28 19:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 2 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
-| 3 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
-| 4 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 6 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 7 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
-| 8 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
-| 9 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 10 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
-| 11 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 12 | [LEE ZII JIA](http://twitter.com/search?q=LEE+ZII+JIA) | N/A |
-| 13 | [Diana Danielle](http://twitter.com/search?q=Diana+Danielle) | N/A |
-| 14 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 15 | [farid kamil](http://twitter.com/search?q=farid+kamil) | N/A |
-| 16 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 2 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
+| 3 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 5 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
+| 6 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
+| 7 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
+| 8 | [LEE ZII JIA](http://twitter.com/search?q=LEE+ZII+JIA) | N/A |
+| 9 | [day6](http://twitter.com/search?q=day6) | N/A |
+| 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 11 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 12 | [Diana Danielle](http://twitter.com/search?q=Diana+Danielle) | N/A |
+| 13 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 15 | [say lalisa day](http://twitter.com/search?q=say+lalisa+day) | N/A |
+| 16 | [farid kamil](http://twitter.com/search?q=farid+kamil) | N/A |
 | 17 | [Faisal Halim](http://twitter.com/search?q=Faisal+Halim) | N/A |
-| 18 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 19 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 20 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 21 | [Celine](http://twitter.com/search?q=Celine) | N/A |
-| 22 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 23 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 24 | [pricecatcher](http://twitter.com/search?q=pricecatcher) | N/A |
+| 18 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 19 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 20 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 21 | [Jikook](http://twitter.com/search?q=Jikook) | N/A |
+| 22 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 23 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 24 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
 | 25 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 26 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 27 | [kitajaga](http://twitter.com/search?q=kitajaga) | N/A |
-| 28 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 26 | [pricecatcher](http://twitter.com/search?q=pricecatcher) | N/A |
+| 27 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 28 | [kitajaga](http://twitter.com/search?q=kitajaga) | N/A |
 | 29 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
 | 30 | [MACC](http://twitter.com/search?q=MACC) | N/A |
-| 31 | [KIM DOYOUNG](http://twitter.com/search?q=KIM+DOYOUNG) | N/A |
-| 32 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 33 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 34 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
-| 35 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 31 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 32 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 33 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 34 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 35 | [opendosm](http://twitter.com/search?q=opendosm) | N/A |
 | 36 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 37 | [opendosm](http://twitter.com/search?q=opendosm) | N/A |
-| 38 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 39 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 40 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 41 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 42 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
-| 43 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 44 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 45 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 46 | [iOS 16](http://twitter.com/search?q=iOS+16) | N/A |
-| 47 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 48 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 49 | [Supercharger](http://twitter.com/search?q=Supercharger) | N/A |
+| 37 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 38 | [Chanwoo](http://twitter.com/search?q=Chanwoo) | N/A |
+| 39 | [KIM DOYOUNG](http://twitter.com/search?q=KIM+DOYOUNG) | N/A |
+| 40 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
+| 41 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 42 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 43 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 44 | [iOS 16](http://twitter.com/search?q=iOS+16) | N/A |
+| 45 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
+| 46 | [Supercharger](http://twitter.com/search?q=Supercharger) | N/A |
+| 47 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 48 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 49 | [Harris](http://twitter.com/search?q=Harris) | N/A |
 
 
 

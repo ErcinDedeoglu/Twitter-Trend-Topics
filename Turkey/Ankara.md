@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-03-28 18:17:22 UTC`
+📆 Last Updated: `2023-03-28 19:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
-| 2 | [DenklikSorununuÇözünüz](http://twitter.com/search?q=DenklikSorununu%c3%87%c3%b6z%c3%bcn%c3%bcz) | N/A |
-| 3 | [#doktorluktanmenyasasınahayır](http://twitter.com/search?q=%23doktorluktanmenyasas%c4%b1nahay%c4%b1r) | N/A |
-| 4 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
-| 5 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 6 | [#bıktık](http://twitter.com/search?q=%23b%c4%b1kt%c4%b1k) | N/A |
-| 7 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 8 | [#asabiolma](http://twitter.com/search?q=%23asabiolma) | N/A |
-| 9 | [TaşeronunOyu KadroyuVerene](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadroyuVerene) | N/A |
-| 10 | [#yavuzaliağiroğlu](http://twitter.com/search?q=%23yavuzalia%c4%9firo%c4%9flu) | N/A |
-| 11 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
-| 12 | [Ayşe Özkiraz](http://twitter.com/search?q=Ay%c5%9fe+%c3%96zkiraz) | N/A |
-| 13 | [İYİ Parti'den](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27den) | N/A |
-| 14 | [Vekillikten](http://twitter.com/search?q=Vekillikten) | N/A |
-| 15 | [1 Gr](http://twitter.com/search?q=1+Gr) | N/A |
-| 16 | [Defolsun](http://twitter.com/search?q=Defolsun) | N/A |
-| 17 | [Yallah](http://twitter.com/search?q=Yallah) | N/A |
-| 18 | [Temmuz'da](http://twitter.com/search?q=Temmuz%27da) | N/A |
-| 19 | [Yavuz Bey](http://twitter.com/search?q=Yavuz+Bey) | N/A |
-| 20 | [Türkiye - Hırvatistan](http://twitter.com/search?q=T%c3%bcrkiye+-+H%c4%b1rvatistan) | N/A |
-| 21 | [Selami Şahin](http://twitter.com/search?q=Selami+%c5%9eahin) | N/A |
-| 22 | [Tahliye](http://twitter.com/search?q=Tahliye) | N/A |
-| 23 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 24 | [İflas Kanunu](http://twitter.com/search?q=%c4%b0flas+Kanunu) | N/A |
-| 25 | [Kandile](http://twitter.com/search?q=Kandile) | N/A |
-| 26 | [Hakan Çalhanoğlu](http://twitter.com/search?q=Hakan+%c3%87alhano%c4%9flu) | N/A |
-| 27 | [Çorum](http://twitter.com/search?q=%c3%87orum) | N/A |
-| 28 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 29 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
-| 30 | [Vedat Bilgin](http://twitter.com/search?q=Vedat+Bilgin) | N/A |
-| 31 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
-| 32 | [Hayırlı İftarlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+%c4%b0ftarlar) | N/A |
-| 33 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
-| 34 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 35 | [Cahiller](http://twitter.com/search?q=Cahiller) | N/A |
-| 36 | [Cehennemin](http://twitter.com/search?q=Cehennemin) | N/A |
-| 37 | [Şarap](http://twitter.com/search?q=%c5%9earap) | N/A |
-| 38 | [İbrahim Tatlıses](http://twitter.com/search?q=%c4%b0brahim+Tatl%c4%b1ses) | N/A |
-| 39 | [Vize](http://twitter.com/search?q=Vize) | N/A |
-| 40 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
-| 41 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 42 | [Verme](http://twitter.com/search?q=Verme) | N/A |
-| 43 | [Güneş](http://twitter.com/search?q=G%c3%bcne%c5%9f) | N/A |
-| 44 | [KararımNet OyumEhliyet](http://twitter.com/search?q=Karar%c4%b1mNet+OyumEhliyet) | N/A |
-| 45 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
-| 46 | [Gram](http://twitter.com/search?q=Gram) | N/A |
-| 47 | [Başörtüsü](http://twitter.com/search?q=Ba%c5%9f%c3%b6rt%c3%bcs%c3%bc) | N/A |
-| 48 | [#bist100](http://twitter.com/search?q=%23bist100) | #bist100 is a hashtag used on Twitter to refer to the Borsa Istanbul 100 Index, which is a stock market index that tracks the performance of the top 100 companies listed on the Borsa Istanbul Stock Exchange. The acronym "BIST" stands for Borsa Istanbul. |
-| 49 | [#İnfazKorumayaBorcunuzuÖDEYİN](http://twitter.com/search?q=%23%c4%b0nfazKorumayaBorcunuzu%c3%96DEY%c4%b0N) | N/A |
+| 1 | [#İyilikSofrası](http://twitter.com/search?q=%23%c4%b0yilikSofras%c4%b1) | N/A |
+| 2 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 3 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 4 | [#doktorluktanmenyasasınahayır](http://twitter.com/search?q=%23doktorluktanmenyasas%c4%b1nahay%c4%b1r) | N/A |
+| 5 | [#TURvCRO](http://twitter.com/search?q=%23TURvCRO) | N/A |
+| 6 | [DenklikSorununuÇözünüz](http://twitter.com/search?q=DenklikSorununu%c3%87%c3%b6z%c3%bcn%c3%bcz) | N/A |
+| 7 | [#bıktık](http://twitter.com/search?q=%23b%c4%b1kt%c4%b1k) | N/A |
+| 8 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
+| 9 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 10 | [Türkiye - Hırvatistan](http://twitter.com/search?q=T%c3%bcrkiye+-+H%c4%b1rvatistan) | N/A |
+| 11 | [TaşeronunOyu KadroyuVerene](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadroyuVerene) | N/A |
+| 12 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 13 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
+| 14 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
+| 15 | [Livakovic](http://twitter.com/search?q=Livakovic) | N/A |
+| 16 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 17 | [Güle](http://twitter.com/search?q=G%c3%bcle) | N/A |
+| 18 | [AzKata YapıKayıt](http://twitter.com/search?q=AzKata+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 19 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
+| 20 | [Vekillikten](http://twitter.com/search?q=Vekillikten) | N/A |
+| 21 | [Candaş](http://twitter.com/search?q=Canda%c5%9f) | N/A |
+| 22 | [Kandile](http://twitter.com/search?q=Kandile) | N/A |
+| 23 | [Ayşe Özkiraz](http://twitter.com/search?q=Ay%c5%9fe+%c3%96zkiraz) | N/A |
+| 24 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 25 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 26 | [Selami Şahin](http://twitter.com/search?q=Selami+%c5%9eahin) | N/A |
+| 27 | [Defolsun](http://twitter.com/search?q=Defolsun) | N/A |
+| 28 | [Kenan Doğulu](http://twitter.com/search?q=Kenan+Do%c4%9fulu) | N/A |
+| 29 | [Hakan Çalhanoğlu](http://twitter.com/search?q=Hakan+%c3%87alhano%c4%9flu) | N/A |
+| 30 | [Hırvatlar](http://twitter.com/search?q=H%c4%b1rvatlar) | N/A |
+| 31 | [Yallah](http://twitter.com/search?q=Yallah) | N/A |
+| 32 | [KararımNet OyumEhliyet](http://twitter.com/search?q=Karar%c4%b1mNet+OyumEhliyet) | N/A |
+| 33 | [1 Gr](http://twitter.com/search?q=1+Gr) | N/A |
+| 34 | [Ferdi Kadıoğlu](http://twitter.com/search?q=Ferdi+Kad%c4%b1o%c4%9flu) | N/A |
+| 35 | [Temmuz'da](http://twitter.com/search?q=Temmuz%27da) | N/A |
+| 36 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 37 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 38 | [İflas Kanunu](http://twitter.com/search?q=%c4%b0flas+Kanunu) | N/A |
+| 39 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
+| 40 | [Çorum](http://twitter.com/search?q=%c3%87orum) | N/A |
+| 41 | [Salih Özcan](http://twitter.com/search?q=Salih+%c3%96zcan) | N/A |
+| 42 | [Vedat Bilgin](http://twitter.com/search?q=Vedat+Bilgin) | N/A |
+| 43 | [Tahliye](http://twitter.com/search?q=Tahliye) | N/A |
+| 44 | [İbrahim Tatlıses](http://twitter.com/search?q=%c4%b0brahim+Tatl%c4%b1ses) | N/A |
+| 45 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
+| 46 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
+| 47 | [Şarap](http://twitter.com/search?q=%c5%9earap) | N/A |
+| 48 | [Cehennemin](http://twitter.com/search?q=Cehennemin) | N/A |
+| 49 | [Vize](http://twitter.com/search?q=Vize) | N/A |
 
 
 

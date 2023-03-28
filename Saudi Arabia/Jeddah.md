@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-03-28 18:17:16 UTC`
+📆 Last Updated: `2023-03-28 19:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [السنه النبويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a%d9%87) | N/A |
-| 2 | [#القران_الكريم_والسنه_النبويه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86_%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85_%d9%88%d8%a7%d9%84%d8%b3%d9%86%d9%87_%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a%d9%87) | N/A |
-| 3 | [#مسابقه_المربع_نت6](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa6) | N/A |
-| 4 | [#قانونيات_قاضي_سابق](http://twitter.com/search?q=%23%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a7%d8%aa_%d9%82%d8%a7%d8%b6%d9%8a_%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
-| 5 | [#عدنان_طاش](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%86%d8%a7%d9%86_%d8%b7%d8%a7%d8%b4) | N/A |
-| 6 | [#مالك_بالطويله_والرشايده](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%84%d9%83_%d8%a8%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d9%87_%d9%88%d8%a7%d9%84%d8%b1%d8%b4%d8%a7%d9%8a%d8%af%d9%87) | N/A |
-| 7 | [عبدالله الطرقي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b7%d8%b1%d9%82%d9%8a) | N/A |
-| 8 | [اللاعب الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
-| 9 | [شباب البومب اليوم](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 10 | [دور الشايب](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%b4%d8%a7%d9%8a%d8%a8) | N/A |
-| 11 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 12 | [غازي الذيابي](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a) | N/A |
-| 13 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
-| 14 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 15 | [٦ رمضان](http://twitter.com/search?q=%d9%a6+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 16 | [بيومي فؤاد](http://twitter.com/search?q=%d8%a8%d9%8a%d9%88%d9%85%d9%8a+%d9%81%d8%a4%d8%a7%d8%af) | N/A |
-| 17 | [محمد ثروت](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%ab%d8%b1%d9%88%d8%aa) | N/A |
-| 18 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 19 | [خدمات الصيانه المتنقله](http://twitter.com/search?q=%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%86%d9%82%d9%84%d9%87) | N/A |
-| 20 | [فيصل العيسي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d8%b9%d9%8a%d8%b3%d9%8a) | N/A |
-| 21 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
-| 22 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
-| 23 | [العمل التطوعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d8%b9%d9%8a) | N/A |
-| 24 | [السور المكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%83%d9%8a%d9%87) | N/A |
-| 25 | [الحلقه السادسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%d9%87) | N/A |
-| 26 | [رييس الطايي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
-| 27 | [الحلقه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 28 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 29 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 30 | [هند القحطاني](http://twitter.com/search?q=%d9%87%d9%86%d8%af+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 31 | [علي الدين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 32 | [علي حفظ كتاب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d9%81%d8%b8+%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
-| 33 | [رييس نادي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%86%d8%a7%d8%af%d9%8a) | N/A |
-| 34 | [#رمضان6](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%866) | N/A |
-| 35 | [#قصه_بطل6](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%846) | N/A |
-| 36 | [#مسابقه_المستشار_بدر_الزهراني](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1_%d8%a8%d8%af%d8%b1_%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 37 | [#لك_انت_تطبيق_استقرار](http://twitter.com/search?q=%23%d9%84%d9%83_%d8%a7%d9%86%d8%aa_%d8%aa%d8%b7%d8%a8%d9%8a%d9%82_%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
-| 38 | [#اختفاء_نجر_من_استديو23](http://twitter.com/search?q=%23%d8%a7%d8%ae%d8%aa%d9%81%d8%a7%d8%a1_%d9%86%d8%ac%d8%b1_%d9%85%d9%86_%d8%a7%d8%b3%d8%aa%d8%af%d9%8a%d9%8823) | N/A |
-| 39 | [#رامز_نيڤر_اند](http://twitter.com/search?q=%23%d8%b1%d8%a7%d9%85%d8%b2_%d9%86%d9%8a%da%a4%d8%b1_%d8%a7%d9%86%d8%af) | N/A |
-| 40 | [#السعوديه_بوليفيا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a8%d9%88%d9%84%d9%8a%d9%81%d9%8a%d8%a7) | N/A |
-| 41 | [#الروشن6](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%866) | N/A |
-| 42 | [#مسلسل_بحر_دلهوم6](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%a8%d8%ad%d8%b1_%d8%af%d9%84%d9%87%d9%88%d9%856) | N/A |
-| 43 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
-| 44 | [#نيوكاسل_مانشستريونايتد](http://twitter.com/search?q=%23%d9%86%d9%8a%d9%88%d9%83%d8%a7%d8%b3%d9%84_%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 45 | [#مسابقه_الجبر_للتاجير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%ac%d8%a8%d8%b1_%d9%84%d9%84%d8%aa%d8%a7%d8%ac%d9%8a%d8%b1) | N/A |
-| 46 | [#شباب_البومب](http://twitter.com/search?q=%23%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8) | N/A |
-| 47 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
-| 48 | [#مسارات_الثانويه](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%b1%d8%a7%d8%aa_%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%88%d9%8a%d9%87) | N/A |
-| 49 | [#سناب_ريكو](http://twitter.com/search?q=%23%d8%b3%d9%86%d8%a7%d8%a8_%d8%b1%d9%8a%d9%83%d9%88) | N/A |
-| 50 | [#نابولي_ميلان](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a_%d9%85%d9%8a%d9%84%d8%a7%d9%86) | N/A |
+| 1 | [#زايد_انت_كفو](http://twitter.com/search?q=%23%d8%b2%d8%a7%d9%8a%d8%af_%d8%a7%d9%86%d8%aa_%d9%83%d9%81%d9%88) | N/A |
+| 2 | [#رامز_نيڤر_اند](http://twitter.com/search?q=%23%d8%b1%d8%a7%d9%85%d8%b2_%d9%86%d9%8a%da%a4%d8%b1_%d8%a7%d9%86%d8%af) | N/A |
+| 3 | [السنه النبويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a%d9%87) | N/A |
+| 4 | [#القران_الكريم_والسنه_النبويه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86_%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85_%d9%88%d8%a7%d9%84%d8%b3%d9%86%d9%87_%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a%d9%87) | N/A |
+| 5 | [#السعوديه_بوليفيا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a8%d9%88%d9%84%d9%8a%d9%81%d9%8a%d8%a7) | N/A |
+| 6 | [#الروشن6](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%866) | N/A |
+| 7 | [باب الريان](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%86) | N/A |
+| 8 | [عبدالله الطرقي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b7%d8%b1%d9%82%d9%8a) | N/A |
+| 9 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 10 | [هيرفي رينارد](http://twitter.com/search?q=%d9%87%d9%8a%d8%b1%d9%81%d9%8a+%d8%b1%d9%8a%d9%86%d8%a7%d8%b1%d8%af) | N/A |
+| 11 | [الشرط الجزايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d9%8a) | N/A |
+| 12 | [منتخب سيدات](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%b3%d9%8a%d8%af%d8%a7%d8%aa) | N/A |
+| 13 | [المنتخب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 14 | [خيسوس](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 15 | [دور الشايب](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%b4%d8%a7%d9%8a%d8%a8) | N/A |
+| 16 | [شباب البومب اليوم](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a8%d9%88%d9%85%d8%a8+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 17 | [اللاعب الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
+| 18 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 19 | [غازي الذيابي](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a) | N/A |
+| 20 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
+| 21 | [هاري كين](http://twitter.com/search?q=%d9%87%d8%a7%d8%b1%d9%8a+%d9%83%d9%8a%d9%86) | هاري كين (Harry Kane) is the name of an English professional footballer who plays as a striker for Premier League club Tottenham Hotspur and captains the England national team. |
+| 22 | [السيارات المستعمله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b9%d9%85%d9%84%d9%87) | N/A |
+| 23 | [منتخب فرنسا](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 24 | [٦ رمضان](http://twitter.com/search?q=%d9%a6+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 25 | [ناصر الجوهر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%ac%d9%88%d9%87%d8%b1) | N/A |
+| 26 | [خدمات الصيانه المتنقله](http://twitter.com/search?q=%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%86%d9%82%d9%84%d9%87) | N/A |
+| 27 | [بيومي فؤاد](http://twitter.com/search?q=%d8%a8%d9%8a%d9%88%d9%85%d9%8a+%d9%81%d8%a4%d8%a7%d8%af) | N/A |
+| 28 | [العمل التطوعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%aa%d8%b7%d9%88%d8%b9%d9%8a) | N/A |
+| 29 | [محمد ثروت](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%ab%d8%b1%d9%88%d8%aa) | N/A |
+| 30 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 31 | [علي الارجنتين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86) | N/A |
+| 32 | [فيصل العيسى](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
+| 33 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
+| 34 | [الحلقه السادسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%d9%87) | N/A |
+| 35 | [السور المكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%83%d9%8a%d9%87) | N/A |
+| 36 | [رييس الطايي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 37 | [الحلقه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 38 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 39 | [علي الدين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 40 | [علي حفظ كتاب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d9%81%d8%b8+%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
+| 41 | [رييس نادي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%86%d8%a7%d8%af%d9%8a) | N/A |
+| 42 | [#قانونيات_قاضي_سابق](http://twitter.com/search?q=%23%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d8%a7%d8%aa_%d9%82%d8%a7%d8%b6%d9%8a_%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 43 | [#عدنان_طاش](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%86%d8%a7%d9%86_%d8%b7%d8%a7%d8%b4) | N/A |
+| 44 | [#رمضان6](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%866) | N/A |
+| 45 | [#مالك_بالطويله_والرشايده](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%84%d9%83_%d8%a8%d8%a7%d9%84%d8%b7%d9%88%d9%8a%d9%84%d9%87_%d9%88%d8%a7%d9%84%d8%b1%d8%b4%d8%a7%d9%8a%d8%af%d9%87) | N/A |
+| 46 | [#قصه_بطل6](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%846) | N/A |
+| 47 | [#لك_انت_تطبيق_استقرار](http://twitter.com/search?q=%23%d9%84%d9%83_%d8%a7%d9%86%d8%aa_%d8%aa%d8%b7%d8%a8%d9%8a%d9%82_%d8%a7%d8%b3%d8%aa%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
+| 48 | [#مسابقه_المستشار_بدر_الزهراني](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b4%d8%a7%d8%b1_%d8%a8%d8%af%d8%b1_%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 49 | [#اختفاء_نجر_من_استديو23](http://twitter.com/search?q=%23%d8%a7%d8%ae%d8%aa%d9%81%d8%a7%d8%a1_%d9%86%d8%ac%d8%b1_%d9%85%d9%86_%d8%a7%d8%b3%d8%aa%d8%af%d9%8a%d9%8823) | N/A |
+| 50 | [#مفاجات_وااو](http://twitter.com/search?q=%23%d9%85%d9%81%d8%a7%d8%ac%d8%a7%d8%aa_%d9%88%d8%a7%d8%a7%d9%88) | N/A |
 
 
 
