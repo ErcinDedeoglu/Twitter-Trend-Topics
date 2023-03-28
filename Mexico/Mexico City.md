@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-28 21:17:11 UTC`
+📆 Last Updated: `2023-03-28 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Guardia Nacional](http://twitter.com/search?q=Guardia+Nacional) | Guardia Nacional is the national police force of Mexico. It is responsible for maintaining public order and security, as well as providing assistance to other law enforcement agencies. In English, Guardia Nacional translates to National Guard. |
-| 2 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 3 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
-| 4 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 5 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 6 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 1 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 2 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
+| 3 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 4 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 5 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 6 | [Patricia Mercado](http://twitter.com/search?q=Patricia+Mercado) | N/A |
 | 7 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
-| 8 | [Ximena Sariñana](http://twitter.com/search?q=Ximena+Sari%c3%b1ana) | N/A |
-| 9 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
-| 10 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
-| 11 | [Murieron 39](http://twitter.com/search?q=Murieron+39) | N/A |
-| 12 | [Carlos Rivera](http://twitter.com/search?q=Carlos+Rivera) | N/A |
-| 13 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 14 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 15 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
-| 16 | [#Incendio](http://twitter.com/search?q=%23Incendio) | Incendio is a Spanish word meaning "fire". It is used to refer to a fire or an outbreak of fire. |
+| 8 | [Secretaría Ejecutiva del INE](http://twitter.com/search?q=Secretar%c3%ada+Ejecutiva+del+INE) | N/A |
+| 9 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 10 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
+| 11 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
+| 12 | [Murieron 39](http://twitter.com/search?q=Murieron+39) | N/A |
+| 13 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
+| 14 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
+| 15 | [Ximena Sariñana](http://twitter.com/search?q=Ximena+Sari%c3%b1ana) | N/A |
+| 16 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
 | 17 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
-| 18 | [#kampfestcdmx](http://twitter.com/search?q=%23kampfestcdmx) | N/A |
-| 19 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 20 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 21 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
-| 22 | [Guacamaya Leaks](http://twitter.com/search?q=Guacamaya+Leaks) | N/A |
-| 23 | [Xochimilco](http://twitter.com/search?q=Xochimilco) | N/A |
-| 24 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 25 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
-| 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 27 | [Cynthia Rodríguez](http://twitter.com/search?q=Cynthia+Rodr%c3%adguez) | N/A |
-| 28 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 29 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 30 | [Mueren 39](http://twitter.com/search?q=Mueren+39) | N/A |
-| 31 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 32 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 33 | [Epigmenio](http://twitter.com/search?q=Epigmenio) | N/A |
-| 34 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
-| 35 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 36 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 37 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 38 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
-| 39 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 40 | [Miércoles 29](http://twitter.com/search?q=Mi%c3%a9rcoles+29) | N/A |
-| 41 | [Enrique de la Madrid](http://twitter.com/search?q=Enrique+de+la+Madrid) | N/A |
-| 42 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 43 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 44 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 45 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
-| 46 | [#CuandoVeoVLA](http://twitter.com/search?q=%23CuandoVeoVLA) | N/A |
-| 47 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 48 | [#PlaydoitMexico](http://twitter.com/search?q=%23PlaydoitMexico) | N/A |
-| 49 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 50 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
+| 18 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
+| 19 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 20 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
+| 21 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 22 | [El INM](http://twitter.com/search?q=El+INM) | N/A |
+| 23 | [Maru Campos](http://twitter.com/search?q=Maru+Campos) | N/A |
+| 24 | [SEGOB](http://twitter.com/search?q=SEGOB) | N/A |
+| 25 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 26 | [INAMI](http://twitter.com/search?q=INAMI) | N/A |
+| 27 | [Federal](http://twitter.com/search?q=Federal) | N/A |
+| 28 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 29 | [Xochimilco](http://twitter.com/search?q=Xochimilco) | N/A |
+| 30 | [#Incendio](http://twitter.com/search?q=%23Incendio) | Incendio is a Spanish word meaning "fire". It is used to refer to a fire or an outbreak of fire. |
+| 31 | [Carlos Rivera](http://twitter.com/search?q=Carlos+Rivera) | N/A |
+| 32 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 33 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
+| 34 | [Guacamaya Leaks](http://twitter.com/search?q=Guacamaya+Leaks) | N/A |
+| 35 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
+| 36 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 37 | [Epigmenio](http://twitter.com/search?q=Epigmenio) | N/A |
+| 38 | [Cynthia Rodríguez](http://twitter.com/search?q=Cynthia+Rodr%c3%adguez) | N/A |
+| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 40 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 41 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 42 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 43 | [Mueren 39](http://twitter.com/search?q=Mueren+39) | N/A |
+| 44 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 45 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
+| 46 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 47 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 48 | [Enrique de la Madrid](http://twitter.com/search?q=Enrique+de+la+Madrid) | N/A |
+| 49 | [Miércoles 29](http://twitter.com/search?q=Mi%c3%a9rcoles+29) | N/A |
+| 50 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 
 
 

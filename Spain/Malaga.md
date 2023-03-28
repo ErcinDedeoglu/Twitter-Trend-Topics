@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-03-28 21:17:28 UTC`
+📆 Last Updated: `2023-03-28 22:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 2 | [Morata](http://twitter.com/search?q=Morata) | Morata is a Spanish surname. It is derived from the Latin word "moratus" which means "delay". In English, it can be translated to mean "delayed". |
-| 3 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 4 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
-| 5 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 7 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 8 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 9 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 10 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 11 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 12 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 13 | [#TierraDeNadie4](http://twitter.com/search?q=%23TierraDeNadie4) | N/A |
-| 14 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 15 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 16 | [Eurocopa](http://twitter.com/search?q=Eurocopa) | N/A |
-| 17 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 18 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
-| 19 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 20 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 21 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 22 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
-| 23 | [Luis Padrique](http://twitter.com/search?q=Luis+Padrique) | N/A |
-| 24 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
-| 25 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
+| 3 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 5 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 6 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 7 | [#TierraDeNadie4](http://twitter.com/search?q=%23TierraDeNadie4) | N/A |
+| 8 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
+| 9 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 10 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 11 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
+| 12 | [Eurocopa](http://twitter.com/search?q=Eurocopa) | N/A |
+| 13 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 14 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 15 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
+| 16 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 17 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 18 | [Luis Padrique](http://twitter.com/search?q=Luis+Padrique) | N/A |
+| 19 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 20 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 21 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
+| 22 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 23 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 24 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 25 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
 | 26 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 27 | [Gaya](http://twitter.com/search?q=Gaya) | N/A |
-| 28 | [#firstdates28m](http://twitter.com/search?q=%23firstdates28m) | N/A |
-| 29 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 30 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 31 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
-| 32 | [#AnaMenaEH](http://twitter.com/search?q=%23AnaMenaEH) | N/A |
+| 27 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
+| 28 | [Gaya](http://twitter.com/search?q=Gaya) | N/A |
+| 29 | [#Hermanos28Mar](http://twitter.com/search?q=%23Hermanos28Mar) | N/A |
+| 30 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 31 | [#AnaMenaEH](http://twitter.com/search?q=%23AnaMenaEH) | N/A |
+| 32 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
 | 33 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 34 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 35 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 36 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
-| 37 | [Cebollas](http://twitter.com/search?q=Cebollas) | N/A |
-| 38 | [Hampden Park](http://twitter.com/search?q=Hampden+Park) | N/A |
+| 34 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 35 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 36 | [Nations League](http://twitter.com/search?q=Nations+League) | N/A |
+| 37 | [Iñigo](http://twitter.com/search?q=I%c3%b1igo) | N/A |
+| 38 | [Cebollas](http://twitter.com/search?q=Cebollas) | N/A |
 | 39 | [Iñaki Sáez](http://twitter.com/search?q=I%c3%b1aki+S%c3%a1ez) | N/A |
-| 40 | [Merino](http://twitter.com/search?q=Merino) | N/A |
-| 41 | [Nations League](http://twitter.com/search?q=Nations+League) | N/A |
-| 42 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 43 | [Ponsatí](http://twitter.com/search?q=Ponsat%c3%ad) | N/A |
-| 44 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 45 | [Rubiales](http://twitter.com/search?q=Rubiales) | N/A |
-| 46 | [Yeremi Pino](http://twitter.com/search?q=Yeremi+Pino) | N/A |
-| 47 | [Raquel Mosquera](http://twitter.com/search?q=Raquel+Mosquera) | N/A |
-| 48 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 49 | [Carcamal](http://twitter.com/search?q=Carcamal) | N/A |
-| 50 | [Iñigo Martínez](http://twitter.com/search?q=I%c3%b1igo+Mart%c3%adnez) | N/A |
+| 40 | [Ponsatí](http://twitter.com/search?q=Ponsat%c3%ad) | N/A |
+| 41 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 42 | [Rubiales](http://twitter.com/search?q=Rubiales) | N/A |
+| 43 | [Merino](http://twitter.com/search?q=Merino) | N/A |
+| 44 | [Alma y Gema](http://twitter.com/search?q=Alma+y+Gema) | N/A |
+| 45 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 46 | [Hampden Park](http://twitter.com/search?q=Hampden+Park) | N/A |
+| 47 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 48 | [Japón y Marruecos](http://twitter.com/search?q=Jap%c3%b3n+y+Marruecos) | N/A |
+| 49 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 50 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
 
 
 

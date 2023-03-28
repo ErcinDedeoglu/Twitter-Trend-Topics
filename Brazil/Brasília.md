@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-28 21:17:17 UTC`
+📆 Last Updated: `2023-03-28 22:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 2 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 3 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 4 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 5 | [Espanha](http://twitter.com/search?q=Espanha) | N/A |
-| 6 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 7 | [monica](http://twitter.com/search?q=monica) | N/A |
-| 8 | [André Fernandes](http://twitter.com/search?q=Andr%c3%a9+Fernandes) | N/A |
-| 9 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 10 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 11 | [CACs](http://twitter.com/search?q=CACs) | N/A |
-| 12 | [Mattos](http://twitter.com/search?q=Mattos) | N/A |
-| 13 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
-| 14 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
-| 15 | [Escócia](http://twitter.com/search?q=Esc%c3%b3cia) | N/A |
-| 16 | [giulia](http://twitter.com/search?q=giulia) | N/A |
-| 17 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
-| 18 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 19 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 20 | [marquezine](http://twitter.com/search?q=marquezine) | N/A |
-| 21 | [Magic Barros](http://twitter.com/search?q=Magic+Barros) | N/A |
-| 22 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 23 | [Bélgica](http://twitter.com/search?q=B%c3%a9lgica) | Bélgica is the Spanish name for Belgium, a country located in Western Europe. It is bordered by France, Germany, Luxembourg, and the Netherlands. The capital of Belgium is Brussels. |
-| 24 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 25 | [sophia valverde](http://twitter.com/search?q=sophia+valverde) | N/A |
-| 26 | [LUDMILLA MERECE JUSTIÇA](http://twitter.com/search?q=LUDMILLA+MERECE+JUSTI%c3%87A) | N/A |
-| 27 | [Zestyx64](http://twitter.com/search?q=Zestyx64) | N/A |
-| 28 | [#ADona076](http://twitter.com/search?q=%23ADona076) | N/A |
-| 29 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
-| 30 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
-| 31 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
+| 1 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 2 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 3 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
+| 4 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 5 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 6 | [Espanha](http://twitter.com/search?q=Espanha) | N/A |
+| 7 | [VAI CHUPETINHA](http://twitter.com/search?q=VAI+CHUPETINHA) | N/A |
+| 8 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
+| 9 | [André Fernandes](http://twitter.com/search?q=Andr%c3%a9+Fernandes) | N/A |
+| 10 | [monica](http://twitter.com/search?q=monica) | N/A |
+| 11 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
+| 12 | [CACs](http://twitter.com/search?q=CACs) | N/A |
+| 13 | [Mattos](http://twitter.com/search?q=Mattos) | N/A |
+| 14 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
+| 15 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
+| 16 | [Lagum](http://twitter.com/search?q=Lagum) | N/A |
+| 17 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 18 | [Deixa a Nicole](http://twitter.com/search?q=Deixa+a+Nicole) | N/A |
+| 19 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 20 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
+| 21 | [Choquei](http://twitter.com/search?q=Choquei) | N/A |
+| 22 | [marquezine](http://twitter.com/search?q=marquezine) | N/A |
+| 23 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 24 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 25 | [#ADona076](http://twitter.com/search?q=%23ADona076) | N/A |
+| 26 | [Escócia](http://twitter.com/search?q=Esc%c3%b3cia) | N/A |
+| 27 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 28 | [giulia](http://twitter.com/search?q=giulia) | N/A |
+| 29 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
+| 30 | [Magic Barros](http://twitter.com/search?q=Magic+Barros) | N/A |
+| 31 | [#CidadeAlertarj](http://twitter.com/search?q=%23CidadeAlertarj) | N/A |
 | 32 | [Menino Ney](http://twitter.com/search?q=Menino+Ney) | N/A |
-| 33 | [Guardou](http://twitter.com/search?q=Guardou) | N/A |
-| 34 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 36 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 37 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 38 | [bianca nakada](http://twitter.com/search?q=bianca+nakada) | N/A |
-| 39 | [Senha](http://twitter.com/search?q=Senha) | N/A |
-| 40 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 41 | [Atuesta](http://twitter.com/search?q=Atuesta) | Atuesta is a Spanish word that means "trust" or "confidence". It is often used to refer to the trust that exists between two people or groups. |
-| 42 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
-| 43 | [JULIETTE COM COLCCI SPORT](http://twitter.com/search?q=JULIETTE+COM+COLCCI+SPORT) | N/A |
-| 44 | [O Palmeiras](http://twitter.com/search?q=O+Palmeiras) | O Palmeiras is a Brazilian football team based in São Paulo. The name literally translates to "The Palms" in English, and is a reference to the state tree of São Paulo, the Palmeira Imperial. |
-| 45 | [Anderson Barros](http://twitter.com/search?q=Anderson+Barros) | N/A |
-| 46 | [O IMPOSSÍVEL ACONTECEU](http://twitter.com/search?q=O+IMPOSS%c3%8dVEL+ACONTECEU) | N/A |
-| 47 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 48 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 49 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 50 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
+| 33 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 34 | [Zestyx64](http://twitter.com/search?q=Zestyx64) | N/A |
+| 35 | [Bélgica](http://twitter.com/search?q=B%c3%a9lgica) | Bélgica is the Spanish name for Belgium, a country located in Western Europe. It is bordered by France, Germany, Luxembourg, and the Netherlands. The capital of Belgium is Brussels. |
+| 36 | [LUDMILLA MERECE JUSTIÇA](http://twitter.com/search?q=LUDMILLA+MERECE+JUSTI%c3%87A) | N/A |
+| 37 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
+| 38 | [Rafaella](http://twitter.com/search?q=Rafaella) | N/A |
+| 39 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
+| 40 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
+| 41 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
+| 42 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 43 | [bianca nakada](http://twitter.com/search?q=bianca+nakada) | N/A |
+| 44 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
+| 45 | [Devon](http://twitter.com/search?q=Devon) | N/A |
+| 46 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 47 | [Guardou](http://twitter.com/search?q=Guardou) | N/A |
+| 48 | [CCJ da Câmara](http://twitter.com/search?q=CCJ+da+C%c3%a2mara) | N/A |
+| 49 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
+| 50 | [Senha](http://twitter.com/search?q=Senha) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-28 21:18:13 UTC`
+📆 Last Updated: `2023-03-28 22:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for South Africa
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 2 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 3 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 4 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 5 | [#Iblewit](http://twitter.com/search?q=%23Iblewit) | N/A |
-| 6 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 7 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 8 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
-| 9 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
-| 10 | [#SAvsWI](http://twitter.com/search?q=%23SAvsWI) | N/A |
-| 11 | [#BeefeaterGinZA](http://twitter.com/search?q=%23BeefeaterGinZA) | N/A |
-| 12 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 13 | [Windies](http://twitter.com/search?q=Windies) | N/A |
-| 14 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 15 | [Reeza Hendricks](http://twitter.com/search?q=Reeza+Hendricks) | N/A |
-| 16 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
-| 17 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 18 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
-| 19 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
-| 20 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
-| 21 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
-| 22 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
-| 23 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
-| 24 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 25 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
-| 26 | [Ronwen Williams](http://twitter.com/search?q=Ronwen+Williams) | N/A |
-| 27 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
-| 28 | [Sithole](http://twitter.com/search?q=Sithole) | N/A |
-| 29 | [Maela](http://twitter.com/search?q=Maela) | N/A |
-| 30 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 31 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
-| 32 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 33 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 34 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
-| 35 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
-| 36 | [#ProteaFire](http://twitter.com/search?q=%23ProteaFire) | N/A |
-| 37 | [Morena](http://twitter.com/search?q=Morena) | N/A |
-| 38 | [Namibia](http://twitter.com/search?q=Namibia) | N/A |
-| 39 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
-| 40 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 41 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
-| 42 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
-| 43 | [Mailula](http://twitter.com/search?q=Mailula) | N/A |
-| 44 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 45 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 46 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 47 | [THABANG MEETS TBANGERS](http://twitter.com/search?q=THABANG+MEETS+TBANGERS) | N/A |
-| 48 | [#ItsWithin](http://twitter.com/search?q=%23ItsWithin) | N/A |
+| 1 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
+| 2 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 3 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 4 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 5 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
+| 6 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 7 | [#MarchBonanza](http://twitter.com/search?q=%23MarchBonanza) | N/A |
+| 8 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
+| 9 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
+| 10 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 11 | [#Iblewit](http://twitter.com/search?q=%23Iblewit) | N/A |
+| 12 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
+| 13 | [#SAvsWI](http://twitter.com/search?q=%23SAvsWI) | N/A |
+| 14 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
+| 15 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 16 | [Ronwen Williams](http://twitter.com/search?q=Ronwen+Williams) | N/A |
+| 17 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
+| 18 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 19 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 20 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 21 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 22 | [Hugo Broos](http://twitter.com/search?q=Hugo+Broos) | N/A |
+| 23 | [Klaasen](http://twitter.com/search?q=Klaasen) | N/A |
+| 24 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 25 | [Belgium](http://twitter.com/search?q=Belgium) | N/A |
+| 26 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
+| 27 | [THABANG MEETS TBANGERS](http://twitter.com/search?q=THABANG+MEETS+TBANGERS) | N/A |
+| 28 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 29 | [Windies](http://twitter.com/search?q=Windies) | N/A |
+| 30 | [Maela](http://twitter.com/search?q=Maela) | N/A |
+| 31 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 32 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
+| 33 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
+| 34 | [Reeza](http://twitter.com/search?q=Reeza) | N/A |
+| 35 | [Red Chilli](http://twitter.com/search?q=Red+Chilli) | N/A |
+| 36 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 37 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
+| 38 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 39 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 40 | [Unborn](http://twitter.com/search?q=Unborn) | N/A |
+| 41 | [Mvala](http://twitter.com/search?q=Mvala) | N/A |
+| 42 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
+| 43 | [Sithole](http://twitter.com/search?q=Sithole) | N/A |
+| 44 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 45 | [Mother of 3](http://twitter.com/search?q=Mother+of+3) | N/A |
+| 46 | [Cilliers Brink](http://twitter.com/search?q=Cilliers+Brink) | N/A |
+| 47 | [Refreshing](http://twitter.com/search?q=Refreshing) | N/A |
+| 48 | [CONGRATULATIONS THEMBABROLY](http://twitter.com/search?q=CONGRATULATIONS+THEMBABROLY) | N/A |
+| 49 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 50 | [Mayambela](http://twitter.com/search?q=Mayambela) | N/A |
 
 
 

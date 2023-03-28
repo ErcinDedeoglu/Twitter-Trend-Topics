@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-28 21:17:26 UTC`
+📆 Last Updated: `2023-03-28 22:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,46 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
-| 2 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
-| 3 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
-| 4 | [#GianniMinà](http://twitter.com/search?q=%23GianniMin%c3%a0) | N/A |
-| 5 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 6 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 7 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
-| 8 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 9 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 10 | [Vulcano](http://twitter.com/search?q=Vulcano) | N/A |
-| 11 | [Condoglianze Paolo](http://twitter.com/search?q=Condoglianze+Paolo) | N/A |
-| 12 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
-| 13 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 14 | [Rublev](http://twitter.com/search?q=Rublev) | Rublev is a Russian surname derived from the given name Ruben. It is most famously associated with the 15th century icon painter and monk Andrei Rublev, who is considered to be one of the greatest medieval Russian painters. The name Rublev can also refer to a type of traditional Russian bread roll. |
-| 15 | [Floris](http://twitter.com/search?q=Floris) | N/A |
-| 16 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 17 | [Calogiuri](http://twitter.com/search?q=Calogiuri) | N/A |
-| 18 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 19 | [Di Battista](http://twitter.com/search?q=Di+Battista) | N/A |
-| 20 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 21 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 22 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
-| 23 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 24 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 25 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 26 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 27 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
-| 28 | [Mirko](http://twitter.com/search?q=Mirko) | N/A |
-| 29 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
-| 30 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
-| 31 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
-| 32 | [Fondente](http://twitter.com/search?q=Fondente) | N/A |
-| 33 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 34 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 35 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
-| 36 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 37 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
-| 38 | [Palla](http://twitter.com/search?q=Palla) | N/A |
-| 39 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 40 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 41 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 42 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 43 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 44 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 45 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 46 | [Massimiliano Caiazzo](http://twitter.com/search?q=Massimiliano+Caiazzo) | N/A |
-| 47 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 48 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
-| 49 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
+| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 2 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 3 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 4 | [Sentita](http://twitter.com/search?q=Sentita) | N/A |
+| 5 | [Avvertita](http://twitter.com/search?q=Avvertita) | N/A |
+| 6 | [Molise](http://twitter.com/search?q=Molise) | N/A |
+| 7 | [Caserta](http://twitter.com/search?q=Caserta) | N/A |
+| 8 | [Abruzzo](http://twitter.com/search?q=Abruzzo) | N/A |
+| 9 | [Puglia](http://twitter.com/search?q=Puglia) | N/A |
+| 10 | [Foggia](http://twitter.com/search?q=Foggia) | N/A |
+| 11 | [Gianluca](http://twitter.com/search?q=Gianluca) | N/A |
+| 12 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 13 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 14 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 15 | [Rublev](http://twitter.com/search?q=Rublev) | Rublev is a Russian surname derived from the given name Ruben. It is most famously associated with the 15th century icon painter and monk Andrei Rublev, who is considered to be one of the greatest medieval Russian painters. The name Rublev can also refer to a type of traditional Russian bread roll. |
+| 16 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 17 | [De Zerbi](http://twitter.com/search?q=De+Zerbi) | De Zerbi is an Italian surname. It is derived from the Latin word zerbus, which means "fox". In English, the name De Zerbi can be translated to mean "of the fox". |
+| 18 | [#terremoto](http://twitter.com/search?q=%23terremoto) | N/A |
+| 19 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 20 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 21 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
+| 22 | [#cartabianca](http://twitter.com/search?q=%23cartabianca) | N/A |
+| 23 | [#ImmaTataranni2](http://twitter.com/search?q=%23ImmaTataranni2) | N/A |
+| 24 | [#leiene](http://twitter.com/search?q=%23leiene) | N/A |
+| 25 | [#supereroi](http://twitter.com/search?q=%23supereroi) | N/A |
+| 26 | [#nonVedono](http://twitter.com/search?q=%23nonVedono) | N/A |
+| 27 | [#DallaStradaalPalco](http://twitter.com/search?q=%23DallaStradaalPalco) | N/A |
+| 28 | [#Ziliani](http://twitter.com/search?q=%23Ziliani) | N/A |
+| 29 | [#Calhanoglu](http://twitter.com/search?q=%23Calhanoglu) | N/A |
+| 30 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 31 | [#Sallusti](http://twitter.com/search?q=%23Sallusti) | N/A |
+| 32 | [#alexwyse](http://twitter.com/search?q=%23alexwyse) | N/A |
+| 33 | [#Carnesintetica](http://twitter.com/search?q=%23Carnesintetica) | N/A |
+| 34 | [#GenteDiMare](http://twitter.com/search?q=%23GenteDiMare) | N/A |
+| 35 | [#Bocchino](http://twitter.com/search?q=%23Bocchino) | N/A |
+| 36 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 37 | [#jetshow](http://twitter.com/search?q=%23jetshow) | N/A |
+| 38 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 39 | [#Lollobrigida](http://twitter.com/search?q=%23Lollobrigida) | N/A |
+| 40 | [#MiamiOpen](http://twitter.com/search?q=%23MiamiOpen) | N/A |
 
 
 

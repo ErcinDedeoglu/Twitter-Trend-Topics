@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-28 21:18:03 UTC`
+📆 Last Updated: `2023-03-28 22:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 1 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
 | 2 | [Darnold](http://twitter.com/search?q=Darnold) | N/A |
-| 3 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
-| 4 | [Trey](http://twitter.com/search?q=Trey) | N/A |
+| 3 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 4 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
 | 5 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 6 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 7 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 8 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 9 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 10 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 6 | [Trey](http://twitter.com/search?q=Trey) | N/A |
+| 7 | [#AmericanNightmare](http://twitter.com/search?q=%23AmericanNightmare) | N/A |
+| 8 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 9 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 10 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
 | 11 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 12 | [#AmericanNightmare](http://twitter.com/search?q=%23AmericanNightmare) | N/A |
-| 13 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
-| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 15 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 16 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 17 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 18 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 19 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 20 | [Florial](http://twitter.com/search?q=Florial) | N/A |
-| 21 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
-| 22 | [Adnan Syed](http://twitter.com/search?q=Adnan+Syed) | N/A |
-| 23 | [No. 0](http://twitter.com/search?q=No.+0) | N/A |
-| 24 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 25 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
-| 26 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 27 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 28 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
-| 29 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 30 | [$AMC](http://twitter.com/search?q=%24AMC) | AMC stands for American Movie Classics, a cable television channel that specializes in classic films from the 1930s to the 1980s. The channel also airs some original programming, such as its popular series Mad Men and Breaking Bad. |
-| 31 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 32 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 33 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
-| 34 | [Premature](http://twitter.com/search?q=Premature) | N/A |
-| 35 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 36 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 37 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 38 | [Attach](http://twitter.com/search?q=Attach) | N/A |
-| 39 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
-| 40 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 41 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
-| 42 | [Top Back](http://twitter.com/search?q=Top+Back) | N/A |
-| 43 | [When the Levee Breaks](http://twitter.com/search?q=When+the+Levee+Breaks) | N/A |
-| 44 | [Deadpool 3](http://twitter.com/search?q=Deadpool+3) | N/A |
-| 45 | [Isiah](http://twitter.com/search?q=Isiah) | N/A |
-| 46 | [Lower Decks](http://twitter.com/search?q=Lower+Decks) | N/A |
-| 47 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 48 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 49 | [kevin jonas](http://twitter.com/search?q=kevin+jonas) | N/A |
-| 50 | [Best Buy](http://twitter.com/search?q=Best+Buy) | N/A |
+| 12 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 13 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 14 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 15 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 16 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 17 | [#PMSLive](http://twitter.com/search?q=%23PMSLive) | N/A |
+| 18 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
+| 19 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
+| 20 | [Adnan Syed](http://twitter.com/search?q=Adnan+Syed) | N/A |
+| 21 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
+| 22 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
+| 23 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 24 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 25 | [#StupidCivilWarQuestions](http://twitter.com/search?q=%23StupidCivilWarQuestions) | N/A |
+| 26 | [#TheFive](http://twitter.com/search?q=%23TheFive) | N/A |
+| 27 | [Florial](http://twitter.com/search?q=Florial) | N/A |
+| 28 | [Premature](http://twitter.com/search?q=Premature) | N/A |
+| 29 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 30 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 31 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 32 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
+| 33 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 34 | [Isiah](http://twitter.com/search?q=Isiah) | N/A |
+| 35 | [Deadpool 3](http://twitter.com/search?q=Deadpool+3) | N/A |
+| 36 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 37 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 38 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
+| 39 | [When the Levee Breaks](http://twitter.com/search?q=When+the+Levee+Breaks) | N/A |
+| 40 | [No. 0](http://twitter.com/search?q=No.+0) | N/A |
+| 41 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 42 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 43 | [Iron Galaxy](http://twitter.com/search?q=Iron+Galaxy) | N/A |
+| 44 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 45 | [Thorkell](http://twitter.com/search?q=Thorkell) | N/A |
+| 46 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 47 | [Top Back](http://twitter.com/search?q=Top+Back) | N/A |
+| 48 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 49 | [Lower Decks](http://twitter.com/search?q=Lower+Decks) | N/A |
+| 50 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
 
 
 

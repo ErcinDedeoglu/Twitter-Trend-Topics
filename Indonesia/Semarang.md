@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-28 21:17:31 UTC`
+📆 Last Updated: `2023-03-28 22:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 2 | [#THEDREAMSHOW2_in_LONDON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_LONDON) | N/A |
-| 3 | [#SahurBCS](http://twitter.com/search?q=%23SahurBCS) | N/A |
-| 4 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 6 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
-| 7 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
-| 8 | [#10ThDiparikan](http://twitter.com/search?q=%2310ThDiparikan) | N/A |
-| 9 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 10 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 11 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 12 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 13 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
+| 2 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
+| 3 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 4 | [#THEDREAMSHOW2_in_LONDON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_LONDON) | N/A |
+| 5 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 6 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 7 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 8 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 9 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
+| 10 | [#SDGsDesaMendunia](http://twitter.com/search?q=%23SDGsDesaMendunia) | N/A |
+| 11 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 13 | [andy park](http://twitter.com/search?q=andy+park) | N/A |
 | 14 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 16 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 17 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
-| 18 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 19 | [ANDY PARK](http://twitter.com/search?q=ANDY+PARK) | N/A |
-| 20 | [Iwak](http://twitter.com/search?q=Iwak) | N/A |
-| 21 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 22 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 23 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 24 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 25 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 26 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 27 | [Cat 1A](http://twitter.com/search?q=Cat+1A) | N/A |
-| 28 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
-| 29 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
-| 30 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
-| 31 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
-| 32 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 33 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 34 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
-| 35 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 36 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 37 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
-| 38 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 39 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
-| 40 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
-| 41 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 42 | [THEY ARE THE WORST](http://twitter.com/search?q=THEY+ARE+THE+WORST) | N/A |
-| 43 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
-| 44 | [want skintific](http://twitter.com/search?q=want+skintific) | N/A |
-| 45 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 46 | [Agust D Tour in Jakarta](http://twitter.com/search?q=Agust+D+Tour+in+Jakarta) | N/A |
-| 47 | [Rasis](http://twitter.com/search?q=Rasis) | N/A |
-| 48 | [SELAMAT YAAA](http://twitter.com/search?q=SELAMAT+YAAA) | N/A |
-| 49 | [VIP B](http://twitter.com/search?q=VIP+B) | N/A |
+| 15 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
+| 16 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 17 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 18 | [Iwak](http://twitter.com/search?q=Iwak) | N/A |
+| 19 | [Semangat](http://twitter.com/search?q=Semangat) | N/A |
+| 20 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
+| 21 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
+| 22 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 23 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 24 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 25 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 26 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 27 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 28 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 29 | [Doyan](http://twitter.com/search?q=Doyan) | N/A |
+| 30 | [BANG UDAH BANG](http://twitter.com/search?q=BANG+UDAH+BANG) | N/A |
+| 31 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 32 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 33 | [CAT 1A](http://twitter.com/search?q=CAT+1A) | N/A |
+| 34 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 35 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
+| 36 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
+| 37 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 38 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
+| 39 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 40 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 41 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
+| 42 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 43 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 44 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 45 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
+| 46 | [Cat 4](http://twitter.com/search?q=Cat+4) | N/A |
+| 47 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 48 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 49 | [Revlon](http://twitter.com/search?q=Revlon) | N/A |
 
 
 
