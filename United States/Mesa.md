@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mesa
 
-📆 Last Updated: `2023-03-28 13:21:36 UTC`
+📆 Last Updated: `2023-03-28 14:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 2 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 3 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 4 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 5 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 6 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 7 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 8 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 9 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 10 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 3 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 4 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 5 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
+| 6 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 7 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 8 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 9 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 10 | [Christians](http://twitter.com/search?q=Christians) | N/A |
 | 11 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
 | 12 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 13 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 14 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 15 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 13 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
+| 14 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
+| 15 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 16 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
-| 17 | [Ciudad Juarez](http://twitter.com/search?q=Ciudad+Juarez) | N/A |
-| 18 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 17 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 18 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
 | 19 | [$BABA](http://twitter.com/search?q=%24BABA) | N/A |
-| 20 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 21 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
-| 22 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 23 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 24 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 25 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
-| 26 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 27 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
-| 28 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
-| 29 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 30 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 31 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 32 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 33 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 34 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 35 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 36 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 37 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 38 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 39 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 40 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
-| 41 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 42 | [Mentally](http://twitter.com/search?q=Mentally) | N/A |
-| 43 | [Hallie Scruggs](http://twitter.com/search?q=Hallie+Scruggs) | N/A |
-| 44 | [Chris Christie](http://twitter.com/search?q=Chris+Christie) | N/A |
-| 45 | [Patriot Act](http://twitter.com/search?q=Patriot+Act) | N/A |
-| 46 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
-| 47 | [Hate Crime](http://twitter.com/search?q=Hate+Crime) | N/A |
-| 48 | [Stormblood](http://twitter.com/search?q=Stormblood) | N/A |
-| 49 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
+| 20 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 21 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
+| 22 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 23 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 24 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 25 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 26 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
+| 27 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 28 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 29 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
+| 30 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 31 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 32 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
+| 33 | [Michael Collazo](http://twitter.com/search?q=Michael+Collazo) | N/A |
+| 34 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
+| 35 | [️GAME DAY](http://twitter.com/search?q=%ef%b8%8fGAME+DAY) | N/A |
+| 36 | [Rex Englebert](http://twitter.com/search?q=Rex+Englebert) | N/A |
+| 37 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 38 | [Pakman](http://twitter.com/search?q=Pakman) | N/A |
+| 39 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 40 | [Jon Moxley](http://twitter.com/search?q=Jon+Moxley) | N/A |
+| 41 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 42 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
+| 43 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 44 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 45 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 46 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 47 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 48 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
+| 49 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
 
 
 

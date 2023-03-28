@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-28 13:21:04 UTC`
+📆 Last Updated: `2023-03-28 14:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,52 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
 | 2 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 3 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 4 | [JAIR PEGOU O ROLEX](http://twitter.com/search?q=JAIR+PEGOU+O+ROLEX) | N/A |
-| 5 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 6 | [Mônica](http://twitter.com/search?q=M%c3%b4nica) | N/A |
-| 7 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 8 | [sophia valverde](http://twitter.com/search?q=sophia+valverde) | N/A |
-| 9 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 10 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 11 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
-| 12 | [Bia Miranda](http://twitter.com/search?q=Bia+Miranda) | N/A |
-| 13 | [#KCLawardsxFreenBecky](http://twitter.com/search?q=%23KCLawardsxFreenBecky) | N/A |
-| 14 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 15 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 16 | [Propina](http://twitter.com/search?q=Propina) | N/A |
-| 17 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 18 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 19 | [#BolsonaroNaCadeia](http://twitter.com/search?q=%23BolsonaroNaCadeia) | N/A |
-| 20 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
-| 21 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 22 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 23 | [Pergunte](http://twitter.com/search?q=Pergunte) | N/A |
-| 24 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 25 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
-| 26 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
-| 27 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 28 | [Celine](http://twitter.com/search?q=Celine) | N/A |
-| 29 | [Poliana](http://twitter.com/search?q=Poliana) | N/A |
-| 30 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 31 | [Antônio Carlos](http://twitter.com/search?q=Ant%c3%b4nio+Carlos) | N/A |
-| 32 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
-| 33 | [Kalil](http://twitter.com/search?q=Kalil) | N/A |
-| 34 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
-| 35 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 36 | [Palio](http://twitter.com/search?q=Palio) | N/A |
-| 37 | [Uruguai](http://twitter.com/search?q=Uruguai) | N/A |
-| 38 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [PowerPoint](http://twitter.com/search?q=PowerPoint) | N/A |
-| 41 | [riverdale](http://twitter.com/search?q=riverdale) | N/A |
-| 42 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
-| 43 | [#HappyBirthdayLadyGaga](http://twitter.com/search?q=%23HappyBirthdayLadyGaga) | N/A |
-| 44 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 45 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 46 | [#foraBRUNAGRIPHAO](http://twitter.com/search?q=%23foraBRUNAGRIPHAO) | N/A |
+| 3 | [JAIR PEGOU O ROLEX](http://twitter.com/search?q=JAIR+PEGOU+O+ROLEX) | N/A |
+| 4 | [Mônica](http://twitter.com/search?q=M%c3%b4nica) | N/A |
+| 5 | [giulia](http://twitter.com/search?q=giulia) | N/A |
+| 6 | [sophia valverde](http://twitter.com/search?q=sophia+valverde) | N/A |
+| 7 | [André Cury](http://twitter.com/search?q=Andr%c3%a9+Cury) | N/A |
+| 8 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 9 | [Bia Miranda](http://twitter.com/search?q=Bia+Miranda) | N/A |
+| 10 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 11 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 12 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 13 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 14 | [#Elementos](http://twitter.com/search?q=%23Elementos) | N/A |
+| 15 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 16 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 17 | [#HappyBirthdayLadyGaga](http://twitter.com/search?q=%23HappyBirthdayLadyGaga) | N/A |
+| 18 | [Luba](http://twitter.com/search?q=Luba) | N/A |
+| 19 | [Magali](http://twitter.com/search?q=Magali) | N/A |
+| 20 | [BOLSONARO NA CADEIA](http://twitter.com/search?q=BOLSONARO+NA+CADEIA) | N/A |
+| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 22 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 23 | [Poliana](http://twitter.com/search?q=Poliana) | N/A |
+| 24 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 25 | [Propina](http://twitter.com/search?q=Propina) | N/A |
+| 26 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 27 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 28 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
+| 29 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 30 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 31 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 32 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
+| 33 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 34 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 35 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
+| 36 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 37 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
+| 38 | [Pergunte](http://twitter.com/search?q=Pergunte) | N/A |
+| 39 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
+| 40 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
+| 41 | [Kalil](http://twitter.com/search?q=Kalil) | N/A |
+| 42 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 43 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 44 | [Palio](http://twitter.com/search?q=Palio) | N/A |
+| 45 | [Jamerson](http://twitter.com/search?q=Jamerson) | N/A |
+| 46 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 47 | [Uruguai](http://twitter.com/search?q=Uruguai) | N/A |
+| 48 | [pardo](http://twitter.com/search?q=pardo) | N/A |
 
 
 

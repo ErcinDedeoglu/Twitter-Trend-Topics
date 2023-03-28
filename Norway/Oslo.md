@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-28 13:21:13 UTC`
+📆 Last Updated: `2023-03-28 14:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
 | 2 | [Janne](http://twitter.com/search?q=Janne) | N/A |
 | 3 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 4 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
-| 5 | [Sissener](http://twitter.com/search?q=Sissener) | N/A |
-| 6 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
-| 7 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
+| 4 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 5 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
+| 6 | [sissener](http://twitter.com/search?q=sissener) | N/A |
+| 7 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
 | 8 | [Vedum](http://twitter.com/search?q=Vedum) | N/A |
 | 9 | [TERFs](http://twitter.com/search?q=TERFs) | N/A |
-| 10 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 11 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
+| 10 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
+| 11 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 12 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 13 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
-| 14 | [Viken](http://twitter.com/search?q=Viken) | N/A |
-| 15 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 17 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 18 | [#ENVtuber](http://twitter.com/search?q=%23ENVtuber) | N/A |
-| 19 | [Gardermoen](http://twitter.com/search?q=Gardermoen) | N/A |
-| 20 | [David](http://twitter.com/search?q=David) | N/A |
-| 21 | [Papillon](http://twitter.com/search?q=Papillon) | N/A |
-| 22 | [Sikker](http://twitter.com/search?q=Sikker) | N/A |
-| 23 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 24 | [Republican](http://twitter.com/search?q=Republican) | N/A |
-| 25 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 26 | [aker](http://twitter.com/search?q=aker) | N/A |
-| 27 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
-| 28 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 29 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 32 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
-| 33 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 34 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
-| 35 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 36 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
-| 37 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 38 | [eøs-avtalen](http://twitter.com/search?q=e%c3%b8s-avtalen) | N/A |
-| 39 | [Kommer](http://twitter.com/search?q=Kommer) | N/A |
-| 40 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 41 | [#PulseChain](http://twitter.com/search?q=%23PulseChain) | N/A |
-| 42 | [sandnes](http://twitter.com/search?q=sandnes) | N/A |
-| 43 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 44 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 45 | [agder](http://twitter.com/search?q=agder) | N/A |
-| 46 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 47 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 48 | [Recovery Norge](http://twitter.com/search?q=Recovery+Norge) | N/A |
-| 49 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 50 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
+| 13 | [Gardermoen](http://twitter.com/search?q=Gardermoen) | N/A |
+| 14 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 15 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
+| 16 | [viken](http://twitter.com/search?q=viken) | N/A |
+| 17 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 18 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
+| 19 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 21 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 22 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 23 | [Papillon](http://twitter.com/search?q=Papillon) | N/A |
+| 24 | [sikker](http://twitter.com/search?q=sikker) | N/A |
+| 25 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Republican](http://twitter.com/search?q=Republican) | N/A |
+| 28 | [Aker](http://twitter.com/search?q=Aker) | N/A |
+| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 30 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 31 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 32 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | N/A |
+| 33 | [Spania](http://twitter.com/search?q=Spania) | N/A |
+| 34 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 35 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
+| 36 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 37 | [eøs-avtalen](http://twitter.com/search?q=e%c3%b8s-avtalen) | N/A |
+| 38 | [kommer](http://twitter.com/search?q=kommer) | N/A |
+| 39 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 40 | [#PulseChain](http://twitter.com/search?q=%23PulseChain) | N/A |
+| 41 | [sandnes](http://twitter.com/search?q=sandnes) | N/A |
+| 42 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 43 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 44 | [agder](http://twitter.com/search?q=agder) | N/A |
+| 45 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 46 | [recovery norge](http://twitter.com/search?q=recovery+norge) | N/A |
+| 47 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 48 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 49 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 50 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 
 
 

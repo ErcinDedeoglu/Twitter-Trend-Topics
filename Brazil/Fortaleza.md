@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-03-28 13:21:05 UTC`
+📆 Last Updated: `2023-03-28 14:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
+| 1 | [palestino](http://twitter.com/search?q=palestino) | N/A |
 | 2 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
 | 3 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
 | 4 | [Marvila](http://twitter.com/search?q=Marvila) | N/A |
 | 5 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
 | 6 | [JAIR PEGOU O ROLEX](http://twitter.com/search?q=JAIR+PEGOU+O+ROLEX) | N/A |
-| 7 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 8 | [Mônica](http://twitter.com/search?q=M%c3%b4nica) | N/A |
-| 9 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 10 | [sophia valverde](http://twitter.com/search?q=sophia+valverde) | N/A |
-| 11 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 12 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 13 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
-| 14 | [Bia Miranda](http://twitter.com/search?q=Bia+Miranda) | N/A |
-| 15 | [#KCLawardsxFreenBecky](http://twitter.com/search?q=%23KCLawardsxFreenBecky) | N/A |
-| 16 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 17 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 18 | [Propina](http://twitter.com/search?q=Propina) | N/A |
-| 19 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 20 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
-| 21 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 22 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 23 | [Pergunte](http://twitter.com/search?q=Pergunte) | N/A |
-| 24 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 25 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
-| 26 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
-| 27 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 28 | [Celine](http://twitter.com/search?q=Celine) | N/A |
-| 29 | [Poliana](http://twitter.com/search?q=Poliana) | N/A |
-| 30 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 31 | [Antônio Carlos](http://twitter.com/search?q=Ant%c3%b4nio+Carlos) | N/A |
-| 32 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
-| 33 | [Kalil](http://twitter.com/search?q=Kalil) | N/A |
-| 34 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
-| 35 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 36 | [Palio](http://twitter.com/search?q=Palio) | N/A |
-| 37 | [Uruguai](http://twitter.com/search?q=Uruguai) | N/A |
-| 38 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [PowerPoint](http://twitter.com/search?q=PowerPoint) | N/A |
-| 41 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
-| 42 | [riverdale](http://twitter.com/search?q=riverdale) | N/A |
-| 43 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 44 | [#BolsonaroNaCadeia](http://twitter.com/search?q=%23BolsonaroNaCadeia) | N/A |
-| 45 | [#HappyBirthdayLadyGaga](http://twitter.com/search?q=%23HappyBirthdayLadyGaga) | N/A |
-| 46 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 47 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 7 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 8 | [giulia](http://twitter.com/search?q=giulia) | N/A |
+| 9 | [sophia valverde](http://twitter.com/search?q=sophia+valverde) | N/A |
+| 10 | [André Cury](http://twitter.com/search?q=Andr%c3%a9+Cury) | N/A |
+| 11 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 12 | [Bia Miranda](http://twitter.com/search?q=Bia+Miranda) | N/A |
+| 13 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 14 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 15 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
+| 16 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 17 | [#Elementos](http://twitter.com/search?q=%23Elementos) | N/A |
+| 18 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 19 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 20 | [Luba](http://twitter.com/search?q=Luba) | N/A |
+| 21 | [BOLSONARO NA CADEIA](http://twitter.com/search?q=BOLSONARO+NA+CADEIA) | N/A |
+| 22 | [Magali](http://twitter.com/search?q=Magali) | N/A |
+| 23 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 24 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 25 | [Poliana](http://twitter.com/search?q=Poliana) | N/A |
+| 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 27 | [Propina](http://twitter.com/search?q=Propina) | N/A |
+| 28 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 29 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 30 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
+| 31 | [Xande](http://twitter.com/search?q=Xande) | N/A |
+| 32 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 33 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
+| 34 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 35 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 36 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
+| 37 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 38 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
+| 39 | [Pergunte](http://twitter.com/search?q=Pergunte) | N/A |
+| 40 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
+| 41 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
+| 42 | [Kalil](http://twitter.com/search?q=Kalil) | N/A |
+| 43 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 44 | [Barney](http://twitter.com/search?q=Barney) | N/A |
+| 45 | [Palio](http://twitter.com/search?q=Palio) | N/A |
+| 46 | [Jamerson](http://twitter.com/search?q=Jamerson) | N/A |
+| 47 | [Marx](http://twitter.com/search?q=Marx) | N/A |
 
 
 

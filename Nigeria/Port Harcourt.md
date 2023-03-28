@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-28 13:21:22 UTC`
+📆 Last Updated: `2023-03-28 14:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Portable](http://twitter.com/search?q=Portable) | N/A |
 | 2 | [Mummy GO](http://twitter.com/search?q=Mummy+GO) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [#untilmoneydouspart](http://twitter.com/search?q=%23untilmoneydouspart) | N/A |
-| 5 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 6 | [#buyreno8tnow](http://twitter.com/search?q=%23buyreno8tnow) | N/A |
-| 7 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
-| 8 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
-| 9 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 3 | [#SPARKSelfieStory](http://twitter.com/search?q=%23SPARKSelfieStory) | N/A |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [#untilmoneydouspart](http://twitter.com/search?q=%23untilmoneydouspart) | N/A |
+| 6 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 7 | [#buyreno8tnow](http://twitter.com/search?q=%23buyreno8tnow) | N/A |
+| 8 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 9 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
 | 10 | [Whitemoney](http://twitter.com/search?q=Whitemoney) | N/A |
-| 11 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
-| 12 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 13 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
-| 14 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
-| 15 | [Labaran Maku](http://twitter.com/search?q=Labaran+Maku) | N/A |
-| 16 | [Balogun Market](http://twitter.com/search?q=Balogun+Market) | N/A |
-| 17 | [Primary 3](http://twitter.com/search?q=Primary+3) | N/A |
-| 18 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 19 | [Alignment](http://twitter.com/search?q=Alignment) | N/A |
-| 20 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
-| 21 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 22 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 23 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 24 | [PHYNA IS CLEAR](http://twitter.com/search?q=PHYNA+IS+CLEAR) | N/A |
-| 25 | [unstoppable yemi cregx](http://twitter.com/search?q=unstoppable+yemi+cregx) | N/A |
-| 26 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 27 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
-| 28 | [Hourly](http://twitter.com/search?q=Hourly) | N/A |
-| 29 | [Zazoo](http://twitter.com/search?q=Zazoo) | N/A |
-| 30 | [70% of Nigerian](http://twitter.com/search?q=70%25+of+Nigerian) | N/A |
-| 31 | [Abundance](http://twitter.com/search?q=Abundance) | N/A |
+| 11 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 12 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
+| 13 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
+| 14 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 15 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
+| 16 | [Primary 3](http://twitter.com/search?q=Primary+3) | N/A |
+| 17 | [Labaran Maku](http://twitter.com/search?q=Labaran+Maku) | N/A |
+| 18 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
+| 19 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 20 | [Abundance](http://twitter.com/search?q=Abundance) | N/A |
+| 21 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 22 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 23 | [70% of Nigerian](http://twitter.com/search?q=70%25+of+Nigerian) | N/A |
+| 24 | [Zazoo](http://twitter.com/search?q=Zazoo) | N/A |
+| 25 | [Umar Damagum](http://twitter.com/search?q=Umar+Damagum) | N/A |
+| 26 | [PHYNA IS CLEAR](http://twitter.com/search?q=PHYNA+IS+CLEAR) | N/A |
+| 27 | [unstoppable yemi cregx](http://twitter.com/search?q=unstoppable+yemi+cregx) | N/A |
+| 28 | [Alignment](http://twitter.com/search?q=Alignment) | N/A |
+| 29 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 30 | [Hourly](http://twitter.com/search?q=Hourly) | N/A |
+| 31 | [Balogun Market](http://twitter.com/search?q=Balogun+Market) | N/A |
 | 32 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 33 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
-| 34 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 35 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
-| 36 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 37 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 38 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
+| 33 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
+| 34 | [Compassion](http://twitter.com/search?q=Compassion) | N/A |
+| 35 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
+| 36 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
+| 37 | [Obike Air](http://twitter.com/search?q=Obike+Air) | N/A |
+| 38 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 39 | [PHYNA MAKES MONEY](http://twitter.com/search?q=PHYNA+MAKES+MONEY) | N/A |
-| 40 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 41 | [census](http://twitter.com/search?q=census) | N/A |
-| 42 | [Tomisin](http://twitter.com/search?q=Tomisin) | N/A |
-| 43 | [Pere](http://twitter.com/search?q=Pere) | N/A |
-| 44 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
-| 45 | [Obike Air](http://twitter.com/search?q=Obike+Air) | N/A |
-| 46 | [Davido and Asake](http://twitter.com/search?q=Davido+and+Asake) | N/A |
-| 47 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 48 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 40 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 41 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 42 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
+| 43 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 44 | [Pere](http://twitter.com/search?q=Pere) | N/A |
+| 45 | [Census](http://twitter.com/search?q=Census) | N/A |
+| 46 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 47 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 48 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
 
 
 

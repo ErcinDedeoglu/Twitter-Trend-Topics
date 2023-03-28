@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-03-28 13:21:29 UTC`
+📆 Last Updated: `2023-03-28 14:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#XAUUSD](http://twitter.com/search?q=%23XAUUSD) | N/A |
 | 2 | [#योगी_हैं_तो_यकीन_है](http://twitter.com/search?q=%23%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80_%e0%a4%b9%e0%a5%88%e0%a4%82_%e0%a4%a4%e0%a5%8b_%e0%a4%af%e0%a4%95%e0%a5%80%e0%a4%a8_%e0%a4%b9%e0%a5%88) | N/A |
-| 3 | [#realmeC55SaleLiveNow](http://twitter.com/search?q=%23realmeC55SaleLiveNow) | N/A |
-| 4 | [#undemocratickcr](http://twitter.com/search?q=%23undemocratickcr) | N/A |
+| 3 | [#PehleMyTeam11](http://twitter.com/search?q=%23PehleMyTeam11) | N/A |
+| 4 | [#MeraGharAapkaGhar](http://twitter.com/search?q=%23MeraGharAapkaGhar) | N/A |
 | 5 | [Latest Android 13](http://twitter.com/search?q=Latest+Android+13) | N/A |
-| 6 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 7 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
-| 8 | [4GB RAM](http://twitter.com/search?q=4GB+RAM) | N/A |
-| 9 | [RECORD BREAKING GC FIRSTLOOK](http://twitter.com/search?q=RECORD+BREAKING+GC+FIRSTLOOK) | N/A |
-| 10 | [Brandon](http://twitter.com/search?q=Brandon) | N/A |
+| 6 | [90Hz Punch Hole Display](http://twitter.com/search?q=90Hz+Punch+Hole+Display) | N/A |
+| 7 | [4GB RAM](http://twitter.com/search?q=4GB+RAM) | N/A |
+| 8 | [लाल किले](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a5%87) | N/A |
+| 9 | [Brandon](http://twitter.com/search?q=Brandon) | N/A |
+| 10 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
 | 11 | [नेपाल भारत](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 12 | [VINTAGE ANNA IS BACK](http://twitter.com/search?q=VINTAGE+ANNA+IS+BACK) | N/A |
-| 13 | [पैन कार्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%88%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 14 | [शांति मार्च](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a) | N/A |
-| 15 | [दिनेश पासी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
-| 16 | [Mahua](http://twitter.com/search?q=Mahua) | N/A |
-| 17 | [समय सीमा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%af+%e0%a4%b8%e0%a5%80%e0%a4%ae%e0%a4%be) | N/A |
-| 18 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
-| 19 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
-| 20 | [अहमद दोषी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
-| 21 | [Sharjeel Imam](http://twitter.com/search?q=Sharjeel+Imam) | N/A |
-| 22 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 23 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 24 | [लोकतंत्र बचाओ](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 25 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
-| 26 | [सऊदी अरब](http://twitter.com/search?q=%e0%a4%b8%e0%a4%8a%e0%a4%a6%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a4%ac) | N/A |
-| 27 | [MP-MLA](http://twitter.com/search?q=MP-MLA) | N/A |
-| 28 | [Chokli](http://twitter.com/search?q=Chokli) | N/A |
-| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 30 | [Musical](http://twitter.com/search?q=Musical) | N/A |
-| 31 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 32 | [NDTV](http://twitter.com/search?q=NDTV) | NDTV stands for New Delhi Television, which is an Indian news channel. It was founded in 1988 and is one of the most popular news channels in India. |
-| 33 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
-| 34 | [#motog13](http://twitter.com/search?q=%23motog13) | N/A |
-| 35 | [#RavanasuraTrailer](http://twitter.com/search?q=%23RavanasuraTrailer) | N/A |
-| 36 | [#FindYourEdge](http://twitter.com/search?q=%23FindYourEdge) | N/A |
-| 37 | [#HatkeExperience](http://twitter.com/search?q=%23HatkeExperience) | N/A |
-| 38 | [#KGZIND](http://twitter.com/search?q=%23KGZIND) | N/A |
-| 39 | [#UADay](http://twitter.com/search?q=%23UADay) | N/A |
-| 40 | [#PathashreeRastashree](http://twitter.com/search?q=%23PathashreeRastashree) | N/A |
-| 41 | [#PriyankaChopra](http://twitter.com/search?q=%23PriyankaChopra) | N/A |
-| 42 | [#ShahRukhKhan𓀠](http://twitter.com/search?q=%23ShahRukhKhan%f0%93%80%a0) | N/A |
-| 43 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
-| 44 | [#IndiaDigitalFest](http://twitter.com/search?q=%23IndiaDigitalFest) | N/A |
-| 45 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 46 | [#UmeshPalKidnappingCase](http://twitter.com/search?q=%23UmeshPalKidnappingCase) | N/A |
-| 47 | [#EdappadiPalanisamy](http://twitter.com/search?q=%23EdappadiPalanisamy) | N/A |
-| 48 | [#Campus200Strong](http://twitter.com/search?q=%23Campus200Strong) | N/A |
+| 12 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
+| 13 | [शांति मार्च](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a) | N/A |
+| 14 | [VINTAGE ANNA IS BACK](http://twitter.com/search?q=VINTAGE+ANNA+IS+BACK) | N/A |
+| 15 | [RECORD BREAKING GC FIRSTLOOK](http://twitter.com/search?q=RECORD+BREAKING+GC+FIRSTLOOK) | N/A |
+| 16 | [दिनेश पासी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
+| 17 | [पैन कार्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%88%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 18 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
+| 19 | [लोकतंत्र बचाओ](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 20 | [समय सीमा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%af+%e0%a4%b8%e0%a5%80%e0%a4%ae%e0%a4%be) | N/A |
+| 21 | [Mahua](http://twitter.com/search?q=Mahua) | N/A |
+| 22 | [अहमद दोषी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
+| 23 | [Sharjeel Imam](http://twitter.com/search?q=Sharjeel+Imam) | N/A |
+| 24 | [Hakla](http://twitter.com/search?q=Hakla) | N/A |
+| 25 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
+| 26 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 27 | [Nepal](http://twitter.com/search?q=Nepal) | Nepal is a country located in South Asia, between India and China. The name Nepal is derived from the Sanskrit word "nepala," which means "at the foot of the mountains." |
+| 28 | [सऊदी अरब](http://twitter.com/search?q=%e0%a4%b8%e0%a4%8a%e0%a4%a6%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a4%ac) | N/A |
+| 29 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 30 | [MP-MLA](http://twitter.com/search?q=MP-MLA) | N/A |
+| 31 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 32 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 33 | [#AbhishekSingh](http://twitter.com/search?q=%23AbhishekSingh) | N/A |
+| 34 | [#realmeC55SaleLiveNow](http://twitter.com/search?q=%23realmeC55SaleLiveNow) | N/A |
+| 35 | [#UndemocraticKCR](http://twitter.com/search?q=%23UndemocraticKCR) | N/A |
+| 36 | [#Desamuduru4KSpecialShows](http://twitter.com/search?q=%23Desamuduru4KSpecialShows) | N/A |
+| 37 | [#motog13](http://twitter.com/search?q=%23motog13) | N/A |
+| 38 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
+| 39 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
+| 40 | [#FindYourEdge](http://twitter.com/search?q=%23FindYourEdge) | N/A |
+| 41 | [#HatkeExperience](http://twitter.com/search?q=%23HatkeExperience) | N/A |
+| 42 | [#RavanasuraTrailer](http://twitter.com/search?q=%23RavanasuraTrailer) | N/A |
+| 43 | [#KGZIND](http://twitter.com/search?q=%23KGZIND) | N/A |
+| 44 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
+| 45 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 46 | [#PathashreeRastashree](http://twitter.com/search?q=%23PathashreeRastashree) | N/A |
+| 47 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
+| 48 | [#AskShalin](http://twitter.com/search?q=%23AskShalin) | N/A |
 
 
 

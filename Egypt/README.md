@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-03-28 13:21:42 UTC`
+📆 Last Updated: `2023-03-28 14:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Egypt
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [طارق حامد](http://twitter.com/search?q=%d8%b7%d8%a7%d8%b1%d9%82+%d8%ad%d8%a7%d9%85%d8%af) | طارق حامد is an Arabic name, which translates to English as Tariq Hamed. |
-| 2 | [#رشه_السابع](http://twitter.com/search?q=%23%d8%b1%d8%b4%d9%87_%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9) | N/A |
-| 3 | [٦ رمضان](http://twitter.com/search?q=%d9%a6+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 4 | [#الكيان_ينهار](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d9%8a%d9%86%d9%87%d8%a7%d8%b1) | N/A |
-| 5 | [تشكيل منتخب مصر](http://twitter.com/search?q=%d8%aa%d8%b4%d9%83%d9%8a%d9%84+%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
-| 6 | [#مصر_مالاوي](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d9%85%d8%a7%d9%84%d8%a7%d9%88%d9%8a) | N/A |
-| 7 | [#رمضان_الخير_2023](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_2023) | N/A |
-| 8 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 9 | [#مصطفي__شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a__%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 10 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
-| 11 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
-| 12 | [خليل](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 13 | [علي قاسم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a7%d8%b3%d9%85) | N/A |
-| 14 | [حسن شاكوش](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%b4%d8%a7%d9%83%d9%88%d8%b4) | N/A |
-| 15 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 16 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 17 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
-| 18 | [الحلقه الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
-| 19 | [محمد شاهين](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%a7%d9%87%d9%8a%d9%86) | N/A |
-| 20 | [الحوار الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 21 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 22 | [28 مارس 2023](http://twitter.com/search?q=28+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 23 | [خالد النبوي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a) | N/A |
-| 24 | [اسماء جلال](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%a1+%d8%ac%d9%84%d8%a7%d9%84) | N/A |
-| 25 | [الجوله الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 26 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
-| 27 | [علي الانتخابات](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa) | N/A |
-| 28 | [الحلقه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
-| 29 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 30 | [الاشراف القضايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%b1%d8%a7%d9%81+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a) | N/A |
-| 31 | [الكميات المعروضه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d8%b6%d9%87) | N/A |
-| 32 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 33 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
-| 34 | [الكبير النهارده](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1%d8%af%d9%87) | N/A |
-| 35 | [الربيع العبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9+%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d9%8a) | N/A |
-| 36 | [خالد يوسف](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 37 | [المنافذ التموينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b0+%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 38 | [عمرو أديب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%a3%d8%af%d9%8a%d8%a8) | N/A |
-| 39 | [ابو الوفا](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d9%88%d9%81%d8%a7) | N/A |
-| 40 | [حصه الرسم](http://twitter.com/search?q=%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%b1%d8%b3%d9%85) | N/A |
-| 41 | [ايمان العاصي](http://twitter.com/search?q=%d8%a7%d9%8a%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%8a) | N/A |
-| 42 | [منتخب السودان](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
-| 43 | [علاء مبارك](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 44 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
-| 45 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
-| 46 | [الحالات الحرجه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d8%b1%d8%ac%d9%87) | N/A |
-| 47 | [ابو الغار](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%84%d8%ba%d8%a7%d8%b1) | N/A |
-| 48 | [دار الارقم](http://twitter.com/search?q=%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b1%d9%82%d9%85) | N/A |
-| 49 | [علي العمليه الانتخابيه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d9%8a%d9%87) | N/A |
-| 50 | [حمزة يوسف](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 2 | [#مصر_مالاوي](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d9%85%d8%a7%d9%84%d8%a7%d9%88%d9%8a) | N/A |
+| 3 | [منتخب مصر](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
+| 4 | [فيتوريا](http://twitter.com/search?q=%d9%81%d9%8a%d8%aa%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 5 | [عمر مرموش](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d9%85%d8%b1%d9%85%d9%88%d8%b4) | N/A |
+| 6 | [٦ رمضان](http://twitter.com/search?q=%d9%a6+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 7 | [مصطفي محمد](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 8 | [#الكيان_ينهار](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d9%8a%d9%86%d9%87%d8%a7%d8%b1) | N/A |
+| 9 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 10 | [الهدف الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 11 | [#رمضان_الخير_2023](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_2023) | N/A |
+| 12 | [الهرشه السابعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b1%d8%b4%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 13 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
+| 14 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 15 | [#عمرو__سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88__%d8%b3%d8%b9%d8%af) | N/A |
+| 16 | [الزمالك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | الزمالك is a professional football club based in Cairo, Egypt. The club was founded in 1948 and is one of the most successful clubs in the Egyptian Premier League. The name الزمالك translates to "The Champions" in English. |
+| 17 | [علي محمد علي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d9%84%d9%8a) | N/A |
+| 18 | [#رمضان6](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%866) | N/A |
+| 19 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
+| 20 | [خليل](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84) | N/A |
+| 21 | [علي قاسم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a7%d8%b3%d9%85) | N/A |
+| 22 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 23 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 24 | [حسن شاكوش](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%b4%d8%a7%d9%83%d9%88%d8%b4) | N/A |
+| 25 | [الحلقه الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
+| 26 | [الحوار الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 27 | [محمد شاهين](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%a7%d9%87%d9%8a%d9%86) | N/A |
+| 28 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
+| 29 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 30 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
+| 31 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 32 | [28 مارس 2023](http://twitter.com/search?q=28+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 33 | [البنك الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 34 | [الشوط التاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%86%d9%8a) | N/A |
+| 35 | [المنتخب المصري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 36 | [الجوله الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 37 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
+| 38 | [خالد النبوي](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a) | N/A |
+| 39 | [علي الانتخابات](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa) | N/A |
+| 40 | [الاشراف القضايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%b1%d8%a7%d9%81+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a) | N/A |
+| 41 | [عمر جابر](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | عمر جابر is an Arabic name meaning "Omar the Brave". |
+| 42 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 43 | [الحلقه الرابعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9%d9%87) | N/A |
+| 44 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 45 | [اسماء جلال](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%a1+%d8%ac%d9%84%d8%a7%d9%84) | N/A |
+| 46 | [الكميات المعروضه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%85%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d8%b6%d9%87) | N/A |
+| 47 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 48 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
+| 49 | [الكبير النهارده](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d8%b1%d8%af%d9%87) | N/A |
+| 50 | [المنافذ التموينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d9%81%d8%b0+%d8%a7%d9%84%d8%aa%d9%85%d9%88%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 
 
 

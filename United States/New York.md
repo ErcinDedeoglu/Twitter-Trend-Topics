@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-28 13:21:37 UTC`
+📆 Last Updated: `2023-03-28 14:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 3 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 4 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 5 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 6 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 7 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 8 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 9 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 10 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 11 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 12 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 5 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 6 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 7 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
+| 8 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 9 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 10 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 11 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 12 | [Christians](http://twitter.com/search?q=Christians) | N/A |
 | 13 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
-| 14 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 15 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 16 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 17 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
-| 18 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 19 | [Ciudad Juarez](http://twitter.com/search?q=Ciudad+Juarez) | N/A |
-| 20 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 14 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 15 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
+| 16 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
+| 17 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 18 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
+| 19 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 20 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
 | 21 | [$BABA](http://twitter.com/search?q=%24BABA) | N/A |
-| 22 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
-| 23 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 24 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 25 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
-| 26 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 27 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 28 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
-| 29 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 30 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
-| 31 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 32 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
-| 33 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 34 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 35 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 36 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 37 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 38 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 39 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 40 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 41 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 42 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 43 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
-| 44 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 45 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 46 | [Mentally](http://twitter.com/search?q=Mentally) | N/A |
-| 47 | [The Nashville](http://twitter.com/search?q=The+Nashville) | N/A |
-| 48 | [Hallie Scruggs](http://twitter.com/search?q=Hallie+Scruggs) | N/A |
-| 49 | [Chris Christie](http://twitter.com/search?q=Chris+Christie) | N/A |
-| 50 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 22 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 23 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
+| 24 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 25 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 26 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 27 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 28 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
+| 29 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 30 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 31 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 32 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
+| 33 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 34 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
+| 35 | [Michael Collazo](http://twitter.com/search?q=Michael+Collazo) | N/A |
+| 36 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
+| 37 | [️GAME DAY](http://twitter.com/search?q=%ef%b8%8fGAME+DAY) | N/A |
+| 38 | [Rex Englebert](http://twitter.com/search?q=Rex+Englebert) | N/A |
+| 39 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 40 | [Pakman](http://twitter.com/search?q=Pakman) | N/A |
+| 41 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 42 | [Jon Moxley](http://twitter.com/search?q=Jon+Moxley) | N/A |
+| 43 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 44 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
+| 45 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 46 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 47 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 48 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 49 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 50 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
 
 
 

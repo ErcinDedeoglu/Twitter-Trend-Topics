@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-28 13:21:44 UTC`
+📆 Last Updated: `2023-03-28 14:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for Jordan
 | ------- | ------------ | ------------ |
 | 1 | [ابو امي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%85%d9%8a) | N/A |
 | 2 | [٦ رمضان](http://twitter.com/search?q=%d9%a6+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 3 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 4 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
-| 5 | [#تل_ابيب](http://twitter.com/search?q=%23%d8%aa%d9%84_%d8%a7%d8%a8%d9%8a%d8%a8) | N/A |
-| 6 | [ابو بكر الصديق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
-| 7 | [مستقبل العمل السياسي](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84+%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 8 | [#متحف_الدبابات_الملكي](http://twitter.com/search?q=%23%d9%85%d8%aa%d8%ad%d9%81_%d8%a7%d9%84%d8%af%d8%a8%d8%a7%d8%a8%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 9 | [#نتنياهو](http://twitter.com/search?q=%23%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88) | N/A |
-| 10 | [#الكيان_ينهار](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d9%8a%d9%86%d9%87%d8%a7%d8%b1) | N/A |
-| 11 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 12 | [#فرنسا](http://twitter.com/search?q=%23%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 13 | [الجيل الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 14 | [جدول الميد](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%8a%d8%af) | N/A |
-| 15 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 16 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 3 | [البنك الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 4 | [#تل_ابيب](http://twitter.com/search?q=%23%d8%aa%d9%84_%d8%a7%d8%a8%d9%8a%d8%a8) | N/A |
+| 5 | [ابو بكر الصديق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
+| 6 | [مستقبل العمل السياسي](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84+%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 7 | [#نتنياهو](http://twitter.com/search?q=%23%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88) | N/A |
+| 8 | [#الكيان_ينهار](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d9%8a%d9%86%d9%87%d8%a7%d8%b1) | N/A |
+| 9 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 10 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 11 | [متحف الدبابات الملكي](http://twitter.com/search?q=%d9%85%d8%aa%d8%ad%d9%81+%d8%a7%d9%84%d8%af%d8%a8%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
+| 12 | [الجيل الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d9%84+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 13 | [جدول الميد](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%8a%d8%af) | N/A |
+| 14 | [#اسراييل](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84) | N/A |
+| 15 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 16 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
 | 17 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 18 | [مبارك دكتور](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
-| 19 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 20 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
-| 21 | [عسير](http://twitter.com/search?q=%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
-| 22 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
-| 23 | [بلاد الشام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%b4%d8%a7%d9%85) | N/A |
-| 24 | [علي الدوام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85) | N/A |
-| 25 | [رانيا العبدالله](http://twitter.com/search?q=%d8%b1%d8%a7%d9%86%d9%8a%d8%a7+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 26 | [السقوف السعريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%82%d9%88%d9%81+%d8%a7%d9%84%d8%b3%d8%b9%d8%b1%d9%8a%d9%87) | N/A |
-| 27 | [بيكيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 28 | [علي يوتيوب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
-| 29 | [حمزة يوسف](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 30 | [حسب الشخص](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a8+%d8%a7%d9%84%d8%b4%d8%ae%d8%b5) | N/A |
-| 31 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
-| 32 | [السوق المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 18 | [#بريطانيا](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 19 | [مبارك دكتور](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
+| 20 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 21 | [بلاد الشام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%b4%d8%a7%d9%85) | N/A |
+| 22 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 23 | [عسير](http://twitter.com/search?q=%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
+| 24 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
+| 25 | [علي الدوام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85) | N/A |
+| 26 | [رانيا العبدالله](http://twitter.com/search?q=%d8%b1%d8%a7%d9%86%d9%8a%d8%a7+%d8%a7%d9%84%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 27 | [السقوف السعريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%82%d9%88%d9%81+%d8%a7%d9%84%d8%b3%d8%b9%d8%b1%d9%8a%d9%87) | N/A |
+| 28 | [بيكيه](http://twitter.com/search?q=%d8%a8%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 29 | [علي يوتيوب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
+| 30 | [حمزة يوسف](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 31 | [حسب الشخص](http://twitter.com/search?q=%d8%ad%d8%b3%d8%a8+%d8%a7%d9%84%d8%b4%d8%ae%d8%b5) | N/A |
+| 32 | [اليوم الرابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
 | 33 | [الاصلاح القضايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a) | N/A |
 | 34 | [ميز مال](http://twitter.com/search?q=%d9%85%d9%8a%d8%b2+%d9%85%d8%a7%d9%84) | N/A |
 | 35 | [الشعب الفلسطيني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a) | N/A |
 | 36 | [أعصاب](http://twitter.com/search?q=%d8%a3%d8%b9%d8%b5%d8%a7%d8%a8) | N/A |
-| 37 | [المنطقه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 38 | [الجامعه الاردنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a%d9%87) | N/A |
-| 39 | [إربد](http://twitter.com/search?q=%d8%a5%d8%b1%d8%a8%d8%af) | N/A |
-| 40 | [جيرارد](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d8%a7%d8%b1%d8%af) | N/A |
-| 41 | [شرعي](http://twitter.com/search?q=%d8%b4%d8%b1%d8%b9%d9%8a) | N/A |
-| 42 | [أشعة](http://twitter.com/search?q=%d8%a3%d8%b4%d8%b9%d8%a9) | N/A |
-| 43 | [علي الجامعه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87) | N/A |
-| 44 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 45 | [خالد بن الوليد](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af) | N/A |
-| 46 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 47 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
-| 48 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
-| 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 37 | [الجامعه الاردنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%af%d9%86%d9%8a%d9%87) | N/A |
+| 38 | [إربد](http://twitter.com/search?q=%d8%a5%d8%b1%d8%a8%d8%af) | N/A |
+| 39 | [جيرارد](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d8%a7%d8%b1%d8%af) | N/A |
+| 40 | [شرعي](http://twitter.com/search?q=%d8%b4%d8%b1%d8%b9%d9%8a) | N/A |
+| 41 | [أشعة](http://twitter.com/search?q=%d8%a3%d8%b4%d8%b9%d8%a9) | N/A |
+| 42 | [اليابان](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86) | N/A |
+| 43 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 44 | [خالد بن الوليد](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af) | N/A |
+| 45 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 47 | [السوق المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 48 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
+| 49 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
 | 50 | [جراحة](http://twitter.com/search?q=%d8%ac%d8%b1%d8%a7%d8%ad%d8%a9) | N/A |
 
 
