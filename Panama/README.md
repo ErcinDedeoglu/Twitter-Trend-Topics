@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-28 08:18:39 UTC`
+📆 Last Updated: `2023-03-28 09:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 2 | [Pueblo Nuevo](http://twitter.com/search?q=Pueblo+Nuevo) | N/A |
+| 1 | [Pueblo Nuevo](http://twitter.com/search?q=Pueblo+Nuevo) | N/A |
+| 2 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 3 | [quesos chela](http://twitter.com/search?q=quesos+chela) | N/A |
 | 4 | [feliz lunes](http://twitter.com/search?q=feliz+lunes) | N/A |
 | 5 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
@@ -42,12 +42,12 @@ This is top 50 for Panama
 | 25 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 26 | [En Colón](http://twitter.com/search?q=En+Col%c3%b3n) | N/A |
 | 27 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 28 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 29 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 30 | [villa lucre](http://twitter.com/search?q=villa+lucre) | N/A |
-| 31 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 32 | [#noticiastvn](http://twitter.com/search?q=%23noticiastvn) | N/A |
-| 33 | [Esperemos](http://twitter.com/search?q=Esperemos) | N/A |
+| 28 | [Esperemos](http://twitter.com/search?q=Esperemos) | N/A |
+| 29 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 30 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 31 | [villa lucre](http://twitter.com/search?q=villa+lucre) | N/A |
+| 32 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 33 | [#noticiastvn](http://twitter.com/search?q=%23noticiastvn) | N/A |
 | 34 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
 | 35 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 36 | [Seguramente](http://twitter.com/search?q=Seguramente) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-28 08:17:56 UTC`
+📆 Last Updated: `2023-03-28 09:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#27Mar](http://twitter.com/search?q=%2327Mar) | N/A |
 | 2 | [#NiCorrupciónNiGuarimbas](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiGuarimbas) | N/A |
-| 3 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 4 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 5 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 4 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 5 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 6 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
 | 7 | [#manoduraabandascorruptas](http://twitter.com/search?q=%23manoduraabandascorruptas) | N/A |
 | 8 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
-| 9 | [LANCO](http://twitter.com/search?q=LANCO) | N/A |
+| 9 | [Lanco](http://twitter.com/search?q=Lanco) | N/A |
 | 10 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
 | 11 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 12 | [Juan Carlos Alvarado](http://twitter.com/search?q=Juan+Carlos+Alvarado) | N/A |
+| 12 | [juan carlos alvarado](http://twitter.com/search?q=juan+carlos+alvarado) | N/A |
 | 13 | [Academia Puerto Cabello](http://twitter.com/search?q=Academia+Puerto+Cabello) | N/A |
 | 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [Ministerio de Educación](http://twitter.com/search?q=Ministerio+de+Educaci%c3%b3n) | N/A |
-| 16 | [benjamín rausseo](http://twitter.com/search?q=benjam%c3%adn+rausseo) | N/A |
-| 17 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
-| 18 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
-| 19 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 15 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 16 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 17 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
+| 18 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 19 | [Ministerio de Educación](http://twitter.com/search?q=Ministerio+de+Educaci%c3%b3n) | N/A |
 | 20 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
-| 21 | [panteón nacional](http://twitter.com/search?q=pante%c3%b3n+nacional) | N/A |
-| 22 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 23 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 24 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 25 | [El Fugitivo](http://twitter.com/search?q=El+Fugitivo) | N/A |
-| 26 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
-| 27 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
-| 28 | [provincia de venezuela](http://twitter.com/search?q=provincia+de+venezuela) | N/A |
-| 29 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 30 | [Merey](http://twitter.com/search?q=Merey) | N/A |
-| 31 | [Info](http://twitter.com/search?q=Info) | N/A |
-| 32 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 33 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
-| 34 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 35 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 36 | [kiara y guillermo dávila](http://twitter.com/search?q=kiara+y+guillermo+d%c3%a1vila) | N/A |
-| 37 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
-| 38 | [Tarea](http://twitter.com/search?q=Tarea) | N/A |
-| 39 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
-| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 41 | [Melón](http://twitter.com/search?q=Mel%c3%b3n) | N/A |
-| 42 | [carlos márquez](http://twitter.com/search?q=carlos+m%c3%a1rquez) | N/A |
-| 43 | [Burt Reynolds](http://twitter.com/search?q=Burt+Reynolds) | N/A |
-| 44 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
-| 45 | [sally field](http://twitter.com/search?q=sally+field) | N/A |
-| 46 | [Petrocedeño](http://twitter.com/search?q=Petrocede%c3%b1o) | N/A |
-| 47 | [Alberto Ramos](http://twitter.com/search?q=Alberto+Ramos) | N/A |
-| 48 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 49 | [Li Baorong](http://twitter.com/search?q=Li+Baorong) | N/A |
+| 21 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 22 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 23 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 24 | [El Fugitivo](http://twitter.com/search?q=El+Fugitivo) | N/A |
+| 25 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 26 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 27 | [provincia de venezuela](http://twitter.com/search?q=provincia+de+venezuela) | N/A |
+| 28 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 29 | [Merey](http://twitter.com/search?q=Merey) | N/A |
+| 30 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 31 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 32 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
+| 33 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 34 | [kiara y guillermo dávila](http://twitter.com/search?q=kiara+y+guillermo+d%c3%a1vila) | N/A |
+| 35 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
+| 36 | [Tarea](http://twitter.com/search?q=Tarea) | N/A |
+| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 38 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
+| 39 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
+| 40 | [Burt Reynolds](http://twitter.com/search?q=Burt+Reynolds) | N/A |
+| 41 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
+| 42 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 43 | [sally field](http://twitter.com/search?q=sally+field) | N/A |
+| 44 | [Melón](http://twitter.com/search?q=Mel%c3%b3n) | N/A |
+| 45 | [Petrocedeño](http://twitter.com/search?q=Petrocede%c3%b1o) | N/A |
+| 46 | [Alberto Ramos](http://twitter.com/search?q=Alberto+Ramos) | N/A |
+| 47 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 48 | [Li Baorong](http://twitter.com/search?q=Li+Baorong) | N/A |
+| 49 | [Ponte a Limpiar](http://twitter.com/search?q=Ponte+a+Limpiar) | N/A |
 
 
 

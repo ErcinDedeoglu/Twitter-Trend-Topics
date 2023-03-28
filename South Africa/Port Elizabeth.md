@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-28 08:18:17 UTC`
+📆 Last Updated: `2023-03-28 09:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WooliesEaster](http://twitter.com/search?q=%23WooliesEaster) | N/A |
-| 2 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
-| 3 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
-| 4 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 1 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 2 | [#WooliesEaster](http://twitter.com/search?q=%23WooliesEaster) | N/A |
+| 3 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
+| 4 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
 | 5 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 6 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 7 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
-| 8 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
-| 9 | [Unborn](http://twitter.com/search?q=Unborn) | N/A |
-| 10 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 11 | [Kedibone](http://twitter.com/search?q=Kedibone) | N/A |
-| 12 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 13 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
-| 14 | [Chris Excel](http://twitter.com/search?q=Chris+Excel) | N/A |
-| 15 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
-| 16 | [PrEP](http://twitter.com/search?q=PrEP) | N/A |
-| 17 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
+| 7 | [THABANG MEETS TBANGERS](http://twitter.com/search?q=THABANG+MEETS+TBANGERS) | N/A |
+| 8 | [Unborn](http://twitter.com/search?q=Unborn) | N/A |
+| 9 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 10 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 11 | [PrEP](http://twitter.com/search?q=PrEP) | N/A |
+| 12 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
+| 13 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 14 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
+| 15 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 16 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
+| 17 | [Kedibone](http://twitter.com/search?q=Kedibone) | N/A |
 | 18 | [Yenza](http://twitter.com/search?q=Yenza) | N/A |
-| 19 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
-| 20 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 21 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 22 | [NQF LEVEL 8](http://twitter.com/search?q=NQF+LEVEL+8) | N/A |
-| 23 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 24 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
-| 25 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
-| 26 | [COLGATE AND THEMBABROLY](http://twitter.com/search?q=COLGATE+AND+THEMBABROLY) | N/A |
-| 27 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
-| 28 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
-| 29 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
-| 30 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
-| 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 32 | [THEMBABROLY IS HUMAN](http://twitter.com/search?q=THEMBABROLY+IS+HUMAN) | N/A |
-| 33 | [Generations](http://twitter.com/search?q=Generations) | N/A |
-| 34 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
-| 35 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 36 | [Kasi](http://twitter.com/search?q=Kasi) | N/A |
-| 37 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 39 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 40 | [VOTE IPELENG](http://twitter.com/search?q=VOTE+IPELENG) | N/A |
-| 41 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
-| 42 | [yahyuppiyah](http://twitter.com/search?q=yahyuppiyah) | N/A |
-| 43 | [Mfundi Vundla](http://twitter.com/search?q=Mfundi+Vundla) | N/A |
-| 44 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 45 | [Noise](http://twitter.com/search?q=Noise) | N/A |
-| 46 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 19 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
+| 20 | [NQF LEVEL 8](http://twitter.com/search?q=NQF+LEVEL+8) | N/A |
+| 21 | [Chris Excel](http://twitter.com/search?q=Chris+Excel) | N/A |
+| 22 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
+| 23 | [3 Smartphones](http://twitter.com/search?q=3+Smartphones) | N/A |
+| 24 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 25 | [COLGATE AND THEMBABROLY](http://twitter.com/search?q=COLGATE+AND+THEMBABROLY) | N/A |
+| 26 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
+| 27 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
+| 28 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
+| 29 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
+| 30 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 31 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 32 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
+| 33 | [ANTICIPATE NELISA](http://twitter.com/search?q=ANTICIPATE+NELISA) | N/A |
+| 34 | [THEMBABROLY IS HUMAN](http://twitter.com/search?q=THEMBABROLY+IS+HUMAN) | N/A |
+| 35 | [Generations](http://twitter.com/search?q=Generations) | N/A |
+| 36 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
+| 37 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 38 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 39 | [CONGRATULATIONS THEMBABROLY](http://twitter.com/search?q=CONGRATULATIONS+THEMBABROLY) | N/A |
+| 40 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 41 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 42 | [VOTE IPELENG](http://twitter.com/search?q=VOTE+IPELENG) | N/A |
+| 43 | [Kasi](http://twitter.com/search?q=Kasi) | N/A |
+| 44 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
+| 45 | [yahyuppiyah](http://twitter.com/search?q=yahyuppiyah) | N/A |
+| 46 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 47 | [Varsity Shield](http://twitter.com/search?q=Varsity+Shield) | N/A |
-| 48 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 48 | [De Beers](http://twitter.com/search?q=De+Beers) | N/A |
 
 
 

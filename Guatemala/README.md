@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-28 08:18:37 UTC`
+📆 Last Updated: `2023-03-28 09:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,23 +28,23 @@ This is top 50 for Guatemala
 | 11 | [Chucho](http://twitter.com/search?q=Chucho) | N/A |
 | 12 | [Tena](http://twitter.com/search?q=Tena) | N/A |
 | 13 | [Samayoa](http://twitter.com/search?q=Samayoa) | N/A |
-| 14 | [Copa América](http://twitter.com/search?q=Copa+Am%c3%a9rica) | Copa América is the oldest international continental football competition in the world. It is an event organized by CONMEBOL, the South American Football Confederation, and it is held every four years. The tournament features teams from all 10 South American countries, as well as two invited teams from other confederations. The name Copa América translates to "America Cup" in English. |
-| 15 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
-| 16 | [Aparicio](http://twitter.com/search?q=Aparicio) | N/A |
-| 17 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 18 | [Rubio Rubin](http://twitter.com/search?q=Rubio+Rubin) | N/A |
-| 19 | [sammy morales](http://twitter.com/search?q=sammy+morales) | N/A |
-| 20 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
-| 21 | [quinto domingo de cuaresma](http://twitter.com/search?q=quinto+domingo+de+cuaresma) | N/A |
-| 22 | [Doroteo Guamuch Flores](http://twitter.com/search?q=Doroteo+Guamuch+Flores) | N/A |
-| 23 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 24 | [massiel carrillo](http://twitter.com/search?q=massiel+carrillo) | N/A |
-| 25 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 14 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 15 | [Aparicio](http://twitter.com/search?q=Aparicio) | N/A |
+| 16 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 17 | [Rubio Rubin](http://twitter.com/search?q=Rubio+Rubin) | N/A |
+| 18 | [sammy morales](http://twitter.com/search?q=sammy+morales) | N/A |
+| 19 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
+| 20 | [quinto domingo de cuaresma](http://twitter.com/search?q=quinto+domingo+de+cuaresma) | N/A |
+| 21 | [doroteo guamuch flores](http://twitter.com/search?q=doroteo+guamuch+flores) | N/A |
+| 22 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 23 | [massiel carrillo](http://twitter.com/search?q=massiel+carrillo) | N/A |
+| 24 | [el barrio](http://twitter.com/search?q=el+barrio) | N/A |
+| 25 | [Copa América](http://twitter.com/search?q=Copa+Am%c3%a9rica) | Copa América is the oldest international continental football competition in the world. It is an event organized by CONMEBOL, the South American Football Confederation, and it is held every four years. The tournament features teams from all 10 South American countries, as well as two invited teams from other confederations. The name Copa América translates to "America Cup" in English. |
 | 26 | [Semilla](http://twitter.com/search?q=Semilla) | N/A |
 | 27 | [#EleccionesGT](http://twitter.com/search?q=%23EleccionesGT) | N/A |
 | 28 | [#votadiferente](http://twitter.com/search?q=%23votadiferente) | N/A |
 | 29 | [#NationsLeague](http://twitter.com/search?q=%23NationsLeague) | N/A |
-| 30 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 30 | [aniquiladores](http://twitter.com/search?q=aniquiladores) | N/A |
 | 31 | [contaminación](http://twitter.com/search?q=contaminaci%c3%b3n) | N/A |
 | 32 | [#notetoca](http://twitter.com/search?q=%23notetoca) | N/A |
 | 33 | [Pacífico](http://twitter.com/search?q=Pac%c3%adfico) | N/A |
@@ -53,10 +53,10 @@ This is top 50 for Guatemala
 | 36 | [taxisco](http://twitter.com/search?q=taxisco) | N/A |
 | 37 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
 | 38 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 39 | [Sirviendo](http://twitter.com/search?q=Sirviendo) | N/A |
+| 39 | [sirviendo](http://twitter.com/search?q=sirviendo) | N/A |
 | 40 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 41 | [48 Cantones](http://twitter.com/search?q=48+Cantones) | N/A |
-| 42 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 42 | [perdidos](http://twitter.com/search?q=perdidos) | N/A |
 | 43 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
 | 44 | [Villacorta](http://twitter.com/search?q=Villacorta) | N/A |
 | 45 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |

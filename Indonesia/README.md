@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-28 08:18:37 UTC`
+📆 Last Updated: `2023-03-28 09:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Indonesia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mobil Perang](http://twitter.com/search?q=Mobil+Perang) | N/A |
-| 2 | [#BerkahBerzakatBSI](http://twitter.com/search?q=%23BerkahBerzakatBSI) | N/A |
-| 3 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
-| 4 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 5 | [#SDGsDesaMendunia](http://twitter.com/search?q=%23SDGsDesaMendunia) | N/A |
-| 6 | [#나나생각중](http://twitter.com/search?q=%23%eb%82%98%eb%82%98%ec%83%9d%ea%b0%81%ec%a4%91) | N/A |
-| 7 | [Baznas](http://twitter.com/search?q=Baznas) | N/A |
-| 8 | [#제노버블](http://twitter.com/search?q=%23%ec%a0%9c%eb%85%b8%eb%b2%84%eb%b8%94) | N/A |
-| 9 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
-| 10 | [BSI Mobile](http://twitter.com/search?q=BSI+Mobile) | N/A |
-| 11 | [THEY ARE THE WORST](http://twitter.com/search?q=THEY+ARE+THE+WORST) | N/A |
-| 12 | [Badan Amil Zakat Nasional](http://twitter.com/search?q=Badan+Amil+Zakat+Nasional) | N/A |
-| 13 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 14 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
-| 15 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 16 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 17 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 18 | [Bank Syariah Indonesia](http://twitter.com/search?q=Bank+Syariah+Indonesia) | N/A |
-| 19 | [Cuekin](http://twitter.com/search?q=Cuekin) | N/A |
-| 20 | [15.00 WIB](http://twitter.com/search?q=15.00+WIB) | N/A |
-| 21 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
-| 22 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
-| 23 | [CAT 1A](http://twitter.com/search?q=CAT+1A) | N/A |
-| 24 | [Kumon](http://twitter.com/search?q=Kumon) | N/A |
-| 25 | [Asia Pasifik](http://twitter.com/search?q=Asia+Pasifik) | N/A |
-| 26 | [CAT 2](http://twitter.com/search?q=CAT+2) | N/A |
-| 27 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
-| 28 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 29 | [CONGRATSSSS](http://twitter.com/search?q=CONGRATSSSS) | N/A |
-| 30 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
-| 31 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 32 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 33 | [Gibran](http://twitter.com/search?q=Gibran) | N/A |
-| 34 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 35 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 36 | [AAMIIN YA ALLAH](http://twitter.com/search?q=AAMIIN+YA+ALLAH) | N/A |
-| 37 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 38 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 39 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 40 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 41 | [Aminnnn](http://twitter.com/search?q=Aminnnn) | N/A |
-| 42 | [#재민버블](http://twitter.com/search?q=%23%ec%9e%ac%eb%af%bc%eb%b2%84%eb%b8%94) | N/A |
-| 43 | [#우제똥이리오세요](http://twitter.com/search?q=%23%ec%9a%b0%ec%a0%9c%eb%98%a5%ec%9d%b4%eb%a6%ac%ec%98%a4%ec%84%b8%ec%9a%94) | N/A |
-| 44 | [#mewJKT2023](http://twitter.com/search?q=%23mewJKT2023) | N/A |
-| 45 | [#Zeemangat](http://twitter.com/search?q=%23Zeemangat) | N/A |
-| 46 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 47 | [#UltimatePortraits](http://twitter.com/search?q=%23UltimatePortraits) | N/A |
-| 48 | [#MewSuppasit](http://twitter.com/search?q=%23MewSuppasit) | N/A |
-| 49 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
-| 50 | [#sELLAsa](http://twitter.com/search?q=%23sELLAsa) | N/A |
+| 2 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 3 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
+| 4 | [#BerkahBerzakatBSI](http://twitter.com/search?q=%23BerkahBerzakatBSI) | N/A |
+| 5 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 6 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
+| 7 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 8 | [#THESHOW_MCXIAOJUN](http://twitter.com/search?q=%23THESHOW_MCXIAOJUN) | N/A |
+| 9 | [#나나생각중](http://twitter.com/search?q=%23%eb%82%98%eb%82%98%ec%83%9d%ea%b0%81%ec%a4%91) | N/A |
+| 10 | [#SDGsDesaMendunia](http://twitter.com/search?q=%23SDGsDesaMendunia) | N/A |
+| 11 | [SELAMAT YAAA](http://twitter.com/search?q=SELAMAT+YAAA) | N/A |
+| 12 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
+| 13 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 14 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
+| 15 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 16 | [Selamattt](http://twitter.com/search?q=Selamattt) | N/A |
+| 17 | [THEY ARE THE WORST](http://twitter.com/search?q=THEY+ARE+THE+WORST) | N/A |
+| 18 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 19 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 20 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 21 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
+| 22 | [Baznas](http://twitter.com/search?q=Baznas) | N/A |
+| 23 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 24 | [Cuekin](http://twitter.com/search?q=Cuekin) | N/A |
+| 25 | [15.00 WIB](http://twitter.com/search?q=15.00+WIB) | N/A |
+| 26 | [Badan Amil Zakat Nasional](http://twitter.com/search?q=Badan+Amil+Zakat+Nasional) | N/A |
+| 27 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
+| 28 | [Gapapaa](http://twitter.com/search?q=Gapapaa) | N/A |
+| 29 | [Bank Syariah Indonesia](http://twitter.com/search?q=Bank+Syariah+Indonesia) | N/A |
+| 30 | [KERENNN](http://twitter.com/search?q=KERENNN) | N/A |
+| 31 | [KEREN BANGET](http://twitter.com/search?q=KEREN+BANGET) | N/A |
+| 32 | [CAT 1A](http://twitter.com/search?q=CAT+1A) | N/A |
+| 33 | [Semangatt](http://twitter.com/search?q=Semangatt) | N/A |
+| 34 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
+| 35 | [Maba](http://twitter.com/search?q=Maba) | N/A |
+| 36 | [UTBK](http://twitter.com/search?q=UTBK) | N/A |
+| 37 | [VIP B](http://twitter.com/search?q=VIP+B) | N/A |
+| 38 | [KEREN BGT](http://twitter.com/search?q=KEREN+BGT) | N/A |
+| 39 | [Kumon](http://twitter.com/search?q=Kumon) | N/A |
+| 40 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 41 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 42 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
+| 43 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 44 | [CAT 2](http://twitter.com/search?q=CAT+2) | N/A |
+| 45 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 46 | [Gibran](http://twitter.com/search?q=Gibran) | N/A |
+| 47 | [BELUM DEWASA](http://twitter.com/search?q=BELUM+DEWASA) | N/A |
+| 48 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
+| 49 | [Turki](http://twitter.com/search?q=Turki) | N/A |
+| 50 | [AAMIIN YA ALLAH](http://twitter.com/search?q=AAMIIN+YA+ALLAH) | N/A |
 
 
 

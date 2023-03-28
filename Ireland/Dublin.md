@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-03-28 08:17:59 UTC`
+📆 Last Updated: `2023-03-28 09:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Ireland](</Ireland>)
 | 4 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
 | 5 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
 | 6 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 7 | [#irelandvsfrance](http://twitter.com/search?q=%23irelandvsfrance) | N/A |
-| 8 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 7 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 8 | [#irelandvsfrance](http://twitter.com/search?q=%23irelandvsfrance) | N/A |
 | 9 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
 | 10 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 11 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 12 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 12 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
 | 13 | [Knight](http://twitter.com/search?q=Knight) | N/A |
 | 14 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
 | 15 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 16 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
-| 17 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 18 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 19 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 20 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 21 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
-| 22 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 23 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 24 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 25 | [Nathan Collins](http://twitter.com/search?q=Nathan+Collins) | N/A |
-| 26 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
-| 27 | [Idah](http://twitter.com/search?q=Idah) | N/A |
-| 28 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 29 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 17 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 18 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 19 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
+| 20 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
+| 21 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 22 | [Nathan Collins](http://twitter.com/search?q=Nathan+Collins) | N/A |
+| 23 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 24 | [Diversity](http://twitter.com/search?q=Diversity) | N/A |
+| 25 | [America](http://twitter.com/search?q=America) | N/A |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Theo Hernandez](http://twitter.com/search?q=Theo+Hernandez) | N/A |
+| 28 | [#EURO2024Qualifiers](http://twitter.com/search?q=%23EURO2024Qualifiers) | N/A |
+| 29 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 30 | [Veronica](http://twitter.com/search?q=Veronica) | Veronica is a female given name derived from the Latin word vera, meaning "true" or "faithful". It is also the name of a saint in the Catholic Church. |
-| 31 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 32 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
-| 33 | [Shona](http://twitter.com/search?q=Shona) | N/A |
-| 34 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [danny searle](http://twitter.com/search?q=danny+searle) | N/A |
-| 37 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 38 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 39 | [McClean](http://twitter.com/search?q=McClean) | N/A |
-| 40 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 41 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 42 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 43 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
-| 44 | [waterford fc](http://twitter.com/search?q=waterford+fc) | N/A |
+| 31 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 32 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 33 | [Idah](http://twitter.com/search?q=Idah) | N/A |
+| 34 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
+| 35 | [Kieran](http://twitter.com/search?q=Kieran) | Kieran is an Irish name derived from the Gaelic name Ciarán, which means "little dark one". It is also a variant of the name Kieron, which is derived from the Latin name Ciaran. |
+| 36 | [Shona](http://twitter.com/search?q=Shona) | N/A |
+| 37 | [danny searle](http://twitter.com/search?q=danny+searle) | N/A |
+| 38 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 39 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 40 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
+| 41 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 42 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 43 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
+| 44 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
 | 45 | [melanie greally](http://twitter.com/search?q=melanie+greally) | N/A |
 | 46 | [terre](http://twitter.com/search?q=terre) | N/A |
-| 47 | [Egan](http://twitter.com/search?q=Egan) | N/A |
-| 48 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 49 | [come on you boys in green](http://twitter.com/search?q=come+on+you+boys+in+green) | N/A |
-| 50 | [stephen cluxton](http://twitter.com/search?q=stephen+cluxton) | N/A |
+| 47 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 48 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 49 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 50 | [come on you boys in green](http://twitter.com/search?q=come+on+you+boys+in+green) | N/A |
 
 
 

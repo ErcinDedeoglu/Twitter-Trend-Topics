@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-28 08:18:05 UTC`
+📆 Last Updated: `2023-03-28 09:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,50 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 3 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
 | 4 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
 | 5 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 6 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
-| 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 7 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 | 8 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 9 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
 | 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 11 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 12 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
 | 13 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
-| 14 | [Käse](http://twitter.com/search?q=K%c3%a4se) | N/A |
-| 15 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
-| 16 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 17 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 18 | [Qu'est](http://twitter.com/search?q=Qu%27est) | N/A |
-| 19 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 20 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
-| 21 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
-| 22 | [Option](http://twitter.com/search?q=Option) | N/A |
-| 23 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 24 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 25 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 26 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 27 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
-| 28 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 29 | [Widerstand](http://twitter.com/search?q=Widerstand) | N/A |
-| 30 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 31 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
+| 14 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
+| 15 | [Käse](http://twitter.com/search?q=K%c3%a4se) | N/A |
+| 16 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
+| 17 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 18 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 19 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
+| 20 | [Glarner](http://twitter.com/search?q=Glarner) | N/A |
+| 21 | [Option](http://twitter.com/search?q=Option) | N/A |
+| 22 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 23 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 24 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
+| 25 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
+| 26 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 27 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 28 | [Widerstand](http://twitter.com/search?q=Widerstand) | N/A |
+| 29 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 30 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 31 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
 | 32 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 33 | [Tochter](http://twitter.com/search?q=Tochter) | N/A |
-| 34 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 35 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
-| 36 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 37 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 38 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 39 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 40 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 41 | [Sowjetunion](http://twitter.com/search?q=Sowjetunion) | N/A |
-| 42 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 43 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
-| 44 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 45 | [Nature](http://twitter.com/search?q=Nature) | N/A |
+| 33 | [Streik](http://twitter.com/search?q=Streik) | N/A |
+| 34 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 35 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 36 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 37 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 38 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 39 | [Sowjetunion](http://twitter.com/search?q=Sowjetunion) | N/A |
+| 40 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 41 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 42 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
+| 43 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 44 | [Nature](http://twitter.com/search?q=Nature) | N/A |
+| 45 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
 | 46 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
 | 47 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 48 | [Steuergelder](http://twitter.com/search?q=Steuergelder) | N/A |
 | 49 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 50 | [Weltwoche](http://twitter.com/search?q=Weltwoche) | N/A |
 
 
 

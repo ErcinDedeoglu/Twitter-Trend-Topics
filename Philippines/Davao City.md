@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-28 08:18:14 UTC`
+📆 Last Updated: `2023-03-28 09:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
-| 2 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 3 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 2 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 3 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 4 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 5 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 6 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
 | 7 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 8 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
-| 9 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 10 | [G-DRAGON BMW XM AMBASSADOR](http://twitter.com/search?q=G-DRAGON+BMW+XM+AMBASSADOR) | N/A |
-| 11 | [ggmoviesoon withdonny](http://twitter.com/search?q=ggmoviesoon+withdonny) | N/A |
-| 12 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 9 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 10 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
+| 11 | [GGMovieSoon WithDONNY](http://twitter.com/search?q=GGMovieSoon+WithDONNY) | N/A |
+| 12 | [JIMIN LIVE](http://twitter.com/search?q=JIMIN+LIVE) | JIMIN LIVE is a live streaming event hosted by the South Korean singer and dancer Jimin, a member of the K-pop group BTS. The event allows fans to interact with Jimin in real time, as he performs music and talks about his life. The English translation of JIMIN LIVE is "Jimin Live". |
 | 13 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
 | 14 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 15 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 16 | [KDLEX TWOgether IN JAPAN](http://twitter.com/search?q=KDLEX+TWOgether+IN+JAPAN) | N/A |
-| 17 | [PIENakaBlessed JEREVI](http://twitter.com/search?q=PIENakaBlessed+JEREVI) | N/A |
-| 18 | [ItsALASpecialDay WithNuebe](http://twitter.com/search?q=ItsALASpecialDay+WithNuebe) | N/A |
-| 19 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
-| 20 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 21 | [rachelle ann](http://twitter.com/search?q=rachelle+ann) | N/A |
-| 22 | [Solaire](http://twitter.com/search?q=Solaire) | N/A |
-| 23 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
-| 24 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 25 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 26 | [countdown to dojaejung](http://twitter.com/search?q=countdown+to+dojaejung) | N/A |
-| 27 | [D-DAY BAMBAM IS BACK](http://twitter.com/search?q=D-DAY+BAMBAM+IS+BACK) | N/A |
-| 28 | [ONE VIBRENT MONTH](http://twitter.com/search?q=ONE+VIBRENT+MONTH) | N/A |
-| 29 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 30 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
-| 31 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 32 | [Happy Birthday Lazada](http://twitter.com/search?q=Happy+Birthday+Lazada) | N/A |
-| 33 | [dolly de leon](http://twitter.com/search?q=dolly+de+leon) | N/A |
-| 34 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 35 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
-| 36 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 37 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 38 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 39 | [treasure in japan](http://twitter.com/search?q=treasure+in+japan) | N/A |
-| 40 | [PHP WISH PERFORMANCE](http://twitter.com/search?q=PHP+WISH+PERFORMANCE) | N/A |
-| 41 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
-| 42 | [Ilocos Norte](http://twitter.com/search?q=Ilocos+Norte) | N/A |
-| 43 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
-| 44 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 45 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
-| 46 | [Elena 1944](http://twitter.com/search?q=Elena+1944) | N/A |
-| 47 | [Pag-IBIG](http://twitter.com/search?q=Pag-IBIG) | N/A |
-| 48 | [Oheb](http://twitter.com/search?q=Oheb) | N/A |
+| 15 | [MC XIAOJUN THE FIRST SHOW](http://twitter.com/search?q=MC+XIAOJUN+THE+FIRST+SHOW) | N/A |
+| 16 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 17 | [G-DRAGON BMW XM AMBASSADOR](http://twitter.com/search?q=G-DRAGON+BMW+XM+AMBASSADOR) | N/A |
+| 18 | [PIENakaBlessed JEREVI](http://twitter.com/search?q=PIENakaBlessed+JEREVI) | N/A |
+| 19 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
+| 20 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 21 | [ItsALASpecialDay WithNuebe](http://twitter.com/search?q=ItsALASpecialDay+WithNuebe) | N/A |
+| 22 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
+| 23 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 24 | [the church built by god](http://twitter.com/search?q=the+church+built+by+god) | N/A |
+| 25 | [countdown to dojaejung](http://twitter.com/search?q=countdown+to+dojaejung) | N/A |
+| 26 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 27 | [one vibrent month](http://twitter.com/search?q=one+vibrent+month) | N/A |
+| 28 | [RACHELLE ANN](http://twitter.com/search?q=RACHELLE+ANN) | N/A |
+| 29 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 30 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
+| 31 | [DepEd](http://twitter.com/search?q=DepEd) | N/A |
+| 32 | [Solaire](http://twitter.com/search?q=Solaire) | N/A |
+| 33 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 34 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 35 | [I AM NOT THROWING AWAY MY SHOT](http://twitter.com/search?q=I+AM+NOT+THROWING+AWAY+MY+SHOT) | N/A |
+| 36 | [Happy Birthday Lazada](http://twitter.com/search?q=Happy+Birthday+Lazada) | N/A |
+| 37 | [DOJAEJUNG READY TO LAUNCH](http://twitter.com/search?q=DOJAEJUNG+READY+TO+LAUNCH) | N/A |
+| 38 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 39 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 40 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 41 | [Dolly de Leon](http://twitter.com/search?q=Dolly+de+Leon) | N/A |
+| 42 | [treasure in japan](http://twitter.com/search?q=treasure+in+japan) | N/A |
+| 43 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 44 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 45 | [V FILM FOR ELLE](http://twitter.com/search?q=V+FILM+FOR+ELLE) | N/A |
+| 46 | [JK x CK](http://twitter.com/search?q=JK+x+CK) | N/A |
+| 47 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 48 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
 
 
 

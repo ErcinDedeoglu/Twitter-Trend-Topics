@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-28 08:18:36 UTC`
+📆 Last Updated: `2023-03-28 09:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Dominican Republic
 | 1 | [Tania](http://twitter.com/search?q=Tania) | N/A |
 | 2 | [Carne](http://twitter.com/search?q=Carne) | N/A |
 | 3 | [casa nacional](http://twitter.com/search?q=casa+nacional) | N/A |
-| 4 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
+| 4 | [palacio de justicia](http://twitter.com/search?q=palacio+de+justicia) | N/A |
 | 5 | [Queso](http://twitter.com/search?q=Queso) | N/A |
 | 6 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 7 | [carlos alfredo](http://twitter.com/search?q=carlos+alfredo) | N/A |
@@ -29,8 +29,8 @@ This is top 50 for Dominican Republic
 | 12 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 13 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
 | 14 | [#carnavalsdn2023](http://twitter.com/search?q=%23carnavalsdn2023) | N/A |
-| 15 | [Sergio Moya](http://twitter.com/search?q=Sergio+Moya) | N/A |
-| 16 | [Botello](http://twitter.com/search?q=Botello) | N/A |
+| 15 | [sergio moya](http://twitter.com/search?q=sergio+moya) | N/A |
+| 16 | [botello](http://twitter.com/search?q=botello) | N/A |
 | 17 | [#unpldmasfuerte](http://twitter.com/search?q=%23unpldmasfuerte) | N/A |
 | 18 | [#EstadosUnidos](http://twitter.com/search?q=%23EstadosUnidos) | N/A |
 | 19 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
@@ -41,20 +41,20 @@ This is top 50 for Dominican Republic
 | 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 25 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 26 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 27 | [Matt Wallace](http://twitter.com/search?q=Matt+Wallace) | N/A |
+| 27 | [matt wallace](http://twitter.com/search?q=matt+wallace) | N/A |
 | 28 | [mariotti](http://twitter.com/search?q=mariotti) | N/A |
 | 29 | [Comité Central](http://twitter.com/search?q=Comit%c3%a9+Central) | N/A |
 | 30 | [marcha verde](http://twitter.com/search?q=marcha+verde) | N/A |
 | 31 | [raquel peña](http://twitter.com/search?q=raquel+pe%c3%b1a) | N/A |
-| 32 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
-| 33 | [Plaza de la Bandera](http://twitter.com/search?q=Plaza+de+la+Bandera) | N/A |
+| 32 | [calamar](http://twitter.com/search?q=calamar) | N/A |
+| 33 | [plaza de la bandera](http://twitter.com/search?q=plaza+de+la+bandera) | N/A |
 | 34 | [francisco peña](http://twitter.com/search?q=francisco+pe%c3%b1a) | N/A |
-| 35 | [María Elvira Salazar](http://twitter.com/search?q=Mar%c3%ada+Elvira+Salazar) | N/A |
+| 35 | [maría elvira salazar](http://twitter.com/search?q=mar%c3%ada+elvira+salazar) | N/A |
 | 36 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
 | 37 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
 | 38 | [kpinini](http://twitter.com/search?q=kpinini) | N/A |
 | 39 | [Mimilo](http://twitter.com/search?q=Mimilo) | N/A |
-| 40 | [Margarita Cedeño](http://twitter.com/search?q=Margarita+Cede%c3%b1o) | N/A |
+| 40 | [margarita cedeño](http://twitter.com/search?q=margarita+cede%c3%b1o) | N/A |
 | 41 | [laura acosta](http://twitter.com/search?q=laura+acosta) | N/A |
 | 42 | [Gory](http://twitter.com/search?q=Gory) | N/A |
 | 43 | [Banco](http://twitter.com/search?q=Banco) | N/A |
