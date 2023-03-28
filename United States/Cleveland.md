@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-28 22:17:24 UTC`
+📆 Last Updated: `2023-03-28 23:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Guardians](http://twitter.com/search?q=Guardians) | N/A |
 | 2 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
-| 3 | [#AmericanNightmare](http://twitter.com/search?q=%23AmericanNightmare) | N/A |
-| 4 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 5 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 6 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 7 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 8 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 9 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 3 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 4 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 5 | [#AmericanNightmare](http://twitter.com/search?q=%23AmericanNightmare) | N/A |
+| 6 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 7 | [Loma](http://twitter.com/search?q=Loma) | N/A |
+| 8 | [Scotty Miller](http://twitter.com/search?q=Scotty+Miller) | N/A |
+| 9 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
 | 10 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 12 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
-| 13 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 14 | [Adnan Syed](http://twitter.com/search?q=Adnan+Syed) | N/A |
-| 15 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
-| 16 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
-| 17 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 18 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
-| 19 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 20 | [Florial](http://twitter.com/search?q=Florial) | N/A |
-| 21 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
-| 22 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 23 | [Premature](http://twitter.com/search?q=Premature) | N/A |
-| 24 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 25 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 26 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 27 | [Deadpool 3](http://twitter.com/search?q=Deadpool+3) | N/A |
-| 28 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 29 | [Isiah](http://twitter.com/search?q=Isiah) | N/A |
-| 30 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
-| 31 | [No. 0](http://twitter.com/search?q=No.+0) | N/A |
-| 32 | [When the Levee Breaks](http://twitter.com/search?q=When+the+Levee+Breaks) | N/A |
-| 33 | [Vans](http://twitter.com/search?q=Vans) | N/A |
-| 34 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
-| 35 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 36 | [Iron Galaxy](http://twitter.com/search?q=Iron+Galaxy) | N/A |
-| 37 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 11 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
+| 12 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
+| 13 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 14 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 15 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
+| 16 | [Iron Galaxy](http://twitter.com/search?q=Iron+Galaxy) | N/A |
+| 17 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
+| 18 | [Top Back](http://twitter.com/search?q=Top+Back) | N/A |
+| 19 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 20 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 21 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 24 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
+| 25 | [Premature](http://twitter.com/search?q=Premature) | N/A |
+| 26 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
+| 27 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 28 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 29 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
+| 30 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 31 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
+| 32 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 33 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 34 | [When the Levee Breaks](http://twitter.com/search?q=When+the+Levee+Breaks) | N/A |
+| 35 | [Florial](http://twitter.com/search?q=Florial) | N/A |
+| 36 | [Isiah](http://twitter.com/search?q=Isiah) | N/A |
+| 37 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 | 38 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 39 | [Thorkell](http://twitter.com/search?q=Thorkell) | N/A |
-| 40 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 41 | [Lower Decks](http://twitter.com/search?q=Lower+Decks) | N/A |
-| 42 | [Top Back](http://twitter.com/search?q=Top+Back) | N/A |
-| 43 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 44 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
-| 45 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 46 | [Going to California](http://twitter.com/search?q=Going+to+California) | N/A |
-| 47 | [Wray](http://twitter.com/search?q=Wray) | N/A |
-| 48 | [Attach](http://twitter.com/search?q=Attach) | N/A |
+| 39 | [Megyn Kelly](http://twitter.com/search?q=Megyn+Kelly) | N/A |
+| 40 | [Hirono](http://twitter.com/search?q=Hirono) | N/A |
+| 41 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 42 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
+| 43 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
+| 44 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 45 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 46 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 47 | [Thorkell](http://twitter.com/search?q=Thorkell) | N/A |
+| 48 | [Ice T](http://twitter.com/search?q=Ice+T) | N/A |
 
 
 

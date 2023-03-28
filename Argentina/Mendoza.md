@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-28 22:16:50 UTC`
+📆 Last Updated: `2023-03-28 23:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 2 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 3 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 4 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 5 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 6 | [#inversionmercadopago](http://twitter.com/search?q=%23inversionmercadopago) | N/A |
-| 7 | [Cristina Pérez](http://twitter.com/search?q=Cristina+P%c3%a9rez) | N/A |
-| 8 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 9 | [#HomenajeALosCampeones](http://twitter.com/search?q=%23HomenajeALosCampeones) | N/A |
-| 10 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 11 | [#elclubdelmoro](http://twitter.com/search?q=%23elclubdelmoro) | N/A |
+| 1 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
+| 2 | [Gracias Negro](http://twitter.com/search?q=Gracias+Negro) | N/A |
+| 3 | [DT de Boca](http://twitter.com/search?q=DT+de+Boca) | N/A |
+| 4 | [Herron](http://twitter.com/search?q=Herron) | N/A |
+| 5 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
+| 6 | [Chicho Serna](http://twitter.com/search?q=Chicho+Serna) | N/A |
+| 7 | [Schiavi](http://twitter.com/search?q=Schiavi) | N/A |
+| 8 | [Tata Martino](http://twitter.com/search?q=Tata+Martino) | N/A |
+| 9 | [Banda XXI](http://twitter.com/search?q=Banda+XXI) | N/A |
+| 10 | [Consejo de Fútbol](http://twitter.com/search?q=Consejo+de+F%c3%batbol) | N/A |
+| 11 | [Estol](http://twitter.com/search?q=Estol) | N/A |
 | 12 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 13 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 14 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
-| 15 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 16 | [#GH2022](http://twitter.com/search?q=%23GH2022) | #GH2022 is a hashtag used to refer to the 2022 Ghanaian general election. It is used to discuss topics related to the upcoming election, such as potential candidates, political parties, and other related news. |
-| 17 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 18 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 19 | [Espert](http://twitter.com/search?q=Espert) | N/A |
-| 20 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 21 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 22 | [Sole](http://twitter.com/search?q=Sole) | N/A |
-| 23 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 24 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 25 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 26 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 27 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 28 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 29 | [vamos primo](http://twitter.com/search?q=vamos+primo) | N/A |
-| 30 | [Casi Ángeles](http://twitter.com/search?q=Casi+%c3%81ngeles) | N/A |
-| 31 | [Marquitos](http://twitter.com/search?q=Marquitos) | N/A |
-| 32 | [Santiago del Estero](http://twitter.com/search?q=Santiago+del+Estero) | N/A |
-| 33 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
-| 34 | [cuadrado](http://twitter.com/search?q=cuadrado) | N/A |
-| 35 | [Torta](http://twitter.com/search?q=Torta) | N/A |
-| 36 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 37 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 38 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 39 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
-| 40 | [Alejandro Domínguez](http://twitter.com/search?q=Alejandro+Dom%c3%adnguez) | N/A |
-| 41 | [Garrahan](http://twitter.com/search?q=Garrahan) | N/A |
-| 42 | [Cayetana](http://twitter.com/search?q=Cayetana) | N/A |
-| 43 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 44 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 45 | [Nachito](http://twitter.com/search?q=Nachito) | N/A |
-| 46 | [The Truman Show](http://twitter.com/search?q=The+Truman+Show) | N/A |
-| 47 | [Sava](http://twitter.com/search?q=Sava) | N/A |
-| 48 | [Los Totora](http://twitter.com/search?q=Los+Totora) | N/A |
-| 49 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 50 | [Kambourian](http://twitter.com/search?q=Kambourian) | N/A |
+| 13 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 14 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 15 | [Giunta](http://twitter.com/search?q=Giunta) | N/A |
+| 16 | [#BocaJuniors](http://twitter.com/search?q=%23BocaJuniors) | N/A |
+| 17 | [Madre de Ciudades](http://twitter.com/search?q=Madre+de+Ciudades) | N/A |
+| 18 | [cuadrado](http://twitter.com/search?q=cuadrado) | N/A |
+| 19 | [#ArgentinaProductiva](http://twitter.com/search?q=%23ArgentinaProductiva) | N/A |
+| 20 | [Santiago del Estero](http://twitter.com/search?q=Santiago+del+Estero) | N/A |
+| 21 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 22 | [#DolarBlue](http://twitter.com/search?q=%23DolarBlue) | N/A |
+| 23 | [Espert](http://twitter.com/search?q=Espert) | N/A |
+| 24 | [Kambourian](http://twitter.com/search?q=Kambourian) | N/A |
+| 25 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 26 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 27 | [#Popoggio](http://twitter.com/search?q=%23Popoggio) | N/A |
+| 28 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
+| 29 | [Perotti](http://twitter.com/search?q=Perotti) | N/A |
+| 30 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 31 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 32 | [Garrahan](http://twitter.com/search?q=Garrahan) | N/A |
+| 33 | [Cayetana](http://twitter.com/search?q=Cayetana) | N/A |
+| 34 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 35 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
+| 36 | [Cristina Perez](http://twitter.com/search?q=Cristina+Perez) | N/A |
+| 37 | [Grondona](http://twitter.com/search?q=Grondona) | N/A |
+| 38 | [Fecha 2](http://twitter.com/search?q=Fecha+2) | N/A |
+| 39 | [Dengue](http://twitter.com/search?q=Dengue) | N/A |
+| 40 | [Copa Sudamericana](http://twitter.com/search?q=Copa+Sudamericana) | Copa Sudamericana is an annual international football tournament organized by CONMEBOL, the South American Football Confederation. It is the second most prestigious club competition in South American football after the Copa Libertadores. The Copa Sudamericana's English translation is the South American Cup. |
 
 
 

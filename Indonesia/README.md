@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-28 22:17:34 UTC`
+📆 Last Updated: `2023-03-28 23:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for Indonesia
 | 2 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
 | 3 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 4 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 5 | [#THEDREAMSHOW2_in_LONDON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_LONDON) | N/A |
-| 6 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 7 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 8 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 5 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 6 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 7 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 8 | [#THEDREAMSHOW2_in_LONDON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_LONDON) | N/A |
 | 9 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
 | 10 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
 | 11 | [#SDGsDesaMendunia](http://twitter.com/search?q=%23SDGsDesaMendunia) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for Indonesia
 | 15 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
 | 16 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
 | 17 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 18 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 19 | [Semangat](http://twitter.com/search?q=Semangat) | N/A |
-| 20 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
-| 21 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
-| 22 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 23 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 24 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 25 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 26 | [Iwak](http://twitter.com/search?q=Iwak) | N/A |
-| 27 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 28 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 29 | [BANG UDAH BANG](http://twitter.com/search?q=BANG+UDAH+BANG) | N/A |
-| 30 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 31 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 32 | [Doyan](http://twitter.com/search?q=Doyan) | N/A |
-| 33 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 34 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
-| 35 | [CAT 1A](http://twitter.com/search?q=CAT+1A) | N/A |
+| 18 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 19 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 20 | [Ramadhan Bulan Mulia](http://twitter.com/search?q=Ramadhan+Bulan+Mulia) | N/A |
+| 21 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 22 | [Ramadhan Bulan Perjuangan](http://twitter.com/search?q=Ramadhan+Bulan+Perjuangan) | N/A |
+| 23 | [Semangat](http://twitter.com/search?q=Semangat) | N/A |
+| 24 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 25 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
+| 26 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 27 | [BANG UDAH BANG](http://twitter.com/search?q=BANG+UDAH+BANG) | N/A |
+| 28 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 29 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 30 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 31 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 32 | [Iwak](http://twitter.com/search?q=Iwak) | N/A |
+| 33 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 34 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
+| 35 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
 | 36 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 37 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
-| 38 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
-| 39 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 40 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 41 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
-| 42 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 43 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
-| 44 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 45 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 46 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
-| 47 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 48 | [Cat 4](http://twitter.com/search?q=Cat+4) | N/A |
-| 49 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 50 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 37 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 38 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
+| 39 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
+| 40 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 41 | [Rasis](http://twitter.com/search?q=Rasis) | N/A |
+| 42 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
+| 43 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 44 | [Cat 1A](http://twitter.com/search?q=Cat+1A) | N/A |
+| 45 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 46 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
+| 47 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 48 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 49 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
+| 50 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
 
 
 

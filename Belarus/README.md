@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-28 22:17:32 UTC`
+📆 Last Updated: `2023-03-28 23:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,11 +29,12 @@ This is top 50 for Belarus
 | 12 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | N/A |
 | 13 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 14 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 15 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 16 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 17 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
-| 18 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 19 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 15 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 16 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 17 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 18 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
+| 19 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
+| 20 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
 
 
 

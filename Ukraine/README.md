@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-28 22:17:38 UTC`
+📆 Last Updated: `2023-03-28 23:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Ukraine
 | 9 | [Bali](http://twitter.com/search?q=Bali) | N/A |
 | 10 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
 | 11 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 12 | [Донецке](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b5) | N/A |
+| 12 | [донецке](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b5) | N/A |
 | 13 | [#SundayMillion](http://twitter.com/search?q=%23SundayMillion) | N/A |
 | 14 | [Боюсь](http://twitter.com/search?q=%d0%91%d0%be%d1%8e%d1%81%d1%8c) | N/A |
 | 15 | [Dnipro](http://twitter.com/search?q=Dnipro) | Dnipro is the fourth-longest river in Europe and the longest river in Ukraine. It is also known as the Dnieper River. The name Dnipro is derived from the ancient Greek name of the river, Dnepr, which means “river of wild waters”. |
@@ -35,11 +35,11 @@ This is top 50 for Ukraine
 | 18 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 19 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
 | 20 | [Russian Federation](http://twitter.com/search?q=Russian+Federation) | N/A |
-| 21 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 22 | [БПЛА](http://twitter.com/search?q=%d0%91%d0%9f%d0%9b%d0%90) | N/A |
-| 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 25 | [Весна](http://twitter.com/search?q=%d0%92%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
+| 21 | [Весна](http://twitter.com/search?q=%d0%92%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
+| 22 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 23 | [бпла](http://twitter.com/search?q=%d0%b1%d0%bf%d0%bb%d0%b0) | N/A |
+| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 25 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 26 | [Запада](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | N/A |
 | 27 | [Трамп](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf) | N/A |
 | 28 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Ukraine
 | 40 | [President](http://twitter.com/search?q=President) | N/A |
 | 41 | [Нема](http://twitter.com/search?q=%d0%9d%d0%b5%d0%bc%d0%b0) | N/A |
 | 42 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | N/A |
-| 43 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
-| 44 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 45 | [Сподіваюсь](http://twitter.com/search?q=%d0%a1%d0%bf%d0%be%d0%b4%d1%96%d0%b2%d0%b0%d1%8e%d1%81%d1%8c) | N/A |
+| 43 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 44 | [Сподіваюсь](http://twitter.com/search?q=%d0%a1%d0%bf%d0%be%d0%b4%d1%96%d0%b2%d0%b0%d1%8e%d1%81%d1%8c) | N/A |
+| 45 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
 | 46 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
-| 47 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 48 | [нехай](http://twitter.com/search?q=%d0%bd%d0%b5%d1%85%d0%b0%d0%b9) | N/A |
-| 49 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 50 | [понял](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
+| 47 | [нехай](http://twitter.com/search?q=%d0%bd%d0%b5%d1%85%d0%b0%d0%b9) | N/A |
+| 48 | [понял](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb) | N/A |
+| 49 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
+| 50 | [Єбать](http://twitter.com/search?q=%d0%84%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
 
 
 
