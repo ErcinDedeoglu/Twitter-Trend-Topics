@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-28 12:19:52 UTC`
+📆 Last Updated: `2023-03-28 13:21:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Spain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Desalia2023](http://twitter.com/search?q=%23Desalia2023) | N/A |
-| 2 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
-| 3 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
-| 4 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 5 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 6 | [#ElJuegoDelAlmaNetflix](http://twitter.com/search?q=%23ElJuegoDelAlmaNetflix) | N/A |
-| 7 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
+| 2 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 3 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
+| 4 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 5 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
+| 6 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
+| 7 | [#ElJuegoDelAlmaNetflix](http://twitter.com/search?q=%23ElJuegoDelAlmaNetflix) | N/A |
 | 8 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 9 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 11 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
-| 12 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 13 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
-| 14 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 15 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
-| 16 | [Cannavaro](http://twitter.com/search?q=Cannavaro) | N/A |
-| 17 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 18 | [#REBUILD2023](http://twitter.com/search?q=%23REBUILD2023) | N/A |
-| 19 | [Playeros](http://twitter.com/search?q=Playeros) | N/A |
+| 9 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
+| 10 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
+| 11 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
+| 12 | [Bellerín](http://twitter.com/search?q=Beller%c3%adn) | N/A |
+| 13 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 15 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 16 | [El Tribunal Supremo](http://twitter.com/search?q=El+Tribunal+Supremo) | N/A |
+| 17 | [Cannavaro](http://twitter.com/search?q=Cannavaro) | N/A |
+| 18 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 19 | [#YoMeRebelo28M](http://twitter.com/search?q=%23YoMeRebelo28M) | N/A |
 | 20 | [#APOYOROCIO28M](http://twitter.com/search?q=%23APOYOROCIO28M) | N/A |
-| 21 | [El Tribunal Supremo](http://twitter.com/search?q=El+Tribunal+Supremo) | N/A |
-| 22 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
-| 23 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 24 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 25 | [Siguiendo](http://twitter.com/search?q=Siguiendo) | N/A |
-| 26 | [Para Ti](http://twitter.com/search?q=Para+Ti) | N/A |
-| 27 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 28 | [En Asturias](http://twitter.com/search?q=En+Asturias) | N/A |
-| 29 | [Comisión Europea](http://twitter.com/search?q=Comisi%c3%b3n+Europea) | N/A |
-| 30 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 31 | [El 28](http://twitter.com/search?q=El+28) | N/A |
+| 21 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 22 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 23 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 24 | [Intertoto](http://twitter.com/search?q=Intertoto) | N/A |
+| 25 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 26 | [playeros](http://twitter.com/search?q=playeros) | N/A |
+| 27 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 28 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
+| 29 | [Sants](http://twitter.com/search?q=Sants) | N/A |
+| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 31 | [Para Ti](http://twitter.com/search?q=Para+Ti) | N/A |
 | 32 | [Kingdom Hearts](http://twitter.com/search?q=Kingdom+Hearts) | N/A |
-| 33 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 34 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
-| 35 | [Risto](http://twitter.com/search?q=Risto) | Risto is a Finnish male name, derived from the Latin name "Christophorus". It is a variant of the name Christopher and means "bearer of Christ". |
-| 36 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 37 | [Orihuela](http://twitter.com/search?q=Orihuela) | N/A |
-| 38 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
-| 39 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 40 | [Miércoles 29](http://twitter.com/search?q=Mi%c3%a9rcoles+29) | N/A |
-| 41 | [Pique](http://twitter.com/search?q=Pique) | N/A |
-| 42 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 43 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
-| 44 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 45 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 46 | [Castilla la Mancha](http://twitter.com/search?q=Castilla+la+Mancha) | N/A |
-| 47 | [Rosa Díez](http://twitter.com/search?q=Rosa+D%c3%adez) | N/A |
-| 48 | [Miguel Ángel](http://twitter.com/search?q=Miguel+%c3%81ngel) | N/A |
-| 49 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 50 | [#YoMeRebelo28M](http://twitter.com/search?q=%23YoMeRebelo28M) | N/A |
+| 33 | [En Asturias](http://twitter.com/search?q=En+Asturias) | N/A |
+| 34 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 35 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 36 | [Comisión Europea](http://twitter.com/search?q=Comisi%c3%b3n+Europea) | N/A |
+| 37 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
+| 38 | [Siguiendo](http://twitter.com/search?q=Siguiendo) | N/A |
+| 39 | [Risto](http://twitter.com/search?q=Risto) | Risto is a Finnish male name, derived from the Latin name "Christophorus". It is a variant of the name Christopher and means "bearer of Christ". |
+| 40 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 41 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 42 | [El 28](http://twitter.com/search?q=El+28) | N/A |
+| 43 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
+| 44 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
+| 45 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 46 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 47 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
+| 48 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 49 | [Pique](http://twitter.com/search?q=Pique) | N/A |
+| 50 | [Miércoles 29](http://twitter.com/search?q=Mi%c3%a9rcoles+29) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-03-28 12:18:50 UTC`
+📆 Last Updated: `2023-03-28 13:20:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#QConLondon](http://twitter.com/search?q=%23QConLondon) | N/A |
-| 2 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 3 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 4 | [America](http://twitter.com/search?q=America) | N/A |
-| 5 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 1 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 2 | [#QConLondon](http://twitter.com/search?q=%23QConLondon) | N/A |
+| 3 | [Labour MP](http://twitter.com/search?q=Labour+MP) | N/A |
+| 4 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 5 | [America](http://twitter.com/search?q=America) | N/A |
 | 6 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 7 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 8 | [Biggins](http://twitter.com/search?q=Biggins) | N/A |
-| 9 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
-| 10 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 11 | [#ASongOrMovieForWood](http://twitter.com/search?q=%23ASongOrMovieForWood) | N/A |
-| 12 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 13 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 15 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
+| 7 | [#JeremyCorbynThePeoplesMP](http://twitter.com/search?q=%23JeremyCorbynThePeoplesMP) | N/A |
+| 8 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 9 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 10 | [Biggins](http://twitter.com/search?q=Biggins) | N/A |
+| 11 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 12 | [William Hill](http://twitter.com/search?q=William+Hill) | N/A |
+| 13 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 14 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
+| 15 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 16 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 17 | [William Hill](http://twitter.com/search?q=William+Hill) | N/A |
-| 18 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 19 | [Ed Miliband](http://twitter.com/search?q=Ed+Miliband) | N/A |
-| 20 | [Hannah Hampton](http://twitter.com/search?q=Hannah+Hampton) | N/A |
-| 21 | [James Bowman](http://twitter.com/search?q=James+Bowman) | N/A |
-| 22 | [Schofield](http://twitter.com/search?q=Schofield) | N/A |
-| 23 | [Andrew Bailey](http://twitter.com/search?q=Andrew+Bailey) | N/A |
-| 24 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
-| 25 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 26 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 27 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
-| 28 | [Audrey](http://twitter.com/search?q=Audrey) | N/A |
-| 29 | [Tobermore](http://twitter.com/search?q=Tobermore) | N/A |
-| 30 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 31 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 32 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 33 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 34 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 35 | [LTNs](http://twitter.com/search?q=LTNs) | N/A |
-| 36 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
-| 37 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 38 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 39 | [Heathrow](http://twitter.com/search?q=Heathrow) | N/A |
-| 40 | [Beeching](http://twitter.com/search?q=Beeching) | N/A |
-| 41 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 42 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 43 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 44 | [#JeremyCorbynThePeoplesMP](http://twitter.com/search?q=%23JeremyCorbynThePeoplesMP) | N/A |
-| 45 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 46 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 47 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 48 | [#DACFestival](http://twitter.com/search?q=%23DACFestival) | N/A |
-| 49 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 17 | [Miliband](http://twitter.com/search?q=Miliband) | N/A |
+| 18 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
+| 19 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 20 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 21 | [Hannah Hampton](http://twitter.com/search?q=Hannah+Hampton) | N/A |
+| 22 | [James Bowman](http://twitter.com/search?q=James+Bowman) | N/A |
+| 23 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 24 | [Schofield](http://twitter.com/search?q=Schofield) | N/A |
+| 25 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 26 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 27 | [Andrew Bailey](http://twitter.com/search?q=Andrew+Bailey) | N/A |
+| 28 | [Croydon](http://twitter.com/search?q=Croydon) | N/A |
+| 29 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 30 | [Heathrow](http://twitter.com/search?q=Heathrow) | N/A |
+| 31 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
+| 32 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
+| 33 | [Audrey](http://twitter.com/search?q=Audrey) | N/A |
+| 34 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 35 | [Tobermore](http://twitter.com/search?q=Tobermore) | N/A |
+| 36 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
+| 37 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
+| 38 | [Phoebe](http://twitter.com/search?q=Phoebe) | N/A |
+| 39 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
+| 40 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
+| 41 | [LTNs](http://twitter.com/search?q=LTNs) | N/A |
+| 42 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 43 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 44 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 45 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 46 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 47 | [#DACFestival](http://twitter.com/search?q=%23DACFestival) | N/A |
+| 48 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 49 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 
 
 

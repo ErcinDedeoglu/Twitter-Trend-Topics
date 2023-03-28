@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-28 12:19:09 UTC`
+📆 Last Updated: `2023-03-28 13:21:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Desalia2023](http://twitter.com/search?q=%23Desalia2023) | N/A |
-| 2 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
-| 3 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
-| 4 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 5 | [#eljuegodelalmanetflix](http://twitter.com/search?q=%23eljuegodelalmanetflix) | N/A |
+| 2 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 3 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
+| 4 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 5 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
 | 6 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 7 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
+| 7 | [#ElJuegoDelAlmaNetflix](http://twitter.com/search?q=%23ElJuegoDelAlmaNetflix) | N/A |
 | 8 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 9 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 10 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 11 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 9 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
+| 10 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
+| 11 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
 | 12 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
-| 13 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 14 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
-| 15 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
-| 16 | [Cannavaro](http://twitter.com/search?q=Cannavaro) | N/A |
-| 17 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 18 | [#REBUILD2023](http://twitter.com/search?q=%23REBUILD2023) | N/A |
-| 19 | [Playeros](http://twitter.com/search?q=Playeros) | N/A |
-| 20 | [Tribunal Supremo](http://twitter.com/search?q=Tribunal+Supremo) | N/A |
-| 21 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
-| 22 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 23 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 24 | [Siguiendo](http://twitter.com/search?q=Siguiendo) | N/A |
-| 25 | [Para Ti](http://twitter.com/search?q=Para+Ti) | N/A |
-| 26 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 15 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 16 | [El Tribunal Supremo](http://twitter.com/search?q=El+Tribunal+Supremo) | N/A |
+| 17 | [Cannavaro](http://twitter.com/search?q=Cannavaro) | N/A |
+| 18 | [#APOYOROCIO28M](http://twitter.com/search?q=%23APOYOROCIO28M) | N/A |
+| 19 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
+| 20 | [#YoMeRebelo28M](http://twitter.com/search?q=%23YoMeRebelo28M) | N/A |
+| 21 | [Intertoto](http://twitter.com/search?q=Intertoto) | N/A |
+| 22 | [Playeros](http://twitter.com/search?q=Playeros) | N/A |
+| 23 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 24 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
+| 25 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 26 | [Para Ti](http://twitter.com/search?q=Para+Ti) | N/A |
 | 27 | [En Asturias](http://twitter.com/search?q=En+Asturias) | N/A |
-| 28 | [Comisión Europea](http://twitter.com/search?q=Comisi%c3%b3n+Europea) | N/A |
-| 29 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 30 | [Kingdom Hearts](http://twitter.com/search?q=Kingdom+Hearts) | N/A |
-| 31 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 32 | [El 28](http://twitter.com/search?q=El+28) | N/A |
-| 33 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
-| 34 | [Risto](http://twitter.com/search?q=Risto) | Risto is a Finnish male name, derived from the Latin name "Christophorus". It is a variant of the name Christopher and means "bearer of Christ". |
-| 35 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 36 | [Orihuela](http://twitter.com/search?q=Orihuela) | N/A |
-| 37 | [Pique](http://twitter.com/search?q=Pique) | N/A |
-| 38 | [Miércoles 29](http://twitter.com/search?q=Mi%c3%a9rcoles+29) | N/A |
-| 39 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
-| 40 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 41 | [Felipe VI](http://twitter.com/search?q=Felipe+VI) | N/A |
-| 42 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 43 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 44 | [Castilla la Mancha](http://twitter.com/search?q=Castilla+la+Mancha) | N/A |
-| 45 | [Rosa Díez](http://twitter.com/search?q=Rosa+D%c3%adez) | N/A |
-| 46 | [El Rey](http://twitter.com/search?q=El+Rey) | N/A |
-| 47 | [Miguel Ángel](http://twitter.com/search?q=Miguel+%c3%81ngel) | N/A |
-| 48 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 49 | [#APOYOROCIO28M](http://twitter.com/search?q=%23APOYOROCIO28M) | N/A |
+| 28 | [Pochettino](http://twitter.com/search?q=Pochettino) | N/A |
+| 29 | [Kingdom Hearts](http://twitter.com/search?q=Kingdom+Hearts) | N/A |
+| 30 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 31 | [Sants](http://twitter.com/search?q=Sants) | N/A |
+| 32 | [Comisión Europea](http://twitter.com/search?q=Comisi%c3%b3n+Europea) | N/A |
+| 33 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
+| 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 35 | [Siguiendo](http://twitter.com/search?q=Siguiendo) | N/A |
+| 36 | [Risto](http://twitter.com/search?q=Risto) | Risto is a Finnish male name, derived from the Latin name "Christophorus". It is a variant of the name Christopher and means "bearer of Christ". |
+| 37 | [Alexia](http://twitter.com/search?q=Alexia) | Alexia is a neurological disorder that affects a person's ability to read. It is also known as word blindness or dyslexia. People with Alexia have difficulty understanding written words, even though they may be able to speak and write normally. |
+| 38 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 39 | [El 28](http://twitter.com/search?q=El+28) | N/A |
+| 40 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
+| 41 | [Martes Santo](http://twitter.com/search?q=Martes+Santo) | N/A |
+| 42 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 43 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 44 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 45 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
+| 46 | [Pique](http://twitter.com/search?q=Pique) | N/A |
+| 47 | [Miércoles 29](http://twitter.com/search?q=Mi%c3%a9rcoles+29) | N/A |
+| 48 | [Orihuela](http://twitter.com/search?q=Orihuela) | N/A |
+| 49 | [Castilla la Mancha](http://twitter.com/search?q=Castilla+la+Mancha) | N/A |
 
 
 

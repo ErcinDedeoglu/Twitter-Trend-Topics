@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-03-28 12:18:57 UTC`
+📆 Last Updated: `2023-03-28 13:21:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#28Mar](http://twitter.com/search?q=%2328Mar) | N/A |
 | 2 | [#DuroContraLaCorrupción](http://twitter.com/search?q=%23DuroContraLaCorrupci%c3%b3n) | N/A |
-| 3 | [#NiCorrupciónNiGuarimbas](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiGuarimbas) | N/A |
-| 4 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [#DiplomaticoEnPeligro](http://twitter.com/search?q=%23DiplomaticoEnPeligro) | N/A |
-| 6 | [Francisco de Miranda](http://twitter.com/search?q=Francisco+de+Miranda) | N/A |
-| 7 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 8 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 3 | [Francisco de Miranda](http://twitter.com/search?q=Francisco+de+Miranda) | N/A |
+| 4 | [#NiCorrupciónNiGuarimbas](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiGuarimbas) | N/A |
+| 5 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 6 | [#DiplomaticoEnPeligro](http://twitter.com/search?q=%23DiplomaticoEnPeligro) | N/A |
+| 7 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 8 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
 | 9 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 10 | [dedales](http://twitter.com/search?q=dedales) | N/A |
-| 11 | [ESTUDIANTES DE MÉRIDA](http://twitter.com/search?q=ESTUDIANTES+DE+M%c3%89RIDA) | N/A |
-| 12 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
-| 13 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 14 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 15 | [Academia Puerto Cabello](http://twitter.com/search?q=Academia+Puerto+Cabello) | N/A |
-| 16 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
-| 17 | [Ministerio de Educación](http://twitter.com/search?q=Ministerio+de+Educaci%c3%b3n) | N/A |
-| 18 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 19 | [LANCO](http://twitter.com/search?q=LANCO) | N/A |
-| 20 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 21 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 22 | [panteón nacional](http://twitter.com/search?q=pante%c3%b3n+nacional) | N/A |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 25 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 26 | [Juan Carlos Alvarado](http://twitter.com/search?q=Juan+Carlos+Alvarado) | N/A |
-| 27 | [GRUPO D](http://twitter.com/search?q=GRUPO+D) | N/A |
-| 28 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
-| 29 | [Merey](http://twitter.com/search?q=Merey) | N/A |
-| 30 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 31 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
-| 32 | [Info](http://twitter.com/search?q=Info) | N/A |
-| 33 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 34 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
-| 35 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 36 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
-| 37 | [kiara y guillermo dávila](http://twitter.com/search?q=kiara+y+guillermo+d%c3%a1vila) | N/A |
-| 38 | [El Fugitivo](http://twitter.com/search?q=El+Fugitivo) | N/A |
-| 39 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 40 | [Petrocedeño](http://twitter.com/search?q=Petrocede%c3%b1o) | N/A |
-| 41 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 42 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
-| 43 | [burt reynolds](http://twitter.com/search?q=burt+reynolds) | N/A |
-| 44 | [Melón](http://twitter.com/search?q=Mel%c3%b3n) | N/A |
-| 45 | [feliz inicio de semana](http://twitter.com/search?q=feliz+inicio+de+semana) | N/A |
-| 46 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
-| 47 | [sally field](http://twitter.com/search?q=sally+field) | N/A |
-| 48 | [li baorong](http://twitter.com/search?q=li+baorong) | N/A |
-| 49 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 50 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
+| 10 | [Rodríguez Espinoza](http://twitter.com/search?q=Rodr%c3%adguez+Espinoza) | N/A |
+| 11 | [Alberto Arvelo Torrealba](http://twitter.com/search?q=Alberto+Arvelo+Torrealba) | N/A |
+| 12 | [El 28](http://twitter.com/search?q=El+28) | N/A |
+| 13 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 14 | [Independencia](http://twitter.com/search?q=Independencia) | N/A |
+| 15 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
+| 16 | [Revolución Francesa](http://twitter.com/search?q=Revoluci%c3%b3n+Francesa) | N/A |
+| 17 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 18 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 19 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 20 | [Ministerio de Educación](http://twitter.com/search?q=Ministerio+de+Educaci%c3%b3n) | N/A |
+| 21 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 22 | [LANCO](http://twitter.com/search?q=LANCO) | N/A |
+| 23 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [panteón nacional](http://twitter.com/search?q=pante%c3%b3n+nacional) | N/A |
+| 26 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 27 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 28 | [Merey](http://twitter.com/search?q=Merey) | N/A |
+| 29 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 30 | [Juan Carlos Alvarado](http://twitter.com/search?q=Juan+Carlos+Alvarado) | N/A |
+| 31 | [GRUPO D](http://twitter.com/search?q=GRUPO+D) | N/A |
+| 32 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 33 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 34 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 35 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 36 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
+| 37 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
+| 38 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
+| 39 | [Academia Puerto Cabello](http://twitter.com/search?q=Academia+Puerto+Cabello) | N/A |
+| 40 | [kiara y guillermo dávila](http://twitter.com/search?q=kiara+y+guillermo+d%c3%a1vila) | N/A |
+| 41 | [El Fugitivo](http://twitter.com/search?q=El+Fugitivo) | N/A |
+| 42 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 43 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 44 | [Petrocedeño](http://twitter.com/search?q=Petrocede%c3%b1o) | N/A |
+| 45 | [comisión nacional de primaria](http://twitter.com/search?q=comisi%c3%b3n+nacional+de+primaria) | N/A |
+| 46 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
+| 47 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 48 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 49 | [carlos márquez](http://twitter.com/search?q=carlos+m%c3%a1rquez) | N/A |
 
 
 

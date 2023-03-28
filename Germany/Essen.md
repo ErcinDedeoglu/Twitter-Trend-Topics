@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-28 12:19:05 UTC`
+📆 Last Updated: `2023-03-28 13:21:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mazilaunch](http://twitter.com/search?q=%23mazilaunch) | N/A |
+| 1 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
 | 2 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
 | 3 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
-| 4 | [Volksentscheid](http://twitter.com/search?q=Volksentscheid) | N/A |
-| 5 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 6 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 7 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 8 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 9 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 4 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 5 | [Volksentscheid](http://twitter.com/search?q=Volksentscheid) | N/A |
+| 6 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 7 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 8 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 9 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
 | 10 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
 | 11 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
 | 12 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 14 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 15 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 16 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 17 | [Erbe](http://twitter.com/search?q=Erbe) | N/A |
-| 18 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
-| 21 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 22 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 23 | ['Möbel'](http://twitter.com/search?q=%27M%c3%b6bel%27) | N/A |
-| 24 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 25 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 26 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 27 | ['schattenspiele'](http://twitter.com/search?q=%27schattenspiele%27) | N/A |
-| 28 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 29 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 30 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 31 | [Anschreiben](http://twitter.com/search?q=Anschreiben) | N/A |
-| 32 | [Milliardär](http://twitter.com/search?q=Milliard%c3%a4r) | N/A |
-| 33 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 34 | [Planet](http://twitter.com/search?q=Planet) | N/A |
-| 35 | [Klamroth](http://twitter.com/search?q=Klamroth) | N/A |
-| 36 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 13 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 14 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 17 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 18 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 19 | ['möbel'](http://twitter.com/search?q=%27m%c3%b6bel%27) | N/A |
+| 20 | [Erbe](http://twitter.com/search?q=Erbe) | N/A |
+| 21 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 22 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 23 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 24 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 25 | ['schattenspiele'](http://twitter.com/search?q=%27schattenspiele%27) | N/A |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
+| 28 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 29 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
+| 30 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 31 | [Klamroth](http://twitter.com/search?q=Klamroth) | N/A |
+| 32 | [Planet](http://twitter.com/search?q=Planet) | N/A |
+| 33 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
+| 34 | [Make-up](http://twitter.com/search?q=Make-up) | N/A |
+| 35 | [Milliardär](http://twitter.com/search?q=Milliard%c3%a4r) | N/A |
+| 36 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
 | 37 | [Tilo](http://twitter.com/search?q=Tilo) | N/A |
-| 38 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 38 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
 | 39 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
-| 42 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
-| 43 | [betäubung](http://twitter.com/search?q=bet%c3%a4ubung) | N/A |
-| 44 | [Umbruch](http://twitter.com/search?q=Umbruch) | N/A |
-| 45 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 46 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 47 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
-| 48 | [Nein-Stimmen](http://twitter.com/search?q=Nein-Stimmen) | N/A |
+| 40 | [Trinkgeld](http://twitter.com/search?q=Trinkgeld) | N/A |
+| 41 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 42 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 43 | [Betäubung](http://twitter.com/search?q=Bet%c3%a4ubung) | N/A |
+| 44 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 45 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 46 | [Anschreiben](http://twitter.com/search?q=Anschreiben) | N/A |
+| 47 | [nein-stimmen](http://twitter.com/search?q=nein-stimmen) | N/A |
+| 48 | [Leos](http://twitter.com/search?q=Leos) | N/A |
 
 
 

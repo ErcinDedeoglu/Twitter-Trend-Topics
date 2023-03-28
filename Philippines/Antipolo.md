@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-28 12:19:19 UTC`
+📆 Last Updated: `2023-03-28 13:21:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#ENHYPEN](http://twitter.com/search?q=%23ENHYPEN) | N/A |
 | 2 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 3 | [#SB19EventGuestingsVlog](http://twitter.com/search?q=%23SB19EventGuestingsVlog) | N/A |
-| 4 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
-| 5 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 6 | [#PVLFinalsGame2](http://twitter.com/search?q=%23PVLFinalsGame2) | N/A |
-| 7 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 8 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 9 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
-| 10 | [AIAH AMING BINIBINI](http://twitter.com/search?q=AIAH+AMING+BINIBINI) | N/A |
-| 11 | [JOSHCULLEN WT MV SHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+MV+SHOOT) | N/A |
-| 12 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
-| 13 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
-| 14 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 15 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 16 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
-| 17 | [KomChadLuek IDF](http://twitter.com/search?q=KomChadLuek+IDF) | N/A |
-| 18 | [congratulations f2](http://twitter.com/search?q=congratulations+f2) | N/A |
-| 19 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 20 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
-| 21 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 22 | [YML RHYTHM MV OUTNOW](http://twitter.com/search?q=YML+RHYTHM+MV+OUTNOW) | N/A |
-| 23 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 24 | [mc xiaojun the first show](http://twitter.com/search?q=mc+xiaojun+the+first+show) | N/A |
-| 25 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
-| 26 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
-| 27 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 28 | [Cheng](http://twitter.com/search?q=Cheng) | N/A |
-| 29 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 30 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
-| 31 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 32 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 33 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
-| 34 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 35 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
-| 36 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
-| 37 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 38 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 39 | [Jikook](http://twitter.com/search?q=Jikook) | N/A |
-| 40 | [duterte](http://twitter.com/search?q=duterte) | N/A |
-| 41 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 42 | [#LIVENATIONPHBASTOS](http://twitter.com/search?q=%23LIVENATIONPHBASTOS) | N/A |
-| 43 | [#KCLawardsxFreenBecky](http://twitter.com/search?q=%23KCLawardsxFreenBecky) | N/A |
-| 44 | [#JeremyG_BINI](http://twitter.com/search?q=%23JeremyG_BINI) | N/A |
-| 45 | [#WILDTONIGHTInTheDarkEP4](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP4) | N/A |
-| 46 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
-| 47 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
-| 48 | [#YML_Rhythm](http://twitter.com/search?q=%23YML_Rhythm) | N/A |
-| 49 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
-| 50 | [#THESHOW_MCXIAOJUN](http://twitter.com/search?q=%23THESHOW_MCXIAOJUN) | N/A |
+| 3 | [HOSHI](http://twitter.com/search?q=HOSHI) | HOSHI is a Japanese word meaning star. It is often used to refer to the stars in the night sky, or as a metaphor for something that shines brightly. |
+| 4 | [#SB19EventGuestingsVlog](http://twitter.com/search?q=%23SB19EventGuestingsVlog) | N/A |
+| 5 | [#PVLFinalsGame2](http://twitter.com/search?q=%23PVLFinalsGame2) | N/A |
+| 6 | [#LIVENATIONPHBASTOS](http://twitter.com/search?q=%23LIVENATIONPHBASTOS) | N/A |
+| 7 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 8 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 9 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
+| 10 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 11 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
+| 12 | [JOSHCULLEN WT MV SHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+MV+SHOOT) | N/A |
+| 13 | [AIAH AMING BINIBINI](http://twitter.com/search?q=AIAH+AMING+BINIBINI) | N/A |
+| 14 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
+| 15 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 16 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 17 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
+| 18 | [YML RHYTHM MV OUTNOW](http://twitter.com/search?q=YML+RHYTHM+MV+OUTNOW) | N/A |
+| 19 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 20 | [ALL FOR LUVE](http://twitter.com/search?q=ALL+FOR+LUVE) | N/A |
+| 21 | [Accepting Christ and His Words](http://twitter.com/search?q=Accepting+Christ+and+His+Words) | N/A |
+| 22 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
+| 23 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 24 | [KomChadLuek IDF](http://twitter.com/search?q=KomChadLuek+IDF) | N/A |
+| 25 | [Go CCS](http://twitter.com/search?q=Go+CCS) | N/A |
+| 26 | [jinyoung](http://twitter.com/search?q=jinyoung) | Jinyoung is a Korean given name, typically masculine. It is composed of two characters: jin (meaning “truth”) and young (meaning “brave”). The name can be translated to mean “truthful and brave”. |
+| 27 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 28 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 29 | [Cheng](http://twitter.com/search?q=Cheng) | N/A |
+| 30 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
+| 31 | [Congratulations F2](http://twitter.com/search?q=Congratulations+F2) | N/A |
+| 32 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 33 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
+| 34 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 35 | [Heeseung](http://twitter.com/search?q=Heeseung) | N/A |
+| 36 | [say my name](http://twitter.com/search?q=say+my+name) | N/A |
+| 37 | [Majoy](http://twitter.com/search?q=Majoy) | N/A |
+| 38 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 39 | [Eliza](http://twitter.com/search?q=Eliza) | N/A |
+| 40 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 41 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 42 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
+| 43 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 44 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 45 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 46 | [#KCLawardsxFreenBecky](http://twitter.com/search?q=%23KCLawardsxFreenBecky) | N/A |
+| 47 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 48 | [#JeremyG_BINI](http://twitter.com/search?q=%23JeremyG_BINI) | N/A |
+| 49 | [#WILDTONIGHTInTheDarkEP4](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP4) | N/A |
+| 50 | [#HOIDestiny](http://twitter.com/search?q=%23HOIDestiny) | N/A |
 
 
 

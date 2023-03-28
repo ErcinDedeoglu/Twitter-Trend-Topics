@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-03-28 12:19:38 UTC`
+📆 Last Updated: `2023-03-28 13:21:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 1 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
 | 2 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 3 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 4 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 5 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 3 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 4 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 5 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
 | 6 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 7 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 8 | [#Wordle647](http://twitter.com/search?q=%23Wordle647) | N/A |
-| 9 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 10 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 11 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 7 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
+| 8 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 9 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 10 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
+| 11 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 12 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 13 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
-| 14 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
-| 15 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
-| 16 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 17 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 18 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 19 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 20 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 21 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 22 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 23 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 24 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 25 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 26 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 27 | [Mentally](http://twitter.com/search?q=Mentally) | N/A |
-| 28 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 29 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 30 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 32 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
-| 33 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
-| 34 | [Hate Crime](http://twitter.com/search?q=Hate+Crime) | N/A |
-| 35 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 36 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 37 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 38 | [Demonic](http://twitter.com/search?q=Demonic) | N/A |
-| 39 | [Colorado Springs](http://twitter.com/search?q=Colorado+Springs) | N/A |
-| 40 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
-| 41 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 42 | [Godless](http://twitter.com/search?q=Godless) | N/A |
-| 43 | [Patriot Act](http://twitter.com/search?q=Patriot+Act) | N/A |
-| 44 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 45 | [Stormblood](http://twitter.com/search?q=Stormblood) | N/A |
-| 46 | [Polls](http://twitter.com/search?q=Polls) | N/A |
-| 47 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 48 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 49 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 13 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
+| 14 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 15 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
+| 16 | [Ciudad Juarez](http://twitter.com/search?q=Ciudad+Juarez) | N/A |
+| 17 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 18 | [$BABA](http://twitter.com/search?q=%24BABA) | N/A |
+| 19 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 20 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
+| 21 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 22 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 23 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
+| 24 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
+| 25 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
+| 26 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
+| 27 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
+| 28 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 29 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 30 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 31 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 32 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 33 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 34 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 35 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
+| 36 | [Armed](http://twitter.com/search?q=Armed) | N/A |
+| 37 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 38 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
+| 39 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 40 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
+| 41 | [Mentally](http://twitter.com/search?q=Mentally) | N/A |
+| 42 | [Hallie Scruggs](http://twitter.com/search?q=Hallie+Scruggs) | N/A |
+| 43 | [Chris Christie](http://twitter.com/search?q=Chris+Christie) | N/A |
+| 44 | [Ruby Bridges](http://twitter.com/search?q=Ruby+Bridges) | N/A |
+| 45 | [Patriot Act](http://twitter.com/search?q=Patriot+Act) | N/A |
+| 46 | [Hate Crime](http://twitter.com/search?q=Hate+Crime) | N/A |
+| 47 | [Stormblood](http://twitter.com/search?q=Stormblood) | N/A |
+| 48 | [AK-47](http://twitter.com/search?q=AK-47) | N/A |
+| 49 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
 
 
 
