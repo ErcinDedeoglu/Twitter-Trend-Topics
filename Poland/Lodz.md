@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-03-28 19:16:53 UTC`
+📆 Last Updated: `2023-03-28 20:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#polalb](http://twitter.com/search?q=%23polalb) | N/A |
+| 1 | [#POLALB](http://twitter.com/search?q=%23POLALB) | N/A |
 | 2 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 3 | [#Fitfor55](http://twitter.com/search?q=%23Fitfor55) | N/A |
-| 4 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
-| 5 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
-| 6 | [#ALBPOL](http://twitter.com/search?q=%23ALBPOL) | N/A |
-| 7 | [#Minela20](http://twitter.com/search?q=%23Minela20) | N/A |
-| 8 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 9 | [Salamon](http://twitter.com/search?q=Salamon) | N/A |
-| 10 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
-| 11 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 12 | [Karol Świderski](http://twitter.com/search?q=Karol+%c5%9awiderski) | N/A |
-| 13 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 14 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
-| 15 | [Do 2035](http://twitter.com/search?q=Do+2035) | N/A |
-| 16 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
-| 17 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 18 | [międzynarodowy dzień teatru](http://twitter.com/search?q=mi%c4%99dzynarodowy+dzie%c5%84+teatru) | N/A |
-| 19 | [Rekolekcje](http://twitter.com/search?q=Rekolekcje) | N/A |
-| 20 | [Belki](http://twitter.com/search?q=Belki) | N/A |
-| 21 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 22 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 23 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 3 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 4 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 5 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 6 | [#Fitfor55](http://twitter.com/search?q=%23Fitfor55) | N/A |
+| 7 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 8 | [Salamon](http://twitter.com/search?q=Salamon) | N/A |
+| 9 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 10 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 11 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
+| 12 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 13 | [Karol Świderski](http://twitter.com/search?q=Karol+%c5%9awiderski) | N/A |
+| 14 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 15 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
+| 16 | [międzynarodowy dzień teatru](http://twitter.com/search?q=mi%c4%99dzynarodowy+dzie%c5%84+teatru) | N/A |
+| 17 | [Belki](http://twitter.com/search?q=Belki) | N/A |
+| 18 | [Rekolekcje](http://twitter.com/search?q=Rekolekcje) | N/A |
+| 19 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 20 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 21 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 22 | [Do 2035](http://twitter.com/search?q=Do+2035) | N/A |
+| 23 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
 | 24 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
 | 25 | [Białorusinów](http://twitter.com/search?q=Bia%c5%82orusin%c3%b3w) | N/A |
-| 26 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
-| 27 | [U-17](http://twitter.com/search?q=U-17) | N/A |
-| 28 | [Śnieg](http://twitter.com/search?q=%c5%9anieg) | N/A |
+| 26 | [Gruzja](http://twitter.com/search?q=Gruzja) | N/A |
+| 27 | [Śnieg](http://twitter.com/search?q=%c5%9anieg) | N/A |
+| 28 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
 | 29 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 30 | [Bach](http://twitter.com/search?q=Bach) | N/A |
-| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 32 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
+| 30 | [mazguła](http://twitter.com/search?q=mazgu%c5%82a) | N/A |
+| 31 | [Bach](http://twitter.com/search?q=Bach) | N/A |
+| 32 | [Hiszpanią](http://twitter.com/search?q=Hiszpani%c4%85) | N/A |
 | 33 | [Ruchu Chorzów](http://twitter.com/search?q=Ruchu+Chorz%c3%b3w) | N/A |
-| 34 | [Gruzja](http://twitter.com/search?q=Gruzja) | N/A |
-| 35 | [mazguła](http://twitter.com/search?q=mazgu%c5%82a) | N/A |
-| 36 | [Bukareszcie](http://twitter.com/search?q=Bukareszcie) | N/A |
+| 34 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 35 | [Bukareszcie](http://twitter.com/search?q=Bukareszcie) | N/A |
+| 36 | [Nowych](http://twitter.com/search?q=Nowych) | N/A |
 | 37 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 38 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
-| 39 | [Narodowym](http://twitter.com/search?q=Narodowym) | N/A |
-| 40 | [U-19](http://twitter.com/search?q=U-19) | U-19 is an abbreviation for Under 19, which refers to a sports team or athlete who is under the age of 19. It is commonly used in youth sports leagues and tournaments. |
-| 41 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 42 | [Strzelcach Opolskich](http://twitter.com/search?q=Strzelcach+Opolskich) | N/A |
-| 43 | [Nowych](http://twitter.com/search?q=Nowych) | N/A |
-| 44 | [Ministrem](http://twitter.com/search?q=Ministrem) | N/A |
-| 45 | [Wehrmachtu](http://twitter.com/search?q=Wehrmachtu) | N/A |
-| 46 | [gramatyka](http://twitter.com/search?q=gramatyka) | N/A |
-| 47 | [Rada UE](http://twitter.com/search?q=Rada+UE) | N/A |
-| 48 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
-| 49 | [Dobry](http://twitter.com/search?q=Dobry) | N/A |
-| 50 | [WIBOR](http://twitter.com/search?q=WIBOR) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [U-19](http://twitter.com/search?q=U-19) | U-19 is an abbreviation for Under 19, which refers to a sports team or athlete who is under the age of 19. It is commonly used in youth sports leagues and tournaments. |
+| 40 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
+| 41 | [Narodowym](http://twitter.com/search?q=Narodowym) | N/A |
+| 42 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 43 | [Ministrem](http://twitter.com/search?q=Ministrem) | N/A |
+| 44 | [Strzelcach Opolskich](http://twitter.com/search?q=Strzelcach+Opolskich) | N/A |
+| 45 | [Zgłoszony](http://twitter.com/search?q=Zg%c5%82oszony) | N/A |
+| 46 | [U-17](http://twitter.com/search?q=U-17) | N/A |
+| 47 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 48 | [Wehrmachtu](http://twitter.com/search?q=Wehrmachtu) | N/A |
+| 49 | [Krakow](http://twitter.com/search?q=Krakow) | N/A |
+| 50 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 
 
 

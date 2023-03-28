@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-03-28 19:17:18 UTC`
+📆 Last Updated: `2023-03-28 20:19:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#İyilikSofrası](http://twitter.com/search?q=%23%c4%b0yilikSofras%c4%b1) | N/A |
-| 2 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
-| 3 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 4 | [#doktorluktanmenyasasınahayır](http://twitter.com/search?q=%23doktorluktanmenyasas%c4%b1nahay%c4%b1r) | N/A |
-| 5 | [DenklikSorununuÇözünüz](http://twitter.com/search?q=DenklikSorununu%c3%87%c3%b6z%c3%bcn%c3%bcz) | N/A |
-| 6 | [#bıktık](http://twitter.com/search?q=%23b%c4%b1kt%c4%b1k) | N/A |
-| 7 | [#TURvCRO](http://twitter.com/search?q=%23TURvCRO) | N/A |
-| 8 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 9 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
-| 10 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 11 | [TaşeronunOyu KadroyuVerene](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadroyuVerene) | N/A |
-| 12 | [Türkiye - Hırvatistan](http://twitter.com/search?q=T%c3%bcrkiye+-+H%c4%b1rvatistan) | N/A |
-| 13 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 14 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
-| 15 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
-| 16 | [Livakovic](http://twitter.com/search?q=Livakovic) | N/A |
-| 17 | [Güle](http://twitter.com/search?q=G%c3%bcle) | N/A |
-| 18 | [AzKata YapıKayıt](http://twitter.com/search?q=AzKata+Yap%c4%b1Kay%c4%b1t) | N/A |
-| 19 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
-| 20 | [Vekillikten](http://twitter.com/search?q=Vekillikten) | N/A |
-| 21 | [Candaş](http://twitter.com/search?q=Canda%c5%9f) | N/A |
-| 22 | [Ayşe Özkiraz](http://twitter.com/search?q=Ay%c5%9fe+%c3%96zkiraz) | N/A |
-| 23 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 24 | [Kandile](http://twitter.com/search?q=Kandile) | N/A |
-| 25 | [Selami Şahin](http://twitter.com/search?q=Selami+%c5%9eahin) | N/A |
-| 26 | [Defolsun](http://twitter.com/search?q=Defolsun) | N/A |
-| 27 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 28 | [Kenan Doğulu](http://twitter.com/search?q=Kenan+Do%c4%9fulu) | N/A |
-| 29 | [Hırvatlar](http://twitter.com/search?q=H%c4%b1rvatlar) | N/A |
-| 30 | [Yallah](http://twitter.com/search?q=Yallah) | N/A |
-| 31 | [Hakan Çalhanoğlu](http://twitter.com/search?q=Hakan+%c3%87alhano%c4%9flu) | N/A |
-| 32 | [KararımNet OyumEhliyet](http://twitter.com/search?q=Karar%c4%b1mNet+OyumEhliyet) | N/A |
-| 33 | [1 Gr](http://twitter.com/search?q=1+Gr) | N/A |
-| 34 | [Temmuz'da](http://twitter.com/search?q=Temmuz%27da) | N/A |
-| 35 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 36 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 37 | [İflas Kanunu](http://twitter.com/search?q=%c4%b0flas+Kanunu) | N/A |
-| 38 | [Çorum](http://twitter.com/search?q=%c3%87orum) | N/A |
-| 39 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
-| 40 | [Salih Özcan](http://twitter.com/search?q=Salih+%c3%96zcan) | N/A |
-| 41 | [Vedat Bilgin](http://twitter.com/search?q=Vedat+Bilgin) | N/A |
-| 42 | [Tahliye](http://twitter.com/search?q=Tahliye) | N/A |
-| 43 | [İbrahim Tatlıses](http://twitter.com/search?q=%c4%b0brahim+Tatl%c4%b1ses) | N/A |
-| 44 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
-| 45 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
-| 46 | [Şarap](http://twitter.com/search?q=%c5%9earap) | N/A |
-| 47 | [Cehennemin](http://twitter.com/search?q=Cehennemin) | N/A |
-| 48 | [Vize](http://twitter.com/search?q=Vize) | N/A |
-| 49 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 50 | [Güneş](http://twitter.com/search?q=G%c3%bcne%c5%9f) | N/A |
+| 1 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
+| 2 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
+| 3 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
+| 4 | [#İyilikSofrası](http://twitter.com/search?q=%23%c4%b0yilikSofras%c4%b1) | N/A |
+| 5 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
+| 6 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 7 | [Türkiye - Hırvatistan](http://twitter.com/search?q=T%c3%bcrkiye+-+H%c4%b1rvatistan) | N/A |
+| 8 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 9 | [#TURvCRO](http://twitter.com/search?q=%23TURvCRO) | N/A |
+| 10 | [#doktorluktanmenyasasınahayır](http://twitter.com/search?q=%23doktorluktanmenyasas%c4%b1nahay%c4%b1r) | N/A |
+| 11 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
+| 12 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 13 | [Mert](http://twitter.com/search?q=Mert) | Mert is a Turkish name derived from the Arabic word for “blessed”. It is also used as a surname in some parts of the world. In English, it can be translated to mean “blessed” or “fortunate”. |
+| 14 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 15 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 16 | [#BizimÇocuklar](http://twitter.com/search?q=%23Bizim%c3%87ocuklar) | N/A |
+| 17 | [Zeki](http://twitter.com/search?q=Zeki) | N/A |
+| 18 | [Çağlar](http://twitter.com/search?q=%c3%87a%c4%9flar) | N/A |
+| 19 | [Merih](http://twitter.com/search?q=Merih) | N/A |
+| 20 | [Enes](http://twitter.com/search?q=Enes) | N/A |
+| 21 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 22 | [TaşeronunOyu KadroyuVerene](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadroyuVerene) | N/A |
+| 23 | [Hamit](http://twitter.com/search?q=Hamit) | N/A |
+| 24 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 25 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 26 | [Salih](http://twitter.com/search?q=Salih) | Salih is an Arabic name that means "righteous" or "pious". |
+| 27 | [SANDIK MÜSLÜMANLARI](http://twitter.com/search?q=SANDIK+M%c3%9cSL%c3%9cMANLARI) | N/A |
+| 28 | [Livakovic](http://twitter.com/search?q=Livakovic) | N/A |
+| 29 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 30 | [Devin](http://twitter.com/search?q=Devin) | N/A |
+| 31 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
+| 32 | [Kandile](http://twitter.com/search?q=Kandile) | N/A |
+| 33 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
+| 34 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
+| 35 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
+| 36 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
+| 37 | [İYİ Parti'den](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27den) | N/A |
+| 38 | [Serenay](http://twitter.com/search?q=Serenay) | N/A |
+| 39 | [Defans](http://twitter.com/search?q=Defans) | N/A |
+| 40 | [Ereğli](http://twitter.com/search?q=Ere%c4%9fli) | N/A |
+| 41 | [Barış Alper](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Alper) | Barış Alper is a Turkish name, with the given name Barış meaning "peace" and the surname Alper meaning "brave". In English, the name would translate to "Peace Brave". |
+| 42 | [AzKata YapıKayıt](http://twitter.com/search?q=AzKata+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 43 | [Kıvanç](http://twitter.com/search?q=K%c4%b1van%c3%a7) | Kıvanç is a Turkish name that means "pride" or "triumph" in English. It is derived from the Turkish word kıvanc, which means "glory". |
+| 44 | [Abdülkadir Ömür](http://twitter.com/search?q=Abd%c3%bclkadir+%c3%96m%c3%bcr) | N/A |
+| 45 | [Orkun](http://twitter.com/search?q=Orkun) | N/A |
+| 46 | [Kaleci](http://twitter.com/search?q=Kaleci) | N/A |
+| 47 | [Kenan Doğulu](http://twitter.com/search?q=Kenan+Do%c4%9fulu) | N/A |
+| 48 | [Devre](http://twitter.com/search?q=Devre) | N/A |
+| 49 | [Candaş](http://twitter.com/search?q=Canda%c5%9f) | N/A |
+| 50 | [Vekillikten](http://twitter.com/search?q=Vekillikten) | N/A |
 
 
 

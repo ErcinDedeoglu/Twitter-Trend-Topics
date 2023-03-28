@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-28 19:16:58 UTC`
+📆 Last Updated: `2023-03-28 20:19:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 2 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 3 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
-| 4 | [#LluviaAdaraSv](http://twitter.com/search?q=%23LluviaAdaraSv) | N/A |
-| 5 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 6 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
-| 7 | [#Pasapalabra734](http://twitter.com/search?q=%23Pasapalabra734) | N/A |
+| 1 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 2 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 3 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 4 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 5 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
+| 6 | [Luis de la Cope](http://twitter.com/search?q=Luis+de+la+Cope) | N/A |
+| 7 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
 | 8 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
 | 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 10 | [Hampden Park](http://twitter.com/search?q=Hampden+Park) | N/A |
-| 11 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 13 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
-| 14 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 15 | [Los Mossos](http://twitter.com/search?q=Los+Mossos) | N/A |
-| 16 | [#HayQueArreglarMadridCorriendo](http://twitter.com/search?q=%23HayQueArreglarMadridCorriendo) | N/A |
-| 17 | [Flower of Scotland](http://twitter.com/search?q=Flower+of+Scotland) | N/A |
-| 18 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 19 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
-| 20 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
-| 21 | [Luis de la Cope](http://twitter.com/search?q=Luis+de+la+Cope) | N/A |
-| 22 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
-| 23 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 24 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 25 | [Pablo Aguirregabiria](http://twitter.com/search?q=Pablo+Aguirregabiria) | N/A |
-| 26 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 27 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
-| 28 | [Supremo](http://twitter.com/search?q=Supremo) | N/A |
-| 29 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
-| 30 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
-| 31 | [Junts](http://twitter.com/search?q=Junts) | N/A |
-| 32 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 33 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 34 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 35 | [Aranjuez](http://twitter.com/search?q=Aranjuez) | N/A |
-| 36 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 37 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 38 | [Elyoya](http://twitter.com/search?q=Elyoya) | N/A |
-| 39 | [Heretics](http://twitter.com/search?q=Heretics) | N/A |
-| 40 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 41 | [Europeo](http://twitter.com/search?q=Europeo) | N/A |
-| 42 | [Chris Redfield](http://twitter.com/search?q=Chris+Redfield) | N/A |
-| 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 44 | [Glasgow](http://twitter.com/search?q=Glasgow) | N/A |
-| 45 | [La UE](http://twitter.com/search?q=La+UE) | N/A |
-| 46 | [Marcos Alonso](http://twitter.com/search?q=Marcos+Alonso) | Marcos Alonso is a Spanish professional footballer who plays as a left back for Premier League club Chelsea and the Spanish national team. His name is derived from the Spanish words "mar" (sea) and "cos" (order). In English, his name translates to "ordered sea". |
-| 47 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 10 | [#firstdates28m](http://twitter.com/search?q=%23firstdates28m) | N/A |
+| 11 | [Eurocopa](http://twitter.com/search?q=Eurocopa) | N/A |
+| 12 | [Lucho](http://twitter.com/search?q=Lucho) | N/A |
+| 13 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 14 | [#LluviaAdaraSv](http://twitter.com/search?q=%23LluviaAdaraSv) | N/A |
+| 15 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
+| 16 | [#EURO2024](http://twitter.com/search?q=%23EURO2024) | N/A |
+| 17 | [Gayá](http://twitter.com/search?q=Gay%c3%a1) | Gayá is a Spanish surname. It is derived from the Latin word "gaius" which means "happy". In English, it can be translated to mean "happy". |
+| 18 | [Eric García](http://twitter.com/search?q=Eric+Garc%c3%ada) | N/A |
+| 19 | [#AnaMenaEH](http://twitter.com/search?q=%23AnaMenaEH) | N/A |
+| 20 | [Merino](http://twitter.com/search?q=Merino) | N/A |
+| 21 | [Hampden Park](http://twitter.com/search?q=Hampden+Park) | N/A |
+| 22 | [Iago Aspas](http://twitter.com/search?q=Iago+Aspas) | Iago Aspas is a Spanish professional footballer who plays as a striker for Celta Vigo. His name is a combination of his first name, Iago, and his mother's maiden name, Aspas. In English, the phrase "Iago Aspas" simply refers to the footballer himself. |
+| 23 | [#TierraDeNadie4](http://twitter.com/search?q=%23TierraDeNadie4) | N/A |
+| 24 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 25 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 26 | [Luis Padrique](http://twitter.com/search?q=Luis+Padrique) | N/A |
+| 27 | [Carcamal](http://twitter.com/search?q=Carcamal) | N/A |
+| 28 | [Nico Williams](http://twitter.com/search?q=Nico+Williams) | N/A |
+| 29 | [Flower of Scotland](http://twitter.com/search?q=Flower+of+Scotland) | N/A |
+| 30 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 31 | [Mossos](http://twitter.com/search?q=Mossos) | N/A |
+| 32 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 33 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
+| 34 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
+| 35 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 36 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
+| 37 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 38 | [Dani Ceballos](http://twitter.com/search?q=Dani+Ceballos) | N/A |
+| 39 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
+| 40 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 41 | [Pablo Aguirregabiria](http://twitter.com/search?q=Pablo+Aguirregabiria) | N/A |
+| 42 | [Glasgow](http://twitter.com/search?q=Glasgow) | N/A |
+| 43 | [El Bolton](http://twitter.com/search?q=El+Bolton) | N/A |
+| 44 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
+| 45 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 46 | [Junts](http://twitter.com/search?q=Junts) | N/A |
+| 47 | [Estocolmo](http://twitter.com/search?q=Estocolmo) | N/A |
+| 48 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
 
 
 

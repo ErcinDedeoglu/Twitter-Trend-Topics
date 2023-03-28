@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-28 19:17:08 UTC`
+📆 Last Updated: `2023-03-28 20:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
 | 2 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
 | 3 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
-| 4 | [#PVLFinalsGame2](http://twitter.com/search?q=%23PVLFinalsGame2) | N/A |
+| 4 | [#pvlfinalsgame2](http://twitter.com/search?q=%23pvlfinalsgame2) | N/A |
 | 5 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
 | 6 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
 | 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 8 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 9 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 10 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
+| 9 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
+| 10 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 11 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
 | 12 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 13 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 14 | [day6](http://twitter.com/search?q=day6) | N/A |
+| 14 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
 | 15 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 16 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 17 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 18 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
-| 19 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
-| 20 | [congrats ccs](http://twitter.com/search?q=congrats+ccs) | N/A |
-| 21 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
-| 22 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
-| 23 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
-| 24 | [mama mary](http://twitter.com/search?q=mama+mary) | N/A |
-| 25 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 26 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
-| 27 | [JOSHCULLEN WT MV SHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+MV+SHOOT) | N/A |
-| 28 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
-| 29 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
-| 30 | [AIAH AMING BINIBINI](http://twitter.com/search?q=AIAH+AMING+BINIBINI) | N/A |
-| 31 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
-| 32 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
-| 33 | [say lalisa day](http://twitter.com/search?q=say+lalisa+day) | N/A |
+| 16 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
+| 17 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
+| 18 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
+| 19 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
+| 20 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
+| 21 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
+| 22 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
+| 23 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
+| 24 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
+| 25 | [congrats ccs](http://twitter.com/search?q=congrats+ccs) | N/A |
+| 26 | [joshcullen wt mv shoot](http://twitter.com/search?q=joshcullen+wt+mv+shoot) | N/A |
+| 27 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 28 | [aiah aming binibini](http://twitter.com/search?q=aiah+aming+binibini) | N/A |
+| 29 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
+| 30 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
+| 31 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 32 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 33 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
 | 34 | [new era of kathryn](http://twitter.com/search?q=new+era+of+kathryn) | N/A |
-| 35 | [Ced Domingo](http://twitter.com/search?q=Ced+Domingo) | N/A |
-| 36 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
-| 37 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 38 | [accepting christ and his words](http://twitter.com/search?q=accepting+christ+and+his+words) | N/A |
-| 39 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 35 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 36 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 37 | [accepting christ and his words](http://twitter.com/search?q=accepting+christ+and+his+words) | N/A |
+| 38 | [Ced Domingo](http://twitter.com/search?q=Ced+Domingo) | N/A |
+| 39 | [YML RHYTHM MV OUTNOW](http://twitter.com/search?q=YML+RHYTHM+MV+OUTNOW) | N/A |
 | 40 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 41 | [YML RHYTHM MV OUTNOW](http://twitter.com/search?q=YML+RHYTHM+MV+OUTNOW) | N/A |
-| 42 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
+| 41 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 42 | [komchadluek idf](http://twitter.com/search?q=komchadluek+idf) | N/A |
 | 43 | [ggmoviesoon withdonny](http://twitter.com/search?q=ggmoviesoon+withdonny) | N/A |
-| 44 | [KomChadLuek IDF](http://twitter.com/search?q=KomChadLuek+IDF) | N/A |
-| 45 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
-| 46 | [Set 5](http://twitter.com/search?q=Set+5) | N/A |
-| 47 | [ItsALASpecialDay WithNuebe](http://twitter.com/search?q=ItsALASpecialDay+WithNuebe) | N/A |
+| 44 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
+| 45 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
+| 46 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
+| 47 | [set 5](http://twitter.com/search?q=set+5) | N/A |
 
 
 

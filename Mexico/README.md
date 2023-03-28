@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-28 19:17:32 UTC`
+📆 Last Updated: `2023-03-28 20:19:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 2 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
-| 3 | [Carlos Rivera](http://twitter.com/search?q=Carlos+Rivera) | N/A |
-| 4 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
-| 5 | [#kampfestcdmx](http://twitter.com/search?q=%23kampfestcdmx) | N/A |
-| 6 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 7 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 8 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
-| 9 | [Cd. Juárez](http://twitter.com/search?q=Cd.+Ju%c3%a1rez) | N/A |
+| 2 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
+| 3 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
+| 4 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 5 | [Carlos Rivera](http://twitter.com/search?q=Carlos+Rivera) | N/A |
+| 6 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 7 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 8 | [Cd. Juárez](http://twitter.com/search?q=Cd.+Ju%c3%a1rez) | N/A |
+| 9 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
 | 10 | [Cynthia Rodríguez](http://twitter.com/search?q=Cynthia+Rodr%c3%adguez) | N/A |
-| 11 | [Mueren 39](http://twitter.com/search?q=Mueren+39) | N/A |
-| 12 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
-| 13 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 11 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 12 | [#ZeldaTearsOfTheKingdom](http://twitter.com/search?q=%23ZeldaTearsOfTheKingdom) | N/A |
+| 13 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
 | 14 | [Guacamaya Leaks](http://twitter.com/search?q=Guacamaya+Leaks) | N/A |
-| 15 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 17 | [Xochimilco](http://twitter.com/search?q=Xochimilco) | N/A |
-| 18 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 15 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 16 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
+| 17 | [Mueren 39](http://twitter.com/search?q=Mueren+39) | N/A |
+| 18 | [Xochimilco](http://twitter.com/search?q=Xochimilco) | N/A |
 | 19 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
-| 20 | [SPOTIFY CREDIT GHSTLOOP](http://twitter.com/search?q=SPOTIFY+CREDIT+GHSTLOOP) | N/A |
-| 21 | [10 MILLONES](http://twitter.com/search?q=10+MILLONES) | N/A |
-| 22 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 23 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 24 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 25 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
-| 26 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
-| 27 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 28 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 29 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 30 | [De la Madrid](http://twitter.com/search?q=De+la+Madrid) | N/A |
-| 31 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 32 | [Ecatepec](http://twitter.com/search?q=Ecatepec) | N/A |
+| 20 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 21 | [Epigmenio](http://twitter.com/search?q=Epigmenio) | N/A |
+| 22 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 23 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 24 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 25 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 26 | [Fernando Valenzuela](http://twitter.com/search?q=Fernando+Valenzuela) | N/A |
+| 27 | [Enrique de la Madrid](http://twitter.com/search?q=Enrique+de+la+Madrid) | N/A |
+| 28 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 29 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 30 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 32 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 33 | [Adriana Maldonado](http://twitter.com/search?q=Adriana+Maldonado) | N/A |
-| 34 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
-| 35 | [#PoderosoBienestar](http://twitter.com/search?q=%23PoderosoBienestar) | N/A |
-| 36 | [#ZeldaTearsOfTheKingdom](http://twitter.com/search?q=%23ZeldaTearsOfTheKingdom) | N/A |
-| 37 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
-| 38 | [#PlaydoitMexico](http://twitter.com/search?q=%23PlaydoitMexico) | N/A |
-| 39 | [#CuandoVeoVLA](http://twitter.com/search?q=%23CuandoVeoVLA) | N/A |
+| 34 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
+| 35 | [#kampfestcdmx](http://twitter.com/search?q=%23kampfestcdmx) | N/A |
+| 36 | [#MarcoReyPicks](http://twitter.com/search?q=%23MarcoReyPicks) | N/A |
+| 37 | [#PlaydoitMexico](http://twitter.com/search?q=%23PlaydoitMexico) | N/A |
+| 38 | [#CuandoVeoVLA](http://twitter.com/search?q=%23CuandoVeoVLA) | N/A |
+| 39 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
 | 40 | [#SPOTIFYCORRUPT](http://twitter.com/search?q=%23SPOTIFYCORRUPT) | N/A |
-| 41 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
-| 42 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
-| 43 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
-| 44 | [#Coacalco](http://twitter.com/search?q=%23Coacalco) | N/A |
-| 45 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
-| 46 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 47 | [#Tragedia](http://twitter.com/search?q=%23Tragedia) | N/A |
-| 48 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
-| 49 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
-| 50 | [#Nashville](http://twitter.com/search?q=%23Nashville) | N/A |
+| 41 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
+| 42 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
+| 43 | [#Tragedia](http://twitter.com/search?q=%23Tragedia) | N/A |
+| 44 | [#incendio](http://twitter.com/search?q=%23incendio) | N/A |
+| 45 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
+| 46 | [#Nashville](http://twitter.com/search?q=%23Nashville) | N/A |
+| 47 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
+| 48 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
 
 
 

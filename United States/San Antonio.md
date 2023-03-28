@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-03-28 19:17:26 UTC`
+📆 Last Updated: `2023-03-28 20:19:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 2 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 3 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 4 | [#SHMConverge23](http://twitter.com/search?q=%23SHMConverge23) | N/A |
-| 5 | [#pvelections](http://twitter.com/search?q=%23pvelections) | N/A |
+| 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 2 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 4 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 5 | [#SHMConverge23](http://twitter.com/search?q=%23SHMConverge23) | N/A |
 | 6 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 7 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 8 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 9 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 10 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 11 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
-| 12 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
+| 10 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 11 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 12 | [$AMC](http://twitter.com/search?q=%24AMC) | AMC stands for American Movie Classics, a cable television channel that specializes in classic films from the 1930s to the 1980s. The channel also airs some original programming, such as its popular series Mad Men and Breaking Bad. |
 | 13 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 14 | [$AMC](http://twitter.com/search?q=%24AMC) | AMC stands for American Movie Classics, a cable television channel that specializes in classic films from the 1930s to the 1980s. The channel also airs some original programming, such as its popular series Mad Men and Breaking Bad. |
+| 14 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
 | 15 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 16 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 17 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 18 | [No. 0](http://twitter.com/search?q=No.+0) | N/A |
-| 19 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 20 | [Adnan Syed](http://twitter.com/search?q=Adnan+Syed) | N/A |
-| 21 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
-| 22 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
-| 23 | [Attach](http://twitter.com/search?q=Attach) | N/A |
-| 24 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 16 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 17 | [No. 0](http://twitter.com/search?q=No.+0) | N/A |
+| 18 | [Adnan Syed](http://twitter.com/search?q=Adnan+Syed) | N/A |
+| 19 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
+| 20 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 21 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
+| 22 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 23 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 24 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
 | 25 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
-| 26 | [#TacoTuesday](http://twitter.com/search?q=%23TacoTuesday) | N/A |
-| 27 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
-| 28 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 29 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
-| 30 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 31 | [Dan Dakich](http://twitter.com/search?q=Dan+Dakich) | N/A |
-| 32 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 33 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 34 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 35 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 36 | [emily henry](http://twitter.com/search?q=emily+henry) | N/A |
-| 37 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 38 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
-| 39 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 40 | [Best Pitcher](http://twitter.com/search?q=Best+Pitcher) | N/A |
-| 41 | [$AMZN](http://twitter.com/search?q=%24AMZN) | N/A |
-| 42 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
-| 43 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 44 | [Scully](http://twitter.com/search?q=Scully) | N/A |
-| 45 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
-| 46 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 47 | [Ertz](http://twitter.com/search?q=Ertz) | N/A |
-| 48 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
-| 49 | [Vice President Mike Pence](http://twitter.com/search?q=Vice+President+Mike+Pence) | N/A |
-| 50 | [Guardians](http://twitter.com/search?q=Guardians) | N/A |
+| 26 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 27 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
+| 28 | [Attach](http://twitter.com/search?q=Attach) | N/A |
+| 29 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 30 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
+| 31 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
+| 32 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
+| 33 | [Best Buy](http://twitter.com/search?q=Best+Buy) | N/A |
+| 34 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 35 | [Deadpool 3](http://twitter.com/search?q=Deadpool+3) | N/A |
+| 36 | [Florial](http://twitter.com/search?q=Florial) | N/A |
+| 37 | [Premature](http://twitter.com/search?q=Premature) | N/A |
+| 38 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 39 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 40 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 41 | [Lower Decks](http://twitter.com/search?q=Lower+Decks) | N/A |
+| 42 | [#StrangeNewWorlds](http://twitter.com/search?q=%23StrangeNewWorlds) | N/A |
+| 43 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 44 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 45 | [Best Pitcher](http://twitter.com/search?q=Best+Pitcher) | N/A |
+| 46 | [#PollutersOverPeople](http://twitter.com/search?q=%23PollutersOverPeople) | N/A |
+| 47 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 48 | [Dan Dakich](http://twitter.com/search?q=Dan+Dakich) | N/A |
+| 49 | [#GlobalHERAct](http://twitter.com/search?q=%23GlobalHERAct) | N/A |
+| 50 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
 
 
 

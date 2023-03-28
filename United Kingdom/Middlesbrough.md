@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-03-28 19:16:44 UTC`
+📆 Last Updated: `2023-03-28 20:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Samson](http://twitter.com/search?q=Samson) | N/A |
-| 2 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 3 | [#NCTDREAMinLONDON](http://twitter.com/search?q=%23NCTDREAMinLONDON) | N/A |
-| 4 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 5 | [Biggins](http://twitter.com/search?q=Biggins) | N/A |
-| 6 | [America](http://twitter.com/search?q=America) | N/A |
-| 7 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 8 | [#QConLondon](http://twitter.com/search?q=%23QConLondon) | N/A |
-| 9 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
-| 10 | [Scott McTominay](http://twitter.com/search?q=Scott+McTominay) | N/A |
-| 11 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 12 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
-| 13 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 15 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 16 | [Finance](http://twitter.com/search?q=Finance) | N/A |
-| 17 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 18 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 19 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 20 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 21 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 22 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
-| 23 | [Gareth Bale](http://twitter.com/search?q=Gareth+Bale) | Gareth Bale is a Welsh professional footballer who plays as a winger for Premier League club Tottenham Hotspur and the Wales national team. His meaning in English is "a talented and successful Welsh soccer player". |
-| 24 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 25 | [Dagger](http://twitter.com/search?q=Dagger) | N/A |
+| 2 | [#NCTDREAMinLONDON](http://twitter.com/search?q=%23NCTDREAMinLONDON) | N/A |
+| 3 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
+| 4 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
+| 5 | [Royal Mail](http://twitter.com/search?q=Royal+Mail) | N/A |
+| 6 | [Biggins](http://twitter.com/search?q=Biggins) | N/A |
+| 7 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 8 | [America](http://twitter.com/search?q=America) | N/A |
+| 9 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
+| 10 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 11 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 12 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
+| 13 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 14 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 15 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 16 | [Dykes](http://twitter.com/search?q=Dykes) | N/A |
+| 17 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 18 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 19 | [McSauce](http://twitter.com/search?q=McSauce) | N/A |
+| 20 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
+| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 22 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 23 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 24 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 25 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
 | 26 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 27 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 28 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 29 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 30 | [Outrageously](http://twitter.com/search?q=Outrageously) | N/A |
-| 31 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
-| 32 | [Deputy First Minister](http://twitter.com/search?q=Deputy+First+Minister) | N/A |
-| 33 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 34 | [Corey](http://twitter.com/search?q=Corey) | N/A |
-| 35 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 36 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 37 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 38 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 39 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 40 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 41 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 42 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 43 | [Thunderbirds](http://twitter.com/search?q=Thunderbirds) | N/A |
+| 27 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 28 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 29 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 30 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
+| 31 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 32 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 33 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 34 | [Finance](http://twitter.com/search?q=Finance) | N/A |
+| 35 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 36 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 37 | [The Spanish](http://twitter.com/search?q=The+Spanish) | N/A |
+| 38 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 39 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 40 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
+| 41 | [Gareth Bale](http://twitter.com/search?q=Gareth+Bale) | Gareth Bale is a Welsh professional footballer who plays as a winger for Premier League club Tottenham Hotspur and the Wales national team. His meaning in English is "a talented and successful Welsh soccer player". |
+| 42 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 43 | [Walsall](http://twitter.com/search?q=Walsall) | N/A |
 | 44 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 45 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 46 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 47 | [Morley](http://twitter.com/search?q=Morley) | N/A |
-| 48 | [Top Cat](http://twitter.com/search?q=Top+Cat) | N/A |
-| 49 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 45 | [Robison](http://twitter.com/search?q=Robison) | N/A |
+| 46 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 47 | [Dagger](http://twitter.com/search?q=Dagger) | N/A |
+| 48 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 49 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
 
 
 

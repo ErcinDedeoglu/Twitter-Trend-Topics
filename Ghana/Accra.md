@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-28 19:17:09 UTC`
+📆 Last Updated: `2023-03-28 20:19:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ghana](</Ghana>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ernest Nuamah](http://twitter.com/search?q=Ernest+Nuamah) | N/A |
-| 2 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 3 | [Black Meteors](http://twitter.com/search?q=Black+Meteors) | N/A |
+| 1 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 2 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 3 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 4 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
-| 5 | [Barnieh](http://twitter.com/search?q=Barnieh) | N/A |
-| 6 | [Fatawu Issahaku](http://twitter.com/search?q=Fatawu+Issahaku) | N/A |
+| 5 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 6 | [Nuamah](http://twitter.com/search?q=Nuamah) | N/A |
 | 7 | [#kojoforex](http://twitter.com/search?q=%23kojoforex) | N/A |
-| 8 | [U23 AFCON](http://twitter.com/search?q=U23+AFCON) | N/A |
+| 8 | [Black Meteors](http://twitter.com/search?q=Black+Meteors) | N/A |
 | 9 | [Emergency](http://twitter.com/search?q=Emergency) | N/A |
-| 10 | [Max TV](http://twitter.com/search?q=Max+TV) | N/A |
-| 11 | [#anggha](http://twitter.com/search?q=%23anggha) | N/A |
-| 12 | [#GHAALG](http://twitter.com/search?q=%23GHAALG) | N/A |
-| 13 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 14 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
-| 15 | [#PheelzLikeSummer](http://twitter.com/search?q=%23PheelzLikeSummer) | N/A |
-| 16 | [Ashimeru](http://twitter.com/search?q=Ashimeru) | N/A |
-| 17 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
+| 10 | [Barnieh](http://twitter.com/search?q=Barnieh) | N/A |
+| 11 | [Fatawu Issahaku](http://twitter.com/search?q=Fatawu+Issahaku) | N/A |
+| 12 | [#anggha](http://twitter.com/search?q=%23anggha) | N/A |
+| 13 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 14 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 15 | [Ashimeru](http://twitter.com/search?q=Ashimeru) | N/A |
+| 16 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
+| 17 | [U23 AFCON](http://twitter.com/search?q=U23+AFCON) | N/A |
 | 18 | [Bukari](http://twitter.com/search?q=Bukari) | N/A |
-| 19 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
-| 20 | [U-23](http://twitter.com/search?q=U-23) | N/A |
+| 19 | [#PheelzLikeSummer](http://twitter.com/search?q=%23PheelzLikeSummer) | N/A |
+| 20 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
 | 21 | [Afena](http://twitter.com/search?q=Afena) | N/A |
-| 22 | [Sam George](http://twitter.com/search?q=Sam+George) | N/A |
-| 23 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 22 | [Max TV](http://twitter.com/search?q=Max+TV) | N/A |
+| 23 | [amartey](http://twitter.com/search?q=amartey) | N/A |
 | 24 | [Baba Rahman](http://twitter.com/search?q=Baba+Rahman) | N/A |
-| 25 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
-| 26 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
-| 27 | [Jubilee House](http://twitter.com/search?q=Jubilee+House) | Jubilee House is a term used in the United Kingdom to refer to a house or other property that has been granted to someone as part of a jubilee celebration. It is usually given to someone who has made an outstanding contribution to their community or country. The term is derived from the biblical concept of the Jubilee Year, which was a year of rest and restoration for those who had been enslaved or oppressed. |
-| 28 | [Joseph Paintsil](http://twitter.com/search?q=Joseph+Paintsil) | N/A |
-| 29 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 30 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
-| 31 | [#joysms](http://twitter.com/search?q=%23joysms) | N/A |
-| 32 | [Khedira](http://twitter.com/search?q=Khedira) | N/A |
-| 33 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
-| 34 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 35 | [Otto Addo](http://twitter.com/search?q=Otto+Addo) | N/A |
-| 36 | [ati zigi](http://twitter.com/search?q=ati+zigi) | N/A |
-| 37 | [Semenyo](http://twitter.com/search?q=Semenyo) | N/A |
+| 25 | [Sam George](http://twitter.com/search?q=Sam+George) | N/A |
+| 26 | [Olympics](http://twitter.com/search?q=Olympics) | N/A |
+| 27 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
+| 28 | [Jubilee House](http://twitter.com/search?q=Jubilee+House) | Jubilee House is a term used in the United Kingdom to refer to a house or other property that has been granted to someone as part of a jubilee celebration. It is usually given to someone who has made an outstanding contribution to their community or country. The term is derived from the biblical concept of the Jubilee Year, which was a year of rest and restoration for those who had been enslaved or oppressed. |
+| 29 | [Paintsil](http://twitter.com/search?q=Paintsil) | N/A |
+| 30 | [#GHAALG](http://twitter.com/search?q=%23GHAALG) | N/A |
+| 31 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
+| 32 | [#joysms](http://twitter.com/search?q=%23joysms) | N/A |
+| 33 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
+| 34 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
+| 35 | [Khedira](http://twitter.com/search?q=Khedira) | N/A |
+| 36 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 37 | [ati zigi](http://twitter.com/search?q=ati+zigi) | N/A |
 | 38 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 39 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 39 | [semenyo](http://twitter.com/search?q=semenyo) | N/A |
 | 40 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
 | 41 | [America](http://twitter.com/search?q=America) | N/A |
-| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 42 | [Edmund Addo](http://twitter.com/search?q=Edmund+Addo) | N/A |
 | 43 | [Salis](http://twitter.com/search?q=Salis) | N/A |
-| 44 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 45 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
+| 44 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 45 | [Titi](http://twitter.com/search?q=Titi) | N/A |
 | 46 | [Meek Mill](http://twitter.com/search?q=Meek+Mill) | N/A |
-| 47 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 48 | [sorry king](http://twitter.com/search?q=sorry+king) | N/A |
-| 49 | [Baby Jet](http://twitter.com/search?q=Baby+Jet) | N/A |
-| 50 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
+| 47 | [sorry king](http://twitter.com/search?q=sorry+king) | N/A |
+| 48 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 49 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
+| 50 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
 
 
 

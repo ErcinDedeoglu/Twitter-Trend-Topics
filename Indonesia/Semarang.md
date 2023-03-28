@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-28 19:17:01 UTC`
+📆 Last Updated: `2023-03-28 20:19:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JENO BLONDE](http://twitter.com/search?q=JENO+BLONDE) | N/A |
-| 2 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 3 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 1 | [#THEDREAMSHOW2_in_LONDON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_LONDON) | N/A |
+| 2 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 3 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 5 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
-| 6 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
-| 7 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 8 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 5 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
+| 6 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 7 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 8 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
 | 9 | [#SDGsDesaMendunia](http://twitter.com/search?q=%23SDGsDesaMendunia) | N/A |
 | 10 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
-| 11 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
+| 11 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
 | 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 13 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 14 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
+| 13 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
+| 14 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 15 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 16 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 17 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 18 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
+| 16 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 17 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
+| 18 | [Semangat](http://twitter.com/search?q=Semangat) | N/A |
 | 19 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
 | 20 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
 | 21 | [U-20](http://twitter.com/search?q=U-20) | N/A |
 | 22 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
 | 23 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
 | 24 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 25 | [CAT 1A](http://twitter.com/search?q=CAT+1A) | N/A |
-| 26 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 25 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
+| 26 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
 | 27 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 28 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
-| 29 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
-| 30 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
-| 31 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 32 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 33 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
-| 34 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 35 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 36 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 37 | [HAECHAN HONGKONG FANS](http://twitter.com/search?q=HAECHAN+HONGKONG+FANS) | N/A |
+| 28 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 29 | [CAT 1A](http://twitter.com/search?q=CAT+1A) | N/A |
+| 30 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 31 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 32 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
+| 33 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 34 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
+| 35 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 36 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 37 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 38 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
-| 39 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 40 | [THEY ARE THE WORST](http://twitter.com/search?q=THEY+ARE+THE+WORST) | N/A |
-| 41 | [JEONG JAEHYUN](http://twitter.com/search?q=JEONG+JAEHYUN) | N/A |
-| 42 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 39 | [VIP B](http://twitter.com/search?q=VIP+B) | N/A |
+| 40 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 41 | [THEY ARE THE WORST](http://twitter.com/search?q=THEY+ARE+THE+WORST) | N/A |
+| 42 | [Jordi Amat](http://twitter.com/search?q=Jordi+Amat) | N/A |
 | 43 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
-| 44 | [VIP B](http://twitter.com/search?q=VIP+B) | N/A |
-| 45 | [want skintific](http://twitter.com/search?q=want+skintific) | N/A |
-| 46 | [Rasis](http://twitter.com/search?q=Rasis) | N/A |
-| 47 | [Jasuke](http://twitter.com/search?q=Jasuke) | Jasuke is a Japanese slang term derived from the words "jazz" and "sukebe," which mean "sexy" or "erotic." It is used to describe someone who is attractive, stylish, and sexually appealing. |
-| 48 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 49 | [BLOOM LIKE HARUTO](http://twitter.com/search?q=BLOOM+LIKE+HARUTO) | N/A |
+| 44 | [Rasis](http://twitter.com/search?q=Rasis) | N/A |
+| 45 | [Selamattt](http://twitter.com/search?q=Selamattt) | N/A |
+| 46 | [want skintific](http://twitter.com/search?q=want+skintific) | N/A |
+| 47 | [Agust D Tour in Jakarta](http://twitter.com/search?q=Agust+D+Tour+in+Jakarta) | N/A |
+| 48 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
+| 49 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
 
 
 

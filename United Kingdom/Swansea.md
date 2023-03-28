@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-03-28 19:16:45 UTC`
+📆 Last Updated: `2023-03-28 20:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
-| 2 | [Scott McTominay](http://twitter.com/search?q=Scott+McTominay) | N/A |
+| 1 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 2 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
 | 3 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 4 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
-| 5 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 6 | [#AncestryHour](http://twitter.com/search?q=%23AncestryHour) | N/A |
-| 7 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 10 | [#QIHour](http://twitter.com/search?q=%23QIHour) | N/A |
-| 11 | [Finance](http://twitter.com/search?q=Finance) | N/A |
-| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 13 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 14 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 15 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 16 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 17 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
-| 18 | [Gareth Bale](http://twitter.com/search?q=Gareth+Bale) | Gareth Bale is a Welsh professional footballer who plays as a winger for Premier League club Tottenham Hotspur and the Wales national team. His meaning in English is "a talented and successful Welsh soccer player". |
-| 19 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 20 | [Dagger](http://twitter.com/search?q=Dagger) | N/A |
-| 21 | [Samson](http://twitter.com/search?q=Samson) | N/A |
-| 22 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 23 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 24 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 25 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 26 | [Outrageously](http://twitter.com/search?q=Outrageously) | N/A |
-| 27 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
-| 28 | [Deputy First Minister](http://twitter.com/search?q=Deputy+First+Minister) | N/A |
-| 29 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
-| 30 | [Corey](http://twitter.com/search?q=Corey) | N/A |
-| 31 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 32 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 33 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 34 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 35 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 36 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 37 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 38 | [Thunderbirds](http://twitter.com/search?q=Thunderbirds) | N/A |
-| 39 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 40 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 41 | [Morley](http://twitter.com/search?q=Morley) | N/A |
-| 42 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 43 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 44 | [Top Cat](http://twitter.com/search?q=Top+Cat) | N/A |
-| 45 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 46 | [Royal Mail](http://twitter.com/search?q=Royal+Mail) | N/A |
-| 47 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 48 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 49 | [Curtis Jones](http://twitter.com/search?q=Curtis+Jones) | Curtis Jones is a name of English origin. It is derived from the Old French name Curt, which means "courteous" or "polite". The surname Jones is derived from the given name John, which means "God is gracious". Therefore, Curtis Jones can be interpreted to mean "courteous and gracious". |
+| 4 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 5 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 6 | [#SCOSPA](http://twitter.com/search?q=%23SCOSPA) | N/A |
+| 7 | [#interiordesignmasters](http://twitter.com/search?q=%23interiordesignmasters) | N/A |
+| 8 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 9 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 10 | [Dykes](http://twitter.com/search?q=Dykes) | N/A |
+| 11 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 12 | [McSauce](http://twitter.com/search?q=McSauce) | N/A |
+| 13 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 14 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
+| 15 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 16 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 17 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 18 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 19 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 20 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 21 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 22 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 23 | [Dan James](http://twitter.com/search?q=Dan+James) | N/A |
+| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 25 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 26 | [Finance](http://twitter.com/search?q=Finance) | N/A |
+| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 28 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 29 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 30 | [The Spanish](http://twitter.com/search?q=The+Spanish) | N/A |
+| 31 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 32 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 33 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
+| 34 | [Gareth Bale](http://twitter.com/search?q=Gareth+Bale) | Gareth Bale is a Welsh professional footballer who plays as a winger for Premier League club Tottenham Hotspur and the Wales national team. His meaning in English is "a talented and successful Welsh soccer player". |
+| 35 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
+| 36 | [Walsall](http://twitter.com/search?q=Walsall) | N/A |
+| 37 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 38 | [Robison](http://twitter.com/search?q=Robison) | N/A |
+| 39 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 40 | [Dagger](http://twitter.com/search?q=Dagger) | N/A |
+| 41 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 42 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
+| 43 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 44 | [Unison](http://twitter.com/search?q=Unison) | N/A |
+| 45 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
+| 46 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 47 | [Corey](http://twitter.com/search?q=Corey) | N/A |
+| 48 | [Schengen](http://twitter.com/search?q=Schengen) | N/A |
+| 49 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 
 
 

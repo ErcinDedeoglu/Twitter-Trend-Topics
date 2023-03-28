@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-28 19:17:26 UTC`
+📆 Last Updated: `2023-03-28 20:19:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 1 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 2 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 3 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
-| 4 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 5 | [Brock Purdy](http://twitter.com/search?q=Brock+Purdy) | Brock Purdy is the name of an American college football quarterback who currently plays for the Iowa State Cyclones. He is known for his strong arm and accuracy, as well as his leadership on the field. |
-| 6 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 7 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
-| 8 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
-| 9 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 10 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 11 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 12 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 14 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 15 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 16 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
-| 17 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 18 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 19 | [$AMC](http://twitter.com/search?q=%24AMC) | AMC stands for American Movie Classics, a cable television channel that specializes in classic films from the 1930s to the 1980s. The channel also airs some original programming, such as its popular series Mad Men and Breaking Bad. |
-| 20 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 21 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 22 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 23 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
-| 24 | [No. 0](http://twitter.com/search?q=No.+0) | N/A |
-| 25 | [Adnan Syed](http://twitter.com/search?q=Adnan+Syed) | N/A |
-| 26 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
-| 27 | [Attach](http://twitter.com/search?q=Attach) | N/A |
-| 28 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
-| 29 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
-| 30 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 31 | [#TacoTuesday](http://twitter.com/search?q=%23TacoTuesday) | N/A |
-| 32 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
-| 33 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 34 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
-| 35 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 36 | [Dan Dakich](http://twitter.com/search?q=Dan+Dakich) | N/A |
-| 37 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 38 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 39 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 40 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 41 | [emily henry](http://twitter.com/search?q=emily+henry) | N/A |
-| 42 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
-| 43 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 44 | [Best Pitcher](http://twitter.com/search?q=Best+Pitcher) | N/A |
-| 45 | [$AMZN](http://twitter.com/search?q=%24AMZN) | N/A |
-| 46 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 47 | [Scully](http://twitter.com/search?q=Scully) | N/A |
-| 48 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
-| 49 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 3 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 4 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 5 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 6 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 7 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 8 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 10 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 11 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 13 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 14 | [$AMC](http://twitter.com/search?q=%24AMC) | AMC stands for American Movie Classics, a cable television channel that specializes in classic films from the 1930s to the 1980s. The channel also airs some original programming, such as its popular series Mad Men and Breaking Bad. |
+| 15 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 16 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 17 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 18 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 19 | [No. 0](http://twitter.com/search?q=No.+0) | N/A |
+| 20 | [Adnan Syed](http://twitter.com/search?q=Adnan+Syed) | N/A |
+| 21 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
+| 22 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 23 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
+| 24 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 25 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 26 | [Calvin Ridley](http://twitter.com/search?q=Calvin+Ridley) | Calvin Ridley is an American football wide receiver for the Atlanta Falcons of the National Football League (NFL). He was drafted by the Falcons in the first round of the 2018 NFL Draft. His name is derived from his middle name, Calvin, and his last name, Ridley. |
+| 27 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
+| 28 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 29 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
+| 30 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
+| 31 | [Attach](http://twitter.com/search?q=Attach) | N/A |
+| 32 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
+| 33 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 34 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
+| 35 | [Premature](http://twitter.com/search?q=Premature) | N/A |
+| 36 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
+| 37 | [Best Buy](http://twitter.com/search?q=Best+Buy) | N/A |
+| 38 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 39 | [Deadpool 3](http://twitter.com/search?q=Deadpool+3) | N/A |
+| 40 | [Florial](http://twitter.com/search?q=Florial) | N/A |
+| 41 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 42 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 43 | [#StrangeNewWorlds](http://twitter.com/search?q=%23StrangeNewWorlds) | N/A |
+| 44 | [Lower Decks](http://twitter.com/search?q=Lower+Decks) | N/A |
+| 45 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 46 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 47 | [Youngboy](http://twitter.com/search?q=Youngboy) | Youngboy is a slang term used to refer to a young man, usually one who is considered to be attractive or cool. It can also be used as a term of endearment for someone close to you. |
+| 48 | [Best Pitcher](http://twitter.com/search?q=Best+Pitcher) | N/A |
+| 49 | [#PollutersOverPeople](http://twitter.com/search?q=%23PollutersOverPeople) | N/A |
 
 
 

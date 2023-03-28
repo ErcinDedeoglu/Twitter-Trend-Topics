@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-03-28 19:17:29 UTC`
+📆 Last Updated: `2023-03-28 20:19:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Colombia
 | 4 | [Borré](http://twitter.com/search?q=Borr%c3%a9) | Borré is a Spanish verb meaning "to drink". It is used to describe the act of drinking alcohol or other beverages. In English, it would be translated as "to drink". |
 | 5 | [Morat](http://twitter.com/search?q=Morat) | N/A |
 | 6 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 7 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
-| 8 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 9 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 7 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 8 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
+| 9 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 10 | [#VickyEncubreAGnecco](http://twitter.com/search?q=%23VickyEncubreAGnecco) | N/A |
 | 11 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 12 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 13 | [Carrascal](http://twitter.com/search?q=Carrascal) | N/A |
+| 12 | [Carrascal](http://twitter.com/search?q=Carrascal) | N/A |
+| 13 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
 | 14 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 15 | [Durán](http://twitter.com/search?q=Dur%c3%a1n) | N/A |
 | 16 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 17 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 18 | [Castaño](http://twitter.com/search?q=Casta%c3%b1o) | N/A |
-| 19 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 20 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 21 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
-| 22 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
+| 18 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 19 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 20 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
+| 21 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 22 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
 | 23 | [Mazzucato](http://twitter.com/search?q=Mazzucato) | N/A |
-| 24 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 25 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 26 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 27 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
-| 28 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
-| 29 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
-| 30 | [Ciudad Equidad](http://twitter.com/search?q=Ciudad+Equidad) | N/A |
+| 24 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
+| 25 | [La Dorada](http://twitter.com/search?q=La+Dorada) | N/A |
+| 26 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 27 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 28 | [Ciudad Equidad](http://twitter.com/search?q=Ciudad+Equidad) | N/A |
+| 29 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 30 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
 | 31 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 32 | [Saade](http://twitter.com/search?q=Saade) | N/A |
-| 33 | [La Dorada](http://twitter.com/search?q=La+Dorada) | N/A |
-| 34 | [macka](http://twitter.com/search?q=macka) | N/A |
-| 35 | [Votará](http://twitter.com/search?q=Votar%c3%a1) | N/A |
-| 36 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 32 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 33 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 34 | [Saade](http://twitter.com/search?q=Saade) | N/A |
+| 35 | [Castaño](http://twitter.com/search?q=Casta%c3%b1o) | N/A |
+| 36 | [Macka](http://twitter.com/search?q=Macka) | N/A |
 | 37 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 38 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
-| 39 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 40 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 41 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 42 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 43 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 44 | [Harold rivera](http://twitter.com/search?q=Harold+rivera) | N/A |
-| 45 | [Constituyente](http://twitter.com/search?q=Constituyente) | N/A |
-| 46 | [Empatía](http://twitter.com/search?q=Empat%c3%ada) | N/A |
-| 47 | [Polo Polo](http://twitter.com/search?q=Polo+Polo) | Polo Polo is a Spanish phrase that is used to indicate that something is going well or progressing smoothly. It literally translates to "slowly, slowly" and is used as a way of expressing encouragement or reassurance. |
-| 48 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
-| 49 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 50 | [Muñoz](http://twitter.com/search?q=Mu%c3%b1oz) | N/A |
+| 38 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
+| 39 | [Votará](http://twitter.com/search?q=Votar%c3%a1) | N/A |
+| 40 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 41 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 42 | [Constituyente](http://twitter.com/search?q=Constituyente) | N/A |
+| 43 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 44 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 45 | [El Partido Liberal](http://twitter.com/search?q=El+Partido+Liberal) | N/A |
+| 46 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 47 | [Harold rivera](http://twitter.com/search?q=Harold+rivera) | N/A |
+| 48 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 49 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
+| 50 | [Polo Polo](http://twitter.com/search?q=Polo+Polo) | Polo Polo is a Spanish phrase that is used to indicate that something is going well or progressing smoothly. It literally translates to "slowly, slowly" and is used as a way of expressing encouragement or reassurance. |
 
 
 

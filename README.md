@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-28 19:16:41 UTC`
+📆 Last Updated: `2023-03-28 20:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
-| 2 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
-| 3 | [#İyilikSofrası](http://twitter.com/search?q=%23%c4%b0yilikSofras%c4%b1) | N/A |
-| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 5 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
-| 6 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
-| 7 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 8 | [#WelcomeINTO1toThailand](http://twitter.com/search?q=%23WelcomeINTO1toThailand) | N/A |
-| 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 10 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 11 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 12 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
-| 13 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 14 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 15 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 16 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 17 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 18 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 19 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 20 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 21 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 22 | [ジャリエル](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%aa%e3%82%a8%e3%83%ab) | N/A |
-| 23 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 24 | [DenklikSorununuÇözünüz](http://twitter.com/search?q=DenklikSorununu%c3%87%c3%b6z%c3%bcn%c3%bcz) | N/A |
-| 25 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 26 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 27 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 28 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 29 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
-| 30 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
-| 31 | [giulia](http://twitter.com/search?q=giulia) | N/A |
-| 32 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
-| 33 | [TaşeronunOyu KadroyuVerene](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadroyuVerene) | N/A |
-| 34 | [monica](http://twitter.com/search?q=monica) | N/A |
-| 35 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 36 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 37 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 38 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 39 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 40 | [Türkiye - Hırvatistan](http://twitter.com/search?q=T%c3%bcrkiye+-+H%c4%b1rvatistan) | N/A |
-| 41 | [$AMC](http://twitter.com/search?q=%24AMC) | AMC stands for American Movie Classics, a cable television channel that specializes in classic films from the 1930s to the 1980s. The channel also airs some original programming, such as its popular series Mad Men and Breaking Bad. |
-| 42 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 43 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 44 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 45 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 46 | [ワールズエッジ](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%ab%e3%82%ba%e3%82%a8%e3%83%83%e3%82%b8) | ワールズエッジ (World's Edge) is a Japanese manga series written and illustrated by Tsubasa Fukuchi. It follows the story of a group of teenagers who are chosen to protect the world from an ancient evil. The English translation of the title is "World's Edge". |
-| 47 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 48 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 49 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
-| 50 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 1 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 2 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 3 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
+| 4 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 5 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
+| 6 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
+| 7 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 8 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
+| 9 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 10 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 11 | [#السعوديه_بوليفيا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a8%d9%88%d9%84%d9%8a%d9%81%d9%8a%d8%a7) | N/A |
+| 12 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 13 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
+| 14 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
+| 15 | [#İyilikSofrası](http://twitter.com/search?q=%23%c4%b0yilikSofras%c4%b1) | N/A |
+| 16 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 17 | [Luis de la Fuente](http://twitter.com/search?q=Luis+de+la+Fuente) | N/A |
+| 18 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 19 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 20 | [Türkiye - Hırvatistan](http://twitter.com/search?q=T%c3%bcrkiye+-+H%c4%b1rvatistan) | N/A |
+| 21 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 22 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 23 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
+| 24 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 25 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 26 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 28 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 29 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 30 | [Mert](http://twitter.com/search?q=Mert) | Mert is a Turkish name derived from the Arabic word for “blessed”. It is also used as a surname in some parts of the world. In English, it can be translated to mean “blessed” or “fortunate”. |
+| 31 | [Luis de la Cope](http://twitter.com/search?q=Luis+de+la+Cope) | N/A |
+| 32 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 33 | [Oyarzabal](http://twitter.com/search?q=Oyarzabal) | N/A |
+| 34 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 35 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 36 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 37 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 38 | [David García](http://twitter.com/search?q=David+Garc%c3%ada) | N/A |
+| 39 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 40 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 41 | [Çağlar](http://twitter.com/search?q=%c3%87a%c4%9flar) | N/A |
+| 42 | [Merih](http://twitter.com/search?q=Merih) | N/A |
+| 43 | [Miguel Navarro](http://twitter.com/search?q=Miguel+Navarro) | N/A |
+| 44 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 45 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 46 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 47 | [McSauce](http://twitter.com/search?q=McSauce) | N/A |
+| 48 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
+| 49 | [Dykes](http://twitter.com/search?q=Dykes) | N/A |
+| 50 | [Enes](http://twitter.com/search?q=Enes) | N/A |
 
 
 
