@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-28 03:16:54 UTC`
+📆 Last Updated: `2023-03-28 04:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 9 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
 | 10 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
 | 11 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 12 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 13 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 12 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 13 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
 | 14 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 15 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 16 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 17 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 18 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 19 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 15 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 16 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 17 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 18 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 19 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 | 20 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 21 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 22 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 24 | [America](http://twitter.com/search?q=America) | N/A |
-| 25 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 26 | [NASUWT](http://twitter.com/search?q=NASUWT) | N/A |
-| 27 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 28 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 29 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
-| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 32 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 33 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 23 | [nasuwt](http://twitter.com/search?q=nasuwt) | N/A |
+| 24 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 25 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 26 | [Daily Quordle 427](http://twitter.com/search?q=Daily+Quordle+427) | N/A |
+| 27 | [America](http://twitter.com/search?q=America) | N/A |
+| 28 | [poole harbour](http://twitter.com/search?q=poole+harbour) | N/A |
+| 29 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
+| 30 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 31 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 33 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 34 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
 | 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 36 | [Nitrous Oxide](http://twitter.com/search?q=Nitrous+Oxide) | N/A |
-| 37 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 36 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 37 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 38 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 39 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 39 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
 | 40 | [Independence](http://twitter.com/search?q=Independence) | N/A |
 | 41 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 42 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
 | 43 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 44 | [Stuart Hogg](http://twitter.com/search?q=Stuart+Hogg) | N/A |
-| 45 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
-| 46 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 47 | [Lallana](http://twitter.com/search?q=Lallana) | Lallana is a Spanish surname derived from the Latin word lallare, which means "to sing". It is also a common given name in India, derived from the Sanskrit word lalana, which means "playful". |
-| 48 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 49 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 44 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
+| 45 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 46 | [Lallana](http://twitter.com/search?q=Lallana) | Lallana is a Spanish surname derived from the Latin word lallare, which means "to sing". It is also a common given name in India, derived from the Sanskrit word lalana, which means "playful". |
+| 47 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 48 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 49 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 
 
 

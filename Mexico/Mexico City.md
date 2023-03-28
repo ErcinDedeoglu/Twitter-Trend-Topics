@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-28 03:16:55 UTC`
+📆 Last Updated: `2023-03-28 04:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 2 | [#ContingenciaAmbiental](http://twitter.com/search?q=%23ContingenciaAmbiental) | N/A |
-| 3 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 1 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 2 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
+| 3 | [#ExaballAllStar](http://twitter.com/search?q=%23ExaballAllStar) | N/A |
 | 4 | [ENARM](http://twitter.com/search?q=ENARM) | N/A |
-| 5 | [#ExaballAllStar](http://twitter.com/search?q=%23ExaballAllStar) | N/A |
-| 6 | [Silverio](http://twitter.com/search?q=Silverio) | N/A |
-| 7 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 5 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 6 | [PANTERA SUPER DORADA](http://twitter.com/search?q=PANTERA+SUPER+DORADA) | N/A |
+| 7 | [Silverio](http://twitter.com/search?q=Silverio) | N/A |
+| 8 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
 | 9 | [GLOBAL AMBASSADOR JUNGKOOK](http://twitter.com/search?q=GLOBAL+AMBASSADOR+JUNGKOOK) | N/A |
-| 10 | [Adriana Maldonado](http://twitter.com/search?q=Adriana+Maldonado) | N/A |
-| 11 | [#nishaspace](http://twitter.com/search?q=%23nishaspace) | N/A |
-| 12 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 13 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 14 | [Osmel](http://twitter.com/search?q=Osmel) | N/A |
+| 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 11 | [El Mechón](http://twitter.com/search?q=El+Mech%c3%b3n) | N/A |
+| 12 | [Shawn Mendes](http://twitter.com/search?q=Shawn+Mendes) | N/A |
+| 13 | [Adriana Maldonado](http://twitter.com/search?q=Adriana+Maldonado) | N/A |
+| 14 | [#nishaspace](http://twitter.com/search?q=%23nishaspace) | N/A |
 | 15 | [Galván Ochoa](http://twitter.com/search?q=Galv%c3%a1n+Ochoa) | N/A |
-| 16 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 17 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 18 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
-| 19 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
-| 20 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
-| 21 | [Layda](http://twitter.com/search?q=Layda) | N/A |
-| 22 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 23 | [Valle de México](http://twitter.com/search?q=Valle+de+M%c3%a9xico) | N/A |
-| 24 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 25 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 26 | [Beli](http://twitter.com/search?q=Beli) | N/A |
-| 27 | [Jorge Campos](http://twitter.com/search?q=Jorge+Campos) | N/A |
-| 28 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 29 | [Laynez](http://twitter.com/search?q=Laynez) | N/A |
-| 30 | [Antonio Mohamed](http://twitter.com/search?q=Antonio+Mohamed) | N/A |
-| 31 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 32 | [Faitelson](http://twitter.com/search?q=Faitelson) | N/A |
-| 33 | [Turco](http://twitter.com/search?q=Turco) | N/A |
-| 34 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 35 | [Litzy](http://twitter.com/search?q=Litzy) | N/A |
-| 36 | [Andres](http://twitter.com/search?q=Andres) | N/A |
-| 37 | [Hola Den](http://twitter.com/search?q=Hola+Den) | N/A |
-| 38 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 39 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 40 | [Natanael Cano](http://twitter.com/search?q=Natanael+Cano) | N/A |
-| 41 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 42 | [Campeche](http://twitter.com/search?q=Campeche) | N/A |
-| 43 | [Chuky](http://twitter.com/search?q=Chuky) | N/A |
-| 44 | [#Tiroteo](http://twitter.com/search?q=%23Tiroteo) | N/A |
-| 45 | [#TianguisTuristico2023](http://twitter.com/search?q=%23TianguisTuristico2023) | N/A |
-| 46 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 47 | [#enhorabuenacontodo](http://twitter.com/search?q=%23enhorabuenacontodo) | N/A |
-| 48 | [#UnidosSomosInvencibles](http://twitter.com/search?q=%23UnidosSomosInvencibles) | N/A |
+| 16 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 17 | [Error](http://twitter.com/search?q=Error) | N/A |
+| 18 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 19 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 20 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 21 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 22 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 23 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
+| 24 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 25 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 26 | [Osmel](http://twitter.com/search?q=Osmel) | N/A |
+| 27 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
+| 28 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 29 | [Litzy](http://twitter.com/search?q=Litzy) | N/A |
+| 30 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
+| 31 | [Layda](http://twitter.com/search?q=Layda) | N/A |
+| 32 | [Jorge Campos](http://twitter.com/search?q=Jorge+Campos) | N/A |
+| 33 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 34 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 35 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 36 | [Beli](http://twitter.com/search?q=Beli) | N/A |
+| 37 | [Faitelson](http://twitter.com/search?q=Faitelson) | N/A |
+| 38 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 39 | [Antonio Mohamed](http://twitter.com/search?q=Antonio+Mohamed) | N/A |
+| 40 | [Turco](http://twitter.com/search?q=Turco) | N/A |
+| 41 | [Valle de México](http://twitter.com/search?q=Valle+de+M%c3%a9xico) | N/A |
+| 42 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
+| 43 | [Hola Den](http://twitter.com/search?q=Hola+Den) | N/A |
+| 44 | [Natanael Cano](http://twitter.com/search?q=Natanael+Cano) | N/A |
+| 45 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 46 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 47 | [Andres](http://twitter.com/search?q=Andres) | N/A |
+| 48 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
 
 
 

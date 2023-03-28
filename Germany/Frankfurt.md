@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-28 03:17:07 UTC`
+📆 Last Updated: `2023-03-28 04:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
 | 3 | [#Streik](http://twitter.com/search?q=%23Streik) | N/A |
 | 4 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 5 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 6 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
 | 7 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
 | 8 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
 | 9 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 10 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 11 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 12 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
-| 13 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 14 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 15 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 16 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 18 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 19 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 20 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 21 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 22 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 23 | [löwenzahn](http://twitter.com/search?q=l%c3%b6wenzahn) | N/A |
-| 24 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 25 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 10 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
+| 11 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 12 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 13 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 14 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
+| 15 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 17 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
+| 18 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 19 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 20 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
+| 21 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 22 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 23 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 24 | [ja-stimmen](http://twitter.com/search?q=ja-stimmen) | N/A |
+| 25 | [wahlberechtigten](http://twitter.com/search?q=wahlberechtigten) | N/A |
 | 26 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 27 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 28 | [wahlberechtigten](http://twitter.com/search?q=wahlberechtigten) | N/A |
-| 29 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 30 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 31 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
-| 32 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
-| 33 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 34 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 27 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 28 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 29 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
+| 30 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 31 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 32 | ["Aprilwetter"](http://twitter.com/search?q=%22Aprilwetter%22) | N/A |
+| 33 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 34 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
 | 35 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
-| 36 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 37 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 38 | ['schattenspiele'](http://twitter.com/search?q=%27schattenspiele%27) | N/A |
-| 39 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 40 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 41 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 36 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 37 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 38 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 39 | ['schattenspiele'](http://twitter.com/search?q=%27schattenspiele%27) | N/A |
+| 40 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 41 | [böhmermann](http://twitter.com/search?q=b%c3%b6hmermann) | N/A |
 | 42 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 43 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
-| 44 | [zyniker](http://twitter.com/search?q=zyniker) | N/A |
-| 45 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 46 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 47 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 48 | [graupel](http://twitter.com/search?q=graupel) | N/A |
+| 44 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 45 | [zyniker](http://twitter.com/search?q=zyniker) | N/A |
+| 46 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 48 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
 
 
 

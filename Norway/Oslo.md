@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-28 03:17:12 UTC`
+📆 Last Updated: `2023-03-28 04:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,8 +31,8 @@ This is top 50 for [Norway](</Norway>)
 | 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 16 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 17 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
-| 18 | [eøs-avtalen](http://twitter.com/search?q=e%c3%b8s-avtalen) | N/A |
+| 17 | [eøs-avtalen](http://twitter.com/search?q=e%c3%b8s-avtalen) | N/A |
+| 18 | [#ENVtuber](http://twitter.com/search?q=%23ENVtuber) | N/A |
 | 19 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 20 | [Aker](http://twitter.com/search?q=Aker) | N/A |
 | 21 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for [Norway](</Norway>)
 | 27 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
 | 28 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
 | 29 | [Moss](http://twitter.com/search?q=Moss) | N/A |
-| 30 | [Spania](http://twitter.com/search?q=Spania) | N/A |
+| 30 | [spania](http://twitter.com/search?q=spania) | N/A |
 | 31 | [Polen](http://twitter.com/search?q=Polen) | N/A |
 | 32 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
 | 33 | [Spain](http://twitter.com/search?q=Spain) | N/A |

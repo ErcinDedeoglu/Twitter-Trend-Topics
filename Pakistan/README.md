@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-28 03:17:53 UTC`
+📆 Last Updated: `2023-03-28 04:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for Pakistan
 | 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 7 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
 | 8 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 9 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 9 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 10 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
 | 11 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
 | 12 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
 | 13 | [T20Is](http://twitter.com/search?q=T20Is) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for Pakistan
 | 16 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 17 | [Mansoor](http://twitter.com/search?q=Mansoor) | N/A |
 | 18 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 19 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 20 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
+| 19 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
+| 20 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 21 | [Shoaib Akhtar](http://twitter.com/search?q=Shoaib+Akhtar) | N/A |
 | 22 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
 | 23 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 24 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 25 | [captaincy](http://twitter.com/search?q=captaincy) | N/A |
+| 25 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
 | 26 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
 | 27 | [Congratulations Shaddy](http://twitter.com/search?q=Congratulations+Shaddy) | N/A |
-| 28 | [Full Court](http://twitter.com/search?q=Full+Court) | N/A |
-| 29 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
-| 30 | [Insha'Allah](http://twitter.com/search?q=Insha%27Allah) | N/A |
-| 31 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 28 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
+| 29 | [Full Court](http://twitter.com/search?q=Full+Court) | N/A |
+| 30 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 31 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
 | 32 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 33 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 34 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 35 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 36 | [NO ONE](http://twitter.com/search?q=NO+ONE) | N/A |
-| 37 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
-| 38 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 39 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 40 | [Champ](http://twitter.com/search?q=Champ) | N/A |
-| 41 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 42 | [GET WELL SOON](http://twitter.com/search?q=GET+WELL+SOON) | N/A |
-| 43 | [Jazakallah](http://twitter.com/search?q=Jazakallah) | N/A |
-| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 46 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 47 | [America](http://twitter.com/search?q=America) | N/A |
-| 48 | [Beshak](http://twitter.com/search?q=Beshak) | N/A |
-| 49 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 50 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 33 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 34 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 35 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 36 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 37 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 38 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 39 | [Beshak](http://twitter.com/search?q=Beshak) | N/A |
+| 40 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 41 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 43 | [Insha'Allah](http://twitter.com/search?q=Insha%27Allah) | N/A |
+| 44 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
+| 45 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 47 | [Chemistry](http://twitter.com/search?q=Chemistry) | N/A |
+| 48 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 49 | [Waly](http://twitter.com/search?q=Waly) | N/A |
+| 50 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
 
 
 

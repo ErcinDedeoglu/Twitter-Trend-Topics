@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-28 03:17:51 UTC`
+📆 Last Updated: `2023-03-28 04:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,14 +38,14 @@ This is top 50 for Lebanon
 | 21 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
 | 22 | [علي القرار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
 | 23 | [سامي الجميل](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 24 | [غسان سعود](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 25 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 26 | [حسن خالد](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 24 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 25 | [غسان سعود](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 26 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
 | 27 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
-| 28 | [بشير الجميل](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 29 | [الكيان الغاصب](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d8%b5%d8%a8) | N/A |
-| 30 | [علي رييس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
-| 31 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 28 | [حسن خالد](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 29 | [بشير الجميل](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 30 | [الكيان الغاصب](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d8%b5%d8%a8) | N/A |
+| 31 | [علي رييس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d9%8a%d9%8a%d8%b3) | N/A |
 | 32 | [الاضراب العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b6%d8%b1%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 33 | [الاستفراغ الطايفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d9%81%d8%b1%d8%a7%d8%ba+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%81%d9%8a) | N/A |
 | 34 | [بن غفير](http://twitter.com/search?q=%d8%a8%d9%86+%d8%ba%d9%81%d9%8a%d8%b1) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for Lebanon
 | 36 | [الحلقه الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
 | 37 | [الاموال المنهوبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d9%86%d9%87%d9%88%d8%a8%d9%87) | N/A |
 | 38 | [شهر رمضان المبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 39 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 41 | [قايد الجيش](http://twitter.com/search?q=%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%ac%d9%8a%d8%b4) | N/A |
-| 42 | [رييس التيار الوطني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 43 | [العصيان المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 44 | [رجل دين](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%af%d9%8a%d9%86) | N/A |
-| 45 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 46 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
-| 47 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 48 | [وليبيا](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 49 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
-| 50 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 40 | [رييس التيار الوطني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 41 | [العصيان المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 42 | [رجل دين](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%af%d9%8a%d9%86) | N/A |
+| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 44 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
+| 45 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 46 | [وليبيا](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
+| 47 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
+| 48 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 49 | [محور الممانعه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%85%d8%a7%d9%86%d8%b9%d9%87) | N/A |
+| 50 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
 
 
 

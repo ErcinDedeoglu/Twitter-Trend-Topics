@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-28 03:17:52 UTC`
+📆 Last Updated: `2023-03-28 04:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,27 +18,27 @@ This is top 50 for Latvia
 | 1 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
 | 2 | [#balssmaskā](http://twitter.com/search?q=%23balssmask%c4%81) | N/A |
 | 3 | [dziesmu](http://twitter.com/search?q=dziesmu) | N/A |
-| 4 | [baltkrievijā](http://twitter.com/search?q=baltkrievij%c4%81) | N/A |
-| 5 | [neviens](http://twitter.com/search?q=neviens) | N/A |
-| 6 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 7 | [bauskas](http://twitter.com/search?q=bauskas) | N/A |
-| 8 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
-| 9 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 10 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
-| 11 | [kasko](http://twitter.com/search?q=kasko) | N/A |
+| 4 | [neviens](http://twitter.com/search?q=neviens) | N/A |
+| 5 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
+| 6 | [bauskas](http://twitter.com/search?q=bauskas) | N/A |
+| 7 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
+| 8 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 9 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
+| 10 | [kasko](http://twitter.com/search?q=kasko) | N/A |
+| 11 | [Baltkrievijā](http://twitter.com/search?q=Baltkrievij%c4%81) | N/A |
 | 12 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
 | 13 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 14 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
 | 15 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
 | 16 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | N/A |
-| 17 | [riga](http://twitter.com/search?q=riga) | N/A |
+| 17 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 18 | [amatā](http://twitter.com/search?q=amat%c4%81) | N/A |
 | 19 | [visiem](http://twitter.com/search?q=visiem) | N/A |
 | 20 | [lieliski](http://twitter.com/search?q=lieliski) | N/A |
-| 21 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 22 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 23 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
-| 24 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 21 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
+| 22 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
+| 23 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 25 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
 | 26 | [tiem](http://twitter.com/search?q=tiem) | N/A |
 | 27 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for Latvia
 | 42 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 43 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
 | 44 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 45 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
+| 45 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
 | 46 | [nekas](http://twitter.com/search?q=nekas) | N/A |
 | 47 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 48 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |

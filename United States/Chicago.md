@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-28 03:17:38 UTC`
+📆 Last Updated: `2023-03-28 04:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 2 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 3 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
 | 4 | [Highland Park](http://twitter.com/search?q=Highland+Park) | N/A |
 | 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 7 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 8 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 8 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
 | 9 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 10 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 11 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 12 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 13 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 14 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 15 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 16 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 17 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
-| 18 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 10 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 11 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 12 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
+| 13 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 14 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 15 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 16 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 17 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 18 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 19 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 20 | [#USMNT](http://twitter.com/search?q=%23USMNT) | #USMNT is an acronym for the United States Men's National Soccer Team. It is used to refer to the men's national soccer team of the United States. |
-| 21 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 22 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 23 | [Immanuel Quickley](http://twitter.com/search?q=Immanuel+Quickley) | N/A |
-| 24 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 25 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
-| 26 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 27 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
-| 28 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 29 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 30 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 32 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 33 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
-| 34 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
-| 35 | [Jack Johnson](http://twitter.com/search?q=Jack+Johnson) | N/A |
-| 36 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 37 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 38 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 39 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 40 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 41 | [Dolph Ziggler](http://twitter.com/search?q=Dolph+Ziggler) | N/A |
-| 42 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
-| 43 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 44 | [Miles Robinson](http://twitter.com/search?q=Miles+Robinson) | N/A |
-| 45 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 46 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
-| 47 | [Sean Lowe](http://twitter.com/search?q=Sean+Lowe) | N/A |
-| 48 | [Taylor Mikesell](http://twitter.com/search?q=Taylor+Mikesell) | N/A |
-| 49 | [Palmieri](http://twitter.com/search?q=Palmieri) | N/A |
-| 50 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 20 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 21 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 22 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 23 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 24 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 25 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
+| 26 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
+| 27 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 28 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 29 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
+| 30 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 31 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 32 | [Alex Len](http://twitter.com/search?q=Alex+Len) | N/A |
+| 33 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 34 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 35 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 36 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 37 | [Immanuel Quickley](http://twitter.com/search?q=Immanuel+Quickley) | N/A |
+| 38 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 39 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 40 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
+| 41 | [Doc Rivers](http://twitter.com/search?q=Doc+Rivers) | N/A |
+| 42 | [Apple Music Classical](http://twitter.com/search?q=Apple+Music+Classical) | N/A |
+| 43 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 44 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 45 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 46 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 47 | [Jack Johnson](http://twitter.com/search?q=Jack+Johnson) | N/A |
+| 48 | [Hunter Pence](http://twitter.com/search?q=Hunter+Pence) | N/A |
+| 49 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 50 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
 
 
 

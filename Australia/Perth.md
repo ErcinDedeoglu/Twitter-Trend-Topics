@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-28 03:17:15 UTC`
+📆 Last Updated: `2023-03-28 04:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Australia](</Australia>)
 | 6 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 7 | [Labor](http://twitter.com/search?q=Labor) | N/A |
 | 8 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 9 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 10 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 11 | [#afleaglesgiants](http://twitter.com/search?q=%23afleaglesgiants) | N/A |
-| 12 | [tahnee](http://twitter.com/search?q=tahnee) | N/A |
+| 9 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
+| 10 | [#afleaglesgiants](http://twitter.com/search?q=%23afleaglesgiants) | N/A |
+| 11 | [tahnee](http://twitter.com/search?q=tahnee) | N/A |
+| 12 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
 | 13 | [#aflswanshawks](http://twitter.com/search?q=%23aflswanshawks) | N/A |
-| 14 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
-| 15 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 14 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 15 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
 | 16 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
 | 17 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 22 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
-| 23 | [America](http://twitter.com/search?q=America) | N/A |
-| 24 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 25 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [America](http://twitter.com/search?q=America) | N/A |
+| 20 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 21 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 22 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 23 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 24 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 25 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
 | 26 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 27 | [Clarko](http://twitter.com/search?q=Clarko) | N/A |
-| 28 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 29 | [Latitude](http://twitter.com/search?q=Latitude) | N/A |
-| 30 | [Macedonian Jesus](http://twitter.com/search?q=Macedonian+Jesus) | N/A |
-| 31 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
-| 32 | [Richard Boyle](http://twitter.com/search?q=Richard+Boyle) | N/A |
-| 33 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 34 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 35 | [David Pocock](http://twitter.com/search?q=David+Pocock) | N/A |
-| 36 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 28 | [NDIS](http://twitter.com/search?q=NDIS) | N/A |
+| 29 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 30 | [Richard Boyle](http://twitter.com/search?q=Richard+Boyle) | N/A |
+| 31 | [Macedonian Jesus](http://twitter.com/search?q=Macedonian+Jesus) | N/A |
+| 32 | [Latitude](http://twitter.com/search?q=Latitude) | N/A |
+| 33 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
+| 34 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 35 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 37 | [$LTR](http://twitter.com/search?q=%24LTR) | N/A |
-| 38 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 39 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 40 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 41 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 42 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 43 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
-| 44 | [Rowan](http://twitter.com/search?q=Rowan) | N/A |
-| 45 | [Manfred Schaefer](http://twitter.com/search?q=Manfred+Schaefer) | N/A |
-| 46 | [Congratulations Liz](http://twitter.com/search?q=Congratulations+Liz) | N/A |
-| 47 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 48 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 49 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 50 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 38 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 39 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
+| 40 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 41 | [Rowan](http://twitter.com/search?q=Rowan) | N/A |
+| 42 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 43 | [Congratulations Liz](http://twitter.com/search?q=Congratulations+Liz) | N/A |
+| 44 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 45 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 46 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 47 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 48 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 49 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 50 | [Cornes](http://twitter.com/search?q=Cornes) | N/A |
 
 
 
