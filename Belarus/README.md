@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-28 00:30:29 UTC`
+📆 Last Updated: `2023-03-28 01:45:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for Belarus
 | 2 | [Запада](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | N/A |
 | 3 | [#SundayMillion](http://twitter.com/search?q=%23SundayMillion) | N/A |
 | 4 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 5 | [калі](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bb%d1%96) | N/A |
-| 6 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 5 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 6 | [калі](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bb%d1%96) | N/A |
 | 7 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
 | 8 | [#BeWorthy](http://twitter.com/search?q=%23BeWorthy) | N/A |
 | 9 | [Добро](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%be) | N/A |

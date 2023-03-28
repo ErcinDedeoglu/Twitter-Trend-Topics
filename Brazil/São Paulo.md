@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-28 00:29:44 UTC`
+📆 Last Updated: `2023-03-28 01:44:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Grupo D](http://twitter.com/search?q=Grupo+D) | N/A |
-| 2 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
-| 3 | [Mondial](http://twitter.com/search?q=Mondial) | N/A |
-| 4 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 5 | [Educação](http://twitter.com/search?q=Educa%c3%a7%c3%a3o) | N/A |
-| 6 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 7 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 8 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 9 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 10 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 11 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
-| 12 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 15 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 16 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 17 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
-| 18 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 19 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 20 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
-| 21 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 22 | [LOUD NA FINAL DO GC](http://twitter.com/search?q=LOUD+NA+FINAL+DO+GC) | N/A |
-| 23 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 24 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 25 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 26 | [Sula](http://twitter.com/search?q=Sula) | N/A |
-| 27 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 28 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 29 | [#ZeDeliveryNoBBB](http://twitter.com/search?q=%23ZeDeliveryNoBBB) | N/A |
-| 30 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 31 | [Loco Abreu](http://twitter.com/search?q=Loco+Abreu) | N/A |
-| 32 | [Luís Castro](http://twitter.com/search?q=Lu%c3%ads+Castro) | N/A |
-| 33 | [Sour Candy](http://twitter.com/search?q=Sour+Candy) | N/A |
-| 34 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
-| 35 | [Sol e Lui](http://twitter.com/search?q=Sol+e+Lui) | N/A |
-| 36 | [Cristiane](http://twitter.com/search?q=Cristiane) | N/A |
-| 37 | [Di Plácido](http://twitter.com/search?q=Di+Pl%c3%a1cido) | N/A |
-| 38 | [#AmarAMorteNoVIVA](http://twitter.com/search?q=%23AmarAMorteNoVIVA) | N/A |
-| 39 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 40 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
-| 41 | [Estudiantes](http://twitter.com/search?q=Estudiantes) | N/A |
-| 42 | [América MG](http://twitter.com/search?q=Am%c3%a9rica+MG) | N/A |
-| 43 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 44 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 45 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
-| 46 | [Sarah Andrade](http://twitter.com/search?q=Sarah+Andrade) | N/A |
-| 47 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 48 | [RJTV](http://twitter.com/search?q=RJTV) | N/A |
-| 49 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
-| 50 | [Luis Henrique](http://twitter.com/search?q=Luis+Henrique) | N/A |
+| 1 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 2 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 3 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 4 | [Cristiane](http://twitter.com/search?q=Cristiane) | N/A |
+| 5 | [Argentino Jrs](http://twitter.com/search?q=Argentino+Jrs) | N/A |
+| 6 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 7 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 8 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
+| 9 | [Zika](http://twitter.com/search?q=Zika) | N/A |
+| 10 | [izzo](http://twitter.com/search?q=izzo) | N/A |
+| 11 | [Coringão](http://twitter.com/search?q=Coring%c3%a3o) | N/A |
+| 12 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 13 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 14 | [Jornal Nacional](http://twitter.com/search?q=Jornal+Nacional) | Jornal Nacional is a Brazilian television news program broadcast by Rede Globo since 1969. It is the most watched news program in Brazil and one of the most watched in the world. The name translates to "National Journal" in English. |
+| 15 | [#ProtejamAposentados](http://twitter.com/search?q=%23ProtejamAposentados) | N/A |
+| 16 | [Moro e Deltan](http://twitter.com/search?q=Moro+e+Deltan) | N/A |
+| 17 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 18 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 19 | [Always Ready](http://twitter.com/search?q=Always+Ready) | N/A |
+| 20 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 21 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 22 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 23 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
+| 24 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 25 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
+| 26 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 27 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 28 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 29 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 30 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 31 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 32 | [Felipão](http://twitter.com/search?q=Felip%c3%a3o) | N/A |
+| 33 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 34 | [Sula](http://twitter.com/search?q=Sula) | N/A |
+| 35 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 36 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 37 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
+| 38 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 39 | [#Libertadores2023](http://twitter.com/search?q=%23Libertadores2023) | N/A |
+| 40 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 41 | [Tetra](http://twitter.com/search?q=Tetra) | N/A |
+| 42 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
+| 43 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 44 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
+| 45 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
+| 46 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 47 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 48 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 49 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 50 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
 
 
 

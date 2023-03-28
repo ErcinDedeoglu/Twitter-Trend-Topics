@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-28 00:29:53 UTC`
+📆 Last Updated: `2023-03-28 01:44:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,14 +19,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 3 | [#donnalisi](http://twitter.com/search?q=%23donnalisi) | N/A |
 | 4 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 5 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 7 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 8 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
-| 9 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 10 | [Option](http://twitter.com/search?q=Option) | N/A |
-| 11 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
-| 12 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 5 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 6 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 8 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 9 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 11 | [Option](http://twitter.com/search?q=Option) | N/A |
+| 12 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
 | 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 14 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
 | 15 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
@@ -38,14 +38,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 21 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
 | 22 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
 | 23 | [Käse](http://twitter.com/search?q=K%c3%a4se) | N/A |
-| 24 | [Widerstand](http://twitter.com/search?q=Widerstand) | N/A |
-| 25 | [blocher](http://twitter.com/search?q=blocher) | N/A |
-| 26 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 27 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 28 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 29 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
-| 30 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
-| 31 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 24 | [blocher](http://twitter.com/search?q=blocher) | N/A |
+| 25 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 26 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 27 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 28 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
+| 29 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
+| 30 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 31 | [Widerstand](http://twitter.com/search?q=Widerstand) | N/A |
 | 32 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
 | 33 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
 | 34 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
@@ -54,15 +54,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 37 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
 | 38 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
 | 39 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 40 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 41 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 42 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 43 | [Sowjetunion](http://twitter.com/search?q=Sowjetunion) | N/A |
-| 44 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 45 | [Danke Dir](http://twitter.com/search?q=Danke+Dir) | N/A |
-| 46 | [Nature](http://twitter.com/search?q=Nature) | N/A |
-| 47 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 48 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 40 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 41 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 42 | [sowjetunion](http://twitter.com/search?q=sowjetunion) | N/A |
+| 43 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 44 | [Danke Dir](http://twitter.com/search?q=Danke+Dir) | N/A |
+| 45 | [Nature](http://twitter.com/search?q=Nature) | N/A |
+| 46 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 47 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 48 | [steuergelder](http://twitter.com/search?q=steuergelder) | N/A |
 
 
 

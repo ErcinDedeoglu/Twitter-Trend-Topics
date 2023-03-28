@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-28 00:29:46 UTC`
+📆 Last Updated: `2023-03-28 01:44:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 2 | [#MarcosAl9009](http://twitter.com/search?q=%23MarcosAl9009) | N/A |
-| 3 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
-| 4 | [Ubfal](http://twitter.com/search?q=Ubfal) | Ubfal is an acronym for the German phrase "Unternehmen für Berufliche Fortbildung und Arbeitslosenhilfe", which translates to "Company for Vocational Training and Unemployment Assistance". |
-| 5 | [#HomenajeALosCampeones](http://twitter.com/search?q=%23HomenajeALosCampeones) | N/A |
-| 6 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 7 | [Sole](http://twitter.com/search?q=Sole) | N/A |
-| 8 | [Cristina Pérez](http://twitter.com/search?q=Cristina+P%c3%a9rez) | N/A |
-| 9 | [FULBO](http://twitter.com/search?q=FULBO) | N/A |
-| 10 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 11 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 12 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 13 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
-| 14 | [#LaNocheDeLasEstrellas](http://twitter.com/search?q=%23LaNocheDeLasEstrellas) | N/A |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [#VamosLosPrimos](http://twitter.com/search?q=%23VamosLosPrimos) | N/A |
-| 17 | [#InversionMercadoPago](http://twitter.com/search?q=%23InversionMercadoPago) | N/A |
-| 18 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 19 | [Grupo H](http://twitter.com/search?q=Grupo+H) | N/A |
-| 20 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 21 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 22 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 23 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
-| 24 | [Torta](http://twitter.com/search?q=Torta) | N/A |
-| 25 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
-| 26 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 27 | [Oriente Petrolero](http://twitter.com/search?q=Oriente+Petrolero) | N/A |
-| 28 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 29 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
-| 30 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 31 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
-| 32 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 33 | [Embarcación](http://twitter.com/search?q=Embarcaci%c3%b3n) | N/A |
-| 34 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 35 | [Skay](http://twitter.com/search?q=Skay) | N/A |
-| 36 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 37 | [Si Messi](http://twitter.com/search?q=Si+Messi) | N/A |
+| 2 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
+| 3 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 4 | [Gana Marcos](http://twitter.com/search?q=Gana+Marcos) | N/A |
+| 5 | [Espert](http://twitter.com/search?q=Espert) | N/A |
+| 6 | [Si Messi](http://twitter.com/search?q=Si+Messi) | N/A |
+| 7 | [NACHO AL 9009](http://twitter.com/search?q=NACHO+AL+9009) | N/A |
+| 8 | [Riber](http://twitter.com/search?q=Riber) | N/A |
+| 9 | [#MarcosAl9009](http://twitter.com/search?q=%23MarcosAl9009) | N/A |
+| 10 | [Santiago del Estero](http://twitter.com/search?q=Santiago+del+Estero) | N/A |
+| 11 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 12 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 13 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 14 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 15 | [Dominguez](http://twitter.com/search?q=Dominguez) | N/A |
+| 16 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 17 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 18 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 19 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 20 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
+| 21 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
+| 22 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 23 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 24 | [Cristina Pérez](http://twitter.com/search?q=Cristina+P%c3%a9rez) | N/A |
+| 25 | [#HomenajeALosCampeones](http://twitter.com/search?q=%23HomenajeALosCampeones) | N/A |
+| 26 | [Sole](http://twitter.com/search?q=Sole) | N/A |
+| 27 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 28 | [Torta](http://twitter.com/search?q=Torta) | N/A |
+| 29 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 32 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
+| 33 | [FULBO](http://twitter.com/search?q=FULBO) | N/A |
+| 34 | [Si Boca](http://twitter.com/search?q=Si+Boca) | N/A |
+| 35 | [Vamos River](http://twitter.com/search?q=Vamos+River) | N/A |
+| 36 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
+| 37 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
 | 38 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 39 | [Audax Italiano](http://twitter.com/search?q=Audax+Italiano) | N/A |
-| 40 | [Guaraní](http://twitter.com/search?q=Guaran%c3%ad) | N/A |
-| 41 | [Central Park](http://twitter.com/search?q=Central+Park) | N/A |
-| 42 | [Lapicera](http://twitter.com/search?q=Lapicera) | N/A |
-| 43 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 44 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 45 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
-| 46 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 47 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 48 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 49 | [Espert](http://twitter.com/search?q=Espert) | N/A |
-| 50 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 39 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 40 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 41 | [#AAAJ](http://twitter.com/search?q=%23AAAJ) | N/A |
+| 42 | [Audax Italiano](http://twitter.com/search?q=Audax+Italiano) | N/A |
+| 43 | [#DuroDeDomar](http://twitter.com/search?q=%23DuroDeDomar) | N/A |
+| 44 | [QUIERO LA LIBERTADORES](http://twitter.com/search?q=QUIERO+LA+LIBERTADORES) | N/A |
+| 45 | [#VamosLosPrimos](http://twitter.com/search?q=%23VamosLosPrimos) | N/A |
+| 46 | [Argentinos Juniors](http://twitter.com/search?q=Argentinos+Juniors) | N/A |
+| 47 | [Oriente Petrolero](http://twitter.com/search?q=Oriente+Petrolero) | N/A |
+| 48 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 49 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 50 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
 
 
 

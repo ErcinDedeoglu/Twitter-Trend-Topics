@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-28 00:30:05 UTC`
+📆 Last Updated: `2023-03-28 01:45:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,14 +15,14 @@ This is top 50 for [Ghana](</Ghana>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DNBP](http://twitter.com/search?q=%23DNBP) | N/A |
-| 2 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 1 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 2 | [#DNBP](http://twitter.com/search?q=%23DNBP) | N/A |
 | 3 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
 | 4 | [#ANGGHA](http://twitter.com/search?q=%23ANGGHA) | N/A |
 | 5 | [Ashimeru](http://twitter.com/search?q=Ashimeru) | N/A |
-| 6 | [Joseph Paintsil](http://twitter.com/search?q=Joseph+Paintsil) | N/A |
-| 7 | [Osman Bukari](http://twitter.com/search?q=Osman+Bukari) | N/A |
-| 8 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
+| 6 | [Osman Bukari](http://twitter.com/search?q=Osman+Bukari) | N/A |
+| 7 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
+| 8 | [Joseph Paintsil](http://twitter.com/search?q=Joseph+Paintsil) | N/A |
 | 9 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
 | 10 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
 | 11 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
@@ -37,29 +37,29 @@ This is top 50 for [Ghana](</Ghana>)
 | 20 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 21 | [coach abdul gazale](http://twitter.com/search?q=coach+abdul+gazale) | N/A |
 | 22 | [Zerbo](http://twitter.com/search?q=Zerbo) | N/A |
-| 23 | [Sorry King](http://twitter.com/search?q=Sorry+King) | N/A |
-| 24 | [Inaki Williams](http://twitter.com/search?q=Inaki+Williams) | N/A |
-| 25 | [Salis](http://twitter.com/search?q=Salis) | N/A |
-| 26 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 27 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 28 | [Ati Zigi](http://twitter.com/search?q=Ati+Zigi) | N/A |
-| 29 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
-| 30 | [2M Express](http://twitter.com/search?q=2M+Express) | N/A |
-| 31 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 32 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 34 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
-| 35 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 23 | [Inaki Williams](http://twitter.com/search?q=Inaki+Williams) | N/A |
+| 24 | [Salis](http://twitter.com/search?q=Salis) | N/A |
+| 25 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 26 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 27 | [ati zigi](http://twitter.com/search?q=ati+zigi) | N/A |
+| 28 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
+| 29 | [2M Express](http://twitter.com/search?q=2M+Express) | N/A |
+| 30 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 33 | [Thomas Partey](http://twitter.com/search?q=Thomas+Partey) | N/A |
+| 34 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 35 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 36 | [Mike Maignan](http://twitter.com/search?q=Mike+Maignan) | N/A |
 | 37 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
 | 38 | [Baby Jet](http://twitter.com/search?q=Baby+Jet) | N/A |
 | 39 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 40 | [Globe TV](http://twitter.com/search?q=Globe+TV) | N/A |
+| 40 | [globe tv](http://twitter.com/search?q=globe+tv) | N/A |
 | 41 | [asante kotoko sporting club](http://twitter.com/search?q=asante+kotoko+sporting+club) | N/A |
 | 42 | [Ogum](http://twitter.com/search?q=Ogum) | N/A |
 | 43 | [the black stars](http://twitter.com/search?q=the+black+stars) | N/A |
-| 44 | [Maker](http://twitter.com/search?q=Maker) | N/A |
-| 45 | [sulemana](http://twitter.com/search?q=sulemana) | N/A |
+| 44 | [sulemana](http://twitter.com/search?q=sulemana) | N/A |
+| 45 | [Sorry King](http://twitter.com/search?q=Sorry+King) | N/A |
 | 46 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
 | 47 | [kingsley schindler](http://twitter.com/search?q=kingsley+schindler) | N/A |
 | 48 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |

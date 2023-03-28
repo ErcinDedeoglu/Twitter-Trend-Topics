@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-28 00:29:44 UTC`
+📆 Last Updated: `2023-03-28 01:44:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
-| 2 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
+| 2 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
 | 3 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 4 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
-| 5 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
-| 6 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
-| 7 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 8 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
-| 9 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
-| 10 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 11 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 12 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 13 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
-| 14 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 15 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 16 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
-| 17 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 18 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 19 | [LOUD NA FINAL DO GC](http://twitter.com/search?q=LOUD+NA+FINAL+DO+GC) | N/A |
-| 20 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 21 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 22 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 23 | [Sula](http://twitter.com/search?q=Sula) | N/A |
-| 24 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 25 | [#ZeDeliveryNoBBB](http://twitter.com/search?q=%23ZeDeliveryNoBBB) | N/A |
-| 26 | [Loco Abreu](http://twitter.com/search?q=Loco+Abreu) | N/A |
-| 27 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 28 | [América MG](http://twitter.com/search?q=Am%c3%a9rica+MG) | N/A |
-| 29 | [Luís Castro](http://twitter.com/search?q=Lu%c3%ads+Castro) | N/A |
-| 30 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
-| 31 | [Sour Candy](http://twitter.com/search?q=Sour+Candy) | N/A |
-| 32 | [Sol e Lui](http://twitter.com/search?q=Sol+e+Lui) | N/A |
-| 33 | [Cristiane](http://twitter.com/search?q=Cristiane) | N/A |
-| 34 | [Di Plácido](http://twitter.com/search?q=Di+Pl%c3%a1cido) | N/A |
-| 35 | [#AmarAMorteNoVIVA](http://twitter.com/search?q=%23AmarAMorteNoVIVA) | N/A |
-| 36 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
-| 37 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 38 | [Estudiantes](http://twitter.com/search?q=Estudiantes) | N/A |
-| 39 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 40 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 41 | [Sarah Andrade](http://twitter.com/search?q=Sarah+Andrade) | N/A |
-| 42 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 43 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 44 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 45 | [O América](http://twitter.com/search?q=O+Am%c3%a9rica) | N/A |
-| 46 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 47 | [RJTV](http://twitter.com/search?q=RJTV) | N/A |
-| 48 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
-| 49 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
-| 50 | [Luis Henrique](http://twitter.com/search?q=Luis+Henrique) | N/A |
+| 4 | [João de Deus](http://twitter.com/search?q=Jo%c3%a3o+de+Deus) | N/A |
+| 5 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 6 | [Luís Castro](http://twitter.com/search?q=Lu%c3%ads+Castro) | N/A |
+| 7 | [Di Plácido](http://twitter.com/search?q=Di+Pl%c3%a1cido) | N/A |
+| 8 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
+| 9 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
+| 10 | [Gabriel Pires](http://twitter.com/search?q=Gabriel+Pires) | Gabriel Pires is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 11 | [ryan sp](http://twitter.com/search?q=ryan+sp) | N/A |
+| 12 | [PRA CIMA](http://twitter.com/search?q=PRA+CIMA) | N/A |
+| 13 | [Luis Henrique](http://twitter.com/search?q=Luis+Henrique) | N/A |
+| 14 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
+| 15 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 16 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 17 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 18 | [Taça Rio](http://twitter.com/search?q=Ta%c3%a7a+Rio) | N/A |
+| 19 | [Fogão](http://twitter.com/search?q=Fog%c3%a3o) | N/A |
+| 20 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 21 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
+| 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 23 | [Coelho](http://twitter.com/search?q=Coelho) | N/A |
+| 24 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 25 | [Lava Jato](http://twitter.com/search?q=Lava+Jato) | N/A |
+| 26 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
+| 27 | [Fernando Diniz](http://twitter.com/search?q=Fernando+Diniz) | N/A |
+| 28 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 29 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 30 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 31 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
+| 32 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 33 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 34 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 35 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 36 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 37 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 38 | [Felipão](http://twitter.com/search?q=Felip%c3%a3o) | N/A |
+| 39 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 40 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 41 | [Sula](http://twitter.com/search?q=Sula) | N/A |
+| 42 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 43 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
+| 44 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 45 | [#Libertadores2023](http://twitter.com/search?q=%23Libertadores2023) | N/A |
+| 46 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 47 | [Tetra](http://twitter.com/search?q=Tetra) | N/A |
+| 48 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
+| 49 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 50 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
 
 
 

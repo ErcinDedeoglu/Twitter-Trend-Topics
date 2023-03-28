@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-28 00:30:37 UTC`
+📆 Last Updated: `2023-03-28 01:45:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,17 +18,17 @@ This is top 50 for Switzerland
 | 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 2 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 3 | [#donnalisi](http://twitter.com/search?q=%23donnalisi) | N/A |
-| 4 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 5 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
-| 6 | [#nikiters](http://twitter.com/search?q=%23nikiters) | N/A |
-| 7 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 8 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 9 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 10 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
-| 11 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 12 | [Option](http://twitter.com/search?q=Option) | N/A |
-| 13 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
-| 14 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 4 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
+| 5 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
+| 6 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 7 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 8 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 9 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 10 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 11 | [Toiletten](http://twitter.com/search?q=Toiletten) | N/A |
+| 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 13 | [Option](http://twitter.com/search?q=Option) | N/A |
+| 14 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
 | 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 16 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
 | 17 | [Prognose](http://twitter.com/search?q=Prognose) | N/A |
@@ -40,14 +40,14 @@ This is top 50 for Switzerland
 | 23 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
 | 24 | [Speicher](http://twitter.com/search?q=Speicher) | N/A |
 | 25 | [Käse](http://twitter.com/search?q=K%c3%a4se) | N/A |
-| 26 | [Widerstand](http://twitter.com/search?q=Widerstand) | N/A |
-| 27 | [blocher](http://twitter.com/search?q=blocher) | N/A |
-| 28 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 29 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 30 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 31 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
-| 32 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
-| 33 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 26 | [blocher](http://twitter.com/search?q=blocher) | N/A |
+| 27 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 28 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 29 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 30 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
+| 31 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
+| 32 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 33 | [Widerstand](http://twitter.com/search?q=Widerstand) | N/A |
 | 34 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
 | 35 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
 | 36 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Switzerland
 | 39 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
 | 40 | [Rassist](http://twitter.com/search?q=Rassist) | N/A |
 | 41 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 42 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 43 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
-| 44 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 45 | [Sowjetunion](http://twitter.com/search?q=Sowjetunion) | N/A |
-| 46 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 47 | [Danke Dir](http://twitter.com/search?q=Danke+Dir) | N/A |
-| 48 | [Nature](http://twitter.com/search?q=Nature) | N/A |
-| 49 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
-| 50 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 42 | [Schüler](http://twitter.com/search?q=Sch%c3%bcler) | N/A |
+| 43 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 44 | [sowjetunion](http://twitter.com/search?q=sowjetunion) | N/A |
+| 45 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
+| 46 | [Danke Dir](http://twitter.com/search?q=Danke+Dir) | N/A |
+| 47 | [Nature](http://twitter.com/search?q=Nature) | N/A |
+| 48 | [Uhren](http://twitter.com/search?q=Uhren) | N/A |
+| 49 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 50 | [steuergelder](http://twitter.com/search?q=steuergelder) | N/A |
 
 
 

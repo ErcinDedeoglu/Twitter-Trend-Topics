@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-03-28 00:29:42 UTC`
+📆 Last Updated: `2023-03-28 01:44:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#27Mar](http://twitter.com/search?q=%2327Mar) | N/A |
 | 2 | [#NiCorrupciónNiGuarimbas](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiGuarimbas) | N/A |
-| 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 4 | [#PLDTocoFondo](http://twitter.com/search?q=%23PLDTocoFondo) | N/A |
-| 5 | [#FrancasNoches](http://twitter.com/search?q=%23FrancasNoches) | N/A |
-| 6 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 7 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
-| 8 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 9 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 10 | [Lanco](http://twitter.com/search?q=Lanco) | N/A |
-| 11 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
-| 12 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 13 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 14 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
-| 15 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
-| 16 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 17 | [Juan Carlos Alvarado](http://twitter.com/search?q=Juan+Carlos+Alvarado) | N/A |
-| 18 | [marco antonio muñiz](http://twitter.com/search?q=marco+antonio+mu%c3%b1iz) | N/A |
-| 19 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 20 | [Tarea](http://twitter.com/search?q=Tarea) | N/A |
-| 21 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
-| 22 | [Umpire](http://twitter.com/search?q=Umpire) | N/A |
-| 23 | [Panteón Nacional](http://twitter.com/search?q=Pante%c3%b3n+Nacional) | N/A |
-| 24 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 26 | [Alberto Ramos](http://twitter.com/search?q=Alberto+Ramos) | N/A |
-| 27 | [Ministerio de Educación](http://twitter.com/search?q=Ministerio+de+Educaci%c3%b3n) | N/A |
-| 28 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
-| 29 | [provincia de venezuela](http://twitter.com/search?q=provincia+de+venezuela) | N/A |
-| 30 | [Guillermo Dávila](http://twitter.com/search?q=Guillermo+D%c3%a1vila) | N/A |
-| 31 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 32 | [Melón](http://twitter.com/search?q=Mel%c3%b3n) | N/A |
-| 33 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
-| 34 | [Info](http://twitter.com/search?q=Info) | N/A |
-| 35 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 36 | [Compre](http://twitter.com/search?q=Compre) | N/A |
-| 37 | [El Fugitivo](http://twitter.com/search?q=El+Fugitivo) | N/A |
-| 38 | [Cacique Guaicaipuro](http://twitter.com/search?q=Cacique+Guaicaipuro) | N/A |
-| 39 | [la asunción](http://twitter.com/search?q=la+asunci%c3%b3n) | N/A |
-| 40 | [Nicole Junkermann](http://twitter.com/search?q=Nicole+Junkermann) | N/A |
-| 41 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
-| 42 | [Merey](http://twitter.com/search?q=Merey) | N/A |
-| 43 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
-| 44 | [Elvis Presley](http://twitter.com/search?q=Elvis+Presley) | N/A |
-| 45 | [Petrocedeño](http://twitter.com/search?q=Petrocede%c3%b1o) | N/A |
-| 46 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 47 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
-| 48 | [Verónica Castro](http://twitter.com/search?q=Ver%c3%b3nica+Castro) | N/A |
-| 49 | [Burt Reynolds](http://twitter.com/search?q=Burt+Reynolds) | N/A |
-| 50 | [Feliz Inicio de Semana](http://twitter.com/search?q=Feliz+Inicio+de+Semana) | N/A |
+| 3 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 4 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 5 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 6 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
+| 7 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 8 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 9 | [Academia Puerto Cabello](http://twitter.com/search?q=Academia+Puerto+Cabello) | N/A |
+| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 11 | [#FrancasNoches](http://twitter.com/search?q=%23FrancasNoches) | N/A |
+| 12 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
+| 13 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 14 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 15 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 16 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
+| 17 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
+| 18 | [Lanco](http://twitter.com/search?q=Lanco) | N/A |
+| 19 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 20 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
+| 21 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 22 | [Osmel](http://twitter.com/search?q=Osmel) | N/A |
+| 23 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 24 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 25 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
+| 26 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 27 | [Juan Carlos Alvarado](http://twitter.com/search?q=Juan+Carlos+Alvarado) | N/A |
+| 28 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 29 | [Marco Antonio Muñiz](http://twitter.com/search?q=Marco+Antonio+Mu%c3%b1iz) | N/A |
+| 30 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 32 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 33 | [Panteón Nacional](http://twitter.com/search?q=Pante%c3%b3n+Nacional) | N/A |
+| 34 | [Ministerio de Educación](http://twitter.com/search?q=Ministerio+de+Educaci%c3%b3n) | N/A |
+| 35 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
+| 36 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
+| 37 | [Francisco Urdaneta](http://twitter.com/search?q=Francisco+Urdaneta) | N/A |
+| 38 | [Tarea](http://twitter.com/search?q=Tarea) | N/A |
+| 39 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 40 | [provincia de venezuela](http://twitter.com/search?q=provincia+de+venezuela) | N/A |
+| 41 | [Li Baorong](http://twitter.com/search?q=Li+Baorong) | N/A |
+| 42 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 43 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 44 | [Alberto Ramos](http://twitter.com/search?q=Alberto+Ramos) | N/A |
+| 45 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 46 | [Compre](http://twitter.com/search?q=Compre) | N/A |
+| 47 | [la asunción](http://twitter.com/search?q=la+asunci%c3%b3n) | N/A |
+| 48 | [El Fugitivo](http://twitter.com/search?q=El+Fugitivo) | N/A |
+| 49 | [Petrocedeño](http://twitter.com/search?q=Petrocede%c3%b1o) | N/A |
+| 50 | [Merey](http://twitter.com/search?q=Merey) | N/A |
 
 
 

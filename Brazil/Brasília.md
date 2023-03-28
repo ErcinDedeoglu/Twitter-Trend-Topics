@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-28 00:29:43 UTC`
+📆 Last Updated: `2023-03-28 01:44:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 2 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 3 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 4 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
-| 5 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 6 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 7 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
-| 8 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 9 | [LOUD NA FINAL DO GC](http://twitter.com/search?q=LOUD+NA+FINAL+DO+GC) | N/A |
-| 10 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 11 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 12 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 13 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 14 | [Sula](http://twitter.com/search?q=Sula) | N/A |
-| 15 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 16 | [#ZeDeliveryNoBBB](http://twitter.com/search?q=%23ZeDeliveryNoBBB) | N/A |
-| 17 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 18 | [Loco Abreu](http://twitter.com/search?q=Loco+Abreu) | N/A |
-| 19 | [Luís Castro](http://twitter.com/search?q=Lu%c3%ads+Castro) | N/A |
-| 20 | [Sour Candy](http://twitter.com/search?q=Sour+Candy) | N/A |
-| 21 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
-| 22 | [Sol e Lui](http://twitter.com/search?q=Sol+e+Lui) | N/A |
-| 23 | [Cristiane](http://twitter.com/search?q=Cristiane) | N/A |
-| 24 | [Di Plácido](http://twitter.com/search?q=Di+Pl%c3%a1cido) | N/A |
-| 25 | [#AmarAMorteNoVIVA](http://twitter.com/search?q=%23AmarAMorteNoVIVA) | N/A |
-| 26 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 27 | [#JornalNacional](http://twitter.com/search?q=%23JornalNacional) | #JornalNacional is a Brazilian news program broadcast by Rede Globo, the largest television network in Brazil. It is one of the most watched programs in the country and covers national and international news. The name translates to "National News" in English. |
-| 28 | [Estudiantes](http://twitter.com/search?q=Estudiantes) | N/A |
-| 29 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 30 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 31 | [América MG](http://twitter.com/search?q=Am%c3%a9rica+MG) | N/A |
-| 32 | [Sarah Andrade](http://twitter.com/search?q=Sarah+Andrade) | N/A |
-| 33 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
-| 34 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 35 | [RJTV](http://twitter.com/search?q=RJTV) | N/A |
-| 36 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
-| 37 | [Luis Henrique](http://twitter.com/search?q=Luis+Henrique) | N/A |
-| 38 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
-| 39 | [mc ryan](http://twitter.com/search?q=mc+ryan) | N/A |
-| 40 | [ryan sp](http://twitter.com/search?q=ryan+sp) | N/A |
-| 41 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 42 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 43 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 44 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
-| 45 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 46 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 47 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 48 | [Lucas Fernandes](http://twitter.com/search?q=Lucas+Fernandes) | N/A |
-| 49 | [César Vallejo](http://twitter.com/search?q=C%c3%a9sar+Vallejo) | N/A |
-| 50 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 1 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 2 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
+| 3 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 4 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 5 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 6 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 7 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 8 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 9 | [Felipão](http://twitter.com/search?q=Felip%c3%a3o) | N/A |
+| 10 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 11 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 12 | [Sula](http://twitter.com/search?q=Sula) | N/A |
+| 13 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 14 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
+| 15 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 16 | [#Libertadores2023](http://twitter.com/search?q=%23Libertadores2023) | N/A |
+| 17 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 18 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
+| 19 | [Tetra](http://twitter.com/search?q=Tetra) | N/A |
+| 20 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 21 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
+| 22 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
+| 23 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 24 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 25 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
+| 26 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 27 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 28 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 29 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
+| 30 | [LOUD NA FINAL DO GC](http://twitter.com/search?q=LOUD+NA+FINAL+DO+GC) | N/A |
+| 31 | [Argentinos Juniors](http://twitter.com/search?q=Argentinos+Juniors) | N/A |
+| 32 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
+| 33 | [Quito](http://twitter.com/search?q=Quito) | N/A |
+| 34 | [Uruguai](http://twitter.com/search?q=Uruguai) | N/A |
+| 35 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 36 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
+| 37 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 38 | [Equador](http://twitter.com/search?q=Equador) | N/A |
+| 39 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 40 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
+| 41 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
+| 42 | [Obrigação](http://twitter.com/search?q=Obriga%c3%a7%c3%a3o) | N/A |
+| 43 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
+| 44 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
+| 45 | [#GloriaEterna](http://twitter.com/search?q=%23GloriaEterna) | N/A |
+| 46 | [Bolívia](http://twitter.com/search?q=Bol%c3%advia) | N/A |
+| 47 | [Loco Abreu](http://twitter.com/search?q=Loco+Abreu) | N/A |
+| 48 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 49 | [Newell](http://twitter.com/search?q=Newell) | N/A |
+| 50 | [Se o Flamengo](http://twitter.com/search?q=Se+o+Flamengo) | N/A |
 
 
 

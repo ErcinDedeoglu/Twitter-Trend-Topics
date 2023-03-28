@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-28 00:30:33 UTC`
+📆 Last Updated: `2023-03-28 01:45:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Kenya
 | 4 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
 | 5 | [#Demonstrations](http://twitter.com/search?q=%23Demonstrations) | N/A |
 | 6 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
-| 7 | [Nubians](http://twitter.com/search?q=Nubians) | N/A |
-| 8 | [Kikuyus](http://twitter.com/search?q=Kikuyus) | N/A |
+| 7 | [Kikuyus](http://twitter.com/search?q=Kikuyus) | N/A |
+| 8 | [Nubians](http://twitter.com/search?q=Nubians) | N/A |
 | 9 | [Weston](http://twitter.com/search?q=Weston) | N/A |
 | 10 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
 | 11 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 12 | [Mungiki](http://twitter.com/search?q=Mungiki) | N/A |
-| 13 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 14 | [Kawangware](http://twitter.com/search?q=Kawangware) | N/A |
-| 15 | [Ruiru](http://twitter.com/search?q=Ruiru) | N/A |
-| 16 | [Koome](http://twitter.com/search?q=Koome) | N/A |
-| 17 | [#HealingServiceInAbidjan](http://twitter.com/search?q=%23HealingServiceInAbidjan) | N/A |
+| 12 | [#Nuru47](http://twitter.com/search?q=%23Nuru47) | N/A |
+| 13 | [Mungiki](http://twitter.com/search?q=Mungiki) | N/A |
+| 14 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 15 | [Kawangware](http://twitter.com/search?q=Kawangware) | N/A |
+| 16 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
+| 17 | [#healingserviceinabidjan](http://twitter.com/search?q=%23healingserviceinabidjan) | N/A |
 | 18 | [Makau Mutua](http://twitter.com/search?q=Makau+Mutua) | N/A |
-| 19 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
-| 20 | [#mainaandkingangi](http://twitter.com/search?q=%23mainaandkingangi) | N/A |
-| 21 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 19 | [Koome](http://twitter.com/search?q=Koome) | N/A |
+| 20 | [Ruiru](http://twitter.com/search?q=Ruiru) | N/A |
+| 21 | [Mau Mau](http://twitter.com/search?q=Mau+Mau) | N/A |
 | 22 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 23 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 23 | [mathare](http://twitter.com/search?q=mathare) | N/A |
 | 24 | [Jayden](http://twitter.com/search?q=Jayden) | N/A |
 | 25 | [Boniface Mwangi](http://twitter.com/search?q=Boniface+Mwangi) | N/A |
-| 26 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 27 | [Maguta Maguta](http://twitter.com/search?q=Maguta+Maguta) | N/A |
-| 28 | [Ruai](http://twitter.com/search?q=Ruai) | N/A |
-| 29 | [Kamakis](http://twitter.com/search?q=Kamakis) | N/A |
-| 30 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
-| 31 | [Goons](http://twitter.com/search?q=Goons) | N/A |
-| 32 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 26 | [maguta maguta](http://twitter.com/search?q=maguta+maguta) | N/A |
+| 27 | [Ruai](http://twitter.com/search?q=Ruai) | N/A |
+| 28 | [Kamakis](http://twitter.com/search?q=Kamakis) | N/A |
+| 29 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
+| 30 | [Goons](http://twitter.com/search?q=Goons) | N/A |
+| 31 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 32 | [kangemi](http://twitter.com/search?q=kangemi) | N/A |
 | 33 | [Luos](http://twitter.com/search?q=Luos) | N/A |
-| 34 | [kangemi](http://twitter.com/search?q=kangemi) | N/A |
-| 35 | [Anarchy](http://twitter.com/search?q=Anarchy) | N/A |
-| 36 | [Hague](http://twitter.com/search?q=Hague) | N/A |
-| 37 | [Civil](http://twitter.com/search?q=Civil) | N/A |
-| 38 | [Awasi](http://twitter.com/search?q=Awasi) | N/A |
-| 39 | [lavington](http://twitter.com/search?q=lavington) | N/A |
-| 40 | [Brookside](http://twitter.com/search?q=Brookside) | N/A |
-| 41 | [Mosque](http://twitter.com/search?q=Mosque) | N/A |
-| 42 | [Kariobangi](http://twitter.com/search?q=Kariobangi) | N/A |
-| 43 | [Jomo](http://twitter.com/search?q=Jomo) | N/A |
-| 44 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 45 | [Intel](http://twitter.com/search?q=Intel) | N/A |
-| 46 | [Gideon Moi](http://twitter.com/search?q=Gideon+Moi) | N/A |
-| 47 | [On Thursday](http://twitter.com/search?q=On+Thursday) | N/A |
-| 48 | [Eastern Bypass](http://twitter.com/search?q=Eastern+Bypass) | N/A |
-| 49 | [Burning](http://twitter.com/search?q=Burning) | N/A |
-| 50 | [Gachietha](http://twitter.com/search?q=Gachietha) | N/A |
+| 34 | [Hague](http://twitter.com/search?q=Hague) | N/A |
+| 35 | [Civil](http://twitter.com/search?q=Civil) | N/A |
+| 36 | [awasi](http://twitter.com/search?q=awasi) | N/A |
+| 37 | [Anarchy](http://twitter.com/search?q=Anarchy) | N/A |
+| 38 | [lavington](http://twitter.com/search?q=lavington) | N/A |
+| 39 | [Brookside](http://twitter.com/search?q=Brookside) | N/A |
+| 40 | [Mosque](http://twitter.com/search?q=Mosque) | N/A |
+| 41 | [Kariobangi](http://twitter.com/search?q=Kariobangi) | N/A |
+| 42 | [Jomo](http://twitter.com/search?q=Jomo) | N/A |
+| 43 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 44 | [Intel](http://twitter.com/search?q=Intel) | N/A |
+| 45 | [gideon moi](http://twitter.com/search?q=gideon+moi) | N/A |
+| 46 | [On Thursday](http://twitter.com/search?q=On+Thursday) | N/A |
+| 47 | [eastern bypass](http://twitter.com/search?q=eastern+bypass) | N/A |
+| 48 | [Burning](http://twitter.com/search?q=Burning) | N/A |
+| 49 | [Gachietha](http://twitter.com/search?q=Gachietha) | N/A |
+| 50 | [Ndindi Nyoro](http://twitter.com/search?q=Ndindi+Nyoro) | N/A |
 
 
 

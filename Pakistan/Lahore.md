@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-28 00:30:12 UTC`
+📆 Last Updated: `2023-03-28 01:45:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 8 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
 | 9 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 10 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 11 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 12 | [T20Is](http://twitter.com/search?q=T20Is) | N/A |
-| 13 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
+| 12 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
+| 13 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
 | 14 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 15 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 15 | [T20Is](http://twitter.com/search?q=T20Is) | N/A |
 | 16 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 17 | [Mansoor](http://twitter.com/search?q=Mansoor) | N/A |
-| 18 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 17 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 18 | [Mansoor](http://twitter.com/search?q=Mansoor) | N/A |
 | 19 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 20 | [Shoaib Akhtar](http://twitter.com/search?q=Shoaib+Akhtar) | N/A |
-| 21 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 22 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 23 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
-| 24 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 25 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 26 | [Amir Sohail](http://twitter.com/search?q=Amir+Sohail) | N/A |
-| 27 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 28 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 29 | [Captaincy](http://twitter.com/search?q=Captaincy) | N/A |
-| 30 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 31 | [Tayyab](http://twitter.com/search?q=Tayyab) | N/A |
-| 32 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 33 | [Full Court](http://twitter.com/search?q=Full+Court) | N/A |
-| 34 | [Get Well Soon](http://twitter.com/search?q=Get+Well+Soon) | N/A |
-| 35 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 36 | [Fiverr](http://twitter.com/search?q=Fiverr) | N/A |
-| 37 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 38 | [Gotchu](http://twitter.com/search?q=Gotchu) | N/A |
-| 39 | [Wese](http://twitter.com/search?q=Wese) | N/A |
-| 40 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 41 | [Project](http://twitter.com/search?q=Project) | N/A |
-| 42 | [Pure](http://twitter.com/search?q=Pure) | N/A |
-| 43 | [VONC](http://twitter.com/search?q=VONC) | N/A |
-| 44 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 45 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 46 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 47 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
-| 48 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 49 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 50 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
+| 20 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 21 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
+| 22 | [Shoaib Akhtar](http://twitter.com/search?q=Shoaib+Akhtar) | N/A |
+| 23 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 24 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 25 | [amir sohail](http://twitter.com/search?q=amir+sohail) | N/A |
+| 26 | [captaincy](http://twitter.com/search?q=captaincy) | N/A |
+| 27 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 28 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 29 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 30 | [Full Court](http://twitter.com/search?q=Full+Court) | N/A |
+| 31 | [Congratulations Shaddy](http://twitter.com/search?q=Congratulations+Shaddy) | N/A |
+| 32 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 33 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 34 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 35 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 36 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 37 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 38 | [Champ](http://twitter.com/search?q=Champ) | N/A |
+| 39 | [Project](http://twitter.com/search?q=Project) | N/A |
+| 40 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
+| 41 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 42 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 43 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 44 | [Wese](http://twitter.com/search?q=Wese) | N/A |
+| 45 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
+| 46 | [Beshaq](http://twitter.com/search?q=Beshaq) | N/A |
+| 47 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 48 | [America](http://twitter.com/search?q=America) | N/A |
+| 49 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 50 | [Pashto](http://twitter.com/search?q=Pashto) | N/A |
 
 
 

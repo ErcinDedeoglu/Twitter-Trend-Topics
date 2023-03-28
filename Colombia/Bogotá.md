@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-28 00:29:41 UTC`
+📆 Last Updated: `2023-03-28 01:44:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,42 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 2 | [#UnDespeloteEs](http://twitter.com/search?q=%23UnDespeloteEs) | N/A |
-| 3 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 4 | [#EsUnaAmenaza](http://twitter.com/search?q=%23EsUnaAmenaza) | N/A |
-| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 6 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
-| 7 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 8 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
-| 9 | [#PremiosIndia2023](http://twitter.com/search?q=%23PremiosIndia2023) | N/A |
-| 10 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
-| 11 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 12 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 13 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
-| 14 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 15 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
-| 16 | [India Catalina](http://twitter.com/search?q=India+Catalina) | N/A |
-| 17 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 20 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
-| 21 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
-| 22 | [Noticias Uno](http://twitter.com/search?q=Noticias+Uno) | N/A |
-| 23 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 24 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 25 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 26 | [Caño Limón Coveñas](http://twitter.com/search?q=Ca%c3%b1o+Lim%c3%b3n+Cove%c3%b1as) | N/A |
-| 27 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 28 | [Robinson Díaz](http://twitter.com/search?q=Robinson+D%c3%adaz) | N/A |
-| 29 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
-| 30 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 31 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
-| 32 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 33 | [hijos nuestros morirán](http://twitter.com/search?q=hijos+nuestros+morir%c3%a1n) | N/A |
-| 34 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 35 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
-| 36 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 37 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 38 | [Argiro](http://twitter.com/search?q=Argiro) | N/A |
-| 39 | [Saade](http://twitter.com/search?q=Saade) | N/A |
-| 40 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 41 | [Bustamante](http://twitter.com/search?q=Bustamante) | N/A |
-| 42 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 43 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 44 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 45 | [Polo Polo](http://twitter.com/search?q=Polo+Polo) | Polo Polo is a Spanish phrase that is used to indicate that something is going well or progressing smoothly. It literally translates to "slowly, slowly" and is used as a way of expressing encouragement or reassurance. |
-| 46 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 47 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 48 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 49 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 50 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
+| 1 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 2 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
+| 3 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 4 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 5 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 6 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
+| 7 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 8 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 9 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 10 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 11 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 12 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 13 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
+| 14 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 15 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 16 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 17 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 18 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 19 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 20 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 21 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 22 | [#VickyEncubreAGnecco](http://twitter.com/search?q=%23VickyEncubreAGnecco) | N/A |
+| 23 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 24 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
+| 25 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 26 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
+| 27 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 28 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
+| 29 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 30 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
+| 31 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 32 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 33 | [Saade](http://twitter.com/search?q=Saade) | N/A |
+| 34 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
+| 35 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 36 | [Polo Polo](http://twitter.com/search?q=Polo+Polo) | Polo Polo is a Spanish phrase that is used to indicate that something is going well or progressing smoothly. It literally translates to "slowly, slowly" and is used as a way of expressing encouragement or reassurance. |
 
 
 

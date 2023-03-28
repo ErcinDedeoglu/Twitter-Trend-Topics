@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-28 00:30:19 UTC`
+📆 Last Updated: `2023-03-28 01:45:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [McGee](http://twitter.com/search?q=McGee) | N/A |
-| 2 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 3 | [#StrayKidsinFortWorth](http://twitter.com/search?q=%23StrayKidsinFortWorth) | N/A |
-| 4 | [#StrayKids_2ndWorldTour_MANIAC](http://twitter.com/search?q=%23StrayKids_2ndWorldTour_MANIAC) | N/A |
-| 5 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 6 | [#SKZinFortWorth](http://twitter.com/search?q=%23SKZinFortWorth) | N/A |
-| 7 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 8 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 9 | [#SHMConverge23](http://twitter.com/search?q=%23SHMConverge23) | N/A |
-| 10 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 11 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 12 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 13 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 14 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 15 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 16 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 17 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 18 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 19 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 20 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 21 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 22 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 23 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 24 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 25 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 26 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 27 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 28 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 29 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 30 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 31 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
-| 32 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 33 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 34 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
-| 35 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 36 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 37 | [3DS eShop](http://twitter.com/search?q=3DS+eShop) | N/A |
-| 38 | [Testosterone](http://twitter.com/search?q=Testosterone) | N/A |
-| 39 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 40 | [Aiden](http://twitter.com/search?q=Aiden) | N/A |
-| 41 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 42 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 43 | [Mentally](http://twitter.com/search?q=Mentally) | N/A |
-| 44 | [Rousek](http://twitter.com/search?q=Rousek) | N/A |
-| 45 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 46 | [Three 9](http://twitter.com/search?q=Three+9) | N/A |
-| 47 | [Gutey](http://twitter.com/search?q=Gutey) | N/A |
-| 48 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
-| 49 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 50 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 1 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 2 | [Javale](http://twitter.com/search?q=Javale) | N/A |
+| 3 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 4 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
+| 5 | [#StrayKidsinFortWorth](http://twitter.com/search?q=%23StrayKidsinFortWorth) | N/A |
+| 6 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 7 | [#schoolshooting](http://twitter.com/search?q=%23schoolshooting) | N/A |
+| 8 | [#SKZinFortWorth](http://twitter.com/search?q=%23SKZinFortWorth) | N/A |
+| 9 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 10 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 11 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 12 | [#SHMConverge23](http://twitter.com/search?q=%23SHMConverge23) | N/A |
+| 13 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 14 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 15 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 16 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 17 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 18 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 19 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 20 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 21 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 22 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 23 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 24 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 25 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 26 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 27 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 28 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 29 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 30 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 31 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 32 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 33 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 34 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 35 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 36 | [Miles Robinson](http://twitter.com/search?q=Miles+Robinson) | N/A |
+| 37 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
+| 38 | [Mustafa Ali](http://twitter.com/search?q=Mustafa+Ali) | N/A |
+| 39 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 40 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 41 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 42 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
+| 43 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 44 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 45 | [Sean Lowe](http://twitter.com/search?q=Sean+Lowe) | N/A |
+| 46 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 47 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 48 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 49 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 50 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
 
 
 

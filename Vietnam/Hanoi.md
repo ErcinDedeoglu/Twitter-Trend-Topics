@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-28 00:30:05 UTC`
+📆 Last Updated: `2023-03-28 01:44:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 8 | [private key](http://twitter.com/search?q=private+key) | N/A |
 | 9 | [mpc wallet](http://twitter.com/search?q=mpc+wallet) | N/A |
 | 10 | [Wintermute](http://twitter.com/search?q=Wintermute) | N/A |
-| 11 | [kitsch mv teaser out now](http://twitter.com/search?q=kitsch+mv+teaser+out+now) | N/A |
-| 12 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
+| 11 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 12 | [kitsch mv teaser out now](http://twitter.com/search?q=kitsch+mv+teaser+out+now) | N/A |
 | 13 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
-| 14 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 15 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 16 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 17 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 18 | [joong](http://twitter.com/search?q=joong) | N/A |
-| 19 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 20 | [Chung](http://twitter.com/search?q=Chung) | N/A |
-| 21 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
-| 22 | [Pond](http://twitter.com/search?q=Pond) | N/A |
-| 23 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 25 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 26 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 14 | [Đang](http://twitter.com/search?q=%c4%90ang) | N/A |
+| 15 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 16 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 18 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 20 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 21 | [chung](http://twitter.com/search?q=chung) | N/A |
+| 22 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
+| 23 | [Pond](http://twitter.com/search?q=Pond) | N/A |
+| 24 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 25 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 26 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
 | 27 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 28 | [Thèm](http://twitter.com/search?q=Th%c3%a8m) | N/A |
-| 29 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 30 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [hcmc](http://twitter.com/search?q=hcmc) | N/A |
-| 33 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 34 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 35 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 36 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 37 | [cả 2](http://twitter.com/search?q=c%e1%ba%a3+2) | N/A |
-| 38 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 39 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 40 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 41 | [$mob token](http://twitter.com/search?q=%24mob+token) | N/A |
-| 42 | [Ngồi](http://twitter.com/search?q=Ng%e1%bb%93i) | N/A |
-| 43 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 44 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 45 | [Satang](http://twitter.com/search?q=Satang) | N/A |
-| 46 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 47 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 48 | [West](http://twitter.com/search?q=West) | N/A |
-| 49 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 50 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 28 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 29 | [hcmc](http://twitter.com/search?q=hcmc) | N/A |
+| 30 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 31 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 32 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 33 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 34 | [cả 2](http://twitter.com/search?q=c%e1%ba%a3+2) | N/A |
+| 35 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 36 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 37 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 38 | [$mob token](http://twitter.com/search?q=%24mob+token) | N/A |
+| 39 | [ngồi](http://twitter.com/search?q=ng%e1%bb%93i) | N/A |
+| 40 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 41 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
+| 42 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 43 | [Satang](http://twitter.com/search?q=Satang) | N/A |
+| 44 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 45 | [West](http://twitter.com/search?q=West) | N/A |
+| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 47 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 48 | [buồn](http://twitter.com/search?q=bu%e1%bb%93n) | N/A |
+| 49 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 50 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 
 
 
