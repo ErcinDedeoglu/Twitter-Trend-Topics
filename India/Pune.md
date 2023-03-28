@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-03-28 11:17:43 UTC`
+📆 Last Updated: `2023-03-28 12:19:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#realmeC55SaleLiveNow](http://twitter.com/search?q=%23realmeC55SaleLiveNow) | N/A |
-| 2 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 3 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
-| 4 | [#RavanasuraTrailer](http://twitter.com/search?q=%23RavanasuraTrailer) | N/A |
-| 5 | [RECORD BREAKING GC FIRSTLOOK](http://twitter.com/search?q=RECORD+BREAKING+GC+FIRSTLOOK) | N/A |
-| 6 | [दिनेश पासी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
-| 7 | [VINTAGE ANNA IS BACK](http://twitter.com/search?q=VINTAGE+ANNA+IS+BACK) | N/A |
-| 8 | [अहमद दोषी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
-| 9 | [MP-MLA](http://twitter.com/search?q=MP-MLA) | N/A |
-| 10 | [पैन कार्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%88%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 11 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
-| 12 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 13 | [समय सीमा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%af+%e0%a4%b8%e0%a5%80%e0%a4%ae%e0%a4%be) | N/A |
-| 14 | [सऊदी अरब](http://twitter.com/search?q=%e0%a4%b8%e0%a4%8a%e0%a4%a6%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a4%ac) | N/A |
-| 15 | [Delhi HC](http://twitter.com/search?q=Delhi+HC) | N/A |
-| 16 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 17 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
-| 18 | [India Celebrates UA Day](http://twitter.com/search?q=India+Celebrates+UA+Day) | N/A |
-| 19 | [Chokli](http://twitter.com/search?q=Chokli) | N/A |
-| 20 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 21 | [NDTV](http://twitter.com/search?q=NDTV) | NDTV stands for New Delhi Television, which is an Indian news channel. It was founded in 1988 and is one of the most popular news channels in India. |
-| 22 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
-| 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 24 | [#IndiaDigitalFest](http://twitter.com/search?q=%23IndiaDigitalFest) | N/A |
-| 25 | [#UmeshPalKidnappingCase](http://twitter.com/search?q=%23UmeshPalKidnappingCase) | N/A |
-| 26 | [#Campus200Strong](http://twitter.com/search?q=%23Campus200Strong) | N/A |
-| 27 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
-| 28 | [#PriyankaChopra](http://twitter.com/search?q=%23PriyankaChopra) | N/A |
-| 29 | [#PathashreeRastashree](http://twitter.com/search?q=%23PathashreeRastashree) | N/A |
-| 30 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
-| 31 | [#BusAccident](http://twitter.com/search?q=%23BusAccident) | N/A |
-| 32 | [#EdappadiPalaniswami](http://twitter.com/search?q=%23EdappadiPalaniswami) | N/A |
-| 33 | [#எடப்பாடியார்](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%9f%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b0%e0%af%8d) | N/A |
-| 34 | [#KaranJohar](http://twitter.com/search?q=%23KaranJohar) | N/A |
-| 35 | [#Maidaan](http://twitter.com/search?q=%23Maidaan) | N/A |
-| 36 | [#RaviTeja](http://twitter.com/search?q=%23RaviTeja) | N/A |
-| 37 | [#Sabarimala](http://twitter.com/search?q=%23Sabarimala) | N/A |
-| 38 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
-| 39 | [#AIADMK](http://twitter.com/search?q=%23AIADMK) | N/A |
-| 40 | [#finnifty](http://twitter.com/search?q=%23finnifty) | N/A |
-| 41 | [#ShahRukhKhan𓀠](http://twitter.com/search?q=%23ShahRukhKhan%f0%93%80%a0) | N/A |
-| 42 | [#AdaniGroup](http://twitter.com/search?q=%23AdaniGroup) | Adani Group is an Indian multinational conglomerate company headquartered in Ahmedabad, Gujarat. It was founded by Gautam Adani in 1988 as a commodity trading business. The group operates in multiple sectors including energy, resources, logistics, agribusiness, real estate, financial services and defence. The group has a presence in over 20 countries across the world. |
-| 43 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 44 | [#ओबीसी_विरोधी_राहुल_गांधी](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80_%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2_%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 45 | [#SharjeelImam](http://twitter.com/search?q=%23SharjeelImam) | N/A |
-| 46 | [#SafooraZargar](http://twitter.com/search?q=%23SafooraZargar) | N/A |
-| 47 | [#PhotoThaakku](http://twitter.com/search?q=%23PhotoThaakku) | N/A |
-| 48 | [#SaudiArabia](http://twitter.com/search?q=%23SaudiArabia) | N/A |
+| 1 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
+| 2 | [#RavanasuraTrailer](http://twitter.com/search?q=%23RavanasuraTrailer) | N/A |
+| 3 | [#realmeC55SaleLiveNow](http://twitter.com/search?q=%23realmeC55SaleLiveNow) | N/A |
+| 4 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 5 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 6 | [Android 13](http://twitter.com/search?q=Android+13) | N/A |
+| 7 | [RECORD BREAKING GC FIRSTLOOK](http://twitter.com/search?q=RECORD+BREAKING+GC+FIRSTLOOK) | N/A |
+| 8 | [नेपाल भारत](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 9 | [VINTAGE ANNA IS BACK](http://twitter.com/search?q=VINTAGE+ANNA+IS+BACK) | N/A |
+| 10 | [दिनेश पासी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
+| 11 | [अहमद दोषी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
+| 12 | [पैन कार्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%88%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 13 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
+| 14 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
+| 15 | [समय सीमा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%af+%e0%a4%b8%e0%a5%80%e0%a4%ae%e0%a4%be) | N/A |
+| 16 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
+| 17 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 18 | [MP-MLA](http://twitter.com/search?q=MP-MLA) | N/A |
+| 19 | [सऊदी अरब](http://twitter.com/search?q=%e0%a4%b8%e0%a4%8a%e0%a4%a6%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a4%ac) | N/A |
+| 20 | [Delhi HC](http://twitter.com/search?q=Delhi+HC) | N/A |
+| 21 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 22 | [Chokli](http://twitter.com/search?q=Chokli) | N/A |
+| 23 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 24 | [लोकतंत्र बचाओ](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 25 | [NDTV](http://twitter.com/search?q=NDTV) | NDTV stands for New Delhi Television, which is an Indian news channel. It was founded in 1988 and is one of the most popular news channels in India. |
+| 26 | [#UADay](http://twitter.com/search?q=%23UADay) | N/A |
+| 27 | [#Campus200Strong](http://twitter.com/search?q=%23Campus200Strong) | N/A |
+| 28 | [#motog13](http://twitter.com/search?q=%23motog13) | N/A |
+| 29 | [#IndiaDigitalFest](http://twitter.com/search?q=%23IndiaDigitalFest) | N/A |
+| 30 | [#UmeshPalKidnappingCase](http://twitter.com/search?q=%23UmeshPalKidnappingCase) | N/A |
+| 31 | [#PathashreeRastashree](http://twitter.com/search?q=%23PathashreeRastashree) | N/A |
+| 32 | [#HatkeExperience](http://twitter.com/search?q=%23HatkeExperience) | N/A |
+| 33 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
+| 34 | [#PriyankaChopra](http://twitter.com/search?q=%23PriyankaChopra) | N/A |
+| 35 | [#ShahRukhKhan𓀠](http://twitter.com/search?q=%23ShahRukhKhan%f0%93%80%a0) | N/A |
+| 36 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
+| 37 | [#BusAccident](http://twitter.com/search?q=%23BusAccident) | N/A |
+| 38 | [#KGZIND](http://twitter.com/search?q=%23KGZIND) | N/A |
+| 39 | [#KaranJohar](http://twitter.com/search?q=%23KaranJohar) | N/A |
+| 40 | [#AdaniGroup](http://twitter.com/search?q=%23AdaniGroup) | Adani Group is an Indian multinational conglomerate company headquartered in Ahmedabad, Gujarat. It was founded by Gautam Adani in 1988 as a commodity trading business. The group operates in multiple sectors including energy, resources, logistics, agribusiness, real estate, financial services and defence. The group has a presence in over 20 countries across the world. |
+| 41 | [#Sabarimala](http://twitter.com/search?q=%23Sabarimala) | N/A |
+| 42 | [#EdappadiPalanisamy](http://twitter.com/search?q=%23EdappadiPalanisamy) | N/A |
+| 43 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
+| 44 | [#RaviTeja](http://twitter.com/search?q=%23RaviTeja) | N/A |
+| 45 | [#DelhiHighCourt](http://twitter.com/search?q=%23DelhiHighCourt) | N/A |
+| 46 | [#AlluArjun](http://twitter.com/search?q=%23AlluArjun) | N/A |
+| 47 | [#ओबीसी_विरोधी_राहुल_गांधी](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80_%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2_%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 48 | [#எடப்பாடியார்](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%9f%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b0%e0%af%8d) | N/A |
 
 
 

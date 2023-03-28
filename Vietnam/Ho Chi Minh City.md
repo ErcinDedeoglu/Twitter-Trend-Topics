@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-28 11:17:34 UTC`
+📆 Last Updated: `2023-03-28 12:19:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 2 | [#형섭이_더쇼엠씨_준비됐섭](http://twitter.com/search?q=%23%ed%98%95%ec%84%ad%ec%9d%b4_%eb%8d%94%ec%87%bc%ec%97%a0%ec%94%a8_%ec%a4%80%eb%b9%84%eb%90%90%ec%84%ad) | N/A |
-| 3 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
-| 4 | [#HYEONGSEOP](http://twitter.com/search?q=%23HYEONGSEOP) | N/A |
-| 5 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 6 | [unfiltered biblebuild](http://twitter.com/search?q=unfiltered+biblebuild) | N/A |
+| 1 | [#RoVxอิงฟ้า](http://twitter.com/search?q=%23RoVx%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2) | N/A |
+| 2 | [#AllForBuild](http://twitter.com/search?q=%23AllForBuild) | N/A |
+| 3 | [ALL FOR LUVE](http://twitter.com/search?q=ALL+FOR+LUVE) | N/A |
+| 4 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
+| 5 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
+| 6 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 | 7 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
 | 8 | [private key](http://twitter.com/search?q=private+key) | N/A |
 | 9 | [mpc wallet](http://twitter.com/search?q=mpc+wallet) | N/A |
@@ -30,41 +30,41 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 13 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 15 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 16 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 17 | [Chung](http://twitter.com/search?q=Chung) | N/A |
-| 18 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 19 | [Pond](http://twitter.com/search?q=Pond) | N/A |
+| 16 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
+| 17 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
+| 18 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 19 | [chung](http://twitter.com/search?q=chung) | N/A |
 | 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
-| 22 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
-| 23 | [Wintermute](http://twitter.com/search?q=Wintermute) | N/A |
-| 24 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 25 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 26 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 27 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 28 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 29 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 30 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 31 | [Đăng](http://twitter.com/search?q=%c4%90%c4%83ng) | N/A |
-| 32 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 21 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 22 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 23 | [Phuwin](http://twitter.com/search?q=Phuwin) | N/A |
+| 24 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 25 | [Wintermute](http://twitter.com/search?q=Wintermute) | N/A |
+| 26 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 27 | [metamask](http://twitter.com/search?q=metamask) | N/A |
+| 28 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 29 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 30 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 31 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 32 | [dApp](http://twitter.com/search?q=dApp) | N/A |
 | 33 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 34 | [Boun](http://twitter.com/search?q=Boun) | N/A |
-| 35 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 36 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 37 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 38 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 39 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
-| 40 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 41 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 42 | [Cần Thơ](http://twitter.com/search?q=C%e1%ba%a7n+Th%c6%a1) | N/A |
-| 43 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 44 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 45 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 46 | [ngồi](http://twitter.com/search?q=ng%e1%bb%93i) | N/A |
+| 34 | [Đăng](http://twitter.com/search?q=%c4%90%c4%83ng) | N/A |
+| 35 | [Boun](http://twitter.com/search?q=Boun) | N/A |
+| 36 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
+| 37 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 38 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 39 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 40 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
+| 41 | [Cần Thơ](http://twitter.com/search?q=C%e1%ba%a7n+Th%c6%a1) | N/A |
+| 42 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 43 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 44 | [ngồi](http://twitter.com/search?q=ng%e1%bb%93i) | N/A |
+| 45 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 46 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
 | 47 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 48 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 49 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 50 | [Satang](http://twitter.com/search?q=Satang) | N/A |
+| 48 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 49 | [Satang](http://twitter.com/search?q=Satang) | N/A |
+| 50 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 
 
 

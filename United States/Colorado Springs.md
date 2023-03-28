@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-03-28 11:17:46 UTC`
+📆 Last Updated: `2023-03-28 12:19:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
 | 3 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 4 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 5 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 6 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 7 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 8 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 9 | [#Wordle647](http://twitter.com/search?q=%23Wordle647) | N/A |
-| 10 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 11 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
-| 12 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 13 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 14 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 15 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
-| 16 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 17 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 18 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 19 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 20 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 21 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 22 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 23 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 24 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 25 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 26 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
-| 27 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
-| 28 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 29 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 30 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 31 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 6 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
+| 7 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 8 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 9 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
+| 10 | [#Wordle647](http://twitter.com/search?q=%23Wordle647) | N/A |
+| 11 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 12 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 13 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 14 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 15 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 16 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
+| 17 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
+| 18 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 19 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
+| 20 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 21 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 22 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 23 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 24 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
+| 25 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 26 | [Armed](http://twitter.com/search?q=Armed) | N/A |
+| 27 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
+| 28 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 29 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
+| 30 | [Mentally](http://twitter.com/search?q=Mentally) | N/A |
+| 31 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
 | 32 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 33 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 34 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 35 | [Demonic](http://twitter.com/search?q=Demonic) | N/A |
-| 36 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 37 | [Colorado Springs](http://twitter.com/search?q=Colorado+Springs) | N/A |
-| 38 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 39 | [Stormblood](http://twitter.com/search?q=Stormblood) | N/A |
-| 40 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 41 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 42 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
-| 43 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 44 | [#TransTerrorism](http://twitter.com/search?q=%23TransTerrorism) | N/A |
-| 45 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
-| 46 | [#ForeverGiant](http://twitter.com/search?q=%23ForeverGiant) | N/A |
-| 47 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 48 | [#summerhouse](http://twitter.com/search?q=%23summerhouse) | N/A |
-| 49 | [#StrayKidsinFortWorth](http://twitter.com/search?q=%23StrayKidsinFortWorth) | N/A |
+| 33 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 34 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 35 | [Abolish](http://twitter.com/search?q=Abolish) | N/A |
+| 36 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
+| 37 | [Hate Crime](http://twitter.com/search?q=Hate+Crime) | N/A |
+| 38 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 39 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
+| 40 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 41 | [Demonic](http://twitter.com/search?q=Demonic) | N/A |
+| 42 | [Colorado Springs](http://twitter.com/search?q=Colorado+Springs) | N/A |
+| 43 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
+| 44 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 45 | [Godless](http://twitter.com/search?q=Godless) | N/A |
+| 46 | [Patriot Act](http://twitter.com/search?q=Patriot+Act) | N/A |
+| 47 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 48 | [Stormblood](http://twitter.com/search?q=Stormblood) | N/A |
+| 49 | [Polls](http://twitter.com/search?q=Polls) | N/A |
 
 
 

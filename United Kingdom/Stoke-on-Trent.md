@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-28 11:17:08 UTC`
+📆 Last Updated: `2023-03-28 12:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
-| 2 | [#QConLondon](http://twitter.com/search?q=%23QConLondon) | N/A |
-| 3 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 4 | [Adams](http://twitter.com/search?q=Adams) | N/A |
-| 5 | [LTNs](http://twitter.com/search?q=LTNs) | N/A |
-| 6 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 7 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 8 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 9 | [Biggins](http://twitter.com/search?q=Biggins) | N/A |
-| 10 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
-| 11 | [#ASongOrMovieForWood](http://twitter.com/search?q=%23ASongOrMovieForWood) | N/A |
-| 12 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 13 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 14 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 15 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
-| 16 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 17 | [Ed Miliband](http://twitter.com/search?q=Ed+Miliband) | N/A |
-| 18 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 19 | [William Hill](http://twitter.com/search?q=William+Hill) | N/A |
-| 20 | [Andrew Bailey](http://twitter.com/search?q=Andrew+Bailey) | N/A |
-| 21 | [James Bowman](http://twitter.com/search?q=James+Bowman) | N/A |
-| 22 | [Phillip Schofield](http://twitter.com/search?q=Phillip+Schofield) | N/A |
-| 23 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 24 | [Tobermore](http://twitter.com/search?q=Tobermore) | N/A |
-| 25 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 26 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 27 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
-| 28 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 29 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
-| 30 | [Heathrow](http://twitter.com/search?q=Heathrow) | N/A |
-| 31 | [beeching](http://twitter.com/search?q=beeching) | N/A |
-| 32 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 33 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 34 | [Tobias](http://twitter.com/search?q=Tobias) | N/A |
-| 35 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 36 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 37 | [#DACFestival](http://twitter.com/search?q=%23DACFestival) | N/A |
-| 38 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 39 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
-| 40 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 41 | [#ScotAISummit](http://twitter.com/search?q=%23ScotAISummit) | N/A |
-| 42 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 43 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
-| 44 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
-| 45 | [#AutismAcceptanceWeek](http://twitter.com/search?q=%23AutismAcceptanceWeek) | N/A |
-| 46 | [#ToriesOut264](http://twitter.com/search?q=%23ToriesOut264) | N/A |
-| 47 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 48 | [#VoteReject](http://twitter.com/search?q=%23VoteReject) | N/A |
-| 49 | [#Easter](http://twitter.com/search?q=%23Easter) | N/A |
+| 1 | [#QConLondon](http://twitter.com/search?q=%23QConLondon) | N/A |
+| 2 | [Adams](http://twitter.com/search?q=Adams) | N/A |
+| 3 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 4 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 5 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 6 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 7 | [Biggins](http://twitter.com/search?q=Biggins) | N/A |
+| 8 | [Beth England](http://twitter.com/search?q=Beth+England) | N/A |
+| 9 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 10 | [#ASongOrMovieForWood](http://twitter.com/search?q=%23ASongOrMovieForWood) | N/A |
+| 11 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 12 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 14 | [Space Karen](http://twitter.com/search?q=Space+Karen) | N/A |
+| 15 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 16 | [William Hill](http://twitter.com/search?q=William+Hill) | N/A |
+| 17 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 18 | [Ed Miliband](http://twitter.com/search?q=Ed+Miliband) | N/A |
+| 19 | [Hannah Hampton](http://twitter.com/search?q=Hannah+Hampton) | N/A |
+| 20 | [James Bowman](http://twitter.com/search?q=James+Bowman) | N/A |
+| 21 | [Schofield](http://twitter.com/search?q=Schofield) | N/A |
+| 22 | [Andrew Bailey](http://twitter.com/search?q=Andrew+Bailey) | N/A |
+| 23 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
+| 24 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 25 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 26 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 27 | [Audrey](http://twitter.com/search?q=Audrey) | N/A |
+| 28 | [Tobermore](http://twitter.com/search?q=Tobermore) | N/A |
+| 29 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
+| 30 | [Afghan](http://twitter.com/search?q=Afghan) | N/A |
+| 31 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 32 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
+| 33 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 34 | [LTNs](http://twitter.com/search?q=LTNs) | N/A |
+| 35 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
+| 36 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 37 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 38 | [Heathrow](http://twitter.com/search?q=Heathrow) | N/A |
+| 39 | [Beeching](http://twitter.com/search?q=Beeching) | N/A |
+| 40 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 41 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 42 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 43 | [#JeremyCorbynThePeoplesMP](http://twitter.com/search?q=%23JeremyCorbynThePeoplesMP) | N/A |
+| 44 | [#tentothetop](http://twitter.com/search?q=%23tentothetop) | N/A |
+| 45 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 46 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 47 | [#DACFestival](http://twitter.com/search?q=%23DACFestival) | N/A |
+| 48 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 49 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 
 
 
