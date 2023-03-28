@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-28 15:18:12 UTC`
+📆 Last Updated: `2023-03-28 17:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JusticiaParaCarlosCaicedo](http://twitter.com/search?q=%23JusticiaParaCarlosCaicedo) | N/A |
-| 2 | [#MeIndigna](http://twitter.com/search?q=%23MeIndigna) | N/A |
+| 1 | [#MeIndigna](http://twitter.com/search?q=%23MeIndigna) | N/A |
+| 2 | [#JusticiaParaCarlosCaicedo](http://twitter.com/search?q=%23JusticiaParaCarlosCaicedo) | N/A |
 | 3 | [#NadieRespondePor](http://twitter.com/search?q=%23NadieRespondePor) | N/A |
 | 4 | [Borré](http://twitter.com/search?q=Borr%c3%a9) | Borré is a Spanish verb meaning "to drink". It is used to describe the act of drinking alcohol or other beverages. In English, it would be translated as "to drink". |
 | 5 | [Morat](http://twitter.com/search?q=Morat) | N/A |
-| 6 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
-| 7 | [Durán](http://twitter.com/search?q=Dur%c3%a1n) | N/A |
-| 8 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
-| 9 | [Ciudad Equidad](http://twitter.com/search?q=Ciudad+Equidad) | N/A |
-| 10 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [#undespelotees](http://twitter.com/search?q=%23undespelotees) | N/A |
-| 12 | [Billie](http://twitter.com/search?q=Billie) | N/A |
-| 13 | [Carrascal](http://twitter.com/search?q=Carrascal) | N/A |
-| 14 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 15 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 16 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 17 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 18 | [Mazzucato](http://twitter.com/search?q=Mazzucato) | N/A |
-| 19 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 20 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
-| 21 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 22 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
-| 23 | [Castaño](http://twitter.com/search?q=Casta%c3%b1o) | N/A |
-| 24 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 25 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
-| 26 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 27 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 28 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 29 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
-| 30 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
-| 31 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
-| 32 | [Saade](http://twitter.com/search?q=Saade) | N/A |
-| 33 | [Inpec](http://twitter.com/search?q=Inpec) | N/A |
-| 34 | [Osaka](http://twitter.com/search?q=Osaka) | N/A |
-| 35 | [Falcao](http://twitter.com/search?q=Falcao) | Falcao is a Spanish surname derived from the Latin word falx, meaning "sickle". It is also a nickname for someone who is strong and powerful. In English, it can be translated to mean "the strong one". |
-| 36 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
-| 37 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 38 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 39 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 40 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 41 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 42 | [creg](http://twitter.com/search?q=creg) | N/A |
-| 43 | [Sinisterra](http://twitter.com/search?q=Sinisterra) | N/A |
-| 44 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 45 | [Girón](http://twitter.com/search?q=Gir%c3%b3n) | N/A |
-| 46 | [Muñoz](http://twitter.com/search?q=Mu%c3%b1oz) | N/A |
-| 47 | [Macka](http://twitter.com/search?q=Macka) | N/A |
-| 48 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 49 | [Popayán](http://twitter.com/search?q=Popay%c3%a1n) | N/A |
+| 6 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 7 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 8 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 9 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 10 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
+| 11 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 12 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 13 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 14 | [Carrascal](http://twitter.com/search?q=Carrascal) | N/A |
+| 15 | [Durán](http://twitter.com/search?q=Dur%c3%a1n) | N/A |
+| 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 17 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 18 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
+| 19 | [Mazzucato](http://twitter.com/search?q=Mazzucato) | N/A |
+| 20 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 21 | [Magdalena](http://twitter.com/search?q=Magdalena) | N/A |
+| 22 | [CDI de Ciudad Equidad](http://twitter.com/search?q=CDI+de+Ciudad+Equidad) | N/A |
+| 23 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 24 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 25 | [SPOTIFY CORRUPT](http://twitter.com/search?q=SPOTIFY+CORRUPT) | N/A |
+| 26 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
+| 27 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
+| 28 | [Saade](http://twitter.com/search?q=Saade) | N/A |
+| 29 | [INPEC](http://twitter.com/search?q=INPEC) | N/A |
+| 30 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
+| 31 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 32 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 33 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 34 | [Castaño](http://twitter.com/search?q=Casta%c3%b1o) | N/A |
+| 35 | [Macka](http://twitter.com/search?q=Macka) | N/A |
+| 36 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 37 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 38 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 39 | [Constituyente](http://twitter.com/search?q=Constituyente) | N/A |
+| 40 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
+| 41 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 42 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 43 | [harold rivera](http://twitter.com/search?q=harold+rivera) | N/A |
+| 44 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 45 | [universitario](http://twitter.com/search?q=universitario) | N/A |
+| 46 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 47 | [Muñoz](http://twitter.com/search?q=Mu%c3%b1oz) | N/A |
+| 48 | [Girón](http://twitter.com/search?q=Gir%c3%b3n) | N/A |
+| 49 | [India Catalina](http://twitter.com/search?q=India+Catalina) | N/A |
 
 
 

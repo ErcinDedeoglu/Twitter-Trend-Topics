@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-03-28 15:19:09 UTC`
+📆 Last Updated: `2023-03-28 17:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Indonesia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
-| 2 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
-| 3 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 4 | [#DOJAEJUNG_TopNote](http://twitter.com/search?q=%23DOJAEJUNG_TopNote) | N/A |
+| 2 | [JENO BLONDE](http://twitter.com/search?q=JENO+BLONDE) | N/A |
+| 3 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
+| 4 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
 | 5 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 6 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 7 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
-| 8 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 9 | [HURT ROAD](http://twitter.com/search?q=HURT+ROAD) | N/A |
-| 10 | [#IRENE](http://twitter.com/search?q=%23IRENE) | N/A |
-| 11 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 6 | [#DOJAEJUNG_TopNote](http://twitter.com/search?q=%23DOJAEJUNG_TopNote) | N/A |
+| 7 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 8 | [#IRENE](http://twitter.com/search?q=%23IRENE) | N/A |
+| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 10 | [Jordi Amat](http://twitter.com/search?q=Jordi+Amat) | N/A |
+| 11 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
 | 12 | [KIM DOYOUNG](http://twitter.com/search?q=KIM+DOYOUNG) | N/A |
-| 13 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
-| 14 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
-| 15 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 16 | [Rasis](http://twitter.com/search?q=Rasis) | N/A |
-| 17 | [Jagung](http://twitter.com/search?q=Jagung) | N/A |
-| 18 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 13 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
+| 14 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 15 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
+| 16 | [Jagung](http://twitter.com/search?q=Jagung) | N/A |
+| 17 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
+| 18 | [Jasuke](http://twitter.com/search?q=Jasuke) | Jasuke is a Japanese slang term derived from the words "jazz" and "sukebe," which mean "sexy" or "erotic." It is used to describe someone who is attractive, stylish, and sexually appealing. |
 | 19 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 20 | [Jasuke](http://twitter.com/search?q=Jasuke) | Jasuke is a Japanese slang term derived from the words "jazz" and "sukebe," which mean "sexy" or "erotic." It is used to describe someone who is attractive, stylish, and sexually appealing. |
-| 21 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
-| 22 | [RI 1](http://twitter.com/search?q=RI+1) | N/A |
-| 23 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
-| 24 | [ALL FOR LUVE](http://twitter.com/search?q=ALL+FOR+LUVE) | N/A |
-| 25 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
+| 20 | [ri 1](http://twitter.com/search?q=ri+1) | N/A |
+| 21 | [Tinggalin](http://twitter.com/search?q=Tinggalin) | N/A |
+| 22 | [Rasis](http://twitter.com/search?q=Rasis) | N/A |
+| 23 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 24 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
+| 25 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
 | 26 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 27 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 28 | [Jeruk](http://twitter.com/search?q=Jeruk) | N/A |
-| 29 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 30 | [Ahyeon](http://twitter.com/search?q=Ahyeon) | N/A |
-| 31 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 32 | [MC XIAOJUN THE FIRST SHOW](http://twitter.com/search?q=MC+XIAOJUN+THE+FIRST+SHOW) | N/A |
-| 33 | [UTBK](http://twitter.com/search?q=UTBK) | N/A |
-| 34 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 35 | [Cuekin](http://twitter.com/search?q=Cuekin) | N/A |
-| 36 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
-| 37 | [Makasiii](http://twitter.com/search?q=Makasiii) | N/A |
-| 38 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
-| 39 | [Cat 2](http://twitter.com/search?q=Cat+2) | N/A |
-| 40 | [SELAMAT YAAA](http://twitter.com/search?q=SELAMAT+YAAA) | N/A |
-| 41 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 42 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
-| 43 | [Selamattt](http://twitter.com/search?q=Selamattt) | N/A |
-| 44 | [Andin](http://twitter.com/search?q=Andin) | N/A |
-| 45 | [THANK YOUU](http://twitter.com/search?q=THANK+YOUU) | N/A |
-| 46 | [Sung Hanbin](http://twitter.com/search?q=Sung+Hanbin) | N/A |
-| 47 | [Kerenn](http://twitter.com/search?q=Kerenn) | N/A |
-| 48 | [VIP B](http://twitter.com/search?q=VIP+B) | N/A |
-| 49 | [Merah](http://twitter.com/search?q=Merah) | N/A |
-| 50 | [Gapapaa](http://twitter.com/search?q=Gapapaa) | N/A |
+| 27 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
+| 28 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 29 | [UTBK](http://twitter.com/search?q=UTBK) | N/A |
+| 30 | [Cuekin](http://twitter.com/search?q=Cuekin) | N/A |
+| 31 | [CONGRATSS](http://twitter.com/search?q=CONGRATSS) | N/A |
+| 32 | [cat 1a](http://twitter.com/search?q=cat+1a) | N/A |
+| 33 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 34 | [Pildun U20](http://twitter.com/search?q=Pildun+U20) | N/A |
+| 35 | [Cat 4](http://twitter.com/search?q=Cat+4) | N/A |
+| 36 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 37 | [KEREN BANGET](http://twitter.com/search?q=KEREN+BANGET) | N/A |
+| 38 | [Cat 2](http://twitter.com/search?q=Cat+2) | N/A |
+| 39 | [VIP B](http://twitter.com/search?q=VIP+B) | N/A |
+| 40 | [want to trade](http://twitter.com/search?q=want+to+trade) | N/A |
+| 41 | [Alphard](http://twitter.com/search?q=Alphard) | N/A |
+| 42 | [Selamatt](http://twitter.com/search?q=Selamatt) | N/A |
+| 43 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
+| 44 | [#TAEMINisback_D6v6](http://twitter.com/search?q=%23TAEMINisback_D6v6) | N/A |
+| 45 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 46 | [#레드벨벳](http://twitter.com/search?q=%23%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3) | N/A |
+| 47 | [#TDS2inHONGKONG_DAY2](http://twitter.com/search?q=%23TDS2inHONGKONG_DAY2) | N/A |
+| 48 | [#ApologizeToHaechan](http://twitter.com/search?q=%23ApologizeToHaechan) | N/A |
+| 49 | [#KITSCH_1st_RAK](http://twitter.com/search?q=%23KITSCH_1st_RAK) | N/A |
+| 50 | [#komchadluekaward19](http://twitter.com/search?q=%23komchadluekaward19) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-28 15:18:18 UTC`
+📆 Last Updated: `2023-03-28 17:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#POLALB](http://twitter.com/search?q=%23POLALB) | N/A |
-| 2 | [#ALBPOL](http://twitter.com/search?q=%23ALBPOL) | N/A |
-| 3 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 4 | [Salamon](http://twitter.com/search?q=Salamon) | N/A |
-| 5 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
-| 6 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
-| 7 | [karol świderski](http://twitter.com/search?q=karol+%c5%9bwiderski) | N/A |
-| 8 | [#jesteśgotowy](http://twitter.com/search?q=%23jeste%c5%9bgotowy) | N/A |
-| 9 | [#FaszyzmStop](http://twitter.com/search?q=%23FaszyzmStop) | N/A |
-| 10 | [#wiarapytacoacha](http://twitter.com/search?q=%23wiarapytacoacha) | N/A |
-| 11 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
-| 12 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 13 | [międzynarodowy dzień teatru](http://twitter.com/search?q=mi%c4%99dzynarodowy+dzie%c5%84+teatru) | N/A |
-| 14 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 15 | [Belki](http://twitter.com/search?q=Belki) | N/A |
-| 16 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 17 | [wieczny](http://twitter.com/search?q=wieczny) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [śnieg](http://twitter.com/search?q=%c5%9bnieg) | N/A |
-| 20 | [Rekolekcje](http://twitter.com/search?q=Rekolekcje) | N/A |
-| 21 | [netanjahu](http://twitter.com/search?q=netanjahu) | N/A |
-| 22 | [Strzelcach Opolskich](http://twitter.com/search?q=Strzelcach+Opolskich) | N/A |
-| 23 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
-| 24 | [Narodowym](http://twitter.com/search?q=Narodowym) | N/A |
-| 25 | [albańczycy](http://twitter.com/search?q=alba%c5%84czycy) | N/A |
-| 26 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 27 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 28 | [mazguła](http://twitter.com/search?q=mazgu%c5%82a) | N/A |
-| 29 | [karol linetty](http://twitter.com/search?q=karol+linetty) | N/A |
-| 30 | [Wehrmachtu](http://twitter.com/search?q=Wehrmachtu) | N/A |
-| 31 | [Białorusinów](http://twitter.com/search?q=Bia%c5%82orusin%c3%b3w) | N/A |
-| 32 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 34 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
-| 35 | [albańczyków](http://twitter.com/search?q=alba%c5%84czyk%c3%b3w) | N/A |
-| 36 | [panie dominiku](http://twitter.com/search?q=panie+dominiku) | N/A |
-| 37 | [Kaniuk](http://twitter.com/search?q=Kaniuk) | N/A |
-| 38 | [Bukareszcie](http://twitter.com/search?q=Bukareszcie) | N/A |
-| 39 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 40 | [Gądecki](http://twitter.com/search?q=G%c4%85decki) | N/A |
-| 41 | [Frankowski](http://twitter.com/search?q=Frankowski) | N/A |
-| 42 | [Malcie](http://twitter.com/search?q=Malcie) | N/A |
-| 43 | [opolu](http://twitter.com/search?q=opolu) | N/A |
-| 44 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 45 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 46 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 47 | [mołdawia](http://twitter.com/search?q=mo%c5%82dawia) | N/A |
-| 48 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 49 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 50 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 2 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 3 | [#ALBPOL](http://twitter.com/search?q=%23ALBPOL) | N/A |
+| 4 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 5 | [Fit for 55](http://twitter.com/search?q=Fit+for+55) | N/A |
+| 6 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 7 | [Salamon](http://twitter.com/search?q=Salamon) | N/A |
+| 8 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
+| 9 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 10 | [Białorusinów](http://twitter.com/search?q=Bia%c5%82orusin%c3%b3w) | N/A |
+| 11 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 12 | [#FaszyzmStop](http://twitter.com/search?q=%23FaszyzmStop) | N/A |
+| 13 | [Świderski](http://twitter.com/search?q=%c5%9awiderski) | N/A |
+| 14 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
+| 15 | [#pistopolexit](http://twitter.com/search?q=%23pistopolexit) | N/A |
+| 16 | [#wiarapytacoacha](http://twitter.com/search?q=%23wiarapytacoacha) | N/A |
+| 17 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 18 | [Belki](http://twitter.com/search?q=Belki) | N/A |
+| 19 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
+| 20 | [międzynarodowy dzień teatru](http://twitter.com/search?q=mi%c4%99dzynarodowy+dzie%c5%84+teatru) | N/A |
+| 21 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 22 | [Do 2035](http://twitter.com/search?q=Do+2035) | N/A |
+| 23 | [Rekolekcje](http://twitter.com/search?q=Rekolekcje) | N/A |
+| 24 | [czarnek](http://twitter.com/search?q=czarnek) | N/A |
+| 25 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 26 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 27 | [wieczny](http://twitter.com/search?q=wieczny) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [libicki](http://twitter.com/search?q=libicki) | N/A |
+| 30 | [Bukareszcie](http://twitter.com/search?q=Bukareszcie) | N/A |
+| 31 | [Śnieg](http://twitter.com/search?q=%c5%9anieg) | N/A |
+| 32 | [albańczycy](http://twitter.com/search?q=alba%c5%84czycy) | N/A |
+| 33 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
+| 34 | [Narodowym](http://twitter.com/search?q=Narodowym) | N/A |
+| 35 | [mazguła](http://twitter.com/search?q=mazgu%c5%82a) | N/A |
+| 36 | [Rosjan](http://twitter.com/search?q=Rosjan) | N/A |
+| 37 | [U-19](http://twitter.com/search?q=U-19) | U-19 is an abbreviation for Under 19, which refers to a sports team or athlete who is under the age of 19. It is commonly used in youth sports leagues and tournaments. |
+| 38 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 39 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 40 | [Strzelcach Opolskich](http://twitter.com/search?q=Strzelcach+Opolskich) | N/A |
+| 41 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 42 | [Ruchu Chorzów](http://twitter.com/search?q=Ruchu+Chorz%c3%b3w) | N/A |
+| 43 | [Pereirą](http://twitter.com/search?q=Pereir%c4%85) | N/A |
+| 44 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 45 | [Gramatyka](http://twitter.com/search?q=Gramatyka) | N/A |
+| 46 | [Rada UE](http://twitter.com/search?q=Rada+UE) | N/A |
+| 47 | [ekstraklasa](http://twitter.com/search?q=ekstraklasa) | N/A |
+| 48 | [Ministrem](http://twitter.com/search?q=Ministrem) | N/A |
+| 49 | [Gądecki](http://twitter.com/search?q=G%c4%85decki) | N/A |
+| 50 | [Wehrmachtu](http://twitter.com/search?q=Wehrmachtu) | N/A |
 
 
 

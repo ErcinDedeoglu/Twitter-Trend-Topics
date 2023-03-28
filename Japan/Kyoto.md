@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-03-28 15:19:05 UTC`
+📆 Last Updated: `2023-03-28 17:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [保津川下り](http://twitter.com/search?q=%e4%bf%9d%e6%b4%a5%e5%b7%9d%e4%b8%8b%e3%82%8a) | N/A |
+| 1 | [#シン・仮面ライダー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%b3%e3%83%bb%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc) | N/A |
 | 2 | [船頭さん](http://twitter.com/search?q=%e8%88%b9%e9%a0%ad%e3%81%95%e3%82%93) | N/A |
-| 3 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
+| 3 | [#g0mr火](http://twitter.com/search?q=%23g0mr%e7%81%ab) | N/A |
 | 4 | [ジャリエル](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%aa%e3%82%a8%e3%83%ab) | N/A |
-| 5 | [#あなたが街中で出くわした芸能人](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e8%a1%97%e4%b8%ad%e3%81%a7%e5%87%ba%e3%81%8f%e3%82%8f%e3%81%97%e3%81%9f%e8%8a%b8%e8%83%bd%e4%ba%ba) | N/A |
-| 6 | [スクラビルド](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%a9%e3%83%93%e3%83%ab%e3%83%89) | N/A |
-| 7 | [ティアーズ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%bc%e3%82%ba) | N/A |
-| 8 | [ライデル](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%87%e3%83%ab) | N/A |
-| 9 | [#咎人クエッション](http://twitter.com/search?q=%23%e5%92%8e%e4%ba%ba%e3%82%af%e3%82%a8%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 10 | [モイネロ](http://twitter.com/search?q=%e3%83%a2%e3%82%a4%e3%83%8d%e3%83%ad) | N/A |
-| 11 | [青沼英二](http://twitter.com/search?q=%e9%9d%92%e6%b2%bc%e8%8b%b1%e4%ba%8c) | N/A |
+| 5 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
+| 6 | [#あなたが街中で出くわした芸能人](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e8%a1%97%e4%b8%ad%e3%81%a7%e5%87%ba%e3%81%8f%e3%82%8f%e3%81%97%e3%81%9f%e8%8a%b8%e8%83%bd%e4%ba%ba) | N/A |
+| 7 | [#Qrzone](http://twitter.com/search?q=%23Qrzone) | N/A |
+| 8 | [ティアーズ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%bc%e3%82%ba) | N/A |
+| 9 | [ライデル](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%87%e3%83%ab) | N/A |
+| 10 | [スクラビルド](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%a9%e3%83%93%e3%83%ab%e3%83%89) | N/A |
+| 11 | [#星野源ANN](http://twitter.com/search?q=%23%e6%98%9f%e9%87%8e%e6%ba%90ANN) | #星野源ANN is a hashtag used on social media to refer to the Japanese singer-songwriter, Hoshino Gen. It is a combination of his name and the acronym ANN, which stands for "All Night Nippon," a popular radio show in Japan. In English, it translates to "Hoshino Gen All Night Nippon." |
 | 12 | [ブレワイ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%af%e3%82%a4) | N/A |
-| 13 | [#マイクラバーサス](http://twitter.com/search?q=%23%e3%83%9e%e3%82%a4%e3%82%af%e3%83%a9%e3%83%90%e3%83%bc%e3%82%b5%e3%82%b9) | N/A |
-| 14 | [オーバーヘッド](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%90%e3%83%bc%e3%83%98%e3%83%83%e3%83%89) | N/A |
-| 15 | [ウルトラハンド](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%8f%e3%83%b3%e3%83%89) | N/A |
-| 16 | [ドーナツ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84) | N/A |
-| 17 | [プロコン](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%82%b3%e3%83%b3) | N/A |
+| 13 | [キューバ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90) | N/A |
+| 14 | [モイネロ](http://twitter.com/search?q=%e3%83%a2%e3%82%a4%e3%83%8d%e3%83%ad) | N/A |
+| 15 | [青沼英二](http://twitter.com/search?q=%e9%9d%92%e6%b2%bc%e8%8b%b1%e4%ba%8c) | N/A |
+| 16 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
+| 17 | [第432回](http://twitter.com/search?q=%e7%ac%ac432%e5%9b%9e) | N/A |
 | 18 | [ノンさん](http://twitter.com/search?q=%e3%83%8e%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 19 | [#真白友也誕生祭2023](http://twitter.com/search?q=%23%e7%9c%9f%e7%99%bd%e5%8f%8b%e4%b9%9f%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 20 | [コロンビア](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2) | N/A |
-| 21 | [#スバこよスペース](http://twitter.com/search?q=%23%e3%82%b9%e3%83%90%e3%81%93%e3%82%88%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9) | N/A |
-| 22 | [トーレルーフ](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%83%ac%e3%83%ab%e3%83%bc%e3%83%95) | N/A |
-| 23 | [契約破棄](http://twitter.com/search?q=%e5%a5%91%e7%b4%84%e7%a0%b4%e6%a3%84) | N/A |
-| 24 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
-| 25 | [制限選手](http://twitter.com/search?q=%e5%88%b6%e9%99%90%e9%81%b8%e6%89%8b) | N/A |
-| 26 | [ライマル](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%9e%e3%83%ab) | N/A |
-| 27 | [開幕直前](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e7%9b%b4%e5%89%8d) | N/A |
-| 28 | [青沼さん](http://twitter.com/search?q=%e9%9d%92%e6%b2%bc%e3%81%95%e3%82%93) | N/A |
-| 29 | [友也くん](http://twitter.com/search?q=%e5%8f%8b%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
-| 30 | [ゼルダ新作](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e6%96%b0%e4%bd%9c) | N/A |
-| 31 | [セブンルール](http://twitter.com/search?q=%e3%82%bb%e3%83%96%e3%83%b3%e3%83%ab%e3%83%bc%e3%83%ab) | N/A |
-| 32 | [クラフト要素](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%95%e3%83%88%e8%a6%81%e7%b4%a0) | N/A |
-| 33 | [モドレコ](http://twitter.com/search?q=%e3%83%a2%e3%83%89%e3%83%ac%e3%82%b3) | N/A |
-| 34 | [ホシくん](http://twitter.com/search?q=%e3%83%9b%e3%82%b7%e3%81%8f%e3%82%93) | ホシくん is a character from the Japanese manga series, "Kochikame". He is a police officer who works in the fictional Ryōgoku Police Station. His name literally translates to "Star Boy" and he is known for his strong sense of justice and loyalty to his friends. |
-| 35 | [たじ松松](http://twitter.com/search?q=%e3%81%9f%e3%81%98%e6%9d%be%e6%9d%be) | N/A |
-| 36 | [アフライ](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%83%a9%e3%82%a4) | アフライ (afurai) is a Japanese word that means "fried". It is often used to refer to fried food, such as tempura or karaage. In English, it can be translated as "fried". |
-| 37 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
-| 38 | [第432回](http://twitter.com/search?q=%e7%ac%ac432%e5%9b%9e) | N/A |
-| 39 | [トラジャ](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%b8%e3%83%a3) | トラジャ is a Japanese word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult to deal with or an obstacle that needs to be overcome. |
-| 40 | [ファルカオ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e3%82%ab%e3%82%aa) | N/A |
-| 41 | [セットアッパー](http://twitter.com/search?q=%e3%82%bb%e3%83%83%e3%83%88%e3%82%a2%e3%83%83%e3%83%91%e3%83%bc) | N/A |
-| 42 | [ゼルダ完成](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e5%ae%8c%e6%88%90) | N/A |
-| 43 | [カリステ](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%86) | N/A |
-| 44 | [カフカの変身](http://twitter.com/search?q=%e3%82%ab%e3%83%95%e3%82%ab%e3%81%ae%e5%a4%89%e8%ba%ab) | N/A |
-| 45 | [キューバの選手](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%90%e3%81%ae%e9%81%b8%e6%89%8b) | N/A |
-| 46 | [ハニーディップ](http://twitter.com/search?q=%e3%83%8f%e3%83%8b%e3%83%bc%e3%83%87%e3%82%a3%e3%83%83%e3%83%97) | N/A |
-| 47 | [上田綺世](http://twitter.com/search?q=%e4%b8%8a%e7%94%b0%e7%b6%ba%e4%b8%96) | N/A |
-| 48 | [有機ELモデル](http://twitter.com/search?q=%e6%9c%89%e6%a9%9fEL%e3%83%a2%e3%83%87%e3%83%ab) | N/A |
-| 49 | [TJポーズ](http://twitter.com/search?q=TJ%e3%83%9d%e3%83%bc%e3%82%ba) | N/A |
-| 50 | [たじまちゅ](http://twitter.com/search?q=%e3%81%9f%e3%81%98%e3%81%be%e3%81%a1%e3%82%85) | N/A |
+| 19 | [たじ松松](http://twitter.com/search?q=%e3%81%9f%e3%81%98%e6%9d%be%e6%9d%be) | N/A |
+| 20 | [制限選手](http://twitter.com/search?q=%e5%88%b6%e9%99%90%e9%81%b8%e6%89%8b) | N/A |
+| 21 | [契約破棄](http://twitter.com/search?q=%e5%a5%91%e7%b4%84%e7%a0%b4%e6%a3%84) | N/A |
+| 22 | [ウルトラハンド](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%8f%e3%83%b3%e3%83%89) | N/A |
+| 23 | [おつじぇる](http://twitter.com/search?q=%e3%81%8a%e3%81%a4%e3%81%98%e3%81%87%e3%82%8b) | N/A |
+| 24 | [友也くん](http://twitter.com/search?q=%e5%8f%8b%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
+| 25 | [プロコン](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%82%b3%e3%83%b3) | N/A |
+| 26 | [TAIGAさん](http://twitter.com/search?q=TAIGA%e3%81%95%e3%82%93) | N/A |
+| 27 | [ゼルダ新作](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e6%96%b0%e4%bd%9c) | N/A |
+| 28 | [開幕直前](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e7%9b%b4%e5%89%8d) | N/A |
+| 29 | [ライマル](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%9e%e3%83%ab) | N/A |
+| 30 | [トーレルーフ](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%83%ac%e3%83%ab%e3%83%bc%e3%83%95) | N/A |
+| 31 | [山ちゃん](http://twitter.com/search?q=%e5%b1%b1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 32 | [志村けんさん](http://twitter.com/search?q=%e5%bf%97%e6%9d%91%e3%81%91%e3%82%93%e3%81%95%e3%82%93) | N/A |
+| 33 | [アマゾンズ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%82%be%e3%83%b3%e3%82%ba) | N/A |
+| 34 | [ドーナツ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84) | N/A |
+| 35 | [クモオーグ編](http://twitter.com/search?q=%e3%82%af%e3%83%a2%e3%82%aa%e3%83%bc%e3%82%b0%e7%b7%a8) | N/A |
+| 36 | [青沼さん](http://twitter.com/search?q=%e9%9d%92%e6%b2%bc%e3%81%95%e3%82%93) | N/A |
+| 37 | [アイキャッチ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ad%e3%83%a3%e3%83%83%e3%83%81) | アイキャッチ is a Japanese term that refers to an image or phrase used to attract attention and draw people in. In English, it is often referred to as a "catchphrase" or "tagline". It is commonly used in advertising and marketing campaigns to help create a memorable impression of the product or service being promoted. |
+| 38 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
+| 39 | [アサちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%b5%e3%81%a1%e3%82%83%e3%82%93) | アサちゃん is a nickname for the Japanese character Asahi, who is a popular mascot for the Asahi Soft Drinks company. The name translates to "Asahi-chan" in English. |
+| 40 | [オーバーヘッド](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%90%e3%83%bc%e3%83%98%e3%83%83%e3%83%89) | N/A |
+| 41 | [チーム者](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0%e8%80%85) | N/A |
+| 42 | [仮面ライダー公開記念](http://twitter.com/search?q=%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e5%85%ac%e9%96%8b%e8%a8%98%e5%bf%b5) | N/A |
+| 43 | [サイン練習](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%b3%e7%b7%b4%e7%bf%92) | N/A |
+| 44 | [全員彼氏](http://twitter.com/search?q=%e5%85%a8%e5%93%a1%e5%bd%bc%e6%b0%8f) | N/A |
+| 45 | [中日ファン](http://twitter.com/search?q=%e4%b8%ad%e6%97%a5%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 46 | [カフカの変身](http://twitter.com/search?q=%e3%82%ab%e3%83%95%e3%82%ab%e3%81%ae%e5%a4%89%e8%ba%ab) | N/A |
+| 47 | [カリステ](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%82%b9%e3%83%86) | N/A |
+| 48 | [ジェルくん](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ab%e3%81%8f%e3%82%93) | ジェルくん is a character from the Japanese manga series "Gel-Shocker". He is a robotic creature created by the evil organization Gel-Shocker to help them take over the world. His name literally translates to "Gel Boy". |
+| 49 | [山里さん](http://twitter.com/search?q=%e5%b1%b1%e9%87%8c%e3%81%95%e3%82%93) | N/A |
+| 50 | [クラフト要素](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%95%e3%83%88%e8%a6%81%e7%b4%a0) | N/A |
 
 
 

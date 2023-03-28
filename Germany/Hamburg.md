@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-28 15:18:22 UTC`
+📆 Last Updated: `2023-03-28 17:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
-| 2 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 3 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 4 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
-| 5 | [#berlin2030klimaneutral](http://twitter.com/search?q=%23berlin2030klimaneutral) | N/A |
-| 6 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 7 | [#hartaberfair](http://twitter.com/search?q=%23hartaberfair) | #hartaberfair is a German phrase that translates to "fair and square" or "just and fair". It is used to express the idea of fairness and justice in a situation. |
-| 8 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 9 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 10 | [Volksentscheid](http://twitter.com/search?q=Volksentscheid) | N/A |
-| 11 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 12 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 13 | [Pro Controller](http://twitter.com/search?q=Pro+Controller) | N/A |
-| 14 | [Wiederzulassung](http://twitter.com/search?q=Wiederzulassung) | N/A |
-| 15 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 16 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 17 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 18 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 19 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 20 | [Stromtrassen](http://twitter.com/search?q=Stromtrassen) | N/A |
-| 21 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 1 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 2 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
+| 3 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 4 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 5 | [#Bach](http://twitter.com/search?q=%23Bach) | N/A |
+| 6 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 7 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 8 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 9 | [Wofür](http://twitter.com/search?q=Wof%c3%bcr) | N/A |
+| 10 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 11 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
+| 12 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 13 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 14 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 15 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 16 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 17 | [Wiederzulassung](http://twitter.com/search?q=Wiederzulassung) | N/A |
+| 18 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 19 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 20 | [Gesamtwerk](http://twitter.com/search?q=Gesamtwerk) | N/A |
+| 21 | [Volksentscheid](http://twitter.com/search?q=Volksentscheid) | N/A |
 | 22 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 23 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 25 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 26 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 27 | ['Möbel'](http://twitter.com/search?q=%27M%c3%b6bel%27) | N/A |
-| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 29 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 30 | ['schattenspiele'](http://twitter.com/search?q=%27schattenspiele%27) | N/A |
-| 31 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 32 | [Wofür](http://twitter.com/search?q=Wof%c3%bcr) | N/A |
-| 33 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 34 | [Milliardär](http://twitter.com/search?q=Milliard%c3%a4r) | N/A |
-| 35 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
-| 36 | [tilo](http://twitter.com/search?q=tilo) | N/A |
+| 23 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 24 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 25 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 28 | [Sascha](http://twitter.com/search?q=Sascha) | N/A |
+| 29 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 30 | [Nadja](http://twitter.com/search?q=Nadja) | N/A |
+| 31 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 32 | [Sport und Politik](http://twitter.com/search?q=Sport+und+Politik) | N/A |
+| 33 | ['Möbel'](http://twitter.com/search?q=%27M%c3%b6bel%27) | N/A |
+| 34 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 35 | [Olympischen Spiele](http://twitter.com/search?q=Olympischen+Spiele) | N/A |
+| 36 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 37 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
-| 38 | [Klamroth](http://twitter.com/search?q=Klamroth) | N/A |
-| 39 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 40 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
-| 41 | [tanzt du](http://twitter.com/search?q=tanzt+du) | N/A |
-| 42 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 43 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 44 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 45 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 46 | [Planet](http://twitter.com/search?q=Planet) | N/A |
-| 47 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
-| 48 | [Anschreiben](http://twitter.com/search?q=Anschreiben) | N/A |
-| 49 | [nein-stimmen](http://twitter.com/search?q=nein-stimmen) | N/A |
-| 50 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 38 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 39 | [Milliardär](http://twitter.com/search?q=Milliard%c3%a4r) | N/A |
+| 40 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
+| 41 | [Boykott](http://twitter.com/search?q=Boykott) | N/A |
+| 42 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 43 | [Stromtrassen](http://twitter.com/search?q=Stromtrassen) | N/A |
+| 44 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 45 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 46 | [Auszeichnung](http://twitter.com/search?q=Auszeichnung) | N/A |
+| 47 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 48 | [Pro Controller](http://twitter.com/search?q=Pro+Controller) | N/A |
+| 49 | [Adenauer und Kohl](http://twitter.com/search?q=Adenauer+und+Kohl) | N/A |
+| 50 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 
 
 

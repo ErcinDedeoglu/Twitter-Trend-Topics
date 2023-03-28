@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-28 15:18:30 UTC`
+📆 Last Updated: `2023-03-28 17:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,50 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#AUSvECU](http://twitter.com/search?q=%23AUSvECU) | N/A |
 | 2 | [For You](http://twitter.com/search?q=For+You) | N/A |
 | 3 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 4 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 4 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 5 | [Caro](http://twitter.com/search?q=Caro) | N/A |
 | 6 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 7 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 8 | [#Socceroos](http://twitter.com/search?q=%23Socceroos) | N/A |
-| 9 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 8 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 9 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 10 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
 | 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 12 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 15 | [America](http://twitter.com/search?q=America) | N/A |
-| 16 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 14 | [America](http://twitter.com/search?q=America) | N/A |
+| 15 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 16 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
 | 17 | [Deng](http://twitter.com/search?q=Deng) | N/A |
-| 18 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
-| 19 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 20 | [Richard Boyle](http://twitter.com/search?q=Richard+Boyle) | N/A |
-| 21 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 23 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 24 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
-| 25 | [aami](http://twitter.com/search?q=aami) | N/A |
-| 26 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 27 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 28 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 29 | [Matt and Gerry](http://twitter.com/search?q=Matt+and+Gerry) | N/A |
-| 30 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 31 | [joe gauci](http://twitter.com/search?q=joe+gauci) | N/A |
-| 32 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
-| 33 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 34 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 35 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
-| 36 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 37 | [Devlin](http://twitter.com/search?q=Devlin) | N/A |
-| 38 | [$ltr](http://twitter.com/search?q=%24ltr) | N/A |
-| 39 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 40 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
-| 41 | [indue](http://twitter.com/search?q=indue) | N/A |
-| 42 | [Latitude](http://twitter.com/search?q=Latitude) | N/A |
-| 43 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 44 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 45 | [Clarko](http://twitter.com/search?q=Clarko) | N/A |
-| 46 | [Ban RACISTS for LIFE](http://twitter.com/search?q=Ban+RACISTS+for+LIFE) | N/A |
-| 47 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 48 | [Jack Wighton](http://twitter.com/search?q=Jack+Wighton) | N/A |
+| 18 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 21 | [richard boyle](http://twitter.com/search?q=richard+boyle) | N/A |
+| 22 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
+| 23 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 24 | [Aami](http://twitter.com/search?q=Aami) | N/A |
+| 25 | [lyndall](http://twitter.com/search?q=lyndall) | N/A |
+| 26 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 27 | [Matt and Gerry](http://twitter.com/search?q=Matt+and+Gerry) | N/A |
+| 28 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 29 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
+| 30 | [joe gauci](http://twitter.com/search?q=joe+gauci) | N/A |
+| 31 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
+| 32 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 33 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 34 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
+| 35 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 36 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 37 | [$LTR](http://twitter.com/search?q=%24LTR) | N/A |
+| 38 | [Devlin](http://twitter.com/search?q=Devlin) | N/A |
+| 39 | [indue](http://twitter.com/search?q=indue) | N/A |
+| 40 | [Latitude](http://twitter.com/search?q=Latitude) | N/A |
+| 41 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 42 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
+| 43 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 44 | [Clarko](http://twitter.com/search?q=Clarko) | N/A |
+| 45 | [Ban RACISTS for LIFE](http://twitter.com/search?q=Ban+RACISTS+for+LIFE) | N/A |
+| 46 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 47 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
 
 
 

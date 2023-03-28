@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-28 15:18:38 UTC`
+📆 Last Updated: `2023-03-28 17:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
-| 2 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
-| 3 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 4 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
-| 5 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 1 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 2 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
+| 3 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
+| 4 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
+| 5 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
 | 6 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 7 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
 | 8 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
 | 9 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 10 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 11 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 12 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 13 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
-| 14 | [HURT ROAD](http://twitter.com/search?q=HURT+ROAD) | N/A |
-| 15 | [Ced Domingo](http://twitter.com/search?q=Ced+Domingo) | N/A |
-| 16 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
-| 17 | [Set 5](http://twitter.com/search?q=Set+5) | N/A |
-| 18 | [mama mary](http://twitter.com/search?q=mama+mary) | N/A |
-| 19 | [Ponggay](http://twitter.com/search?q=Ponggay) | N/A |
-| 20 | [gumabao](http://twitter.com/search?q=gumabao) | N/A |
-| 21 | [JOSHCULLEN WT MV SHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+MV+SHOOT) | N/A |
-| 22 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 23 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 24 | [soonyoung](http://twitter.com/search?q=soonyoung) | N/A |
-| 25 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 26 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 27 | [Go CCS](http://twitter.com/search?q=Go+CCS) | N/A |
-| 28 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 29 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 30 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
-| 31 | [All for You](http://twitter.com/search?q=All+for+You) | N/A |
-| 32 | [AIAH AMING BINIBINI](http://twitter.com/search?q=AIAH+AMING+BINIBINI) | N/A |
-| 33 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
-| 34 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
-| 35 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
-| 36 | [YML RHYTHM MV OUTNOW](http://twitter.com/search?q=YML+RHYTHM+MV+OUTNOW) | N/A |
-| 37 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 38 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 39 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
-| 40 | [ALL FOR LUVE](http://twitter.com/search?q=ALL+FOR+LUVE) | N/A |
-| 41 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 42 | [KomChadLuek IDF](http://twitter.com/search?q=KomChadLuek+IDF) | N/A |
-| 43 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
-| 44 | [Cheng](http://twitter.com/search?q=Cheng) | N/A |
-| 45 | [tyang](http://twitter.com/search?q=tyang) | N/A |
-| 46 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 47 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 48 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 49 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 10 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 11 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
+| 12 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 13 | [mama mary](http://twitter.com/search?q=mama+mary) | N/A |
+| 14 | [doyoung](http://twitter.com/search?q=doyoung) | N/A |
+| 15 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
+| 16 | [sulli](http://twitter.com/search?q=sulli) | N/A |
+| 17 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
+| 18 | [Ced Domingo](http://twitter.com/search?q=Ced+Domingo) | N/A |
+| 19 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
+| 20 | [soonyoung](http://twitter.com/search?q=soonyoung) | N/A |
+| 21 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
+| 22 | [JOSHCULLEN WT MV SHOOT](http://twitter.com/search?q=JOSHCULLEN+WT+MV+SHOOT) | N/A |
+| 23 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 24 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 25 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 26 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
+| 27 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
+| 28 | [aiah aming binibini](http://twitter.com/search?q=aiah+aming+binibini) | N/A |
+| 29 | [YML RHYTHM MV OUTNOW](http://twitter.com/search?q=YML+RHYTHM+MV+OUTNOW) | N/A |
+| 30 | [TOTS](http://twitter.com/search?q=TOTS) | N/A |
+| 31 | [Jinyoung](http://twitter.com/search?q=Jinyoung) | N/A |
+| 32 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 33 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 34 | [#LIVENATIONPHBASTOS](http://twitter.com/search?q=%23LIVENATIONPHBASTOS) | N/A |
+| 35 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 36 | [#IRENE](http://twitter.com/search?q=%23IRENE) | N/A |
+| 37 | [#DOJAEJUNG_TopNote](http://twitter.com/search?q=%23DOJAEJUNG_TopNote) | N/A |
+| 38 | [#JonaxxGYWKab20](http://twitter.com/search?q=%23JonaxxGYWKab20) | N/A |
+| 39 | [#SB19EventGuestingsVlog](http://twitter.com/search?q=%23SB19EventGuestingsVlog) | N/A |
+| 40 | [#레드벨벳](http://twitter.com/search?q=%23%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3) | N/A |
+| 41 | [#D12toLOVESTRUCK](http://twitter.com/search?q=%23D12toLOVESTRUCK) | N/A |
+| 42 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 43 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
+| 44 | [#DLBoldMove](http://twitter.com/search?q=%23DLBoldMove) | N/A |
+| 45 | [#WILDTONIGHTInTheDarkEP4](http://twitter.com/search?q=%23WILDTONIGHTInTheDarkEP4) | N/A |
+| 46 | [#JeremyG_BINI](http://twitter.com/search?q=%23JeremyG_BINI) | N/A |
+| 47 | [#CELINEBYHEDISLIMANE](http://twitter.com/search?q=%23CELINEBYHEDISLIMANE) | N/A |
+| 48 | [#YML_Rhythm](http://twitter.com/search?q=%23YML_Rhythm) | N/A |
+| 49 | [#SourandSweet](http://twitter.com/search?q=%23SourandSweet) | N/A |
 
 
 

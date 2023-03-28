@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-28 15:19:11 UTC`
+📆 Last Updated: `2023-03-28 17:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
-| 2 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
-| 3 | [baltkrievijā](http://twitter.com/search?q=baltkrievij%c4%81) | N/A |
-| 4 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
-| 5 | [valmiera](http://twitter.com/search?q=valmiera) | N/A |
-| 6 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 7 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 8 | [TİKKO](http://twitter.com/search?q=T%c4%b0KKO) | N/A |
-| 9 | [latvijas radio](http://twitter.com/search?q=latvijas+radio) | N/A |
-| 10 | [brektes](http://twitter.com/search?q=brektes) | N/A |
-| 11 | [Airbaltic](http://twitter.com/search?q=Airbaltic) | N/A |
-| 12 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 13 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 14 | [Diez](http://twitter.com/search?q=Diez) | N/A |
-| 15 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
+| 1 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 2 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
+| 3 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
+| 4 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
+| 5 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
+| 6 | [valmiera](http://twitter.com/search?q=valmiera) | N/A |
+| 7 | [Putinu](http://twitter.com/search?q=Putinu) | N/A |
+| 8 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
+| 9 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 10 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 11 | [Latvijas Radio](http://twitter.com/search?q=Latvijas+Radio) | N/A |
+| 12 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 13 | [Tikko](http://twitter.com/search?q=Tikko) | N/A |
+| 14 | [brektes](http://twitter.com/search?q=brektes) | N/A |
+| 15 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
 | 16 | [Nebūs](http://twitter.com/search?q=Neb%c5%abs) | N/A |
-| 17 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 18 | [kasko](http://twitter.com/search?q=kasko) | N/A |
-| 19 | [#PaToLaiku](http://twitter.com/search?q=%23PaToLaiku) | N/A |
-| 20 | [Francijā](http://twitter.com/search?q=Francij%c4%81) | N/A |
-| 21 | [Bauskas](http://twitter.com/search?q=Bauskas) | N/A |
-| 22 | [visiem](http://twitter.com/search?q=visiem) | N/A |
-| 23 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
-| 24 | [pīlēns](http://twitter.com/search?q=p%c4%abl%c4%93ns) | N/A |
-| 25 | [Principā](http://twitter.com/search?q=Princip%c4%81) | N/A |
+| 17 | [Baltkrievijā](http://twitter.com/search?q=Baltkrievij%c4%81) | N/A |
+| 18 | [Diez](http://twitter.com/search?q=Diez) | N/A |
+| 19 | [Francijā](http://twitter.com/search?q=Francij%c4%81) | N/A |
+| 20 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 21 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
+| 22 | [Kasko](http://twitter.com/search?q=Kasko) | N/A |
+| 23 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
+| 24 | [visiem](http://twitter.com/search?q=visiem) | N/A |
+| 25 | [beidz](http://twitter.com/search?q=beidz) | N/A |
 | 26 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 27 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 28 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
-| 29 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
-| 30 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
-| 31 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | N/A |
-| 32 | [Nevaru](http://twitter.com/search?q=Nevaru) | N/A |
-| 33 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
-| 34 | [Eiropā](http://twitter.com/search?q=Eirop%c4%81) | N/A |
-| 35 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 36 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
-| 37 | [Jautājums](http://twitter.com/search?q=Jaut%c4%81jums) | N/A |
-| 38 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
-| 39 | [beidz](http://twitter.com/search?q=beidz) | N/A |
-| 40 | [somijas](http://twitter.com/search?q=somijas) | N/A |
-| 41 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 42 | [Vienotība](http://twitter.com/search?q=Vienot%c4%abba) | N/A |
-| 43 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 44 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
-| 45 | [Toties](http://twitter.com/search?q=Toties) | N/A |
-| 46 | [vajadzēja](http://twitter.com/search?q=vajadz%c4%93ja) | N/A |
-| 47 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 48 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 49 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
-| 50 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 27 | [principā](http://twitter.com/search?q=princip%c4%81) | N/A |
+| 28 | [pīlēns](http://twitter.com/search?q=p%c4%abl%c4%93ns) | N/A |
+| 29 | [#PaToLaiku](http://twitter.com/search?q=%23PaToLaiku) | N/A |
+| 30 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 31 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 32 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
+| 33 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
+| 34 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | N/A |
+| 35 | [Bauskas](http://twitter.com/search?q=Bauskas) | N/A |
+| 36 | [Nevaru](http://twitter.com/search?q=Nevaru) | N/A |
+| 37 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
+| 38 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
+| 39 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
+| 40 | [Bija](http://twitter.com/search?q=Bija) | N/A |
+| 41 | [Vienotība](http://twitter.com/search?q=Vienot%c4%abba) | N/A |
+| 42 | [Eiropā](http://twitter.com/search?q=Eirop%c4%81) | N/A |
+| 43 | [somijas](http://twitter.com/search?q=somijas) | N/A |
+| 44 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
+| 45 | [labdien](http://twitter.com/search?q=labdien) | N/A |
+| 46 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
+| 47 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
+| 48 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | N/A |
+| 49 | [Dieva](http://twitter.com/search?q=Dieva) | N/A |
+| 50 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
 
 
 

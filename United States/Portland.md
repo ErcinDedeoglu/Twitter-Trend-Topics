@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-03-28 15:19:02 UTC`
+📆 Last Updated: `2023-03-28 17:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Blazers](http://twitter.com/search?q=Blazers) | Blazers are a type of jacket, typically with a single row of buttons and a notched lapel. They are usually made from wool or cotton and can be worn as part of a suit or as a separate item. Blazers are often associated with formal occasions, but they can also be worn casually. |
-| 2 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 3 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 4 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 6 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 7 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 8 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 9 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 10 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
-| 11 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 12 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
-| 13 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 14 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
-| 15 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
-| 16 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
-| 17 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 18 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 19 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 1 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 2 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 3 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 4 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 5 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 6 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 7 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
+| 8 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 9 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 10 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
+| 11 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 12 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 13 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 14 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
+| 15 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 16 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 17 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
+| 18 | [Dakich](http://twitter.com/search?q=Dakich) | N/A |
+| 19 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
 | 20 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 21 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 22 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 23 | [Jun Kazama](http://twitter.com/search?q=Jun+Kazama) | N/A |
-| 24 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
-| 25 | [Pro Controller](http://twitter.com/search?q=Pro+Controller) | N/A |
+| 21 | [Officers](http://twitter.com/search?q=Officers) | N/A |
+| 22 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 23 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
+| 24 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 25 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
 | 26 | [Biggest Surprise](http://twitter.com/search?q=Biggest+Surprise) | N/A |
-| 27 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 28 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 29 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 30 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 31 | [Matt LaFleur](http://twitter.com/search?q=Matt+LaFleur) | Matt LaFleur is the current head coach of the Green Bay Packers, an American football team in the National Football League (NFL). His name is derived from the French phrase "la fleur," which means "the flower." |
-| 32 | [Nuts & Bolts](http://twitter.com/search?q=Nuts+%26+Bolts) | N/A |
-| 33 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 34 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 35 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 36 | [Michael Collazo](http://twitter.com/search?q=Michael+Collazo) | N/A |
-| 37 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
-| 38 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
-| 39 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
-| 40 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 41 | [Officers](http://twitter.com/search?q=Officers) | N/A |
-| 42 | [Wordle 647 X](http://twitter.com/search?q=Wordle+647+X) | N/A |
-| 43 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 44 | [maisie peters](http://twitter.com/search?q=maisie+peters) | N/A |
-| 45 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
-| 46 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 47 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
-| 48 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 49 | [$BABA](http://twitter.com/search?q=%24BABA) | N/A |
+| 27 | [Sean K](http://twitter.com/search?q=Sean+K) | N/A |
+| 28 | [Best Pitcher](http://twitter.com/search?q=Best+Pitcher) | N/A |
+| 29 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 30 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 31 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 32 | [Rex Engelbert](http://twitter.com/search?q=Rex+Engelbert) | N/A |
+| 33 | [Officer Rex](http://twitter.com/search?q=Officer+Rex) | N/A |
+| 34 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 35 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 36 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 37 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 38 | [License](http://twitter.com/search?q=License) | N/A |
+| 39 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 40 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 41 | [LA Pride](http://twitter.com/search?q=LA+Pride) | N/A |
+| 42 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 43 | [Paul Schrader](http://twitter.com/search?q=Paul+Schrader) | N/A |
+| 44 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 45 | [Jayden Epps](http://twitter.com/search?q=Jayden+Epps) | N/A |
+| 46 | [MNPD](http://twitter.com/search?q=MNPD) | N/A |
+| 47 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 48 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 49 | [Jun Kazama](http://twitter.com/search?q=Jun+Kazama) | N/A |
 
 
 

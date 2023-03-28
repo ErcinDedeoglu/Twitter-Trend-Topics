@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-28 15:19:15 UTC`
+📆 Last Updated: `2023-03-28 17:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 1 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
 | 2 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 3 | [#Desalia2023](http://twitter.com/search?q=%23Desalia2023) | N/A |
+| 3 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
 | 4 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 5 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
-| 6 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 5 | [#Desalia2023](http://twitter.com/search?q=%23Desalia2023) | N/A |
+| 6 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
 | 7 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 9 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
-| 10 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
-| 11 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 12 | [El Supremo](http://twitter.com/search?q=El+Supremo) | N/A |
-| 13 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 14 | [Chris Redfield](http://twitter.com/search?q=Chris+Redfield) | N/A |
-| 15 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
-| 16 | [#ElJuegoDelAlmaNetflix](http://twitter.com/search?q=%23ElJuegoDelAlmaNetflix) | N/A |
-| 17 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 18 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 19 | [#APOYOROCIO28M](http://twitter.com/search?q=%23APOYOROCIO28M) | N/A |
-| 20 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
-| 21 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 22 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 23 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 24 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
-| 25 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 26 | [Intertoto](http://twitter.com/search?q=Intertoto) | N/A |
-| 27 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 28 | [#YoMeRebelo28M](http://twitter.com/search?q=%23YoMeRebelo28M) | N/A |
-| 29 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 30 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 32 | [Ley de Familias](http://twitter.com/search?q=Ley+de+Familias) | N/A |
-| 33 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
-| 34 | [Bellerín](http://twitter.com/search?q=Beller%c3%adn) | N/A |
-| 35 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
-| 36 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 37 | [Gameplay](http://twitter.com/search?q=Gameplay) | N/A |
-| 38 | [Cannavaro](http://twitter.com/search?q=Cannavaro) | N/A |
-| 39 | [Kingdom Hearts](http://twitter.com/search?q=Kingdom+Hearts) | N/A |
-| 40 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 41 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 42 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 43 | [Sants](http://twitter.com/search?q=Sants) | N/A |
-| 44 | [Sabaly](http://twitter.com/search?q=Sabaly) | N/A |
-| 45 | [Playeros](http://twitter.com/search?q=Playeros) | N/A |
-| 46 | [Interior](http://twitter.com/search?q=Interior) | N/A |
-| 47 | [Bruselas](http://twitter.com/search?q=Bruselas) | N/A |
-| 48 | [En Asturias](http://twitter.com/search?q=En+Asturias) | N/A |
-| 49 | [Para Ti](http://twitter.com/search?q=Para+Ti) | N/A |
-| 50 | [Pique](http://twitter.com/search?q=Pique) | N/A |
+| 8 | [Los Mossos](http://twitter.com/search?q=Los+Mossos) | N/A |
+| 9 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 10 | [#Pecado28Mar](http://twitter.com/search?q=%23Pecado28Mar) | N/A |
+| 11 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 12 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
+| 13 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
+| 14 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
+| 15 | [Supremo](http://twitter.com/search?q=Supremo) | N/A |
+| 16 | [El Bolton](http://twitter.com/search?q=El+Bolton) | N/A |
+| 17 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 18 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 19 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 20 | [Claire Redfield](http://twitter.com/search?q=Claire+Redfield) | N/A |
+| 21 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 22 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
+| 23 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
+| 24 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 25 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
+| 26 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 27 | [#YoMeRebelo28M](http://twitter.com/search?q=%23YoMeRebelo28M) | N/A |
+| 28 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 29 | [Chris Redfield](http://twitter.com/search?q=Chris+Redfield) | N/A |
+| 30 | [Intertoto](http://twitter.com/search?q=Intertoto) | N/A |
+| 31 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
+| 32 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 33 | [Belén Esteban](http://twitter.com/search?q=Bel%c3%a9n+Esteban) | N/A |
+| 34 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 35 | [Ley de Familias](http://twitter.com/search?q=Ley+de+Familias) | N/A |
+| 36 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 37 | [Bellerín](http://twitter.com/search?q=Beller%c3%adn) | N/A |
+| 38 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 39 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 40 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 41 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
+| 42 | [Sants](http://twitter.com/search?q=Sants) | N/A |
+| 43 | [El CGPJ](http://twitter.com/search?q=El+CGPJ) | N/A |
+| 44 | [Gameplay](http://twitter.com/search?q=Gameplay) | N/A |
+| 45 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 46 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
+| 47 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
+| 48 | [Interior](http://twitter.com/search?q=Interior) | N/A |
+| 49 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
+| 50 | [Ione Belarra](http://twitter.com/search?q=Ione+Belarra) | N/A |
 
 
 
