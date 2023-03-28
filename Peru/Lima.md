@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-28 07:19:08 UTC`
+📆 Last Updated: `2023-03-28 08:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Peru](</Peru>)
 | 5 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 6 | [Paranaense](http://twitter.com/search?q=Paranaense) | N/A |
 | 7 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
-| 8 | [Valera](http://twitter.com/search?q=Valera) | N/A |
-| 9 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 10 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 11 | [Maicelo](http://twitter.com/search?q=Maicelo) | N/A |
-| 12 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 13 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 14 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 15 | [Makanaky](http://twitter.com/search?q=Makanaky) | N/A |
+| 8 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 9 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
+| 10 | [Maicelo](http://twitter.com/search?q=Maicelo) | N/A |
+| 11 | [Valera](http://twitter.com/search?q=Valera) | N/A |
+| 12 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
+| 13 | [Makanaky](http://twitter.com/search?q=Makanaky) | N/A |
+| 14 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 15 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
 | 16 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
 | 17 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 18 | [River Plate](http://twitter.com/search?q=River+Plate) | River Plate is a professional football club based in Buenos Aires, Argentina. The club's name is derived from the English name for the Río de la Plata, which literally translates to "Silver River" in English. River Plate is one of the most successful and popular teams in Argentina, having won 36 domestic titles and numerous international trophies. |
 | 19 | [Policía Española](http://twitter.com/search?q=Polic%c3%ada+Espa%c3%b1ola) | N/A |
 | 20 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
 | 21 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 22 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 23 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
-| 24 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
-| 25 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 26 | [Gimnasia LP](http://twitter.com/search?q=Gimnasia+LP) | N/A |
-| 27 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 28 | [#seleccionperuana](http://twitter.com/search?q=%23seleccionperuana) | N/A |
-| 29 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 30 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
-| 31 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 32 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 33 | [Españoles](http://twitter.com/search?q=Espa%c3%b1oles) | N/A |
-| 34 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
-| 35 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
-| 36 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
-| 37 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
-| 38 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
-| 39 | [EsSalud](http://twitter.com/search?q=EsSalud) | N/A |
-| 40 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 41 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 42 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 43 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
-| 44 | [job 2](http://twitter.com/search?q=job+2) | N/A |
-| 45 | [Mujica](http://twitter.com/search?q=Mujica) | Mujica is a Spanish surname. It is derived from the Latin word "mucia," which means "soft." In English, the name Mujica can be translated to mean "gentle" or "tender." |
-| 46 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 22 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
+| 23 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 24 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 25 | [gimnasia lp](http://twitter.com/search?q=gimnasia+lp) | N/A |
+| 26 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 27 | [#seleccionperuana](http://twitter.com/search?q=%23seleccionperuana) | N/A |
+| 28 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 29 | [Mandela](http://twitter.com/search?q=Mandela) | N/A |
+| 30 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 31 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 32 | [Españoles](http://twitter.com/search?q=Espa%c3%b1oles) | N/A |
+| 33 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
+| 34 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
+| 35 | [Kimberly](http://twitter.com/search?q=Kimberly) | N/A |
+| 36 | [EsSalud](http://twitter.com/search?q=EsSalud) | N/A |
+| 37 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 38 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
+| 39 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 40 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
+| 41 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 42 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
+| 43 | [job 2](http://twitter.com/search?q=job+2) | N/A |
+| 44 | [Mujica](http://twitter.com/search?q=Mujica) | Mujica is a Spanish surname. It is derived from the Latin word "mucia," which means "soft." In English, the name Mujica can be translated to mean "gentle" or "tender." |
+| 45 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 46 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
 | 47 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 48 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 49 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 50 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
+| 48 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
+| 49 | [Cancillería](http://twitter.com/search?q=Canciller%c3%ada) | Cancillería is the Spanish word for a government department responsible for foreign affairs. In English, it is often referred to as the Ministry of Foreign Affairs or the Department of State. |
+| 50 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
 
 
 

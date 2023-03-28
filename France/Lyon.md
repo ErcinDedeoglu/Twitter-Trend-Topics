@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-03-28 07:19:12 UTC`
+📆 Last Updated: `2023-03-28 08:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [France](</France>)
 | 4 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
 | 5 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
 | 6 | [#CDISCOUNTMISSIONMARS](http://twitter.com/search?q=%23CDISCOUNTMISSIONMARS) | N/A |
-| 7 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
+| 7 | [#EtSiOnSeRencontrait](http://twitter.com/search?q=%23EtSiOnSeRencontrait) | N/A |
 | 8 | [Lyon 3](http://twitter.com/search?q=Lyon+3) | N/A |
 | 9 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 10 | [Deebot X1e OMNI](http://twitter.com/search?q=Deebot+X1e+OMNI) | N/A |
-| 11 | [Amphitryon](http://twitter.com/search?q=Amphitryon) | N/A |
-| 12 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 10 | [DEEBOT X1e OMNI](http://twitter.com/search?q=DEEBOT+X1e+OMNI) | N/A |
+| 11 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 12 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
 | 13 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 14 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
-| 15 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 16 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 17 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 18 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 19 | [Fiché S](http://twitter.com/search?q=Fich%c3%a9+S) | N/A |
+| 14 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
+| 15 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 16 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 17 | [Amphitryon](http://twitter.com/search?q=Amphitryon) | N/A |
+| 18 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 19 | [Delort](http://twitter.com/search?q=Delort) | N/A |
 | 20 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 21 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 22 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
-| 23 | [Irlande](http://twitter.com/search?q=Irlande) | N/A |
-| 24 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 25 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 26 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 27 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
-| 28 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 29 | [Moun](http://twitter.com/search?q=Moun) | N/A |
-| 30 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 31 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 32 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 33 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 34 | [Chauffe](http://twitter.com/search?q=Chauffe) | N/A |
-| 35 | [Bonjour Lyla](http://twitter.com/search?q=Bonjour+Lyla) | N/A |
+| 21 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 22 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 23 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
+| 24 | [Fiché S](http://twitter.com/search?q=Fich%c3%a9+S) | N/A |
+| 25 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 26 | [Irlande](http://twitter.com/search?q=Irlande) | N/A |
+| 27 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 28 | [Apolline](http://twitter.com/search?q=Apolline) | N/A |
+| 29 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 31 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 32 | [Bonjour Sandrine](http://twitter.com/search?q=Bonjour+Sandrine) | N/A |
+| 33 | [DeLorean](http://twitter.com/search?q=DeLorean) | N/A |
+| 34 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 35 | [Chauffe](http://twitter.com/search?q=Chauffe) | N/A |
 | 36 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 37 | [Camille](http://twitter.com/search?q=Camille) | N/A |
-| 38 | [Bonjour Thierry](http://twitter.com/search?q=Bonjour+Thierry) | N/A |
-| 39 | [Jonathan Clauss](http://twitter.com/search?q=Jonathan+Clauss) | N/A |
-| 40 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 41 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 42 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 43 | [Garonne](http://twitter.com/search?q=Garonne) | N/A |
-| 44 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 45 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 46 | [Les Irlandais](http://twitter.com/search?q=Les+Irlandais) | N/A |
-| 47 | [BRGM](http://twitter.com/search?q=BRGM) | N/A |
-| 48 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 49 | [Tour Eiffel](http://twitter.com/search?q=Tour+Eiffel) | N/A |
-| 50 | [Laurent Berger](http://twitter.com/search?q=Laurent+Berger) | N/A |
+| 37 | [Bonjour Lyla](http://twitter.com/search?q=Bonjour+Lyla) | N/A |
+| 38 | [Pour Vous](http://twitter.com/search?q=Pour+Vous) | N/A |
+| 39 | [Camille](http://twitter.com/search?q=Camille) | N/A |
+| 40 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 41 | [Panot](http://twitter.com/search?q=Panot) | N/A |
+| 42 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
+| 43 | [Assises](http://twitter.com/search?q=Assises) | N/A |
+| 44 | [Laurent Berger](http://twitter.com/search?q=Laurent+Berger) | N/A |
+| 45 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 46 | [Prisca](http://twitter.com/search?q=Prisca) | N/A |
+| 47 | [Mathias](http://twitter.com/search?q=Mathias) | N/A |
+| 48 | [Tour Eiffel](http://twitter.com/search?q=Tour+Eiffel) | N/A |
+| 49 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 50 | [Apaiser](http://twitter.com/search?q=Apaiser) | N/A |
 
 
 

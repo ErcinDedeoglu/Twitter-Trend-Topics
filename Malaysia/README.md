@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-28 07:19:57 UTC`
+📆 Last Updated: `2023-03-28 08:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Malaysia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 1 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
 | 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 3 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 4 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 5 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
-| 6 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
-| 7 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 8 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 9 | [#JacksonWang](http://twitter.com/search?q=%23JacksonWang) | N/A |
-| 10 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 5 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
+| 6 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 7 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
+| 8 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 9 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 10 | [#JacksonWang](http://twitter.com/search?q=%23JacksonWang) | N/A |
 | 11 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 12 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 13 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 14 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 15 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 16 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 17 | [PriceCatcher](http://twitter.com/search?q=PriceCatcher) | N/A |
-| 18 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
-| 19 | [HEIZE](http://twitter.com/search?q=HEIZE) | N/A |
+| 12 | [#DOJAEJUNGiscoming](http://twitter.com/search?q=%23DOJAEJUNGiscoming) | N/A |
+| 13 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
+| 14 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
+| 15 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
+| 16 | [Diana](http://twitter.com/search?q=Diana) | N/A |
+| 17 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 18 | [pricecatcher](http://twitter.com/search?q=pricecatcher) | N/A |
+| 19 | [Heize](http://twitter.com/search?q=Heize) | N/A |
 | 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 21 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
 | 22 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 23 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 24 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 25 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 26 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 23 | [KitaJaga](http://twitter.com/search?q=KitaJaga) | N/A |
+| 24 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 25 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 26 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
 | 27 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 28 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 29 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
-| 30 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 31 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 32 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 33 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 34 | [animoca](http://twitter.com/search?q=animoca) | N/A |
-| 35 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
-| 36 | [Parking](http://twitter.com/search?q=Parking) | N/A |
-| 37 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
-| 38 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 39 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 40 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
-| 41 | [Tun M](http://twitter.com/search?q=Tun+M) | N/A |
-| 42 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 43 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 44 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 45 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 46 | [Singaporeans](http://twitter.com/search?q=Singaporeans) | N/A |
-| 47 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 48 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 49 | [Park Jihoon](http://twitter.com/search?q=Park+Jihoon) | N/A |
-| 50 | [Happy Birthday Lisa](http://twitter.com/search?q=Happy+Birthday+Lisa) | N/A |
+| 28 | [Mahathir](http://twitter.com/search?q=Mahathir) | N/A |
+| 29 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 30 | [Tun M](http://twitter.com/search?q=Tun+M) | N/A |
+| 31 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 32 | [jaehyun](http://twitter.com/search?q=jaehyun) | Jaehyun is a Korean given name, derived from the Chinese characters 載賢 (jié xián). It is composed of two characters: 載 (jié), meaning “to carry” or “to convey”, and 賢 (xián), meaning “virtuous” or “wise”. Together, the name can be interpreted to mean “carrying wisdom”. |
+| 33 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
+| 34 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
+| 35 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 36 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
+| 37 | [animoca](http://twitter.com/search?q=animoca) | N/A |
+| 38 | [Rakyat](http://twitter.com/search?q=Rakyat) | N/A |
+| 39 | [Parking](http://twitter.com/search?q=Parking) | N/A |
+| 40 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 41 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
+| 42 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 43 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
+| 44 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 45 | [Anwar](http://twitter.com/search?q=Anwar) | N/A |
+| 46 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 47 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 48 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 49 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 50 | [Singaporeans](http://twitter.com/search?q=Singaporeans) | N/A |
 
 
 

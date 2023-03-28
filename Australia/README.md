@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-28 07:19:52 UTC`
+📆 Last Updated: `2023-03-28 08:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Australia
 | 4 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 5 | [Labor](http://twitter.com/search?q=Labor) | N/A |
 | 6 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 7 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 7 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
 | 8 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 9 | [Tahnee](http://twitter.com/search?q=Tahnee) | N/A |
+| 9 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
 | 10 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
 | 11 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
 | 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 13 | [Deeming](http://twitter.com/search?q=Deeming) | N/A |
-| 14 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 15 | [#4Corners](http://twitter.com/search?q=%234Corners) | N/A |
-| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 17 | [#guncontrol](http://twitter.com/search?q=%23guncontrol) | N/A |
+| 13 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 14 | [#4Corners](http://twitter.com/search?q=%234Corners) | N/A |
+| 15 | [Deeming](http://twitter.com/search?q=Deeming) | N/A |
+| 16 | [#guncontrol](http://twitter.com/search?q=%23guncontrol) | N/A |
+| 17 | [Aston](http://twitter.com/search?q=Aston) | N/A |
 | 18 | [Richard Boyle](http://twitter.com/search?q=Richard+Boyle) | N/A |
-| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 20 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 21 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 22 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 23 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 24 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
-| 25 | [Clarko](http://twitter.com/search?q=Clarko) | N/A |
-| 26 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 27 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 19 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
+| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 21 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 22 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 23 | [America](http://twitter.com/search?q=America) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 26 | [Nathan Broad](http://twitter.com/search?q=Nathan+Broad) | N/A |
+| 27 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
 | 28 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
-| 29 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 30 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 29 | [Clarko](http://twitter.com/search?q=Clarko) | N/A |
+| 30 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
 | 31 | [macedonian jesus](http://twitter.com/search?q=macedonian+jesus) | N/A |
-| 32 | [Latitude](http://twitter.com/search?q=Latitude) | N/A |
-| 33 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 34 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 35 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 33 | [Latitude](http://twitter.com/search?q=Latitude) | N/A |
+| 34 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 35 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
 | 36 | [Ban RACISTS for LIFE](http://twitter.com/search?q=Ban+RACISTS+for+LIFE) | N/A |
-| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 38 | [$LTR](http://twitter.com/search?q=%24LTR) | N/A |
-| 39 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 40 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 41 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 42 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 43 | [Rowan Dean](http://twitter.com/search?q=Rowan+Dean) | N/A |
-| 44 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
-| 45 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
-| 46 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 47 | [Gail](http://twitter.com/search?q=Gail) | N/A |
-| 48 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 49 | [Manfred Schaefer](http://twitter.com/search?q=Manfred+Schaefer) | N/A |
-| 50 | [Jack Wighton](http://twitter.com/search?q=Jack+Wighton) | N/A |
+| 37 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 38 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 39 | [$LTR](http://twitter.com/search?q=%24LTR) | N/A |
+| 40 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 41 | [Gail](http://twitter.com/search?q=Gail) | N/A |
+| 42 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 43 | [Jack Wighton](http://twitter.com/search?q=Jack+Wighton) | N/A |
+| 44 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 45 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
+| 46 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 47 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 48 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 49 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 50 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
 
 
 

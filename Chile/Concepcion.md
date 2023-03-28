@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-28 07:19:05 UTC`
+📆 Last Updated: `2023-03-28 08:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for [Chile](</Chile>)
 | 10 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
 | 11 | [Suazo](http://twitter.com/search?q=Suazo) | N/A |
 | 12 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
-| 13 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
-| 14 | [Rita Olivares](http://twitter.com/search?q=Rita+Olivares) | N/A |
+| 13 | [Rita Olivares](http://twitter.com/search?q=Rita+Olivares) | N/A |
+| 14 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
 | 15 | [Paulo Díaz](http://twitter.com/search?q=Paulo+D%c3%adaz) | N/A |
 | 16 | [Brereton](http://twitter.com/search?q=Brereton) | N/A |
 | 17 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for [Chile](</Chile>)
 | 23 | [Mauricio Israel](http://twitter.com/search?q=Mauricio+Israel) | N/A |
 | 24 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
 | 25 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 26 | [Indultado](http://twitter.com/search?q=Indultado) | N/A |
-| 27 | [#CopaLibertadores2023](http://twitter.com/search?q=%23CopaLibertadores2023) | N/A |
-| 28 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 30 | [#BoricIndultaDelincuentes](http://twitter.com/search?q=%23BoricIndultaDelincuentes) | N/A |
-| 31 | [Sargento](http://twitter.com/search?q=Sargento) | N/A |
-| 32 | [Nain](http://twitter.com/search?q=Nain) | N/A |
-| 33 | [Milad](http://twitter.com/search?q=Milad) | N/A |
-| 34 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 35 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
-| 36 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
-| 37 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 38 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 39 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 40 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
-| 41 | [garín](http://twitter.com/search?q=gar%c3%adn) | N/A |
+| 26 | [#CopaLibertadores2023](http://twitter.com/search?q=%23CopaLibertadores2023) | N/A |
+| 27 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [Sargento](http://twitter.com/search?q=Sargento) | N/A |
+| 30 | [Milad](http://twitter.com/search?q=Milad) | N/A |
+| 31 | [#BoricIndultaDelincuentes](http://twitter.com/search?q=%23BoricIndultaDelincuentes) | N/A |
+| 32 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 33 | [Delgado](http://twitter.com/search?q=Delgado) | N/A |
+| 34 | [Valdés](http://twitter.com/search?q=Vald%c3%a9s) | N/A |
+| 35 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 36 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
+| 37 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 38 | [Nain](http://twitter.com/search?q=Nain) | N/A |
+| 39 | [garín](http://twitter.com/search?q=gar%c3%adn) | N/A |
+| 40 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 41 | [Palma](http://twitter.com/search?q=Palma) | N/A |
 | 42 | [Claudia Schüler](http://twitter.com/search?q=Claudia+Sch%c3%bcler) | N/A |
 | 43 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 44 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 45 | [meneses](http://twitter.com/search?q=meneses) | N/A |
-| 46 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 47 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 48 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 49 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 50 | [Marsella](http://twitter.com/search?q=Marsella) | N/A |
+| 44 | [meneses](http://twitter.com/search?q=meneses) | N/A |
+| 45 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 46 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 47 | [Nuñez](http://twitter.com/search?q=Nu%c3%b1ez) | N/A |
+| 48 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 49 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 50 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
 
 
 

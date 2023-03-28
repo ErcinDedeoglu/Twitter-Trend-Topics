@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-28 07:18:59 UTC`
+📆 Last Updated: `2023-03-28 08:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [For You](http://twitter.com/search?q=For+You) | N/A |
 | 2 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 3 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
-| 4 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 5 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 6 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
-| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 8 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 9 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
-| 10 | [William Hill](http://twitter.com/search?q=William+Hill) | N/A |
-| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 12 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
-| 13 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 14 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 15 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
-| 16 | [Wordle 647 X](http://twitter.com/search?q=Wordle+647+X) | N/A |
-| 17 | [America](http://twitter.com/search?q=America) | N/A |
+| 4 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 5 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
+| 6 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 7 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 8 | [William Hill](http://twitter.com/search?q=William+Hill) | N/A |
+| 9 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
+| 10 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 11 | [Richard Madeley](http://twitter.com/search?q=Richard+Madeley) | N/A |
+| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 13 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 14 | [Nick Robinson](http://twitter.com/search?q=Nick+Robinson) | N/A |
+| 15 | [America](http://twitter.com/search?q=America) | N/A |
+| 16 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 17 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 | 18 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 19 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 20 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 19 | [Wordle 647 X](http://twitter.com/search?q=Wordle+647+X) | N/A |
+| 20 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 21 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
 | 22 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 23 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 24 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
-| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 26 | [James Bowman](http://twitter.com/search?q=James+Bowman) | N/A |
-| 27 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
-| 28 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 29 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 30 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
-| 31 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 32 | [NASUWT](http://twitter.com/search?q=NASUWT) | N/A |
-| 33 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
-| 34 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
-| 35 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
-| 36 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 37 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 38 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
-| 39 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 41 | [Independence](http://twitter.com/search?q=Independence) | N/A |
-| 42 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 43 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 44 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
-| 45 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 46 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
-| 47 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 48 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 23 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 24 | [James Bowman](http://twitter.com/search?q=James+Bowman) | N/A |
+| 25 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 26 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 27 | [Andrew Bailey](http://twitter.com/search?q=Andrew+Bailey) | N/A |
+| 28 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 29 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 30 | [Awaab Ishak](http://twitter.com/search?q=Awaab+Ishak) | N/A |
+| 31 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 32 | [Stellini](http://twitter.com/search?q=Stellini) | N/A |
+| 33 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 34 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
+| 35 | [NASUWT](http://twitter.com/search?q=NASUWT) | N/A |
+| 36 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 37 | [Dunblane](http://twitter.com/search?q=Dunblane) | N/A |
+| 38 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 39 | [Gove](http://twitter.com/search?q=Gove) | Gove is a surname of English origin. It is derived from the Old English word "gof," meaning "a smith or metalworker." The name is most commonly found in the United Kingdom, particularly in the counties of Devon and Cornwall. |
+| 40 | [The SNP](http://twitter.com/search?q=The+SNP) | N/A |
+| 41 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 42 | [Independence](http://twitter.com/search?q=Independence) | N/A |
+| 43 | [EHRC](http://twitter.com/search?q=EHRC) | N/A |
+| 44 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 45 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 46 | [Poole Harbour](http://twitter.com/search?q=Poole+Harbour) | N/A |
+| 47 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 48 | [Daily Mail](http://twitter.com/search?q=Daily+Mail) | N/A |
 
 
 

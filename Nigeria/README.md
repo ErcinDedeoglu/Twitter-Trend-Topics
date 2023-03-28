@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-28 07:19:57 UTC`
+📆 Last Updated: `2023-03-28 08:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mummy GO](http://twitter.com/search?q=Mummy+GO) | N/A |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#peakramadangoodness](http://twitter.com/search?q=%23peakramadangoodness) | N/A |
-| 4 | [#TinubuForPrison](http://twitter.com/search?q=%23TinubuForPrison) | N/A |
-| 5 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
-| 6 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
-| 7 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
+| 2 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 3 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
+| 6 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 7 | [#TinubuForPrison](http://twitter.com/search?q=%23TinubuForPrison) | N/A |
 | 8 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 9 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
-| 10 | [Whitemoney](http://twitter.com/search?q=Whitemoney) | N/A |
-| 11 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 12 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
-| 13 | [Afrobeats Artist of the Year](http://twitter.com/search?q=Afrobeats+Artist+of+the+Year) | N/A |
-| 14 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 15 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 16 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
+| 9 | [#untilmoneydouspart](http://twitter.com/search?q=%23untilmoneydouspart) | N/A |
+| 10 | [My Mystery](http://twitter.com/search?q=My+Mystery) | N/A |
+| 11 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
+| 12 | [Whitemoney](http://twitter.com/search?q=Whitemoney) | N/A |
+| 13 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
+| 14 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
+| 15 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 16 | [What God](http://twitter.com/search?q=What+God) | N/A |
 | 17 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 18 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 19 | [Hourly](http://twitter.com/search?q=Hourly) | N/A |
-| 20 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 21 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 22 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 23 | [congratulations mayor](http://twitter.com/search?q=congratulations+mayor) | N/A |
-| 24 | [Davido and Asake](http://twitter.com/search?q=Davido+and+Asake) | N/A |
-| 25 | [2023 iHeartRadio Music Awards](http://twitter.com/search?q=2023+iHeartRadio+Music+Awards) | N/A |
-| 26 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
-| 27 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
-| 28 | [unstoppable yemi cregx](http://twitter.com/search?q=unstoppable+yemi+cregx) | N/A |
-| 29 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 30 | [Loya](http://twitter.com/search?q=Loya) | N/A |
-| 31 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 32 | [Mixlr](http://twitter.com/search?q=Mixlr) | N/A |
-| 33 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 34 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 35 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 36 | [Dano](http://twitter.com/search?q=Dano) | N/A |
-| 37 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 38 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 39 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 40 | [Fani-Kayode](http://twitter.com/search?q=Fani-Kayode) | N/A |
-| 41 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 42 | [Pere](http://twitter.com/search?q=Pere) | N/A |
-| 43 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 44 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 45 | [Benz](http://twitter.com/search?q=Benz) | N/A |
-| 46 | [BOSS LADY PHYNA](http://twitter.com/search?q=BOSS+LADY+PHYNA) | N/A |
-| 47 | [Urhobo](http://twitter.com/search?q=Urhobo) | N/A |
-| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 49 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
-| 50 | [phyno](http://twitter.com/search?q=phyno) | N/A |
+| 19 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 20 | [David Lyon](http://twitter.com/search?q=David+Lyon) | N/A |
+| 21 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
+| 22 | [Hourly](http://twitter.com/search?q=Hourly) | N/A |
+| 23 | [PHYNA MAKES MONEY](http://twitter.com/search?q=PHYNA+MAKES+MONEY) | N/A |
+| 24 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 25 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 26 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
+| 27 | [congratulations mayor](http://twitter.com/search?q=congratulations+mayor) | N/A |
+| 28 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 29 | [Davido and Asake](http://twitter.com/search?q=Davido+and+Asake) | N/A |
+| 30 | [Afrobeats Artist of the Year](http://twitter.com/search?q=Afrobeats+Artist+of+the+Year) | N/A |
+| 31 | [2023 iHeartRadio Music Awards](http://twitter.com/search?q=2023+iHeartRadio+Music+Awards) | N/A |
+| 32 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
+| 33 | [UNSTOPPABLE YEMI CREGX](http://twitter.com/search?q=UNSTOPPABLE+YEMI+CREGX) | N/A |
+| 34 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 35 | [Loya](http://twitter.com/search?q=Loya) | N/A |
+| 36 | [Urhobo](http://twitter.com/search?q=Urhobo) | N/A |
+| 37 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 38 | [Mixlr](http://twitter.com/search?q=Mixlr) | N/A |
+| 39 | [Dano](http://twitter.com/search?q=Dano) | N/A |
+| 40 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 41 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 43 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 44 | [Fani-Kayode](http://twitter.com/search?q=Fani-Kayode) | N/A |
+| 45 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 46 | [Pere](http://twitter.com/search?q=Pere) | N/A |
+| 47 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 48 | [Mr. Peter Obi](http://twitter.com/search?q=Mr.+Peter+Obi) | N/A |
+| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 50 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 
 
 

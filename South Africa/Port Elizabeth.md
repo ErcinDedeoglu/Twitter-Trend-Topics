@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-28 07:19:32 UTC`
+📆 Last Updated: `2023-03-28 08:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
 | 4 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
 | 5 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 6 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
-| 7 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 8 | [THABANG APPRECIATES AFRICA](http://twitter.com/search?q=THABANG+APPRECIATES+AFRICA) | N/A |
-| 9 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 10 | [Unborn](http://twitter.com/search?q=Unborn) | N/A |
-| 11 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 12 | [quinton de kock](http://twitter.com/search?q=quinton+de+kock) | N/A |
-| 13 | [Prep](http://twitter.com/search?q=Prep) | N/A |
-| 14 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
-| 15 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 16 | [NQF LEVEL 8](http://twitter.com/search?q=NQF+LEVEL+8) | N/A |
-| 17 | [COLGATE AND THEMBABROLY](http://twitter.com/search?q=COLGATE+AND+THEMBABROLY) | N/A |
-| 18 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
-| 19 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
-| 20 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
-| 21 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
-| 22 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 23 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
-| 24 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
-| 25 | [Mthiya](http://twitter.com/search?q=Mthiya) | N/A |
-| 26 | [THEMBABROLY IS HUMAN](http://twitter.com/search?q=THEMBABROLY+IS+HUMAN) | N/A |
-| 27 | [Chris Excel](http://twitter.com/search?q=Chris+Excel) | N/A |
-| 28 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
-| 29 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 30 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 31 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 32 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 6 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 7 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
+| 8 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
+| 9 | [Unborn](http://twitter.com/search?q=Unborn) | N/A |
+| 10 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 11 | [Kedibone](http://twitter.com/search?q=Kedibone) | N/A |
+| 12 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 13 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
+| 14 | [Chris Excel](http://twitter.com/search?q=Chris+Excel) | N/A |
+| 15 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
+| 16 | [PrEP](http://twitter.com/search?q=PrEP) | N/A |
+| 17 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
+| 18 | [Yenza](http://twitter.com/search?q=Yenza) | N/A |
+| 19 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 20 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
+| 21 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 22 | [NQF LEVEL 8](http://twitter.com/search?q=NQF+LEVEL+8) | N/A |
+| 23 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 24 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
+| 25 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
+| 26 | [COLGATE AND THEMBABROLY](http://twitter.com/search?q=COLGATE+AND+THEMBABROLY) | N/A |
+| 27 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
+| 28 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
+| 29 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
+| 30 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
+| 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 32 | [THEMBABROLY IS HUMAN](http://twitter.com/search?q=THEMBABROLY+IS+HUMAN) | N/A |
 | 33 | [Generations](http://twitter.com/search?q=Generations) | N/A |
-| 34 | [Uncle Waffles](http://twitter.com/search?q=Uncle+Waffles) | N/A |
-| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 36 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 37 | [VOTE IPELENG](http://twitter.com/search?q=VOTE+IPELENG) | N/A |
-| 38 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 39 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 40 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 41 | [yahyuppiyah](http://twitter.com/search?q=yahyuppiyah) | N/A |
-| 42 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 43 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
-| 44 | [Mfundi Vundla](http://twitter.com/search?q=Mfundi+Vundla) | N/A |
-| 45 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 46 | [Candy Crush](http://twitter.com/search?q=Candy+Crush) | N/A |
-| 47 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 48 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 34 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
+| 35 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 36 | [Kasi](http://twitter.com/search?q=Kasi) | N/A |
+| 37 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 40 | [VOTE IPELENG](http://twitter.com/search?q=VOTE+IPELENG) | N/A |
+| 41 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
+| 42 | [yahyuppiyah](http://twitter.com/search?q=yahyuppiyah) | N/A |
+| 43 | [Mfundi Vundla](http://twitter.com/search?q=Mfundi+Vundla) | N/A |
+| 44 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 45 | [Noise](http://twitter.com/search?q=Noise) | N/A |
+| 46 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 47 | [Varsity Shield](http://twitter.com/search?q=Varsity+Shield) | N/A |
+| 48 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
 
 
 
