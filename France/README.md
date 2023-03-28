@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-28 06:19:00 UTC`
+📆 Last Updated: `2023-03-28 07:19:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for France
 | 1 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
 | 2 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 3 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 4 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 5 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
+| 4 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
+| 5 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
 | 6 | [#CDISCOUNTMISSIONMARS](http://twitter.com/search?q=%23CDISCOUNTMISSIONMARS) | N/A |
-| 7 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
-| 8 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 9 | [DEEBOT X1e OMNI](http://twitter.com/search?q=DEEBOT+X1e+OMNI) | N/A |
-| 10 | [Lyon 3](http://twitter.com/search?q=Lyon+3) | N/A |
-| 11 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 12 | [martine froger](http://twitter.com/search?q=martine+froger) | N/A |
-| 13 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
-| 14 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
-| 15 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 16 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 7 | [#EtSiOnSeRencontrait](http://twitter.com/search?q=%23EtSiOnSeRencontrait) | N/A |
+| 8 | [Lyon 3](http://twitter.com/search?q=Lyon+3) | N/A |
+| 9 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 10 | [Deebot X1e OMNI](http://twitter.com/search?q=Deebot+X1e+OMNI) | N/A |
+| 11 | [Amphitryon](http://twitter.com/search?q=Amphitryon) | N/A |
+| 12 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 13 | [BRAV-M](http://twitter.com/search?q=BRAV-M) | N/A |
+| 14 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 15 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 16 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 17 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
 | 18 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 19 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 20 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 21 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 22 | [Irlande](http://twitter.com/search?q=Irlande) | N/A |
-| 23 | [Fiché S](http://twitter.com/search?q=Fich%c3%a9+S) | N/A |
-| 24 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 19 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 20 | [Israël](http://twitter.com/search?q=Isra%c3%abl) | N/A |
+| 21 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 22 | [Fiché S](http://twitter.com/search?q=Fich%c3%a9+S) | N/A |
+| 23 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
+| 24 | [Irlande](http://twitter.com/search?q=Irlande) | N/A |
 | 25 | [Ariège](http://twitter.com/search?q=Ari%c3%a8ge) | N/A |
-| 26 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 27 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 28 | [Chauffe](http://twitter.com/search?q=Chauffe) | N/A |
-| 29 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 30 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 31 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 32 | [les irlandais](http://twitter.com/search?q=les+irlandais) | N/A |
-| 33 | [Apaiser](http://twitter.com/search?q=Apaiser) | N/A |
-| 34 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 35 | [Bonjour Didier](http://twitter.com/search?q=Bonjour+Didier) | N/A |
-| 36 | [Jonathan Clauss](http://twitter.com/search?q=Jonathan+Clauss) | N/A |
-| 37 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 38 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 39 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 40 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 41 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 42 | [Raffarin](http://twitter.com/search?q=Raffarin) | N/A |
-| 43 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 44 | [Chairman](http://twitter.com/search?q=Chairman) | N/A |
-| 45 | [BRGM](http://twitter.com/search?q=BRGM) | N/A |
-| 46 | [Bonjour Thierry](http://twitter.com/search?q=Bonjour+Thierry) | N/A |
-| 47 | [France Connect](http://twitter.com/search?q=France+Connect) | N/A |
-| 48 | [Tour Eiffel](http://twitter.com/search?q=Tour+Eiffel) | N/A |
-| 49 | [Taurine](http://twitter.com/search?q=Taurine) | N/A |
-| 50 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 26 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 27 | [Martine Froger](http://twitter.com/search?q=Martine+Froger) | N/A |
+| 28 | [Moun](http://twitter.com/search?q=Moun) | N/A |
+| 29 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 30 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 32 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 33 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 34 | [Chauffe](http://twitter.com/search?q=Chauffe) | N/A |
+| 35 | [Bonjour Lyla](http://twitter.com/search?q=Bonjour+Lyla) | N/A |
+| 36 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 37 | [Camille](http://twitter.com/search?q=Camille) | N/A |
+| 38 | [Bonjour Thierry](http://twitter.com/search?q=Bonjour+Thierry) | N/A |
+| 39 | [jonathan clauss](http://twitter.com/search?q=jonathan+clauss) | N/A |
+| 40 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 41 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 42 | [Laurent Berger](http://twitter.com/search?q=Laurent+Berger) | N/A |
+| 43 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 44 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 45 | [Garonne](http://twitter.com/search?q=Garonne) | N/A |
+| 46 | [Apolline](http://twitter.com/search?q=Apolline) | N/A |
+| 47 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 48 | [Mathilde Panot](http://twitter.com/search?q=Mathilde+Panot) | N/A |
+| 49 | [Les Irlandais](http://twitter.com/search?q=Les+Irlandais) | N/A |
+| 50 | [Tour Eiffel](http://twitter.com/search?q=Tour+Eiffel) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-03-28 06:19:04 UTC`
+📆 Last Updated: `2023-03-28 07:19:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Qatar
 | 1 | [#نشوف_عطرك_للعيد](http://twitter.com/search?q=%23%d9%86%d8%b4%d9%88%d9%81_%d8%b9%d8%b7%d8%b1%d9%83_%d9%84%d9%84%d8%b9%d9%8a%d8%af) | N/A |
 | 2 | [٥ رمضان](http://twitter.com/search?q=%d9%a5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 3 | [الشوون الداخليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 5 | [عبدالعزيز بن فيصل بن محمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a8%d9%86+%d9%81%d9%8a%d8%b5%d9%84+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 6 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
-| 7 | [الاتحاد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 8 | [#رمضان_الخير_2023](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_2023) | N/A |
-| 9 | [#اسراييل](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84) | N/A |
-| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 4 | [عبدالعزيز بن فيصل بن محمد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2+%d8%a8%d9%86+%d9%81%d9%8a%d8%b5%d9%84+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 5 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
+| 6 | [الاتحاد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
+| 7 | [#رمضان_الخير_2023](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_2023) | N/A |
+| 8 | [#اسراييل](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84) | N/A |
+| 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 10 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 11 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
 | 12 | [المركبات الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
 | 13 | [#نتنياهو](http://twitter.com/search?q=%23%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88) | N/A |
 | 14 | [وزير الدوله](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
-| 15 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 16 | [الجمعيه العموميه العاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 17 | [#MaandamanoMondays](http://twitter.com/search?q=%23MaandamanoMondays) | N/A |
+| 15 | [الجمعيه العموميه العاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 16 | [#MaandamanoMondays](http://twitter.com/search?q=%23MaandamanoMondays) | N/A |
+| 17 | [عمر بن الخطاب](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%a8%d9%86+%d8%a7%d9%84%d8%ae%d8%b7%d8%a7%d8%a8) | N/A |
 | 18 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
 | 19 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
 | 20 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
 | 21 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
-| 22 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 23 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
-| 24 | [الذكر اليومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a) | N/A |
-| 25 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 26 | [President](http://twitter.com/search?q=President) | N/A |
-| 27 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 28 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
-| 29 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
-| 30 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 22 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 23 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 24 | [Ruto](http://twitter.com/search?q=Ruto) | N/A |
+| 25 | [President](http://twitter.com/search?q=President) | N/A |
+| 26 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 27 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
+| 28 | [تحدي التغيير](http://twitter.com/search?q=%d8%aa%d8%ad%d8%af%d9%8a+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
+| 29 | [جاسم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85) | N/A |
+| 30 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 31 | [علي الاسلام](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 32 | [المجلس البلدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a) | N/A |
-| 33 | [المره الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 34 | [الدنمارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83) | N/A |
-| 35 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
-| 36 | [المصحف الشريف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
-| 37 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
-| 38 | [الشعوب العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 39 | [Raila](http://twitter.com/search?q=Raila) | N/A |
-| 40 | [الحياه الدنيا](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 41 | [جامعه قطر](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d9%82%d8%b7%d8%b1) | N/A |
-| 42 | [تحدي التغيير](http://twitter.com/search?q=%d8%aa%d8%ad%d8%af%d9%8a+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
-| 43 | [الرابط التالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b7+%d8%a7%d9%84%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
-| 44 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
-| 45 | [الصلوات الخمس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%85%d8%b3) | N/A |
-| 46 | [عقب الفطور](http://twitter.com/search?q=%d8%b9%d9%82%d8%a8+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
-| 47 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 48 | [Uganda](http://twitter.com/search?q=Uganda) | N/A |
-| 49 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 50 | [الدعاء اليومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a) | N/A |
+| 32 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 33 | [المجلس البلدي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a) | N/A |
+| 34 | [الذكر اليومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a) | N/A |
+| 35 | [المره الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 36 | [الدنمارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%86%d9%85%d8%a7%d8%b1%d9%83) | N/A |
+| 37 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 38 | [جامعه قطر](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d9%82%d8%b7%d8%b1) | N/A |
+| 39 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
+| 40 | [المصحف الشريف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b5%d8%ad%d9%81+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81) | N/A |
+| 41 | [الصلوات الخمس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%85%d8%b3) | N/A |
+| 42 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
+| 43 | [الدعاء اليومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a) | N/A |
+| 44 | [الشعوب العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d9%88%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 45 | [الحياه الدنيا](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 47 | [محمد عبده](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%af%d9%87) | محمد عبده is an Arabic name meaning "Muhammad, the Servant of God". |
+| 48 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 49 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
+| 50 | [عقب الفطور](http://twitter.com/search?q=%d8%b9%d9%82%d8%a8+%d8%a7%d9%84%d9%81%d8%b7%d9%88%d8%b1) | N/A |
 
 
 

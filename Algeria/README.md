@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-28 06:18:58 UTC`
+📆 Last Updated: `2023-03-28 07:19:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,11 +29,11 @@ This is top 50 for Algeria
 | 12 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 | 13 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
 | 14 | [5 رمضان](http://twitter.com/search?q=5+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 15 | [التمر الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 16 | [الربيع العبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9+%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d9%8a) | N/A |
-| 17 | [التحكيم الافريقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a) | N/A |
-| 18 | [عيد ميلاد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d9%8a%d9%84%d8%a7%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 19 | [الحرب الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
+| 15 | [الربيع العبري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9+%d8%a7%d9%84%d8%b9%d8%a8%d8%b1%d9%8a) | N/A |
+| 16 | [التحكيم الافريقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a) | N/A |
+| 17 | [عيد ميلاد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d9%8a%d9%84%d8%a7%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 18 | [الحرب الاهليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a%d9%87) | N/A |
+| 19 | [التمر الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
 | 20 | [Heureusement](http://twitter.com/search?q=Heureusement) | N/A |
 | 21 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
 | 22 | [كونتي](http://twitter.com/search?q=%d9%83%d9%88%d9%86%d8%aa%d9%8a) | N/A |
@@ -54,15 +54,15 @@ This is top 50 for Algeria
 | 37 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
 | 38 | [علي الساحر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d8%b1) | N/A |
 | 39 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 40 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
-| 41 | [علي البرازيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
-| 42 | [علي بلماضي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 43 | [سويسرا](http://twitter.com/search?q=%d8%b3%d9%88%d9%8a%d8%b3%d8%b1%d8%a7) | N/A |
-| 44 | [سفيان الثوري](http://twitter.com/search?q=%d8%b3%d9%81%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%8a) | N/A |
-| 45 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 46 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 47 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
-| 48 | [bennacer](http://twitter.com/search?q=bennacer) | N/A |
+| 40 | [علي البرازيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
+| 41 | [علي بلماضي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 42 | [سويسرا](http://twitter.com/search?q=%d8%b3%d9%88%d9%8a%d8%b3%d8%b1%d8%a7) | N/A |
+| 43 | [سفيان الثوري](http://twitter.com/search?q=%d8%b3%d9%81%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ab%d9%88%d8%b1%d9%8a) | N/A |
+| 44 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
+| 45 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 46 | [Belmadi](http://twitter.com/search?q=Belmadi) | N/A |
+| 47 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 48 | [الامام الشافعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b4%d8%a7%d9%81%d8%b9%d9%8a) | N/A |
 | 49 | [الكيان الغاصب](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d8%b5%d8%a8) | N/A |
 | 50 | [العالم العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-28 06:18:11 UTC`
+📆 Last Updated: `2023-03-28 07:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,18 +20,18 @@ This is top 50 for [Colombia](</Colombia>)
 | 3 | [Billie](http://twitter.com/search?q=Billie) | N/A |
 | 4 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 5 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 6 | [#EsUnaAmenaza](http://twitter.com/search?q=%23EsUnaAmenaza) | N/A |
-| 7 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 6 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 7 | [#EsUnaAmenaza](http://twitter.com/search?q=%23EsUnaAmenaza) | N/A |
 | 8 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 9 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
-| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 9 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 10 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
 | 11 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
 | 12 | [Silva](http://twitter.com/search?q=Silva) | N/A |
 | 13 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
 | 14 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
 | 15 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 16 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 17 | [#Desafiothebox](http://twitter.com/search?q=%23Desafiothebox) | N/A |
+| 16 | [#Desafiothebox](http://twitter.com/search?q=%23Desafiothebox) | N/A |
+| 17 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
 | 18 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
 | 19 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 20 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
@@ -44,26 +44,26 @@ This is top 50 for [Colombia](</Colombia>)
 | 27 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
 | 28 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
 | 29 | [Saade](http://twitter.com/search?q=Saade) | N/A |
-| 30 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 31 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 32 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 33 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 34 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 35 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
+| 30 | [Maca](http://twitter.com/search?q=Maca) | N/A |
+| 31 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
+| 32 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 33 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 34 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
+| 35 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 36 | [Noticias Uno](http://twitter.com/search?q=Noticias+Uno) | N/A |
-| 37 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 38 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 39 | [Morelo](http://twitter.com/search?q=Morelo) | N/A |
-| 40 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 41 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 42 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 37 | [morelo](http://twitter.com/search?q=morelo) | N/A |
+| 38 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 39 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 40 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
+| 41 | [Andrés Felipe Arias](http://twitter.com/search?q=Andr%c3%a9s+Felipe+Arias) | Andrés Felipe Arias is a Spanish name. In English, it translates to Andrew Philip Arias. |
+| 42 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
 | 43 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 44 | [Negro Ober](http://twitter.com/search?q=Negro+Ober) | N/A |
-| 45 | [Robinson Díaz](http://twitter.com/search?q=Robinson+D%c3%adaz) | N/A |
-| 46 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
-| 47 | [Simo](http://twitter.com/search?q=Simo) | N/A |
-| 48 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 49 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 44 | [Robinson Díaz](http://twitter.com/search?q=Robinson+D%c3%adaz) | N/A |
+| 45 | [Lil Nas X](http://twitter.com/search?q=Lil+Nas+X) | N/A |
+| 46 | [Simo](http://twitter.com/search?q=Simo) | N/A |
+| 47 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
+| 48 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 49 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
 
 
 

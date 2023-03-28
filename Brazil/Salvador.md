@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-03-28 06:18:13 UTC`
+📆 Last Updated: `2023-03-28 07:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [#ForaGabriel](http://twitter.com/search?q=%23ForaGabriel) | #ForaGabriel is a hashtag used in Brazil to call for the resignation of the country's former Minister of Education, Gabriel Chalita. The phrase translates to "Out with Gabriel" in English. |
 | 2 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
 | 3 | [#JogoDaDiscordia](http://twitter.com/search?q=%23JogoDaDiscordia) | N/A |
-| 4 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 5 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 4 | [#HappyBirthdayLadyGaga](http://twitter.com/search?q=%23HappyBirthdayLadyGaga) | N/A |
+| 5 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
 | 6 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 7 | [#HappyBirthdayLadyGaga](http://twitter.com/search?q=%23HappyBirthdayLadyGaga) | N/A |
-| 8 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
+| 7 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 8 | [Bia Miranda](http://twitter.com/search?q=Bia+Miranda) | N/A |
 | 9 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
 | 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 11 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 12 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 13 | [Bia Miranda](http://twitter.com/search?q=Bia+Miranda) | N/A |
-| 14 | [O Alface](http://twitter.com/search?q=O+Alface) | O Alface is a Portuguese expression that literally translates to "Oh, lettuce!" It is used as an exclamation of surprise or astonishment. |
-| 15 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 16 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 17 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 18 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 19 | [Sula](http://twitter.com/search?q=Sula) | N/A |
-| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 21 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 22 | [Essa Amanda](http://twitter.com/search?q=Essa+Amanda) | N/A |
-| 23 | [#naviodaxuxa](http://twitter.com/search?q=%23naviodaxuxa) | N/A |
-| 24 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 25 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 26 | [Felipão](http://twitter.com/search?q=Felip%c3%a3o) | N/A |
-| 27 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
-| 28 | [Tetra](http://twitter.com/search?q=Tetra) | N/A |
-| 29 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
-| 30 | [Uruguai](http://twitter.com/search?q=Uruguai) | N/A |
-| 31 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
-| 32 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 33 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 34 | [Marcelo Moreno](http://twitter.com/search?q=Marcelo+Moreno) | N/A |
-| 35 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
-| 36 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
-| 37 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 38 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
-| 39 | [Quito](http://twitter.com/search?q=Quito) | N/A |
-| 40 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 41 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 42 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
-| 43 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 44 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 45 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 46 | [marcelo tarot](http://twitter.com/search?q=marcelo+tarot) | N/A |
-| 47 | [Pergunte](http://twitter.com/search?q=Pergunte) | N/A |
-| 48 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
-| 49 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 50 | [Argentinos Juniors](http://twitter.com/search?q=Argentinos+Juniors) | N/A |
+| 11 | [O Alface](http://twitter.com/search?q=O+Alface) | O Alface is a Portuguese expression that literally translates to "Oh, lettuce!" It is used as an exclamation of surprise or astonishment. |
+| 12 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 13 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 14 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 15 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 16 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 17 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 18 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 19 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 20 | [Sula](http://twitter.com/search?q=Sula) | N/A |
+| 21 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 22 | [#naviodaxuxa](http://twitter.com/search?q=%23naviodaxuxa) | N/A |
+| 23 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 24 | [Liberta](http://twitter.com/search?q=Liberta) | N/A |
+| 25 | [Essa Amanda](http://twitter.com/search?q=Essa+Amanda) | N/A |
+| 26 | [Sul-americana](http://twitter.com/search?q=Sul-americana) | N/A |
+| 27 | [Amanda e Aline](http://twitter.com/search?q=Amanda+e+Aline) | N/A |
+| 28 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
+| 29 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
+| 30 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
+| 31 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 32 | [Quito](http://twitter.com/search?q=Quito) | N/A |
+| 33 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 34 | [Pergunte](http://twitter.com/search?q=Pergunte) | N/A |
+| 35 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 36 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
+| 37 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 38 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 39 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 40 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 42 | [Felipão](http://twitter.com/search?q=Felip%c3%a3o) | N/A |
+| 43 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 44 | [teen wolf](http://twitter.com/search?q=teen+wolf) | Teen Wolf is a supernatural drama television series that aired from 2011 to 2017. It follows the story of Scott McCall, a high school student who is bitten by a werewolf and must learn to balance his life as both a human and a supernatural creature. The show explores themes of family, friendship, loyalty, and self-discovery. The phrase "teen wolf" has come to mean any young person who is struggling with the challenges of growing up while also trying to find their place in the world. |
+| 45 | [Acamada](http://twitter.com/search?q=Acamada) | N/A |
+| 46 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 47 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 48 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
+| 49 | [mc ryan](http://twitter.com/search?q=mc+ryan) | N/A |
+| 50 | [izzo](http://twitter.com/search?q=izzo) | N/A |
 
 
 

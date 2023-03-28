@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-28 06:18:52 UTC`
+📆 Last Updated: `2023-03-28 07:19:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
 | 2 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
 | 3 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 4 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 5 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
-| 6 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 7 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 8 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
-| 9 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
-| 10 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 11 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 12 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 13 | [Mass](http://twitter.com/search?q=Mass) | N/A |
-| 14 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 15 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 16 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 17 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 18 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 19 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
-| 20 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 22 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 23 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 24 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 25 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 26 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
-| 27 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
-| 28 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 29 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 4 | [Keegan](http://twitter.com/search?q=Keegan) | N/A |
+| 5 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 6 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
+| 7 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 8 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 9 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 10 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 12 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 13 | [Sergio Romo](http://twitter.com/search?q=Sergio+Romo) | N/A |
+| 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 15 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 16 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 17 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
+| 18 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 19 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 20 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 21 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
+| 22 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 23 | [Hokies](http://twitter.com/search?q=Hokies) | N/A |
+| 24 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
+| 25 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 26 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 27 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 28 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 29 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 30 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 31 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 32 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 33 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 34 | [Virgo](http://twitter.com/search?q=Virgo) | N/A |
-| 35 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 36 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 37 | [Apple Music Classical](http://twitter.com/search?q=Apple+Music+Classical) | N/A |
-| 38 | [Jaden McDaniels](http://twitter.com/search?q=Jaden+McDaniels) | N/A |
-| 39 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 40 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
-| 41 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 42 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 43 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
-| 44 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 45 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
-| 46 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
-| 47 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
-| 48 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
-| 49 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 50 | [Alex Len](http://twitter.com/search?q=Alex+Len) | N/A |
+| 31 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 32 | [Tumblr](http://twitter.com/search?q=Tumblr) | N/A |
+| 33 | [Apple Music Classical](http://twitter.com/search?q=Apple+Music+Classical) | N/A |
+| 34 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 35 | [Jaden McDaniels](http://twitter.com/search?q=Jaden+McDaniels) | N/A |
+| 36 | [Virginia Tech](http://twitter.com/search?q=Virginia+Tech) | N/A |
+| 37 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 38 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 39 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
+| 40 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
+| 41 | [Alex Len](http://twitter.com/search?q=Alex+Len) | N/A |
+| 42 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 43 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
+| 44 | [Hunter Pence](http://twitter.com/search?q=Hunter+Pence) | N/A |
+| 45 | [Kaoru](http://twitter.com/search?q=Kaoru) | N/A |
+| 46 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
+| 47 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 48 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 49 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 50 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
 
 
 

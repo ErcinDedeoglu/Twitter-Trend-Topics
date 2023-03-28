@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-28 06:19:05 UTC`
+📆 Last Updated: `2023-03-28 07:20:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Spain
 | 3 | [PcComponentes](http://twitter.com/search?q=PcComponentes) | N/A |
 | 4 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
 | 5 | [#QUESOrteazo](http://twitter.com/search?q=%23QUESOrteazo) | N/A |
-| 6 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 7 | [#DíaMundialDelTeatro](http://twitter.com/search?q=%23D%c3%adaMundialDelTeatro) | N/A |
-| 8 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 9 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 10 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
-| 11 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 12 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
-| 13 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
-| 14 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
-| 15 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
-| 16 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 17 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 18 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
-| 19 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 20 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 21 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 22 | [Héctor Gómez](http://twitter.com/search?q=H%c3%a9ctor+G%c3%b3mez) | N/A |
-| 23 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 24 | [Yadira Maestre](http://twitter.com/search?q=Yadira+Maestre) | N/A |
-| 25 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
-| 26 | [Beatriz](http://twitter.com/search?q=Beatriz) | N/A |
-| 27 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 28 | [IFFHS](http://twitter.com/search?q=IFFHS) | N/A |
-| 29 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 30 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 31 | [Hiba Abouk](http://twitter.com/search?q=Hiba+Abouk) | N/A |
-| 32 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 33 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
-| 34 | [Sanidad](http://twitter.com/search?q=Sanidad) | N/A |
-| 35 | [comercio y turismo](http://twitter.com/search?q=comercio+y+turismo) | N/A |
-| 36 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
-| 37 | [José Manuel Miñones](http://twitter.com/search?q=Jos%c3%a9+Manuel+Mi%c3%b1ones) | N/A |
-| 38 | [Reyes Maroto](http://twitter.com/search?q=Reyes+Maroto) | N/A |
+| 6 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
+| 7 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 8 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 9 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
+| 10 | [HOY 28](http://twitter.com/search?q=HOY+28) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Radio María](http://twitter.com/search?q=Radio+Mar%c3%ada) | N/A |
+| 13 | [Cercedilla](http://twitter.com/search?q=Cercedilla) | N/A |
+| 14 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 15 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 16 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 17 | [Sumar](http://twitter.com/search?q=Sumar) | N/A |
+| 18 | [Revilla](http://twitter.com/search?q=Revilla) | N/A |
+| 19 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 20 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
+| 21 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 22 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 23 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 24 | [Camp Nou](http://twitter.com/search?q=Camp+Nou) | Camp Nou is the home stadium of FC Barcelona, a professional football club based in Barcelona, Spain. The name Camp Nou translates to "New Field" in English. |
+| 25 | [Héctor Gómez](http://twitter.com/search?q=H%c3%a9ctor+G%c3%b3mez) | N/A |
+| 26 | [Yadira Maestre](http://twitter.com/search?q=Yadira+Maestre) | N/A |
+| 27 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 28 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 29 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 30 | [IFFHS](http://twitter.com/search?q=IFFHS) | N/A |
+| 31 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 32 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 33 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 34 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 35 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 36 | [Pedro Gallese](http://twitter.com/search?q=Pedro+Gallese) | N/A |
+| 37 | [Tars](http://twitter.com/search?q=Tars) | N/A |
+| 38 | [Hiba Abouk](http://twitter.com/search?q=Hiba+Abouk) | N/A |
 | 39 | [Paco González](http://twitter.com/search?q=Paco+Gonz%c3%a1lez) | N/A |
-| 40 | [Indra](http://twitter.com/search?q=Indra) | N/A |
-| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 42 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 43 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 44 | [Quentin Tarantino](http://twitter.com/search?q=Quentin+Tarantino) | N/A |
-| 45 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 46 | [Higinio](http://twitter.com/search?q=Higinio) | N/A |
-| 47 | [Bicimad](http://twitter.com/search?q=Bicimad) | N/A |
-| 48 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 49 | [minho](http://twitter.com/search?q=minho) | N/A |
-| 50 | [Idiakez](http://twitter.com/search?q=Idiakez) | N/A |
+| 40 | [Sanidad](http://twitter.com/search?q=Sanidad) | N/A |
+| 41 | [Adri Contreras](http://twitter.com/search?q=Adri+Contreras) | Adri Contreras is a Spanish name. It is a combination of the given name Adri, which is derived from the Latin name Adrianus, meaning “from Hadria” (an ancient city in northern Italy), and the surname Contreras, which means “against” or “opposite” in Spanish. |
+| 42 | [El 28](http://twitter.com/search?q=El+28) | N/A |
+| 43 | [El Barrio](http://twitter.com/search?q=El+Barrio) | N/A |
+| 44 | [Beatriz](http://twitter.com/search?q=Beatriz) | N/A |
+| 45 | [Martes 28](http://twitter.com/search?q=Martes+28) | N/A |
+| 46 | [Reyes Maroto](http://twitter.com/search?q=Reyes+Maroto) | N/A |
+| 47 | [Indra](http://twitter.com/search?q=Indra) | N/A |
+| 48 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 49 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 50 | [José Manuel Miñones](http://twitter.com/search?q=Jos%c3%a9+Manuel+Mi%c3%b1ones) | N/A |
 
 
 

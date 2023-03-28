@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-28 06:19:04 UTC`
+📆 Last Updated: `2023-03-28 07:19:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,13 +15,13 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pueblo Nuevo](http://twitter.com/search?q=Pueblo+Nuevo) | N/A |
-| 2 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 3 | [Quesos Chela](http://twitter.com/search?q=Quesos+Chela) | N/A |
+| 1 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 2 | [Pueblo Nuevo](http://twitter.com/search?q=Pueblo+Nuevo) | N/A |
+| 3 | [quesos chela](http://twitter.com/search?q=quesos+chela) | N/A |
 | 4 | [Feliz Lunes](http://twitter.com/search?q=Feliz+Lunes) | N/A |
 | 5 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
 | 6 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 7 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
+| 7 | [cerro patacón](http://twitter.com/search?q=cerro+patac%c3%b3n) | N/A |
 | 8 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
 | 9 | [Turismo](http://twitter.com/search?q=Turismo) | N/A |
 | 10 | [autoridad de aseo](http://twitter.com/search?q=autoridad+de+aseo) | N/A |
@@ -39,8 +39,8 @@ This is top 50 for Panama
 | 22 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
 | 23 | [#unminutoparadios](http://twitter.com/search?q=%23unminutoparadios) | N/A |
 | 24 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
-| 25 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 26 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 25 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 26 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 27 | [en colón](http://twitter.com/search?q=en+col%c3%b3n) | N/A |
 | 28 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
 | 29 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |

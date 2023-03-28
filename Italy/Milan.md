@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-28 06:18:21 UTC`
+📆 Last Updated: `2023-03-28 07:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#28marzo](http://twitter.com/search?q=%2328marzo) | N/A |
+| 1 | [#28marzo](http://twitter.com/search?q=%2328marzo) | N/A |
+| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 3 | [#GianniMinà](http://twitter.com/search?q=%23GianniMin%c3%a0) | N/A |
-| 4 | [#bisognaSaper](http://twitter.com/search?q=%23bisognaSaper) | N/A |
-| 5 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 6 | [#queenfiorde](http://twitter.com/search?q=%23queenfiorde) | N/A |
+| 4 | [#GianniMinà](http://twitter.com/search?q=%23GianniMin%c3%a0) | N/A |
+| 5 | [#GianniMinà](http://twitter.com/search?q=%23GianniMin%c3%a0) | N/A |
+| 6 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
 | 7 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
 | 8 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 9 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 10 | [Buongiorno Chiara](http://twitter.com/search?q=Buongiorno+Chiara) | N/A |
-| 11 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
-| 12 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 13 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
-| 14 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 15 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 16 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
+| 9 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
+| 10 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 11 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
+| 12 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 13 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
+| 14 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 15 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 16 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
 | 17 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
-| 18 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 19 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
-| 20 | [Turone](http://twitter.com/search?q=Turone) | N/A |
+| 18 | [Turone](http://twitter.com/search?q=Turone) | N/A |
+| 19 | [Buona](http://twitter.com/search?q=Buona) | N/A |
+| 20 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
 | 21 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 22 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 23 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
-| 24 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 25 | [agnese](http://twitter.com/search?q=agnese) | N/A |
-| 26 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 27 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
-| 28 | [Malpezzi](http://twitter.com/search?q=Malpezzi) | N/A |
-| 29 | [Cocco](http://twitter.com/search?q=Cocco) | N/A |
-| 30 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 31 | [Buongiorno Claudio](http://twitter.com/search?q=Buongiorno+Claudio) | N/A |
+| 22 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
+| 23 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 24 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 25 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 26 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
+| 27 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
+| 28 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
+| 29 | [Malpezzi](http://twitter.com/search?q=Malpezzi) | N/A |
+| 30 | [Cocco](http://twitter.com/search?q=Cocco) | N/A |
+| 31 | [Sofri](http://twitter.com/search?q=Sofri) | N/A |
 | 32 | [Alby](http://twitter.com/search?q=Alby) | N/A |
-| 33 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 34 | [codacons](http://twitter.com/search?q=codacons) | N/A |
-| 35 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
-| 36 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
-| 37 | [Buongiorno Lorena](http://twitter.com/search?q=Buongiorno+Lorena) | N/A |
-| 38 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 39 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 40 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 41 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 42 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 43 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 44 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
-| 45 | [alessandra de stefano](http://twitter.com/search?q=alessandra+de+stefano) | N/A |
-| 46 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 47 | [Maurizio](http://twitter.com/search?q=Maurizio) | N/A |
-| 48 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
-| 49 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 50 | [Tiafoe](http://twitter.com/search?q=Tiafoe) | Tiafoe is the surname of American professional tennis player Frances Tiafoe. It is derived from the West African language of Fula and means "be free". |
+| 33 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 34 | [Marquez](http://twitter.com/search?q=Marquez) | N/A |
+| 35 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 36 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 37 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 38 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
+| 39 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 40 | [Agnese](http://twitter.com/search?q=Agnese) | N/A |
+| 41 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 42 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 43 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
+| 44 | [Fidel Castro](http://twitter.com/search?q=Fidel+Castro) | N/A |
+| 45 | [Buongiorno Claudio](http://twitter.com/search?q=Buongiorno+Claudio) | N/A |
+| 46 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 47 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
+| 48 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 49 | [Dodina](http://twitter.com/search?q=Dodina) | N/A |
+| 50 | [Il 28](http://twitter.com/search?q=Il+28) | N/A |
 
 
 
