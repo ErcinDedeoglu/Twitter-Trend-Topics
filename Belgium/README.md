@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-28 01:45:27 UTC`
+📆 Last Updated: `2023-03-28 02:32:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for Belgium
 | 4 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
 | 5 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
 | 6 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [#bestemmingx](http://twitter.com/search?q=%23bestemmingx) | N/A |
-| 9 | [Mike Maignan](http://twitter.com/search?q=Mike+Maignan) | N/A |
-| 10 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
+| 7 | [#bestemmingx](http://twitter.com/search?q=%23bestemmingx) | N/A |
+| 8 | [Mike Maignan](http://twitter.com/search?q=Mike+Maignan) | N/A |
+| 9 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 11 | [Vlaams Parlement](http://twitter.com/search?q=Vlaams+Parlement) | N/A |
 | 12 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 13 | [#rngs23](http://twitter.com/search?q=%23rngs23) | N/A |
@@ -40,10 +40,10 @@ This is top 50 for Belgium
 | 23 | [delhaize belgië](http://twitter.com/search?q=delhaize+belgi%c3%ab) | N/A |
 | 24 | [Rudi](http://twitter.com/search?q=Rudi) | N/A |
 | 25 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 26 | [Kemmel](http://twitter.com/search?q=Kemmel) | N/A |
-| 27 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
-| 28 | [Eddy Merckx](http://twitter.com/search?q=Eddy+Merckx) | N/A |
-| 29 | [museeuw](http://twitter.com/search?q=museeuw) | N/A |
+| 26 | [kemmel](http://twitter.com/search?q=kemmel) | N/A |
+| 27 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 28 | [Lancelot](http://twitter.com/search?q=Lancelot) | N/A |
+| 29 | [eddy merckx](http://twitter.com/search?q=eddy+merckx) | N/A |
 | 30 | [Van Kooten](http://twitter.com/search?q=Van+Kooten) | N/A |
 | 31 | [Kurama](http://twitter.com/search?q=Kurama) | N/A |
 | 32 | [Vlaamse](http://twitter.com/search?q=Vlaamse) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Belgium
 | 34 | [Justitie](http://twitter.com/search?q=Justitie) | N/A |
 | 35 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
 | 36 | [thuis](http://twitter.com/search?q=thuis) | N/A |
-| 37 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 38 | [Benelux](http://twitter.com/search?q=Benelux) | N/A |
-| 39 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 40 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
-| 41 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
-| 42 | [Oekraïners](http://twitter.com/search?q=Oekra%c3%afners) | N/A |
-| 43 | [Conner](http://twitter.com/search?q=Conner) | N/A |
-| 44 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
-| 45 | [Arco](http://twitter.com/search?q=Arco) | N/A |
-| 46 | [famke](http://twitter.com/search?q=famke) | N/A |
-| 47 | [theo maassen](http://twitter.com/search?q=theo+maassen) | N/A |
-| 48 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 49 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 50 | [Christophe](http://twitter.com/search?q=Christophe) | N/A |
+| 37 | [Museeuw](http://twitter.com/search?q=Museeuw) | N/A |
+| 38 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
+| 39 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 40 | [Benelux](http://twitter.com/search?q=Benelux) | N/A |
+| 41 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
+| 42 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
+| 43 | [Oekraïners](http://twitter.com/search?q=Oekra%c3%afners) | N/A |
+| 44 | [Conner](http://twitter.com/search?q=Conner) | N/A |
+| 45 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
+| 46 | [Arco](http://twitter.com/search?q=Arco) | N/A |
+| 47 | [famke](http://twitter.com/search?q=famke) | N/A |
+| 48 | [theo maassen](http://twitter.com/search?q=theo+maassen) | N/A |
+| 49 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 50 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
 
 
 

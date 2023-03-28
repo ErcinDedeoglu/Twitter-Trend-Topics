@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-28 01:45:32 UTC`
+📆 Last Updated: `2023-03-28 02:33:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Malaysia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
-| 2 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 1 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 2 | [#GmmtvOuting2023](http://twitter.com/search?q=%23GmmtvOuting2023) | N/A |
 | 3 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 4 | [#26EdelweissForLISA](http://twitter.com/search?q=%2326EdelweissForLISA) | N/A |
-| 5 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
-| 6 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
+| 5 | [#MAGICMANJacksonDay](http://twitter.com/search?q=%23MAGICMANJacksonDay) | N/A |
+| 6 | [#락스타_팝스타_라리사_생일날](http://twitter.com/search?q=%23%eb%9d%bd%ec%8a%a4%ed%83%80_%ed%8c%9d%ec%8a%a4%ed%83%80_%eb%9d%bc%eb%a6%ac%ec%82%ac_%ec%83%9d%ec%9d%bc%eb%82%a0) | N/A |
 | 7 | [#TheGreatestLalisaDay](http://twitter.com/search?q=%23TheGreatestLalisaDay) | N/A |
 | 8 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
 | 9 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 10 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
-| 11 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 10 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 11 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
 | 12 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
 | 13 | [Imam](http://twitter.com/search?q=Imam) | Imam is an Islamic term that refers to a spiritual leader or religious authority. It is typically used to refer to the person who leads prayers in a mosque, but it can also refer to any Muslim leader or scholar. In English, the word Imam is often translated as "leader" or "teacher". |
 | 14 | [Tony Montana](http://twitter.com/search?q=Tony+Montana) | N/A |
-| 15 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 16 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 17 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
-| 18 | [Heize](http://twitter.com/search?q=Heize) | N/A |
-| 19 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 20 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 21 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 22 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 23 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 24 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 25 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 26 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 27 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
-| 28 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 29 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
-| 30 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
-| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 32 | [Penang](http://twitter.com/search?q=Penang) | N/A |
-| 33 | [sspn](http://twitter.com/search?q=sspn) | N/A |
-| 34 | [Animoca](http://twitter.com/search?q=Animoca) | N/A |
-| 35 | [joong](http://twitter.com/search?q=joong) | N/A |
-| 36 | [Parking](http://twitter.com/search?q=Parking) | N/A |
-| 37 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 38 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
-| 39 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 40 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
-| 41 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 42 | [beyour luve build](http://twitter.com/search?q=beyour+luve+build) | N/A |
-| 43 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 44 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 45 | [Lili](http://twitter.com/search?q=Lili) | N/A |
-| 46 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
-| 47 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 48 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 49 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 50 | [Singaporeans](http://twitter.com/search?q=Singaporeans) | N/A |
+| 15 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 16 | [JAEMIN BLACK HAIR](http://twitter.com/search?q=JAEMIN+BLACK+HAIR) | N/A |
+| 17 | [Heize](http://twitter.com/search?q=Heize) | N/A |
+| 18 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 19 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 20 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 21 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 22 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 23 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 24 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 25 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
+| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 27 | [evan hofer](http://twitter.com/search?q=evan+hofer) | N/A |
+| 28 | [Chapter 2](http://twitter.com/search?q=Chapter+2) | N/A |
+| 29 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 30 | [sspn](http://twitter.com/search?q=sspn) | N/A |
+| 31 | [Animoca](http://twitter.com/search?q=Animoca) | N/A |
+| 32 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 33 | [Parking](http://twitter.com/search?q=Parking) | N/A |
+| 34 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 35 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
+| 36 | [Jack Ma](http://twitter.com/search?q=Jack+Ma) | N/A |
+| 37 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 38 | [beyour luve build](http://twitter.com/search?q=beyour+luve+build) | N/A |
+| 39 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 40 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 41 | [Lili](http://twitter.com/search?q=Lili) | N/A |
+| 42 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 43 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
+| 44 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 45 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 46 | [Singaporeans](http://twitter.com/search?q=Singaporeans) | N/A |
+| 47 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
+| 48 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 49 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 50 | [HAPPY BIRTHDAY LISA](http://twitter.com/search?q=HAPPY+BIRTHDAY+LISA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-28 01:44:42 UTC`
+📆 Last Updated: `2023-03-28 02:32:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for [Germany](</Germany>)
 | 13 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
 | 14 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
 | 15 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 16 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 17 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 16 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 17 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
 | 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 19 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
 | 20 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 21 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 22 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 23 | [Calvin Klein](http://twitter.com/search?q=Calvin+Klein) | Calvin Klein is an American fashion house founded in 1968 by designer Calvin Klein. The company is known for its modern, minimalist designs and its use of high-end fabrics. The brand is also associated with luxury, quality, and sophistication. |
-| 24 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 25 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 26 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 27 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 28 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 29 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
-| 30 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
-| 31 | [wahlberechtigten](http://twitter.com/search?q=wahlberechtigten) | N/A |
-| 32 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
-| 33 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 34 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 35 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
-| 36 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
-| 37 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
-| 38 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 39 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
-| 40 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
-| 41 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
-| 42 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 21 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 22 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 23 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 24 | [sommerzeit](http://twitter.com/search?q=sommerzeit) | N/A |
+| 25 | [löwenzahn](http://twitter.com/search?q=l%c3%b6wenzahn) | N/A |
+| 26 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 27 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 28 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
+| 29 | [wahlberechtigten](http://twitter.com/search?q=wahlberechtigten) | N/A |
+| 30 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 31 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 32 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
+| 33 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 34 | [schönen montag](http://twitter.com/search?q=sch%c3%b6nen+montag) | N/A |
+| 35 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
+| 36 | [wochenbeginn](http://twitter.com/search?q=wochenbeginn) | N/A |
+| 37 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 38 | ['Schattenspiele'](http://twitter.com/search?q=%27Schattenspiele%27) | N/A |
+| 39 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 40 | [Minderheit](http://twitter.com/search?q=Minderheit) | N/A |
+| 41 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 42 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 43 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
-| 44 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 45 | [zyniker](http://twitter.com/search?q=zyniker) | N/A |
-| 46 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
-| 47 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 48 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
-| 49 | [graupel](http://twitter.com/search?q=graupel) | N/A |
+| 44 | [zyniker](http://twitter.com/search?q=zyniker) | N/A |
+| 45 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 46 | [Sixtus](http://twitter.com/search?q=Sixtus) | N/A |
+| 47 | [Pulp Fiction](http://twitter.com/search?q=Pulp+Fiction) | N/A |
+| 48 | [graupel](http://twitter.com/search?q=graupel) | N/A |
+| 49 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
 
 
 

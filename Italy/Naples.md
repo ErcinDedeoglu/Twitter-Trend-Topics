@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-28 01:44:43 UTC`
+📆 Last Updated: `2023-03-28 02:32:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,29 +34,22 @@ This is top 50 for [Italy](</Italy>)
 | 17 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
 | 18 | [Alby](http://twitter.com/search?q=Alby) | N/A |
 | 19 | [Panda](http://twitter.com/search?q=Panda) | N/A |
-| 20 | [Albi](http://twitter.com/search?q=Albi) | N/A |
-| 21 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 22 | [Clizia](http://twitter.com/search?q=Clizia) | Clizia is an Italian name derived from the Latin word "claesia," which means "fame." It is also a variant of the name Cleopatra, which means "glory of the father." |
-| 23 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 24 | [soleil](http://twitter.com/search?q=soleil) | N/A |
-| 25 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
-| 26 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 27 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 28 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 29 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
-| 30 | [#queenfiorde](http://twitter.com/search?q=%23queenfiorde) | N/A |
-| 31 | [#nikella](http://twitter.com/search?q=%23nikella) | N/A |
-| 32 | [#onestiners](http://twitter.com/search?q=%23onestiners) | N/A |
-| 33 | [#staseratuttoepossibile](http://twitter.com/search?q=%23staseratuttoepossibile) | N/A |
-| 34 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
-| 35 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
-| 36 | [#restaconme](http://twitter.com/search?q=%23restaconme) | N/A |
-| 37 | [#Maignan](http://twitter.com/search?q=%23Maignan) | N/A |
-| 38 | [#teamspina](http://twitter.com/search?q=%23teamspina) | N/A |
-| 39 | [#bisognaSaper](http://twitter.com/search?q=%23bisognaSaper) | N/A |
-| 40 | [#ciupilan](http://twitter.com/search?q=%23ciupilan) | N/A |
-| 41 | [#Nashville](http://twitter.com/search?q=%23Nashville) | N/A |
-| 42 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 20 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 21 | [Clizia](http://twitter.com/search?q=Clizia) | Clizia is an Italian name derived from the Latin word "claesia," which means "fame." It is also a variant of the name Cleopatra, which means "glory of the father." |
+| 22 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
+| 23 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 24 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 25 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
+| 26 | [#queenfiorde](http://twitter.com/search?q=%23queenfiorde) | N/A |
+| 27 | [#nikella](http://twitter.com/search?q=%23nikella) | N/A |
+| 28 | [#onestiners](http://twitter.com/search?q=%23onestiners) | N/A |
+| 29 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
+| 30 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
+| 31 | [#Fiordelisi](http://twitter.com/search?q=%23Fiordelisi) | N/A |
+| 32 | [#restaconme](http://twitter.com/search?q=%23restaconme) | N/A |
+| 33 | [#Maignan](http://twitter.com/search?q=%23Maignan) | N/A |
+| 34 | [#bisognaSaper](http://twitter.com/search?q=%23bisognaSaper) | N/A |
+| 35 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
 
 
 

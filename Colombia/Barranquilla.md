@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-03-28 01:44:32 UTC`
+📆 Last Updated: `2023-03-28 02:32:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,36 +19,42 @@ This is top 50 for [Colombia](</Colombia>)
 | 2 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
 | 3 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
 | 4 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
-| 5 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
-| 6 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
-| 7 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
-| 8 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 9 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
-| 10 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 11 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 12 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
-| 13 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 14 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 15 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 16 | [América MG](http://twitter.com/search?q=Am%c3%a9rica+MG) | N/A |
+| 5 | [#DesafioTheBox3](http://twitter.com/search?q=%23DesafioTheBox3) | N/A |
+| 6 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 7 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 8 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 9 | [Copa Libertadores](http://twitter.com/search?q=Copa+Libertadores) | N/A |
+| 10 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
+| 11 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 12 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 13 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
+| 14 | [#VickyEncubreAGnecco](http://twitter.com/search?q=%23VickyEncubreAGnecco) | N/A |
+| 15 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 16 | [Beta](http://twitter.com/search?q=Beta) | N/A |
 | 17 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 18 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 19 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 20 | [#VickyEncubreAGnecco](http://twitter.com/search?q=%23VickyEncubreAGnecco) | N/A |
-| 21 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 22 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
-| 23 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 24 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
-| 25 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
-| 26 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
-| 27 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 28 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
-| 29 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 30 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 31 | [Saade](http://twitter.com/search?q=Saade) | N/A |
+| 18 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 19 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 20 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 21 | [América MG](http://twitter.com/search?q=Am%c3%a9rica+MG) | N/A |
+| 22 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 23 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 24 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 25 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
+| 26 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 27 | [Millos](http://twitter.com/search?q=Millos) | N/A |
+| 28 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 29 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
+| 30 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 31 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
 | 32 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
-| 33 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
-| 34 | [Polo Polo](http://twitter.com/search?q=Polo+Polo) | Polo Polo is a Spanish phrase that is used to indicate that something is going well or progressing smoothly. It literally translates to "slowly, slowly" and is used as a way of expressing encouragement or reassurance. |
+| 33 | [Provenza](http://twitter.com/search?q=Provenza) | N/A |
+| 34 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
+| 35 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 36 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 37 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 38 | [Saade](http://twitter.com/search?q=Saade) | N/A |
+| 39 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 40 | [Polo Polo](http://twitter.com/search?q=Polo+Polo) | Polo Polo is a Spanish phrase that is used to indicate that something is going well or progressing smoothly. It literally translates to "slowly, slowly" and is used as a way of expressing encouragement or reassurance. |
 
 
 

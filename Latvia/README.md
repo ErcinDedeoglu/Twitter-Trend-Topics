@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-28 01:45:32 UTC`
+📆 Last Updated: `2023-03-28 02:33:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Latvia
 | 4 | [baltkrievijā](http://twitter.com/search?q=baltkrievij%c4%81) | N/A |
 | 5 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 6 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 7 | [Bauskas](http://twitter.com/search?q=Bauskas) | N/A |
+| 7 | [bauskas](http://twitter.com/search?q=bauskas) | N/A |
 | 8 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
 | 9 | [Audi](http://twitter.com/search?q=Audi) | N/A |
 | 10 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
@@ -35,14 +35,14 @@ This is top 50 for Latvia
 | 18 | [amatā](http://twitter.com/search?q=amat%c4%81) | N/A |
 | 19 | [visiem](http://twitter.com/search?q=visiem) | N/A |
 | 20 | [lieliski](http://twitter.com/search?q=lieliski) | N/A |
-| 21 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 22 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
-| 23 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
-| 24 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
-| 25 | [tiem](http://twitter.com/search?q=tiem) | N/A |
-| 26 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
-| 27 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
-| 28 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 21 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 22 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
+| 23 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
+| 24 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | N/A |
+| 25 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
+| 26 | [tiem](http://twitter.com/search?q=tiem) | N/A |
+| 27 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
+| 28 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
 | 29 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
 | 30 | [beidz](http://twitter.com/search?q=beidz) | N/A |
 | 31 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Latvia
 | 39 | [parīzē](http://twitter.com/search?q=par%c4%abz%c4%93) | N/A |
 | 40 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
 | 41 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
-| 42 | [Eiropā](http://twitter.com/search?q=Eirop%c4%81) | N/A |
-| 43 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 44 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
-| 45 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 46 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
-| 47 | [nekas](http://twitter.com/search?q=nekas) | N/A |
-| 48 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 49 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
-| 50 | [siguldas](http://twitter.com/search?q=siguldas) | N/A |
+| 42 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 43 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
+| 44 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 45 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 46 | [nekas](http://twitter.com/search?q=nekas) | N/A |
+| 47 | [labdien](http://twitter.com/search?q=labdien) | N/A |
+| 48 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
+| 49 | [siguldas](http://twitter.com/search?q=siguldas) | N/A |
+| 50 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 
 
 

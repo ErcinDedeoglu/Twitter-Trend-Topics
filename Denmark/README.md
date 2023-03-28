@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-28 01:45:28 UTC`
+📆 Last Updated: `2023-03-28 02:32:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,8 +29,8 @@ This is top 50 for Denmark
 | 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 13 | [sommertid](http://twitter.com/search?q=sommertid) | N/A |
 | 14 | [mathias jensen](http://twitter.com/search?q=mathias+jensen) | N/A |
-| 15 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
-| 16 | [#ForDanmark](http://twitter.com/search?q=%23ForDanmark) | N/A |
+| 15 | [jylland](http://twitter.com/search?q=jylland) | N/A |
+| 16 | [#fordanmark](http://twitter.com/search?q=%23fordanmark) | N/A |
 | 17 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
 | 18 | [hareide](http://twitter.com/search?q=hareide) | N/A |
 | 19 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for Denmark
 | 36 | [#landsholdet](http://twitter.com/search?q=%23landsholdet) | N/A |
 | 37 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 38 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 39 | [Astana](http://twitter.com/search?q=Astana) | N/A |
+| 39 | [astana](http://twitter.com/search?q=astana) | N/A |
 | 40 | [President](http://twitter.com/search?q=President) | N/A |
 | 41 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
 | 42 | [Ekstra Bladet](http://twitter.com/search?q=Ekstra+Bladet) | N/A |
-| 43 | [Langt](http://twitter.com/search?q=Langt) | N/A |
+| 43 | [langt](http://twitter.com/search?q=langt) | N/A |
 | 44 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
 | 45 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 46 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 47 | [Australien](http://twitter.com/search?q=Australien) | N/A |
-| 48 | [Spring](http://twitter.com/search?q=Spring) | N/A |
-| 49 | [kenneth perez](http://twitter.com/search?q=kenneth+perez) | N/A |
-| 50 | [zanka](http://twitter.com/search?q=zanka) | N/A |
+| 46 | [australien](http://twitter.com/search?q=australien) | N/A |
+| 47 | [Spring](http://twitter.com/search?q=Spring) | N/A |
+| 48 | [kenneth perez](http://twitter.com/search?q=kenneth+perez) | N/A |
+| 49 | [zanka](http://twitter.com/search?q=zanka) | N/A |
+| 50 | [forståeligt](http://twitter.com/search?q=forst%c3%a5eligt) | N/A |
 
 
 

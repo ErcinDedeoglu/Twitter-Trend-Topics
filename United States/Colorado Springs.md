@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-03-28 01:45:17 UTC`
+📆 Last Updated: `2023-03-28 02:32:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 2 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 3 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 6 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 7 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 8 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 9 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
-| 10 | [#USMNT](http://twitter.com/search?q=%23USMNT) | #USMNT is an acronym for the United States Men's National Soccer Team. It is used to refer to the men's national soccer team of the United States. |
-| 11 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 12 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 13 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 14 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 15 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 16 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 17 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 18 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 19 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 20 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 21 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 22 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 23 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 24 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 25 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 26 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 27 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 28 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 29 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 30 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 31 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 32 | [Miles Robinson](http://twitter.com/search?q=Miles+Robinson) | N/A |
-| 33 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
-| 34 | [Mustafa Ali](http://twitter.com/search?q=Mustafa+Ali) | N/A |
-| 35 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
-| 36 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 3 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 4 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
+| 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 7 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 8 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 9 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 10 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 11 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 12 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 13 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 14 | [#USMNT](http://twitter.com/search?q=%23USMNT) | #USMNT is an acronym for the United States Men's National Soccer Team. It is used to refer to the men's national soccer team of the United States. |
+| 15 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 16 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
+| 17 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 18 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 19 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 20 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 21 | [Immanuel Quickley](http://twitter.com/search?q=Immanuel+Quickley) | N/A |
+| 22 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 23 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 24 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
+| 25 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 26 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 27 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 28 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 29 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 30 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 31 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 32 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 33 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 34 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 35 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 36 | [Miles Robinson](http://twitter.com/search?q=Miles+Robinson) | N/A |
 | 37 | [Sean Lowe](http://twitter.com/search?q=Sean+Lowe) | N/A |
-| 38 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 39 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 40 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 41 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 42 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 43 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 44 | [Dike](http://twitter.com/search?q=Dike) | N/A |
-| 45 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 46 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 47 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
-| 48 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
-| 49 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 38 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
+| 39 | [Taylor Mikesell](http://twitter.com/search?q=Taylor+Mikesell) | N/A |
+| 40 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 41 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 42 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 43 | [Palmieri](http://twitter.com/search?q=Palmieri) | N/A |
+| 44 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 45 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 46 | [Neil Lane](http://twitter.com/search?q=Neil+Lane) | N/A |
+| 47 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 48 | [Dedmon](http://twitter.com/search?q=Dedmon) | Dedmon is a surname of English origin. It is derived from the Old English personal name "Deda" and the Old English word "mon" meaning "man". The name is thought to mean "man of Deda". |
+| 49 | [Sonya](http://twitter.com/search?q=Sonya) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-28 01:44:43 UTC`
+📆 Last Updated: `2023-03-28 02:32:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,24 +39,18 @@ This is top 50 for [Italy](</Italy>)
 | 22 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
 | 23 | [Clizia](http://twitter.com/search?q=Clizia) | Clizia is an Italian name derived from the Latin word "claesia," which means "fame." It is also a variant of the name Cleopatra, which means "glory of the father." |
 | 24 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 25 | [soleil](http://twitter.com/search?q=soleil) | N/A |
-| 26 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
-| 27 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 28 | [Giulia Salemi](http://twitter.com/search?q=Giulia+Salemi) | N/A |
-| 29 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 30 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
-| 31 | [#nikella](http://twitter.com/search?q=%23nikella) | N/A |
-| 32 | [#onestiners](http://twitter.com/search?q=%23onestiners) | N/A |
-| 33 | [#staseratuttoepossibile](http://twitter.com/search?q=%23staseratuttoepossibile) | N/A |
-| 34 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
-| 35 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
-| 36 | [#restaconme](http://twitter.com/search?q=%23restaconme) | N/A |
-| 37 | [#Maignan](http://twitter.com/search?q=%23Maignan) | N/A |
-| 38 | [#teamspina](http://twitter.com/search?q=%23teamspina) | N/A |
-| 39 | [#bisognaSaper](http://twitter.com/search?q=%23bisognaSaper) | N/A |
-| 40 | [#ciupilan](http://twitter.com/search?q=%23ciupilan) | N/A |
-| 41 | [#Nashville](http://twitter.com/search?q=%23Nashville) | N/A |
-| 42 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 25 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 26 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 27 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
+| 28 | [#queenfiorde](http://twitter.com/search?q=%23queenfiorde) | N/A |
+| 29 | [#nikella](http://twitter.com/search?q=%23nikella) | N/A |
+| 30 | [#onestiners](http://twitter.com/search?q=%23onestiners) | N/A |
+| 31 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
+| 32 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
+| 33 | [#restaconme](http://twitter.com/search?q=%23restaconme) | N/A |
+| 34 | [#Maignan](http://twitter.com/search?q=%23Maignan) | N/A |
+| 35 | [#bisognaSaper](http://twitter.com/search?q=%23bisognaSaper) | N/A |
+| 36 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
 
 
 
