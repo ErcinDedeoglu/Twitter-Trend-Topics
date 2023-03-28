@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-27 23:18:13 UTC`
+📆 Last Updated: `2023-03-28 00:30:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,43 +26,43 @@ This is top 50 for [South Africa](</South Africa>)
 | 9 | [NQF Level 8](http://twitter.com/search?q=NQF+Level+8) | N/A |
 | 10 | [COLGATE AND THEMBABROLY](http://twitter.com/search?q=COLGATE+AND+THEMBABROLY) | N/A |
 | 11 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
-| 12 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
-| 13 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
-| 14 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
-| 15 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
-| 16 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
-| 17 | [Generations](http://twitter.com/search?q=Generations) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 20 | [juicy jay x the antelope](http://twitter.com/search?q=juicy+jay+x+the+antelope) | N/A |
-| 21 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
-| 22 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 23 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 24 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 25 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
-| 26 | [PrEP](http://twitter.com/search?q=PrEP) | N/A |
-| 27 | [VOTE IPELENG](http://twitter.com/search?q=VOTE+IPELENG) | N/A |
-| 28 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
-| 29 | [Candy Crush](http://twitter.com/search?q=Candy+Crush) | N/A |
-| 30 | [Mfundi Vundla](http://twitter.com/search?q=Mfundi+Vundla) | N/A |
-| 31 | [Irina](http://twitter.com/search?q=Irina) | N/A |
-| 32 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 33 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
-| 34 | [Unborn](http://twitter.com/search?q=Unborn) | N/A |
-| 35 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
-| 36 | [BLUE AIVA IS COMING](http://twitter.com/search?q=BLUE+AIVA+IS+COMING) | N/A |
-| 37 | [Varsity Cup](http://twitter.com/search?q=Varsity+Cup) | N/A |
+| 12 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
+| 13 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
+| 14 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
+| 15 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 16 | [THEMBABROLY IS HUMAN](http://twitter.com/search?q=THEMBABROLY+IS+HUMAN) | N/A |
+| 17 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
+| 18 | [Generations](http://twitter.com/search?q=Generations) | N/A |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 21 | [juicy jay x the antelope](http://twitter.com/search?q=juicy+jay+x+the+antelope) | N/A |
+| 22 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
+| 23 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 24 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
+| 25 | [PrEP](http://twitter.com/search?q=PrEP) | N/A |
+| 26 | [VOTE IPELENG](http://twitter.com/search?q=VOTE+IPELENG) | N/A |
+| 27 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
+| 28 | [Candy Crush](http://twitter.com/search?q=Candy+Crush) | N/A |
+| 29 | [Mfundi Vundla](http://twitter.com/search?q=Mfundi+Vundla) | N/A |
+| 30 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 31 | [Unborn](http://twitter.com/search?q=Unborn) | N/A |
+| 32 | [Mall of Africa](http://twitter.com/search?q=Mall+of+Africa) | N/A |
+| 33 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 34 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
+| 35 | [BLUE AIVA IS COMING](http://twitter.com/search?q=BLUE+AIVA+IS+COMING) | N/A |
+| 36 | [Varsity Cup](http://twitter.com/search?q=Varsity+Cup) | N/A |
+| 37 | [Cope](http://twitter.com/search?q=Cope) | N/A |
 | 38 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 39 | [Uncle Waffles](http://twitter.com/search?q=Uncle+Waffles) | N/A |
 | 40 | [JUICY JAY THE STANDARD](http://twitter.com/search?q=JUICY+JAY+THE+STANDARD) | N/A |
 | 41 | [Easter Eggs](http://twitter.com/search?q=Easter+Eggs) | N/A |
 | 42 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
 | 43 | [Johnson Charles](http://twitter.com/search?q=Johnson+Charles) | N/A |
-| 44 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
-| 45 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 46 | [Cashew](http://twitter.com/search?q=Cashew) | N/A |
-| 47 | [yahyuppiyah](http://twitter.com/search?q=yahyuppiyah) | N/A |
-| 48 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 44 | [Cashew](http://twitter.com/search?q=Cashew) | N/A |
+| 45 | [yahyuppiyah](http://twitter.com/search?q=yahyuppiyah) | N/A |
+| 46 | [Plane](http://twitter.com/search?q=Plane) | N/A |
+| 47 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 48 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
 
 
 

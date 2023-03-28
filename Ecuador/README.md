@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-27 23:18:36 UTC`
+📆 Last Updated: `2023-03-28 00:30:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ecuador
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alausí](http://twitter.com/search?q=Alaus%c3%ad) | N/A |
-| 2 | [Richard Ortiz](http://twitter.com/search?q=Richard+Ortiz) | N/A |
-| 3 | [Nuques](http://twitter.com/search?q=Nuques) | N/A |
-| 4 | [Esfero](http://twitter.com/search?q=Esfero) | N/A |
-| 5 | [#GalápagosDecidió](http://twitter.com/search?q=%23Gal%c3%a1pagosDecidi%c3%b3) | N/A |
-| 6 | [#ElBancoDeLaTRI](http://twitter.com/search?q=%23ElBancoDeLaTRI) | N/A |
-| 7 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 8 | [Pluma](http://twitter.com/search?q=Pluma) | N/A |
-| 9 | [#chitovera](http://twitter.com/search?q=%23chitovera) | N/A |
-| 10 | [Machala](http://twitter.com/search?q=Machala) | N/A |
-| 11 | [#CruzadaPorLaGente](http://twitter.com/search?q=%23CruzadaPorLaGente) | N/A |
-| 12 | [ANA Y MAR MCTO](http://twitter.com/search?q=ANA+Y+MAR+MCTO) | N/A |
-| 13 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 14 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
-| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 16 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 17 | [Riesgos](http://twitter.com/search?q=Riesgos) | N/A |
-| 18 | [Edwin Salazar](http://twitter.com/search?q=Edwin+Salazar) | N/A |
-| 19 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 20 | [Byron Moreno](http://twitter.com/search?q=Byron+Moreno) | N/A |
-| 21 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
-| 22 | [Entrega de Credenciales](http://twitter.com/search?q=Entrega+de+Credenciales) | N/A |
-| 23 | [Casabaca](http://twitter.com/search?q=Casabaca) | N/A |
-| 24 | [Casual](http://twitter.com/search?q=Casual) | N/A |
-| 25 | [Pindal](http://twitter.com/search?q=Pindal) | N/A |
-| 26 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 27 | [Donen](http://twitter.com/search?q=Donen) | N/A |
-| 28 | [pueblo viejo](http://twitter.com/search?q=pueblo+viejo) | N/A |
-| 29 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
-| 30 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 31 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 32 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 33 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 34 | [Rohon](http://twitter.com/search?q=Rohon) | N/A |
-| 35 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
-| 36 | [Riobamba](http://twitter.com/search?q=Riobamba) | N/A |
-| 37 | [Vilma](http://twitter.com/search?q=Vilma) | N/A |
-| 38 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 39 | [Joao Rojas](http://twitter.com/search?q=Joao+Rojas) | N/A |
-| 40 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
-| 41 | [Asesina](http://twitter.com/search?q=Asesina) | N/A |
-| 42 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
-| 43 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
-| 44 | [Prefecto](http://twitter.com/search?q=Prefecto) | N/A |
-| 45 | [ONGs](http://twitter.com/search?q=ONGs) | N/A |
-| 46 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 47 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
-| 48 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
-| 49 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
-| 50 | [Suero](http://twitter.com/search?q=Suero) | N/A |
+| 2 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 3 | [Guaraní](http://twitter.com/search?q=Guaran%c3%ad) | N/A |
+| 4 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
+| 5 | [Grupo B](http://twitter.com/search?q=Grupo+B) | N/A |
+| 6 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 7 | [#Sudamericana](http://twitter.com/search?q=%23Sudamericana) | N/A |
+| 8 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 9 | [Universidad César Vallejo](http://twitter.com/search?q=Universidad+C%c3%a9sar+Vallejo) | N/A |
+| 10 | [Teresa Nuques](http://twitter.com/search?q=Teresa+Nuques) | N/A |
+| 11 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 12 | [Huracán](http://twitter.com/search?q=Hurac%c3%a1n) | N/A |
+| 13 | [#Magallanes](http://twitter.com/search?q=%23Magallanes) | N/A |
+| 14 | [Richard Ortiz](http://twitter.com/search?q=Richard+Ortiz) | N/A |
+| 15 | [#ElBancoDeLaTRI](http://twitter.com/search?q=%23ElBancoDeLaTRI) | N/A |
+| 16 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 17 | [#GalápagosDecidió](http://twitter.com/search?q=%23Gal%c3%a1pagosDecidi%c3%b3) | N/A |
+| 18 | [#chitovera](http://twitter.com/search?q=%23chitovera) | N/A |
+| 19 | [Esfero](http://twitter.com/search?q=Esfero) | N/A |
+| 20 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 21 | [Pluma](http://twitter.com/search?q=Pluma) | N/A |
+| 22 | [ANA Y MAR MCTO](http://twitter.com/search?q=ANA+Y+MAR+MCTO) | N/A |
+| 23 | [Machala](http://twitter.com/search?q=Machala) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 26 | [Riesgos](http://twitter.com/search?q=Riesgos) | N/A |
+| 27 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 28 | [Edwin Salazar](http://twitter.com/search?q=Edwin+Salazar) | N/A |
+| 29 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 30 | [Byron Moreno](http://twitter.com/search?q=Byron+Moreno) | N/A |
+| 31 | [Cruz Roja](http://twitter.com/search?q=Cruz+Roja) | N/A |
+| 32 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
+| 33 | [Casabaca](http://twitter.com/search?q=Casabaca) | N/A |
+| 34 | [Casual](http://twitter.com/search?q=Casual) | N/A |
+| 35 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 36 | [pueblo viejo](http://twitter.com/search?q=pueblo+viejo) | N/A |
+| 37 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
+| 38 | [Donen](http://twitter.com/search?q=Donen) | N/A |
+| 39 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 40 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 41 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 42 | [Riobamba](http://twitter.com/search?q=Riobamba) | N/A |
+| 43 | [Rohon](http://twitter.com/search?q=Rohon) | N/A |
+| 44 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 45 | [Capwell](http://twitter.com/search?q=Capwell) | N/A |
+| 46 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 47 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 48 | [Vilma](http://twitter.com/search?q=Vilma) | N/A |
+| 49 | [Joao Rojas](http://twitter.com/search?q=Joao+Rojas) | N/A |
+| 50 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
 
 
 

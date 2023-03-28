@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-03-27 23:18:26 UTC`
+📆 Last Updated: `2023-03-28 00:30:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Philly](http://twitter.com/search?q=Philly) | Philly is a nickname for the city of Philadelphia, Pennsylvania. It is often used as shorthand for the city and its surrounding metropolitan area. |
-| 2 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 3 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 2 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 5 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 6 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 7 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 8 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 9 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 10 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 11 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 12 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 13 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
-| 14 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 15 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 16 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 17 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
-| 18 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 19 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 20 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
-| 21 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 22 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 23 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 24 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 25 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 26 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 27 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
-| 28 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
-| 29 | [Three 9](http://twitter.com/search?q=Three+9) | N/A |
-| 30 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 31 | [#EnoughIsEnough](http://twitter.com/search?q=%23EnoughIsEnough) | N/A |
-| 32 | [Meek Mill](http://twitter.com/search?q=Meek+Mill) | N/A |
-| 33 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 34 | [Testosterone](http://twitter.com/search?q=Testosterone) | N/A |
-| 35 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 36 | [Thoughts and Prayers](http://twitter.com/search?q=Thoughts+and+Prayers) | N/A |
-| 37 | [Katherine Koonce](http://twitter.com/search?q=Katherine+Koonce) | N/A |
-| 38 | [Alex Russo](http://twitter.com/search?q=Alex+Russo) | N/A |
-| 39 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 40 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 41 | [Biological](http://twitter.com/search?q=Biological) | N/A |
+| 6 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 7 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 8 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 9 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 10 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 11 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 12 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 13 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 14 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 15 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 16 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 17 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 18 | [#USMNT](http://twitter.com/search?q=%23USMNT) | #USMNT is an acronym for the United States Men's National Soccer Team. It is used to refer to the men's national soccer team of the United States. |
+| 19 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 20 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 21 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 22 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 23 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 24 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 25 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 26 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 27 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 28 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 29 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
+| 30 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 31 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 32 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 33 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 34 | [3DS eShop](http://twitter.com/search?q=3DS+eShop) | N/A |
+| 35 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 36 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 37 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 38 | [Aiden](http://twitter.com/search?q=Aiden) | N/A |
+| 39 | [Testosterone](http://twitter.com/search?q=Testosterone) | N/A |
+| 40 | [Rousek](http://twitter.com/search?q=Rousek) | N/A |
+| 41 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 | 42 | [Mentally](http://twitter.com/search?q=Mentally) | N/A |
-| 43 | [Evelyn Dieckhaus](http://twitter.com/search?q=Evelyn+Dieckhaus) | N/A |
-| 44 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 45 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 46 | [Sour Candy](http://twitter.com/search?q=Sour+Candy) | N/A |
-| 47 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
-| 48 | [Cynthia Peak](http://twitter.com/search?q=Cynthia+Peak) | N/A |
-| 49 | [Samantha Hyde](http://twitter.com/search?q=Samantha+Hyde) | N/A |
-| 50 | [Hallie Scruggs](http://twitter.com/search?q=Hallie+Scruggs) | N/A |
+| 43 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 44 | [Three 9](http://twitter.com/search?q=Three+9) | N/A |
+| 45 | [Gutey](http://twitter.com/search?q=Gutey) | N/A |
+| 46 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
+| 47 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
+| 48 | [The Miz](http://twitter.com/search?q=The+Miz) | N/A |
+| 49 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 50 | [Biological](http://twitter.com/search?q=Biological) | N/A |
 
 
 

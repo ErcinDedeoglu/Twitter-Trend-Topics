@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-27 23:18:38 UTC`
+📆 Last Updated: `2023-03-28 00:30:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,50 @@ This is top 50 for Israel
 | 1 | [סוג ב](http://twitter.com/search?q=%d7%a1%d7%95%d7%92+%d7%91) | N/A |
 | 2 | [משמר לאומי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%9e%d7%a8+%d7%9c%d7%90%d7%95%d7%9e%d7%99) | N/A |
 | 3 | [של בן גביר](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
-| 4 | [מים כחולים](http://twitter.com/search?q=%d7%9e%d7%99%d7%9d+%d7%9b%d7%97%d7%95%d7%9c%d7%99%d7%9d) | N/A |
-| 5 | [של לה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%94) | N/A |
-| 6 | [משפט שלמה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 7 | [מיעוט קיצוני](http://twitter.com/search?q=%d7%9e%d7%99%d7%a2%d7%95%d7%98+%d7%a7%d7%99%d7%a6%d7%95%d7%a0%d7%99) | N/A |
-| 8 | [עם ישראל חי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%97%d7%99) | N/A |
-| 9 | [ר ההסתדרות](http://twitter.com/search?q=%d7%a8+%d7%94%d7%94%d7%a1%d7%aa%d7%93%d7%a8%d7%95%d7%aa) | N/A |
-| 10 | [שר ביטחון](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f) | N/A |
+| 4 | [של לה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%94) | N/A |
+| 5 | [משפט שלמה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 6 | [מיעוט קיצוני](http://twitter.com/search?q=%d7%9e%d7%99%d7%a2%d7%95%d7%98+%d7%a7%d7%99%d7%a6%d7%95%d7%a0%d7%99) | N/A |
+| 7 | [ר ההסתדרות](http://twitter.com/search?q=%d7%a8+%d7%94%d7%94%d7%a1%d7%aa%d7%93%d7%a8%d7%95%d7%aa) | N/A |
+| 8 | [שר ביטחון](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%91%d7%99%d7%98%d7%97%d7%95%d7%9f) | N/A |
+| 9 | [עם ישראל חי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%97%d7%99) | N/A |
+| 10 | [ארנון בר דוד](http://twitter.com/search?q=%d7%90%d7%a8%d7%a0%d7%95%d7%9f+%d7%91%d7%a8+%d7%93%d7%95%d7%93) | N/A |
 | 11 | [פנחס עידן](http://twitter.com/search?q=%d7%a4%d7%a0%d7%97%d7%a1+%d7%a2%d7%99%d7%93%d7%9f) | N/A |
-| 12 | [ארנון בר דוד](http://twitter.com/search?q=%d7%90%d7%a8%d7%a0%d7%95%d7%9f+%d7%91%d7%a8+%d7%93%d7%95%d7%93) | N/A |
-| 13 | [היום בירושלים](http://twitter.com/search?q=%d7%94%d7%99%d7%95%d7%9d+%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 14 | [שביתה כללית](http://twitter.com/search?q=%d7%a9%d7%91%d7%99%d7%aa%d7%94+%d7%9b%d7%9c%d7%9c%d7%99%d7%aa) | N/A |
-| 15 | [ראש ממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 16 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 17 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
-| 18 | [בני גנץ](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%92%d7%a0%d7%a5) | N/A |
-| 19 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 20 | [בני יהודה](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%99%d7%94%d7%95%d7%93%d7%94) | N/A |
-| 21 | [מול הכנסת](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 22 | [נתב״ג](http://twitter.com/search?q=%d7%a0%d7%aa%d7%91%d7%b4%d7%92) | N/A |
-| 23 | [מאות אלפים](http://twitter.com/search?q=%d7%9e%d7%90%d7%95%d7%aa+%d7%90%d7%9c%d7%a4%d7%99%d7%9d) | N/A |
-| 24 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 12 | [היום בירושלים](http://twitter.com/search?q=%d7%94%d7%99%d7%95%d7%9d+%d7%91%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 13 | [שביתה כללית](http://twitter.com/search?q=%d7%a9%d7%91%d7%99%d7%aa%d7%94+%d7%9b%d7%9c%d7%9c%d7%99%d7%aa) | N/A |
+| 14 | [ראש ממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 15 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 16 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 17 | [בני גנץ](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%92%d7%a0%d7%a5) | N/A |
+| 18 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 19 | [בני יהודה](http://twitter.com/search?q=%d7%91%d7%a0%d7%99+%d7%99%d7%94%d7%95%d7%93%d7%94) | N/A |
+| 20 | [מול הכנסת](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 21 | [נתב״ג](http://twitter.com/search?q=%d7%a0%d7%aa%d7%91%d7%b4%d7%92) | N/A |
+| 22 | [מאות אלפים](http://twitter.com/search?q=%d7%9e%d7%90%d7%95%d7%aa+%d7%90%d7%9c%d7%a4%d7%99%d7%9d) | N/A |
+| 23 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 24 | [מכל הארץ](http://twitter.com/search?q=%d7%9e%d7%9b%d7%9c+%d7%94%d7%90%d7%a8%d7%a5) | N/A |
 | 25 | [בן צור](http://twitter.com/search?q=%d7%91%d7%9f+%d7%a6%d7%95%d7%a8) | N/A |
-| 26 | [מכל הארץ](http://twitter.com/search?q=%d7%9e%d7%9b%d7%9c+%d7%94%d7%90%d7%a8%d7%a5) | N/A |
-| 27 | [Knesset](http://twitter.com/search?q=Knesset) | N/A |
-| 28 | [של ביבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%91%d7%99) | N/A |
-| 29 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
-| 30 | [שלמה ארצי](http://twitter.com/search?q=%d7%a9%d7%9c%d7%9e%d7%94+%d7%90%d7%a8%d7%a6%d7%99) | N/A |
-| 31 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
-| 32 | [אלף איש](http://twitter.com/search?q=%d7%90%d7%9c%d7%a3+%d7%90%d7%99%d7%a9) | N/A |
-| 33 | [בלי אלימות](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa) | N/A |
-| 34 | [מאה אלף](http://twitter.com/search?q=%d7%9e%d7%90%d7%94+%d7%90%d7%9c%d7%a3) | N/A |
-| 35 | [ימין קיצוני](http://twitter.com/search?q=%d7%99%d7%9e%d7%99%d7%9f+%d7%a7%d7%99%d7%a6%d7%95%d7%a0%d7%99) | N/A |
+| 26 | [Knesset](http://twitter.com/search?q=Knesset) | N/A |
+| 27 | [של ביבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%91%d7%99) | N/A |
+| 28 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
+| 29 | [שלמה ארצי](http://twitter.com/search?q=%d7%a9%d7%9c%d7%9e%d7%94+%d7%90%d7%a8%d7%a6%d7%99) | N/A |
+| 30 | [גדעון סער](http://twitter.com/search?q=%d7%92%d7%93%d7%a2%d7%95%d7%9f+%d7%a1%d7%a2%d7%a8) | N/A |
+| 31 | [אלף איש](http://twitter.com/search?q=%d7%90%d7%9c%d7%a3+%d7%90%d7%99%d7%a9) | N/A |
+| 32 | [בלי אלימות](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%90%d7%9c%d7%99%d7%9e%d7%95%d7%aa) | N/A |
+| 33 | [ימין קיצוני](http://twitter.com/search?q=%d7%99%d7%9e%d7%99%d7%9f+%d7%a7%d7%99%d7%a6%d7%95%d7%a0%d7%99) | N/A |
+| 34 | [מים כחולים](http://twitter.com/search?q=%d7%9e%d7%99%d7%9d+%d7%9b%d7%97%d7%95%d7%9c%d7%99%d7%9d) | N/A |
+| 35 | [מאה אלף](http://twitter.com/search?q=%d7%9e%d7%90%d7%94+%d7%90%d7%9c%d7%a3) | N/A |
 | 36 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
 | 37 | [איזה דגל](http://twitter.com/search?q=%d7%90%d7%99%d7%96%d7%94+%d7%93%d7%92%d7%9c) | N/A |
 | 38 | [בלי מימון](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%9e%d7%99%d7%9e%d7%95%d7%9f) | N/A |
 | 39 | [הראל ויזל](http://twitter.com/search?q=%d7%94%d7%a8%d7%90%d7%9c+%d7%95%d7%99%d7%96%d7%9c) | N/A |
-| 40 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
-| 41 | [ילד חרא](http://twitter.com/search?q=%d7%99%d7%9c%d7%93+%d7%97%d7%a8%d7%90) | N/A |
-| 42 | [סכסוך עבודה](http://twitter.com/search?q=%d7%a1%d7%9b%d7%a1%d7%95%d7%9a+%d7%a2%d7%91%d7%95%d7%93%d7%94) | N/A |
-| 43 | [רשות שדות](http://twitter.com/search?q=%d7%a8%d7%a9%d7%95%d7%aa+%d7%a9%d7%93%d7%95%d7%aa) | N/A |
-| 44 | [של ההיסטוריה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%94) | N/A |
+| 40 | [ילד חרא](http://twitter.com/search?q=%d7%99%d7%9c%d7%93+%d7%97%d7%a8%d7%90) | N/A |
+| 41 | [סכסוך עבודה](http://twitter.com/search?q=%d7%a1%d7%9b%d7%a1%d7%95%d7%9a+%d7%a2%d7%91%d7%95%d7%93%d7%94) | N/A |
+| 42 | [רשות שדות](http://twitter.com/search?q=%d7%a8%d7%a9%d7%95%d7%aa+%d7%a9%d7%93%d7%95%d7%aa) | N/A |
+| 43 | [של ההיסטוריה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%94%d7%99%d7%a1%d7%98%d7%95%d7%a8%d7%99%d7%94) | N/A |
+| 44 | [עד עכשיו](http://twitter.com/search?q=%d7%a2%d7%93+%d7%a2%d7%9b%d7%a9%d7%99%d7%95) | N/A |
 | 45 | [עד יולי](http://twitter.com/search?q=%d7%a2%d7%93+%d7%99%d7%95%d7%9c%d7%99) | N/A |
-| 46 | [עד עכשיו](http://twitter.com/search?q=%d7%a2%d7%93+%d7%a2%d7%9b%d7%a9%d7%99%d7%95) | N/A |
-| 47 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 46 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 47 | [Jerusalem](http://twitter.com/search?q=Jerusalem) | "Jerusalem" is a song written by English composer William Blake in 1804. It is a hymn of praise to the city of Jerusalem, and its lyrics express a longing for the city's return to glory. The song is often sung as an anthem at British and Commonwealth events, and has been adopted as the unofficial national anthem of England. The phrase "Jerusalem" has come to symbolize hope, peace, and freedom for many people around the world. |
 | 48 | [Ben Gvir](http://twitter.com/search?q=Ben+Gvir) | N/A |
 | 49 | [תודה יואב](http://twitter.com/search?q=%d7%aa%d7%95%d7%93%d7%94+%d7%99%d7%95%d7%90%d7%91) | N/A |
 | 50 | [אל תקנה](http://twitter.com/search?q=%d7%90%d7%9c+%d7%aa%d7%a7%d7%a0%d7%94) | N/A |

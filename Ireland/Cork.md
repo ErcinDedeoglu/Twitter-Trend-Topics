@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-27 23:17:52 UTC`
+📆 Last Updated: `2023-03-28 00:29:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
 | 2 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
 | 3 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
-| 4 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 5 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 6 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
-| 7 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 8 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 4 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
+| 5 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 6 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 7 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 8 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
 | 9 | [#irelandvsfrance](http://twitter.com/search?q=%23irelandvsfrance) | N/A |
-| 10 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 11 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 12 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
-| 13 | [Spar](http://twitter.com/search?q=Spar) | N/A |
-| 14 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 15 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 16 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 17 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
-| 18 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 19 | [Seamus Coleman](http://twitter.com/search?q=Seamus+Coleman) | N/A |
-| 20 | [Knight](http://twitter.com/search?q=Knight) | N/A |
-| 21 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 22 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 23 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
-| 24 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
-| 25 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
-| 26 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
-| 27 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 28 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 29 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 30 | [Dutch](http://twitter.com/search?q=Dutch) | N/A |
-| 31 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 32 | [Idah](http://twitter.com/search?q=Idah) | N/A |
-| 33 | [Alan Browne](http://twitter.com/search?q=Alan+Browne) | N/A |
-| 34 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
-| 35 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
-| 36 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 37 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 38 | [Joanne Cantwell](http://twitter.com/search?q=Joanne+Cantwell) | N/A |
-| 39 | [Shona](http://twitter.com/search?q=Shona) | N/A |
-| 40 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
-| 41 | [danny searle](http://twitter.com/search?q=danny+searle) | N/A |
-| 42 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 43 | [waterford fc](http://twitter.com/search?q=waterford+fc) | N/A |
-| 44 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
-| 45 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 46 | [Melanie Greally](http://twitter.com/search?q=Melanie+Greally) | N/A |
-| 47 | [Terre](http://twitter.com/search?q=Terre) | N/A |
-| 48 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
-| 49 | [come on you boys in green](http://twitter.com/search?q=come+on+you+boys+in+green) | N/A |
-| 50 | [Stephen Cluxton](http://twitter.com/search?q=Stephen+Cluxton) | N/A |
+| 10 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 12 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 13 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 14 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 15 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 16 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 17 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 18 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 19 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 20 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
+| 21 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
+| 22 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 23 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 24 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
+| 25 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 26 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
+| 27 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 28 | [Idah](http://twitter.com/search?q=Idah) | N/A |
+| 29 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 30 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
+| 31 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
+| 32 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 33 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 34 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 35 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 36 | [Shona](http://twitter.com/search?q=Shona) | N/A |
+| 37 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
+| 38 | [danny searle](http://twitter.com/search?q=danny+searle) | N/A |
+| 39 | [Dutch](http://twitter.com/search?q=Dutch) | N/A |
+| 40 | [McClean](http://twitter.com/search?q=McClean) | N/A |
+| 41 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 42 | [waterford fc](http://twitter.com/search?q=waterford+fc) | N/A |
+| 43 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
+| 44 | [Melanie Greally](http://twitter.com/search?q=Melanie+Greally) | N/A |
+| 45 | [Terre](http://twitter.com/search?q=Terre) | N/A |
+| 46 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 47 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
+| 48 | [come on you boys in green](http://twitter.com/search?q=come+on+you+boys+in+green) | N/A |
+| 49 | [Stephen Cluxton](http://twitter.com/search?q=Stephen+Cluxton) | N/A |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

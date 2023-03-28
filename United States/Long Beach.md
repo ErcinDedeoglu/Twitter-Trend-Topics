@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-27 23:18:28 UTC`
+📆 Last Updated: `2023-03-28 00:30:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 2 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 3 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 4 | [Lance](http://twitter.com/search?q=Lance) | N/A |
-| 5 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 6 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 7 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 11 | [#MAHSAAct](http://twitter.com/search?q=%23MAHSAAct) | N/A |
-| 12 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 13 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 14 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 15 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 16 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 17 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 18 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 19 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 20 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 21 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
-| 22 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 23 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 24 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 25 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
-| 26 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 27 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
-| 28 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
-| 29 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 30 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 31 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 32 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 33 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 34 | [DO SOMETHING](http://twitter.com/search?q=DO+SOMETHING) | N/A |
-| 35 | [Sam Hyde](http://twitter.com/search?q=Sam+Hyde) | N/A |
-| 36 | [Three 9](http://twitter.com/search?q=Three+9) | N/A |
-| 37 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 38 | [Meek Mill](http://twitter.com/search?q=Meek+Mill) | N/A |
-| 39 | [Ravens](http://twitter.com/search?q=Ravens) | Ravens are large, black birds that are found in many parts of the world. In English, the word "raven" is often used to refer to a person or thing that is mysterious or difficult to understand. It can also be used to describe someone who is wise and insightful. |
-| 40 | [Testosterone](http://twitter.com/search?q=Testosterone) | N/A |
-| 41 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
-| 42 | [Katherine Koonce](http://twitter.com/search?q=Katherine+Koonce) | N/A |
-| 43 | [Alex Russo](http://twitter.com/search?q=Alex+Russo) | N/A |
-| 44 | [Armed](http://twitter.com/search?q=Armed) | N/A |
-| 45 | [Biological](http://twitter.com/search?q=Biological) | N/A |
-| 46 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 47 | [Evelyn Dieckhaus](http://twitter.com/search?q=Evelyn+Dieckhaus) | N/A |
-| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 49 | [Mentally](http://twitter.com/search?q=Mentally) | N/A |
+| 1 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 2 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 3 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
+| 4 | [Male](http://twitter.com/search?q=Male) | N/A |
+| 5 | [Fentanyl](http://twitter.com/search?q=Fentanyl) | N/A |
+| 6 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
+| 7 | [Marsha](http://twitter.com/search?q=Marsha) | N/A |
+| 8 | [Mass](http://twitter.com/search?q=Mass) | N/A |
+| 9 | [Drag Queens](http://twitter.com/search?q=Drag+Queens) | N/A |
+| 10 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
+| 11 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
+| 12 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 13 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 14 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 15 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 16 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 17 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 18 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 19 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 20 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 21 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 22 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 23 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 24 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 25 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 26 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 27 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 28 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 29 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 30 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 31 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 32 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 33 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 34 | [Pecker](http://twitter.com/search?q=Pecker) | N/A |
+| 35 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 36 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 37 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 38 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
+| 39 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 40 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 41 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 42 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 43 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 44 | [3DS eShop](http://twitter.com/search?q=3DS+eShop) | N/A |
+| 45 | [Testosterone](http://twitter.com/search?q=Testosterone) | N/A |
+| 46 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 47 | [Aiden](http://twitter.com/search?q=Aiden) | N/A |
+| 48 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 49 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 
 
 

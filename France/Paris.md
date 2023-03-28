@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-27 23:17:53 UTC`
+📆 Last Updated: `2023-03-28 00:29:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,45 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 2 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
-| 3 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 4 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 5 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
-| 6 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 7 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 8 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
+| 2 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
+| 3 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 4 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
+| 5 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 6 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 7 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
+| 8 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 9 | [#FRAIRL](http://twitter.com/search?q=%23FRAIRL) | N/A |
-| 10 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 10 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
 | 11 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 12 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
-| 13 | [Irlande](http://twitter.com/search?q=Irlande) | N/A |
-| 14 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 15 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 16 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 17 | [Areola](http://twitter.com/search?q=Areola) | N/A |
+| 12 | [Irlande](http://twitter.com/search?q=Irlande) | N/A |
+| 13 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 14 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 15 | [Areola](http://twitter.com/search?q=Areola) | N/A |
+| 16 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 17 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 | 18 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 19 | [Koundé](http://twitter.com/search?q=Kound%c3%a9) | N/A |
+| 19 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
 | 20 | [Fabrice](http://twitter.com/search?q=Fabrice) | N/A |
-| 21 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 22 | [Soudan](http://twitter.com/search?q=Soudan) | N/A |
-| 23 | [Les Irlandais](http://twitter.com/search?q=Les+Irlandais) | N/A |
-| 24 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
-| 25 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 21 | [Soudan](http://twitter.com/search?q=Soudan) | N/A |
+| 22 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 23 | [DEEBOT X1e OMNI](http://twitter.com/search?q=DEEBOT+X1e+OMNI) | N/A |
+| 24 | [Garonne](http://twitter.com/search?q=Garonne) | N/A |
+| 25 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
 | 26 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 27 | [Garonne](http://twitter.com/search?q=Garonne) | N/A |
-| 28 | [DEEBOT X1e OMNI](http://twitter.com/search?q=DEEBOT+X1e+OMNI) | N/A |
-| 29 | [LOSC](http://twitter.com/search?q=LOSC) | N/A |
-| 30 | [ALLEZ LES BLEUS](http://twitter.com/search?q=ALLEZ+LES+BLEUS) | N/A |
-| 31 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 32 | [Fiché S](http://twitter.com/search?q=Fich%c3%a9+S) | N/A |
-| 33 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 34 | [Tour Eiffel](http://twitter.com/search?q=Tour+Eiffel) | N/A |
-| 35 | [Édouard Philippe](http://twitter.com/search?q=%c3%89douard+Philippe) | N/A |
-| 36 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 37 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 38 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 39 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 40 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
-| 41 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 42 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 43 | [Marine Tondelier](http://twitter.com/search?q=Marine+Tondelier) | N/A |
-| 44 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 45 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
-| 46 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 47 | [#MariesAuPremierRegard](http://twitter.com/search?q=%23MariesAuPremierRegard) | N/A |
-| 48 | [#ESOSR](http://twitter.com/search?q=%23ESOSR) | N/A |
-| 49 | [#MariesAu1erRegard](http://twitter.com/search?q=%23MariesAu1erRegard) | N/A |
-| 50 | [#FiersdetreBleus](http://twitter.com/search?q=%23FiersdetreBleus) | N/A |
+| 27 | [LOSC](http://twitter.com/search?q=LOSC) | N/A |
+| 28 | [Tour Eiffel](http://twitter.com/search?q=Tour+Eiffel) | N/A |
+| 29 | [Edouard Philippe](http://twitter.com/search?q=Edouard+Philippe) | N/A |
+| 30 | [Fiché S](http://twitter.com/search?q=Fich%c3%a9+S) | N/A |
+| 31 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 32 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 33 | [Jackie Brown](http://twitter.com/search?q=Jackie+Brown) | N/A |
+| 34 | [#MariesAu1erRegard](http://twitter.com/search?q=%23MariesAu1erRegard) | N/A |
+| 35 | [#EURO2024Qualifiers](http://twitter.com/search?q=%23EURO2024Qualifiers) | N/A |
+| 36 | [#mariageeliduswag](http://twitter.com/search?q=%23mariageeliduswag) | N/A |
+| 37 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
+| 38 | [#Quotidien](http://twitter.com/search?q=%23Quotidien) | N/A |
+| 39 | [#FrandroidOffreMoi](http://twitter.com/search?q=%23FrandroidOffreMoi) | N/A |
+| 40 | [#NIGALG](http://twitter.com/search?q=%23NIGALG) | N/A |
 
 
 

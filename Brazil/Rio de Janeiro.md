@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-27 23:17:48 UTC`
+📆 Last Updated: `2023-03-28 00:29:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
-| 2 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 3 | [Paulo Coelho](http://twitter.com/search?q=Paulo+Coelho) | N/A |
-| 4 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 5 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 6 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
-| 7 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 8 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 9 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 1 | [Tiquinho](http://twitter.com/search?q=Tiquinho) | N/A |
+| 2 | [UERJ](http://twitter.com/search?q=UERJ) | N/A |
+| 3 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 4 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 5 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
+| 6 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 7 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 8 | [Paraguai](http://twitter.com/search?q=Paraguai) | N/A |
+| 9 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
 | 10 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 11 | [Sour Candy](http://twitter.com/search?q=Sour+Candy) | N/A |
-| 12 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 13 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 14 | [#TVZPocah](http://twitter.com/search?q=%23TVZPocah) | N/A |
-| 15 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
-| 16 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
-| 17 | [RJTV](http://twitter.com/search?q=RJTV) | N/A |
-| 18 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
-| 19 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
-| 20 | [#TresVezesAna041](http://twitter.com/search?q=%23TresVezesAna041) | N/A |
-| 21 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
-| 22 | [Calabresa](http://twitter.com/search?q=Calabresa) | N/A |
-| 23 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
-| 24 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 25 | [alex russo](http://twitter.com/search?q=alex+russo) | N/A |
-| 26 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
-| 27 | [#ANGEL22MTVHITS](http://twitter.com/search?q=%23ANGEL22MTVHITS) | N/A |
-| 28 | [Meu WhatsApp](http://twitter.com/search?q=Meu+WhatsApp) | N/A |
-| 29 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
-| 30 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 31 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 32 | [Lagum](http://twitter.com/search?q=Lagum) | N/A |
-| 33 | [Marguerita](http://twitter.com/search?q=Marguerita) | N/A |
-| 34 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 35 | [Any Gabrielly](http://twitter.com/search?q=Any+Gabrielly) | N/A |
-| 36 | [Catupiry](http://twitter.com/search?q=Catupiry) | N/A |
-| 37 | [Mondial](http://twitter.com/search?q=Mondial) | N/A |
-| 38 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 39 | [Suzano](http://twitter.com/search?q=Suzano) | N/A |
-| 40 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 41 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 42 | [PROUD OF YOU JIMIN](http://twitter.com/search?q=PROUD+OF+YOU+JIMIN) | N/A |
-| 43 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 44 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 45 | [Elisabeth Tenreiro](http://twitter.com/search?q=Elisabeth+Tenreiro) | N/A |
-| 46 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 47 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 48 | [Vila Sônia](http://twitter.com/search?q=Vila+S%c3%b4nia) | N/A |
-| 49 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
-| 50 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 11 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 12 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 13 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
+| 14 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 15 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 16 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
+| 17 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 18 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 19 | [LOUD NA FINAL DO GC](http://twitter.com/search?q=LOUD+NA+FINAL+DO+GC) | N/A |
+| 20 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 21 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 22 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 23 | [Sula](http://twitter.com/search?q=Sula) | N/A |
+| 24 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 25 | [#ZeDeliveryNoBBB](http://twitter.com/search?q=%23ZeDeliveryNoBBB) | N/A |
+| 26 | [Loco Abreu](http://twitter.com/search?q=Loco+Abreu) | N/A |
+| 27 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
+| 28 | [América MG](http://twitter.com/search?q=Am%c3%a9rica+MG) | N/A |
+| 29 | [Luís Castro](http://twitter.com/search?q=Lu%c3%ads+Castro) | N/A |
+| 30 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
+| 31 | [Sour Candy](http://twitter.com/search?q=Sour+Candy) | N/A |
+| 32 | [Sol e Lui](http://twitter.com/search?q=Sol+e+Lui) | N/A |
+| 33 | [Cristiane](http://twitter.com/search?q=Cristiane) | N/A |
+| 34 | [Di Plácido](http://twitter.com/search?q=Di+Pl%c3%a1cido) | N/A |
+| 35 | [#AmarAMorteNoVIVA](http://twitter.com/search?q=%23AmarAMorteNoVIVA) | N/A |
+| 36 | [Puerto Cabello](http://twitter.com/search?q=Puerto+Cabello) | N/A |
+| 37 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 38 | [Estudiantes](http://twitter.com/search?q=Estudiantes) | N/A |
+| 39 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 40 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
+| 41 | [Sarah Andrade](http://twitter.com/search?q=Sarah+Andrade) | N/A |
+| 42 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 43 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 44 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 45 | [O América](http://twitter.com/search?q=O+Am%c3%a9rica) | N/A |
+| 46 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 47 | [RJTV](http://twitter.com/search?q=RJTV) | N/A |
+| 48 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
+| 49 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 50 | [Luis Henrique](http://twitter.com/search?q=Luis+Henrique) | N/A |
 
 
 
