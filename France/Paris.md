@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-28 20:19:15 UTC`
+📆 Last Updated: `2023-03-28 21:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
-| 2 | [Nation](http://twitter.com/search?q=Nation) | N/A |
+| 1 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 2 | [Le Mali](http://twitter.com/search?q=Le+Mali) | N/A |
 | 3 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 4 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
-| 5 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 6 | [#SOLACER](http://twitter.com/search?q=%23SOLACER) | N/A |
-| 7 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 8 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 9 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
-| 10 | [#PretaHaircare](http://twitter.com/search?q=%23PretaHaircare) | N/A |
-| 11 | [Valls](http://twitter.com/search?q=Valls) | N/A |
-| 12 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 13 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 15 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 16 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 17 | [Gambie](http://twitter.com/search?q=Gambie) | N/A |
-| 18 | [Comté](http://twitter.com/search?q=Comt%c3%a9) | N/A |
-| 19 | [Clemenceau](http://twitter.com/search?q=Clemenceau) | N/A |
-| 20 | [Le Mali](http://twitter.com/search?q=Le+Mali) | N/A |
-| 21 | [Namibie](http://twitter.com/search?q=Namibie) | N/A |
-| 22 | [Raclette](http://twitter.com/search?q=Raclette) | N/A |
-| 23 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
-| 24 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 25 | [Soulèvements de la Terre](http://twitter.com/search?q=Soul%c3%a8vements+de+la+Terre) | N/A |
-| 26 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
-| 27 | [Total Énergie](http://twitter.com/search?q=Total+%c3%89nergie) | N/A |
-| 28 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
-| 29 | [Croatie](http://twitter.com/search?q=Croatie) | N/A |
-| 30 | [Pérou](http://twitter.com/search?q=P%c3%a9rou) | N/A |
-| 31 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 32 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 33 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 34 | [Winston Scott](http://twitter.com/search?q=Winston+Scott) | N/A |
-| 35 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 36 | [Société Générale](http://twitter.com/search?q=Soci%c3%a9t%c3%a9+G%c3%a9n%c3%a9rale) | N/A |
-| 37 | [#Holodomor](http://twitter.com/search?q=%23Holodomor) | N/A |
-| 38 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
-| 39 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
-| 40 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 41 | [#manifestation28mars](http://twitter.com/search?q=%23manifestation28mars) | N/A |
-| 42 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 43 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
-| 44 | [#JOBLIFE](http://twitter.com/search?q=%23JOBLIFE) | N/A |
-| 45 | [#BetclicELITE](http://twitter.com/search?q=%23BetclicELITE) | N/A |
-| 46 | [#ViolencesPoliceres](http://twitter.com/search?q=%23ViolencesPoliceres) | N/A |
-| 47 | [#GreveGeneraleIllimitee](http://twitter.com/search?q=%23GreveGeneraleIllimitee) | N/A |
-| 48 | [#DemainNousAppartient](http://twitter.com/search?q=%23DemainNousAppartient) | N/A |
-| 49 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
-| 50 | [#TwitchStreamers](http://twitter.com/search?q=%23TwitchStreamers) | N/A |
+| 4 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 5 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
+| 6 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 7 | [#SOLACER](http://twitter.com/search?q=%23SOLACER) | N/A |
+| 8 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 10 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
+| 11 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 12 | [Gilles](http://twitter.com/search?q=Gilles) | N/A |
+| 13 | [Mazraoui](http://twitter.com/search?q=Mazraoui) | N/A |
+| 14 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 15 | [Clémence](http://twitter.com/search?q=Cl%c3%a9mence) | N/A |
+| 16 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
+| 17 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 18 | [Valls](http://twitter.com/search?q=Valls) | N/A |
+| 19 | [Hervé Renard](http://twitter.com/search?q=Herv%c3%a9+Renard) | N/A |
+| 20 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 21 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 22 | [Abde](http://twitter.com/search?q=Abde) | Abde is a name of Arabic origin that means "servant of God". |
+| 23 | [Comores](http://twitter.com/search?q=Comores) | N/A |
+| 24 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 25 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 26 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 27 | [Pérou](http://twitter.com/search?q=P%c3%a9rou) | N/A |
+| 28 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 29 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 30 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 31 | [Gambie](http://twitter.com/search?q=Gambie) | N/A |
+| 32 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 33 | [Comté](http://twitter.com/search?q=Comt%c3%a9) | N/A |
+| 34 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 35 | [Croatie](http://twitter.com/search?q=Croatie) | N/A |
+| 36 | [Raclette](http://twitter.com/search?q=Raclette) | N/A |
+| 37 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
+| 38 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 39 | [Namibie](http://twitter.com/search?q=Namibie) | N/A |
+| 40 | [Soulèvements de la Terre](http://twitter.com/search?q=Soul%c3%a8vements+de+la+Terre) | N/A |
+| 41 | [Cazeneuve](http://twitter.com/search?q=Cazeneuve) | N/A |
+| 42 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 43 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 44 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
+| 45 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 46 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 47 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 48 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 49 | [Winston Scott](http://twitter.com/search?q=Winston+Scott) | N/A |
+| 50 | [#MARPER](http://twitter.com/search?q=%23MARPER) | N/A |
 
 
 

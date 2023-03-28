@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-28 20:19:22 UTC`
+📆 Last Updated: `2023-03-28 21:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#THEDREAMSHOW2_in_LONDON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_LONDON) | N/A |
-| 2 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
-| 3 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 5 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
-| 6 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
-| 7 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 8 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 9 | [#SDGsDesaMendunia](http://twitter.com/search?q=%23SDGsDesaMendunia) | N/A |
-| 10 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
-| 11 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 1 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 2 | [#THEDREAMSHOW2_in_LONDON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_LONDON) | N/A |
+| 3 | [#SahurBCS](http://twitter.com/search?q=%23SahurBCS) | N/A |
+| 4 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
+| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 6 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
+| 7 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 8 | [#10ThDiparikan](http://twitter.com/search?q=%2310ThDiparikan) | N/A |
+| 9 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 10 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 11 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 12 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
 | 13 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
-| 14 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 15 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 16 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 14 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 15 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 16 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
 | 17 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
-| 18 | [Semangat](http://twitter.com/search?q=Semangat) | N/A |
-| 19 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 20 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 21 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 22 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 23 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
-| 24 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 25 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
-| 26 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
-| 27 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 28 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 29 | [CAT 1A](http://twitter.com/search?q=CAT+1A) | N/A |
-| 30 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 31 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 32 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
-| 33 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 18 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 19 | [ANDY PARK](http://twitter.com/search?q=ANDY+PARK) | N/A |
+| 20 | [Iwak](http://twitter.com/search?q=Iwak) | N/A |
+| 21 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 22 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 23 | [U-20](http://twitter.com/search?q=U-20) | N/A |
+| 24 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 25 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 26 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 27 | [Cat 1A](http://twitter.com/search?q=Cat+1A) | N/A |
+| 28 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
+| 29 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
+| 30 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
+| 31 | [Jengkol](http://twitter.com/search?q=Jengkol) | Jengkol is a type of fruit native to Southeast Asia. It has a strong, pungent smell and taste, and is often used in Indonesian cuisine. In English, it is sometimes referred to as "stink bean" or "stinky fruit". |
+| 32 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 33 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
 | 34 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
 | 35 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 36 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 37 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 38 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
-| 39 | [VIP B](http://twitter.com/search?q=VIP+B) | N/A |
-| 40 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 41 | [THEY ARE THE WORST](http://twitter.com/search?q=THEY+ARE+THE+WORST) | N/A |
-| 42 | [Jordi Amat](http://twitter.com/search?q=Jordi+Amat) | N/A |
+| 36 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 37 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
+| 38 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 39 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
+| 40 | [Cat 3](http://twitter.com/search?q=Cat+3) | Cat 3 is a category of cable used in networking and telecommunications. It is a type of twisted pair cable used for carrying signals for voice, data, and video. The "3" in Cat 3 stands for the number of twists per centimeter in the cable. In English, Cat 3 means Category 3 Cable. |
+| 41 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 42 | [THEY ARE THE WORST](http://twitter.com/search?q=THEY+ARE+THE+WORST) | N/A |
 | 43 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
-| 44 | [Rasis](http://twitter.com/search?q=Rasis) | N/A |
-| 45 | [Selamattt](http://twitter.com/search?q=Selamattt) | N/A |
-| 46 | [want skintific](http://twitter.com/search?q=want+skintific) | N/A |
-| 47 | [Agust D Tour in Jakarta](http://twitter.com/search?q=Agust+D+Tour+in+Jakarta) | N/A |
-| 48 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
-| 49 | [ME TRACKLIST](http://twitter.com/search?q=ME+TRACKLIST) | N/A |
+| 44 | [want skintific](http://twitter.com/search?q=want+skintific) | N/A |
+| 45 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 46 | [Agust D Tour in Jakarta](http://twitter.com/search?q=Agust+D+Tour+in+Jakarta) | N/A |
+| 47 | [Rasis](http://twitter.com/search?q=Rasis) | N/A |
+| 48 | [SELAMAT YAAA](http://twitter.com/search?q=SELAMAT+YAAA) | N/A |
+| 49 | [VIP B](http://twitter.com/search?q=VIP+B) | N/A |
 
 
 
