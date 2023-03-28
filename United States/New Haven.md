@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-03-28 17:17:31 UTC`
+📆 Last Updated: `2023-03-28 18:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 3 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 4 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 3 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 4 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 5 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 6 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 7 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 6 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
+| 7 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
 | 8 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 9 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 10 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
-| 11 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 12 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
-| 13 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 14 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 15 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 16 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
-| 17 | [Dakich](http://twitter.com/search?q=Dakich) | N/A |
-| 18 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 19 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 20 | [Officers](http://twitter.com/search?q=Officers) | N/A |
-| 21 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 22 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
-| 23 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 24 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
-| 25 | [Biggest Surprise](http://twitter.com/search?q=Biggest+Surprise) | N/A |
-| 26 | [Sean K](http://twitter.com/search?q=Sean+K) | N/A |
-| 27 | [Best Pitcher](http://twitter.com/search?q=Best+Pitcher) | N/A |
-| 28 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 29 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 30 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 31 | [Rex Engelbert](http://twitter.com/search?q=Rex+Engelbert) | N/A |
-| 32 | [Officer Rex](http://twitter.com/search?q=Officer+Rex) | N/A |
-| 33 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 34 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 35 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 36 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 37 | [License](http://twitter.com/search?q=License) | N/A |
-| 38 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 39 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 40 | [LA Pride](http://twitter.com/search?q=LA+Pride) | N/A |
-| 41 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 42 | [Paul Schrader](http://twitter.com/search?q=Paul+Schrader) | N/A |
-| 43 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 44 | [Jayden Epps](http://twitter.com/search?q=Jayden+Epps) | N/A |
-| 45 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
-| 46 | [MNPD](http://twitter.com/search?q=MNPD) | N/A |
-| 47 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 9 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 11 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 12 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 13 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 14 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 15 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 16 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 17 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
+| 18 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 19 | [Dan Dakich](http://twitter.com/search?q=Dan+Dakich) | N/A |
+| 20 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 21 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 22 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 23 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 24 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
+| 25 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
+| 26 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
+| 27 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 28 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 29 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
+| 30 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
+| 31 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 32 | [Scalise](http://twitter.com/search?q=Scalise) | N/A |
+| 33 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
+| 34 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 35 | [Officer Rex](http://twitter.com/search?q=Officer+Rex) | N/A |
+| 36 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 37 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 38 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 39 | [Officers](http://twitter.com/search?q=Officers) | N/A |
+| 40 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 41 | [Rex Engelbert](http://twitter.com/search?q=Rex+Engelbert) | N/A |
+| 42 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 43 | [LA Pride](http://twitter.com/search?q=LA+Pride) | N/A |
+| 44 | [Life is Beautiful](http://twitter.com/search?q=Life+is+Beautiful) | N/A |
+| 45 | [Collazo](http://twitter.com/search?q=Collazo) | N/A |
+| 46 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 47 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 
 
 

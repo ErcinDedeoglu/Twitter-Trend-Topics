@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-28 17:17:08 UTC`
+📆 Last Updated: `2023-03-28 18:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [Australia](</Australia>)
 | 8 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
 | 9 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 10 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 12 | [#Socceroos](http://twitter.com/search?q=%23Socceroos) | N/A |
-| 13 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 14 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 15 | [America](http://twitter.com/search?q=America) | N/A |
-| 16 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
-| 17 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 18 | [Deng](http://twitter.com/search?q=Deng) | N/A |
-| 19 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 22 | [richard boyle](http://twitter.com/search?q=richard+boyle) | N/A |
-| 23 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
-| 24 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 25 | [Aami](http://twitter.com/search?q=Aami) | N/A |
-| 26 | [lyndall](http://twitter.com/search?q=lyndall) | N/A |
-| 27 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 28 | [Matt and Gerry](http://twitter.com/search?q=Matt+and+Gerry) | N/A |
-| 29 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 30 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
-| 31 | [joe gauci](http://twitter.com/search?q=joe+gauci) | N/A |
-| 32 | [irankunda](http://twitter.com/search?q=irankunda) | N/A |
-| 33 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 34 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 35 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
-| 36 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 37 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 38 | [$LTR](http://twitter.com/search?q=%24LTR) | N/A |
-| 39 | [Devlin](http://twitter.com/search?q=Devlin) | N/A |
-| 40 | [indue](http://twitter.com/search?q=indue) | N/A |
-| 41 | [Latitude](http://twitter.com/search?q=Latitude) | N/A |
-| 42 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 43 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
+| 11 | [#Socceroos](http://twitter.com/search?q=%23Socceroos) | N/A |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 14 | [America](http://twitter.com/search?q=America) | N/A |
+| 15 | [Pesutto](http://twitter.com/search?q=Pesutto) | N/A |
+| 16 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 17 | [Deng](http://twitter.com/search?q=Deng) | N/A |
+| 18 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 20 | [richard boyle](http://twitter.com/search?q=richard+boyle) | N/A |
+| 21 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
+| 22 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 23 | [Aami](http://twitter.com/search?q=Aami) | N/A |
+| 24 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 25 | [Matt and Gerry](http://twitter.com/search?q=Matt+and+Gerry) | N/A |
+| 26 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 27 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 28 | [joe gauci](http://twitter.com/search?q=joe+gauci) | N/A |
+| 29 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
+| 30 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 31 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 32 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
+| 33 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
+| 34 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 35 | [Libs](http://twitter.com/search?q=Libs) | N/A |
+| 36 | [$ltr](http://twitter.com/search?q=%24ltr) | N/A |
+| 37 | [Devlin](http://twitter.com/search?q=Devlin) | N/A |
+| 38 | [indue](http://twitter.com/search?q=indue) | N/A |
+| 39 | [Latitude](http://twitter.com/search?q=Latitude) | N/A |
+| 40 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 41 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 42 | [Moira Deeming](http://twitter.com/search?q=Moira+Deeming) | N/A |
+| 43 | [Clarko](http://twitter.com/search?q=Clarko) | N/A |
 | 44 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 45 | [Clarko](http://twitter.com/search?q=Clarko) | N/A |
-| 46 | [Ban RACISTS for LIFE](http://twitter.com/search?q=Ban+RACISTS+for+LIFE) | N/A |
-| 47 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 48 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
+| 45 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 46 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 47 | [sussan ley](http://twitter.com/search?q=sussan+ley) | N/A |
+| 48 | [Ban RACISTS for LIFE](http://twitter.com/search?q=Ban+RACISTS+for+LIFE) | N/A |
 | 49 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 
 

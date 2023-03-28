@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-28 17:17:05 UTC`
+📆 Last Updated: `2023-03-28 18:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
 | 2 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 3 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 4 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 5 | [#Desalia2023](http://twitter.com/search?q=%23Desalia2023) | N/A |
-| 6 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
+| 3 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 4 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 5 | [Los Mossos](http://twitter.com/search?q=Los+Mossos) | N/A |
+| 6 | [#HayQueArreglarMadridCorriendo](http://twitter.com/search?q=%23HayQueArreglarMadridCorriendo) | N/A |
 | 7 | [Toni Cantó](http://twitter.com/search?q=Toni+Cant%c3%b3) | N/A |
-| 8 | [Los Mossos](http://twitter.com/search?q=Los+Mossos) | N/A |
-| 9 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
-| 10 | [#Pecado28Mar](http://twitter.com/search?q=%23Pecado28Mar) | N/A |
-| 11 | [#yoveosálvame](http://twitter.com/search?q=%23yoveos%c3%a1lvame) | N/A |
-| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 13 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
-| 14 | [Supremo](http://twitter.com/search?q=Supremo) | N/A |
-| 15 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
-| 16 | [El Bolton](http://twitter.com/search?q=El+Bolton) | N/A |
-| 17 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 18 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 19 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 20 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 21 | [Claire Redfield](http://twitter.com/search?q=Claire+Redfield) | N/A |
-| 22 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
-| 23 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 24 | [Chris Redfield](http://twitter.com/search?q=Chris+Redfield) | N/A |
-| 25 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
-| 26 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 27 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 28 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
-| 29 | [Intertoto](http://twitter.com/search?q=Intertoto) | N/A |
-| 30 | [Consejo de Estado](http://twitter.com/search?q=Consejo+de+Estado) | N/A |
-| 31 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 32 | [Belén Esteban](http://twitter.com/search?q=Bel%c3%a9n+Esteban) | N/A |
-| 33 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 34 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 35 | [Ley de Familias](http://twitter.com/search?q=Ley+de+Familias) | N/A |
-| 36 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 37 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 38 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 39 | [Bellerín](http://twitter.com/search?q=Beller%c3%adn) | N/A |
-| 40 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
-| 41 | [Sants](http://twitter.com/search?q=Sants) | N/A |
-| 42 | [El CGPJ](http://twitter.com/search?q=El+CGPJ) | N/A |
-| 43 | [Gameplay](http://twitter.com/search?q=Gameplay) | N/A |
-| 44 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 45 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
-| 46 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
-| 47 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
-| 48 | [Ione Belarra](http://twitter.com/search?q=Ione+Belarra) | N/A |
-| 49 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 8 | [#LluviaAdaraSv](http://twitter.com/search?q=%23LluviaAdaraSv) | N/A |
+| 9 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
+| 10 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 11 | [#Desalia2023](http://twitter.com/search?q=%23Desalia2023) | N/A |
+| 12 | [Llarena](http://twitter.com/search?q=Llarena) | N/A |
+| 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 14 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 15 | [Supremo](http://twitter.com/search?q=Supremo) | N/A |
+| 16 | [Jill Valentine](http://twitter.com/search?q=Jill+Valentine) | N/A |
+| 17 | [El Bolton](http://twitter.com/search?q=El+Bolton) | N/A |
+| 18 | [Pablo Aguirregabiria](http://twitter.com/search?q=Pablo+Aguirregabiria) | N/A |
+| 19 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 20 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 21 | [Junts](http://twitter.com/search?q=Junts) | N/A |
+| 22 | [Miguel Hernández](http://twitter.com/search?q=Miguel+Hern%c3%a1ndez) | N/A |
+| 23 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 24 | [Puigdemont](http://twitter.com/search?q=Puigdemont) | Puigdemont is the surname of Carles Puigdemont, a Catalan politician who served as the President of Catalonia from January 2016 to October 2017. In English, it is pronounced "pwee-gemont". |
+| 25 | [Heretics](http://twitter.com/search?q=Heretics) | N/A |
+| 26 | [Elyoya](http://twitter.com/search?q=Elyoya) | N/A |
+| 27 | [Claire Redfield](http://twitter.com/search?q=Claire+Redfield) | N/A |
+| 28 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 30 | [Aranjuez](http://twitter.com/search?q=Aranjuez) | N/A |
+| 31 | [Minabo](http://twitter.com/search?q=Minabo) | N/A |
+| 32 | [Chris Redfield](http://twitter.com/search?q=Chris+Redfield) | N/A |
+| 33 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 34 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 35 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 36 | [Ley de Familias](http://twitter.com/search?q=Ley+de+Familias) | N/A |
+| 37 | [Intertoto](http://twitter.com/search?q=Intertoto) | N/A |
+| 38 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 39 | [Belén Esteban](http://twitter.com/search?q=Bel%c3%a9n+Esteban) | N/A |
+| 40 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 41 | [Bellerín](http://twitter.com/search?q=Beller%c3%adn) | N/A |
+| 42 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 43 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 44 | [El CGPJ](http://twitter.com/search?q=El+CGPJ) | N/A |
+| 45 | [Gameplay](http://twitter.com/search?q=Gameplay) | N/A |
+| 46 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 47 | [Barceló](http://twitter.com/search?q=Barcel%c3%b3) | N/A |
+| 48 | [Belarra](http://twitter.com/search?q=Belarra) | N/A |
+| 49 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 
 
 

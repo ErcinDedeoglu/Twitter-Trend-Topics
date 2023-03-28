@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-03-28 17:17:28 UTC`
+📆 Last Updated: `2023-03-28 18:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 2 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 3 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 4 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 5 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 6 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 7 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 8 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 10 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 11 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
-| 12 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 13 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
-| 14 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 15 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
-| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 17 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 18 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 19 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
+| 1 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 2 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 3 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 4 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 5 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 6 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
+| 7 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 8 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 9 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 11 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 12 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 13 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
+| 14 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 15 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 16 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 17 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 19 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
 | 20 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 21 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
-| 22 | [Dakich](http://twitter.com/search?q=Dakich) | N/A |
-| 23 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 24 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 25 | [Officers](http://twitter.com/search?q=Officers) | N/A |
-| 26 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
-| 27 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 28 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 29 | [Biggest Surprise](http://twitter.com/search?q=Biggest+Surprise) | N/A |
-| 30 | [Sean K](http://twitter.com/search?q=Sean+K) | N/A |
-| 31 | [Best Pitcher](http://twitter.com/search?q=Best+Pitcher) | N/A |
-| 32 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
-| 33 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 34 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 35 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 36 | [Rex Engelbert](http://twitter.com/search?q=Rex+Engelbert) | N/A |
-| 37 | [Officer Rex](http://twitter.com/search?q=Officer+Rex) | N/A |
-| 38 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 39 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 40 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 41 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 42 | [Nashville Police](http://twitter.com/search?q=Nashville+Police) | N/A |
-| 43 | [License](http://twitter.com/search?q=License) | N/A |
+| 21 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 22 | [Dan Dakich](http://twitter.com/search?q=Dan+Dakich) | N/A |
+| 23 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 24 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
+| 25 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
+| 26 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 27 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 28 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
+| 29 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 30 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 31 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
+| 32 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 33 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
+| 34 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 35 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 36 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 37 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 38 | [Officer Rex](http://twitter.com/search?q=Officer+Rex) | N/A |
+| 39 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 40 | [Scalise](http://twitter.com/search?q=Scalise) | N/A |
+| 41 | [Nashville Police](http://twitter.com/search?q=Nashville+Police) | N/A |
+| 42 | [Officers](http://twitter.com/search?q=Officers) | N/A |
+| 43 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
 | 44 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 45 | [Jun Kazama](http://twitter.com/search?q=Jun+Kazama) | N/A |
-| 46 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 47 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 48 | [LA Pride](http://twitter.com/search?q=LA+Pride) | N/A |
-| 49 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 45 | [Rex Engelbert](http://twitter.com/search?q=Rex+Engelbert) | N/A |
+| 46 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
+| 47 | [Life is Beautiful](http://twitter.com/search?q=Life+is+Beautiful) | N/A |
+| 48 | [Collazo](http://twitter.com/search?q=Collazo) | N/A |
+| 49 | [LA Pride](http://twitter.com/search?q=LA+Pride) | N/A |
 
 
 

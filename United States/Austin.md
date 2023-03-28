@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-28 17:17:27 UTC`
+📆 Last Updated: `2023-03-28 18:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 2 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 3 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 1 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 2 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 3 | [#pvelections](http://twitter.com/search?q=%23pvelections) | N/A |
 | 4 | [#SHMConverge23](http://twitter.com/search?q=%23SHMConverge23) | N/A |
 | 5 | [Evil](http://twitter.com/search?q=Evil) | N/A |
-| 6 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 7 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 6 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 9 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 9 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
+| 10 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
 | 11 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 12 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 13 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 12 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 13 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
 | 14 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 15 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
-| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 17 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 18 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 19 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
-| 20 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 21 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
-| 22 | [Dakich](http://twitter.com/search?q=Dakich) | N/A |
-| 23 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 24 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 25 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 26 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
-| 27 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 28 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
-| 29 | [Biggest Surprise](http://twitter.com/search?q=Biggest+Surprise) | N/A |
-| 30 | [Sean K](http://twitter.com/search?q=Sean+K) | N/A |
-| 31 | [Best Pitcher](http://twitter.com/search?q=Best+Pitcher) | N/A |
-| 32 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 33 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 34 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 35 | [Officer Rex](http://twitter.com/search?q=Officer+Rex) | N/A |
-| 36 | [Rex Engelbert](http://twitter.com/search?q=Rex+Engelbert) | N/A |
-| 37 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 15 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 16 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 17 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 18 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
+| 19 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 20 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 21 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 22 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 23 | [Dan Dakich](http://twitter.com/search?q=Dan+Dakich) | N/A |
+| 24 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 25 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
+| 26 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
+| 27 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 28 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 29 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
+| 30 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 31 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 32 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 33 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
+| 34 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 35 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
+| 36 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 37 | [Beal](http://twitter.com/search?q=Beal) | N/A |
 | 38 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 39 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 40 | [Officers](http://twitter.com/search?q=Officers) | N/A |
-| 41 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 42 | [License](http://twitter.com/search?q=License) | N/A |
-| 43 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 44 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 45 | [LA Pride](http://twitter.com/search?q=LA+Pride) | N/A |
-| 46 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 47 | [Paul Schrader](http://twitter.com/search?q=Paul+Schrader) | N/A |
-| 48 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 49 | [Jayden Epps](http://twitter.com/search?q=Jayden+Epps) | N/A |
+| 39 | [Officer Rex](http://twitter.com/search?q=Officer+Rex) | N/A |
+| 40 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 41 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 42 | [Scalise](http://twitter.com/search?q=Scalise) | N/A |
+| 43 | [Officers](http://twitter.com/search?q=Officers) | N/A |
+| 44 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 45 | [Rex Engelbert](http://twitter.com/search?q=Rex+Engelbert) | N/A |
+| 46 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
+| 47 | [Life is Beautiful](http://twitter.com/search?q=Life+is+Beautiful) | N/A |
+| 48 | [Collazo](http://twitter.com/search?q=Collazo) | N/A |
+| 49 | [LA Pride](http://twitter.com/search?q=LA+Pride) | N/A |
 
 
 

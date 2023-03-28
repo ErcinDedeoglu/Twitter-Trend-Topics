@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-28 17:17:29 UTC`
+📆 Last Updated: `2023-03-28 18:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
-| 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 3 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 4 | [Trey](http://twitter.com/search?q=Trey) | N/A |
-| 5 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
-| 6 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 7 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 8 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
+| 1 | [Ben Simmons](http://twitter.com/search?q=Ben+Simmons) | Ben Simmons is an Australian professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He is a 6 ft 10 in (2.08 m) tall point guard-power forward and was selected with the first overall pick in the 2016 NBA draft. He was named the NBA Rookie of the Year in 2018. |
+| 2 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 3 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
+| 4 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
+| 5 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 6 | [#GunControlNow](http://twitter.com/search?q=%23GunControlNow) | N/A |
+| 7 | [#GunReformNow](http://twitter.com/search?q=%23GunReformNow) | N/A |
+| 8 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 9 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
 | 10 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 11 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 12 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 11 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 12 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 14 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 15 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 14 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
+| 15 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
 | 16 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 17 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 18 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 17 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 18 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
 | 19 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 20 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
-| 21 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 23 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 24 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
-| 25 | [Dakich](http://twitter.com/search?q=Dakich) | N/A |
-| 26 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
-| 27 | [Beal](http://twitter.com/search?q=Beal) | N/A |
-| 28 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 20 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 21 | [Gimenez](http://twitter.com/search?q=Gimenez) | N/A |
+| 22 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 23 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 25 | [Julie Ertz](http://twitter.com/search?q=Julie+Ertz) | N/A |
+| 26 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 27 | [Dan Dakich](http://twitter.com/search?q=Dan+Dakich) | N/A |
+| 28 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
 | 29 | [Kwan](http://twitter.com/search?q=Kwan) | N/A |
-| 30 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
-| 31 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
-| 32 | [Biggest Surprise](http://twitter.com/search?q=Biggest+Surprise) | N/A |
-| 33 | [Sean K](http://twitter.com/search?q=Sean+K) | N/A |
-| 34 | [Best Pitcher](http://twitter.com/search?q=Best+Pitcher) | N/A |
-| 35 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 36 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 37 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 38 | [Officer Rex](http://twitter.com/search?q=Officer+Rex) | N/A |
-| 39 | [Rex Engelbert](http://twitter.com/search?q=Rex+Engelbert) | N/A |
-| 40 | [Christie](http://twitter.com/search?q=Christie) | N/A |
-| 41 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 42 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 43 | [Officers](http://twitter.com/search?q=Officers) | N/A |
-| 44 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 45 | [License](http://twitter.com/search?q=License) | N/A |
-| 46 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
-| 47 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 48 | [LA Pride](http://twitter.com/search?q=LA+Pride) | N/A |
-| 49 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 30 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
+| 31 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 32 | [Christie](http://twitter.com/search?q=Christie) | N/A |
+| 33 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
+| 34 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 35 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 36 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
+| 37 | [TAEMIN](http://twitter.com/search?q=TAEMIN) | TAEMIN is the stage name of South Korean singer and dancer, Lee Tae-min. It is a combination of his first name, Tae-min, and the English word "team". The name is meant to represent his desire to be part of a team that works together to create something great. |
+| 38 | [Ryan Coogler](http://twitter.com/search?q=Ryan+Coogler) | N/A |
+| 39 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 40 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 41 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 42 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 43 | [Officer Rex](http://twitter.com/search?q=Officer+Rex) | N/A |
+| 44 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 45 | [Scalise](http://twitter.com/search?q=Scalise) | N/A |
+| 46 | [Officers](http://twitter.com/search?q=Officers) | N/A |
+| 47 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 48 | [T-Mobile](http://twitter.com/search?q=T-Mobile) | N/A |
+| 49 | [Rex Engelbert](http://twitter.com/search?q=Rex+Engelbert) | N/A |
 
 
 

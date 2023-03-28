@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kolkata
 
-📆 Last Updated: `2023-03-28 17:17:23 UTC`
+📆 Last Updated: `2023-03-28 18:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#MeraGharAapkaGhar](http://twitter.com/search?q=%23MeraGharAapkaGhar) | N/A |
 | 2 | [#DisqualifiedByUnqualified](http://twitter.com/search?q=%23DisqualifiedByUnqualified) | N/A |
-| 3 | [#SabsePehleVision11](http://twitter.com/search?q=%23SabsePehleVision11) | N/A |
+| 3 | [केंद्रीय कार्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
 | 4 | [#NURSES_WITH_RTH](http://twitter.com/search?q=%23NURSES_WITH_RTH) | N/A |
 | 5 | [#PehleMyTeam11](http://twitter.com/search?q=%23PehleMyTeam11) | N/A |
-| 6 | [केंद्रीय कार्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 6 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
 | 7 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 8 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 9 | [लाल किले](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a5%87) | N/A |
-| 10 | [बचाओ अभियान](http://twitter.com/search?q=%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
-| 11 | [Latest Android 13](http://twitter.com/search?q=Latest+Android+13) | N/A |
-| 12 | [मुरली मनोहर जोशी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
-| 13 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
+| 8 | [लाल किले](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a5%87) | N/A |
+| 9 | [मुरली मनोहर जोशी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
+| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 11 | [बचाओ अभियान](http://twitter.com/search?q=%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
+| 12 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
+| 13 | [Latest Android 13](http://twitter.com/search?q=Latest+Android+13) | N/A |
 | 14 | [4GB RAM](http://twitter.com/search?q=4GB+RAM) | N/A |
-| 15 | [90hz punch hole display](http://twitter.com/search?q=90hz+punch+hole+display) | N/A |
+| 15 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
 | 16 | [लोकतंत्र बचाओ](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 17 | [शांति मार्च](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a) | N/A |
-| 18 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
-| 19 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
-| 20 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
-| 21 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
-| 22 | [पैन कार्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%88%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 23 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
-| 24 | [King Kohli](http://twitter.com/search?q=King+Kohli) | N/A |
-| 25 | [Hakla](http://twitter.com/search?q=Hakla) | N/A |
-| 26 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
-| 27 | [#KahoNa](http://twitter.com/search?q=%23KahoNa) | N/A |
+| 17 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 18 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
+| 19 | [शांति मार्च](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a) | N/A |
+| 20 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
+| 21 | [पैन कार्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%88%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 22 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
+| 23 | [#SabsePehleVision11](http://twitter.com/search?q=%23SabsePehleVision11) | N/A |
+| 24 | [#KahoNa](http://twitter.com/search?q=%23KahoNa) | N/A |
+| 25 | [#UstaadBhagatSingh](http://twitter.com/search?q=%23UstaadBhagatSingh) | N/A |
+| 26 | [#USABacksRahul](http://twitter.com/search?q=%23USABacksRahul) | N/A |
+| 27 | [#Harshali](http://twitter.com/search?q=%23Harshali) | N/A |
 | 28 | [#SPOTIFYCORRUPT](http://twitter.com/search?q=%23SPOTIFYCORRUPT) | N/A |
-| 29 | [#योगी_हैं_तो_यकीन_है](http://twitter.com/search?q=%23%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80_%e0%a4%b9%e0%a5%88%e0%a4%82_%e0%a4%a4%e0%a5%8b_%e0%a4%af%e0%a4%95%e0%a5%80%e0%a4%a8_%e0%a4%b9%e0%a5%88) | N/A |
-| 30 | [#IndianFootball](http://twitter.com/search?q=%23IndianFootball) | N/A |
-| 31 | [#USABacksRahul](http://twitter.com/search?q=%23USABacksRahul) | N/A |
-| 32 | [#Harshali](http://twitter.com/search?q=%23Harshali) | N/A |
-| 33 | [#UstaadBhagatSingh](http://twitter.com/search?q=%23UstaadBhagatSingh) | N/A |
+| 29 | [#KathaAnkahee](http://twitter.com/search?q=%23KathaAnkahee) | N/A |
+| 30 | [#योगी_हैं_तो_यकीन_है](http://twitter.com/search?q=%23%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80_%e0%a4%b9%e0%a5%88%e0%a4%82_%e0%a4%a4%e0%a5%8b_%e0%a4%af%e0%a4%95%e0%a5%80%e0%a4%a8_%e0%a4%b9%e0%a5%88) | N/A |
+| 31 | [#IndianFootball](http://twitter.com/search?q=%23IndianFootball) | N/A |
+| 32 | [#stufflistingsgettingmarried](http://twitter.com/search?q=%23stufflistingsgettingmarried) | N/A |
+| 33 | [#HeroTriNation](http://twitter.com/search?q=%23HeroTriNation) | N/A |
 | 34 | [#Desamuduru4KSpecialShows](http://twitter.com/search?q=%23Desamuduru4KSpecialShows) | N/A |
 | 35 | [#motog13](http://twitter.com/search?q=%23motog13) | N/A |
-| 36 | [#KGZIND](http://twitter.com/search?q=%23KGZIND) | N/A |
-| 37 | [#stufflistingsgettingmarried](http://twitter.com/search?q=%23stufflistingsgettingmarried) | N/A |
-| 38 | [#KathaAnkahee](http://twitter.com/search?q=%23KathaAnkahee) | N/A |
-| 39 | [#HeroTriNation](http://twitter.com/search?q=%23HeroTriNation) | N/A |
-| 40 | [#FindYourEdge](http://twitter.com/search?q=%23FindYourEdge) | N/A |
-| 41 | [#HatkeExperience](http://twitter.com/search?q=%23HatkeExperience) | N/A |
-| 42 | [#ShahRukhKhan𓀠](http://twitter.com/search?q=%23ShahRukhKhan%f0%93%80%a0) | N/A |
-| 43 | [#BlueTigers](http://twitter.com/search?q=%23BlueTigers) | N/A |
-| 44 | [#BackTheBlue](http://twitter.com/search?q=%23BackTheBlue) | N/A |
-| 45 | [#PS2TrailerFromTomorrow](http://twitter.com/search?q=%23PS2TrailerFromTomorrow) | N/A |
-| 46 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
-| 47 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 48 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
-| 49 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 50 | [#AdaniGroup](http://twitter.com/search?q=%23AdaniGroup) | Adani Group is an Indian multinational conglomerate company headquartered in Ahmedabad, Gujarat. It was founded by Gautam Adani in 1988 as a commodity trading business. The group operates in multiple sectors including energy, resources, logistics, agribusiness, real estate, financial services and defence. The group has a presence in over 20 countries across the world. |
+| 36 | [#ShahRukhKhan𓀠](http://twitter.com/search?q=%23ShahRukhKhan%f0%93%80%a0) | N/A |
+| 37 | [#FindYourEdge](http://twitter.com/search?q=%23FindYourEdge) | N/A |
+| 38 | [#BlueTigers](http://twitter.com/search?q=%23BlueTigers) | N/A |
+| 39 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
+| 40 | [#HatkeExperience](http://twitter.com/search?q=%23HatkeExperience) | N/A |
+| 41 | [#KGZIND](http://twitter.com/search?q=%23KGZIND) | N/A |
+| 42 | [#BackTheBlue](http://twitter.com/search?q=%23BackTheBlue) | N/A |
+| 43 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 44 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
+| 45 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
+| 46 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 47 | [#PriyankaChopra](http://twitter.com/search?q=%23PriyankaChopra) | N/A |
+| 48 | [#AbhishekSingh](http://twitter.com/search?q=%23AbhishekSingh) | N/A |
+| 49 | [#AdaniGroup](http://twitter.com/search?q=%23AdaniGroup) | Adani Group is an Indian multinational conglomerate company headquartered in Ahmedabad, Gujarat. It was founded by Gautam Adani in 1988 as a commodity trading business. The group operates in multiple sectors including energy, resources, logistics, agribusiness, real estate, financial services and defence. The group has a presence in over 20 countries across the world. |
+| 50 | [#GautamAdani](http://twitter.com/search?q=%23GautamAdani) | N/A |
 
 
 

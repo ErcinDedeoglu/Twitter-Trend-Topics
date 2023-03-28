@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-28 17:17:42 UTC`
+📆 Last Updated: `2023-03-28 18:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 2 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
-| 3 | [#WatchesandWonders2023](http://twitter.com/search?q=%23WatchesandWonders2023) | N/A |
-| 4 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 5 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 3 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 4 | [#WatchesandWonders2023](http://twitter.com/search?q=%23WatchesandWonders2023) | N/A |
+| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 6 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
 | 7 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 8 | [#skinNTDS](http://twitter.com/search?q=%23skinNTDS) | N/A |
-| 9 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 10 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 12 | [Brot](http://twitter.com/search?q=Brot) | N/A |
-| 13 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 14 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 16 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 17 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 18 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 19 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
-| 20 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 8 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 9 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 10 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 11 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 12 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 13 | [Brot](http://twitter.com/search?q=Brot) | N/A |
+| 14 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 15 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 17 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 18 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 19 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 20 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
 | 21 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 22 | [Weltbild](http://twitter.com/search?q=Weltbild) | N/A |
-| 23 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
-| 24 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
-| 25 | [Gast](http://twitter.com/search?q=Gast) | N/A |
-| 26 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 27 | [Geist](http://twitter.com/search?q=Geist) | N/A |
+| 22 | [Geist](http://twitter.com/search?q=Geist) | N/A |
+| 23 | [Weltbild](http://twitter.com/search?q=Weltbild) | N/A |
+| 24 | [One Piece](http://twitter.com/search?q=One+Piece) | N/A |
+| 25 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
+| 26 | [Gast](http://twitter.com/search?q=Gast) | N/A |
+| 27 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
 | 28 | [Gesundheit](http://twitter.com/search?q=Gesundheit) | N/A |
-| 29 | [Handel](http://twitter.com/search?q=Handel) | N/A |
-| 30 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 31 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
-| 32 | [Kreis](http://twitter.com/search?q=Kreis) | N/A |
-| 33 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 34 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 35 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
-| 36 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 37 | [Infrastruktur](http://twitter.com/search?q=Infrastruktur) | N/A |
-| 38 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 39 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 40 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 41 | [Sowjetunion](http://twitter.com/search?q=Sowjetunion) | N/A |
-| 42 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
-| 43 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 44 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
-| 45 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 46 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 47 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
-| 48 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 49 | [Angestellten](http://twitter.com/search?q=Angestellten) | N/A |
-| 50 | [Vernets](http://twitter.com/search?q=Vernets) | N/A |
+| 29 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 30 | [Winterthur](http://twitter.com/search?q=Winterthur) | N/A |
+| 31 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 32 | [Handel](http://twitter.com/search?q=Handel) | N/A |
+| 33 | [Gewinn](http://twitter.com/search?q=Gewinn) | N/A |
+| 34 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 35 | [Jura](http://twitter.com/search?q=Jura) | N/A |
+| 36 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 37 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
+| 38 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 39 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 40 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 41 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 42 | [Sowjetunion](http://twitter.com/search?q=Sowjetunion) | N/A |
+| 43 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 44 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
+| 45 | [Strassen](http://twitter.com/search?q=Strassen) | N/A |
+| 46 | [Zemmour](http://twitter.com/search?q=Zemmour) | N/A |
+| 47 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 48 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 49 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 50 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
 
 
 

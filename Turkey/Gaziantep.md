@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-28 17:17:25 UTC`
+📆 Last Updated: `2023-03-28 18:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 2 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
-| 3 | [AzKata YapıKayıt](http://twitter.com/search?q=AzKata+Yap%c4%b1Kay%c4%b1t) | N/A |
-| 4 | [#asabiolma](http://twitter.com/search?q=%23asabiolma) | N/A |
-| 5 | [#bist100](http://twitter.com/search?q=%23bist100) | #bist100 is a hashtag used on Twitter to refer to the Borsa Istanbul 100 Index, which is a stock market index that tracks the performance of the top 100 companies listed on the Borsa Istanbul Stock Exchange. The acronym "BIST" stands for Borsa Istanbul. |
-| 6 | [#BakanınSözüPDRnormu](http://twitter.com/search?q=%23Bakan%c4%b1nS%c3%b6z%c3%bcPDRnormu) | N/A |
-| 7 | [#İlkTurdaBitecek](http://twitter.com/search?q=%23%c4%b0lkTurdaBitecek) | N/A |
-| 8 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
-| 9 | [Ayşe Özkiraz](http://twitter.com/search?q=Ay%c5%9fe+%c3%96zkiraz) | N/A |
-| 10 | [1 Gr](http://twitter.com/search?q=1+Gr) | N/A |
-| 11 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 12 | [Temmuz'da](http://twitter.com/search?q=Temmuz%27da) | N/A |
-| 13 | [Defolsun](http://twitter.com/search?q=Defolsun) | N/A |
-| 14 | [Selami Şahin](http://twitter.com/search?q=Selami+%c5%9eahin) | N/A |
-| 15 | [Berat Albayrak](http://twitter.com/search?q=Berat+Albayrak) | N/A |
-| 16 | [Tahliye](http://twitter.com/search?q=Tahliye) | N/A |
-| 17 | [İflas Kanunu](http://twitter.com/search?q=%c4%b0flas+Kanunu) | N/A |
-| 18 | [Çorum](http://twitter.com/search?q=%c3%87orum) | N/A |
-| 19 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
+| 1 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 2 | [DenklikSorununuÇözünüz](http://twitter.com/search?q=DenklikSorununu%c3%87%c3%b6z%c3%bcn%c3%bcz) | N/A |
+| 3 | [#doktorluktanmenyasasınahayır](http://twitter.com/search?q=%23doktorluktanmenyasas%c4%b1nahay%c4%b1r) | N/A |
+| 4 | [Abdurrahim Albayrak](http://twitter.com/search?q=Abdurrahim+Albayrak) | N/A |
+| 5 | [Konya](http://twitter.com/search?q=Konya) | N/A |
+| 6 | [#bıktık](http://twitter.com/search?q=%23b%c4%b1kt%c4%b1k) | N/A |
+| 7 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 8 | [#asabiolma](http://twitter.com/search?q=%23asabiolma) | N/A |
+| 9 | [TaşeronunOyu KadroyuVerene](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadroyuVerene) | N/A |
+| 10 | [#yavuzaliağiroğlu](http://twitter.com/search?q=%23yavuzalia%c4%9firo%c4%9flu) | N/A |
+| 11 | [İsabet](http://twitter.com/search?q=%c4%b0sabet) | N/A |
+| 12 | [Ayşe Özkiraz](http://twitter.com/search?q=Ay%c5%9fe+%c3%96zkiraz) | N/A |
+| 13 | [İYİ Parti'den](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27den) | N/A |
+| 14 | [Vekillikten](http://twitter.com/search?q=Vekillikten) | N/A |
+| 15 | [1 Gr](http://twitter.com/search?q=1+Gr) | N/A |
+| 16 | [Defolsun](http://twitter.com/search?q=Defolsun) | N/A |
+| 17 | [Yavuz Bey](http://twitter.com/search?q=Yavuz+Bey) | N/A |
+| 18 | [Yallah](http://twitter.com/search?q=Yallah) | N/A |
+| 19 | [Temmuz'da](http://twitter.com/search?q=Temmuz%27da) | N/A |
 | 20 | [Türkiye - Hırvatistan](http://twitter.com/search?q=T%c3%bcrkiye+-+H%c4%b1rvatistan) | N/A |
-| 21 | [Ece Erken](http://twitter.com/search?q=Ece+Erken) | N/A |
-| 22 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 23 | [Gökhan Alsan](http://twitter.com/search?q=G%c3%b6khan+Alsan) | N/A |
-| 24 | [Vedat Bilgin](http://twitter.com/search?q=Vedat+Bilgin) | N/A |
-| 25 | [Cahiller](http://twitter.com/search?q=Cahiller) | N/A |
-| 26 | [Şarap](http://twitter.com/search?q=%c5%9earap) | N/A |
-| 27 | [Vize](http://twitter.com/search?q=Vize) | N/A |
-| 28 | [Verme](http://twitter.com/search?q=Verme) | N/A |
-| 29 | [Etin](http://twitter.com/search?q=Etin) | N/A |
-| 30 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
-| 31 | [İbrahim Tatlıses](http://twitter.com/search?q=%c4%b0brahim+Tatl%c4%b1ses) | N/A |
-| 32 | [Doğru Habercilik Paneli](http://twitter.com/search?q=Do%c4%9fru+Habercilik+Paneli) | N/A |
-| 33 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
-| 34 | [Bakan Bilgin](http://twitter.com/search?q=Bakan+Bilgin) | N/A |
-| 35 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 36 | [Güneş](http://twitter.com/search?q=G%c3%bcne%c5%9f) | N/A |
-| 37 | [Başörtüsü](http://twitter.com/search?q=Ba%c5%9f%c3%b6rt%c3%bcs%c3%bc) | N/A |
-| 38 | [Hamza Yusuf](http://twitter.com/search?q=Hamza+Yusuf) | N/A |
-| 39 | [Gram](http://twitter.com/search?q=Gram) | N/A |
-| 40 | [Kütüphane Haftası](http://twitter.com/search?q=K%c3%bct%c3%bcphane+Haftas%c4%b1) | N/A |
-| 41 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
-| 42 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 43 | [Gamze](http://twitter.com/search?q=Gamze) | N/A |
-| 44 | [#İnfazKorumayaBorcunuzuÖDEYİN](http://twitter.com/search?q=%23%c4%b0nfazKorumayaBorcunuzu%c3%96DEY%c4%b0N) | N/A |
-| 45 | [#isiasadaletyerinibulsun](http://twitter.com/search?q=%23isiasadaletyerinibulsun) | N/A |
-| 46 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
-| 47 | [#MebDepremiYokSayma](http://twitter.com/search?q=%23MebDepremiYokSayma) | N/A |
-| 48 | [#KılıçdaroğluNeSöyledi](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9fluNeS%c3%b6yledi) | N/A |
-| 49 | [#borsa](http://twitter.com/search?q=%23borsa) | #Borsa is a hashtag used on social media to refer to the stock market. It is derived from the Italian word for “bag” or “purse” and is used to indicate conversations about stocks, investments, and other financial topics. In English, it can be translated as “stock market”. |
+| 21 | [Selami Şahin](http://twitter.com/search?q=Selami+%c5%9eahin) | N/A |
+| 22 | [Tahliye](http://twitter.com/search?q=Tahliye) | N/A |
+| 23 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 24 | [İflas Kanunu](http://twitter.com/search?q=%c4%b0flas+Kanunu) | N/A |
+| 25 | [Kandile](http://twitter.com/search?q=Kandile) | N/A |
+| 26 | [Hakan Çalhanoğlu](http://twitter.com/search?q=Hakan+%c3%87alhano%c4%9flu) | N/A |
+| 27 | [Çorum](http://twitter.com/search?q=%c3%87orum) | N/A |
+| 28 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 29 | [Enes Ünal](http://twitter.com/search?q=Enes+%c3%9cnal) | N/A |
+| 30 | [Vedat Bilgin](http://twitter.com/search?q=Vedat+Bilgin) | N/A |
+| 31 | [Çocuğun](http://twitter.com/search?q=%c3%87ocu%c4%9fun) | N/A |
+| 32 | [Hayırlı İftarlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+%c4%b0ftarlar) | N/A |
+| 33 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
+| 34 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
+| 35 | [Cehennemin](http://twitter.com/search?q=Cehennemin) | N/A |
+| 36 | [Cahiller](http://twitter.com/search?q=Cahiller) | N/A |
+| 37 | [Şarap](http://twitter.com/search?q=%c5%9earap) | N/A |
+| 38 | [İbrahim Tatlıses](http://twitter.com/search?q=%c4%b0brahim+Tatl%c4%b1ses) | N/A |
+| 39 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
+| 40 | [Vize](http://twitter.com/search?q=Vize) | N/A |
+| 41 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 42 | [Verme](http://twitter.com/search?q=Verme) | N/A |
+| 43 | [Güneş](http://twitter.com/search?q=G%c3%bcne%c5%9f) | N/A |
+| 44 | [KararımNet OyumEhliyet](http://twitter.com/search?q=Karar%c4%b1mNet+OyumEhliyet) | N/A |
+| 45 | [Meteorolojik Uyarı](http://twitter.com/search?q=Meteorolojik+Uyar%c4%b1) | N/A |
+| 46 | [Gram](http://twitter.com/search?q=Gram) | N/A |
+| 47 | [Başörtüsü](http://twitter.com/search?q=Ba%c5%9f%c3%b6rt%c3%bcs%c3%bc) | N/A |
+| 48 | [#bist100](http://twitter.com/search?q=%23bist100) | #bist100 is a hashtag used on Twitter to refer to the Borsa Istanbul 100 Index, which is a stock market index that tracks the performance of the top 100 companies listed on the Borsa Istanbul Stock Exchange. The acronym "BIST" stands for Borsa Istanbul. |
+| 49 | [#İnfazKorumayaBorcunuzuÖDEYİN](http://twitter.com/search?q=%23%c4%b0nfazKorumayaBorcunuzu%c3%96DEY%c4%b0N) | N/A |
 
 
 

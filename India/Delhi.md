@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-28 17:17:35 UTC`
+📆 Last Updated: `2023-03-28 18:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [India](</India>)
 | 3 | [#RahulGhandi](http://twitter.com/search?q=%23RahulGhandi) | N/A |
 | 4 | [#MeraGharAapkaGhar](http://twitter.com/search?q=%23MeraGharAapkaGhar) | N/A |
 | 5 | [#DisqualifiedByUnqualified](http://twitter.com/search?q=%23DisqualifiedByUnqualified) | N/A |
-| 6 | [#SabsePehleVision11](http://twitter.com/search?q=%23SabsePehleVision11) | N/A |
+| 6 | [केंद्रीय कार्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
 | 7 | [#NURSES_WITH_RTH](http://twitter.com/search?q=%23NURSES_WITH_RTH) | N/A |
-| 8 | [केंद्रीय कार्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 8 | [#PehleMyTeam11](http://twitter.com/search?q=%23PehleMyTeam11) | N/A |
 | 9 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 10 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 11 | [लाल किले](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a5%87) | N/A |
-| 12 | [बचाओ अभियान](http://twitter.com/search?q=%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
-| 13 | [Latest Android 13](http://twitter.com/search?q=Latest+Android+13) | N/A |
-| 14 | [मुरली मनोहर जोशी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
-| 15 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
+| 10 | [लाल किले](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a5%87) | N/A |
+| 11 | [मुरली मनोहर जोशी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
+| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 13 | [बचाओ अभियान](http://twitter.com/search?q=%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
+| 14 | [Red Fort](http://twitter.com/search?q=Red+Fort) | N/A |
+| 15 | [Latest Android 13](http://twitter.com/search?q=Latest+Android+13) | N/A |
 | 16 | [4GB RAM](http://twitter.com/search?q=4GB+RAM) | N/A |
-| 17 | [90hz punch hole display](http://twitter.com/search?q=90hz+punch+hole+display) | N/A |
+| 17 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
 | 18 | [लोकतंत्र बचाओ](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 19 | [शांति मार्च](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a) | N/A |
-| 20 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
-| 21 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
-| 22 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
-| 23 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
-| 24 | [पैन कार्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%88%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
-| 25 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
-| 26 | [King Kohli](http://twitter.com/search?q=King+Kohli) | N/A |
-| 27 | [Hakla](http://twitter.com/search?q=Hakla) | N/A |
-| 28 | [#PehleMyTeam11](http://twitter.com/search?q=%23PehleMyTeam11) | N/A |
-| 29 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
-| 30 | [#KahoNa](http://twitter.com/search?q=%23KahoNa) | N/A |
+| 19 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 20 | [Virat Kohli](http://twitter.com/search?q=Virat+Kohli) | N/A |
+| 21 | [शांति मार्च](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a) | N/A |
+| 22 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
+| 23 | [पैन कार्ड](http://twitter.com/search?q=%e0%a4%aa%e0%a5%88%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 24 | [GitHub](http://twitter.com/search?q=GitHub) | GitHub is a web-based hosting service for version control using Git. It is mostly used for computer code. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. GitHub provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. |
+| 25 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
+| 26 | [#SabsePehleVision11](http://twitter.com/search?q=%23SabsePehleVision11) | N/A |
+| 27 | [#KahoNa](http://twitter.com/search?q=%23KahoNa) | N/A |
+| 28 | [#UstaadBhagatSingh](http://twitter.com/search?q=%23UstaadBhagatSingh) | N/A |
+| 29 | [#USABacksRahul](http://twitter.com/search?q=%23USABacksRahul) | N/A |
+| 30 | [#Harshali](http://twitter.com/search?q=%23Harshali) | N/A |
 | 31 | [#SPOTIFYCORRUPT](http://twitter.com/search?q=%23SPOTIFYCORRUPT) | N/A |
-| 32 | [#USABacksRahul](http://twitter.com/search?q=%23USABacksRahul) | N/A |
+| 32 | [#KathaAnkahee](http://twitter.com/search?q=%23KathaAnkahee) | N/A |
 | 33 | [#योगी_हैं_तो_यकीन_है](http://twitter.com/search?q=%23%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80_%e0%a4%b9%e0%a5%88%e0%a4%82_%e0%a4%a4%e0%a5%8b_%e0%a4%af%e0%a4%95%e0%a5%80%e0%a4%a8_%e0%a4%b9%e0%a5%88) | N/A |
 | 34 | [#IndianFootball](http://twitter.com/search?q=%23IndianFootball) | N/A |
-| 35 | [#Harshali](http://twitter.com/search?q=%23Harshali) | N/A |
-| 36 | [#UstaadBhagatSingh](http://twitter.com/search?q=%23UstaadBhagatSingh) | N/A |
+| 35 | [#stufflistingsgettingmarried](http://twitter.com/search?q=%23stufflistingsgettingmarried) | N/A |
+| 36 | [#HeroTriNation](http://twitter.com/search?q=%23HeroTriNation) | N/A |
 | 37 | [#Desamuduru4KSpecialShows](http://twitter.com/search?q=%23Desamuduru4KSpecialShows) | N/A |
 | 38 | [#motog13](http://twitter.com/search?q=%23motog13) | N/A |
-| 39 | [#KGZIND](http://twitter.com/search?q=%23KGZIND) | N/A |
-| 40 | [#stufflistingsgettingmarried](http://twitter.com/search?q=%23stufflistingsgettingmarried) | N/A |
-| 41 | [#KathaAnkahee](http://twitter.com/search?q=%23KathaAnkahee) | N/A |
-| 42 | [#HeroTriNation](http://twitter.com/search?q=%23HeroTriNation) | N/A |
-| 43 | [#FindYourEdge](http://twitter.com/search?q=%23FindYourEdge) | N/A |
-| 44 | [#HatkeExperience](http://twitter.com/search?q=%23HatkeExperience) | N/A |
-| 45 | [#ShahRukhKhan𓀠](http://twitter.com/search?q=%23ShahRukhKhan%f0%93%80%a0) | N/A |
-| 46 | [#BlueTigers](http://twitter.com/search?q=%23BlueTigers) | N/A |
-| 47 | [#BackTheBlue](http://twitter.com/search?q=%23BackTheBlue) | N/A |
-| 48 | [#PS2TrailerFromTomorrow](http://twitter.com/search?q=%23PS2TrailerFromTomorrow) | N/A |
-| 49 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
-| 50 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
+| 39 | [#ShahRukhKhan𓀠](http://twitter.com/search?q=%23ShahRukhKhan%f0%93%80%a0) | N/A |
+| 40 | [#FindYourEdge](http://twitter.com/search?q=%23FindYourEdge) | N/A |
+| 41 | [#BlueTigers](http://twitter.com/search?q=%23BlueTigers) | N/A |
+| 42 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
+| 43 | [#HatkeExperience](http://twitter.com/search?q=%23HatkeExperience) | N/A |
+| 44 | [#KGZIND](http://twitter.com/search?q=%23KGZIND) | N/A |
+| 45 | [#BackTheBlue](http://twitter.com/search?q=%23BackTheBlue) | N/A |
+| 46 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 47 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
+| 48 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
+| 49 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 50 | [#PriyankaChopra](http://twitter.com/search?q=%23PriyankaChopra) | N/A |
 
 
 
