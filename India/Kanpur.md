@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-28 02:32:45 UTC`
+📆 Last Updated: `2023-03-28 03:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DepthCampaign](http://twitter.com/search?q=%23DepthCampaign) | N/A |
-| 2 | [#GameChanger](http://twitter.com/search?q=%23GameChanger) | N/A |
-| 3 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
-| 4 | [#GodMorningTuesday](http://twitter.com/search?q=%23GodMorningTuesday) | N/A |
-| 5 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 7 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 8 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 9 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 10 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 11 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
-| 12 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 13 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
-| 14 | [cpjoshi bjp rajasthan](http://twitter.com/search?q=cpjoshi+bjp+rajasthan) | N/A |
-| 15 | [multilingual internet](http://twitter.com/search?q=multilingual+internet) | N/A |
-| 16 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 17 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 18 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
-| 19 | [bright future of bharat](http://twitter.com/search?q=bright+future+of+bharat) | N/A |
-| 20 | [gurukul shiksha paddhati](http://twitter.com/search?q=gurukul+shiksha+paddhati) | N/A |
-| 21 | [sant shri asharamji gurukul](http://twitter.com/search?q=sant+shri+asharamji+gurukul) | N/A |
-| 22 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 23 | [काला जादू](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9c%e0%a4%be%e0%a4%a6%e0%a5%82) | N/A |
-| 24 | [GLOBAL ICON ALLUARJUN](http://twitter.com/search?q=GLOBAL+ICON+ALLUARJUN) | N/A |
-| 25 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
-| 26 | [EPFO](http://twitter.com/search?q=EPFO) | N/A |
-| 27 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 28 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
-| 29 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 30 | [आरती श्रृंगार दर्शन](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a4%a4%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%83%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 31 | [श्री दादी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a4%be%e0%a4%a6%e0%a5%80) | N/A |
-| 32 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 33 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 34 | [charan anna](http://twitter.com/search?q=charan+anna) | N/A |
-| 35 | [go well csk](http://twitter.com/search?q=go+well+csk) | N/A |
-| 36 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 37 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 38 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 39 | [आकाश आनंद](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6) | N/A |
-| 40 | [राम रसायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
-| 41 | [सरकारी आवास](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%86%e0%a4%b5%e0%a4%be%e0%a4%b8) | N/A |
-| 42 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 43 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
-| 44 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 45 | [Happy Birthday Anna](http://twitter.com/search?q=Happy+Birthday+Anna) | N/A |
-| 46 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
-| 47 | [Ishq Bina](http://twitter.com/search?q=Ishq+Bina) | N/A |
-| 48 | [हनुमान ज्ञान](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
-| 49 | [Good Morning Friends](http://twitter.com/search?q=Good+Morning+Friends) | N/A |
+| 2 | [#आयुर्वेदिक_चिकित्सा](http://twitter.com/search?q=%23%e0%a4%86%e0%a4%af%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a5%87%e0%a4%a6%e0%a4%bf%e0%a4%95_%e0%a4%9a%e0%a4%bf%e0%a4%95%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b8%e0%a4%be) | N/A |
+| 3 | [No Side Effects](http://twitter.com/search?q=No+Side+Effects) | N/A |
+| 4 | [Stay Fit](http://twitter.com/search?q=Stay+Fit) | N/A |
+| 5 | [#GameChanger](http://twitter.com/search?q=%23GameChanger) | N/A |
+| 6 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 7 | [#HBDGlobalStarRamCharan](http://twitter.com/search?q=%23HBDGlobalStarRamCharan) | N/A |
+| 8 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 9 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 10 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
+| 11 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 12 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 13 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 14 | [Ayurveda](http://twitter.com/search?q=Ayurveda) | N/A |
+| 15 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 16 | [Usual Suspects In SSRCase](http://twitter.com/search?q=Usual+Suspects+In+SSRCase) | N/A |
+| 17 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
+| 18 | [cpjoshi bjp rajasthan](http://twitter.com/search?q=cpjoshi+bjp+rajasthan) | N/A |
+| 19 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 20 | [multilingual internet](http://twitter.com/search?q=multilingual+internet) | N/A |
+| 21 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
+| 22 | [bright future of bharat](http://twitter.com/search?q=bright+future+of+bharat) | N/A |
+| 23 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
+| 24 | [gurukul shiksha paddhati](http://twitter.com/search?q=gurukul+shiksha+paddhati) | N/A |
+| 25 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 26 | [sant shri asharamji gurukul](http://twitter.com/search?q=sant+shri+asharamji+gurukul) | N/A |
+| 27 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 28 | [काला जादू](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%9c%e0%a4%be%e0%a4%a6%e0%a5%82) | N/A |
+| 29 | [Jai Shree Ram](http://twitter.com/search?q=Jai+Shree+Ram) | N/A |
+| 30 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 31 | [GLOBAL ICON ALLUARJUN](http://twitter.com/search?q=GLOBAL+ICON+ALLUARJUN) | N/A |
+| 32 | [संकल्प सत्याग्रह](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%95%e0%a4%b2%e0%a5%8d%e0%a4%aa+%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%b9) | N/A |
+| 33 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
+| 34 | [EPFO](http://twitter.com/search?q=EPFO) | N/A |
+| 35 | [Om Shanthi](http://twitter.com/search?q=Om+Shanthi) | N/A |
+| 36 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 37 | [लोक आस्था](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
+| 38 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 39 | [राम रसायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 40 | [आरती श्रृंगार दर्शन](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a4%a4%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%83%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
+| 41 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 42 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 43 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 44 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
+| 45 | [आकांक्षा दुबे](http://twitter.com/search?q=%e0%a4%86%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 46 | [go well csk](http://twitter.com/search?q=go+well+csk) | N/A |
+| 47 | [इच्छा शक्ति](http://twitter.com/search?q=%e0%a4%87%e0%a4%9a%e0%a5%8d%e0%a4%9b%e0%a4%be+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 48 | [MP-MLA](http://twitter.com/search?q=MP-MLA) | N/A |
+| 49 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
 
 
 

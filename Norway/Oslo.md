@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-28 02:32:30 UTC`
+📆 Last Updated: `2023-03-28 03:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
 | 2 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 3 | [sissener](http://twitter.com/search?q=sissener) | N/A |
-| 4 | [hamar](http://twitter.com/search?q=hamar) | N/A |
+| 4 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
 | 5 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
 | 6 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
 | 7 | [viken](http://twitter.com/search?q=viken) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for [Norway](</Norway>)
 | 39 | [vedum](http://twitter.com/search?q=vedum) | N/A |
 | 40 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 41 | [sørloth](http://twitter.com/search?q=s%c3%b8rloth) | N/A |
-| 42 | [erna](http://twitter.com/search?q=erna) | N/A |
+| 42 | [Erna](http://twitter.com/search?q=Erna) | N/A |
 | 43 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
 | 44 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 45 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |

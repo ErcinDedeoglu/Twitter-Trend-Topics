@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-28 02:32:51 UTC`
+📆 Last Updated: `2023-03-28 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 2 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
-| 3 | [Javale](http://twitter.com/search?q=Javale) | N/A |
-| 4 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 5 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
-| 6 | [3DS eShop](http://twitter.com/search?q=3DS+eShop) | N/A |
-| 7 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 8 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 9 | [#SKZinFortWorth](http://twitter.com/search?q=%23SKZinFortWorth) | N/A |
-| 10 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 11 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 12 | [#schoolshooting](http://twitter.com/search?q=%23schoolshooting) | N/A |
-| 13 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 14 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 15 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 16 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 17 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 18 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 19 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 1 | [Jaden Hardy](http://twitter.com/search?q=Jaden+Hardy) | Jaden Hardy is a name of a fictional character from the video game NBA 2K20. The name is derived from the combination of the words "Jaden" and "Hardy", which are both common English names. The name has no particular meaning in English. |
+| 2 | [Javale](http://twitter.com/search?q=Javale) | N/A |
+| 3 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 4 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 5 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 6 | [Jalen](http://twitter.com/search?q=Jalen) | Jalen is a unisex name of English origin. It is derived from the name Galen, which means "calm" or "healer". |
+| 7 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 8 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 9 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 10 | [eShop](http://twitter.com/search?q=eShop) | N/A |
+| 11 | [#SKZinFortWorth](http://twitter.com/search?q=%23SKZinFortWorth) | N/A |
+| 12 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 13 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 14 | [#schoolshooting](http://twitter.com/search?q=%23schoolshooting) | N/A |
+| 15 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 16 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 17 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 18 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 19 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
 | 20 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 21 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
-| 22 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 23 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 24 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 25 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 26 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 27 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 28 | [Immanuel Quickley](http://twitter.com/search?q=Immanuel+Quickley) | N/A |
-| 29 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 30 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 31 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
-| 32 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 33 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 34 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 35 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 36 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 37 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 38 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 39 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 40 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 42 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 43 | [Miles Robinson](http://twitter.com/search?q=Miles+Robinson) | N/A |
-| 44 | [Sean Lowe](http://twitter.com/search?q=Sean+Lowe) | N/A |
-| 45 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
-| 46 | [Taylor Mikesell](http://twitter.com/search?q=Taylor+Mikesell) | N/A |
-| 47 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 48 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 49 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
-| 50 | [Palmieri](http://twitter.com/search?q=Palmieri) | N/A |
+| 21 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 22 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 23 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 24 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 25 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 26 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 27 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 28 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 29 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 30 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 31 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 32 | [Immanuel Quickley](http://twitter.com/search?q=Immanuel+Quickley) | N/A |
+| 33 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 34 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
+| 35 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 36 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
+| 37 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 38 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 39 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 40 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 41 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 42 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 43 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
+| 44 | [Jack Johnson](http://twitter.com/search?q=Jack+Johnson) | N/A |
+| 45 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 46 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
+| 47 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 48 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 49 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
+| 50 | [Dolph Ziggler](http://twitter.com/search?q=Dolph+Ziggler) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-28 02:33:02 UTC`
+📆 Last Updated: `2023-03-28 03:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,8 +31,8 @@ This is top 50 for Norway
 | 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 16 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 17 | [#Vtuber](http://twitter.com/search?q=%23Vtuber) | N/A |
-| 18 | [eøs-avtalen](http://twitter.com/search?q=e%c3%b8s-avtalen) | N/A |
+| 17 | [eøs-avtalen](http://twitter.com/search?q=e%c3%b8s-avtalen) | N/A |
+| 18 | [#ENVtuber](http://twitter.com/search?q=%23ENVtuber) | N/A |
 | 19 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 20 | [Aker](http://twitter.com/search?q=Aker) | N/A |
 | 21 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for Norway
 | 39 | [vedum](http://twitter.com/search?q=vedum) | N/A |
 | 40 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 | 41 | [sørloth](http://twitter.com/search?q=s%c3%b8rloth) | N/A |
-| 42 | [erna](http://twitter.com/search?q=erna) | N/A |
+| 42 | [Erna](http://twitter.com/search?q=Erna) | N/A |
 | 43 | [eu-medlemskap](http://twitter.com/search?q=eu-medlemskap) | N/A |
 | 44 | [Leon](http://twitter.com/search?q=Leon) | N/A |
 | 45 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |

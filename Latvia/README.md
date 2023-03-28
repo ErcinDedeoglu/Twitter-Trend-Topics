@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-28 02:33:02 UTC`
+📆 Last Updated: `2023-03-28 03:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,23 +43,23 @@ This is top 50 for Latvia
 | 26 | [tiem](http://twitter.com/search?q=tiem) | N/A |
 | 27 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
 | 28 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
-| 29 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 30 | [beidz](http://twitter.com/search?q=beidz) | N/A |
-| 31 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
-| 32 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 33 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 34 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
-| 35 | [drīz](http://twitter.com/search?q=dr%c4%abz) | N/A |
-| 36 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 29 | [beidz](http://twitter.com/search?q=beidz) | N/A |
+| 30 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
+| 31 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 32 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 33 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
+| 34 | [drīz](http://twitter.com/search?q=dr%c4%abz) | N/A |
+| 35 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 36 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 37 | [vajadzēja](http://twitter.com/search?q=vajadz%c4%93ja) | N/A |
-| 38 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
+| 38 | [nezinu](http://twitter.com/search?q=nezinu) | N/A |
 | 39 | [parīzē](http://twitter.com/search?q=par%c4%abz%c4%93) | N/A |
 | 40 | [diemžēl](http://twitter.com/search?q=diem%c5%be%c4%93l) | N/A |
 | 41 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
 | 42 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 43 | [zviedrijā](http://twitter.com/search?q=zviedrij%c4%81) | N/A |
 | 44 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 45 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 45 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
 | 46 | [nekas](http://twitter.com/search?q=nekas) | N/A |
 | 47 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 48 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |

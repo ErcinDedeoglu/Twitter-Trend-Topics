@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-28 02:32:24 UTC`
+📆 Last Updated: `2023-03-28 03:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,20 +51,20 @@ This is top 50 for [Ireland](</Ireland>)
 | 34 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
 | 35 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
 | 36 | [Shona](http://twitter.com/search?q=Shona) | N/A |
-| 37 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
+| 37 | [obafemi](http://twitter.com/search?q=obafemi) | N/A |
 | 38 | [danny searle](http://twitter.com/search?q=danny+searle) | N/A |
 | 39 | [mcclean](http://twitter.com/search?q=mcclean) | N/A |
 | 40 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 41 | [waterford fc](http://twitter.com/search?q=waterford+fc) | N/A |
 | 42 | [melanie greally](http://twitter.com/search?q=melanie+greally) | N/A |
-| 43 | [terre](http://twitter.com/search?q=terre) | N/A |
+| 43 | [Terre](http://twitter.com/search?q=Terre) | N/A |
 | 44 | [Egan](http://twitter.com/search?q=Egan) | N/A |
 | 45 | [Doherty](http://twitter.com/search?q=Doherty) | Doherty is a surname of Irish origin. It is derived from the Gaelic name O'Dochartaigh, which means "descendant of Dochartach". The name Dochartach is composed of two elements: do, meaning "good" or "noble", and cartach, meaning "skillful". |
 | 46 | [come on you boys in green](http://twitter.com/search?q=come+on+you+boys+in+green) | N/A |
-| 47 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 48 | [Dede](http://twitter.com/search?q=Dede) | N/A |
-| 49 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 50 | [Big Mac](http://twitter.com/search?q=Big+Mac) | N/A |
+| 47 | [stephen cluxton](http://twitter.com/search?q=stephen+cluxton) | N/A |
+| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 49 | [Dede](http://twitter.com/search?q=Dede) | N/A |
+| 50 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-28 02:32:58 UTC`
+📆 Last Updated: `2023-03-28 03:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sihame El Kaouakibi](http://twitter.com/search?q=Sihame+El+Kaouakibi) | N/A |
+| 1 | [sihame el kaouakibi](http://twitter.com/search?q=sihame+el+kaouakibi) | N/A |
 | 2 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
 | 3 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 4 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 5 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 6 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
-| 7 | [#bestemmingx](http://twitter.com/search?q=%23bestemmingx) | N/A |
+| 4 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 5 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 6 | [#bestemmingx](http://twitter.com/search?q=%23bestemmingx) | N/A |
+| 7 | [#GentWevelgem](http://twitter.com/search?q=%23GentWevelgem) | N/A |
 | 8 | [Mike Maignan](http://twitter.com/search?q=Mike+Maignan) | N/A |
 | 9 | [#GW23](http://twitter.com/search?q=%23GW23) | N/A |
 | 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 11 | [Vlaams Parlement](http://twitter.com/search?q=Vlaams+Parlement) | N/A |
+| 11 | [vlaams parlement](http://twitter.com/search?q=vlaams+parlement) | N/A |
 | 12 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 | 13 | [#rngs23](http://twitter.com/search?q=%23rngs23) | N/A |
 | 14 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for Belgium
 | 40 | [Benelux](http://twitter.com/search?q=Benelux) | N/A |
 | 41 | [Roubaix](http://twitter.com/search?q=Roubaix) | N/A |
 | 42 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
-| 43 | [Oekraïners](http://twitter.com/search?q=Oekra%c3%afners) | N/A |
+| 43 | [oekraïners](http://twitter.com/search?q=oekra%c3%afners) | N/A |
 | 44 | [Conner](http://twitter.com/search?q=Conner) | N/A |
 | 45 | [Roglic](http://twitter.com/search?q=Roglic) | N/A |
 | 46 | [Arco](http://twitter.com/search?q=Arco) | N/A |

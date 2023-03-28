@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-28 02:32:16 UTC`
+📆 Last Updated: `2023-03-28 03:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [Tania](http://twitter.com/search?q=Tania) | N/A |
 | 2 | [Carne](http://twitter.com/search?q=Carne) | N/A |
-| 3 | [#DioAstacioLider](http://twitter.com/search?q=%23DioAstacioLider) | N/A |
-| 4 | [Casa Nacional](http://twitter.com/search?q=Casa+Nacional) | N/A |
-| 5 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
-| 6 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
+| 3 | [Casa Nacional](http://twitter.com/search?q=Casa+Nacional) | N/A |
+| 4 | [Palacio de Justicia](http://twitter.com/search?q=Palacio+de+Justicia) | N/A |
+| 5 | [#opinasin](http://twitter.com/search?q=%23opinasin) | N/A |
+| 6 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
 | 7 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 8 | [Semana Santa 2023](http://twitter.com/search?q=Semana+Santa+2023) | N/A |
-| 9 | [Queso](http://twitter.com/search?q=Queso) | N/A |
-| 10 | [Carlos Alfredo](http://twitter.com/search?q=Carlos+Alfredo) | N/A |
-| 11 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 12 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
+| 8 | [Queso](http://twitter.com/search?q=Queso) | N/A |
+| 9 | [Carlos Alfredo](http://twitter.com/search?q=Carlos+Alfredo) | N/A |
+| 10 | [Dio Astacio](http://twitter.com/search?q=Dio+Astacio) | N/A |
+| 11 | [Semana Santa 2023](http://twitter.com/search?q=Semana+Santa+2023) | N/A |
+| 12 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
 | 13 | [Goris](http://twitter.com/search?q=Goris) | N/A |
 | 14 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 15 | [Plaza de la Bandera](http://twitter.com/search?q=Plaza+de+la+Bandera) | N/A |
-| 16 | [Sergio Moya](http://twitter.com/search?q=Sergio+Moya) | N/A |
-| 17 | [#carnavalsdn2023](http://twitter.com/search?q=%23carnavalsdn2023) | N/A |
-| 18 | [Botello](http://twitter.com/search?q=Botello) | N/A |
-| 19 | [#Tiroteo](http://twitter.com/search?q=%23Tiroteo) | N/A |
-| 20 | [#opinasin](http://twitter.com/search?q=%23opinasin) | N/A |
-| 21 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 22 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
-| 23 | [margarita cedeño](http://twitter.com/search?q=margarita+cede%c3%b1o) | N/A |
-| 24 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 25 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
-| 26 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 27 | [Marcha Verde](http://twitter.com/search?q=Marcha+Verde) | N/A |
-| 28 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 16 | [#carnavalsdn2023](http://twitter.com/search?q=%23carnavalsdn2023) | N/A |
+| 17 | [Sergio Moya](http://twitter.com/search?q=Sergio+Moya) | N/A |
+| 18 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
+| 19 | [Botello](http://twitter.com/search?q=Botello) | N/A |
+| 20 | [#Tiroteo](http://twitter.com/search?q=%23Tiroteo) | N/A |
+| 21 | [#unpldmasfuerte](http://twitter.com/search?q=%23unpldmasfuerte) | N/A |
+| 22 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 23 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
+| 24 | [margarita cedeño](http://twitter.com/search?q=margarita+cede%c3%b1o) | N/A |
+| 25 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
+| 26 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
+| 27 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 28 | [Marcha Verde](http://twitter.com/search?q=Marcha+Verde) | N/A |
 | 29 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
 | 30 | [Matt Wallace](http://twitter.com/search?q=Matt+Wallace) | N/A |
-| 31 | [María Elvira Salazar](http://twitter.com/search?q=Mar%c3%ada+Elvira+Salazar) | N/A |
-| 32 | [Comité Central](http://twitter.com/search?q=Comit%c3%a9+Central) | N/A |
-| 33 | [Mariotti](http://twitter.com/search?q=Mariotti) | N/A |
+| 31 | [Mariotti](http://twitter.com/search?q=Mariotti) | N/A |
+| 32 | [María Elvira Salazar](http://twitter.com/search?q=Mar%c3%ada+Elvira+Salazar) | N/A |
+| 33 | [Comité Central](http://twitter.com/search?q=Comit%c3%a9+Central) | N/A |
 | 34 | [Raquel Peña](http://twitter.com/search?q=Raquel+Pe%c3%b1a) | N/A |
-| 35 | [Kpinini](http://twitter.com/search?q=Kpinini) | N/A |
-| 36 | [francisco peña](http://twitter.com/search?q=francisco+pe%c3%b1a) | N/A |
-| 37 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 38 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
-| 39 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
-| 40 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 41 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 35 | [francisco peña](http://twitter.com/search?q=francisco+pe%c3%b1a) | N/A |
+| 36 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 37 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
+| 38 | [Laura Acosta](http://twitter.com/search?q=Laura+Acosta) | N/A |
+| 39 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 40 | [LeBron James](http://twitter.com/search?q=LeBron+James) | N/A |
+| 41 | [Mimilo](http://twitter.com/search?q=Mimilo) | N/A |
 | 42 | [Dunia](http://twitter.com/search?q=Dunia) | N/A |
 | 43 | [Cervantes](http://twitter.com/search?q=Cervantes) | N/A |
-| 44 | [Medio Ambiente](http://twitter.com/search?q=Medio+Ambiente) | N/A |
-| 45 | [Mimilo](http://twitter.com/search?q=Mimilo) | N/A |
-| 46 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 47 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
-| 48 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 49 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 50 | [domingo jiménez](http://twitter.com/search?q=domingo+jim%c3%a9nez) | N/A |
+| 44 | [Kpinini](http://twitter.com/search?q=Kpinini) | N/A |
+| 45 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 46 | [Medio Ambiente](http://twitter.com/search?q=Medio+Ambiente) | N/A |
+| 47 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 48 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
+| 49 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 50 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
 
 
 

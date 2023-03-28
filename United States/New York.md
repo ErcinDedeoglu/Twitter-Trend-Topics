@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-28 02:32:54 UTC`
+📆 Last Updated: `2023-03-28 03:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 2 | [Rousek](http://twitter.com/search?q=Rousek) | N/A |
-| 3 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
-| 4 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 5 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 6 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 7 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
-| 8 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
-| 9 | [Quinn](http://twitter.com/search?q=Quinn) | N/A |
-| 10 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 11 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 12 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 13 | [eShop](http://twitter.com/search?q=eShop) | N/A |
-| 14 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 15 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 16 | [#schoolshooting](http://twitter.com/search?q=%23schoolshooting) | N/A |
-| 17 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 18 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 19 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 20 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 21 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 22 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 23 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 24 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
-| 25 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 1 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 2 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 3 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
+| 4 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 5 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 6 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 7 | [Rousek](http://twitter.com/search?q=Rousek) | N/A |
+| 8 | [Quinn](http://twitter.com/search?q=Quinn) | N/A |
+| 9 | [Canadiens](http://twitter.com/search?q=Canadiens) | N/A |
+| 10 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
+| 11 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 12 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 13 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 14 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 15 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 16 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 17 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 18 | [eShop](http://twitter.com/search?q=eShop) | N/A |
+| 19 | [#schoolshooting](http://twitter.com/search?q=%23schoolshooting) | N/A |
+| 20 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 21 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 22 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 23 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 24 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 25 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
 | 26 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 27 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
-| 28 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 29 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 30 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 31 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
-| 32 | [Immanuel Quickley](http://twitter.com/search?q=Immanuel+Quickley) | N/A |
-| 33 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 34 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 35 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
-| 36 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 37 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
-| 38 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 39 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
-| 40 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 41 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 42 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
-| 43 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 44 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 45 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 46 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 47 | [Miles Robinson](http://twitter.com/search?q=Miles+Robinson) | N/A |
-| 48 | [Sean Lowe](http://twitter.com/search?q=Sean+Lowe) | N/A |
-| 49 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
-| 50 | [Taylor Mikesell](http://twitter.com/search?q=Taylor+Mikesell) | N/A |
+| 27 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 28 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
+| 29 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 30 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 31 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
+| 32 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 33 | [Pepi](http://twitter.com/search?q=Pepi) | N/A |
+| 34 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 35 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 36 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 37 | [Immanuel Quickley](http://twitter.com/search?q=Immanuel+Quickley) | N/A |
+| 38 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 39 | [Georgia Amoore](http://twitter.com/search?q=Georgia+Amoore) | N/A |
+| 40 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 41 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
+| 42 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 43 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 44 | [Paul Reed](http://twitter.com/search?q=Paul+Reed) | N/A |
+| 45 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 46 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 47 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 48 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
+| 49 | [Jack Johnson](http://twitter.com/search?q=Jack+Johnson) | N/A |
+| 50 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yekaterinburg
 
-📆 Last Updated: `2023-03-28 02:32:43 UTC`
+📆 Last Updated: `2023-03-28 03:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,15 +27,15 @@ This is top 50 for [Russia](</Russia>)
 | 10 | [Пригожин](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b3%d0%be%d0%b6%d0%b8%d0%bd) | N/A |
 | 11 | [Гитлера](http://twitter.com/search?q=%d0%93%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | N/A |
 | 12 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 13 | [похоже](http://twitter.com/search?q=%d0%bf%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 14 | [Добро](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%be) | N/A |
+| 13 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
+| 14 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | N/A |
 | 15 | [думаю](http://twitter.com/search?q=%d0%b4%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
 | 16 | [ютубе](http://twitter.com/search?q=%d1%8e%d1%82%d1%83%d0%b1%d0%b5) | N/A |
 | 17 | [вс рф](http://twitter.com/search?q=%d0%b2%d1%81+%d1%80%d1%84) | N/A |
 | 18 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 19 | [Божечки](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5%d1%87%d0%ba%d0%b8) | N/A |
-| 20 | [Вряд](http://twitter.com/search?q=%d0%92%d1%80%d1%8f%d0%b4) | N/A |
-| 21 | [Кайф](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b9%d1%84) | N/A |
+| 19 | [божечки](http://twitter.com/search?q=%d0%b1%d0%be%d0%b6%d0%b5%d1%87%d0%ba%d0%b8) | N/A |
+| 20 | [вряд](http://twitter.com/search?q=%d0%b2%d1%80%d1%8f%d0%b4) | N/A |
+| 21 | [кайф](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b9%d1%84) | N/A |
 | 22 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
 | 23 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
 | 24 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
@@ -44,18 +44,18 @@ This is top 50 for [Russia](</Russia>)
 | 27 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
 | 28 | [Сибири](http://twitter.com/search?q=%d0%a1%d0%b8%d0%b1%d0%b8%d1%80%d0%b8) | N/A |
 | 29 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 30 | [причём](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%87%d1%91%d0%bc) | N/A |
-| 31 | [никак](http://twitter.com/search?q=%d0%bd%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
-| 32 | [простите](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
-| 33 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
-| 34 | [хотелось](http://twitter.com/search?q=%d1%85%d0%be%d1%82%d0%b5%d0%bb%d0%be%d1%81%d1%8c) | N/A |
-| 35 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
-| 36 | [супер](http://twitter.com/search?q=%d1%81%d1%83%d0%bf%d0%b5%d1%80) | N/A |
+| 30 | [никак](http://twitter.com/search?q=%d0%bd%d0%b8%d0%ba%d0%b0%d0%ba) | N/A |
+| 31 | [простите](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d1%81%d1%82%d0%b8%d1%82%d0%b5) | N/A |
+| 32 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
+| 33 | [хотелось](http://twitter.com/search?q=%d1%85%d0%be%d1%82%d0%b5%d0%bb%d0%be%d1%81%d1%8c) | N/A |
+| 34 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
+| 35 | [супер](http://twitter.com/search?q=%d1%81%d1%83%d0%bf%d0%b5%d1%80) | N/A |
+| 36 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 37 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
 | 38 | [красивая](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
-| 39 | [даааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
-| 40 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
-| 41 | [поддерживаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d0%b2%d0%b0%d1%8e) | N/A |
+| 39 | [Даааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
+| 40 | [окей](http://twitter.com/search?q=%d0%be%d0%ba%d0%b5%d0%b9) | N/A |
+| 41 | [Поддерживаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d0%b2%d0%b0%d1%8e) | N/A |
 | 42 | [говорят](http://twitter.com/search?q=%d0%b3%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
 
 

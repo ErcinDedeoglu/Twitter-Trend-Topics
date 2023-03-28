@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-28 02:32:45 UTC`
+📆 Last Updated: `2023-03-28 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#PakvsAfghanistan](http://twitter.com/search?q=%23PakvsAfghanistan) | N/A |
 | 4 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
 | 5 | [#AsifAliZardari](http://twitter.com/search?q=%23AsifAliZardari) | N/A |
-| 6 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 8 | [Azam khan](http://twitter.com/search?q=Azam+khan) | N/A |
+| 6 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 7 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 8 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
 | 9 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
 | 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 11 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 19 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
 | 20 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
 | 21 | [Shoaib Akhtar](http://twitter.com/search?q=Shoaib+Akhtar) | N/A |
-| 22 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 23 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 24 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 25 | [amir sohail](http://twitter.com/search?q=amir+sohail) | N/A |
-| 26 | [captaincy](http://twitter.com/search?q=captaincy) | N/A |
-| 27 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 28 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 29 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 30 | [Full Court](http://twitter.com/search?q=Full+Court) | N/A |
-| 31 | [Congratulations Shaddy](http://twitter.com/search?q=Congratulations+Shaddy) | N/A |
-| 32 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 22 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 23 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 24 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 25 | [captaincy](http://twitter.com/search?q=captaincy) | N/A |
+| 26 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 27 | [Congratulations Shaddy](http://twitter.com/search?q=Congratulations+Shaddy) | N/A |
+| 28 | [Full Court](http://twitter.com/search?q=Full+Court) | N/A |
+| 29 | [Insha'Allah](http://twitter.com/search?q=Insha%27Allah) | N/A |
+| 30 | [Quran](http://twitter.com/search?q=Quran) | N/A |
+| 31 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 32 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
 | 33 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
 | 34 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
 | 35 | [NO ONE](http://twitter.com/search?q=NO+ONE) | N/A |
 | 36 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
 | 37 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
 | 38 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 39 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 40 | [Champ](http://twitter.com/search?q=Champ) | N/A |
-| 41 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
-| 42 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 43 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 44 | [Wese](http://twitter.com/search?q=Wese) | N/A |
-| 45 | [Get Well Soon](http://twitter.com/search?q=Get+Well+Soon) | N/A |
-| 46 | [Beshaq](http://twitter.com/search?q=Beshaq) | N/A |
-| 47 | [Jazakallah](http://twitter.com/search?q=Jazakallah) | N/A |
-| 48 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 49 | [Pashto](http://twitter.com/search?q=Pashto) | N/A |
-| 50 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 39 | [Champ](http://twitter.com/search?q=Champ) | N/A |
+| 40 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 41 | [GET WELL SOON](http://twitter.com/search?q=GET+WELL+SOON) | N/A |
+| 42 | [Jazakallah](http://twitter.com/search?q=Jazakallah) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 45 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 46 | [America](http://twitter.com/search?q=America) | N/A |
+| 47 | [Beshak](http://twitter.com/search?q=Beshak) | N/A |
+| 48 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 49 | [Namaz](http://twitter.com/search?q=Namaz) | N/A |
+| 50 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 
 
 

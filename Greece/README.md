@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-03-28 02:33:00 UTC`
+📆 Last Updated: `2023-03-28 03:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,14 +24,14 @@ This is top 50 for Greece
 | 7 | [Καραπαπα](http://twitter.com/search?q=%ce%9a%ce%b1%cf%81%ce%b1%cf%80%ce%b1%cf%80%ce%b1) | N/A |
 | 8 | [#iq160gr](http://twitter.com/search?q=%23iq160gr) | N/A |
 | 9 | [Μπαλτακο](http://twitter.com/search?q=%ce%9c%cf%80%ce%b1%ce%bb%cf%84%ce%b1%ce%ba%ce%bf) | N/A |
-| 10 | [Μαιη](http://twitter.com/search?q=%ce%9c%ce%b1%ce%b9%ce%b7) | N/A |
+| 10 | [μαιη](http://twitter.com/search?q=%ce%bc%ce%b1%ce%b9%ce%b7) | N/A |
 | 11 | [Χατζη](http://twitter.com/search?q=%ce%a7%ce%b1%cf%84%ce%b6%ce%b7) | N/A |
 | 12 | [μοτο](http://twitter.com/search?q=%ce%bc%ce%bf%cf%84%ce%bf) | N/A |
 | 13 | [Βολου](http://twitter.com/search?q=%ce%92%ce%bf%ce%bb%ce%bf%cf%85) | N/A |
-| 14 | [Νετανιαχου](http://twitter.com/search?q=%ce%9d%ce%b5%cf%84%ce%b1%ce%bd%ce%b9%ce%b1%cf%87%ce%bf%cf%85) | N/A |
-| 15 | [ΕΣΗΕΑ](http://twitter.com/search?q=%ce%95%ce%a3%ce%97%ce%95%ce%91) | N/A |
+| 14 | [νετανιαχου](http://twitter.com/search?q=%ce%bd%ce%b5%cf%84%ce%b1%ce%bd%ce%b9%ce%b1%cf%87%ce%bf%cf%85) | N/A |
+| 15 | [εσηεα](http://twitter.com/search?q=%ce%b5%cf%83%ce%b7%ce%b5%ce%b1) | N/A |
 | 16 | [Ασημακοπουλος](http://twitter.com/search?q=%ce%91%cf%83%ce%b7%ce%bc%ce%b1%ce%ba%ce%bf%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82) | N/A |
-| 17 | [Ισραηλ](http://twitter.com/search?q=%ce%99%cf%83%cf%81%ce%b1%ce%b7%ce%bb) | N/A |
+| 17 | [ισραηλ](http://twitter.com/search?q=%ce%b9%cf%83%cf%81%ce%b1%ce%b7%ce%bb) | N/A |
 | 18 | [Δαλακα](http://twitter.com/search?q=%ce%94%ce%b1%ce%bb%ce%b1%ce%ba%ce%b1) | N/A |
 | 19 | [Μπενετ](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%bd%ce%b5%cf%84) | N/A |
 | 20 | [Ατζουν](http://twitter.com/search?q=%ce%91%cf%84%ce%b6%ce%bf%cf%85%ce%bd) | N/A |
@@ -39,23 +39,23 @@ This is top 50 for Greece
 | 22 | [Λαμια](http://twitter.com/search?q=%ce%9b%ce%b1%ce%bc%ce%b9%ce%b1) | N/A |
 | 23 | [Αγορου](http://twitter.com/search?q=%ce%91%ce%b3%ce%bf%cf%81%ce%bf%cf%85) | N/A |
 | 24 | [παγκοσμια ημερα θεατρου](http://twitter.com/search?q=%cf%80%ce%b1%ce%b3%ce%ba%ce%bf%cf%83%ce%bc%ce%b9%ce%b1+%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%b8%ce%b5%ce%b1%cf%84%cf%81%ce%bf%cf%85) | N/A |
-| 25 | [Κριτωνα](http://twitter.com/search?q=%ce%9a%cf%81%ce%b9%cf%84%cf%89%ce%bd%ce%b1) | N/A |
+| 25 | [κριτωνα](http://twitter.com/search?q=%ce%ba%cf%81%ce%b9%cf%84%cf%89%ce%bd%ce%b1) | N/A |
 | 26 | [Κολομβια](http://twitter.com/search?q=%ce%9a%ce%bf%ce%bb%ce%bf%ce%bc%ce%b2%ce%b9%ce%b1) | N/A |
 | 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 28 | [Ζαρκο](http://twitter.com/search?q=%ce%96%ce%b1%cf%81%ce%ba%ce%bf) | N/A |
-| 29 | [Λουτσεσκου](http://twitter.com/search?q=%ce%9b%ce%bf%cf%85%cf%84%cf%83%ce%b5%cf%83%ce%ba%ce%bf%cf%85) | N/A |
+| 29 | [λουτσεσκου](http://twitter.com/search?q=%ce%bb%ce%bf%cf%85%cf%84%cf%83%ce%b5%cf%83%ce%ba%ce%bf%cf%85) | N/A |
 | 30 | [φθιωτιδα](http://twitter.com/search?q=%cf%86%ce%b8%ce%b9%cf%89%cf%84%ce%b9%ce%b4%ce%b1) | N/A |
 | 31 | [Πωλινα](http://twitter.com/search?q=%ce%a0%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
 | 32 | [Μελινα](http://twitter.com/search?q=%ce%9c%ce%b5%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
 | 33 | [φιλης](http://twitter.com/search?q=%cf%86%ce%b9%ce%bb%ce%b7%cf%82) | N/A |
 | 34 | [λιανε](http://twitter.com/search?q=%ce%bb%ce%b9%ce%b1%ce%bd%ce%b5) | N/A |
-| 35 | [Βρισηιδα](http://twitter.com/search?q=%ce%92%cf%81%ce%b9%cf%83%ce%b7%ce%b9%ce%b4%ce%b1) | N/A |
-| 36 | [Noor 1](http://twitter.com/search?q=Noor+1) | N/A |
-| 37 | [Λιανος](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
-| 38 | [παρασχο](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b1%cf%83%cf%87%ce%bf) | N/A |
-| 39 | [καλη εβδομαδα](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7+%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%b1%ce%b4%ce%b1) | N/A |
-| 40 | [κωνσταντινος χρυσαγης](http://twitter.com/search?q=%ce%ba%cf%89%ce%bd%cf%83%cf%84%ce%b1%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%82+%cf%87%cf%81%cf%85%cf%83%ce%b1%ce%b3%ce%b7%cf%82) | N/A |
-| 41 | [Πηλιδη](http://twitter.com/search?q=%ce%a0%ce%b7%ce%bb%ce%b9%ce%b4%ce%b7) | N/A |
+| 35 | [βρισηιδα](http://twitter.com/search?q=%ce%b2%cf%81%ce%b9%cf%83%ce%b7%ce%b9%ce%b4%ce%b1) | N/A |
+| 36 | [noor 1](http://twitter.com/search?q=noor+1) | N/A |
+| 37 | [παρασχο](http://twitter.com/search?q=%cf%80%ce%b1%cf%81%ce%b1%cf%83%cf%87%ce%bf) | N/A |
+| 38 | [καλη εβδομαδα](http://twitter.com/search?q=%ce%ba%ce%b1%ce%bb%ce%b7+%ce%b5%ce%b2%ce%b4%ce%bf%ce%bc%ce%b1%ce%b4%ce%b1) | N/A |
+| 39 | [κωνσταντινος χρυσαγης](http://twitter.com/search?q=%ce%ba%cf%89%ce%bd%cf%83%cf%84%ce%b1%ce%bd%cf%84%ce%b9%ce%bd%ce%bf%cf%82+%cf%87%cf%81%cf%85%cf%83%ce%b1%ce%b3%ce%b7%cf%82) | N/A |
+| 40 | [Πηλιδη](http://twitter.com/search?q=%ce%a0%ce%b7%ce%bb%ce%b9%ce%b4%ce%b7) | N/A |
+| 41 | [Λιανος](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
 | 42 | [27 μαρτιου](http://twitter.com/search?q=27+%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bf%cf%85) | N/A |
 | 43 | [ο πορφυρης](http://twitter.com/search?q=%ce%bf+%cf%80%ce%bf%cf%81%cf%86%cf%85%cf%81%ce%b7%cf%82) | N/A |
 | 44 | [αυγενακη](http://twitter.com/search?q=%ce%b1%cf%85%ce%b3%ce%b5%ce%bd%ce%b1%ce%ba%ce%b7) | N/A |

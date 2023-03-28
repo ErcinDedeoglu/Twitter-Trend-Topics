@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-28 02:32:27 UTC`
+📆 Last Updated: `2023-03-28 03:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#donnalisi](http://twitter.com/search?q=%23donnalisi) | N/A |
-| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 2 | [#GianniMinà](http://twitter.com/search?q=%23GianniMin%c3%a0) | N/A |
 | 3 | [#nikiters](http://twitter.com/search?q=%23nikiters) | N/A |
-| 4 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 5 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 6 | [#incorvassi](http://twitter.com/search?q=%23incorvassi) | N/A |
-| 7 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 8 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 9 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 10 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 11 | [#GianniMinà](http://twitter.com/search?q=%23GianniMin%c3%a0) | N/A |
-| 12 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 13 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 14 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 15 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 16 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 17 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 18 | [Alby](http://twitter.com/search?q=Alby) | N/A |
+| 4 | [#nikiters](http://twitter.com/search?q=%23nikiters) | N/A |
+| 5 | [#nikiters](http://twitter.com/search?q=%23nikiters) | N/A |
+| 6 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 7 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 8 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 9 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 10 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 11 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 12 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 13 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 14 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
+| 15 | [Turone](http://twitter.com/search?q=Turone) | N/A |
+| 16 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 17 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 18 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
 | 19 | [Panda](http://twitter.com/search?q=Panda) | N/A |
-| 20 | [Albi](http://twitter.com/search?q=Albi) | N/A |
-| 21 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 22 | [Clizia](http://twitter.com/search?q=Clizia) | Clizia is an Italian name derived from the Latin word "claesia," which means "fame." It is also a variant of the name Cleopatra, which means "glory of the father." |
-| 23 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 24 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
-| 25 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 26 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 27 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
-| 28 | [#queenfiorde](http://twitter.com/search?q=%23queenfiorde) | N/A |
-| 29 | [#nikella](http://twitter.com/search?q=%23nikella) | N/A |
-| 30 | [#onestiners](http://twitter.com/search?q=%23onestiners) | N/A |
-| 31 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
-| 32 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
-| 33 | [#Fiordelisi](http://twitter.com/search?q=%23Fiordelisi) | N/A |
-| 34 | [#restaconme](http://twitter.com/search?q=%23restaconme) | N/A |
-| 35 | [#Maignan](http://twitter.com/search?q=%23Maignan) | N/A |
-| 36 | [#bisognaSaper](http://twitter.com/search?q=%23bisognaSaper) | N/A |
-| 37 | [#solearmy](http://twitter.com/search?q=%23solearmy) | N/A |
+| 20 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 22 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 23 | [agnese](http://twitter.com/search?q=agnese) | N/A |
+| 24 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
+| 25 | [Malpezzi](http://twitter.com/search?q=Malpezzi) | N/A |
+| 26 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
+| 27 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 28 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 29 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 30 | [Cocco](http://twitter.com/search?q=Cocco) | N/A |
+| 31 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 32 | [Alby](http://twitter.com/search?q=Alby) | N/A |
+| 33 | [Albi](http://twitter.com/search?q=Albi) | N/A |
+| 34 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
+| 35 | [codacons](http://twitter.com/search?q=codacons) | N/A |
+| 36 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 37 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 38 | [Domenicali](http://twitter.com/search?q=Domenicali) | N/A |
+| 39 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
+| 40 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 41 | [Alessandra De Stefano](http://twitter.com/search?q=Alessandra+De+Stefano) | N/A |
+| 42 | [Sergio Leone](http://twitter.com/search?q=Sergio+Leone) | N/A |
+| 43 | [le ong](http://twitter.com/search?q=le+ong) | N/A |
+| 44 | [Blitz](http://twitter.com/search?q=Blitz) | N/A |
+| 45 | [Dodina](http://twitter.com/search?q=Dodina) | N/A |
+| 46 | [Tunisia](http://twitter.com/search?q=Tunisia) | N/A |
+| 47 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 48 | [Soleil](http://twitter.com/search?q=Soleil) | Soleil is the French word for "sun". It is also used as a name for both boys and girls. In English, it means "sun". |
+| 49 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
+| 50 | [RaGa](http://twitter.com/search?q=RaGa) | N/A |
 
 
 
