@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-28 04:17:11 UTC`
+📆 Last Updated: `2023-03-28 05:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Furacão](http://twitter.com/search?q=Furac%c3%a3o) | N/A |
-| 2 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 3 | [#JogoDaDiscordia](http://twitter.com/search?q=%23JogoDaDiscordia) | N/A |
-| 4 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 5 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 6 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 7 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 10 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
+| 1 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 2 | [#JogoDaDiscordia](http://twitter.com/search?q=%23JogoDaDiscordia) | N/A |
+| 3 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 4 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 5 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 6 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 7 | [#NavioDaXuxaNoMultishow](http://twitter.com/search?q=%23NavioDaXuxaNoMultishow) | N/A |
+| 8 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [#HappyBirthdayLadyGaga](http://twitter.com/search?q=%23HappyBirthdayLadyGaga) | N/A |
 | 11 | [MORO NA CADEIA](http://twitter.com/search?q=MORO+NA+CADEIA) | N/A |
-| 12 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 13 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 14 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 15 | [O Alface](http://twitter.com/search?q=O+Alface) | O Alface is a Portuguese expression that literally translates to "Oh, lettuce!" It is used as an exclamation of surprise or astonishment. |
-| 16 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 17 | [Sula](http://twitter.com/search?q=Sula) | N/A |
-| 18 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 19 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 20 | [#HappyBirthdayLadyGaga](http://twitter.com/search?q=%23HappyBirthdayLadyGaga) | N/A |
-| 21 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
-| 22 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 23 | [Felipão](http://twitter.com/search?q=Felip%c3%a3o) | N/A |
-| 24 | [#Libertadores2023](http://twitter.com/search?q=%23Libertadores2023) | N/A |
-| 25 | [Essa Amanda](http://twitter.com/search?q=Essa+Amanda) | N/A |
-| 26 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
-| 27 | [Tetra](http://twitter.com/search?q=Tetra) | N/A |
+| 12 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 13 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 14 | [O Alface](http://twitter.com/search?q=O+Alface) | O Alface is a Portuguese expression that literally translates to "Oh, lettuce!" It is used as an exclamation of surprise or astonishment. |
+| 15 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
+| 16 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
+| 17 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 18 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 19 | [Sula](http://twitter.com/search?q=Sula) | N/A |
+| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 21 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 22 | [Essa Amanda](http://twitter.com/search?q=Essa+Amanda) | N/A |
+| 23 | [Liberta](http://twitter.com/search?q=Liberta) | N/A |
+| 24 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
+| 25 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 26 | [Felipão](http://twitter.com/search?q=Felip%c3%a3o) | N/A |
+| 27 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 28 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
-| 29 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
-| 30 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 29 | [Tetra](http://twitter.com/search?q=Tetra) | N/A |
+| 30 | [Metropolitanos](http://twitter.com/search?q=Metropolitanos) | N/A |
 | 31 | [Uruguai](http://twitter.com/search?q=Uruguai) | N/A |
-| 32 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 33 | [Quito](http://twitter.com/search?q=Quito) | N/A |
-| 34 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
-| 35 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 36 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 37 | [Vamos Flamengo](http://twitter.com/search?q=Vamos+Flamengo) | N/A |
-| 38 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 39 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 40 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 32 | [Fausto Vera](http://twitter.com/search?q=Fausto+Vera) | N/A |
+| 33 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 34 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 35 | [Piazon](http://twitter.com/search?q=Piazon) | N/A |
+| 36 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
+| 37 | [Marcelo Moreno](http://twitter.com/search?q=Marcelo+Moreno) | N/A |
+| 38 | [Quito](http://twitter.com/search?q=Quito) | N/A |
+| 39 | [VAMOS FLAMENGO](http://twitter.com/search?q=VAMOS+FLAMENGO) | N/A |
+| 40 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
 | 41 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
-| 42 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
-| 43 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 44 | [Pergunte](http://twitter.com/search?q=Pergunte) | N/A |
+| 42 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 43 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 44 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
 | 45 | [Dallagnol](http://twitter.com/search?q=Dallagnol) | N/A |
-| 46 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
-| 47 | [marcelo tarot](http://twitter.com/search?q=marcelo+tarot) | N/A |
-| 48 | [Equador](http://twitter.com/search?q=Equador) | N/A |
-| 49 | [Argentinos Juniors](http://twitter.com/search?q=Argentinos+Juniors) | N/A |
-| 50 | [Larissa e Bruna](http://twitter.com/search?q=Larissa+e+Bruna) | Larissa e Bruna is a Brazilian telenovela that aired on Rede Globo from April to October 2019. The show follows the story of two sisters, Larissa and Bruna, who are separated at birth and later reunited as adults. In English, the title translates to "Larissa and Bruna". |
+| 46 | [marcelo tarot](http://twitter.com/search?q=marcelo+tarot) | N/A |
+| 47 | [Pergunte](http://twitter.com/search?q=Pergunte) | N/A |
+| 48 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 49 | [Bolívar](http://twitter.com/search?q=Bol%c3%advar) | N/A |
+| 50 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
 
 
 

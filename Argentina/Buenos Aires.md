@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-28 04:17:13 UTC`
+📆 Last Updated: `2023-03-28 05:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Strongest](http://twitter.com/search?q=The+Strongest) | N/A |
-| 2 | [Grupo D](http://twitter.com/search?q=Grupo+D) | N/A |
-| 3 | [#CopaLibertadores2023](http://twitter.com/search?q=%23CopaLibertadores2023) | N/A |
-| 4 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 5 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 6 | [#AAAJ](http://twitter.com/search?q=%23AAAJ) | N/A |
-| 7 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 8 | [Aucas](http://twitter.com/search?q=Aucas) | N/A |
-| 9 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
-| 10 | [Colo](http://twitter.com/search?q=Colo) | N/A |
-| 11 | [Indio](http://twitter.com/search?q=Indio) | N/A |
-| 12 | [#InversionMercadoPago](http://twitter.com/search?q=%23InversionMercadoPago) | N/A |
-| 13 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
-| 14 | [San Pablo](http://twitter.com/search?q=San+Pablo) | N/A |
-| 15 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 16 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
-| 17 | [Sole](http://twitter.com/search?q=Sole) | N/A |
-| 18 | [Tigre](http://twitter.com/search?q=Tigre) | Tigre is a Spanish word meaning tiger. It is also the name of a city in Argentina. |
-| 19 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 20 | [Alianza Lima](http://twitter.com/search?q=Alianza+Lima) | N/A |
-| 21 | [#fueramalasvibras](http://twitter.com/search?q=%23fueramalasvibras) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 24 | [FULBO](http://twitter.com/search?q=FULBO) | N/A |
-| 25 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 26 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 27 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 28 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 29 | [agustin](http://twitter.com/search?q=agustin) | Agustin is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustin is usually translated as "Augustine". |
-| 30 | [#GH2022](http://twitter.com/search?q=%23GH2022) | #GH2022 is a hashtag used to refer to the 2022 Ghanaian general election. It is used to discuss topics related to the upcoming election, such as potential candidates, political parties, and other related news. |
-| 31 | [Marquitos](http://twitter.com/search?q=Marquitos) | N/A |
-| 32 | [Nachito](http://twitter.com/search?q=Nachito) | N/A |
-| 33 | [The Truman Show](http://twitter.com/search?q=The+Truman+Show) | N/A |
-| 34 | [Casi Ángeles](http://twitter.com/search?q=Casi+%c3%81ngeles) | N/A |
-| 35 | [cris morena](http://twitter.com/search?q=cris+morena) | Cris Morena is the stage name of Cristina Morena, an Argentine television producer, screenwriter, and singer. She is best known for creating the popular children's television series Rebelde Way and Chiquititas. The phrase "Cris Morena" can be used to refer to her work or her style of production. In English, it translates to "Cris Morena". |
-| 36 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
-| 37 | [Salta](http://twitter.com/search?q=Salta) | N/A |
-| 38 | [Pluto](http://twitter.com/search?q=Pluto) | N/A |
-| 39 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 40 | [Termino GH](http://twitter.com/search?q=Termino+GH) | N/A |
-| 41 | [sol perez](http://twitter.com/search?q=sol+perez) | N/A |
-| 42 | [SE FESTEJA EN EL OBELISCO](http://twitter.com/search?q=SE+FESTEJA+EN+EL+OBELISCO) | N/A |
-| 43 | [PATRIA Y FAMILIA](http://twitter.com/search?q=PATRIA+Y+FAMILIA) | N/A |
-| 44 | [ESTOY LISTO](http://twitter.com/search?q=ESTOY+LISTO) | N/A |
-| 45 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 46 | [SE HIZO JUSTICIA](http://twitter.com/search?q=SE+HIZO+JUSTICIA) | SE HIZO JUSTICIA is a Spanish phrase that translates to "justice was served" in English. It is used to express satisfaction or relief that justice has been done in a particular situation. |
-| 47 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 48 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 49 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
-| 50 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 1 | [#CopaLibertadores2023](http://twitter.com/search?q=%23CopaLibertadores2023) | N/A |
+| 2 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 3 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 4 | [#AAAJ](http://twitter.com/search?q=%23AAAJ) | N/A |
+| 5 | [Grupo F](http://twitter.com/search?q=Grupo+F) | N/A |
+| 6 | [Colo Colo](http://twitter.com/search?q=Colo+Colo) | N/A |
+| 7 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
+| 8 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 9 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 10 | [Sole](http://twitter.com/search?q=Sole) | N/A |
+| 11 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 13 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 14 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 15 | [agustin](http://twitter.com/search?q=agustin) | Agustin is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustin is usually translated as "Augustine". |
+| 16 | [#GH2022](http://twitter.com/search?q=%23GH2022) | #GH2022 is a hashtag used to refer to the 2022 Ghanaian general election. It is used to discuss topics related to the upcoming election, such as potential candidates, political parties, and other related news. |
+| 17 | [#GHArgentina](http://twitter.com/search?q=%23GHArgentina) | N/A |
+| 18 | [Marquitos](http://twitter.com/search?q=Marquitos) | N/A |
+| 19 | [The Truman Show](http://twitter.com/search?q=The+Truman+Show) | N/A |
+| 20 | [Nachito](http://twitter.com/search?q=Nachito) | N/A |
+| 21 | [#GH22](http://twitter.com/search?q=%23GH22) | #GH22 is a hashtag used to refer to the 22nd edition of the Ghana Music Awards, an annual music awards ceremony held in Ghana. |
+| 22 | [Casi Ángeles](http://twitter.com/search?q=Casi+%c3%81ngeles) | N/A |
+| 23 | [cris morena](http://twitter.com/search?q=cris+morena) | Cris Morena is the stage name of Cristina Morena, an Argentine television producer, screenwriter, and singer. She is best known for creating the popular children's television series Rebelde Way and Chiquititas. The phrase "Cris Morena" can be used to refer to her work or her style of production. In English, it translates to "Cris Morena". |
+| 24 | [Salta](http://twitter.com/search?q=Salta) | N/A |
+| 25 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
+| 26 | [Pluto](http://twitter.com/search?q=Pluto) | N/A |
+| 27 | [Termino GH](http://twitter.com/search?q=Termino+GH) | N/A |
+| 28 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
+| 29 | [sol perez](http://twitter.com/search?q=sol+perez) | N/A |
+| 30 | [Cristina Pérez](http://twitter.com/search?q=Cristina+P%c3%a9rez) | N/A |
+| 31 | [se festeja en el obelisco](http://twitter.com/search?q=se+festeja+en+el+obelisco) | N/A |
+| 32 | [PATRIA Y FAMILIA](http://twitter.com/search?q=PATRIA+Y+FAMILIA) | N/A |
+| 33 | [ESTOY LISTO](http://twitter.com/search?q=ESTOY+LISTO) | N/A |
+| 34 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 35 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
+| 36 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
+| 37 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 38 | [SE HIZO JUSTICIA](http://twitter.com/search?q=SE+HIZO+JUSTICIA) | SE HIZO JUSTICIA is a Spanish phrase that translates to "justice was served" in English. It is used to express satisfaction or relief that justice has been done in a particular situation. |
+| 39 | [Juli Poggio](http://twitter.com/search?q=Juli+Poggio) | N/A |
+| 40 | [Avicii](http://twitter.com/search?q=Avicii) | N/A |
+| 41 | [Cristian U](http://twitter.com/search?q=Cristian+U) | Cristian U is a Christian university located in the Dominican Republic. It is a private, non-profit institution of higher education that seeks to provide quality education in a Christian environment. The university offers undergraduate and graduate programs in areas such as business, engineering, education, and theology. |
+| 42 | [Torta](http://twitter.com/search?q=Torta) | N/A |
+| 43 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 44 | [Juan Reverdito](http://twitter.com/search?q=Juan+Reverdito) | N/A |
+| 45 | [troy bolton](http://twitter.com/search?q=troy+bolton) | N/A |
+| 46 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 47 | [Marianela](http://twitter.com/search?q=Marianela) | N/A |
+| 48 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 49 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
+| 50 | [#VolvioElDebate](http://twitter.com/search?q=%23VolvioElDebate) | N/A |
 
 
 

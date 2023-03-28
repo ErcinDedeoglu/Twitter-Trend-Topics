@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-03-28 04:17:01 UTC`
+📆 Last Updated: `2023-03-28 05:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
-| 2 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 3 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 5 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [Tiger Williams](http://twitter.com/search?q=Tiger+Williams) | N/A |
-| 8 | [Michael Pezzetta](http://twitter.com/search?q=Michael+Pezzetta) | N/A |
+| 2 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 3 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 4 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 6 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 7 | [Uniswap](http://twitter.com/search?q=Uniswap) | N/A |
+| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 9 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 11 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 12 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 13 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 14 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
-| 15 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 16 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 17 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
-| 18 | [Kaity](http://twitter.com/search?q=Kaity) | N/A |
-| 19 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 20 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 21 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 22 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
-| 23 | [Brady](http://twitter.com/search?q=Brady) | Brady is a name of Irish origin, derived from the Gaelic surname Ó Brádaigh. It is an Anglicized form of the Irish surname, which means "spirited" or "broad". |
-| 24 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
-| 25 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
-| 26 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 27 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 28 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 29 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 30 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 31 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
-| 32 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
-| 33 | [Sportsnet](http://twitter.com/search?q=Sportsnet) | N/A |
-| 34 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 35 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 36 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 37 | [Matheson](http://twitter.com/search?q=Matheson) | N/A |
-| 38 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 39 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 40 | [#darceyandstacey](http://twitter.com/search?q=%23darceyandstacey) | N/A |
-| 41 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 42 | [#LoveIsBlindS4](http://twitter.com/search?q=%23LoveIsBlindS4) | N/A |
-| 43 | [#guncontrol](http://twitter.com/search?q=%23guncontrol) | N/A |
-| 44 | [#schoolshooting](http://twitter.com/search?q=%23schoolshooting) | N/A |
-| 45 | [#peipoli](http://twitter.com/search?q=%23peipoli) | N/A |
-| 46 | [#VisibleWomen](http://twitter.com/search?q=%23VisibleWomen) | N/A |
+| 10 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 11 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 12 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 13 | [#iHeartAwards2023](http://twitter.com/search?q=%23iHeartAwards2023) | N/A |
+| 14 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 15 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 16 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 17 | [Michael Pezzetta](http://twitter.com/search?q=Michael+Pezzetta) | N/A |
+| 18 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 19 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 20 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 22 | [Tiger Williams](http://twitter.com/search?q=Tiger+Williams) | N/A |
+| 23 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 24 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 25 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 26 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 27 | [Travis Jordan](http://twitter.com/search?q=Travis+Jordan) | N/A |
+| 28 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 29 | [Brett Ryan](http://twitter.com/search?q=Brett+Ryan) | N/A |
+| 30 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 31 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 32 | [I RTd](http://twitter.com/search?q=I+RTd) | N/A |
+| 33 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
+| 34 | [Matt Boldy](http://twitter.com/search?q=Matt+Boldy) | N/A |
+| 35 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 36 | [America](http://twitter.com/search?q=America) | N/A |
+| 37 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 38 | [joseph woll](http://twitter.com/search?q=joseph+woll) | N/A |
+| 39 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 40 | [Jake Allen](http://twitter.com/search?q=Jake+Allen) | N/A |
+| 41 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 42 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 43 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
+| 44 | [Audrey Hale](http://twitter.com/search?q=Audrey+Hale) | N/A |
+| 45 | [250k in eth](http://twitter.com/search?q=250k+in+eth) | N/A |
+| 46 | [Aunt Crabby](http://twitter.com/search?q=Aunt+Crabby) | N/A |
+| 47 | [Kostin](http://twitter.com/search?q=Kostin) | N/A |
+| 48 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 49 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 50 | [Mullett Arena](http://twitter.com/search?q=Mullett+Arena) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-28 04:17:52 UTC`
+📆 Last Updated: `2023-03-28 05:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,31 +27,34 @@ This is top 50 for Argentina
 | 10 | [#GH22](http://twitter.com/search?q=%23GH22) | #GH22 is a hashtag used to refer to the 22nd edition of the Ghana Music Awards, an annual music awards ceremony held in Ghana. |
 | 11 | [Casi Ángeles](http://twitter.com/search?q=Casi+%c3%81ngeles) | N/A |
 | 12 | [cris morena](http://twitter.com/search?q=cris+morena) | Cris Morena is the stage name of Cristina Morena, an Argentine television producer, screenwriter, and singer. She is best known for creating the popular children's television series Rebelde Way and Chiquititas. The phrase "Cris Morena" can be used to refer to her work or her style of production. In English, it translates to "Cris Morena". |
-| 13 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
-| 14 | [Salta](http://twitter.com/search?q=Salta) | N/A |
+| 13 | [Salta](http://twitter.com/search?q=Salta) | N/A |
+| 14 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
 | 15 | [Pluto](http://twitter.com/search?q=Pluto) | N/A |
-| 16 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 17 | [Termino GH](http://twitter.com/search?q=Termino+GH) | N/A |
+| 16 | [Termino GH](http://twitter.com/search?q=Termino+GH) | N/A |
+| 17 | [Del Moro](http://twitter.com/search?q=Del+Moro) | Del Moro is a Spanish phrase meaning "of the Moor". It is used to refer to something that has been influenced by Moorish culture, such as architecture or cuisine. |
 | 18 | [sol perez](http://twitter.com/search?q=sol+perez) | N/A |
-| 19 | [SE FESTEJA EN EL OBELISCO](http://twitter.com/search?q=SE+FESTEJA+EN+EL+OBELISCO) | N/A |
-| 20 | [ESTOY LISTO](http://twitter.com/search?q=ESTOY+LISTO) | N/A |
-| 21 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 22 | [PATRIA Y FAMILIA](http://twitter.com/search?q=PATRIA+Y+FAMILIA) | N/A |
-| 23 | [SE HIZO JUSTICIA](http://twitter.com/search?q=SE+HIZO+JUSTICIA) | SE HIZO JUSTICIA is a Spanish phrase that translates to "justice was served" in English. It is used to express satisfaction or relief that justice has been done in a particular situation. |
-| 24 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 25 | [Cristina Pérez](http://twitter.com/search?q=Cristina+P%c3%a9rez) | N/A |
-| 26 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
-| 27 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 28 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 19 | [Cristina Pérez](http://twitter.com/search?q=Cristina+P%c3%a9rez) | N/A |
+| 20 | [se festeja en el obelisco](http://twitter.com/search?q=se+festeja+en+el+obelisco) | N/A |
+| 21 | [PATRIA Y FAMILIA](http://twitter.com/search?q=PATRIA+Y+FAMILIA) | N/A |
+| 22 | [ESTOY LISTO](http://twitter.com/search?q=ESTOY+LISTO) | N/A |
+| 23 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 24 | [Frodo](http://twitter.com/search?q=Frodo) | N/A |
+| 25 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
+| 26 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 27 | [#VolvioElDebate](http://twitter.com/search?q=%23VolvioElDebate) | N/A |
+| 28 | [SE HIZO JUSTICIA](http://twitter.com/search?q=SE+HIZO+JUSTICIA) | SE HIZO JUSTICIA is a Spanish phrase that translates to "justice was served" in English. It is used to express satisfaction or relief that justice has been done in a particular situation. |
 | 29 | [Juli Poggio](http://twitter.com/search?q=Juli+Poggio) | N/A |
 | 30 | [Avicii](http://twitter.com/search?q=Avicii) | N/A |
-| 31 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 32 | [#VolvioElDebate](http://twitter.com/search?q=%23VolvioElDebate) | N/A |
-| 33 | [Dominguez](http://twitter.com/search?q=Dominguez) | N/A |
-| 34 | [Torta](http://twitter.com/search?q=Torta) | N/A |
-| 35 | [Cristian U](http://twitter.com/search?q=Cristian+U) | Cristian U is a Christian university located in the Dominican Republic. It is a private, non-profit institution of higher education that seeks to provide quality education in a Christian environment. The university offers undergraduate and graduate programs in areas such as business, engineering, education, and theology. |
-| 36 | [Juan Reverdito](http://twitter.com/search?q=Juan+Reverdito) | N/A |
-| 37 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 31 | [Cristian U](http://twitter.com/search?q=Cristian+U) | Cristian U is a Christian university located in the Dominican Republic. It is a private, non-profit institution of higher education that seeks to provide quality education in a Christian environment. The university offers undergraduate and graduate programs in areas such as business, engineering, education, and theology. |
+| 32 | [Torta](http://twitter.com/search?q=Torta) | N/A |
+| 33 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 34 | [Juan Reverdito](http://twitter.com/search?q=Juan+Reverdito) | N/A |
+| 35 | [#fueramalasvibras](http://twitter.com/search?q=%23fueramalasvibras) | N/A |
+| 36 | [troy bolton](http://twitter.com/search?q=troy+bolton) | N/A |
+| 37 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 38 | [Marianela](http://twitter.com/search?q=Marianela) | N/A |
+| 39 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 40 | [Tortilla](http://twitter.com/search?q=Tortilla) | N/A |
 
 
 

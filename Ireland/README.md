@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-28 04:17:54 UTC`
+📆 Last Updated: `2023-03-28 05:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for Ireland
 | 7 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
 | 8 | [#irelandvsfrance](http://twitter.com/search?q=%23irelandvsfrance) | N/A |
 | 9 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
-| 10 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 11 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 10 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 11 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
 | 12 | [Spar](http://twitter.com/search?q=Spar) | N/A |
 | 13 | [Shane](http://twitter.com/search?q=Shane) | N/A |
 | 14 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
@@ -35,15 +35,15 @@ This is top 50 for Ireland
 | 18 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
 | 19 | [Collins](http://twitter.com/search?q=Collins) | N/A |
 | 20 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 21 | [Smallbone](http://twitter.com/search?q=Smallbone) | N/A |
+| 21 | [smallbone](http://twitter.com/search?q=smallbone) | N/A |
 | 22 | [#WorldTheatreDay](http://twitter.com/search?q=%23WorldTheatreDay) | N/A |
 | 23 | [Greece](http://twitter.com/search?q=Greece) | N/A |
 | 24 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
 | 25 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
 | 26 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
-| 27 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 28 | [Idah](http://twitter.com/search?q=Idah) | N/A |
-| 29 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 27 | [Idah](http://twitter.com/search?q=Idah) | N/A |
+| 28 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 29 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 30 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
 | 31 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
 | 32 | [Succession](http://twitter.com/search?q=Succession) | N/A |

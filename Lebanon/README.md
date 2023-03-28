@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-28 04:17:56 UTC`
+📆 Last Updated: `2023-03-28 05:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,33 +15,33 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 2 | [#الكيان_المتصدع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d8%af%d8%b9) | N/A |
-| 3 | [#التوقيت_الصيفي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa_%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
-| 4 | [#الكيان_الموقت](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
-| 5 | [#الكيان_ينهار](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d9%8a%d9%86%d9%87%d8%a7%d8%b1) | N/A |
-| 6 | [#نتنياهو](http://twitter.com/search?q=%23%d9%86%d8%aa%d9%86%d9%8a%d8%a7%d9%87%d9%88) | N/A |
+| 1 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 2 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 3 | [#الكيان_المتصدع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d8%af%d8%b9) | N/A |
+| 4 | [#التوقيت_الصيفي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa_%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
+| 5 | [#الكيان_الموقت](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d9%88%d9%82%d8%aa) | N/A |
+| 6 | [#الكيان_ينهار](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d9%8a%d9%86%d9%87%d8%a7%d8%b1) | N/A |
 | 7 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
 | 8 | [ليل الاربعاء](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | N/A |
 | 9 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 10 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 11 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 12 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
-| 13 | [الدولار الجمركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%b1%d9%83%d9%8a) | N/A |
-| 14 | [الحكومه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 15 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
-| 16 | [علي التحمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%85%d9%84) | N/A |
-| 17 | [الاصلاح القضايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a) | N/A |
-| 18 | [الخميس المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 19 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 20 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
-| 21 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
+| 10 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 11 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
+| 12 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 13 | [الحكومه اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 14 | [أبيب](http://twitter.com/search?q=%d8%a3%d8%a8%d9%8a%d8%a8) | N/A |
+| 15 | [علي التحمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%85%d9%84) | N/A |
+| 16 | [الاصلاح القضايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a) | N/A |
+| 17 | [الخميس المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 18 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 19 | [وزير الدفاع](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9) | N/A |
+| 20 | [الدولار الجمركي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%b1%d9%83%d9%8a) | N/A |
+| 21 | [بيت العنكبوت](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%86%d9%83%d8%a8%d9%88%d8%aa) | N/A |
 | 22 | [علي القرار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
-| 23 | [سامي الجميل](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 24 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 25 | [غسان سعود](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 26 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 27 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
+| 23 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
+| 24 | [سامي الجميل](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 25 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 26 | [غسان سعود](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 27 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
 | 28 | [حسن خالد](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
 | 29 | [بشير الجميل](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
 | 30 | [الكيان الغاصب](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d8%b5%d8%a8) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Lebanon
 | 35 | [وزير الحرب](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8) | N/A |
 | 36 | [الحلقه الخامسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3%d9%87) | N/A |
 | 37 | [الاموال المنهوبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d9%86%d9%87%d9%88%d8%a8%d9%87) | N/A |
-| 38 | [شهر رمضان المبارك](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [رييس التيار الوطني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 41 | [العصيان المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 42 | [رجل دين](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%af%d9%8a%d9%86) | N/A |
-| 43 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 44 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
-| 45 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 46 | [وليبيا](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 47 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
-| 48 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 49 | [محور الممانعه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%85%d8%a7%d9%86%d8%b9%d9%87) | N/A |
-| 50 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
+| 38 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 39 | [رييس التيار الوطني](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 40 | [رجل دين](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%af%d9%8a%d9%86) | N/A |
+| 41 | [الرياض](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | الرياض is the capital city of Saudi Arabia. In English, it translates to "The Riyadh". |
+| 42 | [منخفض جوي](http://twitter.com/search?q=%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%ac%d9%88%d9%8a) | N/A |
+| 43 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 44 | [وليبيا](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
+| 45 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
+| 46 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 47 | [محور الممانعه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%85%d8%a7%d9%86%d8%b9%d9%87) | N/A |
+| 48 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 49 | [موسي الصدر](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a7%d9%84%d8%b5%d8%af%d8%b1) | N/A |
+| 50 | [العصيان المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
 
 
 

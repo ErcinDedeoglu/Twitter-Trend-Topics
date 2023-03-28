@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-28 04:17:21 UTC`
+📆 Last Updated: `2023-03-28 05:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,35 +18,35 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
 | 2 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 3 | [sissener](http://twitter.com/search?q=sissener) | N/A |
-| 4 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
-| 5 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
-| 6 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 4 | [høyesterett](http://twitter.com/search?q=h%c3%b8yesterett) | N/A |
+| 5 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 6 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
 | 7 | [viken](http://twitter.com/search?q=viken) | N/A |
 | 8 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
 | 9 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 10 | [agder](http://twitter.com/search?q=agder) | N/A |
-| 11 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
-| 12 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 13 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
-| 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 15 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 16 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
-| 17 | [eøs-avtalen](http://twitter.com/search?q=e%c3%b8s-avtalen) | N/A |
-| 18 | [#ENVtuber](http://twitter.com/search?q=%23ENVtuber) | N/A |
-| 19 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 20 | [Aker](http://twitter.com/search?q=Aker) | N/A |
-| 21 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 22 | [Republican](http://twitter.com/search?q=Republican) | N/A |
-| 23 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
-| 24 | [tøyen](http://twitter.com/search?q=t%c3%b8yen) | N/A |
-| 25 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 26 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 27 | [høyre](http://twitter.com/search?q=h%c3%b8yre) | N/A |
-| 28 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 29 | [Moss](http://twitter.com/search?q=Moss) | N/A |
-| 30 | [spania](http://twitter.com/search?q=spania) | N/A |
-| 31 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 32 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 11 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 12 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
+| 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 14 | [#DiabloIV](http://twitter.com/search?q=%23DiabloIV) | N/A |
+| 15 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 16 | [eøs-avtalen](http://twitter.com/search?q=e%c3%b8s-avtalen) | N/A |
+| 17 | [#ENVtuber](http://twitter.com/search?q=%23ENVtuber) | N/A |
+| 18 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 19 | [Aker](http://twitter.com/search?q=Aker) | N/A |
+| 20 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 21 | [Republican](http://twitter.com/search?q=Republican) | N/A |
+| 22 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 23 | [tøyen](http://twitter.com/search?q=t%c3%b8yen) | N/A |
+| 24 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 25 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 26 | [Høyre](http://twitter.com/search?q=H%c3%b8yre) | N/A |
+| 27 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
+| 28 | [Moss](http://twitter.com/search?q=Moss) | N/A |
+| 29 | [spania](http://twitter.com/search?q=spania) | N/A |
+| 30 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 31 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 32 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 33 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 | 34 | [flakk](http://twitter.com/search?q=flakk) | N/A |
 | 35 | [sandnes](http://twitter.com/search?q=sandnes) | N/A |
