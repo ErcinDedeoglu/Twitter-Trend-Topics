@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-03-28 14:18:00 UTC`
+📆 Last Updated: `2023-03-28 15:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,50 @@ This is top 50 for [United States](</United States>)
 | 1 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
 | 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 3 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 4 | [Gutey](http://twitter.com/search?q=Gutey) | N/A |
-| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 6 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 7 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 8 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
-| 9 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 10 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 4 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 5 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 6 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 8 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 10 | [OLED](http://twitter.com/search?q=OLED) | N/A |
 | 11 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 12 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 13 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 14 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
-| 15 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 12 | [MAMAMOO](http://twitter.com/search?q=MAMAMOO) | N/A |
+| 13 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 14 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
+| 15 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 16 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
-| 17 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 18 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
-| 19 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 20 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 21 | [$BABA](http://twitter.com/search?q=%24BABA) | N/A |
-| 22 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 23 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 24 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
-| 25 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 26 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 27 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 28 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
-| 29 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 30 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 31 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
+| 17 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
+| 18 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 19 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 20 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 21 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 22 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 23 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 24 | [Jun Kazama](http://twitter.com/search?q=Jun+Kazama) | N/A |
+| 25 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
+| 26 | [Pro Controller](http://twitter.com/search?q=Pro+Controller) | N/A |
+| 27 | [Biggest Surprise](http://twitter.com/search?q=Biggest+Surprise) | N/A |
+| 28 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 29 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 30 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 31 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
 | 32 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 33 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
-| 34 | [Michael Collazo](http://twitter.com/search?q=Michael+Collazo) | N/A |
-| 35 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
-| 36 | [️GAME DAY](http://twitter.com/search?q=%ef%b8%8fGAME+DAY) | N/A |
-| 37 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 38 | [Rex Englebert](http://twitter.com/search?q=Rex+Englebert) | N/A |
-| 39 | [Pakman](http://twitter.com/search?q=Pakman) | N/A |
-| 40 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 41 | [Jon Moxley](http://twitter.com/search?q=Jon+Moxley) | N/A |
-| 42 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 43 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 44 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 45 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 46 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 47 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 48 | [Hale](http://twitter.com/search?q=Hale) | N/A |
+| 33 | [Matt LaFleur](http://twitter.com/search?q=Matt+LaFleur) | Matt LaFleur is the current head coach of the Green Bay Packers, an American football team in the National Football League (NFL). His name is derived from the French phrase "la fleur," which means "the flower." |
+| 34 | [Nuts & Bolts](http://twitter.com/search?q=Nuts+%26+Bolts) | N/A |
+| 35 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 36 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 37 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 38 | [Michael Collazo](http://twitter.com/search?q=Michael+Collazo) | N/A |
+| 39 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 40 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 41 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
+| 42 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 43 | [Officers](http://twitter.com/search?q=Officers) | N/A |
+| 44 | [Wordle 647 X](http://twitter.com/search?q=Wordle+647+X) | N/A |
+| 45 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 46 | [maisie peters](http://twitter.com/search?q=maisie+peters) | N/A |
+| 47 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
 
 
 

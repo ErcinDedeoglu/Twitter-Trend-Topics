@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-03-28 14:17:17 UTC`
+📆 Last Updated: `2023-03-28 15:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#DuroContraLaCorrupción](http://twitter.com/search?q=%23DuroContraLaCorrupci%c3%b3n) | N/A |
 | 3 | [Francisco de Miranda](http://twitter.com/search?q=Francisco+de+Miranda) | N/A |
 | 4 | [#NiCorrupciónNiGuarimbas](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiGuarimbas) | N/A |
-| 5 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 6 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 7 | [#PuebloYGNBUnidosVenciendo](http://twitter.com/search?q=%23PuebloYGNBUnidosVenciendo) | N/A |
-| 8 | [#SomosLaInvictaFANB](http://twitter.com/search?q=%23SomosLaInvictaFANB) | N/A |
+| 5 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 6 | [Carlitos González](http://twitter.com/search?q=Carlitos+Gonz%c3%a1lez) | N/A |
+| 7 | [#SomosLaInvictaFANB](http://twitter.com/search?q=%23SomosLaInvictaFANB) | N/A |
+| 8 | [#PuebloYGNBUnidosVenciendo](http://twitter.com/search?q=%23PuebloYGNBUnidosVenciendo) | N/A |
 | 9 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 10 | [Revolución Francesa](http://twitter.com/search?q=Revoluci%c3%b3n+Francesa) | N/A |
-| 11 | [Universal](http://twitter.com/search?q=Universal) | N/A |
-| 12 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 13 | [El 28](http://twitter.com/search?q=El+28) | N/A |
-| 14 | [Alberto Arvelo Torrealba](http://twitter.com/search?q=Alberto+Arvelo+Torrealba) | N/A |
+| 10 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 11 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 12 | [Universal](http://twitter.com/search?q=Universal) | N/A |
+| 13 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 14 | [Revolución Francesa](http://twitter.com/search?q=Revoluci%c3%b3n+Francesa) | N/A |
 | 15 | [Independencia](http://twitter.com/search?q=Independencia) | N/A |
 | 16 | [Día Mundial del Teatro](http://twitter.com/search?q=D%c3%ada+Mundial+del+Teatro) | N/A |
-| 17 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 18 | [Rodríguez Espinoza](http://twitter.com/search?q=Rodr%c3%adguez+Espinoza) | N/A |
-| 19 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 17 | [Día del Patrimonio Cultural](http://twitter.com/search?q=D%c3%ada+del+Patrimonio+Cultural) | N/A |
+| 18 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
+| 19 | [El 28](http://twitter.com/search?q=El+28) | N/A |
 | 20 | [Ministerio de Educación](http://twitter.com/search?q=Ministerio+de+Educaci%c3%b3n) | N/A |
-| 21 | [lanco](http://twitter.com/search?q=lanco) | N/A |
-| 22 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
-| 23 | [Merey](http://twitter.com/search?q=Merey) | N/A |
-| 24 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 25 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 26 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
-| 27 | [Grupo D](http://twitter.com/search?q=Grupo+D) | N/A |
-| 28 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
-| 29 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 30 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 31 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 21 | [Petrocedeño](http://twitter.com/search?q=Petrocede%c3%b1o) | N/A |
+| 22 | [Alberto Arvelo Torrealba](http://twitter.com/search?q=Alberto+Arvelo+Torrealba) | N/A |
+| 23 | [lanco](http://twitter.com/search?q=lanco) | N/A |
+| 24 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 25 | [Estudiantes de Mérida](http://twitter.com/search?q=Estudiantes+de+M%c3%a9rida) | N/A |
+| 26 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 27 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 28 | [Merey](http://twitter.com/search?q=Merey) | N/A |
+| 29 | [Deportivo Pereira](http://twitter.com/search?q=Deportivo+Pereira) | N/A |
+| 30 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
+| 31 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 32 | [Tom Hanks](http://twitter.com/search?q=Tom+Hanks) | Tom Hanks is an American actor, producer, and director. He is best known for his roles in films such as Forrest Gump, Big, Saving Private Ryan, Cast Away, The Da Vinci Code, and Captain Phillips. He has won two Academy Awards and has been nominated for several more. |
-| 33 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
-| 34 | [Petrocedeño](http://twitter.com/search?q=Petrocede%c3%b1o) | N/A |
-| 35 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 36 | [Academia Puerto Cabello](http://twitter.com/search?q=Academia+Puerto+Cabello) | N/A |
-| 37 | [deportes tolima](http://twitter.com/search?q=deportes+tolima) | N/A |
-| 38 | [Comisión Nacional de Primaria](http://twitter.com/search?q=Comisi%c3%b3n+Nacional+de+Primaria) | N/A |
-| 39 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
-| 40 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
-| 41 | [Kiara y Guillermo Dávila](http://twitter.com/search?q=Kiara+y+Guillermo+D%c3%a1vila) | N/A |
-| 42 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
-| 43 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 44 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 45 | [carlos márquez](http://twitter.com/search?q=carlos+m%c3%a1rquez) | N/A |
-| 46 | [El Fugitivo](http://twitter.com/search?q=El+Fugitivo) | N/A |
-| 47 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
-| 48 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 49 | [Juan Carlos Alvarado](http://twitter.com/search?q=Juan+Carlos+Alvarado) | N/A |
+| 33 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 34 | [GRUPO B](http://twitter.com/search?q=GRUPO+B) | N/A |
+| 35 | [Academia Puerto Cabello](http://twitter.com/search?q=Academia+Puerto+Cabello) | N/A |
+| 36 | [Deportes Tolima](http://twitter.com/search?q=Deportes+Tolima) | N/A |
+| 37 | [Comisión Nacional de Primaria](http://twitter.com/search?q=Comisi%c3%b3n+Nacional+de+Primaria) | N/A |
+| 38 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
+| 39 | [Nord Stream](http://twitter.com/search?q=Nord+Stream) | N/A |
+| 40 | [Yordano](http://twitter.com/search?q=Yordano) | N/A |
+| 41 | [El Fugitivo](http://twitter.com/search?q=El+Fugitivo) | N/A |
+| 42 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 43 | [Melón](http://twitter.com/search?q=Mel%c3%b3n) | N/A |
+| 44 | [carlos márquez](http://twitter.com/search?q=carlos+m%c3%a1rquez) | N/A |
+| 45 | [Rodríguez Espinoza](http://twitter.com/search?q=Rodr%c3%adguez+Espinoza) | N/A |
+| 46 | [Hace 273](http://twitter.com/search?q=Hace+273) | N/A |
+| 47 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 48 | [Realmuto](http://twitter.com/search?q=Realmuto) | N/A |
+| 49 | [Boca Juniors](http://twitter.com/search?q=Boca+Juniors) | N/A |
 
 
 

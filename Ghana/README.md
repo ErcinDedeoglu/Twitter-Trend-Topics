@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-28 14:18:08 UTC`
+📆 Last Updated: `2023-03-28 15:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ghana
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 2 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
-| 3 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
+| 2 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
+| 3 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
 | 4 | [Ashimeru](http://twitter.com/search?q=Ashimeru) | N/A |
-| 5 | [#anggha](http://twitter.com/search?q=%23anggha) | N/A |
+| 5 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
 | 6 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 7 | [#OwnTheMoment](http://twitter.com/search?q=%23OwnTheMoment) | N/A |
-| 8 | [joseph paintsil](http://twitter.com/search?q=joseph+paintsil) | N/A |
-| 9 | [Osman bukari](http://twitter.com/search?q=Osman+bukari) | N/A |
-| 10 | [Baba Rahman](http://twitter.com/search?q=Baba+Rahman) | N/A |
-| 11 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 7 | [#anggha](http://twitter.com/search?q=%23anggha) | N/A |
+| 8 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 9 | [joseph paintsil](http://twitter.com/search?q=joseph+paintsil) | N/A |
+| 10 | [Osman bukari](http://twitter.com/search?q=Osman+bukari) | N/A |
+| 11 | [Baba Rahman](http://twitter.com/search?q=Baba+Rahman) | N/A |
 | 12 | [Sam George](http://twitter.com/search?q=Sam+George) | N/A |
 | 13 | [Edmund Addo](http://twitter.com/search?q=Edmund+Addo) | N/A |
-| 14 | [coach abdul gazale](http://twitter.com/search?q=coach+abdul+gazale) | N/A |
-| 15 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 16 | [Black Star Square](http://twitter.com/search?q=Black+Star+Square) | N/A |
-| 17 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
-| 18 | [Jubilee House](http://twitter.com/search?q=Jubilee+House) | Jubilee House is a term used in the United Kingdom to refer to a house or other property that has been granted to someone as part of a jubilee celebration. It is usually given to someone who has made an outstanding contribution to their community or country. The term is derived from the biblical concept of the Jubilee Year, which was a year of rest and restoration for those who had been enslaved or oppressed. |
-| 19 | [acting head coach](http://twitter.com/search?q=acting+head+coach) | N/A |
-| 20 | [#ghanavsnigeria](http://twitter.com/search?q=%23ghanavsnigeria) | N/A |
-| 21 | [#ghanavsnigeria](http://twitter.com/search?q=%23ghanavsnigeria) | N/A |
-| 22 | [#ShoutsOnY](http://twitter.com/search?q=%23ShoutsOnY) | N/A |
-| 23 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
-| 24 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
-| 25 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 26 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 14 | [Black Star Square](http://twitter.com/search?q=Black+Star+Square) | N/A |
+| 15 | [Oyibo](http://twitter.com/search?q=Oyibo) | N/A |
+| 16 | [Amartey](http://twitter.com/search?q=Amartey) | N/A |
+| 17 | [Jubilee House](http://twitter.com/search?q=Jubilee+House) | Jubilee House is a term used in the United Kingdom to refer to a house or other property that has been granted to someone as part of a jubilee celebration. It is usually given to someone who has made an outstanding contribution to their community or country. The term is derived from the biblical concept of the Jubilee Year, which was a year of rest and restoration for those who had been enslaved or oppressed. |
+| 18 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
+| 19 | [#shoutsony](http://twitter.com/search?q=%23shoutsony) | N/A |
+| 20 | [Jordan Ayew](http://twitter.com/search?q=Jordan+Ayew) | N/A |
+| 21 | [Black Meteors](http://twitter.com/search?q=Black+Meteors) | N/A |
+| 22 | [#JoySMS](http://twitter.com/search?q=%23JoySMS) | N/A |
+| 23 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [#daybreakhitz](http://twitter.com/search?q=%23daybreakhitz) | N/A |
+| 26 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
 | 27 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 28 | [Baby Jet](http://twitter.com/search?q=Baby+Jet) | N/A |
-| 29 | [ati zigi](http://twitter.com/search?q=ati+zigi) | N/A |
-| 30 | [Semenyo](http://twitter.com/search?q=Semenyo) | N/A |
-| 31 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
-| 32 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
-| 33 | [2M Express](http://twitter.com/search?q=2M+Express) | N/A |
-| 34 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 35 | [salis](http://twitter.com/search?q=salis) | N/A |
-| 36 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 37 | [globe tv](http://twitter.com/search?q=globe+tv) | N/A |
-| 38 | [asante kotoko sporting club](http://twitter.com/search?q=asante+kotoko+sporting+club) | N/A |
-| 39 | [America](http://twitter.com/search?q=America) | N/A |
-| 40 | [the black stars](http://twitter.com/search?q=the+black+stars) | N/A |
-| 41 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 42 | [Sorry King](http://twitter.com/search?q=Sorry+King) | N/A |
-| 43 | [Fent](http://twitter.com/search?q=Fent) | N/A |
-| 44 | [Ogum](http://twitter.com/search?q=Ogum) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
-| 47 | [zerbo](http://twitter.com/search?q=zerbo) | N/A |
-| 48 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
-| 49 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
-| 50 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 28 | [baby jet](http://twitter.com/search?q=baby+jet) | N/A |
+| 29 | [#CommandingYourMorning](http://twitter.com/search?q=%23CommandingYourMorning) | N/A |
+| 30 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 31 | [ati zigi](http://twitter.com/search?q=ati+zigi) | N/A |
+| 32 | [semenyo](http://twitter.com/search?q=semenyo) | N/A |
+| 33 | [America](http://twitter.com/search?q=America) | N/A |
+| 34 | [Algeria](http://twitter.com/search?q=Algeria) | N/A |
+| 35 | [2M Express](http://twitter.com/search?q=2M+Express) | N/A |
+| 36 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 37 | [salis](http://twitter.com/search?q=salis) | N/A |
+| 38 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 39 | [globe tv](http://twitter.com/search?q=globe+tv) | N/A |
+| 40 | [Inaki](http://twitter.com/search?q=Inaki) | N/A |
+| 41 | [the black stars](http://twitter.com/search?q=the+black+stars) | N/A |
+| 42 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 43 | [Sorry King](http://twitter.com/search?q=Sorry+King) | N/A |
+| 44 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 45 | [Fent](http://twitter.com/search?q=Fent) | N/A |
+| 46 | [Ogum](http://twitter.com/search?q=Ogum) | N/A |
+| 47 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
+| 48 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [zerbo](http://twitter.com/search?q=zerbo) | N/A |
 
 
 

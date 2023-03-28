@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-28 14:18:04 UTC`
+📆 Last Updated: `2023-03-28 15:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#sfgiants](http://twitter.com/search?q=%23sfgiants) | N/A |
+| 1 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
 | 2 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
-| 3 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 4 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
-| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 6 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 7 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 8 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 9 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 3 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
+| 4 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 5 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 6 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 8 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
 | 10 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 11 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 12 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 13 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
-| 14 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 11 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 12 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 13 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
+| 14 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
 | 15 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
-| 16 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 17 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
-| 18 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 19 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 20 | [$BABA](http://twitter.com/search?q=%24BABA) | N/A |
-| 21 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 22 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 23 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
-| 24 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 25 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 26 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 27 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
-| 28 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 29 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 30 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 31 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
-| 32 | [Michael Collazo](http://twitter.com/search?q=Michael+Collazo) | N/A |
-| 33 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
-| 34 | [️GAME DAY](http://twitter.com/search?q=%ef%b8%8fGAME+DAY) | N/A |
-| 35 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 36 | [Rex Englebert](http://twitter.com/search?q=Rex+Englebert) | N/A |
-| 37 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 38 | [Pakman](http://twitter.com/search?q=Pakman) | N/A |
-| 39 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 40 | [Jon Moxley](http://twitter.com/search?q=Jon+Moxley) | N/A |
-| 41 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 42 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 43 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 44 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 45 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 46 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 47 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 48 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
-| 49 | [Mr. Ed](http://twitter.com/search?q=Mr.+Ed) | N/A |
-| 50 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 17 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
+| 18 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 19 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 20 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 21 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 22 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 23 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 24 | [Pro Controller](http://twitter.com/search?q=Pro+Controller) | N/A |
+| 25 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
+| 26 | [Jun Kazama](http://twitter.com/search?q=Jun+Kazama) | N/A |
+| 27 | [Biggest Surprise](http://twitter.com/search?q=Biggest+Surprise) | N/A |
+| 28 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 29 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 30 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 31 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 32 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 33 | [Matt LaFleur](http://twitter.com/search?q=Matt+LaFleur) | Matt LaFleur is the current head coach of the Green Bay Packers, an American football team in the National Football League (NFL). His name is derived from the French phrase "la fleur," which means "the flower." |
+| 34 | [Nuts & Bolts](http://twitter.com/search?q=Nuts+%26+Bolts) | N/A |
+| 35 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 36 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 37 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 38 | [Michael Collazo](http://twitter.com/search?q=Michael+Collazo) | N/A |
+| 39 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 40 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 41 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
+| 42 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 43 | [Wordle 647 X](http://twitter.com/search?q=Wordle+647+X) | N/A |
+| 44 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 45 | [maisie peters](http://twitter.com/search?q=maisie+peters) | N/A |
+| 46 | [Officers](http://twitter.com/search?q=Officers) | N/A |
+| 47 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 48 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
+| 49 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 50 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
 
 
 

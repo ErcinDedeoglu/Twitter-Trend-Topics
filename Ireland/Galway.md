@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-28 14:17:23 UTC`
+📆 Last Updated: `2023-03-28 15:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 2 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
+| 1 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
+| 2 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
 | 3 | [#COYBIG](http://twitter.com/search?q=%23COYBIG) | N/A |
 | 4 | [Kellie Harrington](http://twitter.com/search?q=Kellie+Harrington) | N/A |
 | 5 | [Spar](http://twitter.com/search?q=Spar) | N/A |
 | 6 | [Ogbene](http://twitter.com/search?q=Ogbene) | N/A |
-| 7 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
-| 8 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 9 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 10 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 11 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 12 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 13 | [Knight](http://twitter.com/search?q=Knight) | N/A |
-| 14 | [cullen](http://twitter.com/search?q=cullen) | N/A |
-| 15 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
-| 16 | [smallbone](http://twitter.com/search?q=smallbone) | N/A |
-| 17 | [#irelandvsfrance](http://twitter.com/search?q=%23irelandvsfrance) | N/A |
-| 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 19 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 20 | [Paul Hyde](http://twitter.com/search?q=Paul+Hyde) | N/A |
-| 21 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 22 | [Nathan Collins](http://twitter.com/search?q=Nathan+Collins) | N/A |
-| 23 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 24 | [Greece](http://twitter.com/search?q=Greece) | N/A |
-| 25 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 26 | [#UnderstandTogether](http://twitter.com/search?q=%23UnderstandTogether) | N/A |
-| 27 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
-| 28 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 29 | [Shona](http://twitter.com/search?q=Shona) | N/A |
-| 30 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
-| 31 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 32 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
-| 33 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
-| 34 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
-| 35 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 36 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
-| 37 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 38 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 39 | [Terre](http://twitter.com/search?q=Terre) | N/A |
-| 40 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 41 | [Egan](http://twitter.com/search?q=Egan) | N/A |
-| 42 | [doherty](http://twitter.com/search?q=doherty) | N/A |
-| 43 | [come on you boys in green](http://twitter.com/search?q=come+on+you+boys+in+green) | N/A |
-| 44 | [Tobermore](http://twitter.com/search?q=Tobermore) | N/A |
-| 45 | [stephen cluxton](http://twitter.com/search?q=stephen+cluxton) | N/A |
-| 46 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 47 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 48 | [Dede](http://twitter.com/search?q=Dede) | N/A |
-| 49 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
-| 50 | [Off The Ball](http://twitter.com/search?q=Off+The+Ball) | N/A |
+| 7 | [Shane](http://twitter.com/search?q=Shane) | N/A |
+| 8 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 9 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 10 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 11 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
+| 12 | [Cullen](http://twitter.com/search?q=Cullen) | N/A |
+| 13 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 14 | [smallbone](http://twitter.com/search?q=smallbone) | N/A |
+| 15 | [#irelandvsfrance](http://twitter.com/search?q=%23irelandvsfrance) | N/A |
+| 16 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
+| 17 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
+| 18 | [Paul Hyde](http://twitter.com/search?q=Paul+Hyde) | N/A |
+| 19 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
+| 20 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 21 | [nathan collins](http://twitter.com/search?q=nathan+collins) | N/A |
+| 22 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 23 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 24 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 25 | [Greece](http://twitter.com/search?q=Greece) | N/A |
+| 26 | [James McClean](http://twitter.com/search?q=James+McClean) | N/A |
+| 27 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
+| 28 | [Coleman](http://twitter.com/search?q=Coleman) | N/A |
+| 29 | [#rteupfront](http://twitter.com/search?q=%23rteupfront) | N/A |
+| 30 | [Shona](http://twitter.com/search?q=Shona) | N/A |
+| 31 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
+| 32 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 33 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 34 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
+| 35 | [Bazunu](http://twitter.com/search?q=Bazunu) | N/A |
+| 36 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
+| 37 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 38 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 39 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 40 | [Tobermore](http://twitter.com/search?q=Tobermore) | N/A |
+| 41 | [Terre](http://twitter.com/search?q=Terre) | N/A |
+| 42 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 43 | [Egan](http://twitter.com/search?q=Egan) | N/A |
+| 44 | [come on you boys in green](http://twitter.com/search?q=come+on+you+boys+in+green) | N/A |
+| 45 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 46 | [Dede](http://twitter.com/search?q=Dede) | N/A |
+| 47 | [Off the Ball](http://twitter.com/search?q=Off+the+Ball) | N/A |
+| 48 | [Obafemi](http://twitter.com/search?q=Obafemi) | N/A |
+| 49 | [Lia Thomas](http://twitter.com/search?q=Lia+Thomas) | N/A |
+| 50 | [Newstalk](http://twitter.com/search?q=Newstalk) | N/A |
 
 
 

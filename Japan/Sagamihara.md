@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sagamihara
 
-📆 Last Updated: `2023-03-28 14:17:35 UTC`
+📆 Last Updated: `2023-03-28 15:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#prime847](http://twitter.com/search?q=%23prime847) | N/A |
-| 2 | [ヨドコウ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%82%b3%e3%82%a6) | N/A |
-| 3 | [ダンプラ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
-| 4 | [ウルグアイ戦](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%82%b0%e3%82%a2%e3%82%a4%e6%88%a6) | N/A |
-| 5 | [鎌田ボランチ](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
-| 6 | [Sakuちゃん](http://twitter.com/search?q=Saku%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 7 | [トラジャ](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%82%b8%e3%83%a3) | トラジャ is a Japanese word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult to deal with or an obstacle that needs to be overcome. |
-| 8 | [ステアラ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9) | N/A |
-| 9 | [#ドラクエウォーク](http://twitter.com/search?q=%23%e3%83%89%e3%83%a9%e3%82%af%e3%82%a8%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%af) | N/A |
-| 10 | [#TravisJapan](http://twitter.com/search?q=%23TravisJapan) | N/A |
-| 11 | [キャプテン](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%97%e3%83%86%e3%83%b3) | キャプテン (kyaputen) is a Japanese word meaning "captain". It is used to refer to someone who is in charge of a group or team, such as the captain of a sports team or the captain of a ship. |
-| 12 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
-| 13 | [ケンタッキー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%82%bf%e3%83%83%e3%82%ad%e3%83%bc) | ケンタッキー (Kentucky) is a fast food chain in Japan that specializes in fried chicken. The name is derived from the American state of Kentucky, which is known for its fried chicken. In English, the name translates to "Kentucky Fried Chicken". |
-| 14 | [レコーディング](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 15 | [U-NEXT](http://twitter.com/search?q=U-NEXT) | N/A |
-| 16 | [マスターデュエル](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | マスターデュエル is a Japanese card game based on the Yu-Gi-Oh! franchise. It is a two-player game where each player uses a deck of cards to battle against their opponent. The goal of the game is to reduce your opponent's life points to zero by using monsters, spells, and traps. In English, it can be translated as "Master Duel". |
-| 17 | [投票機能](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%a9%9f%e8%83%bd) | N/A |
-| 18 | [オーバーヘッド](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%90%e3%83%bc%e3%83%98%e3%83%83%e3%83%89) | N/A |
-| 19 | [#マイクラバーサス](http://twitter.com/search?q=%23%e3%83%9e%e3%82%a4%e3%82%af%e3%83%a9%e3%83%90%e3%83%bc%e3%82%b5%e3%82%b9) | N/A |
-| 20 | [ドーナツ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84) | N/A |
-| 21 | [コロンビア](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2) | N/A |
-| 22 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
-| 23 | [ジャリエル亡命](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%aa%e3%82%a8%e3%83%ab%e4%ba%a1%e5%91%bd) | N/A |
-| 24 | [スクラビルド](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%a9%e3%83%93%e3%83%ab%e3%83%89) | N/A |
-| 25 | [ファルカオ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e3%82%ab%e3%82%aa) | N/A |
-| 26 | [ホシくん](http://twitter.com/search?q=%e3%83%9b%e3%82%b7%e3%81%8f%e3%82%93) | ホシくん is a character from the Japanese manga series, "Kochikame". He is a police officer who works in the fictional Ryōgoku Police Station. His name literally translates to "Star Boy" and he is known for his strong sense of justice and loyalty to his friends. |
-| 27 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
-| 28 | [上田綺世](http://twitter.com/search?q=%e4%b8%8a%e7%94%b0%e7%b6%ba%e4%b8%96) | N/A |
-| 29 | [プロデューサーの青沼英二](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%87%e3%83%a5%e3%83%bc%e3%82%b5%e3%83%bc%e3%81%ae%e9%9d%92%e6%b2%bc%e8%8b%b1%e4%ba%8c) | N/A |
-| 30 | [ハニーディップ](http://twitter.com/search?q=%e3%83%8f%e3%83%8b%e3%83%bc%e3%83%87%e3%82%a3%e3%83%83%e3%83%97) | N/A |
-| 31 | [イベおつ](http://twitter.com/search?q=%e3%82%a4%e3%83%99%e3%81%8a%e3%81%a4) | イベおつ is an abbreviation of イベントお疲れ様 (Event Otsukaresama), which is a phrase used to express appreciation for someone's hard work in organizing or participating in an event. In English, it can be translated as "Thank you for your hard work on the event". |
-| 32 | [アフライ](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%83%a9%e3%82%a4) | アフライ (afurai) is a Japanese word that means "fried". It is often used to refer to fried food, such as tempura or karaage. In English, it can be translated as "fried". |
-| 33 | [カシーフ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
-| 34 | [ティアーズ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%bc%e3%82%ba) | N/A |
-| 35 | [ヘディング](http://twitter.com/search?q=%e3%83%98%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | ヘディング is a Japanese word that means "heading" in English. It is used to refer to the title or heading of a document, article, or other written work. |
-| 36 | [緑チーム](http://twitter.com/search?q=%e7%b7%91%e3%83%81%e3%83%bc%e3%83%a0) | N/A |
-| 37 | [親善試合](http://twitter.com/search?q=%e8%a6%aa%e5%96%84%e8%a9%a6%e5%90%88) | N/A |
-| 38 | [わこじぇる](http://twitter.com/search?q=%e3%82%8f%e3%81%93%e3%81%98%e3%81%87%e3%82%8b) | N/A |
-| 39 | [ジャイガ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%ac) | N/A |
-| 40 | [風呂スペース](http://twitter.com/search?q=%e9%a2%a8%e5%91%82%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9) | N/A |
-| 41 | [さくらバイオーム](http://twitter.com/search?q=%e3%81%95%e3%81%8f%e3%82%89%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
-| 42 | [久保くん](http://twitter.com/search?q=%e4%b9%85%e4%bf%9d%e3%81%8f%e3%82%93) | N/A |
-| 43 | [森保メモ](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e3%83%a1%e3%83%a2) | N/A |
-| 44 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
-| 45 | [クロスデュエル](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%82%b9%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
-| 46 | [コントラ](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%88%e3%83%a9) | N/A |
-| 47 | [バングーナガンデ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%82%b0%e3%83%bc%e3%83%8a%e3%82%ac%e3%83%b3%e3%83%87) | N/A |
-| 48 | [中村敬斗](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e6%95%ac%e6%96%97) | N/A |
-| 49 | [トイレットペッパーマン](http://twitter.com/search?q=%e3%83%88%e3%82%a4%e3%83%ac%e3%83%83%e3%83%88%e3%83%9a%e3%83%83%e3%83%91%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
+| 1 | [伊東純也](http://twitter.com/search?q=%e4%bc%8a%e6%9d%b1%e7%b4%94%e4%b9%9f) | N/A |
+| 2 | [中村敬斗](http://twitter.com/search?q=%e4%b8%ad%e6%9d%91%e6%95%ac%e6%96%97) | N/A |
+| 3 | [久保くん](http://twitter.com/search?q=%e4%b9%85%e4%bf%9d%e3%81%8f%e3%82%93) | N/A |
+| 4 | [森保さん](http://twitter.com/search?q=%e6%a3%ae%e4%bf%9d%e3%81%95%e3%82%93) | N/A |
+| 5 | [バングーナガンデ](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%82%b0%e3%83%bc%e3%83%8a%e3%82%ac%e3%83%b3%e3%83%87) | N/A |
+| 6 | [キーパー](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%91%e3%83%bc) | N/A |
+| 7 | [プロ野球チップス](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e9%87%8e%e7%90%83%e3%83%81%e3%83%83%e3%83%97%e3%82%b9) | N/A |
+| 8 | [シュミット](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%9f%e3%83%83%e3%83%88) | N/A |
+| 9 | [#daihyo](http://twitter.com/search?q=%23daihyo) | N/A |
+| 10 | [ヘディング](http://twitter.com/search?q=%e3%83%98%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | ヘディング is a Japanese word that means "heading" in English. It is used to refer to the title or heading of a document, article, or other written work. |
+| 11 | [ボランチ](http://twitter.com/search?q=%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
+| 12 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
+| 13 | [クロスデュエル](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%82%b9%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
+| 14 | [ヨントン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%88%e3%83%b3) | ヨントン (Yonton) is a Japanese word that means "four-leaf clover". It is believed to bring good luck and fortune. |
+| 15 | [sakuちゃん](http://twitter.com/search?q=saku%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 16 | [#prime847](http://twitter.com/search?q=%23prime847) | N/A |
+| 17 | [ビルドアップ](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 18 | [チャイナ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%82%a4%e3%83%8a) | チャイナ is a Japanese word for China. It is derived from the Chinese pronunciation of the country's name, Zhōngguó. In English, it is often used as an informal way to refer to China. |
+| 19 | [ジョングク](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%82%b0%e3%82%af) | ジョングク is a type of Korean traditional clothing. It is a long, loose-fitting robe with wide sleeves and a belt at the waist. In English, it is sometimes referred to as a "hanbok". |
+| 20 | [キャプテン](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%97%e3%83%86%e3%83%b3) | キャプテン (kyaputen) is a Japanese word meaning "captain". It is used to refer to someone who is in charge of a group or team, such as the captain of a sports team or the captain of a ship. |
+| 21 | [ボーダー](http://twitter.com/search?q=%e3%83%9c%e3%83%bc%e3%83%80%e3%83%bc) | N/A |
+| 22 | [#TravisJapan](http://twitter.com/search?q=%23TravisJapan) | N/A |
+| 23 | [レコーディング](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 24 | [ケンタッキー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%82%bf%e3%83%83%e3%82%ad%e3%83%bc) | ケンタッキー (Kentucky) is a fast food chain in Japan that specializes in fried chicken. The name is derived from the American state of Kentucky, which is known for its fried chicken. In English, the name translates to "Kentucky Fried Chicken". |
+| 25 | [U-NEXT](http://twitter.com/search?q=U-NEXT) | N/A |
+| 26 | [マスターデュエル](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | マスターデュエル is a Japanese card game based on the Yu-Gi-Oh! franchise. It is a two-player game where each player uses a deck of cards to battle against their opponent. The goal of the game is to reduce your opponent's life points to zero by using monsters, spells, and traps. In English, it can be translated as "Master Duel". |
+| 27 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
+| 28 | [ジャリエル](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%aa%e3%82%a8%e3%83%ab) | N/A |
+| 29 | [#あなたが街中で出くわした芸能人](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e8%a1%97%e4%b8%ad%e3%81%a7%e5%87%ba%e3%81%8f%e3%82%8f%e3%81%97%e3%81%9f%e8%8a%b8%e8%83%bd%e4%ba%ba) | N/A |
+| 30 | [スクラビルド](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%a9%e3%83%93%e3%83%ab%e3%83%89) | N/A |
+| 31 | [ティアーズ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%bc%e3%82%ba) | N/A |
+| 32 | [ライデル](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%87%e3%83%ab) | N/A |
+| 33 | [#咎人クエッション](http://twitter.com/search?q=%23%e5%92%8e%e4%ba%ba%e3%82%af%e3%82%a8%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 34 | [モイネロ](http://twitter.com/search?q=%e3%83%a2%e3%82%a4%e3%83%8d%e3%83%ad) | N/A |
+| 35 | [青沼英二](http://twitter.com/search?q=%e9%9d%92%e6%b2%bc%e8%8b%b1%e4%ba%8c) | N/A |
+| 36 | [ブレワイ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%af%e3%82%a4) | N/A |
+| 37 | [オーバーヘッド](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%90%e3%83%bc%e3%83%98%e3%83%83%e3%83%89) | N/A |
+| 38 | [ウルトラハンド](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%8f%e3%83%b3%e3%83%89) | N/A |
+| 39 | [ドーナツ](http://twitter.com/search?q=%e3%83%89%e3%83%bc%e3%83%8a%e3%83%84) | N/A |
+| 40 | [プロコン](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%82%b3%e3%83%b3) | N/A |
+| 41 | [コロンビア](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2) | N/A |
+| 42 | [トーレルーフ](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%83%ac%e3%83%ab%e3%83%bc%e3%83%95) | N/A |
+| 43 | [桜バイオーム](http://twitter.com/search?q=%e6%a1%9c%e3%83%90%e3%82%a4%e3%82%aa%e3%83%bc%e3%83%a0) | N/A |
+| 44 | [契約破棄](http://twitter.com/search?q=%e5%a5%91%e7%b4%84%e7%a0%b4%e6%a3%84) | N/A |
+| 45 | [ライマル](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%9e%e3%83%ab) | N/A |
+| 46 | [制限選手](http://twitter.com/search?q=%e5%88%b6%e9%99%90%e9%81%b8%e6%89%8b) | N/A |
+| 47 | [開幕直前](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e7%9b%b4%e5%89%8d) | N/A |
+| 48 | [ノンさん](http://twitter.com/search?q=%e3%83%8e%e3%83%b3%e3%81%95%e3%82%93) | N/A |
+| 49 | [青沼さん](http://twitter.com/search?q=%e9%9d%92%e6%b2%bc%e3%81%95%e3%82%93) | N/A |
+| 50 | [ゼルダ新作](http://twitter.com/search?q=%e3%82%bc%e3%83%ab%e3%83%80%e6%96%b0%e4%bd%9c) | N/A |
 
 
 

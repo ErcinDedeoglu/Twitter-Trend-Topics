@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-03-28 14:18:03 UTC`
+📆 Last Updated: `2023-03-28 15:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 2 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 3 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 4 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 5 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
-| 6 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 7 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 8 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 9 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
-| 10 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 11 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
-| 12 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 13 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
-| 14 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
-| 15 | [#WellDoneJackManifold](http://twitter.com/search?q=%23WellDoneJackManifold) | N/A |
-| 16 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 17 | [Alibaba](http://twitter.com/search?q=Alibaba) | N/A |
-| 18 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 19 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 20 | [$BABA](http://twitter.com/search?q=%24BABA) | N/A |
-| 21 | [Daily Quordle 428](http://twitter.com/search?q=Daily+Quordle+428) | N/A |
-| 22 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 23 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
-| 24 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 25 | [Jane Fonda](http://twitter.com/search?q=Jane+Fonda) | N/A |
-| 26 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 27 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
-| 28 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 29 | [Happy 28th](http://twitter.com/search?q=Happy+28th) | N/A |
-| 30 | [Pacifica](http://twitter.com/search?q=Pacifica) | N/A |
-| 31 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 32 | [Irv Smith](http://twitter.com/search?q=Irv+Smith) | Irv Smith is a common nickname for Irving Smith, a name of English origin. It is derived from the Old English words "eofor" (boar) and "wic" (settlement). The name means "boar settlement" or "boar town". |
-| 33 | [Michael Collazo](http://twitter.com/search?q=Michael+Collazo) | N/A |
-| 34 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
-| 35 | [️GAME DAY](http://twitter.com/search?q=%ef%b8%8fGAME+DAY) | N/A |
-| 36 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 37 | [Rex Englebert](http://twitter.com/search?q=Rex+Englebert) | N/A |
-| 38 | [Pakman](http://twitter.com/search?q=Pakman) | N/A |
-| 39 | [Hanoi Jane](http://twitter.com/search?q=Hanoi+Jane) | N/A |
-| 40 | [Jon Moxley](http://twitter.com/search?q=Jon+Moxley) | N/A |
-| 41 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 42 | [Parkland](http://twitter.com/search?q=Parkland) | N/A |
-| 43 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 44 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 45 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
-| 46 | [Maddow](http://twitter.com/search?q=Maddow) | N/A |
-| 47 | [Hale](http://twitter.com/search?q=Hale) | N/A |
-| 48 | [SHALL NOT BE INFRINGED](http://twitter.com/search?q=SHALL+NOT+BE+INFRINGED) | N/A |
-| 49 | [Mental Illness](http://twitter.com/search?q=Mental+Illness) | N/A |
+| 2 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 3 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 4 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 6 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
+| 7 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 8 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 9 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 10 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
+| 11 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 12 | [Fuse](http://twitter.com/search?q=Fuse) | N/A |
+| 13 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 14 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
+| 15 | [#Elemental](http://twitter.com/search?q=%23Elemental) | N/A |
+| 16 | [#NashvilleCovenantSchool](http://twitter.com/search?q=%23NashvilleCovenantSchool) | N/A |
+| 17 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 18 | [Ginni Thomas](http://twitter.com/search?q=Ginni+Thomas) | N/A |
+| 19 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
+| 20 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 21 | [Beal](http://twitter.com/search?q=Beal) | N/A |
+| 22 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 23 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 24 | [Jun Kazama](http://twitter.com/search?q=Jun+Kazama) | N/A |
+| 25 | [Happy 3-28](http://twitter.com/search?q=Happy+3-28) | N/A |
+| 26 | [Pro Controller](http://twitter.com/search?q=Pro+Controller) | N/A |
+| 27 | [Biggest Surprise](http://twitter.com/search?q=Biggest+Surprise) | N/A |
+| 28 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 29 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
+| 30 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 31 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 32 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 33 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 34 | [Matt LaFleur](http://twitter.com/search?q=Matt+LaFleur) | Matt LaFleur is the current head coach of the Green Bay Packers, an American football team in the National Football League (NFL). His name is derived from the French phrase "la fleur," which means "the flower." |
+| 35 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 36 | [Nuts & Bolts](http://twitter.com/search?q=Nuts+%26+Bolts) | N/A |
+| 37 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 38 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 39 | [Michael Collazo](http://twitter.com/search?q=Michael+Collazo) | N/A |
+| 40 | [Matt Taibbi](http://twitter.com/search?q=Matt+Taibbi) | N/A |
+| 41 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 42 | [The IRS](http://twitter.com/search?q=The+IRS) | N/A |
+| 43 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 44 | [Officers](http://twitter.com/search?q=Officers) | N/A |
+| 45 | [Wordle 647 X](http://twitter.com/search?q=Wordle+647+X) | N/A |
+| 46 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 47 | [maisie peters](http://twitter.com/search?q=maisie+peters) | N/A |
+| 48 | [Suspended](http://twitter.com/search?q=Suspended) | N/A |
+| 49 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
 
 
 

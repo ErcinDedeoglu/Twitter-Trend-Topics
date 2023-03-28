@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-28 14:17:30 UTC`
+📆 Last Updated: `2023-03-28 15:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Sweden](</Sweden>)
 | 2 | [Jesper Karlsson](http://twitter.com/search?q=Jesper+Karlsson) | N/A |
 | 3 | [Azerbajdzjan](http://twitter.com/search?q=Azerbajdzjan) | N/A |
 | 4 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 5 | [Björklund](http://twitter.com/search?q=Bj%c3%b6rklund) | N/A |
-| 6 | [Ljungberg](http://twitter.com/search?q=Ljungberg) | N/A |
-| 7 | [Jihde](http://twitter.com/search?q=Jihde) | N/A |
-| 8 | [Viasat](http://twitter.com/search?q=Viasat) | N/A |
-| 9 | [Serbien](http://twitter.com/search?q=Serbien) | N/A |
+| 5 | [björklund](http://twitter.com/search?q=bj%c3%b6rklund) | N/A |
+| 6 | [Jihde](http://twitter.com/search?q=Jihde) | N/A |
+| 7 | [Viasat](http://twitter.com/search?q=Viasat) | N/A |
+| 8 | [Serbien](http://twitter.com/search?q=Serbien) | N/A |
+| 9 | [Ljungberg](http://twitter.com/search?q=Ljungberg) | N/A |
 | 10 | [Claesson](http://twitter.com/search?q=Claesson) | N/A |
 | 11 | [Thern](http://twitter.com/search?q=Thern) | N/A |
 | 12 | [Breivik](http://twitter.com/search?q=Breivik) | N/A |
-| 13 | [Embracer](http://twitter.com/search?q=Embracer) | N/A |
-| 14 | [Rasism](http://twitter.com/search?q=Rasism) | N/A |
-| 15 | [Arvo Pärt](http://twitter.com/search?q=Arvo+P%c3%a4rt) | N/A |
+| 13 | [Margareta Strömstedt](http://twitter.com/search?q=Margareta+Str%c3%b6mstedt) | N/A |
+| 14 | [Embracer](http://twitter.com/search?q=Embracer) | N/A |
+| 15 | [Rasism](http://twitter.com/search?q=Rasism) | N/A |
 | 16 | [#emkval](http://twitter.com/search?q=%23emkval) | N/A |
 | 17 | [karlström](http://twitter.com/search?q=karlstr%c3%b6m) | N/A |
-| 18 | [Lasse](http://twitter.com/search?q=Lasse) | N/A |
-| 19 | [Värnamo](http://twitter.com/search?q=V%c3%a4rnamo) | N/A |
-| 20 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 21 | [framåt färjestad](http://twitter.com/search?q=fram%c3%a5t+f%c3%a4rjestad) | N/A |
-| 22 | [Kalla Fakta](http://twitter.com/search?q=Kalla+Fakta) | N/A |
-| 23 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 24 | [#SWEAZE](http://twitter.com/search?q=%23SWEAZE) | N/A |
-| 25 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 26 | [gyökeres](http://twitter.com/search?q=gy%c3%b6keres) | N/A |
-| 27 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 28 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
+| 18 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 19 | [Arvo Pärt](http://twitter.com/search?q=Arvo+P%c3%a4rt) | N/A |
+| 20 | [Lasse](http://twitter.com/search?q=Lasse) | N/A |
+| 21 | [Kalla Fakta](http://twitter.com/search?q=Kalla+Fakta) | N/A |
+| 22 | [framåt färjestad](http://twitter.com/search?q=fram%c3%a5t+f%c3%a4rjestad) | N/A |
+| 23 | [#sweaze](http://twitter.com/search?q=%23sweaze) | N/A |
+| 24 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 26 | [Gyökeres](http://twitter.com/search?q=Gy%c3%b6keres) | N/A |
+| 27 | [#adpd2023](http://twitter.com/search?q=%23adpd2023) | N/A |
+| 28 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
 | 29 | [Riksrevisionen](http://twitter.com/search?q=Riksrevisionen) | N/A |
-| 30 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
-| 31 | [Hanif](http://twitter.com/search?q=Hanif) | N/A |
+| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 31 | [Greider](http://twitter.com/search?q=Greider) | N/A |
 | 32 | [Schulman](http://twitter.com/search?q=Schulman) | N/A |
 | 33 | [Majorna](http://twitter.com/search?q=Majorna) | N/A |
 | 34 | [jeppe k](http://twitter.com/search?q=jeppe+k) | N/A |
-| 35 | [#ADPD2023](http://twitter.com/search?q=%23ADPD2023) | N/A |
-| 36 | [sebbe](http://twitter.com/search?q=sebbe) | N/A |
-| 37 | [Greider](http://twitter.com/search?q=Greider) | N/A |
-| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 39 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
+| 35 | [Reinfeldt](http://twitter.com/search?q=Reinfeldt) | N/A |
+| 36 | [#fotboll](http://twitter.com/search?q=%23fotboll) | N/A |
+| 37 | [Lamin Dabo](http://twitter.com/search?q=Lamin+Dabo) | N/A |
+| 38 | [Rasistkortet](http://twitter.com/search?q=Rasistkortet) | N/A |
+| 39 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 40 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 41 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 42 | [#picoftheday](http://twitter.com/search?q=%23picoftheday) | N/A |
-| 43 | [öhlund](http://twitter.com/search?q=%c3%b6hlund) | N/A |
+| 41 | [Jidhe](http://twitter.com/search?q=Jidhe) | N/A |
+| 42 | [öhlund](http://twitter.com/search?q=%c3%b6hlund) | N/A |
+| 43 | [Värnamo](http://twitter.com/search?q=V%c3%a4rnamo) | N/A |
 | 44 | [frölundas](http://twitter.com/search?q=fr%c3%b6lundas) | N/A |
-| 45 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
+| 45 | [Polarpriset](http://twitter.com/search?q=Polarpriset) | N/A |
 | 46 | [Hamrén](http://twitter.com/search?q=Hamr%c3%a9n) | N/A |
-| 47 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 48 | [Lamotte](http://twitter.com/search?q=Lamotte) | N/A |
-| 49 | [postnord](http://twitter.com/search?q=postnord) | N/A |
-| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 47 | [Sebbe](http://twitter.com/search?q=Sebbe) | N/A |
+| 48 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
+| 49 | [Hanif](http://twitter.com/search?q=Hanif) | N/A |
+| 50 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
 
 
 
