@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-03-28 09:18:15 UTC`
+📆 Last Updated: `2023-03-28 10:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#DaroMat](http://twitter.com/search?q=%23DaroMat) | N/A |
 | 2 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 3 | [#realmeC55SaleLiveNow](http://twitter.com/search?q=%23realmeC55SaleLiveNow) | N/A |
+| 3 | [#IndiaDigitalFest](http://twitter.com/search?q=%23IndiaDigitalFest) | N/A |
 | 4 | [#UmeshPalKidnappingCase](http://twitter.com/search?q=%23UmeshPalKidnappingCase) | N/A |
-| 5 | [#AtiqueAhmed](http://twitter.com/search?q=%23AtiqueAhmed) | N/A |
-| 6 | [दिनेश पासी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
-| 7 | [Mangal Karta By Jeet Gannguli](http://twitter.com/search?q=Mangal+Karta+By+Jeet+Gannguli) | N/A |
-| 8 | [अहमद दोषी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
-| 9 | [#IndiaDigitalFest](http://twitter.com/search?q=%23IndiaDigitalFest) | N/A |
-| 10 | [MP-MLA](http://twitter.com/search?q=MP-MLA) | N/A |
-| 11 | [India Celebrates UA Day](http://twitter.com/search?q=India+Celebrates+UA+Day) | N/A |
-| 12 | [Safoora Zargar](http://twitter.com/search?q=Safoora+Zargar) | N/A |
-| 13 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
-| 14 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 5 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
+| 6 | [#realmeC55SaleLiveNow](http://twitter.com/search?q=%23realmeC55SaleLiveNow) | N/A |
+| 7 | [दिनेश पासी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
+| 8 | [Mangal Karta By Jeet Gannguli](http://twitter.com/search?q=Mangal+Karta+By+Jeet+Gannguli) | N/A |
+| 9 | [अहमद दोषी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
+| 10 | [VINTAGE ANNA IS BACK](http://twitter.com/search?q=VINTAGE+ANNA+IS+BACK) | N/A |
+| 11 | [MP-MLA](http://twitter.com/search?q=MP-MLA) | N/A |
+| 12 | [स्मृति ईरानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%bf+%e0%a4%88%e0%a4%b0%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 13 | [India Celebrates UA Day](http://twitter.com/search?q=India+Celebrates+UA+Day) | N/A |
+| 14 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
 | 15 | [Delhi HC](http://twitter.com/search?q=Delhi+HC) | N/A |
 | 16 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 17 | [Stay Fit](http://twitter.com/search?q=Stay+Fit) | N/A |
-| 18 | [सऊदी अरब](http://twitter.com/search?q=%e0%a4%b8%e0%a4%8a%e0%a4%a6%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a4%ac) | N/A |
-| 19 | [No Side Effects](http://twitter.com/search?q=No+Side+Effects) | N/A |
-| 20 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 17 | [सऊदी अरब](http://twitter.com/search?q=%e0%a4%b8%e0%a4%8a%e0%a4%a6%e0%a5%80+%e0%a4%85%e0%a4%b0%e0%a4%ac) | N/A |
+| 18 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
+| 19 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 20 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 21 | [NDTV](http://twitter.com/search?q=NDTV) | NDTV stands for New Delhi Television, which is an Indian news channel. It was founded in 1988 and is one of the most popular news channels in India. |
-| 22 | [#EdappadiPalaniswami](http://twitter.com/search?q=%23EdappadiPalaniswami) | N/A |
-| 23 | [#PriyankaChopra](http://twitter.com/search?q=%23PriyankaChopra) | N/A |
-| 24 | [#realmeC55SaleToday](http://twitter.com/search?q=%23realmeC55SaleToday) | N/A |
-| 25 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
-| 26 | [#AIADMK](http://twitter.com/search?q=%23AIADMK) | N/A |
-| 27 | [#Maidaan](http://twitter.com/search?q=%23Maidaan) | N/A |
-| 28 | [#எடப்பாடியார்](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%9f%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b0%e0%af%8d) | N/A |
-| 29 | [#BusAccident](http://twitter.com/search?q=%23BusAccident) | N/A |
-| 30 | [#GlobalUADay](http://twitter.com/search?q=%23GlobalUADay) | N/A |
-| 31 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 32 | [#Adipurush](http://twitter.com/search?q=%23Adipurush) | N/A |
-| 33 | [#PhotoThaakku](http://twitter.com/search?q=%23PhotoThaakku) | N/A |
-| 34 | [#SharjeelImam](http://twitter.com/search?q=%23SharjeelImam) | N/A |
-| 35 | [#ओबीसी_विरोधी_राहुल_गांधी](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80_%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2_%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 36 | [#EPFO](http://twitter.com/search?q=%23EPFO) | N/A |
-| 37 | [#AshrafAhmad](http://twitter.com/search?q=%23AshrafAhmad) | N/A |
-| 38 | [#PANcard](http://twitter.com/search?q=%23PANcard) | N/A |
-| 39 | [#RavanasuraTrailer](http://twitter.com/search?q=%23RavanasuraTrailer) | N/A |
-| 40 | [#SaudiArabia](http://twitter.com/search?q=%23SaudiArabia) | N/A |
-| 41 | [#अतीक_अहमद](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a4%e0%a5%80%e0%a4%95_%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 42 | [#मूत्रकारिता](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a4%bf%e0%a4%a4%e0%a4%be) | N/A |
+| 22 | [#Campus200Strong](http://twitter.com/search?q=%23Campus200Strong) | N/A |
+| 23 | [#AtiqueAhmed](http://twitter.com/search?q=%23AtiqueAhmed) | N/A |
+| 24 | [#Aadhaar](http://twitter.com/search?q=%23Aadhaar) | N/A |
+| 25 | [#PriyankaChopra](http://twitter.com/search?q=%23PriyankaChopra) | N/A |
+| 26 | [#PathashreeRastashree](http://twitter.com/search?q=%23PathashreeRastashree) | N/A |
+| 27 | [#EdappadiPalaniswami](http://twitter.com/search?q=%23EdappadiPalaniswami) | N/A |
+| 28 | [#Maidaan](http://twitter.com/search?q=%23Maidaan) | N/A |
+| 29 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
+| 30 | [#BusAccident](http://twitter.com/search?q=%23BusAccident) | N/A |
+| 31 | [#VerifiedBySensibull](http://twitter.com/search?q=%23VerifiedBySensibull) | N/A |
+| 32 | [#AIADMK](http://twitter.com/search?q=%23AIADMK) | N/A |
+| 33 | [#எடப்பாடியார்](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%9f%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b0%e0%af%8d) | N/A |
+| 34 | [#realmeC55SaleToday](http://twitter.com/search?q=%23realmeC55SaleToday) | N/A |
+| 35 | [#RavanasuraTrailer](http://twitter.com/search?q=%23RavanasuraTrailer) | N/A |
+| 36 | [#PhotoThaakku](http://twitter.com/search?q=%23PhotoThaakku) | N/A |
+| 37 | [#SharjeelImam](http://twitter.com/search?q=%23SharjeelImam) | N/A |
+| 38 | [#finnifty](http://twitter.com/search?q=%23finnifty) | N/A |
+| 39 | [#KaranJohar](http://twitter.com/search?q=%23KaranJohar) | N/A |
+| 40 | [#ओबीसी_विरोधी_राहुल_गांधी](http://twitter.com/search?q=%23%e0%a4%93%e0%a4%ac%e0%a5%80%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80_%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2_%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 41 | [#SafooraZargar](http://twitter.com/search?q=%23SafooraZargar) | N/A |
+| 42 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
 | 43 | [#AdaniGroup](http://twitter.com/search?q=%23AdaniGroup) | Adani Group is an Indian multinational conglomerate company headquartered in Ahmedabad, Gujarat. It was founded by Gautam Adani in 1988 as a commodity trading business. The group operates in multiple sectors including energy, resources, logistics, agribusiness, real estate, financial services and defence. The group has a presence in over 20 countries across the world. |
-| 44 | [#BradMinnich](http://twitter.com/search?q=%23BradMinnich) | N/A |
-| 45 | [#KnightClub](http://twitter.com/search?q=%23KnightClub) | N/A |
-| 46 | [#AkshayeKhanna](http://twitter.com/search?q=%23AkshayeKhanna) | N/A |
-| 47 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 48 | [#DelhiHighCourt](http://twitter.com/search?q=%23DelhiHighCourt) | N/A |
-| 49 | [#प्रयागराज](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%af%e0%a4%be%e0%a4%97%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 50 | [#providentfund](http://twitter.com/search?q=%23providentfund) | N/A |
+| 44 | [#SaudiArabia](http://twitter.com/search?q=%23SaudiArabia) | N/A |
+| 45 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 46 | [#DelhiHighCourt](http://twitter.com/search?q=%23DelhiHighCourt) | N/A |
+| 47 | [#ShahRukhKhan𓀠](http://twitter.com/search?q=%23ShahRukhKhan%f0%93%80%a0) | N/A |
+| 48 | [#Adipurush](http://twitter.com/search?q=%23Adipurush) | N/A |
+| 49 | [#GlobalUADay](http://twitter.com/search?q=%23GlobalUADay) | N/A |
+| 50 | [#प्रयागराज](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%af%e0%a4%be%e0%a4%97%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
 
 
 

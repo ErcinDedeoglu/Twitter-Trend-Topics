@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-03-28 09:18:08 UTC`
+📆 Last Updated: `2023-03-28 10:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 2 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
-| 3 | [#WooliesEaster](http://twitter.com/search?q=%23WooliesEaster) | N/A |
+| 1 | [#ItsWithin](http://twitter.com/search?q=%23ItsWithin) | N/A |
+| 2 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
+| 3 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
 | 4 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
-| 5 | [#konkhekuhambakahleClothing](http://twitter.com/search?q=%23konkhekuhambakahleClothing) | N/A |
-| 6 | [#DataAsseblief](http://twitter.com/search?q=%23DataAsseblief) | N/A |
-| 7 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 8 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 9 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
-| 10 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 5 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 6 | [#WooliesEaster](http://twitter.com/search?q=%23WooliesEaster) | N/A |
+| 7 | [#TuesdayCrossword](http://twitter.com/search?q=%23TuesdayCrossword) | N/A |
+| 8 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 9 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 10 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
 | 11 | [Unborn](http://twitter.com/search?q=Unborn) | N/A |
-| 12 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 13 | [PrEP](http://twitter.com/search?q=PrEP) | N/A |
-| 14 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
-| 15 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
+| 12 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
+| 13 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 14 | [NuGenClothing](http://twitter.com/search?q=NuGenClothing) | N/A |
+| 15 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 16 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
-| 17 | [Kedibone](http://twitter.com/search?q=Kedibone) | N/A |
-| 18 | [Yenza](http://twitter.com/search?q=Yenza) | N/A |
-| 19 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
-| 20 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
-| 21 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
-| 22 | [NQF LEVEL 8](http://twitter.com/search?q=NQF+LEVEL+8) | N/A |
-| 23 | [Chris Excel](http://twitter.com/search?q=Chris+Excel) | N/A |
+| 17 | [Weekly](http://twitter.com/search?q=Weekly) | N/A |
+| 18 | [PrEP](http://twitter.com/search?q=PrEP) | N/A |
+| 19 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
+| 20 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
+| 21 | [Modiba](http://twitter.com/search?q=Modiba) | N/A |
+| 22 | [Resign](http://twitter.com/search?q=Resign) | Resign is a verb that means to formally give up or quit a job, position, or office. It is usually done in writing and is often accompanied by a letter of resignation. |
+| 23 | [NQF LEVEL 8](http://twitter.com/search?q=NQF+LEVEL+8) | N/A |
 | 24 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
-| 25 | [3 Smartphones](http://twitter.com/search?q=3+Smartphones) | N/A |
-| 26 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 27 | [COLGATE AND THEMBABROLY](http://twitter.com/search?q=COLGATE+AND+THEMBABROLY) | N/A |
-| 28 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
-| 29 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
-| 30 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 31 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
-| 32 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
+| 25 | [Chris Excel](http://twitter.com/search?q=Chris+Excel) | N/A |
+| 26 | [3 Smartphones](http://twitter.com/search?q=3+Smartphones) | N/A |
+| 27 | [Kedibone](http://twitter.com/search?q=Kedibone) | N/A |
+| 28 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 29 | [Danny Jordan](http://twitter.com/search?q=Danny+Jordan) | N/A |
+| 30 | [Notoane](http://twitter.com/search?q=Notoane) | N/A |
+| 31 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
+| 32 | [Luh Twizzy](http://twitter.com/search?q=Luh+Twizzy) | N/A |
 | 33 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 34 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
-| 35 | [ANTICIPATE NELISA](http://twitter.com/search?q=ANTICIPATE+NELISA) | N/A |
+| 34 | [ANTICIPATE NELISA](http://twitter.com/search?q=ANTICIPATE+NELISA) | N/A |
+| 35 | [COLGATE AND THEMBABROLY](http://twitter.com/search?q=COLGATE+AND+THEMBABROLY) | N/A |
 | 36 | [THEMBABROLY IS HUMAN](http://twitter.com/search?q=THEMBABROLY+IS+HUMAN) | N/A |
-| 37 | [Generations](http://twitter.com/search?q=Generations) | N/A |
-| 38 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
-| 39 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 40 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 41 | [CONGRATULATIONS THEMBABROLY](http://twitter.com/search?q=CONGRATULATIONS+THEMBABROLY) | N/A |
-| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 43 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 44 | [VOTE IPELENG](http://twitter.com/search?q=VOTE+IPELENG) | N/A |
-| 45 | [Kasi](http://twitter.com/search?q=Kasi) | N/A |
-| 46 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
-| 47 | [yahyuppiyah](http://twitter.com/search?q=yahyuppiyah) | N/A |
-| 48 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 49 | [Varsity Shield](http://twitter.com/search?q=Varsity+Shield) | N/A |
-| 50 | [De Beers](http://twitter.com/search?q=De+Beers) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 39 | [Lungelo Nkosi](http://twitter.com/search?q=Lungelo+Nkosi) | N/A |
+| 40 | [Nedbank](http://twitter.com/search?q=Nedbank) | N/A |
+| 41 | [VOTE IPELENG](http://twitter.com/search?q=VOTE+IPELENG) | N/A |
+| 42 | [CONGRATULATIONS THEMBABROLY](http://twitter.com/search?q=CONGRATULATIONS+THEMBABROLY) | N/A |
+| 43 | [Generations](http://twitter.com/search?q=Generations) | N/A |
+| 44 | [Speckled](http://twitter.com/search?q=Speckled) | N/A |
+| 45 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 46 | [Katlego](http://twitter.com/search?q=Katlego) | N/A |
+| 47 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
+| 48 | [yahyuppiyah](http://twitter.com/search?q=yahyuppiyah) | N/A |
+| 49 | [Snakes](http://twitter.com/search?q=Snakes) | N/A |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

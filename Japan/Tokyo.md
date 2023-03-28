@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-28 09:18:00 UTC`
+📆 Last Updated: `2023-03-28 10:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [マガツノート](http://twitter.com/search?q=%e3%83%9e%e3%82%ac%e3%83%84%e3%83%8e%e3%83%bc%e3%83%88) | N/A |
-| 2 | [ずんだもん](http://twitter.com/search?q=%e3%81%9a%e3%82%93%e3%81%a0%e3%82%82%e3%82%93) | N/A |
-| 3 | [大井町線](http://twitter.com/search?q=%e5%a4%a7%e4%ba%95%e7%94%ba%e7%b7%9a) | N/A |
-| 4 | [着ぐるみ登場](http://twitter.com/search?q=%e7%9d%80%e3%81%90%e3%82%8b%e3%81%bf%e7%99%bb%e5%a0%b4) | N/A |
-| 5 | [真白友也](http://twitter.com/search?q=%e7%9c%9f%e7%99%bd%e5%8f%8b%e4%b9%9f) | N/A |
-| 6 | [#あなたを相撲の決まり手に例える](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e7%9b%b8%e6%92%b2%e3%81%ae%e6%b1%ba%e3%81%be%e3%82%8a%e6%89%8b%e3%81%ab%e4%be%8b%e3%81%88%e3%82%8b) | N/A |
-| 7 | [#Nスタ](http://twitter.com/search?q=%23N%e3%82%b9%e3%82%bf) | N/A |
-| 8 | [トレパク](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%91%e3%82%af) | N/A |
-| 9 | [渡辺徹さん](http://twitter.com/search?q=%e6%b8%a1%e8%be%ba%e5%be%b9%e3%81%95%e3%82%93) | N/A |
-| 10 | [マイレージ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%ac%e3%83%bc%e3%82%b8) | N/A |
-| 11 | [#ポ1オフ](http://twitter.com/search?q=%23%e3%83%9d1%e3%82%aa%e3%83%95) | N/A |
-| 12 | [#THETRAD](http://twitter.com/search?q=%23THETRAD) | #THETRAD is an acronym for “The Trade”, which is a term used to refer to the stock market. It is used by traders and investors to refer to the buying and selling of stocks, bonds, commodities, and other financial instruments. |
-| 13 | [タブ自体](http://twitter.com/search?q=%e3%82%bf%e3%83%96%e8%87%aa%e4%bd%93) | N/A |
-| 14 | [東邦高校](http://twitter.com/search?q=%e6%9d%b1%e9%82%a6%e9%ab%98%e6%a0%a1) | N/A |
-| 15 | [LILIUM](http://twitter.com/search?q=LILIUM) | N/A |
-| 16 | [キャンジャニちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | キャンジャニちゃん is a character from the Japanese manga series, Kyou Kara Maou. The character's name is Yuuri Shibuya and he is a 15-year-old high school student who is chosen to be the new Maou (Demon King) of the Demon World. His nickname, "キャンジャニちゃん", is derived from his last name, Shibuya, which can be written as "しぶや" in Japanese. In English, it translates to "Shibuya-chan". |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [杉尾議員](http://twitter.com/search?q=%e6%9d%89%e5%b0%be%e8%ad%b0%e5%93%a1) | N/A |
-| 19 | [ギガモン](http://twitter.com/search?q=%e3%82%ae%e3%82%ac%e3%83%a2%e3%83%b3) | N/A |
-| 20 | [人身事故](http://twitter.com/search?q=%e4%ba%ba%e8%ba%ab%e4%ba%8b%e6%95%85) | 人身事故 (Jinshin Jiko) is a Japanese term meaning "personal injury accident". It is used to refer to any type of accident that results in physical injury or death. |
-| 21 | [クロスデュエル](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%82%b9%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
-| 22 | [回答時間](http://twitter.com/search?q=%e5%9b%9e%e7%ad%94%e6%99%82%e9%96%93) | N/A |
-| 23 | [保津川下り](http://twitter.com/search?q=%e4%bf%9d%e6%b4%a5%e5%b7%9d%e4%b8%8b%e3%82%8a) | N/A |
-| 24 | [コンフュージョンUR](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%95%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3UR) | N/A |
-| 25 | [ステアラ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9) | N/A |
-| 26 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
-| 27 | [投票機能](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%a9%9f%e8%83%bd) | N/A |
-| 28 | [船頭さん](http://twitter.com/search?q=%e8%88%b9%e9%a0%ad%e3%81%95%e3%82%93) | N/A |
-| 29 | [キャンドゥ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%82%a5) | N/A |
-| 30 | [BOYS PLANET/안무](http://twitter.com/search?q=BOYS+PLANET%2f%ec%95%88%eb%ac%b4) | N/A |
-| 31 | [ニビルセット](http://twitter.com/search?q=%e3%83%8b%e3%83%93%e3%83%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
-| 32 | [バーイベ](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%a4%e3%83%99) | N/A |
-| 33 | [タイブレーク](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af) | N/A |
-| 34 | [アーカルム外伝](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%82%ab%e3%83%ab%e3%83%a0%e5%a4%96%e4%bc%9d) | N/A |
+| 1 | [エスコン](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%b3%e3%83%b3) | N/A |
+| 2 | [#情シスSlack](http://twitter.com/search?q=%23%e6%83%85%e3%82%b7%e3%82%b9Slack) | N/A |
+| 3 | [カラット棒](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%83%e3%83%88%e6%a3%92) | カラット棒 (karatto-bou) is a tool used to measure the weight of diamonds and other precious stones. It is a rod with notches of different sizes, each notch representing a specific carat weight. In English, it is known as a carat scale or carat balance. |
+| 4 | [地震のせい](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 5 | [アシマリ](http://twitter.com/search?q=%e3%82%a2%e3%82%b7%e3%83%9e%e3%83%aa) | N/A |
+| 6 | [ギルクラ](http://twitter.com/search?q=%e3%82%ae%e3%83%ab%e3%82%af%e3%83%a9) | N/A |
+| 7 | [#ふなっしートレイン](http://twitter.com/search?q=%23%e3%81%b5%e3%81%aa%e3%81%a3%e3%81%97%e3%83%bc%e3%83%88%e3%83%ac%e3%82%a4%e3%83%b3) | N/A |
+| 8 | [キャンジャニちゃん](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | キャンジャニちゃん is a character from the Japanese manga series, Kyou Kara Maou. The character's name is Yuuri Shibuya and he is a 15-year-old high school student who is chosen to be the new Maou (Demon King) of the Demon World. His nickname, "キャンジャニちゃん", is derived from his last name, Shibuya, which can be written as "しぶや" in Japanese. In English, it translates to "Shibuya-chan". |
+| 9 | [マグニチュード](http://twitter.com/search?q=%e3%83%9e%e3%82%b0%e3%83%8b%e3%83%81%e3%83%a5%e3%83%bc%e3%83%89) | N/A |
+| 10 | [とりの日](http://twitter.com/search?q=%e3%81%a8%e3%82%8a%e3%81%ae%e6%97%a5) | N/A |
+| 11 | [ずんだもん](http://twitter.com/search?q=%e3%81%9a%e3%82%93%e3%81%a0%e3%82%82%e3%82%93) | N/A |
+| 12 | [アニメガ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a1%e3%82%ac) | N/A |
+| 13 | [DXTEEN](http://twitter.com/search?q=DXTEEN) | N/A |
+| 14 | [#山﨑賢人](http://twitter.com/search?q=%23%e5%b1%b1%ef%a8%91%e8%b3%a2%e4%ba%ba) | N/A |
+| 15 | [牛歩戦術](http://twitter.com/search?q=%e7%89%9b%e6%ad%a9%e6%88%a6%e8%a1%93) | N/A |
+| 16 | [ギガモン](http://twitter.com/search?q=%e3%82%ae%e3%82%ac%e3%83%a2%e3%83%b3) | N/A |
+| 17 | [シール希望](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%ab%e5%b8%8c%e6%9c%9b) | N/A |
+| 18 | [渡辺徹さん](http://twitter.com/search?q=%e6%b8%a1%e8%be%ba%e5%be%b9%e3%81%95%e3%82%93) | N/A |
+| 19 | [#ミナト町純情オセロ](http://twitter.com/search?q=%23%e3%83%9f%e3%83%8a%e3%83%88%e7%94%ba%e7%b4%94%e6%83%85%e3%82%aa%e3%82%bb%e3%83%ad) | N/A |
+| 20 | [クラゲの絵文字](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%b2%e3%81%ae%e7%b5%b5%e6%96%87%e5%ad%97) | N/A |
+| 21 | [コーンロウ](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%b3%e3%83%ad%e3%82%a6) | N/A |
+| 22 | [クロスデュエル](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%82%b9%e3%83%87%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
+| 23 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
+| 24 | [回答時間](http://twitter.com/search?q=%e5%9b%9e%e7%ad%94%e6%99%82%e9%96%93) | N/A |
+| 25 | [鎌田ボランチ](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%9c%e3%83%a9%e3%83%b3%e3%83%81) | N/A |
+| 26 | [カシーフ](http://twitter.com/search?q=%e3%82%ab%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
+| 27 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
+| 28 | [コンフュージョンUR](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%95%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%a7%e3%83%b3UR) | N/A |
+| 29 | [保津川下り](http://twitter.com/search?q=%e4%bf%9d%e6%b4%a5%e5%b7%9d%e4%b8%8b%e3%82%8a) | N/A |
+| 30 | [ステアラ](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a2%e3%83%a9) | N/A |
+| 31 | [ジャイガ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%ac) | N/A |
+| 32 | [青森県東方沖](http://twitter.com/search?q=%e9%9d%92%e6%a3%ae%e7%9c%8c%e6%9d%b1%e6%96%b9%e6%b2%96) | N/A |
+| 33 | [海面変動](http://twitter.com/search?q=%e6%b5%b7%e9%9d%a2%e5%a4%89%e5%8b%95) | 海面変動 is a Japanese term that refers to changes in sea level. It literally translates to "sea surface variation" in English. |
+| 34 | [Sakuちゃん](http://twitter.com/search?q=Saku%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 35 | [原くんのブログ](http://twitter.com/search?q=%e5%8e%9f%e3%81%8f%e3%82%93%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0) | N/A |
-| 36 | [生姜の絵文字](http://twitter.com/search?q=%e7%94%9f%e5%a7%9c%e3%81%ae%e7%b5%b5%e6%96%87%e5%ad%97) | N/A |
-| 37 | [メイの謎解き成功](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 38 | [アンケート機能](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%82%b1%e3%83%bc%e3%83%88%e6%a9%9f%e8%83%bd) | N/A |
-| 39 | [グランギニョル](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%82%ae%e3%83%8b%e3%83%a7%e3%83%ab) | N/A |
-| 40 | [ヒーローショウ](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%82%b7%e3%83%a7%e3%82%a6) | N/A |
-| 41 | [チャイナカンフー](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%82%a4%e3%83%8a%e3%82%ab%e3%83%b3%e3%83%95%e3%83%bc) | N/A |
-| 42 | [らくがきじゅう](http://twitter.com/search?q=%e3%82%89%e3%81%8f%e3%81%8c%e3%81%8d%e3%81%98%e3%82%85%e3%81%86) | N/A |
-| 43 | [ピンクのハート](http://twitter.com/search?q=%e3%83%94%e3%83%b3%e3%82%af%e3%81%ae%e3%83%8f%e3%83%bc%e3%83%88) | N/A |
-| 44 | [東京ダイナマイトのネタ](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e3%83%80%e3%82%a4%e3%83%8a%e3%83%9e%e3%82%a4%e3%83%88%e3%81%ae%e3%83%8d%e3%82%bf) | N/A |
-| 45 | [金属バット](http://twitter.com/search?q=%e9%87%91%e5%b1%9e%e3%83%90%e3%83%83%e3%83%88) | 金属バット (kinzoku batto) is a metal bat, typically made of aluminum or other metal alloys. It is used in baseball and softball as a hitting tool. |
-| 46 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
-| 47 | [ライフジャケット](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%95%e3%82%b8%e3%83%a3%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 48 | [真央ちゃん](http://twitter.com/search?q=%e7%9c%9f%e5%a4%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 49 | [水色のハート](http://twitter.com/search?q=%e6%b0%b4%e8%89%b2%e3%81%ae%e3%83%8f%e3%83%bc%e3%83%88) | N/A |
+| 36 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
+| 37 | [ジャルジャル](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%ab%e3%82%b8%e3%83%a3%e3%83%ab) | N/A |
+| 38 | [投票機能](http://twitter.com/search?q=%e6%8a%95%e7%a5%a8%e6%a9%9f%e8%83%bd) | N/A |
+| 39 | [町野スタメン](http://twitter.com/search?q=%e7%94%ba%e9%87%8e%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
+| 40 | [レコーディング](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 41 | [キャンドゥ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%89%e3%82%a5) | N/A |
+| 42 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
+| 43 | [M6.1](http://twitter.com/search?q=M6.1) | N/A |
+| 44 | [生姜の絵文字](http://twitter.com/search?q=%e7%94%9f%e5%a7%9c%e3%81%ae%e7%b5%b5%e6%96%87%e5%ad%97) | N/A |
+| 45 | [コロンビア](http://twitter.com/search?q=%e3%82%b3%e3%83%ad%e3%83%b3%e3%83%93%e3%82%a2) | N/A |
+| 46 | [BOYS PLANET/안무](http://twitter.com/search?q=BOYS+PLANET%2f%ec%95%88%eb%ac%b4) | N/A |
+| 47 | [船頭さん](http://twitter.com/search?q=%e8%88%b9%e9%a0%ad%e3%81%95%e3%82%93) | N/A |
+| 48 | [バーイベ](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%82%a4%e3%83%99) | N/A |
+| 49 | [ニビルセット](http://twitter.com/search?q=%e3%83%8b%e3%83%93%e3%83%ab%e3%82%bb%e3%83%83%e3%83%88) | N/A |
 
 
 

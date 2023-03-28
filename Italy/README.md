@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-28 09:18:32 UTC`
+📆 Last Updated: `2023-03-28 10:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Italy
 | 8 | [Condoglianze Paolo](http://twitter.com/search?q=Condoglianze+Paolo) | N/A |
 | 9 | [Milena](http://twitter.com/search?q=Milena) | N/A |
 | 10 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 11 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 12 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
-| 13 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 14 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
-| 15 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
-| 16 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
-| 17 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
-| 18 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
-| 19 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
-| 20 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 21 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 11 | [Mannocchi](http://twitter.com/search?q=Mannocchi) | N/A |
+| 12 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 13 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
+| 14 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
+| 15 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
+| 16 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
+| 17 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
+| 18 | [Ritmo](http://twitter.com/search?q=Ritmo) | N/A |
+| 19 | [Turone](http://twitter.com/search?q=Turone) | N/A |
+| 20 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 21 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
 | 22 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 23 | [Turone](http://twitter.com/search?q=Turone) | N/A |
-| 24 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 25 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 26 | [Malpezzi](http://twitter.com/search?q=Malpezzi) | N/A |
-| 27 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 28 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 29 | [Io Sono](http://twitter.com/search?q=Io+Sono) | N/A |
-| 30 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 31 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 32 | [Agnese](http://twitter.com/search?q=Agnese) | N/A |
-| 33 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 34 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
-| 35 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 36 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 37 | [Sofri](http://twitter.com/search?q=Sofri) | N/A |
-| 38 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
-| 39 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 40 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 41 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 42 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 43 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
-| 44 | [De Niro](http://twitter.com/search?q=De+Niro) | N/A |
-| 45 | [Blitz](http://twitter.com/search?q=Blitz) | N/A |
-| 46 | [Tiafoe](http://twitter.com/search?q=Tiafoe) | Tiafoe is the surname of American professional tennis player Frances Tiafoe. It is derived from the West African language of Fula and means "be free". |
-| 47 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 48 | [Sergio Leone](http://twitter.com/search?q=Sergio+Leone) | N/A |
-| 49 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
-| 50 | [Le ONG](http://twitter.com/search?q=Le+ONG) | N/A |
+| 23 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 24 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 25 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 26 | [Io Sono](http://twitter.com/search?q=Io+Sono) | N/A |
+| 27 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 28 | [Malpezzi](http://twitter.com/search?q=Malpezzi) | N/A |
+| 29 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 30 | [Agnese](http://twitter.com/search?q=Agnese) | N/A |
+| 31 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 32 | [Mannelli](http://twitter.com/search?q=Mannelli) | N/A |
+| 33 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 34 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 35 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 36 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 37 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
+| 38 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 39 | [Charlie Hebdo](http://twitter.com/search?q=Charlie+Hebdo) | N/A |
+| 40 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 41 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 42 | [Bielorussia](http://twitter.com/search?q=Bielorussia) | N/A |
+| 43 | [Alby](http://twitter.com/search?q=Alby) | N/A |
+| 44 | [Blitz](http://twitter.com/search?q=Blitz) | N/A |
+| 45 | [Sergio Leone](http://twitter.com/search?q=Sergio+Leone) | N/A |
+| 46 | [Magic Mike](http://twitter.com/search?q=Magic+Mike) | N/A |
+| 47 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 48 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
+| 49 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 50 | [De Niro](http://twitter.com/search?q=De+Niro) | N/A |
 
 
 

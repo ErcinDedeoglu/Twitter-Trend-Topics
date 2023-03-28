@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-28 09:18:31 UTC`
+📆 Last Updated: `2023-03-28 10:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Germany
 | 5 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
 | 6 | [Haken](http://twitter.com/search?q=Haken) | N/A |
 | 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 8 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 9 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 11 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 13 | ['Möbel'](http://twitter.com/search?q=%27M%c3%b6bel%27) | N/A |
-| 14 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 15 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 16 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 17 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
-| 18 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
-| 19 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
-| 20 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
-| 21 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
+| 8 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 9 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 10 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 11 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 12 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 13 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 14 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 15 | [Zeitumstellung](http://twitter.com/search?q=Zeitumstellung) | N/A |
+| 16 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 17 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 18 | ['Möbel'](http://twitter.com/search?q=%27M%c3%b6bel%27) | N/A |
+| 19 | [Tanzt Du](http://twitter.com/search?q=Tanzt+Du) | N/A |
+| 20 | [Lieblingsfarbe](http://twitter.com/search?q=Lieblingsfarbe) | N/A |
+| 21 | [Lieblingsmusik](http://twitter.com/search?q=Lieblingsmusik) | N/A |
 | 22 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 23 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 24 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
-| 25 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 23 | [Obst oder Gemüse](http://twitter.com/search?q=Obst+oder+Gem%c3%bcse) | N/A |
+| 24 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 25 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
 | 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
-| 28 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 27 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 28 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | N/A |
 | 29 | [Schönen Montag](http://twitter.com/search?q=Sch%c3%b6nen+Montag) | N/A |
-| 30 | [Löwenzahn](http://twitter.com/search?q=L%c3%b6wenzahn) | N/A |
-| 31 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
+| 30 | [Umbruch](http://twitter.com/search?q=Umbruch) | N/A |
+| 31 | [Planet](http://twitter.com/search?q=Planet) | N/A |
 | 32 | ['schattenspiele'](http://twitter.com/search?q=%27schattenspiele%27) | N/A |
-| 33 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
-| 34 | [Planet](http://twitter.com/search?q=Planet) | N/A |
-| 35 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 33 | [Aprilwetter](http://twitter.com/search?q=Aprilwetter) | N/A |
+| 34 | [Ergebnis](http://twitter.com/search?q=Ergebnis) | N/A |
+| 35 | [Milliardär](http://twitter.com/search?q=Milliard%c3%a4r) | N/A |
 | 36 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 37 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
-| 38 | [Moderator](http://twitter.com/search?q=Moderator) | N/A |
+| 37 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 38 | [Klamroth](http://twitter.com/search?q=Klamroth) | N/A |
 | 39 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
-| 40 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
-| 41 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 42 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
-| 43 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 44 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 45 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 46 | [Tilo](http://twitter.com/search?q=Tilo) | N/A |
+| 40 | [Tilo](http://twitter.com/search?q=Tilo) | N/A |
+| 41 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
+| 42 | [Justizreform](http://twitter.com/search?q=Justizreform) | N/A |
+| 43 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 44 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
+| 45 | [Gewerkschaften](http://twitter.com/search?q=Gewerkschaften) | N/A |
+| 46 | [Nutzer](http://twitter.com/search?q=Nutzer) | N/A |
 | 47 | [Sommerzeit](http://twitter.com/search?q=Sommerzeit) | N/A |
-| 48 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 49 | [Reparatur am Zug](http://twitter.com/search?q=Reparatur+am+Zug) | N/A |
-| 50 | [Ja-Stimmen](http://twitter.com/search?q=Ja-Stimmen) | N/A |
+| 48 | [Nein-Stimmen](http://twitter.com/search?q=Nein-Stimmen) | N/A |
+| 49 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 50 | [Maß und Mitte](http://twitter.com/search?q=Ma%c3%9f+und+Mitte) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-03-28 09:17:56 UTC`
+📆 Last Updated: `2023-03-28 10:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 2 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 3 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 1 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 2 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 3 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
 | 4 | [Mobil Perang](http://twitter.com/search?q=Mobil+Perang) | N/A |
 | 5 | [SNBP](http://twitter.com/search?q=SNBP) | N/A |
 | 6 | [SNBT](http://twitter.com/search?q=SNBT) | N/A |
-| 7 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
-| 8 | [#BerkahBerzakatBSI](http://twitter.com/search?q=%23BerkahBerzakatBSI) | N/A |
-| 9 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
-| 10 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
-| 11 | [#THESHOW_MCXIAOJUN](http://twitter.com/search?q=%23THESHOW_MCXIAOJUN) | N/A |
-| 12 | [#나나생각중](http://twitter.com/search?q=%23%eb%82%98%eb%82%98%ec%83%9d%ea%b0%81%ec%a4%91) | N/A |
-| 13 | [SELAMAT YAAA](http://twitter.com/search?q=SELAMAT+YAAA) | N/A |
-| 14 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
-| 15 | [Baznas](http://twitter.com/search?q=Baznas) | N/A |
-| 16 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 17 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 18 | [THEY ARE THE WORST](http://twitter.com/search?q=THEY+ARE+THE+WORST) | N/A |
-| 19 | [SELAMATTTT](http://twitter.com/search?q=SELAMATTTT) | N/A |
-| 20 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
+| 7 | [Congratsss](http://twitter.com/search?q=Congratsss) | N/A |
+| 8 | [#atlashella](http://twitter.com/search?q=%23atlashella) | N/A |
+| 9 | [#AgustD_SUGA_Tour_in_jakarta](http://twitter.com/search?q=%23AgustD_SUGA_Tour_in_jakarta) | N/A |
+| 10 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 11 | [SNMPTN](http://twitter.com/search?q=SNMPTN) | N/A |
+| 12 | [ALHAMDULILLAH YA ALLAH](http://twitter.com/search?q=ALHAMDULILLAH+YA+ALLAH) | N/A |
+| 13 | [#THESHOW_MCXIAOJUN](http://twitter.com/search?q=%23THESHOW_MCXIAOJUN) | N/A |
+| 14 | [#BerkahBerzakatBSI](http://twitter.com/search?q=%23BerkahBerzakatBSI) | N/A |
+| 15 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 16 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 17 | [SELAMAT YAAA](http://twitter.com/search?q=SELAMAT+YAAA) | N/A |
+| 18 | [Selamattt](http://twitter.com/search?q=Selamattt) | N/A |
+| 19 | [UTBK](http://twitter.com/search?q=UTBK) | N/A |
+| 20 | [CAT 5](http://twitter.com/search?q=CAT+5) | N/A |
 | 21 | [Singapura](http://twitter.com/search?q=Singapura) | N/A |
-| 22 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 23 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 24 | [Cuekin](http://twitter.com/search?q=Cuekin) | N/A |
-| 25 | [15.00 WIB](http://twitter.com/search?q=15.00+WIB) | N/A |
-| 26 | [Badan Amil Zakat Nasional](http://twitter.com/search?q=Badan+Amil+Zakat+Nasional) | N/A |
-| 27 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
-| 28 | [Bank Syariah Indonesia](http://twitter.com/search?q=Bank+Syariah+Indonesia) | N/A |
+| 22 | [KERENNN](http://twitter.com/search?q=KERENNN) | N/A |
+| 23 | [THEY ARE THE WORST](http://twitter.com/search?q=THEY+ARE+THE+WORST) | N/A |
+| 24 | [CONGRATS YAAA](http://twitter.com/search?q=CONGRATS+YAAA) | N/A |
+| 25 | [Semangattt](http://twitter.com/search?q=Semangattt) | N/A |
+| 26 | [Gapapaa](http://twitter.com/search?q=Gapapaa) | N/A |
+| 27 | [Cuekin](http://twitter.com/search?q=Cuekin) | N/A |
+| 28 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
 | 29 | [KEREN BANGET](http://twitter.com/search?q=KEREN+BANGET) | N/A |
-| 30 | [KERENNN](http://twitter.com/search?q=KERENNN) | N/A |
-| 31 | [CAT 1A](http://twitter.com/search?q=CAT+1A) | N/A |
-| 32 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 33 | [Gapapaa](http://twitter.com/search?q=Gapapaa) | N/A |
-| 34 | [Maba](http://twitter.com/search?q=Maba) | N/A |
-| 35 | [Semangatt](http://twitter.com/search?q=Semangatt) | N/A |
+| 30 | [Baznas](http://twitter.com/search?q=Baznas) | N/A |
+| 31 | [Merah](http://twitter.com/search?q=Merah) | N/A |
+| 32 | [Maba](http://twitter.com/search?q=Maba) | N/A |
+| 33 | [Bank Syariah Indonesia](http://twitter.com/search?q=Bank+Syariah+Indonesia) | N/A |
+| 34 | [CAT 4](http://twitter.com/search?q=CAT+4) | N/A |
+| 35 | [Arab](http://twitter.com/search?q=Arab) | N/A |
 | 36 | [VIP B](http://twitter.com/search?q=VIP+B) | N/A |
-| 37 | [KEREN BGT](http://twitter.com/search?q=KEREN+BGT) | N/A |
-| 38 | [Kumon](http://twitter.com/search?q=Kumon) | N/A |
-| 39 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 40 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
-| 41 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 42 | [CAT 2](http://twitter.com/search?q=CAT+2) | N/A |
-| 43 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 44 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 45 | [Gibran](http://twitter.com/search?q=Gibran) | N/A |
-| 46 | [BELUM DEWASA](http://twitter.com/search?q=BELUM+DEWASA) | N/A |
-| 47 | [WTS WTS](http://twitter.com/search?q=WTS+WTS) | N/A |
-| 48 | [Turki](http://twitter.com/search?q=Turki) | N/A |
-| 49 | [AAMIIN YA ALLAH](http://twitter.com/search?q=AAMIIN+YA+ALLAH) | N/A |
+| 37 | [KNPI](http://twitter.com/search?q=KNPI) | N/A |
+| 38 | [15.00 WIB](http://twitter.com/search?q=15.00+WIB) | N/A |
+| 39 | [Cat 2](http://twitter.com/search?q=Cat+2) | N/A |
+| 40 | [CAT 1B](http://twitter.com/search?q=CAT+1B) | N/A |
+| 41 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
+| 42 | [KEREN BGT](http://twitter.com/search?q=KEREN+BGT) | N/A |
+| 43 | [Makasiiii](http://twitter.com/search?q=Makasiiii) | N/A |
+| 44 | [Kumon](http://twitter.com/search?q=Kumon) | N/A |
+| 45 | [THANK YOUU](http://twitter.com/search?q=THANK+YOUU) | N/A |
+| 46 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 47 | [WANT TO TRADE](http://twitter.com/search?q=WANT+TO+TRADE) | N/A |
+| 48 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 49 | [U-20](http://twitter.com/search?q=U-20) | N/A |
 
 
 

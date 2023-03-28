@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-28 09:18:06 UTC`
+📆 Last Updated: `2023-03-28 10:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Wilycando_RevolutionNaija](http://twitter.com/search?q=%23Wilycando_RevolutionNaija) | N/A |
-| 2 | [Mummy GO](http://twitter.com/search?q=Mummy+GO) | N/A |
-| 3 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 2 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 3 | [Mummy GO](http://twitter.com/search?q=Mummy+GO) | N/A |
 | 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 6 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 7 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 8 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
+| 5 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 6 | [#untilmoneydouspart](http://twitter.com/search?q=%23untilmoneydouspart) | N/A |
+| 7 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 8 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
 | 9 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
 | 10 | [Whitemoney](http://twitter.com/search?q=Whitemoney) | N/A |
-| 11 | [PHYNA IS CLEAR](http://twitter.com/search?q=PHYNA+IS+CLEAR) | N/A |
-| 12 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 13 | [Oyedepo](http://twitter.com/search?q=Oyedepo) | N/A |
-| 14 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
-| 15 | [My Mystery](http://twitter.com/search?q=My+Mystery) | N/A |
-| 16 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 11 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 12 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
+| 13 | [PHYNA IS CLEAR](http://twitter.com/search?q=PHYNA+IS+CLEAR) | N/A |
+| 14 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
+| 15 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
+| 16 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
 | 17 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 18 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
-| 19 | [Abuja](http://twitter.com/search?q=Abuja) | N/A |
-| 20 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
-| 21 | [Hourly](http://twitter.com/search?q=Hourly) | N/A |
-| 22 | [Twitter NG](http://twitter.com/search?q=Twitter+NG) | N/A |
-| 23 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 24 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 25 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 26 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
-| 27 | [Afrobeats Artist of the Year](http://twitter.com/search?q=Afrobeats+Artist+of+the+Year) | N/A |
-| 28 | [Davido and Asake](http://twitter.com/search?q=Davido+and+Asake) | N/A |
-| 29 | [UNSTOPPABLE YEMI CREGX](http://twitter.com/search?q=UNSTOPPABLE+YEMI+CREGX) | N/A |
-| 30 | [Loya](http://twitter.com/search?q=Loya) | N/A |
-| 31 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
-| 32 | [Census](http://twitter.com/search?q=Census) | N/A |
-| 33 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 34 | [Mixlr](http://twitter.com/search?q=Mixlr) | N/A |
-| 35 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
-| 36 | [Pere](http://twitter.com/search?q=Pere) | N/A |
-| 37 | [David Lyon](http://twitter.com/search?q=David+Lyon) | N/A |
-| 38 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
-| 39 | [Dano](http://twitter.com/search?q=Dano) | N/A |
-| 40 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 18 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 19 | [Hourly](http://twitter.com/search?q=Hourly) | N/A |
+| 20 | [Wemimo](http://twitter.com/search?q=Wemimo) | N/A |
+| 21 | [Chukwueze](http://twitter.com/search?q=Chukwueze) | N/A |
+| 22 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 23 | [UNSTOPPABLE YEMI CREGX](http://twitter.com/search?q=UNSTOPPABLE+YEMI+CREGX) | N/A |
+| 24 | [Dennis Osadebay University](http://twitter.com/search?q=Dennis+Osadebay+University) | N/A |
+| 25 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 26 | [Pere](http://twitter.com/search?q=Pere) | N/A |
+| 27 | [Loya](http://twitter.com/search?q=Loya) | N/A |
+| 28 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 29 | [Faculty of Agriculture](http://twitter.com/search?q=Faculty+of+Agriculture) | N/A |
+| 30 | [Moses Simon](http://twitter.com/search?q=Moses+Simon) | N/A |
+| 31 | [Dano](http://twitter.com/search?q=Dano) | N/A |
+| 32 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
+| 33 | [My Mystery](http://twitter.com/search?q=My+Mystery) | N/A |
+| 34 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 35 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
+| 36 | [Bode George](http://twitter.com/search?q=Bode+George) | N/A |
+| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 38 | [Census](http://twitter.com/search?q=Census) | N/A |
+| 39 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 40 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
 | 41 | [Urhobo](http://twitter.com/search?q=Urhobo) | N/A |
-| 42 | [Lazarus](http://twitter.com/search?q=Lazarus) | N/A |
-| 43 | [Mr. Peter Obi](http://twitter.com/search?q=Mr.+Peter+Obi) | N/A |
-| 44 | [Odumodu](http://twitter.com/search?q=Odumodu) | N/A |
-| 45 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 46 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 47 | [Chinelo](http://twitter.com/search?q=Chinelo) | N/A |
-| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 42 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 43 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
+| 44 | [Antonio Conte](http://twitter.com/search?q=Antonio+Conte) | N/A |
+| 45 | [Fani-Kayode](http://twitter.com/search?q=Fani-Kayode) | N/A |
+| 46 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 47 | [Mark Henry](http://twitter.com/search?q=Mark+Henry) | N/A |
+| 48 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 
 
 

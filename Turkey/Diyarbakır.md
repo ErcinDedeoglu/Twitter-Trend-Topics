@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-28 09:18:17 UTC`
+📆 Last Updated: `2023-03-28 10:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,48 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RamazandaOkuyoruz](http://twitter.com/search?q=%23RamazandaOkuyoruz) | N/A |
-| 2 | [Kızlarla YazTatili](http://twitter.com/search?q=K%c4%b1zlarla+YazTatili) | N/A |
-| 3 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 4 | [#SanaSözOAnGelecek](http://twitter.com/search?q=%23SanaS%c3%b6zOAnGelecek) | N/A |
-| 5 | [#5BinVeKısmiHaktır](http://twitter.com/search?q=%235BinVeK%c4%b1smiHakt%c4%b1r) | N/A |
-| 6 | [Vermezsen](http://twitter.com/search?q=Vermezsen) | N/A |
-| 7 | [Truva](http://twitter.com/search?q=Truva) | N/A |
-| 8 | [Verirsen](http://twitter.com/search?q=Verirsen) | N/A |
-| 9 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
-| 10 | [Ziraat Bankası](http://twitter.com/search?q=Ziraat+Bankas%c4%b1) | N/A |
-| 11 | [Kütüphaneler Haftası](http://twitter.com/search?q=K%c3%bct%c3%bcphaneler+Haftas%c4%b1) | N/A |
-| 12 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
-| 13 | [Günaydın İlker](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+%c4%b0lker) | N/A |
-| 14 | [Selvi](http://twitter.com/search?q=Selvi) | N/A |
-| 15 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 16 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
-| 17 | [Günaydın Yusuf](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Yusuf) | N/A |
-| 18 | [Başörtülü](http://twitter.com/search?q=Ba%c5%9f%c3%b6rt%c3%bcl%c3%bc) | N/A |
-| 19 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
-| 20 | [Gülbin](http://twitter.com/search?q=G%c3%bclbin) | N/A |
-| 21 | [AFMüjdesi Bekliyoruz](http://twitter.com/search?q=AFM%c3%bcjdesi+Bekliyoruz) | N/A |
-| 22 | [Hırvatistan](http://twitter.com/search?q=H%c4%b1rvatistan) | N/A |
-| 23 | [Başarılı](http://twitter.com/search?q=Ba%c5%9far%c4%b1l%c4%b1) | N/A |
-| 24 | [#MemuraRefahZammi](http://twitter.com/search?q=%23MemuraRefahZammi) | N/A |
-| 25 | [#camda](http://twitter.com/search?q=%23camda) | N/A |
-| 26 | [#SiyahBeyazChallange](http://twitter.com/search?q=%23SiyahBeyazChallange) | N/A |
-| 27 | [#İlkTurdaBitecek](http://twitter.com/search?q=%23%c4%b0lkTurdaBitecek) | N/A |
-| 28 | [#HaberGelsinStajdan](http://twitter.com/search?q=%23HaberGelsinStajdan) | N/A |
-| 29 | [#StajınKaderHaftası](http://twitter.com/search?q=%23Staj%c4%b1nKaderHaftas%c4%b1) | N/A |
-| 30 | [#istanbul](http://twitter.com/search?q=%23istanbul) | N/A |
-| 31 | [#StajınMüjdesiGelsin](http://twitter.com/search?q=%23Staj%c4%b1nM%c3%bcjdesiGelsin) | N/A |
-| 32 | [#CıragınYüzünüGüldürün](http://twitter.com/search?q=%23C%c4%b1rag%c4%b1nY%c3%bcz%c3%bcn%c3%bcG%c3%bcld%c3%bcr%c3%bcn) | N/A |
-| 33 | [#YaparimBilirsin](http://twitter.com/search?q=%23YaparimBilirsin) | N/A |
-| 34 | [#HaksızlıkDeğilMi](http://twitter.com/search?q=%23Haks%c4%b1zl%c4%b1kDe%c4%9filMi) | N/A |
-| 35 | [#yağmur](http://twitter.com/search?q=%23ya%c4%9fmur) | N/A |
-| 36 | [#CırakSesBekliyor](http://twitter.com/search?q=%23C%c4%b1rakSesBekliyor) | N/A |
-| 37 | [#KararımNetOyumMİLLET](http://twitter.com/search?q=%23Karar%c4%b1mNetOyumM%c4%b0LLET) | N/A |
-| 38 | [#MuhalefetKazanırsa](http://twitter.com/search?q=%23MuhalefetKazan%c4%b1rsa) | N/A |
-| 39 | [#TamdaŞimdi5000veKısmi](http://twitter.com/search?q=%23Tamda%c5%9eimdi5000veK%c4%b1smi) | N/A |
-| 40 | [#MahrasızBirYıl](http://twitter.com/search?q=%23Mahras%c4%b1zBirY%c4%b1l) | N/A |
-| 41 | [#Şahinbey](http://twitter.com/search?q=%23%c5%9eahinbey) | N/A |
-| 42 | [#UEFATalimatlarınıUygulaTFF](http://twitter.com/search?q=%23UEFATalimatlar%c4%b1n%c4%b1UygulaTFF) | N/A |
-| 43 | [#akfye](http://twitter.com/search?q=%23akfye) | N/A |
+| 2 | [#İlkTurdaBitecek](http://twitter.com/search?q=%23%c4%b0lkTurdaBitecek) | N/A |
+| 3 | [#SanaSözOAnGelecek](http://twitter.com/search?q=%23SanaS%c3%b6zOAnGelecek) | N/A |
+| 4 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 5 | [Vermezsen](http://twitter.com/search?q=Vermezsen) | N/A |
+| 6 | [Konca Kuriş](http://twitter.com/search?q=Konca+Kuri%c5%9f) | N/A |
+| 7 | [Mehmet Ellibeş](http://twitter.com/search?q=Mehmet+Ellibe%c5%9f) | N/A |
+| 8 | [İyi Partili Yavuz Ağıralioğlu](http://twitter.com/search?q=%c4%b0yi+Partili+Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 9 | [Truva](http://twitter.com/search?q=Truva) | N/A |
+| 10 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 11 | [Hakan Şükür](http://twitter.com/search?q=Hakan+%c5%9e%c3%bck%c3%bcr) | N/A |
+| 12 | [Abdülkadir Selvi](http://twitter.com/search?q=Abd%c3%bclkadir+Selvi) | N/A |
+| 13 | [Verirsen](http://twitter.com/search?q=Verirsen) | N/A |
+| 14 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 15 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
+| 16 | [Başörtüsü](http://twitter.com/search?q=Ba%c5%9f%c3%b6rt%c3%bcs%c3%bc) | N/A |
+| 17 | [Kütüphaneler Haftası](http://twitter.com/search?q=K%c3%bct%c3%bcphaneler+Haftas%c4%b1) | N/A |
+| 18 | [Ziraat Bankası](http://twitter.com/search?q=Ziraat+Bankas%c4%b1) | N/A |
+| 19 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 20 | [Aydınlık](http://twitter.com/search?q=Ayd%c4%b1nl%c4%b1k) | N/A |
+| 21 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
+| 22 | [Demirören](http://twitter.com/search?q=Demir%c3%b6ren) | N/A |
+| 23 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 24 | [AFMüjdesi Bekliyoruz](http://twitter.com/search?q=AFM%c3%bcjdesi+Bekliyoruz) | N/A |
+| 25 | [Hırvatistan](http://twitter.com/search?q=H%c4%b1rvatistan) | N/A |
+| 26 | [Gülbin](http://twitter.com/search?q=G%c3%bclbin) | N/A |
+| 27 | [John Steinbeck](http://twitter.com/search?q=John+Steinbeck) | N/A |
+| 28 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 29 | [Başarılı](http://twitter.com/search?q=Ba%c5%9far%c4%b1l%c4%b1) | N/A |
+| 30 | [#SiyahBeyazChallange](http://twitter.com/search?q=%23SiyahBeyazChallange) | N/A |
+| 31 | [#5BinVeKısmiHaktır](http://twitter.com/search?q=%235BinVeK%c4%b1smiHakt%c4%b1r) | N/A |
+| 32 | [#MemuraRefahZammi](http://twitter.com/search?q=%23MemuraRefahZammi) | N/A |
+| 33 | [#Nisandaunileryuzyuze](http://twitter.com/search?q=%23Nisandaunileryuzyuze) | N/A |
+| 34 | [#camda](http://twitter.com/search?q=%23camda) | N/A |
+| 35 | [#HaberGelsinStajdan](http://twitter.com/search?q=%23HaberGelsinStajdan) | N/A |
+| 36 | [#StajınKaderHaftası](http://twitter.com/search?q=%23Staj%c4%b1nKaderHaftas%c4%b1) | N/A |
+| 37 | [#StajınMüjdesiGelsin](http://twitter.com/search?q=%23Staj%c4%b1nM%c3%bcjdesiGelsin) | N/A |
+| 38 | [#CıragınYüzünüGüldürün](http://twitter.com/search?q=%23C%c4%b1rag%c4%b1nY%c3%bcz%c3%bcn%c3%bcG%c3%bcld%c3%bcr%c3%bcn) | N/A |
+| 39 | [#istanbul](http://twitter.com/search?q=%23istanbul) | N/A |
+| 40 | [#CırakSesBekliyor](http://twitter.com/search?q=%23C%c4%b1rakSesBekliyor) | N/A |
+| 41 | [#YaparimBilirsin](http://twitter.com/search?q=%23YaparimBilirsin) | N/A |
+| 42 | [#yagmur](http://twitter.com/search?q=%23yagmur) | N/A |
+| 43 | [#TamdaŞimdi5000veKısmi](http://twitter.com/search?q=%23Tamda%c5%9eimdi5000veK%c4%b1smi) | N/A |
+| 44 | [#HaksızlıkDeğilMi](http://twitter.com/search?q=%23Haks%c4%b1zl%c4%b1kDe%c4%9filMi) | N/A |
+| 45 | [#KararımNetOyumMİLLET](http://twitter.com/search?q=%23Karar%c4%b1mNetOyumM%c4%b0LLET) | N/A |
+| 46 | [#WhatsApp](http://twitter.com/search?q=%23WhatsApp) | N/A |
+| 47 | [#MahrasızBirYıl](http://twitter.com/search?q=%23Mahras%c4%b1zBirY%c4%b1l) | N/A |
+| 48 | [#MuhalefetKazanırsa](http://twitter.com/search?q=%23MuhalefetKazan%c4%b1rsa) | N/A |
+| 49 | [#Şahinbey](http://twitter.com/search?q=%23%c5%9eahinbey) | N/A |
 
 
 

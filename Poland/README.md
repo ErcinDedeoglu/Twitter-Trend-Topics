@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-28 09:18:35 UTC`
+📆 Last Updated: `2023-03-28 10:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Poland
 | 1 | [#POLALB](http://twitter.com/search?q=%23POLALB) | N/A |
 | 2 | [#ALBPOL](http://twitter.com/search?q=%23ALBPOL) | N/A |
 | 3 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 4 | [#minela8](http://twitter.com/search?q=%23minela8) | N/A |
-| 5 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
-| 6 | [Salamon](http://twitter.com/search?q=Salamon) | N/A |
-| 7 | [KAROL ŚWIDERSKI](http://twitter.com/search?q=KAROL+%c5%9aWIDERSKI) | N/A |
-| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 9 | [#PiStoPolexit](http://twitter.com/search?q=%23PiStoPolexit) | N/A |
-| 10 | [#FaszyzmStop](http://twitter.com/search?q=%23FaszyzmStop) | N/A |
-| 11 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 12 | [Międzynarodowy Dzień](http://twitter.com/search?q=Mi%c4%99dzynarodowy+Dzie%c5%84) | N/A |
-| 13 | [Belki](http://twitter.com/search?q=Belki) | N/A |
-| 14 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
-| 15 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 16 | [Wiarygodność](http://twitter.com/search?q=Wiarygodno%c5%9b%c4%87) | N/A |
-| 17 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 18 | [Kłamstwa](http://twitter.com/search?q=K%c5%82amstwa) | N/A |
-| 19 | [Opolu](http://twitter.com/search?q=Opolu) | N/A |
-| 20 | [albańczyków](http://twitter.com/search?q=alba%c5%84czyk%c3%b3w) | N/A |
-| 21 | [Mołdawią](http://twitter.com/search?q=Mo%c5%82dawi%c4%85) | N/A |
-| 22 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 4 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
+| 5 | [Salamon](http://twitter.com/search?q=Salamon) | N/A |
+| 6 | [KAROL ŚWIDERSKI](http://twitter.com/search?q=KAROL+%c5%9aWIDERSKI) | N/A |
+| 7 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 8 | [#PiStoPolexit](http://twitter.com/search?q=%23PiStoPolexit) | N/A |
+| 9 | [#FaszyzmStop](http://twitter.com/search?q=%23FaszyzmStop) | N/A |
+| 10 | [#jesteśgotowy](http://twitter.com/search?q=%23jeste%c5%9bgotowy) | N/A |
+| 11 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 12 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 13 | [Wiarygodność](http://twitter.com/search?q=Wiarygodno%c5%9b%c4%87) | N/A |
+| 14 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 15 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 16 | [mołdawią](http://twitter.com/search?q=mo%c5%82dawi%c4%85) | N/A |
+| 17 | [Belki](http://twitter.com/search?q=Belki) | N/A |
+| 18 | [Pereirą](http://twitter.com/search?q=Pereir%c4%85) | N/A |
+| 19 | [Narodowym](http://twitter.com/search?q=Narodowym) | N/A |
+| 20 | [międzynarodowy dzień teatru](http://twitter.com/search?q=mi%c4%99dzynarodowy+dzie%c5%84+teatru) | N/A |
+| 21 | [Opolu](http://twitter.com/search?q=Opolu) | N/A |
+| 22 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 23 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 24 | [Narodowym](http://twitter.com/search?q=Narodowym) | N/A |
-| 25 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
-| 26 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
-| 27 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 28 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
-| 29 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 30 | [Albańczycy](http://twitter.com/search?q=Alba%c5%84czycy) | N/A |
-| 31 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 32 | [Wieczny](http://twitter.com/search?q=Wieczny) | N/A |
-| 33 | [Gramatyka](http://twitter.com/search?q=Gramatyka) | N/A |
-| 34 | [Strzelcach Opolskich](http://twitter.com/search?q=Strzelcach+Opolskich) | N/A |
-| 35 | [Śnieg](http://twitter.com/search?q=%c5%9anieg) | N/A |
-| 36 | [Syna Człowieczego](http://twitter.com/search?q=Syna+Cz%c5%82owieczego) | N/A |
-| 37 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 38 | [Pereiry](http://twitter.com/search?q=Pereiry) | N/A |
-| 39 | [Mazguła](http://twitter.com/search?q=Mazgu%c5%82a) | N/A |
-| 40 | [Skra](http://twitter.com/search?q=Skra) | N/A |
-| 41 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
-| 42 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
-| 43 | [Błażej Kmieciak](http://twitter.com/search?q=B%c5%82a%c5%bcej+Kmieciak) | N/A |
-| 44 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 45 | [Żywcu](http://twitter.com/search?q=%c5%bbywcu) | N/A |
-| 46 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
-| 47 | [Cudownego](http://twitter.com/search?q=Cudownego) | N/A |
-| 48 | [Wehrmachtu](http://twitter.com/search?q=Wehrmachtu) | N/A |
-| 49 | [IEM DALLAS](http://twitter.com/search?q=IEM+DALLAS) | N/A |
-| 50 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 24 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 25 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 26 | [Czechami](http://twitter.com/search?q=Czechami) | N/A |
+| 27 | [Netanjahu](http://twitter.com/search?q=Netanjahu) | N/A |
+| 28 | [Linetty](http://twitter.com/search?q=Linetty) | N/A |
+| 29 | [Kłamstwa](http://twitter.com/search?q=K%c5%82amstwa) | N/A |
+| 30 | [Strzelcach Opolskich](http://twitter.com/search?q=Strzelcach+Opolskich) | N/A |
+| 31 | [Wieczny](http://twitter.com/search?q=Wieczny) | N/A |
+| 32 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 33 | [Śnieg](http://twitter.com/search?q=%c5%9anieg) | N/A |
+| 34 | [Albańczycy](http://twitter.com/search?q=Alba%c5%84czycy) | N/A |
+| 35 | [Mazguła](http://twitter.com/search?q=Mazgu%c5%82a) | N/A |
+| 36 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
+| 37 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 38 | [Skra](http://twitter.com/search?q=Skra) | N/A |
+| 39 | [jan habdas](http://twitter.com/search?q=jan+habdas) | N/A |
+| 40 | [Wehrmachtu](http://twitter.com/search?q=Wehrmachtu) | N/A |
+| 41 | [Błażej Kmieciak](http://twitter.com/search?q=B%c5%82a%c5%bcej+Kmieciak) | N/A |
+| 42 | [Sroczyński](http://twitter.com/search?q=Sroczy%c5%84ski) | N/A |
+| 43 | [Żywcu](http://twitter.com/search?q=%c5%bbywcu) | N/A |
+| 44 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 45 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 46 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 47 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 48 | [IEM Dallas](http://twitter.com/search?q=IEM+Dallas) | N/A |
+| 49 | [Albańczyków](http://twitter.com/search?q=Alba%c5%84czyk%c3%b3w) | N/A |
+| 50 | [Kantar](http://twitter.com/search?q=Kantar) | N/A |
 
 
 
