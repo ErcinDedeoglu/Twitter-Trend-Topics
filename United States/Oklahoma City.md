@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-03-29 11:17:27 UTC`
+📆 Last Updated: `2023-03-29 12:19:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
 | 3 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
 | 4 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 5 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 8 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 9 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 10 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 11 | [#Wordle648](http://twitter.com/search?q=%23Wordle648) | N/A |
-| 12 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 13 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
-| 14 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 15 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 16 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 17 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 18 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 19 | [Trans Day of Vengeance](http://twitter.com/search?q=Trans+Day+of+Vengeance) | N/A |
+| 7 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 10 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 11 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 12 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 13 | [#Wordle648](http://twitter.com/search?q=%23Wordle648) | N/A |
+| 14 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 15 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 16 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 17 | [Kale](http://twitter.com/search?q=Kale) | N/A |
+| 18 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
+| 19 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
 | 20 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
-| 21 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 22 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 23 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 24 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 25 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 26 | [Robert Plant](http://twitter.com/search?q=Robert+Plant) | N/A |
-| 27 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 28 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 29 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 30 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 31 | [Vans](http://twitter.com/search?q=Vans) | N/A |
-| 32 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
-| 33 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 34 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
-| 35 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
-| 36 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
-| 37 | [#waste](http://twitter.com/search?q=%23waste) | N/A |
-| 38 | [#JJK218](http://twitter.com/search?q=%23JJK218) | N/A |
-| 39 | [#MHA384](http://twitter.com/search?q=%23MHA384) | N/A |
-| 40 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 41 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 42 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 43 | [#McDonaldsAllAmerican](http://twitter.com/search?q=%23McDonaldsAllAmerican) | N/A |
-| 44 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 45 | [#RESTRICTAct](http://twitter.com/search?q=%23RESTRICTAct) | N/A |
-| 46 | [#McDAAG](http://twitter.com/search?q=%23McDAAG) | N/A |
+| 21 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 22 | [Son of Man](http://twitter.com/search?q=Son+of+Man) | N/A |
+| 23 | [Trans Day of Vengeance](http://twitter.com/search?q=Trans+Day+of+Vengeance) | N/A |
+| 24 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 25 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 26 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
+| 27 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 28 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 29 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 30 | [Robert Plant](http://twitter.com/search?q=Robert+Plant) | N/A |
+| 31 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 32 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
+| 33 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 34 | [Cars](http://twitter.com/search?q=Cars) | N/A |
+| 35 | [Cher](http://twitter.com/search?q=Cher) | N/A |
+| 36 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
+| 37 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 38 | [The AR-15](http://twitter.com/search?q=The+AR-15) | N/A |
+| 39 | [Heller](http://twitter.com/search?q=Heller) | N/A |
+| 40 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 41 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 42 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 43 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 44 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
+| 45 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 46 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 47 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 48 | [#VietnamWarVeteransDay](http://twitter.com/search?q=%23VietnamWarVeteransDay) | N/A |
+| 49 | [#PutThatInYourPipe](http://twitter.com/search?q=%23PutThatInYourPipe) | N/A |
+| 50 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
 
 
 

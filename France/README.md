@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-29 11:17:32 UTC`
+📆 Last Updated: `2023-03-29 12:19:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
-| 2 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
+| 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
+| 2 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
 | 3 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
 | 4 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
-| 5 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
-| 6 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 7 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 5 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 6 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
+| 7 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
 | 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 9 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
 | 10 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
 | 11 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 12 | [Blackpink](http://twitter.com/search?q=Blackpink) | Blackpink is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name "Blackpink" is a combination of the words "black" and "pink," which symbolizes the group's duality of both powerful and sweet elements. |
-| 13 | [Picsou Magazine](http://twitter.com/search?q=Picsou+Magazine) | N/A |
+| 12 | [Corée du Nord](http://twitter.com/search?q=Cor%c3%a9e+du+Nord) | N/A |
+| 13 | [Picsou](http://twitter.com/search?q=Picsou) | N/A |
 | 14 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 15 | [Bakambu](http://twitter.com/search?q=Bakambu) | N/A |
-| 16 | [Frédéric Lefebvre](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric+Lefebvre) | N/A |
-| 17 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 16 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 17 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
 | 18 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
-| 19 | [Kale](http://twitter.com/search?q=Kale) | N/A |
-| 20 | [Winston Scott](http://twitter.com/search?q=Winston+Scott) | N/A |
-| 21 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 19 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 20 | [Mickey](http://twitter.com/search?q=Mickey) | N/A |
+| 21 | [Winston Scott](http://twitter.com/search?q=Winston+Scott) | N/A |
 | 22 | [Valls](http://twitter.com/search?q=Valls) | N/A |
-| 23 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 24 | [Dans Pif](http://twitter.com/search?q=Dans+Pif) | N/A |
-| 25 | [boufal](http://twitter.com/search?q=boufal) | N/A |
-| 26 | [Mickey](http://twitter.com/search?q=Mickey) | N/A |
-| 27 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 28 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
-| 29 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
-| 30 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 31 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 32 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 33 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 34 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
-| 35 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 36 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 37 | [Staline](http://twitter.com/search?q=Staline) | N/A |
-| 38 | [En France](http://twitter.com/search?q=En+France) | N/A |
-| 39 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 40 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 41 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 42 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 43 | [Namibie](http://twitter.com/search?q=Namibie) | N/A |
-| 44 | [Alan Rickman](http://twitter.com/search?q=Alan+Rickman) | N/A |
-| 45 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 46 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 47 | [SMUR](http://twitter.com/search?q=SMUR) | N/A |
-| 48 | [Pif Magazine](http://twitter.com/search?q=Pif+Magazine) | N/A |
-| 49 | [Raclette](http://twitter.com/search?q=Raclette) | N/A |
-| 50 | [Micromania](http://twitter.com/search?q=Micromania) | N/A |
+| 23 | [Frédéric Lefebvre](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric+Lefebvre) | N/A |
+| 24 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
+| 25 | [luther](http://twitter.com/search?q=luther) | N/A |
+| 26 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 27 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
+| 28 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 29 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 30 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
+| 31 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 32 | [Staline](http://twitter.com/search?q=Staline) | N/A |
+| 33 | [Streisand](http://twitter.com/search?q=Streisand) | N/A |
+| 34 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 35 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 36 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 37 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 38 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
+| 39 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 40 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 41 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 42 | [Dans Pif](http://twitter.com/search?q=Dans+Pif) | N/A |
+| 43 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 44 | [SMUR](http://twitter.com/search?q=SMUR) | N/A |
+| 45 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 46 | [GIFI](http://twitter.com/search?q=GIFI) | N/A |
+| 47 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 48 | [xanax](http://twitter.com/search?q=xanax) | N/A |
+| 49 | [Alan Rickman](http://twitter.com/search?q=Alan+Rickman) | N/A |
+| 50 | [Mazraoui](http://twitter.com/search?q=Mazraoui) | N/A |
 
 
 

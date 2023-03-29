@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-29 11:17:04 UTC`
+📆 Last Updated: `2023-03-29 12:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [erick thohir ke fifa](http://twitter.com/search?q=erick+thohir+ke+fifa) | N/A |
-| 2 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
-| 3 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
-| 4 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
-| 5 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
+| 1 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
+| 2 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
+| 3 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
+| 4 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
+| 5 | [#LaneigexNanonMark](http://twitter.com/search?q=%23LaneigexNanonMark) | N/A |
 | 6 | [#DavidAnakKitaSemua](http://twitter.com/search?q=%23DavidAnakKitaSemua) | N/A |
 | 7 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
-| 8 | [#U20HarusJadi](http://twitter.com/search?q=%23U20HarusJadi) | N/A |
-| 9 | [Piala](http://twitter.com/search?q=Piala) | N/A |
-| 10 | [CAT 4A](http://twitter.com/search?q=CAT+4A) | N/A |
+| 8 | [Pak Mahfud](http://twitter.com/search?q=Pak+Mahfud) | N/A |
+| 9 | [CAT 5A](http://twitter.com/search?q=CAT+5A) | N/A |
+| 10 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
 | 11 | [Haerin](http://twitter.com/search?q=Haerin) | N/A |
-| 12 | [Ketua Umum PSSI](http://twitter.com/search?q=Ketua+Umum+PSSI) | N/A |
-| 13 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 14 | [Ahmad Dhani](http://twitter.com/search?q=Ahmad+Dhani) | N/A |
+| 12 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
+| 13 | [Pak Erick Thohir](http://twitter.com/search?q=Pak+Erick+Thohir) | N/A |
+| 14 | [OPPO A78 5G](http://twitter.com/search?q=OPPO+A78+5G) | N/A |
 | 15 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
-| 16 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 17 | [Sepuh](http://twitter.com/search?q=Sepuh) | N/A |
-| 18 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
-| 19 | [Dita](http://twitter.com/search?q=Dita) | N/A |
-| 20 | [Presiden Joko Widodo](http://twitter.com/search?q=Presiden+Joko+Widodo) | N/A |
-| 21 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
-| 22 | [mahfud md](http://twitter.com/search?q=mahfud+md) | N/A |
-| 23 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 24 | [Dukung](http://twitter.com/search?q=Dukung) | N/A |
-| 25 | [Pak Jokowi](http://twitter.com/search?q=Pak+Jokowi) | N/A |
-| 26 | [#KamiBersamaET](http://twitter.com/search?q=%23KamiBersamaET) | N/A |
-| 27 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
-| 28 | [#PeShan](http://twitter.com/search?q=%23PeShan) | N/A |
-| 29 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
-| 30 | [#케플러와_Giddy한_멘파타임](http://twitter.com/search?q=%23%ec%bc%80%ed%94%8c%eb%9f%ac%ec%99%80_Giddy%ed%95%9c_%eb%a9%98%ed%8c%8c%ed%83%80%ec%9e%84) | N/A |
-| 31 | [#RimowaXGulf](http://twitter.com/search?q=%23RimowaXGulf) | N/A |
-| 32 | [#BaiknyaRamadan](http://twitter.com/search?q=%23BaiknyaRamadan) | N/A |
-| 33 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
-| 34 | [#Ashelpm](http://twitter.com/search?q=%23Ashelpm) | N/A |
-| 35 | [#OPPOA785GdiShopee](http://twitter.com/search?q=%23OPPOA785GdiShopee) | N/A |
-| 36 | [#GAnyaAshelytic](http://twitter.com/search?q=%23GAnyaAshelytic) | N/A |
-| 37 | [#LinkAjaXJaringanPrima](http://twitter.com/search?q=%23LinkAjaXJaringanPrima) | N/A |
-| 38 | [#NgabuburitBarengMinto](http://twitter.com/search?q=%23NgabuburitBarengMinto) | N/A |
-| 39 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 16 | [1 SD](http://twitter.com/search?q=1+SD) | N/A |
+| 17 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 18 | [Piala](http://twitter.com/search?q=Piala) | N/A |
+| 19 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 20 | [Ketua Umum PSSI](http://twitter.com/search?q=Ketua+Umum+PSSI) | N/A |
+| 21 | [Ahmad Dhani](http://twitter.com/search?q=Ahmad+Dhani) | N/A |
+| 22 | [Dita](http://twitter.com/search?q=Dita) | N/A |
+| 23 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 24 | [Sepuh](http://twitter.com/search?q=Sepuh) | N/A |
+| 25 | [Ketum PSSI](http://twitter.com/search?q=Ketum+PSSI) | N/A |
+| 26 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 27 | [Dukung](http://twitter.com/search?q=Dukung) | N/A |
+| 28 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
+| 29 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 30 | [Presiden Joko Widodo](http://twitter.com/search?q=Presiden+Joko+Widodo) | N/A |
+| 31 | [#XLGames](http://twitter.com/search?q=%23XLGames) | N/A |
+| 32 | [#U20HarusJadi](http://twitter.com/search?q=%23U20HarusJadi) | N/A |
+| 33 | [#KamiBersamaET](http://twitter.com/search?q=%23KamiBersamaET) | N/A |
+| 34 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 35 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
+| 36 | [#kafsakafsi](http://twitter.com/search?q=%23kafsakafsi) | N/A |
+| 37 | [#PeShan](http://twitter.com/search?q=%23PeShan) | N/A |
+| 38 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
+| 39 | [#GAnyaAshelytic](http://twitter.com/search?q=%23GAnyaAshelytic) | N/A |
+| 40 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
+| 41 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 42 | [#NgabuburitBarengMinto](http://twitter.com/search?q=%23NgabuburitBarengMinto) | N/A |
 
 
 

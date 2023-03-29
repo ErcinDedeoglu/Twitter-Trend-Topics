@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-29 11:17:18 UTC`
+📆 Last Updated: `2023-03-29 12:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JayJagannath](http://twitter.com/search?q=%23JayJagannath) | N/A |
-| 2 | [#UtsavPradesh](http://twitter.com/search?q=%23UtsavPradesh) | N/A |
+| 1 | [#AskBholaa](http://twitter.com/search?q=%23AskBholaa) | N/A |
+| 2 | [#JayJagannath](http://twitter.com/search?q=%23JayJagannath) | N/A |
 | 3 | [SRK KA BAAP KOHLI](http://twitter.com/search?q=SRK+KA+BAAP+KOHLI) | N/A |
 | 4 | [DESHDROHI VIRAT CHOKLI](http://twitter.com/search?q=DESHDROHI+VIRAT+CHOKLI) | N/A |
 | 5 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
 | 6 | [KOHLI KA BAAP SRK](http://twitter.com/search?q=KOHLI+KA+BAAP+SRK) | N/A |
-| 7 | [NPCI](http://twitter.com/search?q=NPCI) | N/A |
-| 8 | [SRKIANS KA MOOT KOHLI](http://twitter.com/search?q=SRKIANS+KA+MOOT+KOHLI) | N/A |
-| 9 | [गिरीश बापट](http://twitter.com/search?q=%e0%a4%97%e0%a4%bf%e0%a4%b0%e0%a5%80%e0%a4%b6+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a4%9f) | N/A |
-| 10 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 11 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 12 | [Summit for Democracy](http://twitter.com/search?q=Summit+for+Democracy) | N/A |
-| 13 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
-| 14 | [Rs 2,000](http://twitter.com/search?q=Rs+2%2c000) | N/A |
-| 15 | [श्री सुनील ओझा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%81%e0%a4%a8%e0%a5%80%e0%a4%b2+%e0%a4%93%e0%a4%9d%e0%a4%be) | N/A |
-| 16 | [Prepaid Payment Instruments](http://twitter.com/search?q=Prepaid+Payment+Instruments) | N/A |
-| 17 | [GAURI APNA HAKLA SAMBHAL](http://twitter.com/search?q=GAURI+APNA+HAKLA+SAMBHAL) | N/A |
+| 7 | [Summit for Democracy](http://twitter.com/search?q=Summit+for+Democracy) | N/A |
+| 8 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 9 | [NPCI](http://twitter.com/search?q=NPCI) | N/A |
+| 10 | [SRKIANS KA MOOT KOHLI](http://twitter.com/search?q=SRKIANS+KA+MOOT+KOHLI) | N/A |
+| 11 | [गिरीश बापट](http://twitter.com/search?q=%e0%a4%97%e0%a4%bf%e0%a4%b0%e0%a5%80%e0%a4%b6+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a4%9f) | N/A |
+| 12 | [Justice Joseph](http://twitter.com/search?q=Justice+Joseph) | N/A |
+| 13 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 14 | [Naveen Patnaik](http://twitter.com/search?q=Naveen+Patnaik) | N/A |
+| 15 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
+| 16 | [Karti](http://twitter.com/search?q=Karti) | N/A |
+| 17 | [गुजरात सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
 | 18 | [सम्राट अशोक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95) | N/A |
-| 19 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 20 | [RANGBAHARA OUT NOW](http://twitter.com/search?q=RANGBAHARA+OUT+NOW) | N/A |
-| 21 | [Namibia](http://twitter.com/search?q=Namibia) | N/A |
-| 22 | [कर्नाटक चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 23 | [Wallet](http://twitter.com/search?q=Wallet) | N/A |
-| 24 | [Merchants](http://twitter.com/search?q=Merchants) | N/A |
-| 25 | [मौर्य साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 26 | [डिजिटल इंडिया](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%9c%e0%a4%bf%e0%a4%9f%e0%a4%b2+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 27 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
-| 28 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 29 | [श्री दुर्गा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 30 | [मोहम्मद फैजल](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6+%e0%a4%ab%e0%a5%88%e0%a4%9c%e0%a4%b2) | N/A |
-| 31 | [इमरान प्रतापगढ़ी](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa%e0%a4%97%e0%a4%a2%e0%a4%bc%e0%a5%80) | N/A |
-| 32 | [तथागत बुद्ध](http://twitter.com/search?q=%e0%a4%a4%e0%a4%a5%e0%a4%be%e0%a4%97%e0%a4%a4+%e0%a4%ac%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
-| 33 | [फेक न्यूज़](http://twitter.com/search?q=%e0%a4%ab%e0%a5%87%e0%a4%95+%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9c%e0%a4%bc) | N/A |
-| 34 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 35 | [गौरी नारायणी](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a5%80) | N/A |
-| 36 | [अष्टम स्वरूप](http://twitter.com/search?q=%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 37 | [#कांग्रेसी_विचार_धारा_का_अंत](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a4%be_%e0%a4%95%e0%a4%be_%e0%a4%85%e0%a4%82%e0%a4%a4) | N/A |
-| 38 | [#TheNewShop](http://twitter.com/search?q=%23TheNewShop) | N/A |
-| 39 | [#BholaaInTheatresTomorrow](http://twitter.com/search?q=%23BholaaInTheatresTomorrow) | N/A |
-| 40 | [#News18RisingIndia](http://twitter.com/search?q=%23News18RisingIndia) | N/A |
-| 41 | [#UPIcharges](http://twitter.com/search?q=%23UPIcharges) | N/A |
-| 42 | [#PathuThalaTicketContest](http://twitter.com/search?q=%23PathuThalaTicketContest) | N/A |
-| 43 | [#NumaaniSongOutNow](http://twitter.com/search?q=%23NumaaniSongOutNow) | N/A |
-| 44 | [#KarnatakaElections2023](http://twitter.com/search?q=%23KarnatakaElections2023) | N/A |
-| 45 | [#RPSC_शर्म_करो](http://twitter.com/search?q=%23RPSC_%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 46 | [#KunoNationalPark](http://twitter.com/search?q=%23KunoNationalPark) | N/A |
-| 47 | [#UPIPayments](http://twitter.com/search?q=%23UPIPayments) | N/A |
+| 19 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
+| 20 | [सुनील ओझा](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a8%e0%a5%80%e0%a4%b2+%e0%a4%93%e0%a4%9d%e0%a4%be) | N/A |
+| 21 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 22 | [Namibia](http://twitter.com/search?q=Namibia) | N/A |
+| 23 | [Rs 2000](http://twitter.com/search?q=Rs+2000) | N/A |
+| 24 | [Prepaid Payment Instruments](http://twitter.com/search?q=Prepaid+Payment+Instruments) | N/A |
+| 25 | [RANGBAHARA OUT NOW](http://twitter.com/search?q=RANGBAHARA+OUT+NOW) | N/A |
+| 26 | [Ajay](http://twitter.com/search?q=Ajay) | N/A |
+| 27 | [कर्नाटक चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 28 | [Wallet](http://twitter.com/search?q=Wallet) | N/A |
+| 29 | [Praying](http://twitter.com/search?q=Praying) | Praying is the act of communicating with a higher power, such as God, in order to express gratitude, ask for guidance, or seek forgiveness. It is an important part of many religions and spiritual practices. |
+| 30 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 31 | [मौर्य साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 32 | [श्री दुर्गा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 33 | [मोहम्मद फैजल](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6+%e0%a4%ab%e0%a5%88%e0%a4%9c%e0%a4%b2) | N/A |
+| 34 | [इमरान प्रतापगढ़ी](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa%e0%a4%97%e0%a4%a2%e0%a4%bc%e0%a5%80) | N/A |
+| 35 | [Yogi ji](http://twitter.com/search?q=Yogi+ji) | N/A |
+| 36 | [तथागत बुद्ध](http://twitter.com/search?q=%e0%a4%a4%e0%a4%a5%e0%a4%be%e0%a4%97%e0%a4%a4+%e0%a4%ac%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
+| 37 | [Lion](http://twitter.com/search?q=Lion) | N/A |
+| 38 | [डिजिटल इंडिया](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%9c%e0%a4%bf%e0%a4%9f%e0%a4%b2+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 39 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 40 | [तमिलनाडु पुलिस](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 41 | [गौरी नारायणी](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a5%80) | N/A |
+| 42 | [अष्टम स्वरूप](http://twitter.com/search?q=%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 43 | [#સાથસહકારસેવા_100દિવસ](http://twitter.com/search?q=%23%e0%aa%b8%e0%aa%be%e0%aa%a5%e0%aa%b8%e0%aa%b9%e0%aa%95%e0%aa%be%e0%aa%b0%e0%aa%b8%e0%ab%87%e0%aa%b5%e0%aa%be_100%e0%aa%a6%e0%aa%bf%e0%aa%b5%e0%aa%b8) | N/A |
+| 44 | [#FaujiMelaInMP](http://twitter.com/search?q=%23FaujiMelaInMP) | N/A |
+| 45 | [#UtsavPradesh](http://twitter.com/search?q=%23UtsavPradesh) | N/A |
+| 46 | [#कांग्रेसी_विचार_धारा_का_अंत](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8%e0%a5%80_%e0%a4%b5%e0%a4%bf%e0%a4%9a%e0%a4%be%e0%a4%b0_%e0%a4%a7%e0%a4%be%e0%a4%b0%e0%a4%be_%e0%a4%95%e0%a4%be_%e0%a4%85%e0%a4%82%e0%a4%a4) | N/A |
+| 47 | [#News18RisingIndia](http://twitter.com/search?q=%23News18RisingIndia) | N/A |
 
 
 
