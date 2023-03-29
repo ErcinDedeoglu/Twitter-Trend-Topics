@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-29 06:17:46 UTC`
+📆 Last Updated: `2023-03-29 07:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Philippines
 | 7 | [#LIVENATIONPHBASTOS](http://twitter.com/search?q=%23LIVENATIONPHBASTOS) | N/A |
 | 8 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
 | 9 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 10 | [TOMORROW X TOGETHER](http://twitter.com/search?q=TOMORROW+X+TOGETHER) | N/A |
-| 11 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
-| 12 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 13 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
-| 14 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
-| 15 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
-| 16 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
-| 17 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
-| 18 | [HYUNGWON](http://twitter.com/search?q=HYUNGWON) | HYUNGWON is a Korean given name, typically used for males. It is composed of two characters: "Hyun" meaning "virtuous" and "Gwon" meaning "strong". In English, the name can be translated to mean "strong and virtuous". |
-| 19 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
-| 20 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
-| 21 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
-| 22 | [EXO LAY](http://twitter.com/search?q=EXO+LAY) | N/A |
-| 23 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 24 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 25 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 26 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
-| 27 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 28 | [WE LOVE YOU EXO](http://twitter.com/search?q=WE+LOVE+YOU+EXO) | N/A |
-| 29 | [V AS EMOJI](http://twitter.com/search?q=V+AS+EMOJI) | N/A |
-| 30 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 31 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 32 | [sulli](http://twitter.com/search?q=sulli) | N/A |
-| 33 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
-| 34 | [john lloyd](http://twitter.com/search?q=john+lloyd) | N/A |
-| 35 | [blonde jeno](http://twitter.com/search?q=blonde+jeno) | N/A |
-| 36 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
-| 37 | [Diet](http://twitter.com/search?q=Diet) | N/A |
-| 38 | [accepting christ and his words](http://twitter.com/search?q=accepting+christ+and+his+words) | N/A |
-| 39 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
-| 40 | [ced domingo](http://twitter.com/search?q=ced+domingo) | N/A |
-| 41 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 42 | [komchadluek idf](http://twitter.com/search?q=komchadluek+idf) | N/A |
-| 43 | [Rico Yan](http://twitter.com/search?q=Rico+Yan) | N/A |
-| 44 | [ggmoviesoon withdonny](http://twitter.com/search?q=ggmoviesoon+withdonny) | N/A |
-| 45 | [Stream TheWayYouLookAtMeMV](http://twitter.com/search?q=Stream+TheWayYouLookAtMeMV) | N/A |
-| 46 | [mama mary](http://twitter.com/search?q=mama+mary) | N/A |
-| 47 | [petrogazz](http://twitter.com/search?q=petrogazz) | N/A |
-| 48 | [Set 5](http://twitter.com/search?q=Set+5) | N/A |
-| 49 | [sabete](http://twitter.com/search?q=sabete) | N/A |
-| 50 | [aiah aming binibini](http://twitter.com/search?q=aiah+aming+binibini) | N/A |
+| 10 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
+| 11 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 12 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
+| 13 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
+| 14 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 15 | [TOMORROW X TOGETHER](http://twitter.com/search?q=TOMORROW+X+TOGETHER) | N/A |
+| 16 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
+| 17 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 18 | [Congrats F2](http://twitter.com/search?q=Congrats+F2) | N/A |
+| 19 | [chansoo](http://twitter.com/search?q=chansoo) | N/A |
+| 20 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
+| 21 | [WE LOVE YOU EXO](http://twitter.com/search?q=WE+LOVE+YOU+EXO) | N/A |
+| 22 | [day6](http://twitter.com/search?q=day6) | N/A |
+| 23 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 24 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 25 | [EXO LAY](http://twitter.com/search?q=EXO+LAY) | N/A |
+| 26 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
+| 27 | [$CHING](http://twitter.com/search?q=%24CHING) | N/A |
+| 28 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 29 | [sulli](http://twitter.com/search?q=sulli) | N/A |
+| 30 | [SAY LALISA DAY](http://twitter.com/search?q=SAY+LALISA+DAY) | N/A |
+| 31 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 32 | [blonde jeno](http://twitter.com/search?q=blonde+jeno) | N/A |
+| 33 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 34 | [accepting christ and his words](http://twitter.com/search?q=accepting+christ+and+his+words) | N/A |
+| 35 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
+| 36 | [john lloyd](http://twitter.com/search?q=john+lloyd) | N/A |
+| 37 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 38 | [ced domingo](http://twitter.com/search?q=ced+domingo) | N/A |
+| 39 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 40 | [komchadluek idf](http://twitter.com/search?q=komchadluek+idf) | N/A |
+| 41 | [ggmoviesoon withdonny](http://twitter.com/search?q=ggmoviesoon+withdonny) | N/A |
+| 42 | [petrogazz](http://twitter.com/search?q=petrogazz) | N/A |
+| 43 | [Set 5](http://twitter.com/search?q=Set+5) | N/A |
+| 44 | [V AS EMOJI](http://twitter.com/search?q=V+AS+EMOJI) | N/A |
+| 45 | [THE EMOJI](http://twitter.com/search?q=THE+EMOJI) | N/A |
+| 46 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 47 | [sabete](http://twitter.com/search?q=sabete) | N/A |
+| 48 | [mama mary](http://twitter.com/search?q=mama+mary) | N/A |
+| 49 | [aiah aming binibini](http://twitter.com/search?q=aiah+aming+binibini) | N/A |
+| 50 | [Stream TheWayYouLookAtMeMV](http://twitter.com/search?q=Stream+TheWayYouLookAtMeMV) | N/A |
 
 
 

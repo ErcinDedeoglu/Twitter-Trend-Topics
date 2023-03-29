@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-29 06:17:45 UTC`
+📆 Last Updated: `2023-03-29 07:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#polalb](http://twitter.com/search?q=%23polalb) | N/A |
-| 2 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
+| 1 | [#POLALB](http://twitter.com/search?q=%23POLALB) | N/A |
+| 2 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
 | 3 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 4 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
-| 5 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 6 | [#albpol](http://twitter.com/search?q=%23albpol) | N/A |
-| 7 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
-| 8 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 9 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 10 | [salamon](http://twitter.com/search?q=salamon) | N/A |
+| 4 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
+| 5 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 6 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 7 | [#albpol](http://twitter.com/search?q=%23albpol) | N/A |
+| 8 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 9 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 10 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
 | 11 | [karol świderski](http://twitter.com/search?q=karol+%c5%9bwiderski) | N/A |
-| 12 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 13 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 14 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
-| 15 | [Belki](http://twitter.com/search?q=Belki) | N/A |
-| 16 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
-| 17 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
-| 18 | [Julia Przyłębska](http://twitter.com/search?q=Julia+Przy%c5%82%c4%99bska) | N/A |
-| 19 | [Do 2035](http://twitter.com/search?q=Do+2035) | N/A |
-| 20 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
-| 21 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
+| 12 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 13 | [salamona](http://twitter.com/search?q=salamona) | N/A |
+| 14 | [Belki](http://twitter.com/search?q=Belki) | N/A |
+| 15 | [Do 2035](http://twitter.com/search?q=Do+2035) | N/A |
+| 16 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 17 | [Mielcu](http://twitter.com/search?q=Mielcu) | N/A |
+| 18 | [Konfederacji](http://twitter.com/search?q=Konfederacji) | N/A |
+| 19 | [Lichockiej](http://twitter.com/search?q=Lichockiej) | N/A |
+| 20 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 21 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
 | 22 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 23 | [Lichocka](http://twitter.com/search?q=Lichocka) | N/A |
-| 24 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 23 | [Albanią](http://twitter.com/search?q=Albani%c4%85) | N/A |
+| 24 | [Izraelu](http://twitter.com/search?q=Izraelu) | N/A |
 | 25 | [Rekolekcje](http://twitter.com/search?q=Rekolekcje) | N/A |
-| 26 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
-| 27 | [Białorusinów](http://twitter.com/search?q=Bia%c5%82orusin%c3%b3w) | N/A |
-| 28 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 29 | [Szkocja](http://twitter.com/search?q=Szkocja) | N/A |
-| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 31 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
-| 32 | [szkotów](http://twitter.com/search?q=szkot%c3%b3w) | N/A |
-| 33 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 34 | [adriena](http://twitter.com/search?q=adriena) | N/A |
-| 35 | [Michelin](http://twitter.com/search?q=Michelin) | N/A |
-| 36 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
-| 37 | [u-19](http://twitter.com/search?q=u-19) | N/A |
-| 38 | [Igrzyska](http://twitter.com/search?q=Igrzyska) | N/A |
-| 39 | [śnieg](http://twitter.com/search?q=%c5%9bnieg) | N/A |
-| 40 | [drop 4](http://twitter.com/search?q=drop+4) | N/A |
-| 41 | [NOWYCH](http://twitter.com/search?q=NOWYCH) | N/A |
-| 42 | [U-17](http://twitter.com/search?q=U-17) | N/A |
-| 43 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
-| 44 | [gramatyka](http://twitter.com/search?q=gramatyka) | N/A |
-| 45 | [ministrem](http://twitter.com/search?q=ministrem) | N/A |
-| 46 | [narodowym](http://twitter.com/search?q=narodowym) | N/A |
-| 47 | [Morawieckiego](http://twitter.com/search?q=Morawieckiego) | N/A |
-| 48 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
-| 49 | [sanah](http://twitter.com/search?q=sanah) | N/A |
-| 50 | [hiszpanią](http://twitter.com/search?q=hiszpani%c4%85) | N/A |
+| 26 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 27 | [Poręba](http://twitter.com/search?q=Por%c4%99ba) | N/A |
+| 28 | [Białorusinów](http://twitter.com/search?q=Bia%c5%82orusin%c3%b3w) | N/A |
+| 29 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 30 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 31 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 32 | [Środa](http://twitter.com/search?q=%c5%9aroda) | N/A |
+| 33 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 34 | [Szkocja](http://twitter.com/search?q=Szkocja) | N/A |
+| 35 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
+| 36 | [szkotów](http://twitter.com/search?q=szkot%c3%b3w) | N/A |
+| 37 | [adriena](http://twitter.com/search?q=adriena) | N/A |
+| 38 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 39 | [Izery](http://twitter.com/search?q=Izery) | N/A |
+| 40 | [NOWYCH](http://twitter.com/search?q=NOWYCH) | N/A |
+| 41 | [Nawzajem](http://twitter.com/search?q=Nawzajem) | N/A |
+| 42 | [śnieg](http://twitter.com/search?q=%c5%9bnieg) | N/A |
+| 43 | [Julia Przyłębska](http://twitter.com/search?q=Julia+Przy%c5%82%c4%99bska) | N/A |
+| 44 | [drop 4](http://twitter.com/search?q=drop+4) | N/A |
+| 45 | [U-17](http://twitter.com/search?q=U-17) | N/A |
+| 46 | [Rosję](http://twitter.com/search?q=Rosj%c4%99) | N/A |
+| 47 | [Igrzyska](http://twitter.com/search?q=Igrzyska) | N/A |
+| 48 | [ministrem](http://twitter.com/search?q=ministrem) | N/A |
+| 49 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
+| 50 | [sanah](http://twitter.com/search?q=sanah) | N/A |
 
 
 

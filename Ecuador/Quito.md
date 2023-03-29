@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-29 06:16:58 UTC`
+📆 Last Updated: `2023-03-29 07:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,26 +27,26 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 10 | [#ImbaburaDecidió](http://twitter.com/search?q=%23ImbaburaDecidi%c3%b3) | N/A |
 | 11 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 12 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
-| 13 | [Pradera](http://twitter.com/search?q=Pradera) | N/A |
-| 14 | [#latrixecdf](http://twitter.com/search?q=%23latrixecdf) | N/A |
-| 15 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 16 | [Teodoro Maldonado](http://twitter.com/search?q=Teodoro+Maldonado) | N/A |
-| 17 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
-| 18 | [Chimborazo](http://twitter.com/search?q=Chimborazo) | N/A |
-| 19 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 20 | [Grupo E](http://twitter.com/search?q=Grupo+E) | N/A |
-| 21 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
-| 22 | [#CruzadaPorLaGente](http://twitter.com/search?q=%23CruzadaPorLaGente) | N/A |
-| 23 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 24 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 25 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 26 | [#noreformaloes](http://twitter.com/search?q=%23noreformaloes) | N/A |
-| 27 | [Guaraní](http://twitter.com/search?q=Guaran%c3%ad) | N/A |
-| 28 | [Pacho](http://twitter.com/search?q=Pacho) | N/A |
-| 29 | [Marcelo Moreno Martins](http://twitter.com/search?q=Marcelo+Moreno+Martins) | N/A |
-| 30 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
-| 31 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 32 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
+| 13 | [#latrixecdf](http://twitter.com/search?q=%23latrixecdf) | N/A |
+| 14 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 15 | [Teodoro Maldonado](http://twitter.com/search?q=Teodoro+Maldonado) | N/A |
+| 16 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
+| 17 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 18 | [Grupo E](http://twitter.com/search?q=Grupo+E) | N/A |
+| 19 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
+| 20 | [La Pradera](http://twitter.com/search?q=La+Pradera) | N/A |
+| 21 | [#CruzadaPorLaGente](http://twitter.com/search?q=%23CruzadaPorLaGente) | N/A |
+| 22 | [danubio](http://twitter.com/search?q=danubio) | N/A |
+| 23 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 24 | [#noreformaloes](http://twitter.com/search?q=%23noreformaloes) | N/A |
+| 25 | [Guaraní](http://twitter.com/search?q=Guaran%c3%ad) | N/A |
+| 26 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 27 | [Pacho](http://twitter.com/search?q=Pacho) | N/A |
+| 28 | [Marcelo Moreno Martins](http://twitter.com/search?q=Marcelo+Moreno+Martins) | N/A |
+| 29 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 30 | [Chimborazo](http://twitter.com/search?q=Chimborazo) | N/A |
+| 31 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
+| 32 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
 | 33 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
 | 34 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
 | 35 | [Fecha 4](http://twitter.com/search?q=Fecha+4) | N/A |

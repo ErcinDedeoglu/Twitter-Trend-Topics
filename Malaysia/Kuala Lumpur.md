@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-29 06:17:18 UTC`
+📆 Last Updated: `2023-03-29 07:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
 | 2 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 3 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
-| 4 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
+| 3 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 4 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
 | 5 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
 | 6 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 7 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 8 | [Jeon Jungkook](http://twitter.com/search?q=Jeon+Jungkook) | N/A |
-| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 10 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 11 | [HYUNGWON](http://twitter.com/search?q=HYUNGWON) | HYUNGWON is a Korean given name, typically used for males. It is composed of two characters: "Hyun" meaning "virtuous" and "Gwon" meaning "strong". In English, the name can be translated to mean "strong and virtuous". |
-| 12 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 13 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 14 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 15 | [London](http://twitter.com/search?q=London) | N/A |
-| 16 | [Diana Danielle](http://twitter.com/search?q=Diana+Danielle) | N/A |
-| 17 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
-| 18 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 19 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 20 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 21 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 22 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 23 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 24 | [Farid Kamil](http://twitter.com/search?q=Farid+Kamil) | N/A |
-| 25 | [kitajaga](http://twitter.com/search?q=kitajaga) | N/A |
-| 26 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 27 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 28 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 29 | [MACC](http://twitter.com/search?q=MACC) | N/A |
-| 30 | [opendosm](http://twitter.com/search?q=opendosm) | N/A |
-| 31 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 32 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 33 | [Faisal Halim](http://twitter.com/search?q=Faisal+Halim) | N/A |
-| 34 | [Istanbul Aku Datang](http://twitter.com/search?q=Istanbul+Aku+Datang) | N/A |
-| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 36 | [Kitsch](http://twitter.com/search?q=Kitsch) | N/A |
-| 37 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 38 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 39 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 40 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 41 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 42 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 43 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 44 | [chaeyeon](http://twitter.com/search?q=chaeyeon) | N/A |
-| 45 | [Harris](http://twitter.com/search?q=Harris) | N/A |
-| 46 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 47 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 48 | [jooheon](http://twitter.com/search?q=jooheon) | N/A |
-| 49 | [kim doyoung](http://twitter.com/search?q=kim+doyoung) | N/A |
-| 50 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
+| 7 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 8 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 9 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 11 | [#아이린_생일축하_자신있나](http://twitter.com/search?q=%23%ec%95%84%ec%9d%b4%eb%a6%b0_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98_%ec%9e%90%ec%8b%a0%ec%9e%88%eb%82%98) | N/A |
+| 12 | [day6](http://twitter.com/search?q=day6) | N/A |
+| 13 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 14 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
+| 15 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 16 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 17 | [London](http://twitter.com/search?q=London) | N/A |
+| 18 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
+| 19 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
+| 20 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 21 | [Diana Danielle](http://twitter.com/search?q=Diana+Danielle) | N/A |
+| 22 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 23 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 24 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 25 | [Kim Jisoo](http://twitter.com/search?q=Kim+Jisoo) | N/A |
+| 26 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 27 | [kitajaga](http://twitter.com/search?q=kitajaga) | N/A |
+| 28 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 30 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 31 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 32 | [Farid Kamil](http://twitter.com/search?q=Farid+Kamil) | N/A |
+| 33 | [MACC](http://twitter.com/search?q=MACC) | N/A |
+| 34 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 35 | [opendosm](http://twitter.com/search?q=opendosm) | N/A |
+| 36 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 37 | [Istanbul Aku Datang](http://twitter.com/search?q=Istanbul+Aku+Datang) | N/A |
+| 38 | [Faisal Halim](http://twitter.com/search?q=Faisal+Halim) | N/A |
+| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 40 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 41 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 42 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
+| 43 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 44 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 45 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
+| 46 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
+| 47 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 48 | [chaeyeon](http://twitter.com/search?q=chaeyeon) | N/A |
+| 49 | [Harris](http://twitter.com/search?q=Harris) | N/A |
+| 50 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
 
 
 

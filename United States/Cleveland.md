@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-29 06:17:33 UTC`
+📆 Last Updated: `2023-03-29 07:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 2 | [Murray](http://twitter.com/search?q=Murray) | N/A |
 | 3 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 4 | [#Cavs](http://twitter.com/search?q=%23Cavs) | N/A |
-| 5 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 6 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 7 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 8 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 9 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 10 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
-| 11 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 12 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 13 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 14 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 15 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 16 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 17 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 18 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 19 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 20 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
-| 21 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 22 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 23 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 24 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 25 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 26 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
-| 27 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 28 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 4 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 5 | [#Cavs](http://twitter.com/search?q=%23Cavs) | N/A |
+| 6 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
+| 7 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 8 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 9 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 10 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 11 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 12 | [#MHA384](http://twitter.com/search?q=%23MHA384) | N/A |
+| 13 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 14 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 15 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 16 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 17 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 18 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 19 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 20 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 21 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 22 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 23 | [Rody](http://twitter.com/search?q=Rody) | N/A |
+| 24 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 25 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
+| 26 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 27 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
+| 28 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
 | 29 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 30 | [Collier](http://twitter.com/search?q=Collier) | N/A |
-| 31 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 32 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 30 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 31 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 32 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
 | 33 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 34 | [Larry Nance](http://twitter.com/search?q=Larry+Nance) | N/A |
-| 35 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 34 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
+| 35 | [Larry Nance](http://twitter.com/search?q=Larry+Nance) | N/A |
 | 36 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 37 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
-| 38 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
-| 39 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 40 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
-| 41 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
-| 42 | [HYUNGWON](http://twitter.com/search?q=HYUNGWON) | HYUNGWON is a Korean given name, typically used for males. It is composed of two characters: "Hyun" meaning "virtuous" and "Gwon" meaning "strong". In English, the name can be translated to mean "strong and virtuous". |
-| 43 | [Stephen Curry](http://twitter.com/search?q=Stephen+Curry) | N/A |
-| 44 | [Potapova](http://twitter.com/search?q=Potapova) | N/A |
-| 45 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 46 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
-| 47 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
-| 48 | [STUDIO CHOOM](http://twitter.com/search?q=STUDIO+CHOOM) | N/A |
-| 49 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 37 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
+| 38 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 39 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
+| 40 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
+| 41 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
+| 42 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 43 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 44 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 45 | [Potapova](http://twitter.com/search?q=Potapova) | N/A |
+| 46 | [hotch](http://twitter.com/search?q=hotch) | N/A |
+| 47 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 48 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
+| 49 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
 
 
 

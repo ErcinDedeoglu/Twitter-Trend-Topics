@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-29 06:17:41 UTC`
+📆 Last Updated: `2023-03-29 07:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,29 +41,29 @@ This is top 50 for Chile
 | 24 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
 | 25 | [INDH](http://twitter.com/search?q=INDH) | N/A |
 | 26 | [Quilpué](http://twitter.com/search?q=Quilpu%c3%a9) | N/A |
-| 27 | [Villa Alemana](http://twitter.com/search?q=Villa+Alemana) | N/A |
-| 28 | [#HijosDelDesierto](http://twitter.com/search?q=%23HijosDelDesierto) | N/A |
+| 27 | [#hijosdeldesierto](http://twitter.com/search?q=%23hijosdeldesierto) | N/A |
+| 28 | [Nain](http://twitter.com/search?q=Nain) | N/A |
 | 29 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 30 | [Desbordes](http://twitter.com/search?q=Desbordes) | N/A |
-| 31 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 30 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 31 | [Villa Alemana](http://twitter.com/search?q=Villa+Alemana) | N/A |
 | 32 | [Mendez](http://twitter.com/search?q=Mendez) | Mendez is a Spanish surname. It is derived from the Latin name Mendicius, which means "beggar". In English, it can be translated to mean "one who begs". |
 | 33 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
-| 34 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 35 | [Valdes](http://twitter.com/search?q=Valdes) | N/A |
-| 36 | [Brereton](http://twitter.com/search?q=Brereton) | N/A |
-| 37 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
-| 38 | [Emoji](http://twitter.com/search?q=Emoji) | N/A |
-| 39 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 40 | [Villa Francia](http://twitter.com/search?q=Villa+Francia) | N/A |
-| 41 | [Sargento](http://twitter.com/search?q=Sargento) | N/A |
-| 42 | [Renuncia CTM](http://twitter.com/search?q=Renuncia+CTM) | N/A |
-| 43 | [Suazo](http://twitter.com/search?q=Suazo) | N/A |
-| 44 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 45 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 46 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 47 | [Maripan](http://twitter.com/search?q=Maripan) | N/A |
-| 48 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
-| 49 | [Paulo Díaz](http://twitter.com/search?q=Paulo+D%c3%adaz) | N/A |
+| 34 | [Desbordes](http://twitter.com/search?q=Desbordes) | N/A |
+| 35 | [Día del Joven Combatiente](http://twitter.com/search?q=D%c3%ada+del+Joven+Combatiente) | N/A |
+| 36 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 37 | [Valdes](http://twitter.com/search?q=Valdes) | N/A |
+| 38 | [brereton](http://twitter.com/search?q=brereton) | N/A |
+| 39 | [Emoji](http://twitter.com/search?q=Emoji) | N/A |
+| 40 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 41 | [Villa Francia](http://twitter.com/search?q=Villa+Francia) | N/A |
+| 42 | [Sargento](http://twitter.com/search?q=Sargento) | N/A |
+| 43 | [Renuncia CTM](http://twitter.com/search?q=Renuncia+CTM) | N/A |
+| 44 | [Suazo](http://twitter.com/search?q=Suazo) | N/A |
+| 45 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 46 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 47 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 48 | [Maripan](http://twitter.com/search?q=Maripan) | N/A |
+| 49 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
 | 50 | [Salvador Allende](http://twitter.com/search?q=Salvador+Allende) | N/A |
 
 

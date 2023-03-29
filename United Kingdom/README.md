@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-29 06:17:47 UTC`
+📆 Last Updated: `2023-03-29 07:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,27 +17,35 @@ This is top 50 for United Kingdom
 | ------- | ------------ | ------------ |
 | 1 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
 | 2 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 3 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 4 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 3 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 4 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
 | 5 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
 | 6 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
 | 7 | [Buster](http://twitter.com/search?q=Buster) | N/A |
 | 8 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
-| 9 | [Olga](http://twitter.com/search?q=Olga) | N/A |
-| 10 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 11 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 12 | [Andre](http://twitter.com/search?q=Andre) | N/A |
-| 13 | [#teacher5oclockclub](http://twitter.com/search?q=%23teacher5oclockclub) | N/A |
-| 14 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 15 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 16 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
-| 17 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
-| 18 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 19 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 20 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 21 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 22 | [#NCTDREAMinLONDON](http://twitter.com/search?q=%23NCTDREAMinLONDON) | N/A |
-| 23 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 9 | [#pogdogs](http://twitter.com/search?q=%23pogdogs) | N/A |
+| 10 | [Olga](http://twitter.com/search?q=Olga) | N/A |
+| 11 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 12 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 13 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
+| 14 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 15 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 16 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 17 | [Big Breakfast](http://twitter.com/search?q=Big+Breakfast) | N/A |
+| 18 | [Andre](http://twitter.com/search?q=Andre) | N/A |
+| 19 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
+| 20 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 21 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 22 | [Devastating](http://twitter.com/search?q=Devastating) | N/A |
+| 23 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 24 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 25 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 26 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 27 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 28 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
+| 29 | [#ToriesOut265](http://twitter.com/search?q=%23ToriesOut265) | N/A |
+| 30 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
+| 31 | [#teacher5oclockclub](http://twitter.com/search?q=%23teacher5oclockclub) | N/A |
 
 
 

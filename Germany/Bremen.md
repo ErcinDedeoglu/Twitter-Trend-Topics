@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-29 06:17:05 UTC`
+📆 Last Updated: `2023-03-29 07:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
-| 2 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
-| 3 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 1 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
+| 2 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
+| 3 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
 | 4 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 5 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 5 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
 | 6 | [#cmtipp](http://twitter.com/search?q=%23cmtipp) | N/A |
-| 7 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 8 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 9 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 10 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 11 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 7 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 8 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 9 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 10 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 12 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 13 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 14 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 15 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
-| 16 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 17 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 18 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
-| 19 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 20 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 21 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 22 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 23 | [LKW-Maut](http://twitter.com/search?q=LKW-Maut) | N/A |
-| 24 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 25 | [Bergmann](http://twitter.com/search?q=Bergmann) | N/A |
-| 26 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 27 | [Beschlüsse](http://twitter.com/search?q=Beschl%c3%bcsse) | N/A |
+| 13 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 14 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 15 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 16 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
+| 17 | [️Apotheke](http://twitter.com/search?q=%ef%b8%8fApotheke) | N/A |
+| 18 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 19 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
+| 20 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 21 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 22 | [Maut](http://twitter.com/search?q=Maut) | N/A |
+| 23 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 24 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 25 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
+| 26 | [Bergmann](http://twitter.com/search?q=Bergmann) | N/A |
+| 27 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
 | 28 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 29 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
-| 30 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
-| 31 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
-| 32 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 33 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 34 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 35 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 36 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 37 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
-| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 39 | [Hansi Flick](http://twitter.com/search?q=Hansi+Flick) | N/A |
-| 40 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 41 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 42 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
-| 43 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 44 | [Wachstumschancen](http://twitter.com/search?q=Wachstumschancen) | N/A |
-| 45 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 46 | [Robert Gallinowski](http://twitter.com/search?q=Robert+Gallinowski) | N/A |
-| 47 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 48 | [Streifen](http://twitter.com/search?q=Streifen) | N/A |
+| 29 | [Guten Morgen Kerstin](http://twitter.com/search?q=Guten+Morgen+Kerstin) | N/A |
+| 30 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 31 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 32 | [Ausgleichsflächen](http://twitter.com/search?q=Ausgleichsfl%c3%a4chen) | N/A |
+| 33 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 34 | [Beschlüsse](http://twitter.com/search?q=Beschl%c3%bcsse) | N/A |
+| 35 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 36 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 37 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 38 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 39 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 40 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 41 | [Hansi Flick](http://twitter.com/search?q=Hansi+Flick) | N/A |
+| 42 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 43 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
+| 44 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 46 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 47 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 48 | [Autobahnausbau](http://twitter.com/search?q=Autobahnausbau) | N/A |
 
 
 
