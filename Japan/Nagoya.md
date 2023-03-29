@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-03-29 10:17:13 UTC`
+📆 Last Updated: `2023-03-29 11:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [満開の桜](http://twitter.com/search?q=%e6%ba%80%e9%96%8b%e3%81%ae%e6%a1%9c) | N/A |
+| 1 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | カラフェス (Karafesu) is a Japanese term for a party or gathering that is held to celebrate a special occasion. It usually involves food, drinks, and entertainment. The word comes from the combination of two words: "kara" meaning empty and "fesu" meaning festival. In English, it can be translated as "empty festival". |
 | 2 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
-| 3 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
-| 4 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
-| 5 | [タイブレーク](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af) | N/A |
-| 6 | [#祝Tiger_MV1000万回再生](http://twitter.com/search?q=%23%e7%a5%9dTiger_MV1000%e4%b8%87%e5%9b%9e%e5%86%8d%e7%94%9f) | N/A |
-| 7 | [#Tiger_MV10M_Views](http://twitter.com/search?q=%23Tiger_MV10M_Views) | N/A |
-| 8 | [ゲリラ豪雨](http://twitter.com/search?q=%e3%82%b2%e3%83%aa%e3%83%a9%e8%b1%aa%e9%9b%a8) | N/A |
-| 9 | [ダークモード](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%af%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
-| 10 | [マンタロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%bf%e3%83%ad%e3%83%bc) | マンタロー is a Japanese phrase that literally translates to "manta ray". It is often used as a metaphor for someone who is very relaxed and laid-back. |
-| 11 | [#すのちゅーぶ](http://twitter.com/search?q=%23%e3%81%99%e3%81%ae%e3%81%a1%e3%82%85%e3%83%bc%e3%81%b6) | #すのちゅーぶ is a hashtag used on Twitter in Japan. It is a play on words, combining the Japanese words for "snow" (yuki) and "chuu" (a sound effect for a kiss). The hashtag roughly translates to "Snow Kiss". |
-| 12 | [#シン仮面ライダーみた](http://twitter.com/search?q=%23%e3%82%b7%e3%83%b3%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%81%bf%e3%81%9f) | N/A |
-| 13 | [Overdose 君](http://twitter.com/search?q=Overdose+%e5%90%9b) | N/A |
-| 14 | [RANOMAT](http://twitter.com/search?q=RANOMAT) | N/A |
-| 15 | [紅蓮の破魔矢](http://twitter.com/search?q=%e7%b4%85%e8%93%ae%e3%81%ae%e7%a0%b4%e9%ad%94%e7%9f%a2) | N/A |
-| 16 | [#有吉の壁](http://twitter.com/search?q=%23%e6%9c%89%e5%90%89%e3%81%ae%e5%a3%81) | #有吉の壁 is a Japanese phrase that literally translates to "Yoshimoto Wall". It is a term used to describe the barrier between celebrities and the public, created by the Japanese comedian Yoshimoto Kogyo. The phrase is used to refer to the strict rules and regulations that celebrities must abide by in order to maintain their public image. |
-| 17 | [甲子園の魔物](http://twitter.com/search?q=%e7%94%b2%e5%ad%90%e5%9c%92%e3%81%ae%e9%ad%94%e7%89%a9) | N/A |
-| 18 | [プリグラ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b0%e3%83%a9) | N/A |
-| 19 | [メーヴェ](http://twitter.com/search?q=%e3%83%a1%e3%83%bc%e3%83%b4%e3%82%a7) | N/A |
-| 20 | [はま寿司](http://twitter.com/search?q=%e3%81%af%e3%81%be%e5%af%bf%e5%8f%b8) | はま寿司 is a popular sushi chain in Japan. The name translates to "Hama Sushi" and refers to the fact that the restaurant specializes in Edomae-style sushi, which is made with fish caught in Tokyo Bay. The restaurant is known for its high-quality ingredients and reasonable prices. |
-| 21 | [向井康二](http://twitter.com/search?q=%e5%90%91%e4%ba%95%e5%ba%b7%e4%ba%8c) | N/A |
-| 22 | [肝ライフ](http://twitter.com/search?q=%e8%82%9d%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
-| 23 | [奈良岡朋子さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e6%9c%8b%e5%ad%90%e3%81%95%e3%82%93) | N/A |
-| 24 | [スヌーピー](http://twitter.com/search?q=%e3%82%b9%e3%83%8c%e3%83%bc%e3%83%94%e3%83%bc) | N/A |
-| 25 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
-| 26 | [当選確率2倍](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e7%8e%872%e5%80%8d) | N/A |
-| 27 | [写真付き応募](http://twitter.com/search?q=%e5%86%99%e7%9c%9f%e4%bb%98%e3%81%8d%e5%bf%9c%e5%8b%9f) | N/A |
-| 28 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
-| 29 | [サラダ煎餅](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%83%80%e7%85%8e%e9%a4%85) | N/A |
-| 30 | [横行の疑い](http://twitter.com/search?q=%e6%a8%aa%e8%a1%8c%e3%81%ae%e7%96%91%e3%81%84) | N/A |
-| 31 | [期限切れ寿司ネタ提供](http://twitter.com/search?q=%e6%9c%9f%e9%99%90%e5%88%87%e3%82%8c%e5%af%bf%e5%8f%b8%e3%83%8d%e3%82%bf%e6%8f%90%e4%be%9b) | N/A |
-| 32 | [Nスタさん](http://twitter.com/search?q=N%e3%82%b9%e3%82%bf%e3%81%95%e3%82%93) | N/A |
-| 33 | [現場写真入手](http://twitter.com/search?q=%e7%8f%be%e5%a0%b4%e5%86%99%e7%9c%9f%e5%85%a5%e6%89%8b) | N/A |
-| 34 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
-| 35 | [謎のシンガー](http://twitter.com/search?q=%e8%ac%8e%e3%81%ae%e3%82%b7%e3%83%b3%e3%82%ac%e3%83%bc) | N/A |
-| 36 | [スーパームック](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%a0%e3%83%83%e3%82%af) | スーパームック (Supermook) is a Japanese magazine that focuses on fashion, beauty, and lifestyle topics. It is published by Shogakukan and is aimed at young women. The magazine's name comes from the combination of the words "super" and "mook," which is short for "magazine book." |
-| 37 | [チャーショ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b7%e3%83%a7) | N/A |
-| 38 | [文春オンライン](http://twitter.com/search?q=%e6%96%87%e6%98%a5%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3) | N/A |
-| 39 | [八重洲ブックセンター](http://twitter.com/search?q=%e5%85%ab%e9%87%8d%e6%b4%b2%e3%83%96%e3%83%83%e3%82%af%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 40 | [遺体発見](http://twitter.com/search?q=%e9%81%ba%e4%bd%93%e7%99%ba%e8%a6%8b) | N/A |
-| 41 | [離島留学生](http://twitter.com/search?q=%e9%9b%a2%e5%b3%b6%e7%95%99%e5%ad%a6%e7%94%9f) | N/A |
-| 42 | [奈良岡さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e3%81%95%e3%82%93) | N/A |
-| 43 | [会計検査院](http://twitter.com/search?q=%e4%bc%9a%e8%a8%88%e6%a4%9c%e6%9f%bb%e9%99%a2) | N/A |
-| 44 | [蓬莱さん](http://twitter.com/search?q=%e8%93%ac%e8%8e%b1%e3%81%95%e3%82%93) | N/A |
-| 45 | [ブルーインパルス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
-| 46 | [サブチャンネル](http://twitter.com/search?q=%e3%82%b5%e3%83%96%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | N/A |
-| 47 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
-| 48 | [トリカラ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%82%ab%e3%83%a9) | トリカラ is a Japanese word that means "three-wheeler". It is used to refer to a vehicle with three wheels, such as a tricycle or a motorized three-wheeler. |
-| 49 | [スピッツ](http://twitter.com/search?q=%e3%82%b9%e3%83%94%e3%83%83%e3%83%84) | スピッツ (Spitz) is a Japanese rock band formed in Tokyo in 1988. The band's name is derived from the German word for "spitze", meaning "sharp" or "pointed". The band's music is characterized by its melodic, often upbeat sound and thoughtful lyrics. They have released over 20 albums and singles since their debut in 1988. |
+| 3 | [満開の桜](http://twitter.com/search?q=%e6%ba%80%e9%96%8b%e3%81%ae%e6%a1%9c) | N/A |
+| 4 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
+| 5 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
+| 6 | [#有吉の壁](http://twitter.com/search?q=%23%e6%9c%89%e5%90%89%e3%81%ae%e5%a3%81) | #有吉の壁 is a Japanese phrase that literally translates to "Yoshimoto Wall". It is a term used to describe the barrier between celebrities and the public, created by the Japanese comedian Yoshimoto Kogyo. The phrase is used to refer to the strict rules and regulations that celebrities must abide by in order to maintain their public image. |
+| 7 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
+| 8 | [タイブレーク](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af) | N/A |
+| 9 | [#中丸くんのTwitterライブ](http://twitter.com/search?q=%23%e4%b8%ad%e4%b8%b8%e3%81%8f%e3%82%93%e3%81%aeTwitter%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 10 | [#こよりホスト](http://twitter.com/search?q=%23%e3%81%93%e3%82%88%e3%82%8a%e3%83%9b%e3%82%b9%e3%83%88) | N/A |
+| 11 | [ゲリラ豪雨](http://twitter.com/search?q=%e3%82%b2%e3%83%aa%e3%83%a9%e8%b1%aa%e9%9b%a8) | N/A |
+| 12 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
+| 13 | [#祝Tiger_MV1000万回再生](http://twitter.com/search?q=%23%e7%a5%9dTiger_MV1000%e4%b8%87%e5%9b%9e%e5%86%8d%e7%94%9f) | N/A |
+| 14 | [ダークモード](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%af%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
+| 15 | [Overdose 君](http://twitter.com/search?q=Overdose+%e5%90%9b) | N/A |
+| 16 | [はま寿司](http://twitter.com/search?q=%e3%81%af%e3%81%be%e5%af%bf%e5%8f%b8) | はま寿司 is a popular sushi chain in Japan. The name translates to "Hama Sushi" and refers to the fact that the restaurant specializes in Edomae-style sushi, which is made with fish caught in Tokyo Bay. The restaurant is known for its high-quality ingredients and reasonable prices. |
+| 17 | [田んぼドクター](http://twitter.com/search?q=%e7%94%b0%e3%82%93%e3%81%bc%e3%83%89%e3%82%af%e3%82%bf%e3%83%bc) | N/A |
+| 18 | [紅蓮の破魔矢](http://twitter.com/search?q=%e7%b4%85%e8%93%ae%e3%81%ae%e7%a0%b4%e9%ad%94%e7%9f%a2) | N/A |
+| 19 | [マンタロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%bf%e3%83%ad%e3%83%bc) | マンタロー is a Japanese phrase that literally translates to "manta ray". It is often used as a metaphor for someone who is very relaxed and laid-back. |
+| 20 | [RANOMAT](http://twitter.com/search?q=RANOMAT) | N/A |
+| 21 | [蛮族の行為](http://twitter.com/search?q=%e8%9b%ae%e6%97%8f%e3%81%ae%e8%a1%8c%e7%82%ba) | N/A |
+| 22 | [甲子園の魔物](http://twitter.com/search?q=%e7%94%b2%e5%ad%90%e5%9c%92%e3%81%ae%e9%ad%94%e7%89%a9) | N/A |
+| 23 | [Nスタさん](http://twitter.com/search?q=N%e3%82%b9%e3%82%bf%e3%81%95%e3%82%93) | N/A |
+| 24 | [期限切れ寿司ネタ提供](http://twitter.com/search?q=%e6%9c%9f%e9%99%90%e5%88%87%e3%82%8c%e5%af%bf%e5%8f%b8%e3%83%8d%e3%82%bf%e6%8f%90%e4%be%9b) | N/A |
+| 25 | [横行の疑い](http://twitter.com/search?q=%e6%a8%aa%e8%a1%8c%e3%81%ae%e7%96%91%e3%81%84) | N/A |
+| 26 | [憲法学者](http://twitter.com/search?q=%e6%86%b2%e6%b3%95%e5%ad%a6%e8%80%85) | N/A |
+| 27 | [メーヴェ](http://twitter.com/search?q=%e3%83%a1%e3%83%bc%e3%83%b4%e3%82%a7) | N/A |
+| 28 | [プリグラ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b0%e3%83%a9) | N/A |
+| 29 | [現場写真入手](http://twitter.com/search?q=%e7%8f%be%e5%a0%b4%e5%86%99%e7%9c%9f%e5%85%a5%e6%89%8b) | N/A |
+| 30 | [キスキル](http://twitter.com/search?q=%e3%82%ad%e3%82%b9%e3%82%ad%e3%83%ab) | N/A |
+| 31 | [スヌーピー](http://twitter.com/search?q=%e3%82%b9%e3%83%8c%e3%83%bc%e3%83%94%e3%83%bc) | N/A |
+| 32 | [向井康二](http://twitter.com/search?q=%e5%90%91%e4%ba%95%e5%ba%b7%e4%ba%8c) | N/A |
+| 33 | [文春オンライン](http://twitter.com/search?q=%e6%96%87%e6%98%a5%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3) | N/A |
+| 34 | [肝ライフ](http://twitter.com/search?q=%e8%82%9d%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
+| 35 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
+| 36 | [当選確率2倍](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e7%8e%872%e5%80%8d) | N/A |
+| 37 | [写真付き応募](http://twitter.com/search?q=%e5%86%99%e7%9c%9f%e4%bb%98%e3%81%8d%e5%bf%9c%e5%8b%9f) | N/A |
+| 38 | [奈良岡朋子さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e6%9c%8b%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 39 | [サラダ煎餅](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%83%80%e7%85%8e%e9%a4%85) | N/A |
+| 40 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
+| 41 | [珠代姉さん](http://twitter.com/search?q=%e7%8f%a0%e4%bb%a3%e5%a7%89%e3%81%95%e3%82%93) | N/A |
+| 42 | [イタバシさん](http://twitter.com/search?q=%e3%82%a4%e3%82%bf%e3%83%90%e3%82%b7%e3%81%95%e3%82%93) | N/A |
+| 43 | [離島留学生](http://twitter.com/search?q=%e9%9b%a2%e5%b3%b6%e7%95%99%e5%ad%a6%e7%94%9f) | N/A |
+| 44 | [遺体発見](http://twitter.com/search?q=%e9%81%ba%e4%bd%93%e7%99%ba%e8%a6%8b) | N/A |
+| 45 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
+| 46 | [安仁屋算](http://twitter.com/search?q=%e5%ae%89%e4%bb%81%e5%b1%8b%e7%ae%97) | N/A |
+| 47 | [ダイナモ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8a%e3%83%a2) | ダイナモ (dynamo) is a device that converts mechanical energy into electrical energy. It is commonly used in bicycles to generate electricity for lights and other accessories. In English, the word dynamo can also refer to a person or thing that produces great amounts of energy or activity. |
+| 48 | [八重洲ブックセンター](http://twitter.com/search?q=%e5%85%ab%e9%87%8d%e6%b4%b2%e3%83%96%e3%83%83%e3%82%af%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 49 | [ラウドラバリア](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%83%89%e3%83%a9%e3%83%90%e3%83%aa%e3%82%a2) | N/A |
 | 50 | [報徳のセンター](http://twitter.com/search?q=%e5%a0%b1%e5%be%b3%e3%81%ae%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-03-29 10:16:53 UTC`
+📆 Last Updated: `2023-03-29 11:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 2 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 1 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
+| 2 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
 | 3 | [Scouse](http://twitter.com/search?q=Scouse) | N/A |
-| 4 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 5 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 6 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
-| 7 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
-| 8 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 9 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 10 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
-| 11 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
-| 12 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
-| 13 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 14 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 15 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 16 | [Premier League Hall of Fame](http://twitter.com/search?q=Premier+League+Hall+of+Fame) | N/A |
-| 17 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
-| 18 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
-| 19 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 20 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
-| 21 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 22 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 23 | [Ticketek](http://twitter.com/search?q=Ticketek) | N/A |
-| 24 | [Cardiff Rugby](http://twitter.com/search?q=Cardiff+Rugby) | N/A |
-| 25 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 26 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 27 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 28 | [Streeting](http://twitter.com/search?q=Streeting) | N/A |
-| 29 | [Peter Thomas](http://twitter.com/search?q=Peter+Thomas) | N/A |
-| 30 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
-| 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 32 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 4 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
+| 5 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
+| 6 | [#edtech](http://twitter.com/search?q=%23edtech) | N/A |
+| 7 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 8 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
+| 9 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 10 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 11 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 12 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 13 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 14 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 15 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 16 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 17 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
+| 18 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 19 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 20 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 21 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
+| 22 | [Premier League Hall of Fame](http://twitter.com/search?q=Premier+League+Hall+of+Fame) | N/A |
+| 23 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
+| 24 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
+| 25 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 26 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
+| 27 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 28 | [Ticketek](http://twitter.com/search?q=Ticketek) | N/A |
+| 29 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 30 | [Cardiff Rugby](http://twitter.com/search?q=Cardiff+Rugby) | N/A |
+| 31 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 32 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
 | 33 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 34 | [Miss Hannigan](http://twitter.com/search?q=Miss+Hannigan) | N/A |
-| 35 | [Maidenhead](http://twitter.com/search?q=Maidenhead) | N/A |
-| 36 | [Big Breakfast](http://twitter.com/search?q=Big+Breakfast) | N/A |
-| 37 | [Andre](http://twitter.com/search?q=Andre) | N/A |
-| 38 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 39 | [Rainbow Bridge](http://twitter.com/search?q=Rainbow+Bridge) | N/A |
-| 40 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 41 | [Shocked](http://twitter.com/search?q=Shocked) | N/A |
-| 42 | [Terribly](http://twitter.com/search?q=Terribly) | N/A |
-| 43 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 44 | [Devastating](http://twitter.com/search?q=Devastating) | N/A |
-| 45 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 46 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 47 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 48 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
-| 49 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 34 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
+| 35 | [Peter Thomas](http://twitter.com/search?q=Peter+Thomas) | N/A |
+| 36 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 37 | [Miss Hannigan](http://twitter.com/search?q=Miss+Hannigan) | N/A |
+| 38 | [National Treasure](http://twitter.com/search?q=National+Treasure) | N/A |
+| 39 | [Streeting](http://twitter.com/search?q=Streeting) | N/A |
+| 40 | [Big Breakfast](http://twitter.com/search?q=Big+Breakfast) | N/A |
+| 41 | [Andre](http://twitter.com/search?q=Andre) | N/A |
+| 42 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 43 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 44 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 45 | [Rainbow Bridge](http://twitter.com/search?q=Rainbow+Bridge) | N/A |
+| 46 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 47 | [Maidenhead](http://twitter.com/search?q=Maidenhead) | N/A |
+| 48 | [RAF Scampton](http://twitter.com/search?q=RAF+Scampton) | N/A |
+| 49 | [Terribly](http://twitter.com/search?q=Terribly) | N/A |
 
 
 

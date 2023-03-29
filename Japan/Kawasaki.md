@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-03-29 10:17:13 UTC`
+📆 Last Updated: `2023-03-29 11:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
-| 2 | [にわか雨](http://twitter.com/search?q=%e3%81%ab%e3%82%8f%e3%81%8b%e9%9b%a8) | N/A |
-| 3 | [#イマソラ](http://twitter.com/search?q=%23%e3%82%a4%e3%83%9e%e3%82%bd%e3%83%a9) | N/A |
-| 4 | [#tama954](http://twitter.com/search?q=%23tama954) | #Tama954 is a hashtag used by fans of the Japanese pop group Tama. It is used to show support for the group and to share content related to them. The number 954 is a reference to the year (1995) that the group was formed. |
-| 5 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
-| 6 | [バウアー](http://twitter.com/search?q=%e3%83%90%e3%82%a6%e3%82%a2%e3%83%bc) | バウアー (bauer) is a type of Japanese sake made from rice, water, and koji (a type of mold). It is a dry sake with a light flavor and is often served chilled. In English, it can be translated as "dry sake". |
-| 7 | [アルダン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%80%e3%83%b3) | N/A |
-| 8 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
-| 9 | [タイブレーク](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af) | N/A |
-| 10 | [#祝Tiger_MV1000万回再生](http://twitter.com/search?q=%23%e7%a5%9dTiger_MV1000%e4%b8%87%e5%9b%9e%e5%86%8d%e7%94%9f) | N/A |
-| 11 | [#Tiger_MV10M_Views](http://twitter.com/search?q=%23Tiger_MV10M_Views) | N/A |
-| 12 | [ゲリラ豪雨](http://twitter.com/search?q=%e3%82%b2%e3%83%aa%e3%83%a9%e8%b1%aa%e9%9b%a8) | N/A |
-| 13 | [ダークモード](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%af%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
-| 14 | [マンタロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%bf%e3%83%ad%e3%83%bc) | マンタロー is a Japanese phrase that literally translates to "manta ray". It is often used as a metaphor for someone who is very relaxed and laid-back. |
-| 15 | [Overdose 君](http://twitter.com/search?q=Overdose+%e5%90%9b) | N/A |
-| 16 | [RANOMAT](http://twitter.com/search?q=RANOMAT) | N/A |
-| 17 | [紅蓮の破魔矢](http://twitter.com/search?q=%e7%b4%85%e8%93%ae%e3%81%ae%e7%a0%b4%e9%ad%94%e7%9f%a2) | N/A |
-| 18 | [甲子園の魔物](http://twitter.com/search?q=%e7%94%b2%e5%ad%90%e5%9c%92%e3%81%ae%e9%ad%94%e7%89%a9) | N/A |
-| 19 | [プリグラ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b0%e3%83%a9) | N/A |
-| 20 | [メーヴェ](http://twitter.com/search?q=%e3%83%a1%e3%83%bc%e3%83%b4%e3%82%a7) | N/A |
-| 21 | [はま寿司](http://twitter.com/search?q=%e3%81%af%e3%81%be%e5%af%bf%e5%8f%b8) | はま寿司 is a popular sushi chain in Japan. The name translates to "Hama Sushi" and refers to the fact that the restaurant specializes in Edomae-style sushi, which is made with fish caught in Tokyo Bay. The restaurant is known for its high-quality ingredients and reasonable prices. |
-| 22 | [向井康二](http://twitter.com/search?q=%e5%90%91%e4%ba%95%e5%ba%b7%e4%ba%8c) | N/A |
-| 23 | [肝ライフ](http://twitter.com/search?q=%e8%82%9d%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
-| 24 | [奈良岡朋子さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e6%9c%8b%e5%ad%90%e3%81%95%e3%82%93) | N/A |
-| 25 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
-| 26 | [スヌーピー](http://twitter.com/search?q=%e3%82%b9%e3%83%8c%e3%83%bc%e3%83%94%e3%83%bc) | N/A |
-| 27 | [当選確率2倍](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e7%8e%872%e5%80%8d) | N/A |
-| 28 | [写真付き応募](http://twitter.com/search?q=%e5%86%99%e7%9c%9f%e4%bb%98%e3%81%8d%e5%bf%9c%e5%8b%9f) | N/A |
-| 29 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
-| 30 | [サラダ煎餅](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%83%80%e7%85%8e%e9%a4%85) | N/A |
-| 31 | [横行の疑い](http://twitter.com/search?q=%e6%a8%aa%e8%a1%8c%e3%81%ae%e7%96%91%e3%81%84) | N/A |
-| 32 | [期限切れ寿司ネタ提供](http://twitter.com/search?q=%e6%9c%9f%e9%99%90%e5%88%87%e3%82%8c%e5%af%bf%e5%8f%b8%e3%83%8d%e3%82%bf%e6%8f%90%e4%be%9b) | N/A |
-| 33 | [Nスタさん](http://twitter.com/search?q=N%e3%82%b9%e3%82%bf%e3%81%95%e3%82%93) | N/A |
-| 34 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
-| 35 | [現場写真入手](http://twitter.com/search?q=%e7%8f%be%e5%a0%b4%e5%86%99%e7%9c%9f%e5%85%a5%e6%89%8b) | N/A |
-| 36 | [謎のシンガー](http://twitter.com/search?q=%e8%ac%8e%e3%81%ae%e3%82%b7%e3%83%b3%e3%82%ac%e3%83%bc) | N/A |
-| 37 | [スーパームック](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%a0%e3%83%83%e3%82%af) | スーパームック (Supermook) is a Japanese magazine that focuses on fashion, beauty, and lifestyle topics. It is published by Shogakukan and is aimed at young women. The magazine's name comes from the combination of the words "super" and "mook," which is short for "magazine book." |
-| 38 | [チャーショ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b7%e3%83%a7) | N/A |
-| 39 | [文春オンライン](http://twitter.com/search?q=%e6%96%87%e6%98%a5%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3) | N/A |
-| 40 | [八重洲ブックセンター](http://twitter.com/search?q=%e5%85%ab%e9%87%8d%e6%b4%b2%e3%83%96%e3%83%83%e3%82%af%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 41 | [遺体発見](http://twitter.com/search?q=%e9%81%ba%e4%bd%93%e7%99%ba%e8%a6%8b) | N/A |
-| 42 | [離島留学生](http://twitter.com/search?q=%e9%9b%a2%e5%b3%b6%e7%95%99%e5%ad%a6%e7%94%9f) | N/A |
-| 43 | [奈良岡さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e3%81%95%e3%82%93) | N/A |
-| 44 | [会計検査院](http://twitter.com/search?q=%e4%bc%9a%e8%a8%88%e6%a4%9c%e6%9f%bb%e9%99%a2) | N/A |
-| 45 | [蓬莱さん](http://twitter.com/search?q=%e8%93%ac%e8%8e%b1%e3%81%95%e3%82%93) | N/A |
-| 46 | [ブルーインパルス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
-| 47 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
-| 48 | [サブチャンネル](http://twitter.com/search?q=%e3%82%b5%e3%83%96%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab) | N/A |
+| 1 | [ずぶ濡れ](http://twitter.com/search?q=%e3%81%9a%e3%81%b6%e6%bf%a1%e3%82%8c) | N/A |
+| 2 | [びしょ濡れ](http://twitter.com/search?q=%e3%81%b3%e3%81%97%e3%82%87%e6%bf%a1%e3%82%8c) | N/A |
+| 3 | [にわか雨](http://twitter.com/search?q=%e3%81%ab%e3%82%8f%e3%81%8b%e9%9b%a8) | N/A |
+| 4 | [#prime847](http://twitter.com/search?q=%23prime847) | N/A |
+| 5 | [スピッツ](http://twitter.com/search?q=%e3%82%b9%e3%83%94%e3%83%83%e3%83%84) | スピッツ (Spitz) is a Japanese rock band formed in Tokyo in 1988. The band's name is derived from the German word for "spitze", meaning "sharp" or "pointed". The band's music is characterized by its melodic, often upbeat sound and thoughtful lyrics. They have released over 20 albums and singles since their debut in 1988. |
+| 6 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
+| 7 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
+| 8 | [#イマソラ](http://twitter.com/search?q=%23%e3%82%a4%e3%83%9e%e3%82%bd%e3%83%a9) | N/A |
+| 9 | [#tama954](http://twitter.com/search?q=%23tama954) | #Tama954 is a hashtag used by fans of the Japanese pop group Tama. It is used to show support for the group and to share content related to them. The number 954 is a reference to the year (1995) that the group was formed. |
+| 10 | [アルダン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%80%e3%83%b3) | N/A |
+| 11 | [バウアー](http://twitter.com/search?q=%e3%83%90%e3%82%a6%e3%82%a2%e3%83%bc) | バウアー (bauer) is a type of Japanese sake made from rice, water, and koji (a type of mold). It is a dry sake with a light flavor and is often served chilled. In English, it can be translated as "dry sake". |
+| 12 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
+| 13 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
+| 14 | [#有吉の壁](http://twitter.com/search?q=%23%e6%9c%89%e5%90%89%e3%81%ae%e5%a3%81) | #有吉の壁 is a Japanese phrase that literally translates to "Yoshimoto Wall". It is a term used to describe the barrier between celebrities and the public, created by the Japanese comedian Yoshimoto Kogyo. The phrase is used to refer to the strict rules and regulations that celebrities must abide by in order to maintain their public image. |
+| 15 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
+| 16 | [タイブレーク](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af) | N/A |
+| 17 | [ゲリラ豪雨](http://twitter.com/search?q=%e3%82%b2%e3%83%aa%e3%83%a9%e8%b1%aa%e9%9b%a8) | N/A |
+| 18 | [ダークモード](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%af%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
+| 19 | [はま寿司](http://twitter.com/search?q=%e3%81%af%e3%81%be%e5%af%bf%e5%8f%b8) | はま寿司 is a popular sushi chain in Japan. The name translates to "Hama Sushi" and refers to the fact that the restaurant specializes in Edomae-style sushi, which is made with fish caught in Tokyo Bay. The restaurant is known for its high-quality ingredients and reasonable prices. |
+| 20 | [Overdose 君](http://twitter.com/search?q=Overdose+%e5%90%9b) | N/A |
+| 21 | [紅蓮の破魔矢](http://twitter.com/search?q=%e7%b4%85%e8%93%ae%e3%81%ae%e7%a0%b4%e9%ad%94%e7%9f%a2) | N/A |
+| 22 | [田んぼドクター](http://twitter.com/search?q=%e7%94%b0%e3%82%93%e3%81%bc%e3%83%89%e3%82%af%e3%82%bf%e3%83%bc) | N/A |
+| 23 | [マンタロー](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%bf%e3%83%ad%e3%83%bc) | マンタロー is a Japanese phrase that literally translates to "manta ray". It is often used as a metaphor for someone who is very relaxed and laid-back. |
+| 24 | [RANOMAT](http://twitter.com/search?q=RANOMAT) | N/A |
+| 25 | [蛮族の行為](http://twitter.com/search?q=%e8%9b%ae%e6%97%8f%e3%81%ae%e8%a1%8c%e7%82%ba) | N/A |
+| 26 | [甲子園の魔物](http://twitter.com/search?q=%e7%94%b2%e5%ad%90%e5%9c%92%e3%81%ae%e9%ad%94%e7%89%a9) | N/A |
+| 27 | [Nスタさん](http://twitter.com/search?q=N%e3%82%b9%e3%82%bf%e3%81%95%e3%82%93) | N/A |
+| 28 | [期限切れ寿司ネタ提供](http://twitter.com/search?q=%e6%9c%9f%e9%99%90%e5%88%87%e3%82%8c%e5%af%bf%e5%8f%b8%e3%83%8d%e3%82%bf%e6%8f%90%e4%be%9b) | N/A |
+| 29 | [横行の疑い](http://twitter.com/search?q=%e6%a8%aa%e8%a1%8c%e3%81%ae%e7%96%91%e3%81%84) | N/A |
+| 30 | [憲法学者](http://twitter.com/search?q=%e6%86%b2%e6%b3%95%e5%ad%a6%e8%80%85) | N/A |
+| 31 | [メーヴェ](http://twitter.com/search?q=%e3%83%a1%e3%83%bc%e3%83%b4%e3%82%a7) | N/A |
+| 32 | [プリグラ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b0%e3%83%a9) | N/A |
+| 33 | [現場写真入手](http://twitter.com/search?q=%e7%8f%be%e5%a0%b4%e5%86%99%e7%9c%9f%e5%85%a5%e6%89%8b) | N/A |
+| 34 | [キスキル](http://twitter.com/search?q=%e3%82%ad%e3%82%b9%e3%82%ad%e3%83%ab) | N/A |
+| 35 | [スヌーピー](http://twitter.com/search?q=%e3%82%b9%e3%83%8c%e3%83%bc%e3%83%94%e3%83%bc) | N/A |
+| 36 | [向井康二](http://twitter.com/search?q=%e5%90%91%e4%ba%95%e5%ba%b7%e4%ba%8c) | N/A |
+| 37 | [文春オンライン](http://twitter.com/search?q=%e6%96%87%e6%98%a5%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3) | N/A |
+| 38 | [肝ライフ](http://twitter.com/search?q=%e8%82%9d%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
+| 39 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
+| 40 | [当選確率2倍](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e7%8e%872%e5%80%8d) | N/A |
+| 41 | [写真付き応募](http://twitter.com/search?q=%e5%86%99%e7%9c%9f%e4%bb%98%e3%81%8d%e5%bf%9c%e5%8b%9f) | N/A |
+| 42 | [奈良岡朋子さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e6%9c%8b%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 43 | [サラダ煎餅](http://twitter.com/search?q=%e3%82%b5%e3%83%a9%e3%83%80%e7%85%8e%e9%a4%85) | N/A |
+| 44 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
+| 45 | [珠代姉さん](http://twitter.com/search?q=%e7%8f%a0%e4%bb%a3%e5%a7%89%e3%81%95%e3%82%93) | N/A |
+| 46 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
+| 47 | [離島留学生](http://twitter.com/search?q=%e9%9b%a2%e5%b3%b6%e7%95%99%e5%ad%a6%e7%94%9f) | N/A |
+| 48 | [遺体発見](http://twitter.com/search?q=%e9%81%ba%e4%bd%93%e7%99%ba%e8%a6%8b) | N/A |
 
 
 

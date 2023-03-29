@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-29 10:17:19 UTC`
+📆 Last Updated: `2023-03-29 11:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,51 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SheIsAPowerHouse](http://twitter.com/search?q=%23SheIsAPowerHouse) | N/A |
-| 2 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 1 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
+| 2 | [#SheIsAPowerHouse](http://twitter.com/search?q=%23SheIsAPowerHouse) | N/A |
 | 3 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 4 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
-| 5 | [Emeka Ihedioha](http://twitter.com/search?q=Emeka+Ihedioha) | N/A |
-| 6 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 7 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
-| 8 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
-| 9 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
-| 10 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 13 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 14 | [#PepsiKickOffShow](http://twitter.com/search?q=%23PepsiKickOffShow) | N/A |
-| 15 | [#WhereIsTinubu](http://twitter.com/search?q=%23WhereIsTinubu) | N/A |
-| 16 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
-| 17 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 18 | [Abuja Ronu](http://twitter.com/search?q=Abuja+Ronu) | N/A |
-| 19 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 20 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
-| 21 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 22 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 23 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
-| 24 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
-| 25 | [Mummy GO](http://twitter.com/search?q=Mummy+GO) | N/A |
-| 26 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 27 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
-| 28 | [Premier League Hall of Fame](http://twitter.com/search?q=Premier+League+Hall+of+Fame) | N/A |
-| 29 | [Salisu Yusuf](http://twitter.com/search?q=Salisu+Yusuf) | N/A |
-| 30 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
-| 31 | [Elele](http://twitter.com/search?q=Elele) | N/A |
-| 32 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 33 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 34 | [Elder](http://twitter.com/search?q=Elder) | N/A |
-| 35 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 36 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 37 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 38 | [Cashew](http://twitter.com/search?q=Cashew) | N/A |
-| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 40 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
-| 41 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 42 | [I ADVANCE BY GRACE](http://twitter.com/search?q=I+ADVANCE+BY+GRACE) | N/A |
-| 43 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 44 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 45 | [phyna is clear](http://twitter.com/search?q=phyna+is+clear) | N/A |
-| 46 | [Prof. Nnenna Oti](http://twitter.com/search?q=Prof.+Nnenna+Oti) | N/A |
-| 47 | [Blessing CEO](http://twitter.com/search?q=Blessing+CEO) | N/A |
-| 48 | [Wale Edun](http://twitter.com/search?q=Wale+Edun) | N/A |
-| 49 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 4 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
+| 5 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
+| 6 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
+| 7 | [Dayo Israel](http://twitter.com/search?q=Dayo+Israel) | N/A |
+| 8 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 9 | [#PepsiKickOffShow](http://twitter.com/search?q=%23PepsiKickOffShow) | N/A |
+| 10 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 11 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
+| 12 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 13 | [Abuja Ronu](http://twitter.com/search?q=Abuja+Ronu) | N/A |
+| 14 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
+| 15 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
+| 16 | [Daniel Regha](http://twitter.com/search?q=Daniel+Regha) | N/A |
+| 17 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 18 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
+| 19 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 20 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
+| 21 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 22 | [Emeka Ihedioha](http://twitter.com/search?q=Emeka+Ihedioha) | N/A |
+| 23 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
+| 24 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
+| 25 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 26 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 27 | [Gov Wike](http://twitter.com/search?q=Gov+Wike) | N/A |
+| 28 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
+| 29 | [Elders](http://twitter.com/search?q=Elders) | N/A |
+| 30 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
+| 31 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 32 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 33 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 34 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 35 | [NDLEA](http://twitter.com/search?q=NDLEA) | N/A |
+| 36 | [Federal Republic of Nigeria](http://twitter.com/search?q=Federal+Republic+of+Nigeria) | N/A |
+| 37 | [Imo State](http://twitter.com/search?q=Imo+State) | N/A |
+| 38 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
+| 39 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 40 | [Yahoo](http://twitter.com/search?q=Yahoo) | N/A |
+| 41 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
+| 42 | [#Messi𓃵](http://twitter.com/search?q=%23Messi%f0%93%83%b5) | N/A |
+| 43 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
+| 44 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 45 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 
 
 

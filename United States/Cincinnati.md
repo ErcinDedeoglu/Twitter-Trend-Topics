@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-03-29 10:17:32 UTC`
+📆 Last Updated: `2023-03-29 11:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,49 @@ This is top 50 for [United States](</United States>)
 | 3 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
 | 4 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
 | 5 | [#Cavs](http://twitter.com/search?q=%23Cavs) | N/A |
-| 6 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 7 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 8 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 9 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
-| 10 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 11 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 6 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 7 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 9 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 10 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 11 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 12 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 13 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 15 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 16 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 17 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 18 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 19 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 20 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 21 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 22 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 23 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 24 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
-| 25 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 26 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
-| 27 | [Zava](http://twitter.com/search?q=Zava) | N/A |
+| 13 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 14 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 15 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 16 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 17 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 18 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 19 | [Trans Day of Vengeance](http://twitter.com/search?q=Trans+Day+of+Vengeance) | N/A |
+| 20 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
+| 21 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 22 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 23 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 24 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 25 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 26 | [Robert Plant](http://twitter.com/search?q=Robert+Plant) | N/A |
+| 27 | [Pels](http://twitter.com/search?q=Pels) | N/A |
 | 28 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 29 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 30 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 31 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 32 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 33 | [hotch](http://twitter.com/search?q=hotch) | N/A |
-| 34 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
-| 35 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
-| 36 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 37 | [Stand By Me](http://twitter.com/search?q=Stand+By+Me) | N/A |
-| 38 | [Robert Plant](http://twitter.com/search?q=Robert+Plant) | N/A |
-| 39 | [Collier](http://twitter.com/search?q=Collier) | N/A |
-| 40 | [Vans](http://twitter.com/search?q=Vans) | N/A |
-| 41 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 42 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
-| 43 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
-| 44 | [Ohio River](http://twitter.com/search?q=Ohio+River) | N/A |
-| 45 | [Froggy](http://twitter.com/search?q=Froggy) | N/A |
-| 46 | [Safemoon](http://twitter.com/search?q=Safemoon) | N/A |
-| 47 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 48 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
-| 49 | [Gard](http://twitter.com/search?q=Gard) | N/A |
+| 29 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 30 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
+| 31 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 32 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 33 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
+| 34 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 35 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
+| 36 | [#Wordle648](http://twitter.com/search?q=%23Wordle648) | N/A |
+| 37 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
+| 38 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
+| 39 | [#waste](http://twitter.com/search?q=%23waste) | N/A |
+| 40 | [#JJK218](http://twitter.com/search?q=%23JJK218) | N/A |
+| 41 | [#MHA384](http://twitter.com/search?q=%23MHA384) | N/A |
+| 42 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
+| 43 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 44 | [#dubnation](http://twitter.com/search?q=%23dubnation) | N/A |
+| 45 | [#McDonaldsAllAmerican](http://twitter.com/search?q=%23McDonaldsAllAmerican) | N/A |
+| 46 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 47 | [#RESTRICTAct](http://twitter.com/search?q=%23RESTRICTAct) | N/A |
+| 48 | [#McDAAG](http://twitter.com/search?q=%23McDAAG) | N/A |
 
 
 

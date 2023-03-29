@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-29 10:17:25 UTC`
+📆 Last Updated: `2023-03-29 11:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#حق_صرف_پارلیمان_سے](http://twitter.com/search?q=%23%d8%ad%d9%82_%d8%b5%d8%b1%d9%81_%d9%be%d8%a7%d8%b1%d9%84%db%8c%d9%85%d8%a7%d9%86_%d8%b3%db%92) | N/A |
+| 1 | [#SoverignParliament](http://twitter.com/search?q=%23SoverignParliament) | N/A |
 | 2 | [#SoverignParliament](http://twitter.com/search?q=%23SoverignParliament) | N/A |
 | 3 | [#NationSupportsCJP](http://twitter.com/search?q=%23NationSupportsCJP) | N/A |
-| 4 | [#AdliyaKayLiyeBOL](http://twitter.com/search?q=%23AdliyaKayLiyeBOL) | N/A |
-| 5 | [#عدلیہ_کی_دشمن_ن_لیگ](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84%db%8c%db%81_%da%a9%db%8c_%d8%af%d8%b4%d9%85%d9%86_%d9%86_%d9%84%db%8c%da%af) | N/A |
-| 6 | [Kamran Khan](http://twitter.com/search?q=Kamran+Khan) | N/A |
+| 4 | [#عدلیہ_کی_دشمن_ن_لیگ](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84%db%8c%db%81_%da%a9%db%8c_%d8%af%d8%b4%d9%85%d9%86_%d9%86_%d9%84%db%8c%da%af) | N/A |
+| 5 | [#گھٹیا_بدزبان_راناتنویر](http://twitter.com/search?q=%23%da%af%da%be%d9%b9%db%8c%d8%a7_%d8%a8%d8%af%d8%b2%d8%a8%d8%a7%d9%86_%d8%b1%d8%a7%d9%86%d8%a7%d8%aa%d9%86%d9%88%db%8c%d8%b1) | N/A |
+| 6 | [Kamran](http://twitter.com/search?q=Kamran) | N/A |
 | 7 | [Rana Tanveer](http://twitter.com/search?q=Rana+Tanveer) | N/A |
 | 8 | [Jhagra](http://twitter.com/search?q=Jhagra) | N/A |
 | 9 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 | 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 11 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 12 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 13 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 14 | [PM Shehbaz Sharif](http://twitter.com/search?q=PM+Shehbaz+Sharif) | N/A |
-| 15 | [Article 191](http://twitter.com/search?q=Article+191) | N/A |
+| 11 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 12 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 13 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
+| 14 | [Article 191](http://twitter.com/search?q=Article+191) | N/A |
+| 15 | [FATF](http://twitter.com/search?q=FATF) | N/A |
 | 16 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
 | 17 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 18 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 19 | [Education Minister](http://twitter.com/search?q=Education+Minister) | N/A |
-| 20 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
-| 21 | [Filth](http://twitter.com/search?q=Filth) | N/A |
-| 22 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 23 | [Reema](http://twitter.com/search?q=Reema) | N/A |
-| 24 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 25 | [mother of ali](http://twitter.com/search?q=mother+of+ali) | N/A |
-| 26 | [khawaja asif](http://twitter.com/search?q=khawaja+asif) | N/A |
-| 27 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 28 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 29 | [Dr. Aafia Siddiqui](http://twitter.com/search?q=Dr.+Aafia+Siddiqui) | N/A |
+| 18 | [Filth](http://twitter.com/search?q=Filth) | N/A |
+| 19 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
+| 20 | [Education Minister](http://twitter.com/search?q=Education+Minister) | N/A |
+| 21 | [Education Minister](http://twitter.com/search?q=Education+Minister) | N/A |
+| 22 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 23 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 24 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 25 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 26 | [Reema](http://twitter.com/search?q=Reema) | N/A |
+| 27 | [mother of ali](http://twitter.com/search?q=mother+of+ali) | N/A |
+| 28 | [Khawaja Asif](http://twitter.com/search?q=Khawaja+Asif) | N/A |
+| 29 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
 | 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 31 | [U Turn](http://twitter.com/search?q=U+Turn) | N/A |
-| 32 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
-| 33 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
-| 34 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 35 | [Fatima bint e Asad](http://twitter.com/search?q=Fatima+bint+e+Asad) | N/A |
-| 36 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 37 | [abu talib](http://twitter.com/search?q=abu+talib) | N/A |
+| 31 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 32 | [Dr. Aafia Siddiqui](http://twitter.com/search?q=Dr.+Aafia+Siddiqui) | N/A |
+| 33 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 34 | [U Turn](http://twitter.com/search?q=U+Turn) | N/A |
+| 35 | [Army Chief](http://twitter.com/search?q=Army+Chief) | N/A |
+| 36 | [abu talib](http://twitter.com/search?q=abu+talib) | N/A |
+| 37 | [Fatima bint e Asad](http://twitter.com/search?q=Fatima+bint+e+Asad) | N/A |
 | 38 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 39 | [Wash](http://twitter.com/search?q=Wash) | N/A |
-| 40 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 41 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
-| 42 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 43 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 44 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 45 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 46 | [Foreign Minister](http://twitter.com/search?q=Foreign+Minister) | N/A |
-| 47 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 48 | [Chota](http://twitter.com/search?q=Chota) | N/A |
-| 49 | [Asim Munir](http://twitter.com/search?q=Asim+Munir) | N/A |
-| 50 | [Corrupt](http://twitter.com/search?q=Corrupt) | N/A |
+| 39 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 40 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 41 | [Wash](http://twitter.com/search?q=Wash) | N/A |
+| 42 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 43 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 44 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
+| 45 | [Fawad Khan](http://twitter.com/search?q=Fawad+Khan) | N/A |
+| 46 | [Practice and Procedure](http://twitter.com/search?q=Practice+and+Procedure) | N/A |
+| 47 | [Ambassador](http://twitter.com/search?q=Ambassador) | N/A |
+| 48 | [Asim Munir](http://twitter.com/search?q=Asim+Munir) | N/A |
+| 49 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 50 | [False](http://twitter.com/search?q=False) | N/A |
 
 
 

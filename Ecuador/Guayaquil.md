@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-29 10:16:58 UTC`
+📆 Last Updated: `2023-03-29 11:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 4 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
 | 5 | [la corte constitucional](http://twitter.com/search?q=la+corte+constitucional) | N/A |
 | 6 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
-| 7 | [#MuerteCruzada](http://twitter.com/search?q=%23MuerteCruzada) | N/A |
-| 8 | [#imbaburadecidió](http://twitter.com/search?q=%23imbaburadecidi%c3%b3) | N/A |
+| 7 | [#imbaburadecidió](http://twitter.com/search?q=%23imbaburadecidi%c3%b3) | N/A |
+| 8 | [#MuerteCruzada](http://twitter.com/search?q=%23MuerteCruzada) | N/A |
 | 9 | [Nathaly López](http://twitter.com/search?q=Nathaly+L%c3%b3pez) | N/A |
 | 10 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 | 11 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
 | 12 | [kevin rodríguez](http://twitter.com/search?q=kevin+rodr%c3%adguez) | N/A |
 | 13 | [#latrixecdf](http://twitter.com/search?q=%23latrixecdf) | N/A |
 | 14 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 15 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
-| 16 | [leonidas iza](http://twitter.com/search?q=leonidas+iza) | N/A |
+| 15 | [Pacho](http://twitter.com/search?q=Pacho) | N/A |
+| 16 | [La Posta](http://twitter.com/search?q=La+Posta) | N/A |
 | 17 | [Grupo E](http://twitter.com/search?q=Grupo+E) | N/A |
 | 18 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
-| 19 | [#cruzadaporlagente](http://twitter.com/search?q=%23cruzadaporlagente) | N/A |
+| 19 | [#noreformaloes](http://twitter.com/search?q=%23noreformaloes) | N/A |
 | 20 | [Danubio](http://twitter.com/search?q=Danubio) | N/A |
-| 21 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
-| 22 | [#noreformaloes](http://twitter.com/search?q=%23noreformaloes) | N/A |
-| 23 | [guaraní](http://twitter.com/search?q=guaran%c3%ad) | N/A |
-| 24 | [pacho](http://twitter.com/search?q=pacho) | N/A |
-| 25 | [Marcelo Moreno Martins](http://twitter.com/search?q=Marcelo+Moreno+Martins) | N/A |
+| 21 | [#cruzadaporlagente](http://twitter.com/search?q=%23cruzadaporlagente) | N/A |
+| 22 | [guaraní](http://twitter.com/search?q=guaran%c3%ad) | N/A |
+| 23 | [Sudamericana](http://twitter.com/search?q=Sudamericana) | N/A |
+| 24 | [Marcelo Moreno Martins](http://twitter.com/search?q=Marcelo+Moreno+Martins) | N/A |
+| 25 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
 | 26 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 27 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 28 | [Teodoro Maldonado](http://twitter.com/search?q=Teodoro+Maldonado) | N/A |
-| 29 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 30 | [Chimborazo](http://twitter.com/search?q=Chimborazo) | N/A |
-| 31 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
-| 32 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 33 | [FECHA 4](http://twitter.com/search?q=FECHA+4) | N/A |
-| 34 | [apuro](http://twitter.com/search?q=apuro) | N/A |
-| 35 | [junior sornoza](http://twitter.com/search?q=junior+sornoza) | N/A |
-| 36 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 37 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
-| 38 | [La Pradera](http://twitter.com/search?q=La+Pradera) | N/A |
+| 27 | [Teodoro Maldonado](http://twitter.com/search?q=Teodoro+Maldonado) | N/A |
+| 28 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 29 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
+| 30 | [FECHA 4](http://twitter.com/search?q=FECHA+4) | N/A |
+| 31 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 32 | [apuro](http://twitter.com/search?q=apuro) | N/A |
+| 33 | [vivanco](http://twitter.com/search?q=vivanco) | N/A |
+| 34 | [junior sornoza](http://twitter.com/search?q=junior+sornoza) | N/A |
+| 35 | [la pradera](http://twitter.com/search?q=la+pradera) | N/A |
+| 36 | [Indio](http://twitter.com/search?q=Indio) | N/A |
+| 37 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 38 | [con bustos](http://twitter.com/search?q=con+bustos) | N/A |
 | 39 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 40 | [con bustos](http://twitter.com/search?q=con+bustos) | N/A |
-| 41 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
-| 42 | [Veneco](http://twitter.com/search?q=Veneco) | N/A |
-| 43 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
-| 44 | [Indio](http://twitter.com/search?q=Indio) | N/A |
-| 45 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 46 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 47 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
-| 48 | [richard ortiz](http://twitter.com/search?q=richard+ortiz) | N/A |
-| 49 | [Gads](http://twitter.com/search?q=Gads) | N/A |
-| 50 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 40 | [veneco](http://twitter.com/search?q=veneco) | N/A |
+| 41 | [Bolivar](http://twitter.com/search?q=Bolivar) | N/A |
+| 42 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 43 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
+| 44 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 45 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 46 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 47 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 48 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 49 | [richard ortiz](http://twitter.com/search?q=richard+ortiz) | N/A |
+| 50 | [la peste](http://twitter.com/search?q=la+peste) | N/A |
 
 
 
