@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-29 12:18:37 UTC`
+📆 Last Updated: `2023-03-29 13:20:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#29Mar](http://twitter.com/search?q=%2329Mar) | N/A |
 | 2 | [#CastigoALosCorruptos](http://twitter.com/search?q=%23CastigoALosCorruptos) | N/A |
 | 3 | [#DuroContraLaCorrupción](http://twitter.com/search?q=%23DuroContraLaCorrupci%c3%b3n) | N/A |
-| 4 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
+| 4 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 5 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
 | 6 | [Negra Matea](http://twitter.com/search?q=Negra+Matea) | N/A |
 | 7 | [Puro](http://twitter.com/search?q=Puro) | N/A |
 | 8 | [Francisco de Miranda](http://twitter.com/search?q=Francisco+de+Miranda) | N/A |
-| 9 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
-| 10 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 11 | [#primerapagina](http://twitter.com/search?q=%23primerapagina) | N/A |
-| 12 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 13 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
-| 14 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 9 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 10 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
+| 11 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 12 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
+| 13 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 14 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 15 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 16 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 17 | [charles atlas](http://twitter.com/search?q=charles+atlas) | N/A |
-| 18 | [Alexander González](http://twitter.com/search?q=Alexander+Gonz%c3%a1lez) | N/A |
-| 19 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
-| 20 | [Susy](http://twitter.com/search?q=Susy) | N/A |
-| 21 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 22 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 23 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 24 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 25 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
-| 26 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
-| 27 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 28 | [Pdvsa-Cripto](http://twitter.com/search?q=Pdvsa-Cripto) | N/A |
-| 29 | [Feliz y Bendecido](http://twitter.com/search?q=Feliz+y+Bendecido) | N/A |
-| 30 | [Gemary](http://twitter.com/search?q=Gemary) | N/A |
-| 31 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 32 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 33 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
-| 34 | [mi vivienda san luis](http://twitter.com/search?q=mi+vivienda+san+luis) | N/A |
-| 35 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 16 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
+| 17 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 18 | [Libertador Simón Bolívar](http://twitter.com/search?q=Libertador+Sim%c3%b3n+Bol%c3%advar) | N/A |
+| 19 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
+| 20 | [Recibido](http://twitter.com/search?q=Recibido) | N/A |
+| 21 | [Esposados](http://twitter.com/search?q=Esposados) | N/A |
+| 22 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 23 | [Susy](http://twitter.com/search?q=Susy) | N/A |
+| 24 | [Carlitos González](http://twitter.com/search?q=Carlitos+Gonz%c3%a1lez) | N/A |
+| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 26 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 27 | [Hugbel Roa](http://twitter.com/search?q=Hugbel+Roa) | N/A |
+| 28 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
+| 29 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 30 | [PDVSA](http://twitter.com/search?q=PDVSA) | N/A |
+| 31 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
+| 32 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 33 | [álvaro pulido](http://twitter.com/search?q=%c3%a1lvaro+pulido) | N/A |
+| 34 | [Mi Vivienda San Luis](http://twitter.com/search?q=Mi+Vivienda+San+Luis) | N/A |
+| 35 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
 | 36 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 37 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 38 | [Me vs the Pokemon](http://twitter.com/search?q=Me+vs+the+Pokemon) | N/A |
+| 37 | [Me vs the Pokemon](http://twitter.com/search?q=Me+vs+the+Pokemon) | N/A |
+| 38 | [Helicoide](http://twitter.com/search?q=Helicoide) | N/A |
 | 39 | [Universal](http://twitter.com/search?q=Universal) | N/A |
-| 40 | [libertad plena](http://twitter.com/search?q=libertad+plena) | N/A |
-| 41 | [Andrés Giménez](http://twitter.com/search?q=Andr%c3%a9s+Gim%c3%a9nez) | N/A |
-| 42 | [Alí Rodríguez Araque](http://twitter.com/search?q=Al%c3%ad+Rodr%c3%adguez+Araque) | N/A |
-| 43 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
-| 44 | [alberto arvelo torrealba](http://twitter.com/search?q=alberto+arvelo+torrealba) | N/A |
-| 45 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 46 | [Galak](http://twitter.com/search?q=Galak) | N/A |
-| 47 | [día del patrimonio cultural](http://twitter.com/search?q=d%c3%ada+del+patrimonio+cultural) | N/A |
-| 48 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 49 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 40 | [Alí Rodríguez Araque](http://twitter.com/search?q=Al%c3%ad+Rodr%c3%adguez+Araque) | N/A |
+| 41 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
+| 42 | [alberto arvelo torrealba](http://twitter.com/search?q=alberto+arvelo+torrealba) | N/A |
+| 43 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 44 | [Andrés Giménez](http://twitter.com/search?q=Andr%c3%a9s+Gim%c3%a9nez) | N/A |
+| 45 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 46 | [día del patrimonio cultural](http://twitter.com/search?q=d%c3%ada+del+patrimonio+cultural) | N/A |
+| 47 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 48 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 49 | [Galak](http://twitter.com/search?q=Galak) | N/A |
 
 
 

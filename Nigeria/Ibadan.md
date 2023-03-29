@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-29 12:18:57 UTC`
+📆 Last Updated: `2023-03-29 13:20:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
-| 2 | [#SamsungGalaxyA34](http://twitter.com/search?q=%23SamsungGalaxyA34) | N/A |
-| 3 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
-| 4 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
-| 5 | [#SheIsAPowerHouse](http://twitter.com/search?q=%23SheIsAPowerHouse) | N/A |
-| 6 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
-| 7 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
+| 1 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
+| 2 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
+| 3 | [#SamsungGalaxyA34](http://twitter.com/search?q=%23SamsungGalaxyA34) | N/A |
+| 4 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
+| 5 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
+| 6 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
+| 7 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
 | 8 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
 | 9 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 10 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
+| 10 | [Money and Love](http://twitter.com/search?q=Money+and+Love) | N/A |
 | 11 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
-| 12 | [Abuja Ronu](http://twitter.com/search?q=Abuja+Ronu) | N/A |
-| 13 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
+| 12 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
+| 13 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
 | 14 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
 | 15 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
-| 16 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
-| 17 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 16 | [Abuja Ronu](http://twitter.com/search?q=Abuja+Ronu) | N/A |
+| 17 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
 | 18 | [Big Wiz](http://twitter.com/search?q=Big+Wiz) | Big Wiz is a slang term used to refer to someone who is very knowledgeable or wise. It can also be used to describe someone who is highly respected or influential. |
-| 19 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
-| 20 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 21 | [Daniel Regha](http://twitter.com/search?q=Daniel+Regha) | N/A |
-| 22 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 23 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
-| 24 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 25 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
-| 26 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
-| 27 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
-| 28 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 29 | [Elders](http://twitter.com/search?q=Elders) | N/A |
-| 30 | [Korty](http://twitter.com/search?q=Korty) | N/A |
-| 31 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 32 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
+| 19 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
+| 20 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 21 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
+| 22 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 23 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 24 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 25 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
+| 26 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 27 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 28 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
+| 29 | [Daniel Regha](http://twitter.com/search?q=Daniel+Regha) | N/A |
+| 30 | [Lagos Island](http://twitter.com/search?q=Lagos+Island) | N/A |
+| 31 | [Elders](http://twitter.com/search?q=Elders) | N/A |
+| 32 | [Korty](http://twitter.com/search?q=Korty) | N/A |
 | 33 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 34 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
-| 35 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 36 | [NDLEA](http://twitter.com/search?q=NDLEA) | N/A |
-| 37 | [Federal Republic of Nigeria](http://twitter.com/search?q=Federal+Republic+of+Nigeria) | N/A |
-| 38 | [Imo State](http://twitter.com/search?q=Imo+State) | N/A |
-| 39 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 40 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 41 | [Yahoo](http://twitter.com/search?q=Yahoo) | N/A |
-| 42 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 43 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 44 | [#moneyandlove](http://twitter.com/search?q=%23moneyandlove) | N/A |
-| 45 | [#PepsiKickOffShow](http://twitter.com/search?q=%23PepsiKickOffShow) | N/A |
-| 46 | [#Messi𓃵](http://twitter.com/search?q=%23Messi%f0%93%83%b5) | N/A |
-| 47 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
-| 48 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
-| 49 | [#Wizkid](http://twitter.com/search?q=%23Wizkid) | N/A |
+| 34 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 35 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
+| 36 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
+| 37 | [NDLEA](http://twitter.com/search?q=NDLEA) | N/A |
+| 38 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 39 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 40 | [Yahoo](http://twitter.com/search?q=Yahoo) | N/A |
+| 41 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
+| 42 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
+| 43 | [#SheIsAPowerHouse](http://twitter.com/search?q=%23SheIsAPowerHouse) | N/A |
+| 44 | [#MariaChike](http://twitter.com/search?q=%23MariaChike) | N/A |
+| 45 | [#Messi𓃵](http://twitter.com/search?q=%23Messi%f0%93%83%b5) | N/A |
+| 46 | [#PepsiKickOffShow](http://twitter.com/search?q=%23PepsiKickOffShow) | N/A |
+| 47 | [#Wizkid](http://twitter.com/search?q=%23Wizkid) | N/A |
+| 48 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
+| 49 | [#TinubuTheDrugLord](http://twitter.com/search?q=%23TinubuTheDrugLord) | N/A |
 
 
 

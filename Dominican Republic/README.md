@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-29 12:19:19 UTC`
+📆 Last Updated: `2023-03-29 13:21:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Dominican Republic
 | 4 | [blas durán](http://twitter.com/search?q=blas+dur%c3%a1n) | N/A |
 | 5 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
 | 6 | [Margarita](http://twitter.com/search?q=Margarita) | N/A |
-| 7 | [Omar Fernández](http://twitter.com/search?q=Omar+Fern%c3%a1ndez) | N/A |
-| 8 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
-| 9 | [queso](http://twitter.com/search?q=queso) | N/A |
+| 7 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
+| 8 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 9 | [Queso](http://twitter.com/search?q=Queso) | N/A |
 | 10 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
 | 11 | [cheddy](http://twitter.com/search?q=cheddy) | N/A |
 | 12 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 13 | [carlos durán](http://twitter.com/search?q=carlos+dur%c3%a1n) | N/A |
+| 13 | [Carlos Durán](http://twitter.com/search?q=Carlos+Dur%c3%a1n) | N/A |
 | 14 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 15 | [Carne](http://twitter.com/search?q=Carne) | N/A |
-| 16 | [mi vivienda san luis](http://twitter.com/search?q=mi+vivienda+san+luis) | N/A |
+| 15 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 16 | [Carne](http://twitter.com/search?q=Carne) | N/A |
 | 17 | [lisandro macarrulla](http://twitter.com/search?q=lisandro+macarrulla) | N/A |
-| 18 | [carlos alfredo](http://twitter.com/search?q=carlos+alfredo) | N/A |
-| 19 | [#felizmartes](http://twitter.com/search?q=%23felizmartes) | N/A |
-| 20 | [#Tiroteo](http://twitter.com/search?q=%23Tiroteo) | N/A |
-| 21 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 22 | [david de los santos](http://twitter.com/search?q=david+de+los+santos) | N/A |
-| 23 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 24 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
-| 25 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 18 | [Carlos Alfredo](http://twitter.com/search?q=Carlos+Alfredo) | N/A |
+| 19 | [Casabe](http://twitter.com/search?q=Casabe) | N/A |
+| 20 | [#felizmartes](http://twitter.com/search?q=%23felizmartes) | N/A |
+| 21 | [#tiroteo](http://twitter.com/search?q=%23tiroteo) | N/A |
+| 22 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 23 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 24 | [david de los santos](http://twitter.com/search?q=david+de+los+santos) | N/A |
+| 25 | [Tamayo](http://twitter.com/search?q=Tamayo) | Tamayo is a Spanish surname. It is derived from the Latin name Thomas, which means "twin". In English, it can be translated to mean "twin". |
 | 26 | [villa hermosa](http://twitter.com/search?q=villa+hermosa) | N/A |
-| 27 | [antoliano peralta](http://twitter.com/search?q=antoliano+peralta) | N/A |
+| 27 | [Antoliano Peralta](http://twitter.com/search?q=Antoliano+Peralta) | N/A |
 | 28 | [#devueltaalbarrio](http://twitter.com/search?q=%23devueltaalbarrio) | N/A |
 | 29 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
 | 30 | [Francisco Alberto Caamaño Deñó](http://twitter.com/search?q=Francisco+Alberto+Caama%c3%b1o+De%c3%b1%c3%b3) | N/A |
-| 31 | [Soto Jiménez](http://twitter.com/search?q=Soto+Jim%c3%a9nez) | N/A |
-| 32 | [Jehová](http://twitter.com/search?q=Jehov%c3%a1) | N/A |
-| 33 | [Medio Ambiente](http://twitter.com/search?q=Medio+Ambiente) | N/A |
-| 34 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 35 | [Procuradora](http://twitter.com/search?q=Procuradora) | N/A |
-| 36 | [#elcariberd](http://twitter.com/search?q=%23elcariberd) | N/A |
-| 37 | [Margo](http://twitter.com/search?q=Margo) | N/A |
-| 38 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 39 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 40 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
-| 41 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 42 | [bahoruco](http://twitter.com/search?q=bahoruco) | N/A |
-| 43 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
-| 44 | [Belice](http://twitter.com/search?q=Belice) | N/A |
-| 45 | [maría elvira salazar](http://twitter.com/search?q=mar%c3%ada+elvira+salazar) | N/A |
-| 46 | [sergio moya](http://twitter.com/search?q=sergio+moya) | N/A |
-| 47 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 48 | [Impunidad](http://twitter.com/search?q=Impunidad) | N/A |
-| 49 | [Mateo](http://twitter.com/search?q=Mateo) | N/A |
-| 50 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
+| 31 | [Medio Ambiente](http://twitter.com/search?q=Medio+Ambiente) | N/A |
+| 32 | [Soto Jiménez](http://twitter.com/search?q=Soto+Jim%c3%a9nez) | N/A |
+| 33 | [Jehová](http://twitter.com/search?q=Jehov%c3%a1) | N/A |
+| 34 | [#elcariberd](http://twitter.com/search?q=%23elcariberd) | N/A |
+| 35 | [Listín Diario](http://twitter.com/search?q=List%c3%adn+Diario) | N/A |
+| 36 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
+| 37 | [Margot](http://twitter.com/search?q=Margot) | N/A |
+| 38 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 39 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 40 | [Belice](http://twitter.com/search?q=Belice) | N/A |
+| 41 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
+| 42 | [San Souci](http://twitter.com/search?q=San+Souci) | N/A |
+| 43 | [Impunidad](http://twitter.com/search?q=Impunidad) | N/A |
+| 44 | [Mateo](http://twitter.com/search?q=Mateo) | N/A |
+| 45 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
+| 46 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 47 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
+| 48 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 49 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 50 | [Cero](http://twitter.com/search?q=Cero) | N/A |
 
 
 

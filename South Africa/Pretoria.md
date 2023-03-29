@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-29 12:18:59 UTC`
+📆 Last Updated: `2023-03-29 13:20:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [#ItCanBe](http://twitter.com/search?q=%23ItCanBe) | N/A |
 | 4 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
 | 5 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 6 | [#LoveWithCapitec](http://twitter.com/search?q=%23LoveWithCapitec) | N/A |
-| 7 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 8 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
+| 6 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 7 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
+| 8 | [#LoveWithCapitec](http://twitter.com/search?q=%23LoveWithCapitec) | N/A |
 | 9 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
 | 10 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
 | 11 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 12 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
-| 13 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
-| 14 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
-| 15 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 16 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 17 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
-| 18 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
-| 19 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 20 | [dear thabang](http://twitter.com/search?q=dear+thabang) | N/A |
-| 21 | [thabang meets tbangers](http://twitter.com/search?q=thabang+meets+tbangers) | N/A |
-| 22 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 23 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 24 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
-| 25 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
-| 26 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
-| 27 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
-| 28 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 29 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 30 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 31 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 32 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 33 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
-| 34 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
+| 13 | [YahYuppiYah](http://twitter.com/search?q=YahYuppiYah) | N/A |
+| 14 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
+| 15 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
+| 16 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 17 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 18 | [Eeque](http://twitter.com/search?q=Eeque) | N/A |
+| 19 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
+| 20 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
+| 21 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 22 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 23 | [dear thabang](http://twitter.com/search?q=dear+thabang) | N/A |
+| 24 | [thabang meets tbangers](http://twitter.com/search?q=thabang+meets+tbangers) | N/A |
+| 25 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 26 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 27 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 28 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 29 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 30 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
+| 31 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 32 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
+| 33 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
+| 34 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
 | 35 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 36 | [Skoroplaap](http://twitter.com/search?q=Skoroplaap) | N/A |
-| 37 | [Tap 2 Pay](http://twitter.com/search?q=Tap+2+Pay) | N/A |
-| 38 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 39 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
-| 40 | [fnb virtual card](http://twitter.com/search?q=fnb+virtual+card) | N/A |
+| 36 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
+| 37 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 38 | [Skoroplaap](http://twitter.com/search?q=Skoroplaap) | N/A |
+| 39 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 40 | [Sane](http://twitter.com/search?q=Sane) | N/A |
 | 41 | [Ronwen Williams](http://twitter.com/search?q=Ronwen+Williams) | N/A |
 | 42 | [Red Chilli](http://twitter.com/search?q=Red+Chilli) | N/A |
-| 43 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
-| 44 | [Broos](http://twitter.com/search?q=Broos) | N/A |
-| 45 | [Joburg](http://twitter.com/search?q=Joburg) | N/A |
+| 43 | [FNB Virtual Card](http://twitter.com/search?q=FNB+Virtual+Card) | N/A |
+| 44 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 45 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
 | 46 | [iZwide](http://twitter.com/search?q=iZwide) | N/A |
-| 47 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 48 | [Maela](http://twitter.com/search?q=Maela) | N/A |
-| 49 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 50 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 47 | [Maela](http://twitter.com/search?q=Maela) | N/A |
+| 48 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 49 | [Broos](http://twitter.com/search?q=Broos) | N/A |
+| 50 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 
 
 

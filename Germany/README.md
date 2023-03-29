@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-29 12:19:20 UTC`
+📆 Last Updated: `2023-03-29 13:21:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Germany
 | 5 | [Orden](http://twitter.com/search?q=Orden) | N/A |
 | 6 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
 | 7 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 8 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 8 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
 | 9 | [Haken](http://twitter.com/search?q=Haken) | N/A |
 | 10 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 11 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 12 | [#DankeWieler](http://twitter.com/search?q=%23DankeWieler) | N/A |
-| 13 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
+| 11 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 12 | [#CharlesIII](http://twitter.com/search?q=%23CharlesIII) | N/A |
+| 13 | [#DankeWieler](http://twitter.com/search?q=%23DankeWieler) | N/A |
 | 14 | [LKW-Maut](http://twitter.com/search?q=LKW-Maut) | N/A |
-| 15 | [#potm](http://twitter.com/search?q=%23potm) | N/A |
+| 15 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
 | 16 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
 | 17 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 18 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
-| 19 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 20 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
-| 21 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
-| 22 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 23 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
-| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 18 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 19 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 20 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
+| 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 22 | [Invalidenpark](http://twitter.com/search?q=Invalidenpark) | N/A |
+| 23 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 24 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 25 | [Sektoren](http://twitter.com/search?q=Sektoren) | N/A |
 | 26 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
-| 27 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 28 | [tradition als rb leipzig](http://twitter.com/search?q=tradition+als+rb+leipzig) | N/A |
-| 29 | [Hansi Flick](http://twitter.com/search?q=Hansi+Flick) | N/A |
-| 30 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
-| 31 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
-| 32 | [Armbinde](http://twitter.com/search?q=Armbinde) | N/A |
-| 33 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 27 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
+| 28 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 29 | [Sprudel](http://twitter.com/search?q=Sprudel) | N/A |
+| 30 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
+| 31 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
+| 32 | [Hansi Flick](http://twitter.com/search?q=Hansi+Flick) | N/A |
+| 33 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
 | 34 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 35 | [Ausgleichsflächen](http://twitter.com/search?q=Ausgleichsfl%c3%a4chen) | N/A |
-| 36 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 37 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 38 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
-| 39 | [Bülter](http://twitter.com/search?q=B%c3%bclter) | N/A |
-| 40 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
-| 41 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
-| 42 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 43 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 44 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
-| 45 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 46 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
-| 47 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 48 | [Auszeichnung](http://twitter.com/search?q=Auszeichnung) | N/A |
-| 49 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 50 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 35 | [Armbinde](http://twitter.com/search?q=Armbinde) | N/A |
+| 36 | [rudi völler](http://twitter.com/search?q=rudi+v%c3%b6ller) | N/A |
+| 37 | [Tradition als RB Leipzig](http://twitter.com/search?q=Tradition+als+RB+Leipzig) | N/A |
+| 38 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 39 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
+| 40 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 41 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
+| 42 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
+| 43 | [Entgleisung](http://twitter.com/search?q=Entgleisung) | N/A |
+| 44 | [Auszeichnung](http://twitter.com/search?q=Auszeichnung) | N/A |
+| 45 | [Bülter](http://twitter.com/search?q=B%c3%bclter) | N/A |
+| 46 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
+| 47 | [Naturschutz](http://twitter.com/search?q=Naturschutz) | N/A |
+| 48 | [Pro Controller](http://twitter.com/search?q=Pro+Controller) | N/A |
+| 49 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 50 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 
 
 

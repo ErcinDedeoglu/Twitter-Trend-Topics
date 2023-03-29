@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-03-29 12:18:49 UTC`
+📆 Last Updated: `2023-03-29 13:20:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,46 +21,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 4 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 5 | [NKRI](http://twitter.com/search?q=NKRI) | N/A |
 | 6 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
-| 7 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
-| 8 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
-| 9 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
-| 10 | [#LaneigexNanonMark](http://twitter.com/search?q=%23LaneigexNanonMark) | N/A |
-| 11 | [#DavidAnakKitaSemua](http://twitter.com/search?q=%23DavidAnakKitaSemua) | N/A |
-| 12 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
-| 13 | [Pak Mahfud](http://twitter.com/search?q=Pak+Mahfud) | N/A |
-| 14 | [CAT 5A](http://twitter.com/search?q=CAT+5A) | N/A |
-| 15 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 16 | [Haerin](http://twitter.com/search?q=Haerin) | N/A |
-| 17 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
+| 7 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
+| 8 | [#Lazada11yearcharity](http://twitter.com/search?q=%23Lazada11yearcharity) | N/A |
+| 9 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
+| 10 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
+| 11 | [ASN PPPK](http://twitter.com/search?q=ASN+PPPK) | N/A |
+| 12 | [Win x Lazada11Year](http://twitter.com/search?q=Win+x+Lazada11Year) | N/A |
+| 13 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
+| 14 | [Pak Mahfud](http://twitter.com/search?q=Pak+Mahfud) | N/A |
+| 15 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
+| 16 | [CAT 5A](http://twitter.com/search?q=CAT+5A) | N/A |
+| 17 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
 | 18 | [OPPO A78 5G](http://twitter.com/search?q=OPPO+A78+5G) | N/A |
-| 19 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
-| 20 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 21 | [1 SD](http://twitter.com/search?q=1+SD) | N/A |
-| 22 | [Piala](http://twitter.com/search?q=Piala) | N/A |
-| 23 | [Ketua Umum PSSI](http://twitter.com/search?q=Ketua+Umum+PSSI) | N/A |
-| 24 | [Ahmad Dhani](http://twitter.com/search?q=Ahmad+Dhani) | N/A |
-| 25 | [Dita](http://twitter.com/search?q=Dita) | N/A |
-| 26 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 27 | [Sepuh](http://twitter.com/search?q=Sepuh) | N/A |
-| 28 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 29 | [Ketum PSSI](http://twitter.com/search?q=Ketum+PSSI) | N/A |
-| 30 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
-| 31 | [Dukung](http://twitter.com/search?q=Dukung) | N/A |
-| 32 | [Kapolres](http://twitter.com/search?q=Kapolres) | N/A |
-| 33 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 34 | [Presiden Joko Widodo](http://twitter.com/search?q=Presiden+Joko+Widodo) | N/A |
-| 35 | [#XLGames](http://twitter.com/search?q=%23XLGames) | N/A |
-| 36 | [#U20HarusJadi](http://twitter.com/search?q=%23U20HarusJadi) | N/A |
-| 37 | [#KamiBersamaET](http://twitter.com/search?q=%23KamiBersamaET) | N/A |
-| 38 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 19 | [Ahmad Dhani](http://twitter.com/search?q=Ahmad+Dhani) | N/A |
+| 20 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 21 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 22 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
+| 23 | [1 SD](http://twitter.com/search?q=1+SD) | N/A |
+| 24 | [Piala](http://twitter.com/search?q=Piala) | N/A |
+| 25 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
+| 26 | [Haerin](http://twitter.com/search?q=Haerin) | N/A |
+| 27 | [Ketua Umum PSSI](http://twitter.com/search?q=Ketua+Umum+PSSI) | N/A |
+| 28 | [Pak Erick](http://twitter.com/search?q=Pak+Erick) | N/A |
+| 29 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 30 | [Dita](http://twitter.com/search?q=Dita) | N/A |
+| 31 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 32 | [Dukung](http://twitter.com/search?q=Dukung) | N/A |
+| 33 | [Bahasa Indonesia](http://twitter.com/search?q=Bahasa+Indonesia) | N/A |
+| 34 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 35 | [Presiden Joko Widodo](http://twitter.com/search?q=Presiden+Joko+Widodo) | N/A |
+| 36 | [#gurupppk](http://twitter.com/search?q=%23gurupppk) | N/A |
+| 37 | [#LaneigexNanonMark](http://twitter.com/search?q=%23LaneigexNanonMark) | N/A |
+| 38 | [#XLGames](http://twitter.com/search?q=%23XLGames) | N/A |
 | 39 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
-| 40 | [#kafsakafsi](http://twitter.com/search?q=%23kafsakafsi) | N/A |
-| 41 | [#PeShan](http://twitter.com/search?q=%23PeShan) | N/A |
-| 42 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
-| 43 | [#GAnyaAshelytic](http://twitter.com/search?q=%23GAnyaAshelytic) | N/A |
-| 44 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
-| 45 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
-| 46 | [#NgabuburitBarengMinto](http://twitter.com/search?q=%23NgabuburitBarengMinto) | N/A |
+| 40 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 41 | [#RamadandiAkulakuxOPPO](http://twitter.com/search?q=%23RamadandiAkulakuxOPPO) | N/A |
+| 42 | [#U20HarusJadi](http://twitter.com/search?q=%23U20HarusJadi) | N/A |
+| 43 | [#DavidAnakKitaSemua](http://twitter.com/search?q=%23DavidAnakKitaSemua) | N/A |
+| 44 | [#KamiBersamaET](http://twitter.com/search?q=%23KamiBersamaET) | N/A |
+| 45 | [#kafsakafsi](http://twitter.com/search?q=%23kafsakafsi) | N/A |
+| 46 | [#Ashelpm](http://twitter.com/search?q=%23Ashelpm) | N/A |
+| 47 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
+| 48 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
+| 49 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
 
 
 

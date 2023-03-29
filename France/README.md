@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-29 12:19:19 UTC`
+📆 Last Updated: `2023-03-29 13:21:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 2 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
+| 2 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
 | 3 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
 | 4 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
 | 5 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 6 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 7 | [#greve28mars](http://twitter.com/search?q=%23greve28mars) | N/A |
+| 6 | [#Manif28Mars](http://twitter.com/search?q=%23Manif28Mars) | N/A |
+| 7 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
 | 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 9 | [Corée du Nord](http://twitter.com/search?q=Cor%c3%a9e+du+Nord) | N/A |
 | 10 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
 | 11 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 12 | [Corée du Nord](http://twitter.com/search?q=Cor%c3%a9e+du+Nord) | N/A |
+| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 13 | [Picsou](http://twitter.com/search?q=Picsou) | N/A |
-| 14 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 15 | [Bakambu](http://twitter.com/search?q=Bakambu) | N/A |
-| 16 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
-| 17 | [BLACKPINK](http://twitter.com/search?q=BLACKPINK) | BLACKPINK is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name BLACKPINK is a combination of the words "black" and "pink," which represent the duality of the group's music, which combines both feminine and powerful elements. |
-| 18 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
-| 19 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 20 | [Mickey](http://twitter.com/search?q=Mickey) | N/A |
-| 21 | [Winston Scott](http://twitter.com/search?q=Winston+Scott) | N/A |
-| 22 | [Valls](http://twitter.com/search?q=Valls) | N/A |
-| 23 | [Frédéric Lefebvre](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric+Lefebvre) | N/A |
-| 24 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
-| 25 | [luther](http://twitter.com/search?q=luther) | N/A |
-| 26 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 27 | [Boufal](http://twitter.com/search?q=Boufal) | N/A |
-| 28 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 29 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 30 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
-| 31 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 32 | [Staline](http://twitter.com/search?q=Staline) | N/A |
-| 33 | [Streisand](http://twitter.com/search?q=Streisand) | N/A |
+| 14 | [Bakambu](http://twitter.com/search?q=Bakambu) | N/A |
+| 15 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 16 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
+| 17 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 18 | [Blackpink](http://twitter.com/search?q=Blackpink) | Blackpink is a South Korean girl group formed by YG Entertainment in 2016. The group consists of four members: Jisoo, Jennie, Rosé, and Lisa. The name "Blackpink" is a combination of the words "black" and "pink," which symbolizes the group's duality of both powerful and sweet elements. |
+| 19 | [Streisand](http://twitter.com/search?q=Streisand) | N/A |
+| 20 | [Valls](http://twitter.com/search?q=Valls) | N/A |
+| 21 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
+| 22 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 23 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 24 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 25 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 26 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 27 | [Staline](http://twitter.com/search?q=Staline) | N/A |
+| 28 | [Frédéric Lefebvre](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric+Lefebvre) | N/A |
+| 29 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
+| 30 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 31 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 32 | [Mickey](http://twitter.com/search?q=Mickey) | N/A |
+| 33 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 34 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 35 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 36 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 37 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 38 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
-| 39 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 40 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 41 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 42 | [Dans Pif](http://twitter.com/search?q=Dans+Pif) | N/A |
-| 43 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 44 | [SMUR](http://twitter.com/search?q=SMUR) | N/A |
-| 45 | [OLED](http://twitter.com/search?q=OLED) | N/A |
-| 46 | [GIFI](http://twitter.com/search?q=GIFI) | N/A |
-| 47 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
-| 48 | [xanax](http://twitter.com/search?q=xanax) | N/A |
-| 49 | [Alan Rickman](http://twitter.com/search?q=Alan+Rickman) | N/A |
-| 50 | [Mazraoui](http://twitter.com/search?q=Mazraoui) | N/A |
+| 35 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 36 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 37 | [SMUR](http://twitter.com/search?q=SMUR) | N/A |
+| 38 | [Xanax](http://twitter.com/search?q=Xanax) | N/A |
+| 39 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 40 | [Winston Scott](http://twitter.com/search?q=Winston+Scott) | N/A |
+| 41 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 42 | [Savines-le-Lac](http://twitter.com/search?q=Savines-le-Lac) | N/A |
+| 43 | [Gifi](http://twitter.com/search?q=Gifi) | N/A |
+| 44 | [pavard](http://twitter.com/search?q=pavard) | N/A |
+| 45 | [Dugarry](http://twitter.com/search?q=Dugarry) | N/A |
+| 46 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
+| 47 | [Rahan](http://twitter.com/search?q=Rahan) | N/A |
+| 48 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 49 | [Mazraoui](http://twitter.com/search?q=Mazraoui) | N/A |
+| 50 | [Ozark](http://twitter.com/search?q=Ozark) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-29 12:18:37 UTC`
+📆 Last Updated: `2023-03-29 13:20:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
-| 2 | [#RBDTour2023](http://twitter.com/search?q=%23RBDTour2023) | #RBDTour2023 is a hashtag used to promote a potential tour by the Mexican pop group RBD in 2023. The acronym RBD stands for Rebelde, which translates to Rebel in English. |
-| 3 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 4 | [EU VOU VER O RBD](http://twitter.com/search?q=EU+VOU+VER+O+RBD) | N/A |
-| 5 | [#RBDingressos](http://twitter.com/search?q=%23RBDingressos) | N/A |
-| 6 | [EU VOU NO SHOW DO RBD](http://twitter.com/search?q=EU+VOU+NO+SHOW+DO+RBD) | N/A |
-| 7 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
-| 8 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 9 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 1 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 2 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
+| 3 | [#RBDTour2023](http://twitter.com/search?q=%23RBDTour2023) | #RBDTour2023 is a hashtag used to promote a potential tour by the Mexican pop group RBD in 2023. The acronym RBD stands for Rebelde, which translates to Rebel in English. |
+| 4 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 5 | [EU VOU VER O RBD](http://twitter.com/search?q=EU+VOU+VER+O+RBD) | N/A |
+| 6 | [#RBDingressos](http://twitter.com/search?q=%23RBDingressos) | N/A |
+| 7 | [EU VOU NO SHOW DO RBD](http://twitter.com/search?q=EU+VOU+NO+SHOW+DO+RBD) | N/A |
+| 8 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
+| 9 | [Jorge Lafond](http://twitter.com/search?q=Jorge+Lafond) | N/A |
 | 10 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 11 | [Jorge Lafond](http://twitter.com/search?q=Jorge+Lafond) | N/A |
-| 12 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 13 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 14 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 15 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 16 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 17 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 18 | [Premium](http://twitter.com/search?q=Premium) | N/A |
-| 19 | [Parabéns Curitiba](http://twitter.com/search?q=Parab%c3%a9ns+Curitiba) | N/A |
-| 20 | [#Mamamooplus_GGBB](http://twitter.com/search?q=%23Mamamooplus_GGBB) | N/A |
-| 21 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
-| 22 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
-| 23 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
-| 24 | [Dia 12](http://twitter.com/search?q=Dia+12) | N/A |
+| 11 | [I&R NO ENCONTRO](http://twitter.com/search?q=I%26R+NO+ENCONTRO) | N/A |
+| 12 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 13 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 14 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 15 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 17 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 18 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
+| 19 | [Vera Verão](http://twitter.com/search?q=Vera+Ver%c3%a3o) | N/A |
+| 20 | [Premium](http://twitter.com/search?q=Premium) | N/A |
+| 21 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 22 | [#TeamFredNicacio](http://twitter.com/search?q=%23TeamFredNicacio) | N/A |
+| 23 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
+| 24 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
 | 25 | [Ministro](http://twitter.com/search?q=Ministro) | N/A |
-| 26 | [Vera Verão](http://twitter.com/search?q=Vera+Ver%c3%a3o) | N/A |
-| 27 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 28 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 29 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 30 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 31 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 32 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 33 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 34 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
-| 35 | [Devon](http://twitter.com/search?q=Devon) | N/A |
-| 36 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 37 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 38 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 39 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
-| 40 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
-| 41 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 42 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
-| 43 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
-| 44 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
-| 45 | [Gabriel Santana](http://twitter.com/search?q=Gabriel+Santana) | Gabriel Santana is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
-| 46 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
-| 47 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 48 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
-| 49 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
-| 50 | [Deixa a Nicole](http://twitter.com/search?q=Deixa+a+Nicole) | N/A |
+| 26 | [Dia 12](http://twitter.com/search?q=Dia+12) | N/A |
+| 27 | [chungha](http://twitter.com/search?q=chungha) | N/A |
+| 28 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
+| 29 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 30 | [Parabéns Curitiba](http://twitter.com/search?q=Parab%c3%a9ns+Curitiba) | N/A |
+| 31 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
+| 32 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 33 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 34 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 35 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 36 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 37 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 38 | [BOM DIAA](http://twitter.com/search?q=BOM+DIAA) | N/A |
+| 39 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 40 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 41 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 42 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
+| 43 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 44 | [devon](http://twitter.com/search?q=devon) | N/A |
+| 45 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
+| 46 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
+| 47 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
+| 48 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 49 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
+| 50 | [Magali](http://twitter.com/search?q=Magali) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-29 12:18:38 UTC`
+📆 Last Updated: `2023-03-29 13:20:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Brazil](</Brazil>)
 | 5 | [#RBDingressos](http://twitter.com/search?q=%23RBDingressos) | N/A |
 | 6 | [EU VOU NO SHOW DO RBD](http://twitter.com/search?q=EU+VOU+NO+SHOW+DO+RBD) | N/A |
 | 7 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
-| 8 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 9 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 10 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 11 | [Jorge Lafond](http://twitter.com/search?q=Jorge+Lafond) | N/A |
-| 12 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 8 | [Jorge Lafond](http://twitter.com/search?q=Jorge+Lafond) | N/A |
+| 9 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 10 | [I&R NO ENCONTRO](http://twitter.com/search?q=I%26R+NO+ENCONTRO) | N/A |
+| 11 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 12 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
 | 13 | [Janones](http://twitter.com/search?q=Janones) | N/A |
 | 14 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 15 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 16 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 15 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 16 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
 | 17 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 18 | [Premium](http://twitter.com/search?q=Premium) | N/A |
-| 19 | [Parabéns Curitiba](http://twitter.com/search?q=Parab%c3%a9ns+Curitiba) | N/A |
-| 20 | [#Mamamooplus_GGBB](http://twitter.com/search?q=%23Mamamooplus_GGBB) | N/A |
-| 21 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
-| 22 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
-| 23 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
-| 24 | [Dia 12](http://twitter.com/search?q=Dia+12) | N/A |
-| 25 | [Ministro](http://twitter.com/search?q=Ministro) | N/A |
-| 26 | [Vera Verão](http://twitter.com/search?q=Vera+Ver%c3%a3o) | N/A |
-| 27 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 28 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 29 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 30 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 31 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 32 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 33 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
-| 34 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 35 | [Devon](http://twitter.com/search?q=Devon) | N/A |
-| 36 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 37 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
-| 38 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 39 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 40 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
-| 41 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 42 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
-| 43 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
-| 44 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
-| 45 | [Gabriel Santana](http://twitter.com/search?q=Gabriel+Santana) | Gabriel Santana is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
-| 46 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
-| 47 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 48 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
-| 49 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
-| 50 | [Deixa a Nicole](http://twitter.com/search?q=Deixa+a+Nicole) | N/A |
+| 18 | [Vera Verão](http://twitter.com/search?q=Vera+Ver%c3%a3o) | N/A |
+| 19 | [Premium](http://twitter.com/search?q=Premium) | N/A |
+| 20 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 21 | [#TeamFredNicacio](http://twitter.com/search?q=%23TeamFredNicacio) | N/A |
+| 22 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
+| 23 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 24 | [Ministro](http://twitter.com/search?q=Ministro) | N/A |
+| 25 | [Dia 12](http://twitter.com/search?q=Dia+12) | N/A |
+| 26 | [chungha](http://twitter.com/search?q=chungha) | N/A |
+| 27 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
+| 28 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 29 | [Parabéns Curitiba](http://twitter.com/search?q=Parab%c3%a9ns+Curitiba) | N/A |
+| 30 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
+| 31 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 32 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 33 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 34 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 35 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 36 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 37 | [BOM DIAA](http://twitter.com/search?q=BOM+DIAA) | N/A |
+| 38 | [Copom](http://twitter.com/search?q=Copom) | N/A |
+| 39 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 40 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 41 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
+| 42 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 43 | [devon](http://twitter.com/search?q=devon) | N/A |
+| 44 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
+| 45 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
+| 46 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
+| 47 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 48 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
+| 49 | [Magali](http://twitter.com/search?q=Magali) | N/A |
+| 50 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-03-29 12:19:07 UTC`
+📆 Last Updated: `2023-03-29 13:21:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#tffistifa](http://twitter.com/search?q=%23tffistifa) | N/A |
-| 2 | [Mehmet Aslantuğ](http://twitter.com/search?q=Mehmet+Aslantu%c4%9f) | N/A |
-| 3 | [Şahlanış Dönemi](http://twitter.com/search?q=%c5%9eahlan%c4%b1%c5%9f+D%c3%b6nemi) | N/A |
-| 4 | [HurmaEdit](http://twitter.com/search?q=HurmaEdit) | N/A |
+| 2 | [#muhendisinELİTAŞaltında](http://twitter.com/search?q=%23muhendisinEL%c4%b0TA%c5%9ealt%c4%b1nda) | N/A |
+| 3 | [Mehmet Aslantuğ](http://twitter.com/search?q=Mehmet+Aslantu%c4%9f) | N/A |
+| 4 | [Şahlanış Dönemi](http://twitter.com/search?q=%c5%9eahlan%c4%b1%c5%9f+D%c3%b6nemi) | N/A |
 | 5 | [#BuSeçim](http://twitter.com/search?q=%23BuSe%c3%a7im) | N/A |
 | 6 | [TBMM Grup Toplantısı](http://twitter.com/search?q=TBMM+Grup+Toplant%c4%b1s%c4%b1) | N/A |
-| 7 | [#muhendisinELİTAŞaltında](http://twitter.com/search?q=%23muhendisinEL%c4%b0TA%c5%9ealt%c4%b1nda) | N/A |
-| 8 | [#Mujdeunileregelsin](http://twitter.com/search?q=%23Mujdeunileregelsin) | N/A |
-| 9 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
-| 10 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
-| 11 | [Temmuzda](http://twitter.com/search?q=Temmuzda) | N/A |
+| 7 | [#Mujdeunileregelsin](http://twitter.com/search?q=%23Mujdeunileregelsin) | N/A |
+| 8 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 9 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 10 | [Temmuzda](http://twitter.com/search?q=Temmuzda) | N/A |
+| 11 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
 | 12 | [OyumEhliyet Affında](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1nda) | N/A |
-| 13 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
-| 14 | [Kayıp Bakan Nemo](http://twitter.com/search?q=Kay%c4%b1p+Bakan+Nemo) | N/A |
-| 15 | [Nisan](http://twitter.com/search?q=Nisan) | N/A |
-| 16 | [Müjdat Gezen](http://twitter.com/search?q=M%c3%bcjdat+Gezen) | N/A |
-| 17 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
-| 18 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
+| 13 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
+| 14 | [Nisan](http://twitter.com/search?q=Nisan) | N/A |
+| 15 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
+| 16 | [Kayıp Bakan Nemo](http://twitter.com/search?q=Kay%c4%b1p+Bakan+Nemo) | N/A |
+| 17 | [Müjdat Gezen](http://twitter.com/search?q=M%c3%bcjdat+Gezen) | N/A |
+| 18 | [Mart](http://twitter.com/search?q=Mart) | N/A |
 | 19 | [Doğalgaz](http://twitter.com/search?q=Do%c4%9falgaz) | N/A |
 | 20 | [Hristiyan](http://twitter.com/search?q=Hristiyan) | N/A |
-| 21 | [Mart](http://twitter.com/search?q=Mart) | N/A |
+| 21 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
 | 22 | [Hizbullahçı](http://twitter.com/search?q=Hizbullah%c3%a7%c4%b1) | N/A |
 | 23 | [İndirim](http://twitter.com/search?q=%c4%b0ndirim) | N/A |
 | 24 | [Kışın](http://twitter.com/search?q=K%c4%b1%c5%9f%c4%b1n) | N/A |
-| 25 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 26 | [Bilgin](http://twitter.com/search?q=Bilgin) | N/A |
-| 27 | [Hamza Yusuf](http://twitter.com/search?q=Hamza+Yusuf) | N/A |
-| 28 | [İyi Parti'den](http://twitter.com/search?q=%c4%b0yi+Parti%27den) | N/A |
-| 29 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
-| 30 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
-| 31 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
+| 25 | [Bozmaz](http://twitter.com/search?q=Bozmaz) | N/A |
+| 26 | [İyi Parti'den](http://twitter.com/search?q=%c4%b0yi+Parti%27den) | N/A |
+| 27 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
+| 28 | [Bilgin](http://twitter.com/search?q=Bilgin) | N/A |
+| 29 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
+| 30 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 31 | [Hamza Yusuf](http://twitter.com/search?q=Hamza+Yusuf) | N/A |
 | 32 | [Hürriyet](http://twitter.com/search?q=H%c3%bcrriyet) | N/A |
-| 33 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
-| 34 | [Cemile](http://twitter.com/search?q=Cemile) | N/A |
-| 35 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 36 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 37 | [Kandil'e](http://twitter.com/search?q=Kandil%27e) | N/A |
-| 38 | [Koray](http://twitter.com/search?q=Koray) | N/A |
-| 39 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
-| 40 | [#BirTakımaDeğilHerkeseAdalet](http://twitter.com/search?q=%23BirTak%c4%b1maDe%c4%9filHerkeseAdalet) | N/A |
-| 41 | [#asgariücret](http://twitter.com/search?q=%23asgari%c3%bccret) | N/A |
-| 42 | [#5BindeKısmideABOdaBiziz](http://twitter.com/search?q=%235BindeK%c4%b1smideABOdaBiziz) | N/A |
-| 43 | [#BeştepedenStajÇıksın](http://twitter.com/search?q=%23Be%c5%9ftepedenStaj%c3%87%c4%b1ks%c4%b1n) | N/A |
-| 44 | [#TİPSenin](http://twitter.com/search?q=%23T%c4%b0PSenin) | N/A |
-| 45 | [#Oy2000lerde](http://twitter.com/search?q=%23Oy2000lerde) | N/A |
-| 46 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
-| 47 | [#MerkezTaşraHaksızlığı](http://twitter.com/search?q=%23MerkezTa%c5%9fraHaks%c4%b1zl%c4%b1%c4%9f%c4%b1) | N/A |
-| 48 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
+| 33 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 34 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
+| 35 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
+| 36 | [#asgariücret](http://twitter.com/search?q=%23asgari%c3%bccret) | N/A |
+| 37 | [#BirTakımaDeğilHerkeseAdalet](http://twitter.com/search?q=%23BirTak%c4%b1maDe%c4%9filHerkeseAdalet) | N/A |
+| 38 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 39 | [#BeştepedenStajÇıksın](http://twitter.com/search?q=%23Be%c5%9ftepedenStaj%c3%87%c4%b1ks%c4%b1n) | N/A |
+| 40 | [#5BindeKısmideABOdaBiziz](http://twitter.com/search?q=%235BindeK%c4%b1smideABOdaBiziz) | N/A |
+| 41 | [#TİPSenin](http://twitter.com/search?q=%23T%c4%b0PSenin) | N/A |
+| 42 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
+| 43 | [#Oy2000lerde](http://twitter.com/search?q=%23Oy2000lerde) | N/A |
+| 44 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
+| 45 | [#MerkezTaşraHaksızlığı](http://twitter.com/search?q=%23MerkezTa%c5%9fraHaks%c4%b1zl%c4%b1%c4%9f%c4%b1) | N/A |
+| 46 | [#çokzor](http://twitter.com/search?q=%23%c3%a7okzor) | N/A |
+| 47 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 48 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
 
 
 

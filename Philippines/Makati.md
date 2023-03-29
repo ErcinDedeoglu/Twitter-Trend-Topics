@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-29 12:18:55 UTC`
+📆 Last Updated: `2023-03-29 13:20:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FranSeth](http://twitter.com/search?q=%23FranSeth) | N/A |
-| 2 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
-| 3 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 4 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
-| 5 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
-| 6 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
-| 7 | [#4thVPChoiceAwards](http://twitter.com/search?q=%234thVPChoiceAwards) | N/A |
-| 8 | [#BGYO_4thVPCARedCarpet](http://twitter.com/search?q=%23BGYO_4thVPCARedCarpet) | N/A |
-| 9 | [PROUD KAMI SAYO](http://twitter.com/search?q=PROUD+KAMI+SAYO) | N/A |
-| 10 | [DONNY FOR QUICKFX](http://twitter.com/search?q=DONNY+FOR+QUICKFX) | N/A |
-| 11 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
-| 12 | [WE FREEN YOU](http://twitter.com/search?q=WE+FREEN+YOU) | N/A |
-| 13 | [Reverence to God](http://twitter.com/search?q=Reverence+to+God) | N/A |
-| 14 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 15 | [BGYO ON VPCHOICE AWARDS](http://twitter.com/search?q=BGYO+ON+VPCHOICE+AWARDS) | N/A |
-| 16 | [20MStreams SIGURADO](http://twitter.com/search?q=20MStreams+SIGURADO) | N/A |
-| 17 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
-| 18 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
-| 19 | [DavidLicauco AtBbBayambang](http://twitter.com/search?q=DavidLicauco+AtBbBayambang) | N/A |
+| 1 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
+| 2 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 3 | [#franseth](http://twitter.com/search?q=%23franseth) | N/A |
+| 4 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
+| 5 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
+| 6 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
+| 7 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
+| 8 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
+| 9 | [WE FREEN YOU](http://twitter.com/search?q=WE+FREEN+YOU) | N/A |
+| 10 | [PIEnally 2DREIther](http://twitter.com/search?q=PIEnally+2DREIther) | N/A |
+| 11 | [PROUD KAMI SAYO](http://twitter.com/search?q=PROUD+KAMI+SAYO) | N/A |
+| 12 | [RUSwabe On PIE](http://twitter.com/search?q=RUSwabe+On+PIE) | N/A |
+| 13 | [Hottie ASI](http://twitter.com/search?q=Hottie+ASI) | N/A |
+| 14 | [KOKOY AS INTOY](http://twitter.com/search?q=KOKOY+AS+INTOY) | N/A |
+| 15 | [DONNY FOR QUICKFX](http://twitter.com/search?q=DONNY+FOR+QUICKFX) | N/A |
+| 16 | [Reverence to God](http://twitter.com/search?q=Reverence+to+God) | N/A |
+| 17 | [20MStreams SIGURADO](http://twitter.com/search?q=20MStreams+SIGURADO) | N/A |
+| 18 | [BGYO ON VPCHOICE AWARDS](http://twitter.com/search?q=BGYO+ON+VPCHOICE+AWARDS) | N/A |
+| 19 | [EXO-SC](http://twitter.com/search?q=EXO-SC) | N/A |
 | 20 | [P'Freen](http://twitter.com/search?q=P%27Freen) | N/A |
-| 21 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 22 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 23 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
-| 24 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
-| 25 | [junghwan](http://twitter.com/search?q=junghwan) | N/A |
-| 26 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
-| 27 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
-| 28 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
-| 29 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
-| 30 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
-| 31 | [WE LOVE YOU EXO](http://twitter.com/search?q=WE+LOVE+YOU+EXO) | N/A |
-| 32 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 33 | [TOMORROW X TOGETHER](http://twitter.com/search?q=TOMORROW+X+TOGETHER) | N/A |
-| 34 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
-| 35 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
-| 36 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
-| 37 | [#SB19MsMOJOTop20BoyBands](http://twitter.com/search?q=%23SB19MsMOJOTop20BoyBands) | N/A |
-| 38 | [#BoysOverPIEflowers](http://twitter.com/search?q=%23BoysOverPIEflowers) | N/A |
-| 39 | [#DONtWantPimples](http://twitter.com/search?q=%23DONtWantPimples) | N/A |
-| 40 | [#DONNYxPimpleEraser](http://twitter.com/search?q=%23DONNYxPimpleEraser) | N/A |
-| 41 | [#PauseAndPlayFINALEWeek](http://twitter.com/search?q=%23PauseAndPlayFINALEWeek) | N/A |
-| 42 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
-| 43 | [#EXOSCinMNL](http://twitter.com/search?q=%23EXOSCinMNL) | N/A |
-| 44 | [#Mamamooplus_GGBB](http://twitter.com/search?q=%23Mamamooplus_GGBB) | N/A |
-| 45 | [#SiguradoByBelle](http://twitter.com/search?q=%23SiguradoByBelle) | N/A |
-| 46 | [#KaoriOinuma](http://twitter.com/search?q=%23KaoriOinuma) | N/A |
-| 47 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 48 | [#MOONBYUL](http://twitter.com/search?q=%23MOONBYUL) | N/A |
-| 49 | [#SOLAR](http://twitter.com/search?q=%23SOLAR) | N/A |
-| 50 | [#GallantDLSU](http://twitter.com/search?q=%23GallantDLSU) | N/A |
+| 21 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 22 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
+| 23 | [DavidLicauco AtBbBayambang](http://twitter.com/search?q=DavidLicauco+AtBbBayambang) | N/A |
+| 24 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 25 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
+| 26 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 27 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
+| 28 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
+| 29 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
+| 30 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
+| 31 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
+| 32 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
+| 33 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
+| 34 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
+| 35 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 36 | [WE LOVE YOU EXO](http://twitter.com/search?q=WE+LOVE+YOU+EXO) | N/A |
+| 37 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
+| 38 | [#PauseAndPlayFINALEWeek](http://twitter.com/search?q=%23PauseAndPlayFINALEWeek) | N/A |
+| 39 | [#BoysOverPIEflowers](http://twitter.com/search?q=%23BoysOverPIEflowers) | N/A |
+| 40 | [#DONNYWinsAtVPCA](http://twitter.com/search?q=%23DONNYWinsAtVPCA) | N/A |
+| 41 | [#BGYO_4thVPCARedCarpet](http://twitter.com/search?q=%23BGYO_4thVPCARedCarpet) | N/A |
+| 42 | [#4thVPChoiceAwards](http://twitter.com/search?q=%234thVPChoiceAwards) | N/A |
+| 43 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
+| 44 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
+| 45 | [#SB19MsMOJOTop20BoyBands](http://twitter.com/search?q=%23SB19MsMOJOTop20BoyBands) | N/A |
+| 46 | [#Lazada11yearcharity](http://twitter.com/search?q=%23Lazada11yearcharity) | N/A |
+| 47 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
+| 48 | [#DONtWantPimples](http://twitter.com/search?q=%23DONtWantPimples) | N/A |
+| 49 | [#DONNYxPimpleEraser](http://twitter.com/search?q=%23DONNYxPimpleEraser) | N/A |
+| 50 | [#UrdujaAlisto](http://twitter.com/search?q=%23UrdujaAlisto) | N/A |
 
 
 

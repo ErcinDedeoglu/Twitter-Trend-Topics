@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-29 12:18:41 UTC`
+📆 Last Updated: `2023-03-29 13:20:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [#autest](http://twitter.com/search?q=%23autest) | N/A |
 | 2 | [#w2803](http://twitter.com/search?q=%23w2803) | N/A |
-| 3 | [giraffe](http://twitter.com/search?q=giraffe) | N/A |
-| 4 | [#OeNR](http://twitter.com/search?q=%23OeNR) | N/A |
-| 5 | [#blockgas](http://twitter.com/search?q=%23blockgas) | N/A |
-| 6 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 7 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
-| 8 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 9 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 10 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 3 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
+| 4 | [#BlockGas](http://twitter.com/search?q=%23BlockGas) | N/A |
+| 5 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
+| 6 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 7 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 8 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
+| 9 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
+| 10 | [Brunnen](http://twitter.com/search?q=Brunnen) | N/A |
 | 11 | [christian deutsch](http://twitter.com/search?q=christian+deutsch) | N/A |
-| 12 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
-| 13 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
-| 14 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 15 | [#EuropeanGasConference](http://twitter.com/search?q=%23EuropeanGasConference) | N/A |
-| 16 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 17 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
-| 18 | [Phrasen](http://twitter.com/search?q=Phrasen) | N/A |
-| 19 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
-| 20 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 21 | [Wasserwerfer](http://twitter.com/search?q=Wasserwerfer) | N/A |
-| 22 | [Regierungen](http://twitter.com/search?q=Regierungen) | N/A |
-| 23 | [elli](http://twitter.com/search?q=elli) | N/A |
-| 24 | [Therapie](http://twitter.com/search?q=Therapie) | N/A |
-| 25 | [Versorgung](http://twitter.com/search?q=Versorgung) | N/A |
-| 26 | [Köstinger](http://twitter.com/search?q=K%c3%b6stinger) | N/A |
-| 27 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 28 | [estland](http://twitter.com/search?q=estland) | N/A |
-| 29 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 30 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
-| 31 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 32 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 33 | [Wille](http://twitter.com/search?q=Wille) | N/A |
-| 34 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 35 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
-| 36 | [liesing](http://twitter.com/search?q=liesing) | N/A |
-| 37 | [Funktionen](http://twitter.com/search?q=Funktionen) | N/A |
-| 38 | [Wohnen](http://twitter.com/search?q=Wohnen) | N/A |
-| 39 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |
-| 40 | [ministerin](http://twitter.com/search?q=ministerin) | N/A |
-| 41 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 42 | [Schaden](http://twitter.com/search?q=Schaden) | N/A |
-| 43 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 12 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 13 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
+| 14 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 15 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 16 | [#EuropeanGasConference](http://twitter.com/search?q=%23EuropeanGasConference) | N/A |
+| 17 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 18 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
+| 19 | [Phrasen](http://twitter.com/search?q=Phrasen) | N/A |
+| 20 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
+| 21 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 22 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 23 | [Wasserwerfer](http://twitter.com/search?q=Wasserwerfer) | N/A |
+| 24 | [Versorgung](http://twitter.com/search?q=Versorgung) | N/A |
+| 25 | [Regierungen](http://twitter.com/search?q=Regierungen) | N/A |
+| 26 | [elli](http://twitter.com/search?q=elli) | N/A |
+| 27 | [Therapie](http://twitter.com/search?q=Therapie) | N/A |
+| 28 | [köstinger](http://twitter.com/search?q=k%c3%b6stinger) | N/A |
+| 29 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 30 | [Estland](http://twitter.com/search?q=Estland) | N/A |
+| 31 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 32 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
+| 33 | [Umgebung](http://twitter.com/search?q=Umgebung) | N/A |
+| 34 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 35 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 36 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
+| 37 | [liesing](http://twitter.com/search?q=liesing) | N/A |
+| 38 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
+| 39 | [Funktionen](http://twitter.com/search?q=Funktionen) | N/A |
+| 40 | [Wille](http://twitter.com/search?q=Wille) | N/A |
+| 41 | [Wohnen](http://twitter.com/search?q=Wohnen) | N/A |
+| 42 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 43 | [Ministerin](http://twitter.com/search?q=Ministerin) | N/A |
 | 44 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 45 | [statut](http://twitter.com/search?q=statut) | N/A |
-| 46 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
-| 47 | [polaschek](http://twitter.com/search?q=polaschek) | N/A |
-| 48 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
-| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 50 | [Info](http://twitter.com/search?q=Info) | N/A |
+| 45 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |
+| 46 | [statut](http://twitter.com/search?q=statut) | N/A |
+| 47 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 48 | [Polaschek](http://twitter.com/search?q=Polaschek) | N/A |
+| 49 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 50 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
 
 
 

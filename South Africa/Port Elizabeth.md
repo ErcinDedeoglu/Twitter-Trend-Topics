@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-29 12:18:59 UTC`
+📆 Last Updated: `2023-03-29 13:20:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [South Africa](</South Africa>)
 | 8 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
 | 9 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 10 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
-| 11 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
-| 12 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
-| 13 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 14 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 15 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
-| 16 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
-| 17 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 18 | [dear thabang](http://twitter.com/search?q=dear+thabang) | N/A |
-| 19 | [thabang meets tbangers](http://twitter.com/search?q=thabang+meets+tbangers) | N/A |
-| 20 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 21 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 22 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
-| 23 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
-| 24 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
-| 25 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
-| 26 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 27 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 28 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 29 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 30 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 31 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
-| 32 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
+| 11 | [YahYuppiYah](http://twitter.com/search?q=YahYuppiYah) | N/A |
+| 12 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
+| 13 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
+| 14 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 15 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 16 | [Eeque](http://twitter.com/search?q=Eeque) | N/A |
+| 17 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
+| 18 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
+| 19 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 20 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 21 | [dear thabang](http://twitter.com/search?q=dear+thabang) | N/A |
+| 22 | [thabang meets tbangers](http://twitter.com/search?q=thabang+meets+tbangers) | N/A |
+| 23 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 24 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 25 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 26 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 27 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 28 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
+| 29 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 30 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
+| 31 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
+| 32 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
 | 33 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 34 | [Skoroplaap](http://twitter.com/search?q=Skoroplaap) | N/A |
-| 35 | [Tap 2 Pay](http://twitter.com/search?q=Tap+2+Pay) | N/A |
-| 36 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 37 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
-| 38 | [fnb virtual card](http://twitter.com/search?q=fnb+virtual+card) | N/A |
+| 34 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
+| 35 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 36 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 37 | [Skoroplaap](http://twitter.com/search?q=Skoroplaap) | N/A |
+| 38 | [Foster](http://twitter.com/search?q=Foster) | N/A |
 | 39 | [Ronwen Williams](http://twitter.com/search?q=Ronwen+Williams) | N/A |
 | 40 | [Red Chilli](http://twitter.com/search?q=Red+Chilli) | N/A |
-| 41 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
-| 42 | [Broos](http://twitter.com/search?q=Broos) | N/A |
-| 43 | [Joburg](http://twitter.com/search?q=Joburg) | N/A |
+| 41 | [FNB Virtual Card](http://twitter.com/search?q=FNB+Virtual+Card) | N/A |
+| 42 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 43 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
 | 44 | [iZwide](http://twitter.com/search?q=iZwide) | N/A |
 | 45 | [Maela](http://twitter.com/search?q=Maela) | N/A |
-| 46 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 47 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 48 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 46 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 47 | [Broos](http://twitter.com/search?q=Broos) | N/A |
+| 48 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 
 
 
