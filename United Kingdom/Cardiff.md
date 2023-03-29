@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-29 13:20:30 UTC`
+📆 Last Updated: `2023-03-29 14:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 2 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 3 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 4 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 5 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
+| 1 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 2 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 3 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 4 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
+| 5 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 6 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 7 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
-| 8 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 9 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 10 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
-| 11 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 12 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
-| 13 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
-| 14 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 15 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 16 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 17 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
+| 7 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 8 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
+| 9 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
+| 10 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
+| 11 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 12 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 13 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 14 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
+| 15 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 16 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
+| 17 | [Claude](http://twitter.com/search?q=Claude) | N/A |
 | 18 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
-| 19 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
-| 20 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 21 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
-| 22 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
-| 23 | [Deputy PM](http://twitter.com/search?q=Deputy+PM) | N/A |
-| 24 | [RAF Scampton](http://twitter.com/search?q=RAF+Scampton) | N/A |
-| 25 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 26 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
-| 27 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
-| 28 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 29 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
-| 30 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 31 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 32 | [Lincolnshire](http://twitter.com/search?q=Lincolnshire) | N/A |
-| 33 | [for the love of dogs](http://twitter.com/search?q=for+the+love+of+dogs) | N/A |
-| 34 | [Ivan McKee](http://twitter.com/search?q=Ivan+McKee) | N/A |
-| 35 | [Ed Davey](http://twitter.com/search?q=Ed+Davey) | N/A |
-| 36 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 37 | [Streeting](http://twitter.com/search?q=Streeting) | N/A |
-| 38 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 39 | [Olga](http://twitter.com/search?q=Olga) | N/A |
-| 40 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
-| 41 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 42 | [Ticketek](http://twitter.com/search?q=Ticketek) | N/A |
-| 43 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 44 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 45 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 46 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 47 | [AIDS](http://twitter.com/search?q=AIDS) | N/A |
-| 48 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
+| 19 | [Robert Jenrick](http://twitter.com/search?q=Robert+Jenrick) | N/A |
+| 20 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 21 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 22 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 23 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 24 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 25 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 26 | [Premier League Hall of Fame](http://twitter.com/search?q=Premier+League+Hall+of+Fame) | N/A |
+| 27 | [Deputy PM](http://twitter.com/search?q=Deputy+PM) | N/A |
+| 28 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 29 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
+| 30 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 31 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 32 | [McFly](http://twitter.com/search?q=McFly) | N/A |
+| 33 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 34 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
+| 35 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
+| 36 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 37 | [Ed Davey](http://twitter.com/search?q=Ed+Davey) | N/A |
+| 38 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
+| 39 | [Streeting](http://twitter.com/search?q=Streeting) | N/A |
+| 40 | [Lincolnshire](http://twitter.com/search?q=Lincolnshire) | N/A |
+| 41 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 42 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 43 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
+| 44 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 45 | [Ticketek](http://twitter.com/search?q=Ticketek) | N/A |
+| 46 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 47 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 48 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
 
 
 

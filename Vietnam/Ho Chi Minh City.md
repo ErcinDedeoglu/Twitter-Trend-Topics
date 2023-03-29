@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-29 13:20:57 UTC`
+📆 Last Updated: `2023-03-29 14:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 6 | [ALL FOR LUVE](http://twitter.com/search?q=ALL+FOR+LUVE) | N/A |
 | 7 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
 | 8 | [Wombat](http://twitter.com/search?q=Wombat) | N/A |
-| 9 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
+| 9 | [mc hyeongseop](http://twitter.com/search?q=mc+hyeongseop) | N/A |
 | 10 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 11 | [fff asean party](http://twitter.com/search?q=fff+asean+party) | N/A |
-| 12 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
-| 13 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 14 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 15 | [JAM X FILM](http://twitter.com/search?q=JAM+X+FILM) | JAM X FILM is a Japanese production company that specializes in creating music videos, commercials, and other visual media. The name is derived from the phrase "jam session" and the idea of creating a film. In English, it can be translated to mean "creating a film through collaboration". |
-| 16 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 17 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 18 | [$MATIC](http://twitter.com/search?q=%24MATIC) | N/A |
-| 19 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 20 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
-| 21 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 22 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 23 | [sài gòn](http://twitter.com/search?q=s%c3%a0i+g%c3%b2n) | N/A |
-| 24 | [Catalyst](http://twitter.com/search?q=Catalyst) | N/A |
-| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 26 | [altcoin](http://twitter.com/search?q=altcoin) | N/A |
-| 27 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 28 | [Hải Phòng](http://twitter.com/search?q=H%e1%ba%a3i+Ph%c3%b2ng) | N/A |
-| 29 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
-| 30 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
-| 31 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 32 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 33 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 11 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
+| 12 | [JAM X FILM](http://twitter.com/search?q=JAM+X+FILM) | JAM X FILM is a Japanese production company that specializes in creating music videos, commercials, and other visual media. The name is derived from the phrase "jam session" and the idea of creating a film. In English, it can be translated to mean "creating a film through collaboration". |
+| 13 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 14 | [$matic](http://twitter.com/search?q=%24matic) | N/A |
+| 15 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 16 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 17 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 18 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
+| 19 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 20 | [Catalyst](http://twitter.com/search?q=Catalyst) | N/A |
+| 21 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 22 | [$MYRIA](http://twitter.com/search?q=%24MYRIA) | N/A |
+| 23 | [EXCLUSIVE Alliance Key NFT](http://twitter.com/search?q=EXCLUSIVE+Alliance+Key+NFT) | N/A |
+| 24 | [Alliance Keys NFT Airdrop](http://twitter.com/search?q=Alliance+Keys+NFT+Airdrop) | N/A |
+| 25 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 26 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 27 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 28 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
+| 29 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
+| 30 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 31 | [hải phòng](http://twitter.com/search?q=h%e1%ba%a3i+ph%c3%b2ng) | N/A |
+| 32 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
+| 33 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
 | 34 | [Đồng](http://twitter.com/search?q=%c4%90%e1%bb%93ng) | N/A |
-| 35 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 36 | [Những](http://twitter.com/search?q=Nh%e1%bb%afng) | N/A |
-| 37 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 38 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 39 | [MetaMask](http://twitter.com/search?q=MetaMask) | N/A |
-| 40 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 41 | [Tưởng](http://twitter.com/search?q=T%c6%b0%e1%bb%9fng) | N/A |
-| 42 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 43 | [cần thơ](http://twitter.com/search?q=c%e1%ba%a7n+th%c6%a1) | N/A |
-| 44 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 45 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 46 | [nhóm](http://twitter.com/search?q=nh%c3%b3m) | N/A |
-| 47 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
-| 48 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 49 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 50 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 35 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 36 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
+| 37 | [Linh](http://twitter.com/search?q=Linh) | N/A |
+| 38 | [Tưởng](http://twitter.com/search?q=T%c6%b0%e1%bb%9fng) | N/A |
+| 39 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 40 | [cần thơ](http://twitter.com/search?q=c%e1%ba%a7n+th%c6%a1) | N/A |
+| 41 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 42 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 43 | [Pond](http://twitter.com/search?q=Pond) | N/A |
+| 44 | [nhóm](http://twitter.com/search?q=nh%c3%b3m) | N/A |
+| 45 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 46 | [Mint](http://twitter.com/search?q=Mint) | N/A |
+| 47 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 48 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
+| 49 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 50 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
 
 
 

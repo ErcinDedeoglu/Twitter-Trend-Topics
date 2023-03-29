@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-29 13:20:45 UTC`
+📆 Last Updated: `2023-03-29 14:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
-| 2 | [#29marzo](http://twitter.com/search?q=%2329marzo) | N/A |
-| 3 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 4 | [#nonVedono](http://twitter.com/search?q=%23nonVedono) | N/A |
-| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 6 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
-| 7 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 8 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 9 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 10 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 11 | [Molise](http://twitter.com/search?q=Molise) | N/A |
-| 12 | [condoglianze paolo](http://twitter.com/search?q=condoglianze+paolo) | N/A |
-| 13 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 14 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 15 | [avvertita](http://twitter.com/search?q=avvertita) | N/A |
-| 16 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 17 | [mara maionchi](http://twitter.com/search?q=mara+maionchi) | N/A |
-| 18 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 19 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 20 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 21 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 22 | [Maresca](http://twitter.com/search?q=Maresca) | Maresca is an Italian surname derived from the Latin word "marescalcus," which means "horseman" or "knight." It is also a place name in Italy, derived from the same root. |
-| 23 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 24 | [Sentita](http://twitter.com/search?q=Sentita) | N/A |
-| 25 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 26 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 27 | [Ibra](http://twitter.com/search?q=Ibra) | N/A |
-| 28 | [Monza](http://twitter.com/search?q=Monza) | N/A |
-| 29 | [fondente](http://twitter.com/search?q=fondente) | N/A |
-| 30 | [Rubinetto](http://twitter.com/search?q=Rubinetto) | N/A |
-| 31 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 32 | [San Pietro Mosezzo](http://twitter.com/search?q=San+Pietro+Mosezzo) | N/A |
-| 33 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 34 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 35 | [Rublev](http://twitter.com/search?q=Rublev) | Rublev is a Russian surname derived from the given name Ruben. It is most famously associated with the 15th century icon painter and monk Andrei Rublev, who is considered to be one of the greatest medieval Russian painters. The name Rublev can also refer to a type of traditional Russian bread roll. |
-| 36 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 37 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
-| 38 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
-| 39 | [Ciao Gianni](http://twitter.com/search?q=Ciao+Gianni) | N/A |
-| 40 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 41 | [Gabriele Corsi](http://twitter.com/search?q=Gabriele+Corsi) | N/A |
-| 42 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 2 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
+| 3 | [#29marzo](http://twitter.com/search?q=%2329marzo) | N/A |
+| 4 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 5 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 6 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 7 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 8 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 9 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 10 | [Silvio](http://twitter.com/search?q=Silvio) | N/A |
+| 11 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 12 | [Molise](http://twitter.com/search?q=Molise) | N/A |
+| 13 | [condoglianze paolo](http://twitter.com/search?q=condoglianze+paolo) | N/A |
+| 14 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 15 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 16 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 17 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 18 | [avvertita](http://twitter.com/search?q=avvertita) | N/A |
+| 19 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 20 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 21 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
+| 22 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 23 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 24 | [Senegal](http://twitter.com/search?q=Senegal) | N/A |
+| 25 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 26 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 27 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 28 | [Sentita](http://twitter.com/search?q=Sentita) | N/A |
+| 29 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 30 | [Giorgio Vanni](http://twitter.com/search?q=Giorgio+Vanni) | N/A |
+| 31 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 32 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 33 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 34 | [Rubinetto](http://twitter.com/search?q=Rubinetto) | N/A |
+| 35 | [San Pietro Mosezzo](http://twitter.com/search?q=San+Pietro+Mosezzo) | N/A |
+| 36 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 37 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 38 | [Rublev](http://twitter.com/search?q=Rublev) | Rublev is a Russian surname derived from the given name Ruben. It is most famously associated with the 15th century icon painter and monk Andrei Rublev, who is considered to be one of the greatest medieval Russian painters. The name Rublev can also refer to a type of traditional Russian bread roll. |
+| 39 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 40 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
+| 41 | [Micol e Tavassi](http://twitter.com/search?q=Micol+e+Tavassi) | N/A |
+| 42 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
 | 43 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 44 | [Puglia](http://twitter.com/search?q=Puglia) | N/A |
-| 45 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 46 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
-| 47 | [Micol e Tavassi](http://twitter.com/search?q=Micol+e+Tavassi) | N/A |
-| 48 | [Venerdì 31](http://twitter.com/search?q=Venerd%c3%ac+31) | N/A |
+| 44 | [Gabriele Corsi](http://twitter.com/search?q=Gabriele+Corsi) | N/A |
+| 45 | [Natalie Imbruglia](http://twitter.com/search?q=Natalie+Imbruglia) | N/A |
+| 46 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 47 | [Puglia](http://twitter.com/search?q=Puglia) | N/A |
 
 
 

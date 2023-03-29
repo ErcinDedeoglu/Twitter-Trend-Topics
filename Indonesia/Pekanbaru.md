@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-03-29 13:20:48 UTC`
+📆 Last Updated: `2023-03-29 14:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
-| 2 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
-| 3 | [#Lazada11yearcharity](http://twitter.com/search?q=%23Lazada11yearcharity) | N/A |
-| 4 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
-| 5 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
-| 6 | [ASN PPPK](http://twitter.com/search?q=ASN+PPPK) | N/A |
-| 7 | [Pak Mahfud](http://twitter.com/search?q=Pak+Mahfud) | N/A |
-| 8 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
-| 9 | [CAT 5A](http://twitter.com/search?q=CAT+5A) | N/A |
-| 10 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 11 | [OPPO A78 5G](http://twitter.com/search?q=OPPO+A78+5G) | N/A |
-| 12 | [Ahmad Dhani](http://twitter.com/search?q=Ahmad+Dhani) | N/A |
-| 13 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 14 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
-| 15 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 16 | [1 SD](http://twitter.com/search?q=1+SD) | N/A |
-| 17 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
-| 18 | [Piala](http://twitter.com/search?q=Piala) | N/A |
+| 1 | [#Lazada11yearcharity](http://twitter.com/search?q=%23Lazada11yearcharity) | N/A |
+| 2 | [Win x Lazada11Year](http://twitter.com/search?q=Win+x+Lazada11Year) | N/A |
+| 3 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
+| 4 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
+| 5 | [Pak Mahfud](http://twitter.com/search?q=Pak+Mahfud) | N/A |
+| 6 | [#gurupppk](http://twitter.com/search?q=%23gurupppk) | N/A |
+| 7 | [ASN PPPK](http://twitter.com/search?q=ASN+PPPK) | N/A |
+| 8 | [pillowtalk](http://twitter.com/search?q=pillowtalk) | N/A |
+| 9 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
+| 10 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 11 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 12 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
+| 13 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
+| 14 | [Cat 2B](http://twitter.com/search?q=Cat+2B) | N/A |
+| 15 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 16 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
+| 17 | [1 SD](http://twitter.com/search?q=1+SD) | N/A |
+| 18 | [Berbukalah](http://twitter.com/search?q=Berbukalah) | N/A |
 | 19 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
-| 20 | [Haerin](http://twitter.com/search?q=Haerin) | N/A |
-| 21 | [Ketua Umum PSSI](http://twitter.com/search?q=Ketua+Umum+PSSI) | N/A |
-| 22 | [Pak Erick](http://twitter.com/search?q=Pak+Erick) | N/A |
-| 23 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
-| 24 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 25 | [Dita](http://twitter.com/search?q=Dita) | N/A |
-| 26 | [Dukung](http://twitter.com/search?q=Dukung) | N/A |
-| 27 | [Bahasa Indonesia](http://twitter.com/search?q=Bahasa+Indonesia) | N/A |
+| 20 | [Ahmad Dhani](http://twitter.com/search?q=Ahmad+Dhani) | N/A |
+| 21 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 22 | [Dita](http://twitter.com/search?q=Dita) | N/A |
+| 23 | [Erick Thohir](http://twitter.com/search?q=Erick+Thohir) | Erick Thohir is an Indonesian businessman and investor. He is the founder and owner of Mahaka Group, a media and entertainment company, as well as the former president of Inter Milan Football Club. The name "Erick Thohir" is derived from his given name, Erick. |
+| 24 | [Haerin](http://twitter.com/search?q=Haerin) | N/A |
+| 25 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 26 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 27 | [Dukung](http://twitter.com/search?q=Dukung) | N/A |
 | 28 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 29 | [Presiden Joko Widodo](http://twitter.com/search?q=Presiden+Joko+Widodo) | N/A |
-| 30 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
-| 31 | [#gurupppk](http://twitter.com/search?q=%23gurupppk) | N/A |
-| 32 | [#LaneigexNanonMark](http://twitter.com/search?q=%23LaneigexNanonMark) | N/A |
-| 33 | [#XLGames](http://twitter.com/search?q=%23XLGames) | N/A |
-| 34 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
-| 35 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 29 | [Ketum PSSI](http://twitter.com/search?q=Ketum+PSSI) | N/A |
+| 30 | [Presiden Joko Widodo](http://twitter.com/search?q=Presiden+Joko+Widodo) | N/A |
+| 31 | [#WayV_Phantom_Jakarta](http://twitter.com/search?q=%23WayV_Phantom_Jakarta) | N/A |
+| 32 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
+| 33 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
+| 34 | [#XLGames](http://twitter.com/search?q=%23XLGames) | N/A |
+| 35 | [#LaneigexNanonMark](http://twitter.com/search?q=%23LaneigexNanonMark) | N/A |
 | 36 | [#RamadandiAkulakuxOPPO](http://twitter.com/search?q=%23RamadandiAkulakuxOPPO) | N/A |
-| 37 | [#U20HarusJadi](http://twitter.com/search?q=%23U20HarusJadi) | N/A |
-| 38 | [#DavidAnakKitaSemua](http://twitter.com/search?q=%23DavidAnakKitaSemua) | N/A |
-| 39 | [#KamiBersamaET](http://twitter.com/search?q=%23KamiBersamaET) | N/A |
-| 40 | [#kafsakafsi](http://twitter.com/search?q=%23kafsakafsi) | N/A |
-| 41 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
-| 42 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
-| 43 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 37 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 38 | [#srchafreen](http://twitter.com/search?q=%23srchafreen) | N/A |
+| 39 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 40 | [#DavidAnakKitaSemua](http://twitter.com/search?q=%23DavidAnakKitaSemua) | N/A |
+| 41 | [#persebayaday](http://twitter.com/search?q=%23persebayaday) | N/A |
+| 42 | [#U20HarusJadi](http://twitter.com/search?q=%23U20HarusJadi) | N/A |
+| 43 | [#Ashelpm](http://twitter.com/search?q=%23Ashelpm) | N/A |
+| 44 | [#KamiBersamaET](http://twitter.com/search?q=%23KamiBersamaET) | N/A |
+| 45 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
+| 46 | [#OPPOA785GdiShopee](http://twitter.com/search?q=%23OPPOA785GdiShopee) | N/A |
+| 47 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-29 13:20:39 UTC`
+📆 Last Updated: `2023-03-29 14:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
 | 2 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
 | 3 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 4 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 5 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
-| 6 | [#RBDTour2023](http://twitter.com/search?q=%23RBDTour2023) | #RBDTour2023 is a hashtag used to promote a potential tour by the Mexican pop group RBD in 2023. The acronym RBD stands for Rebelde, which translates to Rebel in English. |
-| 7 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 8 | [EU VOU VER O RBD](http://twitter.com/search?q=EU+VOU+VER+O+RBD) | N/A |
+| 4 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 5 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
+| 6 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
+| 7 | [#RBDTour2023](http://twitter.com/search?q=%23RBDTour2023) | #RBDTour2023 is a hashtag used to promote a potential tour by the Mexican pop group RBD in 2023. The acronym RBD stands for Rebelde, which translates to Rebel in English. |
+| 8 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
 | 9 | [#RBDingressos](http://twitter.com/search?q=%23RBDingressos) | N/A |
-| 10 | [EU VOU NO SHOW DO RBD](http://twitter.com/search?q=EU+VOU+NO+SHOW+DO+RBD) | N/A |
-| 11 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
-| 12 | [Jorge Lafond](http://twitter.com/search?q=Jorge+Lafond) | N/A |
-| 13 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 14 | [I&R NO ENCONTRO](http://twitter.com/search?q=I%26R+NO+ENCONTRO) | N/A |
-| 15 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 16 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 17 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 18 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 19 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 20 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 21 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 22 | [Vera Verão](http://twitter.com/search?q=Vera+Ver%c3%a3o) | N/A |
-| 23 | [Premium](http://twitter.com/search?q=Premium) | N/A |
-| 24 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 25 | [#TeamFredNicacio](http://twitter.com/search?q=%23TeamFredNicacio) | N/A |
-| 26 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
-| 27 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 28 | [Ministro](http://twitter.com/search?q=Ministro) | N/A |
-| 29 | [Dia 12](http://twitter.com/search?q=Dia+12) | N/A |
-| 30 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 31 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
-| 32 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 33 | [Parabéns Curitiba](http://twitter.com/search?q=Parab%c3%a9ns+Curitiba) | N/A |
-| 34 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
-| 35 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
-| 36 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 37 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 38 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 39 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 40 | [BOM DIAA](http://twitter.com/search?q=BOM+DIAA) | N/A |
-| 41 | [Copom](http://twitter.com/search?q=Copom) | N/A |
-| 42 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 43 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 44 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
-| 45 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 46 | [devon](http://twitter.com/search?q=devon) | N/A |
-| 47 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
-| 48 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
-| 49 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
-| 50 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 10 | [EU VOU VER O RBD](http://twitter.com/search?q=EU+VOU+VER+O+RBD) | N/A |
+| 11 | [Jorge Lafond](http://twitter.com/search?q=Jorge+Lafond) | N/A |
+| 12 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
+| 13 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 14 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 15 | [EU VOU NO SHOW DO RBD](http://twitter.com/search?q=EU+VOU+NO+SHOW+DO+RBD) | N/A |
+| 16 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 17 | [I&R NO ENCONTRO](http://twitter.com/search?q=I%26R+NO+ENCONTRO) | N/A |
+| 18 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 19 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
+| 20 | [BIEL NO MAIS VOCÊ](http://twitter.com/search?q=BIEL+NO+MAIS+VOC%c3%8a) | N/A |
+| 21 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 22 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 23 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
+| 24 | [Vera Verão](http://twitter.com/search?q=Vera+Ver%c3%a3o) | N/A |
+| 25 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 26 | [Magali](http://twitter.com/search?q=Magali) | N/A |
+| 27 | [Premium](http://twitter.com/search?q=Premium) | N/A |
+| 28 | [VENDO INGRESSO RBD](http://twitter.com/search?q=VENDO+INGRESSO+RBD) | N/A |
+| 29 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 30 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 31 | [Águia de Marabá](http://twitter.com/search?q=%c3%81guia+de+Marab%c3%a1) | Águia de Marabá is a Brazilian football team based in the city of Marabá, Pará. The team was founded in 1945 and currently plays in the Campeonato Paraense, the top tier of football in the state of Pará. The team's name translates to "Marabá Eagle" in English. |
+| 32 | [monica](http://twitter.com/search?q=monica) | N/A |
+| 33 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
+| 34 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 35 | [Dia 12](http://twitter.com/search?q=Dia+12) | N/A |
+| 36 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
+| 37 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
+| 38 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
+| 39 | [Vendo 2](http://twitter.com/search?q=Vendo+2) | N/A |
+| 40 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 41 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 42 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
+| 43 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 44 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
+| 45 | [Parabéns Curitiba](http://twitter.com/search?q=Parab%c3%a9ns+Curitiba) | N/A |
+| 46 | [McFly](http://twitter.com/search?q=McFly) | N/A |
+| 47 | [Leste](http://twitter.com/search?q=Leste) | N/A |
+| 48 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
+| 49 | [chungha](http://twitter.com/search?q=chungha) | N/A |
+| 50 | [South Summit](http://twitter.com/search?q=South+Summit) | N/A |
 
 
 

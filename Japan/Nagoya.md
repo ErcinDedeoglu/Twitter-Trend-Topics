@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-03-29 13:20:51 UTC`
+📆 Last Updated: `2023-03-29 14:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ライトアップ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 2 | [#プロスピA](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%82%b9%e3%83%94A) | N/A |
-| 3 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
-| 4 | [鶴舞公園](http://twitter.com/search?q=%e9%b6%b4%e8%88%9e%e5%85%ac%e5%9c%92) | N/A |
-| 5 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
-| 6 | [#上田と女が吠える夜](http://twitter.com/search?q=%23%e4%b8%8a%e7%94%b0%e3%81%a8%e5%a5%b3%e3%81%8c%e5%90%a0%e3%81%88%e3%82%8b%e5%a4%9c) | "#上田と女が吠える夜" is a hashtag used on social media in Japan. It translates to "Night of Ueda and the Woman Howling". It is used to refer to a scene from the Japanese movie "Ueda and the Woman Howling", which tells the story of a woman who howls at night in order to express her loneliness and longing for her lost love. |
-| 7 | [#百鬼あやめ新衣装](http://twitter.com/search?q=%23%e7%99%be%e9%ac%bc%e3%81%82%e3%82%84%e3%82%81%e6%96%b0%e8%a1%a3%e8%a3%85) | N/A |
-| 8 | [Dial up](http://twitter.com/search?q=Dial+up) | N/A |
-| 9 | [#有吉の壁](http://twitter.com/search?q=%23%e6%9c%89%e5%90%89%e3%81%ae%e5%a3%81) | #有吉の壁 is a Japanese phrase that literally translates to "Yoshimoto Wall". It is a term used to describe the barrier between celebrities and the public, created by the Japanese comedian Yoshimoto Kogyo. The phrase is used to refer to the strict rules and regulations that celebrities must abide by in order to maintain their public image. |
-| 10 | [#シン仮面ライダーみた](http://twitter.com/search?q=%23%e3%82%b7%e3%83%b3%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%81%bf%e3%81%9f) | N/A |
-| 11 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
-| 12 | [ダークモード](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%af%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
-| 13 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
-| 14 | [Travis Japan](http://twitter.com/search?q=Travis+Japan) | Travis Japan is a Japanese record label founded in 1999 by musician and producer Takahiro "TRAVIS" Matsumoto. The label is known for its roster of artists, which includes some of the most influential and popular acts in the Japanese music scene. The name "Travis Japan" is derived from the English word "travail," which means hard work or labor. In other words, the name reflects the label's commitment to hard work and dedication to producing quality music. |
-| 15 | [開業断念](http://twitter.com/search?q=%e9%96%8b%e6%a5%ad%e6%96%ad%e5%bf%b5) | N/A |
-| 16 | [フィオレンティナ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%aa%e3%83%ac%e3%83%b3%e3%83%86%e3%82%a3%e3%83%8a) | N/A |
-| 17 | [システム開発難航](http://twitter.com/search?q=%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e9%96%8b%e7%99%ba%e9%9b%a3%e8%88%aa) | N/A |
-| 18 | [浜崎あゆみ](http://twitter.com/search?q=%e6%b5%9c%e5%b4%8e%e3%81%82%e3%82%86%e3%81%bf) | N/A |
+| 1 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
+| 2 | [立浪監督](http://twitter.com/search?q=%e7%ab%8b%e6%b5%aa%e7%9b%a3%e7%9d%a3) | N/A |
+| 3 | [スヌーピー](http://twitter.com/search?q=%e3%82%b9%e3%83%8c%e3%83%bc%e3%83%94%e3%83%bc) | N/A |
+| 4 | [ライトアップ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%88%e3%82%a2%e3%83%83%e3%83%97) | N/A |
+| 5 | [カーヴェ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%b4%e3%82%a7) | カーヴェ is a Japanese word that means “curve” or “curved”. It is often used to describe something that has a curved shape or design. |
+| 6 | [鶴舞公園](http://twitter.com/search?q=%e9%b6%b4%e8%88%9e%e5%85%ac%e5%9c%92) | N/A |
+| 7 | [#上田と女が吠える夜](http://twitter.com/search?q=%23%e4%b8%8a%e7%94%b0%e3%81%a8%e5%a5%b3%e3%81%8c%e5%90%a0%e3%81%88%e3%82%8b%e5%a4%9c) | "#上田と女が吠える夜" is a hashtag used on social media in Japan. It translates to "Night of Ueda and the Woman Howling". It is used to refer to a scene from the Japanese movie "Ueda and the Woman Howling", which tells the story of a woman who howls at night in order to express her loneliness and longing for her lost love. |
+| 8 | [#水曜日のダウンタウン](http://twitter.com/search?q=%23%e6%b0%b4%e6%9b%9c%e6%97%a5%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%82%bf%e3%82%a6%e3%83%b3) | #水曜日のダウンタウン is a Japanese variety show that has been airing since 1989. It is a weekly show that features comedians, celebrities, and other guests in a variety of skits and games. The title translates to "Wednesday Downtown" in English. |
+| 9 | [#病院ラジオ](http://twitter.com/search?q=%23%e7%97%85%e9%99%a2%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
+| 10 | [海ちゃん](http://twitter.com/search?q=%e6%b5%b7%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 11 | [#髙橋海人](http://twitter.com/search?q=%23%e9%ab%99%e6%a9%8b%e6%b5%b7%e4%ba%ba) | N/A |
+| 12 | [特濃ソース顔](http://twitter.com/search?q=%e7%89%b9%e6%bf%83%e3%82%bd%e3%83%bc%e3%82%b9%e9%a1%94) | N/A |
+| 13 | [#Aぇヤンタン](http://twitter.com/search?q=%23A%e3%81%87%e3%83%a4%e3%83%b3%e3%82%bf%e3%83%b3) | #Aぇヤンタン is a Japanese hashtag that translates to "Ah, Yantan!" It is used to express surprise or admiration. |
+| 14 | [Dial up](http://twitter.com/search?q=Dial+up) | N/A |
+| 15 | [モバマス](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%83%9e%e3%82%b9) | N/A |
+| 16 | [ダークモード](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%af%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
+| 17 | [開業断念](http://twitter.com/search?q=%e9%96%8b%e6%a5%ad%e6%96%ad%e5%bf%b5) | N/A |
+| 18 | [システム開発難航](http://twitter.com/search?q=%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0%e9%96%8b%e7%99%ba%e9%9b%a3%e8%88%aa) | N/A |
 | 19 | [みずほ・LINEの新銀行](http://twitter.com/search?q=%e3%81%bf%e3%81%9a%e3%81%bb%e3%83%bbLINE%e3%81%ae%e6%96%b0%e9%8a%80%e8%a1%8c) | N/A |
-| 20 | [エスパルス](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
-| 21 | [ゲリラ豪雨](http://twitter.com/search?q=%e3%82%b2%e3%83%aa%e3%83%a9%e8%b1%aa%e9%9b%a8) | N/A |
-| 22 | [Overdose 君](http://twitter.com/search?q=Overdose+%e5%90%9b) | N/A |
+| 20 | [浜崎あゆみ](http://twitter.com/search?q=%e6%b5%9c%e5%b4%8e%e3%81%82%e3%82%86%e3%81%bf) | N/A |
+| 21 | [異性の推し](http://twitter.com/search?q=%e7%95%b0%e6%80%a7%e3%81%ae%e6%8e%a8%e3%81%97) | N/A |
+| 22 | [Travis Japan](http://twitter.com/search?q=Travis+Japan) | Travis Japan is a Japanese record label founded in 1999 by musician and producer Takahiro "TRAVIS" Matsumoto. The label is known for its roster of artists, which includes some of the most influential and popular acts in the Japanese music scene. The name "Travis Japan" is derived from the English word "travail," which means hard work or labor. In other words, the name reflects the label's commitment to hard work and dedication to producing quality music. |
 | 23 | [へっしー](http://twitter.com/search?q=%e3%81%b8%e3%81%a3%e3%81%97%e3%83%bc) | N/A |
 | 24 | [あーりん](http://twitter.com/search?q=%e3%81%82%e3%83%bc%e3%82%8a%e3%82%93) | N/A |
-| 25 | [はま寿司](http://twitter.com/search?q=%e3%81%af%e3%81%be%e5%af%bf%e5%8f%b8) | はま寿司 is a popular sushi chain in Japan. The name translates to "Hama Sushi" and refers to the fact that the restaurant specializes in Edomae-style sushi, which is made with fish caught in Tokyo Bay. The restaurant is known for its high-quality ingredients and reasonable prices. |
-| 26 | [憲法学者](http://twitter.com/search?q=%e6%86%b2%e6%b3%95%e5%ad%a6%e8%80%85) | N/A |
-| 27 | [オフレコ](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%83%ac%e3%82%b3) | オフレコ (ofureko) is a Japanese term that means "off the record". It is used to describe conversations or information that is not meant to be shared publicly. |
-| 28 | [モバマス](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%83%9e%e3%82%b9) | N/A |
-| 29 | [ロスマイ](http://twitter.com/search?q=%e3%83%ad%e3%82%b9%e3%83%9e%e3%82%a4) | N/A |
-| 30 | [シャオユウ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%82%aa%e3%83%a6%e3%82%a6) | N/A |
-| 31 | [蛮族の行為](http://twitter.com/search?q=%e8%9b%ae%e6%97%8f%e3%81%ae%e8%a1%8c%e7%82%ba) | N/A |
-| 32 | [タイブレーク](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af) | N/A |
-| 33 | [ダイオウドウ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%aa%e3%82%a6%e3%83%89%e3%82%a6) | N/A |
-| 34 | [田んぼドクター](http://twitter.com/search?q=%e7%94%b0%e3%82%93%e3%81%bc%e3%83%89%e3%82%af%e3%82%bf%e3%83%bc) | N/A |
-| 35 | [クソデカ雷](http://twitter.com/search?q=%e3%82%af%e3%82%bd%e3%83%87%e3%82%ab%e9%9b%b7) | N/A |
-| 36 | [紅蓮の破魔矢](http://twitter.com/search?q=%e7%b4%85%e8%93%ae%e3%81%ae%e7%a0%b4%e9%ad%94%e7%9f%a2) | N/A |
-| 37 | [マンダロリアン](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%80%e3%83%ad%e3%83%aa%e3%82%a2%e3%83%b3) | N/A |
-| 38 | [カミナリ](http://twitter.com/search?q=%e3%82%ab%e3%83%9f%e3%83%8a%e3%83%aa) | N/A |
-| 39 | [ダイナモ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8a%e3%83%a2) | ダイナモ (dynamo) is a device that converts mechanical energy into electrical energy. It is commonly used in bicycles to generate electricity for lights and other accessories. In English, the word dynamo can also refer to a person or thing that produces great amounts of energy or activity. |
-| 40 | [フォロー祭り](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e7%a5%ad%e3%82%8a) | N/A |
-| 41 | [報徳学園](http://twitter.com/search?q=%e5%a0%b1%e5%be%b3%e5%ad%a6%e5%9c%92) | 報徳学園 is a private school in Japan. The name translates to "School of Gratitude and Virtue". The school was founded in 1950 and focuses on providing a holistic education to its students, emphasizing the importance of both academic excellence and moral development. |
-| 42 | [キスキル](http://twitter.com/search?q=%e3%82%ad%e3%82%b9%e3%82%ad%e3%83%ab) | N/A |
-| 43 | [HiHi](http://twitter.com/search?q=HiHi) | N/A |
-| 44 | [那須くん](http://twitter.com/search?q=%e9%82%a3%e9%a0%88%e3%81%8f%e3%82%93) | 那須くん is a nickname for the Japanese professional baseball player, Naoyuki Shimizu. It is a combination of his given name and the Japanese honorific suffix “-kun”, which is used to refer to young boys or close friends. In English, it would be translated as “Naoyuki-kun”. |
-| 45 | [SHOCK組](http://twitter.com/search?q=SHOCK%e7%b5%84) | N/A |
-| 46 | [ヴァリアンツ新規](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2%e3%83%b3%e3%83%84%e6%96%b0%e8%a6%8f) | N/A |
-| 47 | [アームカバー交換](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%a0%e3%82%ab%e3%83%90%e3%83%bc%e4%ba%a4%e6%8f%9b) | N/A |
-| 48 | [お嬢の新衣装](http://twitter.com/search?q=%e3%81%8a%e5%ac%a2%e3%81%ae%e6%96%b0%e8%a1%a3%e8%a3%85) | N/A |
-| 49 | [Z女戦争](http://twitter.com/search?q=Z%e5%a5%b3%e6%88%a6%e4%ba%89) | N/A |
-| 50 | [滋賀公演](http://twitter.com/search?q=%e6%bb%8b%e8%b3%80%e5%85%ac%e6%bc%94) | N/A |
+| 25 | [炭酸コーヒー](http://twitter.com/search?q=%e7%82%ad%e9%85%b8%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc) | N/A |
+| 26 | [オフレコ](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%83%ac%e3%82%b3) | オフレコ (ofureko) is a Japanese term that means "off the record". It is used to describe conversations or information that is not meant to be shared publicly. |
+| 27 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
+| 28 | [マンダロリアン](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%80%e3%83%ad%e3%83%aa%e3%82%a2%e3%83%b3) | N/A |
+| 29 | [憲法学者](http://twitter.com/search?q=%e6%86%b2%e6%b3%95%e5%ad%a6%e8%80%85) | N/A |
+| 30 | [岸くんの話](http://twitter.com/search?q=%e5%b2%b8%e3%81%8f%e3%82%93%e3%81%ae%e8%a9%b1) | N/A |
+| 31 | [エスパルス](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
+| 32 | [無料の水](http://twitter.com/search?q=%e7%84%a1%e6%96%99%e3%81%ae%e6%b0%b4) | N/A |
+| 33 | [フィオレンティナ](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%82%aa%e3%83%ac%e3%83%b3%e3%83%86%e3%82%a3%e3%83%8a) | N/A |
+| 34 | [シャオユウ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%82%aa%e3%83%a6%e3%82%a6) | N/A |
+| 35 | [コーン茶](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%b3%e8%8c%b6) | N/A |
+| 36 | [滋賀公演](http://twitter.com/search?q=%e6%bb%8b%e8%b3%80%e5%85%ac%e6%bc%94) | N/A |
+| 37 | [ルーキーバグ](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%ad%e3%83%bc%e3%83%90%e3%82%b0) | N/A |
+| 38 | [ロスマイ](http://twitter.com/search?q=%e3%83%ad%e3%82%b9%e3%83%9e%e3%82%a4) | N/A |
+| 39 | [Overdose 君](http://twitter.com/search?q=Overdose+%e5%90%9b) | N/A |
+| 40 | [Sランク契約書](http://twitter.com/search?q=S%e3%83%a9%e3%83%b3%e3%82%af%e5%a5%91%e7%b4%84%e6%9b%b8) | N/A |
+| 41 | [ギャル審神者](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%ab%e5%af%a9%e7%a5%9e%e8%80%85) | ギャル審神者 is a Japanese manga series written and illustrated by Kōsuke Masuda. It follows the story of a group of high school girls who are chosen to become "Galshenshinja," or "Gals Judges," and tasked with protecting the world from evil forces. The English translation of the title is "Gals Judge". |
+| 42 | [ダイナモ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8a%e3%83%a2) | ダイナモ (dynamo) is a device that converts mechanical energy into electrical energy. It is commonly used in bicycles to generate electricity for lights and other accessories. In English, the word dynamo can also refer to a person or thing that produces great amounts of energy or activity. |
+| 43 | [ゲリラ豪雨](http://twitter.com/search?q=%e3%82%b2%e3%83%aa%e3%83%a9%e8%b1%aa%e9%9b%a8) | N/A |
+| 44 | [フォロー祭り](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ad%e3%83%bc%e7%a5%ad%e3%82%8a) | N/A |
+| 45 | [蛮族の行為](http://twitter.com/search?q=%e8%9b%ae%e6%97%8f%e3%81%ae%e8%a1%8c%e7%82%ba) | N/A |
+| 46 | [せーけん](http://twitter.com/search?q=%e3%81%9b%e3%83%bc%e3%81%91%e3%82%93) | せーけん (Se-ken) is a Japanese phrase that means "Let's go!" or "Let's do it!" It is often used to encourage someone to take action or to show enthusiasm for an activity. |
+| 47 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
+| 48 | [はま寿司](http://twitter.com/search?q=%e3%81%af%e3%81%be%e5%af%bf%e5%8f%b8) | はま寿司 is a popular sushi chain in Japan. The name translates to "Hama Sushi" and refers to the fact that the restaurant specializes in Edomae-style sushi, which is made with fish caught in Tokyo Bay. The restaurant is known for its high-quality ingredients and reasonable prices. |
+| 49 | [ダイオウドウ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%aa%e3%82%a6%e3%83%89%e3%82%a6) | N/A |
+| 50 | [喧嘩・形](http://twitter.com/search?q=%e5%96%a7%e5%98%a9%e3%83%bb%e5%bd%a2) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-29 13:21:07 UTC`
+📆 Last Updated: `2023-03-29 14:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#muhendisinELİTAŞaltında](http://twitter.com/search?q=%23muhendisinEL%c4%b0TA%c5%9ealt%c4%b1nda) | N/A |
+| 1 | [ZirveninAdı YalıÇapkını](http://twitter.com/search?q=ZirveninAd%c4%b1+Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | N/A |
 | 2 | [Mehmet Aslantuğ](http://twitter.com/search?q=Mehmet+Aslantu%c4%9f) | N/A |
-| 3 | [Şahlanış Dönemi](http://twitter.com/search?q=%c5%9eahlan%c4%b1%c5%9f+D%c3%b6nemi) | N/A |
-| 4 | [#BuSeçim](http://twitter.com/search?q=%23BuSe%c3%a7im) | N/A |
-| 5 | [TBMM Grup Toplantısı](http://twitter.com/search?q=TBMM+Grup+Toplant%c4%b1s%c4%b1) | N/A |
-| 6 | [#Mujdeunileregelsin](http://twitter.com/search?q=%23Mujdeunileregelsin) | N/A |
-| 7 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
-| 8 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
-| 9 | [Temmuzda](http://twitter.com/search?q=Temmuzda) | N/A |
-| 10 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
-| 11 | [OyumEhliyet Affında](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1nda) | N/A |
-| 12 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
-| 13 | [Nisan](http://twitter.com/search?q=Nisan) | N/A |
-| 14 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
-| 15 | [Kayıp Bakan Nemo](http://twitter.com/search?q=Kay%c4%b1p+Bakan+Nemo) | N/A |
-| 16 | [Müjdat Gezen](http://twitter.com/search?q=M%c3%bcjdat+Gezen) | N/A |
-| 17 | [Mart](http://twitter.com/search?q=Mart) | N/A |
-| 18 | [Doğalgaz](http://twitter.com/search?q=Do%c4%9falgaz) | N/A |
-| 19 | [Hristiyan](http://twitter.com/search?q=Hristiyan) | N/A |
-| 20 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 21 | [Hizbullahçı](http://twitter.com/search?q=Hizbullah%c3%a7%c4%b1) | N/A |
-| 22 | [İndirim](http://twitter.com/search?q=%c4%b0ndirim) | N/A |
-| 23 | [Kışın](http://twitter.com/search?q=K%c4%b1%c5%9f%c4%b1n) | N/A |
-| 24 | [Bozmaz](http://twitter.com/search?q=Bozmaz) | N/A |
-| 25 | [İyi Parti'den](http://twitter.com/search?q=%c4%b0yi+Parti%27den) | N/A |
-| 26 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
-| 27 | [Bilgin](http://twitter.com/search?q=Bilgin) | N/A |
-| 28 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
-| 29 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 30 | [Hamza Yusuf](http://twitter.com/search?q=Hamza+Yusuf) | N/A |
-| 31 | [Hürriyet](http://twitter.com/search?q=H%c3%bcrriyet) | N/A |
-| 32 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
-| 33 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
-| 34 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
-| 35 | [#asgariücret](http://twitter.com/search?q=%23asgari%c3%bccret) | N/A |
-| 36 | [#BirTakımaDeğilHerkeseAdalet](http://twitter.com/search?q=%23BirTak%c4%b1maDe%c4%9filHerkeseAdalet) | N/A |
-| 37 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 38 | [#BeştepedenStajÇıksın](http://twitter.com/search?q=%23Be%c5%9ftepedenStaj%c3%87%c4%b1ks%c4%b1n) | N/A |
-| 39 | [#5BindeKısmideABOdaBiziz](http://twitter.com/search?q=%235BindeK%c4%b1smideABOdaBiziz) | N/A |
-| 40 | [#TİPSenin](http://twitter.com/search?q=%23T%c4%b0PSenin) | N/A |
-| 41 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
-| 42 | [#Oy2000lerde](http://twitter.com/search?q=%23Oy2000lerde) | N/A |
-| 43 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
-| 44 | [#MerkezTaşraHaksızlığı](http://twitter.com/search?q=%23MerkezTa%c5%9fraHaks%c4%b1zl%c4%b1%c4%9f%c4%b1) | N/A |
-| 45 | [#çokzor](http://twitter.com/search?q=%23%c3%a7okzor) | N/A |
-| 46 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 47 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 48 | [#karyağıyor](http://twitter.com/search?q=%23karya%c4%9f%c4%b1yor) | N/A |
+| 3 | [#muhendisinELİTAŞaltında](http://twitter.com/search?q=%23muhendisinEL%c4%b0TA%c5%9ealt%c4%b1nda) | N/A |
+| 4 | [Şahlanış Dönemi](http://twitter.com/search?q=%c5%9eahlan%c4%b1%c5%9f+D%c3%b6nemi) | N/A |
+| 5 | [Reisden DenklikMüjdesi](http://twitter.com/search?q=Reisden+DenklikM%c3%bcjdesi) | N/A |
+| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 7 | [#asgariücret](http://twitter.com/search?q=%23asgari%c3%bccret) | N/A |
+| 8 | [Kıyamet Alametleri](http://twitter.com/search?q=K%c4%b1yamet+Alametleri) | N/A |
+| 9 | [TBMM Grup Toplantısı](http://twitter.com/search?q=TBMM+Grup+Toplant%c4%b1s%c4%b1) | N/A |
+| 10 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 11 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 12 | [Temmuzda](http://twitter.com/search?q=Temmuzda) | N/A |
+| 13 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
+| 14 | [OyumEhliyet Affında](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1nda) | N/A |
+| 15 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 16 | [Mustafa Destici](http://twitter.com/search?q=Mustafa+Destici) | N/A |
+| 17 | [Kadrolu](http://twitter.com/search?q=Kadrolu) | N/A |
+| 18 | [Batman'da](http://twitter.com/search?q=Batman%27da) | N/A |
+| 19 | [Nisan](http://twitter.com/search?q=Nisan) | N/A |
+| 20 | [Kayıp Bakan Nemo](http://twitter.com/search?q=Kay%c4%b1p+Bakan+Nemo) | N/A |
+| 21 | [Mart](http://twitter.com/search?q=Mart) | N/A |
+| 22 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
+| 23 | [Çöküş](http://twitter.com/search?q=%c3%87%c3%b6k%c3%bc%c5%9f) | N/A |
+| 24 | [Nevşehir](http://twitter.com/search?q=Nev%c5%9fehir) | N/A |
+| 25 | [Doğalgaz](http://twitter.com/search?q=Do%c4%9falgaz) | N/A |
+| 26 | [Hizbullahçı](http://twitter.com/search?q=Hizbullah%c3%a7%c4%b1) | N/A |
+| 27 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
+| 28 | [Müjdat Gezen](http://twitter.com/search?q=M%c3%bcjdat+Gezen) | N/A |
+| 29 | [Hristiyan](http://twitter.com/search?q=Hristiyan) | N/A |
+| 30 | [İndirim](http://twitter.com/search?q=%c4%b0ndirim) | N/A |
+| 31 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 32 | [Bozmaz](http://twitter.com/search?q=Bozmaz) | N/A |
+| 33 | [Kütüphaneler Haftası](http://twitter.com/search?q=K%c3%bct%c3%bcphaneler+Haftas%c4%b1) | N/A |
+| 34 | [Bilgin](http://twitter.com/search?q=Bilgin) | N/A |
+| 35 | [Karadeniz](http://twitter.com/search?q=Karadeniz) | N/A |
+| 36 | [Hamza Yusuf](http://twitter.com/search?q=Hamza+Yusuf) | N/A |
+| 37 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
+| 38 | [iyi parti'den](http://twitter.com/search?q=iyi+parti%27den) | N/A |
+| 39 | [Hürriyet](http://twitter.com/search?q=H%c3%bcrriyet) | N/A |
+| 40 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
+| 41 | [#TİPSenin](http://twitter.com/search?q=%23T%c4%b0PSenin) | N/A |
+| 42 | [#BuSeçim](http://twitter.com/search?q=%23BuSe%c3%a7im) | N/A |
+| 43 | [#BeştepedenStajÇıksın](http://twitter.com/search?q=%23Be%c5%9ftepedenStaj%c3%87%c4%b1ks%c4%b1n) | N/A |
+| 44 | [#Mujdeunileregelsin](http://twitter.com/search?q=%23Mujdeunileregelsin) | N/A |
+| 45 | [#SağlıkçıBakanlığı](http://twitter.com/search?q=%23Sa%c4%9fl%c4%b1k%c3%a7%c4%b1Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 46 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
+| 47 | [#BirTakımaDeğilHerkeseAdalet](http://twitter.com/search?q=%23BirTak%c4%b1maDe%c4%9filHerkeseAdalet) | N/A |
+| 48 | [#5BindeKısmideABOdaBiziz](http://twitter.com/search?q=%235BindeK%c4%b1smideABOdaBiziz) | N/A |
 
 
 

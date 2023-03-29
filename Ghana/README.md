@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-29 13:21:19 UTC`
+📆 Last Updated: `2023-03-29 14:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ghana
 | 2 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
 | 3 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 4 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 5 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
-| 6 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 7 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 8 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
-| 9 | [#PheelzSummerVisuals](http://twitter.com/search?q=%23PheelzSummerVisuals) | N/A |
-| 10 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
-| 11 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 12 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
-| 13 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 14 | [#HappyBirthdayShowBoy](http://twitter.com/search?q=%23HappyBirthdayShowBoy) | N/A |
+| 5 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 6 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
+| 7 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 8 | [#PheelzSummerVisuals](http://twitter.com/search?q=%23PheelzSummerVisuals) | N/A |
+| 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 10 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 11 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
+| 12 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
+| 13 | [#happybirthdayshowboy](http://twitter.com/search?q=%23happybirthdayshowboy) | N/A |
+| 14 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 | 15 | [Ernest Nuamah](http://twitter.com/search?q=Ernest+Nuamah) | N/A |
 | 16 | [Happy 79th](http://twitter.com/search?q=Happy+79th) | N/A |
-| 17 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 18 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 17 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 18 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
 | 19 | [max tv](http://twitter.com/search?q=max+tv) | N/A |
-| 20 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
-| 21 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 22 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 23 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 24 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 25 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 26 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 27 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
-| 28 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 29 | [Barnieh](http://twitter.com/search?q=Barnieh) | N/A |
-| 30 | [GSTS](http://twitter.com/search?q=GSTS) | N/A |
-| 31 | [Black Meteors](http://twitter.com/search?q=Black+Meteors) | N/A |
-| 32 | [Afena](http://twitter.com/search?q=Afena) | N/A |
-| 33 | [Osu Police Barracks](http://twitter.com/search?q=Osu+Police+Barracks) | N/A |
-| 34 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 35 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
-| 36 | [Sam George](http://twitter.com/search?q=Sam+George) | N/A |
-| 37 | [U23 AFCON](http://twitter.com/search?q=U23+AFCON) | N/A |
-| 38 | [emergency](http://twitter.com/search?q=emergency) | N/A |
-| 39 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 40 | [paintsil](http://twitter.com/search?q=paintsil) | N/A |
-| 41 | [Fatawu Issahaku](http://twitter.com/search?q=Fatawu+Issahaku) | N/A |
-| 42 | [Fulani](http://twitter.com/search?q=Fulani) | N/A |
-| 43 | [cape coast castle](http://twitter.com/search?q=cape+coast+castle) | N/A |
-| 44 | [Addo D](http://twitter.com/search?q=Addo+D) | N/A |
-| 45 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 46 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 47 | [black star square](http://twitter.com/search?q=black+star+square) | N/A |
-| 48 | [Speaker of Parliament](http://twitter.com/search?q=Speaker+of+Parliament) | N/A |
-| 49 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 50 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 20 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 21 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 22 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
+| 23 | [#EarnEase](http://twitter.com/search?q=%23EarnEase) | N/A |
+| 24 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 25 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 26 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 27 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 28 | [GSTS](http://twitter.com/search?q=GSTS) | N/A |
+| 29 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 31 | [Barnieh](http://twitter.com/search?q=Barnieh) | N/A |
+| 32 | [Osu Police Barracks](http://twitter.com/search?q=Osu+Police+Barracks) | N/A |
+| 33 | [Black Meteors](http://twitter.com/search?q=Black+Meteors) | N/A |
+| 34 | [Cape Coast Castle](http://twitter.com/search?q=Cape+Coast+Castle) | N/A |
+| 35 | [Emergency](http://twitter.com/search?q=Emergency) | N/A |
+| 36 | [U23 AFCON](http://twitter.com/search?q=U23+AFCON) | N/A |
+| 37 | [Addo D](http://twitter.com/search?q=Addo+D) | N/A |
+| 38 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 39 | [Fatawu Issahaku](http://twitter.com/search?q=Fatawu+Issahaku) | N/A |
+| 40 | [Fulani](http://twitter.com/search?q=Fulani) | N/A |
+| 41 | [paintsil](http://twitter.com/search?q=paintsil) | N/A |
+| 42 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
+| 43 | [Sam George](http://twitter.com/search?q=Sam+George) | N/A |
+| 44 | [Afena](http://twitter.com/search?q=Afena) | N/A |
+| 45 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 46 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 47 | [Speaker of Parliament](http://twitter.com/search?q=Speaker+of+Parliament) | N/A |
+| 48 | [black star square](http://twitter.com/search?q=black+star+square) | N/A |
+| 49 | [yemi cregx the clout](http://twitter.com/search?q=yemi+cregx+the+clout) | N/A |
+| 50 | [Twist](http://twitter.com/search?q=Twist) | N/A |
 
 
 
