@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-29 02:39:09 UTC`
+📆 Last Updated: `2023-03-29 03:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for Belarus
 | 7 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
 | 8 | [жесть](http://twitter.com/search?q=%d0%b6%d0%b5%d1%81%d1%82%d1%8c) | N/A |
 | 9 | [В Бресте](http://twitter.com/search?q=%d0%92+%d0%91%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
-| 10 | [вроде](http://twitter.com/search?q=%d0%b2%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 10 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
 | 11 | [#SundayMillion](http://twitter.com/search?q=%23SundayMillion) | N/A |
 | 12 | [оооо](http://twitter.com/search?q=%d0%be%d0%be%d0%be%d0%be) | N/A |
-| 13 | [дотторе](http://twitter.com/search?q=%d0%b4%d0%be%d1%82%d1%82%d0%be%d1%80%d0%b5) | N/A |
+| 13 | [Дотторе](http://twitter.com/search?q=%d0%94%d0%be%d1%82%d1%82%d0%be%d1%80%d0%b5) | N/A |
 | 14 | [обязательно](http://twitter.com/search?q=%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 15 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
 | 16 | [круто](http://twitter.com/search?q=%d0%ba%d1%80%d1%83%d1%82%d0%be) | N/A |

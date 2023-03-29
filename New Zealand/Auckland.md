@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-03-29 02:39:00 UTC`
+📆 Last Updated: `2023-03-29 03:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 13 | [Brown](http://twitter.com/search?q=Brown) | N/A |
 | 14 | [The PM](http://twitter.com/search?q=The+PM) | N/A |
-| 15 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 16 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 17 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 18 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 19 | [Judith Collins](http://twitter.com/search?q=Judith+Collins) | N/A |
-| 20 | [Napier](http://twitter.com/search?q=Napier) | N/A |
-| 21 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 22 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 15 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 16 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 17 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 18 | [Judith Collins](http://twitter.com/search?q=Judith+Collins) | N/A |
+| 19 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 20 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 21 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 22 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 | 23 | [London](http://twitter.com/search?q=London) | N/A |
 | 24 | [Counterspin](http://twitter.com/search?q=Counterspin) | N/A |
-| 25 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 25 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
 | 26 | [David Seymour](http://twitter.com/search?q=David+Seymour) | N/A |
 | 27 | [Clint](http://twitter.com/search?q=Clint) | N/A |
 | 28 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 29 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 30 | [Māori](http://twitter.com/search?q=M%c4%81ori) | N/A |
-| 31 | [#fordtrophy](http://twitter.com/search?q=%23fordtrophy) | N/A |
+| 30 | [#fordtrophy](http://twitter.com/search?q=%23fordtrophy) | N/A |
+| 31 | [Reported](http://twitter.com/search?q=Reported) | N/A |
 | 32 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 33 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 34 | [Tova](http://twitter.com/search?q=Tova) | N/A |
-| 35 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 36 | [#TransTerrorism](http://twitter.com/search?q=%23TransTerrorism) | N/A |
-| 37 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 38 | [#harnessracing](http://twitter.com/search?q=%23harnessracing) | N/A |
-| 39 | [Organ](http://twitter.com/search?q=Organ) | N/A |
-| 40 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 41 | [Chippie](http://twitter.com/search?q=Chippie) | N/A |
-| 42 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 43 | [Evil](http://twitter.com/search?q=Evil) | N/A |
+| 33 | [Māori](http://twitter.com/search?q=M%c4%81ori) | N/A |
+| 34 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 35 | [Tova](http://twitter.com/search?q=Tova) | N/A |
+| 36 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 37 | [#TransTerrorism](http://twitter.com/search?q=%23TransTerrorism) | N/A |
+| 38 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 39 | [Craig](http://twitter.com/search?q=Craig) | N/A |
+| 40 | [#harnessracing](http://twitter.com/search?q=%23harnessracing) | N/A |
+| 41 | [Organ](http://twitter.com/search?q=Organ) | N/A |
+| 42 | [Chippie](http://twitter.com/search?q=Chippie) | N/A |
+| 43 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
 | 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 46 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 47 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 48 | [Male](http://twitter.com/search?q=Male) | N/A |
-| 49 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 50 | [Climate Change](http://twitter.com/search?q=Climate+Change) | N/A |
+| 45 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
+| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 47 | [Male](http://twitter.com/search?q=Male) | N/A |
+| 48 | [Climate Change](http://twitter.com/search?q=Climate+Change) | N/A |
+| 49 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 50 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
 
 
 

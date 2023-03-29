@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-29 02:39:10 UTC`
+📆 Last Updated: `2023-03-29 03:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,15 +50,15 @@ This is top 50 for Ireland
 | 33 | [#SCOSPA](http://twitter.com/search?q=%23SCOSPA) | N/A |
 | 34 | [Dublin City](http://twitter.com/search?q=Dublin+City) | N/A |
 | 35 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 36 | [Thurles](http://twitter.com/search?q=Thurles) | N/A |
+| 36 | [thurles](http://twitter.com/search?q=thurles) | N/A |
 | 37 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 38 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
 | 39 | [Tobermore](http://twitter.com/search?q=Tobermore) | N/A |
 | 40 | [Corbyn](http://twitter.com/search?q=Corbyn) | N/A |
 | 41 | [America](http://twitter.com/search?q=America) | N/A |
 | 42 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 43 | [Delaney](http://twitter.com/search?q=Delaney) | N/A |
-| 44 | [Off the Ball](http://twitter.com/search?q=Off+the+Ball) | N/A |
+| 43 | [delaney](http://twitter.com/search?q=delaney) | N/A |
+| 44 | [off the ball](http://twitter.com/search?q=off+the+ball) | N/A |
 | 45 | [Knight](http://twitter.com/search?q=Knight) | N/A |
 | 46 | [Collins](http://twitter.com/search?q=Collins) | N/A |
 | 47 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |

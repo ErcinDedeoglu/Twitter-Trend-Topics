@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-29 02:38:34 UTC`
+📆 Last Updated: `2023-03-29 03:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,7 +43,7 @@ This is top 50 for [Austria](</Austria>)
 | 26 | [estland](http://twitter.com/search?q=estland) | N/A |
 | 27 | [stimmungsbild](http://twitter.com/search?q=stimmungsbild) | N/A |
 | 28 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
-| 29 | [Türen](http://twitter.com/search?q=T%c3%bcren) | N/A |
+| 29 | [türen](http://twitter.com/search?q=t%c3%bcren) | N/A |
 | 30 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
 | 31 | [liesing](http://twitter.com/search?q=liesing) | N/A |
 | 32 | [Gesundheitssystem](http://twitter.com/search?q=Gesundheitssystem) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Austria](</Austria>)
 | 45 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
 | 46 | [Bekanntenkreis](http://twitter.com/search?q=Bekanntenkreis) | N/A |
 | 47 | [Lebensqualität](http://twitter.com/search?q=Lebensqualit%c3%a4t) | N/A |
-| 48 | [Willkommen](http://twitter.com/search?q=Willkommen) | N/A |
+| 48 | [willkommen](http://twitter.com/search?q=willkommen) | N/A |
 | 49 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 50 | [jänner](http://twitter.com/search?q=j%c3%a4nner) | N/A |
 

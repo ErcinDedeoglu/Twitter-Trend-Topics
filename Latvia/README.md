@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-29 02:39:12 UTC`
+📆 Last Updated: `2023-03-29 03:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,7 +36,7 @@ This is top 50 for Latvia
 | 19 | [kasko](http://twitter.com/search?q=kasko) | N/A |
 | 20 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
 | 21 | [VISIEM](http://twitter.com/search?q=VISIEM) | N/A |
-| 22 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
+| 22 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 23 | [#patolaiku](http://twitter.com/search?q=%23patolaiku) | N/A |
 | 24 | [pīlēns](http://twitter.com/search?q=p%c4%abl%c4%93ns) | N/A |
 | 25 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
@@ -58,11 +58,11 @@ This is top 50 for Latvia
 | 41 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
 | 42 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
 | 43 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 44 | [kaut](http://twitter.com/search?q=kaut) | N/A |
+| 44 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
 | 45 | [tiem](http://twitter.com/search?q=tiem) | N/A |
 | 46 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
 | 47 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
-| 48 | [interesanti](http://twitter.com/search?q=interesanti) | N/A |
+| 48 | [Interesanti](http://twitter.com/search?q=Interesanti) | N/A |
 | 49 | [somijas](http://twitter.com/search?q=somijas) | N/A |
 | 50 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
 

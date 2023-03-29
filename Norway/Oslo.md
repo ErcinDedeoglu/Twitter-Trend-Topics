@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-03-29 02:38:41 UTC`
+📆 Last Updated: `2023-03-29 03:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,21 +20,21 @@ This is top 50 for [Norway](</Norway>)
 | 3 | [#geonor](http://twitter.com/search?q=%23geonor) | N/A |
 | 4 | [Strandberg](http://twitter.com/search?q=Strandberg) | N/A |
 | 5 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
-| 6 | [spania](http://twitter.com/search?q=spania) | N/A |
-| 7 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 8 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
+| 6 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
+| 7 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
+| 8 | [Spania](http://twitter.com/search?q=Spania) | N/A |
 | 9 | [strand larsen](http://twitter.com/search?q=strand+larsen) | N/A |
-| 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 11 | [thorstvedt](http://twitter.com/search?q=thorstvedt) | N/A |
-| 12 | [Janne](http://twitter.com/search?q=Janne) | N/A |
-| 13 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
-| 14 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 15 | [Nadderud](http://twitter.com/search?q=Nadderud) | N/A |
+| 10 | [thorstvedt](http://twitter.com/search?q=thorstvedt) | N/A |
+| 11 | [Janne](http://twitter.com/search?q=Janne) | N/A |
+| 12 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
+| 13 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 14 | [Nadderud](http://twitter.com/search?q=Nadderud) | N/A |
+| 15 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 16 | [sørloth](http://twitter.com/search?q=s%c3%b8rloth) | N/A |
 | 17 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
-| 18 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 18 | [bærum](http://twitter.com/search?q=b%c3%a6rum) | N/A |
 | 19 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 20 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
+| 20 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | N/A |
 | 21 | [#lakseskatt](http://twitter.com/search?q=%23lakseskatt) | N/A |
 | 22 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
 | 23 | [sissener](http://twitter.com/search?q=sissener) | N/A |
@@ -50,10 +50,10 @@ This is top 50 for [Norway](</Norway>)
 | 33 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 34 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
 | 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 36 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 37 | [aker](http://twitter.com/search?q=aker) | N/A |
-| 38 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 39 | [Kristiansand](http://twitter.com/search?q=Kristiansand) | N/A |
+| 36 | [Kristiansand](http://twitter.com/search?q=Kristiansand) | N/A |
+| 37 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 38 | [aker](http://twitter.com/search?q=aker) | N/A |
+| 39 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 40 | [artig](http://twitter.com/search?q=artig) | N/A |
 | 41 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
 | 42 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |

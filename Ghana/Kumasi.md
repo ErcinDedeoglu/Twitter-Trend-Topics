@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-03-29 02:38:50 UTC`
+📆 Last Updated: `2023-03-29 03:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,13 +19,13 @@ This is top 50 for [Ghana](</Ghana>)
 | 2 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
 | 3 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 4 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 5 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 6 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
-| 7 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 8 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 5 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
+| 6 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 7 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 8 | [Ernest Nuamah](http://twitter.com/search?q=Ernest+Nuamah) | N/A |
 | 9 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
-| 10 | [Ernest Nuamah](http://twitter.com/search?q=Ernest+Nuamah) | N/A |
-| 11 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 10 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 11 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
 | 12 | [Barnieh](http://twitter.com/search?q=Barnieh) | N/A |
 | 13 | [#anggha](http://twitter.com/search?q=%23anggha) | N/A |
 | 14 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
@@ -38,32 +38,32 @@ This is top 50 for [Ghana](</Ghana>)
 | 21 | [Emergency](http://twitter.com/search?q=Emergency) | N/A |
 | 22 | [max tv](http://twitter.com/search?q=max+tv) | N/A |
 | 23 | [amartey](http://twitter.com/search?q=amartey) | N/A |
-| 24 | [Afena](http://twitter.com/search?q=Afena) | N/A |
-| 25 | [Baba Rahman](http://twitter.com/search?q=Baba+Rahman) | N/A |
-| 26 | [Fatawu Issahaku](http://twitter.com/search?q=Fatawu+Issahaku) | N/A |
-| 27 | [majeed ashimeru](http://twitter.com/search?q=majeed+ashimeru) | N/A |
+| 24 | [Baba Rahman](http://twitter.com/search?q=Baba+Rahman) | N/A |
+| 25 | [Fatawu Issahaku](http://twitter.com/search?q=Fatawu+Issahaku) | N/A |
+| 26 | [majeed ashimeru](http://twitter.com/search?q=majeed+ashimeru) | N/A |
+| 27 | [Afena](http://twitter.com/search?q=Afena) | N/A |
 | 28 | [#ghaalg](http://twitter.com/search?q=%23ghaalg) | N/A |
 | 29 | [paintsil](http://twitter.com/search?q=paintsil) | N/A |
 | 30 | [#Kojoforex](http://twitter.com/search?q=%23Kojoforex) | N/A |
 | 31 | [U23 AFCON](http://twitter.com/search?q=U23+AFCON) | N/A |
-| 32 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
-| 33 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 34 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
-| 35 | [#joysms](http://twitter.com/search?q=%23joysms) | N/A |
-| 36 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 37 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
-| 38 | [#pheelzlikesummer](http://twitter.com/search?q=%23pheelzlikesummer) | N/A |
-| 39 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 40 | [ati zigi](http://twitter.com/search?q=ati+zigi) | N/A |
-| 41 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 42 | [Sam George](http://twitter.com/search?q=Sam+George) | N/A |
+| 32 | [yemi cregx the clout](http://twitter.com/search?q=yemi+cregx+the+clout) | N/A |
+| 33 | [#joysms](http://twitter.com/search?q=%23joysms) | N/A |
+| 34 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 35 | [Gideon Mensah](http://twitter.com/search?q=Gideon+Mensah) | N/A |
+| 36 | [#pheelzlikesummer](http://twitter.com/search?q=%23pheelzlikesummer) | N/A |
+| 37 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 38 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 39 | [ati zigi](http://twitter.com/search?q=ati+zigi) | N/A |
+| 40 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 41 | [Sam George](http://twitter.com/search?q=Sam+George) | N/A |
+| 42 | [Kamaldeen](http://twitter.com/search?q=Kamaldeen) | N/A |
 | 43 | [Black Star Square](http://twitter.com/search?q=Black+Star+Square) | N/A |
 | 44 | [Khedira](http://twitter.com/search?q=Khedira) | N/A |
 | 45 | [Twist](http://twitter.com/search?q=Twist) | N/A |
 | 46 | [edmund addo](http://twitter.com/search?q=edmund+addo) | N/A |
 | 47 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 48 | [America](http://twitter.com/search?q=America) | N/A |
-| 49 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 49 | [Chris Hughton](http://twitter.com/search?q=Chris+Hughton) | N/A |
 
 
 

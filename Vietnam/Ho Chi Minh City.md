@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-29 02:38:49 UTC`
+📆 Last Updated: `2023-03-29 03:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 8 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
 | 9 | [unfiltered biblebuild](http://twitter.com/search?q=unfiltered+biblebuild) | N/A |
 | 10 | [JAM x FILM](http://twitter.com/search?q=JAM+x+FILM) | N/A |
-| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 12 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 13 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 14 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 15 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 16 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
-| 17 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 18 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 19 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 20 | [Wintermute](http://twitter.com/search?q=Wintermute) | N/A |
-| 21 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 22 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 23 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 25 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 26 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 27 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 28 | [Prem](http://twitter.com/search?q=Prem) | N/A |
-| 29 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 31 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
-| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 33 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 34 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 35 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 36 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 37 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 38 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 39 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 40 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 41 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 42 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 43 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 44 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
-| 45 | [joong](http://twitter.com/search?q=joong) | N/A |
-| 46 | [Boun](http://twitter.com/search?q=Boun) | N/A |
-| 47 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 48 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 49 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
-| 50 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 11 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 12 | [Wombat](http://twitter.com/search?q=Wombat) | N/A |
+| 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 14 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 15 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 16 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 18 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
+| 19 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 20 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 21 | [Wintermute](http://twitter.com/search?q=Wintermute) | N/A |
+| 22 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 23 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 24 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 25 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 26 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 27 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 29 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 30 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 31 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 32 | [Prem](http://twitter.com/search?q=Prem) | N/A |
+| 33 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 34 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 35 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
+| 36 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
+| 37 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 38 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 39 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 40 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 41 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
+| 42 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 43 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
+| 44 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 45 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 46 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 47 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 48 | [Boun](http://twitter.com/search?q=Boun) | N/A |
+| 49 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 50 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
 
 
 

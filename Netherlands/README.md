@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-29 02:39:13 UTC`
+📆 Last Updated: `2023-03-29 03:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,25 +20,25 @@ This is top 50 for Netherlands
 | 3 | [Rome](http://twitter.com/search?q=Rome) | N/A |
 | 4 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
 | 5 | [el yaakoubi](http://twitter.com/search?q=el+yaakoubi) | N/A |
-| 6 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 7 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 8 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
-| 9 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 10 | [micha kat](http://twitter.com/search?q=micha+kat) | N/A |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [Italiaans](http://twitter.com/search?q=Italiaans) | N/A |
+| 6 | [eerdmans](http://twitter.com/search?q=eerdmans) | N/A |
+| 7 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
+| 8 | [micha kat](http://twitter.com/search?q=micha+kat) | N/A |
+| 9 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 10 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 11 | [Italiaans](http://twitter.com/search?q=Italiaans) | N/A |
+| 12 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 13 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
 | 14 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 15 | [vollenbroek](http://twitter.com/search?q=vollenbroek) | N/A |
 | 16 | [#KhalidenSophie](http://twitter.com/search?q=%23KhalidenSophie) | N/A |
 | 17 | [vlieland](http://twitter.com/search?q=vlieland) | N/A |
-| 18 | [#Rutte](http://twitter.com/search?q=%23Rutte) | N/A |
-| 19 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 20 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 21 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 22 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 23 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
-| 24 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
+| 18 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 19 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 20 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 21 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 22 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
+| 23 | [thijs slegers](http://twitter.com/search?q=thijs+slegers) | N/A |
+| 24 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
 | 25 | [verbieden](http://twitter.com/search?q=verbieden) | N/A |
 | 26 | [Bushalte](http://twitter.com/search?q=Bushalte) | N/A |
 | 27 | [Postkantoor](http://twitter.com/search?q=Postkantoor) | N/A |
@@ -54,8 +54,8 @@ This is top 50 for Netherlands
 | 37 | [jaap van dissel](http://twitter.com/search?q=jaap+van+dissel) | N/A |
 | 38 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 39 | [trauner](http://twitter.com/search?q=trauner) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [onelove-band](http://twitter.com/search?q=onelove-band) | N/A |
+| 40 | [onelove-band](http://twitter.com/search?q=onelove-band) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 42 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
 | 43 | [virtueel](http://twitter.com/search?q=virtueel) | N/A |
 | 44 | [tegenpartij](http://twitter.com/search?q=tegenpartij) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Netherlands
 | 47 | [Janis](http://twitter.com/search?q=Janis) | N/A |
 | 48 | [cabaretier](http://twitter.com/search?q=cabaretier) | N/A |
 | 49 | [vpro](http://twitter.com/search?q=vpro) | N/A |
-| 50 | [Houellebecq](http://twitter.com/search?q=Houellebecq) | N/A |
+| 50 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
 
 
 
