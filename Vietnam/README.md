@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-29 01:49:10 UTC`
+📆 Last Updated: `2023-03-29 02:39:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for Vietnam
 | 8 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
 | 9 | [unfiltered biblebuild](http://twitter.com/search?q=unfiltered+biblebuild) | N/A |
 | 10 | [JAM x FILM](http://twitter.com/search?q=JAM+x+FILM) | N/A |
-| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 12 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 11 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 12 | [Wombat](http://twitter.com/search?q=Wombat) | N/A |
 | 13 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
 | 14 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 15 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 16 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 16 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
 | 17 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
 | 18 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 19 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 21 | [wintermute](http://twitter.com/search?q=wintermute) | N/A |
+| 19 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 20 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 21 | [Wintermute](http://twitter.com/search?q=Wintermute) | N/A |
 | 22 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 23 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 24 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 25 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 23 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 24 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
 | 27 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 28 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 28 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 29 | [Prem](http://twitter.com/search?q=Prem) | N/A |
 | 30 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 31 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
-| 32 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 33 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 34 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
-| 35 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 36 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 37 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 38 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 39 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 40 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 41 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 42 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
-| 43 | [cần thơ](http://twitter.com/search?q=c%e1%ba%a7n+th%c6%a1) | N/A |
-| 44 | [joong](http://twitter.com/search?q=joong) | N/A |
-| 45 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 46 | [cưng](http://twitter.com/search?q=c%c6%b0ng) | N/A |
-| 47 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
-| 48 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 49 | [Boun](http://twitter.com/search?q=Boun) | N/A |
-| 50 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 31 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 32 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
+| 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 34 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
+| 35 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 36 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 37 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 38 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 39 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 40 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 41 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 42 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 43 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 44 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 45 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
+| 46 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 47 | [Boun](http://twitter.com/search?q=Boun) | N/A |
+| 48 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 49 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 50 | [Cưng](http://twitter.com/search?q=C%c6%b0ng) | N/A |
 
 
 

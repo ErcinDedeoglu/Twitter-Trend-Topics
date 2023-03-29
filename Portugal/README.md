@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-29 01:49:08 UTC`
+📆 Last Updated: `2023-03-29 02:39:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for Portugal
 | 2 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
 | 3 | [Boaventura](http://twitter.com/search?q=Boaventura) | N/A |
 | 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [Hugo Soares](http://twitter.com/search?q=Hugo+Soares) | N/A |
-| 6 | [Centro Ismaili](http://twitter.com/search?q=Centro+Ismaili) | N/A |
+| 5 | [Centro Ismaili](http://twitter.com/search?q=Centro+Ismaili) | N/A |
+| 6 | [Hugo Soares](http://twitter.com/search?q=Hugo+Soares) | N/A |
 | 7 | [Mondego](http://twitter.com/search?q=Mondego) | N/A |
 | 8 | [Girão](http://twitter.com/search?q=Gir%c3%a3o) | N/A |
 | 9 | [Éder](http://twitter.com/search?q=%c3%89der) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for Portugal
 | 13 | [#AndebolSCP](http://twitter.com/search?q=%23AndebolSCP) | N/A |
 | 14 | [Afegão](http://twitter.com/search?q=Afeg%c3%a3o) | N/A |
 | 15 | [Dia Mundial](http://twitter.com/search?q=Dia+Mundial) | N/A |
-| 16 | [João Rocha](http://twitter.com/search?q=Jo%c3%a3o+Rocha) | N/A |
+| 16 | [joão rocha](http://twitter.com/search?q=jo%c3%a3o+rocha) | N/A |
 | 17 | [Porro](http://twitter.com/search?q=Porro) | N/A |
 | 18 | [Afeganistão](http://twitter.com/search?q=Afeganist%c3%a3o) | N/A |
 | 19 | [Paulo Gonçalves](http://twitter.com/search?q=Paulo+Gon%c3%a7alves) | N/A |
@@ -49,14 +49,14 @@ This is top 50 for Portugal
 | 32 | [Vila do Conde](http://twitter.com/search?q=Vila+do+Conde) | N/A |
 | 33 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 34 | [#3qualities1flaw](http://twitter.com/search?q=%233qualities1flaw) | N/A |
-| 35 | [#ehfel](http://twitter.com/search?q=%23ehfel) | N/A |
-| 36 | [O MP](http://twitter.com/search?q=O+MP) | N/A |
-| 37 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 38 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 39 | [Coitadinho](http://twitter.com/search?q=Coitadinho) | N/A |
-| 40 | [Expresso](http://twitter.com/search?q=Expresso) | N/A |
-| 41 | [Cashball](http://twitter.com/search?q=Cashball) | N/A |
-| 42 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 35 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 36 | [#ehfel](http://twitter.com/search?q=%23ehfel) | N/A |
+| 37 | [O MP](http://twitter.com/search?q=O+MP) | N/A |
+| 38 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 39 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 40 | [Coitadinho](http://twitter.com/search?q=Coitadinho) | N/A |
+| 41 | [Expresso](http://twitter.com/search?q=Expresso) | N/A |
+| 42 | [Cashball](http://twitter.com/search?q=Cashball) | N/A |
 | 43 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 | 44 | [Esteves](http://twitter.com/search?q=Esteves) | N/A |
 | 45 | [iPhones](http://twitter.com/search?q=iPhones) | N/A |

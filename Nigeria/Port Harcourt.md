@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-29 01:48:44 UTC`
+📆 Last Updated: `2023-03-29 02:38:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,47 +20,47 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 3 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
 | 4 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
 | 5 | [#WhereIsTinubu](http://twitter.com/search?q=%23WhereIsTinubu) | N/A |
-| 6 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 7 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 8 | [Mummy GO](http://twitter.com/search?q=Mummy+GO) | N/A |
-| 9 | [Emeka Ihedioha](http://twitter.com/search?q=Emeka+Ihedioha) | N/A |
-| 10 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 11 | [Lo Celso](http://twitter.com/search?q=Lo+Celso) | N/A |
+| 6 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 7 | [Mummy GO](http://twitter.com/search?q=Mummy+GO) | N/A |
+| 8 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 9 | [Lo Celso](http://twitter.com/search?q=Lo+Celso) | N/A |
+| 10 | [Emeka Ihedioha](http://twitter.com/search?q=Emeka+Ihedioha) | N/A |
+| 11 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
 | 12 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
 | 13 | [#goldenpennyspread](http://twitter.com/search?q=%23goldenpennyspread) | N/A |
-| 14 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 15 | [#peakramadangoodness](http://twitter.com/search?q=%23peakramadangoodness) | N/A |
-| 16 | [Declan](http://twitter.com/search?q=Declan) | N/A |
-| 17 | [Hattrick](http://twitter.com/search?q=Hattrick) | N/A |
+| 14 | [#peakramadangoodness](http://twitter.com/search?q=%23peakramadangoodness) | N/A |
+| 15 | [Hattrick](http://twitter.com/search?q=Hattrick) | N/A |
+| 16 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 17 | [Declan](http://twitter.com/search?q=Declan) | N/A |
 | 18 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 19 | [Salisu Yusuf](http://twitter.com/search?q=Salisu+Yusuf) | N/A |
-| 20 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 21 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 19 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 20 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 21 | [Salisu Yusuf](http://twitter.com/search?q=Salisu+Yusuf) | N/A |
 | 22 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
 | 23 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 24 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 25 | [Whitemoney](http://twitter.com/search?q=Whitemoney) | N/A |
-| 26 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
-| 27 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 24 | [Whitemoney](http://twitter.com/search?q=Whitemoney) | N/A |
+| 25 | [Nedu](http://twitter.com/search?q=Nedu) | N/A |
+| 26 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 27 | [Blessing CEO](http://twitter.com/search?q=Blessing+CEO) | N/A |
 | 28 | [Balogun Market](http://twitter.com/search?q=Balogun+Market) | N/A |
-| 29 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 30 | [Blessing CEO](http://twitter.com/search?q=Blessing+CEO) | N/A |
-| 31 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 32 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 33 | [Elele](http://twitter.com/search?q=Elele) | N/A |
-| 34 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
-| 35 | [Akoi Tinubu](http://twitter.com/search?q=Akoi+Tinubu) | N/A |
-| 36 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
-| 37 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
-| 38 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
-| 39 | [PRIMARY 3](http://twitter.com/search?q=PRIMARY+3) | N/A |
-| 40 | [daddy go](http://twitter.com/search?q=daddy+go) | N/A |
+| 29 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 30 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
+| 31 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 32 | [YEMI CREGX THE CLOUT](http://twitter.com/search?q=YEMI+CREGX+THE+CLOUT) | N/A |
+| 33 | [Akoi Tinubu](http://twitter.com/search?q=Akoi+Tinubu) | N/A |
+| 34 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
+| 35 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
+| 36 | [VOTE KANAGA JNR](http://twitter.com/search?q=VOTE+KANAGA+JNR) | N/A |
+| 37 | [PRIMARY 3](http://twitter.com/search?q=PRIMARY+3) | N/A |
+| 38 | [Doyin](http://twitter.com/search?q=Doyin) | N/A |
+| 39 | [daddy go](http://twitter.com/search?q=daddy+go) | N/A |
+| 40 | [Elele](http://twitter.com/search?q=Elele) | N/A |
 | 41 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 42 | [70% of Nigerian](http://twitter.com/search?q=70%25+of+Nigerian) | N/A |
-| 43 | [PHYNA IS CLEAR](http://twitter.com/search?q=PHYNA+IS+CLEAR) | N/A |
-| 44 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
-| 45 | [Wale Edun](http://twitter.com/search?q=Wale+Edun) | N/A |
-| 46 | [Caritas University](http://twitter.com/search?q=Caritas+University) | N/A |
+| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 43 | [70% of nigerian](http://twitter.com/search?q=70%25+of+nigerian) | N/A |
+| 44 | [phyna is clear](http://twitter.com/search?q=phyna+is+clear) | N/A |
+| 45 | [Gmail](http://twitter.com/search?q=Gmail) | N/A |
+| 46 | [Wale Edun](http://twitter.com/search?q=Wale+Edun) | N/A |
 | 47 | [Zazoo](http://twitter.com/search?q=Zazoo) | N/A |
 | 48 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
 

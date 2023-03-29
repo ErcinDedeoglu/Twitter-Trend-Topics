@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-29 01:49:04 UTC`
+📆 Last Updated: `2023-03-29 02:39:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,7 +31,7 @@ This is top 50 for Denmark
 | 14 | [dansk](http://twitter.com/search?q=dansk) | N/A |
 | 15 | [kjær](http://twitter.com/search?q=kj%c3%a6r) | N/A |
 | 16 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 17 | [A-kraft](http://twitter.com/search?q=A-kraft) | N/A |
+| 17 | [a-kraft](http://twitter.com/search?q=a-kraft) | N/A |
 | 18 | [royal arena](http://twitter.com/search?q=royal+arena) | N/A |
 | 19 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 20 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
@@ -49,7 +49,7 @@ This is top 50 for Denmark
 | 32 | [Højlund](http://twitter.com/search?q=H%c3%b8jlund) | N/A |
 | 33 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
 | 34 | [spørg](http://twitter.com/search?q=sp%c3%b8rg) | N/A |
-| 35 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 35 | [atomkraft](http://twitter.com/search?q=atomkraft) | N/A |
 | 36 | [bilka](http://twitter.com/search?q=bilka) | N/A |
 | 37 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
 | 38 | [Luke](http://twitter.com/search?q=Luke) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-03-29 01:48:26 UTC`
+📆 Last Updated: `2023-03-29 02:38:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,43 +27,43 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 10 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 11 | [#NiCorrupciónNiGuarimbas](http://twitter.com/search?q=%23NiCorrupci%c3%b3nNiGuarimbas) | N/A |
 | 12 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 13 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
-| 14 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 15 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
-| 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 17 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 13 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 14 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
+| 15 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
+| 16 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 17 | [Alexander González](http://twitter.com/search?q=Alexander+Gonz%c3%a1lez) | N/A |
 | 18 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Alexander González](http://twitter.com/search?q=Alexander+Gonz%c3%a1lez) | N/A |
-| 21 | [Carlitos González](http://twitter.com/search?q=Carlitos+Gonz%c3%a1lez) | N/A |
-| 22 | [Leopoldo López](http://twitter.com/search?q=Leopoldo+L%c3%b3pez) | N/A |
-| 23 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 24 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
-| 25 | [Andrés Giménez](http://twitter.com/search?q=Andr%c3%a9s+Gim%c3%a9nez) | N/A |
-| 26 | [Susy](http://twitter.com/search?q=Susy) | N/A |
-| 27 | [Universal](http://twitter.com/search?q=Universal) | N/A |
-| 28 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 29 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 30 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 31 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 32 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
-| 33 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 34 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 35 | [Mi Vivienda San Luis](http://twitter.com/search?q=Mi+Vivienda+San+Luis) | N/A |
-| 36 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 19 | [Leopoldo López](http://twitter.com/search?q=Leopoldo+L%c3%b3pez) | N/A |
+| 20 | [Carlitos González](http://twitter.com/search?q=Carlitos+Gonz%c3%a1lez) | N/A |
+| 21 | [Susy](http://twitter.com/search?q=Susy) | N/A |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 24 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 25 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
+| 26 | [Andrés Giménez](http://twitter.com/search?q=Andr%c3%a9s+Gim%c3%a9nez) | N/A |
+| 27 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 28 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 29 | [Universal](http://twitter.com/search?q=Universal) | N/A |
+| 30 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 31 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
+| 32 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 33 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
+| 34 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 35 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 36 | [Mi Vivienda San Luis](http://twitter.com/search?q=Mi+Vivienda+San+Luis) | N/A |
 | 37 | [Guy Williams](http://twitter.com/search?q=Guy+Williams) | N/A |
 | 38 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
-| 39 | [Libertad Plena](http://twitter.com/search?q=Libertad+Plena) | N/A |
-| 40 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 41 | [Grupo B](http://twitter.com/search?q=Grupo+B) | N/A |
-| 42 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 43 | [Adiós](http://twitter.com/search?q=Adi%c3%b3s) | N/A |
-| 44 | [Comisión Nacional de Primaria](http://twitter.com/search?q=Comisi%c3%b3n+Nacional+de+Primaria) | N/A |
-| 45 | [Alberto Arvelo Torrealba](http://twitter.com/search?q=Alberto+Arvelo+Torrealba) | N/A |
-| 46 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 39 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 40 | [Adiós](http://twitter.com/search?q=Adi%c3%b3s) | N/A |
+| 41 | [Comisión Nacional de Primaria](http://twitter.com/search?q=Comisi%c3%b3n+Nacional+de+Primaria) | N/A |
+| 42 | [Alberto Arvelo Torrealba](http://twitter.com/search?q=Alberto+Arvelo+Torrealba) | N/A |
+| 43 | [Libertad Plena](http://twitter.com/search?q=Libertad+Plena) | N/A |
+| 44 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 45 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 46 | [Galak](http://twitter.com/search?q=Galak) | N/A |
 | 47 | [Alí Rodríguez Araque](http://twitter.com/search?q=Al%c3%ad+Rodr%c3%adguez+Araque) | N/A |
-| 48 | [Carlos Prosperi](http://twitter.com/search?q=Carlos+Prosperi) | N/A |
-| 49 | [Rodríguez Espinoza](http://twitter.com/search?q=Rodr%c3%adguez+Espinoza) | N/A |
+| 48 | [Flips](http://twitter.com/search?q=Flips) | N/A |
+| 49 | [Dayana Mendoza](http://twitter.com/search?q=Dayana+Mendoza) | N/A |
 
 
 

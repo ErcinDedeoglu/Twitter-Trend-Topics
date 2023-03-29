@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-03-29 01:49:09 UTC`
+📆 Last Updated: `2023-03-29 02:39:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,40 @@ This is top 50 for South Africa
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 2 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 3 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 4 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 5 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 2 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 3 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
+| 4 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 5 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
 | 6 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 7 | [lepasa](http://twitter.com/search?q=lepasa) | N/A |
+| 7 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
 | 8 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
-| 9 | [#marchbonanza](http://twitter.com/search?q=%23marchbonanza) | N/A |
-| 10 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 11 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
-| 12 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 13 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
+| 9 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 10 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
+| 11 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
+| 12 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 13 | [#MarchBonanza](http://twitter.com/search?q=%23MarchBonanza) | N/A |
 | 14 | [#Iblewit](http://twitter.com/search?q=%23Iblewit) | N/A |
-| 15 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
-| 16 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 15 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 16 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
 | 17 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
 | 18 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
 | 19 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 20 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
 | 21 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 22 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 22 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
 | 23 | [iZwide](http://twitter.com/search?q=iZwide) | N/A |
-| 24 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 25 | [Ronwen Williams](http://twitter.com/search?q=Ronwen+Williams) | N/A |
+| 24 | [Ronwen Williams](http://twitter.com/search?q=Ronwen+Williams) | N/A |
+| 25 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 26 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 27 | [Broos](http://twitter.com/search?q=Broos) | N/A |
+| 27 | [broos](http://twitter.com/search?q=broos) | N/A |
 | 28 | [DEAR THABANG](http://twitter.com/search?q=DEAR+THABANG) | N/A |
 | 29 | [THABANG MEETS TBANGERS](http://twitter.com/search?q=THABANG+MEETS+TBANGERS) | N/A |
-| 30 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 30 | [Maela](http://twitter.com/search?q=Maela) | N/A |
 | 31 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
 | 32 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 33 | [Maela](http://twitter.com/search?q=Maela) | N/A |
+| 33 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 | 34 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 35 | [sithole](http://twitter.com/search?q=sithole) | N/A |
+| 35 | [Sithole](http://twitter.com/search?q=Sithole) | N/A |
 | 36 | [Unborn](http://twitter.com/search?q=Unborn) | N/A |
 | 37 | [mvala](http://twitter.com/search?q=mvala) | N/A |
 | 38 | [SAFA](http://twitter.com/search?q=SAFA) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for South Africa
 | 41 | [congratulations thembabroly](http://twitter.com/search?q=congratulations+thembabroly) | N/A |
 | 42 | [cilliers brink](http://twitter.com/search?q=cilliers+brink) | N/A |
 | 43 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 44 | [Refreshing](http://twitter.com/search?q=Refreshing) | N/A |
-| 45 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
-| 46 | [mayambela](http://twitter.com/search?q=mayambela) | N/A |
-| 47 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
-| 48 | [Chris Excel](http://twitter.com/search?q=Chris+Excel) | N/A |
-| 49 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 50 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
+| 44 | [Proteas](http://twitter.com/search?q=Proteas) | N/A |
+| 45 | [Mayambela](http://twitter.com/search?q=Mayambela) | N/A |
+| 46 | [VOTE TSATSII](http://twitter.com/search?q=VOTE+TSATSII) | N/A |
+| 47 | [Cameroon](http://twitter.com/search?q=Cameroon) | N/A |
+| 48 | [Reeza Hendricks](http://twitter.com/search?q=Reeza+Hendricks) | N/A |
+| 49 | [Tuks](http://twitter.com/search?q=Tuks) | N/A |
+| 50 | [Morena](http://twitter.com/search?q=Morena) | N/A |
 
 
 

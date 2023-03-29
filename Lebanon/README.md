@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-29 01:49:06 UTC`
+📆 Last Updated: `2023-03-29 02:39:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,40 +17,40 @@ This is top 50 for Lebanon
 | ------- | ------------ | ------------ |
 | 1 | [علي حسن خليل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%b3%d9%86+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
 | 2 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
-| 3 | [زيد شبيب](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af+%d8%b4%d8%a8%d9%8a%d8%a8) | N/A |
-| 4 | [اللجان المشتركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%87) | N/A |
-| 5 | [الانتخابات البلديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
-| 6 | [#مجلس_النواب](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
-| 7 | [بشير الجميل](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 8 | [#التوقيت_الصيفي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa_%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
-| 9 | [نوح زعيتر](http://twitter.com/search?q=%d9%86%d9%88%d8%ad+%d8%b2%d8%b9%d9%8a%d8%aa%d8%b1) | N/A |
-| 10 | [#الكيان_المتصدع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d8%af%d8%b9) | N/A |
-| 11 | [#نجوي_كرم](http://twitter.com/search?q=%23%d9%86%d8%ac%d9%88%d9%8a_%d9%83%d8%b1%d9%85) | N/A |
-| 12 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 13 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
+| 3 | [اليوم السابع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d8%b9) | N/A |
+| 4 | [زيد شبيب](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af+%d8%b4%d8%a8%d9%8a%d8%a8) | N/A |
+| 5 | [اللجان المشتركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%87) | N/A |
+| 6 | [الانتخابات البلديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
+| 7 | [#مجلس_النواب](http://twitter.com/search?q=%23%d9%85%d8%ac%d9%84%d8%b3_%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 8 | [بشير الجميل](http://twitter.com/search?q=%d8%a8%d8%b4%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 9 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 10 | [#التوقيت_الصيفي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa_%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
+| 11 | [نوح زعيتر](http://twitter.com/search?q=%d9%86%d9%88%d8%ad+%d8%b2%d8%b9%d9%8a%d8%aa%d8%b1) | N/A |
+| 12 | [#الكيان_المتصدع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d8%aa%d8%b5%d8%af%d8%b9) | N/A |
+| 13 | [#نجوي_كرم](http://twitter.com/search?q=%23%d9%86%d8%ac%d9%88%d9%8a_%d9%83%d8%b1%d9%85) | N/A |
 | 14 | [زيد جابر شبيب](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af+%d8%ac%d8%a7%d8%a8%d8%b1+%d8%b4%d8%a8%d9%8a%d8%a8) | N/A |
 | 15 | [#الكيان_ينهار](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86_%d9%8a%d9%86%d9%87%d8%a7%d8%b1) | N/A |
 | 16 | [الخزانه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b2%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
 | 17 | [حبيب الشرتوني](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%b4%d8%b1%d8%aa%d9%88%d9%86%d9%8a) | N/A |
-| 18 | [علي اللبنانيين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%8a%d9%86) | N/A |
-| 19 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 18 | [جبران](http://twitter.com/search?q=%d8%ac%d8%a8%d8%b1%d8%a7%d9%86) | N/A |
+| 19 | [علي اللبنانيين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%8a%d9%86) | N/A |
 | 20 | [نواب التغيير](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
 | 21 | [اليان الحاج](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ad%d8%a7%d8%ac) | N/A |
 | 22 | [غسان سعود](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
 | 23 | [ديوان المحاسبه](http://twitter.com/search?q=%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%b3%d8%a8%d9%87) | N/A |
-| 24 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 25 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
-| 26 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 27 | [نواب الصدفه](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%b5%d8%af%d9%81%d9%87) | N/A |
-| 28 | [اللجان النيابيه المشتركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%87) | N/A |
-| 29 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
-| 30 | [غازي زعيتر](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%b2%d8%b9%d9%8a%d8%aa%d8%b1) | N/A |
-| 31 | [الشهيد المجاهد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%87%d8%af) | N/A |
-| 32 | [28 اذار 2023](http://twitter.com/search?q=28+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
-| 33 | [المقاومه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 34 | [Chou](http://twitter.com/search?q=Chou) | N/A |
-| 35 | [علي التحمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%85%d9%84) | N/A |
-| 36 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 24 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 25 | [نواب الصدفه](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%b5%d8%af%d9%81%d9%87) | N/A |
+| 26 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
+| 27 | [اللجان النيابيه المشتركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%87) | N/A |
+| 28 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
+| 29 | [غازي زعيتر](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%b2%d8%b9%d9%8a%d8%aa%d8%b1) | N/A |
+| 30 | [الشهيد المجاهد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%87%d8%af) | N/A |
+| 31 | [28 اذار 2023](http://twitter.com/search?q=28+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
+| 32 | [المقاومه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 33 | [Chou](http://twitter.com/search?q=Chou) | N/A |
+| 34 | [علي التحمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%85%d9%84) | N/A |
+| 35 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 36 | [ابو صعب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b5%d8%b9%d8%a8) | N/A |
 | 37 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
 | 38 | [ليل الاربعاء](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | N/A |
 | 39 | [اميركا](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d8%a7) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-29 01:49:03 UTC`
+📆 Last Updated: `2023-03-29 02:39:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,10 +23,10 @@ This is top 50 for Austria
 | 6 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
 | 7 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 8 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 9 | [#EuropeanGasConference](http://twitter.com/search?q=%23EuropeanGasConference) | N/A |
+| 9 | [#europeangasconference](http://twitter.com/search?q=%23europeangasconference) | N/A |
 | 10 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 11 | [Aufsichtsrat](http://twitter.com/search?q=Aufsichtsrat) | N/A |
-| 12 | [Christian Deutsch](http://twitter.com/search?q=Christian+Deutsch) | N/A |
+| 11 | [aufsichtsrat](http://twitter.com/search?q=aufsichtsrat) | N/A |
+| 12 | [christian deutsch](http://twitter.com/search?q=christian+deutsch) | N/A |
 | 13 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
 | 14 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
 | 15 | [Wasserwerfer](http://twitter.com/search?q=Wasserwerfer) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for Austria
 | 21 | [For You](http://twitter.com/search?q=For+You) | N/A |
 | 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 23 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 24 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
+| 24 | [karriere](http://twitter.com/search?q=karriere) | N/A |
 | 25 | [Therapie](http://twitter.com/search?q=Therapie) | N/A |
 | 26 | [estland](http://twitter.com/search?q=estland) | N/A |
 | 27 | [stimmungsbild](http://twitter.com/search?q=stimmungsbild) | N/A |
@@ -50,11 +50,11 @@ This is top 50 for Austria
 | 33 | [herr deutsch](http://twitter.com/search?q=herr+deutsch) | N/A |
 | 34 | [Haken](http://twitter.com/search?q=Haken) | N/A |
 | 35 | [statut](http://twitter.com/search?q=statut) | N/A |
-| 36 | [Anfrage](http://twitter.com/search?q=Anfrage) | N/A |
+| 36 | [anfrage](http://twitter.com/search?q=anfrage) | N/A |
 | 37 | [teuerung](http://twitter.com/search?q=teuerung) | N/A |
 | 38 | [Ministerin](http://twitter.com/search?q=Ministerin) | N/A |
 | 39 | [sozialleistungen](http://twitter.com/search?q=sozialleistungen) | N/A |
-| 40 | [Pfefferspray](http://twitter.com/search?q=Pfefferspray) | N/A |
+| 40 | [pfefferspray](http://twitter.com/search?q=pfefferspray) | N/A |
 | 41 | [guten morgen leo](http://twitter.com/search?q=guten+morgen+leo) | N/A |
 | 42 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
 | 43 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for Austria
 | 45 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
 | 46 | [Bekanntenkreis](http://twitter.com/search?q=Bekanntenkreis) | N/A |
 | 47 | [Lebensqualität](http://twitter.com/search?q=Lebensqualit%c3%a4t) | N/A |
-| 48 | [Willkommen](http://twitter.com/search?q=Willkommen) | N/A |
+| 48 | [willkommen](http://twitter.com/search?q=willkommen) | N/A |
 | 49 | [Australia](http://twitter.com/search?q=Australia) | N/A |
 | 50 | [jänner](http://twitter.com/search?q=j%c3%a4nner) | N/A |
 

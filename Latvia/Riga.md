@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-29 01:48:34 UTC`
+📆 Last Updated: `2023-03-29 02:38:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,9 +42,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 25 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
 | 26 | [principā](http://twitter.com/search?q=princip%c4%81) | N/A |
 | 27 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 28 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
-| 29 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 30 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
+| 28 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 29 | [#Vertigo](http://twitter.com/search?q=%23Vertigo) | N/A |
+| 30 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | N/A |
 | 31 | [bauskas](http://twitter.com/search?q=bauskas) | N/A |
 | 32 | [#barbecue](http://twitter.com/search?q=%23barbecue) | N/A |
 | 33 | [vienotība](http://twitter.com/search?q=vienot%c4%abba) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 41 | [pilnīgi](http://twitter.com/search?q=piln%c4%abgi) | N/A |
 | 42 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
 | 43 | [Tikai](http://twitter.com/search?q=Tikai) | N/A |
-| 44 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
+| 44 | [kaut](http://twitter.com/search?q=kaut) | N/A |
 | 45 | [tiem](http://twitter.com/search?q=tiem) | N/A |
 | 46 | [kurš](http://twitter.com/search?q=kur%c5%a1) | N/A |
 | 47 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |

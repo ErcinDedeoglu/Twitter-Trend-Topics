@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-29 01:49:04 UTC`
+📆 Last Updated: `2023-03-29 02:39:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Brazil
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 2 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
-| 3 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 4 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 2 | [Domitila Barros](http://twitter.com/search?q=Domitila+Barros) | N/A |
+| 3 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
+| 4 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
 | 5 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 6 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 7 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 8 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 9 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 6 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 7 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
+| 8 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 9 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
 | 10 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 11 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
-| 12 | [devon](http://twitter.com/search?q=devon) | N/A |
-| 13 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 14 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 15 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
-| 16 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 17 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 18 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
-| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 20 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 21 | [taryn](http://twitter.com/search?q=taryn) | N/A |
-| 22 | [Votorantim](http://twitter.com/search?q=Votorantim) | N/A |
-| 23 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 24 | [#SearanoBBB23](http://twitter.com/search?q=%23SearanoBBB23) | N/A |
-| 25 | [#TerçasDaLei](http://twitter.com/search?q=%23Ter%c3%a7asDaLei) | N/A |
-| 26 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
-| 27 | [CHA CO TA](http://twitter.com/search?q=CHA+CO+TA) | N/A |
-| 28 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
-| 29 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 30 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 31 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 32 | [#SVUNoUTV](http://twitter.com/search?q=%23SVUNoUTV) | N/A |
-| 33 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
-| 34 | [#pernambucanomeuamor](http://twitter.com/search?q=%23pernambucanomeuamor) | N/A |
-| 35 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
-| 36 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 37 | [monica](http://twitter.com/search?q=monica) | N/A |
-| 38 | [André Fernandes](http://twitter.com/search?q=Andr%c3%a9+Fernandes) | N/A |
+| 11 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
+| 12 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 13 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 14 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
+| 15 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 16 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 17 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 18 | [devon](http://twitter.com/search?q=devon) | N/A |
+| 19 | [VT DE CAMPEÃ](http://twitter.com/search?q=VT+DE+CAMPE%c3%83) | N/A |
+| 20 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
+| 21 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
+| 22 | [CHA CO TA](http://twitter.com/search?q=CHA+CO+TA) | N/A |
+| 23 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
+| 24 | [Se a Bruna](http://twitter.com/search?q=Se+a+Bruna) | N/A |
+| 25 | [VOTAÇÃO ENCERRADA](http://twitter.com/search?q=VOTA%c3%87%c3%83O+ENCERRADA) | N/A |
+| 26 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
+| 27 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 28 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 29 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
+| 30 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 31 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 32 | [#SearanoBBB23](http://twitter.com/search?q=%23SearanoBBB23) | N/A |
+| 33 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 34 | [Votorantim](http://twitter.com/search?q=Votorantim) | N/A |
+| 35 | [Sarah e Alface](http://twitter.com/search?q=Sarah+e+Alface) | N/A |
+| 36 | [Estrelas Além](http://twitter.com/search?q=Estrelas+Al%c3%a9m) | N/A |
+| 37 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 38 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
 | 39 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
-| 40 | [Raniel](http://twitter.com/search?q=Raniel) | Raniel is a Hebrew name meaning "God has seen". |
-| 41 | [Lagum](http://twitter.com/search?q=Lagum) | N/A |
-| 42 | [Lo Celso](http://twitter.com/search?q=Lo+Celso) | N/A |
-| 43 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 44 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 45 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 46 | [Neide](http://twitter.com/search?q=Neide) | N/A |
-| 47 | [Conselho de Ética](http://twitter.com/search?q=Conselho+de+%c3%89tica) | N/A |
-| 48 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 49 | [Presidente da CCJ](http://twitter.com/search?q=Presidente+da+CCJ) | N/A |
-| 50 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
+| 40 | [taryn](http://twitter.com/search?q=taryn) | N/A |
+| 41 | [Felipe Conceição](http://twitter.com/search?q=Felipe+Concei%c3%a7%c3%a3o) | N/A |
+| 42 | [#TerçasDaLei](http://twitter.com/search?q=%23Ter%c3%a7asDaLei) | N/A |
+| 43 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 44 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
+| 45 | [Raniel](http://twitter.com/search?q=Raniel) | Raniel is a Hebrew name meaning "God has seen". |
+| 46 | [#SVUNoUTV](http://twitter.com/search?q=%23SVUNoUTV) | N/A |
+| 47 | [the voice kids](http://twitter.com/search?q=the+voice+kids) | N/A |
+| 48 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 49 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 50 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
 
 
 
