@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-29 03:17:41 UTC`
+📆 Last Updated: `2023-03-29 04:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,48 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DigitalFasting](http://twitter.com/search?q=%23DigitalFasting) | N/A |
-| 2 | [#दुर्लभ_योग](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b2%e0%a4%ad_%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 3 | [Special Day For Every Sanatani](http://twitter.com/search?q=Special+Day+For+Every+Sanatani) | N/A |
-| 4 | [Sant Shri Asharamji Ashram](http://twitter.com/search?q=Sant+Shri+Asharamji+Ashram) | Sant Shri Asharamji Ashram is a spiritual organization founded by Sant Shri Asharamji Bapu in 1971. The ashram is dedicated to providing spiritual guidance and support to people from all walks of life. The ashram promotes the practice of meditation, yoga, and other spiritual practices as a means of achieving inner peace and enlightenment. The English translation of Sant Shri Asharamji Ashram is "Saint Lord Asharamji's Abode". |
-| 5 | [SEED Campaign](http://twitter.com/search?q=SEED+Campaign) | N/A |
-| 6 | [#DurgaAshtami](http://twitter.com/search?q=%23DurgaAshtami) | N/A |
-| 7 | [#दुर्गा_अष्टमी](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be_%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
+| 1 | [#DurgaAshtami](http://twitter.com/search?q=%23DurgaAshtami) | N/A |
+| 2 | [#DigitalFasting](http://twitter.com/search?q=%23DigitalFasting) | N/A |
+| 3 | [#दुर्लभ_योग](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b2%e0%a4%ad_%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 4 | [#दुर्गा_अष्टमी](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be_%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
+| 5 | [Special Day For Every Sanatani](http://twitter.com/search?q=Special+Day+For+Every+Sanatani) | N/A |
+| 6 | [Sant Shri Asharamji Ashram](http://twitter.com/search?q=Sant+Shri+Asharamji+Ashram) | Sant Shri Asharamji Ashram is a spiritual organization founded by Sant Shri Asharamji Bapu in 1971. The ashram is dedicated to providing spiritual guidance and support to people from all walks of life. The ashram promotes the practice of meditation, yoga, and other spiritual practices as a means of achieving inner peace and enlightenment. The English translation of Sant Shri Asharamji Ashram is "Saint Lord Asharamji's Abode". |
+| 7 | [SEED Campaign](http://twitter.com/search?q=SEED+Campaign) | N/A |
 | 8 | [RamNavmi](http://twitter.com/search?q=RamNavmi) | N/A |
 | 9 | [पुनर्वसु नक्षत्र](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%a8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b8%e0%a5%81+%e0%a4%a8%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 10 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 11 | [अष्टम स्वरूप](http://twitter.com/search?q=%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 12 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
+| 10 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
+| 11 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 12 | [अष्टम स्वरूप](http://twitter.com/search?q=%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
 | 13 | [श्री दुर्गा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 14 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 15 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 16 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 17 | [Happy Birthday Junnu](http://twitter.com/search?q=Happy+Birthday+Junnu) | N/A |
-| 18 | [Election Commission](http://twitter.com/search?q=Election+Commission) | N/A |
-| 19 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 20 | [मौर्य साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 21 | [india celebrates ua day](http://twitter.com/search?q=india+celebrates+ua+day) | N/A |
-| 22 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 24 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
-| 25 | [केंद्रीय कार्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 26 | [गौरी नारायणी](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a5%80) | N/A |
-| 27 | [धरा शुचि](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b6%e0%a5%81%e0%a4%9a%e0%a4%bf) | N/A |
-| 28 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 30 | [अहमद दोषी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
-| 31 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 32 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
-| 33 | [SASTI RAAN KOHLI](http://twitter.com/search?q=SASTI+RAAN+KOHLI) | N/A |
-| 34 | [mp-mla](http://twitter.com/search?q=mp-mla) | N/A |
-| 35 | [जगत जननी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%a4+%e0%a4%9c%e0%a4%a8%e0%a4%a8%e0%a5%80) | N/A |
-| 36 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
-| 37 | [भवानी प्रसाद मिश्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0) | N/A |
-| 38 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 39 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 40 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 41 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 42 | [No Side Effects](http://twitter.com/search?q=No+Side+Effects) | N/A |
-| 43 | [Stay Fit](http://twitter.com/search?q=Stay+Fit) | N/A |
-| 44 | [Latest Android 13](http://twitter.com/search?q=Latest+Android+13) | N/A |
-| 45 | [दिनेश पासी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
-| 46 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 47 | [शांति मार्च](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a) | N/A |
+| 14 | [मौर्य साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 15 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 16 | [गौरी नारायणी](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a5%80) | N/A |
+| 17 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 18 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 19 | [कृपा दृष्टि](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
+| 20 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 21 | [#KarnatakaElections2023](http://twitter.com/search?q=%23KarnatakaElections2023) | N/A |
+| 22 | [#GodMorningWednesday](http://twitter.com/search?q=%23GodMorningWednesday) | N/A |
+| 23 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 24 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 25 | [#41stTDPFoundationDay](http://twitter.com/search?q=%2341stTDPFoundationDay) | N/A |
+| 26 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
+| 27 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 28 | [#माँ_महागौरी](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%be%e0%a4%81_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80) | N/A |
+| 29 | [#SamratAshokJayanti](http://twitter.com/search?q=%23SamratAshokJayanti) | N/A |
+| 30 | [#KarnatakaAssemblyElection2023](http://twitter.com/search?q=%23KarnatakaAssemblyElection2023) | N/A |
+| 31 | [#MeraGharApkaGhar](http://twitter.com/search?q=%23MeraGharApkaGhar) | N/A |
+| 32 | [#अशोकाष्टमी](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
+| 33 | [#सम्राट_अशोक_महान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f_%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
+| 34 | [#UPIcharges](http://twitter.com/search?q=%23UPIcharges) | N/A |
+| 35 | [#TDPFormationDay](http://twitter.com/search?q=%23TDPFormationDay) | N/A |
+| 36 | [#HBDVishwakSen](http://twitter.com/search?q=%23HBDVishwakSen) | N/A |
+| 37 | [#सम्राट_अशोक_जयंती](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f_%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95_%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 38 | [#RightToHealth_जरूरी_है](http://twitter.com/search?q=%23RightToHealth_%e0%a4%9c%e0%a4%b0%e0%a5%82%e0%a4%b0%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
+| 39 | [#Messi𓃵](http://twitter.com/search?q=%23Messi%f0%93%83%b5) | N/A |
+| 40 | [#stockstowatch](http://twitter.com/search?q=%23stockstowatch) | N/A |
+| 41 | [#DisqualifiedByUnqualified](http://twitter.com/search?q=%23DisqualifiedByUnqualified) | N/A |
+| 42 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
 
 
 

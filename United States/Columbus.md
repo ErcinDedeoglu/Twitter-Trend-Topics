@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-29 03:17:46 UTC`
+📆 Last Updated: `2023-03-29 04:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 2 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
 | 3 | [#Cavs](http://twitter.com/search?q=%23Cavs) | N/A |
-| 4 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 4 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
 | 5 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 6 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 7 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 8 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 9 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
-| 10 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 11 | [#McDonaldsAllAmerican](http://twitter.com/search?q=%23McDonaldsAllAmerican) | N/A |
-| 12 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 13 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 14 | [Collier](http://twitter.com/search?q=Collier) | N/A |
-| 15 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 16 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 17 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
-| 18 | [#McDAAG](http://twitter.com/search?q=%23McDAAG) | N/A |
-| 19 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 20 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 21 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 22 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 23 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 24 | [Aden Holloway](http://twitter.com/search?q=Aden+Holloway) | N/A |
-| 25 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 26 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 27 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 28 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 29 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
-| 30 | [Badgers](http://twitter.com/search?q=Badgers) | N/A |
-| 31 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
-| 32 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 33 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 34 | [David Perron](http://twitter.com/search?q=David+Perron) | N/A |
-| 35 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 6 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 7 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 8 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 9 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 10 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 11 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
+| 12 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 13 | [#McDonaldsAllAmerican](http://twitter.com/search?q=%23McDonaldsAllAmerican) | N/A |
+| 14 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 15 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 16 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 17 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 18 | [Collier](http://twitter.com/search?q=Collier) | N/A |
+| 19 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 20 | [#McDAAG](http://twitter.com/search?q=%23McDAAG) | N/A |
+| 21 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 22 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
+| 23 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
+| 24 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 25 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 26 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 27 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 28 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 29 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 30 | [Gard](http://twitter.com/search?q=Gard) | N/A |
+| 31 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
+| 32 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 33 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
+| 34 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 35 | [Ty Brewer](http://twitter.com/search?q=Ty+Brewer) | N/A |
 | 36 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 37 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 38 | [Mean Green](http://twitter.com/search?q=Mean+Green) | N/A |
-| 39 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
-| 40 | [Joe Gorga](http://twitter.com/search?q=Joe+Gorga) | N/A |
-| 41 | [Vrana](http://twitter.com/search?q=Vrana) | Vrana is a Croatian word that means "crow" in English. |
-| 42 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 43 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
-| 44 | [Dejounte Murray](http://twitter.com/search?q=Dejounte+Murray) | N/A |
-| 45 | [Area Champs](http://twitter.com/search?q=Area+Champs) | N/A |
-| 46 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 47 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 48 | [lalonde](http://twitter.com/search?q=lalonde) | N/A |
-| 49 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 37 | [Aden Holloway](http://twitter.com/search?q=Aden+Holloway) | N/A |
+| 38 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
+| 39 | [David Perron](http://twitter.com/search?q=David+Perron) | N/A |
+| 40 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
+| 41 | [C-USA](http://twitter.com/search?q=C-USA) | N/A |
+| 42 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
+| 43 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
+| 44 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 45 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 46 | [DiVincenzo](http://twitter.com/search?q=DiVincenzo) | N/A |
+| 47 | [Jonathan Quick](http://twitter.com/search?q=Jonathan+Quick) | N/A |
+| 48 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 49 | [Vans](http://twitter.com/search?q=Vans) | N/A |
 
 
 

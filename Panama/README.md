@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-29 03:17:58 UTC`
+📆 Last Updated: `2023-03-29 04:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 2 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 3 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 4 | [Nextv](http://twitter.com/search?q=Nextv) | N/A |
-| 5 | [Teletica](http://twitter.com/search?q=Teletica) | N/A |
-| 6 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 7 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 8 | [Sele](http://twitter.com/search?q=Sele) | N/A |
-| 9 | [Canal 21](http://twitter.com/search?q=Canal+21) | N/A |
-| 10 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 11 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 12 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 13 | [#NationsLeague](http://twitter.com/search?q=%23NationsLeague) | N/A |
-| 14 | [Aduanas](http://twitter.com/search?q=Aduanas) | N/A |
-| 15 | [En USA](http://twitter.com/search?q=En+USA) | N/A |
-| 16 | [Waterman](http://twitter.com/search?q=Waterman) | N/A |
-| 17 | [Quintero](http://twitter.com/search?q=Quintero) | Quintero is a Spanish surname derived from the Latin word quintarius, meaning "fifth." It is also a place name in Spain, referring to a small town in the province of Huelva. In English, the name Quintero can be translated to mean "of the fifth." |
-| 18 | [transístmica](http://twitter.com/search?q=trans%c3%adstmica) | N/A |
-| 19 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 20 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 21 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 22 | [Expocomer 2023](http://twitter.com/search?q=Expocomer+2023) | N/A |
-| 23 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 24 | [Pacífico](http://twitter.com/search?q=Pac%c3%adfico) | N/A |
-| 25 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 26 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 27 | [Ismael](http://twitter.com/search?q=Ismael) | N/A |
-| 28 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
-| 29 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 30 | [Thomas Christiansen](http://twitter.com/search?q=Thomas+Christiansen) | N/A |
-| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 32 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
-| 33 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 34 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
-| 35 | [quesos chela](http://twitter.com/search?q=quesos+chela) | N/A |
-| 36 | [Policia](http://twitter.com/search?q=Policia) | N/A |
-| 37 | [En Estados Unidos](http://twitter.com/search?q=En+Estados+Unidos) | N/A |
-| 38 | [ANATI](http://twitter.com/search?q=ANATI) | N/A |
-| 39 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 40 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 41 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 42 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 43 | [Preso](http://twitter.com/search?q=Preso) | N/A |
-| 44 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 45 | [Belice](http://twitter.com/search?q=Belice) | N/A |
-| 46 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 47 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
-| 48 | [Esperemos](http://twitter.com/search?q=Esperemos) | N/A |
-| 49 | [caja de seguro social](http://twitter.com/search?q=caja+de+seguro+social) | N/A |
-| 50 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 1 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
+| 2 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 3 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 4 | [Barcenas](http://twitter.com/search?q=Barcenas) | N/A |
+| 5 | [Fallardo](http://twitter.com/search?q=Fallardo) | N/A |
+| 6 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
+| 7 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 8 | [Ismael](http://twitter.com/search?q=Ismael) | N/A |
+| 9 | [San José](http://twitter.com/search?q=San+Jos%c3%a9) | N/A |
+| 10 | [Sele](http://twitter.com/search?q=Sele) | N/A |
+| 11 | [Nextv](http://twitter.com/search?q=Nextv) | N/A |
+| 12 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 13 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 14 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
+| 15 | [Teletica](http://twitter.com/search?q=Teletica) | N/A |
+| 16 | [Christiansen](http://twitter.com/search?q=Christiansen) | N/A |
+| 17 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 18 | [#NationsLeague](http://twitter.com/search?q=%23NationsLeague) | N/A |
+| 19 | [Canal 21](http://twitter.com/search?q=Canal+21) | N/A |
+| 20 | [#Concacaf](http://twitter.com/search?q=%23Concacaf) | N/A |
+| 21 | [Blackman](http://twitter.com/search?q=Blackman) | N/A |
+| 22 | [Waterman](http://twitter.com/search?q=Waterman) | N/A |
+| 23 | [Ticos](http://twitter.com/search?q=Ticos) | N/A |
+| 24 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 25 | [Carrasquilla](http://twitter.com/search?q=Carrasquilla) | N/A |
+| 26 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 27 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 28 | [Aduanas](http://twitter.com/search?q=Aduanas) | N/A |
+| 29 | [Quintero](http://twitter.com/search?q=Quintero) | Quintero is a Spanish surname derived from the Latin word quintarius, meaning "fifth." It is also a place name in Spain, referring to a small town in the province of Huelva. In English, the name Quintero can be translated to mean "of the fifth." |
+| 30 | [En USA](http://twitter.com/search?q=En+USA) | N/A |
+| 31 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 32 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 33 | [transístmica](http://twitter.com/search?q=trans%c3%adstmica) | N/A |
+| 34 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 35 | [Pacífico](http://twitter.com/search?q=Pac%c3%adfico) | N/A |
+| 36 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 37 | [Expocomer 2023](http://twitter.com/search?q=Expocomer+2023) | N/A |
+| 38 | [Ayala](http://twitter.com/search?q=Ayala) | N/A |
+| 39 | [Gobierno Nacional](http://twitter.com/search?q=Gobierno+Nacional) | N/A |
+| 40 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
+| 41 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
+| 42 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 45 | [quesos chela](http://twitter.com/search?q=quesos+chela) | N/A |
+| 46 | [Policia](http://twitter.com/search?q=Policia) | N/A |
+| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 48 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 49 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 50 | [Centroamérica](http://twitter.com/search?q=Centroam%c3%a9rica) | N/A |
 
 
 

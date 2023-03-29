@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-29 03:17:16 UTC`
+📆 Last Updated: `2023-03-29 04:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
 | 3 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
 | 4 | [Domitila Barros](http://twitter.com/search?q=Domitila+Barros) | N/A |
-| 5 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
+| 5 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
 | 6 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
 | 7 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 8 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 8 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
 | 9 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 10 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
-| 11 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
-| 12 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 13 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 14 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 15 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 16 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 17 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
-| 18 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
-| 19 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 20 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
-| 21 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 10 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 11 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 12 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
+| 13 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 14 | [Kevon Looney](http://twitter.com/search?q=Kevon+Looney) | Kevon Looney is an American professional basketball player who currently plays for the Golden State Warriors of the National Basketball Association (NBA). His name is derived from his father's middle name, Kevin. The meaning of Kevon Looney in English is "son of Kevin". |
+| 15 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
+| 16 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 17 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 18 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
+| 19 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
+| 20 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 21 | [#OndeEstáMeuCoração](http://twitter.com/search?q=%23OndeEst%c3%a1MeuCora%c3%a7%c3%a3o) | N/A |
 | 22 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 23 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
-| 24 | [devon](http://twitter.com/search?q=devon) | N/A |
-| 25 | [#RedeBBB23](http://twitter.com/search?q=%23RedeBBB23) | N/A |
-| 26 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
+| 23 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 24 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
+| 25 | [devon](http://twitter.com/search?q=devon) | N/A |
+| 26 | [O VT](http://twitter.com/search?q=O+VT) | O VT is an abbreviation for "Overtime," which means working beyond the normal hours of a job. |
 | 27 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
-| 28 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
-| 29 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
-| 30 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 31 | [#OndeEstáMeuCoração](http://twitter.com/search?q=%23OndeEst%c3%a1MeuCora%c3%a7%c3%a3o) | N/A |
-| 32 | [CHA CO TA](http://twitter.com/search?q=CHA+CO+TA) | N/A |
-| 33 | [VOTAÇÃO ENCERRADA](http://twitter.com/search?q=VOTA%c3%87%c3%83O+ENCERRADA) | N/A |
-| 34 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
-| 35 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 36 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
-| 37 | [Chico Barney](http://twitter.com/search?q=Chico+Barney) | N/A |
+| 28 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
+| 29 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 30 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
+| 31 | [Letícia Colin](http://twitter.com/search?q=Let%c3%adcia+Colin) | Letícia Colin is a Brazilian actress. Her name is derived from the Latin word "Leticia," which means "joy" or "happiness." In English, her name can be translated to mean "Joyful Colin." |
+| 32 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
+| 33 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 34 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
+| 35 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 36 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 37 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
 | 38 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 39 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
-| 40 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 41 | [Estrelas Além](http://twitter.com/search?q=Estrelas+Al%c3%a9m) | N/A |
-| 42 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
-| 43 | [Bruninha](http://twitter.com/search?q=Bruninha) | N/A |
-| 44 | [Deixa a Nicole](http://twitter.com/search?q=Deixa+a+Nicole) | N/A |
-| 45 | [Sarah e Alface](http://twitter.com/search?q=Sarah+e+Alface) | N/A |
-| 46 | [Votorantim](http://twitter.com/search?q=Votorantim) | N/A |
-| 47 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 48 | [Riascos](http://twitter.com/search?q=Riascos) | N/A |
-| 49 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 50 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 39 | [Chico Barney](http://twitter.com/search?q=Chico+Barney) | N/A |
+| 40 | [VOTAÇÃO ENCERRADA](http://twitter.com/search?q=VOTA%c3%87%c3%83O+ENCERRADA) | N/A |
+| 41 | [CHA CO TA](http://twitter.com/search?q=CHA+CO+TA) | N/A |
+| 42 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
+| 43 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
+| 44 | [Esse VT](http://twitter.com/search?q=Esse+VT) | N/A |
+| 45 | [Bruninha](http://twitter.com/search?q=Bruninha) | N/A |
+| 46 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
+| 47 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 48 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
+| 49 | [Rafael Portugal](http://twitter.com/search?q=Rafael+Portugal) | Rafael Portugal is a Portuguese given name. It is composed of two parts: Rafael, which is derived from the Hebrew name Rafael meaning "God has healed", and Portugal, which is the name of a country in southwestern Europe. In English, the name would be translated as "God has healed Portugal". |
+| 50 | [Riascos](http://twitter.com/search?q=Riascos) | N/A |
 
 
 

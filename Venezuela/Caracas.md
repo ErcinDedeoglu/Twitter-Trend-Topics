@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Caracas
 
-📆 Last Updated: `2023-03-29 03:17:13 UTC`
+📆 Last Updated: `2023-03-29 04:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#28Mar](http://twitter.com/search?q=%2328Mar) | N/A |
 | 2 | [#DuroContraLaCorrupción](http://twitter.com/search?q=%23DuroContraLaCorrupci%c3%b3n) | N/A |
-| 3 | [#AryenisYAlfredoInocentes](http://twitter.com/search?q=%23AryenisYAlfredoInocentes) | N/A |
-| 4 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 5 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 6 | [Francisco de Miranda](http://twitter.com/search?q=Francisco+de+Miranda) | N/A |
-| 7 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
-| 8 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 3 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 4 | [Francisco de Miranda](http://twitter.com/search?q=Francisco+de+Miranda) | N/A |
+| 5 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
+| 6 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 7 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 8 | [#AryenisYAlfredoInocentes](http://twitter.com/search?q=%23AryenisYAlfredoInocentes) | N/A |
 | 9 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 10 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 11 | [#televenesvinotinto](http://twitter.com/search?q=%23televenesvinotinto) | N/A |
+| 10 | [#nicorrupciónniguarimbas](http://twitter.com/search?q=%23nicorrupci%c3%b3nniguarimbas) | N/A |
+| 11 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 12 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 13 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
-| 14 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 15 | [Alexander González](http://twitter.com/search?q=Alexander+Gonz%c3%a1lez) | N/A |
-| 16 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
-| 17 | [Carlitos González](http://twitter.com/search?q=Carlitos+Gonz%c3%a1lez) | N/A |
-| 18 | [Leopoldo López](http://twitter.com/search?q=Leopoldo+L%c3%b3pez) | N/A |
+| 13 | [#televenesvinotinto](http://twitter.com/search?q=%23televenesvinotinto) | N/A |
+| 14 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
+| 15 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
+| 16 | [Susy](http://twitter.com/search?q=Susy) | N/A |
+| 17 | [Leopoldo López](http://twitter.com/search?q=Leopoldo+L%c3%b3pez) | N/A |
+| 18 | [Alexander González](http://twitter.com/search?q=Alexander+Gonz%c3%a1lez) | N/A |
 | 19 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 20 | [Susy](http://twitter.com/search?q=Susy) | N/A |
-| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 22 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 23 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
-| 24 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 26 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 27 | [Universal](http://twitter.com/search?q=Universal) | N/A |
-| 28 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
-| 29 | [John Wayne](http://twitter.com/search?q=John+Wayne) | N/A |
-| 30 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 31 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 32 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 33 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
-| 34 | [Mi Vivienda San Luis](http://twitter.com/search?q=Mi+Vivienda+San+Luis) | N/A |
-| 35 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
-| 36 | [Libertad Plena](http://twitter.com/search?q=Libertad+Plena) | N/A |
-| 37 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
-| 38 | [Comisión Nacional de Primaria](http://twitter.com/search?q=Comisi%c3%b3n+Nacional+de+Primaria) | N/A |
-| 39 | [Alberto Arvelo Torrealba](http://twitter.com/search?q=Alberto+Arvelo+Torrealba) | N/A |
+| 20 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 21 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 22 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
+| 23 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 24 | [Andrés Giménez](http://twitter.com/search?q=Andr%c3%a9s+Gim%c3%a9nez) | N/A |
+| 25 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 26 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 27 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
+| 28 | [Universal](http://twitter.com/search?q=Universal) | N/A |
+| 29 | [Mi Vivienda San Luis](http://twitter.com/search?q=Mi+Vivienda+San+Luis) | N/A |
+| 30 | [Robert Mitchum](http://twitter.com/search?q=Robert+Mitchum) | N/A |
+| 31 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [Conmebol](http://twitter.com/search?q=Conmebol) | Conmebol is the acronym for the South American Football Confederation, which is the governing body for football (soccer) in South America. The English translation of Conmebol is "Confederación Sudamericana de Fútbol". |
+| 34 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
+| 35 | [Libertad Plena](http://twitter.com/search?q=Libertad+Plena) | N/A |
+| 36 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 37 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 38 | [Brujo](http://twitter.com/search?q=Brujo) | N/A |
+| 39 | [Comisión Nacional de Primaria](http://twitter.com/search?q=Comisi%c3%b3n+Nacional+de+Primaria) | N/A |
 | 40 | [Galak](http://twitter.com/search?q=Galak) | N/A |
-| 41 | [Alí Rodríguez Araque](http://twitter.com/search?q=Al%c3%ad+Rodr%c3%adguez+Araque) | N/A |
-| 42 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 43 | [Dayana Mendoza](http://twitter.com/search?q=Dayana+Mendoza) | N/A |
-| 44 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
-| 45 | [Día del Patrimonio Cultural](http://twitter.com/search?q=D%c3%ada+del+Patrimonio+Cultural) | N/A |
-| 46 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
-| 47 | [Adiós](http://twitter.com/search?q=Adi%c3%b3s) | N/A |
-| 48 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 49 | [Dedales](http://twitter.com/search?q=Dedales) | N/A |
-| 50 | [Rodríguez Espinoza](http://twitter.com/search?q=Rodr%c3%adguez+Espinoza) | N/A |
+| 41 | [Alberto Arvelo Torrealba](http://twitter.com/search?q=Alberto+Arvelo+Torrealba) | N/A |
+| 42 | [Me vs the Pokemon](http://twitter.com/search?q=Me+vs+the+Pokemon) | N/A |
+| 43 | [Petrocedeño](http://twitter.com/search?q=Petrocede%c3%b1o) | N/A |
+| 44 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
+| 45 | [Monagas](http://twitter.com/search?q=Monagas) | N/A |
+| 46 | [Dayana Mendoza](http://twitter.com/search?q=Dayana+Mendoza) | N/A |
+| 47 | [día del patrimonio cultural](http://twitter.com/search?q=d%c3%ada+del+patrimonio+cultural) | N/A |
+| 48 | [Adiós](http://twitter.com/search?q=Adi%c3%b3s) | N/A |
+| 49 | [Ford](http://twitter.com/search?q=Ford) | Ford is an American multinational automaker that designs, manufactures, markets, and services a range of cars, trucks, SUVs, and electrified vehicles. The company's name is derived from the surname of its founder, Henry Ford. |
+| 50 | [Celso](http://twitter.com/search?q=Celso) | N/A |
 
 
 
