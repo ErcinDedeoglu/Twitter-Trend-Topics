@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-03-29 05:18:10 UTC`
+📆 Last Updated: `2023-03-29 06:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [United States](</United States>)
 | 9 | [Looney](http://twitter.com/search?q=Looney) | N/A |
 | 10 | [Pels](http://twitter.com/search?q=Pels) | N/A |
 | 11 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 12 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 13 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 14 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
-| 15 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 12 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 13 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 14 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 15 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
 | 16 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 17 | [#McDonaldsAllAmerican](http://twitter.com/search?q=%23McDonaldsAllAmerican) | N/A |
-| 18 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 19 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 20 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 17 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 18 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 19 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 20 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
 | 21 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
-| 22 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 23 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 24 | [#NOPvsGSW](http://twitter.com/search?q=%23NOPvsGSW) | N/A |
-| 25 | [Collier](http://twitter.com/search?q=Collier) | N/A |
-| 26 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 27 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 28 | [Larry Nance](http://twitter.com/search?q=Larry+Nance) | N/A |
+| 22 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 23 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 24 | [#McDonaldsAllAmerican](http://twitter.com/search?q=%23McDonaldsAllAmerican) | N/A |
+| 25 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 26 | [#NOPvsGSW](http://twitter.com/search?q=%23NOPvsGSW) | N/A |
+| 27 | [Collier](http://twitter.com/search?q=Collier) | N/A |
+| 28 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
 | 29 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 30 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 31 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 32 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 33 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 34 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
-| 35 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
-| 36 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 37 | [Stephen Curry](http://twitter.com/search?q=Stephen+Curry) | N/A |
-| 38 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 30 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 31 | [Larry Nance](http://twitter.com/search?q=Larry+Nance) | N/A |
+| 32 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 34 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
+| 35 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
+| 36 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 37 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
+| 38 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
 | 39 | [HYUNGWON](http://twitter.com/search?q=HYUNGWON) | HYUNGWON is a Korean given name, typically used for males. It is composed of two characters: "Hyun" meaning "virtuous" and "Gwon" meaning "strong". In English, the name can be translated to mean "strong and virtuous". |
-| 40 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
-| 41 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
-| 42 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
-| 43 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 44 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 40 | [Stephen Curry](http://twitter.com/search?q=Stephen+Curry) | N/A |
+| 41 | [Potapova](http://twitter.com/search?q=Potapova) | N/A |
+| 42 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 43 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
+| 44 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
 | 45 | [STUDIO CHOOM](http://twitter.com/search?q=STUDIO+CHOOM) | N/A |
-| 46 | [Ty Brewer](http://twitter.com/search?q=Ty+Brewer) | N/A |
+| 46 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
 | 47 | [Valanciunas](http://twitter.com/search?q=Valanciunas) | N/A |
-| 48 | [Vans](http://twitter.com/search?q=Vans) | N/A |
-| 49 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 48 | [Zava](http://twitter.com/search?q=Zava) | N/A |
+| 49 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
 
 
 

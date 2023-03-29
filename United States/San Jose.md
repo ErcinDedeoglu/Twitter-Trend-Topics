@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-03-29 05:18:17 UTC`
+📆 Last Updated: `2023-03-29 06:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,17 +16,17 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 2 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 3 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 4 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 5 | [Colin](http://twitter.com/search?q=Colin) | N/A |
-| 6 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 7 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 8 | [#Angels](http://twitter.com/search?q=%23Angels) | N/A |
+| 2 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 3 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 4 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 5 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 6 | [Colin](http://twitter.com/search?q=Colin) | N/A |
+| 7 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 8 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
 | 9 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 10 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 11 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 12 | [#BanAssaultWeaponsNow](http://twitter.com/search?q=%23BanAssaultWeaponsNow) | N/A |
+| 10 | [#Angels](http://twitter.com/search?q=%23Angels) | N/A |
+| 11 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
+| 12 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
 | 13 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
 | 14 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 15 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
@@ -36,35 +36,35 @@ This is top 50 for [United States](</United States>)
 | 19 | [Looney](http://twitter.com/search?q=Looney) | N/A |
 | 20 | [Pels](http://twitter.com/search?q=Pels) | N/A |
 | 21 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 22 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 23 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 24 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
-| 25 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 22 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 23 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 24 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 25 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
 | 26 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 27 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 28 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 29 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 27 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 28 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 29 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
 | 30 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
-| 31 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 32 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 33 | [Collier](http://twitter.com/search?q=Collier) | N/A |
-| 34 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 35 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 36 | [Larry Nance](http://twitter.com/search?q=Larry+Nance) | N/A |
-| 37 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 38 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 39 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 40 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 41 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
-| 42 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
-| 43 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 44 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 45 | [HYUNGWON](http://twitter.com/search?q=HYUNGWON) | HYUNGWON is a Korean given name, typically used for males. It is composed of two characters: "Hyun" meaning "virtuous" and "Gwon" meaning "strong". In English, the name can be translated to mean "strong and virtuous". |
-| 46 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
-| 47 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
-| 48 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
-| 49 | [Gard](http://twitter.com/search?q=Gard) | N/A |
-| 50 | [STUDIO CHOOM](http://twitter.com/search?q=STUDIO+CHOOM) | N/A |
+| 31 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 32 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 33 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 34 | [Collier](http://twitter.com/search?q=Collier) | N/A |
+| 35 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
+| 36 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 37 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 38 | [Larry Nance](http://twitter.com/search?q=Larry+Nance) | N/A |
+| 39 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 40 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 41 | [Wardell](http://twitter.com/search?q=Wardell) | N/A |
+| 42 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
+| 43 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 44 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
+| 45 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
+| 46 | [HYUNGWON](http://twitter.com/search?q=HYUNGWON) | HYUNGWON is a Korean given name, typically used for males. It is composed of two characters: "Hyun" meaning "virtuous" and "Gwon" meaning "strong". In English, the name can be translated to mean "strong and virtuous". |
+| 47 | [Potapova](http://twitter.com/search?q=Potapova) | N/A |
+| 48 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 49 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
+| 50 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
 
 
 

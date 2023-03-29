@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-03-29 05:17:38 UTC`
+📆 Last Updated: `2023-03-29 06:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
 | 4 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
 | 5 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 6 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 7 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 8 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
-| 9 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
-| 10 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 11 | [#hartzundherzlich](http://twitter.com/search?q=%23hartzundherzlich) | N/A |
-| 12 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 13 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 14 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
-| 15 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 6 | [#cmtipp](http://twitter.com/search?q=%23cmtipp) | N/A |
+| 7 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 8 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 9 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 10 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
+| 11 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
+| 12 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 13 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 14 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 15 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
 | 16 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 17 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 18 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
-| 19 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 20 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 21 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 22 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 23 | [LKW-Maut](http://twitter.com/search?q=LKW-Maut) | N/A |
-| 24 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 25 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 26 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 27 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
-| 28 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
-| 29 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 30 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 31 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 32 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 33 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
-| 34 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 35 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 37 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 38 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 39 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 40 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 41 | [Lebensmittelpreise](http://twitter.com/search?q=Lebensmittelpreise) | N/A |
-| 42 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
-| 43 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 44 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
-| 45 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
-| 46 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 47 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
-| 48 | [schmerzgriffe](http://twitter.com/search?q=schmerzgriffe) | N/A |
-| 49 | [Wofür](http://twitter.com/search?q=Wof%c3%bcr) | N/A |
-| 50 | [steffen freund](http://twitter.com/search?q=steffen+freund) | N/A |
+| 17 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
+| 18 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 19 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 20 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 21 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 22 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 23 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
+| 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 25 | [LKW-Maut](http://twitter.com/search?q=LKW-Maut) | N/A |
+| 26 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 27 | [Bergmann](http://twitter.com/search?q=Bergmann) | N/A |
+| 28 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 29 | [Beschlüsse](http://twitter.com/search?q=Beschl%c3%bcsse) | N/A |
+| 30 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 31 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
+| 32 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 33 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
+| 34 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 35 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 36 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 37 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 38 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 39 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
+| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 41 | [Hansi Flick](http://twitter.com/search?q=Hansi+Flick) | N/A |
+| 42 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 43 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 44 | [Morsche](http://twitter.com/search?q=Morsche) | N/A |
+| 45 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 46 | [Wachstumschancen](http://twitter.com/search?q=Wachstumschancen) | N/A |
+| 47 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
+| 48 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 49 | [Robert Gallinowski](http://twitter.com/search?q=Robert+Gallinowski) | N/A |
+| 50 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
 
 
 
