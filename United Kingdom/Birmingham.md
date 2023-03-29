@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-28 23:17:04 UTC`
+📆 Last Updated: `2023-03-29 00:31:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#interiordesignmasters](http://twitter.com/search?q=%23interiordesignmasters) | N/A |
-| 2 | [#oafc](http://twitter.com/search?q=%23oafc) | N/A |
-| 3 | [#ycfc](http://twitter.com/search?q=%23ycfc) | N/A |
-| 4 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 5 | [#NCTDREAMinLONDON](http://twitter.com/search?q=%23NCTDREAMinLONDON) | N/A |
-| 6 | [Walsall](http://twitter.com/search?q=Walsall) | N/A |
-| 7 | [HMRC](http://twitter.com/search?q=HMRC) | N/A |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [#IStandWithJeremyCorbyn](http://twitter.com/search?q=%23IStandWithJeremyCorbyn) | N/A |
-| 10 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 11 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 12 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 1 | [#CelebrityHunted](http://twitter.com/search?q=%23CelebrityHunted) | N/A |
+| 2 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 3 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 4 | [Gateshead](http://twitter.com/search?q=Gateshead) | N/A |
+| 5 | [Walsall](http://twitter.com/search?q=Walsall) | N/A |
+| 6 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
+| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 8 | [#IStandWithJeremyCorbyn](http://twitter.com/search?q=%23IStandWithJeremyCorbyn) | N/A |
+| 9 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 10 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 11 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
+| 12 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
 | 13 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 14 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 16 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 17 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 18 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 15 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 16 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 17 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 18 | [#SCOSPA](http://twitter.com/search?q=%23SCOSPA) | N/A |
 | 19 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 20 | [Loma](http://twitter.com/search?q=Loma) | N/A |
-| 21 | [Porteous](http://twitter.com/search?q=Porteous) | N/A |
-| 22 | [McSauce](http://twitter.com/search?q=McSauce) | N/A |
+| 20 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 21 | [#THEDREAMSHOW2_in_LONDON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_LONDON) | N/A |
+| 22 | [Loma](http://twitter.com/search?q=Loma) | N/A |
 | 23 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 24 | [World's End](http://twitter.com/search?q=World%27s+End) | N/A |
-| 25 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 26 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 27 | [SOTD](http://twitter.com/search?q=SOTD) | N/A |
-| 28 | [Callum McGregor](http://twitter.com/search?q=Callum+McGregor) | N/A |
-| 29 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 30 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 31 | [Vienna](http://twitter.com/search?q=Vienna) | N/A |
-| 32 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 33 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 34 | [Hickey](http://twitter.com/search?q=Hickey) | N/A |
-| 35 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 36 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 37 | [Angus Gunn](http://twitter.com/search?q=Angus+Gunn) | N/A |
-| 38 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 39 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 40 | [Dykes](http://twitter.com/search?q=Dykes) | N/A |
-| 41 | [Kieffer Moore](http://twitter.com/search?q=Kieffer+Moore) | N/A |
-| 42 | [Neco](http://twitter.com/search?q=Neco) | N/A |
-| 43 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 44 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 45 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
-| 46 | [The Spanish](http://twitter.com/search?q=The+Spanish) | N/A |
-| 47 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 48 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 49 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
-| 50 | [Barry Gardiner](http://twitter.com/search?q=Barry+Gardiner) | N/A |
+| 24 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 25 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 26 | [Porteous](http://twitter.com/search?q=Porteous) | N/A |
+| 27 | [The World's End](http://twitter.com/search?q=The+World%27s+End) | N/A |
+| 28 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 29 | [McSauce](http://twitter.com/search?q=McSauce) | N/A |
+| 30 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 31 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 32 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 33 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 34 | [SOTD](http://twitter.com/search?q=SOTD) | N/A |
+| 35 | [Callum McGregor](http://twitter.com/search?q=Callum+McGregor) | N/A |
+| 36 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 37 | [Vienna](http://twitter.com/search?q=Vienna) | N/A |
+| 38 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 39 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 40 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 41 | [Hickey](http://twitter.com/search?q=Hickey) | N/A |
+| 42 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 43 | [Kieffer Moore](http://twitter.com/search?q=Kieffer+Moore) | N/A |
+| 44 | [Angus Gunn](http://twitter.com/search?q=Angus+Gunn) | N/A |
+| 45 | [Dykes](http://twitter.com/search?q=Dykes) | N/A |
+| 46 | [Spaniards](http://twitter.com/search?q=Spaniards) | N/A |
+| 47 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 48 | [The Spanish](http://twitter.com/search?q=The+Spanish) | N/A |
+| 49 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 50 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
 
 
 

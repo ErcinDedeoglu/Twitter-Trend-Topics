@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-28 23:17:18 UTC`
+📆 Last Updated: `2023-03-29 00:31:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
-| 2 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 3 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
-| 4 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 5 | [#LateNightBerlin](http://twitter.com/search?q=%23LateNightBerlin) | N/A |
-| 6 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
-| 7 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 8 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 9 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
-| 10 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 11 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 12 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 2 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
+| 3 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 4 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 5 | [#Maischberger](http://twitter.com/search?q=%23Maischberger) | N/A |
+| 6 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 7 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 8 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 9 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
+| 10 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 11 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 12 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
 | 13 | [LKW-Maut](http://twitter.com/search?q=LKW-Maut) | N/A |
-| 14 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
-| 15 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 16 | [Sektoren](http://twitter.com/search?q=Sektoren) | N/A |
-| 17 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 18 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
-| 19 | [Schlag ins Gesicht](http://twitter.com/search?q=Schlag+ins+Gesicht) | N/A |
-| 20 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 21 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
-| 22 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 23 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 24 | [Bach](http://twitter.com/search?q=Bach) | N/A |
-| 25 | [Binde](http://twitter.com/search?q=Binde) | N/A |
-| 26 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
-| 27 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
-| 28 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
-| 29 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
-| 30 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 31 | [Auszeichnung](http://twitter.com/search?q=Auszeichnung) | N/A |
-| 32 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 33 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
-| 34 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 35 | [Ergebnissen](http://twitter.com/search?q=Ergebnissen) | N/A |
-| 36 | [Wofür](http://twitter.com/search?q=Wof%c3%bcr) | N/A |
-| 37 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
-| 38 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 39 | [#DFBTEAM](http://twitter.com/search?q=%23DFBTEAM) | N/A |
-| 40 | [#DankeWieler](http://twitter.com/search?q=%23DankeWieler) | N/A |
-| 41 | [#Merkel](http://twitter.com/search?q=%23Merkel) | N/A |
-| 42 | [#Klimaschutzgesetz](http://twitter.com/search?q=%23Klimaschutzgesetz) | N/A |
-| 43 | [#Zapfenstreich](http://twitter.com/search?q=%23Zapfenstreich) | N/A |
-| 44 | [#KlimaschutzJetzt](http://twitter.com/search?q=%23KlimaschutzJetzt) | N/A |
-| 45 | [#Lambrecht](http://twitter.com/search?q=%23Lambrecht) | #Lambrecht is a hashtag used to promote the work of Dutch artist, Joost Lambrecht. The hashtag is used to share his artwork and to connect with other fans of his work. In English, it means "Joost Lambrecht". |
+| 14 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 15 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 16 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 17 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 18 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 19 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
+| 20 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
+| 21 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 22 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 23 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
+| 24 | [Schlag ins Gesicht](http://twitter.com/search?q=Schlag+ins+Gesicht) | N/A |
+| 25 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 28 | [Binde](http://twitter.com/search?q=Binde) | N/A |
+| 29 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 30 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 31 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 32 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 33 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 34 | ['Möbel'](http://twitter.com/search?q=%27M%c3%b6bel%27) | N/A |
+| 35 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 36 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
+| 37 | [Wofür](http://twitter.com/search?q=Wof%c3%bcr) | N/A |
+| 38 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 39 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 40 | [Steffen Freund](http://twitter.com/search?q=Steffen+Freund) | N/A |
+| 41 | [Ginter](http://twitter.com/search?q=Ginter) | N/A |
+| 42 | [Sport und Politik](http://twitter.com/search?q=Sport+und+Politik) | N/A |
+| 43 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 44 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 45 | [Schmerzgriffe](http://twitter.com/search?q=Schmerzgriffe) | N/A |
+| 46 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 47 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 48 | [Quorum](http://twitter.com/search?q=Quorum) | N/A |
+| 49 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
 
 
 

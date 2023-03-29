@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-28 23:17:30 UTC`
+📆 Last Updated: `2023-03-29 00:32:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
 | 4 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
 | 5 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
-| 6 | [#SignsNaMayaman](http://twitter.com/search?q=%23SignsNaMayaman) | N/A |
-| 7 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 8 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
+| 6 | [#LIVENATIONPHBASTOS](http://twitter.com/search?q=%23LIVENATIONPHBASTOS) | N/A |
+| 7 | [Game 3](http://twitter.com/search?q=Game+3) | N/A |
+| 8 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
 | 11 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
 | 12 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 13 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
 | 14 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 15 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 16 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 15 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 16 | [CONGRATS CREAMLINE](http://twitter.com/search?q=CONGRATS+CREAMLINE) | N/A |
 | 17 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 18 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
-| 19 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
-| 20 | [me tracklist](http://twitter.com/search?q=me+tracklist) | N/A |
+| 18 | [London](http://twitter.com/search?q=London) | N/A |
+| 19 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
+| 20 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
 | 21 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
-| 22 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
-| 23 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
-| 24 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
-| 25 | [congrats ccs](http://twitter.com/search?q=congrats+ccs) | N/A |
-| 26 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
-| 27 | [joshcullen wt mv shoot](http://twitter.com/search?q=joshcullen+wt+mv+shoot) | N/A |
-| 28 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
-| 29 | [aiah aming binibini](http://twitter.com/search?q=aiah+aming+binibini) | N/A |
-| 30 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
-| 31 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
-| 32 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
-| 33 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 34 | [new era of kathryn](http://twitter.com/search?q=new+era+of+kathryn) | N/A |
-| 35 | [say lalisa day](http://twitter.com/search?q=say+lalisa+day) | N/A |
-| 36 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
-| 37 | [accepting christ and his words](http://twitter.com/search?q=accepting+christ+and+his+words) | N/A |
-| 38 | [Ced Domingo](http://twitter.com/search?q=Ced+Domingo) | N/A |
-| 39 | [yml rhythm mv outnow](http://twitter.com/search?q=yml+rhythm+mv+outnow) | N/A |
-| 40 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 41 | [komchadluek idf](http://twitter.com/search?q=komchadluek+idf) | N/A |
-| 42 | [ggmoviesoon withdonny](http://twitter.com/search?q=ggmoviesoon+withdonny) | N/A |
-| 43 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
-| 44 | [set 5](http://twitter.com/search?q=set+5) | N/A |
+| 22 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
+| 23 | [congrats ccs](http://twitter.com/search?q=congrats+ccs) | N/A |
+| 24 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
+| 25 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
+| 26 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 27 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 28 | [aiah aming binibini](http://twitter.com/search?q=aiah+aming+binibini) | N/A |
+| 29 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
+| 30 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
+| 31 | [joshcullen wt mv shoot](http://twitter.com/search?q=joshcullen+wt+mv+shoot) | N/A |
+| 32 | [say lalisa day](http://twitter.com/search?q=say+lalisa+day) | N/A |
+| 33 | [new era of kathryn](http://twitter.com/search?q=new+era+of+kathryn) | N/A |
+| 34 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
+| 35 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
+| 36 | [LIZ DESERVES BETTER](http://twitter.com/search?q=LIZ+DESERVES+BETTER) | N/A |
+| 37 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 38 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 39 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 40 | [Ced Domingo](http://twitter.com/search?q=Ced+Domingo) | N/A |
+| 41 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 42 | [yml rhythm mv outnow](http://twitter.com/search?q=yml+rhythm+mv+outnow) | N/A |
+| 43 | [sulli](http://twitter.com/search?q=sulli) | N/A |
+| 44 | [ggmoviesoon withdonny](http://twitter.com/search?q=ggmoviesoon+withdonny) | N/A |
 | 45 | [mama mary](http://twitter.com/search?q=mama+mary) | N/A |
-| 46 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
-| 47 | [sabete](http://twitter.com/search?q=sabete) | N/A |
-| 48 | [sulli](http://twitter.com/search?q=sulli) | N/A |
-| 49 | [London](http://twitter.com/search?q=London) | N/A |
-| 50 | [tyang](http://twitter.com/search?q=tyang) | N/A |
+| 46 | [komchadluek idf](http://twitter.com/search?q=komchadluek+idf) | N/A |
+| 47 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
+| 48 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 49 | [set 5](http://twitter.com/search?q=set+5) | N/A |
+| 50 | [sabete](http://twitter.com/search?q=sabete) | N/A |
 
 
 

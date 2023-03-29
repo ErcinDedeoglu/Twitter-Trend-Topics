@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-28 23:17:30 UTC`
+📆 Last Updated: `2023-03-29 00:32:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Philippines](</Philippines>)
 | 11 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 12 | [KAORI SINAGOT SI MIAH](http://twitter.com/search?q=KAORI+SINAGOT+SI+MIAH) | N/A |
 | 13 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 14 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 15 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 14 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 15 | [CONGRATS CREAMLINE](http://twitter.com/search?q=CONGRATS+CREAMLINE) | N/A |
 | 16 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 17 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
-| 18 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
-| 19 | [me tracklist](http://twitter.com/search?q=me+tracklist) | N/A |
+| 17 | [London](http://twitter.com/search?q=London) | N/A |
+| 18 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
+| 19 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
 | 20 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
-| 21 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
-| 22 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
-| 23 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
-| 24 | [congrats ccs](http://twitter.com/search?q=congrats+ccs) | N/A |
-| 25 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
-| 26 | [joshcullen wt mv shoot](http://twitter.com/search?q=joshcullen+wt+mv+shoot) | N/A |
-| 27 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
-| 28 | [aiah aming binibini](http://twitter.com/search?q=aiah+aming+binibini) | N/A |
-| 29 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
-| 30 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
-| 31 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
-| 32 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 21 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
+| 22 | [congrats ccs](http://twitter.com/search?q=congrats+ccs) | N/A |
+| 23 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
+| 24 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
+| 25 | [HELLO SHOPEE](http://twitter.com/search?q=HELLO+SHOPEE) | N/A |
+| 26 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 27 | [aiah aming binibini](http://twitter.com/search?q=aiah+aming+binibini) | N/A |
+| 28 | [MALAPIT NA PO](http://twitter.com/search?q=MALAPIT+NA+PO) | N/A |
+| 29 | [kdlex twogether in japan](http://twitter.com/search?q=kdlex+twogether+in+japan) | N/A |
+| 30 | [joshcullen wt mv shoot](http://twitter.com/search?q=joshcullen+wt+mv+shoot) | N/A |
+| 31 | [say lalisa day](http://twitter.com/search?q=say+lalisa+day) | N/A |
+| 32 | [Mark](http://twitter.com/search?q=Mark) | N/A |
 | 33 | [new era of kathryn](http://twitter.com/search?q=new+era+of+kathryn) | N/A |
-| 34 | [say lalisa day](http://twitter.com/search?q=say+lalisa+day) | N/A |
+| 34 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
 | 35 | [Hurt Road](http://twitter.com/search?q=Hurt+Road) | N/A |
-| 36 | [accepting christ and his words](http://twitter.com/search?q=accepting+christ+and+his+words) | N/A |
-| 37 | [Ced Domingo](http://twitter.com/search?q=Ced+Domingo) | N/A |
-| 38 | [yml rhythm mv outnow](http://twitter.com/search?q=yml+rhythm+mv+outnow) | N/A |
-| 39 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 40 | [komchadluek idf](http://twitter.com/search?q=komchadluek+idf) | N/A |
-| 41 | [ggmoviesoon withdonny](http://twitter.com/search?q=ggmoviesoon+withdonny) | N/A |
-| 42 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
-| 43 | [mama mary](http://twitter.com/search?q=mama+mary) | N/A |
-| 44 | [set 5](http://twitter.com/search?q=set+5) | N/A |
-| 45 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
-| 46 | [sabete](http://twitter.com/search?q=sabete) | N/A |
-| 47 | [sulli](http://twitter.com/search?q=sulli) | N/A |
-| 48 | [London](http://twitter.com/search?q=London) | N/A |
-| 49 | [tyang](http://twitter.com/search?q=tyang) | N/A |
+| 36 | [LIZ DESERVES BETTER](http://twitter.com/search?q=LIZ+DESERVES+BETTER) | N/A |
+| 37 | [petro gazz](http://twitter.com/search?q=petro+gazz) | N/A |
+| 38 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 39 | [Ced Domingo](http://twitter.com/search?q=Ced+Domingo) | N/A |
+| 40 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 41 | [yml rhythm mv outnow](http://twitter.com/search?q=yml+rhythm+mv+outnow) | N/A |
+| 42 | [sulli](http://twitter.com/search?q=sulli) | N/A |
+| 43 | [ggmoviesoon withdonny](http://twitter.com/search?q=ggmoviesoon+withdonny) | N/A |
+| 44 | [mama mary](http://twitter.com/search?q=mama+mary) | N/A |
+| 45 | [komchadluek idf](http://twitter.com/search?q=komchadluek+idf) | N/A |
+| 46 | [ponggay](http://twitter.com/search?q=ponggay) | N/A |
+| 47 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 48 | [set 5](http://twitter.com/search?q=set+5) | N/A |
+| 49 | [sabete](http://twitter.com/search?q=sabete) | N/A |
 
 
 

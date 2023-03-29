@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-28 23:17:49 UTC`
+📆 Last Updated: `2023-03-29 00:32:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 2 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
-| 3 | [Darnold](http://twitter.com/search?q=Darnold) | N/A |
-| 4 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 5 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 6 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 7 | [Purdy](http://twitter.com/search?q=Purdy) | Purdy is an informal term used to describe something that is attractive or pleasing to look at. It can be used to describe people, places, or things. |
-| 8 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 9 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 10 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 11 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 12 | [#AmericanNightmare](http://twitter.com/search?q=%23AmericanNightmare) | N/A |
-| 13 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 14 | [Loma](http://twitter.com/search?q=Loma) | N/A |
-| 15 | [#IsMyToxicTrait](http://twitter.com/search?q=%23IsMyToxicTrait) | N/A |
-| 16 | [Scotty Miller](http://twitter.com/search?q=Scotty+Miller) | N/A |
-| 17 | [#DRWFirstGoal](http://twitter.com/search?q=%23DRWFirstGoal) | N/A |
-| 18 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 19 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 20 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
-| 21 | [#SAFEMOON](http://twitter.com/search?q=%23SAFEMOON) | N/A |
-| 22 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 23 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 24 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
-| 25 | [Vans](http://twitter.com/search?q=Vans) | N/A |
-| 26 | [Iron Galaxy](http://twitter.com/search?q=Iron+Galaxy) | N/A |
-| 27 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
-| 28 | [Top Back](http://twitter.com/search?q=Top+Back) | N/A |
-| 29 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 30 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 31 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
-| 32 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 33 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 34 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 35 | [Premature](http://twitter.com/search?q=Premature) | N/A |
-| 36 | [Apple Pay Later](http://twitter.com/search?q=Apple+Pay+Later) | N/A |
-| 37 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 38 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 39 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
-| 40 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 41 | [Olympus](http://twitter.com/search?q=Olympus) | N/A |
-| 42 | [Nashville PD](http://twitter.com/search?q=Nashville+PD) | N/A |
-| 43 | [When the Levee Breaks](http://twitter.com/search?q=When+the+Levee+Breaks) | N/A |
-| 44 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 45 | [Florial](http://twitter.com/search?q=Florial) | N/A |
-| 46 | [Isiah](http://twitter.com/search?q=Isiah) | N/A |
-| 47 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 48 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 49 | [Megyn Kelly](http://twitter.com/search?q=Megyn+Kelly) | N/A |
+| 1 | [Floyd](http://twitter.com/search?q=Floyd) | N/A |
+| 2 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
+| 3 | [Pixar](http://twitter.com/search?q=Pixar) | N/A |
+| 4 | [OLED](http://twitter.com/search?q=OLED) | N/A |
+| 5 | [Darnold](http://twitter.com/search?q=Darnold) | N/A |
+| 6 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 7 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 8 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 9 | [Columbine](http://twitter.com/search?q=Columbine) | N/A |
+| 10 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
+| 11 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 12 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 13 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
+| 14 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
+| 15 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 16 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 17 | [#BlindGuess](http://twitter.com/search?q=%23BlindGuess) | N/A |
+| 18 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 19 | [Manon](http://twitter.com/search?q=Manon) | N/A |
+| 20 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 21 | [Lo Celso](http://twitter.com/search?q=Lo+Celso) | N/A |
+| 22 | [Chucky Hepburn](http://twitter.com/search?q=Chucky+Hepburn) | N/A |
+| 23 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 24 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 25 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 26 | [Thursday Night Football](http://twitter.com/search?q=Thursday+Night+Football) | N/A |
+| 27 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 28 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 29 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
+| 30 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 31 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 32 | [Iron Galaxy](http://twitter.com/search?q=Iron+Galaxy) | N/A |
+| 33 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 34 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
+| 35 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
+| 36 | [Celina](http://twitter.com/search?q=Celina) | N/A |
+| 37 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
+| 38 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 39 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 40 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
+| 41 | [AR-15s](http://twitter.com/search?q=AR-15s) | N/A |
+| 42 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 43 | [Scotty Miller](http://twitter.com/search?q=Scotty+Miller) | N/A |
+| 44 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
+| 45 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 46 | [Top Back](http://twitter.com/search?q=Top+Back) | N/A |
+| 47 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 48 | [Mid 1](http://twitter.com/search?q=Mid+1) | N/A |
+| 49 | [Ice T](http://twitter.com/search?q=Ice+T) | N/A |
 
 
 

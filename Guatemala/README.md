@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-28 23:17:53 UTC`
+📆 Last Updated: `2023-03-29 00:32:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 2 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 3 | [SANTIS](http://twitter.com/search?q=SANTIS) | N/A |
-| 4 | [vamos guate](http://twitter.com/search?q=vamos+guate) | N/A |
-| 5 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
-| 6 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 7 | [Guayana Francesa](http://twitter.com/search?q=Guayana+Francesa) | N/A |
+| 1 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 2 | [Santis](http://twitter.com/search?q=Santis) | N/A |
+| 3 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 4 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
+| 7 | [Guate](http://twitter.com/search?q=Guate) | N/A |
 | 8 | [Aparicio](http://twitter.com/search?q=Aparicio) | N/A |
 | 9 | [Hagen](http://twitter.com/search?q=Hagen) | N/A |
-| 10 | [sequen](http://twitter.com/search?q=sequen) | N/A |
-| 11 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 12 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 13 | [samayoa](http://twitter.com/search?q=samayoa) | N/A |
-| 14 | [Neto Bran](http://twitter.com/search?q=Neto+Bran) | N/A |
-| 15 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 16 | [sandra y zury](http://twitter.com/search?q=sandra+y+zury) | N/A |
-| 17 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 18 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 10 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 11 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 12 | [samayoa](http://twitter.com/search?q=samayoa) | N/A |
+| 13 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 14 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 15 | [sequen](http://twitter.com/search?q=sequen) | N/A |
+| 16 | [#BloqueosGT](http://twitter.com/search?q=%23BloqueosGT) | N/A |
+| 17 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
+| 18 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
 | 19 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 20 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 21 | [#BloqueosGT](http://twitter.com/search?q=%23BloqueosGT) | N/A |
-| 22 | [Galindo](http://twitter.com/search?q=Galindo) | Galindo is a Spanish surname derived from the name Galindo, which is a diminutive of the name Galo, meaning "calm". It is also a given name in Spanish-speaking countries. |
+| 20 | [Neto](http://twitter.com/search?q=Neto) | Neto is a Portuguese word meaning "net" or "net profit". It is commonly used to refer to the amount of money that remains after all taxes, deductions, and other expenses have been taken out of a total amount. |
+| 21 | [Galindo](http://twitter.com/search?q=Galindo) | Galindo is a Spanish surname derived from the name Galindo, which is a diminutive of the name Galo, meaning "calm". It is also a given name in Spanish-speaking countries. |
+| 22 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
 | 23 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 24 | [Chucho](http://twitter.com/search?q=Chucho) | N/A |
-| 25 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 24 | [MARLON RENATO](http://twitter.com/search?q=MARLON+RENATO) | N/A |
+| 25 | [Chucho](http://twitter.com/search?q=Chucho) | N/A |
 | 26 | [Archila](http://twitter.com/search?q=Archila) | N/A |
-| 27 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 28 | [Tena](http://twitter.com/search?q=Tena) | N/A |
+| 27 | [Selección](http://twitter.com/search?q=Selecci%c3%b3n) | N/A |
+| 28 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 | 29 | [doroteo guamuch flores](http://twitter.com/search?q=doroteo+guamuch+flores) | N/A |
-| 30 | [#votadiferente](http://twitter.com/search?q=%23votadiferente) | N/A |
-| 31 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 32 | [Semilla](http://twitter.com/search?q=Semilla) | N/A |
-| 33 | [#SPOTIFYCORRUPT](http://twitter.com/search?q=%23SPOTIFYCORRUPT) | N/A |
-| 34 | [#notetoca](http://twitter.com/search?q=%23notetoca) | N/A |
-| 35 | [Día 1](http://twitter.com/search?q=D%c3%ada+1) | N/A |
-| 36 | [Taxisco](http://twitter.com/search?q=Taxisco) | N/A |
-| 37 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
-| 38 | [Alta Verapaz](http://twitter.com/search?q=Alta+Verapaz) | N/A |
-| 39 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 40 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 41 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 30 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 31 | [Tena](http://twitter.com/search?q=Tena) | N/A |
+| 32 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
+| 33 | [Semilla](http://twitter.com/search?q=Semilla) | N/A |
+| 34 | [#SPOTIFYCORRUPT](http://twitter.com/search?q=%23SPOTIFYCORRUPT) | N/A |
+| 35 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 36 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 37 | [#notetoca](http://twitter.com/search?q=%23notetoca) | N/A |
+| 38 | [Taxisco](http://twitter.com/search?q=Taxisco) | N/A |
+| 39 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
+| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 41 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 42 | [Copa América](http://twitter.com/search?q=Copa+Am%c3%a9rica) | Copa América is the oldest international continental football competition in the world. It is an event organized by CONMEBOL, the South American Football Confederation, and it is held every four years. The tournament features teams from all 10 South American countries, as well as two invited teams from other confederations. The name Copa América translates to "America Cup" in English. |
-| 43 | [Massiel Carrillo](http://twitter.com/search?q=Massiel+Carrillo) | N/A |
-| 44 | [Liga de Naciones](http://twitter.com/search?q=Liga+de+Naciones) | N/A |
-| 45 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
-| 46 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 47 | [Los 48](http://twitter.com/search?q=Los+48) | N/A |
-| 48 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 49 | [Baldizón](http://twitter.com/search?q=Baldiz%c3%b3n) | N/A |
-| 50 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 43 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 44 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 45 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 46 | [Massiel Carrillo](http://twitter.com/search?q=Massiel+Carrillo) | N/A |
+| 47 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 48 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 49 | [CODECA](http://twitter.com/search?q=CODECA) | N/A |
+| 50 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 
 
 
