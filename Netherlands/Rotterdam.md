@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-29 08:17:58 UTC`
+📆 Last Updated: `2023-03-29 09:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 3 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
-| 4 | [#nedgib](http://twitter.com/search?q=%23nedgib) | N/A |
-| 5 | [Ralph Hamers](http://twitter.com/search?q=Ralph+Hamers) | N/A |
-| 6 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 2 | [#nedgib](http://twitter.com/search?q=%23nedgib) | N/A |
+| 3 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 4 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
+| 5 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 6 | [#DeLaatsteAanmoediging](http://twitter.com/search?q=%23DeLaatsteAanmoediging) | N/A |
 | 7 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 8 | [Zwitserse](http://twitter.com/search?q=Zwitserse) | N/A |
-| 9 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 10 | [Sluit](http://twitter.com/search?q=Sluit) | N/A |
-| 11 | [#StopFossieleSubsidies](http://twitter.com/search?q=%23StopFossieleSubsidies) | N/A |
-| 12 | [El Yaakoubi](http://twitter.com/search?q=El+Yaakoubi) | N/A |
-| 13 | [Biesbosch](http://twitter.com/search?q=Biesbosch) | N/A |
-| 14 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
-| 15 | [Italiaans](http://twitter.com/search?q=Italiaans) | N/A |
+| 8 | [Hamers](http://twitter.com/search?q=Hamers) | N/A |
+| 9 | [Sluit](http://twitter.com/search?q=Sluit) | N/A |
+| 10 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 11 | [Zwitserse](http://twitter.com/search?q=Zwitserse) | N/A |
+| 12 | [Biesbosch](http://twitter.com/search?q=Biesbosch) | N/A |
+| 13 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 14 | [El Yaakoubi](http://twitter.com/search?q=El+Yaakoubi) | N/A |
+| 15 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
 | 16 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
 | 17 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 18 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 19 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 20 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 21 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
-| 22 | [Calimero](http://twitter.com/search?q=Calimero) | N/A |
+| 18 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
+| 19 | [Italiaans](http://twitter.com/search?q=Italiaans) | N/A |
+| 20 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 21 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 22 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
 | 23 | [Postkantoor](http://twitter.com/search?q=Postkantoor) | N/A |
-| 24 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 25 | [Bushalte](http://twitter.com/search?q=Bushalte) | N/A |
-| 26 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 27 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 28 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
-| 29 | [Gecondoleerd Ron](http://twitter.com/search?q=Gecondoleerd+Ron) | N/A |
-| 30 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 31 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 32 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 33 | [Pieter](http://twitter.com/search?q=Pieter) | N/A |
-| 34 | [Sterkte](http://twitter.com/search?q=Sterkte) | N/A |
-| 35 | [Verbieden](http://twitter.com/search?q=Verbieden) | N/A |
-| 36 | [Schotland](http://twitter.com/search?q=Schotland) | N/A |
-| 37 | [Amnesty](http://twitter.com/search?q=Amnesty) | N/A |
+| 24 | [Extinction Rebellion](http://twitter.com/search?q=Extinction+Rebellion) | N/A |
+| 25 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
+| 26 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 27 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 28 | [Bushalte](http://twitter.com/search?q=Bushalte) | N/A |
+| 29 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
+| 30 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 31 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 32 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 33 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 34 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 35 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
+| 36 | [Amnesty](http://twitter.com/search?q=Amnesty) | N/A |
+| 37 | [Trauner](http://twitter.com/search?q=Trauner) | N/A |
 | 38 | [Vlieland](http://twitter.com/search?q=Vlieland) | N/A |
-| 39 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 40 | [jaap van dissel](http://twitter.com/search?q=jaap+van+dissel) | N/A |
-| 41 | [Trauner](http://twitter.com/search?q=Trauner) | N/A |
-| 42 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 43 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
-| 44 | [onelove-band](http://twitter.com/search?q=onelove-band) | N/A |
-| 45 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
-| 46 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
-| 47 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 48 | [virtueel](http://twitter.com/search?q=virtueel) | N/A |
-| 49 | [Werkse](http://twitter.com/search?q=Werkse) | N/A |
+| 39 | [jaap van dissel](http://twitter.com/search?q=jaap+van+dissel) | N/A |
+| 40 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 41 | [Herman Finkers](http://twitter.com/search?q=Herman+Finkers) | N/A |
+| 42 | [onelove-band](http://twitter.com/search?q=onelove-band) | N/A |
+| 43 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 44 | [Schotland](http://twitter.com/search?q=Schotland) | N/A |
+| 45 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 46 | [virtueel](http://twitter.com/search?q=virtueel) | N/A |
+| 47 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
+| 48 | [Calimero](http://twitter.com/search?q=Calimero) | N/A |
+| 49 | [Tata Steel](http://twitter.com/search?q=Tata+Steel) | N/A |
 
 
 

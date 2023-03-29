@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-29 08:17:53 UTC`
+📆 Last Updated: `2023-03-29 09:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Austria](</Austria>)
 | ------- | ------------ | ------------ |
 | 1 | [#autest](http://twitter.com/search?q=%23autest) | N/A |
 | 2 | [#w2803](http://twitter.com/search?q=%23w2803) | N/A |
-| 3 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
-| 4 | [#blockgas](http://twitter.com/search?q=%23blockgas) | N/A |
-| 5 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 6 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 3 | [#blockgas](http://twitter.com/search?q=%23blockgas) | N/A |
+| 4 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
+| 5 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 6 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
 | 7 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
-| 8 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
-| 9 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 10 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 11 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 12 | [Aufsichtsrat](http://twitter.com/search?q=Aufsichtsrat) | N/A |
-| 13 | [#EuropeanGasConference](http://twitter.com/search?q=%23EuropeanGasConference) | N/A |
-| 14 | [christian deutsch](http://twitter.com/search?q=christian+deutsch) | N/A |
-| 15 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 16 | [Servus](http://twitter.com/search?q=Servus) | N/A |
-| 17 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 18 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 19 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 20 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
-| 21 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 22 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 23 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 24 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 25 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 26 | [Griff](http://twitter.com/search?q=Griff) | N/A |
-| 27 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 28 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 29 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
-| 30 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
-| 31 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 32 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [Wasserwerfer](http://twitter.com/search?q=Wasserwerfer) | N/A |
-| 35 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 36 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
-| 37 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 38 | [Estland](http://twitter.com/search?q=Estland) | N/A |
-| 39 | [stimmungsbild](http://twitter.com/search?q=stimmungsbild) | N/A |
-| 40 | [Argument](http://twitter.com/search?q=Argument) | N/A |
-| 41 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 42 | [Pflege](http://twitter.com/search?q=Pflege) | N/A |
-| 43 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
-| 44 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 45 | [statut](http://twitter.com/search?q=statut) | N/A |
-| 46 | [Rhetorik](http://twitter.com/search?q=Rhetorik) | N/A |
-| 47 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 48 | [Infrastruktur](http://twitter.com/search?q=Infrastruktur) | N/A |
-| 49 | [Bine](http://twitter.com/search?q=Bine) | N/A |
-| 50 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 8 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
+| 9 | [Aufsichtsrat](http://twitter.com/search?q=Aufsichtsrat) | N/A |
+| 10 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 11 | [christian deutsch](http://twitter.com/search?q=christian+deutsch) | N/A |
+| 12 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
+| 13 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 14 | [#EuropeanGasConference](http://twitter.com/search?q=%23EuropeanGasConference) | N/A |
+| 15 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 16 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 17 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 18 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 19 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
+| 20 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 21 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 22 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 23 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 24 | [Wasserwerfer](http://twitter.com/search?q=Wasserwerfer) | N/A |
+| 25 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 26 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
+| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 28 | [Köstinger](http://twitter.com/search?q=K%c3%b6stinger) | N/A |
+| 29 | [Estland](http://twitter.com/search?q=Estland) | N/A |
+| 30 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 31 | [stimmungsbild](http://twitter.com/search?q=stimmungsbild) | N/A |
+| 32 | [Wille](http://twitter.com/search?q=Wille) | N/A |
+| 33 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 34 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 35 | [liesing](http://twitter.com/search?q=liesing) | N/A |
+| 36 | [Institution](http://twitter.com/search?q=Institution) | N/A |
+| 37 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
+| 38 | [Versorgung](http://twitter.com/search?q=Versorgung) | N/A |
+| 39 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 40 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 41 | [Elli](http://twitter.com/search?q=Elli) | N/A |
+| 42 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 43 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
+| 44 | [statut](http://twitter.com/search?q=statut) | N/A |
+| 45 | [Polaschek](http://twitter.com/search?q=Polaschek) | N/A |
+| 46 | [Wohnen](http://twitter.com/search?q=Wohnen) | N/A |
+| 47 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
+| 50 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
 
 
 

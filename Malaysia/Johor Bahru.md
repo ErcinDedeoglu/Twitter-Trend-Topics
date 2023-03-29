@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-03-29 08:18:06 UTC`
+📆 Last Updated: `2023-03-29 09:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RimowaXGulf](http://twitter.com/search?q=%23RimowaXGulf) | N/A |
-| 2 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
-| 3 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 4 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 1 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
+| 2 | [#RimowaXGulf](http://twitter.com/search?q=%23RimowaXGulf) | N/A |
+| 3 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 4 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 5 | [#ItsReneBaeDay](http://twitter.com/search?q=%23ItsReneBaeDay) | N/A |
-| 6 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 7 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 8 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 9 | [day6](http://twitter.com/search?q=day6) | N/A |
+| 6 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
+| 7 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 8 | [Day6](http://twitter.com/search?q=Day6) | N/A |
+| 9 | [junghwan](http://twitter.com/search?q=junghwan) | N/A |
 | 10 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 11 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 12 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 13 | [jongdae](http://twitter.com/search?q=jongdae) | N/A |
-| 14 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 15 | [London](http://twitter.com/search?q=London) | N/A |
-| 16 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
-| 17 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 18 | [Diana Danielle](http://twitter.com/search?q=Diana+Danielle) | N/A |
-| 19 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 11 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 12 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 13 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 14 | [London](http://twitter.com/search?q=London) | N/A |
+| 15 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
+| 16 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 17 | [Diana Danielle](http://twitter.com/search?q=Diana+Danielle) | N/A |
+| 18 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 19 | [Spain](http://twitter.com/search?q=Spain) | N/A |
 | 20 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 21 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 22 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 23 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 24 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 25 | [LIZ DESERVES BETTER](http://twitter.com/search?q=LIZ+DESERVES+BETTER) | N/A |
-| 26 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 27 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 28 | [Farid Kamil](http://twitter.com/search?q=Farid+Kamil) | N/A |
-| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 30 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
-| 31 | [MACC](http://twitter.com/search?q=MACC) | N/A |
-| 32 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
-| 33 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 34 | [opendosm](http://twitter.com/search?q=opendosm) | N/A |
-| 35 | [Istanbul Aku Datang](http://twitter.com/search?q=Istanbul+Aku+Datang) | N/A |
-| 36 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 37 | [Faisal Halim](http://twitter.com/search?q=Faisal+Halim) | N/A |
+| 21 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 22 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
+| 23 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 24 | [LIZ DESERVES BETTER](http://twitter.com/search?q=LIZ+DESERVES+BETTER) | N/A |
+| 25 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 26 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
+| 27 | [Farid Kamil](http://twitter.com/search?q=Farid+Kamil) | N/A |
+| 28 | [MACC](http://twitter.com/search?q=MACC) | N/A |
+| 29 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 30 | [opendosm](http://twitter.com/search?q=opendosm) | N/A |
+| 31 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 32 | [Istanbul Aku Datang](http://twitter.com/search?q=Istanbul+Aku+Datang) | N/A |
+| 33 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
+| 34 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 35 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
+| 36 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 37 | [faisal halim](http://twitter.com/search?q=faisal+halim) | N/A |
 | 38 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 41 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 42 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 43 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 44 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 45 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 46 | [Harris](http://twitter.com/search?q=Harris) | N/A |
-| 47 | [jooheon](http://twitter.com/search?q=jooheon) | N/A |
-| 48 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 49 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
+| 39 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 40 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
+| 41 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 42 | [Proton](http://twitter.com/search?q=Proton) | N/A |
+| 43 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 45 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 46 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 47 | [chaeyeon](http://twitter.com/search?q=chaeyeon) | N/A |
+| 48 | [Harris](http://twitter.com/search?q=Harris) | N/A |
+| 49 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
 
 
 

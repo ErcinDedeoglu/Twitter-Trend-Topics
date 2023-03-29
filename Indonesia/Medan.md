@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-03-29 08:18:01 UTC`
+📆 Last Updated: `2023-03-29 09:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,34 +15,41 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Erick Thohir Ke FIFA](http://twitter.com/search?q=Erick+Thohir+Ke+FIFA) | N/A |
+| 1 | [Kita Doakan Erick](http://twitter.com/search?q=Kita+Doakan+Erick) | N/A |
 | 2 | [#DavidAnakKitaSemua](http://twitter.com/search?q=%23DavidAnakKitaSemua) | N/A |
 | 3 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
 | 4 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
-| 5 | [U 20](http://twitter.com/search?q=U+20) | N/A |
+| 5 | [#U20HarusJadi](http://twitter.com/search?q=%23U20HarusJadi) | N/A |
 | 6 | [#KamiBersamaET](http://twitter.com/search?q=%23KamiBersamaET) | N/A |
 | 7 | [Piala](http://twitter.com/search?q=Piala) | N/A |
-| 8 | [Bapak Jokowi](http://twitter.com/search?q=Bapak+Jokowi) | N/A |
-| 9 | [Presiden Joko Widodo](http://twitter.com/search?q=Presiden+Joko+Widodo) | N/A |
-| 10 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
+| 8 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 9 | [CAT 4A](http://twitter.com/search?q=CAT+4A) | N/A |
+| 10 | [Bapak Jokowi](http://twitter.com/search?q=Bapak+Jokowi) | N/A |
 | 11 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
-| 12 | [Sepuh](http://twitter.com/search?q=Sepuh) | N/A |
-| 13 | [Ahmad Dhani](http://twitter.com/search?q=Ahmad+Dhani) | N/A |
-| 14 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
-| 15 | [CAT 2B](http://twitter.com/search?q=CAT+2B) | N/A |
-| 16 | [JOHNNY SUH](http://twitter.com/search?q=JOHNNY+SUH) | N/A |
-| 17 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 18 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 19 | [Dita](http://twitter.com/search?q=Dita) | N/A |
-| 20 | [Dajjal](http://twitter.com/search?q=Dajjal) | N/A |
-| 21 | [Ahok](http://twitter.com/search?q=Ahok) | N/A |
-| 22 | [#GAnyaAshelytic](http://twitter.com/search?q=%23GAnyaAshelytic) | N/A |
-| 23 | [#LinkAjaXJaringanPrima](http://twitter.com/search?q=%23LinkAjaXJaringanPrima) | N/A |
-| 24 | [#OPPOA785GdiShopee](http://twitter.com/search?q=%23OPPOA785GdiShopee) | N/A |
-| 25 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
-| 26 | [#PrayAndHope](http://twitter.com/search?q=%23PrayAndHope) | N/A |
-| 27 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
-| 28 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
+| 12 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
+| 13 | [Haerin](http://twitter.com/search?q=Haerin) | N/A |
+| 14 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 15 | [Ahmad Dhani](http://twitter.com/search?q=Ahmad+Dhani) | N/A |
+| 16 | [Sepuh](http://twitter.com/search?q=Sepuh) | N/A |
+| 17 | [NO SCAM](http://twitter.com/search?q=NO+SCAM) | N/A |
+| 18 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 19 | [Presiden Joko Widodo](http://twitter.com/search?q=Presiden+Joko+Widodo) | N/A |
+| 20 | [JOHNNY SUH](http://twitter.com/search?q=JOHNNY+SUH) | N/A |
+| 21 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 22 | [Dita](http://twitter.com/search?q=Dita) | N/A |
+| 23 | [EFIN](http://twitter.com/search?q=EFIN) | N/A |
+| 24 | [#케플러와_Giddy한_멘파타임](http://twitter.com/search?q=%23%ec%bc%80%ed%94%8c%eb%9f%ac%ec%99%80_Giddy%ed%95%9c_%eb%a9%98%ed%8c%8c%ed%83%80%ec%9e%84) | N/A |
+| 25 | [#FionyMail](http://twitter.com/search?q=%23FionyMail) | N/A |
+| 26 | [#RimowaXGulf](http://twitter.com/search?q=%23RimowaXGulf) | N/A |
+| 27 | [#GAnyaAshelytic](http://twitter.com/search?q=%23GAnyaAshelytic) | N/A |
+| 28 | [#BaiknyaRamadan](http://twitter.com/search?q=%23BaiknyaRamadan) | N/A |
+| 29 | [#tontawan_t](http://twitter.com/search?q=%23tontawan_t) | N/A |
+| 30 | [#PastiBagiHadiah](http://twitter.com/search?q=%23PastiBagiHadiah) | N/A |
+| 31 | [#LinkAjaXJaringanPrima](http://twitter.com/search?q=%23LinkAjaXJaringanPrima) | N/A |
+| 32 | [#OPPOA785GdiShopee](http://twitter.com/search?q=%23OPPOA785GdiShopee) | N/A |
+| 33 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 34 | [#NgabuburitBarengMinto](http://twitter.com/search?q=%23NgabuburitBarengMinto) | N/A |
+| 35 | [#KKPThrive](http://twitter.com/search?q=%23KKPThrive) | N/A |
 
 
 

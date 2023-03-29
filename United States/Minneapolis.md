@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-29 08:18:23 UTC`
+📆 Last Updated: `2023-03-29 09:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 2 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 3 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
+| 1 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 2 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
+| 3 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
 | 4 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 5 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 6 | [#JJK218](http://twitter.com/search?q=%23JJK218) | N/A |
-| 7 | [#MHA384](http://twitter.com/search?q=%23MHA384) | N/A |
-| 8 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 7 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
+| 8 | [#MHA384](http://twitter.com/search?q=%23MHA384) | N/A |
 | 9 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 10 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 10 | [pels](http://twitter.com/search?q=pels) | N/A |
 | 11 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 12 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 13 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 14 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 15 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 16 | [Rody](http://twitter.com/search?q=Rody) | N/A |
-| 17 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
-| 18 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 19 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 20 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 21 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 22 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
-| 23 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
-| 24 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 25 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 26 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 27 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 28 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
-| 29 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
-| 30 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 31 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 32 | [Zava](http://twitter.com/search?q=Zava) | N/A |
-| 33 | [Potapova](http://twitter.com/search?q=Potapova) | N/A |
-| 34 | [hotch](http://twitter.com/search?q=hotch) | N/A |
-| 35 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 36 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
-| 37 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 38 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 39 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 40 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
-| 41 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 42 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 43 | [Vans](http://twitter.com/search?q=Vans) | N/A |
-| 44 | [Stephen Curry](http://twitter.com/search?q=Stephen+Curry) | N/A |
-| 45 | [Stand By Me](http://twitter.com/search?q=Stand+By+Me) | N/A |
-| 46 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 47 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 48 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
-| 49 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
+| 12 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 13 | [RODY](http://twitter.com/search?q=RODY) | N/A |
+| 14 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 15 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 16 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 17 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 18 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 19 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 20 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 21 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
+| 22 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
+| 23 | [Zava](http://twitter.com/search?q=Zava) | N/A |
+| 24 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 25 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 26 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 27 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
+| 28 | [hotch](http://twitter.com/search?q=hotch) | N/A |
+| 29 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
+| 30 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 31 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 32 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 33 | [Stand By Me](http://twitter.com/search?q=Stand+By+Me) | N/A |
+| 34 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
+| 35 | [Collier](http://twitter.com/search?q=Collier) | N/A |
+| 36 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 37 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
+| 38 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 39 | [Robert Plant](http://twitter.com/search?q=Robert+Plant) | N/A |
+| 40 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 41 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 42 | [Ohio River](http://twitter.com/search?q=Ohio+River) | N/A |
+| 43 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
+| 44 | [Froggy](http://twitter.com/search?q=Froggy) | N/A |
+| 45 | [Safemoon](http://twitter.com/search?q=Safemoon) | N/A |
+| 46 | [Loma](http://twitter.com/search?q=Loma) | N/A |
+| 47 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
+| 48 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 49 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
 
 
 

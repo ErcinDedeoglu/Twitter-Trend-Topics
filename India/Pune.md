@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-03-29 08:18:17 UTC`
+📆 Last Updated: `2023-03-29 09:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KarnatakaElections2023](http://twitter.com/search?q=%23KarnatakaElections2023) | N/A |
-| 2 | [#UPIcharges](http://twitter.com/search?q=%23UPIcharges) | N/A |
-| 3 | [#RPSC_शर्म_करो](http://twitter.com/search?q=%23RPSC_%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 4 | [BHOLAA RELEASING TOMORROW](http://twitter.com/search?q=BHOLAA+RELEASING+TOMORROW) | N/A |
-| 5 | [SRK KA BAAP KOHLI](http://twitter.com/search?q=SRK+KA+BAAP+KOHLI) | N/A |
-| 6 | [KOHLI KA BAAP SRK](http://twitter.com/search?q=KOHLI+KA+BAAP+SRK) | N/A |
-| 7 | [SRKIANS KA MOOT KOHLI](http://twitter.com/search?q=SRKIANS+KA+MOOT+KOHLI) | N/A |
-| 8 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 9 | [RANGBAHARA OUT NOW](http://twitter.com/search?q=RANGBAHARA+OUT+NOW) | N/A |
-| 10 | [सम्राट अशोक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95) | N/A |
+| 1 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 2 | [#MeraGharAapkaGhar](http://twitter.com/search?q=%23MeraGharAapkaGhar) | N/A |
+| 3 | [#TheNewShop](http://twitter.com/search?q=%23TheNewShop) | N/A |
+| 4 | [#UPIcharges](http://twitter.com/search?q=%23UPIcharges) | N/A |
+| 5 | [#KarnatakaElections2023](http://twitter.com/search?q=%23KarnatakaElections2023) | N/A |
+| 6 | [#RPSC_शर्म_करो](http://twitter.com/search?q=%23RPSC_%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 7 | [SRK KA BAAP KOHLI](http://twitter.com/search?q=SRK+KA+BAAP+KOHLI) | N/A |
+| 8 | [BHOLAA RELEASING TOMORROW](http://twitter.com/search?q=BHOLAA+RELEASING+TOMORROW) | N/A |
+| 9 | [KOHLI KA BAAP SRK](http://twitter.com/search?q=KOHLI+KA+BAAP+SRK) | N/A |
+| 10 | [SRKIANS KA MOOT KOHLI](http://twitter.com/search?q=SRKIANS+KA+MOOT+KOHLI) | N/A |
 | 11 | [Rs 2,000](http://twitter.com/search?q=Rs+2%2c000) | N/A |
-| 12 | [सुनील ओझा](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a8%e0%a5%80%e0%a4%b2+%e0%a4%93%e0%a4%9d%e0%a4%be) | N/A |
-| 13 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
-| 14 | [कर्नाटक चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 15 | [मोहम्मद फैजल](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6+%e0%a4%ab%e0%a5%88%e0%a4%9c%e0%a4%b2) | N/A |
-| 16 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 17 | [Prepaid Payment Instruments](http://twitter.com/search?q=Prepaid+Payment+Instruments) | N/A |
-| 18 | [अष्टम स्वरूप](http://twitter.com/search?q=%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 19 | [Rajiv Kumar](http://twitter.com/search?q=Rajiv+Kumar) | N/A |
-| 20 | [राजीव कुमार](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 21 | [श्री दुर्गा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
-| 22 | [Google Pay](http://twitter.com/search?q=Google+Pay) | N/A |
-| 23 | [डिजिटल इंडिया](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%9c%e0%a4%bf%e0%a4%9f%e0%a4%b2+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 24 | [गौरी नारायणी](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a5%80) | N/A |
-| 25 | [मौर्य साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 26 | [तथागत बुद्ध](http://twitter.com/search?q=%e0%a4%a4%e0%a4%a5%e0%a4%be%e0%a4%97%e0%a4%a4+%e0%a4%ac%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
-| 27 | [Special Day For Every Sanatani](http://twitter.com/search?q=Special+Day+For+Every+Sanatani) | N/A |
-| 28 | [Digital India](http://twitter.com/search?q=Digital+India) | N/A |
-| 29 | [Sant Shri Asharamji Ashram](http://twitter.com/search?q=Sant+Shri+Asharamji+Ashram) | Sant Shri Asharamji Ashram is a spiritual organization founded by Sant Shri Asharamji Bapu in 1971. The ashram is dedicated to providing spiritual guidance and support to people from all walks of life. The ashram promotes the practice of meditation, yoga, and other spiritual practices as a means of achieving inner peace and enlightenment. The English translation of Sant Shri Asharamji Ashram is "Saint Lord Asharamji's Abode". |
-| 30 | [Ajay Devgan](http://twitter.com/search?q=Ajay+Devgan) | N/A |
-| 31 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 32 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 33 | [इमरान प्रतापगढ़ी](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa%e0%a4%97%e0%a4%a2%e0%a4%bc%e0%a5%80) | N/A |
-| 34 | [पुनर्वसु नक्षत्र](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%a8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b8%e0%a5%81+%e0%a4%a8%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 35 | [SEED Campaign](http://twitter.com/search?q=SEED+Campaign) | N/A |
-| 36 | [Maa Durga](http://twitter.com/search?q=Maa+Durga) | N/A |
-| 37 | [जगत जननी](http://twitter.com/search?q=%e0%a4%9c%e0%a4%97%e0%a4%a4+%e0%a4%9c%e0%a4%a8%e0%a4%a8%e0%a5%80) | N/A |
-| 38 | [#BholaaInCinemasTomorrow](http://twitter.com/search?q=%23BholaaInCinemasTomorrow) | N/A |
-| 39 | [#TheNewShop](http://twitter.com/search?q=%23TheNewShop) | N/A |
-| 40 | [#UPIPayments](http://twitter.com/search?q=%23UPIPayments) | N/A |
-| 41 | [#DurgaAshtami](http://twitter.com/search?q=%23DurgaAshtami) | N/A |
-| 42 | [#GalaxyF14](http://twitter.com/search?q=%23GalaxyF14) | N/A |
-| 43 | [#BoycottFOPNL](http://twitter.com/search?q=%23BoycottFOPNL) | N/A |
-| 44 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
-| 45 | [#TigerNageswaraRao](http://twitter.com/search?q=%23TigerNageswaraRao) | N/A |
-| 46 | [#दुर्गा_अष्टमी](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be_%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
-| 47 | [#GirishBapat](http://twitter.com/search?q=%23GirishBapat) | N/A |
-| 48 | [#ShaheedMinarCholo](http://twitter.com/search?q=%23ShaheedMinarCholo) | N/A |
+| 12 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 13 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
+| 14 | [RANGBAHARA OUT NOW](http://twitter.com/search?q=RANGBAHARA+OUT+NOW) | N/A |
+| 15 | [गिरीश बापट](http://twitter.com/search?q=%e0%a4%97%e0%a4%bf%e0%a4%b0%e0%a5%80%e0%a4%b6+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a4%9f) | N/A |
+| 16 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
+| 17 | [सम्राट अशोक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95) | N/A |
+| 18 | [सुनील ओझा](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%a8%e0%a5%80%e0%a4%b2+%e0%a4%93%e0%a4%9d%e0%a4%be) | N/A |
+| 19 | [Prepaid Payment Instruments](http://twitter.com/search?q=Prepaid+Payment+Instruments) | N/A |
+| 20 | [कर्नाटक चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 21 | [मोहम्मद फैजल](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6+%e0%a4%ab%e0%a5%88%e0%a4%9c%e0%a4%b2) | N/A |
+| 22 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 23 | [PPIs](http://twitter.com/search?q=PPIs) | N/A |
+| 24 | [CEC Rajiv Kumar](http://twitter.com/search?q=CEC+Rajiv+Kumar) | N/A |
+| 25 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 26 | [श्री दुर्गा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 27 | [Merchants](http://twitter.com/search?q=Merchants) | N/A |
+| 28 | [डिजिटल इंडिया](http://twitter.com/search?q=%e0%a4%a1%e0%a4%bf%e0%a4%9c%e0%a4%bf%e0%a4%9f%e0%a4%b2+%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 29 | [अष्टम स्वरूप](http://twitter.com/search?q=%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 30 | [राजीव कुमार](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 31 | [Wallet](http://twitter.com/search?q=Wallet) | N/A |
+| 32 | [मौर्य साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 33 | [तथागत बुद्ध](http://twitter.com/search?q=%e0%a4%a4%e0%a4%a5%e0%a4%be%e0%a4%97%e0%a4%a4+%e0%a4%ac%e0%a5%81%e0%a4%a6%e0%a5%8d%e0%a4%a7) | N/A |
+| 34 | [गौरी नारायणी](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a5%80) | N/A |
+| 35 | [Digital India](http://twitter.com/search?q=Digital+India) | N/A |
+| 36 | [Ajay Devgan](http://twitter.com/search?q=Ajay+Devgan) | N/A |
+| 37 | [इमरान प्रतापगढ़ी](http://twitter.com/search?q=%e0%a4%87%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be%e0%a4%aa%e0%a4%97%e0%a4%a2%e0%a4%bc%e0%a5%80) | N/A |
+| 38 | [Sant Shri Asharamji Ashram](http://twitter.com/search?q=Sant+Shri+Asharamji+Ashram) | Sant Shri Asharamji Ashram is a spiritual organization founded by Sant Shri Asharamji Bapu in 1971. The ashram is dedicated to providing spiritual guidance and support to people from all walks of life. The ashram promotes the practice of meditation, yoga, and other spiritual practices as a means of achieving inner peace and enlightenment. The English translation of Sant Shri Asharamji Ashram is "Saint Lord Asharamji's Abode". |
+| 39 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 40 | [पुनर्वसु नक्षत्र](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%a8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b8%e0%a5%81+%e0%a4%a8%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 41 | [Maa Durga](http://twitter.com/search?q=Maa+Durga) | N/A |
+| 42 | [#BholaaInCinemasTomorrow](http://twitter.com/search?q=%23BholaaInCinemasTomorrow) | N/A |
+| 43 | [#CongressSarkaraGuarantee](http://twitter.com/search?q=%23CongressSarkaraGuarantee) | N/A |
+| 44 | [#UPIPayments](http://twitter.com/search?q=%23UPIPayments) | N/A |
+| 45 | [#BoycottFOPNL](http://twitter.com/search?q=%23BoycottFOPNL) | N/A |
+| 46 | [#GalaxyF14](http://twitter.com/search?q=%23GalaxyF14) | N/A |
+| 47 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
+| 48 | [#DurgaAshtami](http://twitter.com/search?q=%23DurgaAshtami) | N/A |
+| 49 | [#GirishBapat](http://twitter.com/search?q=%23GirishBapat) | N/A |
+| 50 | [#NPCI](http://twitter.com/search?q=%23NPCI) | N/A |
 
 
 

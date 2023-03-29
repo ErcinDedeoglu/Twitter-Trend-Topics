@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-29 08:17:57 UTC`
+📆 Last Updated: `2023-03-29 09:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#29marzo](http://twitter.com/search?q=%2329marzo) | N/A |
 | 3 | [#nonVedono](http://twitter.com/search?q=%23nonVedono) | N/A |
 | 4 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
-| 5 | [#GianniMinà](http://twitter.com/search?q=%23GianniMin%c3%a0) | N/A |
-| 6 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 5 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 6 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 7 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
 | 8 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
 | 9 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 10 | [Buongiorno Eric](http://twitter.com/search?q=Buongiorno+Eric) | N/A |
-| 11 | [Buongiorno Eric](http://twitter.com/search?q=Buongiorno+Eric) | N/A |
-| 12 | [Molise](http://twitter.com/search?q=Molise) | N/A |
-| 13 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 14 | [Giusi](http://twitter.com/search?q=Giusi) | N/A |
-| 15 | [Buon Mercoledì](http://twitter.com/search?q=Buon+Mercoled%c3%ac) | N/A |
-| 16 | [Condoglianze Paolo](http://twitter.com/search?q=Condoglianze+Paolo) | N/A |
-| 17 | [Rubinetto](http://twitter.com/search?q=Rubinetto) | N/A |
-| 18 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 19 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
-| 20 | [Sentita](http://twitter.com/search?q=Sentita) | N/A |
-| 21 | [Buongiorno Adrigara](http://twitter.com/search?q=Buongiorno+Adrigara) | N/A |
-| 22 | [avvertita](http://twitter.com/search?q=avvertita) | N/A |
-| 23 | [San Pietro](http://twitter.com/search?q=San+Pietro) | N/A |
-| 24 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 25 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 26 | [Buongiorno Michael](http://twitter.com/search?q=Buongiorno+Michael) | N/A |
-| 27 | [Rublev](http://twitter.com/search?q=Rublev) | Rublev is a Russian surname derived from the given name Ruben. It is most famously associated with the 15th century icon painter and monk Andrei Rublev, who is considered to be one of the greatest medieval Russian painters. The name Rublev can also refer to a type of traditional Russian bread roll. |
-| 28 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 29 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
-| 30 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 31 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 32 | [Annamaria](http://twitter.com/search?q=Annamaria) | N/A |
-| 33 | [Fondente](http://twitter.com/search?q=Fondente) | N/A |
-| 34 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
-| 35 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 36 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 37 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 38 | [Violetta](http://twitter.com/search?q=Violetta) | N/A |
-| 39 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
-| 40 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
+| 10 | [Molise](http://twitter.com/search?q=Molise) | N/A |
+| 11 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 12 | [San Pietro](http://twitter.com/search?q=San+Pietro) | N/A |
+| 13 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 14 | [Condoglianze Paolo](http://twitter.com/search?q=Condoglianze+Paolo) | N/A |
+| 15 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 16 | [avvertita](http://twitter.com/search?q=avvertita) | N/A |
+| 17 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
+| 18 | [Sentita](http://twitter.com/search?q=Sentita) | N/A |
+| 19 | [Rubinetto](http://twitter.com/search?q=Rubinetto) | N/A |
+| 20 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 21 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 22 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
+| 23 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 24 | [Rublev](http://twitter.com/search?q=Rublev) | Rublev is a Russian surname derived from the given name Ruben. It is most famously associated with the 15th century icon painter and monk Andrei Rublev, who is considered to be one of the greatest medieval Russian painters. The name Rublev can also refer to a type of traditional Russian bread roll. |
+| 25 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 26 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 27 | [Fondente](http://twitter.com/search?q=Fondente) | N/A |
+| 28 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 29 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
+| 30 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
+| 31 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 32 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 33 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 34 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 35 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 36 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 37 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
+| 38 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 39 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
+| 40 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
 | 41 | [Abruzzo](http://twitter.com/search?q=Abruzzo) | N/A |
-| 42 | [Tanti](http://twitter.com/search?q=Tanti) | N/A |
-| 43 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 44 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 45 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 46 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
-| 47 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 48 | [Il 29](http://twitter.com/search?q=Il+29) | N/A |
-| 49 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
-| 50 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
+| 42 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
+| 43 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 44 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 45 | [Puglia](http://twitter.com/search?q=Puglia) | N/A |
+| 46 | [Sergio Ermotti](http://twitter.com/search?q=Sergio+Ermotti) | N/A |
+| 47 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 48 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
+| 49 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 50 | [Gabriele Corsi](http://twitter.com/search?q=Gabriele+Corsi) | N/A |
 
 
 

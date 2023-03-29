@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sapporo
 
-📆 Last Updated: `2023-03-29 08:18:03 UTC`
+📆 Last Updated: `2023-03-29 09:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#プロスピA](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%82%b9%e3%83%94A) | N/A |
-| 2 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
-| 3 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
-| 4 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | カラフェス (Karafesu) is a Japanese term for a party or gathering that is held to celebrate a special occasion. It usually involves food, drinks, and entertainment. The word comes from the combination of two words: "kara" meaning empty and "fesu" meaning festival. In English, it can be translated as "empty festival". |
-| 5 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
-| 6 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
-| 7 | [カーヴェ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%b4%e3%82%a7) | カーヴェ is a Japanese word that means “curve” or “curved”. It is often used to describe something that has a curved shape or design. |
-| 8 | [#春の休肝ご褒美キャンペーン](http://twitter.com/search?q=%23%e6%98%a5%e3%81%ae%e4%bc%91%e8%82%9d%e3%81%94%e8%a4%92%e7%be%8e%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%9a%e3%83%bc%e3%83%b3) | N/A |
-| 9 | [#オールフリー休肝部](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%95%e3%83%aa%e3%83%bc%e4%bc%91%e8%82%9d%e9%83%a8) | N/A |
-| 10 | [肝ライフ](http://twitter.com/search?q=%e8%82%9d%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
-| 11 | [写真付き応募](http://twitter.com/search?q=%e5%86%99%e7%9c%9f%e4%bb%98%e3%81%8d%e5%bf%9c%e5%8b%9f) | N/A |
-| 12 | [奈良岡朋子さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e6%9c%8b%e5%ad%90%e3%81%95%e3%82%93) | N/A |
-| 13 | [大山アーチスト](http://twitter.com/search?q=%e5%a4%a7%e5%b1%b1%e3%82%a2%e3%83%bc%e3%83%81%e3%82%b9%e3%83%88) | N/A |
-| 14 | [当選確率2倍](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e7%8e%872%e5%80%8d) | N/A |
-| 15 | [ブルーインパルス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
-| 16 | [放浪者復刻](http://twitter.com/search?q=%e6%94%be%e6%b5%aa%e8%80%85%e5%be%a9%e5%88%bb) | N/A |
-| 17 | [四季の謎解き成功](http://twitter.com/search?q=%e5%9b%9b%e5%ad%a3%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 18 | [Nスタさん](http://twitter.com/search?q=N%e3%82%b9%e3%82%bf%e3%81%95%e3%82%93) | N/A |
+| 1 | [#祝Tiger_MV1000万回再生](http://twitter.com/search?q=%23%e7%a5%9dTiger_MV1000%e4%b8%87%e5%9b%9e%e5%86%8d%e7%94%9f) | N/A |
+| 2 | [#Tiger_MV10M_Views](http://twitter.com/search?q=%23Tiger_MV10M_Views) | N/A |
+| 3 | [ゲリラ豪雨](http://twitter.com/search?q=%e3%82%b2%e3%83%aa%e3%83%a9%e8%b1%aa%e9%9b%a8) | N/A |
+| 4 | [#プロスピA](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%82%b9%e3%83%94A) | N/A |
+| 5 | [ダークモード](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%af%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
+| 6 | [#ま行に殺すをつけると色々とやばい](http://twitter.com/search?q=%23%e3%81%be%e8%a1%8c%e3%81%ab%e6%ae%ba%e3%81%99%e3%82%92%e3%81%a4%e3%81%91%e3%82%8b%e3%81%a8%e8%89%b2%e3%80%85%e3%81%a8%e3%82%84%e3%81%b0%e3%81%84) | "#ま行に殺すをつけると色々とやばい" is a Japanese phrase that translates to "Adding the hashtag #kill to words beginning with 'ma' can be dangerous". It is a warning against using certain hashtags on social media, as they can be associated with dangerous or offensive content. |
+| 7 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
+| 8 | [プリグラ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b0%e3%83%a9) | N/A |
+| 9 | [#케플러와_Giddy한_멘파타임](http://twitter.com/search?q=%23%ec%bc%80%ed%94%8c%eb%9f%ac%ec%99%80_Giddy%ed%95%9c_%eb%a9%98%ed%8c%8c%ed%83%80%ec%9e%84) | N/A |
+| 10 | [向井康二](http://twitter.com/search?q=%e5%90%91%e4%ba%95%e5%ba%b7%e4%ba%8c) | N/A |
+| 11 | [メーヴェ](http://twitter.com/search?q=%e3%83%a1%e3%83%bc%e3%83%b4%e3%82%a7) | N/A |
+| 12 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
+| 13 | [奈良岡朋子さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e6%9c%8b%e5%ad%90%e3%81%95%e3%82%93) | N/A |
+| 14 | [肝ライフ](http://twitter.com/search?q=%e8%82%9d%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
+| 15 | [スーパームック](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%a0%e3%83%83%e3%82%af) | スーパームック (Supermook) is a Japanese magazine that focuses on fashion, beauty, and lifestyle topics. It is published by Shogakukan and is aimed at young women. The magazine's name comes from the combination of the words "super" and "mook," which is short for "magazine book." |
+| 16 | [Overdose 君](http://twitter.com/search?q=Overdose+%e5%90%9b) | N/A |
+| 17 | [当選確率2倍](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e7%8e%872%e5%80%8d) | N/A |
+| 18 | [写真付き応募](http://twitter.com/search?q=%e5%86%99%e7%9c%9f%e4%bb%98%e3%81%8d%e5%bf%9c%e5%8b%9f) | N/A |
 | 19 | [スヌーピー](http://twitter.com/search?q=%e3%82%b9%e3%83%8c%e3%83%bc%e3%83%94%e3%83%bc) | N/A |
-| 20 | [#初心者講座](http://twitter.com/search?q=%23%e5%88%9d%e5%bf%83%e8%80%85%e8%ac%9b%e5%ba%a7) | N/A |
-| 21 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
-| 22 | [#MadCatzxEVOJ](http://twitter.com/search?q=%23MadCatzxEVOJ) | N/A |
-| 23 | [おとなのはじまり](http://twitter.com/search?q=%e3%81%8a%e3%81%a8%e3%81%aa%e3%81%ae%e3%81%af%e3%81%98%e3%81%be%e3%82%8a) | N/A |
-| 24 | [プリグラ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%b0%e3%83%a9) | N/A |
-| 25 | [北ちゃん](http://twitter.com/search?q=%e5%8c%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [リンレン](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%ac%e3%83%b3) | N/A |
-| 27 | [杏ちゃん](http://twitter.com/search?q=%e6%9d%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 28 | [アクスタ120個](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf120%e5%80%8b) | N/A |
-| 29 | [スピッツ](http://twitter.com/search?q=%e3%82%b9%e3%83%94%e3%83%83%e3%83%84) | スピッツ (Spitz) is a Japanese rock band formed in Tokyo in 1988. The band's name is derived from the German word for "spitze", meaning "sharp" or "pointed". The band's music is characterized by its melodic, often upbeat sound and thoughtful lyrics. They have released over 20 albums and singles since their debut in 1988. |
-| 30 | [MVのベストショット](http://twitter.com/search?q=MV%e3%81%ae%e3%83%99%e3%82%b9%e3%83%88%e3%82%b7%e3%83%a7%e3%83%83%e3%83%88) | N/A |
-| 31 | [予告番組](http://twitter.com/search?q=%e4%ba%88%e5%91%8a%e7%95%aa%e7%b5%84) | 予告番組 is a Japanese term that translates to "preview program" in English. It refers to a television program that previews upcoming shows or events. |
-| 32 | [大吉先生](http://twitter.com/search?q=%e5%a4%a7%e5%90%89%e5%85%88%e7%94%9f) | 大吉先生 is a Japanese honorific title that translates to "Mr. Great Luck" in English. It is used to refer to someone who has achieved great success or good fortune. |
-| 33 | [ノイジー低弾道](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc%e4%bd%8e%e5%bc%be%e9%81%93) | N/A |
-| 34 | [奈良岡さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e3%81%95%e3%82%93) | N/A |
-| 35 | [千鶴さん](http://twitter.com/search?q=%e5%8d%83%e9%b6%b4%e3%81%95%e3%82%93) | N/A |
-| 36 | [ダークモード](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%82%af%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
-| 37 | [飛田新地](http://twitter.com/search?q=%e9%a3%9b%e7%94%b0%e6%96%b0%e5%9c%b0) | N/A |
-| 38 | [ツムツム](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%84%e3%83%a0) | N/A |
-| 39 | [ナチュラルシュート](http://twitter.com/search?q=%e3%83%8a%e3%83%81%e3%83%a5%e3%83%a9%e3%83%ab%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%88) | N/A |
-| 40 | [ドライビング・ミス・デイジー](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%a4%e3%83%93%e3%83%b3%e3%82%b0%e3%83%bb%e3%83%9f%e3%82%b9%e3%83%bb%e3%83%87%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
-| 41 | [バインミー](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%9f%e3%83%bc) | N/A |
-| 42 | [スーパームック](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%a0%e3%83%83%e3%82%af) | スーパームック (Supermook) is a Japanese magazine that focuses on fashion, beauty, and lifestyle topics. It is published by Shogakukan and is aimed at young women. The magazine's name comes from the combination of the words "super" and "mook," which is short for "magazine book." |
-| 43 | [大阪桐蔭](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e6%a1%90%e8%94%ad) | 大阪桐蔭 is a private university located in Osaka, Japan. The English translation of the name is Osaka Tōin University. It was founded in 1874 and is one of the oldest universities in Japan. |
-| 44 | [レンくん](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
-| 45 | [ニィロウ](http://twitter.com/search?q=%e3%83%8b%e3%82%a3%e3%83%ad%e3%82%a6) | N/A |
-| 46 | [志歩ちゃん](http://twitter.com/search?q=%e5%bf%97%e6%ad%a9%e3%81%a1%e3%82%83%e3%82%93) | 志歩ちゃん is a character from the Japanese manga series, Chiho-chan. The character is a young girl who is always cheerful and optimistic, and she loves to help others. In English, her name translates to "Aspiring Girl". |
-| 47 | [内部文書](http://twitter.com/search?q=%e5%86%85%e9%83%a8%e6%96%87%e6%9b%b8) | N/A |
-| 48 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
-| 49 | [諏訪部さん](http://twitter.com/search?q=%e8%ab%8f%e8%a8%aa%e9%83%a8%e3%81%95%e3%82%93) | N/A |
-| 50 | [シーウルフ](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%a6%e3%83%ab%e3%83%95) | N/A |
+| 20 | [Nスタさん](http://twitter.com/search?q=N%e3%82%b9%e3%82%bf%e3%81%95%e3%82%93) | N/A |
+| 21 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
+| 22 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
+| 23 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
+| 24 | [RANOMAT](http://twitter.com/search?q=RANOMAT) | N/A |
+| 25 | [奈良岡さん](http://twitter.com/search?q=%e5%a5%88%e8%89%af%e5%b2%a1%e3%81%95%e3%82%93) | N/A |
+| 26 | [ブルーインパルス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
+| 27 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | カラフェス (Karafesu) is a Japanese term for a party or gathering that is held to celebrate a special occasion. It usually involves food, drinks, and entertainment. The word comes from the combination of two words: "kara" meaning empty and "fesu" meaning festival. In English, it can be translated as "empty festival". |
+| 28 | [スピッツ](http://twitter.com/search?q=%e3%82%b9%e3%83%94%e3%83%83%e3%83%84) | スピッツ (Spitz) is a Japanese rock band formed in Tokyo in 1988. The band's name is derived from the German word for "spitze", meaning "sharp" or "pointed". The band's music is characterized by its melodic, often upbeat sound and thoughtful lyrics. They have released over 20 albums and singles since their debut in 1988. |
+| 29 | [四季の謎解き成功](http://twitter.com/search?q=%e5%9b%9b%e5%ad%a3%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 30 | [チャーショ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%bc%e3%82%b7%e3%83%a7) | N/A |
+| 31 | [放浪者復刻](http://twitter.com/search?q=%e6%94%be%e6%b5%aa%e8%80%85%e5%be%a9%e5%88%bb) | N/A |
+| 32 | [仙台育英](http://twitter.com/search?q=%e4%bb%99%e5%8f%b0%e8%82%b2%e8%8b%b1) | N/A |
+| 33 | [MVのベストショット](http://twitter.com/search?q=MV%e3%81%ae%e3%83%99%e3%82%b9%e3%83%88%e3%82%b7%e3%83%a7%e3%83%83%e3%83%88) | N/A |
+| 34 | [大山アーチスト](http://twitter.com/search?q=%e5%a4%a7%e5%b1%b1%e3%82%a2%e3%83%bc%e3%83%81%e3%82%b9%e3%83%88) | N/A |
+| 35 | [飛田新地](http://twitter.com/search?q=%e9%a3%9b%e7%94%b0%e6%96%b0%e5%9c%b0) | N/A |
+| 36 | [北ちゃん](http://twitter.com/search?q=%e5%8c%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [スパムク](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%a0%e3%82%af) | N/A |
+| 38 | [振り逃げ](http://twitter.com/search?q=%e6%8c%af%e3%82%8a%e9%80%83%e3%81%92) | N/A |
+| 39 | [アクスタ120個](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf120%e5%80%8b) | N/A |
+| 40 | [おとなのはじまり](http://twitter.com/search?q=%e3%81%8a%e3%81%a8%e3%81%aa%e3%81%ae%e3%81%af%e3%81%98%e3%81%be%e3%82%8a) | N/A |
+| 41 | [離島留学生](http://twitter.com/search?q=%e9%9b%a2%e5%b3%b6%e7%95%99%e5%ad%a6%e7%94%9f) | N/A |
+| 42 | [遺体発見](http://twitter.com/search?q=%e9%81%ba%e4%bd%93%e7%99%ba%e8%a6%8b) | N/A |
+| 43 | [諏訪部さん](http://twitter.com/search?q=%e8%ab%8f%e8%a8%aa%e9%83%a8%e3%81%95%e3%82%93) | N/A |
+| 44 | [ダイナモ](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%8a%e3%83%a2) | ダイナモ (dynamo) is a device that converts mechanical energy into electrical energy. It is commonly used in bicycles to generate electricity for lights and other accessories. In English, the word dynamo can also refer to a person or thing that produces great amounts of energy or activity. |
+| 45 | [予告番組](http://twitter.com/search?q=%e4%ba%88%e5%91%8a%e7%95%aa%e7%b5%84) | 予告番組 is a Japanese term that translates to "preview program" in English. It refers to a television program that previews upcoming shows or events. |
+| 46 | [ノイジー低弾道](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc%e4%bd%8e%e5%bc%be%e9%81%93) | N/A |
+| 47 | [ツムツム](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%84%e3%83%a0) | N/A |
+| 48 | [千鶴さん](http://twitter.com/search?q=%e5%8d%83%e9%b6%b4%e3%81%95%e3%82%93) | N/A |
+| 49 | [指針見直し](http://twitter.com/search?q=%e6%8c%87%e9%87%9d%e8%a6%8b%e7%9b%b4%e3%81%97) | N/A |
+| 50 | [リンレン](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%ac%e3%83%b3) | N/A |
 
 
 

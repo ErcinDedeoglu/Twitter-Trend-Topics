@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-29 08:18:32 UTC`
+📆 Last Updated: `2023-03-29 09:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Pakistan
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WeStandwithParliament](http://twitter.com/search?q=%23WeStandwithParliament) | N/A |
-| 2 | [#NationSupportsCJP](http://twitter.com/search?q=%23NationSupportsCJP) | N/A |
-| 3 | [#حق_صرف_پارلیمان_سے](http://twitter.com/search?q=%23%d8%ad%d9%82_%d8%b5%d8%b1%d9%81_%d9%be%d8%a7%d8%b1%d9%84%db%8c%d9%85%d8%a7%d9%86_%d8%b3%db%92) | N/A |
+| 1 | [#SoverignParliament](http://twitter.com/search?q=%23SoverignParliament) | N/A |
+| 2 | [#حق_صرف_پارلیمان_سے](http://twitter.com/search?q=%23%d8%ad%d9%82_%d8%b5%d8%b1%d9%81_%d9%be%d8%a7%d8%b1%d9%84%db%8c%d9%85%d8%a7%d9%86_%d8%b3%db%92) | N/A |
+| 3 | [#NationSupportsCJP](http://twitter.com/search?q=%23NationSupportsCJP) | N/A |
 | 4 | [#AdliyaKayLiyeBOL](http://twitter.com/search?q=%23AdliyaKayLiyeBOL) | N/A |
 | 5 | [#عدلیہ_کی_دشمن_ن_لیگ](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84%db%8c%db%81_%da%a9%db%8c_%d8%af%d8%b4%d9%85%d9%86_%d9%86_%d9%84%db%8c%da%af) | N/A |
-| 6 | [PM Shehbaz Sharif](http://twitter.com/search?q=PM+Shehbaz+Sharif) | N/A |
+| 6 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
 | 7 | [Rana Tanveer](http://twitter.com/search?q=Rana+Tanveer) | N/A |
-| 8 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 9 | [Jhagra](http://twitter.com/search?q=Jhagra) | N/A |
-| 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 11 | [Dr. Aafia Siddiqui](http://twitter.com/search?q=Dr.+Aafia+Siddiqui) | N/A |
-| 12 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 13 | [Kamran Khan](http://twitter.com/search?q=Kamran+Khan) | N/A |
-| 14 | [Irfan Qadir](http://twitter.com/search?q=Irfan+Qadir) | N/A |
-| 15 | [Article 191](http://twitter.com/search?q=Article+191) | N/A |
-| 16 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 17 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
-| 18 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 19 | [Filth](http://twitter.com/search?q=Filth) | N/A |
-| 20 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
-| 21 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 22 | [Education Minister](http://twitter.com/search?q=Education+Minister) | N/A |
-| 23 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 24 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 25 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
-| 26 | [Khawaja Asif](http://twitter.com/search?q=Khawaja+Asif) | N/A |
-| 27 | [Reema](http://twitter.com/search?q=Reema) | N/A |
-| 28 | [mother of ali](http://twitter.com/search?q=mother+of+ali) | N/A |
-| 29 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 30 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 31 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 32 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 33 | [abu talib](http://twitter.com/search?q=abu+talib) | N/A |
-| 34 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 35 | [fatima bint e asad](http://twitter.com/search?q=fatima+bint+e+asad) | N/A |
+| 8 | [Kamran Khan](http://twitter.com/search?q=Kamran+Khan) | N/A |
+| 9 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 10 | [Jhagra](http://twitter.com/search?q=Jhagra) | N/A |
+| 11 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 12 | [Dr. Aafia Siddiqui](http://twitter.com/search?q=Dr.+Aafia+Siddiqui) | N/A |
+| 13 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 14 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 15 | [PM Shehbaz Sharif](http://twitter.com/search?q=PM+Shehbaz+Sharif) | N/A |
+| 16 | [Article 191](http://twitter.com/search?q=Article+191) | N/A |
+| 17 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 18 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
+| 19 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 20 | [Filth](http://twitter.com/search?q=Filth) | N/A |
+| 21 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
+| 22 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 23 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 24 | [Reema](http://twitter.com/search?q=Reema) | N/A |
+| 25 | [mother of ali](http://twitter.com/search?q=mother+of+ali) | N/A |
+| 26 | [khawaja asif](http://twitter.com/search?q=khawaja+asif) | N/A |
+| 27 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 28 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 29 | [Establishment](http://twitter.com/search?q=Establishment) | N/A |
+| 30 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 31 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 33 | [Fatima bint e Asad](http://twitter.com/search?q=Fatima+bint+e+Asad) | N/A |
+| 34 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 35 | [abu talib](http://twitter.com/search?q=abu+talib) | N/A |
 | 36 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
 | 37 | [Chota](http://twitter.com/search?q=Chota) | N/A |
 | 38 | [Wash](http://twitter.com/search?q=Wash) | N/A |
-| 39 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 40 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
-| 41 | [lady of jannah](http://twitter.com/search?q=lady+of+jannah) | N/A |
+| 39 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 40 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 41 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
 | 42 | [Judges](http://twitter.com/search?q=Judges) | N/A |
 | 43 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
 | 44 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 45 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 46 | [Corrupt](http://twitter.com/search?q=Corrupt) | N/A |
-| 47 | [N League](http://twitter.com/search?q=N+League) | N/A |
-| 48 | [British India](http://twitter.com/search?q=British+India) | N/A |
-| 49 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 50 | [Foreign Minister](http://twitter.com/search?q=Foreign+Minister) | N/A |
+| 45 | [Pink](http://twitter.com/search?q=Pink) | N/A |
+| 46 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
+| 47 | [Corrupt](http://twitter.com/search?q=Corrupt) | N/A |
+| 48 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
+| 49 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
+| 50 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
 
 
 
