@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-29 00:32:14 UTC`
+📆 Last Updated: `2023-03-29 01:48:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MeraGharAapkaGhar](http://twitter.com/search?q=%23MeraGharAapkaGhar) | N/A |
-| 2 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
-| 3 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 4 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 5 | [#realmeC55SaleToday](http://twitter.com/search?q=%23realmeC55SaleToday) | N/A |
-| 6 | [#DisqualifiedByUnqualified](http://twitter.com/search?q=%23DisqualifiedByUnqualified) | N/A |
+| 1 | [#DigitalFasting](http://twitter.com/search?q=%23DigitalFasting) | N/A |
+| 2 | [SEED Campaign](http://twitter.com/search?q=SEED+Campaign) | N/A |
+| 3 | [#दुर्गा_अष्टमी](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be_%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
+| 4 | [#MeraGharAapkaGhar](http://twitter.com/search?q=%23MeraGharAapkaGhar) | N/A |
+| 5 | [#GodMorningWednesday](http://twitter.com/search?q=%23GodMorningWednesday) | N/A |
+| 6 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
 | 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 8 | [SASTI RAAN KOHLI](http://twitter.com/search?q=SASTI+RAAN+KOHLI) | N/A |
-| 9 | [india celebrates ua day](http://twitter.com/search?q=india+celebrates+ua+day) | N/A |
-| 10 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
-| 11 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 12 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 13 | [केंद्रीय कार्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 14 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 15 | [no side effects](http://twitter.com/search?q=no+side+effects) | N/A |
-| 16 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
-| 17 | [stay fit](http://twitter.com/search?q=stay+fit) | N/A |
-| 18 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 19 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
-| 20 | [अहमद दोषी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
-| 21 | [दिनेश पासी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
-| 22 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 23 | [mp-mla](http://twitter.com/search?q=mp-mla) | N/A |
-| 24 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 25 | [latest android 13](http://twitter.com/search?q=latest+android+13) | N/A |
-| 26 | [शांति मार्च](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a) | N/A |
-| 27 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 28 | [mangal karta by jeet gannguli](http://twitter.com/search?q=mangal+karta+by+jeet+gannguli) | N/A |
-| 29 | [global icon alluarjun](http://twitter.com/search?q=global+icon+alluarjun) | N/A |
-| 30 | [लाल किले](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a5%87) | N/A |
-| 31 | [लोकतंत्र बचाओ](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
-| 32 | [आनंद भवन](http://twitter.com/search?q=%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 33 | [Hattrick](http://twitter.com/search?q=Hattrick) | N/A |
-| 34 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 35 | [4GB RAM](http://twitter.com/search?q=4GB+RAM) | N/A |
-| 36 | [record breaking gc firstlook](http://twitter.com/search?q=record+breaking+gc+firstlook) | N/A |
-| 37 | [Hakla](http://twitter.com/search?q=Hakla) | N/A |
-| 38 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 39 | [ramta jogi](http://twitter.com/search?q=ramta+jogi) | N/A |
-| 40 | [मुरली मनोहर जोशी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
-| 41 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 42 | [128GB Storage](http://twitter.com/search?q=128GB+Storage) | N/A |
-| 43 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 44 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 45 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 8 | [अष्टम स्वरूप](http://twitter.com/search?q=%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 9 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 10 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 11 | [india celebrates ua day](http://twitter.com/search?q=india+celebrates+ua+day) | N/A |
+| 12 | [श्री दुर्गा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 13 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 14 | [Media Failed Us In SSRCase](http://twitter.com/search?q=Media+Failed+Us+In+SSRCase) | N/A |
+| 15 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 16 | [गौरी नारायणी](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a5%80) | N/A |
+| 17 | [केंद्रीय कार्यालय](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 18 | [SASTI RAAN KOHLI](http://twitter.com/search?q=SASTI+RAAN+KOHLI) | N/A |
+| 19 | [मौर्य साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 20 | [no side effects](http://twitter.com/search?q=no+side+effects) | N/A |
+| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 22 | [stay fit](http://twitter.com/search?q=stay+fit) | N/A |
+| 23 | [Savarkar](http://twitter.com/search?q=Savarkar) | N/A |
+| 24 | [सरकारी बंगला](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%be) | N/A |
+| 25 | [अहमद दोषी](http://twitter.com/search?q=%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6+%e0%a4%a6%e0%a5%8b%e0%a4%b7%e0%a5%80) | N/A |
+| 26 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 27 | [mp-mla](http://twitter.com/search?q=mp-mla) | N/A |
+| 28 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 29 | [latest android 13](http://twitter.com/search?q=latest+android+13) | N/A |
+| 30 | [शांति मार्च](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9a) | N/A |
+| 31 | [mangal karta by jeet gannguli](http://twitter.com/search?q=mangal+karta+by+jeet+gannguli) | N/A |
+| 32 | [दिनेश पासी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%a8%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b8%e0%a5%80) | N/A |
+| 33 | [नैनी जेल](http://twitter.com/search?q=%e0%a4%a8%e0%a5%88%e0%a4%a8%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 34 | [global icon alluarjun](http://twitter.com/search?q=global+icon+alluarjun) | N/A |
+| 35 | [Hattrick](http://twitter.com/search?q=Hattrick) | N/A |
+| 36 | [लोकतंत्र बचाओ](http://twitter.com/search?q=%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ac%e0%a4%9a%e0%a4%be%e0%a4%93) | N/A |
+| 37 | [4GB RAM](http://twitter.com/search?q=4GB+RAM) | N/A |
+| 38 | [record breaking gc firstlook](http://twitter.com/search?q=record+breaking+gc+firstlook) | N/A |
+| 39 | [लाल किले](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a5%87) | N/A |
+| 40 | [ramta jogi](http://twitter.com/search?q=ramta+jogi) | N/A |
+| 41 | [Liechtenstein](http://twitter.com/search?q=Liechtenstein) | N/A |
+| 42 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 43 | [आनंद भवन](http://twitter.com/search?q=%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 44 | [मुरली मनोहर जोशी](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%b0%e0%a4%b2%e0%a5%80+%e0%a4%ae%e0%a4%a8%e0%a5%8b%e0%a4%b9%e0%a4%b0+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
+| 45 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
 | 46 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 47 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 48 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 49 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 47 | [Hakla](http://twitter.com/search?q=Hakla) | N/A |
+| 48 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 49 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
 
 
 

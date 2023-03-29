@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-29 00:32:19 UTC`
+📆 Last Updated: `2023-03-29 01:48:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 2 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 1 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 2 | [Dirk](http://twitter.com/search?q=Dirk) | Dirk is a Scottish word for a long, pointed dagger. It is also used as a given name, usually for boys. |
 | 3 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 4 | [#SHMConverge23](http://twitter.com/search?q=%23SHMConverge23) | N/A |
-| 5 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 6 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 7 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 8 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 9 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
-| 10 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 11 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 12 | [#BlindGuess](http://twitter.com/search?q=%23BlindGuess) | N/A |
-| 13 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 14 | [Manon](http://twitter.com/search?q=Manon) | N/A |
-| 15 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 16 | [Lo Celso](http://twitter.com/search?q=Lo+Celso) | N/A |
-| 17 | [Chucky Hepburn](http://twitter.com/search?q=Chucky+Hepburn) | N/A |
-| 18 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 19 | [Vans](http://twitter.com/search?q=Vans) | N/A |
-| 20 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 21 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 22 | [Thursday Night Football](http://twitter.com/search?q=Thursday+Night+Football) | N/A |
-| 23 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 24 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
-| 25 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 26 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 27 | [Iron Galaxy](http://twitter.com/search?q=Iron+Galaxy) | N/A |
-| 28 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
-| 29 | [Celina](http://twitter.com/search?q=Celina) | N/A |
-| 30 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 31 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
-| 32 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
-| 33 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 34 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 35 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 36 | [AR-15s](http://twitter.com/search?q=AR-15s) | N/A |
-| 37 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 38 | [Scotty Miller](http://twitter.com/search?q=Scotty+Miller) | N/A |
-| 39 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 40 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 41 | [Top Back](http://twitter.com/search?q=Top+Back) | N/A |
-| 42 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 43 | [Mid 1](http://twitter.com/search?q=Mid+1) | N/A |
-| 44 | [Ice T](http://twitter.com/search?q=Ice+T) | N/A |
-| 45 | [Sam Rosen](http://twitter.com/search?q=Sam+Rosen) | N/A |
-| 46 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 47 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
-| 48 | [Redzone](http://twitter.com/search?q=Redzone) | N/A |
-| 49 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 50 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 4 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
+| 5 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 7 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 8 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 9 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 10 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 11 | [Gard](http://twitter.com/search?q=Gard) | N/A |
+| 12 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
+| 13 | [#McDonaldsAllAmerican](http://twitter.com/search?q=%23McDonaldsAllAmerican) | N/A |
+| 14 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 15 | [Badgers](http://twitter.com/search?q=Badgers) | N/A |
+| 16 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 17 | [Aden Holloway](http://twitter.com/search?q=Aden+Holloway) | N/A |
+| 18 | [Perron](http://twitter.com/search?q=Perron) | N/A |
+| 19 | [Mean Green](http://twitter.com/search?q=Mean+Green) | N/A |
+| 20 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 21 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
+| 22 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 23 | [Joe Gorga](http://twitter.com/search?q=Joe+Gorga) | N/A |
+| 24 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 25 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 26 | [Lalonde](http://twitter.com/search?q=Lalonde) | N/A |
+| 27 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 28 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 29 | [Wahl](http://twitter.com/search?q=Wahl) | N/A |
+| 30 | [Morgan Frost](http://twitter.com/search?q=Morgan+Frost) | N/A |
+| 31 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
+| 32 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 33 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 34 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 35 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 36 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 37 | [Manon](http://twitter.com/search?q=Manon) | N/A |
+| 38 | [Lo Celso](http://twitter.com/search?q=Lo+Celso) | N/A |
+| 39 | [Roger Goodell](http://twitter.com/search?q=Roger+Goodell) | N/A |
+| 40 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 41 | [Evan Mobley](http://twitter.com/search?q=Evan+Mobley) | Evan Mobley is the name of an American basketball player who currently plays for the University of Southern California. He is considered one of the top prospects in the 2021 NBA Draft. The name Evan Mobley is derived from his given name, Evan, and his middle name, Mobley. |
+| 42 | [Thursday Night Football](http://twitter.com/search?q=Thursday+Night+Football) | N/A |
+| 43 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 44 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 45 | [Saros](http://twitter.com/search?q=Saros) | Saros is a period of approximately 223 synodic months (18 years 11 days 8 hours) in which the relative positions of the Earth, Moon, and Sun repeat. It is used by astronomers to predict eclipses. The word "saros" comes from the Greek word for "repetition". |
+| 46 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 47 | [Trocheck](http://twitter.com/search?q=Trocheck) | N/A |
+| 48 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
+| 49 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 50 | [Robert Plant](http://twitter.com/search?q=Robert+Plant) | N/A |
 
 
 

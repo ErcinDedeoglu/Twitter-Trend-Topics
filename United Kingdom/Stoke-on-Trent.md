@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-29 00:31:40 UTC`
+📆 Last Updated: `2023-03-29 01:48:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CelebrityHunted](http://twitter.com/search?q=%23CelebrityHunted) | N/A |
-| 2 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 3 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 4 | [Gateshead](http://twitter.com/search?q=Gateshead) | N/A |
-| 5 | [Walsall](http://twitter.com/search?q=Walsall) | N/A |
-| 6 | [Scotty](http://twitter.com/search?q=Scotty) | N/A |
-| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [#IStandWithJeremyCorbyn](http://twitter.com/search?q=%23IStandWithJeremyCorbyn) | N/A |
-| 9 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 10 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 11 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
-| 12 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 13 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 15 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 16 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 17 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 18 | [#SCOSPA](http://twitter.com/search?q=%23SCOSPA) | N/A |
-| 19 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
-| 20 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 21 | [Loma](http://twitter.com/search?q=Loma) | N/A |
+| 1 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 2 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
+| 3 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 4 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
+| 5 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 6 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 7 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
+| 8 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 9 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 10 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 11 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 12 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 13 | [#NCTDREAMinLONDON](http://twitter.com/search?q=%23NCTDREAMinLONDON) | N/A |
+| 14 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 15 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 16 | [#SCOSPA](http://twitter.com/search?q=%23SCOSPA) | N/A |
+| 17 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 18 | [Steve Clarke](http://twitter.com/search?q=Steve+Clarke) | N/A |
+| 19 | [Loma](http://twitter.com/search?q=Loma) | N/A |
+| 20 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 21 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
 | 22 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 23 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 24 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 25 | [Porteous](http://twitter.com/search?q=Porteous) | N/A |
-| 26 | [The World's End](http://twitter.com/search?q=The+World%27s+End) | N/A |
-| 27 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 28 | [McSauce](http://twitter.com/search?q=McSauce) | N/A |
-| 29 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 30 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 32 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
-| 33 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
-| 34 | [SOTD](http://twitter.com/search?q=SOTD) | N/A |
-| 35 | [Callum McGregor](http://twitter.com/search?q=Callum+McGregor) | N/A |
-| 36 | [Vienna](http://twitter.com/search?q=Vienna) | N/A |
-| 37 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 38 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 39 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 40 | [Hickey](http://twitter.com/search?q=Hickey) | N/A |
-| 41 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
-| 42 | [Kieffer Moore](http://twitter.com/search?q=Kieffer+Moore) | N/A |
-| 43 | [Angus Gunn](http://twitter.com/search?q=Angus+Gunn) | N/A |
-| 44 | [Dykes](http://twitter.com/search?q=Dykes) | N/A |
-| 45 | [Spaniards](http://twitter.com/search?q=Spaniards) | N/A |
-| 46 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 47 | [The Spanish](http://twitter.com/search?q=The+Spanish) | N/A |
-| 48 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
-| 49 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
+| 23 | [The World's End](http://twitter.com/search?q=The+World%27s+End) | N/A |
+| 24 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 25 | [McSauce](http://twitter.com/search?q=McSauce) | N/A |
+| 26 | [Porteous](http://twitter.com/search?q=Porteous) | N/A |
+| 27 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 28 | [Pedro Porro](http://twitter.com/search?q=Pedro+Porro) | N/A |
+| 29 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
+| 30 | [Callum McGregor](http://twitter.com/search?q=Callum+McGregor) | N/A |
+| 31 | [Vienna](http://twitter.com/search?q=Vienna) | N/A |
+| 32 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 33 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 34 | [Joselu](http://twitter.com/search?q=Joselu) | Joselu is a Spanish given name, derived from the Hebrew name Yosef. It is a combination of the names Jose and Luis. In English, it can be translated to mean "God will increase". |
+| 35 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 36 | [The Spanish](http://twitter.com/search?q=The+Spanish) | N/A |
+| 37 | [Hickey](http://twitter.com/search?q=Hickey) | N/A |
+| 38 | [Spaniards](http://twitter.com/search?q=Spaniards) | N/A |
+| 39 | [Ryan Jack](http://twitter.com/search?q=Ryan+Jack) | N/A |
+| 40 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 41 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 42 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 43 | [Rural Affairs](http://twitter.com/search?q=Rural+Affairs) | N/A |
+| 44 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 45 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 46 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 47 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 48 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 49 | [Finance](http://twitter.com/search?q=Finance) | N/A |
 
 
 

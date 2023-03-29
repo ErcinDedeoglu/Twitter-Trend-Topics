@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-29 00:32:28 UTC`
+📆 Last Updated: `2023-03-29 01:49:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,33 +37,33 @@ This is top 50 for Lebanon
 | 20 | [نواب التغيير](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
 | 21 | [اليان الحاج](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ad%d8%a7%d8%ac) | N/A |
 | 22 | [غسان سعود](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 23 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
-| 24 | [غازي زعيتر](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%b2%d8%b9%d9%8a%d8%aa%d8%b1) | N/A |
-| 25 | [ديوان المحاسبه](http://twitter.com/search?q=%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%b3%d8%a8%d9%87) | N/A |
+| 23 | [ديوان المحاسبه](http://twitter.com/search?q=%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%ad%d8%a7%d8%b3%d8%a8%d9%87) | N/A |
+| 24 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 25 | [نبيه بري](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a%d9%87+%d8%a8%d8%b1%d9%8a) | N/A |
 | 26 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
 | 27 | [نواب الصدفه](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%b5%d8%af%d9%81%d9%87) | N/A |
 | 28 | [اللجان النيابيه المشتركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83%d9%87) | N/A |
-| 29 | [الشهيد المجاهد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%87%d8%af) | N/A |
-| 30 | [28 اذار 2023](http://twitter.com/search?q=28+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
-| 31 | [المقاومه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 32 | [Chou](http://twitter.com/search?q=Chou) | N/A |
-| 33 | [علي التحمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%85%d9%84) | N/A |
-| 34 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 35 | [ليل الاربعاء](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | N/A |
-| 36 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
-| 37 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
-| 38 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 29 | [روح نام](http://twitter.com/search?q=%d8%b1%d9%88%d8%ad+%d9%86%d8%a7%d9%85) | N/A |
+| 30 | [غازي زعيتر](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%b2%d8%b9%d9%8a%d8%aa%d8%b1) | N/A |
+| 31 | [الشهيد المجاهد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%87%d8%af) | N/A |
+| 32 | [28 اذار 2023](http://twitter.com/search?q=28+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
+| 33 | [المقاومه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 34 | [Chou](http://twitter.com/search?q=Chou) | N/A |
+| 35 | [علي التحمل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d9%85%d9%84) | N/A |
+| 36 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 37 | [البيت الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 38 | [ليل الاربعاء](http://twitter.com/search?q=%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | N/A |
 | 39 | [اميركا](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d8%a7) | N/A |
-| 40 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
-| 43 | [المجلس النيابي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%8a) | N/A |
-| 44 | [وتركيا](http://twitter.com/search?q=%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 45 | [سمير جعجع](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%ac%d8%b9%d8%ac%d8%b9) | N/A |
-| 46 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 47 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 48 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 49 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 40 | [الأهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d9%87%d9%84%d9%8a) | الأهلي is the name of a professional Saudi Arabian football club based in Jeddah. In English, it translates to "The Family". |
+| 41 | [مجلس الوزراء](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 42 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
+| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 44 | [العيش المشترك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%83) | N/A |
+| 45 | [وتركيا](http://twitter.com/search?q=%d9%88%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 46 | [سمير جعجع](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1+%d8%ac%d8%b9%d8%ac%d8%b9) | N/A |
+| 47 | [التعديلات القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%af%d9%8a%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 48 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 49 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 50 | [الموسسات الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 
 

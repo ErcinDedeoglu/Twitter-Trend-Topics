@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-29 00:32:20 UTC`
+📆 Last Updated: `2023-03-29 01:48:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 2 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 3 | [#Catfish](http://twitter.com/search?q=%23Catfish) | N/A |
-| 4 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
-| 5 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 6 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 7 | [#BlindGuess](http://twitter.com/search?q=%23BlindGuess) | N/A |
+| 1 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 2 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 3 | [Wisconsin](http://twitter.com/search?q=Wisconsin) | N/A |
+| 4 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 5 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 6 | [Gard](http://twitter.com/search?q=Gard) | N/A |
+| 7 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
 | 8 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 9 | [Manon](http://twitter.com/search?q=Manon) | N/A |
-| 10 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 11 | [Lo Celso](http://twitter.com/search?q=Lo+Celso) | N/A |
-| 12 | [Chucky Hepburn](http://twitter.com/search?q=Chucky+Hepburn) | N/A |
-| 13 | [Vans](http://twitter.com/search?q=Vans) | N/A |
-| 14 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
-| 15 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 16 | [Thursday Night Football](http://twitter.com/search?q=Thursday+Night+Football) | N/A |
-| 17 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 18 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 19 | [X-Files](http://twitter.com/search?q=X-Files) | N/A |
-| 20 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 21 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 22 | [Iron Galaxy](http://twitter.com/search?q=Iron+Galaxy) | N/A |
-| 23 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 24 | [Rollie Fingers](http://twitter.com/search?q=Rollie+Fingers) | N/A |
-| 25 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
-| 26 | [Celina](http://twitter.com/search?q=Celina) | N/A |
-| 27 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
-| 28 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 29 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 30 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 31 | [AR-15s](http://twitter.com/search?q=AR-15s) | N/A |
-| 32 | [Scotty Miller](http://twitter.com/search?q=Scotty+Miller) | N/A |
-| 33 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 34 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
-| 35 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 36 | [Top Back](http://twitter.com/search?q=Top+Back) | N/A |
-| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 38 | [Mid 1](http://twitter.com/search?q=Mid+1) | N/A |
-| 39 | [Ice T](http://twitter.com/search?q=Ice+T) | N/A |
-| 40 | [Sam Rosen](http://twitter.com/search?q=Sam+Rosen) | N/A |
-| 41 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 42 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 43 | [Redzone](http://twitter.com/search?q=Redzone) | N/A |
-| 44 | [Tim Burchett](http://twitter.com/search?q=Tim+Burchett) | N/A |
+| 9 | [#McDonaldsAllAmerican](http://twitter.com/search?q=%23McDonaldsAllAmerican) | N/A |
+| 10 | [Badgers](http://twitter.com/search?q=Badgers) | N/A |
+| 11 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 12 | [Aden Holloway](http://twitter.com/search?q=Aden+Holloway) | N/A |
+| 13 | [Mean Green](http://twitter.com/search?q=Mean+Green) | N/A |
+| 14 | [Perron](http://twitter.com/search?q=Perron) | N/A |
+| 15 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 16 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
+| 17 | [Joe Gorga](http://twitter.com/search?q=Joe+Gorga) | N/A |
+| 18 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 19 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 20 | [DeSmith](http://twitter.com/search?q=DeSmith) | DeSmith is a surname of French origin. It is derived from the Old French word "desme" meaning "of the Smith". The name refers to someone who was related to or descended from a smith, or someone who worked as a blacksmith. |
+| 21 | [Lalonde](http://twitter.com/search?q=Lalonde) | N/A |
+| 22 | [Roxanne](http://twitter.com/search?q=Roxanne) | N/A |
+| 23 | [Wahl](http://twitter.com/search?q=Wahl) | N/A |
+| 24 | [Morgan Frost](http://twitter.com/search?q=Morgan+Frost) | N/A |
+| 25 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
+| 26 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
+| 27 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 28 | [Horford](http://twitter.com/search?q=Horford) | Horford is a surname of Spanish origin. It is derived from the Latin word "horreum" which means granary or storehouse. The name is most commonly associated with Al Horford, an American professional basketball player who currently plays for the Philadelphia 76ers. |
+| 29 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 30 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 31 | [Manon](http://twitter.com/search?q=Manon) | N/A |
+| 32 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 33 | [Deni](http://twitter.com/search?q=Deni) | N/A |
+| 34 | [Lo Celso](http://twitter.com/search?q=Lo+Celso) | N/A |
+| 35 | [Roger Goodell](http://twitter.com/search?q=Roger+Goodell) | N/A |
+| 36 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 37 | [Thursday Night Football](http://twitter.com/search?q=Thursday+Night+Football) | N/A |
+| 38 | [Crowl](http://twitter.com/search?q=Crowl) | N/A |
+| 39 | [Evan Mobley](http://twitter.com/search?q=Evan+Mobley) | Evan Mobley is the name of an American basketball player who currently plays for the University of Southern California. He is considered one of the top prospects in the 2021 NBA Draft. The name Evan Mobley is derived from his given name, Evan, and his middle name, Mobley. |
+| 40 | [Trocheck](http://twitter.com/search?q=Trocheck) | N/A |
+| 41 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 42 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
+| 43 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 44 | [Robert Plant](http://twitter.com/search?q=Robert+Plant) | N/A |
 
 
 

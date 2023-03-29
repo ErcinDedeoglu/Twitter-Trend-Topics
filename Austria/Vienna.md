@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-29 00:31:49 UTC`
+📆 Last Updated: `2023-03-29 01:48:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,17 +30,17 @@ This is top 50 for [Austria](</Austria>)
 | 13 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
 | 14 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
 | 15 | [Wasserwerfer](http://twitter.com/search?q=Wasserwerfer) | N/A |
-| 16 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 16 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
 | 17 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 19 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
-| 20 | [arbeitskräfte](http://twitter.com/search?q=arbeitskr%c3%a4fte) | N/A |
-| 21 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 22 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 18 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
+| 19 | [arbeitskräfte](http://twitter.com/search?q=arbeitskr%c3%a4fte) | N/A |
+| 20 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 21 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 23 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 24 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
 | 25 | [Therapie](http://twitter.com/search?q=Therapie) | N/A |
-| 26 | [Estland](http://twitter.com/search?q=Estland) | N/A |
+| 26 | [estland](http://twitter.com/search?q=estland) | N/A |
 | 27 | [stimmungsbild](http://twitter.com/search?q=stimmungsbild) | N/A |
 | 28 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
 | 29 | [Türen](http://twitter.com/search?q=T%c3%bcren) | N/A |
@@ -48,18 +48,18 @@ This is top 50 for [Austria](</Austria>)
 | 31 | [liesing](http://twitter.com/search?q=liesing) | N/A |
 | 32 | [Gesundheitssystem](http://twitter.com/search?q=Gesundheitssystem) | N/A |
 | 33 | [herr deutsch](http://twitter.com/search?q=herr+deutsch) | N/A |
-| 34 | [Ministerin](http://twitter.com/search?q=Ministerin) | N/A |
-| 35 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 36 | [statut](http://twitter.com/search?q=statut) | N/A |
-| 37 | [Anfrage](http://twitter.com/search?q=Anfrage) | N/A |
-| 38 | [Bruder](http://twitter.com/search?q=Bruder) | N/A |
-| 39 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
-| 40 | [sozialleistungen](http://twitter.com/search?q=sozialleistungen) | N/A |
-| 41 | [Pfefferspray](http://twitter.com/search?q=Pfefferspray) | N/A |
-| 42 | [guten morgen leo](http://twitter.com/search?q=guten+morgen+leo) | N/A |
-| 43 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
-| 44 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
-| 45 | [Apotheke](http://twitter.com/search?q=Apotheke) | N/A |
+| 34 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 35 | [statut](http://twitter.com/search?q=statut) | N/A |
+| 36 | [Anfrage](http://twitter.com/search?q=Anfrage) | N/A |
+| 37 | [teuerung](http://twitter.com/search?q=teuerung) | N/A |
+| 38 | [Ministerin](http://twitter.com/search?q=Ministerin) | N/A |
+| 39 | [sozialleistungen](http://twitter.com/search?q=sozialleistungen) | N/A |
+| 40 | [Pfefferspray](http://twitter.com/search?q=Pfefferspray) | N/A |
+| 41 | [guten morgen leo](http://twitter.com/search?q=guten+morgen+leo) | N/A |
+| 42 | [Abschluss](http://twitter.com/search?q=Abschluss) | N/A |
+| 43 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
+| 44 | [apotheke](http://twitter.com/search?q=apotheke) | N/A |
+| 45 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
 | 46 | [Bekanntenkreis](http://twitter.com/search?q=Bekanntenkreis) | N/A |
 | 47 | [Lebensqualität](http://twitter.com/search?q=Lebensqualit%c3%a4t) | N/A |
 | 48 | [Willkommen](http://twitter.com/search?q=Willkommen) | N/A |

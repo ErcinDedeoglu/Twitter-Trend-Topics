@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-29 00:31:48 UTC`
+📆 Last Updated: `2023-03-29 01:48:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rafaella](http://twitter.com/search?q=Rafaella) | N/A |
-| 2 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 3 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 4 | [Atuesta](http://twitter.com/search?q=Atuesta) | Atuesta is a Spanish word that means "trust" or "confidence". It is often used to refer to the trust that exists between two people or groups. |
-| 5 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 6 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 7 | [Arábia Saudita](http://twitter.com/search?q=Ar%c3%a1bia+Saudita) | N/A |
-| 8 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 9 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
-| 10 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 11 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 12 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 13 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 14 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 1 | [bianca nakada](http://twitter.com/search?q=bianca+nakada) | N/A |
+| 2 | [Mattos](http://twitter.com/search?q=Mattos) | N/A |
+| 3 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 4 | [Ciro Nogueira](http://twitter.com/search?q=Ciro+Nogueira) | N/A |
+| 5 | [#VCTGameChangers](http://twitter.com/search?q=%23VCTGameChangers) | N/A |
+| 6 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 7 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 8 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
+| 9 | [giulia](http://twitter.com/search?q=giulia) | N/A |
+| 10 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
+| 11 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
+| 12 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
+| 13 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 14 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
 | 15 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 16 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 17 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 18 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 19 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 16 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 17 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 18 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 19 | [Janones](http://twitter.com/search?q=Janones) | N/A |
 | 20 | [devon](http://twitter.com/search?q=devon) | N/A |
-| 21 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 22 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
-| 23 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 24 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 25 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
+| 21 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 22 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
+| 23 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 24 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 25 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
 | 26 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
-| 27 | [Votorantim](http://twitter.com/search?q=Votorantim) | N/A |
-| 28 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
-| 29 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 30 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 31 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 32 | [monica](http://twitter.com/search?q=monica) | N/A |
-| 33 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 34 | [Neide](http://twitter.com/search?q=Neide) | N/A |
-| 35 | [Lagum](http://twitter.com/search?q=Lagum) | N/A |
-| 36 | [André Fernandes](http://twitter.com/search?q=Andr%c3%a9+Fernandes) | N/A |
-| 37 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
-| 38 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 39 | [CACs](http://twitter.com/search?q=CACs) | N/A |
-| 40 | [Piquet](http://twitter.com/search?q=Piquet) | N/A |
-| 41 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 42 | [Presidente da CCJ](http://twitter.com/search?q=Presidente+da+CCJ) | N/A |
-| 43 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 44 | [sophia](http://twitter.com/search?q=sophia) | N/A |
-| 45 | [#TresVezesAna042](http://twitter.com/search?q=%23TresVezesAna042) | N/A |
-| 46 | [enzo fernandez](http://twitter.com/search?q=enzo+fernandez) | N/A |
-| 47 | [cebolinha](http://twitter.com/search?q=cebolinha) | N/A |
-| 48 | [PARABÉNS SAKURA](http://twitter.com/search?q=PARAB%c3%89NS+SAKURA) | N/A |
-| 49 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 27 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
+| 28 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 29 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 30 | [taryn](http://twitter.com/search?q=taryn) | N/A |
+| 31 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 32 | [Votorantim](http://twitter.com/search?q=Votorantim) | N/A |
+| 33 | [JULIETTE COM LACTA](http://twitter.com/search?q=JULIETTE+COM+LACTA) | N/A |
+| 34 | [#TerçasDaLei](http://twitter.com/search?q=%23Ter%c3%a7asDaLei) | N/A |
+| 35 | [#SearanoBBB23](http://twitter.com/search?q=%23SearanoBBB23) | N/A |
+| 36 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 37 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 38 | [#SVUNoUTV](http://twitter.com/search?q=%23SVUNoUTV) | N/A |
+| 39 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 40 | [Jusbrasil](http://twitter.com/search?q=Jusbrasil) | N/A |
+| 41 | [CHA CO TA](http://twitter.com/search?q=CHA+CO+TA) | N/A |
+| 42 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 43 | [Paramount](http://twitter.com/search?q=Paramount) | N/A |
+| 44 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
+| 45 | [monica](http://twitter.com/search?q=monica) | N/A |
+| 46 | [Lagum](http://twitter.com/search?q=Lagum) | N/A |
+| 47 | [André Fernandes](http://twitter.com/search?q=Andr%c3%a9+Fernandes) | N/A |
+| 48 | [Raniel](http://twitter.com/search?q=Raniel) | Raniel is a Hebrew name meaning "God has seen". |
+| 49 | [Lo Celso](http://twitter.com/search?q=Lo+Celso) | N/A |
 
 
 
