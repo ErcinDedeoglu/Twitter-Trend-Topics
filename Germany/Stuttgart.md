@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-03-29 07:16:54 UTC`
+📆 Last Updated: `2023-03-29 08:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
-| 2 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
+| 1 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
+| 2 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
 | 3 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 4 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 5 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 6 | [#cmtipp](http://twitter.com/search?q=%23cmtipp) | N/A |
-| 7 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 8 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 9 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 10 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 11 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 12 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 13 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 14 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 15 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 16 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 17 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
-| 18 | [️Apotheke](http://twitter.com/search?q=%ef%b8%8fApotheke) | N/A |
-| 19 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 20 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
-| 21 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
-| 22 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 23 | [Maut](http://twitter.com/search?q=Maut) | N/A |
+| 4 | [#cmtipp](http://twitter.com/search?q=%23cmtipp) | N/A |
+| 5 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 6 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 7 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
+| 8 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 9 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 10 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 11 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 12 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 13 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
+| 14 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 15 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
+| 16 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 17 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 18 | [LKW-Maut](http://twitter.com/search?q=LKW-Maut) | N/A |
+| 19 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 20 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
+| 21 | [Mads Pedersen](http://twitter.com/search?q=Mads+Pedersen) | N/A |
+| 22 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 23 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
 | 24 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 25 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 26 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
-| 27 | [Bergmann](http://twitter.com/search?q=Bergmann) | N/A |
-| 28 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
-| 29 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 30 | [Guten Morgen Kerstin](http://twitter.com/search?q=Guten+Morgen+Kerstin) | N/A |
-| 31 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 32 | [Ausgleichsflächen](http://twitter.com/search?q=Ausgleichsfl%c3%a4chen) | N/A |
-| 33 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 34 | [Beschlüsse](http://twitter.com/search?q=Beschl%c3%bcsse) | N/A |
-| 35 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 36 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
-| 37 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
-| 38 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 39 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 40 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 41 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 42 | [Hansi Flick](http://twitter.com/search?q=Hansi+Flick) | N/A |
-| 43 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 44 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 45 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 47 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 48 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 49 | [Autobahnausbau](http://twitter.com/search?q=Autobahnausbau) | N/A |
+| 25 | [️Apotheke](http://twitter.com/search?q=%ef%b8%8fApotheke) | N/A |
+| 26 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 27 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 28 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 29 | [Ausgleichsflächen](http://twitter.com/search?q=Ausgleichsfl%c3%a4chen) | N/A |
+| 30 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 31 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 32 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
+| 33 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 34 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 35 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 36 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
+| 37 | [Naturschutz](http://twitter.com/search?q=Naturschutz) | N/A |
+| 38 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
+| 39 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
+| 40 | [König Charles III](http://twitter.com/search?q=K%c3%b6nig+Charles+III) | N/A |
+| 41 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 42 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 45 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 46 | [Minuten zu Fuß](http://twitter.com/search?q=Minuten+zu+Fu%c3%9f) | N/A |
+| 47 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 48 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 49 | [Robert Gallinowski](http://twitter.com/search?q=Robert+Gallinowski) | N/A |
 
 
 

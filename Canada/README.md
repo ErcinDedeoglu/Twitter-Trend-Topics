@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-29 07:17:28 UTC`
+📆 Last Updated: `2023-03-29 08:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Canada
 | 3 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 4 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
 | 5 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 6 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 6 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
 | 7 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 8 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 9 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
-| 10 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 11 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 12 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 13 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 14 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 15 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 16 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 17 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
-| 18 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 19 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
-| 20 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 21 | [Scheifele](http://twitter.com/search?q=Scheifele) | N/A |
-| 22 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 23 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 24 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 25 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 26 | [Bowness](http://twitter.com/search?q=Bowness) | N/A |
-| 27 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
-| 28 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 29 | [America](http://twitter.com/search?q=America) | N/A |
-| 30 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
-| 31 | [Louiseville](http://twitter.com/search?q=Louiseville) | N/A |
-| 32 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 33 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 34 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 35 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 36 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 37 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 38 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 39 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 40 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 42 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 43 | [BMO Field](http://twitter.com/search?q=BMO+Field) | N/A |
-| 44 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 45 | [O'Connell](http://twitter.com/search?q=O%27Connell) | N/A |
-| 46 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 47 | [Jonathan David](http://twitter.com/search?q=Jonathan+David) | N/A |
-| 48 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 49 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
-| 50 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 8 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 9 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 10 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 11 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 12 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
+| 13 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 14 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
+| 15 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
+| 16 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 17 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 18 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 19 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 20 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 21 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
+| 22 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 23 | [Louiseville](http://twitter.com/search?q=Louiseville) | N/A |
+| 24 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 25 | [Kulak](http://twitter.com/search?q=Kulak) | N/A |
+| 26 | [America](http://twitter.com/search?q=America) | N/A |
+| 27 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 28 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 29 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 30 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 31 | [Bowness](http://twitter.com/search?q=Bowness) | N/A |
+| 32 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 34 | [O'Connell](http://twitter.com/search?q=O%27Connell) | N/A |
+| 35 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 36 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 37 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 38 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 39 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 40 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 41 | [Kone](http://twitter.com/search?q=Kone) | N/A |
+| 42 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 43 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 44 | [BMO Field](http://twitter.com/search?q=BMO+Field) | N/A |
+| 45 | [Kikuchi](http://twitter.com/search?q=Kikuchi) | N/A |
+| 46 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
+| 47 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 48 | [Paul Stanley Schmidt](http://twitter.com/search?q=Paul+Stanley+Schmidt) | N/A |
+| 49 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
+| 50 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 
 
 

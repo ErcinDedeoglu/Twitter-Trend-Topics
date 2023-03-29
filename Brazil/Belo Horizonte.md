@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-29 07:16:48 UTC`
+📆 Last Updated: `2023-03-29 08:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,42 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
 | 3 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 4 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 5 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
-| 6 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 7 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 5 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 6 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
+| 7 | [Milton Nascimento](http://twitter.com/search?q=Milton+Nascimento) | Milton Nascimento is a Brazilian singer-songwriter and multi-instrumentalist. He is known for his distinctive vocal style and for his collaborations with other musicians, such as Paul Simon, Wayne Shorter, Herbie Hancock, and Pat Metheny. His music is often described as a blend of Brazilian rhythms, jazz, and folk music. The name Milton Nascimento translates to "Milton of the Birth" in English. |
 | 8 | [Domitila Barros](http://twitter.com/search?q=Domitila+Barros) | N/A |
-| 9 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 10 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
+| 9 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
+| 10 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
 | 11 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 12 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 12 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
 | 13 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
-| 14 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
-| 15 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 16 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
-| 17 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 14 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
+| 15 | [Draymond Green](http://twitter.com/search?q=Draymond+Green) | N/A |
+| 16 | [Mosca](http://twitter.com/search?q=Mosca) | Mosca is a Spanish word meaning "fly". It is also used as a nickname for someone who is small and quick. |
+| 17 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
 | 18 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 19 | [Golden State Warriors](http://twitter.com/search?q=Golden+State+Warriors) | N/A |
-| 20 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
-| 21 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 22 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
-| 23 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 19 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
+| 20 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 21 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
+| 22 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
+| 23 | [Devon](http://twitter.com/search?q=Devon) | N/A |
 | 24 | [Que VT](http://twitter.com/search?q=Que+VT) | N/A |
-| 25 | [devon](http://twitter.com/search?q=devon) | N/A |
-| 26 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
-| 27 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 28 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
-| 29 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
-| 30 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 31 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 32 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
-| 33 | [VT da Domitila](http://twitter.com/search?q=VT+da+Domitila) | N/A |
-| 34 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
-| 35 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
-| 36 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
-| 37 | [#RedeBBB23](http://twitter.com/search?q=%23RedeBBB23) | N/A |
-| 38 | [#coldplayrj](http://twitter.com/search?q=%23coldplayrj) | N/A |
-| 39 | [Torcida da Amanda](http://twitter.com/search?q=Torcida+da+Amanda) | N/A |
-| 40 | [Chico Barney](http://twitter.com/search?q=Chico+Barney) | N/A |
-| 41 | [CHA CO TA](http://twitter.com/search?q=CHA+CO+TA) | N/A |
-| 42 | [schuler](http://twitter.com/search?q=schuler) | N/A |
-| 43 | [Santinha](http://twitter.com/search?q=Santinha) | N/A |
-| 44 | [Bruninha](http://twitter.com/search?q=Bruninha) | N/A |
-| 45 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 46 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 47 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
-| 48 | [Retrô](http://twitter.com/search?q=Retr%c3%b4) | N/A |
-| 49 | [Sarah e Alface](http://twitter.com/search?q=Sarah+e+Alface) | N/A |
-| 50 | [Votorantim](http://twitter.com/search?q=Votorantim) | N/A |
+| 25 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
+| 26 | [Pavinatto](http://twitter.com/search?q=Pavinatto) | N/A |
+| 27 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 28 | [Golden State](http://twitter.com/search?q=Golden+State) | Golden State is a nickname for the U.S. state of California. It is derived from the state's nickname, The Golden State, which was first used in print by author and historian O.P. Austin in 1876. The term is often used to refer to the entire West Coast of the United States, or more specifically, to the area along the Pacific coast from Oregon to Southern California. |
+| 29 | [VT da Domitila](http://twitter.com/search?q=VT+da+Domitila) | N/A |
+| 30 | [Arruda](http://twitter.com/search?q=Arruda) | N/A |
+| 31 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 32 | [Chico Barney](http://twitter.com/search?q=Chico+Barney) | N/A |
+| 33 | [CHA CO TA](http://twitter.com/search?q=CHA+CO+TA) | N/A |
+| 34 | [Bruninha](http://twitter.com/search?q=Bruninha) | N/A |
+| 35 | [#ColdplayRio](http://twitter.com/search?q=%23ColdplayRio) | N/A |
+| 36 | [Docshoes](http://twitter.com/search?q=Docshoes) | N/A |
+| 37 | [Sarah e Alface](http://twitter.com/search?q=Sarah+e+Alface) | N/A |
+| 38 | [Petrolina](http://twitter.com/search?q=Petrolina) | N/A |
+| 39 | [Deixa a Nicole](http://twitter.com/search?q=Deixa+a+Nicole) | N/A |
+| 40 | [bianca nakada](http://twitter.com/search?q=bianca+nakada) | N/A |
 
 
 

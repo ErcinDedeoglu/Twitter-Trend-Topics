@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-29 07:17:20 UTC`
+📆 Last Updated: `2023-03-29 08:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 2 | [Murray](http://twitter.com/search?q=Murray) | N/A |
 | 3 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 4 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 5 | [#Cavs](http://twitter.com/search?q=%23Cavs) | N/A |
-| 6 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 7 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 8 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 4 | [#Cavs](http://twitter.com/search?q=%23Cavs) | N/A |
+| 5 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 6 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 7 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 8 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
 | 9 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 10 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 11 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 11 | [#JJK218](http://twitter.com/search?q=%23JJK218) | N/A |
 | 12 | [#MHA384](http://twitter.com/search?q=%23MHA384) | N/A |
-| 13 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 14 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 15 | [#JJK218](http://twitter.com/search?q=%23JJK218) | N/A |
-| 16 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 17 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 18 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 19 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 20 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 21 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 22 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
-| 23 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 24 | [Rody](http://twitter.com/search?q=Rody) | N/A |
-| 25 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 26 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
-| 27 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 28 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
-| 29 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
-| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 31 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
-| 32 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 33 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 34 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 35 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 36 | [Larry Nance](http://twitter.com/search?q=Larry+Nance) | N/A |
-| 37 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 38 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
-| 39 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
-| 40 | [Dyson](http://twitter.com/search?q=Dyson) | N/A |
-| 41 | [Ed Malloy](http://twitter.com/search?q=Ed+Malloy) | N/A |
-| 42 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
-| 43 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 44 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 13 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 14 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 15 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 16 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 17 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 18 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 19 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 20 | [Rody](http://twitter.com/search?q=Rody) | N/A |
+| 21 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
+| 22 | [Pegula](http://twitter.com/search?q=Pegula) | N/A |
+| 23 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 24 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 25 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 26 | [PJ Washington](http://twitter.com/search?q=PJ+Washington) | N/A |
+| 27 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
+| 28 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 29 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
+| 30 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 31 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 32 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
+| 33 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
+| 34 | [Anthony Lamb](http://twitter.com/search?q=Anthony+Lamb) | Anthony Lamb is a phrase used to describe someone who is indecisive or easily swayed. It comes from the story of Anthony and Cleopatra, in which Anthony was unable to make up his mind between his love for Cleopatra and his loyalty to Rome. |
+| 35 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 36 | [Zava](http://twitter.com/search?q=Zava) | N/A |
+| 37 | [Potapova](http://twitter.com/search?q=Potapova) | N/A |
+| 38 | [hotch](http://twitter.com/search?q=hotch) | N/A |
+| 39 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 40 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
+| 41 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 42 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 43 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 44 | [Nance](http://twitter.com/search?q=Nance) | Nance is a slang term used to refer to a homosexual man, usually an effeminate one. It is derived from the name Nancy, which was historically used as a derogatory term for effeminate men. |
 | 45 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 46 | [Potapova](http://twitter.com/search?q=Potapova) | N/A |
-| 47 | [hotch](http://twitter.com/search?q=hotch) | N/A |
-| 48 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 49 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
+| 46 | [Donte](http://twitter.com/search?q=Donte) | Donte is a given name of Italian origin, derived from the Latin name "Donatus". It is a variant of the name "Donato" and can be translated to mean "given" or "gift". |
+| 47 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 48 | [Stephen Curry](http://twitter.com/search?q=Stephen+Curry) | N/A |
+| 49 | [Stand By Me](http://twitter.com/search?q=Stand+By+Me) | N/A |
 
 
 

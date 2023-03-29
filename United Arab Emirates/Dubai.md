@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-03-29 07:17:11 UTC`
+📆 Last Updated: `2023-03-29 08:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NationSupportsCJP](http://twitter.com/search?q=%23NationSupportsCJP) | N/A |
-| 2 | [مجيب اللهم](http://twitter.com/search?q=%d9%85%d8%ac%d9%8a%d8%a8+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 3 | [#عدلیہ_کی_دشمن_ن_لیگ](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84%db%8c%db%81_%da%a9%db%8c_%d8%af%d8%b4%d9%85%d9%86_%d9%86_%d9%84%db%8c%da%af) | N/A |
+| 2 | [#عدلیہ_کی_دشمن_ن_لیگ](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84%db%8c%db%81_%da%a9%db%8c_%d8%af%d8%b4%d9%85%d9%86_%d9%86_%d9%84%db%8c%da%af) | N/A |
+| 3 | [مجيب اللهم](http://twitter.com/search?q=%d9%85%d8%ac%d9%8a%d8%a8+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
 | 4 | [7 رمضان](http://twitter.com/search?q=7+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 5 | [#الفرسان_قدها](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%b1%d8%b3%d8%a7%d9%86_%d9%82%d8%af%d9%87%d8%a7) | N/A |
-| 6 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 6 | [#SB19](http://twitter.com/search?q=%23SB19) | N/A |
 | 7 | [هزاع المنصوري](http://twitter.com/search?q=%d9%87%d8%b2%d8%a7%d8%b9+%d8%a7%d9%84%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a) | N/A |
-| 8 | [تايلاند](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d8%a7%d9%86%d8%af) | N/A |
+| 8 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 9 | [#منتخب_الامارات](http://twitter.com/search?q=%23%d9%85%d9%86%d8%aa%d8%ae%d8%a8_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 10 | [#رمضان6](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%866) | N/A |
-| 11 | [خالد عيسى](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
-| 12 | [المقاومه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 13 | [قصر الوطن](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
-| 14 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 15 | [28 مارس 2023](http://twitter.com/search?q=28+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 16 | [تحرير عدن](http://twitter.com/search?q=%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1+%d8%b9%d8%af%d9%86) | N/A |
-| 17 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 18 | [الفضاء الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 19 | [الموتمر العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 20 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 21 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 22 | [بيت الحكمه](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%85%d9%87) | N/A |
-| 23 | [राहुल गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 24 | [الجينوم الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d9%86%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 25 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
-| 26 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 27 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 28 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 29 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 10 | [تايلاند](http://twitter.com/search?q=%d8%aa%d8%a7%d9%8a%d9%84%d8%a7%d9%86%d8%af) | N/A |
+| 11 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 12 | [خالد عيسى](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%b9%d9%8a%d8%b3%d9%89) | N/A |
+| 13 | [المقاومه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
+| 14 | [قصر الوطن](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d9%88%d8%b7%d9%86) | N/A |
+| 15 | [القوات الاماراتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d8%b1%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
+| 16 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 17 | [المنتخب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 18 | [تحرير عدن](http://twitter.com/search?q=%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1+%d8%b9%d8%af%d9%86) | N/A |
+| 19 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 20 | [28 مارس 2023](http://twitter.com/search?q=28+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 21 | [الموتمر العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 22 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 23 | [بيت الحكمه](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%85%d9%87) | N/A |
+| 24 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
+| 25 | [الجينوم الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d9%86%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 26 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 27 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 28 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 29 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 | 30 | [حمزة يوسف](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 31 | [الادعيه العالقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%82%d9%87) | N/A |
-| 32 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 33 | [العمل المناخي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a) | N/A |
-| 34 | [الايام الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
-| 35 | [قبور الراحلين](http://twitter.com/search?q=%d9%82%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%ad%d9%84%d9%8a%d9%86) | N/A |
-| 36 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 37 | [بن راشد](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b1%d8%a7%d8%b4%d8%af) | N/A |
-| 38 | [دوري الناشيين](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b4%d9%8a%d9%8a%d9%86) | N/A |
-| 39 | [علي قبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d8%b1) | N/A |
-| 40 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
-| 41 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 42 | [علي النار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b1) | N/A |
-| 43 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 44 | [Islamabad](http://twitter.com/search?q=Islamabad) | N/A |
-| 45 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
-| 46 | [محمد بن زايد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
-| 47 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 48 | [اسماعيل مطر](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84+%d9%85%d8%b7%d8%b1) | N/A |
-| 49 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
-| 50 | [31 مارس](http://twitter.com/search?q=31+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 31 | [العمل المناخي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ae%d9%8a) | N/A |
+| 32 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 33 | [الادعيه العالقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%b9%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%82%d9%87) | N/A |
+| 34 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 35 | [الفقره الكامله](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%82%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84%d9%87) | N/A |
+| 36 | [المركز الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 37 | [قبور الراحلين](http://twitter.com/search?q=%d9%82%d8%a8%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%ad%d9%84%d9%8a%d9%86) | N/A |
+| 38 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 39 | [دوري الناشيين](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b4%d9%8a%d9%8a%d9%86) | N/A |
+| 40 | [علي قبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d8%b1) | N/A |
+| 41 | [بن راشد](http://twitter.com/search?q=%d8%a8%d9%86+%d8%b1%d8%a7%d8%b4%d8%af) | N/A |
+| 42 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 43 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
+| 44 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 45 | [31 مارس](http://twitter.com/search?q=31+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 47 | [علي النار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%b1) | N/A |
+| 48 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 49 | [29 مارس](http://twitter.com/search?q=29+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
+| 50 | [محمود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-29 07:17:28 UTC`
+📆 Last Updated: `2023-03-29 08:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
-| 2 | [Aarhus Fremad](http://twitter.com/search?q=Aarhus+Fremad) | N/A |
-| 3 | [Mærsk](http://twitter.com/search?q=M%c3%a6rsk) | N/A |
-| 4 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 5 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
-| 6 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
-| 7 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 8 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
-| 9 | [#dksund](http://twitter.com/search?q=%23dksund) | N/A |
-| 10 | [#overshootday](http://twitter.com/search?q=%23overshootday) | N/A |
-| 11 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
-| 12 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 13 | [Dansk](http://twitter.com/search?q=Dansk) | N/A |
-| 14 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
-| 15 | [royal arena](http://twitter.com/search?q=royal+arena) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [A-kraft](http://twitter.com/search?q=A-kraft) | N/A |
-| 18 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
-| 19 | [Sundhedsstrukturkommissionen](http://twitter.com/search?q=Sundhedsstrukturkommissionen) | N/A |
-| 20 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 21 | [mænd](http://twitter.com/search?q=m%c3%a6nd) | N/A |
-| 22 | [hareide](http://twitter.com/search?q=hareide) | N/A |
-| 23 | [simon kjær](http://twitter.com/search?q=simon+kj%c3%a6r) | N/A |
-| 24 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 25 | [Tænker](http://twitter.com/search?q=T%c3%a6nker) | N/A |
-| 26 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 27 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 28 | [spørg](http://twitter.com/search?q=sp%c3%b8rg) | N/A |
-| 29 | [bilka](http://twitter.com/search?q=bilka) | N/A |
-| 30 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 31 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
-| 32 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 33 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 34 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 35 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 36 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 37 | [kvinder](http://twitter.com/search?q=kvinder) | N/A |
-| 38 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
-| 39 | [Beklager](http://twitter.com/search?q=Beklager) | N/A |
-| 40 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 41 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 1 | [Arne](http://twitter.com/search?q=Arne) | N/A |
+| 2 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
+| 3 | [#dkmedier](http://twitter.com/search?q=%23dkmedier) | N/A |
+| 4 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
+| 5 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 6 | [Aarhus Fremad](http://twitter.com/search?q=Aarhus+Fremad) | N/A |
+| 7 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
+| 8 | [#sundpol](http://twitter.com/search?q=%23sundpol) | N/A |
+| 9 | [#uddpol](http://twitter.com/search?q=%23uddpol) | N/A |
+| 10 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
+| 11 | [Mærsk](http://twitter.com/search?q=M%c3%a6rsk) | N/A |
+| 12 | [Dansk](http://twitter.com/search?q=Dansk) | N/A |
+| 13 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 14 | [royal arena](http://twitter.com/search?q=royal+arena) | N/A |
+| 15 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
+| 16 | [A-kraft](http://twitter.com/search?q=A-kraft) | N/A |
+| 17 | [Arla](http://twitter.com/search?q=Arla) | N/A |
+| 18 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 19 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | N/A |
+| 20 | [Sundhedsstrukturkommissionen](http://twitter.com/search?q=Sundhedsstrukturkommissionen) | N/A |
+| 21 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 22 | [Morten Olsen](http://twitter.com/search?q=Morten+Olsen) | N/A |
+| 23 | [mænd](http://twitter.com/search?q=m%c3%a6nd) | N/A |
+| 24 | [Stærkt](http://twitter.com/search?q=St%c3%a6rkt) | N/A |
+| 25 | [simon kjær](http://twitter.com/search?q=simon+kj%c3%a6r) | N/A |
+| 26 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 27 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
+| 28 | [Tænker](http://twitter.com/search?q=T%c3%a6nker) | N/A |
+| 29 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 30 | [hareide](http://twitter.com/search?q=hareide) | N/A |
+| 31 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 32 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 33 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 34 | [bilka](http://twitter.com/search?q=bilka) | N/A |
+| 35 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 36 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 37 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 38 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 39 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 40 | [Beklager](http://twitter.com/search?q=Beklager) | N/A |
+| 41 | [Karen](http://twitter.com/search?q=Karen) | N/A |
 | 42 | [tvang](http://twitter.com/search?q=tvang) | N/A |
-| 43 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
-| 44 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 45 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 46 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 47 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 48 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 49 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 50 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
+| 43 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 44 | [Wout](http://twitter.com/search?q=Wout) | Wout is a Dutch name, derived from the Germanic name Wulf. It is a short form of the name Wouter, which means "ruler of the army". In English, it can be translated to mean "leader of warriors". |
+| 45 | [læste](http://twitter.com/search?q=l%c3%a6ste) | N/A |
+| 46 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 47 | [Præcis](http://twitter.com/search?q=Pr%c3%a6cis) | N/A |
+| 48 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 49 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 50 | [Spørg](http://twitter.com/search?q=Sp%c3%b8rg) | N/A |
 
 
 

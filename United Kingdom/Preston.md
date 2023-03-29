@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-03-29 07:16:42 UTC`
+📆 Last Updated: `2023-03-29 08:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,35 +15,43 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#teacher5oclockclub](http://twitter.com/search?q=%23teacher5oclockclub) | N/A |
+| 1 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
 | 2 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 3 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 3 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
 | 4 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
 | 5 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 6 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
-| 7 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
-| 8 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 6 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 7 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 8 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
 | 9 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
-| 10 | [Olga](http://twitter.com/search?q=Olga) | N/A |
-| 11 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 12 | [#pogdogs](http://twitter.com/search?q=%23pogdogs) | N/A |
-| 13 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 14 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 15 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 16 | [Andre](http://twitter.com/search?q=Andre) | N/A |
-| 17 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
+| 10 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
+| 11 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 12 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 13 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 14 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 15 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 16 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
+| 17 | [Andre](http://twitter.com/search?q=Andre) | N/A |
 | 18 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 19 | [Devastating](http://twitter.com/search?q=Devastating) | N/A |
-| 20 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 21 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 19 | [Big Breakfast](http://twitter.com/search?q=Big+Breakfast) | N/A |
+| 20 | [Rainbow Bridge](http://twitter.com/search?q=Rainbow+Bridge) | N/A |
+| 21 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
 | 22 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 23 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 24 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 25 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 26 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 27 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
-| 28 | [#ToriesOut265](http://twitter.com/search?q=%23ToriesOut265) | N/A |
-| 29 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
+| 23 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 24 | [Devastating](http://twitter.com/search?q=Devastating) | N/A |
+| 25 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 26 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 27 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 28 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 29 | [#pogdogs](http://twitter.com/search?q=%23pogdogs) | N/A |
+| 30 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 31 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
+| 32 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
+| 33 | [#ToriesOut265](http://twitter.com/search?q=%23ToriesOut265) | N/A |
+| 34 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 35 | [#waste](http://twitter.com/search?q=%23waste) | N/A |
+| 36 | [#teacher5oclockclub](http://twitter.com/search?q=%23teacher5oclockclub) | N/A |
+| 37 | [#edtech](http://twitter.com/search?q=%23edtech) | N/A |
 
 
 

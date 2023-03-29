@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-03-29 07:17:35 UTC`
+📆 Last Updated: `2023-03-29 08:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 3 | [#رمضان6](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%866) | N/A |
 | 4 | [#سوال_ابوفهد_اليوم](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%a7%d9%84_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
 | 5 | [#فوازير_غازي_الذيابي3](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a3) | N/A |
-| 6 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 7 | [عزيز مصر](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2+%d9%85%d8%b5%d8%b1) | N/A |
+| 6 | [عزيز مصر](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2+%d9%85%d8%b5%d8%b1) | N/A |
+| 7 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
 | 8 | [٧ رمضان](http://twitter.com/search?q=%d9%a7+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 9 | [محمد بن سعد بن زيد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d8%af+%d8%a8%d9%86+%d8%b2%d9%8a%d8%af) | N/A |
 | 10 | [جيسوس](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
-| 11 | [هيرفي رينارد](http://twitter.com/search?q=%d9%87%d9%8a%d8%b1%d9%81%d9%8a+%d8%b1%d9%8a%d9%86%d8%a7%d8%b1%d8%af) | N/A |
-| 12 | [السنه النبويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a%d9%87) | N/A |
+| 11 | [السنه النبويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d9%87+%d8%a7%d9%84%d9%86%d8%a8%d9%88%d9%8a%d9%87) | N/A |
+| 12 | [هيرفي رينارد](http://twitter.com/search?q=%d9%87%d9%8a%d8%b1%d9%81%d9%8a+%d8%b1%d9%8a%d9%86%d8%a7%d8%b1%d8%af) | N/A |
 | 13 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
 | 14 | [الشهر التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 15 | [نادين الدويغري](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%8a%d8%ba%d8%b1%d9%8a) | N/A |
-| 16 | [اسماعيل بن ابراهيم](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84+%d8%a8%d9%86+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 15 | [اسماعيل بن ابراهيم](http://twitter.com/search?q=%d8%a7%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84+%d8%a8%d9%86+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 16 | [نادين الدويغري](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%8a%d8%ba%d8%b1%d9%8a) | N/A |
 | 17 | [الشرط الجزايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d9%8a) | N/A |
-| 18 | [السميع البصير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%a8%d8%b5%d9%8a%d8%b1) | N/A |
-| 19 | [عبدالله الطرقي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b7%d8%b1%d9%82%d9%8a) | N/A |
-| 20 | [شهد ليو](http://twitter.com/search?q=%d8%b4%d9%87%d8%af+%d9%84%d9%8a%d9%88) | N/A |
-| 21 | [علي الارجنتين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86) | N/A |
-| 22 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
-| 23 | [الرخصه الاسيويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ae%d8%b5%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d9%87) | N/A |
-| 24 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 25 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 18 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 19 | [علي الارجنتين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%ac%d9%86%d8%aa%d9%8a%d9%86) | N/A |
+| 20 | [عبدالله الطرقي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b7%d8%b1%d9%82%d9%8a) | N/A |
+| 21 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 22 | [الرخصه الاسيويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ae%d8%b5%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d9%87) | N/A |
+| 23 | [السميع البصير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d9%8a%d8%b9+%d8%a7%d9%84%d8%a8%d8%b5%d9%8a%d8%b1) | N/A |
+| 24 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 25 | [كاس العالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | كاس العالم (Kass al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
 | 26 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
 | 27 | [دور الشايب](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d8%b4%d8%a7%d9%8a%d8%a8) | N/A |
 | 28 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 29 | [شيماء سيف](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d8%a7%d8%a1+%d8%b3%d9%8a%d9%81) | N/A |
-| 30 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
-| 31 | [خدمات الصيانه المتنقله](http://twitter.com/search?q=%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%86%d9%82%d9%84%d9%87) | N/A |
-| 32 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 29 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
+| 30 | [شيماء سيف](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d8%a7%d8%a1+%d8%b3%d9%8a%d9%81) | N/A |
+| 31 | [المنتخب الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 32 | [خدمات الصيانه المتنقله](http://twitter.com/search?q=%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d8%a7%d9%86%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%86%d9%82%d9%84%d9%87) | N/A |
 | 33 | [المدرب الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 34 | [المنتخب الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 35 | [الباقه المميزه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%85%d9%85%d9%8a%d8%b2%d9%87) | N/A |
-| 36 | [المسجد الاقصي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%a7%d9%82%d8%b5%d9%8a) | N/A |
-| 37 | [السيارات المستعمله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b9%d9%85%d9%84%d9%87) | N/A |
-| 38 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
-| 39 | [الحلقه السادسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%d9%87) | N/A |
-| 40 | [التنظيم الاداري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d8%b8%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a) | N/A |
-| 41 | [السور المكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%83%d9%8a%d9%87) | N/A |
-| 42 | [التاجير اليومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a7%d8%ac%d9%8a%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a) | N/A |
-| 43 | [تدريب المنتخب](http://twitter.com/search?q=%d8%aa%d8%af%d8%b1%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8) | N/A |
+| 34 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
+| 35 | [نونو سانتو](http://twitter.com/search?q=%d9%86%d9%88%d9%86%d9%88+%d8%b3%d8%a7%d9%86%d8%aa%d9%88) | نونو سانتو (Nunu Santo) is a traditional dance from the Caribbean island of Trinidad and Tobago. It is a form of African-influenced dance that combines elements of African, Indian, and European cultures. The dance is performed in a circle with two or more people, and involves intricate footwork and hand movements. The name "Nunu Santo" translates to "Holy Dance" in English. |
+| 36 | [السيارات المستعمله](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b9%d9%85%d9%84%d9%87) | N/A |
+| 37 | [الباقه المميزه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d9%85%d9%85%d9%8a%d8%b2%d9%87) | N/A |
+| 38 | [التاجير اليومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%a7%d8%ac%d9%8a%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85%d9%8a) | N/A |
+| 39 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | N/A |
+| 40 | [السور المكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%83%d9%8a%d9%87) | N/A |
+| 41 | [تدريب المنتخب](http://twitter.com/search?q=%d8%aa%d8%af%d8%b1%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8) | N/A |
+| 42 | [الجبر السيارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d8%b1+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 43 | [الحلقه السادسه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3%d9%87) | N/A |
 | 44 | [تركي الضبعان](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d8%b6%d8%a8%d8%b9%d8%a7%d9%86) | N/A |
-| 45 | [الجبر السيارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d8%b1+%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 46 | [رييس الطايي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
-| 47 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 48 | [مسجد قباء](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d9%82%d8%a8%d8%a7%d8%a1) | N/A |
-| 49 | [التوريدات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%b1%d9%8a%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 50 | [اللاعب الكويتي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
+| 45 | [رييس الطايي](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 46 | [زيدان](http://twitter.com/search?q=%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 47 | [منتخب سيدات](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%b3%d9%8a%d8%af%d8%a7%d8%aa) | N/A |
+| 48 | [عبدالملك بن مروان](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%a8%d9%86+%d9%85%d8%b1%d9%88%d8%a7%d9%86) | N/A |
+| 49 | [مسجد قباء](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d9%82%d8%a8%d8%a7%d8%a1) | N/A |
+| 50 | [التنظيم الاداري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%86%d8%b8%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a) | N/A |
 
 
 
