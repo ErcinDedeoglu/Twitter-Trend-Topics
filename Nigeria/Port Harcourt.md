@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-29 22:17:22 UTC`
+📆 Last Updated: `2023-03-29 23:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LagosSwindlers](http://twitter.com/search?q=%23LagosSwindlers) | N/A |
+| 1 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
 | 2 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
-| 3 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 4 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 3 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 4 | [#LagosSwindlers](http://twitter.com/search?q=%23LagosSwindlers) | N/A |
 | 5 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
 | 6 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
-| 7 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 8 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
-| 9 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 10 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 11 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
-| 12 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
-| 13 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
-| 14 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
-| 15 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
+| 7 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
+| 8 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 9 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 10 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
+| 11 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 12 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
+| 13 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
+| 14 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
+| 15 | [New Laptop](http://twitter.com/search?q=New+Laptop) | N/A |
 | 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 17 | [So DSS](http://twitter.com/search?q=So+DSS) | N/A |
-| 18 | [DMW 2.0](http://twitter.com/search?q=DMW+2.0) | N/A |
-| 19 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 20 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
-| 21 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
-| 22 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 23 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 24 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
-| 25 | [Interim](http://twitter.com/search?q=Interim) | N/A |
-| 26 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 27 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
-| 28 | [New Laptop](http://twitter.com/search?q=New+Laptop) | N/A |
+| 17 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 18 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 19 | [DMW 2.0](http://twitter.com/search?q=DMW+2.0) | N/A |
+| 20 | [Liya](http://twitter.com/search?q=Liya) | N/A |
+| 21 | [Interim](http://twitter.com/search?q=Interim) | N/A |
+| 22 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
+| 23 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 24 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 25 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 26 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
+| 27 | [So DSS](http://twitter.com/search?q=So+DSS) | N/A |
+| 28 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
 | 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 30 | [Logos Olori](http://twitter.com/search?q=Logos+Olori) | N/A |
-| 31 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 30 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 31 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 32 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 33 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
-| 34 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 35 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 38 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 39 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 40 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 41 | [Cashew](http://twitter.com/search?q=Cashew) | N/A |
-| 42 | [I ADVANCE BY GRACE](http://twitter.com/search?q=I+ADVANCE+BY+GRACE) | N/A |
-| 43 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
-| 44 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
-| 45 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 46 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 47 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 48 | [Foluke Daramola](http://twitter.com/search?q=Foluke+Daramola) | N/A |
+| 33 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 34 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 35 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
+| 36 | [Dayo Israel](http://twitter.com/search?q=Dayo+Israel) | N/A |
+| 37 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 38 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 39 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 40 | [I ADVANCE BY GRACE](http://twitter.com/search?q=I+ADVANCE+BY+GRACE) | N/A |
+| 41 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 42 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
+| 43 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
+| 44 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
+| 45 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
+| 46 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
+| 47 | [the lord has shown me mercy](http://twitter.com/search?q=the+lord+has+shown+me+mercy) | N/A |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 
 
 

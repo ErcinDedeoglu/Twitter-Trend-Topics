@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-29 22:17:39 UTC`
+📆 Last Updated: `2023-03-29 23:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#kyga23](http://twitter.com/search?q=%23kyga23) | N/A |
-| 2 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 3 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 4 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 5 | [#XboxMLBSweepstakes](http://twitter.com/search?q=%23XboxMLBSweepstakes) | N/A |
-| 6 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 7 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
-| 8 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
-| 9 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
-| 10 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 11 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 12 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
-| 13 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 14 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 15 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 16 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 17 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 18 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
-| 19 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 20 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 21 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 22 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 23 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
-| 24 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
-| 25 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 26 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 27 | [Adam Fisher](http://twitter.com/search?q=Adam+Fisher) | N/A |
-| 28 | [The Batman 2](http://twitter.com/search?q=The+Batman+2) | N/A |
-| 29 | [Billy Sullivan](http://twitter.com/search?q=Billy+Sullivan) | N/A |
-| 30 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
-| 31 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 32 | [Basil Karlo](http://twitter.com/search?q=Basil+Karlo) | N/A |
-| 33 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 34 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
-| 35 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 36 | [Matt Williams](http://twitter.com/search?q=Matt+Williams) | N/A |
-| 37 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 38 | [Sweet Dog](http://twitter.com/search?q=Sweet+Dog) | N/A |
-| 39 | [Epiphany](http://twitter.com/search?q=Epiphany) | N/A |
-| 40 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 41 | [Mike Flanagan](http://twitter.com/search?q=Mike+Flanagan) | N/A |
-| 42 | [Arte Moreno](http://twitter.com/search?q=Arte+Moreno) | Arte Moreno is the name of the current owner of the Los Angeles Angels baseball team. In English, it means "Art More". |
-| 43 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 44 | [Always Sunny](http://twitter.com/search?q=Always+Sunny) | N/A |
-| 45 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 1 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
+| 2 | [#kyga23](http://twitter.com/search?q=%23kyga23) | N/A |
+| 3 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 4 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 5 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 6 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
+| 7 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 8 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
+| 9 | [#XboxMLBSweepstakes](http://twitter.com/search?q=%23XboxMLBSweepstakes) | N/A |
+| 10 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 11 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 12 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 13 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 14 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
+| 15 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
+| 16 | [Jung](http://twitter.com/search?q=Jung) | N/A |
+| 17 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
+| 18 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 19 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
+| 20 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 21 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
+| 22 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 23 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 24 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
+| 25 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 26 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
+| 27 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 28 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 29 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
+| 30 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 31 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
+| 32 | [The Batman 2](http://twitter.com/search?q=The+Batman+2) | N/A |
+| 33 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 34 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
+| 35 | [Adam Fisher](http://twitter.com/search?q=Adam+Fisher) | N/A |
+| 36 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
+| 37 | [Basil Karlo](http://twitter.com/search?q=Basil+Karlo) | N/A |
+| 38 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 39 | [Jimmy Smits](http://twitter.com/search?q=Jimmy+Smits) | N/A |
+| 40 | [SweetDog](http://twitter.com/search?q=SweetDog) | N/A |
+| 41 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 42 | [King of England](http://twitter.com/search?q=King+of+England) | N/A |
+| 43 | [Always Sunny](http://twitter.com/search?q=Always+Sunny) | N/A |
+| 44 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 45 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
+| 46 | [Billy Sullivan](http://twitter.com/search?q=Billy+Sullivan) | N/A |
+| 47 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
 
 
 

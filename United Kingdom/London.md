@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-03-29 22:16:50 UTC`
+📆 Last Updated: `2023-03-29 23:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 2 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 3 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 4 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
-| 5 | [#RaceAcrossTheWorld](http://twitter.com/search?q=%23RaceAcrossTheWorld) | N/A |
-| 6 | [#PawsForPaul](http://twitter.com/search?q=%23PawsForPaul) | N/A |
-| 7 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
-| 8 | [#Peston](http://twitter.com/search?q=%23Peston) | N/A |
-| 9 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 10 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
-| 11 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 12 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 13 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 2 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
+| 3 | [#wawaw](http://twitter.com/search?q=%23wawaw) | N/A |
+| 4 | [#PawsForPaul](http://twitter.com/search?q=%23PawsForPaul) | N/A |
+| 5 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 6 | [#RaceAcrossTheWorld](http://twitter.com/search?q=%23RaceAcrossTheWorld) | N/A |
+| 7 | [#Peston](http://twitter.com/search?q=%23Peston) | N/A |
+| 8 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
+| 9 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 10 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
+| 11 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 12 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 13 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
 | 14 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
-| 15 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
-| 16 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
-| 17 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 18 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 19 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
-| 20 | [Flint](http://twitter.com/search?q=Flint) | N/A |
-| 21 | [Frida Maanum](http://twitter.com/search?q=Frida+Maanum) | N/A |
-| 22 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
-| 23 | [Earls Court](http://twitter.com/search?q=Earls+Court) | N/A |
-| 24 | [Moore](http://twitter.com/search?q=Moore) | N/A |
-| 25 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
-| 26 | [Byers](http://twitter.com/search?q=Byers) | N/A |
-| 27 | [Arsenal Women](http://twitter.com/search?q=Arsenal+Women) | N/A |
-| 28 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 29 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 30 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 15 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
+| 16 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 17 | [Gillian Keegan](http://twitter.com/search?q=Gillian+Keegan) | Gillian Keegan is a British Conservative Party politician who has been the Member of Parliament (MP) for Chichester since 2017. She is currently the Minister for Apprenticeships and Skills in the Department for Education. |
+| 18 | [Earl's Court](http://twitter.com/search?q=Earl%27s+Court) | N/A |
+| 19 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 20 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 21 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 22 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 23 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 24 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 25 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 26 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 27 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 28 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 29 | [Frida Maanum](http://twitter.com/search?q=Frida+Maanum) | N/A |
+| 30 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
 | 31 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 32 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 33 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 34 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
-| 35 | [Kim Little](http://twitter.com/search?q=Kim+Little) | N/A |
-| 36 | [Wilks](http://twitter.com/search?q=Wilks) | Wilks is a unit of measurement used in strength sports such as powerlifting and weightlifting. It is a measure of an athlete's strength relative to their bodyweight, and is calculated by multiplying the athlete's total weight lifted by a coefficient. The Wilks coefficient is based on gender, age, and bodyweight. |
-| 37 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 38 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
-| 39 | [Alfie May](http://twitter.com/search?q=Alfie+May) | N/A |
-| 40 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
-| 41 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 42 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 43 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 44 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
-| 45 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 46 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 32 | [Wilks](http://twitter.com/search?q=Wilks) | Wilks is a unit of measurement used in strength sports such as powerlifting and weightlifting. It is a measure of an athlete's strength relative to their bodyweight, and is calculated by multiplying the athlete's total weight lifted by a coefficient. The Wilks coefficient is based on gender, age, and bodyweight. |
+| 33 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
+| 34 | [Kim Little](http://twitter.com/search?q=Kim+Little) | N/A |
+| 35 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 36 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 37 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 38 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 39 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
+| 40 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
+| 41 | [Adeniran](http://twitter.com/search?q=Adeniran) | N/A |
+| 42 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 43 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 44 | [Shoot](http://twitter.com/search?q=Shoot) | Shoot is an informal verb meaning to fire a gun or other weapon. It can also mean to throw or launch something, or to take a photograph. |
+| 45 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 46 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
 | 47 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
 | 48 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 49 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 50 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 49 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-03-29 22:16:58 UTC`
+📆 Last Updated: `2023-03-29 23:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gabigol](http://twitter.com/search?q=Gabigol) | Gabigol is a nickname given to Brazilian footballer Gabriel Barbosa, who currently plays for Flamengo. The nickname is a combination of his first name, Gabriel, and the Portuguese word for goal, gol. In English, the nickname translates to "Gabriel Goal". |
-| 2 | [monica](http://twitter.com/search?q=monica) | N/A |
-| 3 | [TAINÁ NA TWITCH](http://twitter.com/search?q=TAIN%c3%81+NA+TWITCH) | N/A |
-| 4 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 5 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 6 | [Resident](http://twitter.com/search?q=Resident) | N/A |
-| 7 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 8 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 9 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 10 | [#mcflyonfallon](http://twitter.com/search?q=%23mcflyonfallon) | N/A |
-| 11 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 12 | [Michel Araújo](http://twitter.com/search?q=Michel+Ara%c3%bajo) | Michel Araújo is a Portuguese name. It is derived from the Hebrew name Michael, which means "who is like God". |
-| 13 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 14 | [#ADona077](http://twitter.com/search?q=%23ADona077) | N/A |
-| 15 | [Contarato](http://twitter.com/search?q=Contarato) | N/A |
-| 16 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 17 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 18 | [Gabriel Neves](http://twitter.com/search?q=Gabriel+Neves) | N/A |
-| 19 | [Cara de Barro](http://twitter.com/search?q=Cara+de+Barro) | N/A |
-| 20 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 21 | [MENA](http://twitter.com/search?q=MENA) | N/A |
-| 22 | [Ana Thais](http://twitter.com/search?q=Ana+Thais) | N/A |
-| 23 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 24 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 25 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 26 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 27 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 28 | [EXPULSO](http://twitter.com/search?q=EXPULSO) | N/A |
-| 29 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
-| 30 | [REGULA BIG TECHS](http://twitter.com/search?q=REGULA+BIG+TECHS) | N/A |
-| 31 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
-| 32 | [Nintendo 3DS](http://twitter.com/search?q=Nintendo+3DS) | N/A |
-| 33 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 34 | [Matador](http://twitter.com/search?q=Matador) | N/A |
-| 35 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
-| 36 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
-| 37 | [Red Tv](http://twitter.com/search?q=Red+Tv) | N/A |
-| 38 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 39 | [Fearless Tv](http://twitter.com/search?q=Fearless+Tv) | N/A |
-| 40 | [Doce](http://twitter.com/search?q=Doce) | N/A |
-| 41 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 42 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
-| 43 | [Gameboy Advance](http://twitter.com/search?q=Gameboy+Advance) | N/A |
-| 44 | [Sega Saturn](http://twitter.com/search?q=Sega+Saturn) | N/A |
-| 45 | [Xbox SX](http://twitter.com/search?q=Xbox+SX) | N/A |
-| 46 | [#AShoulderToCryOnEP6](http://twitter.com/search?q=%23AShoulderToCryOnEP6) | N/A |
-| 47 | [Bia Jordão](http://twitter.com/search?q=Bia+Jord%c3%a3o) | N/A |
-| 48 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
-| 49 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 50 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 3 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 4 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 5 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 6 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
+| 7 | [TAINÁ NA TWITCH](http://twitter.com/search?q=TAIN%c3%81+NA+TWITCH) | N/A |
+| 8 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
+| 9 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 10 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
+| 11 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 12 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 13 | [Vital](http://twitter.com/search?q=Vital) | N/A |
+| 14 | [Castan](http://twitter.com/search?q=Castan) | N/A |
+| 15 | [#TresVezesAna043](http://twitter.com/search?q=%23TresVezesAna043) | N/A |
+| 16 | [#SulwhasooxTheMet](http://twitter.com/search?q=%23SulwhasooxTheMet) | N/A |
+| 17 | [Resident](http://twitter.com/search?q=Resident) | N/A |
+| 18 | [Contarato](http://twitter.com/search?q=Contarato) | N/A |
+| 19 | [Copa](http://twitter.com/search?q=Copa) | N/A |
+| 20 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 21 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 22 | [#mcflyonfallon](http://twitter.com/search?q=%23mcflyonfallon) | N/A |
+| 23 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 24 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 25 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 26 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 27 | [Michel Araújo](http://twitter.com/search?q=Michel+Ara%c3%bajo) | Michel Araújo is a Portuguese name. It is derived from the Hebrew name Michael, which means "who is like God". |
+| 28 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 29 | [#ADona077](http://twitter.com/search?q=%23ADona077) | N/A |
+| 30 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
+| 31 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 32 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
+| 33 | [EXPULSO](http://twitter.com/search?q=EXPULSO) | N/A |
+| 34 | [Transmissão](http://twitter.com/search?q=Transmiss%c3%a3o) | N/A |
+| 35 | [Ana Thais](http://twitter.com/search?q=Ana+Thais) | N/A |
+| 36 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 37 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
+| 38 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 39 | [#33MilhoesDaMamae](http://twitter.com/search?q=%2333MilhoesDaMamae) | N/A |
+| 40 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 41 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 42 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 43 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 44 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
+| 45 | [Cara de Barro](http://twitter.com/search?q=Cara+de+Barro) | N/A |
+| 46 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
+| 47 | [Gabriel Neves](http://twitter.com/search?q=Gabriel+Neves) | N/A |
+| 48 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 49 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 50 | [Fearless Tv](http://twitter.com/search?q=Fearless+Tv) | N/A |
 
 
 
