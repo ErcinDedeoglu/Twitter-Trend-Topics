@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-29 15:28:25 UTC`
+📆 Last Updated: `2023-03-29 17:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Australia
 | 1 | [#AloneAustralia](http://twitter.com/search?q=%23AloneAustralia) | N/A |
 | 2 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
 | 3 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 5 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 6 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 7 | [#sydvper](http://twitter.com/search?q=%23sydvper) | N/A |
-| 8 | [America](http://twitter.com/search?q=America) | N/A |
-| 9 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 10 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 11 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 12 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 13 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 14 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 15 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
-| 16 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 17 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
-| 18 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
-| 19 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
-| 20 | [Welcome to Country](http://twitter.com/search?q=Welcome+to+Country) | N/A |
-| 21 | [Coalition MPs](http://twitter.com/search?q=Coalition+MPs) | N/A |
-| 22 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 23 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 24 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
-| 25 | [andrew hastie](http://twitter.com/search?q=andrew+hastie) | N/A |
-| 26 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 27 | [paul brereton](http://twitter.com/search?q=paul+brereton) | N/A |
-| 28 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 29 | [John Kerin](http://twitter.com/search?q=John+Kerin) | N/A |
-| 30 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
-| 31 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 32 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 33 | [Jacinta](http://twitter.com/search?q=Jacinta) | N/A |
-| 34 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
-| 35 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 36 | [Milton Dick](http://twitter.com/search?q=Milton+Dick) | N/A |
-| 37 | [Gould](http://twitter.com/search?q=Gould) | Gould is a surname of English origin. It is derived from the Old English word "gold" and was originally used to denote someone who worked with gold or was wealthy. |
-| 38 | [norwood](http://twitter.com/search?q=norwood) | N/A |
-| 39 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 40 | [llew o'brien](http://twitter.com/search?q=llew+o%27brien) | N/A |
-| 41 | [indue](http://twitter.com/search?q=indue) | N/A |
-| 42 | [trent robinson](http://twitter.com/search?q=trent+robinson) | N/A |
-| 43 | [Urge the Environment Minister](http://twitter.com/search?q=Urge+the+Environment+Minister) | N/A |
-| 44 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 45 | [Dan Tehan](http://twitter.com/search?q=Dan+Tehan) | N/A |
-| 46 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 47 | [ADD YOUR NAME](http://twitter.com/search?q=ADD+YOUR+NAME) | N/A |
-| 48 | [michael pascoe](http://twitter.com/search?q=michael+pascoe) | N/A |
-| 49 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
-| 50 | [Liberal MPs](http://twitter.com/search?q=Liberal+MPs) | N/A |
+| 4 | [#sydvper](http://twitter.com/search?q=%23sydvper) | N/A |
+| 5 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 7 | [America](http://twitter.com/search?q=America) | N/A |
+| 8 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 9 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 10 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 11 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 12 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
+| 13 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
+| 14 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
+| 15 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
+| 16 | [Welcome to Country](http://twitter.com/search?q=Welcome+to+Country) | N/A |
+| 17 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 18 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 19 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
+| 20 | [Coalition MPs](http://twitter.com/search?q=Coalition+MPs) | N/A |
+| 21 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 22 | [andrew hastie](http://twitter.com/search?q=andrew+hastie) | N/A |
+| 23 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 24 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 25 | [paul brereton](http://twitter.com/search?q=paul+brereton) | N/A |
+| 26 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 27 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 28 | [John Kerin](http://twitter.com/search?q=John+Kerin) | N/A |
+| 29 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 30 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 31 | [Jacinta](http://twitter.com/search?q=Jacinta) | N/A |
+| 32 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 33 | [Milton Dick](http://twitter.com/search?q=Milton+Dick) | N/A |
+| 34 | [Gould](http://twitter.com/search?q=Gould) | Gould is a surname of English origin. It is derived from the Old English word "gold" and was originally used to denote someone who worked with gold or was wealthy. |
+| 35 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 36 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
+| 37 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 38 | [llew o'brien](http://twitter.com/search?q=llew+o%27brien) | N/A |
+| 39 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
+| 40 | [indue](http://twitter.com/search?q=indue) | N/A |
+| 41 | [trent robinson](http://twitter.com/search?q=trent+robinson) | N/A |
+| 42 | [Urge the Environment Minister](http://twitter.com/search?q=Urge+the+Environment+Minister) | N/A |
+| 43 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 44 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 45 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 46 | [ADD YOUR NAME](http://twitter.com/search?q=ADD+YOUR+NAME) | N/A |
+| 47 | [michael pascoe](http://twitter.com/search?q=michael+pascoe) | N/A |
+| 48 | [Liberal MPs](http://twitter.com/search?q=Liberal+MPs) | N/A |
+| 49 | [stan grant](http://twitter.com/search?q=stan+grant) | N/A |
+| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 
 
 

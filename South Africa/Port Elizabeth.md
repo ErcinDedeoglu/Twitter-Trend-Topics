@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-29 15:28:04 UTC`
+📆 Last Updated: `2023-03-29 17:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 2 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
+| 2 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 3 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
 | 4 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 5 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
+| 5 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
 | 6 | [#1LifeChangingLives](http://twitter.com/search?q=%231LifeChangingLives) | N/A |
 | 7 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
 | 8 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 9 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 10 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
-| 11 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
-| 12 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
+| 10 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
+| 11 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
+| 12 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 13 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
-| 14 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 15 | [YahYuppiYah](http://twitter.com/search?q=YahYuppiYah) | N/A |
-| 16 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
-| 17 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 18 | [eeque](http://twitter.com/search?q=eeque) | N/A |
-| 19 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
-| 20 | [dear thabang](http://twitter.com/search?q=dear+thabang) | N/A |
-| 21 | [thabang meets tbangers](http://twitter.com/search?q=thabang+meets+tbangers) | N/A |
-| 22 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
-| 23 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 24 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
-| 25 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 26 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 27 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
-| 28 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
-| 29 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 30 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
-| 31 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
-| 32 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 33 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 14 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 15 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 16 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 17 | [dear thabang](http://twitter.com/search?q=dear+thabang) | N/A |
+| 18 | [thabang meets tbangers](http://twitter.com/search?q=thabang+meets+tbangers) | N/A |
+| 19 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
+| 20 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 21 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 22 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 23 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
+| 24 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 25 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 26 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
+| 27 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 28 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 29 | [Block 9](http://twitter.com/search?q=Block+9) | N/A |
+| 30 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
+| 31 | [Mr Langa](http://twitter.com/search?q=Mr+Langa) | N/A |
+| 32 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
+| 33 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
 | 34 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
-| 35 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
-| 36 | [skoroplaap](http://twitter.com/search?q=skoroplaap) | N/A |
-| 37 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 38 | [Ronwen Williams](http://twitter.com/search?q=Ronwen+Williams) | N/A |
-| 39 | [FNB Virtual Card](http://twitter.com/search?q=FNB+Virtual+Card) | N/A |
-| 40 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
-| 41 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
-| 42 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 43 | [iZwide](http://twitter.com/search?q=iZwide) | N/A |
-| 44 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 45 | [maela](http://twitter.com/search?q=maela) | N/A |
-| 46 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 47 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 35 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 36 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
+| 37 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
+| 38 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 39 | [skoroplaap](http://twitter.com/search?q=skoroplaap) | N/A |
+| 40 | [iZwide](http://twitter.com/search?q=iZwide) | N/A |
+| 41 | [ronwen williams](http://twitter.com/search?q=ronwen+williams) | N/A |
+| 42 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 43 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
+| 44 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 45 | [Maela](http://twitter.com/search?q=Maela) | N/A |
+| 46 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 47 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 48 | [FNB Virtual Card](http://twitter.com/search?q=FNB+Virtual+Card) | N/A |
 
 
 

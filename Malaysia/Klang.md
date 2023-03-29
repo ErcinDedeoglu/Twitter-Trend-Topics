@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-29 15:28:00 UTC`
+📆 Last Updated: `2023-03-29 17:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#คมชัดลึกอวอร์ด19xดูมันดิ](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%a1%e0%b8%8a%e0%b8%b1%e0%b8%94%e0%b8%a5%e0%b8%b6%e0%b8%81%e0%b8%ad%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%9419x%e0%b8%94%e0%b8%b9%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%94%e0%b8%b4) | N/A |
-| 2 | [PETA](http://twitter.com/search?q=PETA) | N/A |
-| 3 | [MINO](http://twitter.com/search?q=MINO) | N/A |
-| 4 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 5 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
-| 6 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
-| 7 | [#Lazada11yearcharity](http://twitter.com/search?q=%23Lazada11yearcharity) | N/A |
-| 8 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 9 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 10 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 11 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 12 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 13 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
-| 14 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 15 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
-| 16 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 1 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
+| 2 | [#PonniyanSelvan2](http://twitter.com/search?q=%23PonniyanSelvan2) | N/A |
+| 3 | [#OurFavoriteSongMINODay](http://twitter.com/search?q=%23OurFavoriteSongMINODay) | N/A |
+| 4 | [#MileApoFlyToMumbai](http://twitter.com/search?q=%23MileApoFlyToMumbai) | N/A |
+| 5 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 6 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 7 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 8 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 11 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 12 | [Over Me](http://twitter.com/search?q=Over+Me) | N/A |
+| 13 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 14 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
+| 15 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 16 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
 | 17 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
-| 18 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 19 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
-| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 21 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 22 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 23 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 24 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 25 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 26 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 27 | [London](http://twitter.com/search?q=London) | N/A |
-| 28 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 29 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 30 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
-| 31 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 32 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 33 | [LIZ DESERVES BETTER](http://twitter.com/search?q=LIZ+DESERVES+BETTER) | N/A |
-| 34 | [UiTM](http://twitter.com/search?q=UiTM) | N/A |
-| 35 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 36 | [istanbul aku datang](http://twitter.com/search?q=istanbul+aku+datang) | N/A |
-| 37 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 39 | [Diana danielle](http://twitter.com/search?q=Diana+danielle) | N/A |
-| 40 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 41 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 42 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 43 | [Sephora](http://twitter.com/search?q=Sephora) | N/A |
-| 44 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 45 | [Taekook](http://twitter.com/search?q=Taekook) | N/A |
-| 46 | [kyungsoo](http://twitter.com/search?q=kyungsoo) | N/A |
-| 47 | [Proton](http://twitter.com/search?q=Proton) | N/A |
-| 48 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 49 | [Wise](http://twitter.com/search?q=Wise) | N/A |
+| 18 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 19 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 20 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
+| 21 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
+| 22 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 23 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 24 | [lnph apologize to lisa](http://twitter.com/search?q=lnph+apologize+to+lisa) | N/A |
+| 25 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 26 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 27 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
+| 28 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 29 | [LIZ DESERVES BETTER](http://twitter.com/search?q=LIZ+DESERVES+BETTER) | N/A |
+| 30 | [uitm](http://twitter.com/search?q=uitm) | N/A |
+| 31 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 32 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 33 | [istanbul aku datang](http://twitter.com/search?q=istanbul+aku+datang) | N/A |
+| 34 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 35 | [London](http://twitter.com/search?q=London) | N/A |
+| 36 | [diana danielle](http://twitter.com/search?q=diana+danielle) | N/A |
+| 37 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
+| 38 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
+| 39 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 40 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 41 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 42 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 43 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
+| 44 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 45 | [Proton](http://twitter.com/search?q=Proton) | N/A |
+| 46 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 47 | [Sephora](http://twitter.com/search?q=Sephora) | N/A |
+| 48 | [Wise](http://twitter.com/search?q=Wise) | N/A |
+| 49 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
 
 
 

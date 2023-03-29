@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-03-29 15:28:03 UTC`
+📆 Last Updated: `2023-03-29 17:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 2 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
-| 3 | [#whoiswase](http://twitter.com/search?q=%23whoiswase) | N/A |
-| 4 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
-| 5 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 6 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 7 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
-| 8 | [Dayo Israel](http://twitter.com/search?q=Dayo+Israel) | N/A |
-| 9 | [#SamsungGalaxyA34](http://twitter.com/search?q=%23SamsungGalaxyA34) | N/A |
-| 10 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 11 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
-| 12 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 13 | [Agberos](http://twitter.com/search?q=Agberos) | N/A |
-| 14 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
-| 15 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 16 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 17 | [Big Wiz](http://twitter.com/search?q=Big+Wiz) | Big Wiz is a slang term used to refer to someone who is very knowledgeable or wise. It can also be used to describe someone who is highly respected or influential. |
-| 18 | [Sir Alex Ferguson](http://twitter.com/search?q=Sir+Alex+Ferguson) | N/A |
-| 19 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 20 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
-| 21 | [Aunty Esther](http://twitter.com/search?q=Aunty+Esther) | N/A |
-| 22 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
-| 23 | [Daniel Regha](http://twitter.com/search?q=Daniel+Regha) | N/A |
+| 1 | [#ThePENGProject](http://twitter.com/search?q=%23ThePENGProject) | N/A |
+| 2 | [#SPARK10Series](http://twitter.com/search?q=%23SPARK10Series) | N/A |
+| 3 | [#SamsungGalaxyS23](http://twitter.com/search?q=%23SamsungGalaxyS23) | N/A |
+| 4 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
+| 5 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 6 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
+| 7 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
+| 8 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
+| 9 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
+| 10 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
+| 11 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
+| 12 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 13 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Interim](http://twitter.com/search?q=Interim) | N/A |
+| 16 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 17 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 18 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
+| 19 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
+| 20 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
+| 21 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
+| 22 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 23 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 | 24 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
-| 25 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
-| 26 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
-| 27 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
-| 28 | [Lagos Island](http://twitter.com/search?q=Lagos+Island) | N/A |
-| 29 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 30 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
-| 31 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
-| 32 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 33 | [Federal Republic of Nigeria](http://twitter.com/search?q=Federal+Republic+of+Nigeria) | N/A |
-| 34 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 36 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
-| 37 | [#MoneyAndLove](http://twitter.com/search?q=%23MoneyAndLove) | N/A |
-| 38 | [#mariachike](http://twitter.com/search?q=%23mariachike) | N/A |
-| 39 | [#Messi𓃵](http://twitter.com/search?q=%23Messi%f0%93%83%b5) | N/A |
-| 40 | [#NPFL23](http://twitter.com/search?q=%23NPFL23) | N/A |
-| 41 | [#PepsiKickOffShow](http://twitter.com/search?q=%23PepsiKickOffShow) | N/A |
-| 42 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
-| 43 | [#Wizkid](http://twitter.com/search?q=%23Wizkid) | N/A |
+| 25 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
+| 26 | [Cashew](http://twitter.com/search?q=Cashew) | N/A |
+| 27 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 28 | [Gawuna](http://twitter.com/search?q=Gawuna) | N/A |
+| 29 | [I ADVANCE BY GRACE](http://twitter.com/search?q=I+ADVANCE+BY+GRACE) | N/A |
+| 30 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
+| 31 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 32 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 33 | [Mummy GO](http://twitter.com/search?q=Mummy+GO) | N/A |
+| 34 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
+| 35 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 36 | [Arrested](http://twitter.com/search?q=Arrested) | N/A |
+| 37 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 38 | [Elele](http://twitter.com/search?q=Elele) | N/A |
+| 39 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 40 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
+| 41 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
+| 42 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
+| 43 | [Salisu Yusuf](http://twitter.com/search?q=Salisu+Yusuf) | N/A |
+| 44 | [Declan](http://twitter.com/search?q=Declan) | N/A |
+| 45 | [Foluke Daramola](http://twitter.com/search?q=Foluke+Daramola) | N/A |
+| 46 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 47 | [Elders](http://twitter.com/search?q=Elders) | N/A |
+| 48 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
+| 49 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 50 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
 
 
 

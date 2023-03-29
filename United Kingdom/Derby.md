@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-29 15:27:32 UTC`
+📆 Last Updated: `2023-03-29 17:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [RAF Scampton](http://twitter.com/search?q=RAF+Scampton) | N/A |
-| 2 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
-| 3 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 4 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 5 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 6 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
-| 7 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 8 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 9 | [#TVShowsInFilmOrSong](http://twitter.com/search?q=%23TVShowsInFilmOrSong) | N/A |
-| 10 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 11 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
-| 12 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
-| 13 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 14 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
-| 15 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 16 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 17 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 18 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 19 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
-| 20 | [Claude](http://twitter.com/search?q=Claude) | N/A |
-| 21 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
-| 22 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
-| 23 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 24 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 25 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 26 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 27 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 28 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
-| 29 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
-| 30 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 31 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 32 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 33 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 34 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 35 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
-| 36 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
-| 37 | [For The Love Of Dogs](http://twitter.com/search?q=For+The+Love+Of+Dogs) | N/A |
-| 38 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 39 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
-| 40 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
-| 41 | [Lincolnshire](http://twitter.com/search?q=Lincolnshire) | N/A |
-| 42 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 43 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 44 | [Olga](http://twitter.com/search?q=Olga) | N/A |
-| 45 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 46 | [Loma](http://twitter.com/search?q=Loma) | N/A |
-| 47 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 48 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 49 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 1 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 2 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 3 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 4 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 5 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
+| 6 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 7 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 8 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 9 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 10 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
+| 11 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 12 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
+| 13 | [#TVShowsInFilmOrSong](http://twitter.com/search?q=%23TVShowsInFilmOrSong) | N/A |
+| 14 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 15 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 16 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
+| 17 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
+| 18 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
+| 19 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 20 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 21 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 22 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 23 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 24 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
+| 25 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 26 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 27 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
+| 28 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
+| 29 | [Claude](http://twitter.com/search?q=Claude) | N/A |
+| 30 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 31 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
+| 32 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 33 | [Premier League Hall of Fame](http://twitter.com/search?q=Premier+League+Hall+of+Fame) | N/A |
+| 34 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 35 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 36 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 37 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
+| 38 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 39 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 40 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
+| 41 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
+| 42 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 43 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 44 | [#pogdogs](http://twitter.com/search?q=%23pogdogs) | N/A |
+| 45 | [#WorldPianoDay](http://twitter.com/search?q=%23WorldPianoDay) | N/A |
+| 46 | [#bbcpm](http://twitter.com/search?q=%23bbcpm) | N/A |
+| 47 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
+| 48 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 49 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
 
 
 

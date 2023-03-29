@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-03-29 15:27:41 UTC`
+📆 Last Updated: `2023-03-29 17:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
 | 2 | [Ibis](http://twitter.com/search?q=Ibis) | N/A |
-| 3 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
-| 4 | [#RBDTour2023](http://twitter.com/search?q=%23RBDTour2023) | #RBDTour2023 is a hashtag used to promote a potential tour by the Mexican pop group RBD in 2023. The acronym RBD stands for Rebelde, which translates to Rebel in English. |
-| 5 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 6 | [Jorge Lafond](http://twitter.com/search?q=Jorge+Lafond) | N/A |
-| 7 | [#RBDingressos](http://twitter.com/search?q=%23RBDingressos) | N/A |
-| 8 | [BIEL NO MAIS VOCÊ](http://twitter.com/search?q=BIEL+NO+MAIS+VOC%c3%8a) | N/A |
-| 9 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 10 | [#DinoMentiu](http://twitter.com/search?q=%23DinoMentiu) | N/A |
-| 11 | [Eventim](http://twitter.com/search?q=Eventim) | Eventim is an online ticketing platform based in Germany. It is used to purchase tickets for concerts, sports events, theater performances, and other live entertainment events. The name Eventim is derived from the German word "event" which means "occasion". In English, Eventim means "occasion tickets". |
-| 12 | [EU VOU VER O RBD](http://twitter.com/search?q=EU+VOU+VER+O+RBD) | N/A |
+| 3 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
+| 4 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
+| 5 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 6 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 7 | [#RBDTour2023](http://twitter.com/search?q=%23RBDTour2023) | #RBDTour2023 is a hashtag used to promote a potential tour by the Mexican pop group RBD in 2023. The acronym RBD stands for Rebelde, which translates to Rebel in English. |
+| 8 | [#DinoMentiu](http://twitter.com/search?q=%23DinoMentiu) | N/A |
+| 9 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
+| 10 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 11 | [monica](http://twitter.com/search?q=monica) | N/A |
+| 12 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
 | 13 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 14 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 15 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
-| 16 | [I&R NO ENCONTRO](http://twitter.com/search?q=I%26R+NO+ENCONTRO) | N/A |
-| 17 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 18 | [EU VOU NO SHOW DO RBD](http://twitter.com/search?q=EU+VOU+NO+SHOW+DO+RBD) | N/A |
-| 19 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 20 | [Vera Verão](http://twitter.com/search?q=Vera+Ver%c3%a3o) | N/A |
-| 21 | [VENDO INGRESSO RBD](http://twitter.com/search?q=VENDO+INGRESSO+RBD) | N/A |
-| 22 | [EU CONSEGUI](http://twitter.com/search?q=EU+CONSEGUI) | N/A |
-| 23 | [magali](http://twitter.com/search?q=magali) | N/A |
-| 24 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 25 | [Premium](http://twitter.com/search?q=Premium) | N/A |
-| 26 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 27 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 28 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 29 | [monica](http://twitter.com/search?q=monica) | N/A |
-| 30 | [Águia de Marabá](http://twitter.com/search?q=%c3%81guia+de+Marab%c3%a1) | Águia de Marabá is a Brazilian football team based in the city of Marabá, Pará. The team was founded in 1945 and currently plays in the Campeonato Paraense, the top tier of football in the state of Pará. The team's name translates to "Marabá Eagle" in English. |
-| 31 | [Maneskin](http://twitter.com/search?q=Maneskin) | N/A |
-| 32 | [Dia 12](http://twitter.com/search?q=Dia+12) | N/A |
-| 33 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
-| 34 | [PSDB](http://twitter.com/search?q=PSDB) | N/A |
-| 35 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 36 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 37 | [Vendo 2](http://twitter.com/search?q=Vendo+2) | N/A |
-| 38 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 39 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 40 | [Anderson Torres](http://twitter.com/search?q=Anderson+Torres) | Anderson Torres is a Spanish surname. It is derived from the personal name Anders, which is a form of the name Andrew. The meaning of Anderson Torres in English is "son of Andrew". |
-| 41 | [Bannon](http://twitter.com/search?q=Bannon) | N/A |
-| 42 | [Homofobia](http://twitter.com/search?q=Homofobia) | N/A |
-| 43 | [South Summit](http://twitter.com/search?q=South+Summit) | N/A |
-| 44 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 45 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
-| 46 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
-| 47 | [Parabéns Curitiba](http://twitter.com/search?q=Parab%c3%a9ns+Curitiba) | N/A |
-| 48 | [Leste](http://twitter.com/search?q=Leste) | N/A |
-| 49 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 50 | [McFly](http://twitter.com/search?q=McFly) | N/A |
+| 14 | [Jorge Lafond](http://twitter.com/search?q=Jorge+Lafond) | N/A |
+| 15 | [Ronaldo Giovanelli](http://twitter.com/search?q=Ronaldo+Giovanelli) | N/A |
+| 16 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 17 | [#G4Bandsports](http://twitter.com/search?q=%23G4Bandsports) | N/A |
+| 18 | [Nintendo DS](http://twitter.com/search?q=Nintendo+DS) | N/A |
+| 19 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
+| 20 | [VOID](http://twitter.com/search?q=VOID) | N/A |
+| 21 | [Magali](http://twitter.com/search?q=Magali) | N/A |
+| 22 | [Xbox SX](http://twitter.com/search?q=Xbox+SX) | N/A |
+| 23 | [Alberto Fraga](http://twitter.com/search?q=Alberto+Fraga) | N/A |
+| 24 | [VENDO INGRESSO RBD](http://twitter.com/search?q=VENDO+INGRESSO+RBD) | N/A |
+| 25 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
+| 26 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 27 | [BIEL NO MAIS VOCÊ](http://twitter.com/search?q=BIEL+NO+MAIS+VOC%c3%8a) | N/A |
+| 28 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
+| 29 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 30 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 31 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
+| 32 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 33 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 34 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 35 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 36 | [Sega Saturn](http://twitter.com/search?q=Sega+Saturn) | N/A |
+| 37 | [Nova Iguaçu](http://twitter.com/search?q=Nova+Igua%c3%a7u) | Nova Iguaçu is a city in the state of Rio de Janeiro, Brazil. The name Nova Iguaçu translates to "New Iguaçu" in English, referring to the nearby Iguaçu River. |
+| 38 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 39 | [Águia](http://twitter.com/search?q=%c3%81guia) | N/A |
+| 40 | [8666](http://twitter.com/search?q=8666) | N/A |
+| 41 | [yuta](http://twitter.com/search?q=yuta) | Yuta is a Japanese name that means "abundant" or "bountiful". It can also be used as a surname. |
+| 42 | [sophia valverde](http://twitter.com/search?q=sophia+valverde) | N/A |
+| 43 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 44 | [The Boys](http://twitter.com/search?q=The+Boys) | N/A |
+| 45 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
+| 46 | [Sorteio da Copa](http://twitter.com/search?q=Sorteio+da+Copa) | N/A |
+| 47 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 48 | [Cascão](http://twitter.com/search?q=Casc%c3%a3o) | N/A |
+| 49 | [Vera Verão](http://twitter.com/search?q=Vera+Ver%c3%a3o) | N/A |
+| 50 | [Poatan](http://twitter.com/search?q=Poatan) | N/A |
 
 
 

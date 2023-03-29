@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-29 15:28:23 UTC`
+📆 Last Updated: `2023-03-29 17:19:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
 | 2 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
 | 3 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 4 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 5 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 10 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 11 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 12 | [Hank](http://twitter.com/search?q=Hank) | N/A |
-| 13 | [#VietnamWarVeteransDay](http://twitter.com/search?q=%23VietnamWarVeteransDay) | N/A |
-| 14 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 15 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 16 | [Central Catholic](http://twitter.com/search?q=Central+Catholic) | N/A |
-| 17 | [Xiaoyu](http://twitter.com/search?q=Xiaoyu) | N/A |
-| 18 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
-| 19 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 20 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 21 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 22 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
-| 23 | [GRFP](http://twitter.com/search?q=GRFP) | N/A |
-| 24 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 25 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
-| 26 | [Happy Opening Day Eve](http://twitter.com/search?q=Happy+Opening+Day+Eve) | N/A |
-| 27 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 28 | [Michael Beasley](http://twitter.com/search?q=Michael+Beasley) | N/A |
-| 29 | [French Dispatch](http://twitter.com/search?q=French+Dispatch) | N/A |
-| 30 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 31 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 32 | [George Clooney](http://twitter.com/search?q=George+Clooney) | N/A |
-| 33 | [Pattie](http://twitter.com/search?q=Pattie) | N/A |
-| 34 | [Tee Higgins](http://twitter.com/search?q=Tee+Higgins) | Tee Higgins is a nickname for the American football player Tee Higgins, who plays wide receiver for the Cincinnati Bengals. The name is derived from his given name, Terrell. |
-| 35 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
-| 36 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 37 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
-| 38 | [Posh](http://twitter.com/search?q=Posh) | N/A |
-| 39 | [Ling](http://twitter.com/search?q=Ling) | N/A |
-| 40 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 41 | [South Vietnam](http://twitter.com/search?q=South+Vietnam) | N/A |
-| 42 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
-| 43 | [Kelly Green](http://twitter.com/search?q=Kelly+Green) | N/A |
-| 44 | [Kale](http://twitter.com/search?q=Kale) | N/A |
-| 45 | [$LULU](http://twitter.com/search?q=%24LULU) | N/A |
-| 46 | [Act Blue](http://twitter.com/search?q=Act+Blue) | N/A |
-| 47 | [Trans Day of Vengeance](http://twitter.com/search?q=Trans+Day+of+Vengeance) | N/A |
-| 48 | [Black Panthers](http://twitter.com/search?q=Black+Panthers) | N/A |
-| 49 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 50 | [Florial](http://twitter.com/search?q=Florial) | N/A |
+| 4 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 5 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 6 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 7 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
+| 8 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 9 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
+| 10 | [#atmosdc](http://twitter.com/search?q=%23atmosdc) | N/A |
+| 11 | [#AEWAllAccess](http://twitter.com/search?q=%23AEWAllAccess) | N/A |
+| 12 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 13 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 14 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 15 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 16 | [Melly](http://twitter.com/search?q=Melly) | N/A |
+| 17 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
+| 18 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
+| 19 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
+| 20 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
+| 21 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
+| 22 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 23 | [Size 9](http://twitter.com/search?q=Size+9) | N/A |
+| 24 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
+| 25 | [Adult Swim](http://twitter.com/search?q=Adult+Swim) | Adult Swim is an American programming block of the cable network Cartoon Network that airs nightly from 8:00 p.m. to 6:00 a.m. Eastern and Pacific Time. It is programmed by Williams Street Productions, a subsidiary of Turner, which also developed two other programming blocks—Toonami (which later became a block on Adult Swim in 2012) and Miguzi. The name comes from a phrase used by public swimming pools in the United States to label designated times when children are restricted from using the facilities in favor of adults. |
+| 26 | [Hank](http://twitter.com/search?q=Hank) | N/A |
+| 27 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 28 | [Central Catholic](http://twitter.com/search?q=Central+Catholic) | N/A |
+| 29 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
+| 30 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 31 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 32 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
+| 33 | [Marvel Entertainment](http://twitter.com/search?q=Marvel+Entertainment) | N/A |
+| 34 | [Feige](http://twitter.com/search?q=Feige) | N/A |
+| 35 | [Tails of Iron](http://twitter.com/search?q=Tails+of+Iron) | N/A |
+| 36 | [GRFP](http://twitter.com/search?q=GRFP) | N/A |
+| 37 | [Florial](http://twitter.com/search?q=Florial) | N/A |
+| 38 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 39 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 40 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
+| 41 | [Tay K](http://twitter.com/search?q=Tay+K) | N/A |
+| 42 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
+| 43 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 44 | [Kelly Green](http://twitter.com/search?q=Kelly+Green) | N/A |
+| 45 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
+| 46 | [Xiaoyu](http://twitter.com/search?q=Xiaoyu) | N/A |
+| 47 | [Dollar General](http://twitter.com/search?q=Dollar+General) | N/A |
+| 48 | [Nick Khan](http://twitter.com/search?q=Nick+Khan) | Nick Khan is an American sports agent and entertainment executive. He is the co-head of Creative Artists Agency's (CAA) sports division, and the president of WWE. He is known for representing some of the biggest names in sports, including NFL quarterbacks Tom Brady and Russell Wilson, NBA stars LeBron James and Kevin Durant, and UFC champion Conor McGregor. The phrase "Nick Khan" has come to mean a successful agent or negotiator who can get the best deals for their clients. |
+| 49 | [Michael Beasley](http://twitter.com/search?q=Michael+Beasley) | N/A |
+| 50 | [Moonrise Kingdom](http://twitter.com/search?q=Moonrise+Kingdom) | N/A |
 
 
 

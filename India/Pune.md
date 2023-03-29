@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pune
 
-📆 Last Updated: `2023-03-29 15:28:12 UTC`
+📆 Last Updated: `2023-03-29 17:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 2 | [#Who_Is_AadiRam](http://twitter.com/search?q=%23Who_Is_AadiRam) | N/A |
-| 3 | [Kabir Is God](http://twitter.com/search?q=Kabir+Is+God) | Kabir Is God is a phrase used by followers of the Indian mystic poet and saint Kabir. It is a declaration of faith in the divine nature of Kabir, who is believed to be an incarnation of God. The phrase can also be interpreted as a call to remember and honor the teachings of Kabir, which emphasize the oneness of all creation and the need for love and compassion in our lives. |
-| 4 | [#ShahAtNews18RisingIndia](http://twitter.com/search?q=%23ShahAtNews18RisingIndia) | N/A |
-| 5 | [#ProudMomentForIndia](http://twitter.com/search?q=%23ProudMomentForIndia) | N/A |
-| 6 | [#META2023](http://twitter.com/search?q=%23META2023) | N/A |
-| 7 | [#AdipurushAagamanam](http://twitter.com/search?q=%23AdipurushAagamanam) | N/A |
-| 8 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 9 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
-| 10 | [Ram Navami](http://twitter.com/search?q=Ram+Navami) | N/A |
-| 11 | [SID SHUKLA FOREVER](http://twitter.com/search?q=SID+SHUKLA+FOREVER) | N/A |
-| 12 | [राम कृष्ण](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 13 | [Supreme God](http://twitter.com/search?q=Supreme+God) | N/A |
+| 1 | [वीर सावरकर](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
+| 2 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 3 | [#Who_Is_AadiRam](http://twitter.com/search?q=%23Who_Is_AadiRam) | N/A |
+| 4 | [Kabir Is God](http://twitter.com/search?q=Kabir+Is+God) | Kabir Is God is a phrase used by followers of the Indian mystic poet and saint Kabir. It is a declaration of faith in the divine nature of Kabir, who is believed to be an incarnation of God. The phrase can also be interpreted as a call to remember and honor the teachings of Kabir, which emphasize the oneness of all creation and the need for love and compassion in our lives. |
+| 5 | [#PonniyanSelvan2](http://twitter.com/search?q=%23PonniyanSelvan2) | N/A |
+| 6 | [#मैं_भी_सावरकर](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%88%e0%a4%82_%e0%a4%ad%e0%a5%80_%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
+| 7 | [#ShahAtNews18RisingIndia](http://twitter.com/search?q=%23ShahAtNews18RisingIndia) | N/A |
+| 8 | [#AdipurushAagamanam](http://twitter.com/search?q=%23AdipurushAagamanam) | N/A |
+| 9 | [ज्ञान गंगा](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8+%e0%a4%97%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 10 | [SAY NO TO RTH](http://twitter.com/search?q=SAY+NO+TO+RTH) | N/A |
+| 11 | [Gyan Ganga](http://twitter.com/search?q=Gyan+Ganga) | N/A |
+| 12 | [Brahmins](http://twitter.com/search?q=Brahmins) | N/A |
+| 13 | [WAITING FOR SID AS YODHA](http://twitter.com/search?q=WAITING+FOR+SID+AS+YODHA) | N/A |
 | 14 | [Karnataka](http://twitter.com/search?q=Karnataka) | N/A |
-| 15 | [Justice Joseph](http://twitter.com/search?q=Justice+Joseph) | N/A |
-| 16 | [Satlok Ashram Youtube Channel](http://twitter.com/search?q=Satlok+Ashram+Youtube+Channel) | N/A |
-| 17 | [राम दशरथ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%a6%e0%a4%b6%e0%a4%b0%e0%a4%a5) | N/A |
-| 18 | [समय धरती](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%af+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
-| 19 | [Username](http://twitter.com/search?q=Username) | N/A |
-| 20 | [पूर्ण गुरु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81) | N/A |
-| 21 | [DESHDROHI VIRAT CHOKLI](http://twitter.com/search?q=DESHDROHI+VIRAT+CHOKLI) | N/A |
-| 22 | [SRK KA BAAP KOHLI](http://twitter.com/search?q=SRK+KA+BAAP+KOHLI) | N/A |
-| 23 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
-| 24 | [Periyar](http://twitter.com/search?q=Periyar) | N/A |
-| 25 | [श्री गिरीश बापट](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%bf%e0%a4%b0%e0%a5%80%e0%a4%b6+%e0%a4%ac%e0%a4%be%e0%a4%aa%e0%a4%9f) | N/A |
-| 26 | [KOHLI KA BAAP SRK](http://twitter.com/search?q=KOHLI+KA+BAAP+SRK) | N/A |
-| 27 | [Summit for Democracy](http://twitter.com/search?q=Summit+for+Democracy) | N/A |
-| 28 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
-| 29 | [Karti](http://twitter.com/search?q=Karti) | N/A |
-| 30 | [गुजरात सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 31 | [सम्राट अशोक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95) | N/A |
-| 32 | [Ross](http://twitter.com/search?q=Ross) | N/A |
-| 33 | [भगवान श्री राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 34 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 35 | [Lord Ram](http://twitter.com/search?q=Lord+Ram) | N/A |
-| 36 | [Shri Ram](http://twitter.com/search?q=Shri+Ram) | N/A |
-| 37 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 38 | [SRKIANS KA MOOT KOHLI](http://twitter.com/search?q=SRKIANS+KA+MOOT+KOHLI) | N/A |
-| 39 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 40 | [Rs 2,000](http://twitter.com/search?q=Rs+2%2c000) | N/A |
-| 41 | [कर्नाटक चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 42 | [दिल्ली विधानसभा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 43 | [Namibia](http://twitter.com/search?q=Namibia) | N/A |
-| 44 | [Lion](http://twitter.com/search?q=Lion) | N/A |
-| 45 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 46 | [#OpinionPollOnZee](http://twitter.com/search?q=%23OpinionPollOnZee) | N/A |
-| 47 | [#PS2AudioLaunch](http://twitter.com/search?q=%23PS2AudioLaunch) | N/A |
-| 48 | [#ChandrapurWood4RamMandir](http://twitter.com/search?q=%23ChandrapurWood4RamMandir) | N/A |
-| 49 | [#AskBholaa](http://twitter.com/search?q=%23AskBholaa) | N/A |
-| 50 | [#સાથસહકારસેવા_100દિવસ](http://twitter.com/search?q=%23%e0%aa%b8%e0%aa%be%e0%aa%a5%e0%aa%b8%e0%aa%b9%e0%aa%95%e0%aa%be%e0%aa%b0%e0%aa%b8%e0%ab%87%e0%aa%b5%e0%aa%be_100%e0%aa%a6%e0%aa%bf%e0%aa%b5%e0%aa%b8) | N/A |
+| 15 | [SID SHUKLA FOREVER](http://twitter.com/search?q=SID+SHUKLA+FOREVER) | N/A |
+| 16 | [Justice Joseph](http://twitter.com/search?q=Justice+Joseph) | N/A |
+| 17 | [राम भगवान](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8) | N/A |
+| 18 | [Supreme God](http://twitter.com/search?q=Supreme+God) | N/A |
+| 19 | [राम त्रिभुवन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%ad%e0%a5%81%e0%a4%b5%e0%a4%a8) | N/A |
+| 20 | [Satlok Ashram Youtube Channel](http://twitter.com/search?q=Satlok+Ashram+Youtube+Channel) | N/A |
+| 21 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
+| 22 | [राम दशरथ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%a6%e0%a4%b6%e0%a4%b0%e0%a4%a5) | N/A |
+| 23 | [पूर्ण गुरु](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81) | N/A |
+| 24 | [राम कृष्ण](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
+| 25 | [पत्नी शिवांगी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%a4%e0%a5%8d%e0%a4%a8%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%80) | N/A |
+| 26 | [समय धरती](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%af+%e0%a4%a7%e0%a4%b0%e0%a4%a4%e0%a5%80) | N/A |
+| 27 | [Bhutan](http://twitter.com/search?q=Bhutan) | N/A |
+| 28 | [सम्राट अशोक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95) | N/A |
+| 29 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 30 | [EVMs](http://twitter.com/search?q=EVMs) | N/A |
+| 31 | [Ross](http://twitter.com/search?q=Ross) | N/A |
+| 32 | [फेक न्यूज](http://twitter.com/search?q=%e0%a4%ab%e0%a5%87%e0%a4%95+%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a5%82%e0%a4%9c) | N/A |
+| 33 | [Shri Ram](http://twitter.com/search?q=Shri+Ram) | N/A |
+| 34 | [विधान सभा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 35 | [नेशनल पार्क](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b6%e0%a4%a8%e0%a4%b2+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%95) | N/A |
+| 36 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 37 | [DESHDROHI VIRAT CHOKLI](http://twitter.com/search?q=DESHDROHI+VIRAT+CHOKLI) | N/A |
+| 38 | [भगवान श्री राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 39 | [मादा चीता](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 40 | [#META2023](http://twitter.com/search?q=%23META2023) | N/A |
+| 41 | [#ProudMomentForIndia](http://twitter.com/search?q=%23ProudMomentForIndia) | N/A |
+| 42 | [#AishwaryaRaiBachchan](http://twitter.com/search?q=%23AishwaryaRaiBachchan) | N/A |
+| 43 | [#ManiRatnam](http://twitter.com/search?q=%23ManiRatnam) | N/A |
+| 44 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
+| 45 | [#Trisha](http://twitter.com/search?q=%23Trisha) | N/A |
+| 46 | [#RamNavmi](http://twitter.com/search?q=%23RamNavmi) | N/A |
+| 47 | [#CholasAreBack](http://twitter.com/search?q=%23CholasAreBack) | N/A |
+| 48 | [#पुष्पेंद्र_यादव_को_न्याय_दो](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%81%e0%a4%b7%e0%a5%8d%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0_%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5_%e0%a4%95%e0%a5%8b_%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af_%e0%a4%a6%e0%a5%8b) | N/A |
+| 49 | [#ChiyaanVikram](http://twitter.com/search?q=%23ChiyaanVikram) | N/A |
+| 50 | [#OpinionPollOnZee](http://twitter.com/search?q=%23OpinionPollOnZee) | N/A |
 
 
 
