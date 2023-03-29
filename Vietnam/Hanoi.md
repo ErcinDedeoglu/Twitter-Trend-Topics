@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-29 21:19:11 UTC`
+📆 Last Updated: `2023-03-29 22:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 17 | [hyeongseop](http://twitter.com/search?q=hyeongseop) | N/A |
 | 18 | [Catalyst](http://twitter.com/search?q=Catalyst) | N/A |
 | 19 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
-| 20 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 21 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 22 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 23 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 24 | [hải phòng](http://twitter.com/search?q=h%e1%ba%a3i+ph%c3%b2ng) | N/A |
-| 25 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 26 | [$MYRIA](http://twitter.com/search?q=%24MYRIA) | N/A |
-| 27 | [EXCLUSIVE Alliance Key NFT](http://twitter.com/search?q=EXCLUSIVE+Alliance+Key+NFT) | N/A |
-| 28 | [Alliance Keys NFT Airdrop](http://twitter.com/search?q=Alliance+Keys+NFT+Airdrop) | N/A |
-| 29 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 30 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 31 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 32 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 33 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 34 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
-| 35 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 36 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 37 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 38 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
-| 39 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
-| 40 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
-| 41 | [cần thơ](http://twitter.com/search?q=c%e1%ba%a7n+th%c6%a1) | N/A |
-| 42 | [linh](http://twitter.com/search?q=linh) | N/A |
-| 43 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 44 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 45 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 46 | [Pond](http://twitter.com/search?q=Pond) | N/A |
-| 47 | [Mint](http://twitter.com/search?q=Mint) | N/A |
-| 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 49 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 50 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 20 | [Mlem](http://twitter.com/search?q=Mlem) | N/A |
+| 21 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 22 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 23 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
+| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 25 | [hải phòng](http://twitter.com/search?q=h%e1%ba%a3i+ph%c3%b2ng) | N/A |
+| 26 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 27 | [$MYRIA](http://twitter.com/search?q=%24MYRIA) | N/A |
+| 28 | [EXCLUSIVE Alliance Key NFT](http://twitter.com/search?q=EXCLUSIVE+Alliance+Key+NFT) | N/A |
+| 29 | [Alliance Keys NFT Airdrop](http://twitter.com/search?q=Alliance+Keys+NFT+Airdrop) | N/A |
+| 30 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 31 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
+| 32 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
+| 33 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 34 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 35 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 36 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
+| 37 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 38 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
+| 39 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
+| 40 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
+| 41 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 42 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 43 | [cần thơ](http://twitter.com/search?q=c%e1%ba%a7n+th%c6%a1) | N/A |
+| 44 | [Linh](http://twitter.com/search?q=Linh) | N/A |
+| 45 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 46 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 47 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 48 | [Pond](http://twitter.com/search?q=Pond) | N/A |
+| 49 | [Mint](http://twitter.com/search?q=Mint) | N/A |
+| 50 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 
 
 

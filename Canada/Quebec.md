@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-03-29 21:18:44 UTC`
+📆 Last Updated: `2023-03-29 22:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Canada](</Canada>)
 | 2 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
 | 3 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
 | 4 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 5 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 6 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 5 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 6 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
 | 7 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
 | 8 | [#CanMNT](http://twitter.com/search?q=%23CanMNT) | N/A |
-| 9 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 10 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 11 | [Pawlowski](http://twitter.com/search?q=Pawlowski) | N/A |
+| 9 | [Pawlowski](http://twitter.com/search?q=Pawlowski) | N/A |
+| 10 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 11 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 12 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
 | 13 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
 | 14 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 15 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 15 | [Wet'suwet'en](http://twitter.com/search?q=Wet%27suwet%27en) | N/A |
 | 16 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 17 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 18 | [America](http://twitter.com/search?q=America) | N/A |
-| 19 | [Michael Misa](http://twitter.com/search?q=Michael+Misa) | N/A |
-| 20 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 21 | [Dental](http://twitter.com/search?q=Dental) | N/A |
-| 22 | [Wet'suwet'en](http://twitter.com/search?q=Wet%27suwet%27en) | N/A |
-| 23 | [Akito Hirose](http://twitter.com/search?q=Akito+Hirose) | N/A |
-| 24 | [2024 Memorial Cup](http://twitter.com/search?q=2024+Memorial+Cup) | N/A |
+| 18 | [Michael Misa](http://twitter.com/search?q=Michael+Misa) | N/A |
+| 19 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 20 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 21 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 22 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 23 | [Dental](http://twitter.com/search?q=Dental) | N/A |
+| 24 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
 | 25 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 26 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
-| 27 | [Rob Anderson](http://twitter.com/search?q=Rob+Anderson) | N/A |
-| 28 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 29 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 30 | [Primeau](http://twitter.com/search?q=Primeau) | N/A |
-| 31 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 32 | [louiseville](http://twitter.com/search?q=louiseville) | N/A |
-| 33 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 34 | [Yoshua Bengio](http://twitter.com/search?q=Yoshua+Bengio) | N/A |
-| 35 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 36 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 37 | [Cyle Larin](http://twitter.com/search?q=Cyle+Larin) | N/A |
-| 38 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 39 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 40 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 26 | [Yoshua Bengio](http://twitter.com/search?q=Yoshua+Bengio) | N/A |
+| 27 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 28 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 29 | [Cyle Larin](http://twitter.com/search?q=Cyle+Larin) | N/A |
+| 30 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 31 | [Rob Anderson](http://twitter.com/search?q=Rob+Anderson) | N/A |
+| 32 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 33 | [Hells Angels](http://twitter.com/search?q=Hells+Angels) | N/A |
+| 34 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 35 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 36 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 37 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 38 | [Summer McIntosh](http://twitter.com/search?q=Summer+McIntosh) | N/A |
+| 39 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 40 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
 | 41 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 42 | [Hells Angels](http://twitter.com/search?q=Hells+Angels) | N/A |
-| 43 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 44 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 45 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
-| 46 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 47 | [Janis](http://twitter.com/search?q=Janis) | N/A |
-| 48 | [Summer McIntosh](http://twitter.com/search?q=Summer+McIntosh) | N/A |
+| 42 | [Janis](http://twitter.com/search?q=Janis) | N/A |
+| 43 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
+| 44 | [Notley](http://twitter.com/search?q=Notley) | N/A |
+| 45 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 46 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 47 | [Akito Hirose](http://twitter.com/search?q=Akito+Hirose) | N/A |
+| 48 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
 | 49 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
 
 

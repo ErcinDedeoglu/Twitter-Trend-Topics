@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-29 21:19:03 UTC`
+📆 Last Updated: `2023-03-29 22:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,8 +26,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 9 | [Regional Forum](http://twitter.com/search?q=Regional+Forum) | N/A |
 | 10 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
 | 11 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 12 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
-| 13 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 12 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 13 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
 | 14 | [Orden](http://twitter.com/search?q=Orden) | N/A |
 | 15 | [antti](http://twitter.com/search?q=antti) | N/A |
 | 16 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
@@ -39,9 +39,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 22 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 | 23 | [Bach](http://twitter.com/search?q=Bach) | N/A |
 | 24 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
-| 25 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 26 | [Heimat](http://twitter.com/search?q=Heimat) | N/A |
-| 27 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
+| 25 | [Heimat](http://twitter.com/search?q=Heimat) | N/A |
+| 26 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
+| 27 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
 | 28 | [Nils](http://twitter.com/search?q=Nils) | N/A |
 | 29 | [Arbères](http://twitter.com/search?q=Arb%c3%a8res) | N/A |
 | 30 | [Technik](http://twitter.com/search?q=Technik) | N/A |
@@ -51,18 +51,18 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 34 | [Noël](http://twitter.com/search?q=No%c3%abl) | Noël is a French word meaning "Christmas". It is derived from the Latin phrase "natus est deus" which means "God is born". In English, it is used to refer to the Christmas season and the celebration of the birth of Jesus Christ. |
 | 35 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
 | 36 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 37 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
-| 38 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 39 | [Les 2](http://twitter.com/search?q=Les+2) | N/A |
-| 40 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
-| 41 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 42 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
-| 43 | [Italie](http://twitter.com/search?q=Italie) | N/A |
-| 44 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
-| 45 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 46 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 47 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 37 | [Italie](http://twitter.com/search?q=Italie) | N/A |
+| 38 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
+| 39 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 40 | [Les 2](http://twitter.com/search?q=Les+2) | N/A |
+| 41 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
+| 42 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 43 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 44 | [CBDC](http://twitter.com/search?q=CBDC) | N/A |
+| 45 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
+| 46 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 47 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 48 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
 | 49 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
 | 50 | [Tests](http://twitter.com/search?q=Tests) | N/A |
 

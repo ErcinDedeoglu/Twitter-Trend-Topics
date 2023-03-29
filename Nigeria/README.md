@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-29 21:19:35 UTC`
+📆 Last Updated: `2023-03-29 22:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LagosSwindlers](http://twitter.com/search?q=%23LagosSwindlers) | N/A |
-| 2 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 3 | [#WetinNoGood](http://twitter.com/search?q=%23WetinNoGood) | N/A |
-| 4 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
-| 5 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 6 | [Portable](http://twitter.com/search?q=Portable) | N/A |
-| 7 | [#badsome](http://twitter.com/search?q=%23badsome) | N/A |
-| 8 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
-| 9 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
-| 10 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
-| 11 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 2 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
+| 3 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
+| 4 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 5 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
+| 6 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
+| 7 | [#BADSOME](http://twitter.com/search?q=%23BADSOME) | N/A |
+| 8 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
+| 9 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 10 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 11 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
 | 12 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
-| 13 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
-| 14 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
-| 15 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
-| 16 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 17 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 18 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
-| 19 | [Interim](http://twitter.com/search?q=Interim) | N/A |
-| 20 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
+| 13 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
+| 14 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 15 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
+| 16 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 17 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
+| 18 | [So DSS](http://twitter.com/search?q=So+DSS) | N/A |
+| 19 | [DMW 2.0](http://twitter.com/search?q=DMW+2.0) | N/A |
+| 20 | [New Laptop](http://twitter.com/search?q=New+Laptop) | N/A |
 | 21 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 22 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 23 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
-| 24 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
-| 25 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 26 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
-| 27 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 28 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 29 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 30 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 31 | [The Cavemen](http://twitter.com/search?q=The+Cavemen) | N/A |
-| 32 | [Skepta](http://twitter.com/search?q=Skepta) | N/A |
-| 33 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 34 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 35 | [Logos Olori](http://twitter.com/search?q=Logos+Olori) | N/A |
-| 36 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 37 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 40 | [Morravey](http://twitter.com/search?q=Morravey) | N/A |
-| 41 | [Musa Keys](http://twitter.com/search?q=Musa+Keys) | N/A |
-| 42 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
-| 43 | [Dexta Daps](http://twitter.com/search?q=Dexta+Daps) | N/A |
-| 44 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 45 | [DMW 2.0](http://twitter.com/search?q=DMW+2.0) | N/A |
-| 46 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 47 | [Cashew](http://twitter.com/search?q=Cashew) | N/A |
-| 48 | [I ADVANCE BY GRACE](http://twitter.com/search?q=I+ADVANCE+BY+GRACE) | N/A |
-| 49 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
-| 50 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 22 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
+| 23 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
+| 24 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 25 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 26 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
+| 27 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 28 | [Interim](http://twitter.com/search?q=Interim) | N/A |
+| 29 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
+| 30 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 31 | [Logos Olori](http://twitter.com/search?q=Logos+Olori) | N/A |
+| 32 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 33 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 34 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
+| 35 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 36 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 37 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 40 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
+| 41 | [Cashew](http://twitter.com/search?q=Cashew) | N/A |
+| 42 | [I ADVANCE BY GRACE](http://twitter.com/search?q=I+ADVANCE+BY+GRACE) | N/A |
+| 43 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 44 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
+| 45 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
+| 46 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 47 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 48 | [Foluke Daramola](http://twitter.com/search?q=Foluke+Daramola) | N/A |
+| 49 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
+| 50 | [Skepta](http://twitter.com/search?q=Skepta) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-29 21:18:54 UTC`
+📆 Last Updated: `2023-03-29 22:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
 | 2 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 3 | [Leste](http://twitter.com/search?q=Leste) | N/A |
-| 4 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 5 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 6 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 7 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 8 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 9 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 10 | [TAINÁ NA TWITCH](http://twitter.com/search?q=TAIN%c3%81+NA+TWITCH) | N/A |
-| 11 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 12 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 13 | [Michel Araújo](http://twitter.com/search?q=Michel+Ara%c3%bajo) | Michel Araújo is a Portuguese name. It is derived from the Hebrew name Michael, which means "who is like God". |
-| 14 | [Contarato](http://twitter.com/search?q=Contarato) | N/A |
-| 15 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 16 | [#mcflyonfallon](http://twitter.com/search?q=%23mcflyonfallon) | N/A |
-| 17 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 18 | [Cara de Barro](http://twitter.com/search?q=Cara+de+Barro) | N/A |
-| 19 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 20 | [Resident](http://twitter.com/search?q=Resident) | N/A |
-| 21 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 22 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 23 | [Gabriel Neves](http://twitter.com/search?q=Gabriel+Neves) | N/A |
-| 24 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 25 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 26 | [Grêmio x ABC](http://twitter.com/search?q=Gr%c3%aamio+x+ABC) | N/A |
+| 3 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 4 | [Mônica](http://twitter.com/search?q=M%c3%b4nica) | N/A |
+| 5 | [sophia valverde](http://twitter.com/search?q=sophia+valverde) | N/A |
+| 6 | [TAINÁ NA TWITCH](http://twitter.com/search?q=TAIN%c3%81+NA+TWITCH) | N/A |
+| 7 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 8 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 9 | [Resident](http://twitter.com/search?q=Resident) | N/A |
+| 10 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 11 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 12 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 13 | [#mcflyonfallon](http://twitter.com/search?q=%23mcflyonfallon) | N/A |
+| 14 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 15 | [Michel Araújo](http://twitter.com/search?q=Michel+Ara%c3%bajo) | Michel Araújo is a Portuguese name. It is derived from the Hebrew name Michael, which means "who is like God". |
+| 16 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 17 | [#ADona077](http://twitter.com/search?q=%23ADona077) | N/A |
+| 18 | [Contarato](http://twitter.com/search?q=Contarato) | N/A |
+| 19 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 20 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 21 | [Gabriel Neves](http://twitter.com/search?q=Gabriel+Neves) | N/A |
+| 22 | [Cara de Barro](http://twitter.com/search?q=Cara+de+Barro) | N/A |
+| 23 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 24 | [MENA](http://twitter.com/search?q=MENA) | N/A |
+| 25 | [Ana Thais](http://twitter.com/search?q=Ana+Thais) | N/A |
+| 26 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
 | 27 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
 | 28 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 29 | [REGULA BIG TECHS](http://twitter.com/search?q=REGULA+BIG+TECHS) | N/A |
-| 30 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
-| 31 | [Doce](http://twitter.com/search?q=Doce) | N/A |
-| 32 | [Ana Thais](http://twitter.com/search?q=Ana+Thais) | N/A |
-| 33 | [Fearless Tv](http://twitter.com/search?q=Fearless+Tv) | N/A |
-| 34 | [Red Tv](http://twitter.com/search?q=Red+Tv) | N/A |
-| 35 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 36 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
-| 37 | [monica](http://twitter.com/search?q=monica) | N/A |
-| 38 | [Nintendo DS](http://twitter.com/search?q=Nintendo+DS) | N/A |
-| 39 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 40 | [MENA](http://twitter.com/search?q=MENA) | N/A |
-| 41 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
-| 42 | [Sega Saturn](http://twitter.com/search?q=Sega+Saturn) | N/A |
-| 43 | [#AShoulderToCryOnEP6](http://twitter.com/search?q=%23AShoulderToCryOnEP6) | N/A |
-| 44 | [Gameboy Advance](http://twitter.com/search?q=Gameboy+Advance) | N/A |
-| 45 | [Lover](http://twitter.com/search?q=Lover) | N/A |
-| 46 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
-| 47 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 48 | [The Boys](http://twitter.com/search?q=The+Boys) | N/A |
-| 49 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 50 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 29 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 30 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 31 | [EXPULSO](http://twitter.com/search?q=EXPULSO) | N/A |
+| 32 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
+| 33 | [REGULA BIG TECHS](http://twitter.com/search?q=REGULA+BIG+TECHS) | N/A |
+| 34 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
+| 35 | [Nintendo 3DS](http://twitter.com/search?q=Nintendo+3DS) | N/A |
+| 36 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 37 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 38 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
+| 39 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
+| 40 | [Red Tv](http://twitter.com/search?q=Red+Tv) | N/A |
+| 41 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 42 | [Fearless Tv](http://twitter.com/search?q=Fearless+Tv) | N/A |
+| 43 | [Doce](http://twitter.com/search?q=Doce) | N/A |
+| 44 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 45 | [Gameboy Advance](http://twitter.com/search?q=Gameboy+Advance) | N/A |
+| 46 | [Sega Saturn](http://twitter.com/search?q=Sega+Saturn) | N/A |
+| 47 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 48 | [Xbox SX](http://twitter.com/search?q=Xbox+SX) | N/A |
+| 49 | [#AShoulderToCryOnEP6](http://twitter.com/search?q=%23AShoulderToCryOnEP6) | N/A |
+| 50 | [Bia Jordão](http://twitter.com/search?q=Bia+Jord%c3%a3o) | N/A |
 
 
 

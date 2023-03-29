@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-29 21:19:12 UTC`
+📆 Last Updated: `2023-03-29 22:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,26 +45,26 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 28 | [EXCLUSIVE Alliance Key NFT](http://twitter.com/search?q=EXCLUSIVE+Alliance+Key+NFT) | N/A |
 | 29 | [Alliance Keys NFT Airdrop](http://twitter.com/search?q=Alliance+Keys+NFT+Airdrop) | N/A |
 | 30 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 31 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 32 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 33 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 34 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 35 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
-| 36 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 37 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 38 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 31 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
+| 32 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
+| 33 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 34 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 35 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 36 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
+| 37 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 38 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
 | 39 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
 | 40 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
 | 41 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
-| 42 | [cần thơ](http://twitter.com/search?q=c%e1%ba%a7n+th%c6%a1) | N/A |
-| 43 | [linh](http://twitter.com/search?q=linh) | N/A |
-| 44 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 45 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 46 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 47 | [Pond](http://twitter.com/search?q=Pond) | N/A |
-| 48 | [Mint](http://twitter.com/search?q=Mint) | N/A |
-| 49 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 50 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
+| 42 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 43 | [cần thơ](http://twitter.com/search?q=c%e1%ba%a7n+th%c6%a1) | N/A |
+| 44 | [linh](http://twitter.com/search?q=linh) | N/A |
+| 45 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 46 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 47 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 48 | [Pond](http://twitter.com/search?q=Pond) | N/A |
+| 49 | [Mint](http://twitter.com/search?q=Mint) | N/A |
+| 50 | [USDT](http://twitter.com/search?q=USDT) | N/A |
 
 
 

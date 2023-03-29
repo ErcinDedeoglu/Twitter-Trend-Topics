@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puerto Rico
 
-📆 Last Updated: `2023-03-29 21:19:37 UTC`
+📆 Last Updated: `2023-03-29 22:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Puerto Rico
 | 1 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
 | 2 | [Friends](http://twitter.com/search?q=Friends) | N/A |
 | 3 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 4 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
-| 5 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 6 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 7 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
-| 8 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
-| 9 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 10 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
-| 11 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 12 | [#XboxMLBSweepstakes](http://twitter.com/search?q=%23XboxMLBSweepstakes) | N/A |
+| 4 | [#XboxMLBSweepstakes](http://twitter.com/search?q=%23XboxMLBSweepstakes) | N/A |
+| 5 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 6 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
+| 7 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
+| 8 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
+| 9 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 10 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
+| 11 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
+| 12 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
 | 13 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 14 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 15 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 16 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 17 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
-| 18 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 19 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
-| 20 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
-| 21 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 22 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
-| 23 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 24 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 25 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 26 | [Mike Flanagan](http://twitter.com/search?q=Mike+Flanagan) | N/A |
-| 27 | [Epiphany](http://twitter.com/search?q=Epiphany) | N/A |
-| 28 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
-| 29 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 30 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 31 | [Matt Williams](http://twitter.com/search?q=Matt+Williams) | N/A |
-| 32 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 33 | [SweetDog](http://twitter.com/search?q=SweetDog) | N/A |
-| 34 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
-| 35 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
-| 36 | [Melly](http://twitter.com/search?q=Melly) | N/A |
-| 37 | [The Batman 2](http://twitter.com/search?q=The+Batman+2) | N/A |
-| 38 | [Dollar General](http://twitter.com/search?q=Dollar+General) | N/A |
-| 39 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
-| 40 | [Always Sunny](http://twitter.com/search?q=Always+Sunny) | N/A |
-| 41 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
-| 42 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 43 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 44 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 45 | [Willson Contreras](http://twitter.com/search?q=Willson+Contreras) | N/A |
-| 46 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
-| 47 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 14 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 15 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 16 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 17 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
+| 18 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 19 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 20 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 21 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
+| 22 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
+| 23 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
+| 24 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
+| 25 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
+| 26 | [Adam Fisher](http://twitter.com/search?q=Adam+Fisher) | N/A |
+| 27 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 28 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 29 | [The Batman 2](http://twitter.com/search?q=The+Batman+2) | N/A |
+| 30 | [Billy Sullivan](http://twitter.com/search?q=Billy+Sullivan) | N/A |
+| 31 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
+| 32 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 33 | [Basil Karlo](http://twitter.com/search?q=Basil+Karlo) | N/A |
+| 34 | [SweetDog](http://twitter.com/search?q=SweetDog) | N/A |
+| 35 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 36 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
+| 37 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 38 | [Matt Williams](http://twitter.com/search?q=Matt+Williams) | N/A |
+| 39 | [Epiphany](http://twitter.com/search?q=Epiphany) | N/A |
+| 40 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 41 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 42 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 43 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 44 | [Mike Flanagan](http://twitter.com/search?q=Mike+Flanagan) | N/A |
+| 45 | [Arte Moreno](http://twitter.com/search?q=Arte+Moreno) | Arte Moreno is the name of the current owner of the Los Angeles Angels baseball team. In English, it means "Art More". |
+| 46 | [Always Sunny](http://twitter.com/search?q=Always+Sunny) | N/A |
+| 47 | [Yankee Stadium](http://twitter.com/search?q=Yankee+Stadium) | N/A |
 | 48 | [VPNs](http://twitter.com/search?q=VPNs) | N/A |
-| 49 | [Mike Rhoades](http://twitter.com/search?q=Mike+Rhoades) | N/A |
-| 50 | [Patriot Act](http://twitter.com/search?q=Patriot+Act) | N/A |
+| 49 | [Dollar General](http://twitter.com/search?q=Dollar+General) | N/A |
+| 50 | [Melly](http://twitter.com/search?q=Melly) | N/A |
 
 
 
