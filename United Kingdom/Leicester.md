@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-03-29 18:24:02 UTC`
+📆 Last Updated: `2023-03-29 19:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
-| 2 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 3 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
-| 4 | [#Easter2023](http://twitter.com/search?q=%23Easter2023) | N/A |
-| 5 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
-| 6 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 7 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 8 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 9 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 10 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
-| 11 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 12 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 13 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 14 | [#TVShowsInFilmOrSong](http://twitter.com/search?q=%23TVShowsInFilmOrSong) | N/A |
-| 15 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
-| 16 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
-| 17 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
-| 18 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 19 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
-| 20 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 21 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
-| 22 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 23 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
-| 24 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 25 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
-| 26 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 27 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 28 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 29 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 30 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
-| 31 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 32 | [Yorkshire Dales](http://twitter.com/search?q=Yorkshire+Dales) | N/A |
-| 33 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
-| 34 | [Transport](http://twitter.com/search?q=Transport) | N/A |
-| 35 | [Claude](http://twitter.com/search?q=Claude) | N/A |
-| 36 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 37 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
-| 38 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 39 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 40 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 41 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 42 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 43 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 44 | [#WorldPianoDay](http://twitter.com/search?q=%23WorldPianoDay) | N/A |
-| 45 | [#bbcpm](http://twitter.com/search?q=%23bbcpm) | N/A |
-| 46 | [#PaulOGradyRIP](http://twitter.com/search?q=%23PaulOGradyRIP) | N/A |
-| 47 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
-| 48 | [#ClassicFootballShirts](http://twitter.com/search?q=%23ClassicFootballShirts) | N/A |
+| 1 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 2 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 3 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 4 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 5 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 6 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
+| 7 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 8 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
+| 9 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 10 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 11 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 12 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
+| 13 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
+| 14 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 15 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
+| 16 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
+| 17 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 18 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
+| 19 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 20 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 21 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 22 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 23 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 24 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 25 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
+| 26 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
+| 27 | [Congrats Harry](http://twitter.com/search?q=Congrats+Harry) | N/A |
+| 28 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 29 | [Yakuza](http://twitter.com/search?q=Yakuza) | N/A |
+| 30 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 31 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 32 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
+| 33 | [Congratulations Harry](http://twitter.com/search?q=Congratulations+Harry) | N/A |
+| 34 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 35 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 36 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 37 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 38 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
+| 39 | [Yorkshire Dales](http://twitter.com/search?q=Yorkshire+Dales) | N/A |
+| 40 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 41 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
+| 42 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 43 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 44 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 45 | [Easter Egg](http://twitter.com/search?q=Easter+Egg) | N/A |
+| 46 | [Transport](http://twitter.com/search?q=Transport) | N/A |
+| 47 | [Claude](http://twitter.com/search?q=Claude) | N/A |
+| 48 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
+| 49 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
 
 
 

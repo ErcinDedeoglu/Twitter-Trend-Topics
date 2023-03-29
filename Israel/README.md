@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-03-29 18:24:50 UTC`
+📆 Last Updated: `2023-03-29 19:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Israel
 | 2 | [של ביידן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
 | 3 | [עם ארה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%a8%d7%94) | N/A |
 | 4 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
-| 5 | [פנחס עידן](http://twitter.com/search?q=%d7%a4%d7%a0%d7%97%d7%a1+%d7%a2%d7%99%d7%93%d7%9f) | N/A |
-| 6 | [של בן גביר](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
+| 5 | [דן אילוז](http://twitter.com/search?q=%d7%93%d7%9f+%d7%90%d7%99%d7%9c%d7%95%d7%96) | N/A |
+| 6 | [פנחס עידן](http://twitter.com/search?q=%d7%a4%d7%a0%d7%97%d7%a1+%d7%a2%d7%99%d7%93%d7%9f) | N/A |
 | 7 | [ו ביידן](http://twitter.com/search?q=%d7%95+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
-| 8 | [יוסי אלי](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%90%d7%9c%d7%99) | N/A |
-| 9 | [של לה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%94) | N/A |
-| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 11 | [אופיר אקוניס](http://twitter.com/search?q=%d7%90%d7%95%d7%a4%d7%99%d7%a8+%d7%90%d7%a7%d7%95%d7%a0%d7%99%d7%a1) | N/A |
-| 12 | [דן אילוז](http://twitter.com/search?q=%d7%93%d7%9f+%d7%90%d7%99%d7%9c%d7%95%d7%96) | N/A |
-| 13 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
-| 14 | [מאיר דגן](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%93%d7%92%d7%9f) | N/A |
+| 8 | [של בן גביר](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%9f+%d7%92%d7%91%d7%99%d7%a8) | N/A |
+| 9 | [אופיר אקוניס](http://twitter.com/search?q=%d7%90%d7%95%d7%a4%d7%99%d7%a8+%d7%90%d7%a7%d7%95%d7%a0%d7%99%d7%a1) | N/A |
+| 10 | [של לה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%94) | N/A |
+| 11 | [יוסי אלי](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%90%d7%9c%d7%99) | N/A |
+| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 13 | [דני צבר](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%a6%d7%91%d7%a8) | N/A |
+| 14 | [בלי ארה](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%90%d7%a8%d7%94) | N/A |
 | 15 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 16 | [בלי ארה](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%90%d7%a8%d7%94) | N/A |
-| 17 | [דני צבר](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%a6%d7%91%d7%a8) | N/A |
+| 16 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
+| 17 | [משמר לאומי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%9e%d7%a8+%d7%9c%d7%90%d7%95%d7%9e%d7%99) | N/A |
 | 18 | [טליה איינהורן](http://twitter.com/search?q=%d7%98%d7%9c%d7%99%d7%94+%d7%90%d7%99%d7%99%d7%a0%d7%94%d7%95%d7%a8%d7%9f) | N/A |
-| 19 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
-| 20 | [אורי משגב](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%99+%d7%9e%d7%a9%d7%92%d7%91) | N/A |
-| 21 | [משמר לאומי](http://twitter.com/search?q=%d7%9e%d7%a9%d7%9e%d7%a8+%d7%9c%d7%90%d7%95%d7%9e%d7%99) | N/A |
-| 22 | [של אובמה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%95%d7%91%d7%9e%d7%94) | N/A |
-| 23 | [עם ביידן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
-| 24 | [שולחן הכנסת](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%97%d7%9f+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 25 | [ירון אברהם](http://twitter.com/search?q=%d7%99%d7%a8%d7%95%d7%9f+%d7%90%d7%91%d7%a8%d7%94%d7%9d) | N/A |
-| 26 | [רפואה שלמה](http://twitter.com/search?q=%d7%a8%d7%a4%d7%95%d7%90%d7%94+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
-| 27 | [עם האמריקאים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99%d7%9d) | N/A |
-| 28 | [פה תקיפה](http://twitter.com/search?q=%d7%a4%d7%94+%d7%aa%d7%a7%d7%99%d7%a4%d7%94) | N/A |
+| 19 | [של אובמה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%95%d7%91%d7%9e%d7%94) | N/A |
+| 20 | [ואל תחת](http://twitter.com/search?q=%d7%95%d7%90%d7%9c+%d7%aa%d7%97%d7%aa) | N/A |
+| 21 | [ירון אברהם](http://twitter.com/search?q=%d7%99%d7%a8%d7%95%d7%9f+%d7%90%d7%91%d7%a8%d7%94%d7%9d) | N/A |
+| 22 | [שולחן הכנסת](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%97%d7%9f+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 23 | [רפואה שלמה](http://twitter.com/search?q=%d7%a8%d7%a4%d7%95%d7%90%d7%94+%d7%a9%d7%9c%d7%9e%d7%94) | N/A |
+| 24 | [עם ביידן](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
+| 25 | [עם האמריקאים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%90%d7%99%d7%9d) | N/A |
+| 26 | [פה תקיפה](http://twitter.com/search?q=%d7%a4%d7%94+%d7%aa%d7%a7%d7%99%d7%a4%d7%94) | N/A |
+| 27 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
+| 28 | [אורי משגב](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%99+%d7%9e%d7%a9%d7%92%d7%91) | N/A |
 | 29 | [מול ארה](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%90%d7%a8%d7%94) | N/A |
-| 30 | [ביידן אמר](http://twitter.com/search?q=%d7%91%d7%99%d7%99%d7%93%d7%9f+%d7%90%d7%9e%d7%a8) | N/A |
-| 31 | [בין ישראל לארה](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%9c%d7%90%d7%a8%d7%94) | N/A |
-| 32 | [עם חמץ](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%9e%d7%a5) | N/A |
-| 33 | [עם אמריקה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%94) | N/A |
-| 34 | [ירד מסדר היום](http://twitter.com/search?q=%d7%99%d7%a8%d7%93+%d7%9e%d7%a1%d7%93%d7%a8+%d7%94%d7%99%d7%95%d7%9d) | N/A |
-| 35 | [ואל תחת](http://twitter.com/search?q=%d7%95%d7%90%d7%9c+%d7%aa%d7%97%d7%aa) | N/A |
-| 36 | [כיף כף](http://twitter.com/search?q=%d7%9b%d7%99%d7%a3+%d7%9b%d7%a3) | N/A |
-| 37 | [דברי ביידן](http://twitter.com/search?q=%d7%93%d7%91%d7%a8%d7%99+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
-| 38 | [ישראל היא מדינה](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%94%d7%99%d7%90+%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 39 | [ישראל מדינה](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 40 | [רמי בן יהודה](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%91%d7%9f+%d7%99%d7%94%d7%95%d7%93%d7%94) | N/A |
-| 41 | [כי ביידן](http://twitter.com/search?q=%d7%9b%d7%99+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
-| 42 | [עוד כוכב](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%9b%d7%95%d7%9b%d7%91) | N/A |
-| 43 | [מיכאל שמש](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%90%d7%9c+%d7%a9%d7%9e%d7%a9) | N/A |
-| 44 | [ב היא](http://twitter.com/search?q=%d7%91+%d7%94%d7%99%d7%90) | N/A |
-| 45 | [האולם ריק](http://twitter.com/search?q=%d7%94%d7%90%d7%95%d7%9c%d7%9d+%d7%a8%d7%99%d7%a7) | N/A |
-| 46 | [פי רצון](http://twitter.com/search?q=%d7%a4%d7%99+%d7%a8%d7%a6%d7%95%d7%9f) | N/A |
-| 47 | [אביב גפן](http://twitter.com/search?q=%d7%90%d7%91%d7%99%d7%91+%d7%92%d7%a4%d7%9f) | N/A |
-| 48 | [כ ניסים](http://twitter.com/search?q=%d7%9b+%d7%a0%d7%99%d7%a1%d7%99%d7%9d) | N/A |
-| 49 | [Ofek 13](http://twitter.com/search?q=Ofek+13) | N/A |
-| 50 | [נתניהו בקרוב](http://twitter.com/search?q=%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95+%d7%91%d7%a7%d7%a8%d7%95%d7%91) | N/A |
+| 30 | [עם חמץ](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%9e%d7%a5) | N/A |
+| 31 | [מיכאל שמש](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%90%d7%9c+%d7%a9%d7%9e%d7%a9) | N/A |
+| 32 | [בין ישראל לארה](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%9c%d7%90%d7%a8%d7%94) | N/A |
+| 33 | [ביידן אמר](http://twitter.com/search?q=%d7%91%d7%99%d7%99%d7%93%d7%9f+%d7%90%d7%9e%d7%a8) | N/A |
+| 34 | [עם אמריקה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%9e%d7%a8%d7%99%d7%a7%d7%94) | N/A |
+| 35 | [ירד מסדר היום](http://twitter.com/search?q=%d7%99%d7%a8%d7%93+%d7%9e%d7%a1%d7%93%d7%a8+%d7%94%d7%99%d7%95%d7%9d) | N/A |
+| 36 | [ישראל היא מדינה](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%94%d7%99%d7%90+%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 37 | [ינון מגל](http://twitter.com/search?q=%d7%99%d7%a0%d7%95%d7%9f+%d7%9e%d7%92%d7%9c) | N/A |
+| 38 | [דברי ביידן](http://twitter.com/search?q=%d7%93%d7%91%d7%a8%d7%99+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
+| 39 | [רמי בן יהודה](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%91%d7%9f+%d7%99%d7%94%d7%95%d7%93%d7%94) | N/A |
+| 40 | [ישראל מדינה](http://twitter.com/search?q=%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 41 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 42 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 43 | [ב היא](http://twitter.com/search?q=%d7%91+%d7%94%d7%99%d7%90) | N/A |
+| 44 | [עוד כוכב](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%9b%d7%95%d7%9b%d7%91) | N/A |
+| 45 | [כי ביידן](http://twitter.com/search?q=%d7%9b%d7%99+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
+| 46 | [מאיר דגן](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%93%d7%92%d7%9f) | N/A |
+| 47 | [כיף כף](http://twitter.com/search?q=%d7%9b%d7%99%d7%a3+%d7%9b%d7%a3) | N/A |
+| 48 | [#לא_כשיר](http://twitter.com/search?q=%23%d7%9c%d7%90_%d7%9b%d7%a9%d7%99%d7%a8) | N/A |
+| 49 | [האולם ריק](http://twitter.com/search?q=%d7%94%d7%90%d7%95%d7%9c%d7%9d+%d7%a8%d7%99%d7%a7) | N/A |
+| 50 | [ערד ניר](http://twitter.com/search?q=%d7%a2%d7%a8%d7%93+%d7%a0%d7%99%d7%a8) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-03-29 18:24:28 UTC`
+📆 Last Updated: `2023-03-29 19:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Agbadovolution](http://twitter.com/search?q=%23Agbadovolution) | N/A |
-| 2 | [#ThePENGProject](http://twitter.com/search?q=%23ThePENGProject) | N/A |
-| 3 | [#SPARK10Series](http://twitter.com/search?q=%23SPARK10Series) | N/A |
-| 4 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 5 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
-| 6 | [#SamsungGalaxyS23](http://twitter.com/search?q=%23SamsungGalaxyS23) | N/A |
-| 7 | [Portable](http://twitter.com/search?q=Portable) | N/A |
-| 8 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 9 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
-| 10 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
-| 11 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
-| 12 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
-| 13 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
-| 14 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 15 | [Interim](http://twitter.com/search?q=Interim) | N/A |
-| 16 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
-| 17 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 18 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 21 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 22 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
-| 23 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
-| 24 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
-| 25 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 26 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 27 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 28 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 29 | [Cashew](http://twitter.com/search?q=Cashew) | N/A |
-| 30 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
-| 31 | [I ADVANCE BY GRACE](http://twitter.com/search?q=I+ADVANCE+BY+GRACE) | N/A |
-| 32 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
-| 33 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 34 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 35 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 36 | [Terry G](http://twitter.com/search?q=Terry+G) | N/A |
-| 37 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 38 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
-| 39 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
-| 40 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 41 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 42 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
-| 43 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 44 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
-| 45 | [Arrested](http://twitter.com/search?q=Arrested) | N/A |
-| 46 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
-| 47 | [Elele](http://twitter.com/search?q=Elele) | N/A |
-| 48 | [Na WhatsApp](http://twitter.com/search?q=Na+WhatsApp) | N/A |
-| 49 | [Premier League Hall of Fame](http://twitter.com/search?q=Premier+League+Hall+of+Fame) | N/A |
+| 1 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
+| 2 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 3 | [#Agbadovolution](http://twitter.com/search?q=%23Agbadovolution) | N/A |
+| 4 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
+| 5 | [#ThePENGProject](http://twitter.com/search?q=%23ThePENGProject) | N/A |
+| 6 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 7 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
+| 8 | [The Cavemen](http://twitter.com/search?q=The+Cavemen) | N/A |
+| 9 | [#SaveEKSU](http://twitter.com/search?q=%23SaveEKSU) | N/A |
+| 10 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 11 | [#SamsungGalaxyS23](http://twitter.com/search?q=%23SamsungGalaxyS23) | N/A |
+| 12 | [Interim](http://twitter.com/search?q=Interim) | N/A |
+| 13 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 14 | [Skepta](http://twitter.com/search?q=Skepta) | N/A |
+| 15 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 16 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
+| 17 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 18 | [Fave](http://twitter.com/search?q=Fave) | N/A |
+| 19 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 20 | [Arrested](http://twitter.com/search?q=Arrested) | N/A |
+| 21 | [Foluke Daramola](http://twitter.com/search?q=Foluke+Daramola) | N/A |
+| 22 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
+| 23 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 24 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
+| 25 | [Gawuna](http://twitter.com/search?q=Gawuna) | N/A |
+| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 27 | [Seyi Tinubu](http://twitter.com/search?q=Seyi+Tinubu) | N/A |
+| 28 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
+| 29 | [Airtime](http://twitter.com/search?q=Airtime) | N/A |
+| 30 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
+| 31 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
+| 32 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
+| 33 | [Certificate of Return](http://twitter.com/search?q=Certificate+of+Return) | N/A |
+| 34 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
+| 35 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 36 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
+| 37 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 38 | [Imo State](http://twitter.com/search?q=Imo+State) | N/A |
+| 39 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 40 | [Agberos](http://twitter.com/search?q=Agberos) | N/A |
+| 41 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 42 | [Jagaban](http://twitter.com/search?q=Jagaban) | N/A |
+| 43 | [Happy 71st](http://twitter.com/search?q=Happy+71st) | N/A |
+| 44 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
+| 45 | [Federal Republic of Nigeria](http://twitter.com/search?q=Federal+Republic+of+Nigeria) | N/A |
+| 46 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 47 | [Emeka Ihedioha](http://twitter.com/search?q=Emeka+Ihedioha) | N/A |
+| 48 | [Big Wiz](http://twitter.com/search?q=Big+Wiz) | Big Wiz is a slang term used to refer to someone who is very knowledgeable or wise. It can also be used to describe someone who is highly respected or influential. |
+| 49 | [Daniel Regha](http://twitter.com/search?q=Daniel+Regha) | N/A |
 
 
 

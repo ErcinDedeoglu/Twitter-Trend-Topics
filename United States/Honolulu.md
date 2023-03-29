@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-03-29 18:24:41 UTC`
+📆 Last Updated: `2023-03-29 19:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
 | 3 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 4 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
-| 5 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
+| 5 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
 | 6 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
 | 7 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 8 | [#FreeCatturd](http://twitter.com/search?q=%23FreeCatturd) | N/A |
-| 9 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 10 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
-| 11 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 12 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
-| 13 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 14 | [Melly](http://twitter.com/search?q=Melly) | N/A |
-| 15 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
-| 16 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 17 | [Mr. Terrific](http://twitter.com/search?q=Mr.+Terrific) | N/A |
-| 18 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
-| 19 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 20 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
-| 21 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 22 | [Marvel Entertainment](http://twitter.com/search?q=Marvel+Entertainment) | N/A |
-| 23 | [Adult Swim](http://twitter.com/search?q=Adult+Swim) | Adult Swim is an American programming block of the cable network Cartoon Network that airs nightly from 8:00 p.m. to 6:00 a.m. Eastern and Pacific Time. It is programmed by Williams Street Productions, a subsidiary of Turner, which also developed two other programming blocks—Toonami (which later became a block on Adult Swim in 2012) and Miguzi. The name comes from a phrase used by public swimming pools in the United States to label designated times when children are restricted from using the facilities in favor of adults. |
-| 24 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
-| 25 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 26 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
-| 27 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
-| 28 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 29 | [Size 9.5](http://twitter.com/search?q=Size+9.5) | N/A |
-| 30 | [MELANIE MARTINEZ VOID](http://twitter.com/search?q=MELANIE+MARTINEZ+VOID) | N/A |
-| 31 | [Zeds Dead](http://twitter.com/search?q=Zeds+Dead) | N/A |
-| 32 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
-| 33 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
-| 34 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
-| 35 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 36 | [Liquid Stranger](http://twitter.com/search?q=Liquid+Stranger) | N/A |
-| 37 | [Feige](http://twitter.com/search?q=Feige) | N/A |
-| 38 | [Tay K](http://twitter.com/search?q=Tay+K) | N/A |
-| 39 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 40 | [GRFP](http://twitter.com/search?q=GRFP) | N/A |
-| 41 | [Hank](http://twitter.com/search?q=Hank) | N/A |
-| 42 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
-| 43 | [Tails of Iron](http://twitter.com/search?q=Tails+of+Iron) | N/A |
-| 44 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 45 | [John Summit](http://twitter.com/search?q=John+Summit) | N/A |
-| 46 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
-| 47 | [Central Catholic](http://twitter.com/search?q=Central+Catholic) | N/A |
-| 48 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
+| 8 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 9 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
+| 10 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 11 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
+| 12 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 13 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
+| 14 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 15 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 16 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
+| 17 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 18 | [Epiphany](http://twitter.com/search?q=Epiphany) | N/A |
+| 19 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 20 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 21 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 22 | [Melly](http://twitter.com/search?q=Melly) | N/A |
+| 23 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 24 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 25 | [Adult Swim](http://twitter.com/search?q=Adult+Swim) | Adult Swim is an American programming block of the cable network Cartoon Network that airs nightly from 8:00 p.m. to 6:00 a.m. Eastern and Pacific Time. It is programmed by Williams Street Productions, a subsidiary of Turner, which also developed two other programming blocks—Toonami (which later became a block on Adult Swim in 2012) and Miguzi. The name comes from a phrase used by public swimming pools in the United States to label designated times when children are restricted from using the facilities in favor of adults. |
+| 26 | [Vietnam War](http://twitter.com/search?q=Vietnam+War) | N/A |
+| 27 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
+| 28 | [Bill Simmons](http://twitter.com/search?q=Bill+Simmons) | N/A |
+| 29 | [Marvel Entertainment](http://twitter.com/search?q=Marvel+Entertainment) | N/A |
+| 30 | [Mr. Terrific](http://twitter.com/search?q=Mr.+Terrific) | N/A |
+| 31 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 32 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
+| 33 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
+| 34 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
+| 35 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
+| 36 | [MELANIE MARTINEZ VOID](http://twitter.com/search?q=MELANIE+MARTINEZ+VOID) | N/A |
+| 37 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 38 | [Manhattan Trump](http://twitter.com/search?q=Manhattan+Trump) | N/A |
+| 39 | [Florio](http://twitter.com/search?q=Florio) | N/A |
+| 40 | [Liquid Stranger](http://twitter.com/search?q=Liquid+Stranger) | N/A |
+| 41 | [Size 10.5](http://twitter.com/search?q=Size+10.5) | N/A |
+| 42 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
+| 43 | [Zeds Dead](http://twitter.com/search?q=Zeds+Dead) | N/A |
+| 44 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
+| 45 | [The Terrifics](http://twitter.com/search?q=The+Terrifics) | N/A |
+| 46 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
+| 47 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 48 | [Tay K](http://twitter.com/search?q=Tay+K) | N/A |
+| 49 | [Size 9.5](http://twitter.com/search?q=Size+9.5) | N/A |
 
 
 

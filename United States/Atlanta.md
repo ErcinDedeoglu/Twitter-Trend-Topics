@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-29 18:24:39 UTC`
+📆 Last Updated: `2023-03-29 19:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 1 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
 | 2 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
 | 3 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
 | 4 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
 | 5 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
 | 6 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 7 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
-| 8 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
+| 8 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
 | 9 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
 | 10 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 11 | [#FreeCatturd](http://twitter.com/search?q=%23FreeCatturd) | N/A |
-| 12 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 13 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
-| 14 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 15 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
-| 16 | [Melly](http://twitter.com/search?q=Melly) | N/A |
+| 11 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 12 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
+| 13 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 14 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
+| 15 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 16 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
 | 17 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 18 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 19 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
-| 20 | [Mr. Terrific](http://twitter.com/search?q=Mr.+Terrific) | N/A |
-| 21 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
-| 22 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
-| 23 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 24 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 25 | [Marvel Entertainment](http://twitter.com/search?q=Marvel+Entertainment) | N/A |
-| 26 | [Adult Swim](http://twitter.com/search?q=Adult+Swim) | Adult Swim is an American programming block of the cable network Cartoon Network that airs nightly from 8:00 p.m. to 6:00 a.m. Eastern and Pacific Time. It is programmed by Williams Street Productions, a subsidiary of Turner, which also developed two other programming blocks—Toonami (which later became a block on Adult Swim in 2012) and Miguzi. The name comes from a phrase used by public swimming pools in the United States to label designated times when children are restricted from using the facilities in favor of adults. |
-| 27 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
-| 28 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 29 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
-| 30 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 31 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
-| 32 | [Size 9.5](http://twitter.com/search?q=Size+9.5) | N/A |
-| 33 | [MELANIE MARTINEZ VOID](http://twitter.com/search?q=MELANIE+MARTINEZ+VOID) | N/A |
-| 34 | [Zeds Dead](http://twitter.com/search?q=Zeds+Dead) | N/A |
-| 35 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
-| 36 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
-| 37 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
-| 38 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 39 | [Liquid Stranger](http://twitter.com/search?q=Liquid+Stranger) | N/A |
-| 40 | [Feige](http://twitter.com/search?q=Feige) | N/A |
-| 41 | [Tay K](http://twitter.com/search?q=Tay+K) | N/A |
-| 42 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 43 | [GRFP](http://twitter.com/search?q=GRFP) | N/A |
-| 44 | [Hank](http://twitter.com/search?q=Hank) | N/A |
-| 45 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
-| 46 | [Tails of Iron](http://twitter.com/search?q=Tails+of+Iron) | N/A |
-| 47 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 48 | [John Summit](http://twitter.com/search?q=John+Summit) | N/A |
-| 49 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
+| 18 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 19 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
+| 20 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 21 | [Epiphany](http://twitter.com/search?q=Epiphany) | N/A |
+| 22 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 23 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 24 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 25 | [Melly](http://twitter.com/search?q=Melly) | N/A |
+| 26 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 27 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 28 | [Marvel Entertainment](http://twitter.com/search?q=Marvel+Entertainment) | N/A |
+| 29 | [Adult Swim](http://twitter.com/search?q=Adult+Swim) | Adult Swim is an American programming block of the cable network Cartoon Network that airs nightly from 8:00 p.m. to 6:00 a.m. Eastern and Pacific Time. It is programmed by Williams Street Productions, a subsidiary of Turner, which also developed two other programming blocks—Toonami (which later became a block on Adult Swim in 2012) and Miguzi. The name comes from a phrase used by public swimming pools in the United States to label designated times when children are restricted from using the facilities in favor of adults. |
+| 30 | [Vietnam War](http://twitter.com/search?q=Vietnam+War) | N/A |
+| 31 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
+| 32 | [Bill Simmons](http://twitter.com/search?q=Bill+Simmons) | N/A |
+| 33 | [Mr. Terrific](http://twitter.com/search?q=Mr.+Terrific) | N/A |
+| 34 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 35 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
+| 36 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
+| 37 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
+| 38 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
+| 39 | [MELANIE MARTINEZ VOID](http://twitter.com/search?q=MELANIE+MARTINEZ+VOID) | N/A |
+| 40 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 41 | [Manhattan Trump](http://twitter.com/search?q=Manhattan+Trump) | N/A |
+| 42 | [Florio](http://twitter.com/search?q=Florio) | N/A |
+| 43 | [Size 10.5](http://twitter.com/search?q=Size+10.5) | N/A |
+| 44 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
+| 45 | [Zeds Dead](http://twitter.com/search?q=Zeds+Dead) | N/A |
+| 46 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
+| 47 | [Liquid Stranger](http://twitter.com/search?q=Liquid+Stranger) | N/A |
+| 48 | [The Terrifics](http://twitter.com/search?q=The+Terrifics) | N/A |
+| 49 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
+| 50 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
 
 
 

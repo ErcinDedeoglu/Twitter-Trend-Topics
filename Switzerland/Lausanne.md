@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-29 18:24:18 UTC`
+📆 Last Updated: `2023-03-29 19:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sergio Ermotti](http://twitter.com/search?q=Sergio+Ermotti) | N/A |
-| 2 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 3 | [#SUIISR](http://twitter.com/search?q=%23SUIISR) | N/A |
-| 4 | [#RFSD2023](http://twitter.com/search?q=%23RFSD2023) | N/A |
-| 5 | [#SDGs](http://twitter.com/search?q=%23SDGs) | N/A |
-| 6 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 2 | [#SUIISR](http://twitter.com/search?q=%23SUIISR) | N/A |
+| 3 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
+| 4 | [#SDGs](http://twitter.com/search?q=%23SDGs) | N/A |
+| 5 | [#RFSD2023](http://twitter.com/search?q=%23RFSD2023) | N/A |
+| 6 | [#rücktrittkks](http://twitter.com/search?q=%23r%c3%bccktrittkks) | N/A |
 | 7 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
-| 8 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 8 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
 | 9 | [Pause](http://twitter.com/search?q=Pause) | N/A |
 | 10 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 11 | [rentenalter](http://twitter.com/search?q=rentenalter) | N/A |
-| 12 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 13 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 14 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 15 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 16 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 17 | [Regional Forum](http://twitter.com/search?q=Regional+Forum) | N/A |
-| 18 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 20 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 21 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
-| 22 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 23 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 24 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
-| 25 | [J'étais](http://twitter.com/search?q=J%27%c3%a9tais) | N/A |
-| 26 | [antti](http://twitter.com/search?q=antti) | N/A |
-| 27 | [Leine](http://twitter.com/search?q=Leine) | N/A |
-| 28 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 29 | [Heimat](http://twitter.com/search?q=Heimat) | N/A |
-| 30 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
-| 31 | [Bach](http://twitter.com/search?q=Bach) | N/A |
-| 32 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 33 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 34 | [Nils](http://twitter.com/search?q=Nils) | N/A |
-| 35 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 36 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
-| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 38 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 39 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 40 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 41 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 42 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 43 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 44 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
-| 45 | [zeki amdouni](http://twitter.com/search?q=zeki+amdouni) | N/A |
-| 46 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 47 | [Arbères](http://twitter.com/search?q=Arb%c3%a8res) | N/A |
-| 48 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
-| 49 | [Winterthur](http://twitter.com/search?q=Winterthur) | N/A |
-| 50 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 11 | [Regional Forum](http://twitter.com/search?q=Regional+Forum) | N/A |
+| 12 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 13 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 14 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 15 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 16 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 17 | [antti](http://twitter.com/search?q=antti) | N/A |
+| 18 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
+| 19 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
+| 20 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 22 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
+| 23 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 24 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 25 | [Bach](http://twitter.com/search?q=Bach) | N/A |
+| 26 | [Heimat](http://twitter.com/search?q=Heimat) | N/A |
+| 27 | [Nils](http://twitter.com/search?q=Nils) | N/A |
+| 28 | [Technik](http://twitter.com/search?q=Technik) | N/A |
+| 29 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 30 | [Itten](http://twitter.com/search?q=Itten) | N/A |
+| 31 | [Arbères](http://twitter.com/search?q=Arb%c3%a8res) | N/A |
+| 32 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 33 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 34 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 35 | [Insta](http://twitter.com/search?q=Insta) | N/A |
+| 36 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
+| 37 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
+| 38 | [Crédit Suisse](http://twitter.com/search?q=Cr%c3%a9dit+Suisse) | N/A |
+| 39 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
+| 40 | [GPT-4](http://twitter.com/search?q=GPT-4) | N/A |
+| 41 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 42 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
+| 43 | [Les 2](http://twitter.com/search?q=Les+2) | N/A |
+| 44 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
+| 45 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
+| 46 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 47 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 48 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 49 | [Produktion](http://twitter.com/search?q=Produktion) | N/A |
+| 50 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
 
 
 

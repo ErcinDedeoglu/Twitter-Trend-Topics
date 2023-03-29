@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-03-29 18:24:02 UTC`
+📆 Last Updated: `2023-03-29 19:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
-| 2 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 3 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
-| 4 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 5 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
-| 6 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 7 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 8 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 9 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 10 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
-| 11 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 12 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 13 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 14 | [#TVShowsInFilmOrSong](http://twitter.com/search?q=%23TVShowsInFilmOrSong) | N/A |
-| 15 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 16 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
-| 17 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 18 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
-| 19 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 20 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
-| 21 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 22 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
-| 23 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 24 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
-| 25 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 26 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
-| 27 | [PMQs](http://twitter.com/search?q=PMQs) | N/A |
-| 28 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 29 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 30 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 31 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 32 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
-| 33 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 34 | [Yorkshire Dales](http://twitter.com/search?q=Yorkshire+Dales) | N/A |
-| 35 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
-| 36 | [Transport](http://twitter.com/search?q=Transport) | N/A |
-| 37 | [Claude](http://twitter.com/search?q=Claude) | N/A |
-| 38 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 39 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
-| 40 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 41 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 42 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 43 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 44 | [#WorldPianoDay](http://twitter.com/search?q=%23WorldPianoDay) | N/A |
-| 45 | [#bbcpm](http://twitter.com/search?q=%23bbcpm) | N/A |
-| 46 | [#PaulOGradyRIP](http://twitter.com/search?q=%23PaulOGradyRIP) | N/A |
-| 47 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
-| 48 | [#ClassicFootballShirts](http://twitter.com/search?q=%23ClassicFootballShirts) | N/A |
-| 49 | [#pogdogs](http://twitter.com/search?q=%23pogdogs) | N/A |
-| 50 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
+| 1 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 2 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
+| 3 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 4 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 5 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 6 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 7 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 8 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
+| 9 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 10 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
+| 11 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 12 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 13 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 14 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
+| 15 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
+| 16 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 17 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
+| 18 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
+| 19 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 20 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
+| 21 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 22 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 23 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 24 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 25 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 26 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 27 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
+| 28 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
+| 29 | [Congrats Harry](http://twitter.com/search?q=Congrats+Harry) | N/A |
+| 30 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 31 | [Yakuza](http://twitter.com/search?q=Yakuza) | N/A |
+| 32 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 33 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 34 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
+| 35 | [Congratulations Harry](http://twitter.com/search?q=Congratulations+Harry) | N/A |
+| 36 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 37 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 38 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 39 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 40 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
+| 41 | [Yorkshire Dales](http://twitter.com/search?q=Yorkshire+Dales) | N/A |
+| 42 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 43 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
+| 44 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 45 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 46 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 47 | [Easter Egg](http://twitter.com/search?q=Easter+Egg) | N/A |
+| 48 | [Transport](http://twitter.com/search?q=Transport) | N/A |
+| 49 | [Claude](http://twitter.com/search?q=Claude) | N/A |
+| 50 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ipoh
 
-📆 Last Updated: `2023-03-29 18:24:25 UTC`
+📆 Last Updated: `2023-03-29 19:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [#PonniyanSelvan2](http://twitter.com/search?q=%23PonniyanSelvan2) | N/A |
 | 2 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
-| 3 | [#OurFavoriteSongMINODay](http://twitter.com/search?q=%23OurFavoriteSongMINODay) | N/A |
+| 3 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
 | 4 | [#HAPPY27th_CHAEUNWOO](http://twitter.com/search?q=%23HAPPY27th_CHAEUNWOO) | N/A |
-| 5 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 6 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 7 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 8 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 9 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 10 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 11 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 12 | [THE SCENT NOTES D1](http://twitter.com/search?q=THE+SCENT+NOTES+D1) | N/A |
-| 13 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 14 | [PETA](http://twitter.com/search?q=PETA) | N/A |
-| 15 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 16 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 17 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
-| 18 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 19 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
-| 20 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
-| 21 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
-| 22 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 5 | [blonde jeno](http://twitter.com/search?q=blonde+jeno) | N/A |
+| 6 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 7 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 8 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 9 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 10 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 11 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 12 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
+| 13 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 14 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 15 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 17 | [XANA Genesis](http://twitter.com/search?q=XANA+Genesis) | N/A |
+| 18 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 19 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
+| 20 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 21 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 22 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
 | 23 | [lnph apologize to lisa](http://twitter.com/search?q=lnph+apologize+to+lisa) | N/A |
-| 24 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 25 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 24 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
+| 25 | [LIZ DESERVES BETTER](http://twitter.com/search?q=LIZ+DESERVES+BETTER) | N/A |
 | 26 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 27 | [LIZ DESERVES BETTER](http://twitter.com/search?q=LIZ+DESERVES+BETTER) | N/A |
-| 28 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 29 | [uitm](http://twitter.com/search?q=uitm) | N/A |
-| 30 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 31 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 32 | [istanbul aku datang](http://twitter.com/search?q=istanbul+aku+datang) | N/A |
-| 33 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
-| 34 | [London](http://twitter.com/search?q=London) | N/A |
-| 35 | [diana danielle](http://twitter.com/search?q=diana+danielle) | N/A |
-| 36 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
-| 37 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
-| 38 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 39 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 40 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
-| 41 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
-| 42 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 27 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [istanbul aku datang](http://twitter.com/search?q=istanbul+aku+datang) | N/A |
+| 30 | [Say My Name](http://twitter.com/search?q=Say+My+Name) | N/A |
+| 31 | [JUNGHWAN](http://twitter.com/search?q=JUNGHWAN) | N/A |
+| 32 | [London](http://twitter.com/search?q=London) | N/A |
+| 33 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
+| 34 | [diana danielle](http://twitter.com/search?q=diana+danielle) | N/A |
+| 35 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
+| 36 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 37 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 38 | [taekook](http://twitter.com/search?q=taekook) | Taekook is the name of a popular ship between two characters from the South Korean boy band BTS, Taehyung (V) and Jungkook. It is a portmanteau of their names, and it is used by fans to refer to the romantic relationship between them. |
+| 39 | [Sephora](http://twitter.com/search?q=Sephora) | N/A |
+| 40 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 41 | [UITM](http://twitter.com/search?q=UITM) | N/A |
+| 42 | [maybank](http://twitter.com/search?q=maybank) | N/A |
 | 43 | [Proton](http://twitter.com/search?q=Proton) | N/A |
-| 44 | [Sephora](http://twitter.com/search?q=Sephora) | N/A |
-| 45 | [Reddit](http://twitter.com/search?q=Reddit) | N/A |
-| 46 | [Jooheon](http://twitter.com/search?q=Jooheon) | N/A |
-| 47 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 48 | [Minjae](http://twitter.com/search?q=Minjae) | N/A |
-| 49 | [Allen](http://twitter.com/search?q=Allen) | N/A |
+| 44 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 45 | [jooheon](http://twitter.com/search?q=jooheon) | N/A |
+| 46 | [jikook](http://twitter.com/search?q=jikook) | Jikook is a portmanteau of the names Jimin and Jungkook, two members of the South Korean boy band BTS. It is used to refer to the close friendship between the two members. |
+| 47 | [Hyungwon](http://twitter.com/search?q=Hyungwon) | Hyungwon is a Korean term of endearment used to refer to an older brother or male friend. It is derived from the Korean word "hyung," which means older brother. In English, it can be translated as "big brother" or "older brother." |
+| 48 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 49 | [farid kamil](http://twitter.com/search?q=farid+kamil) | N/A |
 
 
 

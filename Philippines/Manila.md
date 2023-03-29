@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-03-29 18:24:26 UTC`
+📆 Last Updated: `2023-03-29 19:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,40 +15,38 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PauseAndPlayFINALEWeek](http://twitter.com/search?q=%23PauseAndPlayFINALEWeek) | N/A |
-| 2 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 3 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
-| 4 | [#HAPPY27th_CHAEUNWOO](http://twitter.com/search?q=%23HAPPY27th_CHAEUNWOO) | N/A |
-| 5 | [#JANELLAblazingAt25](http://twitter.com/search?q=%23JANELLAblazingAt25) | N/A |
-| 6 | [#SB19Wins4thVPChoiceAwards](http://twitter.com/search?q=%23SB19Wins4thVPChoiceAwards) | N/A |
-| 7 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
-| 8 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 9 | [KD VPCA PROMISING AGAIN](http://twitter.com/search?q=KD+VPCA+PROMISING+AGAIN) | N/A |
-| 10 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 11 | [ANJI PROMISING FEMALE STAR](http://twitter.com/search?q=ANJI+PROMISING+FEMALE+STAR) | N/A |
-| 12 | [DESERVE MO YAN ANJI](http://twitter.com/search?q=DESERVE+MO+YAN+ANJI) | N/A |
-| 13 | [GROUP PERFORMER OF THE YEAR](http://twitter.com/search?q=GROUP+PERFORMER+OF+THE+YEAR) | N/A |
-| 14 | [WE FREEN YOU](http://twitter.com/search?q=WE+FREEN+YOU) | N/A |
-| 15 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 16 | [PROUD KAMI SAYO](http://twitter.com/search?q=PROUD+KAMI+SAYO) | N/A |
-| 17 | [MAYMAY KABOGERA SA VPCA](http://twitter.com/search?q=MAYMAY+KABOGERA+SA+VPCA) | N/A |
-| 18 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 19 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 20 | [#MEinONEday](http://twitter.com/search?q=%23MEinONEday) | N/A |
-| 21 | [#OurFavoriteSongMINODay](http://twitter.com/search?q=%23OurFavoriteSongMINODay) | N/A |
+| 1 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 2 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 3 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
+| 4 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
+| 5 | [#HAPPY27th_CHAEUNWOO](http://twitter.com/search?q=%23HAPPY27th_CHAEUNWOO) | N/A |
+| 6 | [#JANELLAblazingAt25](http://twitter.com/search?q=%23JANELLAblazingAt25) | N/A |
+| 7 | [#SB19Wins4thVPChoiceAwards](http://twitter.com/search?q=%23SB19Wins4thVPChoiceAwards) | N/A |
+| 8 | [SB19 VPCA HAKOT AWARDS](http://twitter.com/search?q=SB19+VPCA+HAKOT+AWARDS) | N/A |
+| 9 | [#MEinONEday](http://twitter.com/search?q=%23MEinONEday) | N/A |
+| 10 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
+| 11 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 12 | [KD VPCA PROMISING AGAIN](http://twitter.com/search?q=KD+VPCA+PROMISING+AGAIN) | N/A |
+| 13 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 14 | [ANJI PROMISING FEMALE STAR](http://twitter.com/search?q=ANJI+PROMISING+FEMALE+STAR) | N/A |
+| 15 | [GROUP PERFORMER OF THE YEAR](http://twitter.com/search?q=GROUP+PERFORMER+OF+THE+YEAR) | N/A |
+| 16 | [DESERVE MO YAN ANJI](http://twitter.com/search?q=DESERVE+MO+YAN+ANJI) | N/A |
+| 17 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 18 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 19 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 20 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
+| 21 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
 | 22 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
-| 23 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
-| 24 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
+| 23 | [#OurFavoriteSongMINODay](http://twitter.com/search?q=%23OurFavoriteSongMINODay) | N/A |
+| 24 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
 | 25 | [#Y3_SELF_PORTRAIT_SUHO](http://twitter.com/search?q=%23Y3_SELF_PORTRAIT_SUHO) | N/A |
-| 26 | [#4thVPCA](http://twitter.com/search?q=%234thVPCA) | N/A |
-| 27 | [#DLTruthAboutTheEx](http://twitter.com/search?q=%23DLTruthAboutTheEx) | N/A |
-| 28 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
-| 29 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
+| 26 | [#BGYOWinsVPCA2023](http://twitter.com/search?q=%23BGYOWinsVPCA2023) | N/A |
+| 27 | [#4thVPCA](http://twitter.com/search?q=%234thVPCA) | N/A |
+| 28 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
+| 29 | [#SB19_STELL](http://twitter.com/search?q=%23SB19_STELL) | #SB19_STELL is a hashtag used by fans of the Filipino boy band SB19. It stands for "Support, Trust, Encourage, Love and Listen" and is used to show support for the group. |
 | 30 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
-| 31 | [#EXOSCinMNL](http://twitter.com/search?q=%23EXOSCinMNL) | N/A |
-| 32 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
-| 33 | [#MaymayEntrata](http://twitter.com/search?q=%23MaymayEntrata) | N/A |
-| 34 | [#KaoriOinuma](http://twitter.com/search?q=%23KaoriOinuma) | N/A |
+| 31 | [#SB19_KEN](http://twitter.com/search?q=%23SB19_KEN) | N/A |
+| 32 | [#KaoriOinuma](http://twitter.com/search?q=%23KaoriOinuma) | N/A |
 
 
 

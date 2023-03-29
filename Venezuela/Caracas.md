@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Caracas
 
-📆 Last Updated: `2023-03-29 18:24:08 UTC`
+📆 Last Updated: `2023-03-29 19:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#29Mar](http://twitter.com/search?q=%2329Mar) | N/A |
 | 2 | [#CastigoALosCorruptos](http://twitter.com/search?q=%23CastigoALosCorruptos) | N/A |
 | 3 | [#CorruptosTrasLasRejas](http://twitter.com/search?q=%23CorruptosTrasLasRejas) | N/A |
-| 4 | [#DuroContraLaCorrupción](http://twitter.com/search?q=%23DuroContraLaCorrupci%c3%b3n) | N/A |
-| 5 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 4 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 5 | [#DuroContraLaCorrupción](http://twitter.com/search?q=%23DuroContraLaCorrupci%c3%b3n) | N/A |
 | 6 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 7 | [#nicorrupciónniguarimbas](http://twitter.com/search?q=%23nicorrupci%c3%b3nniguarimbas) | N/A |
 | 8 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
-| 9 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
-| 10 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 11 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
+| 9 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 10 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
+| 11 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 | 12 | [Francisco de Miranda](http://twitter.com/search?q=Francisco+de+Miranda) | N/A |
-| 13 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 14 | [miguel navarro](http://twitter.com/search?q=miguel+navarro) | N/A |
-| 15 | [Negra Matea](http://twitter.com/search?q=Negra+Matea) | N/A |
-| 16 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 17 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 18 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
-| 19 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
-| 20 | [Petete](http://twitter.com/search?q=Petete) | N/A |
-| 21 | [Puro](http://twitter.com/search?q=Puro) | N/A |
-| 22 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 23 | [Universidad de Los Andes](http://twitter.com/search?q=Universidad+de+Los+Andes) | N/A |
-| 24 | [The Plan](http://twitter.com/search?q=The+Plan) | N/A |
-| 25 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 26 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 27 | [Sillas](http://twitter.com/search?q=Sillas) | N/A |
-| 28 | [Susy](http://twitter.com/search?q=Susy) | N/A |
-| 29 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 30 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
-| 31 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 32 | [Mi Vivienda San Luis](http://twitter.com/search?q=Mi+Vivienda+San+Luis) | N/A |
-| 33 | [Pdvsa-Cripto](http://twitter.com/search?q=Pdvsa-Cripto) | N/A |
-| 34 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 35 | [Carlitos González](http://twitter.com/search?q=Carlitos+Gonz%c3%a1lez) | N/A |
-| 36 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
-| 37 | [Cierto Tadeo](http://twitter.com/search?q=Cierto+Tadeo) | N/A |
-| 38 | [Caracas Matea Bolívar](http://twitter.com/search?q=Caracas+Matea+Bol%c3%advar) | N/A |
-| 39 | [Rafael Isea](http://twitter.com/search?q=Rafael+Isea) | N/A |
-| 40 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 41 | [Alexander González](http://twitter.com/search?q=Alexander+Gonz%c3%a1lez) | N/A |
-| 42 | [El 29](http://twitter.com/search?q=El+29) | N/A |
-| 43 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 44 | [Adelaida](http://twitter.com/search?q=Adelaida) | N/A |
-| 45 | [Andrés Giménez](http://twitter.com/search?q=Andr%c3%a9s+Gim%c3%a9nez) | N/A |
-| 46 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 47 | [alberto arvelo torrealba](http://twitter.com/search?q=alberto+arvelo+torrealba) | N/A |
-| 48 | [El Libertador](http://twitter.com/search?q=El+Libertador) | N/A |
-| 49 | [Esposados](http://twitter.com/search?q=Esposados) | N/A |
-| 50 | [Tarek](http://twitter.com/search?q=Tarek) | N/A |
+| 13 | [Negra Matea](http://twitter.com/search?q=Negra+Matea) | N/A |
+| 14 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 15 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
+| 16 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 17 | [Leopoldo López](http://twitter.com/search?q=Leopoldo+L%c3%b3pez) | N/A |
+| 18 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
+| 19 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 20 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 21 | [Universidad de Los Andes](http://twitter.com/search?q=Universidad+de+Los+Andes) | N/A |
+| 22 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 23 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
+| 24 | [Susy](http://twitter.com/search?q=Susy) | N/A |
+| 25 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 26 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 27 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 28 | [Petete](http://twitter.com/search?q=Petete) | N/A |
+| 29 | [Sillas](http://twitter.com/search?q=Sillas) | N/A |
+| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 31 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 32 | [The Plan](http://twitter.com/search?q=The+Plan) | N/A |
+| 33 | [Cierto Tadeo](http://twitter.com/search?q=Cierto+Tadeo) | N/A |
+| 34 | [Carlitos González](http://twitter.com/search?q=Carlitos+Gonz%c3%a1lez) | N/A |
+| 35 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
+| 36 | [mi vivienda san luis](http://twitter.com/search?q=mi+vivienda+san+luis) | N/A |
+| 37 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
+| 38 | [Ciruela](http://twitter.com/search?q=Ciruela) | N/A |
+| 39 | [Pdvsa-Cripto](http://twitter.com/search?q=Pdvsa-Cripto) | N/A |
+| 40 | [Caracas Matea Bolívar](http://twitter.com/search?q=Caracas+Matea+Bol%c3%advar) | N/A |
+| 41 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 42 | [jean fuentes](http://twitter.com/search?q=jean+fuentes) | N/A |
+| 43 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
+| 44 | [Galak](http://twitter.com/search?q=Galak) | N/A |
+| 45 | [Esposados](http://twitter.com/search?q=Esposados) | N/A |
+| 46 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
+| 47 | [Andrés Giménez](http://twitter.com/search?q=Andr%c3%a9s+Gim%c3%a9nez) | N/A |
+| 48 | [alberto arvelo torrealba](http://twitter.com/search?q=alberto+arvelo+torrealba) | N/A |
+| 49 | [Adelaida](http://twitter.com/search?q=Adelaida) | N/A |
+| 50 | [Naranja](http://twitter.com/search?q=Naranja) | N/A |
 
 
 

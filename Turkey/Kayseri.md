@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-03-29 18:24:38 UTC`
+📆 Last Updated: `2023-03-29 19:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MustafaBozdoğan](http://twitter.com/search?q=%23MustafaBozdo%c4%9fan) | N/A |
-| 2 | [#muharremince](http://twitter.com/search?q=%23muharremince) | N/A |
-| 3 | [#KamuAvukatınıUnuttunuz](http://twitter.com/search?q=%23KamuAvukat%c4%b1n%c4%b1Unuttunuz) | N/A |
-| 4 | [#HekimlikTorbayaSığmaz](http://twitter.com/search?q=%23HekimlikTorbayaS%c4%b1%c4%9fmaz) | N/A |
+| 1 | [#CbYanikSHUyuGörmüyor](http://twitter.com/search?q=%23CbYanikSHUyuG%c3%b6rm%c3%bcyor) | N/A |
+| 2 | [#MaaşımaZamŞart](http://twitter.com/search?q=%23Maa%c5%9f%c4%b1maZam%c5%9eart) | N/A |
+| 3 | [Mustafa Bozdoğan](http://twitter.com/search?q=Mustafa+Bozdo%c4%9fan) | N/A |
+| 4 | [#muharremince](http://twitter.com/search?q=%23muharremince) | N/A |
 | 5 | [MebAlanDeğişikliği](http://twitter.com/search?q=MebAlanDe%c4%9fi%c5%9fikli%c4%9fi) | N/A |
-| 6 | [MilletinSesi İİBFyiDuy](http://twitter.com/search?q=MilletinSesi+%c4%b0%c4%b0BFyiDuy) | N/A |
-| 7 | [Güle Güle](http://twitter.com/search?q=G%c3%bcle+G%c3%bcle) | N/A |
-| 8 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
-| 9 | [EczacılarBurada TebNerede](http://twitter.com/search?q=Eczac%c4%b1larBurada+TebNerede) | N/A |
-| 10 | [Köroğlu](http://twitter.com/search?q=K%c3%b6ro%c4%9flu) | N/A |
-| 11 | [ArtıkSıra TaşeronaKadro](http://twitter.com/search?q=Art%c4%b1kS%c4%b1ra+Ta%c5%9feronaKadro) | N/A |
-| 12 | [Terbiyesiz](http://twitter.com/search?q=Terbiyesiz) | N/A |
-| 13 | [Saygısız](http://twitter.com/search?q=Sayg%c4%b1s%c4%b1z) | N/A |
-| 14 | [Kibir](http://twitter.com/search?q=Kibir) | N/A |
+| 6 | [#MerkezTaşraAyrımaSon](http://twitter.com/search?q=%23MerkezTa%c5%9fraAyr%c4%b1maSon) | N/A |
+| 7 | [Ersin Tatar](http://twitter.com/search?q=Ersin+Tatar) | N/A |
+| 8 | [MilletinSesi İİBFyiDuy](http://twitter.com/search?q=MilletinSesi+%c4%b0%c4%b0BFyiDuy) | N/A |
+| 9 | [ArtıkSıra TaşeronaKadro](http://twitter.com/search?q=Art%c4%b1kS%c4%b1ra+Ta%c5%9feronaKadro) | N/A |
+| 10 | [Gel Muharrem](http://twitter.com/search?q=Gel+Muharrem) | N/A |
+| 11 | [Güle Güle](http://twitter.com/search?q=G%c3%bcle+G%c3%bcle) | N/A |
+| 12 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
+| 13 | [EczacılarBurada TebNerede](http://twitter.com/search?q=Eczac%c4%b1larBurada+TebNerede) | N/A |
+| 14 | [Köroğlu](http://twitter.com/search?q=K%c3%b6ro%c4%9flu) | N/A |
 | 15 | [Saat 21.00](http://twitter.com/search?q=Saat+21.00) | N/A |
-| 16 | [Nezaketsiz](http://twitter.com/search?q=Nezaketsiz) | N/A |
-| 17 | [Mehmet Aslantuğ](http://twitter.com/search?q=Mehmet+Aslantu%c4%9f) | N/A |
-| 18 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 19 | [Reisden DenklikMüjdesi](http://twitter.com/search?q=Reisden+DenklikM%c3%bcjdesi) | N/A |
-| 20 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
-| 21 | [ZirveninAdı YalıÇapkını](http://twitter.com/search?q=ZirveninAd%c4%b1+Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | N/A |
-| 22 | [Gel Muharrem](http://twitter.com/search?q=Gel+Muharrem) | N/A |
-| 23 | [Şahlanış](http://twitter.com/search?q=%c5%9eahlan%c4%b1%c5%9f) | N/A |
-| 24 | [Baykuş](http://twitter.com/search?q=Bayku%c5%9f) | N/A |
-| 25 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
-| 26 | [Avlu BeşYaşında](http://twitter.com/search?q=Avlu+Be%c5%9fYa%c5%9f%c4%b1nda) | N/A |
-| 27 | [Antep](http://twitter.com/search?q=Antep) | Antep is a city in southeastern Turkey and the administrative center of Gaziantep Province. It is located on the edge of the Mediterranean region, near the border with Syria. In English, Antep means "before" or "in front of". |
+| 16 | [Terbiyesiz](http://twitter.com/search?q=Terbiyesiz) | N/A |
+| 17 | [Saygısız](http://twitter.com/search?q=Sayg%c4%b1s%c4%b1z) | N/A |
+| 18 | [Nezaketsiz](http://twitter.com/search?q=Nezaketsiz) | N/A |
+| 19 | [Bay Bay Kemal](http://twitter.com/search?q=Bay+Bay+Kemal) | N/A |
+| 20 | [Gündem Özel](http://twitter.com/search?q=G%c3%bcndem+%c3%96zel) | N/A |
+| 21 | [AlparslanHocam YalnızDeğildir](http://twitter.com/search?q=AlparslanHocam+Yaln%c4%b1zDe%c4%9fildir) | N/A |
+| 22 | [Kibir](http://twitter.com/search?q=Kibir) | N/A |
+| 23 | [Mehmet Aslantuğ](http://twitter.com/search?q=Mehmet+Aslantu%c4%9f) | N/A |
+| 24 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
+| 25 | [Baykuş](http://twitter.com/search?q=Bayku%c5%9f) | N/A |
+| 26 | [ZirveninAdı YalıÇapkını](http://twitter.com/search?q=ZirveninAd%c4%b1+Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | N/A |
+| 27 | [Gel Bakalım Muharrem](http://twitter.com/search?q=Gel+Bakal%c4%b1m+Muharrem) | N/A |
 | 28 | [İntikam](http://twitter.com/search?q=%c4%b0ntikam) | N/A |
-| 29 | [Buradayız](http://twitter.com/search?q=Buraday%c4%b1z) | N/A |
-| 30 | [Bay Bay Kemal](http://twitter.com/search?q=Bay+Bay+Kemal) | N/A |
-| 31 | [Toma](http://twitter.com/search?q=Toma) | N/A |
-| 32 | [Adaylıktan](http://twitter.com/search?q=Adayl%c4%b1ktan) | N/A |
-| 33 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
-| 34 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
-| 35 | [TFF'ye](http://twitter.com/search?q=TFF%27ye) | N/A |
-| 36 | [Kadrolu](http://twitter.com/search?q=Kadrolu) | N/A |
-| 37 | [İlkeli](http://twitter.com/search?q=%c4%b0lkeli) | N/A |
-| 38 | [Hizbullahçı](http://twitter.com/search?q=Hizbullah%c3%a7%c4%b1) | N/A |
-| 39 | [Sahada](http://twitter.com/search?q=Sahada) | N/A |
-| 40 | [OyumEhliyet Affında](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1nda) | N/A |
-| 41 | [Hamza Yusuf](http://twitter.com/search?q=Hamza+Yusuf) | N/A |
-| 42 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 43 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
-| 44 | [TBMM Grup Toplantısı](http://twitter.com/search?q=TBMM+Grup+Toplant%c4%b1s%c4%b1) | N/A |
-| 45 | [Aleviler](http://twitter.com/search?q=Aleviler) | N/A |
-| 46 | [İYİ Parti'den](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti%27den) | N/A |
-| 47 | [Temmuz](http://twitter.com/search?q=Temmuz) | N/A |
-| 48 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 29 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
+| 30 | [Avlu BeşYaşında](http://twitter.com/search?q=Avlu+Be%c5%9fYa%c5%9f%c4%b1nda) | N/A |
+| 31 | [İlke](http://twitter.com/search?q=%c4%b0lke) | N/A |
+| 32 | [TOGG T10X](http://twitter.com/search?q=TOGG+T10X) | N/A |
+| 33 | [Şahlanış](http://twitter.com/search?q=%c5%9eahlan%c4%b1%c5%9f) | N/A |
+| 34 | [Antep](http://twitter.com/search?q=Antep) | Antep is a city in southeastern Turkey and the administrative center of Gaziantep Province. It is located on the edge of the Mediterranean region, near the border with Syria. In English, Antep means "before" or "in front of". |
+| 35 | [Hatayspor](http://twitter.com/search?q=Hatayspor) | N/A |
+| 36 | [Reisden DenklikMüjdesi](http://twitter.com/search?q=Reisden+DenklikM%c3%bcjdesi) | N/A |
+| 37 | [Ayağınıza](http://twitter.com/search?q=Aya%c4%9f%c4%b1n%c4%b1za) | N/A |
+| 38 | [Sercan](http://twitter.com/search?q=Sercan) | N/A |
+| 39 | [TFF'ye](http://twitter.com/search?q=TFF%27ye) | N/A |
+| 40 | [Buradayız](http://twitter.com/search?q=Buraday%c4%b1z) | N/A |
+| 41 | [OyumEhliyet Affında](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1nda) | N/A |
+| 42 | [Kulüpler Birliği](http://twitter.com/search?q=Kul%c3%bcpler+Birli%c4%9fi) | N/A |
+| 43 | [Adaylıktan](http://twitter.com/search?q=Adayl%c4%b1ktan) | N/A |
+| 44 | [Kadrolu](http://twitter.com/search?q=Kadrolu) | N/A |
+| 45 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
+| 46 | [Hizbullahçı](http://twitter.com/search?q=Hizbullah%c3%a7%c4%b1) | N/A |
+| 47 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
+| 48 | [Sahada](http://twitter.com/search?q=Sahada) | N/A |
+| 49 | [Hamza Yusuf](http://twitter.com/search?q=Hamza+Yusuf) | N/A |
 
 
 
