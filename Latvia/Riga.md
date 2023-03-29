@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-29 19:17:37 UTC`
+📆 Last Updated: `2023-03-29 20:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
 | 2 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
 | 3 | [#WeAreNATO](http://twitter.com/search?q=%23WeAreNATO) | N/A |
-| 4 | [avena](http://twitter.com/search?q=avena) | N/A |
-| 5 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 6 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 7 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
-| 8 | [Ministru](http://twitter.com/search?q=Ministru) | N/A |
-| 9 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
-| 10 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 11 | [AirBaltic](http://twitter.com/search?q=AirBaltic) | N/A |
-| 12 | [Levits](http://twitter.com/search?q=Levits) | N/A |
-| 13 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 14 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
-| 15 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
-| 16 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 17 | [Vienotības](http://twitter.com/search?q=Vienot%c4%abbas) | N/A |
-| 18 | [Pīlēnu](http://twitter.com/search?q=P%c4%abl%c4%93nu) | N/A |
-| 19 | [Saeima](http://twitter.com/search?q=Saeima) | N/A |
-| 20 | [🇱🇻](http://twitter.com/search?q=%f0%9f%87%b1%f0%9f%87%bb) | N/A |
-| 21 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
-| 22 | [lieldienu](http://twitter.com/search?q=lieldienu) | N/A |
-| 23 | [baltkrievijā](http://twitter.com/search?q=baltkrievij%c4%81) | N/A |
-| 24 | [#patolaiku](http://twitter.com/search?q=%23patolaiku) | N/A |
-| 25 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
-| 26 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 27 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
-| 28 | [Pirmkārt](http://twitter.com/search?q=Pirmk%c4%81rt) | N/A |
-| 29 | [Diezgan](http://twitter.com/search?q=Diezgan) | N/A |
-| 30 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
-| 31 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | N/A |
-| 32 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
-| 33 | [Problēma](http://twitter.com/search?q=Probl%c4%93ma) | N/A |
+| 4 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 5 | [ministru](http://twitter.com/search?q=ministru) | N/A |
+| 6 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 7 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 8 | [AirBaltic](http://twitter.com/search?q=AirBaltic) | N/A |
+| 9 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 10 | [Levits](http://twitter.com/search?q=Levits) | N/A |
+| 11 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
+| 12 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
+| 13 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 14 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 15 | [putinu](http://twitter.com/search?q=putinu) | N/A |
+| 16 | [Pīlēnu](http://twitter.com/search?q=P%c4%abl%c4%93nu) | N/A |
+| 17 | [apsveicu](http://twitter.com/search?q=apsveicu) | N/A |
+| 18 | [baltkrievijā](http://twitter.com/search?q=baltkrievij%c4%81) | N/A |
+| 19 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
+| 20 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
+| 21 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 22 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 23 | [pirmkārt](http://twitter.com/search?q=pirmk%c4%81rt) | N/A |
+| 24 | [forši](http://twitter.com/search?q=for%c5%a1i) | N/A |
+| 25 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
+| 26 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
+| 27 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
+| 28 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
+| 29 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | N/A |
+| 30 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 31 | [Problēma](http://twitter.com/search?q=Probl%c4%93ma) | N/A |
+| 32 | [Toties](http://twitter.com/search?q=Toties) | N/A |
+| 33 | [#patolaiku](http://twitter.com/search?q=%23patolaiku) | N/A |
 | 34 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
 | 35 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
-| 36 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
-| 37 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
-| 38 | [Kaut](http://twitter.com/search?q=Kaut) | N/A |
-| 39 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 36 | [Vienotības](http://twitter.com/search?q=Vienot%c4%abbas) | N/A |
+| 37 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
+| 38 | [#BackPain](http://twitter.com/search?q=%23BackPain) | N/A |
+| 39 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
 | 40 | [brektes](http://twitter.com/search?q=brektes) | N/A |
-| 41 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
-| 42 | [Pievienojos](http://twitter.com/search?q=Pievienojos) | N/A |
-| 43 | [Toties](http://twitter.com/search?q=Toties) | N/A |
-| 44 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
+| 41 | [iesaku](http://twitter.com/search?q=iesaku) | N/A |
+| 42 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | N/A |
+| 43 | [Droši](http://twitter.com/search?q=Dro%c5%a1i) | N/A |
+| 44 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
 | 45 | [Bauskas](http://twitter.com/search?q=Bauskas) | N/A |
-| 46 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
-| 47 | [Visu](http://twitter.com/search?q=Visu) | N/A |
-| 48 | [Dievs](http://twitter.com/search?q=Dievs) | N/A |
-| 49 | [Kariņš](http://twitter.com/search?q=Kari%c5%86%c5%a1) | N/A |
-| 50 | [Pilnīgi](http://twitter.com/search?q=Piln%c4%abgi) | N/A |
+| 46 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | N/A |
+| 47 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
+| 48 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
+| 49 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | N/A |
+| 50 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
 
 
 

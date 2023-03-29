@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-29 19:17:37 UTC`
+📆 Last Updated: `2023-03-29 20:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Sweden](</Sweden>)
 | ------- | ------------ | ------------ |
 | 1 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
 | 2 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
-| 3 | [#sverigemöts](http://twitter.com/search?q=%23sverigem%c3%b6ts) | N/A |
-| 4 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
-| 5 | [Klimatpolitiska](http://twitter.com/search?q=Klimatpolitiska) | N/A |
-| 6 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
-| 7 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
-| 8 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
-| 9 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
-| 10 | [#ADPD2023](http://twitter.com/search?q=%23ADPD2023) | N/A |
-| 11 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
-| 12 | [Breivik](http://twitter.com/search?q=Breivik) | N/A |
-| 13 | [Lennström](http://twitter.com/search?q=Lennstr%c3%b6m) | N/A |
-| 14 | [Serbien](http://twitter.com/search?q=Serbien) | N/A |
-| 15 | [Smålands](http://twitter.com/search?q=Sm%c3%a5lands) | N/A |
-| 16 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 17 | [Nilsson](http://twitter.com/search?q=Nilsson) | N/A |
-| 18 | [Shekarabi](http://twitter.com/search?q=Shekarabi) | N/A |
-| 19 | [Viasat](http://twitter.com/search?q=Viasat) | N/A |
-| 20 | [Beckman](http://twitter.com/search?q=Beckman) | N/A |
-| 21 | [Mattias Karlsson](http://twitter.com/search?q=Mattias+Karlsson) | N/A |
-| 22 | [#akademiskfrihet](http://twitter.com/search?q=%23akademiskfrihet) | N/A |
-| 23 | [polarpriset](http://twitter.com/search?q=polarpriset) | N/A |
-| 24 | [Komarek](http://twitter.com/search?q=Komarek) | N/A |
-| 25 | [Arvo Pärt](http://twitter.com/search?q=Arvo+P%c3%a4rt) | N/A |
-| 26 | [claesson](http://twitter.com/search?q=claesson) | N/A |
-| 27 | [Vesel](http://twitter.com/search?q=Vesel) | N/A |
-| 28 | [Märta](http://twitter.com/search?q=M%c3%a4rta) | N/A |
-| 29 | [Rasistkortet](http://twitter.com/search?q=Rasistkortet) | N/A |
-| 30 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 31 | [Skatteverket](http://twitter.com/search?q=Skatteverket) | N/A |
-| 32 | [Sweet Caroline](http://twitter.com/search?q=Sweet+Caroline) | "Sweet Caroline" is a popular song written and performed by Neil Diamond. It was released in 1969 as a single with the title "Sweet Caroline (Good Times Never Seemed So Good)". The song is about a woman named Caroline, who Diamond imagines as someone he can love and cherish. The lyrics express his admiration for her beauty and innocence, and his desire to be with her forever. The song has become an anthem for many people, especially those who are in love or have been in love. The phrase "Good times never seemed so good" has become a popular catchphrase. |
-| 33 | [Selvén](http://twitter.com/search?q=Selv%c3%a9n) | N/A |
-| 34 | [Ardalan](http://twitter.com/search?q=Ardalan) | N/A |
-| 35 | [Nordea](http://twitter.com/search?q=Nordea) | N/A |
-| 36 | [Lamotte](http://twitter.com/search?q=Lamotte) | N/A |
-| 37 | [Rasism](http://twitter.com/search?q=Rasism) | N/A |
-| 38 | [Stenevi](http://twitter.com/search?q=Stenevi) | N/A |
-| 39 | [kalla fakta](http://twitter.com/search?q=kalla+fakta) | N/A |
-| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 41 | [Einar](http://twitter.com/search?q=Einar) | N/A |
-| 42 | [Johan Tireland](http://twitter.com/search?q=Johan+Tireland) | N/A |
-| 43 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 44 | [Malin](http://twitter.com/search?q=Malin) | N/A |
-| 45 | [odenberg](http://twitter.com/search?q=odenberg) | N/A |
-| 46 | [Pehrson](http://twitter.com/search?q=Pehrson) | N/A |
-| 47 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 48 | [Ericssons](http://twitter.com/search?q=Ericssons) | N/A |
-| 49 | [Embracer](http://twitter.com/search?q=Embracer) | N/A |
-| 50 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 3 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 4 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 5 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
+| 6 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 7 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
+| 8 | [Lasse Johansson](http://twitter.com/search?q=Lasse+Johansson) | N/A |
+| 9 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
+| 10 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
+| 11 | [Klimatpolitiska](http://twitter.com/search?q=Klimatpolitiska) | N/A |
+| 12 | [Karlstad](http://twitter.com/search?q=Karlstad) | N/A |
+| 13 | [#ADPD2023](http://twitter.com/search?q=%23ADPD2023) | N/A |
+| 14 | [Breivik](http://twitter.com/search?q=Breivik) | N/A |
+| 15 | [Serbien](http://twitter.com/search?q=Serbien) | N/A |
+| 16 | [Smålands](http://twitter.com/search?q=Sm%c3%a5lands) | N/A |
+| 17 | [Viasat](http://twitter.com/search?q=Viasat) | N/A |
+| 18 | [Mattias Karlsson](http://twitter.com/search?q=Mattias+Karlsson) | N/A |
+| 19 | [Aktuellt](http://twitter.com/search?q=Aktuellt) | N/A |
+| 20 | [Shekarabi](http://twitter.com/search?q=Shekarabi) | N/A |
+| 21 | [#akademiskfrihet](http://twitter.com/search?q=%23akademiskfrihet) | N/A |
+| 22 | [Värnamo](http://twitter.com/search?q=V%c3%a4rnamo) | N/A |
+| 23 | [jihde](http://twitter.com/search?q=jihde) | N/A |
+| 24 | [claesson](http://twitter.com/search?q=claesson) | N/A |
+| 25 | [arvo pärt](http://twitter.com/search?q=arvo+p%c3%a4rt) | N/A |
+| 26 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 27 | [Beckman](http://twitter.com/search?q=Beckman) | N/A |
+| 28 | [Skatteverket](http://twitter.com/search?q=Skatteverket) | N/A |
+| 29 | [Nordea](http://twitter.com/search?q=Nordea) | N/A |
+| 30 | [#ÅretsDagstidning](http://twitter.com/search?q=%23%c3%85retsDagstidning) | N/A |
+| 31 | [Johan Tireland](http://twitter.com/search?q=Johan+Tireland) | N/A |
+| 32 | [kalla fakta](http://twitter.com/search?q=kalla+fakta) | N/A |
+| 33 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 34 | [Lamotte](http://twitter.com/search?q=Lamotte) | N/A |
+| 35 | [Märta](http://twitter.com/search?q=M%c3%a4rta) | N/A |
+| 36 | [odenberg](http://twitter.com/search?q=odenberg) | N/A |
+| 37 | [olausson](http://twitter.com/search?q=olausson) | N/A |
+| 38 | [Nilsson](http://twitter.com/search?q=Nilsson) | N/A |
+| 39 | [Lennström](http://twitter.com/search?q=Lennstr%c3%b6m) | N/A |
+| 40 | [Einar](http://twitter.com/search?q=Einar) | N/A |
+| 41 | [Komarek](http://twitter.com/search?q=Komarek) | N/A |
+| 42 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 43 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 44 | [Rasism](http://twitter.com/search?q=Rasism) | N/A |
+| 45 | [Pehrson](http://twitter.com/search?q=Pehrson) | N/A |
+| 46 | [Kalmar FF](http://twitter.com/search?q=Kalmar+FF) | N/A |
+| 47 | [Malin](http://twitter.com/search?q=Malin) | N/A |
+| 48 | [Embracer](http://twitter.com/search?q=Embracer) | N/A |
+| 49 | [björklund](http://twitter.com/search?q=bj%c3%b6rklund) | N/A |
+| 50 | [jidhe](http://twitter.com/search?q=jidhe) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-29 19:18:22 UTC`
+📆 Last Updated: `2023-03-29 20:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Venezuela
 | 6 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 7 | [#nicorrupciónniguarimbas](http://twitter.com/search?q=%23nicorrupci%c3%b3nniguarimbas) | N/A |
 | 8 | [López Obrador](http://twitter.com/search?q=L%c3%b3pez+Obrador) | N/A |
-| 9 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
-| 10 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 11 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 12 | [Francisco de Miranda](http://twitter.com/search?q=Francisco+de+Miranda) | N/A |
-| 13 | [Negra Matea](http://twitter.com/search?q=Negra+Matea) | N/A |
-| 14 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 15 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
-| 16 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
-| 17 | [Leopoldo López](http://twitter.com/search?q=Leopoldo+L%c3%b3pez) | N/A |
-| 18 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 19 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 9 | [Uzbekistán](http://twitter.com/search?q=Uzbekist%c3%a1n) | N/A |
+| 10 | [miguel navarro](http://twitter.com/search?q=miguel+navarro) | N/A |
+| 11 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
+| 12 | [Negra Matea](http://twitter.com/search?q=Negra+Matea) | N/A |
+| 13 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
+| 14 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 15 | [Francisco de Miranda](http://twitter.com/search?q=Francisco+de+Miranda) | N/A |
+| 16 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 17 | [Plataforma Unitaria](http://twitter.com/search?q=Plataforma+Unitaria) | N/A |
+| 18 | [Leopoldo López](http://twitter.com/search?q=Leopoldo+L%c3%b3pez) | N/A |
+| 19 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 20 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 21 | [Universidad de Los Andes](http://twitter.com/search?q=Universidad+de+Los+Andes) | N/A |
-| 22 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 23 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
+| 21 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 22 | [Puro](http://twitter.com/search?q=Puro) | N/A |
+| 23 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
 | 24 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 25 | [Susy](http://twitter.com/search?q=Susy) | N/A |
-| 26 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 27 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
-| 28 | [Petete](http://twitter.com/search?q=Petete) | N/A |
-| 29 | [Sillas](http://twitter.com/search?q=Sillas) | N/A |
+| 25 | [Charles Atlas](http://twitter.com/search?q=Charles+Atlas) | N/A |
+| 26 | [Sillas](http://twitter.com/search?q=Sillas) | N/A |
+| 27 | [Universidad de Los Andes](http://twitter.com/search?q=Universidad+de+Los+Andes) | N/A |
+| 28 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 29 | [The Plan](http://twitter.com/search?q=The+Plan) | N/A |
 | 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 31 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 32 | [Cierto Tadeo](http://twitter.com/search?q=Cierto+Tadeo) | N/A |
-| 33 | [The Plan](http://twitter.com/search?q=The+Plan) | N/A |
-| 34 | [Carlitos González](http://twitter.com/search?q=Carlitos+Gonz%c3%a1lez) | N/A |
-| 35 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
-| 36 | [mi vivienda san luis](http://twitter.com/search?q=mi+vivienda+san+luis) | N/A |
-| 37 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
-| 38 | [Pdvsa-Cripto](http://twitter.com/search?q=Pdvsa-Cripto) | N/A |
+| 31 | [mi vivienda san luis](http://twitter.com/search?q=mi+vivienda+san+luis) | N/A |
+| 32 | [Elluz Peraza](http://twitter.com/search?q=Elluz+Peraza) | N/A |
+| 33 | [Cierto Tadeo](http://twitter.com/search?q=Cierto+Tadeo) | N/A |
+| 34 | [AMLO](http://twitter.com/search?q=AMLO) | AMLO is an acronym for Andrés Manuel López Obrador, the current President of Mexico. He was elected in 2018 and is a member of the National Regeneration Movement (MORENA) party. In English, AMLO stands for Andrés Manuel López Obrador. |
+| 35 | [Susy](http://twitter.com/search?q=Susy) | N/A |
+| 36 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
+| 37 | [PDVSA-Cripto](http://twitter.com/search?q=PDVSA-Cripto) | N/A |
+| 38 | [Instituto](http://twitter.com/search?q=Instituto) | N/A |
 | 39 | [Caracas Matea Bolívar](http://twitter.com/search?q=Caracas+Matea+Bol%c3%advar) | N/A |
-| 40 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 41 | [jean fuentes](http://twitter.com/search?q=jean+fuentes) | N/A |
-| 42 | [Amanda Gutiérrez](http://twitter.com/search?q=Amanda+Guti%c3%a9rrez) | N/A |
-| 43 | [Galak](http://twitter.com/search?q=Galak) | N/A |
-| 44 | [Isea](http://twitter.com/search?q=Isea) | N/A |
-| 45 | [Esposados](http://twitter.com/search?q=Esposados) | N/A |
-| 46 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 47 | [Andrés Giménez](http://twitter.com/search?q=Andr%c3%a9s+Gim%c3%a9nez) | N/A |
-| 48 | [Ciruela](http://twitter.com/search?q=Ciruela) | N/A |
-| 49 | [alberto arvelo torrealba](http://twitter.com/search?q=alberto+arvelo+torrealba) | N/A |
-| 50 | [El 29](http://twitter.com/search?q=El+29) | N/A |
+| 40 | [Isea](http://twitter.com/search?q=Isea) | N/A |
+| 41 | [Adelaida](http://twitter.com/search?q=Adelaida) | N/A |
+| 42 | [El 29](http://twitter.com/search?q=El+29) | N/A |
+| 43 | [Petete](http://twitter.com/search?q=Petete) | N/A |
+| 44 | [Esposados](http://twitter.com/search?q=Esposados) | N/A |
+| 45 | [Ciruela](http://twitter.com/search?q=Ciruela) | N/A |
+| 46 | [alberto arvelo torrealba](http://twitter.com/search?q=alberto+arvelo+torrealba) | N/A |
+| 47 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 48 | [Bragas](http://twitter.com/search?q=Bragas) | N/A |
+| 49 | [El Libertador](http://twitter.com/search?q=El+Libertador) | N/A |
+| 50 | [Galak](http://twitter.com/search?q=Galak) | N/A |
 
 
 

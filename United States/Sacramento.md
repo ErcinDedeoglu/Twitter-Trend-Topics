@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-29 19:18:10 UTC`
+📆 Last Updated: `2023-03-29 20:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 2 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 3 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 4 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 1 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
+| 2 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 3 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 4 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
 | 5 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
 | 6 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
-| 7 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 8 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
+| 7 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 8 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
 | 9 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
 | 10 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 11 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 12 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 13 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
-| 14 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 15 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
-| 16 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 17 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
-| 18 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 19 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 20 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
-| 21 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 22 | [Epiphany](http://twitter.com/search?q=Epiphany) | N/A |
-| 23 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 24 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 25 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 26 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 27 | [Bill Simmons](http://twitter.com/search?q=Bill+Simmons) | N/A |
+| 11 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 12 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
+| 13 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 14 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
+| 15 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 16 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 17 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
+| 18 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 19 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 20 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 21 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
+| 22 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 23 | [Epiphany](http://twitter.com/search?q=Epiphany) | N/A |
+| 24 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 25 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 26 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
+| 27 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
 | 28 | [Melly](http://twitter.com/search?q=Melly) | N/A |
-| 29 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 30 | [Marvel Entertainment](http://twitter.com/search?q=Marvel+Entertainment) | N/A |
-| 31 | [Adult Swim](http://twitter.com/search?q=Adult+Swim) | Adult Swim is an American programming block of the cable network Cartoon Network that airs nightly from 8:00 p.m. to 6:00 a.m. Eastern and Pacific Time. It is programmed by Williams Street Productions, a subsidiary of Turner, which also developed two other programming blocks—Toonami (which later became a block on Adult Swim in 2012) and Miguzi. The name comes from a phrase used by public swimming pools in the United States to label designated times when children are restricted from using the facilities in favor of adults. |
-| 32 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
-| 33 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 34 | [Mr. Terrific](http://twitter.com/search?q=Mr.+Terrific) | N/A |
-| 35 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
-| 36 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
-| 37 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
-| 38 | [MELANIE MARTINEZ VOID](http://twitter.com/search?q=MELANIE+MARTINEZ+VOID) | N/A |
-| 39 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
-| 40 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 41 | [Manhattan Trump](http://twitter.com/search?q=Manhattan+Trump) | N/A |
-| 42 | [Florio](http://twitter.com/search?q=Florio) | N/A |
-| 43 | [Size 10.5](http://twitter.com/search?q=Size+10.5) | N/A |
-| 44 | [Zeds Dead](http://twitter.com/search?q=Zeds+Dead) | N/A |
-| 45 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
-| 46 | [Liquid Stranger](http://twitter.com/search?q=Liquid+Stranger) | N/A |
-| 47 | [The Terrifics](http://twitter.com/search?q=The+Terrifics) | N/A |
-| 48 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
-| 49 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
+| 29 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 30 | [Vietnam War](http://twitter.com/search?q=Vietnam+War) | N/A |
+| 31 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 32 | [Bill Simmons](http://twitter.com/search?q=Bill+Simmons) | N/A |
+| 33 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
+| 34 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
+| 35 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 36 | [Mike Flanagan](http://twitter.com/search?q=Mike+Flanagan) | N/A |
+| 37 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 38 | [Marvel Entertainment](http://twitter.com/search?q=Marvel+Entertainment) | N/A |
+| 39 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
+| 40 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
+| 41 | [Moskowitz](http://twitter.com/search?q=Moskowitz) | N/A |
+| 42 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
+| 43 | [Adult Swim](http://twitter.com/search?q=Adult+Swim) | Adult Swim is an American programming block of the cable network Cartoon Network that airs nightly from 8:00 p.m. to 6:00 a.m. Eastern and Pacific Time. It is programmed by Williams Street Productions, a subsidiary of Turner, which also developed two other programming blocks—Toonami (which later became a block on Adult Swim in 2012) and Miguzi. The name comes from a phrase used by public swimming pools in the United States to label designated times when children are restricted from using the facilities in favor of adults. |
+| 44 | [Mr. Terrific](http://twitter.com/search?q=Mr.+Terrific) | N/A |
+| 45 | [Tay K](http://twitter.com/search?q=Tay+K) | N/A |
+| 46 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
+| 47 | [MELANIE MARTINEZ VOID](http://twitter.com/search?q=MELANIE+MARTINEZ+VOID) | N/A |
+| 48 | [Jordan Phillips](http://twitter.com/search?q=Jordan+Phillips) | N/A |
+| 49 | [Manhattan Trump](http://twitter.com/search?q=Manhattan+Trump) | N/A |
 
 
 

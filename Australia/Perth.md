@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-29 19:17:40 UTC`
+📆 Last Updated: `2023-03-29 20:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Australia](</Australia>)
 | 6 | [America](http://twitter.com/search?q=America) | N/A |
 | 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 8 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 9 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 10 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 11 | [peter bol](http://twitter.com/search?q=peter+bol) | N/A |
-| 12 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 13 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
-| 14 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
-| 15 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
+| 9 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 10 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 11 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
+| 12 | [peter bol](http://twitter.com/search?q=peter+bol) | N/A |
+| 13 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
+| 14 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
+| 15 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
 | 16 | [Welcome to Country](http://twitter.com/search?q=Welcome+to+Country) | N/A |
-| 17 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 17 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
 | 18 | [Coalition MPs](http://twitter.com/search?q=Coalition+MPs) | N/A |
 | 19 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
 | 20 | [andrew hastie](http://twitter.com/search?q=andrew+hastie) | N/A |
-| 21 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 22 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 23 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
+| 21 | [sandown](http://twitter.com/search?q=sandown) | N/A |
+| 22 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 23 | [For You](http://twitter.com/search?q=For+You) | N/A |
 | 24 | [paul brereton](http://twitter.com/search?q=paul+brereton) | N/A |
-| 25 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 26 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 27 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 28 | [John Kerin](http://twitter.com/search?q=John+Kerin) | N/A |
-| 29 | [llew o'brien](http://twitter.com/search?q=llew+o%27brien) | N/A |
-| 30 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 31 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 32 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 33 | [milton dick](http://twitter.com/search?q=milton+dick) | N/A |
-| 34 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 35 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
-| 36 | [Gould](http://twitter.com/search?q=Gould) | Gould is a surname of English origin. It is derived from the Old English word "gold" and was originally used to denote someone who worked with gold or was wealthy. |
-| 37 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
-| 38 | [indue](http://twitter.com/search?q=indue) | N/A |
-| 39 | [trent robinson](http://twitter.com/search?q=trent+robinson) | N/A |
-| 40 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
-| 41 | [ted o'brien](http://twitter.com/search?q=ted+o%27brien) | N/A |
-| 42 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 43 | [urge the environment minister](http://twitter.com/search?q=urge+the+environment+minister) | N/A |
-| 44 | [michael pascoe](http://twitter.com/search?q=michael+pascoe) | N/A |
-| 45 | [Liberal MPs](http://twitter.com/search?q=Liberal+MPs) | N/A |
-| 46 | [add your name](http://twitter.com/search?q=add+your+name) | N/A |
-| 47 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 48 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
-| 49 | [peter v'landys](http://twitter.com/search?q=peter+v%27landys) | N/A |
+| 25 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 26 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 27 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 28 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 29 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
+| 30 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 31 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 32 | [llew o'brien](http://twitter.com/search?q=llew+o%27brien) | N/A |
+| 33 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
+| 34 | [indue](http://twitter.com/search?q=indue) | N/A |
+| 35 | [trent robinson](http://twitter.com/search?q=trent+robinson) | N/A |
+| 36 | [John Kerin](http://twitter.com/search?q=John+Kerin) | N/A |
+| 37 | [Sandy Hook](http://twitter.com/search?q=Sandy+Hook) | N/A |
+| 38 | [dan tehan](http://twitter.com/search?q=dan+tehan) | N/A |
+| 39 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 40 | [Milton Dick](http://twitter.com/search?q=Milton+Dick) | N/A |
+| 41 | [michael pascoe](http://twitter.com/search?q=michael+pascoe) | N/A |
+| 42 | [Liberal MPs](http://twitter.com/search?q=Liberal+MPs) | N/A |
+| 43 | [Urge the Environment Minister](http://twitter.com/search?q=Urge+the+Environment+Minister) | N/A |
+| 44 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 45 | [sydney harbour bridge](http://twitter.com/search?q=sydney+harbour+bridge) | N/A |
+| 46 | [zoe mckenzie](http://twitter.com/search?q=zoe+mckenzie) | N/A |
+| 47 | [ADD YOUR NAME](http://twitter.com/search?q=ADD+YOUR+NAME) | N/A |
+| 48 | [Jacinta](http://twitter.com/search?q=Jacinta) | N/A |
+| 49 | [ted o'brien](http://twitter.com/search?q=ted+o%27brien) | N/A |
 
 
 

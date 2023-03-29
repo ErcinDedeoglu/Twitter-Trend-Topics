@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-03-29 19:17:22 UTC`
+📆 Last Updated: `2023-03-29 20:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,47 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CortaPorLozano](http://twitter.com/search?q=%23CortaPorLozano) | N/A |
-| 2 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 3 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 4 | [Gayoso](http://twitter.com/search?q=Gayoso) | N/A |
-| 5 | [#jeymammon](http://twitter.com/search?q=%23jeymammon) | N/A |
-| 6 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 7 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 8 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
-| 9 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
-| 10 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 11 | [Es 29](http://twitter.com/search?q=Es+29) | N/A |
-| 12 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 13 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 14 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
-| 15 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 16 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 17 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 18 | [Mundial Sub 20](http://twitter.com/search?q=Mundial+Sub+20) | N/A |
-| 19 | [#InformeDeGestión](http://twitter.com/search?q=%23InformeDeGesti%c3%b3n) | N/A |
-| 20 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 21 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
-| 22 | [Marian](http://twitter.com/search?q=Marian) | N/A |
-| 23 | [#TorneoProyeccion](http://twitter.com/search?q=%23TorneoProyeccion) | N/A |
-| 24 | [La FIFA](http://twitter.com/search?q=La+FIFA) | N/A |
-| 25 | [Jefe de Gabinete](http://twitter.com/search?q=Jefe+de+Gabinete) | N/A |
-| 26 | [Sforza](http://twitter.com/search?q=Sforza) | N/A |
-| 27 | [Espert](http://twitter.com/search?q=Espert) | N/A |
-| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 29 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
-| 30 | [Estol](http://twitter.com/search?q=Estol) | N/A |
-| 31 | [Guiso](http://twitter.com/search?q=Guiso) | N/A |
-| 32 | [Awada](http://twitter.com/search?q=Awada) | N/A |
-| 33 | [Frusciante](http://twitter.com/search?q=Frusciante) | N/A |
-| 34 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 2 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 3 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 4 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 5 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 6 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
+| 7 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 8 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 10 | [Gayoso](http://twitter.com/search?q=Gayoso) | N/A |
+| 11 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 12 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
+| 13 | [Costa Salguero](http://twitter.com/search?q=Costa+Salguero) | N/A |
+| 14 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 15 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
+| 16 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 17 | [Darthes](http://twitter.com/search?q=Darthes) | N/A |
+| 18 | [Es 29](http://twitter.com/search?q=Es+29) | N/A |
+| 19 | [#ALaTarde](http://twitter.com/search?q=%23ALaTarde) | N/A |
+| 20 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 21 | [Gabinete](http://twitter.com/search?q=Gabinete) | N/A |
+| 22 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 23 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
+| 24 | [Mundial Sub 20](http://twitter.com/search?q=Mundial+Sub+20) | N/A |
+| 25 | [Awada](http://twitter.com/search?q=Awada) | N/A |
+| 26 | [La FIFA](http://twitter.com/search?q=La+FIFA) | N/A |
+| 27 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 28 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 29 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 30 | [RHCP](http://twitter.com/search?q=RHCP) | N/A |
+| 31 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
+| 32 | [Marian](http://twitter.com/search?q=Marian) | N/A |
+| 33 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
+| 34 | [Estol](http://twitter.com/search?q=Estol) | N/A |
 | 35 | [Red Hot](http://twitter.com/search?q=Red+Hot) | N/A |
-| 36 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
+| 36 | [Russo](http://twitter.com/search?q=Russo) | N/A |
 | 37 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
-| 38 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 39 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 40 | [Chiqui](http://twitter.com/search?q=Chiqui) | N/A |
-| 41 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 42 | [Gracias Negro](http://twitter.com/search?q=Gracias+Negro) | N/A |
-| 43 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 44 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 45 | [Reato](http://twitter.com/search?q=Reato) | N/A |
+| 38 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 39 | [Gracias Negro](http://twitter.com/search?q=Gracias+Negro) | N/A |
+| 40 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
+| 41 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
+| 42 | [Chiqui](http://twitter.com/search?q=Chiqui) | N/A |
 
 
 

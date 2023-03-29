@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-03-29 19:17:23 UTC`
+📆 Last Updated: `2023-03-29 20:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Alausí](http://twitter.com/search?q=Alaus%c3%ad) | N/A |
-| 2 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 3 | [Copero](http://twitter.com/search?q=Copero) | N/A |
-| 4 | [Nathaly López](http://twitter.com/search?q=Nathaly+L%c3%b3pez) | N/A |
-| 5 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 6 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
-| 7 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
-| 8 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 9 | [Aguinaga](http://twitter.com/search?q=Aguinaga) | N/A |
-| 10 | [IESS](http://twitter.com/search?q=IESS) | N/A |
-| 11 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 12 | [#MuerteCruzada](http://twitter.com/search?q=%23MuerteCruzada) | N/A |
-| 13 | [#latrixecdf](http://twitter.com/search?q=%23latrixecdf) | N/A |
-| 14 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
-| 15 | [Pacho](http://twitter.com/search?q=Pacho) | N/A |
-| 16 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 17 | [#noreformaloes](http://twitter.com/search?q=%23noreformaloes) | N/A |
-| 18 | [Guaraní](http://twitter.com/search?q=Guaran%c3%ad) | N/A |
-| 19 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
-| 20 | [#MundialSub20](http://twitter.com/search?q=%23MundialSub20) | N/A |
-| 21 | [La Corte Constitucional](http://twitter.com/search?q=La+Corte+Constitucional) | N/A |
-| 22 | [Antonio Valencia](http://twitter.com/search?q=Antonio+Valencia) | N/A |
-| 23 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
-| 24 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 25 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 26 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 27 | [Kevin Rodríguez](http://twitter.com/search?q=Kevin+Rodr%c3%adguez) | N/A |
-| 28 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
-| 29 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | N/A |
-| 30 | [#ImbaburaDecidió](http://twitter.com/search?q=%23ImbaburaDecidi%c3%b3) | N/A |
-| 31 | [HTMC](http://twitter.com/search?q=HTMC) | N/A |
-| 32 | [Bucaram](http://twitter.com/search?q=Bucaram) | N/A |
-| 33 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
-| 34 | [Directora](http://twitter.com/search?q=Directora) | N/A |
-| 35 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
-| 36 | [Grupo B](http://twitter.com/search?q=Grupo+B) | N/A |
-| 37 | [Chucho](http://twitter.com/search?q=Chucho) | N/A |
-| 38 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 39 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
-| 40 | [Salcedo](http://twitter.com/search?q=Salcedo) | N/A |
-| 41 | [La pradera](http://twitter.com/search?q=La+pradera) | N/A |
-| 42 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
-| 43 | [Pervis](http://twitter.com/search?q=Pervis) | N/A |
-| 44 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 45 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 46 | [Ordoñez](http://twitter.com/search?q=Ordo%c3%b1ez) | N/A |
-| 47 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
-| 48 | [ley de aguas](http://twitter.com/search?q=ley+de+aguas) | N/A |
-| 49 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
-| 50 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 2 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 3 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 4 | [Copero](http://twitter.com/search?q=Copero) | N/A |
+| 5 | [Nathaly López](http://twitter.com/search?q=Nathaly+L%c3%b3pez) | N/A |
+| 6 | [Aguinaga](http://twitter.com/search?q=Aguinaga) | N/A |
+| 7 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
+| 8 | [Mondaini](http://twitter.com/search?q=Mondaini) | N/A |
+| 9 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 10 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
+| 11 | [Teodoro Maldonado](http://twitter.com/search?q=Teodoro+Maldonado) | N/A |
+| 12 | [IESS](http://twitter.com/search?q=IESS) | N/A |
+| 13 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 14 | [#MuerteCruzada](http://twitter.com/search?q=%23MuerteCruzada) | N/A |
+| 15 | [#latrixecdf](http://twitter.com/search?q=%23latrixecdf) | N/A |
+| 16 | [Antonio Valencia](http://twitter.com/search?q=Antonio+Valencia) | N/A |
+| 17 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 18 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 19 | [#noreformaloes](http://twitter.com/search?q=%23noreformaloes) | N/A |
+| 20 | [Guaraní](http://twitter.com/search?q=Guaran%c3%ad) | N/A |
+| 21 | [Cerro](http://twitter.com/search?q=Cerro) | N/A |
+| 22 | [La Corte Constitucional](http://twitter.com/search?q=La+Corte+Constitucional) | N/A |
+| 23 | [Pacho](http://twitter.com/search?q=Pacho) | N/A |
+| 24 | [#ImbaburaDecidió](http://twitter.com/search?q=%23ImbaburaDecidi%c3%b3) | N/A |
+| 25 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
+| 26 | [La FIFA](http://twitter.com/search?q=La+FIFA) | N/A |
+| 27 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
+| 28 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 29 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 30 | [HTMC](http://twitter.com/search?q=HTMC) | N/A |
+| 31 | [Grupo B](http://twitter.com/search?q=Grupo+B) | N/A |
+| 32 | [#laloessedefiende](http://twitter.com/search?q=%23laloessedefiende) | N/A |
+| 33 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
+| 34 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 35 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 36 | [Ordoñez](http://twitter.com/search?q=Ordo%c3%b1ez) | N/A |
+| 37 | [Chimborazo](http://twitter.com/search?q=Chimborazo) | N/A |
+| 38 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
+| 39 | [Bucaram](http://twitter.com/search?q=Bucaram) | N/A |
+| 40 | [pervis](http://twitter.com/search?q=pervis) | N/A |
+| 41 | [la pradera](http://twitter.com/search?q=la+pradera) | N/A |
+| 42 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
+| 43 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 44 | [Noboa](http://twitter.com/search?q=Noboa) | N/A |
+| 45 | [Quedaste](http://twitter.com/search?q=Quedaste) | N/A |
+| 46 | [Botafogo](http://twitter.com/search?q=Botafogo) | Botafogo is a neighborhood in Rio de Janeiro, Brazil. The name Botafogo comes from the Portuguese phrase "bota fogo," which means "set fire." It is believed to have originated from a local legend about a brave warrior who set fire to the enemy's boats during a battle. |
+| 47 | [Indio](http://twitter.com/search?q=Indio) | N/A |
+| 48 | [kevin rodriguez](http://twitter.com/search?q=kevin+rodriguez) | N/A |
+| 49 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 50 | [Directora](http://twitter.com/search?q=Directora) | N/A |
 
 
 

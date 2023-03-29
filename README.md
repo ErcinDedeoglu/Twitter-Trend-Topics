@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-29 19:17:12 UTC`
+📆 Last Updated: `2023-03-29 20:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CbYanikSHUyuGörmüyor](http://twitter.com/search?q=%23CbYanikSHUyuG%c3%b6rm%c3%bcyor) | N/A |
-| 2 | [#فوازير_غازي_الذيابي4](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a4) | N/A |
-| 3 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 4 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 5 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
-| 6 | [#muharremince](http://twitter.com/search?q=%23muharremince) | N/A |
-| 7 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 1 | [#فوازير_غازي_الذيابي4](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a4) | N/A |
+| 2 | [#CbYanikSHUyuGörmüyor](http://twitter.com/search?q=%23CbYanikSHUyuG%c3%b6rm%c3%bcyor) | N/A |
+| 3 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 4 | [#RecepTayyipErdoğan](http://twitter.com/search?q=%23RecepTayyipErdo%c4%9fan) | N/A |
+| 5 | [#MaaşımaZamŞart](http://twitter.com/search?q=%23Maa%c5%9f%c4%b1maZam%c5%9eart) | N/A |
+| 6 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 7 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
 | 8 | [MebAlanDeğişikliği](http://twitter.com/search?q=MebAlanDe%c4%9fi%c5%9fikli%c4%9fi) | N/A |
-| 9 | [Mustafa Bozdoğan](http://twitter.com/search?q=Mustafa+Bozdo%c4%9fan) | N/A |
-| 10 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 11 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 12 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 13 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 14 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
-| 15 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 16 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 17 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 18 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 19 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 20 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
+| 9 | [Gündem Özel](http://twitter.com/search?q=G%c3%bcndem+%c3%96zel) | N/A |
+| 10 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 11 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 12 | [Mustafa Bozdoğan](http://twitter.com/search?q=Mustafa+Bozdo%c4%9fan) | N/A |
+| 13 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 14 | [يابو فيصل](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%81%d9%8a%d8%b5%d9%84) | N/A |
+| 15 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 16 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 17 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 18 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 19 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
+| 20 | [Maanum](http://twitter.com/search?q=Maanum) | N/A |
 | 21 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 22 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 23 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 24 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 25 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 26 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 27 | [モバマス](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%83%9e%e3%82%b9) | N/A |
-| 28 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 29 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
-| 30 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 31 | [Mapi](http://twitter.com/search?q=Mapi) | N/A |
-| 32 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 33 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
-| 34 | [MilletinSesi İİBFyiDuy](http://twitter.com/search?q=MilletinSesi+%c4%b0%c4%b0BFyiDuy) | N/A |
-| 35 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 36 | [ArtıkSıra TaşeronaKadro](http://twitter.com/search?q=Art%c4%b1kS%c4%b1ra+Ta%c5%9feronaKadro) | N/A |
-| 37 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 38 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
-| 39 | [Ersin Tatar](http://twitter.com/search?q=Ersin+Tatar) | N/A |
-| 40 | [Michel Araújo](http://twitter.com/search?q=Michel+Ara%c3%bajo) | Michel Araújo is a Portuguese name. It is derived from the Hebrew name Michael, which means "who is like God". |
-| 41 | [HAPPY BIRTHDAY CHAEUNWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHAEUNWOO) | N/A |
-| 42 | [Güle Güle](http://twitter.com/search?q=G%c3%bcle+G%c3%bcle) | N/A |
-| 43 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 44 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 45 | [Gel Muharrem](http://twitter.com/search?q=Gel+Muharrem) | N/A |
-| 46 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 47 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
-| 48 | [MELANIE MARTINEZ VOID](http://twitter.com/search?q=MELANIE+MARTINEZ+VOID) | N/A |
-| 49 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 50 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
+| 22 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 23 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 24 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 25 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 26 | [Gel Muharrem](http://twitter.com/search?q=Gel+Muharrem) | N/A |
+| 27 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
+| 28 | [Ersin Tatar](http://twitter.com/search?q=Ersin+Tatar) | N/A |
+| 29 | [ZLAN](http://twitter.com/search?q=ZLAN) | N/A |
+| 30 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 31 | [يمين الطريق](http://twitter.com/search?q=%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b7%d8%b1%d9%8a%d9%82) | N/A |
+| 32 | [ERDOĞANLA DEVAM](http://twitter.com/search?q=ERDO%c4%9eANLA+DEVAM) | N/A |
+| 33 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
+| 34 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 35 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 36 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 37 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 38 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
+| 39 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 40 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 41 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
+| 42 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
+| 43 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 44 | [ArtıkSıra TaşeronaKadro](http://twitter.com/search?q=Art%c4%b1kS%c4%b1ra+Ta%c5%9feronaKadro) | N/A |
+| 45 | [رييس الدوله](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 46 | [Kim Little](http://twitter.com/search?q=Kim+Little) | N/A |
+| 47 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 48 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 49 | [Mike Flanagan](http://twitter.com/search?q=Mike+Flanagan) | N/A |
+| 50 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
 
 
 
