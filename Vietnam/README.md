@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-29 09:18:17 UTC`
+📆 Last Updated: `2023-03-29 10:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Vietnam
 | 6 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
 | 7 | [all for luve](http://twitter.com/search?q=all+for+luve) | N/A |
 | 8 | [LNPH APOLOGIZE TO LISA](http://twitter.com/search?q=LNPH+APOLOGIZE+TO+LISA) | N/A |
-| 9 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
-| 10 | [Wombat](http://twitter.com/search?q=Wombat) | N/A |
-| 11 | [FFF Asean Party](http://twitter.com/search?q=FFF+Asean+Party) | N/A |
-| 12 | [Cuối Cùng Thì](http://twitter.com/search?q=Cu%e1%bb%91i+C%c3%b9ng+Th%c3%ac) | N/A |
-| 13 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
-| 14 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 15 | [JAM X FILM](http://twitter.com/search?q=JAM+X+FILM) | JAM X FILM is a Japanese production company that specializes in creating music videos, commercials, and other visual media. The name is derived from the phrase "jam session" and the idea of creating a film. In English, it can be translated to mean "creating a film through collaboration". |
-| 16 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 17 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
-| 18 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 19 | [$MATIC](http://twitter.com/search?q=%24MATIC) | N/A |
-| 20 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 21 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 22 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 23 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 24 | [Mình](http://twitter.com/search?q=M%c3%acnh) | N/A |
-| 25 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 26 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
-| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 28 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 29 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 30 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 31 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 32 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
-| 33 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
-| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 35 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
-| 36 | [đăng](http://twitter.com/search?q=%c4%91%c4%83ng) | N/A |
-| 37 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 38 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 39 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 40 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 41 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 42 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 43 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 44 | [Cần Thơ](http://twitter.com/search?q=C%e1%ba%a7n+Th%c6%a1) | N/A |
-| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 46 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
-| 47 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 48 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 49 | [Tưởng](http://twitter.com/search?q=T%c6%b0%e1%bb%9fng) | N/A |
-| 50 | [Nhóm](http://twitter.com/search?q=Nh%c3%b3m) | N/A |
+| 9 | [seop](http://twitter.com/search?q=seop) | N/A |
+| 10 | [CFTC](http://twitter.com/search?q=CFTC) | N/A |
+| 11 | [Wombat](http://twitter.com/search?q=Wombat) | N/A |
+| 12 | [fff asean party](http://twitter.com/search?q=fff+asean+party) | N/A |
+| 13 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
+| 14 | [JISOO MILLION SELLER](http://twitter.com/search?q=JISOO+MILLION+SELLER) | N/A |
+| 15 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 16 | [JAM X FILM](http://twitter.com/search?q=JAM+X+FILM) | JAM X FILM is a Japanese production company that specializes in creating music videos, commercials, and other visual media. The name is derived from the phrase "jam session" and the idea of creating a film. In English, it can be translated to mean "creating a film through collaboration". |
+| 17 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 18 | [$MATIC](http://twitter.com/search?q=%24MATIC) | N/A |
+| 19 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 20 | [Hàn Quốc](http://twitter.com/search?q=H%c3%a0n+Qu%e1%bb%91c) | N/A |
+| 21 | [Những](http://twitter.com/search?q=Nh%e1%bb%afng) | N/A |
+| 22 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 23 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
+| 24 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 25 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 26 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 27 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 29 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
+| 30 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 31 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 32 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 33 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
+| 34 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
+| 35 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 36 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
+| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 38 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 39 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 40 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 41 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 42 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 43 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
+| 44 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 45 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
+| 46 | [Cần Thơ](http://twitter.com/search?q=C%e1%ba%a7n+Th%c6%a1) | N/A |
+| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 48 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 49 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
+| 50 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
 
 
 

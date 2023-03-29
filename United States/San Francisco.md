@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-03-29 09:18:08 UTC`
+📆 Last Updated: `2023-03-29 10:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
 | 5 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
 | 6 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 7 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 8 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 9 | [#JJK218](http://twitter.com/search?q=%23JJK218) | N/A |
-| 10 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
-| 11 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 12 | [pels](http://twitter.com/search?q=pels) | N/A |
-| 13 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 14 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 15 | [RODY](http://twitter.com/search?q=RODY) | N/A |
-| 16 | [Looney](http://twitter.com/search?q=Looney) | N/A |
-| 17 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 18 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 19 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 20 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 21 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
-| 22 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 23 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
-| 24 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
-| 25 | [Zava](http://twitter.com/search?q=Zava) | N/A |
-| 26 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
-| 27 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
-| 28 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 29 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 9 | [#Wordle648](http://twitter.com/search?q=%23Wordle648) | N/A |
+| 10 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 11 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 12 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 13 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 14 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 15 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 16 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 17 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 18 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
+| 19 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 20 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 21 | [Looney](http://twitter.com/search?q=Looney) | N/A |
+| 22 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
+| 23 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
+| 24 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 25 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
+| 26 | [Zava](http://twitter.com/search?q=Zava) | N/A |
+| 27 | [Kuminga](http://twitter.com/search?q=Kuminga) | Kuminga is a given name of African origin, derived from the Kikuyu language of Kenya. It means "the one who comes first" or "the firstborn". |
+| 28 | [Dubs](http://twitter.com/search?q=Dubs) | N/A |
+| 29 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
 | 30 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
 | 31 | [hotch](http://twitter.com/search?q=hotch) | N/A |
-| 32 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
-| 33 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 32 | [DJ Wagner](http://twitter.com/search?q=DJ+Wagner) | N/A |
+| 33 | [Trent Crimm](http://twitter.com/search?q=Trent+Crimm) | N/A |
 | 34 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 35 | [Vans](http://twitter.com/search?q=Vans) | N/A |
-| 36 | [Stand By Me](http://twitter.com/search?q=Stand+By+Me) | N/A |
-| 37 | [Utah Valley](http://twitter.com/search?q=Utah+Valley) | N/A |
-| 38 | [Collier](http://twitter.com/search?q=Collier) | N/A |
-| 39 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 40 | [Mikey](http://twitter.com/search?q=Mikey) | N/A |
-| 41 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 42 | [Robert Plant](http://twitter.com/search?q=Robert+Plant) | N/A |
-| 43 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 44 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 45 | [Ohio River](http://twitter.com/search?q=Ohio+River) | N/A |
-| 46 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
-| 47 | [Froggy](http://twitter.com/search?q=Froggy) | N/A |
-| 48 | [Safemoon](http://twitter.com/search?q=Safemoon) | N/A |
-| 49 | [Whoopi](http://twitter.com/search?q=Whoopi) | "Whoopi" is a slang term used to express excitement or enthusiasm. It is often used as an exclamation of joy or approval. The origin of the term is unknown, but it has been in use since at least the early 2000s. |
-| 50 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 35 | [Stand By Me](http://twitter.com/search?q=Stand+By+Me) | N/A |
+| 36 | [Robert Plant](http://twitter.com/search?q=Robert+Plant) | N/A |
+| 37 | [Collier](http://twitter.com/search?q=Collier) | N/A |
+| 38 | [Vans](http://twitter.com/search?q=Vans) | N/A |
+| 39 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 40 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
+| 41 | [Conference USA](http://twitter.com/search?q=Conference+USA) | N/A |
+| 42 | [Ohio River](http://twitter.com/search?q=Ohio+River) | N/A |
+| 43 | [Froggy](http://twitter.com/search?q=Froggy) | N/A |
+| 44 | [Safemoon](http://twitter.com/search?q=Safemoon) | N/A |
+| 45 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 46 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 47 | [Gard](http://twitter.com/search?q=Gard) | N/A |
+| 48 | [#JJK218](http://twitter.com/search?q=%23JJK218) | N/A |
+| 49 | [#MHA384](http://twitter.com/search?q=%23MHA384) | N/A |
+| 50 | [#BCSpoilers](http://twitter.com/search?q=%23BCSpoilers) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-29 09:17:36 UTC`
+📆 Last Updated: `2023-03-29 10:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#autest](http://twitter.com/search?q=%23autest) | N/A |
-| 2 | [#w2803](http://twitter.com/search?q=%23w2803) | N/A |
-| 3 | [#blockgas](http://twitter.com/search?q=%23blockgas) | N/A |
+| 2 | [#OeNR](http://twitter.com/search?q=%23OeNR) | N/A |
+| 3 | [#w2803](http://twitter.com/search?q=%23w2803) | N/A |
 | 4 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
-| 5 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
-| 6 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 7 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
-| 8 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 9 | [Aufsichtsrat](http://twitter.com/search?q=Aufsichtsrat) | N/A |
-| 10 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 11 | [christian deutsch](http://twitter.com/search?q=christian+deutsch) | N/A |
-| 12 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
-| 13 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 5 | [#blockgas](http://twitter.com/search?q=%23blockgas) | N/A |
+| 6 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 7 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 8 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
+| 9 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 10 | [Aufsichtsrat](http://twitter.com/search?q=Aufsichtsrat) | N/A |
+| 11 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 12 | [christian deutsch](http://twitter.com/search?q=christian+deutsch) | N/A |
+| 13 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
 | 14 | [#EuropeanGasConference](http://twitter.com/search?q=%23EuropeanGasConference) | N/A |
-| 15 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 16 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 17 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 18 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 19 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
-| 20 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
-| 21 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 22 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
-| 23 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 24 | [Wasserwerfer](http://twitter.com/search?q=Wasserwerfer) | N/A |
-| 25 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 26 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
-| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 28 | [Köstinger](http://twitter.com/search?q=K%c3%b6stinger) | N/A |
-| 29 | [Estland](http://twitter.com/search?q=Estland) | N/A |
-| 30 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 31 | [stimmungsbild](http://twitter.com/search?q=stimmungsbild) | N/A |
-| 32 | [Wille](http://twitter.com/search?q=Wille) | N/A |
+| 15 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 16 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 17 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 18 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 19 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 21 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
+| 22 | [Karriere](http://twitter.com/search?q=Karriere) | N/A |
+| 23 | [Wasserwerfer](http://twitter.com/search?q=Wasserwerfer) | N/A |
+| 24 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 26 | [Köstinger](http://twitter.com/search?q=K%c3%b6stinger) | N/A |
+| 27 | [Estland](http://twitter.com/search?q=Estland) | N/A |
+| 28 | [Elli](http://twitter.com/search?q=Elli) | N/A |
+| 29 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 30 | [stimmungsbild](http://twitter.com/search?q=stimmungsbild) | N/A |
+| 31 | [Wille](http://twitter.com/search?q=Wille) | N/A |
+| 32 | [Steuerzahler](http://twitter.com/search?q=Steuerzahler) | N/A |
 | 33 | [Karin](http://twitter.com/search?q=Karin) | N/A |
 | 34 | [Preise](http://twitter.com/search?q=Preise) | N/A |
 | 35 | [liesing](http://twitter.com/search?q=liesing) | N/A |
 | 36 | [Institution](http://twitter.com/search?q=Institution) | N/A |
-| 37 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
-| 38 | [Versorgung](http://twitter.com/search?q=Versorgung) | N/A |
-| 39 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 40 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 41 | [Elli](http://twitter.com/search?q=Elli) | N/A |
-| 42 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 43 | [Sozialleistungen](http://twitter.com/search?q=Sozialleistungen) | N/A |
-| 44 | [statut](http://twitter.com/search?q=statut) | N/A |
-| 45 | [Polaschek](http://twitter.com/search?q=Polaschek) | N/A |
-| 46 | [Wohnen](http://twitter.com/search?q=Wohnen) | N/A |
-| 47 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
-| 50 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
+| 37 | [Versorgung](http://twitter.com/search?q=Versorgung) | N/A |
+| 38 | [Funktionen](http://twitter.com/search?q=Funktionen) | N/A |
+| 39 | [Regierungen](http://twitter.com/search?q=Regierungen) | N/A |
+| 40 | [Argument](http://twitter.com/search?q=Argument) | N/A |
+| 41 | [Kredit](http://twitter.com/search?q=Kredit) | N/A |
+| 42 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 43 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 44 | [Therapie](http://twitter.com/search?q=Therapie) | N/A |
+| 45 | [statut](http://twitter.com/search?q=statut) | N/A |
+| 46 | [Polaschek](http://twitter.com/search?q=Polaschek) | N/A |
+| 47 | [Saison](http://twitter.com/search?q=Saison) | N/A |
+| 48 | [Wohnen](http://twitter.com/search?q=Wohnen) | N/A |
+| 49 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
+| 50 | [Ironie](http://twitter.com/search?q=Ironie) | N/A |
 
 
 

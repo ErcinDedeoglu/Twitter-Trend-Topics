@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-29 09:17:39 UTC`
+📆 Last Updated: `2023-03-29 10:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,52 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
 | 2 | [#29marzo](http://twitter.com/search?q=%2329marzo) | N/A |
 | 3 | [#nonVedono](http://twitter.com/search?q=%23nonVedono) | N/A |
-| 4 | [#dimartedi](http://twitter.com/search?q=%23dimartedi) | N/A |
+| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 5 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
 | 6 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
 | 7 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
 | 8 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 9 | [Molise](http://twitter.com/search?q=Molise) | N/A |
-| 10 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
-| 11 | [San Pietro](http://twitter.com/search?q=San+Pietro) | N/A |
+| 9 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 10 | [San Pietro](http://twitter.com/search?q=San+Pietro) | N/A |
+| 11 | [Condoglianze Paolo](http://twitter.com/search?q=Condoglianze+Paolo) | N/A |
 | 12 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 13 | [Condoglianze Paolo](http://twitter.com/search?q=Condoglianze+Paolo) | N/A |
+| 13 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
 | 14 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
 | 15 | [avvertita](http://twitter.com/search?q=avvertita) | N/A |
-| 16 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
-| 17 | [Sentita](http://twitter.com/search?q=Sentita) | N/A |
-| 18 | [Rubinetto](http://twitter.com/search?q=Rubinetto) | N/A |
-| 19 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
-| 20 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 21 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
-| 22 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 23 | [Rublev](http://twitter.com/search?q=Rublev) | Rublev is a Russian surname derived from the given name Ruben. It is most famously associated with the 15th century icon painter and monk Andrei Rublev, who is considered to be one of the greatest medieval Russian painters. The name Rublev can also refer to a type of traditional Russian bread roll. |
-| 24 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 25 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 26 | [Fondente](http://twitter.com/search?q=Fondente) | N/A |
-| 27 | [Tano](http://twitter.com/search?q=Tano) | N/A |
-| 28 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
-| 29 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
-| 30 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 31 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 32 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
-| 33 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 34 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 35 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 36 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 37 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 16 | [Sentita](http://twitter.com/search?q=Sentita) | N/A |
+| 17 | [Enzo Jannacci](http://twitter.com/search?q=Enzo+Jannacci) | N/A |
+| 18 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
+| 19 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 20 | [Vespa](http://twitter.com/search?q=Vespa) | N/A |
+| 21 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 22 | [Rublev](http://twitter.com/search?q=Rublev) | Rublev is a Russian surname derived from the given name Ruben. It is most famously associated with the 15th century icon painter and monk Andrei Rublev, who is considered to be one of the greatest medieval Russian painters. The name Rublev can also refer to a type of traditional Russian bread roll. |
+| 23 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 24 | [fondente](http://twitter.com/search?q=fondente) | N/A |
+| 25 | [Rubinetto](http://twitter.com/search?q=Rubinetto) | N/A |
+| 26 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 27 | [Anastasia](http://twitter.com/search?q=Anastasia) | N/A |
+| 28 | [Irina](http://twitter.com/search?q=Irina) | N/A |
+| 29 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 30 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 31 | [Furio Colombo](http://twitter.com/search?q=Furio+Colombo) | N/A |
+| 32 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 33 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 34 | [Roger Waters](http://twitter.com/search?q=Roger+Waters) | N/A |
+| 35 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 36 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 37 | [Puglia](http://twitter.com/search?q=Puglia) | N/A |
 | 38 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
-| 39 | [Abruzzo](http://twitter.com/search?q=Abruzzo) | N/A |
-| 40 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
-| 41 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
-| 42 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 43 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 44 | [Puglia](http://twitter.com/search?q=Puglia) | N/A |
+| 39 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 40 | [Rovelli](http://twitter.com/search?q=Rovelli) | N/A |
+| 41 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 42 | [Abruzzo](http://twitter.com/search?q=Abruzzo) | N/A |
+| 43 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 44 | [Buon Mercoledì](http://twitter.com/search?q=Buon+Mercoled%c3%ac) | N/A |
 | 45 | [Sergio Ermotti](http://twitter.com/search?q=Sergio+Ermotti) | N/A |
-| 46 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 47 | [Agatha Christie](http://twitter.com/search?q=Agatha+Christie) | N/A |
-| 48 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 46 | [Malan](http://twitter.com/search?q=Malan) | N/A |
+| 47 | [Gabriele Corsi](http://twitter.com/search?q=Gabriele+Corsi) | N/A |
+| 48 | [Caserta](http://twitter.com/search?q=Caserta) | N/A |
+| 49 | [Alitalia](http://twitter.com/search?q=Alitalia) | N/A |
 
 
 

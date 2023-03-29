@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-29 09:17:27 UTC`
+📆 Last Updated: `2023-03-29 10:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 2 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
-| 3 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 4 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
-| 5 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 6 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
-| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 8 | [#ASongOrMovieForLemons](http://twitter.com/search?q=%23ASongOrMovieForLemons) | N/A |
-| 9 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
-| 10 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
-| 11 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
-| 12 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 13 | [Cardiff Rugby](http://twitter.com/search?q=Cardiff+Rugby) | N/A |
-| 14 | [Ticketek](http://twitter.com/search?q=Ticketek) | N/A |
-| 15 | [Dominic Raab](http://twitter.com/search?q=Dominic+Raab) | N/A |
-| 16 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
-| 17 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 18 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 19 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 20 | [Streeting](http://twitter.com/search?q=Streeting) | N/A |
-| 21 | [Andre](http://twitter.com/search?q=Andre) | N/A |
-| 22 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 23 | [Big Breakfast](http://twitter.com/search?q=Big+Breakfast) | N/A |
-| 24 | [Rainbow Bridge](http://twitter.com/search?q=Rainbow+Bridge) | N/A |
-| 25 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
-| 26 | [Maidenhead](http://twitter.com/search?q=Maidenhead) | N/A |
-| 27 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 28 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 29 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 30 | [Devastating](http://twitter.com/search?q=Devastating) | N/A |
-| 31 | [Haney](http://twitter.com/search?q=Haney) | N/A |
-| 32 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 33 | [Shocked](http://twitter.com/search?q=Shocked) | N/A |
-| 34 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 35 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 36 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 37 | [Brexiters](http://twitter.com/search?q=Brexiters) | N/A |
-| 38 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 39 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 40 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
-| 41 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 42 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
-| 43 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 44 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 45 | [#pogdogs](http://twitter.com/search?q=%23pogdogs) | N/A |
-| 46 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 47 | [#WorldPianoDay](http://twitter.com/search?q=%23WorldPianoDay) | N/A |
-| 48 | [#waste](http://twitter.com/search?q=%23waste) | N/A |
-| 49 | [#ToriesOut265](http://twitter.com/search?q=%23ToriesOut265) | N/A |
+| 2 | [RIP Paul](http://twitter.com/search?q=RIP+Paul) | N/A |
+| 3 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 4 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 5 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 6 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 7 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
+| 8 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
+| 9 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 10 | [#TheBadBatch](http://twitter.com/search?q=%23TheBadBatch) | N/A |
+| 11 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 12 | [Premier League Hall of Fame](http://twitter.com/search?q=Premier+League+Hall+of+Fame) | N/A |
+| 13 | [#Boxing365](http://twitter.com/search?q=%23Boxing365) | N/A |
+| 14 | [#ASongOrMovieForLemons](http://twitter.com/search?q=%23ASongOrMovieForLemons) | N/A |
+| 15 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
+| 16 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
+| 17 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 18 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
+| 19 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 20 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 21 | [Ticketek](http://twitter.com/search?q=Ticketek) | N/A |
+| 22 | [Cardiff Rugby](http://twitter.com/search?q=Cardiff+Rugby) | N/A |
+| 23 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 24 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 25 | [Fanfest](http://twitter.com/search?q=Fanfest) | N/A |
+| 26 | [Streeting](http://twitter.com/search?q=Streeting) | N/A |
+| 27 | [Peter Thomas](http://twitter.com/search?q=Peter+Thomas) | N/A |
+| 28 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
+| 29 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 30 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 31 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 32 | [Miss Hannigan](http://twitter.com/search?q=Miss+Hannigan) | N/A |
+| 33 | [Maidenhead](http://twitter.com/search?q=Maidenhead) | N/A |
+| 34 | [Big Breakfast](http://twitter.com/search?q=Big+Breakfast) | N/A |
+| 35 | [Andre](http://twitter.com/search?q=Andre) | N/A |
+| 36 | [National Treasure](http://twitter.com/search?q=National+Treasure) | N/A |
+| 37 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 38 | [Rainbow Bridge](http://twitter.com/search?q=Rainbow+Bridge) | N/A |
+| 39 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 40 | [Shocked](http://twitter.com/search?q=Shocked) | N/A |
+| 41 | [Terribly](http://twitter.com/search?q=Terribly) | N/A |
+| 42 | [Drag](http://twitter.com/search?q=Drag) | N/A |
+| 43 | [Devastating](http://twitter.com/search?q=Devastating) | N/A |
+| 44 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 45 | [Haney](http://twitter.com/search?q=Haney) | N/A |
+| 46 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 47 | [Great Expectations](http://twitter.com/search?q=Great+Expectations) | N/A |
+| 48 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 49 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 50 | [Easter Sunday](http://twitter.com/search?q=Easter+Sunday) | N/A |
 
 
 

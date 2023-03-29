@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-29 09:18:00 UTC`
+📆 Last Updated: `2023-03-29 10:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BuSeçim](http://twitter.com/search?q=%23BuSe%c3%a7im) | N/A |
-| 2 | [Baharın Yalanları](http://twitter.com/search?q=Bahar%c4%b1n+Yalanlar%c4%b1) | N/A |
-| 3 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 4 | [#MemuraRefahZammı](http://twitter.com/search?q=%23MemuraRefahZamm%c4%b1) | N/A |
-| 5 | [#İlkTurdaBitecek](http://twitter.com/search?q=%23%c4%b0lkTurdaBitecek) | N/A |
-| 6 | [Cengiz](http://twitter.com/search?q=Cengiz) | N/A |
-| 7 | [Kuntz](http://twitter.com/search?q=Kuntz) | N/A |
-| 8 | [#SanaSöz](http://twitter.com/search?q=%23SanaS%c3%b6z) | N/A |
-| 9 | [#5BindeKısmideABOdaBiziz](http://twitter.com/search?q=%235BindeK%c4%b1smideABOdaBiziz) | N/A |
-| 10 | [Kayıp Bakan Nemo](http://twitter.com/search?q=Kay%c4%b1p+Bakan+Nemo) | N/A |
-| 11 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
-| 12 | [Türkiye - Hırvatistan](http://twitter.com/search?q=T%c3%bcrkiye+-+H%c4%b1rvatistan) | N/A |
-| 13 | [Müjdat Gezen](http://twitter.com/search?q=M%c3%bcjdat+Gezen) | N/A |
-| 14 | [Ferdi](http://twitter.com/search?q=Ferdi) | Ferdi is a nickname for Ferdinand, which is a Germanic name derived from the Old High German words "fardi" (protection) and "nand" (brave). In English, it means brave protector. |
-| 15 | [Sergen Yalçın](http://twitter.com/search?q=Sergen+Yal%c3%a7%c4%b1n) | N/A |
-| 16 | [Yavuz Ağıralioğlu](http://twitter.com/search?q=Yavuz+A%c4%9f%c4%b1ralio%c4%9flu) | N/A |
-| 17 | [tomris hatun](http://twitter.com/search?q=tomris+hatun) | N/A |
-| 18 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
-| 19 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 20 | [denkliksorununuçözünüz](http://twitter.com/search?q=denkliksorununu%c3%a7%c3%b6z%c3%bcn%c3%bcz) | N/A |
-| 21 | [Ereğli](http://twitter.com/search?q=Ere%c4%9fli) | N/A |
-| 22 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
-| 23 | [İstibdata](http://twitter.com/search?q=%c4%b0stibdata) | N/A |
-| 24 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 25 | [Hamit Altıntop](http://twitter.com/search?q=Hamit+Alt%c4%b1ntop) | N/A |
-| 26 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 27 | [doğru habercilik paneli](http://twitter.com/search?q=do%c4%9fru+habercilik+paneli) | N/A |
-| 28 | [malatyamirza dincerdiyor](http://twitter.com/search?q=malatyamirza+dincerdiyor) | N/A |
-| 29 | [OyumEhliyet Affında](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1nda) | N/A |
-| 30 | [azkata yapıkayıt](http://twitter.com/search?q=azkata+yap%c4%b1kay%c4%b1t) | N/A |
-| 31 | [Hürriyet](http://twitter.com/search?q=H%c3%bcrriyet) | N/A |
-| 32 | [İyinin](http://twitter.com/search?q=%c4%b0yinin) | N/A |
-| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 34 | [abdurrahim albayrak](http://twitter.com/search?q=abdurrahim+albayrak) | N/A |
-| 35 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 36 | [Hakan](http://twitter.com/search?q=Hakan) | N/A |
-| 37 | [Selami Şahin](http://twitter.com/search?q=Selami+%c5%9eahin) | N/A |
-| 38 | [Çağlar](http://twitter.com/search?q=%c3%87a%c4%9flar) | N/A |
-| 39 | [Ayşe Özkiraz](http://twitter.com/search?q=Ay%c5%9fe+%c3%96zkiraz) | N/A |
-| 40 | [Hamza Yusuf](http://twitter.com/search?q=Hamza+Yusuf) | N/A |
-| 41 | [Zeki Çelik](http://twitter.com/search?q=Zeki+%c3%87elik) | N/A |
-| 42 | [AFMüjdesi Bekliyoruz](http://twitter.com/search?q=AFM%c3%bcjdesi+Bekliyoruz) | N/A |
-| 43 | [Biz Hizbullahçıyız](http://twitter.com/search?q=Biz+Hizbullah%c3%a7%c4%b1y%c4%b1z) | N/A |
-| 44 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 45 | [TaşeronunOyu KadroyuVerene](http://twitter.com/search?q=Ta%c5%9feronunOyu+KadroyuVerene) | N/A |
-| 46 | [SANDIK MÜSLÜMANLARI](http://twitter.com/search?q=SANDIK+M%c3%9cSL%c3%9cMANLARI) | N/A |
-| 47 | [Enes](http://twitter.com/search?q=Enes) | N/A |
-| 48 | [Kandile](http://twitter.com/search?q=Kandile) | N/A |
-| 49 | [Mart](http://twitter.com/search?q=Mart) | N/A |
-| 50 | [Merih](http://twitter.com/search?q=Merih) | N/A |
+| 2 | [TBMM Grup Toplantısı](http://twitter.com/search?q=TBMM+Grup+Toplant%c4%b1s%c4%b1) | N/A |
+| 3 | [Şahlanış Dönemi](http://twitter.com/search?q=%c5%9eahlan%c4%b1%c5%9f+D%c3%b6nemi) | N/A |
+| 4 | [Baharın Yalanları](http://twitter.com/search?q=Bahar%c4%b1n+Yalanlar%c4%b1) | N/A |
+| 5 | [#5BindeKısmideABOdaBiziz](http://twitter.com/search?q=%235BindeK%c4%b1smideABOdaBiziz) | N/A |
+| 6 | [#Mujdeunileregelsin](http://twitter.com/search?q=%23Mujdeunileregelsin) | N/A |
+| 7 | [Kayıp Bakan Nemo](http://twitter.com/search?q=Kay%c4%b1p+Bakan+Nemo) | N/A |
+| 8 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
+| 9 | [Müjdat Gezen](http://twitter.com/search?q=M%c3%bcjdat+Gezen) | N/A |
+| 10 | [OyumEhliyet Affında](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1nda) | N/A |
+| 11 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
+| 12 | [Bakan Bilgin'den](http://twitter.com/search?q=Bakan+Bilgin%27den) | N/A |
+| 13 | [İstibdata](http://twitter.com/search?q=%c4%b0stibdata) | N/A |
+| 14 | [Nisan](http://twitter.com/search?q=Nisan) | N/A |
+| 15 | [Mart](http://twitter.com/search?q=Mart) | N/A |
+| 16 | [Hürriyet](http://twitter.com/search?q=H%c3%bcrriyet) | N/A |
+| 17 | [Hristiyan](http://twitter.com/search?q=Hristiyan) | N/A |
+| 18 | [Hizbullahçı](http://twitter.com/search?q=Hizbullah%c3%a7%c4%b1) | N/A |
+| 19 | [Bozmaz](http://twitter.com/search?q=Bozmaz) | N/A |
+| 20 | [Hamza Yusuf](http://twitter.com/search?q=Hamza+Yusuf) | N/A |
+| 21 | [Cemile](http://twitter.com/search?q=Cemile) | N/A |
+| 22 | [Yağız](http://twitter.com/search?q=Ya%c4%9f%c4%b1z) | N/A |
+| 23 | [Laiklik](http://twitter.com/search?q=Laiklik) | N/A |
+| 24 | [Bahadır](http://twitter.com/search?q=Bahad%c4%b1r) | N/A |
+| 25 | [Başbakan](http://twitter.com/search?q=Ba%c5%9fbakan) | N/A |
+| 26 | [Koray](http://twitter.com/search?q=Koray) | N/A |
+| 27 | [Selami Şahin](http://twitter.com/search?q=Selami+%c5%9eahin) | N/A |
+| 28 | [Batuhan](http://twitter.com/search?q=Batuhan) | N/A |
+| 29 | [#MerkezTaşraHaksızlığı](http://twitter.com/search?q=%23MerkezTa%c5%9fraHaks%c4%b1zl%c4%b1%c4%9f%c4%b1) | N/A |
+| 30 | [#BeştepedenStajÇıksın](http://twitter.com/search?q=%23Be%c5%9ftepedenStaj%c3%87%c4%b1ks%c4%b1n) | N/A |
+| 31 | [#Oy2000lerde](http://twitter.com/search?q=%23Oy2000lerde) | N/A |
+| 32 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
+| 33 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 34 | [#RTErdogan](http://twitter.com/search?q=%23RTErdogan) | N/A |
+| 35 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
+| 36 | [#bist100](http://twitter.com/search?q=%23bist100) | #bist100 is a hashtag used on Twitter to refer to the Borsa Istanbul 100 Index, which is a stock market index that tracks the performance of the top 100 companies listed on the Borsa Istanbul Stock Exchange. The acronym "BIST" stands for Borsa Istanbul. |
+| 37 | [#bıktık](http://twitter.com/search?q=%23b%c4%b1kt%c4%b1k) | N/A |
+| 38 | [#BiziUnutmayın](http://twitter.com/search?q=%23BiziUnutmay%c4%b1n) | N/A |
+| 39 | [#YavuzAğıralioğlu](http://twitter.com/search?q=%23YavuzA%c4%9f%c4%b1ralio%c4%9flu) | N/A |
+| 40 | [#Ankara](http://twitter.com/search?q=%23Ankara) | N/A |
+| 41 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
+| 42 | [#Ripple](http://twitter.com/search?q=%23Ripple) | N/A |
+| 43 | [#TİPSenin](http://twitter.com/search?q=%23T%c4%b0PSenin) | N/A |
+| 44 | [#EYTEmeklisiZAMveABOyuİstiyor](http://twitter.com/search?q=%23EYTEmeklisiZAMveABOyu%c4%b0stiyor) | N/A |
+| 45 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
+| 46 | [#Sgkcalisaniyoksayilamaz](http://twitter.com/search?q=%23Sgkcalisaniyoksayilamaz) | N/A |
+| 47 | [#MadalyaVerilmeli](http://twitter.com/search?q=%23MadalyaVerilmeli) | N/A |
+| 48 | [#Galatasaraybilet](http://twitter.com/search?q=%23Galatasaraybilet) | N/A |
 
 
 

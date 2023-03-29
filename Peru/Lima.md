@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-29 09:17:32 UTC`
+📆 Last Updated: `2023-03-29 10:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,28 +18,28 @@ This is top 50 for [Peru](</Peru>)
 | 1 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
 | 2 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
 | 3 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 4 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 5 | [El LUM](http://twitter.com/search?q=El+LUM) | N/A |
-| 6 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
+| 4 | [El LUM](http://twitter.com/search?q=El+LUM) | N/A |
+| 5 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
+| 6 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
 | 7 | [Lugar de la Memoria](http://twitter.com/search?q=Lugar+de+la+Memoria) | N/A |
 | 8 | [Municipalidad de Miraflores](http://twitter.com/search?q=Municipalidad+de+Miraflores) | N/A |
-| 9 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 10 | [gallese](http://twitter.com/search?q=gallese) | N/A |
+| 9 | [gallese](http://twitter.com/search?q=gallese) | N/A |
+| 10 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
 | 11 | [Polo](http://twitter.com/search?q=Polo) | N/A |
-| 12 | [Renovación Medieval](http://twitter.com/search?q=Renovaci%c3%b3n+Medieval) | N/A |
+| 12 | [renovación medieval](http://twitter.com/search?q=renovaci%c3%b3n+medieval) | N/A |
 | 13 | [Ucayali](http://twitter.com/search?q=Ucayali) | N/A |
 | 14 | [Makanaky](http://twitter.com/search?q=Makanaky) | N/A |
-| 15 | [Trauco](http://twitter.com/search?q=Trauco) | N/A |
+| 15 | [trauco](http://twitter.com/search?q=trauco) | N/A |
 | 16 | [#SPOTIFYCORRUPT](http://twitter.com/search?q=%23SPOTIFYCORRUPT) | N/A |
 | 17 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 | 18 | [#JUNGKOOKxCALVINKLEIN](http://twitter.com/search?q=%23JUNGKOOKxCALVINKLEIN) | N/A |
 | 19 | [#MEin2Days](http://twitter.com/search?q=%23MEin2Days) | N/A |
 | 20 | [Paranaense](http://twitter.com/search?q=Paranaense) | N/A |
-| 21 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 22 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 23 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
-| 24 | [Jean Deza](http://twitter.com/search?q=Jean+Deza) | N/A |
-| 25 | [Valera](http://twitter.com/search?q=Valera) | N/A |
+| 21 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
+| 22 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 23 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 24 | [jean deza](http://twitter.com/search?q=jean+deza) | N/A |
+| 25 | [valera](http://twitter.com/search?q=valera) | N/A |
 | 26 | [SPOTIFY CREDIT GHSTLOOP](http://twitter.com/search?q=SPOTIFY+CREDIT+GHSTLOOP) | N/A |
 | 27 | [Liza](http://twitter.com/search?q=Liza) | N/A |
 | 28 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
@@ -62,9 +62,9 @@ This is top 50 for [Peru](</Peru>)
 | 45 | [renovación popular](http://twitter.com/search?q=renovaci%c3%b3n+popular) | N/A |
 | 46 | [Vera Llerena](http://twitter.com/search?q=Vera+Llerena) | N/A |
 | 47 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 48 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 49 | [Cierren](http://twitter.com/search?q=Cierren) | N/A |
-| 50 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 48 | [Cierren](http://twitter.com/search?q=Cierren) | N/A |
+| 49 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
+| 50 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
 
 
 

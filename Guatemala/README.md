@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-03-29 09:18:12 UTC`
+📆 Last Updated: `2023-03-29 10:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,25 +38,25 @@ This is top 50 for Guatemala
 | 21 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 22 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 23 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 24 | [Aparicio](http://twitter.com/search?q=Aparicio) | N/A |
+| 24 | [aparicio](http://twitter.com/search?q=aparicio) | N/A |
 | 25 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
 | 26 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
 | 27 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 28 | [rubio rubín](http://twitter.com/search?q=rubio+rub%c3%adn) | N/A |
-| 29 | [Chucho](http://twitter.com/search?q=Chucho) | N/A |
+| 29 | [chucho](http://twitter.com/search?q=chucho) | N/A |
 | 30 | [#parquedelapaz](http://twitter.com/search?q=%23parquedelapaz) | N/A |
 | 31 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
 | 32 | [#SPOTIFYCORRUPT](http://twitter.com/search?q=%23SPOTIFYCORRUPT) | N/A |
 | 33 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 34 | [48 cantones](http://twitter.com/search?q=48+cantones) | N/A |
-| 35 | [Neto Bran](http://twitter.com/search?q=Neto+Bran) | N/A |
+| 35 | [neto bran](http://twitter.com/search?q=neto+bran) | N/A |
 | 36 | [roberto arzú](http://twitter.com/search?q=roberto+arz%c3%ba) | N/A |
 | 37 | [el pescadito](http://twitter.com/search?q=el+pescadito) | N/A |
 | 38 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
 | 39 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 40 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
+| 40 | [carlos pineda](http://twitter.com/search?q=carlos+pineda) | N/A |
 | 41 | [archila](http://twitter.com/search?q=archila) | N/A |
-| 42 | [Los 48](http://twitter.com/search?q=Los+48) | N/A |
+| 42 | [los 48](http://twitter.com/search?q=los+48) | N/A |
 | 43 | [Massiel](http://twitter.com/search?q=Massiel) | N/A |
 | 44 | [Semilla](http://twitter.com/search?q=Semilla) | N/A |
 | 45 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Guatemala
 | 47 | [Vota](http://twitter.com/search?q=Vota) | N/A |
 | 48 | [codeca](http://twitter.com/search?q=codeca) | N/A |
 | 49 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 50 | [Mixco](http://twitter.com/search?q=Mixco) | N/A |
+| 50 | [mixco](http://twitter.com/search?q=mixco) | N/A |
 
 
 
