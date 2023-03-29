@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amritsar
 
-📆 Last Updated: `2023-03-29 04:17:38 UTC`
+📆 Last Updated: `2023-03-29 05:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,47 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
 | 2 | [#DurgaAshtami](http://twitter.com/search?q=%23DurgaAshtami) | N/A |
-| 3 | [#DigitalFasting](http://twitter.com/search?q=%23DigitalFasting) | N/A |
-| 4 | [#दुर्लभ_योग](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b2%e0%a4%ad_%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 5 | [#दुर्गा_अष्टमी](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be_%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
-| 6 | [Special Day For Every Sanatani](http://twitter.com/search?q=Special+Day+For+Every+Sanatani) | N/A |
-| 7 | [Sant Shri Asharamji Ashram](http://twitter.com/search?q=Sant+Shri+Asharamji+Ashram) | Sant Shri Asharamji Ashram is a spiritual organization founded by Sant Shri Asharamji Bapu in 1971. The ashram is dedicated to providing spiritual guidance and support to people from all walks of life. The ashram promotes the practice of meditation, yoga, and other spiritual practices as a means of achieving inner peace and enlightenment. The English translation of Sant Shri Asharamji Ashram is "Saint Lord Asharamji's Abode". |
-| 8 | [SEED Campaign](http://twitter.com/search?q=SEED+Campaign) | N/A |
-| 9 | [RamNavmi](http://twitter.com/search?q=RamNavmi) | N/A |
-| 10 | [#KarnatakaElections2023](http://twitter.com/search?q=%23KarnatakaElections2023) | N/A |
-| 11 | [पुनर्वसु नक्षत्र](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%a8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b8%e0%a5%81+%e0%a4%a8%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 12 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
-| 13 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 14 | [अष्टम स्वरूप](http://twitter.com/search?q=%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
-| 15 | [श्री दुर्गा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 3 | [#दुर्गा_अष्टमी](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be_%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
+| 4 | [#DigitalFasting](http://twitter.com/search?q=%23DigitalFasting) | N/A |
+| 5 | [#दुर्लभ_योग](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%b2%e0%a4%ad_%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 6 | [SEED Campaign](http://twitter.com/search?q=SEED+Campaign) | N/A |
+| 7 | [Special Day For Every Sanatani](http://twitter.com/search?q=Special+Day+For+Every+Sanatani) | N/A |
+| 8 | [Sant Shri Asharamji Ashram](http://twitter.com/search?q=Sant+Shri+Asharamji+Ashram) | Sant Shri Asharamji Ashram is a spiritual organization founded by Sant Shri Asharamji Bapu in 1971. The ashram is dedicated to providing spiritual guidance and support to people from all walks of life. The ashram promotes the practice of meditation, yoga, and other spiritual practices as a means of achieving inner peace and enlightenment. The English translation of Sant Shri Asharamji Ashram is "Saint Lord Asharamji's Abode". |
+| 9 | [#UPIcharges](http://twitter.com/search?q=%23UPIcharges) | N/A |
+| 10 | [Family Didnot See SSR Hanging](http://twitter.com/search?q=Family+Didnot+See+SSR+Hanging) | N/A |
+| 11 | [RamNavmi](http://twitter.com/search?q=RamNavmi) | N/A |
+| 12 | [अष्टम स्वरूप](http://twitter.com/search?q=%e0%a4%85%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa) | N/A |
+| 13 | [श्री दुर्गा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%a6%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%97%e0%a4%be) | N/A |
+| 14 | [पुनर्वसु नक्षत्र](http://twitter.com/search?q=%e0%a4%aa%e0%a5%81%e0%a4%a8%e0%a4%b0%e0%a5%8d%e0%a4%b5%e0%a4%b8%e0%a5%81+%e0%a4%a8%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 15 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
 | 16 | [मौर्य साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 17 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 18 | [गौरी नारायणी](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a5%80) | N/A |
-| 19 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 20 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 21 | [कृपा दृष्टि](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
-| 22 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 23 | [#GodMorningWednesday](http://twitter.com/search?q=%23GodMorningWednesday) | N/A |
-| 24 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 25 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 26 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
-| 27 | [#41stTDPFoundationDay](http://twitter.com/search?q=%2341stTDPFoundationDay) | N/A |
-| 28 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 29 | [#SamratAshokJayanti](http://twitter.com/search?q=%23SamratAshokJayanti) | N/A |
-| 30 | [#माँ_महागौरी](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%be%e0%a4%81_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80) | N/A |
-| 31 | [#KarnatakaAssemblyElection2023](http://twitter.com/search?q=%23KarnatakaAssemblyElection2023) | N/A |
-| 32 | [#MeraGharApkaGhar](http://twitter.com/search?q=%23MeraGharApkaGhar) | N/A |
-| 33 | [#अशोकाष्टमी](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
-| 34 | [#सम्राट_अशोक_महान](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f_%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8) | N/A |
-| 35 | [#UPIcharges](http://twitter.com/search?q=%23UPIcharges) | N/A |
-| 36 | [#TDPFormationDay](http://twitter.com/search?q=%23TDPFormationDay) | N/A |
-| 37 | [#HBDVishwakSen](http://twitter.com/search?q=%23HBDVishwakSen) | N/A |
-| 38 | [#सम्राट_अशोक_जयंती](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f_%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95_%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 39 | [#RightToHealth_जरूरी_है](http://twitter.com/search?q=%23RightToHealth_%e0%a4%9c%e0%a4%b0%e0%a5%82%e0%a4%b0%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
-| 40 | [#Messi𓃵](http://twitter.com/search?q=%23Messi%f0%93%83%b5) | N/A |
-| 41 | [#stockstowatch](http://twitter.com/search?q=%23stockstowatch) | N/A |
-| 42 | [#DisqualifiedByUnqualified](http://twitter.com/search?q=%23DisqualifiedByUnqualified) | N/A |
-| 43 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 17 | [सम्राट अशोक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f+%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95) | N/A |
+| 18 | [कर्नाटक विधानसभा चुनाव](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%be%e0%a4%9f%e0%a4%95+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 19 | [गौरी नारायणी](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3%e0%a5%80) | N/A |
+| 20 | [भवानी प्रसाद मिश्र](http://twitter.com/search?q=%e0%a4%ad%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a5%80+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%a6+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0) | N/A |
+| 21 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 22 | [Paytm](http://twitter.com/search?q=Paytm) | N/A |
+| 23 | [Bhutan](http://twitter.com/search?q=Bhutan) | N/A |
+| 24 | [कृपा दृष्टि](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
+| 25 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 26 | [#KarnatakaElections2023](http://twitter.com/search?q=%23KarnatakaElections2023) | N/A |
+| 27 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 28 | [#ShaheedMinarCholo](http://twitter.com/search?q=%23ShaheedMinarCholo) | N/A |
+| 29 | [#41stTDPFoundationDay](http://twitter.com/search?q=%2341stTDPFoundationDay) | N/A |
+| 30 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 31 | [#महागौरी](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%97%e0%a5%8c%e0%a4%b0%e0%a5%80) | N/A |
+| 32 | [#SamratAshokJayanti](http://twitter.com/search?q=%23SamratAshokJayanti) | N/A |
+| 33 | [#GodMorningWednesday](http://twitter.com/search?q=%23GodMorningWednesday) | N/A |
+| 34 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 35 | [#ElectionCommission](http://twitter.com/search?q=%23ElectionCommission) | N/A |
+| 36 | [#KarnatakaAssemblyElection2023](http://twitter.com/search?q=%23KarnatakaAssemblyElection2023) | N/A |
+| 37 | [#अशोकाष्टमी](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%ae%e0%a5%80) | N/A |
+| 38 | [#jaimatadi](http://twitter.com/search?q=%23jaimatadi) | N/A |
+| 39 | [#HBDVishwakSen](http://twitter.com/search?q=%23HBDVishwakSen) | N/A |
+| 40 | [#Mahagauri](http://twitter.com/search?q=%23Mahagauri) | N/A |
+| 41 | [#RPSC_शर्म_करो](http://twitter.com/search?q=%23RPSC_%e0%a4%b6%e0%a4%b0%e0%a5%8d%e0%a4%ae_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 42 | [#TDPFormationDay](http://twitter.com/search?q=%23TDPFormationDay) | N/A |
+| 43 | [#MeraGharApkaGhar](http://twitter.com/search?q=%23MeraGharApkaGhar) | N/A |
+| 44 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 45 | [#RightToHealth_जरूरी_है](http://twitter.com/search?q=%23RightToHealth_%e0%a4%9c%e0%a4%b0%e0%a5%82%e0%a4%b0%e0%a5%80_%e0%a4%b9%e0%a5%88) | N/A |
+| 46 | [#durgapuja](http://twitter.com/search?q=%23durgapuja) | N/A |
+| 47 | [#Messi𓃵](http://twitter.com/search?q=%23Messi%f0%93%83%b5) | N/A |
+| 48 | [#ParineetiChopra](http://twitter.com/search?q=%23ParineetiChopra) | N/A |
+| 49 | [#Argentina](http://twitter.com/search?q=%23Argentina) | N/A |
+| 50 | [#RaghavChadha](http://twitter.com/search?q=%23RaghavChadha) | N/A |
 
 
 

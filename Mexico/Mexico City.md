@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-29 04:17:07 UTC`
+📆 Last Updated: `2023-03-29 05:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
+| 1 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
 | 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 3 | [Santa Fe](http://twitter.com/search?q=Santa+Fe) | N/A |
-| 4 | [billie](http://twitter.com/search?q=billie) | N/A |
-| 5 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 6 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
-| 7 | [#MedallasMixtasAllStar](http://twitter.com/search?q=%23MedallasMixtasAllStar) | N/A |
+| 3 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
+| 4 | [#MedallasMixtasAllStar](http://twitter.com/search?q=%23MedallasMixtasAllStar) | N/A |
+| 5 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
+| 6 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 7 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
 | 8 | [#PleaseTakeaRestFreenBecky](http://twitter.com/search?q=%23PleaseTakeaRestFreenBecky) | N/A |
-| 9 | [REINTEGRACIÓN CD9](http://twitter.com/search?q=REINTEGRACI%c3%93N+CD9) | N/A |
-| 10 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
-| 11 | [#migrantes](http://twitter.com/search?q=%23migrantes) | N/A |
-| 12 | [#lluvia](http://twitter.com/search?q=%23lluvia) | N/A |
-| 13 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
-| 14 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 15 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 16 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 9 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
+| 10 | [REINTEGRACIÓN CD9](http://twitter.com/search?q=REINTEGRACI%c3%93N+CD9) | N/A |
+| 11 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 12 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
+| 13 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 14 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
+| 15 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
+| 16 | [SEGOB](http://twitter.com/search?q=SEGOB) | N/A |
 | 17 | [Chris Pratt](http://twitter.com/search?q=Chris+Pratt) | N/A |
-| 18 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
-| 19 | [SEGOB](http://twitter.com/search?q=SEGOB) | N/A |
-| 20 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
-| 21 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
-| 22 | [Asesinos](http://twitter.com/search?q=Asesinos) | N/A |
+| 18 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 19 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 20 | [Chessman](http://twitter.com/search?q=Chessman) | N/A |
+| 21 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 22 | [Leona](http://twitter.com/search?q=Leona) | N/A |
 | 23 | [Raúl Anaya](http://twitter.com/search?q=Ra%c3%bal+Anaya) | N/A |
-| 24 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
-| 25 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 26 | [El INM](http://twitter.com/search?q=El+INM) | N/A |
-| 27 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
-| 28 | [Epigmenio](http://twitter.com/search?q=Epigmenio) | N/A |
-| 29 | [Crimen de Estado](http://twitter.com/search?q=Crimen+de+Estado) | N/A |
-| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 31 | [Buenavista](http://twitter.com/search?q=Buenavista) | N/A |
-| 32 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 33 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 34 | [Renuncia](http://twitter.com/search?q=Renuncia) | N/A |
-| 35 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 36 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
-| 37 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 38 | [Calderon](http://twitter.com/search?q=Calderon) | N/A |
-| 39 | [Tlahuelilpan](http://twitter.com/search?q=Tlahuelilpan) | N/A |
-| 40 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
-| 41 | [Porfirito](http://twitter.com/search?q=Porfirito) | N/A |
-| 42 | [Maru Campos](http://twitter.com/search?q=Maru+Campos) | N/A |
-| 43 | [Xochimilco](http://twitter.com/search?q=Xochimilco) | N/A |
-| 44 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
-| 45 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
+| 24 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 25 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 26 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
+| 27 | [El INM](http://twitter.com/search?q=El+INM) | N/A |
+| 28 | [Buenavista](http://twitter.com/search?q=Buenavista) | N/A |
+| 29 | [San Fernando](http://twitter.com/search?q=San+Fernando) | N/A |
+| 30 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 31 | [Epigmenio](http://twitter.com/search?q=Epigmenio) | N/A |
+| 32 | [billie](http://twitter.com/search?q=billie) | N/A |
+| 33 | [Renuncia](http://twitter.com/search?q=Renuncia) | N/A |
+| 34 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 35 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 36 | [Migración](http://twitter.com/search?q=Migraci%c3%b3n) | N/A |
+| 37 | [Nations League](http://twitter.com/search?q=Nations+League) | N/A |
+| 38 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 39 | [INAMI](http://twitter.com/search?q=INAMI) | N/A |
+| 40 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
+| 41 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
+| 42 | [Federal](http://twitter.com/search?q=Federal) | N/A |
+| 43 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 44 | [Maru Campos](http://twitter.com/search?q=Maru+Campos) | N/A |
+| 45 | [Calderon](http://twitter.com/search?q=Calderon) | N/A |
 | 46 | [Línea 12](http://twitter.com/search?q=L%c3%adnea+12) | N/A |
-| 47 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
-| 48 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
-| 49 | [Luxemburgo](http://twitter.com/search?q=Luxemburgo) | N/A |
-| 50 | [Murieron 39](http://twitter.com/search?q=Murieron+39) | N/A |
+| 47 | [Xochimilco](http://twitter.com/search?q=Xochimilco) | N/A |
+| 48 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
+| 49 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 50 | [Exigimos](http://twitter.com/search?q=Exigimos) | N/A |
 
 
 

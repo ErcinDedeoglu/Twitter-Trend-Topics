@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-03-29 04:17:24 UTC`
+📆 Last Updated: `2023-03-29 05:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 2 | [Kiama](http://twitter.com/search?q=Kiama) | N/A |
 | 3 | [#AUSvECU](http://twitter.com/search?q=%23AUSvECU) | N/A |
-| 4 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 4 | [America](http://twitter.com/search?q=America) | N/A |
 | 5 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 6 | [America](http://twitter.com/search?q=America) | N/A |
-| 7 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 8 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 9 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 10 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 11 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 12 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
-| 13 | [#TedLasso](http://twitter.com/search?q=%23TedLasso) | N/A |
+| 6 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 7 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 8 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 9 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 10 | [Peter Bol](http://twitter.com/search?q=Peter+Bol) | N/A |
+| 11 | [Coalition MPs](http://twitter.com/search?q=Coalition+MPs) | N/A |
+| 12 | [Paul O’Grady](http://twitter.com/search?q=Paul+O%e2%80%99Grady) | N/A |
+| 13 | [Jacinta](http://twitter.com/search?q=Jacinta) | N/A |
 | 14 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 15 | [Jacinta](http://twitter.com/search?q=Jacinta) | N/A |
-| 16 | [Paul Brereton](http://twitter.com/search?q=Paul+Brereton) | N/A |
-| 17 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
-| 18 | [Angus Taylor](http://twitter.com/search?q=Angus+Taylor) | N/A |
-| 19 | [Caro](http://twitter.com/search?q=Caro) | N/A |
-| 20 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 21 | [Coalition MPs](http://twitter.com/search?q=Coalition+MPs) | N/A |
-| 22 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
-| 23 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
-| 24 | [#guncontrol](http://twitter.com/search?q=%23guncontrol) | N/A |
-| 25 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 26 | [joe gauci](http://twitter.com/search?q=joe+gauci) | N/A |
-| 27 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 28 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
-| 29 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 30 | [Indue](http://twitter.com/search?q=Indue) | N/A |
-| 31 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 32 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 15 | [Mr Ed](http://twitter.com/search?q=Mr+Ed) | N/A |
+| 16 | [Lyndall](http://twitter.com/search?q=Lyndall) | N/A |
+| 17 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
+| 18 | [Caro](http://twitter.com/search?q=Caro) | N/A |
+| 19 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 20 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 21 | [joe gauci](http://twitter.com/search?q=joe+gauci) | N/A |
+| 22 | [Guy Pearce](http://twitter.com/search?q=Guy+Pearce) | N/A |
+| 23 | [#guncontrol](http://twitter.com/search?q=%23guncontrol) | N/A |
+| 24 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 25 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 26 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | N/A |
+| 27 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 28 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 29 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 30 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
+| 31 | [devlin](http://twitter.com/search?q=devlin) | N/A |
+| 32 | [Paul Brereton](http://twitter.com/search?q=Paul+Brereton) | N/A |
 | 33 | [Libs](http://twitter.com/search?q=Libs) | N/A |
-| 34 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 35 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 36 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 37 | [devlin](http://twitter.com/search?q=devlin) | N/A |
-| 38 | [Guy Pearce](http://twitter.com/search?q=Guy+Pearce) | N/A |
-| 39 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 40 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 41 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 42 | [Gillian](http://twitter.com/search?q=Gillian) | N/A |
-| 43 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
-| 44 | [John Kerin](http://twitter.com/search?q=John+Kerin) | N/A |
-| 45 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
+| 34 | [Barack Obama](http://twitter.com/search?q=Barack+Obama) | N/A |
+| 35 | [Indue](http://twitter.com/search?q=Indue) | N/A |
+| 36 | [Gillian](http://twitter.com/search?q=Gillian) | N/A |
+| 37 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 38 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 39 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 40 | [John Kerin](http://twitter.com/search?q=John+Kerin) | N/A |
+| 41 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 42 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
+| 43 | [Andrew Hastie](http://twitter.com/search?q=Andrew+Hastie) | N/A |
+| 44 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
+| 45 | [Andrews](http://twitter.com/search?q=Andrews) | N/A |
 | 46 | [Greens](http://twitter.com/search?q=Greens) | N/A |
 | 47 | [Gould](http://twitter.com/search?q=Gould) | Gould is a surname of English origin. It is derived from the Old English word "gold" and was originally used to denote someone who worked with gold or was wealthy. |
-| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 49 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 48 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 49 | [Menindee](http://twitter.com/search?q=Menindee) | N/A |
 
 
 

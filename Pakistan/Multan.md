@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-29 04:17:37 UTC`
+📆 Last Updated: `2023-03-29 05:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#گھٹیا_بدزبان_راناتنویر](http://twitter.com/search?q=%23%da%af%da%be%d9%b9%db%8c%d8%a7_%d8%a8%d8%af%d8%b2%d8%a8%d8%a7%d9%86_%d8%b1%d8%a7%d9%86%d8%a7%d8%aa%d9%86%d9%88%db%8c%d8%b1) | N/A |
 | 3 | [#عدلیہ_کی_دشمن_ن_لیگ](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84%db%8c%db%81_%da%a9%db%8c_%d8%af%d8%b4%d9%85%d9%86_%d9%86_%d9%84%db%8c%da%af) | N/A |
 | 4 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 6 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 7 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 8 | [Rana Tanveer](http://twitter.com/search?q=Rana+Tanveer) | N/A |
-| 9 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 10 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 11 | [Jhagra](http://twitter.com/search?q=Jhagra) | N/A |
-| 12 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
-| 13 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
-| 14 | [Article 191](http://twitter.com/search?q=Article+191) | N/A |
-| 15 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
-| 16 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 17 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 18 | [Filth](http://twitter.com/search?q=Filth) | N/A |
-| 19 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
-| 20 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
-| 21 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
-| 22 | [islamabad police](http://twitter.com/search?q=islamabad+police) | N/A |
-| 23 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 24 | [Reema](http://twitter.com/search?q=Reema) | N/A |
-| 25 | [mother of ali](http://twitter.com/search?q=mother+of+ali) | N/A |
-| 26 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 27 | [zaman khan](http://twitter.com/search?q=zaman+khan) | N/A |
-| 28 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 29 | [British India](http://twitter.com/search?q=British+India) | N/A |
-| 30 | [CJP Bandial](http://twitter.com/search?q=CJP+Bandial) | N/A |
-| 31 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 32 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 33 | [Fatima Bint e Asad](http://twitter.com/search?q=Fatima+Bint+e+Asad) | N/A |
-| 34 | [Abu Talib](http://twitter.com/search?q=Abu+Talib) | N/A |
-| 35 | [Chota](http://twitter.com/search?q=Chota) | N/A |
-| 36 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 37 | [Lady of Jannah](http://twitter.com/search?q=Lady+of+Jannah) | N/A |
-| 38 | [Sunnah](http://twitter.com/search?q=Sunnah) | N/A |
-| 39 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 40 | [Pakistan Bar Council](http://twitter.com/search?q=Pakistan+Bar+Council) | N/A |
-| 41 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 42 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 43 | [Chat](http://twitter.com/search?q=Chat) | N/A |
-| 44 | [The Prophet](http://twitter.com/search?q=The+Prophet) | N/A |
-| 45 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
-| 46 | [Lumber 1](http://twitter.com/search?q=Lumber+1) | N/A |
+| 5 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 6 | [Rana Tanveer](http://twitter.com/search?q=Rana+Tanveer) | N/A |
+| 7 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 8 | [Jhagra](http://twitter.com/search?q=Jhagra) | N/A |
+| 9 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
+| 10 | [Article 191](http://twitter.com/search?q=Article+191) | N/A |
+| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 12 | [Manchurian](http://twitter.com/search?q=Manchurian) | N/A |
+| 13 | [Filth](http://twitter.com/search?q=Filth) | N/A |
+| 14 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 15 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 16 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
+| 17 | [Islamabad Police](http://twitter.com/search?q=Islamabad+Police) | N/A |
+| 18 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 19 | [Reema](http://twitter.com/search?q=Reema) | N/A |
+| 20 | [mother of ali](http://twitter.com/search?q=mother+of+ali) | N/A |
+| 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 22 | [Mehdi](http://twitter.com/search?q=Mehdi) | N/A |
+| 23 | [practice and procedure](http://twitter.com/search?q=practice+and+procedure) | N/A |
+| 24 | [CJP Bandial](http://twitter.com/search?q=CJP+Bandial) | N/A |
+| 25 | [British India](http://twitter.com/search?q=British+India) | N/A |
+| 26 | [zaman khan](http://twitter.com/search?q=zaman+khan) | N/A |
+| 27 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 28 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 29 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 30 | [Abu Talib](http://twitter.com/search?q=Abu+Talib) | N/A |
+| 31 | [Kashmiris](http://twitter.com/search?q=Kashmiris) | N/A |
+| 32 | [Fatima Bint e Asad](http://twitter.com/search?q=Fatima+Bint+e+Asad) | N/A |
+| 33 | [Chota](http://twitter.com/search?q=Chota) | N/A |
+| 34 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 35 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 36 | [Lady of Jannah](http://twitter.com/search?q=Lady+of+Jannah) | N/A |
+| 37 | [Netanyahu](http://twitter.com/search?q=Netanyahu) | N/A |
+| 38 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
+| 39 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 40 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 41 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 42 | [Chat](http://twitter.com/search?q=Chat) | N/A |
+| 43 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 44 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
+| 45 | [Lumber 1](http://twitter.com/search?q=Lumber+1) | N/A |
+| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 47 | [Congratulation](http://twitter.com/search?q=Congratulation) | N/A |
-| 48 | [Chor](http://twitter.com/search?q=Chor) | N/A |
-| 49 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 48 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 49 | [Chor](http://twitter.com/search?q=Chor) | N/A |
 
 
 

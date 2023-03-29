@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-03-29 04:17:51 UTC`
+📆 Last Updated: `2023-03-29 05:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Germany
 | ------- | ------------ | ------------ |
 | 1 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
 | 2 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
-| 3 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 4 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 5 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 3 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 4 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 5 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
 | 6 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 7 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 7 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 8 | [#MAZILaunch](http://twitter.com/search?q=%23MAZILaunch) | N/A |
-| 9 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 10 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 11 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 12 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
-| 13 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
-| 14 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 15 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
-| 16 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 17 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 18 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 19 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
-| 20 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
-| 21 | [LKW-Maut](http://twitter.com/search?q=LKW-Maut) | N/A |
-| 22 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 23 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
-| 24 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 25 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 27 | [Hansi Flick](http://twitter.com/search?q=Hansi+Flick) | N/A |
-| 28 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 29 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 30 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
-| 31 | ['möbel'](http://twitter.com/search?q=%27m%c3%b6bel%27) | N/A |
-| 32 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 33 | [SISTER WARRIORS DON'T RUN](http://twitter.com/search?q=SISTER+WARRIORS+DON%27T+RUN) | N/A |
-| 34 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
-| 35 | [Schmerzgriffe](http://twitter.com/search?q=Schmerzgriffe) | N/A |
-| 36 | [Wofür](http://twitter.com/search?q=Wof%c3%bcr) | N/A |
-| 37 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
-| 38 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 39 | [sport und politik](http://twitter.com/search?q=sport+und+politik) | N/A |
-| 40 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
-| 41 | [Willi](http://twitter.com/search?q=Willi) | N/A |
-| 42 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
-| 43 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 44 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 45 | [Anschreiben](http://twitter.com/search?q=Anschreiben) | N/A |
-| 46 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 47 | [wiederzulassung](http://twitter.com/search?q=wiederzulassung) | N/A |
-| 48 | [olympischen spiele](http://twitter.com/search?q=olympischen+spiele) | N/A |
-| 49 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
-| 50 | [Adenauer](http://twitter.com/search?q=Adenauer) | N/A |
+| 9 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 10 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
+| 11 | [#hartzundherzlich](http://twitter.com/search?q=%23hartzundherzlich) | N/A |
+| 12 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 13 | [Rudi Völler](http://twitter.com/search?q=Rudi+V%c3%b6ller) | N/A |
+| 14 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
+| 15 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 16 | [Guten Morgen Klaus](http://twitter.com/search?q=Guten+Morgen+Klaus) | N/A |
+| 17 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 18 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
+| 19 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 20 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
+| 21 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 22 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
+| 23 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 24 | [LKW-Maut](http://twitter.com/search?q=LKW-Maut) | N/A |
+| 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 26 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 27 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 28 | [Kehrer](http://twitter.com/search?q=Kehrer) | Kehrer is a German surname. It is derived from the Middle High German word "kehrer," which means "sweeper" or "cleaner." |
+| 29 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
+| 30 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 31 | [Jenny](http://twitter.com/search?q=Jenny) | N/A |
+| 32 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
+| 33 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 34 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
+| 35 | [Emre Can](http://twitter.com/search?q=Emre+Can) | N/A |
+| 36 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 37 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 38 | [Goretzka](http://twitter.com/search?q=Goretzka) | N/A |
+| 39 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 40 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 41 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 42 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 43 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 44 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 45 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 46 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
+| 47 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 48 | [GIVE THEM HELL](http://twitter.com/search?q=GIVE+THEM+HELL) | N/A |
+| 49 | [schmerzgriffe](http://twitter.com/search?q=schmerzgriffe) | N/A |
+| 50 | [Wofür](http://twitter.com/search?q=Wof%c3%bcr) | N/A |
 
 
 

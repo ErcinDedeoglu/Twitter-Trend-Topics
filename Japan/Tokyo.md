@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-03-29 04:17:26 UTC`
+📆 Last Updated: `2023-03-29 05:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [リンちゃん](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | リンちゃん is a nickname for the Japanese character Rin Tohsaka from the anime and visual novel series Fate/stay night. It is a combination of her given name, Rin, and the Japanese honorific suffix -chan. In English, it can be translated as "Rin-chan". |
-| 2 | [VIVA LA ROCK 2023](http://twitter.com/search?q=VIVA+LA+ROCK+2023) | N/A |
-| 3 | [ソロデビュー](http://twitter.com/search?q=%e3%82%bd%e3%83%ad%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
-| 4 | [ワーフリ](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%95%e3%83%aa) | N/A |
-| 5 | [トレ効果](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e5%8a%b9%e6%9e%9c) | N/A |
-| 6 | [#musicsalad](http://twitter.com/search?q=%23musicsalad) | N/A |
-| 7 | [天皇賞・春](http://twitter.com/search?q=%e5%a4%a9%e7%9a%87%e8%b3%9e%e3%83%bb%e6%98%a5) | N/A |
-| 8 | [新コンビ](http://twitter.com/search?q=%e6%96%b0%e3%82%b3%e3%83%b3%e3%83%93) | N/A |
-| 9 | [大吉先生](http://twitter.com/search?q=%e5%a4%a7%e5%90%89%e5%85%88%e7%94%9f) | 大吉先生 is a Japanese honorific title that translates to "Mr. Great Luck" in English. It is used to refer to someone who has achieved great success or good fortune. |
-| 10 | [ムックモード](http://twitter.com/search?q=%e3%83%a0%e3%83%83%e3%82%af%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
-| 11 | [ユキさん](http://twitter.com/search?q=%e3%83%a6%e3%82%ad%e3%81%95%e3%82%93) | N/A |
-| 12 | [専大松戸](http://twitter.com/search?q=%e5%b0%82%e5%a4%a7%e6%9d%be%e6%88%b8) | N/A |
-| 13 | [ガチャムク](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e3%83%a0%e3%82%af) | N/A |
-| 14 | [シャトラ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%88%e3%83%a9) | N/A |
-| 15 | [プロコン](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%82%b3%e3%83%b3) | N/A |
-| 16 | [ヴァジラ](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%82%b8%e3%83%a9) | N/A |
-| 17 | [ミッキーナイフ](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc%e3%83%8a%e3%82%a4%e3%83%95) | N/A |
-| 18 | [主演男優賞](http://twitter.com/search?q=%e4%b8%bb%e6%bc%94%e7%94%b7%e5%84%aa%e8%b3%9e) | N/A |
-| 19 | [子ども必要なし](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%82%e5%bf%85%e8%a6%81%e3%81%aa%e3%81%97) | N/A |
-| 20 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | カラフェス (Karafesu) is a Japanese term for a party or gathering that is held to celebrate a special occasion. It usually involves food, drinks, and entertainment. The word comes from the combination of two words: "kara" meaning empty and "fesu" meaning festival. In English, it can be translated as "empty festival". |
-| 21 | [リンレン](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%ac%e3%83%b3) | N/A |
-| 22 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
-| 23 | [杏ちゃん](http://twitter.com/search?q=%e6%9d%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 24 | [#スパロボみんなの愛機](http://twitter.com/search?q=%23%e3%82%b9%e3%83%91%e3%83%ad%e3%83%9c%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e6%84%9b%e6%a9%9f) | N/A |
-| 25 | [#ヒルナンデス](http://twitter.com/search?q=%23%e3%83%92%e3%83%ab%e3%83%8a%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
-| 26 | [レオニミク](http://twitter.com/search?q=%e3%83%ac%e3%82%aa%e3%83%8b%e3%83%9f%e3%82%af) | N/A |
-| 27 | [志歩ちゃん](http://twitter.com/search?q=%e5%bf%97%e6%ad%a9%e3%81%a1%e3%82%83%e3%82%93) | 志歩ちゃん is a character from the Japanese manga series, Chiho-chan. The character is a young girl who is always cheerful and optimistic, and she loves to help others. In English, her name translates to "Aspiring Girl". |
-| 28 | [チヨちゃん](http://twitter.com/search?q=%e3%83%81%e3%83%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 29 | [レンくん](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
-| 30 | [ナヒーダ復刻](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80%e5%be%a9%e5%88%bb) | N/A |
-| 31 | [#こう見えてスキンケア中](http://twitter.com/search?q=%23%e3%81%93%e3%81%86%e8%a6%8b%e3%81%88%e3%81%a6%e3%82%b9%e3%82%ad%e3%83%b3%e3%82%b1%e3%82%a2%e4%b8%ad) | N/A |
-| 32 | [アルダン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%80%e3%83%b3) | N/A |
-| 33 | [連邦生徒会長](http://twitter.com/search?q=%e9%80%a3%e9%82%a6%e7%94%9f%e5%be%92%e4%bc%9a%e9%95%b7) | N/A |
-| 34 | [放浪者復刻](http://twitter.com/search?q=%e6%94%be%e6%b5%aa%e8%80%85%e5%be%a9%e5%88%bb) | N/A |
-| 35 | [蛙化現象](http://twitter.com/search?q=%e8%9b%99%e5%8c%96%e7%8f%be%e8%b1%a1) | 蛙化現象 (Frog Phenomenon) is a term used in Japan to describe the tendency of people to stay in their hometowns after graduating from college. This phenomenon is caused by a lack of job opportunities and other factors, such as the desire to remain close to family and friends. In English, it can be translated as "Ruralization Phenomenon". |
-| 36 | [アルハイゼン復刻](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3%e5%be%a9%e5%88%bb) | N/A |
-| 37 | [御堂筋線](http://twitter.com/search?q=%e5%be%a1%e5%a0%82%e7%ad%8b%e7%b7%9a) | 御堂筋線 is a railway line in Osaka, Japan. It runs from Umeda Station to Namba Station and is operated by the Hankyu Railway. In English, it is known as the Midosuji Line. |
-| 38 | [ビナーくん](http://twitter.com/search?q=%e3%83%93%e3%83%8a%e3%83%bc%e3%81%8f%e3%82%93) | N/A |
-| 39 | [ガチャピン](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e3%83%94%e3%83%b3) | ガチャピン is a Japanese slang term derived from the phrase "gachapon," which is a type of vending machine that dispenses small toys and collectibles. The term is used to describe someone who is passionate and enthusiastic about something, often to an extreme degree. In English, it can be translated as "super fan" or "die-hard fan." |
-| 40 | [諏訪部さん](http://twitter.com/search?q=%e8%ab%8f%e8%a8%aa%e9%83%a8%e3%81%95%e3%82%93) | N/A |
-| 41 | [ネイチャ](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%81%e3%83%a3) | N/A |
-| 42 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
-| 43 | [追加接種](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e6%8e%a5%e7%a8%ae) | N/A |
-| 44 | [予告番組](http://twitter.com/search?q=%e4%ba%88%e5%91%8a%e7%95%aa%e7%b5%84) | 予告番組 is a Japanese term that translates to "preview program" in English. It refers to a television program that previews upcoming shows or events. |
+| 1 | [翔くんの展覧会](http://twitter.com/search?q=%e7%bf%94%e3%81%8f%e3%82%93%e3%81%ae%e5%b1%95%e8%a6%a7%e4%bc%9a) | N/A |
+| 2 | [アクスタ受注](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf%e5%8f%97%e6%b3%a8) | N/A |
+| 3 | [#so954](http://twitter.com/search?q=%23so954) | N/A |
+| 4 | [スタレジェ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%ac%e3%82%b8%e3%82%a7) | N/A |
+| 5 | [維新・馬場氏](http://twitter.com/search?q=%e7%b6%ad%e6%96%b0%e3%83%bb%e9%a6%ac%e5%a0%b4%e6%b0%8f) | N/A |
+| 6 | [ソロデビュー](http://twitter.com/search?q=%e3%82%bd%e3%83%ad%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
+| 7 | [#SOGOODDAY](http://twitter.com/search?q=%23SOGOODDAY) | N/A |
+| 8 | [ワーフリ](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%95%e3%83%aa) | N/A |
+| 9 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | カラフェス (Karafesu) is a Japanese term for a party or gathering that is held to celebrate a special occasion. It usually involves food, drinks, and entertainment. The word comes from the combination of two words: "kara" meaning empty and "fesu" meaning festival. In English, it can be translated as "empty festival". |
+| 10 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
+| 11 | [アルハイゼン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%8f%e3%82%a4%e3%82%bc%e3%83%b3) | アルハイゼン is a Japanese word that means "all hail". It is used as an expression of respect or admiration. |
+| 12 | [リンレン](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%83%ac%e3%83%b3) | N/A |
+| 13 | [オリンパス](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%b3%e3%83%91%e3%82%b9) | オリンパス is a Japanese company that specializes in optics and imaging products. It is best known for its cameras, binoculars, and other optical products. In English, the word Olympus means "the home of the gods". |
+| 14 | [カーヴェ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%b4%e3%82%a7) | カーヴェ is a Japanese word that means “curve” or “curved”. It is often used to describe something that has a curved shape or design. |
+| 15 | [放浪者復刻](http://twitter.com/search?q=%e6%94%be%e6%b5%aa%e8%80%85%e5%be%a9%e5%88%bb) | N/A |
+| 16 | [杏ちゃん](http://twitter.com/search?q=%e6%9d%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 17 | [#ヒルナンデス](http://twitter.com/search?q=%23%e3%83%92%e3%83%ab%e3%83%8a%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
+| 18 | [エウルア](http://twitter.com/search?q=%e3%82%a8%e3%82%a6%e3%83%ab%e3%82%a2) | エウルア is a Japanese word that means "earl". It is used to refer to a nobleman of high rank in the British peerage system. |
+| 19 | [#スパロボみんなの愛機](http://twitter.com/search?q=%23%e3%82%b9%e3%83%91%e3%83%ad%e3%83%9c%e3%81%bf%e3%82%93%e3%81%aa%e3%81%ae%e6%84%9b%e6%a9%9f) | N/A |
+| 20 | [予告番組](http://twitter.com/search?q=%e4%ba%88%e5%91%8a%e7%95%aa%e7%b5%84) | 予告番組 is a Japanese term that translates to "preview program" in English. It refers to a television program that previews upcoming shows or events. |
+| 21 | [レオニミク](http://twitter.com/search?q=%e3%83%ac%e3%82%aa%e3%83%8b%e3%83%9f%e3%82%af) | N/A |
+| 22 | [大吉先生](http://twitter.com/search?q=%e5%a4%a7%e5%90%89%e5%85%88%e7%94%9f) | 大吉先生 is a Japanese honorific title that translates to "Mr. Great Luck" in English. It is used to refer to someone who has achieved great success or good fortune. |
+| 23 | [レンくん](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
+| 24 | [志歩ちゃん](http://twitter.com/search?q=%e5%bf%97%e6%ad%a9%e3%81%a1%e3%82%83%e3%82%93) | 志歩ちゃん is a character from the Japanese manga series, Chiho-chan. The character is a young girl who is always cheerful and optimistic, and she loves to help others. In English, her name translates to "Aspiring Girl". |
+| 25 | [アルダン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%80%e3%83%b3) | N/A |
+| 26 | [チヨちゃん](http://twitter.com/search?q=%e3%83%81%e3%83%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [ツムツム](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%84%e3%83%a0) | N/A |
+| 28 | [ナヒ復刻](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e5%be%a9%e5%88%bb) | N/A |
+| 29 | [放浪者くん](http://twitter.com/search?q=%e6%94%be%e6%b5%aa%e8%80%85%e3%81%8f%e3%82%93) | 放浪者くん is a Japanese manga series written and illustrated by Natsume Ono. It follows the story of a young man named Ranmaru, who is searching for his place in the world. The title literally translates to "Wanderer-kun" in English. |
+| 30 | [阿佐ヶ谷姉妹卒業](http://twitter.com/search?q=%e9%98%bf%e4%bd%90%e3%83%b6%e8%b0%b7%e5%a7%89%e5%a6%b9%e5%8d%92%e6%a5%ad) | N/A |
+| 31 | [白朮先生](http://twitter.com/search?q=%e7%99%bd%e6%9c%ae%e5%85%88%e7%94%9f) | N/A |
+| 32 | [翔くんの言葉展](http://twitter.com/search?q=%e7%bf%94%e3%81%8f%e3%82%93%e3%81%ae%e8%a8%80%e8%91%89%e5%b1%95) | N/A |
+| 33 | [肝ライフ](http://twitter.com/search?q=%e8%82%9d%e3%83%a9%e3%82%a4%e3%83%95) | N/A |
+| 34 | [連邦生徒会長](http://twitter.com/search?q=%e9%80%a3%e9%82%a6%e7%94%9f%e5%be%92%e4%bc%9a%e9%95%b7) | N/A |
+| 35 | [写真付き応募](http://twitter.com/search?q=%e5%86%99%e7%9c%9f%e4%bb%98%e3%81%8d%e5%bf%9c%e5%8b%9f) | N/A |
+| 36 | [ネイチャ](http://twitter.com/search?q=%e3%83%8d%e3%82%a4%e3%83%81%e3%83%a3) | N/A |
+| 37 | [諏訪部さん](http://twitter.com/search?q=%e8%ab%8f%e8%a8%aa%e9%83%a8%e3%81%95%e3%82%93) | N/A |
+| 38 | [アクスタ120個](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%b9%e3%82%bf120%e5%80%8b) | N/A |
+| 39 | [スタバの新作](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e6%96%b0%e4%bd%9c) | スタバの新作 (Sutaba no Shin Saku) is a phrase that means "Starbucks' New Release" in English. It is used to refer to any new products or services that Starbucks has recently released. |
+| 40 | [上限120](http://twitter.com/search?q=%e4%b8%8a%e9%99%90120) | N/A |
+| 41 | [当選確率2倍](http://twitter.com/search?q=%e5%bd%93%e9%81%b8%e7%a2%ba%e7%8e%872%e5%80%8d) | N/A |
+| 42 | [ビナーくん](http://twitter.com/search?q=%e3%83%93%e3%83%8a%e3%83%bc%e3%81%8f%e3%82%93) | N/A |
+| 43 | [スヌーピー](http://twitter.com/search?q=%e3%82%b9%e3%83%8c%e3%83%bc%e3%83%94%e3%83%bc) | N/A |
+| 44 | [蛙化現象](http://twitter.com/search?q=%e8%9b%99%e5%8c%96%e7%8f%be%e8%b1%a1) | 蛙化現象 (Frog Phenomenon) is a term used in Japan to describe the tendency of people to stay in their hometowns after graduating from college. This phenomenon is caused by a lack of job opportunities and other factors, such as the desire to remain close to family and friends. In English, it can be translated as "Ruralization Phenomenon". |
 | 45 | [リミスタレ](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e3%82%b9%e3%82%bf%e3%83%ac) | N/A |
-| 46 | [レジェフェス](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 47 | [上限120](http://twitter.com/search?q=%e4%b8%8a%e9%99%90120) | N/A |
-| 48 | [うちわケース](http://twitter.com/search?q=%e3%81%86%e3%81%a1%e3%82%8f%e3%82%b1%e3%83%bc%e3%82%b9) | うちわケース (uchiwa kēsu) is a type of Japanese fan case. It is a small, cylindrical container made of wood or plastic that is used to store and protect folding fans. The word "uchiwa" means fan in Japanese, and "kēsu" means case. In English, it can be translated as "fan case". |
-| 49 | [ツムツム](http://twitter.com/search?q=%e3%83%84%e3%83%a0%e3%83%84%e3%83%a0) | N/A |
+| 46 | [花見日和](http://twitter.com/search?q=%e8%8a%b1%e8%a6%8b%e6%97%a5%e5%92%8c) | N/A |
+| 47 | [シンリョクカ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%83%aa%e3%83%a7%e3%82%af%e3%82%ab) | N/A |
+| 48 | [ナヒちゃん](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [追加接種](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e6%8e%a5%e7%a8%ae) | N/A |
 
 
 
