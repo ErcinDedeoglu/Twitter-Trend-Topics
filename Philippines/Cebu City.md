@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-03-29 17:18:55 UTC`
+📆 Last Updated: `2023-03-29 18:24:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,40 +19,34 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#HAPPY27th_CHAEUNWOO](http://twitter.com/search?q=%23HAPPY27th_CHAEUNWOO) | N/A |
 | 3 | [#JANELLAblazingAt25](http://twitter.com/search?q=%23JANELLAblazingAt25) | N/A |
 | 4 | [#SB19Wins4thVPChoiceAwards](http://twitter.com/search?q=%23SB19Wins4thVPChoiceAwards) | N/A |
-| 5 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
-| 6 | [#MEinONEday](http://twitter.com/search?q=%23MEinONEday) | N/A |
+| 5 | [#MEinONEday](http://twitter.com/search?q=%23MEinONEday) | N/A |
+| 6 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
 | 7 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
 | 8 | [KD VPCA PROMISING AGAIN](http://twitter.com/search?q=KD+VPCA+PROMISING+AGAIN) | N/A |
 | 9 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 10 | [ANJI PROMISING FEMALE STAR](http://twitter.com/search?q=ANJI+PROMISING+FEMALE+STAR) | N/A |
 | 11 | [DESERVE MO YAN ANJI](http://twitter.com/search?q=DESERVE+MO+YAN+ANJI) | N/A |
 | 12 | [GROUP PERFORMER OF THE YEAR](http://twitter.com/search?q=GROUP+PERFORMER+OF+THE+YEAR) | N/A |
-| 13 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 14 | [PROUD KAMI SAYO](http://twitter.com/search?q=PROUD+KAMI+SAYO) | N/A |
-| 15 | [MAYMAY KABOGERA SA VPCA](http://twitter.com/search?q=MAYMAY+KABOGERA+SA+VPCA) | N/A |
-| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 17 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 13 | [WE FREEN YOU](http://twitter.com/search?q=WE+FREEN+YOU) | N/A |
+| 14 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 15 | [PROUD KAMI SAYO](http://twitter.com/search?q=PROUD+KAMI+SAYO) | N/A |
+| 16 | [MAYMAY KABOGERA SA VPCA](http://twitter.com/search?q=MAYMAY+KABOGERA+SA+VPCA) | N/A |
+| 17 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 18 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 19 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
-| 20 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
-| 21 | [#OurFavoriteSongMINODay](http://twitter.com/search?q=%23OurFavoriteSongMINODay) | N/A |
+| 19 | [#OurFavoriteSongMINODay](http://twitter.com/search?q=%23OurFavoriteSongMINODay) | N/A |
+| 20 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
+| 21 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
 | 22 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
 | 23 | [#Y3_SELF_PORTRAIT_SUHO](http://twitter.com/search?q=%23Y3_SELF_PORTRAIT_SUHO) | N/A |
 | 24 | [#4thVPCA](http://twitter.com/search?q=%234thVPCA) | N/A |
-| 25 | [#FurFurOhYeah](http://twitter.com/search?q=%23FurFurOhYeah) | N/A |
-| 26 | [#DONNYWinsAtVPCA](http://twitter.com/search?q=%23DONNYWinsAtVPCA) | N/A |
-| 27 | [#DavidLicaucoXBayambang](http://twitter.com/search?q=%23DavidLicaucoXBayambang) | N/A |
-| 28 | [#DLTruthAboutTheEx](http://twitter.com/search?q=%23DLTruthAboutTheEx) | N/A |
-| 29 | [#FromNswer](http://twitter.com/search?q=%23FromNswer) | N/A |
-| 30 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
-| 31 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
-| 32 | [#Lazada11yearcharity](http://twitter.com/search?q=%23Lazada11yearcharity) | N/A |
-| 33 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
-| 34 | [#EXOSCinMNL](http://twitter.com/search?q=%23EXOSCinMNL) | N/A |
-| 35 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
-| 36 | [#MaymayEntrata](http://twitter.com/search?q=%23MaymayEntrata) | N/A |
-| 37 | [#KaoriOinuma](http://twitter.com/search?q=%23KaoriOinuma) | N/A |
-| 38 | [#Mamamooplus_GGBB](http://twitter.com/search?q=%23Mamamooplus_GGBB) | N/A |
+| 25 | [#DLTruthAboutTheEx](http://twitter.com/search?q=%23DLTruthAboutTheEx) | N/A |
+| 26 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
+| 27 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
+| 28 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
+| 29 | [#EXOSCinMNL](http://twitter.com/search?q=%23EXOSCinMNL) | N/A |
+| 30 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
+| 31 | [#MaymayEntrata](http://twitter.com/search?q=%23MaymayEntrata) | N/A |
+| 32 | [#KaoriOinuma](http://twitter.com/search?q=%23KaoriOinuma) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-29 17:19:17 UTC`
+📆 Last Updated: `2023-03-29 18:24:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Denmark
 | 3 | [Jylland](http://twitter.com/search?q=Jylland) | N/A |
 | 4 | [Holocaust](http://twitter.com/search?q=Holocaust) | The Holocaust was the systematic, state-sponsored persecution and murder of six million Jews by the Nazi regime and its collaborators during World War II. The Nazis also targeted other groups, including Roma (Gypsies), people with disabilities, homosexuals, Jehovah's Witnesses, and political opponents. The term Holocaust is derived from the Greek word holokauston, which means "sacrifice by fire." |
 | 5 | [Mærsk](http://twitter.com/search?q=M%c3%a6rsk) | N/A |
-| 6 | [#dktrp](http://twitter.com/search?q=%23dktrp) | N/A |
-| 7 | [Cepos](http://twitter.com/search?q=Cepos) | N/A |
+| 6 | [Cepos](http://twitter.com/search?q=Cepos) | N/A |
+| 7 | [#dktrp](http://twitter.com/search?q=%23dktrp) | N/A |
 | 8 | [#ENVtubers](http://twitter.com/search?q=%23ENVtubers) | N/A |
-| 9 | [#arbejde](http://twitter.com/search?q=%23arbejde) | N/A |
-| 10 | [Aarhus Fremad](http://twitter.com/search?q=Aarhus+Fremad) | N/A |
-| 11 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
-| 12 | [#dksund](http://twitter.com/search?q=%23dksund) | N/A |
-| 13 | [Arla](http://twitter.com/search?q=Arla) | N/A |
-| 14 | [a-kraft](http://twitter.com/search?q=a-kraft) | N/A |
-| 15 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 9 | [Aarhus Fremad](http://twitter.com/search?q=Aarhus+Fremad) | N/A |
+| 10 | [#anklager](http://twitter.com/search?q=%23anklager) | N/A |
+| 11 | [#dksund](http://twitter.com/search?q=%23dksund) | N/A |
+| 12 | [Arla](http://twitter.com/search?q=Arla) | N/A |
+| 13 | [a-kraft](http://twitter.com/search?q=a-kraft) | N/A |
+| 14 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 15 | [#arbejde](http://twitter.com/search?q=%23arbejde) | N/A |
 | 16 | [sundhedsstrukturkommissionen](http://twitter.com/search?q=sundhedsstrukturkommissionen) | N/A |
 | 17 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 18 | [Farum](http://twitter.com/search?q=Farum) | N/A |
-| 19 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 20 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [skotland](http://twitter.com/search?q=skotland) | N/A |
-| 23 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 24 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 25 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 26 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
-| 27 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 28 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 29 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 18 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 19 | [farum](http://twitter.com/search?q=farum) | N/A |
+| 20 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 21 | [Weekendavisen](http://twitter.com/search?q=Weekendavisen) | N/A |
+| 22 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 23 | [skotland](http://twitter.com/search?q=skotland) | N/A |
+| 24 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 25 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 26 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 27 | [Brexit](http://twitter.com/search?q=Brexit) | Brexit is a shorthand way of referring to the UK's decision to leave the European Union (EU). It is a portmanteau of the words "British" and "exit". The term was first used in 2012 when Prime Minister David Cameron promised to hold a referendum on Britain's membership of the EU. On June 23, 2016, the UK voted to leave the EU, and Brexit officially began on March 29, 2019. |
+| 28 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 29 | [Sony](http://twitter.com/search?q=Sony) | N/A |
 | 30 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
 | 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 32 | [Præcis](http://twitter.com/search?q=Pr%c3%a6cis) | N/A |
-| 33 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 34 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 35 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 36 | [Stakkels](http://twitter.com/search?q=Stakkels) | N/A |
-| 37 | [vigtigt](http://twitter.com/search?q=vigtigt) | N/A |
-| 38 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 39 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 40 | [Spørgsmålet](http://twitter.com/search?q=Sp%c3%b8rgsm%c3%a5let) | N/A |
-| 41 | [Copenhagen](http://twitter.com/search?q=Copenhagen) | N/A |
-| 42 | [kvinder](http://twitter.com/search?q=kvinder) | N/A |
-| 43 | [Konservative](http://twitter.com/search?q=Konservative) | N/A |
-| 44 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 45 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
-| 46 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
-| 47 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 48 | [Windows](http://twitter.com/search?q=Windows) | N/A |
+| 32 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 33 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 34 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 35 | [stakkels](http://twitter.com/search?q=stakkels) | N/A |
+| 36 | [vigtigt](http://twitter.com/search?q=vigtigt) | N/A |
+| 37 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 38 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 39 | [Spørgsmålet](http://twitter.com/search?q=Sp%c3%b8rgsm%c3%a5let) | N/A |
+| 40 | [kvinder](http://twitter.com/search?q=kvinder) | N/A |
+| 41 | [Konservative](http://twitter.com/search?q=Konservative) | N/A |
+| 42 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 43 | [Hjulmand](http://twitter.com/search?q=Hjulmand) | N/A |
+| 44 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
+| 45 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 46 | [Windows](http://twitter.com/search?q=Windows) | N/A |
+| 47 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 48 | [Sjælland](http://twitter.com/search?q=Sj%c3%a6lland) | N/A |
 | 49 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 50 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 50 | [Frankrig](http://twitter.com/search?q=Frankrig) | N/A |
 
 
 

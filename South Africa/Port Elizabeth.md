@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-29 17:18:58 UTC`
+📆 Last Updated: `2023-03-29 18:24:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [South Africa](</South Africa>)
 | 8 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 9 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
 | 10 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
-| 11 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
-| 12 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 11 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 12 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
 | 13 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
-| 14 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 15 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
-| 16 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
-| 17 | [dear thabang](http://twitter.com/search?q=dear+thabang) | N/A |
-| 18 | [thabang meets tbangers](http://twitter.com/search?q=thabang+meets+tbangers) | N/A |
-| 19 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
-| 20 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 21 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
-| 22 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
-| 23 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
-| 24 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 25 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 26 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
-| 27 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 28 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
-| 29 | [Block 9](http://twitter.com/search?q=Block+9) | N/A |
-| 30 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
-| 31 | [Mr Langa](http://twitter.com/search?q=Mr+Langa) | N/A |
-| 32 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
-| 33 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
-| 34 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
-| 35 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 36 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
-| 37 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
-| 38 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 39 | [skoroplaap](http://twitter.com/search?q=skoroplaap) | N/A |
+| 14 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 15 | [Tibi](http://twitter.com/search?q=Tibi) | N/A |
+| 16 | [dear thabang](http://twitter.com/search?q=dear+thabang) | N/A |
+| 17 | [thabang meets tbangers](http://twitter.com/search?q=thabang+meets+tbangers) | N/A |
+| 18 | [Liberia](http://twitter.com/search?q=Liberia) | N/A |
+| 19 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 20 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 21 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 22 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 23 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
+| 24 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
+| 25 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
+| 26 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 27 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 28 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
+| 29 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 30 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 31 | [David Notoane](http://twitter.com/search?q=David+Notoane) | N/A |
+| 32 | [Mr Langa](http://twitter.com/search?q=Mr+Langa) | N/A |
+| 33 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 34 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
+| 35 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
+| 36 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
+| 37 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 38 | [Ivory Coast](http://twitter.com/search?q=Ivory+Coast) | N/A |
+| 39 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
 | 40 | [iZwide](http://twitter.com/search?q=iZwide) | N/A |
-| 41 | [ronwen williams](http://twitter.com/search?q=ronwen+williams) | N/A |
-| 42 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
-| 43 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
-| 44 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 45 | [Maela](http://twitter.com/search?q=Maela) | N/A |
-| 46 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 47 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 48 | [FNB Virtual Card](http://twitter.com/search?q=FNB+Virtual+Card) | N/A |
+| 41 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 42 | [ronwen williams](http://twitter.com/search?q=ronwen+williams) | N/A |
+| 43 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 44 | [Maela](http://twitter.com/search?q=Maela) | N/A |
+| 45 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 46 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 47 | [Tshwane](http://twitter.com/search?q=Tshwane) | N/A |
+| 48 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 
 
 

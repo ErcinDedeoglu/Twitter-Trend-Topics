@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-29 17:19:20 UTC`
+📆 Last Updated: `2023-03-29 18:24:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for New Zealand
 | 3 | [Uffindell](http://twitter.com/search?q=Uffindell) | N/A |
 | 4 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
 | 5 | [Simon O'Connor](http://twitter.com/search?q=Simon+O%27Connor) | N/A |
-| 6 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 7 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
-| 8 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 9 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 10 | [south auckland](http://twitter.com/search?q=south+auckland) | N/A |
-| 11 | [judith collins](http://twitter.com/search?q=judith+collins) | N/A |
-| 12 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 6 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 7 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 8 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 9 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 10 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 11 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 12 | [judith collins](http://twitter.com/search?q=judith+collins) | N/A |
 | 13 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 14 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 15 | [Ministers](http://twitter.com/search?q=Ministers) | N/A |
-| 16 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 17 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 18 | [counterspin](http://twitter.com/search?q=counterspin) | N/A |
-| 19 | [national mps](http://twitter.com/search?q=national+mps) | N/A |
-| 20 | [Napier](http://twitter.com/search?q=Napier) | N/A |
-| 21 | [DIRTY POLITICS](http://twitter.com/search?q=DIRTY+POLITICS) | N/A |
-| 22 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 23 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 24 | [hipkins](http://twitter.com/search?q=hipkins) | N/A |
-| 25 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 26 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 27 | [Māori](http://twitter.com/search?q=M%c4%81ori) | N/A |
-| 28 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 29 | [Reported](http://twitter.com/search?q=Reported) | N/A |
-| 30 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 31 | [Loto](http://twitter.com/search?q=Loto) | N/A |
-| 32 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 33 | [#fordtrophy](http://twitter.com/search?q=%23fordtrophy) | N/A |
-| 34 | [Male](http://twitter.com/search?q=Male) | N/A |
-| 35 | [Heather](http://twitter.com/search?q=Heather) | N/A |
-| 36 | [Climate Change](http://twitter.com/search?q=Climate+Change) | N/A |
-| 37 | [wayne brown](http://twitter.com/search?q=wayne+brown) | N/A |
-| 38 | [Greens](http://twitter.com/search?q=Greens) | N/A |
-| 39 | [pākehā](http://twitter.com/search?q=p%c4%81keh%c4%81) | N/A |
-| 40 | [#NationalNotFitToGovern](http://twitter.com/search?q=%23NationalNotFitToGovern) | N/A |
-| 41 | [rbnz](http://twitter.com/search?q=rbnz) | N/A |
-| 42 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 43 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 44 | [john key](http://twitter.com/search?q=john+key) | N/A |
-| 45 | [james shaw](http://twitter.com/search?q=james+shaw) | N/A |
-| 46 | [nz first](http://twitter.com/search?q=nz+first) | N/A |
-| 47 | [Organ](http://twitter.com/search?q=Organ) | N/A |
-| 48 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
-| 49 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 50 | [Queenstown](http://twitter.com/search?q=Queenstown) | N/A |
+| 14 | [South Auckland](http://twitter.com/search?q=South+Auckland) | N/A |
+| 15 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 16 | [Ministers](http://twitter.com/search?q=Ministers) | N/A |
+| 17 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 18 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 19 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 20 | [counterspin](http://twitter.com/search?q=counterspin) | N/A |
+| 21 | [national mps](http://twitter.com/search?q=national+mps) | N/A |
+| 22 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 24 | [DIRTY POLITICS](http://twitter.com/search?q=DIRTY+POLITICS) | N/A |
+| 25 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
+| 26 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 27 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 28 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 29 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 30 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
+| 31 | [Māori](http://twitter.com/search?q=M%c4%81ori) | N/A |
+| 32 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
+| 33 | [Reported](http://twitter.com/search?q=Reported) | N/A |
+| 34 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 35 | [LOTO](http://twitter.com/search?q=LOTO) | N/A |
+| 36 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 37 | [#fordtrophy](http://twitter.com/search?q=%23fordtrophy) | N/A |
+| 38 | [Heather](http://twitter.com/search?q=Heather) | N/A |
+| 39 | [Climate Change](http://twitter.com/search?q=Climate+Change) | N/A |
+| 40 | [wayne brown](http://twitter.com/search?q=wayne+brown) | N/A |
+| 41 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 42 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 43 | [pākehā](http://twitter.com/search?q=p%c4%81keh%c4%81) | N/A |
+| 44 | [rbnz](http://twitter.com/search?q=rbnz) | N/A |
+| 45 | [#harnessracing](http://twitter.com/search?q=%23harnessracing) | N/A |
+| 46 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 47 | [john key](http://twitter.com/search?q=john+key) | N/A |
+| 48 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 49 | [james shaw](http://twitter.com/search?q=james+shaw) | N/A |
+| 50 | [nz first](http://twitter.com/search?q=nz+first) | N/A |
 
 
 

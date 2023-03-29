@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-29 17:18:31 UTC`
+📆 Last Updated: `2023-03-29 18:24:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 2 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 3 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 4 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 5 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 6 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
+| 3 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 4 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 5 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 6 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
 | 7 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 8 | [#TVShowsInFilmOrSong](http://twitter.com/search?q=%23TVShowsInFilmOrSong) | N/A |
-| 9 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
-| 10 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 11 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
-| 12 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
-| 13 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
-| 14 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
-| 15 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 16 | [#pogdogs](http://twitter.com/search?q=%23pogdogs) | N/A |
-| 17 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 18 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 19 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 20 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
-| 21 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 22 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 23 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
-| 24 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 25 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
-| 26 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 27 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
-| 28 | [Claude](http://twitter.com/search?q=Claude) | N/A |
-| 29 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
-| 30 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
-| 31 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
-| 32 | [Premier League Hall of Fame](http://twitter.com/search?q=Premier+League+Hall+of+Fame) | N/A |
-| 33 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 34 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 35 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 36 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
-| 37 | [Bute House](http://twitter.com/search?q=Bute+House) | N/A |
-| 38 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 8 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
+| 9 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
+| 10 | [#TVShowsInFilmOrSong](http://twitter.com/search?q=%23TVShowsInFilmOrSong) | N/A |
+| 11 | [#BridgeOfLies](http://twitter.com/search?q=%23BridgeOfLies) | N/A |
+| 12 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
+| 13 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
+| 14 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 15 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
+| 16 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 17 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
+| 18 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 19 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
+| 20 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 21 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
+| 22 | [PMQs](http://twitter.com/search?q=PMQs) | N/A |
+| 23 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 24 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 25 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 26 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 27 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
+| 28 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 29 | [Yorkshire Dales](http://twitter.com/search?q=Yorkshire+Dales) | N/A |
+| 30 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
+| 31 | [Transport](http://twitter.com/search?q=Transport) | N/A |
+| 32 | [Claude](http://twitter.com/search?q=Claude) | N/A |
+| 33 | [Sir Alex](http://twitter.com/search?q=Sir+Alex) | N/A |
+| 34 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 35 | [Shona Robison](http://twitter.com/search?q=Shona+Robison) | N/A |
+| 36 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 37 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 38 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
 | 39 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 40 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 41 | [Birkenhead](http://twitter.com/search?q=Birkenhead) | N/A |
-| 42 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 43 | [Drag](http://twitter.com/search?q=Drag) | N/A |
-| 44 | [#WorldPianoDay](http://twitter.com/search?q=%23WorldPianoDay) | N/A |
-| 45 | [#bbcpm](http://twitter.com/search?q=%23bbcpm) | N/A |
-| 46 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
-| 47 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 48 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
+| 40 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 41 | [#WorldPianoDay](http://twitter.com/search?q=%23WorldPianoDay) | N/A |
+| 42 | [#bbcpm](http://twitter.com/search?q=%23bbcpm) | N/A |
+| 43 | [#PaulOGradyRIP](http://twitter.com/search?q=%23PaulOGradyRIP) | N/A |
+| 44 | [#pointless](http://twitter.com/search?q=%23pointless) | N/A |
+| 45 | [#ClassicFootballShirts](http://twitter.com/search?q=%23ClassicFootballShirts) | N/A |
+| 46 | [#pogdogs](http://twitter.com/search?q=%23pogdogs) | N/A |
+| 47 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
+| 48 | [#Boxing365](http://twitter.com/search?q=%23Boxing365) | N/A |
 
 
 
