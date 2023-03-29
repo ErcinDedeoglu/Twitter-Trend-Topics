@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-03-29 14:18:35 UTC`
+📆 Last Updated: `2023-03-29 15:28:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 3 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 4 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 5 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 6 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 7 | [Donovan Mitchell](http://twitter.com/search?q=Donovan+Mitchell) | Donovan Mitchell is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). His nickname is "Spida" and he is known for his explosive athleticism and scoring ability. |
-| 8 | [#Cavs](http://twitter.com/search?q=%23Cavs) | N/A |
-| 9 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 10 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 11 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 12 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 13 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 14 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 15 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 16 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 17 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 18 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 19 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 20 | [XIAOYU](http://twitter.com/search?q=XIAOYU) | N/A |
-| 21 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 22 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 23 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
+| 1 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 2 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 3 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 4 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 7 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 8 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 9 | [Hank](http://twitter.com/search?q=Hank) | N/A |
+| 10 | [#VietnamVeteransDay](http://twitter.com/search?q=%23VietnamVeteransDay) | N/A |
+| 11 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 12 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 13 | [Central Catholic](http://twitter.com/search?q=Central+Catholic) | N/A |
+| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 15 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
+| 16 | [Xiaoyu](http://twitter.com/search?q=Xiaoyu) | N/A |
+| 17 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 18 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 19 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
+| 20 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 21 | [Michael Beasley](http://twitter.com/search?q=Michael+Beasley) | N/A |
+| 22 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
+| 23 | [Happy Opening Day Eve](http://twitter.com/search?q=Happy+Opening+Day+Eve) | N/A |
 | 24 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 25 | [Happy Opening Day Eve](http://twitter.com/search?q=Happy+Opening+Day+Eve) | N/A |
-| 26 | [GRFP](http://twitter.com/search?q=GRFP) | N/A |
+| 25 | [GRFP](http://twitter.com/search?q=GRFP) | N/A |
+| 26 | [French Dispatch](http://twitter.com/search?q=French+Dispatch) | N/A |
 | 27 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 28 | [George Clooney](http://twitter.com/search?q=George+Clooney) | N/A |
-| 29 | [Michael Beasley](http://twitter.com/search?q=Michael+Beasley) | N/A |
-| 30 | [Payton Sparks](http://twitter.com/search?q=Payton+Sparks) | N/A |
-| 31 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 32 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
-| 33 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 34 | [French Dispatch](http://twitter.com/search?q=French+Dispatch) | N/A |
-| 35 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 36 | [Posh](http://twitter.com/search?q=Posh) | N/A |
-| 37 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
-| 38 | [Ling](http://twitter.com/search?q=Ling) | N/A |
-| 39 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
+| 28 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 29 | [George Clooney](http://twitter.com/search?q=George+Clooney) | N/A |
+| 30 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
+| 31 | [Pattie](http://twitter.com/search?q=Pattie) | N/A |
+| 32 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 33 | [Tee Higgins](http://twitter.com/search?q=Tee+Higgins) | Tee Higgins is a nickname for the American football player Tee Higgins, who plays wide receiver for the Cincinnati Bengals. The name is derived from his given name, Terrell. |
+| 34 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
+| 35 | [Posh](http://twitter.com/search?q=Posh) | N/A |
+| 36 | [Ling](http://twitter.com/search?q=Ling) | N/A |
+| 37 | [South Vietnam](http://twitter.com/search?q=South+Vietnam) | N/A |
+| 38 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
+| 39 | [Kale](http://twitter.com/search?q=Kale) | N/A |
 | 40 | [Act Blue](http://twitter.com/search?q=Act+Blue) | N/A |
-| 41 | [Kale](http://twitter.com/search?q=Kale) | N/A |
-| 42 | [day of giving](http://twitter.com/search?q=day+of+giving) | N/A |
-| 43 | [Son of Man](http://twitter.com/search?q=Son+of+Man) | N/A |
-| 44 | [$LULU](http://twitter.com/search?q=%24LULU) | N/A |
+| 41 | [Kelly Green](http://twitter.com/search?q=Kelly+Green) | N/A |
+| 42 | [$LULU](http://twitter.com/search?q=%24LULU) | N/A |
+| 43 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 44 | [Black Panthers](http://twitter.com/search?q=Black+Panthers) | N/A |
 | 45 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 46 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
-| 47 | [Black Panthers](http://twitter.com/search?q=Black+Panthers) | N/A |
-| 48 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 49 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
+| 46 | [Day of Giving](http://twitter.com/search?q=Day+of+Giving) | N/A |
+| 47 | [Florial](http://twitter.com/search?q=Florial) | N/A |
+| 48 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
+| 49 | [Big Man](http://twitter.com/search?q=Big+Man) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-29 14:18:07 UTC`
+📆 Last Updated: `2023-03-29 15:27:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [Sergio Ermotti](http://twitter.com/search?q=Sergio+Ermotti) | N/A |
 | 2 | [#suiisr](http://twitter.com/search?q=%23suiisr) | N/A |
-| 3 | [#SDGs](http://twitter.com/search?q=%23SDGs) | N/A |
-| 4 | [#RFSD2023](http://twitter.com/search?q=%23RFSD2023) | N/A |
-| 5 | [sportler](http://twitter.com/search?q=sportler) | N/A |
+| 3 | [#RFSD2023](http://twitter.com/search?q=%23RFSD2023) | N/A |
+| 4 | [#SDGs](http://twitter.com/search?q=%23SDGs) | N/A |
+| 5 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
 | 6 | [#rücktrittkks](http://twitter.com/search?q=%23r%c3%bccktrittkks) | N/A |
-| 7 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
-| 8 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
-| 9 | [verfassung](http://twitter.com/search?q=verfassung) | N/A |
+| 7 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 8 | [#SkinNTDs](http://twitter.com/search?q=%23SkinNTDs) | N/A |
+| 9 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
 | 10 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 12 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 13 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 14 | [Patienten](http://twitter.com/search?q=Patienten) | N/A |
-| 15 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
-| 16 | [antti](http://twitter.com/search?q=antti) | N/A |
-| 17 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 18 | [Heimat](http://twitter.com/search?q=Heimat) | N/A |
-| 19 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 20 | [Bach](http://twitter.com/search?q=Bach) | N/A |
-| 21 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 22 | [Gast](http://twitter.com/search?q=Gast) | N/A |
-| 23 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 24 | [rentner](http://twitter.com/search?q=rentner) | N/A |
-| 25 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
-| 26 | [Itten](http://twitter.com/search?q=Itten) | N/A |
-| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 28 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 29 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
-| 30 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 31 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
-| 32 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
-| 33 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 34 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
-| 35 | [Brot](http://twitter.com/search?q=Brot) | N/A |
-| 36 | [Angestellten](http://twitter.com/search?q=Angestellten) | N/A |
-| 37 | [Wusste](http://twitter.com/search?q=Wusste) | N/A |
-| 38 | [Produktion](http://twitter.com/search?q=Produktion) | N/A |
-| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 40 | [Option](http://twitter.com/search?q=Option) | N/A |
-| 41 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
-| 42 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 43 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 44 | [Städte](http://twitter.com/search?q=St%c3%a4dte) | N/A |
-| 45 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
-| 46 | [Einverstanden](http://twitter.com/search?q=Einverstanden) | N/A |
-| 47 | [Grand Conseil](http://twitter.com/search?q=Grand+Conseil) | N/A |
-| 48 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 49 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 50 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
+| 11 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
+| 12 | [Regional Forum](http://twitter.com/search?q=Regional+Forum) | N/A |
+| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 14 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 15 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 16 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 17 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
+| 18 | [J'étais](http://twitter.com/search?q=J%27%c3%a9tais) | N/A |
+| 19 | [antti](http://twitter.com/search?q=antti) | N/A |
+| 20 | [Heimat](http://twitter.com/search?q=Heimat) | N/A |
+| 21 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 22 | [Bach](http://twitter.com/search?q=Bach) | N/A |
+| 23 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
+| 24 | [Gast](http://twitter.com/search?q=Gast) | N/A |
+| 25 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 26 | [Nils](http://twitter.com/search?q=Nils) | N/A |
+| 27 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 28 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 29 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
+| 30 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 31 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 32 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
+| 33 | [Zeki Amdouni](http://twitter.com/search?q=Zeki+Amdouni) | N/A |
+| 34 | [Rentner](http://twitter.com/search?q=Rentner) | N/A |
+| 35 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
+| 36 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
+| 37 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 38 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
+| 39 | [Olympic](http://twitter.com/search?q=Olympic) | N/A |
+| 40 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 41 | [Winterthur](http://twitter.com/search?q=Winterthur) | N/A |
+| 42 | [Cameroun](http://twitter.com/search?q=Cameroun) | N/A |
+| 43 | [Angestellten](http://twitter.com/search?q=Angestellten) | N/A |
+| 44 | [Brot](http://twitter.com/search?q=Brot) | N/A |
+| 45 | [Wusste](http://twitter.com/search?q=Wusste) | N/A |
+| 46 | [Produktion](http://twitter.com/search?q=Produktion) | N/A |
+| 47 | [Städte](http://twitter.com/search?q=St%c3%a4dte) | N/A |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 49 | [grösse](http://twitter.com/search?q=gr%c3%b6sse) | N/A |
+| 50 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-29 14:18:49 UTC`
+📆 Last Updated: `2023-03-29 15:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
-| 2 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 3 | [#DDV23](http://twitter.com/search?q=%23DDV23) | N/A |
+| 2 | [#DDV23](http://twitter.com/search?q=%23DDV23) | N/A |
+| 3 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 4 | [#NEDGIB](http://twitter.com/search?q=%23NEDGIB) | N/A |
 | 5 | [Rome](http://twitter.com/search?q=Rome) | N/A |
 | 6 | [#Rutte](http://twitter.com/search?q=%23Rutte) | N/A |
-| 7 | [Beterschap](http://twitter.com/search?q=Beterschap) | N/A |
-| 8 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 9 | [Roman Abramovich](http://twitter.com/search?q=Roman+Abramovich) | N/A |
-| 10 | [Ralph Hamers](http://twitter.com/search?q=Ralph+Hamers) | N/A |
-| 11 | [Biesbosch](http://twitter.com/search?q=Biesbosch) | N/A |
-| 12 | [Zwart](http://twitter.com/search?q=Zwart) | N/A |
-| 13 | [Dissel](http://twitter.com/search?q=Dissel) | N/A |
-| 14 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 15 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
-| 16 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 17 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 18 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
-| 19 | [Italiaans](http://twitter.com/search?q=Italiaans) | N/A |
-| 20 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
-| 21 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
-| 22 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 23 | [El Yaakoubi](http://twitter.com/search?q=El+Yaakoubi) | N/A |
-| 24 | [Hoekstra](http://twitter.com/search?q=Hoekstra) | N/A |
-| 25 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
-| 26 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 27 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 28 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 29 | [Postkantoor](http://twitter.com/search?q=Postkantoor) | N/A |
-| 30 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 31 | [trauner](http://twitter.com/search?q=trauner) | N/A |
-| 32 | [Amnesty](http://twitter.com/search?q=Amnesty) | N/A |
+| 7 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 8 | [Ralph Hamers](http://twitter.com/search?q=Ralph+Hamers) | N/A |
+| 9 | [Biesbosch](http://twitter.com/search?q=Biesbosch) | N/A |
+| 10 | [Dissel](http://twitter.com/search?q=Dissel) | N/A |
+| 11 | [Beterschap](http://twitter.com/search?q=Beterschap) | N/A |
+| 12 | [Italië](http://twitter.com/search?q=Itali%c3%ab) | N/A |
+| 13 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 14 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 15 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 16 | [Roman Abramovich](http://twitter.com/search?q=Roman+Abramovich) | N/A |
+| 17 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
+| 18 | [Italiaans](http://twitter.com/search?q=Italiaans) | N/A |
+| 19 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 20 | [El Yaakoubi](http://twitter.com/search?q=El+Yaakoubi) | N/A |
+| 21 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 22 | [eerdmans](http://twitter.com/search?q=eerdmans) | N/A |
+| 23 | [Bushalte](http://twitter.com/search?q=Bushalte) | N/A |
+| 24 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 25 | [Postkantoor](http://twitter.com/search?q=Postkantoor) | N/A |
+| 26 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 27 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
+| 28 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
+| 29 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 30 | [trauner](http://twitter.com/search?q=trauner) | N/A |
+| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 32 | [onelove-band](http://twitter.com/search?q=onelove-band) | N/A |
 | 33 | [Koot](http://twitter.com/search?q=Koot) | N/A |
-| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 35 | [onelove-band](http://twitter.com/search?q=onelove-band) | N/A |
-| 36 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 37 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 38 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 39 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 40 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 34 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 35 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
+| 36 | [Zwitserse](http://twitter.com/search?q=Zwitserse) | N/A |
+| 37 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
+| 38 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 39 | [Herman Finkers](http://twitter.com/search?q=Herman+Finkers) | N/A |
+| 40 | [Amnesty](http://twitter.com/search?q=Amnesty) | N/A |
 | 41 | [Teams](http://twitter.com/search?q=Teams) | Teams is a collaboration platform developed by Microsoft. It is designed to help teams of people work together more effectively by providing a central hub for communication, file sharing, and task management. Teams allows users to chat, share files, and manage tasks in one place. It also provides integration with other Microsoft products such as Outlook and OneDrive. |
-| 42 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 43 | [Dag 29](http://twitter.com/search?q=Dag+29) | N/A |
-| 44 | [onelove-actie](http://twitter.com/search?q=onelove-actie) | N/A |
-| 45 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 46 | [Bushalte](http://twitter.com/search?q=Bushalte) | N/A |
-| 47 | [MILJOEN](http://twitter.com/search?q=MILJOEN) | N/A |
-| 48 | [Zwitserse](http://twitter.com/search?q=Zwitserse) | N/A |
-| 49 | [Vitesse](http://twitter.com/search?q=Vitesse) | N/A |
-| 50 | [Verbieden](http://twitter.com/search?q=Verbieden) | N/A |
+| 42 | [MILJOEN](http://twitter.com/search?q=MILJOEN) | N/A |
+| 43 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 44 | [Deltares](http://twitter.com/search?q=Deltares) | N/A |
+| 45 | [Zwart](http://twitter.com/search?q=Zwart) | N/A |
+| 46 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 47 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
+| 48 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 49 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
+| 50 | [Vreedzaam](http://twitter.com/search?q=Vreedzaam) | N/A |
 
 
 

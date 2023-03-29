@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-29 14:18:18 UTC`
+📆 Last Updated: `2023-03-29 15:28:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
-| 2 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
-| 3 | [#4thVPChoiceAwards](http://twitter.com/search?q=%234thVPChoiceAwards) | N/A |
-| 4 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
-| 5 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
-| 6 | [BGYO ON 4TH VPCAWARDS](http://twitter.com/search?q=BGYO+ON+4TH+VPCAWARDS) | N/A |
-| 7 | [PROUD KAMI SAYO](http://twitter.com/search?q=PROUD+KAMI+SAYO) | N/A |
-| 8 | [PIEnally 2DREIther](http://twitter.com/search?q=PIEnally+2DREIther) | N/A |
-| 9 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 10 | [KOKOY AS INTOY](http://twitter.com/search?q=KOKOY+AS+INTOY) | N/A |
-| 11 | [MAYMAY KABOGERA SA VPCA](http://twitter.com/search?q=MAYMAY+KABOGERA+SA+VPCA) | N/A |
-| 12 | [Hottie ASI](http://twitter.com/search?q=Hottie+ASI) | N/A |
-| 13 | [DONNY FOR QUICKFX](http://twitter.com/search?q=DONNY+FOR+QUICKFX) | N/A |
-| 14 | [Win x Lazada11Year](http://twitter.com/search?q=Win+x+Lazada11Year) | N/A |
+| 1 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
+| 2 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
+| 3 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
+| 4 | [#4thVPChoiceAwards](http://twitter.com/search?q=%234thVPChoiceAwards) | N/A |
+| 5 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
+| 6 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 7 | [SB19 VPCA HAKOT AWARDS](http://twitter.com/search?q=SB19+VPCA+HAKOT+AWARDS) | N/A |
+| 8 | [KD VPCA PROMISING AGAIN](http://twitter.com/search?q=KD+VPCA+PROMISING+AGAIN) | N/A |
+| 9 | [PIEnally 2DREIther](http://twitter.com/search?q=PIEnally+2DREIther) | N/A |
+| 10 | [PROUD KAMI SAYO](http://twitter.com/search?q=PROUD+KAMI+SAYO) | N/A |
+| 11 | [KOKOY AS INTOY](http://twitter.com/search?q=KOKOY+AS+INTOY) | N/A |
+| 12 | [MAYMAY KABOGERA SA VPCA](http://twitter.com/search?q=MAYMAY+KABOGERA+SA+VPCA) | N/A |
+| 13 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 14 | [Hottie ASI](http://twitter.com/search?q=Hottie+ASI) | N/A |
 | 15 | [RUSwabe On PIE](http://twitter.com/search?q=RUSwabe+On+PIE) | N/A |
-| 16 | [Reverence to God](http://twitter.com/search?q=Reverence+to+God) | N/A |
+| 16 | [Win x Lazada11Year](http://twitter.com/search?q=Win+x+Lazada11Year) | N/A |
 | 17 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 18 | [EXO-SC](http://twitter.com/search?q=EXO-SC) | N/A |
-| 19 | [PrincePIE NG PAPnale](http://twitter.com/search?q=PrincePIE+NG+PAPnale) | N/A |
-| 20 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 21 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
-| 22 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
-| 23 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 24 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
-| 25 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 26 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
-| 27 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
-| 28 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
-| 29 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
-| 30 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
-| 31 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
-| 32 | [WE LOVE YOU EXO](http://twitter.com/search?q=WE+LOVE+YOU+EXO) | N/A |
-| 33 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
-| 34 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
-| 35 | [#PauseAndPlayFINALEWeek](http://twitter.com/search?q=%23PauseAndPlayFINALEWeek) | N/A |
-| 36 | [#BoysOverPIEflowers](http://twitter.com/search?q=%23BoysOverPIEflowers) | N/A |
-| 37 | [#DONNYWinsAtVPCA](http://twitter.com/search?q=%23DONNYWinsAtVPCA) | N/A |
-| 38 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
-| 39 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
-| 40 | [#TWOSavana](http://twitter.com/search?q=%23TWOSavana) | N/A |
-| 41 | [#Lazada11yearcharity](http://twitter.com/search?q=%23Lazada11yearcharity) | N/A |
-| 42 | [#SB19_STELL](http://twitter.com/search?q=%23SB19_STELL) | #SB19_STELL is a hashtag used by fans of the Filipino boy band SB19. It stands for "Support, Trust, Encourage, Love and Listen" and is used to show support for the group. |
-| 43 | [#DLTruthAboutTheEx](http://twitter.com/search?q=%23DLTruthAboutTheEx) | N/A |
-| 44 | [#SB19_KEN](http://twitter.com/search?q=%23SB19_KEN) | N/A |
-| 45 | [#SB19MsMOJOTop20BoyBands](http://twitter.com/search?q=%23SB19MsMOJOTop20BoyBands) | N/A |
-| 46 | [#FromNswer](http://twitter.com/search?q=%23FromNswer) | N/A |
-| 47 | [#FPJBQBuhos](http://twitter.com/search?q=%23FPJBQBuhos) | N/A |
-| 48 | [#DONtWantPimples](http://twitter.com/search?q=%23DONtWantPimples) | N/A |
-| 49 | [#DONNYxPimpleEraser](http://twitter.com/search?q=%23DONNYxPimpleEraser) | N/A |
+| 18 | [PrincePIE NG PAPnale](http://twitter.com/search?q=PrincePIE+NG+PAPnale) | N/A |
+| 19 | [EXO-SC](http://twitter.com/search?q=EXO-SC) | N/A |
+| 20 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 21 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 22 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
+| 23 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 24 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 25 | [Hendery](http://twitter.com/search?q=Hendery) | N/A |
+| 26 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 27 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 28 | [A'TIN](http://twitter.com/search?q=A%27TIN) | N/A |
+| 29 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
+| 30 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
+| 31 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
+| 32 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
+| 33 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
+| 34 | [WE LOVE YOU EXO](http://twitter.com/search?q=WE+LOVE+YOU+EXO) | N/A |
+| 35 | [#MEinONEday](http://twitter.com/search?q=%23MEinONEday) | N/A |
+| 36 | [#HAPPY27th_CHAEUNWOO](http://twitter.com/search?q=%23HAPPY27th_CHAEUNWOO) | N/A |
+| 37 | [#GetWellSoonFreen](http://twitter.com/search?q=%23GetWellSoonFreen) | N/A |
+| 38 | [#OurFavoriteSongMINODay](http://twitter.com/search?q=%23OurFavoriteSongMINODay) | N/A |
+| 39 | [#BoysOverPIEflowers](http://twitter.com/search?q=%23BoysOverPIEflowers) | N/A |
+| 40 | [#4thVPCA](http://twitter.com/search?q=%234thVPCA) | N/A |
+| 41 | [#PauseAndPlayFINALEWeek](http://twitter.com/search?q=%23PauseAndPlayFINALEWeek) | N/A |
+| 42 | [#DONNYWinsAtVPCA](http://twitter.com/search?q=%23DONNYWinsAtVPCA) | N/A |
+| 43 | [#TWOSavana](http://twitter.com/search?q=%23TWOSavana) | N/A |
+| 44 | [#NMIXX1stWin](http://twitter.com/search?q=%23NMIXX1stWin) | N/A |
+| 45 | [#DLTruthAboutTheEx](http://twitter.com/search?q=%23DLTruthAboutTheEx) | N/A |
+| 46 | [#FurFurOhYeah](http://twitter.com/search?q=%23FurFurOhYeah) | N/A |
+| 47 | [#LoveMeLikeThis1stWin](http://twitter.com/search?q=%23LoveMeLikeThis1stWin) | N/A |
+| 48 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
+| 49 | [#Lazada11yearcharity](http://twitter.com/search?q=%23Lazada11yearcharity) | N/A |
 
 
 

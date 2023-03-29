@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-29 14:18:01 UTC`
+📆 Last Updated: `2023-03-29 15:27:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
 | 2 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
-| 3 | [sportler](http://twitter.com/search?q=sportler) | N/A |
+| 3 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
 | 4 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 5 | [#CharlesIII](http://twitter.com/search?q=%23CharlesIII) | N/A |
-| 6 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 7 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 5 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 6 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 7 | [#CharlesIII](http://twitter.com/search?q=%23CharlesIII) | N/A |
 | 8 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 9 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 10 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 11 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 10 | [haken](http://twitter.com/search?q=haken) | N/A |
+| 11 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
 | 12 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
 | 13 | [Maut](http://twitter.com/search?q=Maut) | N/A |
-| 14 | [Dämliches Stück Hirn-Vakuum](http://twitter.com/search?q=D%c3%a4mliches+St%c3%bcck+Hirn-Vakuum) | N/A |
+| 14 | [Wald](http://twitter.com/search?q=Wald) | N/A |
 | 15 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
-| 16 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 17 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 18 | [RB Leipzig](http://twitter.com/search?q=RB+Leipzig) | N/A |
-| 19 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 16 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 17 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 18 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 19 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
 | 20 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 21 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
-| 22 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 23 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 24 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
-| 25 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
-| 26 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
-| 27 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 21 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 22 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 23 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
+| 24 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
+| 25 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
+| 26 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 27 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
 | 28 | [Sektoren](http://twitter.com/search?q=Sektoren) | N/A |
-| 29 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
-| 30 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
-| 31 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
-| 32 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 33 | [Parfum](http://twitter.com/search?q=Parfum) | N/A |
-| 34 | [Armbinde](http://twitter.com/search?q=Armbinde) | N/A |
-| 35 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 36 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
-| 37 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
-| 38 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
-| 39 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 40 | [Huster](http://twitter.com/search?q=Huster) | N/A |
-| 41 | [Belgien](http://twitter.com/search?q=Belgien) | N/A |
-| 42 | [RUDI VÖLLER](http://twitter.com/search?q=RUDI+V%c3%96LLER) | N/A |
+| 29 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 30 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
+| 31 | [Tradition als RB Leipzig](http://twitter.com/search?q=Tradition+als+RB+Leipzig) | N/A |
+| 32 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
+| 33 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 34 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
+| 35 | [Armbinde](http://twitter.com/search?q=Armbinde) | N/A |
+| 36 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
+| 37 | [Nils](http://twitter.com/search?q=Nils) | N/A |
+| 38 | [Hansi Flick](http://twitter.com/search?q=Hansi+Flick) | N/A |
+| 39 | [RUDI VÖLLER](http://twitter.com/search?q=RUDI+V%c3%96LLER) | N/A |
+| 40 | [Invalidenpark](http://twitter.com/search?q=Invalidenpark) | N/A |
+| 41 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
+| 42 | [Wasserstoff](http://twitter.com/search?q=Wasserstoff) | N/A |
 | 43 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
-| 44 | [Nationalmannschaft](http://twitter.com/search?q=Nationalmannschaft) | N/A |
-| 45 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 46 | [Pro Controller](http://twitter.com/search?q=Pro+Controller) | N/A |
-| 47 | [Naturschutz](http://twitter.com/search?q=Naturschutz) | N/A |
-| 48 | [Richterin](http://twitter.com/search?q=Richterin) | N/A |
+| 44 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 45 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 46 | [Auszeichnung](http://twitter.com/search?q=Auszeichnung) | N/A |
+| 47 | [Beschlüsse](http://twitter.com/search?q=Beschl%c3%bcsse) | N/A |
+| 48 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
 
 
 

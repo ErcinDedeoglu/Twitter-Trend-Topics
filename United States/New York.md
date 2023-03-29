@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-29 14:18:39 UTC`
+📆 Last Updated: `2023-03-29 15:28:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Christians](http://twitter.com/search?q=Christians) | N/A |
 | 4 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 9 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 10 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 11 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 12 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 13 | [XIAOYU](http://twitter.com/search?q=XIAOYU) | N/A |
-| 14 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 15 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 16 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 17 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
-| 18 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 19 | [Happy Opening Day Eve](http://twitter.com/search?q=Happy+Opening+Day+Eve) | N/A |
-| 20 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 21 | [GRFP](http://twitter.com/search?q=GRFP) | N/A |
-| 22 | [George Clooney](http://twitter.com/search?q=George+Clooney) | N/A |
-| 23 | [Michael Beasley](http://twitter.com/search?q=Michael+Beasley) | N/A |
-| 24 | [Payton Sparks](http://twitter.com/search?q=Payton+Sparks) | N/A |
-| 25 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 26 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
-| 27 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 28 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 29 | [Posh](http://twitter.com/search?q=Posh) | N/A |
-| 30 | [French Dispatch](http://twitter.com/search?q=French+Dispatch) | N/A |
-| 31 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
-| 32 | [Ling](http://twitter.com/search?q=Ling) | N/A |
-| 33 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
-| 34 | [Act Blue](http://twitter.com/search?q=Act+Blue) | N/A |
-| 35 | [Kale](http://twitter.com/search?q=Kale) | N/A |
-| 36 | [day of giving](http://twitter.com/search?q=day+of+giving) | N/A |
-| 37 | [$LULU](http://twitter.com/search?q=%24LULU) | N/A |
-| 38 | [Son of Man](http://twitter.com/search?q=Son+of+Man) | N/A |
-| 39 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 40 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
-| 41 | [Black Panthers](http://twitter.com/search?q=Black+Panthers) | N/A |
-| 42 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 43 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 44 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 45 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
-| 46 | [The Wizards](http://twitter.com/search?q=The+Wizards) | The Wizards is a fantasy role-playing game set in a magical world. Players take on the role of wizards and use their magical powers to battle monsters, explore dungeons, and complete quests. The game is designed to be both fun and challenging, with an emphasis on cooperative play. The meaning of the phrase in English is "magicians or those who wield magic". |
-| 47 | [NAFTA](http://twitter.com/search?q=NAFTA) | N/A |
-| 48 | [NL East](http://twitter.com/search?q=NL+East) | NL East is an abbreviation for the National League East Division, which is one of the six divisions in Major League Baseball (MLB). It consists of teams from the eastern United States and Canada. The NL East teams are the Atlanta Braves, Miami Marlins, New York Mets, Philadelphia Phillies, and Washington Nationals. |
-| 49 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 50 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
+| 6 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 9 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 10 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 11 | [Hank](http://twitter.com/search?q=Hank) | N/A |
+| 12 | [#VietnamWarVeteransDay](http://twitter.com/search?q=%23VietnamWarVeteransDay) | N/A |
+| 13 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 14 | [Central Catholic](http://twitter.com/search?q=Central+Catholic) | N/A |
+| 15 | [Xiaoyu](http://twitter.com/search?q=Xiaoyu) | N/A |
+| 16 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
+| 17 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 18 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 19 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 20 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
+| 21 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 22 | [grfp](http://twitter.com/search?q=grfp) | N/A |
+| 23 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
+| 24 | [Happy Opening Day Eve](http://twitter.com/search?q=Happy+Opening+Day+Eve) | N/A |
+| 25 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 26 | [Michael Beasley](http://twitter.com/search?q=Michael+Beasley) | N/A |
+| 27 | [French Dispatch](http://twitter.com/search?q=French+Dispatch) | N/A |
+| 28 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 29 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 30 | [George Clooney](http://twitter.com/search?q=George+Clooney) | N/A |
+| 31 | [Pattie](http://twitter.com/search?q=Pattie) | N/A |
+| 32 | [Tee Higgins](http://twitter.com/search?q=Tee+Higgins) | Tee Higgins is a nickname for the American football player Tee Higgins, who plays wide receiver for the Cincinnati Bengals. The name is derived from his given name, Terrell. |
+| 33 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
+| 34 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 35 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
+| 36 | [Posh](http://twitter.com/search?q=Posh) | N/A |
+| 37 | [Ling](http://twitter.com/search?q=Ling) | N/A |
+| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 39 | [South Vietnam](http://twitter.com/search?q=South+Vietnam) | N/A |
+| 40 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
+| 41 | [Kelly Green](http://twitter.com/search?q=Kelly+Green) | N/A |
+| 42 | [Kale](http://twitter.com/search?q=Kale) | N/A |
+| 43 | [$LULU](http://twitter.com/search?q=%24LULU) | N/A |
+| 44 | [Act Blue](http://twitter.com/search?q=Act+Blue) | N/A |
+| 45 | [Trans Day of Vengeance](http://twitter.com/search?q=Trans+Day+of+Vengeance) | N/A |
+| 46 | [Black Panthers](http://twitter.com/search?q=Black+Panthers) | N/A |
+| 47 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 48 | [Florial](http://twitter.com/search?q=Florial) | N/A |
+| 49 | [Day of Giving](http://twitter.com/search?q=Day+of+Giving) | N/A |
+| 50 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
 
 
 

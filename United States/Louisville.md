@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-29 14:18:37 UTC`
+📆 Last Updated: `2023-03-29 15:28:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,47 +19,49 @@ This is top 50 for [United States](</United States>)
 | 2 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
 | 3 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 7 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 8 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 9 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 10 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 11 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 12 | [XIAOYU](http://twitter.com/search?q=XIAOYU) | N/A |
-| 13 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 14 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 15 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 16 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
-| 17 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 18 | [Happy Opening Day Eve](http://twitter.com/search?q=Happy+Opening+Day+Eve) | N/A |
-| 19 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 20 | [GRFP](http://twitter.com/search?q=GRFP) | N/A |
-| 21 | [George Clooney](http://twitter.com/search?q=George+Clooney) | N/A |
-| 22 | [Michael Beasley](http://twitter.com/search?q=Michael+Beasley) | N/A |
-| 23 | [Payton Sparks](http://twitter.com/search?q=Payton+Sparks) | N/A |
-| 24 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 25 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
-| 26 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
-| 27 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 28 | [Posh](http://twitter.com/search?q=Posh) | N/A |
-| 29 | [French Dispatch](http://twitter.com/search?q=French+Dispatch) | N/A |
-| 30 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
-| 31 | [Ling](http://twitter.com/search?q=Ling) | N/A |
-| 32 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
-| 33 | [Act Blue](http://twitter.com/search?q=Act+Blue) | N/A |
-| 34 | [Kale](http://twitter.com/search?q=Kale) | N/A |
-| 35 | [day of giving](http://twitter.com/search?q=day+of+giving) | N/A |
-| 36 | [$LULU](http://twitter.com/search?q=%24LULU) | N/A |
-| 37 | [Son of Man](http://twitter.com/search?q=Son+of+Man) | N/A |
-| 38 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 39 | [Josh Hawley](http://twitter.com/search?q=Josh+Hawley) | N/A |
-| 40 | [Black Panthers](http://twitter.com/search?q=Black+Panthers) | N/A |
-| 41 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 42 | [Mayorkas](http://twitter.com/search?q=Mayorkas) | N/A |
-| 43 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 44 | [Enter the Dragon](http://twitter.com/search?q=Enter+the+Dragon) | N/A |
-| 45 | [The Wizards](http://twitter.com/search?q=The+Wizards) | The Wizards is a fantasy role-playing game set in a magical world. Players take on the role of wizards and use their magical powers to battle monsters, explore dungeons, and complete quests. The game is designed to be both fun and challenging, with an emphasis on cooperative play. The meaning of the phrase in English is "magicians or those who wield magic". |
+| 5 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 9 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 10 | [Hank](http://twitter.com/search?q=Hank) | N/A |
+| 11 | [#VietnamVeteransDay](http://twitter.com/search?q=%23VietnamVeteransDay) | N/A |
+| 12 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 13 | [Central Catholic](http://twitter.com/search?q=Central+Catholic) | N/A |
+| 14 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 15 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
+| 16 | [Xiaoyu](http://twitter.com/search?q=Xiaoyu) | N/A |
+| 17 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 18 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 19 | [Jethro Tull](http://twitter.com/search?q=Jethro+Tull) | N/A |
+| 20 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 21 | [Michael Beasley](http://twitter.com/search?q=Michael+Beasley) | N/A |
+| 22 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
+| 23 | [Happy Opening Day Eve](http://twitter.com/search?q=Happy+Opening+Day+Eve) | N/A |
+| 24 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 25 | [GRFP](http://twitter.com/search?q=GRFP) | N/A |
+| 26 | [French Dispatch](http://twitter.com/search?q=French+Dispatch) | N/A |
+| 27 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 28 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 29 | [George Clooney](http://twitter.com/search?q=George+Clooney) | N/A |
+| 30 | [Mel King](http://twitter.com/search?q=Mel+King) | N/A |
+| 31 | [Pattie](http://twitter.com/search?q=Pattie) | N/A |
+| 32 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 33 | [Tee Higgins](http://twitter.com/search?q=Tee+Higgins) | Tee Higgins is a nickname for the American football player Tee Higgins, who plays wide receiver for the Cincinnati Bengals. The name is derived from his given name, Terrell. |
+| 34 | [Arthur Blank](http://twitter.com/search?q=Arthur+Blank) | N/A |
+| 35 | [Posh](http://twitter.com/search?q=Posh) | N/A |
+| 36 | [Ling](http://twitter.com/search?q=Ling) | N/A |
+| 37 | [South Vietnam](http://twitter.com/search?q=South+Vietnam) | N/A |
+| 38 | [Camden Yards](http://twitter.com/search?q=Camden+Yards) | N/A |
+| 39 | [Kale](http://twitter.com/search?q=Kale) | N/A |
+| 40 | [Act Blue](http://twitter.com/search?q=Act+Blue) | N/A |
+| 41 | [Kelly Green](http://twitter.com/search?q=Kelly+Green) | N/A |
+| 42 | [$LULU](http://twitter.com/search?q=%24LULU) | N/A |
+| 43 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 44 | [Black Panthers](http://twitter.com/search?q=Black+Panthers) | N/A |
+| 45 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 46 | [Florial](http://twitter.com/search?q=Florial) | N/A |
+| 47 | [Day of Giving](http://twitter.com/search?q=Day+of+Giving) | N/A |
 
 
 
