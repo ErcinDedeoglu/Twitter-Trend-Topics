@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-03-29 20:17:13 UTC`
+📆 Last Updated: `2023-03-29 21:18:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
-| 2 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 2 | [#tvtotal](http://twitter.com/search?q=%23tvtotal) | N/A |
 | 3 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
-| 4 | [#tvtotal](http://twitter.com/search?q=%23tvtotal) | N/A |
+| 4 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
 | 5 | [#ARSFCB](http://twitter.com/search?q=%23ARSFCB) | N/A |
 | 6 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
 | 7 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for [Germany](</Germany>)
 | 9 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
 | 10 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
 | 11 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 12 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 12 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
 | 13 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
-| 14 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 14 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 15 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 16 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
-| 17 | [Maut](http://twitter.com/search?q=Maut) | N/A |
+| 16 | [Maut](http://twitter.com/search?q=Maut) | N/A |
+| 17 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
 | 18 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 19 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 20 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 21 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 22 | [Tradition als RB Leipzig](http://twitter.com/search?q=Tradition+als+RB+Leipzig) | N/A |
-| 23 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
-| 24 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 25 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
-| 26 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
-| 27 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
-| 28 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
-| 29 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
-| 30 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 19 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 20 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 21 | [Tradition als RB Leipzig](http://twitter.com/search?q=Tradition+als+RB+Leipzig) | N/A |
+| 22 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
+| 23 | [Sawsan Chebli](http://twitter.com/search?q=Sawsan+Chebli) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 26 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
+| 27 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
+| 28 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
+| 29 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 30 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
 | 31 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
-| 32 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 32 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
 | 33 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 34 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 35 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 36 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
-| 37 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 40 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
-| 41 | [Transfersperre](http://twitter.com/search?q=Transfersperre) | N/A |
-| 42 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
-| 43 | [Salz](http://twitter.com/search?q=Salz) | N/A |
-| 44 | [Sektoren](http://twitter.com/search?q=Sektoren) | N/A |
+| 34 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
+| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 36 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 37 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 38 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
+| 39 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 40 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 41 | [Sektoren](http://twitter.com/search?q=Sektoren) | N/A |
+| 42 | [Transfersperre](http://twitter.com/search?q=Transfersperre) | N/A |
+| 43 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
+| 44 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
 | 45 | [Armbinde](http://twitter.com/search?q=Armbinde) | N/A |
-| 46 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 47 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
-| 48 | [Mittwochabend](http://twitter.com/search?q=Mittwochabend) | N/A |
-| 49 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
-| 50 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
+| 46 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
+| 47 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 48 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
+| 49 | [Steuererhöhung](http://twitter.com/search?q=Steuererh%c3%b6hung) | N/A |
+| 50 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
 
 
 

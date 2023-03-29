@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-03-29 20:17:08 UTC`
+📆 Last Updated: `2023-03-29 21:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Maurício](http://twitter.com/search?q=Maur%c3%adcio) | N/A |
-| 2 | [Massa](http://twitter.com/search?q=Massa) | N/A |
-| 3 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 4 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
-| 5 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 6 | [cebolinha](http://twitter.com/search?q=cebolinha) | N/A |
-| 7 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 8 | [Poliana](http://twitter.com/search?q=Poliana) | N/A |
-| 9 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 10 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 11 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 12 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 13 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 14 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 15 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 16 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 17 | [Michel Araújo](http://twitter.com/search?q=Michel+Ara%c3%bajo) | Michel Araújo is a Portuguese name. It is derived from the Hebrew name Michael, which means "who is like God". |
-| 18 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 19 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 20 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 21 | [Contarato](http://twitter.com/search?q=Contarato) | N/A |
-| 22 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 23 | [Gabriel Neves](http://twitter.com/search?q=Gabriel+Neves) | N/A |
-| 24 | [Grêmio x ABC](http://twitter.com/search?q=Gr%c3%aamio+x+ABC) | N/A |
-| 25 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 26 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 27 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 28 | [REGULA BIG TECHS](http://twitter.com/search?q=REGULA+BIG+TECHS) | N/A |
-| 29 | [Cruzeiro x Náutico](http://twitter.com/search?q=Cruzeiro+x+N%c3%a1utico) | N/A |
-| 30 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 31 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
-| 32 | [Doce](http://twitter.com/search?q=Doce) | N/A |
-| 33 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 34 | [Nintendo 3DS](http://twitter.com/search?q=Nintendo+3DS) | N/A |
-| 35 | [Águia de Marabá](http://twitter.com/search?q=%c3%81guia+de+Marab%c3%a1) | Águia de Marabá is a Brazilian football team based in the city of Marabá, Pará. The team was founded in 1945 and currently plays in the Campeonato Paraense, the top tier of football in the state of Pará. The team's name translates to "Marabá Eagle" in English. |
-| 36 | [Botafogo-SP](http://twitter.com/search?q=Botafogo-SP) | N/A |
-| 37 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 38 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 39 | [monica](http://twitter.com/search?q=monica) | N/A |
-| 40 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 41 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 42 | [Fearless Tv](http://twitter.com/search?q=Fearless+Tv) | N/A |
-| 43 | [The Boys](http://twitter.com/search?q=The+Boys) | N/A |
-| 44 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
-| 45 | [Red Tv](http://twitter.com/search?q=Red+Tv) | N/A |
-| 46 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
-| 47 | [Castor](http://twitter.com/search?q=Castor) | N/A |
-| 48 | [Sega Saturn](http://twitter.com/search?q=Sega+Saturn) | N/A |
-| 49 | [Internacional x CSA](http://twitter.com/search?q=Internacional+x+CSA) | N/A |
+| 1 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
+| 2 | [VENDO INGRESSO RBD](http://twitter.com/search?q=VENDO+INGRESSO+RBD) | N/A |
+| 3 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
+| 4 | [Pará](http://twitter.com/search?q=Par%c3%a1) | N/A |
+| 5 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 6 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 7 | [Rwan](http://twitter.com/search?q=Rwan) | N/A |
+| 8 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 9 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 10 | [Poliana](http://twitter.com/search?q=Poliana) | N/A |
+| 11 | [Nikolas Ferreira](http://twitter.com/search?q=Nikolas+Ferreira) | N/A |
+| 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 13 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 14 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 15 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 16 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 17 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 18 | [TAINÁ NA TWITCH](http://twitter.com/search?q=TAIN%c3%81+NA+TWITCH) | N/A |
+| 19 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 20 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 21 | [Michel Araújo](http://twitter.com/search?q=Michel+Ara%c3%bajo) | Michel Araújo is a Portuguese name. It is derived from the Hebrew name Michael, which means "who is like God". |
+| 22 | [Contarato](http://twitter.com/search?q=Contarato) | N/A |
+| 23 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 24 | [#mcflyonfallon](http://twitter.com/search?q=%23mcflyonfallon) | N/A |
+| 25 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 26 | [Cara de Barro](http://twitter.com/search?q=Cara+de+Barro) | N/A |
+| 27 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 28 | [Resident](http://twitter.com/search?q=Resident) | N/A |
+| 29 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 30 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 31 | [Gabriel Neves](http://twitter.com/search?q=Gabriel+Neves) | N/A |
+| 32 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 33 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 34 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 35 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 36 | [Grêmio x ABC](http://twitter.com/search?q=Gr%c3%aamio+x+ABC) | N/A |
+| 37 | [REGULA BIG TECHS](http://twitter.com/search?q=REGULA+BIG+TECHS) | N/A |
+| 38 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
+| 39 | [Doce](http://twitter.com/search?q=Doce) | N/A |
+| 40 | [Ana Thais](http://twitter.com/search?q=Ana+Thais) | N/A |
+| 41 | [Fearless Tv](http://twitter.com/search?q=Fearless+Tv) | N/A |
+| 42 | [Red Tv](http://twitter.com/search?q=Red+Tv) | N/A |
+| 43 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 44 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 45 | [monica](http://twitter.com/search?q=monica) | N/A |
+| 46 | [Nintendo DS](http://twitter.com/search?q=Nintendo+DS) | N/A |
+| 47 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 48 | [MENA](http://twitter.com/search?q=MENA) | N/A |
+| 49 | [#OReiDoGado](http://twitter.com/search?q=%23OReiDoGado) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-29 20:17:09 UTC`
+📆 Last Updated: `2023-03-29 21:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
 | 2 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
-| 3 | [#KEDPER](http://twitter.com/search?q=%23KEDPER) | N/A |
-| 4 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
-| 5 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 6 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
-| 7 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 8 | [Śląskim](http://twitter.com/search?q=%c5%9al%c4%85skim) | N/A |
-| 9 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 10 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
-| 11 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
-| 12 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 13 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 14 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 15 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
-| 16 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 17 | [Marcin Lijewski](http://twitter.com/search?q=Marcin+Lijewski) | N/A |
+| 3 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 4 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 5 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 6 | [#KEDPER](http://twitter.com/search?q=%23KEDPER) | N/A |
+| 7 | [Bednorza](http://twitter.com/search?q=Bednorza) | N/A |
+| 8 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 9 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 10 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 11 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 12 | [Wisła Płock](http://twitter.com/search?q=Wis%c5%82a+P%c5%82ock) | N/A |
+| 13 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 14 | [Śląskim](http://twitter.com/search?q=%c5%9al%c4%85skim) | N/A |
+| 15 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 16 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 17 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
 | 18 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 19 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 20 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 21 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 22 | [Zaksy](http://twitter.com/search?q=Zaksy) | N/A |
-| 23 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
-| 24 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 19 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
+| 20 | [Marcin Lijewski](http://twitter.com/search?q=Marcin+Lijewski) | N/A |
+| 21 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
+| 22 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 23 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 24 | [Kędzierzyna](http://twitter.com/search?q=K%c4%99dzierzyna) | N/A |
 | 25 | [Ankarze](http://twitter.com/search?q=Ankarze) | N/A |
-| 26 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
-| 27 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
-| 28 | [Kędzierzyna](http://twitter.com/search?q=K%c4%99dzierzyna) | N/A |
-| 29 | [Belki](http://twitter.com/search?q=Belki) | N/A |
-| 30 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 31 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 32 | [Julia Przyłębska](http://twitter.com/search?q=Julia+Przy%c5%82%c4%99bska) | N/A |
-| 33 | [Marszałek](http://twitter.com/search?q=Marsza%c5%82ek) | N/A |
-| 34 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
-| 35 | [Bystra](http://twitter.com/search?q=Bystra) | N/A |
+| 26 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 27 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
+| 28 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
+| 29 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 30 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 31 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 32 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
+| 33 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 34 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 35 | [Julia Przyłębska](http://twitter.com/search?q=Julia+Przy%c5%82%c4%99bska) | N/A |
 | 36 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 37 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 38 | [Izery](http://twitter.com/search?q=Izery) | N/A |
-| 39 | [Jastrzębie](http://twitter.com/search?q=Jastrz%c4%99bie) | N/A |
-| 40 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 41 | [Chorzowie](http://twitter.com/search?q=Chorzowie) | N/A |
-| 42 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 43 | [adriena](http://twitter.com/search?q=adriena) | N/A |
-| 44 | [PKOl](http://twitter.com/search?q=PKOl) | N/A |
-| 45 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 46 | [PILICA](http://twitter.com/search?q=PILICA) | N/A |
-| 47 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 48 | [Białorusinów](http://twitter.com/search?q=Bia%c5%82orusin%c3%b3w) | N/A |
-| 49 | [Karnowscy](http://twitter.com/search?q=Karnowscy) | N/A |
+| 37 | [belki](http://twitter.com/search?q=belki) | N/A |
+| 38 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
+| 39 | [Marszałek](http://twitter.com/search?q=Marsza%c5%82ek) | N/A |
+| 40 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
+| 41 | [Semeniuk](http://twitter.com/search?q=Semeniuk) | N/A |
+| 42 | [Chorzowie](http://twitter.com/search?q=Chorzowie) | N/A |
+| 43 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 44 | [Izery](http://twitter.com/search?q=Izery) | N/A |
+| 45 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
+| 46 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
+| 47 | [Bystra](http://twitter.com/search?q=Bystra) | N/A |
+| 48 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 49 | [Jastrzębie](http://twitter.com/search?q=Jastrz%c4%99bie) | N/A |
 
 
 

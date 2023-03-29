@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-29 20:17:40 UTC`
+📆 Last Updated: `2023-03-29 21:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Size 10](http://twitter.com/search?q=Size+10) | N/A |
-| 2 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
-| 3 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
-| 4 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 5 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 6 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
-| 7 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 8 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
-| 9 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 10 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 11 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 12 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
+| 1 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 2 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
+| 3 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 4 | [Mando](http://twitter.com/search?q=Mando) | N/A |
+| 5 | [Second Amendment](http://twitter.com/search?q=Second+Amendment) | N/A |
+| 6 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 7 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 8 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 9 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 10 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
+| 11 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
+| 12 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
 | 13 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
-| 14 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 15 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 16 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 17 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 18 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
-| 19 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 14 | [#atmosweb](http://twitter.com/search?q=%23atmosweb) | N/A |
+| 15 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
+| 16 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
+| 17 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 18 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 19 | [Pache](http://twitter.com/search?q=Pache) | N/A |
 | 20 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 21 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
-| 22 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 23 | [Epiphany](http://twitter.com/search?q=Epiphany) | N/A |
-| 24 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 25 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 26 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
-| 27 | [Melly](http://twitter.com/search?q=Melly) | N/A |
-| 28 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 29 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 30 | [Vietnam War](http://twitter.com/search?q=Vietnam+War) | N/A |
-| 31 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 32 | [Bill Simmons](http://twitter.com/search?q=Bill+Simmons) | N/A |
-| 33 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
-| 34 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
-| 35 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 36 | [Mike Flanagan](http://twitter.com/search?q=Mike+Flanagan) | N/A |
-| 37 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 38 | [Marvel Entertainment](http://twitter.com/search?q=Marvel+Entertainment) | N/A |
-| 39 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
-| 40 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
-| 41 | [Moskowitz](http://twitter.com/search?q=Moskowitz) | N/A |
-| 42 | [Mr. Terrific](http://twitter.com/search?q=Mr.+Terrific) | N/A |
-| 43 | [Stipe](http://twitter.com/search?q=Stipe) | N/A |
-| 44 | [Tay K](http://twitter.com/search?q=Tay+K) | N/A |
-| 45 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
-| 46 | [Adult Swim](http://twitter.com/search?q=Adult+Swim) | Adult Swim is an American programming block of the cable network Cartoon Network that airs nightly from 8:00 p.m. to 6:00 a.m. Eastern and Pacific Time. It is programmed by Williams Street Productions, a subsidiary of Turner, which also developed two other programming blocks—Toonami (which later became a block on Adult Swim in 2012) and Miguzi. The name comes from a phrase used by public swimming pools in the United States to label designated times when children are restricted from using the facilities in favor of adults. |
-| 47 | [MELANIE MARTINEZ VOID](http://twitter.com/search?q=MELANIE+MARTINEZ+VOID) | N/A |
-| 48 | [Jordan Phillips](http://twitter.com/search?q=Jordan+Phillips) | N/A |
-| 49 | [Manhattan Trump](http://twitter.com/search?q=Manhattan+Trump) | N/A |
+| 21 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
+| 22 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 23 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
+| 24 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
+| 25 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
+| 26 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 27 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
+| 28 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
+| 29 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 30 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
+| 31 | [Mike Flanagan](http://twitter.com/search?q=Mike+Flanagan) | N/A |
+| 32 | [Epiphany](http://twitter.com/search?q=Epiphany) | N/A |
+| 33 | [Tim White](http://twitter.com/search?q=Tim+White) | N/A |
+| 34 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 35 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 36 | [Matt Williams](http://twitter.com/search?q=Matt+Williams) | N/A |
+| 37 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 38 | [SweetDog](http://twitter.com/search?q=SweetDog) | N/A |
+| 39 | [Brett Gardner](http://twitter.com/search?q=Brett+Gardner) | N/A |
+| 40 | [Ike Perlmutter](http://twitter.com/search?q=Ike+Perlmutter) | N/A |
+| 41 | [Melly](http://twitter.com/search?q=Melly) | N/A |
+| 42 | [The Batman 2](http://twitter.com/search?q=The+Batman+2) | N/A |
+| 43 | [Dollar General](http://twitter.com/search?q=Dollar+General) | N/A |
+| 44 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
+| 45 | [SB 150](http://twitter.com/search?q=SB+150) | N/A |
+| 46 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 47 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 48 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 49 | [SORRY NOT SORRY](http://twitter.com/search?q=SORRY+NOT+SORRY) | N/A |
 
 
 

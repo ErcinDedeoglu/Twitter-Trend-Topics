@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-03-29 20:17:00 UTC`
+📆 Last Updated: `2023-03-29 21:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
-| 2 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 3 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 4 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
-| 5 | [#pogdogs](http://twitter.com/search?q=%23pogdogs) | N/A |
-| 6 | [#JoshuaFranklin](http://twitter.com/search?q=%23JoshuaFranklin) | N/A |
+| 1 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 2 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 3 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 4 | [The Night Agent](http://twitter.com/search?q=The+Night+Agent) | N/A |
+| 5 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 6 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
 | 7 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
-| 8 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 9 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 8 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 9 | [#RaceAcrossTheWorld](http://twitter.com/search?q=%23RaceAcrossTheWorld) | N/A |
 | 10 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
-| 11 | [Frida Maanum](http://twitter.com/search?q=Frida+Maanum) | N/A |
-| 12 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 13 | [Kim Little](http://twitter.com/search?q=Kim+Little) | N/A |
-| 14 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
-| 15 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 16 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
-| 17 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 18 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 19 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 20 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 21 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 22 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 23 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 24 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
-| 25 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 26 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
-| 27 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 28 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 29 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 30 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
-| 31 | [Lexi](http://twitter.com/search?q=Lexi) | N/A |
-| 32 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 33 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 34 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
-| 35 | [Sackboy](http://twitter.com/search?q=Sackboy) | N/A |
-| 36 | [Flint](http://twitter.com/search?q=Flint) | N/A |
-| 37 | [Samson](http://twitter.com/search?q=Samson) | N/A |
-| 38 | [Yakuza 0](http://twitter.com/search?q=Yakuza+0) | N/A |
-| 39 | [Scampton](http://twitter.com/search?q=Scampton) | N/A |
-| 40 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
-| 41 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
-| 42 | [Transport](http://twitter.com/search?q=Transport) | N/A |
-| 43 | [Yorkshire Dales](http://twitter.com/search?q=Yorkshire+Dales) | N/A |
-| 44 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 45 | [Larry Grayson](http://twitter.com/search?q=Larry+Grayson) | N/A |
-| 46 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
-| 47 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 48 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
-| 49 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 50 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 11 | [#PawsForPaul](http://twitter.com/search?q=%23PawsForPaul) | N/A |
+| 12 | [Iorfa](http://twitter.com/search?q=Iorfa) | N/A |
+| 13 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 14 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 15 | [Sheffield Wednesday](http://twitter.com/search?q=Sheffield+Wednesday) | Sheffield Wednesday is a professional football club based in Sheffield, England. The club was founded in 1867 and currently plays in the English Football League Championship. The name "Wednesday" comes from the fact that the club was founded on a Wednesday. |
+| 16 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 17 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 18 | [Bakinson](http://twitter.com/search?q=Bakinson) | N/A |
+| 19 | [Windass](http://twitter.com/search?q=Windass) | Windass is a slang term used in the UK to describe someone who is very confident and assertive. It can also be used to describe someone who is good at getting things done. |
+| 20 | [Flint](http://twitter.com/search?q=Flint) | N/A |
+| 21 | [Frida Maanum](http://twitter.com/search?q=Frida+Maanum) | N/A |
+| 22 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 23 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 24 | [Moore](http://twitter.com/search?q=Moore) | N/A |
+| 25 | [Stockdale](http://twitter.com/search?q=Stockdale) | N/A |
+| 26 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
+| 27 | [Arsenal Women](http://twitter.com/search?q=Arsenal+Women) | N/A |
+| 28 | [Kim Little](http://twitter.com/search?q=Kim+Little) | N/A |
+| 29 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 30 | [Leah Williamson](http://twitter.com/search?q=Leah+Williamson) | N/A |
+| 31 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 32 | [Wilks](http://twitter.com/search?q=Wilks) | Wilks is a unit of measurement used in strength sports such as powerlifting and weightlifting. It is a measure of an athlete's strength relative to their bodyweight, and is calculated by multiplying the athlete's total weight lifted by a coefficient. The Wilks coefficient is based on gender, age, and bodyweight. |
+| 33 | [Byers](http://twitter.com/search?q=Byers) | N/A |
+| 34 | [Alfie May](http://twitter.com/search?q=Alfie+May) | N/A |
+| 35 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 36 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 37 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 38 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 39 | [Steve Bray](http://twitter.com/search?q=Steve+Bray) | N/A |
+| 40 | [Bannan](http://twitter.com/search?q=Bannan) | N/A |
+| 41 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 42 | [Daniel Levy](http://twitter.com/search?q=Daniel+Levy) | N/A |
+| 43 | [Raab](http://twitter.com/search?q=Raab) | Raab is a German surname derived from the Middle High German word "raap" meaning "raven". It is also a Jewish surname, originating from the Hebrew word "rav", meaning "teacher". |
+| 44 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 45 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
+| 46 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 47 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
+| 48 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 49 | [Tottenham Hotspur](http://twitter.com/search?q=Tottenham+Hotspur) | N/A |
+| 50 | [Ranieri](http://twitter.com/search?q=Ranieri) | N/A |
 
 
 
