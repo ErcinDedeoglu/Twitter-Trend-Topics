@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-30 17:17:20 UTC`
+📆 Last Updated: `2023-03-30 18:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ReinstateEvictionBan](http://twitter.com/search?q=%23ReinstateEvictionBan) | N/A |
-| 2 | [#April1](http://twitter.com/search?q=%23April1) | N/A |
-| 3 | [#ItsNoJoke](http://twitter.com/search?q=%23ItsNoJoke) | N/A |
-| 4 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 5 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
-| 6 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
-| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 1 | [#ItsNoJoke](http://twitter.com/search?q=%23ItsNoJoke) | N/A |
+| 2 | [#HelloHowAreYou](http://twitter.com/search?q=%23HelloHowAreYou) | N/A |
+| 3 | [#April1](http://twitter.com/search?q=%23April1) | N/A |
+| 4 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
+| 5 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 7 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
 | 8 | [neasa hourigan](http://twitter.com/search?q=neasa+hourigan) | N/A |
-| 9 | [young academy of ireland](http://twitter.com/search?q=young+academy+of+ireland) | N/A |
-| 10 | [Clodagh](http://twitter.com/search?q=Clodagh) | N/A |
-| 11 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 12 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
-| 13 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
+| 9 | [Clodagh](http://twitter.com/search?q=Clodagh) | N/A |
+| 10 | [Young Academy of Ireland](http://twitter.com/search?q=Young+Academy+of+Ireland) | N/A |
+| 11 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
+| 12 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 13 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
 | 14 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 15 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
-| 16 | [Denis Irwin](http://twitter.com/search?q=Denis+Irwin) | N/A |
+| 15 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
+| 16 | [Corporal Duggan](http://twitter.com/search?q=Corporal+Duggan) | N/A |
 | 17 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
-| 18 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 19 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
-| 20 | [Kate Hoey](http://twitter.com/search?q=Kate+Hoey) | N/A |
-| 21 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 22 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 23 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 24 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
-| 25 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 26 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
-| 27 | [DEIS](http://twitter.com/search?q=DEIS) | N/A |
-| 28 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
-| 29 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 30 | [Rest in Peace Paul](http://twitter.com/search?q=Rest+in+Peace+Paul) | N/A |
-| 31 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 32 | [Dart](http://twitter.com/search?q=Dart) | N/A |
-| 33 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 34 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 35 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 36 | [PRSI](http://twitter.com/search?q=PRSI) | N/A |
-| 37 | [John Rogers](http://twitter.com/search?q=John+Rogers) | N/A |
-| 38 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 39 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
-| 40 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
-| 41 | [Spar](http://twitter.com/search?q=Spar) | N/A |
-| 42 | [Seanad](http://twitter.com/search?q=Seanad) | N/A |
-| 43 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 44 | [League of Ireland](http://twitter.com/search?q=League+of+Ireland) | N/A |
-| 45 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 46 | [Keith Long](http://twitter.com/search?q=Keith+Long) | N/A |
-| 47 | [emlyn](http://twitter.com/search?q=emlyn) | N/A |
-| 48 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 18 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 19 | [Kate Hoey](http://twitter.com/search?q=Kate+Hoey) | N/A |
+| 20 | [Shane Long](http://twitter.com/search?q=Shane+Long) | N/A |
+| 21 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 22 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 23 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 24 | [Denis Irwin](http://twitter.com/search?q=Denis+Irwin) | N/A |
+| 25 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 26 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 27 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
+| 28 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 29 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 30 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
+| 31 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
+| 32 | [DEIS](http://twitter.com/search?q=DEIS) | N/A |
+| 33 | [Dart](http://twitter.com/search?q=Dart) | N/A |
+| 34 | [John Rogers](http://twitter.com/search?q=John+Rogers) | N/A |
+| 35 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 36 | [Tourism](http://twitter.com/search?q=Tourism) | N/A |
+| 37 | [Rest in Peace Paul](http://twitter.com/search?q=Rest+in+Peace+Paul) | N/A |
+| 38 | [cathal crowe](http://twitter.com/search?q=cathal+crowe) | N/A |
+| 39 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 40 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 41 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 42 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
+| 43 | [PRSI](http://twitter.com/search?q=PRSI) | N/A |
+| 44 | [Emlyn](http://twitter.com/search?q=Emlyn) | N/A |
+| 45 | [League of Ireland](http://twitter.com/search?q=League+of+Ireland) | N/A |
+| 46 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 47 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 48 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
 
 
 

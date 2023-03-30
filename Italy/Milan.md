@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-30 17:17:24 UTC`
+📆 Last Updated: `2023-03-30 18:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
 | 2 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
 | 3 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 4 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
-| 5 | [#AncheSeSembra](http://twitter.com/search?q=%23AncheSeSembra) | N/A |
-| 6 | [#nonvedono](http://twitter.com/search?q=%23nonvedono) | N/A |
+| 4 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
+| 5 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
+| 6 | [#AncheSeSembra](http://twitter.com/search?q=%23AncheSeSembra) | N/A |
 | 7 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 8 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
+| 8 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
 | 9 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 10 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 11 | [SIAE](http://twitter.com/search?q=SIAE) | N/A |
-| 12 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 13 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 14 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 15 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 16 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
+| 10 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 11 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 12 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 13 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 14 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
+| 15 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 16 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
 | 17 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 18 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 19 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
-| 20 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 21 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 22 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 18 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 19 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 20 | [Busia](http://twitter.com/search?q=Busia) | N/A |
+| 21 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 22 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
 | 23 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 24 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 25 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 26 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 27 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 28 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
-| 29 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 30 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 31 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
-| 32 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 33 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 34 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 35 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 36 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 37 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 38 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 39 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 40 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 41 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 42 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 43 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
-| 44 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 45 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 46 | [Cuoricino](http://twitter.com/search?q=Cuoricino) | N/A |
-| 47 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
-| 48 | [Emanuela Fanelli](http://twitter.com/search?q=Emanuela+Fanelli) | N/A |
-| 49 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 50 | [Blue Skye](http://twitter.com/search?q=Blue+Skye) | N/A |
+| 24 | [SIAE](http://twitter.com/search?q=SIAE) | N/A |
+| 25 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 26 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 27 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 28 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 29 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 30 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
+| 31 | [Pnnr](http://twitter.com/search?q=Pnnr) | N/A |
+| 32 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 33 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 34 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
+| 35 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
+| 36 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 37 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
+| 38 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 39 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 40 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 41 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 42 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 43 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
+| 44 | [Cuoricino](http://twitter.com/search?q=Cuoricino) | N/A |
+| 45 | [Angelina e Federica](http://twitter.com/search?q=Angelina+e+Federica) | N/A |
+| 46 | [EMANUELA FANELLI](http://twitter.com/search?q=EMANUELA+FANELLI) | N/A |
+| 47 | [Blue Skye](http://twitter.com/search?q=Blue+Skye) | N/A |
+| 48 | [Cappellini](http://twitter.com/search?q=Cappellini) | N/A |
+| 49 | [Horata](http://twitter.com/search?q=Horata) | N/A |
+| 50 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
 
 
 

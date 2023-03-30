@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-03-30 17:17:57 UTC`
+📆 Last Updated: `2023-03-30 18:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,50 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 2 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 3 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 4 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 5 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 6 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 7 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 8 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 9 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 10 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 11 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 12 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 13 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 14 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 15 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 16 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 17 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 18 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 19 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
-| 20 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 21 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
-| 22 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 23 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 24 | [Sheree](http://twitter.com/search?q=Sheree) | N/A |
-| 25 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
-| 26 | [Darth](http://twitter.com/search?q=Darth) | N/A |
-| 27 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 28 | [Marlo](http://twitter.com/search?q=Marlo) | N/A |
-| 29 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 30 | [Forsyth Tech](http://twitter.com/search?q=Forsyth+Tech) | N/A |
-| 31 | [Arson Judge](http://twitter.com/search?q=Arson+Judge) | N/A |
-| 32 | [Happy Opening](http://twitter.com/search?q=Happy+Opening) | N/A |
-| 33 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 34 | [Fort Campbell](http://twitter.com/search?q=Fort+Campbell) | N/A |
-| 35 | [Welcome to the Black Parade](http://twitter.com/search?q=Welcome+to+the+Black+Parade) | N/A |
-| 36 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 37 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 38 | [Jake Merklinger](http://twitter.com/search?q=Jake+Merklinger) | N/A |
-| 39 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 40 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 41 | [H.R. 1](http://twitter.com/search?q=H.R.+1) | N/A |
-| 42 | [Happy Doctors](http://twitter.com/search?q=Happy+Doctors) | N/A |
-| 43 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 44 | [Asante](http://twitter.com/search?q=Asante) | N/A |
-| 45 | [Happy National Doctors](http://twitter.com/search?q=Happy+National+Doctors) | N/A |
-| 46 | [Go Sox](http://twitter.com/search?q=Go+Sox) | N/A |
-| 47 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 2 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 3 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 4 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 5 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 6 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 7 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 8 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 9 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 10 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
+| 11 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 12 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 13 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 14 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 15 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 16 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 17 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 18 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 19 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 20 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 21 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 22 | [Webb](http://twitter.com/search?q=Webb) | N/A |
+| 23 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 24 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 25 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 26 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 27 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 28 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
+| 29 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 30 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 31 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 32 | [NRFI](http://twitter.com/search?q=NRFI) | N/A |
+| 33 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 34 | [162 HRs](http://twitter.com/search?q=162+HRs) | N/A |
+| 35 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 36 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
+| 37 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 38 | [Sheree](http://twitter.com/search?q=Sheree) | N/A |
+| 39 | [Marlo](http://twitter.com/search?q=Marlo) | N/A |
+| 40 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
+| 41 | [Starfleet Academy](http://twitter.com/search?q=Starfleet+Academy) | N/A |
+| 42 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 43 | [MY CAPTAIN](http://twitter.com/search?q=MY+CAPTAIN) | N/A |
+| 44 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
+| 45 | [Go Sox](http://twitter.com/search?q=Go+Sox) | N/A |
 
 
 

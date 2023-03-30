@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-30 17:17:41 UTC`
+📆 Last Updated: `2023-03-30 18:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Kenya](</Kenya>)
 | ------- | ------------ | ------------ |
 | 1 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
 | 2 | [Pwani University](http://twitter.com/search?q=Pwani+University) | N/A |
-| 3 | [#BLAZESpaces](http://twitter.com/search?q=%23BLAZESpaces) | N/A |
-| 4 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 5 | [#Raila](http://twitter.com/search?q=%23Raila) | N/A |
-| 6 | [#ChangeYourOilDNA](http://twitter.com/search?q=%23ChangeYourOilDNA) | N/A |
-| 7 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 8 | [Outering Road](http://twitter.com/search?q=Outering+Road) | N/A |
-| 9 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
-| 10 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 11 | [Blaze Tariff](http://twitter.com/search?q=Blaze+Tariff) | N/A |
-| 12 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
+| 3 | [#Raila](http://twitter.com/search?q=%23Raila) | N/A |
+| 4 | [#BLAZESpaces](http://twitter.com/search?q=%23BLAZESpaces) | N/A |
+| 5 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 6 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 7 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
+| 8 | [Simba of Rhon](http://twitter.com/search?q=Simba+of+Rhon) | N/A |
+| 9 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 10 | [#ChangeYourOilDNA](http://twitter.com/search?q=%23ChangeYourOilDNA) | N/A |
+| 11 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
+| 12 | [Blaze Tariff](http://twitter.com/search?q=Blaze+Tariff) | N/A |
 | 13 | [Join the Twitter](http://twitter.com/search?q=Join+the+Twitter) | N/A |
-| 14 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
-| 15 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 16 | [Naivasha](http://twitter.com/search?q=Naivasha) | N/A |
-| 17 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 18 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
-| 19 | [Castrol](http://twitter.com/search?q=Castrol) | N/A |
-| 20 | [Simba of Rhon](http://twitter.com/search?q=Simba+of+Rhon) | N/A |
-| 21 | [Mortuary](http://twitter.com/search?q=Mortuary) | N/A |
-| 22 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 23 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
-| 24 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
-| 25 | [Jamia](http://twitter.com/search?q=Jamia) | N/A |
-| 26 | [Kedong](http://twitter.com/search?q=Kedong) | N/A |
-| 27 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 28 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
-| 29 | [ole sapit](http://twitter.com/search?q=ole+sapit) | N/A |
-| 30 | [utalii hotel](http://twitter.com/search?q=utalii+hotel) | N/A |
-| 31 | [Beijing Raiders](http://twitter.com/search?q=Beijing+Raiders) | N/A |
-| 32 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 33 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
-| 34 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
-| 35 | [Babu Owino](http://twitter.com/search?q=Babu+Owino) | N/A |
-| 36 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
-| 37 | [DJ grauchi](http://twitter.com/search?q=DJ+grauchi) | N/A |
-| 38 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 39 | [Gatundu](http://twitter.com/search?q=Gatundu) | N/A |
-| 40 | [Closing](http://twitter.com/search?q=Closing) | N/A |
-| 41 | [Nyong'o](http://twitter.com/search?q=Nyong%27o) | N/A |
-| 42 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 43 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 14 | [Outering Road](http://twitter.com/search?q=Outering+Road) | N/A |
+| 15 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
+| 16 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 17 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 18 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 19 | [Naivasha](http://twitter.com/search?q=Naivasha) | N/A |
+| 20 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
+| 21 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
+| 22 | [Mortuary](http://twitter.com/search?q=Mortuary) | N/A |
+| 23 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
+| 24 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 25 | [Kedong](http://twitter.com/search?q=Kedong) | N/A |
+| 26 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
+| 27 | [Castrol](http://twitter.com/search?q=Castrol) | N/A |
+| 28 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
+| 29 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 30 | [beijing raiders](http://twitter.com/search?q=beijing+raiders) | N/A |
+| 31 | [Minne](http://twitter.com/search?q=Minne) | N/A |
+| 32 | [Kayole](http://twitter.com/search?q=Kayole) | N/A |
+| 33 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
+| 34 | [utalii hotel](http://twitter.com/search?q=utalii+hotel) | N/A |
+| 35 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
+| 36 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
+| 37 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 38 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 39 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 40 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
+| 41 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
+| 42 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 43 | [Gatundu](http://twitter.com/search?q=Gatundu) | N/A |
 | 44 | [Pilsner Lager](http://twitter.com/search?q=Pilsner+Lager) | N/A |
-| 45 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 46 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
-| 47 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 48 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 49 | [equity afia](http://twitter.com/search?q=equity+afia) | N/A |
+| 45 | [Babu Owino](http://twitter.com/search?q=Babu+Owino) | N/A |
+| 46 | [DJ grauchi](http://twitter.com/search?q=DJ+grauchi) | N/A |
+| 47 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 48 | [Nyong'o](http://twitter.com/search?q=Nyong%27o) | N/A |
+| 49 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
 
 
 

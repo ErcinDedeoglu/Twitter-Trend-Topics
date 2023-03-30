@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-30 17:17:11 UTC`
+📆 Last Updated: `2023-03-30 18:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SuperMarioBrosLaPelicula](http://twitter.com/search?q=%23SuperMarioBrosLaPelicula) | N/A |
-| 2 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
-| 3 | [Billie](http://twitter.com/search?q=Billie) | N/A |
-| 4 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 5 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
-| 6 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 7 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
+| 1 | [Billie Eilish](http://twitter.com/search?q=Billie+Eilish) | N/A |
+| 2 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 3 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 4 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
+| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 6 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 7 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 8 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 9 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
-| 10 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 11 | [Consejo de la Comunicación](http://twitter.com/search?q=Consejo+de+la+Comunicaci%c3%b3n) | N/A |
-| 12 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 9 | [#PoderosoPepino](http://twitter.com/search?q=%23PoderosoPepino) | N/A |
+| 10 | [#Mexicable](http://twitter.com/search?q=%23Mexicable) | N/A |
+| 11 | [Línea 3](http://twitter.com/search?q=L%c3%adnea+3) | Línea 3 is a metro line in Mexico City. It is the third line of the Mexico City Metro system, and it runs from Indios Verdes to Universidad. In English, "Línea 3" translates to "Line 3". |
+| 12 | [Indios Verdes](http://twitter.com/search?q=Indios+Verdes) | N/A |
 | 13 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 14 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
-| 15 | [Línea 3](http://twitter.com/search?q=L%c3%adnea+3) | Línea 3 is a metro line in Mexico City. It is the third line of the Mexico City Metro system, and it runs from Indios Verdes to Universidad. In English, "Línea 3" translates to "Line 3". |
-| 16 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 17 | [Walter Gaitán](http://twitter.com/search?q=Walter+Gait%c3%a1n) | N/A |
-| 18 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 19 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
-| 20 | [Indios Verdes](http://twitter.com/search?q=Indios+Verdes) | N/A |
-| 21 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
-| 22 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 23 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 24 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 25 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 26 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
-| 27 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
-| 28 | [Burak](http://twitter.com/search?q=Burak) | N/A |
-| 29 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 30 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 31 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
-| 32 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 33 | [Francisco Casanueva Pérez](http://twitter.com/search?q=Francisco+Casanueva+P%c3%a9rez) | N/A |
-| 34 | [Happy Birthday ChaEunWoo](http://twitter.com/search?q=Happy+Birthday+ChaEunWoo) | N/A |
-| 35 | [Mariana Rdz](http://twitter.com/search?q=Mariana+Rdz) | N/A |
-| 36 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
-| 37 | [Crimen de Estado](http://twitter.com/search?q=Crimen+de+Estado) | N/A |
-| 38 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
-| 39 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 40 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 41 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 42 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
-| 43 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 44 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 45 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 46 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
-| 47 | [Tlaloc](http://twitter.com/search?q=Tlaloc) | N/A |
-| 48 | [Rosa Icela](http://twitter.com/search?q=Rosa+Icela) | N/A |
-| 49 | [Edgar Wright](http://twitter.com/search?q=Edgar+Wright) | N/A |
-| 50 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
+| 14 | [Walter Gaitán](http://twitter.com/search?q=Walter+Gait%c3%a1n) | N/A |
+| 15 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 16 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 17 | [Enrique Burak](http://twitter.com/search?q=Enrique+Burak) | N/A |
+| 18 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 19 | [Consejo de la Comunicación](http://twitter.com/search?q=Consejo+de+la+Comunicaci%c3%b3n) | N/A |
+| 20 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 21 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
+| 22 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 23 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
+| 24 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 25 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 26 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 27 | [Pierce The Veil](http://twitter.com/search?q=Pierce+The+Veil) | N/A |
+| 28 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
+| 29 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
+| 30 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 31 | [Deportes](http://twitter.com/search?q=Deportes) | N/A |
+| 32 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 33 | [#Yankees](http://twitter.com/search?q=%23Yankees) | N/A |
+| 34 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
+| 35 | [#MetroCDMX](http://twitter.com/search?q=%23MetroCDMX) | #MetroCDMX is a hashtag used on social media to refer to the Mexico City Metro, the public transportation system in Mexico City. In English, it stands for "Mexico City Metro". |
+| 36 | [#BeisEnPlaydoit](http://twitter.com/search?q=%23BeisEnPlaydoit) | N/A |
+| 37 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 38 | [#SuperMarioBrosLaPelicula](http://twitter.com/search?q=%23SuperMarioBrosLaPelicula) | N/A |
+| 39 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 40 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 41 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 42 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
+| 43 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 44 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 45 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
 
 
 

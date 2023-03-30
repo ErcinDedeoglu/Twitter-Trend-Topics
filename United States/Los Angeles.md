@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-30 17:17:57 UTC`
+📆 Last Updated: `2023-03-30 18:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 2 | [#ITFDB](http://twitter.com/search?q=%23ITFDB) | N/A |
-| 3 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 4 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 5 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 6 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 7 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 8 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 9 | [#lfgsd](http://twitter.com/search?q=%23lfgsd) | N/A |
-| 10 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 11 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 12 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 13 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 14 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 15 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 16 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 17 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 18 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 1 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 2 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 3 | [#ITFDB](http://twitter.com/search?q=%23ITFDB) | N/A |
+| 4 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
+| 5 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 6 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 8 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 9 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 10 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 11 | [#LFGSD](http://twitter.com/search?q=%23LFGSD) | N/A |
+| 12 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 13 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 14 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 15 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 16 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 17 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 18 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
 | 19 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 20 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
+| 20 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
 | 21 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 22 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 23 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 24 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 25 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 26 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 27 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
-| 28 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 29 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
-| 30 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 31 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 32 | [Sheree](http://twitter.com/search?q=Sheree) | N/A |
-| 33 | [Seventeen](http://twitter.com/search?q=Seventeen) | N/A |
-| 34 | [Darth](http://twitter.com/search?q=Darth) | N/A |
-| 35 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 36 | [Marlo](http://twitter.com/search?q=Marlo) | N/A |
-| 37 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 38 | [Forsyth Tech](http://twitter.com/search?q=Forsyth+Tech) | N/A |
-| 39 | [Arson Judge](http://twitter.com/search?q=Arson+Judge) | N/A |
-| 40 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 41 | [Happy Opening](http://twitter.com/search?q=Happy+Opening) | N/A |
-| 42 | [Fort Campbell](http://twitter.com/search?q=Fort+Campbell) | N/A |
-| 43 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 44 | [Welcome to the Black Parade](http://twitter.com/search?q=Welcome+to+the+Black+Parade) | N/A |
-| 45 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 46 | [H.R. 1](http://twitter.com/search?q=H.R.+1) | N/A |
-| 47 | [Jake Merklinger](http://twitter.com/search?q=Jake+Merklinger) | N/A |
-| 48 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 49 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 50 | [Happy Doctors](http://twitter.com/search?q=Happy+Doctors) | N/A |
+| 22 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 23 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 24 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 25 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 26 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 27 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 28 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 29 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 30 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 31 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 32 | [Webb](http://twitter.com/search?q=Webb) | N/A |
+| 33 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 34 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 35 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 36 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 37 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 38 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
+| 39 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 40 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 41 | [NRFI](http://twitter.com/search?q=NRFI) | N/A |
+| 42 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 43 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 44 | [162 HRs](http://twitter.com/search?q=162+HRs) | N/A |
+| 45 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
+| 46 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 47 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 48 | [Sheree](http://twitter.com/search?q=Sheree) | N/A |
+| 49 | [Marlo](http://twitter.com/search?q=Marlo) | N/A |
+| 50 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
 
 
 

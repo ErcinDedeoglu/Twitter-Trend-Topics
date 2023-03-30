@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-03-30 17:17:21 UTC`
+📆 Last Updated: `2023-03-30 18:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 2 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 3 | [#PlanEau](http://twitter.com/search?q=%23PlanEau) | N/A |
-| 4 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
-| 5 | [#SiphanoXNintendalerts](http://twitter.com/search?q=%23SiphanoXNintendalerts) | N/A |
-| 6 | [Hervé Renard](http://twitter.com/search?q=Herv%c3%a9+Renard) | N/A |
-| 7 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 8 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 9 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
-| 10 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 11 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
-| 12 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 13 | [Bleues](http://twitter.com/search?q=Bleues) | N/A |
-| 14 | [Hautes-Alpes](http://twitter.com/search?q=Hautes-Alpes) | N/A |
-| 15 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
-| 16 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
-| 17 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
-| 18 | [Pharos](http://twitter.com/search?q=Pharos) | N/A |
-| 19 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 20 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 21 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
-| 22 | [La HAS](http://twitter.com/search?q=La+HAS) | N/A |
-| 23 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 24 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
-| 25 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 26 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
-| 27 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 28 | [albane](http://twitter.com/search?q=albane) | N/A |
-| 29 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 30 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 31 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 32 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 33 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 34 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
-| 35 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
-| 36 | [PSAN](http://twitter.com/search?q=PSAN) | N/A |
-| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 38 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 39 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 40 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 41 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 42 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 43 | [Ambroise](http://twitter.com/search?q=Ambroise) | N/A |
-| 44 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
-| 45 | [Edgar Wright](http://twitter.com/search?q=Edgar+Wright) | N/A |
-| 46 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
-| 47 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 48 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
-| 49 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 50 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 1 | [#NCTDREAMinPARIS](http://twitter.com/search?q=%23NCTDREAMinPARIS) | N/A |
+| 2 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 3 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 4 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 5 | [Caen](http://twitter.com/search?q=Caen) | N/A |
+| 6 | [#PlanEau](http://twitter.com/search?q=%23PlanEau) | N/A |
+| 7 | [Hervé Renard](http://twitter.com/search?q=Herv%c3%a9+Renard) | N/A |
+| 8 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
+| 9 | [#ViolencesPolicières](http://twitter.com/search?q=%23ViolencesPolici%c3%a8res) | N/A |
+| 10 | [Pacifiquement](http://twitter.com/search?q=Pacifiquement) | N/A |
+| 11 | [#WOBPSG](http://twitter.com/search?q=%23WOBPSG) | N/A |
+| 12 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
+| 13 | [Robben](http://twitter.com/search?q=Robben) | N/A |
+| 14 | [Max Weber](http://twitter.com/search?q=Max+Weber) | N/A |
+| 15 | [Bleues](http://twitter.com/search?q=Bleues) | N/A |
+| 16 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 17 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 18 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
+| 19 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 20 | [La HAS](http://twitter.com/search?q=La+HAS) | N/A |
+| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 22 | [Maison Blanche](http://twitter.com/search?q=Maison+Blanche) | N/A |
+| 23 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 24 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 25 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 26 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 27 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
+| 28 | [L'ONU](http://twitter.com/search?q=L%27ONU) | N/A |
+| 29 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 30 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
+| 31 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 32 | [En Espagne](http://twitter.com/search?q=En+Espagne) | N/A |
+| 33 | [Soulèvements de la Terre](http://twitter.com/search?q=Soul%c3%a8vements+de+la+Terre) | N/A |
+| 34 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
+| 35 | [Truchot](http://twitter.com/search?q=Truchot) | N/A |
+| 36 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 37 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
+| 38 | [Préfecture](http://twitter.com/search?q=Pr%c3%a9fecture) | N/A |
+| 39 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
+| 40 | [Hautes-Alpes](http://twitter.com/search?q=Hautes-Alpes) | N/A |
+| 41 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 42 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 43 | [#MicromaniaYuGiOh](http://twitter.com/search?q=%23MicromaniaYuGiOh) | N/A |
+| 44 | [#SoignantsSuspendus](http://twitter.com/search?q=%23SoignantsSuspendus) | N/A |
+| 45 | [#greve6avril](http://twitter.com/search?q=%23greve6avril) | N/A |
+| 46 | [#SavinesLeLac](http://twitter.com/search?q=%23SavinesLeLac) | N/A |
+| 47 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 48 | [#jeudiphoto](http://twitter.com/search?q=%23jeudiphoto) | N/A |
+| 49 | [#JusticePourLesSuspendus](http://twitter.com/search?q=%23JusticePourLesSuspendus) | N/A |
+| 50 | [#THEDREAMSHOW2_in_PARIS](http://twitter.com/search?q=%23THEDREAMSHOW2_in_PARIS) | N/A |
 
 
 
