@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-30 14:18:29 UTC`
+📆 Last Updated: `2023-03-30 15:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
 | 2 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 3 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 4 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 5 | [#PVLFinalsGame3](http://twitter.com/search?q=%23PVLFinalsGame3) | N/A |
-| 6 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
-| 7 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 8 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
-| 9 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
-| 10 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 11 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
-| 12 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 13 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
-| 14 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
-| 15 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 16 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
-| 17 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 3 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
+| 4 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
+| 5 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
+| 6 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 7 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 8 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 9 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
+| 10 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
+| 11 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 12 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
+| 13 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
+| 14 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 15 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 16 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
+| 17 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
 | 18 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 19 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
-| 20 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 21 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
-| 22 | [BeckFreen](http://twitter.com/search?q=BeckFreen) | N/A |
-| 23 | [Jia is Gold](http://twitter.com/search?q=Jia+is+Gold) | N/A |
-| 24 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
-| 25 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 26 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
-| 27 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
-| 28 | [Congratulations CCS](http://twitter.com/search?q=Congratulations+CCS) | N/A |
-| 29 | [gowon](http://twitter.com/search?q=gowon) | N/A |
-| 30 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
-| 31 | [Best MB](http://twitter.com/search?q=Best+MB) | N/A |
-| 32 | [MUNTING PRINSIPE MARCUS](http://twitter.com/search?q=MUNTING+PRINSIPE+MARCUS) | N/A |
-| 33 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
-| 34 | [FMVP](http://twitter.com/search?q=FMVP) | N/A |
-| 35 | [Soltones](http://twitter.com/search?q=Soltones) | N/A |
-| 36 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 37 | [OUR PROM KING VINCI](http://twitter.com/search?q=OUR+PROM+KING+VINCI) | N/A |
-| 38 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 39 | [EDWARD PROMising HOST](http://twitter.com/search?q=EDWARD+PROMising+HOST) | N/A |
-| 40 | [The Right Way to Pray](http://twitter.com/search?q=The+Right+Way+to+Pray) | N/A |
-| 41 | [Best Setter](http://twitter.com/search?q=Best+Setter) | N/A |
-| 42 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
-| 43 | [KARINA PROMising NIGHT](http://twitter.com/search?q=KARINA+PROMising+NIGHT) | N/A |
-| 44 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 45 | [PROMAGICAL WITH ROBXINE](http://twitter.com/search?q=PROMAGICAL+WITH+ROBXINE) | N/A |
-| 46 | [Jia De Guzman](http://twitter.com/search?q=Jia+De+Guzman) | N/A |
-| 47 | [Sabete](http://twitter.com/search?q=Sabete) | N/A |
+| 19 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
+| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 21 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 22 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
+| 23 | [Finals MVP](http://twitter.com/search?q=Finals+MVP) | N/A |
+| 24 | [Road to D-Day](http://twitter.com/search?q=Road+to+D-Day) | N/A |
+| 25 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
+| 26 | [BeckFreen](http://twitter.com/search?q=BeckFreen) | N/A |
+| 27 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
+| 28 | [JIA IS GOLD](http://twitter.com/search?q=JIA+IS+GOLD) | N/A |
+| 29 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
+| 30 | [Tyang Aby](http://twitter.com/search?q=Tyang+Aby) | N/A |
+| 31 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 32 | [gowon](http://twitter.com/search?q=gowon) | N/A |
+| 33 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 34 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 35 | [EDWARD PROMising HOST](http://twitter.com/search?q=EDWARD+PROMising+HOST) | N/A |
+| 36 | [bogum](http://twitter.com/search?q=bogum) | N/A |
+| 37 | [SOLOIST JISOO](http://twitter.com/search?q=SOLOIST+JISOO) | N/A |
+| 38 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 39 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
+| 40 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
+| 41 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
+| 42 | [Best MB](http://twitter.com/search?q=Best+MB) | N/A |
+| 43 | [MUNTING PRINSIPE MARCUS](http://twitter.com/search?q=MUNTING+PRINSIPE+MARCUS) | N/A |
+| 44 | [Congratulations CCS](http://twitter.com/search?q=Congratulations+CCS) | N/A |
+| 45 | [Jema Galanza](http://twitter.com/search?q=Jema+Galanza) | N/A |
+| 46 | [OUR PROM KING VINCI](http://twitter.com/search?q=OUR+PROM+KING+VINCI) | N/A |
+| 47 | [FMVP](http://twitter.com/search?q=FMVP) | N/A |
 
 
 

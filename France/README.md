@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-30 14:18:51 UTC`
+📆 Last Updated: `2023-03-30 15:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for France
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 2 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
-| 3 | [#planeau](http://twitter.com/search?q=%23planeau) | N/A |
+| 2 | [#PlanEau](http://twitter.com/search?q=%23PlanEau) | N/A |
+| 3 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
 | 4 | [#SiphanoXNintendalerts](http://twitter.com/search?q=%23SiphanoXNintendalerts) | N/A |
-| 5 | [#kcorp](http://twitter.com/search?q=%23kcorp) | N/A |
-| 6 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 7 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 8 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 9 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 10 | [ZLAN](http://twitter.com/search?q=ZLAN) | N/A |
-| 11 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 12 | [Hautes-Alpes](http://twitter.com/search?q=Hautes-Alpes) | N/A |
-| 13 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 14 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
-| 15 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 16 | [Pharos](http://twitter.com/search?q=Pharos) | N/A |
-| 17 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 18 | [Pauleta](http://twitter.com/search?q=Pauleta) | N/A |
-| 19 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
-| 20 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 21 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
-| 22 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 24 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 25 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 26 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 27 | [Azzedine Ounahi](http://twitter.com/search?q=Azzedine+Ounahi) | N/A |
-| 28 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
-| 29 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 30 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 31 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 32 | [albane](http://twitter.com/search?q=albane) | N/A |
-| 33 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
-| 34 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
-| 35 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 36 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
-| 37 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 38 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
-| 39 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
-| 40 | [Ambroise](http://twitter.com/search?q=Ambroise) | N/A |
-| 41 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 42 | [Muselier](http://twitter.com/search?q=Muselier) | N/A |
-| 43 | [Picsou](http://twitter.com/search?q=Picsou) | N/A |
-| 44 | [Farrah](http://twitter.com/search?q=Farrah) | N/A |
-| 45 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 46 | [Boateng](http://twitter.com/search?q=Boateng) | N/A |
-| 47 | [Sifaoui](http://twitter.com/search?q=Sifaoui) | N/A |
-| 48 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 49 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
-| 50 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 5 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
+| 6 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 7 | [#SavinesLeLac](http://twitter.com/search?q=%23SavinesLeLac) | N/A |
+| 8 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 9 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 10 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 11 | [ZLAN](http://twitter.com/search?q=ZLAN) | N/A |
+| 12 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 13 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
+| 14 | [PSAN](http://twitter.com/search?q=PSAN) | N/A |
+| 15 | [Hautes-Alpes](http://twitter.com/search?q=Hautes-Alpes) | N/A |
+| 16 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 17 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 18 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
+| 19 | [Pharos](http://twitter.com/search?q=Pharos) | N/A |
+| 20 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 21 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
+| 22 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 23 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
+| 24 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
+| 25 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 26 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 27 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 28 | [albane](http://twitter.com/search?q=albane) | N/A |
+| 29 | [Edgar Wright](http://twitter.com/search?q=Edgar+Wright) | N/A |
+| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 31 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
+| 32 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 33 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
+| 34 | [La HAS](http://twitter.com/search?q=La+HAS) | N/A |
+| 35 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 36 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
+| 37 | [Pauleta](http://twitter.com/search?q=Pauleta) | N/A |
+| 38 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 39 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
+| 40 | [kevin](http://twitter.com/search?q=kevin) | N/A |
+| 41 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 42 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 43 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 44 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
+| 45 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 46 | [Serre-Ponçon](http://twitter.com/search?q=Serre-Pon%c3%a7on) | N/A |
+| 47 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 48 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 49 | [Ambroise](http://twitter.com/search?q=Ambroise) | N/A |
+| 50 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
 
 
 

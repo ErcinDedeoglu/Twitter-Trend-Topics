@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-30 14:18:53 UTC`
+📆 Last Updated: `2023-03-30 15:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Mexico
 | ------- | ------------ | ------------ |
 | 1 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 2 | [Billie](http://twitter.com/search?q=Billie) | N/A |
-| 3 | [#KornoDiluvio](http://twitter.com/search?q=%23KornoDiluvio) | N/A |
-| 4 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
-| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 4 | [#KornoDiluvio](http://twitter.com/search?q=%23KornoDiluvio) | N/A |
+| 5 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
 | 6 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
-| 7 | [#ClimaMañanero](http://twitter.com/search?q=%23ClimaMa%c3%b1anero) | N/A |
-| 8 | [Consejo de la Comunicación](http://twitter.com/search?q=Consejo+de+la+Comunicaci%c3%b3n) | N/A |
-| 9 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 7 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 8 | [#ClimaMañanero](http://twitter.com/search?q=%23ClimaMa%c3%b1anero) | N/A |
+| 9 | [Consejo de la Comunicación](http://twitter.com/search?q=Consejo+de+la+Comunicaci%c3%b3n) | N/A |
 | 10 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
-| 11 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 12 | [Francisco Casanueva Pérez](http://twitter.com/search?q=Francisco+Casanueva+P%c3%a9rez) | N/A |
-| 13 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 14 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 15 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
-| 16 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 17 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 18 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
-| 19 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 20 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 21 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
-| 22 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 23 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 24 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 25 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 26 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 27 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 28 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 29 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
-| 30 | [Mariana Rdz](http://twitter.com/search?q=Mariana+Rdz) | N/A |
-| 31 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
-| 32 | [HAPPY BIRTHDAY CHAEUNWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHAEUNWOO) | N/A |
-| 33 | [Crimen de Estado](http://twitter.com/search?q=Crimen+de+Estado) | N/A |
-| 34 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 35 | [Happier than ever](http://twitter.com/search?q=Happier+than+ever) | N/A |
-| 36 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
-| 37 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 38 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 39 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 40 | [omar mendoza](http://twitter.com/search?q=omar+mendoza) | N/A |
-| 41 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 42 | [Carneiro](http://twitter.com/search?q=Carneiro) | N/A |
-| 43 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 44 | [Tlaloc](http://twitter.com/search?q=Tlaloc) | N/A |
-| 45 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 46 | [Eric Clapton](http://twitter.com/search?q=Eric+Clapton) | N/A |
-| 47 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 48 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
-| 49 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 50 | [Murieron](http://twitter.com/search?q=Murieron) | N/A |
+| 11 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 12 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
+| 13 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 14 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 15 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 16 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 17 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
+| 18 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
+| 19 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 20 | [Vincent van Gogh](http://twitter.com/search?q=Vincent+van+Gogh) | N/A |
+| 21 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
+| 22 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 23 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
+| 24 | [Francisco Casanueva Pérez](http://twitter.com/search?q=Francisco+Casanueva+P%c3%a9rez) | N/A |
+| 25 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
+| 26 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
+| 27 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 28 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 29 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 30 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 31 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
+| 32 | [Burak](http://twitter.com/search?q=Burak) | N/A |
+| 33 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
+| 34 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 35 | [José Carlos Azcárraga](http://twitter.com/search?q=Jos%c3%a9+Carlos+Azc%c3%a1rraga) | N/A |
+| 36 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 37 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 38 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 39 | [Mariana Rdz](http://twitter.com/search?q=Mariana+Rdz) | N/A |
+| 40 | [Baca](http://twitter.com/search?q=Baca) | N/A |
+| 41 | [HAPPY BIRTHDAY CHAEUNWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHAEUNWOO) | N/A |
+| 42 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
+| 43 | [Crimen de Estado](http://twitter.com/search?q=Crimen+de+Estado) | N/A |
+| 44 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
+| 45 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
+| 46 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
+| 47 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 48 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 49 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
+| 50 | [omar mendoza](http://twitter.com/search?q=omar+mendoza) | N/A |
 
 
 

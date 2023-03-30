@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-30 14:18:28 UTC`
+📆 Last Updated: `2023-03-30 15:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 2 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 3 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 4 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
-| 5 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 6 | [#jakellimited](http://twitter.com/search?q=%23jakellimited) | N/A |
-| 7 | [#bajumelayulimited](http://twitter.com/search?q=%23bajumelayulimited) | N/A |
-| 8 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 2 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 3 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 4 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 5 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 6 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 7 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
+| 8 | [#BvlgariXZeeNuNew](http://twitter.com/search?q=%23BvlgariXZeeNuNew) | N/A |
 | 9 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 12 | [YES 5G](http://twitter.com/search?q=YES+5G) | N/A |
-| 13 | [Hyukjae](http://twitter.com/search?q=Hyukjae) | N/A |
-| 14 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 15 | [gowon](http://twitter.com/search?q=gowon) | N/A |
-| 16 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 17 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 18 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
-| 19 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
-| 20 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 21 | [PETA](http://twitter.com/search?q=PETA) | N/A |
-| 22 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 23 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
-| 24 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 25 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 26 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 27 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 28 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 29 | [Day6](http://twitter.com/search?q=Day6) | N/A |
-| 30 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 31 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 32 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 33 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 34 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
-| 35 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 36 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 37 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 38 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 39 | [UiTM](http://twitter.com/search?q=UiTM) | N/A |
-| 40 | [TICKETING SERVICE](http://twitter.com/search?q=TICKETING+SERVICE) | N/A |
-| 41 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 42 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
-| 43 | [mbpj](http://twitter.com/search?q=mbpj) | N/A |
-| 44 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 45 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 46 | [sspn](http://twitter.com/search?q=sspn) | N/A |
-| 47 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
-| 48 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 49 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
-| 50 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 10 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 11 | [YES 5G](http://twitter.com/search?q=YES+5G) | N/A |
+| 12 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 13 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 14 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 15 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 16 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 17 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 18 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
+| 19 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 20 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
+| 21 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
+| 22 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 23 | [NCT DREAM TOUR](http://twitter.com/search?q=NCT+DREAM+TOUR) | N/A |
+| 24 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 25 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 26 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 27 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 28 | [UiTM](http://twitter.com/search?q=UiTM) | N/A |
+| 29 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 30 | [DAY6](http://twitter.com/search?q=DAY6) | N/A |
+| 31 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 32 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
+| 33 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 34 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 35 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 36 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 37 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 38 | [JUNHOE](http://twitter.com/search?q=JUNHOE) | N/A |
+| 39 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 40 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
+| 41 | [sspn](http://twitter.com/search?q=sspn) | N/A |
+| 42 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 43 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 44 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
+| 45 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 46 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 47 | [Moonsun](http://twitter.com/search?q=Moonsun) | N/A |
+| 48 | [mbpj](http://twitter.com/search?q=mbpj) | N/A |
+| 49 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
+| 50 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
 
 
 

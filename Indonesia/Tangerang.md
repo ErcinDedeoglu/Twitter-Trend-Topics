@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-30 14:18:23 UTC`
+📆 Last Updated: `2023-03-30 15:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 2 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 3 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 4 | [#TerimakasihBanghan](http://twitter.com/search?q=%23TerimakasihBanghan) | N/A |
-| 5 | [YOUN1T LOVE YOU BANGHAN](http://twitter.com/search?q=YOUN1T+LOVE+YOU+BANGHAN) | N/A |
-| 6 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 7 | [#Ollydondokambey](http://twitter.com/search?q=%23Ollydondokambey) | N/A |
-| 8 | [#UHCAward2023](http://twitter.com/search?q=%23UHCAward2023) | N/A |
-| 9 | [#GubernurSulut](http://twitter.com/search?q=%23GubernurSulut) | N/A |
-| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 11 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
-| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 13 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
-| 14 | [BRIGHT x BVLGARI75th](http://twitter.com/search?q=BRIGHT+x+BVLGARI75th) | N/A |
-| 15 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 16 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
+| 1 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
+| 2 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 3 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 4 | [#SayaMauMelamarAnakOm](http://twitter.com/search?q=%23SayaMauMelamarAnakOm) | N/A |
+| 5 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 6 | [#DOJAEJUNG_BaseNote](http://twitter.com/search?q=%23DOJAEJUNG_BaseNote) | N/A |
+| 7 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
+| 8 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
+| 9 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 10 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 11 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 12 | [penyanyi](http://twitter.com/search?q=penyanyi) | N/A |
+| 13 | [Pengusaha](http://twitter.com/search?q=Pengusaha) | N/A |
+| 14 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 15 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 16 | [Jorji](http://twitter.com/search?q=Jorji) | N/A |
 | 17 | [OCBC NISP](http://twitter.com/search?q=OCBC+NISP) | OCBC NISP stands for OCBC NISP Bank, an Indonesian banking institution. It is a subsidiary of the Singapore-based OCBC Bank and provides a range of banking services to individuals and businesses in Indonesia. The name is derived from the Indonesian phrase “Nasional Internasional Sekuritas Perdagangan”, which translates to “National International Securities Trading”. |
-| 18 | [Pil 2](http://twitter.com/search?q=Pil+2) | N/A |
-| 19 | [1 HALL DOANG](http://twitter.com/search?q=1+HALL+DOANG) | N/A |
-| 20 | [Rank 1](http://twitter.com/search?q=Rank+1) | N/A |
-| 21 | [SUPER VOTE FOR WANG ZIHAO](http://twitter.com/search?q=SUPER+VOTE+FOR+WANG+ZIHAO) | N/A |
-| 22 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
-| 23 | [Mencuri Raden Saleh](http://twitter.com/search?q=Mencuri+Raden+Saleh) | N/A |
-| 24 | [ILYY](http://twitter.com/search?q=ILYY) | N/A |
-| 25 | [Pil 1](http://twitter.com/search?q=Pil+1) | N/A |
-| 26 | [GEMINI FOURTH SO HOT](http://twitter.com/search?q=GEMINI+FOURTH+SO+HOT) | N/A |
-| 27 | [Gelap](http://twitter.com/search?q=Gelap) | N/A |
-| 28 | [Hyukjae](http://twitter.com/search?q=Hyukjae) | N/A |
-| 29 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 30 | [jiminie](http://twitter.com/search?q=jiminie) | N/A |
-| 31 | [SafariRamadhan AHY Jabar](http://twitter.com/search?q=SafariRamadhan+AHY+Jabar) | N/A |
-| 32 | [Sumbar](http://twitter.com/search?q=Sumbar) | N/A |
-| 33 | [tambah lucu](http://twitter.com/search?q=tambah+lucu) | N/A |
-| 34 | [Selamat Hari Film Nasional](http://twitter.com/search?q=Selamat+Hari+Film+Nasional) | N/A |
-| 35 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 36 | [Bahasa Inggris](http://twitter.com/search?q=Bahasa+Inggris) | N/A |
-| 37 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 18 | [BRIGHT x BVLGARI75th](http://twitter.com/search?q=BRIGHT+x+BVLGARI75th) | N/A |
+| 19 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 20 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 21 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
+| 22 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
+| 23 | [Pil 2](http://twitter.com/search?q=Pil+2) | N/A |
+| 24 | [1 Hall](http://twitter.com/search?q=1+Hall) | N/A |
+| 25 | [Mencuri Raden Saleh](http://twitter.com/search?q=Mencuri+Raden+Saleh) | N/A |
+| 26 | [Pil 1](http://twitter.com/search?q=Pil+1) | N/A |
+| 27 | [Rank 1](http://twitter.com/search?q=Rank+1) | N/A |
+| 28 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 29 | [ILYY](http://twitter.com/search?q=ILYY) | N/A |
+| 30 | [Hyukjae](http://twitter.com/search?q=Hyukjae) | N/A |
+| 31 | [Bahasa Inggris](http://twitter.com/search?q=Bahasa+Inggris) | N/A |
+| 32 | [SafariRamadhan AHY Jabar](http://twitter.com/search?q=SafariRamadhan+AHY+Jabar) | N/A |
+| 33 | [Gelap](http://twitter.com/search?q=Gelap) | N/A |
+| 34 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
+| 35 | [Anggota DPR](http://twitter.com/search?q=Anggota+DPR) | N/A |
+| 36 | [Sumbar](http://twitter.com/search?q=Sumbar) | N/A |
+| 37 | [Selamat Hari Film Nasional](http://twitter.com/search?q=Selamat+Hari+Film+Nasional) | N/A |
 | 38 | [Kecewa](http://twitter.com/search?q=Kecewa) | N/A |
-| 39 | [Anggota DPR](http://twitter.com/search?q=Anggota+DPR) | N/A |
+| 39 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
 | 40 | [Cuci](http://twitter.com/search?q=Cuci) | N/A |
-| 41 | [Mundur](http://twitter.com/search?q=Mundur) | N/A |
-| 42 | [#UniversalHealthCoverage](http://twitter.com/search?q=%23UniversalHealthCoverage) | N/A |
-| 43 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
-| 44 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
-| 45 | [#SUPERCHARGER_ZIHAO](http://twitter.com/search?q=%23SUPERCHARGER_ZIHAO) | N/A |
-| 46 | [#BulgariSerpenti75xBright](http://twitter.com/search?q=%23BulgariSerpenti75xBright) | N/A |
-| 47 | [#RedmiNote12Series](http://twitter.com/search?q=%23RedmiNote12Series) | N/A |
-| 48 | [#BookfluencerxMarkFord](http://twitter.com/search?q=%23BookfluencerxMarkFord) | N/A |
-| 49 | [#인간슈퍼차저_왕즈하오](http://twitter.com/search?q=%23%ec%9d%b8%ea%b0%84%ec%8a%88%ed%8d%bc%ec%b0%a8%ec%a0%80_%ec%99%95%ec%a6%88%ed%95%98%ec%98%a4) | N/A |
+| 41 | [#TerimakasihBanghan](http://twitter.com/search?q=%23TerimakasihBanghan) | N/A |
+| 42 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
+| 43 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 44 | [#민지오렌지_데이](http://twitter.com/search?q=%23%eb%af%bc%ec%a7%80%ec%98%a4%eb%a0%8c%ec%a7%80_%eb%8d%b0%ec%9d%b4) | N/A |
+| 45 | [#OrenjiMinji_DAY](http://twitter.com/search?q=%23OrenjiMinji_DAY) | N/A |
+| 46 | [#Ollydondokambey](http://twitter.com/search?q=%23Ollydondokambey) | N/A |
+| 47 | [#UHCAward2023](http://twitter.com/search?q=%23UHCAward2023) | N/A |
+| 48 | [#GubernurSulut](http://twitter.com/search?q=%23GubernurSulut) | N/A |
 
 
 

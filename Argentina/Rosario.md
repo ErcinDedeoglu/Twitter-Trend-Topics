@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-03-30 14:18:13 UTC`
+📆 Last Updated: `2023-03-30 15:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 2 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 3 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 4 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 5 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 6 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
-| 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 8 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 9 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 10 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 11 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 12 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 13 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 14 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 15 | [Espert](http://twitter.com/search?q=Espert) | N/A |
-| 16 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 17 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 18 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
-| 19 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 20 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 21 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 22 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 23 | [Pan y Trabajo](http://twitter.com/search?q=Pan+y+Trabajo) | N/A |
-| 24 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 25 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 26 | [Kun Agüero](http://twitter.com/search?q=Kun+Ag%c3%bcero) | N/A |
-| 27 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 28 | [Saúl Ubaldini](http://twitter.com/search?q=Sa%c3%bal+Ubaldini) | N/A |
-| 29 | [#AntesQueNadie](http://twitter.com/search?q=%23AntesQueNadie) | N/A |
-| 30 | [Estol](http://twitter.com/search?q=Estol) | N/A |
-| 31 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
-| 32 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
-| 33 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 34 | [Ibai Llanos](http://twitter.com/search?q=Ibai+Llanos) | N/A |
-| 35 | [es 29](http://twitter.com/search?q=es+29) | N/A |
-| 36 | [El 30](http://twitter.com/search?q=El+30) | N/A |
-| 37 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 38 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
-| 39 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 40 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 41 | [peroni](http://twitter.com/search?q=peroni) | N/A |
-| 42 | [frodo tiene aguante](http://twitter.com/search?q=frodo+tiene+aguante) | N/A |
-| 43 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 44 | [Precios Justos Carne](http://twitter.com/search?q=Precios+Justos+Carne) | N/A |
-| 45 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 46 | [VIVIANA SARNOSA](http://twitter.com/search?q=VIVIANA+SARNOSA) | N/A |
-| 47 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
-| 48 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 49 | [Nueva Zelanda](http://twitter.com/search?q=Nueva+Zelanda) | N/A |
-| 50 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 1 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 2 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
+| 3 | [Herron](http://twitter.com/search?q=Herron) | N/A |
+| 4 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 5 | [#alabarbarrosa](http://twitter.com/search?q=%23alabarbarrosa) | N/A |
+| 6 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 7 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 8 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 9 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
+| 10 | [Diego Martinez](http://twitter.com/search?q=Diego+Martinez) | N/A |
+| 11 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 12 | [Cacique Medina](http://twitter.com/search?q=Cacique+Medina) | N/A |
+| 13 | [#sociosdelespectaculo](http://twitter.com/search?q=%23sociosdelespectaculo) | N/A |
+| 14 | [Mundial Sub-20](http://twitter.com/search?q=Mundial+Sub-20) | N/A |
+| 15 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
+| 16 | [DT de Boca](http://twitter.com/search?q=DT+de+Boca) | N/A |
+| 17 | [Kun Agüero](http://twitter.com/search?q=Kun+Ag%c3%bcero) | N/A |
+| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 19 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 20 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 21 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 22 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 23 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 24 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 25 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 26 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
+| 27 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 28 | [Xeneize](http://twitter.com/search?q=Xeneize) | N/A |
+| 29 | [Patri](http://twitter.com/search?q=Patri) | N/A |
+| 30 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
+| 31 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
+| 32 | [Consejo](http://twitter.com/search?q=Consejo) | N/A |
+| 33 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 34 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
+| 35 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 36 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
+| 37 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 38 | [Jey Mammón](http://twitter.com/search?q=Jey+Mamm%c3%b3n) | N/A |
+| 39 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 40 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 41 | [Vero](http://twitter.com/search?q=Vero) | N/A |
+| 42 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
+| 43 | [#ElClubDelMoro](http://twitter.com/search?q=%23ElClubDelMoro) | N/A |
+| 44 | [#Navarro2023](http://twitter.com/search?q=%23Navarro2023) | N/A |
+| 45 | [#CaballeroDeDia](http://twitter.com/search?q=%23CaballeroDeDia) | N/A |
+| 46 | [#Dengue](http://twitter.com/search?q=%23Dengue) | N/A |
 
 
 

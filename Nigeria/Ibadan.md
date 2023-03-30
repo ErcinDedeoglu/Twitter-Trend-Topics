@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-03-30 14:18:30 UTC`
+📆 Last Updated: `2023-03-30 15:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,47 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 2 | [Mr Yakubu](http://twitter.com/search?q=Mr+Yakubu) | N/A |
-| 3 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
-| 4 | [#HackaholicsBabcock](http://twitter.com/search?q=%23HackaholicsBabcock) | N/A |
-| 5 | [#BuhariTheMan](http://twitter.com/search?q=%23BuhariTheMan) | N/A |
-| 6 | [#HealingWithMaria](http://twitter.com/search?q=%23HealingWithMaria) | N/A |
+| 2 | [Bryann](http://twitter.com/search?q=Bryann) | N/A |
+| 3 | [Mr Yakubu](http://twitter.com/search?q=Mr+Yakubu) | N/A |
+| 4 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
+| 5 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
+| 6 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
 | 7 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 8 | [Ward prowse](http://twitter.com/search?q=Ward+prowse) | N/A |
-| 9 | [SS and SE](http://twitter.com/search?q=SS+and+SE) | N/A |
-| 10 | [Director K](http://twitter.com/search?q=Director+K) | N/A |
-| 11 | [#RoadToVilla](http://twitter.com/search?q=%23RoadToVilla) | N/A |
-| 12 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
-| 13 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 14 | [#tinubuourpresident](http://twitter.com/search?q=%23tinubuourpresident) | N/A |
-| 15 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 16 | [Osita Chidoka](http://twitter.com/search?q=Osita+Chidoka) | N/A |
-| 17 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 18 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 19 | [Unity](http://twitter.com/search?q=Unity) | N/A |
-| 20 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 21 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
+| 8 | [#HackaholicsBabcock](http://twitter.com/search?q=%23HackaholicsBabcock) | N/A |
+| 9 | [Ward prowse](http://twitter.com/search?q=Ward+prowse) | N/A |
+| 10 | [#BuhariTheMan](http://twitter.com/search?q=%23BuhariTheMan) | N/A |
+| 11 | [#HealingWithMaria](http://twitter.com/search?q=%23HealingWithMaria) | N/A |
+| 12 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 13 | [African Giant](http://twitter.com/search?q=African+Giant) | N/A |
+| 14 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 15 | [SS and SE](http://twitter.com/search?q=SS+and+SE) | N/A |
+| 16 | [Director K](http://twitter.com/search?q=Director+K) | N/A |
+| 17 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
+| 18 | [Osita Chidoka](http://twitter.com/search?q=Osita+Chidoka) | N/A |
+| 19 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 20 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
+| 21 | [Terry](http://twitter.com/search?q=Terry) | N/A |
 | 22 | [SW and North](http://twitter.com/search?q=SW+and+North) | N/A |
-| 23 | [SE and SS](http://twitter.com/search?q=SE+and+SS) | N/A |
+| 23 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 24 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
-| 25 | [Mr Eazi](http://twitter.com/search?q=Mr+Eazi) | N/A |
-| 26 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 27 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 28 | [Polygamy](http://twitter.com/search?q=Polygamy) | N/A |
+| 25 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 26 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 27 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 28 | [Unity](http://twitter.com/search?q=Unity) | N/A |
 | 29 | [BIG28 IN A BIT](http://twitter.com/search?q=BIG28+IN+A+BIT) | N/A |
-| 30 | [ROAD TO LIQLEVEL28](http://twitter.com/search?q=ROAD+TO+LIQLEVEL28) | N/A |
-| 31 | [May Edochie](http://twitter.com/search?q=May+Edochie) | N/A |
-| 32 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 33 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 34 | [CONGRATULATIONS NSPPD](http://twitter.com/search?q=CONGRATULATIONS+NSPPD) | N/A |
-| 35 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
-| 36 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 37 | [Ngige](http://twitter.com/search?q=Ngige) | N/A |
-| 38 | [LASU](http://twitter.com/search?q=LASU) | N/A |
-| 39 | [Blessing CEO](http://twitter.com/search?q=Blessing+CEO) | N/A |
-| 40 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 41 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 42 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 43 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 44 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 45 | [Jose](http://twitter.com/search?q=Jose) | N/A |
-| 46 | [Nigeria and Nigerians](http://twitter.com/search?q=Nigeria+and+Nigerians) | N/A |
-| 47 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 48 | [#LiquoroseBirthdayEve](http://twitter.com/search?q=%23LiquoroseBirthdayEve) | N/A |
-| 49 | [#Bholaa](http://twitter.com/search?q=%23Bholaa) | N/A |
-| 50 | [#NSPPDis3](http://twitter.com/search?q=%23NSPPDis3) | N/A |
+| 30 | [Polygamy](http://twitter.com/search?q=Polygamy) | N/A |
+| 31 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 32 | [Blessing CEO](http://twitter.com/search?q=Blessing+CEO) | N/A |
+| 33 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 34 | [ngige](http://twitter.com/search?q=ngige) | N/A |
+| 35 | [Congratulations NSPPD](http://twitter.com/search?q=Congratulations+NSPPD) | N/A |
+| 36 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
+| 37 | [LASU](http://twitter.com/search?q=LASU) | N/A |
+| 38 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 39 | [#Bholaa](http://twitter.com/search?q=%23Bholaa) | N/A |
+| 40 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 41 | [#LiquoroseBirthdayEve](http://twitter.com/search?q=%23LiquoroseBirthdayEve) | N/A |
+| 42 | [#NSPPDIS3](http://twitter.com/search?q=%23NSPPDIS3) | N/A |
 
 
 

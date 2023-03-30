@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-03-30 14:18:02 UTC`
+📆 Last Updated: `2023-03-30 15:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Canada](</Canada>)
 | 4 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
 | 5 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
 | 6 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 7 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 8 | [#Thursdaythoughts](http://twitter.com/search?q=%23Thursdaythoughts) | N/A |
+| 7 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
+| 8 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
 | 9 | [Premier](http://twitter.com/search?q=Premier) | N/A |
 | 10 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 11 | [The Vatican](http://twitter.com/search?q=The+Vatican) | N/A |
-| 12 | [Paul Maurice](http://twitter.com/search?q=Paul+Maurice) | N/A |
-| 13 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 14 | [Jann](http://twitter.com/search?q=Jann) | N/A |
-| 15 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 16 | [Discovery Doctrine](http://twitter.com/search?q=Discovery+Doctrine) | N/A |
-| 17 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 18 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 19 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 21 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 22 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 11 | [Paul Maurice](http://twitter.com/search?q=Paul+Maurice) | N/A |
+| 12 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 13 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 14 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 15 | [The Vatican](http://twitter.com/search?q=The+Vatican) | N/A |
+| 16 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 17 | [#GMID2023](http://twitter.com/search?q=%23GMID2023) | N/A |
+| 18 | [Jann](http://twitter.com/search?q=Jann) | N/A |
+| 19 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 20 | [Discovery Doctrine](http://twitter.com/search?q=Discovery+Doctrine) | N/A |
+| 21 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 22 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
 | 23 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
-| 24 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 25 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 26 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 24 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 25 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 26 | [yujin](http://twitter.com/search?q=yujin) | N/A |
 | 27 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
 | 28 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 29 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 30 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 31 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 32 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
+| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 30 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
+| 31 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 32 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
 | 33 | [Notley](http://twitter.com/search?q=Notley) | N/A |
-| 34 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 35 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 36 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 37 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 38 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 39 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 40 | [torry tanner](http://twitter.com/search?q=torry+tanner) | N/A |
-| 41 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 42 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
-| 43 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 44 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 45 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 46 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 47 | [Albertans](http://twitter.com/search?q=Albertans) | N/A |
-| 48 | [akito hirose](http://twitter.com/search?q=akito+hirose) | N/A |
-| 49 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 50 | [Janis](http://twitter.com/search?q=Janis) | N/A |
+| 34 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
+| 35 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 36 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
+| 37 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 38 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 39 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
+| 40 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 41 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 42 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 43 | [Wet'suwet'en](http://twitter.com/search?q=Wet%27suwet%27en) | N/A |
+| 44 | [72 Seasons](http://twitter.com/search?q=72+Seasons) | N/A |
+| 45 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 46 | [DARVIN HAM](http://twitter.com/search?q=DARVIN+HAM) | N/A |
+| 47 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 48 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 49 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 50 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
 
 
 

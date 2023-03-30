@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-30 14:18:54 UTC`
+📆 Last Updated: `2023-03-30 15:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
-| 2 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 3 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 4 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 2 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 3 | [MAVO](http://twitter.com/search?q=MAVO) | N/A |
+| 4 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 5 | [#aedm](http://twitter.com/search?q=%23aedm) | N/A |
-| 6 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
-| 7 | [#DDV23](http://twitter.com/search?q=%23DDV23) | N/A |
-| 8 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
-| 9 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
-| 10 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 11 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 13 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 14 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
-| 15 | [floor de man](http://twitter.com/search?q=floor+de+man) | N/A |
-| 16 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
-| 17 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 18 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 19 | [Egbers](http://twitter.com/search?q=Egbers) | N/A |
-| 20 | [Van Gelder](http://twitter.com/search?q=Van+Gelder) | N/A |
-| 21 | [Aïcha Marghadi](http://twitter.com/search?q=A%c3%afcha+Marghadi) | N/A |
-| 22 | [nanninga](http://twitter.com/search?q=nanninga) | N/A |
-| 23 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
-| 24 | [Treets](http://twitter.com/search?q=Treets) | N/A |
-| 25 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
-| 26 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 27 | [Hamers](http://twitter.com/search?q=Hamers) | N/A |
-| 28 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 29 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
-| 30 | [Arabische](http://twitter.com/search?q=Arabische) | N/A |
-| 31 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 32 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
-| 33 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
-| 34 | [Biesbosch](http://twitter.com/search?q=Biesbosch) | N/A |
-| 35 | [Tiki](http://twitter.com/search?q=Tiki) | N/A |
-| 36 | [Van Dissel](http://twitter.com/search?q=Van+Dissel) | N/A |
-| 37 | [Stijn](http://twitter.com/search?q=Stijn) | N/A |
-| 38 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 39 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 40 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 41 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 42 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 43 | [Duits](http://twitter.com/search?q=Duits) | N/A |
-| 44 | [0% BTW](http://twitter.com/search?q=0%25+BTW) | N/A |
-| 45 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
-| 46 | [weerwind](http://twitter.com/search?q=weerwind) | N/A |
-| 47 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 48 | [Irak in 2016](http://twitter.com/search?q=Irak+in+2016) | N/A |
-| 49 | [Stopera](http://twitter.com/search?q=Stopera) | N/A |
-| 50 | [agema](http://twitter.com/search?q=agema) | N/A |
+| 6 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 7 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 8 | [#ratw](http://twitter.com/search?q=%23ratw) | N/A |
+| 9 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 10 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 11 | [Floor de Man](http://twitter.com/search?q=Floor+de+Man) | N/A |
+| 12 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
+| 13 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
+| 14 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 15 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 16 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 17 | [Egbers](http://twitter.com/search?q=Egbers) | N/A |
+| 18 | [Van Gelder](http://twitter.com/search?q=Van+Gelder) | N/A |
+| 19 | [Treets](http://twitter.com/search?q=Treets) | N/A |
+| 20 | [Aïcha Marghadi](http://twitter.com/search?q=A%c3%afcha+Marghadi) | N/A |
+| 21 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
+| 22 | [Biesbosch](http://twitter.com/search?q=Biesbosch) | N/A |
+| 23 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
+| 24 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
+| 25 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 26 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
+| 27 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
+| 28 | [Stijn](http://twitter.com/search?q=Stijn) | N/A |
+| 29 | [Hamers](http://twitter.com/search?q=Hamers) | N/A |
+| 30 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
+| 31 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
+| 32 | [Maarten van Ooijen](http://twitter.com/search?q=Maarten+van+Ooijen) | N/A |
+| 33 | [Nanninga](http://twitter.com/search?q=Nanninga) | N/A |
+| 34 | [Mogadishu](http://twitter.com/search?q=Mogadishu) | N/A |
+| 35 | [0% BTW](http://twitter.com/search?q=0%25+BTW) | N/A |
+| 36 | [Duits](http://twitter.com/search?q=Duits) | N/A |
+| 37 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 38 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 39 | [Tiki](http://twitter.com/search?q=Tiki) | N/A |
+| 40 | [Irak in 2016](http://twitter.com/search?q=Irak+in+2016) | N/A |
+| 41 | [Van Dissel](http://twitter.com/search?q=Van+Dissel) | N/A |
+| 42 | [De Belastingdienst](http://twitter.com/search?q=De+Belastingdienst) | N/A |
+| 43 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 44 | [Oost-Nederland](http://twitter.com/search?q=Oost-Nederland) | N/A |
+| 45 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
+| 46 | [agema](http://twitter.com/search?q=agema) | N/A |
+| 47 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 48 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 49 | [sharona](http://twitter.com/search?q=sharona) | N/A |
+| 50 | [Jantje](http://twitter.com/search?q=Jantje) | N/A |
 
 
 

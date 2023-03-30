@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-03-30 14:18:04 UTC`
+📆 Last Updated: `2023-03-30 15:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
-| 2 | [#BargainHunt](http://twitter.com/search?q=%23BargainHunt) | N/A |
-| 3 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 4 | [#ToriesOut266](http://twitter.com/search?q=%23ToriesOut266) | N/A |
-| 5 | [#OpenAccess](http://twitter.com/search?q=%23OpenAccess) | N/A |
-| 6 | [North Sea](http://twitter.com/search?q=North+Sea) | N/A |
-| 7 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 1 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 2 | [North Sea](http://twitter.com/search?q=North+Sea) | N/A |
+| 3 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
+| 4 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 5 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 6 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 7 | [#GothTools](http://twitter.com/search?q=%23GothTools) | N/A |
 | 8 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 9 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 10 | [Ryan Day](http://twitter.com/search?q=Ryan+Day) | Ryan Day is a phrase used to describe a period of time when someone is feeling particularly motivated and productive. It is often used to refer to a day when someone has accomplished a lot or achieved something significant. |
-| 11 | [Communist Party](http://twitter.com/search?q=Communist+Party) | N/A |
-| 12 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 13 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 14 | [Earl's Court](http://twitter.com/search?q=Earl%27s+Court) | N/A |
-| 15 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 16 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 17 | [Vote Conservative](http://twitter.com/search?q=Vote+Conservative) | N/A |
-| 18 | [Chris Kaba](http://twitter.com/search?q=Chris+Kaba) | N/A |
-| 19 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 20 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 21 | [Margaret Ferrier](http://twitter.com/search?q=Margaret+Ferrier) | N/A |
-| 22 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 23 | [Upside](http://twitter.com/search?q=Upside) | N/A |
-| 24 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 25 | [Union Flag](http://twitter.com/search?q=Union+Flag) | N/A |
-| 26 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
-| 27 | [Parole Board](http://twitter.com/search?q=Parole+Board) | N/A |
-| 28 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
-| 29 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
-| 30 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
-| 31 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
-| 32 | [Rutherglen](http://twitter.com/search?q=Rutherglen) | N/A |
-| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 34 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 9 | [Communist Party](http://twitter.com/search?q=Communist+Party) | N/A |
+| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 11 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 12 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 13 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
+| 14 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 15 | [Upside](http://twitter.com/search?q=Upside) | N/A |
+| 16 | [Vote Conservative](http://twitter.com/search?q=Vote+Conservative) | N/A |
+| 17 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 18 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 19 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 20 | [Union Jack](http://twitter.com/search?q=Union+Jack) | N/A |
+| 21 | [Union Flag](http://twitter.com/search?q=Union+Flag) | N/A |
+| 22 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 23 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 24 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 25 | [Chris Kaba](http://twitter.com/search?q=Chris+Kaba) | N/A |
+| 26 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 28 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
+| 29 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 30 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 31 | [Earl's Court](http://twitter.com/search?q=Earl%27s+Court) | N/A |
+| 32 | [Ferrier](http://twitter.com/search?q=Ferrier) | N/A |
+| 33 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
+| 34 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
 | 35 | [Defoe](http://twitter.com/search?q=Defoe) | N/A |
-| 36 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 37 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 36 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
+| 37 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
 | 38 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 39 | [Fowler](http://twitter.com/search?q=Fowler) | N/A |
-| 40 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 41 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 42 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 43 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
-| 44 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 45 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 46 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
-| 47 | [Policy Exchange](http://twitter.com/search?q=Policy+Exchange) | N/A |
-| 48 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
+| 39 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 40 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
+| 41 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 42 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
+| 43 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 44 | [Policy Exchange](http://twitter.com/search?q=Policy+Exchange) | N/A |
+| 45 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 46 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 47 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-30 14:18:15 UTC`
+📆 Last Updated: `2023-03-30 15:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
 | 2 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
 | 3 | [#HelloHowAreYou](http://twitter.com/search?q=%23HelloHowAreYou) | N/A |
-| 4 | [Clodagh](http://twitter.com/search?q=Clodagh) | N/A |
-| 5 | [#IUAFutureOfIreland](http://twitter.com/search?q=%23IUAFutureOfIreland) | N/A |
-| 6 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
-| 7 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 8 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 4 | [#IUAFutureOfIreland](http://twitter.com/search?q=%23IUAFutureOfIreland) | N/A |
+| 5 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
+| 6 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 7 | [neasa hourigan](http://twitter.com/search?q=neasa+hourigan) | N/A |
+| 8 | [#noconfidencemotion](http://twitter.com/search?q=%23noconfidencemotion) | N/A |
 | 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 10 | [#SameChance](http://twitter.com/search?q=%23SameChance) | N/A |
-| 11 | [Neasa Hourigan](http://twitter.com/search?q=Neasa+Hourigan) | N/A |
-| 12 | [#noconfidencemotion](http://twitter.com/search?q=%23noconfidencemotion) | N/A |
-| 13 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
-| 14 | [#mentalhealth](http://twitter.com/search?q=%23mentalhealth) | N/A |
-| 15 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 16 | [Dart](http://twitter.com/search?q=Dart) | N/A |
+| 10 | [defence forces](http://twitter.com/search?q=defence+forces) | N/A |
+| 11 | [#samechance](http://twitter.com/search?q=%23samechance) | N/A |
+| 12 | [Clodagh](http://twitter.com/search?q=Clodagh) | N/A |
+| 13 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 14 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 15 | [#mentalhealth](http://twitter.com/search?q=%23mentalhealth) | N/A |
+| 16 | [for the love of dogs](http://twitter.com/search?q=for+the+love+of+dogs) | N/A |
 | 17 | [Neale](http://twitter.com/search?q=Neale) | N/A |
-| 18 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
-| 19 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
-| 20 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
-| 21 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
-| 22 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
-| 23 | [Dail](http://twitter.com/search?q=Dail) | N/A |
-| 24 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 25 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
-| 26 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 27 | [Spar](http://twitter.com/search?q=Spar) | N/A |
-| 28 | [davy fitz](http://twitter.com/search?q=davy+fitz) | N/A |
-| 29 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 30 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 31 | [Deirdre](http://twitter.com/search?q=Deirdre) | N/A |
-| 32 | [Denis Irwin](http://twitter.com/search?q=Denis+Irwin) | N/A |
-| 33 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 34 | [Shelbourne](http://twitter.com/search?q=Shelbourne) | N/A |
-| 35 | [leinster house](http://twitter.com/search?q=leinster+house) | N/A |
-| 36 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 37 | [DEIS](http://twitter.com/search?q=DEIS) | N/A |
-| 38 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
-| 39 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 40 | [rest in peace paul](http://twitter.com/search?q=rest+in+peace+paul) | N/A |
-| 41 | [Keith Long](http://twitter.com/search?q=Keith+Long) | N/A |
-| 42 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
-| 43 | [cathal crowe](http://twitter.com/search?q=cathal+crowe) | N/A |
-| 44 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
-| 45 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 46 | [Seanad](http://twitter.com/search?q=Seanad) | N/A |
-| 47 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 48 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 49 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
-| 50 | [Mr Burke](http://twitter.com/search?q=Mr+Burke) | N/A |
+| 18 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
+| 19 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
+| 20 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 21 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
+| 22 | [Shels](http://twitter.com/search?q=Shels) | N/A |
+| 23 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
+| 24 | [Denis Irwin](http://twitter.com/search?q=Denis+Irwin) | N/A |
+| 25 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 26 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 27 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
+| 28 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 29 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 30 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 31 | [Eamon](http://twitter.com/search?q=Eamon) | N/A |
+| 32 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 33 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 34 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 35 | [DEIS](http://twitter.com/search?q=DEIS) | N/A |
+| 36 | [Dail](http://twitter.com/search?q=Dail) | N/A |
+| 37 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 38 | [rest in peace paul](http://twitter.com/search?q=rest+in+peace+paul) | N/A |
+| 39 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
+| 40 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 41 | [John Rogers](http://twitter.com/search?q=John+Rogers) | N/A |
+| 42 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 43 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 44 | [Dart](http://twitter.com/search?q=Dart) | N/A |
+| 45 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
+| 46 | [PRSI](http://twitter.com/search?q=PRSI) | N/A |
+| 47 | [Seanad](http://twitter.com/search?q=Seanad) | N/A |
+| 48 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 49 | [Keith Long](http://twitter.com/search?q=Keith+Long) | N/A |
+| 50 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
 
 
 
