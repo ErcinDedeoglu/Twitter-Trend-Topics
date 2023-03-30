@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-03-29 23:17:16 UTC`
+📆 Last Updated: `2023-03-30 00:28:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 2 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 3 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 4 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 5 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 6 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
-| 7 | [TAINÁ NA TWITCH](http://twitter.com/search?q=TAIN%c3%81+NA+TWITCH) | N/A |
-| 8 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
-| 9 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
-| 10 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 11 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 12 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 13 | [Castan](http://twitter.com/search?q=Castan) | N/A |
-| 14 | [Vital](http://twitter.com/search?q=Vital) | N/A |
-| 15 | [#TresVezesAna043](http://twitter.com/search?q=%23TresVezesAna043) | N/A |
-| 16 | [#SulwhasooxTheMet](http://twitter.com/search?q=%23SulwhasooxTheMet) | N/A |
-| 17 | [Resident](http://twitter.com/search?q=Resident) | N/A |
-| 18 | [Contarato](http://twitter.com/search?q=Contarato) | N/A |
-| 19 | [Copa](http://twitter.com/search?q=Copa) | N/A |
-| 20 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 21 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 22 | [#mcflyonfallon](http://twitter.com/search?q=%23mcflyonfallon) | N/A |
-| 23 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 24 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 25 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 26 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 27 | [Michel Araújo](http://twitter.com/search?q=Michel+Ara%c3%bajo) | Michel Araújo is a Portuguese name. It is derived from the Hebrew name Michael, which means "who is like God". |
-| 28 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 29 | [#ADona077](http://twitter.com/search?q=%23ADona077) | N/A |
-| 30 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 31 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
-| 32 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
-| 33 | [EXPULSO](http://twitter.com/search?q=EXPULSO) | N/A |
-| 34 | [Transmissão](http://twitter.com/search?q=Transmiss%c3%a3o) | N/A |
-| 35 | [Ana Thais](http://twitter.com/search?q=Ana+Thais) | N/A |
-| 36 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 37 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
-| 38 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 39 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 40 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 41 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 42 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 43 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
-| 44 | [Cara de Barro](http://twitter.com/search?q=Cara+de+Barro) | N/A |
-| 45 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
-| 46 | [Gabriel Neves](http://twitter.com/search?q=Gabriel+Neves) | N/A |
-| 47 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 48 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 49 | [Fearless Tv](http://twitter.com/search?q=Fearless+Tv) | N/A |
-| 50 | [Red Tv](http://twitter.com/search?q=Red+Tv) | N/A |
+| 2 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 3 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 4 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
+| 5 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 6 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 7 | [GRIPHAO NO TOP DEZ](http://twitter.com/search?q=GRIPHAO+NO+TOP+DEZ) | N/A |
+| 8 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 9 | [#DesativaYanne](http://twitter.com/search?q=%23DesativaYanne) | N/A |
+| 10 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 11 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 12 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
+| 13 | [Fred Sincero](http://twitter.com/search?q=Fred+Sincero) | N/A |
+| 14 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 15 | [BIEL NO A ELIMINAÇÃO](http://twitter.com/search?q=BIEL+NO+A+ELIMINA%c3%87%c3%83O) | N/A |
+| 16 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 17 | [Vital](http://twitter.com/search?q=Vital) | N/A |
+| 18 | [#SulwhasooxTheMet](http://twitter.com/search?q=%23SulwhasooxTheMet) | N/A |
+| 19 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
+| 20 | [TAINÁ NA TWITCH](http://twitter.com/search?q=TAIN%c3%81+NA+TWITCH) | N/A |
+| 21 | [Kaiki](http://twitter.com/search?q=Kaiki) | N/A |
+| 22 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
+| 23 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 24 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 25 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 26 | [Castan](http://twitter.com/search?q=Castan) | N/A |
+| 27 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 28 | [Contarato](http://twitter.com/search?q=Contarato) | N/A |
+| 29 | [#RoseMETSulwhasoo](http://twitter.com/search?q=%23RoseMETSulwhasoo) | N/A |
+| 30 | [#TresVezesAna043](http://twitter.com/search?q=%23TresVezesAna043) | N/A |
+| 31 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 32 | [Resident](http://twitter.com/search?q=Resident) | N/A |
+| 33 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 34 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
+| 35 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 36 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 37 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 38 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 39 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
+| 40 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
+| 41 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
+| 42 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
+| 43 | [Transmissão](http://twitter.com/search?q=Transmiss%c3%a3o) | N/A |
+| 44 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 45 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 46 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 47 | [bella campos](http://twitter.com/search?q=bella+campos) | Bella Campos is a Spanish phrase that translates to "beautiful fields" in English. It is often used as a poetic expression to describe a beautiful landscape or scenery. |
+| 48 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
+| 49 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 50 | [Libra](http://twitter.com/search?q=Libra) | N/A |
 
 
 

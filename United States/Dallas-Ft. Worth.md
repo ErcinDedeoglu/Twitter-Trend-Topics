@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-29 23:17:54 UTC`
+📆 Last Updated: `2023-03-30 00:29:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Astros](http://twitter.com/search?q=%23Astros) | N/A |
-| 2 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
-| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 4 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 5 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 6 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 7 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
-| 8 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 9 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
-| 10 | [#XboxMLBSweepstakes](http://twitter.com/search?q=%23XboxMLBSweepstakes) | N/A |
-| 11 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 12 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 13 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 14 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
-| 15 | [Jung](http://twitter.com/search?q=Jung) | N/A |
-| 16 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 17 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
-| 18 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 19 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
-| 20 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
+| 2 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 3 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
+| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 5 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 6 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 7 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 8 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 9 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
+| 10 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
+| 11 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 12 | [Jung](http://twitter.com/search?q=Jung) | N/A |
+| 13 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 14 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 15 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
+| 16 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 17 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 18 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 19 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 20 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
 | 21 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 22 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 23 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
-| 24 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 25 | [China and Brazil](http://twitter.com/search?q=China+and+Brazil) | N/A |
-| 26 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 27 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 28 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
-| 29 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 30 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
-| 31 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 32 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 33 | [The Batman 2](http://twitter.com/search?q=The+Batman+2) | N/A |
-| 34 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 35 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
-| 36 | [Adam Fisher](http://twitter.com/search?q=Adam+Fisher) | N/A |
-| 37 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
-| 38 | [Basil Karlo](http://twitter.com/search?q=Basil+Karlo) | N/A |
-| 39 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 40 | [Jimmy Smits](http://twitter.com/search?q=Jimmy+Smits) | N/A |
-| 41 | [SweetDog](http://twitter.com/search?q=SweetDog) | N/A |
-| 42 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 43 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 22 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 23 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 24 | [Dee Snider](http://twitter.com/search?q=Dee+Snider) | N/A |
+| 25 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 26 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
+| 27 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 28 | [China and Brazil](http://twitter.com/search?q=China+and+Brazil) | N/A |
+| 29 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
+| 30 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
+| 31 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
+| 32 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 33 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 34 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
+| 35 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 36 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
+| 37 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 38 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 39 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 40 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
+| 41 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
+| 42 | [RCID](http://twitter.com/search?q=RCID) | N/A |
+| 43 | [Pache](http://twitter.com/search?q=Pache) | N/A |
 | 44 | [King of England](http://twitter.com/search?q=King+of+England) | N/A |
-| 45 | [Always Sunny](http://twitter.com/search?q=Always+Sunny) | N/A |
-| 46 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
-| 47 | [Billy Sullivan](http://twitter.com/search?q=Billy+Sullivan) | N/A |
-| 48 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 49 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 45 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
+| 46 | [Good for Disney](http://twitter.com/search?q=Good+for+Disney) | N/A |
+| 47 | [Pretty in Pink](http://twitter.com/search?q=Pretty+in+Pink) | N/A |
+| 48 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 49 | [Trees](http://twitter.com/search?q=Trees) | N/A |
 
 
 

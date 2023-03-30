@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-29 23:17:19 UTC`
+📆 Last Updated: `2023-03-30 00:28:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,49 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 2 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 2 | [COTY CONE AL BAILANDO](http://twitter.com/search?q=COTY+CONE+AL+BAILANDO) | N/A |
 | 3 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 4 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 5 | [Damiani](http://twitter.com/search?q=Damiani) | N/A |
-| 6 | [#CortaPorLozano](http://twitter.com/search?q=%23CortaPorLozano) | N/A |
+| 4 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 5 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
+| 6 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 7 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 8 | [Peroni](http://twitter.com/search?q=Peroni) | N/A |
-| 9 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 10 | [Luciani](http://twitter.com/search?q=Luciani) | N/A |
-| 11 | [Seoane](http://twitter.com/search?q=Seoane) | N/A |
-| 12 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
-| 13 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 14 | [#AmorDeFamilia](http://twitter.com/search?q=%23AmorDeFamilia) | N/A |
-| 15 | [#ParqueSiTorresNo](http://twitter.com/search?q=%23ParqueSiTorresNo) | N/A |
-| 16 | [Darthes](http://twitter.com/search?q=Darthes) | N/A |
-| 17 | [Tenía 16](http://twitter.com/search?q=Ten%c3%ada+16) | N/A |
-| 18 | [Gayoso](http://twitter.com/search?q=Gayoso) | N/A |
-| 19 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 20 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 21 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
-| 22 | [Costa Salguero](http://twitter.com/search?q=Costa+Salguero) | N/A |
+| 8 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 9 | [Peroni](http://twitter.com/search?q=Peroni) | N/A |
+| 10 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 11 | [Damiani](http://twitter.com/search?q=Damiani) | N/A |
+| 12 | [Luciani](http://twitter.com/search?q=Luciani) | N/A |
+| 13 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 14 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 15 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
+| 16 | [#AmorDeFamilia](http://twitter.com/search?q=%23AmorDeFamilia) | N/A |
+| 17 | [Seoane](http://twitter.com/search?q=Seoane) | N/A |
+| 18 | [Darthes](http://twitter.com/search?q=Darthes) | N/A |
+| 19 | [Gayoso](http://twitter.com/search?q=Gayoso) | N/A |
+| 20 | [Tenía 16](http://twitter.com/search?q=Ten%c3%ada+16) | N/A |
+| 21 | [#ParqueSiTorresNo](http://twitter.com/search?q=%23ParqueSiTorresNo) | N/A |
+| 22 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
 | 23 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 24 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 25 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
-| 26 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
-| 27 | [Iguacel](http://twitter.com/search?q=Iguacel) | N/A |
-| 28 | [Jefe de Gabinete](http://twitter.com/search?q=Jefe+de+Gabinete) | N/A |
+| 24 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
+| 25 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 26 | [Costa Salguero](http://twitter.com/search?q=Costa+Salguero) | N/A |
+| 27 | [Herron](http://twitter.com/search?q=Herron) | N/A |
+| 28 | [#CortaPorLozano](http://twitter.com/search?q=%23CortaPorLozano) | N/A |
 | 29 | [Es 29](http://twitter.com/search?q=Es+29) | N/A |
-| 30 | [Vero](http://twitter.com/search?q=Vero) | N/A |
-| 31 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
-| 32 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
-| 33 | [#Intrusos](http://twitter.com/search?q=%23Intrusos) | N/A |
-| 34 | [Vaticano](http://twitter.com/search?q=Vaticano) | N/A |
-| 35 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 36 | [Marian](http://twitter.com/search?q=Marian) | N/A |
-| 37 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 30 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 31 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 32 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
+| 33 | [Iguacel](http://twitter.com/search?q=Iguacel) | N/A |
+| 34 | [Cáncer](http://twitter.com/search?q=C%c3%a1ncer) | N/A |
+| 35 | [Jefe de Gabinete](http://twitter.com/search?q=Jefe+de+Gabinete) | N/A |
+| 36 | [#Monotech](http://twitter.com/search?q=%23Monotech) | N/A |
+| 37 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
 | 38 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
-| 39 | [Fabiola](http://twitter.com/search?q=Fabiola) | N/A |
-| 40 | [Gracias Negro](http://twitter.com/search?q=Gracias+Negro) | N/A |
-| 41 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 42 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 39 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 40 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 41 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 42 | [Vero](http://twitter.com/search?q=Vero) | N/A |
+| 43 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 44 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
 
 
 

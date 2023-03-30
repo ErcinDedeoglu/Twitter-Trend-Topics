@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-03-29 23:17:22 UTC`
+📆 Last Updated: `2023-03-30 00:28:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,23 +17,23 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
 | 2 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
-| 3 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 4 | [#ARSFCB](http://twitter.com/search?q=%23ARSFCB) | N/A |
-| 5 | [#Maischberger](http://twitter.com/search?q=%23Maischberger) | N/A |
-| 6 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 7 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 8 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 3 | [#Maischberger](http://twitter.com/search?q=%23Maischberger) | N/A |
+| 4 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 5 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 6 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 7 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 8 | [#CharlesIII](http://twitter.com/search?q=%23CharlesIII) | N/A |
 | 9 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 10 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 11 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 12 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 14 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 10 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 11 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 12 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 13 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 14 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 15 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
-| 16 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 17 | [Maut](http://twitter.com/search?q=Maut) | N/A |
-| 18 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 19 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 16 | [Maut](http://twitter.com/search?q=Maut) | N/A |
+| 17 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 18 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 19 | [Punk](http://twitter.com/search?q=Punk) | N/A |
 | 20 | [Haken](http://twitter.com/search?q=Haken) | N/A |
 | 21 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
 | 22 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for [Germany](</Germany>)
 | 25 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
 | 26 | [Tradition als RB Leipzig](http://twitter.com/search?q=Tradition+als+RB+Leipzig) | N/A |
 | 27 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
-| 28 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
-| 29 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 30 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
-| 31 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
-| 32 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 28 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 29 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
+| 30 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 31 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 32 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
 | 33 | [Kevin Kühnert](http://twitter.com/search?q=Kevin+K%c3%bchnert) | N/A |
-| 34 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 35 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 36 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
-| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 38 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
-| 39 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
-| 40 | [Sektoren](http://twitter.com/search?q=Sektoren) | N/A |
-| 41 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
-| 42 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
-| 43 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
-| 44 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
-| 45 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 46 | [Steuererhöhung](http://twitter.com/search?q=Steuererh%c3%b6hung) | N/A |
-| 47 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 49 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
-| 50 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
+| 34 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 35 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
+| 36 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
+| 37 | [Sektoren](http://twitter.com/search?q=Sektoren) | N/A |
+| 38 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 39 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
+| 40 | [Athleten](http://twitter.com/search?q=Athleten) | N/A |
+| 41 | [Neuwahlen](http://twitter.com/search?q=Neuwahlen) | N/A |
+| 42 | [Steuererhöhung](http://twitter.com/search?q=Steuererh%c3%b6hung) | N/A |
+| 43 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 44 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 45 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
+| 46 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 47 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
+| 48 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
+| 49 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
+| 50 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 
 
 

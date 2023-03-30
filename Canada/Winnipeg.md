@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-29 23:17:05 UTC`
+📆 Last Updated: `2023-03-30 00:28:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
 | 2 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
 | 3 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 4 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 5 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 4 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 5 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
 | 6 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 7 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 8 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 9 | [#CanMNT](http://twitter.com/search?q=%23CanMNT) | N/A |
+| 7 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 9 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
 | 10 | [Pawlowski](http://twitter.com/search?q=Pawlowski) | N/A |
-| 11 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 12 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 11 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
+| 12 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 13 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 14 | [#TrudeauDestroyingCanada](http://twitter.com/search?q=%23TrudeauDestroyingCanada) | N/A |
-| 15 | [Wet'suwet'en](http://twitter.com/search?q=Wet%27suwet%27en) | N/A |
-| 16 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 17 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 18 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 19 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 20 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 21 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
-| 22 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 23 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 25 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 26 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 14 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 15 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 16 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 17 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 18 | [Wet'suwet'en](http://twitter.com/search?q=Wet%27suwet%27en) | N/A |
+| 19 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
+| 20 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 21 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 23 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 24 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
+| 25 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 26 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 27 | [Rob Anderson](http://twitter.com/search?q=Rob+Anderson) | N/A |
 | 28 | [Yoshua Bengio](http://twitter.com/search?q=Yoshua+Bengio) | N/A |
-| 29 | [Notley](http://twitter.com/search?q=Notley) | N/A |
-| 30 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
-| 31 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 32 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 33 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
-| 34 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 29 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 30 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 31 | [Larin](http://twitter.com/search?q=Larin) | Larin is a Russian surname. It is derived from the name Larion, which is derived from the Greek name Larissa. The meaning of the name in English is "cheerful". |
+| 32 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 33 | [Dental](http://twitter.com/search?q=Dental) | N/A |
+| 34 | [Janis](http://twitter.com/search?q=Janis) | N/A |
 | 35 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 36 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
-| 37 | [Hells Angels](http://twitter.com/search?q=Hells+Angels) | N/A |
+| 36 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 37 | [Summer McIntosh](http://twitter.com/search?q=Summer+McIntosh) | N/A |
 | 38 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 39 | [Lethbridge West](http://twitter.com/search?q=Lethbridge+West) | N/A |
-| 40 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 41 | [Dental](http://twitter.com/search?q=Dental) | N/A |
-| 42 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 43 | [Summer McIntosh](http://twitter.com/search?q=Summer+McIntosh) | N/A |
-| 44 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 45 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 46 | [Janis](http://twitter.com/search?q=Janis) | N/A |
-| 47 | [Akito Hirose](http://twitter.com/search?q=Akito+Hirose) | N/A |
-| 48 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 49 | [Robert Redford](http://twitter.com/search?q=Robert+Redford) | N/A |
-| 50 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 39 | [Hells Angels](http://twitter.com/search?q=Hells+Angels) | N/A |
+| 40 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 41 | [The NRA](http://twitter.com/search?q=The+NRA) | N/A |
+| 42 | [Notley](http://twitter.com/search?q=Notley) | N/A |
+| 43 | [PSPP](http://twitter.com/search?q=PSPP) | N/A |
+| 44 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 45 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 46 | [Akito Hirose](http://twitter.com/search?q=Akito+Hirose) | N/A |
+| 47 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 48 | [2nd Amendment](http://twitter.com/search?q=2nd+Amendment) | N/A |
+| 49 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
 
 
 

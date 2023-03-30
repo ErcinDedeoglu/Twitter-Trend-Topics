@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-03-29 23:18:06 UTC`
+📆 Last Updated: `2023-03-30 00:29:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 2 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
+| 1 | [ogres](http://twitter.com/search?q=ogres) | N/A |
+| 2 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
 | 3 | [#WeAreNATO](http://twitter.com/search?q=%23WeAreNATO) | N/A |
 | 4 | [Avena](http://twitter.com/search?q=Avena) | N/A |
 | 5 | [ministru](http://twitter.com/search?q=ministru) | N/A |
@@ -41,12 +41,12 @@ This is top 50 for Latvia
 | 24 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
 | 25 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 26 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | N/A |
-| 27 | [Toties](http://twitter.com/search?q=Toties) | N/A |
+| 27 | [toties](http://twitter.com/search?q=toties) | N/A |
 | 28 | [#patolaiku](http://twitter.com/search?q=%23patolaiku) | N/A |
 | 29 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
 | 30 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
 | 31 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
-| 32 | [#BackPain](http://twitter.com/search?q=%23BackPain) | N/A |
+| 32 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
 | 33 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
 | 34 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
 | 35 | [🇱🇻](http://twitter.com/search?q=%f0%9f%87%b1%f0%9f%87%bb) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Latvia
 | 46 | [Russian](http://twitter.com/search?q=Russian) | N/A |
 | 47 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
 | 48 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | N/A |
-| 49 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
-| 50 | [galvenais](http://twitter.com/search?q=galvenais) | N/A |
+| 49 | [nekad](http://twitter.com/search?q=nekad) | N/A |
+| 50 | [Galvenais](http://twitter.com/search?q=Galvenais) | N/A |
 
 
 

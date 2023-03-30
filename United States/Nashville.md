@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-03-29 23:17:57 UTC`
+📆 Last Updated: `2023-03-30 00:29:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 2 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 3 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 4 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 5 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
-| 6 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 7 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
-| 8 | [#XboxMLBSweepstakes](http://twitter.com/search?q=%23XboxMLBSweepstakes) | N/A |
-| 9 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 10 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 11 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 12 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 13 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
-| 14 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
-| 15 | [Jung](http://twitter.com/search?q=Jung) | N/A |
-| 16 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 17 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
-| 18 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 19 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 20 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
-| 21 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 22 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 23 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 24 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 25 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 26 | [#atmoscollectorsclub](http://twitter.com/search?q=%23atmoscollectorsclub) | #AtmosCollectorsClub is an online community of sneaker and streetwear enthusiasts. It is a place for members to share their collections, discuss the latest releases, and find out about upcoming events. The name "Atmos" comes from the Japanese word for atmosphere, which reflects the community's focus on creating a positive and supportive atmosphere for its members. |
-| 27 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
-| 28 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 29 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 30 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
-| 31 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 32 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 33 | [The Batman 2](http://twitter.com/search?q=The+Batman+2) | N/A |
-| 34 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 35 | [Adam Fisher](http://twitter.com/search?q=Adam+Fisher) | N/A |
+| 1 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 2 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
+| 3 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 4 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 5 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 6 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 7 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 8 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
+| 9 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
+| 10 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 11 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 12 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 13 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 14 | [#DollMask](http://twitter.com/search?q=%23DollMask) | N/A |
+| 15 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 16 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 17 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 18 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
+| 19 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 20 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 21 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 22 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 23 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 24 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 25 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 26 | [Dee Snider](http://twitter.com/search?q=Dee+Snider) | N/A |
+| 27 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 28 | [China and Brazil](http://twitter.com/search?q=China+and+Brazil) | N/A |
+| 29 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
+| 30 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
+| 31 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
+| 32 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
+| 33 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 34 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 35 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
 | 36 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
-| 37 | [Basil Karlo](http://twitter.com/search?q=Basil+Karlo) | N/A |
-| 38 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 39 | [Jimmy Smits](http://twitter.com/search?q=Jimmy+Smits) | N/A |
-| 40 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
-| 41 | [SweetDog](http://twitter.com/search?q=SweetDog) | N/A |
-| 42 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 43 | [King of England](http://twitter.com/search?q=King+of+England) | N/A |
-| 44 | [Always Sunny](http://twitter.com/search?q=Always+Sunny) | N/A |
-| 45 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 46 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
-| 47 | [Billy Sullivan](http://twitter.com/search?q=Billy+Sullivan) | N/A |
+| 37 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 38 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 39 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 40 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 41 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
+| 42 | [Pretty in Pink](http://twitter.com/search?q=Pretty+in+Pink) | N/A |
+| 43 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
+| 44 | [RCID](http://twitter.com/search?q=RCID) | N/A |
+| 45 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 46 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
 
 
 

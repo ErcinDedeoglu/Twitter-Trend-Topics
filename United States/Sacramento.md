@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-29 23:17:59 UTC`
+📆 Last Updated: `2023-03-30 00:29:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 | 2 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
 | 3 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 5 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 6 | [Mando](http://twitter.com/search?q=Mando) | N/A |
-| 7 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 8 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 9 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 10 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
-| 11 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 12 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
-| 13 | [#XboxMLBSweepstakes](http://twitter.com/search?q=%23XboxMLBSweepstakes) | N/A |
-| 14 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 15 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 16 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 17 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
-| 18 | [Jung](http://twitter.com/search?q=Jung) | N/A |
-| 19 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 20 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
-| 21 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 22 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
-| 23 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 24 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 25 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 26 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
-| 27 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 28 | [China and Brazil](http://twitter.com/search?q=China+and+Brazil) | N/A |
-| 29 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 30 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 31 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 32 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 33 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
-| 34 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 35 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
-| 36 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 37 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 38 | [The Batman 2](http://twitter.com/search?q=The+Batman+2) | N/A |
-| 39 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 40 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
-| 41 | [Adam Fisher](http://twitter.com/search?q=Adam+Fisher) | N/A |
-| 42 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
-| 43 | [Basil Karlo](http://twitter.com/search?q=Basil+Karlo) | N/A |
-| 44 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 45 | [Jimmy Smits](http://twitter.com/search?q=Jimmy+Smits) | N/A |
-| 46 | [SweetDog](http://twitter.com/search?q=SweetDog) | N/A |
-| 47 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 48 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 49 | [King of England](http://twitter.com/search?q=King+of+England) | N/A |
+| 4 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 5 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 6 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
+| 7 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 8 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 9 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 10 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 11 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 12 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
+| 13 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
+| 14 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 15 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 16 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 17 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 18 | [#DollMask](http://twitter.com/search?q=%23DollMask) | N/A |
+| 19 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 20 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 21 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 22 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
+| 23 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 24 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 25 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 26 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 27 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 28 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 29 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 30 | [Dee Snider](http://twitter.com/search?q=Dee+Snider) | N/A |
+| 31 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 32 | [China and Brazil](http://twitter.com/search?q=China+and+Brazil) | N/A |
+| 33 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
+| 34 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
+| 35 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
+| 36 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
+| 37 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 38 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 39 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
+| 40 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
+| 41 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 42 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 43 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 44 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 45 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
+| 46 | [Pretty in Pink](http://twitter.com/search?q=Pretty+in+Pink) | N/A |
+| 47 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
+| 48 | [RCID](http://twitter.com/search?q=RCID) | N/A |
+| 49 | [Pache](http://twitter.com/search?q=Pache) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-29 23:18:05 UTC`
+📆 Last Updated: `2023-03-30 00:29:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Italy
 | 3 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
 | 4 | [#Terremoto](http://twitter.com/search?q=%23Terremoto) | #Terremoto is a hashtag used on social media to refer to an earthquake. In English, it translates to "earthquake". |
 | 5 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 6 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
+| 6 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
 | 7 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
 | 8 | [Rosalbino](http://twitter.com/search?q=Rosalbino) | N/A |
-| 9 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 10 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 11 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 12 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 9 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 10 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 11 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 12 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
 | 13 | [Persia](http://twitter.com/search?q=Persia) | N/A |
-| 14 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
-| 15 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 16 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 17 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 18 | [avvertita](http://twitter.com/search?q=avvertita) | N/A |
-| 19 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 20 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 21 | [buongiorno eric](http://twitter.com/search?q=buongiorno+eric) | N/A |
-| 22 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 23 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 24 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 25 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 26 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 27 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 28 | [Della Valle](http://twitter.com/search?q=Della+Valle) | N/A |
-| 29 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 30 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
-| 31 | [mara maionchi](http://twitter.com/search?q=mara+maionchi) | N/A |
-| 32 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 33 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 34 | [sentito](http://twitter.com/search?q=sentito) | N/A |
-| 35 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
-| 36 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 37 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 38 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 39 | [Natalie Imbruglia](http://twitter.com/search?q=Natalie+Imbruglia) | N/A |
-| 40 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 41 | [Nanni Moretti](http://twitter.com/search?q=Nanni+Moretti) | N/A |
-| 42 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 43 | [Simona](http://twitter.com/search?q=Simona) | N/A |
-| 44 | [Buonasera](http://twitter.com/search?q=Buonasera) | N/A |
-| 45 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 46 | [Palla](http://twitter.com/search?q=Palla) | N/A |
-| 47 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 48 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 49 | [Cappellini](http://twitter.com/search?q=Cappellini) | N/A |
-| 50 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 14 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 15 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 16 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 17 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 18 | [buongiorno eric](http://twitter.com/search?q=buongiorno+eric) | N/A |
+| 19 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
+| 20 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 21 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 22 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 23 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
+| 24 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 25 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 26 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 27 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 28 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
+| 29 | [Della Valle](http://twitter.com/search?q=Della+Valle) | N/A |
+| 30 | [mara maionchi](http://twitter.com/search?q=mara+maionchi) | N/A |
+| 31 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 32 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 33 | [sentito](http://twitter.com/search?q=sentito) | N/A |
+| 34 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
+| 35 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 36 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 37 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 38 | [Natalie Imbruglia](http://twitter.com/search?q=Natalie+Imbruglia) | N/A |
+| 39 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 40 | [Nanni Moretti](http://twitter.com/search?q=Nanni+Moretti) | N/A |
+| 41 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 42 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 43 | [palla](http://twitter.com/search?q=palla) | N/A |
+| 44 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 45 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 46 | [Cappellini](http://twitter.com/search?q=Cappellini) | N/A |
+| 47 | [Alberto](http://twitter.com/search?q=Alberto) | Alberto is a Spanish and Italian masculine given name, derived from the Germanic name Adalbert. In English, it is translated to mean "noble and bright". |
+| 48 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 49 | [Sogni](http://twitter.com/search?q=Sogni) | N/A |
+| 50 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
 
 
 

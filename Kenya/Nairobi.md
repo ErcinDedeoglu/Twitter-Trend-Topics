@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-29 23:17:40 UTC`
+📆 Last Updated: `2023-03-30 00:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Kenya](</Kenya>)
 | 5 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
 | 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 8 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
+| 8 | [kimani ichungwa](http://twitter.com/search?q=kimani+ichungwa) | N/A |
 | 9 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
-| 10 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 11 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 12 | [#TuskerFest](http://twitter.com/search?q=%23TuskerFest) | N/A |
-| 13 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
-| 14 | [Nyong'o](http://twitter.com/search?q=Nyong%27o) | N/A |
-| 15 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 16 | [Waihiga Mwaura](http://twitter.com/search?q=Waihiga+Mwaura) | N/A |
+| 10 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 11 | [#TuskerFest](http://twitter.com/search?q=%23TuskerFest) | N/A |
+| 12 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
+| 13 | [Nyong'o](http://twitter.com/search?q=Nyong%27o) | N/A |
+| 14 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
+| 15 | [#nakurucountybursarylaunch](http://twitter.com/search?q=%23nakurucountybursarylaunch) | N/A |
+| 16 | [waihiga mwaura](http://twitter.com/search?q=waihiga+mwaura) | N/A |
 | 17 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
 | 18 | [Kenyatta](http://twitter.com/search?q=Kenyatta) | N/A |
 | 19 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
 | 20 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
-| 21 | [Kericho](http://twitter.com/search?q=Kericho) | N/A |
-| 22 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 23 | [Ninja](http://twitter.com/search?q=Ninja) | N/A |
-| 24 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 25 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 26 | [Pilsner Lager](http://twitter.com/search?q=Pilsner+Lager) | N/A |
-| 27 | [Chillis](http://twitter.com/search?q=Chillis) | N/A |
-| 28 | [aga khan hospital](http://twitter.com/search?q=aga+khan+hospital) | N/A |
-| 29 | [Matasi](http://twitter.com/search?q=Matasi) | N/A |
-| 30 | [mentalhealth ke](http://twitter.com/search?q=mentalhealth+ke) | N/A |
-| 31 | [get carrefour app](http://twitter.com/search?q=get+carrefour+app) | N/A |
-| 32 | [Amber Ray](http://twitter.com/search?q=Amber+Ray) | N/A |
-| 33 | [Mike Sonko](http://twitter.com/search?q=Mike+Sonko) | N/A |
-| 34 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
-| 35 | [Dj Grauchi](http://twitter.com/search?q=Dj+Grauchi) | N/A |
-| 36 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 37 | [Quick Recovery](http://twitter.com/search?q=Quick+Recovery) | N/A |
-| 38 | [banisa mp kullow maalim hassan](http://twitter.com/search?q=banisa+mp+kullow+maalim+hassan) | N/A |
-| 39 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 40 | [CX-5](http://twitter.com/search?q=CX-5) | N/A |
-| 41 | [John Maina](http://twitter.com/search?q=John+Maina) | N/A |
-| 42 | [Equity Afia](http://twitter.com/search?q=Equity+Afia) | N/A |
-| 43 | [bluechip aviation safaris](http://twitter.com/search?q=bluechip+aviation+safaris) | N/A |
-| 44 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 45 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
-| 46 | [Dj Mesh Mkaree](http://twitter.com/search?q=Dj+Mesh+Mkaree) | N/A |
-| 47 | [neptune hotels diani](http://twitter.com/search?q=neptune+hotels+diani) | N/A |
-| 48 | [Kennedy Rapudo](http://twitter.com/search?q=Kennedy+Rapudo) | N/A |
-| 49 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
-| 50 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 21 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 22 | [Ninja](http://twitter.com/search?q=Ninja) | N/A |
+| 23 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 24 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 25 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
+| 26 | [Chillis](http://twitter.com/search?q=Chillis) | N/A |
+| 27 | [aga khan hospital](http://twitter.com/search?q=aga+khan+hospital) | N/A |
+| 28 | [Matasi](http://twitter.com/search?q=Matasi) | N/A |
+| 29 | [mentalhealth ke](http://twitter.com/search?q=mentalhealth+ke) | N/A |
+| 30 | [get carrefour app](http://twitter.com/search?q=get+carrefour+app) | N/A |
+| 31 | [Amber Ray](http://twitter.com/search?q=Amber+Ray) | N/A |
+| 32 | [edwin sifuna](http://twitter.com/search?q=edwin+sifuna) | N/A |
+| 33 | [Dj Grauchi](http://twitter.com/search?q=Dj+Grauchi) | N/A |
+| 34 | [Mike Sonko](http://twitter.com/search?q=Mike+Sonko) | N/A |
+| 35 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 36 | [Quick Recovery](http://twitter.com/search?q=Quick+Recovery) | N/A |
+| 37 | [banisa mp kullow maalim hassan](http://twitter.com/search?q=banisa+mp+kullow+maalim+hassan) | N/A |
+| 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 39 | [CX-5](http://twitter.com/search?q=CX-5) | N/A |
+| 40 | [John Maina](http://twitter.com/search?q=John+Maina) | N/A |
+| 41 | [Equity Afia](http://twitter.com/search?q=Equity+Afia) | N/A |
+| 42 | [bluechip aviation safaris](http://twitter.com/search?q=bluechip+aviation+safaris) | N/A |
+| 43 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 44 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
+| 45 | [dj mesh mkaree](http://twitter.com/search?q=dj+mesh+mkaree) | N/A |
+| 46 | [neptune hotels diani](http://twitter.com/search?q=neptune+hotels+diani) | N/A |
+| 47 | [Kennedy Rapudo](http://twitter.com/search?q=Kennedy+Rapudo) | N/A |
+| 48 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
+| 49 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 50 | [Fixed](http://twitter.com/search?q=Fixed) | N/A |
 
 
 

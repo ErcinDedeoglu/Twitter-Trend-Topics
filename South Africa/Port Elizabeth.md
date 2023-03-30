@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-29 23:17:41 UTC`
+📆 Last Updated: `2023-03-30 00:29:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [South Africa](</South Africa>)
 | 6 | [#1LifeChangingLives](http://twitter.com/search?q=%231LifeChangingLives) | N/A |
 | 7 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
 | 8 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 9 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 10 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
+| 9 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
+| 10 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 11 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
 | 12 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
 | 13 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
@@ -32,12 +32,12 @@ This is top 50 for [South Africa](</South Africa>)
 | 15 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 16 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
 | 17 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
-| 18 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 18 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
 | 19 | [lepasa](http://twitter.com/search?q=lepasa) | N/A |
-| 20 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 21 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 22 | [hollywoodbets](http://twitter.com/search?q=hollywoodbets) | N/A |
-| 23 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 20 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 21 | [hollywoodbets](http://twitter.com/search?q=hollywoodbets) | N/A |
+| 22 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 23 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
 | 24 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
 | 25 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
 | 26 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
@@ -59,9 +59,9 @@ This is top 50 for [South Africa](</South Africa>)
 | 42 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
 | 43 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 44 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 45 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
-| 46 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 47 | [Nhlanhla](http://twitter.com/search?q=Nhlanhla) | N/A |
+| 45 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 46 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 47 | [Foster](http://twitter.com/search?q=Foster) | N/A |
 | 48 | [skoroplaap](http://twitter.com/search?q=skoroplaap) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-03-29 23:17:58 UTC`
+📆 Last Updated: `2023-03-30 00:29:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 2 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 3 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 4 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
-| 5 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 6 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
-| 7 | [#XboxMLBSweepstakes](http://twitter.com/search?q=%23XboxMLBSweepstakes) | N/A |
-| 8 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 9 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 10 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 11 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
-| 12 | [Jung](http://twitter.com/search?q=Jung) | N/A |
-| 13 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 14 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
-| 15 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
-| 16 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 17 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 18 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 19 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 20 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
-| 21 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 22 | [China and Brazil](http://twitter.com/search?q=China+and+Brazil) | N/A |
-| 23 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 24 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 25 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 26 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 27 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
-| 28 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 29 | [Kevin Long](http://twitter.com/search?q=Kevin+Long) | N/A |
-| 30 | [Howard Schultz](http://twitter.com/search?q=Howard+Schultz) | N/A |
-| 31 | [Kaulig](http://twitter.com/search?q=Kaulig) | N/A |
-| 32 | [The Batman 2](http://twitter.com/search?q=The+Batman+2) | N/A |
-| 33 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 34 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
-| 35 | [Adam Fisher](http://twitter.com/search?q=Adam+Fisher) | N/A |
-| 36 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
-| 37 | [Basil Karlo](http://twitter.com/search?q=Basil+Karlo) | N/A |
-| 38 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
-| 39 | [Jimmy Smits](http://twitter.com/search?q=Jimmy+Smits) | N/A |
-| 40 | [SweetDog](http://twitter.com/search?q=SweetDog) | N/A |
-| 41 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 42 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 43 | [King of England](http://twitter.com/search?q=King+of+England) | N/A |
-| 44 | [Always Sunny](http://twitter.com/search?q=Always+Sunny) | N/A |
-| 45 | [Gardy](http://twitter.com/search?q=Gardy) | N/A |
-| 46 | [Billy Sullivan](http://twitter.com/search?q=Billy+Sullivan) | N/A |
-| 47 | [Tamika](http://twitter.com/search?q=Tamika) | N/A |
-| 48 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 1 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 2 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
+| 3 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 4 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 5 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 6 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 7 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 8 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
+| 9 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
+| 10 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
+| 11 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 12 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 13 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 14 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 15 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 16 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 17 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
+| 18 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 19 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
+| 20 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 21 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
+| 22 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 23 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 24 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 25 | [Dee Snider](http://twitter.com/search?q=Dee+Snider) | N/A |
+| 26 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
+| 27 | [China and Brazil](http://twitter.com/search?q=China+and+Brazil) | N/A |
+| 28 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
+| 29 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
+| 30 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
+| 31 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
+| 32 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 33 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
+| 34 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
+| 35 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
+| 36 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 37 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 38 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 39 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 40 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
+| 41 | [Pretty in Pink](http://twitter.com/search?q=Pretty+in+Pink) | N/A |
+| 42 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
+| 43 | [RCID](http://twitter.com/search?q=RCID) | N/A |
+| 44 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 45 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
+| 46 | [King of England](http://twitter.com/search?q=King+of+England) | N/A |
+| 47 | [Good for Disney](http://twitter.com/search?q=Good+for+Disney) | N/A |
+| 48 | [Trees](http://twitter.com/search?q=Trees) | N/A |
 
 
 
