@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-03-30 01:44:31 UTC`
+📆 Last Updated: `2023-03-30 02:32:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,19 +17,19 @@ This is top 50 for [Ghana](</Ghana>)
 | ------- | ------------ | ------------ |
 | 1 | [#5thDimension](http://twitter.com/search?q=%235thDimension) | N/A |
 | 2 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
-| 3 | [#NanaAt79](http://twitter.com/search?q=%23NanaAt79) | N/A |
-| 4 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 5 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 6 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [#NanaAt79](http://twitter.com/search?q=%23NanaAt79) | N/A |
+| 5 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 6 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
 | 7 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
 | 8 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
 | 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
 | 10 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 11 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
-| 12 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 14 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 15 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 11 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 12 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 13 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 14 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
+| 15 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
 | 16 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
 | 17 | [#wisehour](http://twitter.com/search?q=%23wisehour) | N/A |
 | 18 | [#wiseinmarch](http://twitter.com/search?q=%23wiseinmarch) | N/A |
@@ -48,11 +48,11 @@ This is top 50 for [Ghana](</Ghana>)
 | 31 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 | 32 | [Accra Lions](http://twitter.com/search?q=Accra+Lions) | N/A |
 | 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 34 | [osu police barracks](http://twitter.com/search?q=osu+police+barracks) | N/A |
-| 35 | [President of the Republic](http://twitter.com/search?q=President+of+the+Republic) | N/A |
-| 36 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
+| 34 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 35 | [osu police barracks](http://twitter.com/search?q=osu+police+barracks) | N/A |
+| 36 | [President of the Republic](http://twitter.com/search?q=President+of+the+Republic) | N/A |
 | 37 | [Dexta Daps](http://twitter.com/search?q=Dexta+Daps) | N/A |
-| 38 | [Shatta](http://twitter.com/search?q=Shatta) | N/A |
+| 38 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
 | 39 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
 | 40 | [Cape Coast Castle](http://twitter.com/search?q=Cape+Coast+Castle) | N/A |
 | 41 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |

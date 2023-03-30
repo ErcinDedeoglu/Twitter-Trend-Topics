@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-03-30 01:43:57 UTC`
+📆 Last Updated: `2023-03-30 02:32:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Reese](http://twitter.com/search?q=Reese) | N/A |
-| 2 | [Mother Nature](http://twitter.com/search?q=Mother+Nature) | Mother Nature is a term used to refer to the natural environment and the forces that shape it, such as weather, climate, and ecology. It is often used to refer to the beauty and power of nature, as well as its fragility and vulnerability. |
+| 2 | [Willy](http://twitter.com/search?q=Willy) | N/A |
 | 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [Paul Maurice](http://twitter.com/search?q=Paul+Maurice) | N/A |
-| 5 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 6 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 7 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 8 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 9 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 10 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 11 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
-| 12 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 13 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 14 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 15 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 16 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 17 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 18 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
-| 19 | [Pawlowski](http://twitter.com/search?q=Pawlowski) | N/A |
-| 20 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 21 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
-| 22 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
-| 23 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 24 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 25 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 26 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 27 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 28 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
-| 29 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 30 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 32 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
-| 33 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 34 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 35 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
-| 36 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 37 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 38 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
-| 39 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
-| 40 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 41 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 42 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 43 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 45 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 46 | [Wet'suwet'en](http://twitter.com/search?q=Wet%27suwet%27en) | N/A |
-| 47 | [Janis](http://twitter.com/search?q=Janis) | N/A |
-| 48 | [Dental](http://twitter.com/search?q=Dental) | N/A |
-| 49 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
-| 50 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 4 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 5 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 6 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 7 | [Paul Maurice](http://twitter.com/search?q=Paul+Maurice) | N/A |
+| 8 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 9 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 10 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
+| 11 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 12 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
+| 13 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 14 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 15 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 17 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 18 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 19 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 20 | [Zach Aston](http://twitter.com/search?q=Zach+Aston) | N/A |
+| 21 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 23 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 24 | [Pawlowski](http://twitter.com/search?q=Pawlowski) | N/A |
+| 25 | [Jarnkrok](http://twitter.com/search?q=Jarnkrok) | N/A |
+| 26 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
+| 27 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 28 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 29 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 30 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 31 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 32 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 33 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 34 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 35 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
+| 36 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
+| 37 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
+| 38 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
+| 39 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 40 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 41 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 42 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 43 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
+| 44 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 45 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 46 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 47 | [Simmonds](http://twitter.com/search?q=Simmonds) | N/A |
+| 48 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 49 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
+| 50 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
 
 
 

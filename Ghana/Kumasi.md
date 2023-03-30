@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-03-30 01:44:31 UTC`
+📆 Last Updated: `2023-03-30 02:32:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,29 +17,29 @@ This is top 50 for [Ghana](</Ghana>)
 | ------- | ------------ | ------------ |
 | 1 | [#5thDimension](http://twitter.com/search?q=%235thDimension) | N/A |
 | 2 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
-| 3 | [#NanaAt79](http://twitter.com/search?q=%23NanaAt79) | N/A |
-| 4 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 5 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 6 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 7 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 8 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 10 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [#NanaAt79](http://twitter.com/search?q=%23NanaAt79) | N/A |
+| 5 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 6 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
+| 7 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 8 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 10 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 11 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 14 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
-| 15 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 16 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 17 | [#wisehour](http://twitter.com/search?q=%23wisehour) | N/A |
-| 18 | [#wiseinmarch](http://twitter.com/search?q=%23wiseinmarch) | N/A |
-| 19 | [#SB5D](http://twitter.com/search?q=%23SB5D) | N/A |
-| 20 | [Happy 79th](http://twitter.com/search?q=Happy+79th) | N/A |
-| 21 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 22 | [GSTS](http://twitter.com/search?q=GSTS) | N/A |
-| 23 | [ernest nuamah](http://twitter.com/search?q=ernest+nuamah) | N/A |
-| 24 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 25 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
+| 12 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 13 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
+| 14 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 15 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 16 | [#wisehour](http://twitter.com/search?q=%23wisehour) | N/A |
+| 17 | [#wiseinmarch](http://twitter.com/search?q=%23wiseinmarch) | N/A |
+| 18 | [#SB5D](http://twitter.com/search?q=%23SB5D) | N/A |
+| 19 | [Happy 79th](http://twitter.com/search?q=Happy+79th) | N/A |
+| 20 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 21 | [GSTS](http://twitter.com/search?q=GSTS) | N/A |
+| 22 | [ernest nuamah](http://twitter.com/search?q=ernest+nuamah) | N/A |
+| 23 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 24 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
+| 25 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 26 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
 | 27 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
 | 28 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
@@ -50,8 +50,8 @@ This is top 50 for [Ghana](</Ghana>)
 | 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 34 | [osu police barracks](http://twitter.com/search?q=osu+police+barracks) | N/A |
 | 35 | [President of the Republic](http://twitter.com/search?q=President+of+the+Republic) | N/A |
-| 36 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
-| 37 | [Dexta Daps](http://twitter.com/search?q=Dexta+Daps) | N/A |
+| 36 | [Dexta Daps](http://twitter.com/search?q=Dexta+Daps) | N/A |
+| 37 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
 | 38 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
 | 39 | [Cape Coast Castle](http://twitter.com/search?q=Cape+Coast+Castle) | N/A |
 | 40 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
@@ -64,7 +64,6 @@ This is top 50 for [Ghana](</Ghana>)
 | 47 | [jaz karis](http://twitter.com/search?q=jaz+karis) | N/A |
 | 48 | [linda mtange](http://twitter.com/search?q=linda+mtange) | N/A |
 | 49 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
-| 50 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
 
 
 

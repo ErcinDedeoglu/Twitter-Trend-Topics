@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-30 01:44:56 UTC`
+📆 Last Updated: `2023-03-30 02:33:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,17 +18,17 @@ This is top 50 for Ghana
 | 1 | [#5thDimension](http://twitter.com/search?q=%235thDimension) | N/A |
 | 2 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
 | 3 | [#NanaAt79](http://twitter.com/search?q=%23NanaAt79) | N/A |
-| 4 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 5 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 6 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 7 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 8 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 9 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 10 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
+| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 5 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 6 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
+| 7 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 8 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 9 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 10 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 11 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 14 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 12 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 13 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 14 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
 | 15 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
 | 16 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
 | 17 | [#wisehour](http://twitter.com/search?q=%23wisehour) | N/A |
@@ -50,8 +50,8 @@ This is top 50 for Ghana
 | 33 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 34 | [osu police barracks](http://twitter.com/search?q=osu+police+barracks) | N/A |
 | 35 | [President of the Republic](http://twitter.com/search?q=President+of+the+Republic) | N/A |
-| 36 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
-| 37 | [Dexta Daps](http://twitter.com/search?q=Dexta+Daps) | N/A |
+| 36 | [Dexta Daps](http://twitter.com/search?q=Dexta+Daps) | N/A |
+| 37 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
 | 38 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
 | 39 | [Cape Coast Castle](http://twitter.com/search?q=Cape+Coast+Castle) | N/A |
 | 40 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
@@ -59,12 +59,12 @@ This is top 50 for Ghana
 | 42 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
 | 43 | [Oxlade](http://twitter.com/search?q=Oxlade) | Oxlade is a Nigerian singer, songwriter, and record producer. His real name is Ikuforiji Abdulrahman Olaitan. He is best known for his hit single "Away" which was released in 2018. The name Oxlade is derived from the Yoruba language and means "one who has wealth". |
 | 44 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 45 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 46 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 47 | [jaz karis](http://twitter.com/search?q=jaz+karis) | N/A |
-| 48 | [linda mtange](http://twitter.com/search?q=linda+mtange) | N/A |
-| 49 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
-| 50 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
+| 45 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 46 | [jaz karis](http://twitter.com/search?q=jaz+karis) | N/A |
+| 47 | [linda mtange](http://twitter.com/search?q=linda+mtange) | N/A |
+| 48 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
+| 49 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
+| 50 | [the black meteors](http://twitter.com/search?q=the+black+meteors) | N/A |
 
 
 

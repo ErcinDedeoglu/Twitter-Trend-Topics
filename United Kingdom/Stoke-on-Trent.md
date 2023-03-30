@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-03-30 01:44:01 UTC`
+📆 Last Updated: `2023-03-30 02:32:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 9 | [#SCOESP](http://twitter.com/search?q=%23SCOESP) | N/A |
 | 10 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 11 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 12 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
-| 13 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
-| 14 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
-| 15 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
-| 16 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 17 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
-| 18 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 19 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 20 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
-| 21 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 22 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 23 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 24 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 25 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 26 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 27 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
+| 12 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 13 | [#Bett2023](http://twitter.com/search?q=%23Bett2023) | N/A |
+| 14 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 15 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
+| 16 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 17 | [Labour](http://twitter.com/search?q=Labour) | Labour is physical or mental work done in exchange for payment. It is also used to refer to the political movement which advocates for the rights of workers and seeks to protect their interests. |
+| 18 | [Paul Grayson](http://twitter.com/search?q=Paul+Grayson) | N/A |
+| 19 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 20 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 21 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 23 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 24 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
+| 25 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 26 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 27 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
 | 28 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 29 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
-| 30 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
+| 29 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 30 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
 | 31 | [Blankety Blank](http://twitter.com/search?q=Blankety+Blank) | N/A |
-| 32 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
+| 32 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 33 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 34 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
+| 34 | [Cilla](http://twitter.com/search?q=Cilla) | N/A |
 | 35 | [America](http://twitter.com/search?q=America) | N/A |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 36 | [Starmer](http://twitter.com/search?q=Starmer) | Starmer is a surname of English origin. It is derived from the Old English word "starmere," which means "star-maker." The name was likely given to someone who made stars or other celestial objects out of metal. |
 | 37 | [Buster](http://twitter.com/search?q=Buster) | N/A |
 | 38 | [Shaun of the Dead](http://twitter.com/search?q=Shaun+of+the+Dead) | N/A |
-| 39 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 40 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
-| 41 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 39 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
+| 40 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 41 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
 | 42 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 43 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 44 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 43 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 44 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 45 | [Jenrick](http://twitter.com/search?q=Jenrick) | N/A |
-| 46 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
-| 47 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 48 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
-| 49 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 46 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 47 | [John Smith](http://twitter.com/search?q=John+Smith) | N/A |
+| 48 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 49 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
 
 
 

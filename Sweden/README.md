@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-30 01:45:01 UTC`
+📆 Last Updated: `2023-03-30 02:33:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,31 +27,31 @@ This is top 50 for Sweden
 | 10 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
 | 11 | [Serbien](http://twitter.com/search?q=Serbien) | N/A |
 | 12 | [Shekarabi](http://twitter.com/search?q=Shekarabi) | N/A |
-| 13 | [Smålands](http://twitter.com/search?q=Sm%c3%a5lands) | N/A |
+| 13 | [smålands](http://twitter.com/search?q=sm%c3%a5lands) | N/A |
 | 14 | [linus johansson](http://twitter.com/search?q=linus+johansson) | N/A |
 | 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 16 | [#sverigemöts](http://twitter.com/search?q=%23sverigem%c3%b6ts) | N/A |
-| 17 | [viasat](http://twitter.com/search?q=viasat) | N/A |
-| 18 | [#åretsdagstidning](http://twitter.com/search?q=%23%c3%a5retsdagstidning) | N/A |
-| 19 | [lasse johansson](http://twitter.com/search?q=lasse+johansson) | N/A |
-| 20 | [komarek](http://twitter.com/search?q=komarek) | N/A |
-| 21 | [#akademiskfrihet](http://twitter.com/search?q=%23akademiskfrihet) | N/A |
-| 22 | [Timrå](http://twitter.com/search?q=Timr%c3%a5) | N/A |
-| 23 | [Märta](http://twitter.com/search?q=M%c3%a4rta) | N/A |
-| 24 | [Arvo Pärt](http://twitter.com/search?q=Arvo+P%c3%a4rt) | N/A |
-| 25 | [Ardalan](http://twitter.com/search?q=Ardalan) | N/A |
-| 26 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 27 | [Skatteverket](http://twitter.com/search?q=Skatteverket) | N/A |
-| 28 | [vesel](http://twitter.com/search?q=vesel) | N/A |
-| 29 | [Malin](http://twitter.com/search?q=Malin) | N/A |
-| 30 | [Beckman](http://twitter.com/search?q=Beckman) | N/A |
-| 31 | [mattias karlsson](http://twitter.com/search?q=mattias+karlsson) | N/A |
-| 32 | [Nordea](http://twitter.com/search?q=Nordea) | N/A |
-| 33 | [lamotte](http://twitter.com/search?q=lamotte) | N/A |
-| 34 | [kalla fakta](http://twitter.com/search?q=kalla+fakta) | N/A |
-| 35 | [einar](http://twitter.com/search?q=einar) | N/A |
-| 36 | [stenevi](http://twitter.com/search?q=stenevi) | N/A |
-| 37 | [pehrson](http://twitter.com/search?q=pehrson) | N/A |
+| 17 | [#åretsdagstidning](http://twitter.com/search?q=%23%c3%a5retsdagstidning) | N/A |
+| 18 | [lasse johansson](http://twitter.com/search?q=lasse+johansson) | N/A |
+| 19 | [komarek](http://twitter.com/search?q=komarek) | N/A |
+| 20 | [#akademiskfrihet](http://twitter.com/search?q=%23akademiskfrihet) | N/A |
+| 21 | [Timrå](http://twitter.com/search?q=Timr%c3%a5) | N/A |
+| 22 | [Märta](http://twitter.com/search?q=M%c3%a4rta) | N/A |
+| 23 | [Arvo Pärt](http://twitter.com/search?q=Arvo+P%c3%a4rt) | N/A |
+| 24 | [Ardalan](http://twitter.com/search?q=Ardalan) | N/A |
+| 25 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 26 | [skatteverket](http://twitter.com/search?q=skatteverket) | N/A |
+| 27 | [vesel](http://twitter.com/search?q=vesel) | N/A |
+| 28 | [Malin](http://twitter.com/search?q=Malin) | N/A |
+| 29 | [Beckman](http://twitter.com/search?q=Beckman) | N/A |
+| 30 | [mattias karlsson](http://twitter.com/search?q=mattias+karlsson) | N/A |
+| 31 | [Nordea](http://twitter.com/search?q=Nordea) | N/A |
+| 32 | [lamotte](http://twitter.com/search?q=lamotte) | N/A |
+| 33 | [kalla fakta](http://twitter.com/search?q=kalla+fakta) | N/A |
+| 34 | [einar](http://twitter.com/search?q=einar) | N/A |
+| 35 | [stenevi](http://twitter.com/search?q=stenevi) | N/A |
+| 36 | [pehrson](http://twitter.com/search?q=pehrson) | N/A |
+| 37 | [Viasat](http://twitter.com/search?q=Viasat) | N/A |
 | 38 | [ericssons](http://twitter.com/search?q=ericssons) | N/A |
 | 39 | [Embracer](http://twitter.com/search?q=Embracer) | N/A |
 | 40 | [lennström](http://twitter.com/search?q=lennstr%c3%b6m) | N/A |

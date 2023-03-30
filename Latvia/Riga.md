@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-30 01:44:20 UTC`
+📆 Last Updated: `2023-03-30 02:32:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,17 +17,17 @@ This is top 50 for [Latvia](</Latvia>)
 | ------- | ------------ | ------------ |
 | 1 | [ogres](http://twitter.com/search?q=ogres) | N/A |
 | 2 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
-| 3 | [#WeAreNATO](http://twitter.com/search?q=%23WeAreNATO) | N/A |
+| 3 | [#wearenato](http://twitter.com/search?q=%23wearenato) | N/A |
 | 4 | [Avena](http://twitter.com/search?q=Avena) | N/A |
 | 5 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 6 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 7 | [ministru](http://twitter.com/search?q=ministru) | N/A |
-| 8 | [levita](http://twitter.com/search?q=levita) | N/A |
-| 9 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
-| 10 | [Audi](http://twitter.com/search?q=Audi) | N/A |
-| 11 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
-| 12 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
-| 13 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 6 | [ministru](http://twitter.com/search?q=ministru) | N/A |
+| 7 | [levita](http://twitter.com/search?q=levita) | N/A |
+| 8 | [#StrongerTogether](http://twitter.com/search?q=%23StrongerTogether) | N/A |
+| 9 | [Audi](http://twitter.com/search?q=Audi) | N/A |
+| 10 | [airbaltic](http://twitter.com/search?q=airbaltic) | N/A |
+| 11 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
+| 12 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
+| 13 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 14 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
 | 15 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
 | 16 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
@@ -50,9 +50,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 33 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 34 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
 | 35 | [dziesmu](http://twitter.com/search?q=dziesmu) | N/A |
-| 36 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
+| 36 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
 | 37 | [kaut](http://twitter.com/search?q=kaut) | N/A |
-| 38 | [Ja Tev](http://twitter.com/search?q=Ja+Tev) | N/A |
+| 38 | [ja tev](http://twitter.com/search?q=ja+tev) | N/A |
 | 39 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 40 | [brektes](http://twitter.com/search?q=brektes) | N/A |
 | 41 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |

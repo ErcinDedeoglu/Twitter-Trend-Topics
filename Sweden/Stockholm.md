@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-03-30 01:44:21 UTC`
+📆 Last Updated: `2023-03-30 02:32:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,10 +27,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 10 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
 | 11 | [Serbien](http://twitter.com/search?q=Serbien) | N/A |
 | 12 | [Shekarabi](http://twitter.com/search?q=Shekarabi) | N/A |
-| 13 | [Smålands](http://twitter.com/search?q=Sm%c3%a5lands) | N/A |
+| 13 | [smålands](http://twitter.com/search?q=sm%c3%a5lands) | N/A |
 | 14 | [linus johansson](http://twitter.com/search?q=linus+johansson) | N/A |
-| 15 | [#sverigemöts](http://twitter.com/search?q=%23sverigem%c3%b6ts) | N/A |
-| 16 | [viasat](http://twitter.com/search?q=viasat) | N/A |
+| 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 16 | [#sverigemöts](http://twitter.com/search?q=%23sverigem%c3%b6ts) | N/A |
 | 17 | [#åretsdagstidning](http://twitter.com/search?q=%23%c3%a5retsdagstidning) | N/A |
 | 18 | [lasse johansson](http://twitter.com/search?q=lasse+johansson) | N/A |
 | 19 | [komarek](http://twitter.com/search?q=komarek) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Sweden](</Sweden>)
 | 34 | [einar](http://twitter.com/search?q=einar) | N/A |
 | 35 | [stenevi](http://twitter.com/search?q=stenevi) | N/A |
 | 36 | [pehrson](http://twitter.com/search?q=pehrson) | N/A |
-| 37 | [ericssons](http://twitter.com/search?q=ericssons) | N/A |
-| 38 | [Embracer](http://twitter.com/search?q=Embracer) | N/A |
-| 39 | [lennström](http://twitter.com/search?q=lennstr%c3%b6m) | N/A |
-| 40 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
-| 41 | [rasism](http://twitter.com/search?q=rasism) | N/A |
-| 42 | [Karin](http://twitter.com/search?q=Karin) | N/A |
-| 43 | [johan tireland](http://twitter.com/search?q=johan+tireland) | N/A |
-| 44 | [olausson](http://twitter.com/search?q=olausson) | N/A |
-| 45 | [margareta strömstedt](http://twitter.com/search?q=margareta+str%c3%b6mstedt) | N/A |
-| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 47 | [riksrevisionen](http://twitter.com/search?q=riksrevisionen) | N/A |
-| 48 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 49 | [sd-topp](http://twitter.com/search?q=sd-topp) | N/A |
-| 50 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
+| 37 | [Viasat](http://twitter.com/search?q=Viasat) | N/A |
+| 38 | [ericssons](http://twitter.com/search?q=ericssons) | N/A |
+| 39 | [Embracer](http://twitter.com/search?q=Embracer) | N/A |
+| 40 | [lennström](http://twitter.com/search?q=lennstr%c3%b6m) | N/A |
+| 41 | [Pokémon](http://twitter.com/search?q=Pok%c3%a9mon) | N/A |
+| 42 | [rasism](http://twitter.com/search?q=rasism) | N/A |
+| 43 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 44 | [johan tireland](http://twitter.com/search?q=johan+tireland) | N/A |
+| 45 | [olausson](http://twitter.com/search?q=olausson) | N/A |
+| 46 | [margareta strömstedt](http://twitter.com/search?q=margareta+str%c3%b6mstedt) | N/A |
+| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 48 | [riksrevisionen](http://twitter.com/search?q=riksrevisionen) | N/A |
+| 49 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 50 | [sd-topp](http://twitter.com/search?q=sd-topp) | N/A |
 
 
 

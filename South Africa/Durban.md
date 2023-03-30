@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-30 01:44:33 UTC`
+📆 Last Updated: `2023-03-30 02:32:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,24 +25,24 @@ This is top 50 for [South Africa](</South Africa>)
 | 8 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 9 | [#LoveWithCapitec](http://twitter.com/search?q=%23LoveWithCapitec) | N/A |
 | 10 | [#SBLove](http://twitter.com/search?q=%23SBLove) | N/A |
-| 11 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 12 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 11 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 12 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
 | 13 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
 | 14 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
 | 15 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
 | 16 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
 | 17 | [Tap to Pay](http://twitter.com/search?q=Tap+to+Pay) | N/A |
-| 18 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 19 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 20 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
-| 21 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
+| 18 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 19 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
+| 20 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
+| 21 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
 | 22 | [lepasa](http://twitter.com/search?q=lepasa) | N/A |
 | 23 | [hollywoodbets](http://twitter.com/search?q=hollywoodbets) | N/A |
-| 24 | [khune](http://twitter.com/search?q=khune) | N/A |
-| 25 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
-| 26 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
-| 27 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 28 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 24 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
+| 25 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 26 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 27 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 28 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
 | 29 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
 | 30 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
 | 31 | [tonic water](http://twitter.com/search?q=tonic+water) | N/A |
@@ -53,14 +53,14 @@ This is top 50 for [South Africa](</South Africa>)
 | 36 | [Sithelo](http://twitter.com/search?q=Sithelo) | N/A |
 | 37 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
 | 38 | [iZwide](http://twitter.com/search?q=iZwide) | N/A |
-| 39 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 40 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 41 | [UNISA](http://twitter.com/search?q=UNISA) | N/A |
+| 39 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 40 | [unisa](http://twitter.com/search?q=unisa) | N/A |
+| 41 | [Annie](http://twitter.com/search?q=Annie) | N/A |
 | 42 | [red chilli](http://twitter.com/search?q=red+chilli) | N/A |
-| 43 | [BLUE AIVA THE BRAND](http://twitter.com/search?q=BLUE+AIVA+THE+BRAND) | N/A |
-| 44 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 45 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
-| 46 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
+| 43 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 44 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
+| 45 | [BLUE AIVA THE BRAND](http://twitter.com/search?q=BLUE+AIVA+THE+BRAND) | N/A |
+| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 47 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
 | 48 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
 | 49 | [skoroplaap](http://twitter.com/search?q=skoroplaap) | N/A |

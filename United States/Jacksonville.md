@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-30 01:44:46 UTC`
+📆 Last Updated: `2023-03-30 02:33:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 2 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
-| 3 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
-| 4 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 7 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 8 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 9 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 10 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 11 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 12 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 13 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 14 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 15 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 16 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 17 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 18 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
-| 19 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
-| 20 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 21 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
-| 22 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
-| 23 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 24 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
-| 25 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 26 | [Dalton Castle](http://twitter.com/search?q=Dalton+Castle) | N/A |
-| 27 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 28 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 29 | [Jeff Van Gundy](http://twitter.com/search?q=Jeff+Van+Gundy) | N/A |
-| 30 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 31 | [Jack Perry](http://twitter.com/search?q=Jack+Perry) | N/A |
-| 32 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 33 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
-| 34 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 35 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 36 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 37 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 38 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 39 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 40 | [Nwora](http://twitter.com/search?q=Nwora) | N/A |
-| 41 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
-| 42 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
-| 43 | [Tika](http://twitter.com/search?q=Tika) | N/A |
-| 44 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
-| 45 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
-| 46 | [Blood and Guts](http://twitter.com/search?q=Blood+and+Guts) | N/A |
-| 47 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 48 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 49 | [NJPW](http://twitter.com/search?q=NJPW) | N/A |
-| 50 | [Fast Car](http://twitter.com/search?q=Fast+Car) | N/A |
+| 2 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
+| 3 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 4 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 5 | [Duncan Robinson](http://twitter.com/search?q=Duncan+Robinson) | N/A |
+| 6 | [The Heat](http://twitter.com/search?q=The+Heat) | N/A |
+| 7 | [Maurice](http://twitter.com/search?q=Maurice) | N/A |
+| 8 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 9 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
+| 10 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
+| 11 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 12 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 13 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 15 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 16 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 17 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 18 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 19 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 20 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 21 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 22 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 23 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 24 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 25 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 26 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 27 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 28 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
+| 29 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 30 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
+| 31 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
+| 32 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
+| 33 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 34 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 35 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
+| 36 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 37 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 38 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 39 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
+| 40 | [Jeff Van Gundy](http://twitter.com/search?q=Jeff+Van+Gundy) | N/A |
+| 41 | [Thunder Rosa](http://twitter.com/search?q=Thunder+Rosa) | N/A |
+| 42 | [TOO SMALL](http://twitter.com/search?q=TOO+SMALL) | N/A |
+| 43 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
+| 44 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 45 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 46 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 47 | [Dalton Castle](http://twitter.com/search?q=Dalton+Castle) | N/A |
+| 48 | [Arming](http://twitter.com/search?q=Arming) | N/A |
+| 49 | [Skully](http://twitter.com/search?q=Skully) | N/A |
+| 50 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
 
 
 

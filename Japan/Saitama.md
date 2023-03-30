@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saitama
 
-📆 Last Updated: `2023-03-30 01:44:23 UTC`
+📆 Last Updated: `2023-03-30 02:32:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [ブルーインパルス](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%82%a4%e3%83%b3%e3%83%91%e3%83%ab%e3%82%b9) | N/A |
 | 2 | [#いちご杏仁満開](http://twitter.com/search?q=%23%e3%81%84%e3%81%a1%e3%81%94%e6%9d%8f%e4%bb%81%e6%ba%80%e9%96%8b) | N/A |
-| 3 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 4 | [#メンテ恒例](http://twitter.com/search?q=%23%e3%83%a1%e3%83%b3%e3%83%86%e6%81%92%e4%be%8b) | N/A |
-| 5 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
-| 6 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
-| 7 | [コンパスオブユアハート](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%91%e3%82%b9%e3%82%aa%e3%83%96%e3%83%a6%e3%82%a2%e3%83%8f%e3%83%bc%e3%83%88) | N/A |
-| 8 | [清塚さん](http://twitter.com/search?q=%e6%b8%85%e5%a1%9a%e3%81%95%e3%82%93) | 清塚さん is a Japanese honorific title used to refer to someone with a high level of respect. In English, it would be translated as "Mr. Kiyotaka". |
-| 9 | [時東ぁみ](http://twitter.com/search?q=%e6%99%82%e6%9d%b1%e3%81%81%e3%81%bf) | N/A |
-| 10 | [モバマス](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%83%9e%e3%82%b9) | N/A |
-| 11 | [テイオウイカ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%82%aa%e3%82%a6%e3%82%a4%e3%82%ab) | N/A |
-| 12 | [放送禁止用語](http://twitter.com/search?q=%e6%94%be%e9%80%81%e7%a6%81%e6%ad%a2%e7%94%a8%e8%aa%9e) | N/A |
-| 13 | [ラインマーカー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
-| 14 | [スーパームック](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%a0%e3%83%83%e3%82%af) | スーパームック (Supermook) is a Japanese magazine that focuses on fashion, beauty, and lifestyle topics. It is published by Shogakukan and is aimed at young women. The magazine's name comes from the combination of the words "super" and "mook," which is short for "magazine book." |
-| 15 | [クイボ弱体化](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%9c%e5%bc%b1%e4%bd%93%e5%8c%96) | N/A |
-| 16 | [ジェッパ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%83%91) | N/A |
-| 17 | [坂口さん](http://twitter.com/search?q=%e5%9d%82%e5%8f%a3%e3%81%95%e3%82%93) | N/A |
-| 18 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 19 | [ギャルル](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%ab%e3%83%ab) | N/A |
-| 20 | [カニタンク](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e3%82%bf%e3%83%b3%e3%82%af) | N/A |
-| 21 | [ウィルナス](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%ab%e3%83%8a%e3%82%b9) | ウィルナス (Wirunasu) is a Japanese brand of clothing and accessories. The name is derived from the words "will" and "nass", which mean "style" and "trend" respectively. In English, the brand name could be translated as "Style Trend". |
-| 22 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
-| 23 | [無料100連](http://twitter.com/search?q=%e7%84%a1%e6%96%99100%e9%80%a3) | 無料100連 is a type of lottery game in Japan. It translates to "Free 100 Draws" and is a lottery game where players can win prizes by drawing 100 times for free. |
-| 24 | [シェロチケ](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ad%e3%83%81%e3%82%b1) | N/A |
-| 25 | [マリちゃん](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | マリちゃん is a nickname for the Japanese name "Mariko". It is a term of endearment, similar to calling someone "Mariko-chan" in English. |
-| 26 | [サメライド](http://twitter.com/search?q=%e3%82%b5%e3%83%a1%e3%83%a9%e3%82%a4%e3%83%89) | N/A |
-| 27 | [コウメ太夫](http://twitter.com/search?q=%e3%82%b3%e3%82%a6%e3%83%a1%e5%a4%aa%e5%a4%ab) | コウメ太夫 is a Japanese folktale about a poor farmer named Kōme Tafu. He is a kind and hardworking man who is blessed with good luck. He eventually becomes wealthy and lives happily ever after. In English, the phrase "Kōme Tafu" can be translated to mean "lucky farmer". |
-| 28 | [住宅ローン優遇](http://twitter.com/search?q=%e4%bd%8f%e5%ae%85%e3%83%ad%e3%83%bc%e3%83%b3%e5%84%aa%e9%81%87) | N/A |
-| 29 | [リミ武器](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e6%ad%a6%e5%99%a8) | N/A |
-| 30 | [ハンコ強化](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%b3%e5%bc%b7%e5%8c%96) | N/A |
-| 31 | [歩ちゃん](http://twitter.com/search?q=%e6%ad%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 32 | [給付型奨学金](http://twitter.com/search?q=%e7%b5%a6%e4%bb%98%e5%9e%8b%e5%a5%a8%e5%ad%a6%e9%87%91) | N/A |
-| 33 | [スプスピ](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%82%b9%e3%83%94) | N/A |
-| 34 | [スパムク](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%a0%e3%82%af) | N/A |
-| 35 | [一太くん](http://twitter.com/search?q=%e4%b8%80%e5%a4%aa%e3%81%8f%e3%82%93) | 一太くん is a character from the Japanese manga series Doraemon. His name literally translates to "One-Taro" and he is a robotic cat from the future who helps the main character, Nobita, with his various adventures. In English, his name could be translated as "One-Taro the Cat". |
-| 36 | [マーティン](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3) | N/A |
-| 37 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
-| 38 | [マフィアの日](http://twitter.com/search?q=%e3%83%9e%e3%83%95%e3%82%a3%e3%82%a2%e3%81%ae%e6%97%a5) | N/A |
-| 39 | [プロ野球開幕](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e9%87%8e%e7%90%83%e9%96%8b%e5%b9%95) | N/A |
-| 40 | [ガチャピン](http://twitter.com/search?q=%e3%82%ac%e3%83%81%e3%83%a3%e3%83%94%e3%83%b3) | ガチャピン is a Japanese slang term derived from the phrase "gachapon," which is a type of vending machine that dispenses small toys and collectibles. The term is used to describe someone who is passionate and enthusiastic about something, often to an extreme degree. In English, it can be translated as "super fan" or "die-hard fan." |
-| 41 | [多子世帯](http://twitter.com/search?q=%e5%a4%9a%e5%ad%90%e4%b8%96%e5%b8%af) | N/A |
-| 42 | [ミカエル](http://twitter.com/search?q=%e3%83%9f%e3%82%ab%e3%82%a8%e3%83%ab) | ミカエル (Mikael) is a Japanese name derived from the Hebrew name Michael, which means "who is like God". |
-| 43 | [憲法審査会](http://twitter.com/search?q=%e6%86%b2%e6%b3%95%e5%af%a9%e6%9f%bb%e4%bc%9a) | N/A |
-| 44 | [パーさん](http://twitter.com/search?q=%e3%83%91%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 45 | [瑠璃色の地球](http://twitter.com/search?q=%e7%91%a0%e7%92%83%e8%89%b2%e3%81%ae%e5%9c%b0%e7%90%83) | N/A |
-| 46 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 47 | [かまぼこ影分身](http://twitter.com/search?q=%e3%81%8b%e3%81%be%e3%81%bc%e3%81%93%e5%bd%b1%e5%88%86%e8%ba%ab) | N/A |
-| 48 | [ポセイドン](http://twitter.com/search?q=%e3%83%9d%e3%82%bb%e3%82%a4%e3%83%89%e3%83%b3) | N/A |
-| 49 | [エナスタ](http://twitter.com/search?q=%e3%82%a8%e3%83%8a%e3%82%b9%e3%82%bf) | N/A |
-| 50 | [プリンセスメーカー](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bb%e3%82%b9%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 3 | [テイオウイカ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%82%aa%e3%82%a6%e3%82%a4%e3%82%ab) | N/A |
+| 4 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 5 | [#メンテ恒例](http://twitter.com/search?q=%23%e3%83%a1%e3%83%b3%e3%83%86%e6%81%92%e4%be%8b) | N/A |
+| 6 | [ラインマーカー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 7 | [ジェッパ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%83%91) | N/A |
+| 8 | [プリンセスメーカー](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bb%e3%82%b9%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 9 | [クイボ弱体化](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%9c%e5%bc%b1%e4%bd%93%e5%8c%96) | N/A |
+| 10 | [コンパスオブユアハート](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%91%e3%82%b9%e3%82%aa%e3%83%96%e3%83%a6%e3%82%a2%e3%83%8f%e3%83%bc%e3%83%88) | N/A |
+| 11 | [放送禁止用語](http://twitter.com/search?q=%e6%94%be%e9%80%81%e7%a6%81%e6%ad%a2%e7%94%a8%e8%aa%9e) | N/A |
+| 12 | [モバマス](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%83%9e%e3%82%b9) | N/A |
+| 13 | [カニタンク](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e3%82%bf%e3%83%b3%e3%82%af) | N/A |
+| 14 | [#スッキリ](http://twitter.com/search?q=%23%e3%82%b9%e3%83%83%e3%82%ad%e3%83%aa) | #スッキリ is a Japanese hashtag that translates to "refreshingly" or "refreshingly clear". It is often used to describe something that is refreshing, clear, and easy to understand. |
+| 15 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 16 | [サメライド](http://twitter.com/search?q=%e3%82%b5%e3%83%a1%e3%83%a9%e3%82%a4%e3%83%89) | N/A |
+| 17 | [ハンコ強化](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%b3%e5%bc%b7%e5%8c%96) | N/A |
+| 18 | [時東ぁみ](http://twitter.com/search?q=%e6%99%82%e6%9d%b1%e3%81%81%e3%81%bf) | N/A |
+| 19 | [てんしとあくま](http://twitter.com/search?q=%e3%81%a6%e3%82%93%e3%81%97%e3%81%a8%e3%81%82%e3%81%8f%e3%81%be) | N/A |
+| 20 | [スプスピ](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%82%b9%e3%83%94) | N/A |
+| 21 | [#あさイチ](http://twitter.com/search?q=%23%e3%81%82%e3%81%95%e3%82%a4%e3%83%81) | #あさイチ is a Japanese hashtag that translates to "morning one" in English. It is used to refer to morning television programs, which are broadcast from 1am to 2am in Japan. |
+| 22 | [清塚さん](http://twitter.com/search?q=%e6%b8%85%e5%a1%9a%e3%81%95%e3%82%93) | 清塚さん is a Japanese honorific title used to refer to someone with a high level of respect. In English, it would be translated as "Mr. Kiyotaka". |
+| 23 | [スペシュ](http://twitter.com/search?q=%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a5) | N/A |
+| 24 | [ちいかわマーケット](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 25 | [スーパームック](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%a0%e3%83%83%e3%82%af) | スーパームック (Supermook) is a Japanese magazine that focuses on fashion, beauty, and lifestyle topics. It is published by Shogakukan and is aimed at young women. The magazine's name comes from the combination of the words "super" and "mook," which is short for "magazine book." |
+| 26 | [坂口さん](http://twitter.com/search?q=%e5%9d%82%e5%8f%a3%e3%81%95%e3%82%93) | N/A |
+| 27 | [シャプマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%97%e3%83%9e) | シャプマ is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it is sometimes referred to as a "shamisen song". |
+| 28 | [ウィルナス](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%ab%e3%83%8a%e3%82%b9) | ウィルナス (Wirunasu) is a Japanese brand of clothing and accessories. The name is derived from the words "will" and "nass", which mean "style" and "trend" respectively. In English, the brand name could be translated as "Style Trend". |
+| 29 | [ノヴァ強化](http://twitter.com/search?q=%e3%83%8e%e3%83%b4%e3%82%a1%e5%bc%b7%e5%8c%96) | N/A |
+| 30 | [神アプデ](http://twitter.com/search?q=%e7%a5%9e%e3%82%a2%e3%83%97%e3%83%87) | N/A |
+| 31 | [ワイドローラー](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%89%e3%83%ad%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
+| 32 | [エナスタ](http://twitter.com/search?q=%e3%82%a8%e3%83%8a%e3%82%b9%e3%82%bf) | N/A |
+| 33 | [サメ強化](http://twitter.com/search?q=%e3%82%b5%e3%83%a1%e5%bc%b7%e5%8c%96) | N/A |
+| 34 | [シェロチケ](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ad%e3%83%81%e3%82%b1) | N/A |
+| 35 | [ギャルル](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%ab%e3%83%ab) | N/A |
+| 36 | [コウメ太夫](http://twitter.com/search?q=%e3%82%b3%e3%82%a6%e3%83%a1%e5%a4%aa%e5%a4%ab) | コウメ太夫 is a Japanese folktale about a poor farmer named Kōme Tafu. He is a kind and hardworking man who is blessed with good luck. He eventually becomes wealthy and lives happily ever after. In English, the phrase "Kōme Tafu" can be translated to mean "lucky farmer". |
+| 37 | [スペースシューター](http://twitter.com/search?q=%e3%82%b9%e3%83%9a%e3%83%bc%e3%82%b9%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
+| 38 | [無料100連](http://twitter.com/search?q=%e7%84%a1%e6%96%99100%e9%80%a3) | 無料100連 is a type of lottery game in Japan. It translates to "Free 100 Draws" and is a lottery game where players can win prizes by drawing 100 times for free. |
+| 39 | [カニ弱体化](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e5%bc%b1%e4%bd%93%e5%8c%96) | N/A |
+| 40 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
+| 41 | [キューインキ](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%ad) | N/A |
+| 42 | [住宅ローン優遇](http://twitter.com/search?q=%e4%bd%8f%e5%ae%85%e3%83%ad%e3%83%bc%e3%83%b3%e5%84%aa%e9%81%87) | N/A |
+| 43 | [二重決済](http://twitter.com/search?q=%e4%ba%8c%e9%87%8d%e6%b1%ba%e6%b8%88) | N/A |
+| 44 | [憲法審査会](http://twitter.com/search?q=%e6%86%b2%e6%b3%95%e5%af%a9%e6%9f%bb%e4%bc%9a) | N/A |
+| 45 | [マリちゃん](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | マリちゃん is a nickname for the Japanese name "Mariko". It is a term of endearment, similar to calling someone "Mariko-chan" in English. |
+| 46 | [リミ武器](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e6%ad%a6%e5%99%a8) | N/A |
+| 47 | [グッスマ](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%b9%e3%83%9e) | N/A |
+| 48 | [スプラアプデ](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%a9%e3%82%a2%e3%83%97%e3%83%87) | N/A |
+| 49 | [給付型奨学金](http://twitter.com/search?q=%e7%b5%a6%e4%bb%98%e5%9e%8b%e5%a5%a8%e5%ad%a6%e9%87%91) | N/A |
+| 50 | [マーティン](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3) | N/A |
 
 
 

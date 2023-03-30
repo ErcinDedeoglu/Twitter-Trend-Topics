@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thane
 
-📆 Last Updated: `2023-03-30 01:44:40 UTC`
+📆 Last Updated: `2023-03-30 02:32:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,25 +15,40 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RamNavmi](http://twitter.com/search?q=%23RamNavmi) | N/A |
-| 2 | [#रामनवमी](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%a8%e0%a4%b5%e0%a4%ae%e0%a5%80) | N/A |
-| 3 | [#JaiShreeRam](http://twitter.com/search?q=%23JaiShreeRam) | N/A |
+| 1 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 2 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 3 | [#RamNavami](http://twitter.com/search?q=%23RamNavami) | N/A |
 | 4 | [#LightOfHope](http://twitter.com/search?q=%23LightOfHope) | N/A |
-| 5 | [#जय_सियाराम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 6 | [कौशल्या हितकारी](http://twitter.com/search?q=%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 7 | [Brahmins](http://twitter.com/search?q=Brahmins) | N/A |
-| 8 | [#राजस्थान_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 9 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
-| 10 | [#RajasthanDiwas](http://twitter.com/search?q=%23RajasthanDiwas) | N/A |
-| 11 | [#శ్రీరామనవమి](http://twitter.com/search?q=%23%e0%b0%b6%e0%b1%8d%e0%b0%b0%e0%b1%80%e0%b0%b0%e0%b0%be%e0%b0%ae%e0%b0%a8%e0%b0%b5%e0%b0%ae%e0%b0%bf) | N/A |
-| 12 | [#AdipurushAagamanam](http://twitter.com/search?q=%23AdipurushAagamanam) | N/A |
-| 13 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 14 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
-| 15 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
-| 16 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
-| 17 | [#PS2Trailer](http://twitter.com/search?q=%23PS2Trailer) | N/A |
-| 18 | [#मैं_भी_सावरकर](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%88%e0%a4%82_%e0%a4%ad%e0%a5%80_%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
-| 19 | [#PonniyinSelvan](http://twitter.com/search?q=%23PonniyinSelvan) | N/A |
+| 5 | [#Adipurush](http://twitter.com/search?q=%23Adipurush) | N/A |
+| 6 | [#Prabhas](http://twitter.com/search?q=%23Prabhas) | N/A |
+| 7 | [#राजस्थान_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 8 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 9 | [Anticipated Life](http://twitter.com/search?q=Anticipated+Life) | N/A |
+| 10 | [अति पावन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a4%e0%a4%bf+%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8) | N/A |
+| 11 | [जोग लगन](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%97+%e0%a4%b2%e0%a4%97%e0%a4%a8) | N/A |
+| 12 | [कौशल्या हितकारी](http://twitter.com/search?q=%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 13 | [सिया राम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 14 | [जीवन साथी](http://twitter.com/search?q=%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8+%e0%a4%b8%e0%a4%be%e0%a4%a5%e0%a5%80) | N/A |
+| 15 | [प्रभु राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 16 | [कृपा राम](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 17 | [Brahmins](http://twitter.com/search?q=Brahmins) | N/A |
+| 18 | [#RajasthanDiwas](http://twitter.com/search?q=%23RajasthanDiwas) | N/A |
+| 19 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
+| 20 | [#Thursdaythoughts](http://twitter.com/search?q=%23Thursdaythoughts) | N/A |
+| 21 | [#శ్రీరామనవమి](http://twitter.com/search?q=%23%e0%b0%b6%e0%b1%8d%e0%b0%b0%e0%b1%80%e0%b0%b0%e0%b0%be%e0%b0%ae%e0%b0%a8%e0%b0%b5%e0%b0%ae%e0%b0%bf) | N/A |
+| 22 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
+| 23 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 24 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 25 | [#KritiSanon](http://twitter.com/search?q=%23KritiSanon) | N/A |
+| 26 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
+| 27 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
+| 28 | [#RamMandir](http://twitter.com/search?q=%23RamMandir) | N/A |
+| 29 | [#Who_Is_AadiRam](http://twitter.com/search?q=%23Who_Is_AadiRam) | N/A |
+| 30 | [#Nani](http://twitter.com/search?q=%23Nani) | N/A |
+| 31 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
+| 32 | [#PS2Trailer](http://twitter.com/search?q=%23PS2Trailer) | N/A |
+| 33 | [#मैं_भी_सावरकर](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%88%e0%a4%82_%e0%a4%ad%e0%a5%80_%e0%a4%b8%e0%a4%be%e0%a4%b5%e0%a4%b0%e0%a4%95%e0%a4%b0) | N/A |
+| 34 | [#PonniyanSelvan2](http://twitter.com/search?q=%23PonniyanSelvan2) | N/A |
 
 
 

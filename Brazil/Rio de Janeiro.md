@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-30 01:44:09 UTC`
+📆 Last Updated: `2023-03-30 02:32:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 2 | [#AbreANorte](http://twitter.com/search?q=%23AbreANorte) | N/A |
-| 3 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 4 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 5 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 6 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 7 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 8 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 9 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
-| 10 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 11 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 12 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 13 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 14 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 15 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
-| 16 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 17 | [Villani](http://twitter.com/search?q=Villani) | N/A |
-| 18 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 20 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
-| 21 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
-| 22 | [#SpaceResenhaComPA](http://twitter.com/search?q=%23SpaceResenhaComPA) | N/A |
-| 23 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 24 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 25 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 26 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
-| 27 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
-| 28 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
-| 29 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
-| 30 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 31 | [Copa Verde](http://twitter.com/search?q=Copa+Verde) | N/A |
-| 32 | [GRIPHAO NO TOP DEZ](http://twitter.com/search?q=GRIPHAO+NO+TOP+DEZ) | N/A |
-| 33 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 34 | [chaz](http://twitter.com/search?q=chaz) | N/A |
-| 35 | [OUÇA DIAMANTE NO SPOTIFY](http://twitter.com/search?q=OU%c3%87A+DIAMANTE+NO+SPOTIFY) | N/A |
-| 36 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
-| 37 | [Kaiki](http://twitter.com/search?q=Kaiki) | N/A |
-| 38 | [Labandeira](http://twitter.com/search?q=Labandeira) | N/A |
-| 39 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 40 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 41 | [Renata Silveira](http://twitter.com/search?q=Renata+Silveira) | N/A |
-| 42 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
-| 43 | [Drica Moraes](http://twitter.com/search?q=Drica+Moraes) | N/A |
-| 44 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
-| 45 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
-| 46 | [Fred Sincero](http://twitter.com/search?q=Fred+Sincero) | N/A |
-| 47 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
-| 48 | [Kajuru](http://twitter.com/search?q=Kajuru) | N/A |
-| 49 | [AMANHA CD RAIZ](http://twitter.com/search?q=AMANHA+CD+RAIZ) | N/A |
-| 50 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 1 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
+| 2 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 3 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 4 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 5 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 6 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 7 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 8 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 9 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 10 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
+| 11 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 12 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 13 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 14 | [SOS NORTE](http://twitter.com/search?q=SOS+NORTE) | N/A |
+| 15 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 16 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
+| 17 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 19 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
+| 20 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 21 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 22 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 23 | [Villani](http://twitter.com/search?q=Villani) | N/A |
+| 24 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
+| 25 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 26 | [#SpaceResenhaComPA](http://twitter.com/search?q=%23SpaceResenhaComPA) | N/A |
+| 27 | [#ClassicoReiNaJanga](http://twitter.com/search?q=%23ClassicoReiNaJanga) | N/A |
+| 28 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 29 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
+| 30 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
+| 31 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 32 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 33 | [AMANHA CD RAIZ](http://twitter.com/search?q=AMANHA+CD+RAIZ) | N/A |
+| 34 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 35 | [Copa Verde](http://twitter.com/search?q=Copa+Verde) | N/A |
+| 36 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 37 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 38 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
+| 39 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
+| 40 | [Titular](http://twitter.com/search?q=Titular) | N/A |
+| 41 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 42 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 43 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
+| 44 | [OUÇA DIAMANTE NO SPOTIFY](http://twitter.com/search?q=OU%c3%87A+DIAMANTE+NO+SPOTIFY) | N/A |
+| 45 | [chaz](http://twitter.com/search?q=chaz) | N/A |
+| 46 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 47 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 48 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
+| 49 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 50 | [Chiquititas](http://twitter.com/search?q=Chiquititas) | Chiquititas is a popular Argentine children's television series that aired from 1995 to 2006. The title translates to "Little Girls" in English. It follows the story of a group of orphans living in a fictional orphanage called "Casa de Chiquititas". The show follows the lives of the orphans as they face various challenges and adventures. |
 
 
 

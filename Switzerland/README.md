@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-30 01:45:02 UTC`
+📆 Last Updated: `2023-03-30 02:33:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,15 +31,15 @@ This is top 50 for Switzerland
 | 14 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
 | 15 | [Orden](http://twitter.com/search?q=Orden) | N/A |
 | 16 | [antti](http://twitter.com/search?q=antti) | N/A |
-| 17 | [rentenalter](http://twitter.com/search?q=rentenalter) | N/A |
+| 17 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
 | 18 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 | 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 20 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 21 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 22 | [Bach](http://twitter.com/search?q=Bach) | N/A |
-| 23 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
-| 24 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
-| 25 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 22 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 23 | [Tessin](http://twitter.com/search?q=Tessin) | N/A |
+| 24 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 25 | [America](http://twitter.com/search?q=America) | N/A |
 | 26 | [Nils](http://twitter.com/search?q=Nils) | N/A |
 | 27 | [arbères](http://twitter.com/search?q=arb%c3%a8res) | N/A |
 | 28 | [itten](http://twitter.com/search?q=itten) | N/A |
@@ -59,8 +59,8 @@ This is top 50 for Switzerland
 | 42 | [Technik](http://twitter.com/search?q=Technik) | N/A |
 | 43 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 | 44 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 45 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 46 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 46 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 47 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
 | 48 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
 | 49 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |

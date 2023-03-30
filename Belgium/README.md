@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-30 01:44:54 UTC`
+📆 Last Updated: `2023-03-30 02:33:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gerbel](http://twitter.com/search?q=%23gerbel) | N/A |
-| 2 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
-| 3 | [#DDV23](http://twitter.com/search?q=%23DDV23) | N/A |
-| 4 | [#duibel](http://twitter.com/search?q=%23duibel) | N/A |
+| 2 | [#DDV23](http://twitter.com/search?q=%23DDV23) | N/A |
+| 3 | [#duibel](http://twitter.com/search?q=%23duibel) | N/A |
+| 4 | [#KCORP](http://twitter.com/search?q=%23KCORP) | #KCORP is an acronym for the Korean Corporate Governance Improvement Program, a government-led initiative to improve corporate governance in South Korea. The program was launched in 2017 and aims to promote transparency, accountability, and fairness in the management of Korean companies. |
 | 5 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
 | 6 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
 | 7 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
@@ -28,14 +28,14 @@ This is top 50 for Belgium
 | 11 | [Mauritanie](http://twitter.com/search?q=Mauritanie) | N/A |
 | 12 | [Faes](http://twitter.com/search?q=Faes) | N/A |
 | 13 | [Tedesco](http://twitter.com/search?q=Tedesco) | N/A |
-| 14 | [Mangala](http://twitter.com/search?q=Mangala) | N/A |
+| 14 | [mangala](http://twitter.com/search?q=mangala) | N/A |
 | 15 | [Doku](http://twitter.com/search?q=Doku) | N/A |
 | 16 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
-| 17 | [Tinne](http://twitter.com/search?q=Tinne) | N/A |
+| 17 | [tinne](http://twitter.com/search?q=tinne) | N/A |
 | 18 | [Theate](http://twitter.com/search?q=Theate) | N/A |
 | 19 | [Bakambu](http://twitter.com/search?q=Bakambu) | N/A |
 | 20 | [zenne](http://twitter.com/search?q=zenne) | N/A |
-| 21 | [Saelemaekers](http://twitter.com/search?q=Saelemaekers) | N/A |
+| 21 | [saelemaekers](http://twitter.com/search?q=saelemaekers) | N/A |
 | 22 | [rekenhof](http://twitter.com/search?q=rekenhof) | N/A |
 | 23 | [roeselare](http://twitter.com/search?q=roeselare) | N/A |
 | 24 | [Pascal Smet](http://twitter.com/search?q=Pascal+Smet) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Belgium
 | 32 | [Engie](http://twitter.com/search?q=Engie) | N/A |
 | 33 | [de duitsers](http://twitter.com/search?q=de+duitsers) | N/A |
 | 34 | [Bracke](http://twitter.com/search?q=Bracke) | N/A |
-| 35 | [Yannick](http://twitter.com/search?q=Yannick) | N/A |
+| 35 | [YANNICK](http://twitter.com/search?q=YANNICK) | N/A |
 | 36 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
 | 37 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
 | 38 | [duivels](http://twitter.com/search?q=duivels) | N/A |

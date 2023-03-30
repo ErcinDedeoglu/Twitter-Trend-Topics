@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-30 01:45:00 UTC`
+📆 Last Updated: `2023-03-30 02:33:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,16 +25,16 @@ This is top 50 for Panama
 | 8 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
 | 9 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
 | 10 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 11 | [Nextv](http://twitter.com/search?q=Nextv) | N/A |
-| 12 | [Aduanas](http://twitter.com/search?q=Aduanas) | N/A |
-| 13 | [#NationsLeague](http://twitter.com/search?q=%23NationsLeague) | N/A |
-| 14 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 15 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 16 | [Vale Digital](http://twitter.com/search?q=Vale+Digital) | N/A |
-| 17 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 18 | [canal 21](http://twitter.com/search?q=canal+21) | N/A |
-| 19 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
-| 20 | [ANATI](http://twitter.com/search?q=ANATI) | N/A |
+| 11 | [Aduanas](http://twitter.com/search?q=Aduanas) | N/A |
+| 12 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 13 | [#nationsleague](http://twitter.com/search?q=%23nationsleague) | N/A |
+| 14 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 15 | [Vale Digital](http://twitter.com/search?q=Vale+Digital) | N/A |
+| 16 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 17 | [canal 21](http://twitter.com/search?q=canal+21) | N/A |
+| 18 | [Nextv](http://twitter.com/search?q=Nextv) | N/A |
+| 19 | [anati](http://twitter.com/search?q=anati) | N/A |
+| 20 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
 | 21 | [Teletica](http://twitter.com/search?q=Teletica) | N/A |
 | 22 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
 | 23 | [Mega Joya](http://twitter.com/search?q=Mega+Joya) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Panama
 | 32 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
 | 33 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
 | 34 | [Rommel](http://twitter.com/search?q=Rommel) | N/A |
-| 35 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 36 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 37 | [En Estados Unidos](http://twitter.com/search?q=En+Estados+Unidos) | N/A |
-| 38 | [JELOU](http://twitter.com/search?q=JELOU) | N/A |
-| 39 | [Mari Carmen Aponte](http://twitter.com/search?q=Mari+Carmen+Aponte) | N/A |
+| 35 | [Mari Carmen Aponte](http://twitter.com/search?q=Mari+Carmen+Aponte) | N/A |
+| 36 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 37 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 38 | [En Estados Unidos](http://twitter.com/search?q=En+Estados+Unidos) | N/A |
+| 39 | [JELOU](http://twitter.com/search?q=JELOU) | N/A |
 | 40 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
 | 41 | [Autoridad](http://twitter.com/search?q=Autoridad) | N/A |
 | 42 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 43 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
 | 44 | [Quintero](http://twitter.com/search?q=Quintero) | Quintero is a Spanish surname derived from the Latin word quintarius, meaning "fifth." It is also a place name in Spain, referring to a small town in the province of Huelva. In English, the name Quintero can be translated to mean "of the fifth." |
-| 45 | [Peke](http://twitter.com/search?q=Peke) | N/A |
-| 46 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 47 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 48 | [#Expocomer](http://twitter.com/search?q=%23Expocomer) | N/A |
-| 49 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 50 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 45 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 46 | [Peke](http://twitter.com/search?q=Peke) | N/A |
+| 47 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 48 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 49 | [#Expocomer](http://twitter.com/search?q=%23Expocomer) | N/A |
+| 50 | [Italia](http://twitter.com/search?q=Italia) | N/A |
 
 
 
