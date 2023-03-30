@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-30 20:17:52 UTC`
+📆 Last Updated: `2023-03-30 21:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Kenya
 | 4 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
 | 5 | [#BLAZESpaces](http://twitter.com/search?q=%23BLAZESpaces) | N/A |
 | 6 | [KDD 233P](http://twitter.com/search?q=KDD+233P) | N/A |
-| 7 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
-| 8 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 9 | [Join the Twitter](http://twitter.com/search?q=Join+the+Twitter) | N/A |
-| 10 | [Blaze Tariff](http://twitter.com/search?q=Blaze+Tariff) | N/A |
-| 11 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
-| 12 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 13 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 14 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 15 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 16 | [Outering Road](http://twitter.com/search?q=Outering+Road) | N/A |
+| 7 | [Join the Twitter](http://twitter.com/search?q=Join+the+Twitter) | N/A |
+| 8 | [Blaze Tariff](http://twitter.com/search?q=Blaze+Tariff) | N/A |
+| 9 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
+| 10 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
+| 11 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 12 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 13 | [Outering Road](http://twitter.com/search?q=Outering+Road) | N/A |
+| 14 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 15 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
+| 16 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
 | 17 | [Naivasha](http://twitter.com/search?q=Naivasha) | N/A |
-| 18 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
-| 19 | [#ChangeYourOilDNA](http://twitter.com/search?q=%23ChangeYourOilDNA) | N/A |
-| 20 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
-| 21 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
-| 22 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
-| 23 | [KDD or KBB](http://twitter.com/search?q=KDD+or+KBB) | N/A |
-| 24 | [Castrol](http://twitter.com/search?q=Castrol) | N/A |
-| 25 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
-| 26 | [Kedong](http://twitter.com/search?q=Kedong) | N/A |
-| 27 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 28 | [beijing raiders](http://twitter.com/search?q=beijing+raiders) | N/A |
-| 29 | [Prado](http://twitter.com/search?q=Prado) | N/A |
-| 30 | [Kayole](http://twitter.com/search?q=Kayole) | N/A |
+| 18 | [#ChangeYourOilDNA](http://twitter.com/search?q=%23ChangeYourOilDNA) | N/A |
+| 19 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
+| 20 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 21 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
+| 22 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 23 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
+| 24 | [Rarieda](http://twitter.com/search?q=Rarieda) | N/A |
+| 25 | [Kedong](http://twitter.com/search?q=Kedong) | N/A |
+| 26 | [KBB 233B](http://twitter.com/search?q=KBB+233B) | N/A |
+| 27 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
+| 28 | [utalii hotel](http://twitter.com/search?q=utalii+hotel) | N/A |
+| 29 | [beijing raiders](http://twitter.com/search?q=beijing+raiders) | N/A |
+| 30 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
 | 31 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 32 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
-| 33 | [utalii hotel](http://twitter.com/search?q=utalii+hotel) | N/A |
+| 32 | [Prado](http://twitter.com/search?q=Prado) | N/A |
+| 33 | [Kayole](http://twitter.com/search?q=Kayole) | N/A |
 | 34 | [Minne](http://twitter.com/search?q=Minne) | N/A |
 | 35 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 36 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
-| 37 | [Pilsner Lager](http://twitter.com/search?q=Pilsner+Lager) | N/A |
-| 38 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
-| 39 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
-| 40 | [Mortuary](http://twitter.com/search?q=Mortuary) | N/A |
-| 41 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
-| 42 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 43 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
-| 44 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 45 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 46 | [Closing](http://twitter.com/search?q=Closing) | N/A |
-| 47 | [Criminals](http://twitter.com/search?q=Criminals) | N/A |
-| 48 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 49 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
-| 50 | [Mukuru](http://twitter.com/search?q=Mukuru) | N/A |
+| 36 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
+| 37 | [Mortuary](http://twitter.com/search?q=Mortuary) | N/A |
+| 38 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 39 | [Pilsner Lager](http://twitter.com/search?q=Pilsner+Lager) | N/A |
+| 40 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
+| 41 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
+| 42 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
+| 43 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
+| 44 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 45 | [Closing](http://twitter.com/search?q=Closing) | N/A |
+| 46 | [Mutai](http://twitter.com/search?q=Mutai) | N/A |
+| 47 | [Castrol](http://twitter.com/search?q=Castrol) | N/A |
+| 48 | [Criminals](http://twitter.com/search?q=Criminals) | N/A |
+| 49 | [Nyong'o](http://twitter.com/search?q=Nyong%27o) | N/A |
+| 50 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
 
 
 

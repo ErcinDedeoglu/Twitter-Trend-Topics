@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-30 20:16:51 UTC`
+📆 Last Updated: `2023-03-30 21:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 2 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 3 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 4 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 5 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
-| 6 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 7 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 8 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 9 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 10 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 11 | [#aimseylook](http://twitter.com/search?q=%23aimseylook) | N/A |
-| 12 | [Bill C-11](http://twitter.com/search?q=Bill+C-11) | N/A |
-| 13 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 14 | [$ADOG Check](http://twitter.com/search?q=%24ADOG+Check) | N/A |
-| 15 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 16 | [Jann](http://twitter.com/search?q=Jann) | N/A |
-| 17 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 18 | [Hutson](http://twitter.com/search?q=Hutson) | N/A |
-| 19 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 20 | [Mass Casualty Commission](http://twitter.com/search?q=Mass+Casualty+Commission) | N/A |
-| 21 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 22 | [Paul Maurice](http://twitter.com/search?q=Paul+Maurice) | N/A |
-| 23 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 24 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 25 | [Torry Tanner](http://twitter.com/search?q=Torry+Tanner) | N/A |
-| 26 | [Indigenous](http://twitter.com/search?q=Indigenous) | N/A |
-| 27 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 28 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 29 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 30 | [Lethbridge West](http://twitter.com/search?q=Lethbridge+West) | N/A |
-| 31 | [Hobey Baker](http://twitter.com/search?q=Hobey+Baker) | N/A |
-| 32 | [Nanos](http://twitter.com/search?q=Nanos) | N/A |
-| 33 | [Nick Bontis](http://twitter.com/search?q=Nick+Bontis) | N/A |
-| 34 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 35 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 36 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 37 | [Notley](http://twitter.com/search?q=Notley) | N/A |
-| 38 | [Marty Walsh](http://twitter.com/search?q=Marty+Walsh) | N/A |
-| 39 | [Cooley](http://twitter.com/search?q=Cooley) | N/A |
-| 40 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 41 | [Vatican](http://twitter.com/search?q=Vatican) | N/A |
-| 42 | [Madu](http://twitter.com/search?q=Madu) | N/A |
-| 43 | [Albertans](http://twitter.com/search?q=Albertans) | N/A |
-| 44 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 45 | [Anthony Volpe](http://twitter.com/search?q=Anthony+Volpe) | N/A |
-| 46 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
-| 47 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 48 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 49 | [Discovery Doctrine](http://twitter.com/search?q=Discovery+Doctrine) | N/A |
-| 50 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 1 | [#abpoli](http://twitter.com/search?q=%23abpoli) | N/A |
+| 2 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
+| 3 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 4 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 5 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 6 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
+| 7 | [Bichette](http://twitter.com/search?q=Bichette) | N/A |
+| 8 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 9 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 10 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 11 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 12 | [#Cardinals](http://twitter.com/search?q=%23Cardinals) | N/A |
+| 13 | [Bill C-11](http://twitter.com/search?q=Bill+C-11) | N/A |
+| 14 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
+| 15 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 16 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 17 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 18 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
+| 19 | [Hutson](http://twitter.com/search?q=Hutson) | N/A |
+| 20 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 21 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 22 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 23 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
+| 24 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 25 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
+| 26 | [Mass Casualty Commission](http://twitter.com/search?q=Mass+Casualty+Commission) | N/A |
+| 27 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 28 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 29 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 30 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 31 | [Vatican](http://twitter.com/search?q=Vatican) | N/A |
+| 32 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 33 | [#aimseylook](http://twitter.com/search?q=%23aimseylook) | N/A |
+| 34 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 35 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
+| 36 | [#healthcare4all](http://twitter.com/search?q=%23healthcare4all) | N/A |
+| 37 | [#SAGES2023](http://twitter.com/search?q=%23SAGES2023) | N/A |
 
 
 

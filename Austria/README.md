@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-03-30 20:17:48 UTC`
+📆 Last Updated: `2023-03-30 21:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 2 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 3 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 4 | [#OeNR](http://twitter.com/search?q=%23OeNR) | N/A |
-| 5 | [#Selenskyj](http://twitter.com/search?q=%23Selenskyj) | N/A |
-| 6 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
-| 7 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
-| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [Saal](http://twitter.com/search?q=Saal) | N/A |
-| 10 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 11 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 12 | [Eva Dichand](http://twitter.com/search?q=Eva+Dichand) | N/A |
+| 1 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 3 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 4 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 5 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 6 | [#OeNR](http://twitter.com/search?q=%23OeNR) | N/A |
+| 7 | [#Selenskyj](http://twitter.com/search?q=%23Selenskyj) | N/A |
+| 8 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
+| 9 | [#basisbrennt](http://twitter.com/search?q=%23basisbrennt) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 12 | [Saal](http://twitter.com/search?q=Saal) | N/A |
 | 13 | [Mitbestimmung](http://twitter.com/search?q=Mitbestimmung) | N/A |
-| 14 | [Schande](http://twitter.com/search?q=Schande) | N/A |
-| 15 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 16 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 14 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 15 | [Schande](http://twitter.com/search?q=Schande) | N/A |
+| 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 17 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 18 | [Passanten](http://twitter.com/search?q=Passanten) | N/A |
-| 19 | [#WKStA](http://twitter.com/search?q=%23WKStA) | N/A |
-| 20 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
+| 18 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 19 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
+| 20 | [Sitzung](http://twitter.com/search?q=Sitzung) | N/A |
 | 21 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
 | 22 | [Sprecherin](http://twitter.com/search?q=Sprecherin) | N/A |
-| 23 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 24 | [Hausdurchsuchung](http://twitter.com/search?q=Hausdurchsuchung) | N/A |
-| 25 | [Termine](http://twitter.com/search?q=Termine) | N/A |
-| 26 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 27 | [Umbau](http://twitter.com/search?q=Umbau) | N/A |
-| 28 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
-| 29 | [Eklat](http://twitter.com/search?q=Eklat) | N/A |
-| 30 | [Gründe](http://twitter.com/search?q=Gr%c3%bcnde) | N/A |
-| 31 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 32 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 33 | [Platz für Frieden](http://twitter.com/search?q=Platz+f%c3%bcr+Frieden) | N/A |
-| 34 | [Fernbleiben](http://twitter.com/search?q=Fernbleiben) | N/A |
-| 35 | [herr mahrer](http://twitter.com/search?q=herr+mahrer) | N/A |
-| 36 | [Fraktion](http://twitter.com/search?q=Fraktion) | N/A |
-| 37 | [julia herr](http://twitter.com/search?q=julia+herr) | N/A |
-| 38 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
-| 39 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
-| 40 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 41 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
-| 42 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 43 | [Märkte](http://twitter.com/search?q=M%c3%a4rkte) | N/A |
-| 44 | [Zackzack](http://twitter.com/search?q=Zackzack) | N/A |
-| 45 | [Bande](http://twitter.com/search?q=Bande) | N/A |
-| 46 | [Kriegspartei](http://twitter.com/search?q=Kriegspartei) | N/A |
-| 47 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 48 | [Unbedingt](http://twitter.com/search?q=Unbedingt) | N/A |
-| 49 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
-| 50 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
+| 23 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
+| 24 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 25 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 26 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
+| 27 | [Eklat](http://twitter.com/search?q=Eklat) | N/A |
+| 28 | [Passanten](http://twitter.com/search?q=Passanten) | N/A |
+| 29 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 30 | [Umbau](http://twitter.com/search?q=Umbau) | N/A |
+| 31 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 32 | [Gründe](http://twitter.com/search?q=Gr%c3%bcnde) | N/A |
+| 33 | [Stimme](http://twitter.com/search?q=Stimme) | N/A |
+| 34 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 35 | [Hausdurchsuchung](http://twitter.com/search?q=Hausdurchsuchung) | N/A |
+| 36 | [Termine](http://twitter.com/search?q=Termine) | N/A |
+| 37 | [Ausrede](http://twitter.com/search?q=Ausrede) | N/A |
+| 38 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
+| 39 | [Fernbleiben](http://twitter.com/search?q=Fernbleiben) | N/A |
+| 40 | [SPÖler](http://twitter.com/search?q=SP%c3%96ler) | N/A |
+| 41 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 42 | [Bande](http://twitter.com/search?q=Bande) | N/A |
+| 43 | [Gegenwart](http://twitter.com/search?q=Gegenwart) | N/A |
+| 44 | [Unbedingt](http://twitter.com/search?q=Unbedingt) | N/A |
+| 45 | [ZackZack](http://twitter.com/search?q=ZackZack) | N/A |
+| 46 | [Plakolm](http://twitter.com/search?q=Plakolm) | N/A |
+| 47 | [Kreml](http://twitter.com/search?q=Kreml) | N/A |
+| 48 | [Inserate](http://twitter.com/search?q=Inserate) | N/A |
+| 49 | [Märkte](http://twitter.com/search?q=M%c3%a4rkte) | N/A |
+| 50 | [Kriegspartei](http://twitter.com/search?q=Kriegspartei) | N/A |
 
 
 

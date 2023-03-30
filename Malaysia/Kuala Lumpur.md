@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-30 20:17:22 UTC`
+📆 Last Updated: `2023-03-30 21:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TDS2INKL](http://twitter.com/search?q=%23TDS2INKL) | N/A |
+| 1 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
 | 2 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
 | 3 | [#BvlgariXZeeNuNew](http://twitter.com/search?q=%23BvlgariXZeeNuNew) | N/A |
 | 4 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 | 5 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
-| 6 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 7 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 6 | [#BodyGlovexGeminiFourth](http://twitter.com/search?q=%23BodyGlovexGeminiFourth) | N/A |
+| 7 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 8 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
-| 9 | [Yes 5G](http://twitter.com/search?q=Yes+5G) | N/A |
-| 10 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 11 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 12 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 13 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 14 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 15 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 16 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 17 | [UiTM](http://twitter.com/search?q=UiTM) | N/A |
-| 18 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 19 | [GOWON](http://twitter.com/search?q=GOWON) | N/A |
-| 20 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 21 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 23 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
-| 24 | [PETA](http://twitter.com/search?q=PETA) | N/A |
-| 25 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 9 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 10 | [Yes 5G](http://twitter.com/search?q=Yes+5G) | N/A |
+| 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 12 | [happy birthday sunshine mino](http://twitter.com/search?q=happy+birthday+sunshine+mino) | N/A |
+| 13 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 14 | [UITM](http://twitter.com/search?q=UITM) | N/A |
+| 15 | [NCT DREAM TOUR](http://twitter.com/search?q=NCT+DREAM+TOUR) | N/A |
+| 16 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 17 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 18 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 19 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 20 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
+| 21 | [GOWON](http://twitter.com/search?q=GOWON) | N/A |
+| 22 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 23 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 25 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
 | 26 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 27 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 28 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
-| 29 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 27 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 28 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 30 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
 | 31 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
-| 32 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 33 | [ticketing service](http://twitter.com/search?q=ticketing+service) | N/A |
-| 34 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 35 | [happy birthday sunshine mino](http://twitter.com/search?q=happy+birthday+sunshine+mino) | N/A |
-| 36 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
-| 37 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 38 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 39 | [sspn](http://twitter.com/search?q=sspn) | N/A |
-| 40 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
-| 41 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
-| 42 | [act 1 scene 1 album](http://twitter.com/search?q=act+1+scene+1+album) | N/A |
-| 43 | [ggbb mv out now](http://twitter.com/search?q=ggbb+mv+out+now) | N/A |
-| 44 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
-| 45 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
-| 46 | [Moonsun](http://twitter.com/search?q=Moonsun) | N/A |
-| 47 | [Sephora](http://twitter.com/search?q=Sephora) | N/A |
-| 48 | [Dungeons & Dragons](http://twitter.com/search?q=Dungeons+%26+Dragons) | N/A |
-| 49 | [minjae](http://twitter.com/search?q=minjae) | N/A |
-| 50 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 32 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 33 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 34 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
+| 35 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 36 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 37 | [sspn](http://twitter.com/search?q=sspn) | N/A |
+| 38 | [Wheein](http://twitter.com/search?q=Wheein) | N/A |
+| 39 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 40 | [dewan rakyat](http://twitter.com/search?q=dewan+rakyat) | N/A |
+| 41 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
+| 42 | [Dungeons & Dragons](http://twitter.com/search?q=Dungeons+%26+Dragons) | N/A |
+| 43 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 44 | [moonsun](http://twitter.com/search?q=moonsun) | N/A |
+| 45 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 46 | [Sephora](http://twitter.com/search?q=Sephora) | N/A |
+| 47 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 48 | [act 1 scene 1 album](http://twitter.com/search?q=act+1+scene+1+album) | N/A |
+| 49 | [ggbb mv out now](http://twitter.com/search?q=ggbb+mv+out+now) | N/A |
+| 50 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
 
 
 

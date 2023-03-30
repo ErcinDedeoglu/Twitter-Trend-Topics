@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-30 20:17:51 UTC`
+📆 Last Updated: `2023-03-30 21:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 2 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
-| 3 | [#UnPassoDalCielo7](http://twitter.com/search?q=%23UnPassoDalCielo7) | N/A |
-| 4 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
-| 5 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
-| 6 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 7 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 8 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
-| 9 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 10 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 11 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 1 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 2 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 3 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 4 | [#UnPassoDalCielo7](http://twitter.com/search?q=%23UnPassoDalCielo7) | N/A |
+| 5 | [#DrittoeRovescio](http://twitter.com/search?q=%23DrittoeRovescio) | N/A |
+| 6 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 7 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 8 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 9 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
+| 10 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 11 | [Giorgio Marchesi](http://twitter.com/search?q=Giorgio+Marchesi) | N/A |
 | 12 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 13 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
-| 14 | [Totò Schillaci](http://twitter.com/search?q=Tot%c3%b2+Schillaci) | N/A |
-| 15 | [Huber](http://twitter.com/search?q=Huber) | N/A |
-| 16 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 17 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 18 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 19 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 20 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 21 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 22 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 23 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 24 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 25 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 26 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 27 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 28 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
-| 29 | [MA STIAMO SCHERZANDO](http://twitter.com/search?q=MA+STIAMO+SCHERZANDO) | N/A |
-| 30 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 31 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
-| 32 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 33 | [Ferri](http://twitter.com/search?q=Ferri) | N/A |
-| 34 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
-| 35 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 36 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 37 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 38 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
-| 39 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 40 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 41 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 42 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 43 | [Elios](http://twitter.com/search?q=Elios) | N/A |
+| 13 | [Joe Bastianich](http://twitter.com/search?q=Joe+Bastianich) | N/A |
+| 14 | [Nappi](http://twitter.com/search?q=Nappi) | N/A |
+| 15 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 16 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 17 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 18 | [Achille](http://twitter.com/search?q=Achille) | N/A |
+| 19 | [Huber](http://twitter.com/search?q=Huber) | N/A |
+| 20 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
+| 21 | [Montezemolo](http://twitter.com/search?q=Montezemolo) | N/A |
+| 22 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 23 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 24 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 25 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 26 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 27 | [Colombari](http://twitter.com/search?q=Colombari) | N/A |
+| 28 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 29 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 30 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
+| 31 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 32 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 33 | [Totò Schillaci](http://twitter.com/search?q=Tot%c3%b2+Schillaci) | N/A |
+| 34 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 35 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 36 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 37 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 38 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 39 | [Enzo Miccio](http://twitter.com/search?q=Enzo+Miccio) | N/A |
+| 40 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 41 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 42 | [Giusy Buscemi](http://twitter.com/search?q=Giusy+Buscemi) | N/A |
+| 43 | [Ferri](http://twitter.com/search?q=Ferri) | N/A |
 | 44 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 45 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
-| 46 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 47 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 48 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 45 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 46 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 47 | [Elios](http://twitter.com/search?q=Elios) | N/A |
+| 48 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
 | 49 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 50 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 50 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
 
 
 

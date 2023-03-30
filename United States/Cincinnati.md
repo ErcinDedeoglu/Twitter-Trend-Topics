@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-03-30 20:17:39 UTC`
+📆 Last Updated: `2023-03-30 21:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cincinnati](http://twitter.com/search?q=Cincinnati) | Cincinnati is a city in the U.S. state of Ohio, located on the Ohio River. It is the third-largest city in Ohio and the 65th-largest city in the United States. The name Cincinnati is derived from a Latinized version of a Native American word meaning "the town of the great chief." |
-| 2 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
-| 3 | [#ATOBTTR](http://twitter.com/search?q=%23ATOBTTR) | N/A |
+| 1 | [#ATOBTTR](http://twitter.com/search?q=%23ATOBTTR) | N/A |
+| 2 | [Cincinnati](http://twitter.com/search?q=Cincinnati) | Cincinnati is a city in the U.S. state of Ohio, located on the Ohio River. It is the third-largest city in Ohio and the 65th-largest city in the United States. The name Cincinnati is derived from a Latinized version of a Native American word meaning "the town of the great chief." |
+| 3 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
 | 4 | [Guardians](http://twitter.com/search?q=Guardians) | N/A |
-| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 6 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 7 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 8 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 9 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 11 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 12 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 13 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 14 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 15 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 16 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 17 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 18 | [#AskBully](http://twitter.com/search?q=%23AskBully) | N/A |
-| 19 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 20 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 21 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 22 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 23 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 24 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 25 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 26 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 27 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 28 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 29 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
-| 30 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 31 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 32 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
-| 33 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 34 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 5 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 6 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 7 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 8 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 9 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 10 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 11 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 12 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 13 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 14 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 15 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 16 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 17 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 18 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 19 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 20 | [Adley](http://twitter.com/search?q=Adley) | N/A |
+| 21 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
+| 22 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 23 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 24 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 25 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 26 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 27 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 28 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 29 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 30 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 31 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 32 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 33 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 34 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
 | 35 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
-| 36 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 37 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 38 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 39 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 40 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 41 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
-| 42 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 43 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 44 | [Tennessee State Capitol](http://twitter.com/search?q=Tennessee+State+Capitol) | N/A |
-| 45 | [Jose Siri](http://twitter.com/search?q=Jose+Siri) | N/A |
-| 46 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 47 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 48 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 49 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
-| 50 | [Chaya](http://twitter.com/search?q=Chaya) | N/A |
+| 36 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
+| 37 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 38 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 40 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
+| 41 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 42 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
+| 43 | [Mikolas](http://twitter.com/search?q=Mikolas) | N/A |
+| 44 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 45 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 46 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
+| 47 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 48 | [Chaya](http://twitter.com/search?q=Chaya) | N/A |
+| 49 | [Webb](http://twitter.com/search?q=Webb) | N/A |
+| 50 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
 
 
 

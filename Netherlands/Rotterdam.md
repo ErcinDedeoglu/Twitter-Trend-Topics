@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-30 20:17:11 UTC`
+📆 Last Updated: `2023-03-30 21:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
 | 2 | [#hetroerom](http://twitter.com/search?q=%23hetroerom) | N/A |
-| 3 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
-| 4 | [#betterthanever](http://twitter.com/search?q=%23betterthanever) | N/A |
-| 5 | [Apache](http://twitter.com/search?q=Apache) | N/A |
-| 6 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
-| 7 | [#floortjegaatmee](http://twitter.com/search?q=%23floortjegaatmee) | N/A |
-| 8 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
-| 9 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 10 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
-| 11 | [#zembla](http://twitter.com/search?q=%23zembla) | N/A |
-| 12 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 13 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 14 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 3 | [#betterthanever](http://twitter.com/search?q=%23betterthanever) | N/A |
+| 4 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
+| 5 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
+| 6 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
+| 7 | [Apache](http://twitter.com/search?q=Apache) | N/A |
+| 8 | [#floortjegaatmee](http://twitter.com/search?q=%23floortjegaatmee) | N/A |
+| 9 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
+| 10 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
+| 11 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 12 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 13 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
+| 14 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
 | 15 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 16 | [Samson](http://twitter.com/search?q=Samson) | N/A |
-| 17 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 18 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
-| 19 | [Guus Meeuwis](http://twitter.com/search?q=Guus+Meeuwis) | N/A |
-| 20 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
+| 16 | [Samsom](http://twitter.com/search?q=Samsom) | N/A |
+| 17 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 18 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 19 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
+| 20 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
 | 21 | [Nijlpaard](http://twitter.com/search?q=Nijlpaard) | N/A |
-| 22 | [Treets](http://twitter.com/search?q=Treets) | N/A |
-| 23 | [0% BTW](http://twitter.com/search?q=0%25+BTW) | N/A |
-| 24 | [Aïcha Marghadi](http://twitter.com/search?q=A%c3%afcha+Marghadi) | N/A |
-| 25 | [Duits](http://twitter.com/search?q=Duits) | N/A |
-| 26 | [Litouwen](http://twitter.com/search?q=Litouwen) | N/A |
-| 27 | [Ondankbaar](http://twitter.com/search?q=Ondankbaar) | N/A |
-| 28 | [Nederlandse](http://twitter.com/search?q=Nederlandse) | N/A |
-| 29 | [Schijt](http://twitter.com/search?q=Schijt) | N/A |
-| 30 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
-| 31 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 32 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
+| 22 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
+| 23 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
+| 24 | [Treets](http://twitter.com/search?q=Treets) | N/A |
+| 25 | [Guus Meeuwis](http://twitter.com/search?q=Guus+Meeuwis) | N/A |
+| 26 | [Duits](http://twitter.com/search?q=Duits) | N/A |
+| 27 | [Aïcha Marghadi](http://twitter.com/search?q=A%c3%afcha+Marghadi) | N/A |
+| 28 | [Grolsch](http://twitter.com/search?q=Grolsch) | N/A |
+| 29 | [Ondankbaar](http://twitter.com/search?q=Ondankbaar) | N/A |
+| 30 | [0% BTW](http://twitter.com/search?q=0%25+BTW) | N/A |
+| 31 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 32 | [Thierry](http://twitter.com/search?q=Thierry) | N/A |
 | 33 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
-| 34 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 35 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
-| 36 | [Egbers](http://twitter.com/search?q=Egbers) | N/A |
-| 37 | [Havo](http://twitter.com/search?q=Havo) | N/A |
-| 38 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
+| 34 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
+| 35 | [Havo](http://twitter.com/search?q=Havo) | N/A |
+| 36 | [Nederlandse](http://twitter.com/search?q=Nederlandse) | N/A |
+| 37 | [Litouwen](http://twitter.com/search?q=Litouwen) | N/A |
+| 38 | [Egbers](http://twitter.com/search?q=Egbers) | N/A |
 | 39 | [Maarten van Ooijen](http://twitter.com/search?q=Maarten+van+Ooijen) | N/A |
-| 40 | [Van Gelder](http://twitter.com/search?q=Van+Gelder) | N/A |
-| 41 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 42 | [Hiemstra](http://twitter.com/search?q=Hiemstra) | N/A |
-| 43 | [Appingedam](http://twitter.com/search?q=Appingedam) | N/A |
-| 44 | [De Belastingdienst](http://twitter.com/search?q=De+Belastingdienst) | N/A |
-| 45 | [Joris](http://twitter.com/search?q=Joris) | N/A |
-| 46 | [oost-nederland](http://twitter.com/search?q=oost-nederland) | N/A |
-| 47 | [Jantje](http://twitter.com/search?q=Jantje) | N/A |
-| 48 | [Nieuws](http://twitter.com/search?q=Nieuws) | N/A |
-| 49 | [donderdag](http://twitter.com/search?q=donderdag) | N/A |
-| 50 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
+| 40 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
+| 41 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 42 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
+| 43 | [Schijt](http://twitter.com/search?q=Schijt) | N/A |
+| 44 | [Van Gelder](http://twitter.com/search?q=Van+Gelder) | N/A |
+| 45 | [Hiemstra](http://twitter.com/search?q=Hiemstra) | N/A |
+| 46 | [Appingedam](http://twitter.com/search?q=Appingedam) | N/A |
+| 47 | [Toeval](http://twitter.com/search?q=Toeval) | N/A |
+| 48 | [Mogadishu](http://twitter.com/search?q=Mogadishu) | N/A |
+| 49 | [De Belastingdienst](http://twitter.com/search?q=De+Belastingdienst) | N/A |
+| 50 | [Kabinet](http://twitter.com/search?q=Kabinet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-30 20:17:08 UTC`
+📆 Last Updated: `2023-03-30 21:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 2 | [#Campino](http://twitter.com/search?q=%23Campino) | N/A |
-| 3 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 4 | [#KingCharlesIII](http://twitter.com/search?q=%23KingCharlesIII) | N/A |
-| 5 | [Marilyn Monroe](http://twitter.com/search?q=Marilyn+Monroe) | N/A |
+| 2 | [#Illner](http://twitter.com/search?q=%23Illner) | N/A |
+| 3 | [#Campino](http://twitter.com/search?q=%23Campino) | N/A |
+| 4 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 5 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
 | 6 | [Elevator Boys](http://twitter.com/search?q=Elevator+Boys) | N/A |
-| 7 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 7 | [Anya](http://twitter.com/search?q=Anya) | N/A |
 | 8 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 9 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 10 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 11 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 12 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 13 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 14 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 15 | [Coco](http://twitter.com/search?q=Coco) | N/A |
-| 16 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 17 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
-| 18 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 19 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 20 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 21 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
+| 9 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 10 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 11 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 12 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 13 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 14 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 15 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 16 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 17 | [Marilyn Monroe](http://twitter.com/search?q=Marilyn+Monroe) | N/A |
+| 18 | [Random Gedanke](http://twitter.com/search?q=Random+Gedanke) | N/A |
+| 19 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
+| 20 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 21 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
 | 22 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 23 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 24 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 25 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 26 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 27 | [Random Gedanke](http://twitter.com/search?q=Random+Gedanke) | N/A |
-| 28 | [Closeness Rating](http://twitter.com/search?q=Closeness+Rating) | N/A |
-| 29 | [WADA](http://twitter.com/search?q=WADA) | N/A |
-| 30 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 31 | [Models](http://twitter.com/search?q=Models) | N/A |
-| 32 | [Terodde](http://twitter.com/search?q=Terodde) | N/A |
-| 33 | [Toten Hosen](http://twitter.com/search?q=Toten+Hosen) | N/A |
-| 34 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 23 | [Closeness Rating](http://twitter.com/search?q=Closeness+Rating) | N/A |
+| 24 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 25 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
+| 26 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 27 | [WADA](http://twitter.com/search?q=WADA) | N/A |
+| 28 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 29 | [Coco](http://twitter.com/search?q=Coco) | N/A |
+| 30 | [Schlichtung](http://twitter.com/search?q=Schlichtung) | N/A |
+| 31 | [Toten Hosen](http://twitter.com/search?q=Toten+Hosen) | N/A |
+| 32 | [Legende](http://twitter.com/search?q=Legende) | N/A |
+| 33 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
+| 34 | [Aust](http://twitter.com/search?q=Aust) | N/A |
 | 35 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 36 | [Legende](http://twitter.com/search?q=Legende) | N/A |
+| 36 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
 | 37 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 38 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 39 | [Schlichtung](http://twitter.com/search?q=Schlichtung) | N/A |
-| 40 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
+| 38 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
+| 39 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
+| 40 | [tradition als rb leipzig](http://twitter.com/search?q=tradition+als+rb+leipzig) | N/A |
 | 41 | [Staatsbankett](http://twitter.com/search?q=Staatsbankett) | N/A |
 | 42 | [Briten](http://twitter.com/search?q=Briten) | N/A |
-| 43 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
-| 44 | [Laufzeit](http://twitter.com/search?q=Laufzeit) | N/A |
-| 45 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 46 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
-| 47 | [Lurchi](http://twitter.com/search?q=Lurchi) | N/A |
-| 48 | [C-Probe](http://twitter.com/search?q=C-Probe) | N/A |
+| 43 | [Laufzeit](http://twitter.com/search?q=Laufzeit) | N/A |
+| 44 | [c-probe](http://twitter.com/search?q=c-probe) | N/A |
+| 45 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
+| 46 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 47 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 48 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
 
 
 

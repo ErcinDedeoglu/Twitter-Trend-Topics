@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-03-30 20:17:54 UTC`
+📆 Last Updated: `2023-03-30 21:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Pakistan
 | 11 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
 | 12 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
 | 13 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
-| 14 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 15 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 16 | [DSP Iqbal Mohmand](http://twitter.com/search?q=DSP+Iqbal+Mohmand) | N/A |
-| 17 | [morne morkel](http://twitter.com/search?q=morne+morkel) | N/A |
-| 18 | [Drone](http://twitter.com/search?q=Drone) | N/A |
-| 19 | [bill 2023](http://twitter.com/search?q=bill+2023) | N/A |
-| 20 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
-| 21 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
-| 22 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 23 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
-| 24 | [My Leader](http://twitter.com/search?q=My+Leader) | N/A |
-| 25 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 26 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 27 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
-| 28 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 29 | [Choti](http://twitter.com/search?q=Choti) | N/A |
-| 30 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 31 | [justice aminuddin khan](http://twitter.com/search?q=justice+aminuddin+khan) | N/A |
-| 32 | [Justice Munir](http://twitter.com/search?q=Justice+Munir) | N/A |
-| 33 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
-| 34 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
-| 35 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 36 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
-| 37 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 38 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
-| 39 | [Article 184](http://twitter.com/search?q=Article+184) | N/A |
-| 40 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 41 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 42 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 43 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 44 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
-| 45 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 46 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 47 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
-| 48 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 49 | [Ufff](http://twitter.com/search?q=Ufff) | N/A |
-| 50 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
+| 14 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 15 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 16 | [bill 2023](http://twitter.com/search?q=bill+2023) | N/A |
+| 17 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 18 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 19 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
+| 20 | [DSP Iqbal Mohmand](http://twitter.com/search?q=DSP+Iqbal+Mohmand) | N/A |
+| 21 | [morne morkel](http://twitter.com/search?q=morne+morkel) | N/A |
+| 22 | [Choti](http://twitter.com/search?q=Choti) | N/A |
+| 23 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
+| 24 | [justice aminuddin khan](http://twitter.com/search?q=justice+aminuddin+khan) | N/A |
+| 25 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
+| 26 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 27 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
+| 28 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 29 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
+| 30 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
+| 31 | [pakistan penal code](http://twitter.com/search?q=pakistan+penal+code) | N/A |
+| 32 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
+| 33 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 34 | [Sarfaraz Ahmed](http://twitter.com/search?q=Sarfaraz+Ahmed) | N/A |
+| 35 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 36 | [Article 19](http://twitter.com/search?q=Article+19) | N/A |
+| 37 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 38 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 39 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 40 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
+| 41 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 42 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
+| 43 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 44 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 45 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 46 | [Noice](http://twitter.com/search?q=Noice) | N/A |
+| 47 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 48 | [Yessir](http://twitter.com/search?q=Yessir) | N/A |
+| 49 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 50 | [Stay Strong](http://twitter.com/search?q=Stay+Strong) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-30 20:17:38 UTC`
+📆 Last Updated: `2023-03-30 21:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 2 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 3 | [Ozzie](http://twitter.com/search?q=Ozzie) | N/A |
+| 1 | [#ChopOn](http://twitter.com/search?q=%23ChopOn) | N/A |
+| 2 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 3 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
 | 4 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 5 | [Olson](http://twitter.com/search?q=Olson) | N/A |
-| 6 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 7 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 8 | [#ChopOn](http://twitter.com/search?q=%23ChopOn) | N/A |
-| 9 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
-| 10 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 5 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 6 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
+| 7 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 8 | [Spring Break](http://twitter.com/search?q=Spring+Break) | N/A |
+| 9 | [Ridder](http://twitter.com/search?q=Ridder) | Ridder is a Dutch word meaning "knight" or "rider". It is used to refer to a person who has been knighted or who has been given a title of nobility. |
+| 10 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
 | 11 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 12 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 13 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 14 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 15 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 16 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 17 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 18 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 19 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 20 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 21 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 22 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 23 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 24 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 25 | [#AskBully](http://twitter.com/search?q=%23AskBully) | N/A |
-| 26 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
-| 27 | [Adley](http://twitter.com/search?q=Adley) | N/A |
-| 28 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 29 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 30 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 31 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 32 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 33 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 34 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 35 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 36 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 37 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
-| 38 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 39 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 40 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
-| 41 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 42 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 43 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 44 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
-| 45 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 46 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 47 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 48 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 49 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 50 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
+| 12 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 13 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 14 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 15 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 16 | [#FlyTheW](http://twitter.com/search?q=%23FlyTheW) | N/A |
+| 17 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 18 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 19 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 20 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 21 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 22 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 23 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 24 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 25 | [Adley](http://twitter.com/search?q=Adley) | N/A |
+| 26 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 27 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
+| 28 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 29 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 30 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 31 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 32 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 33 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 34 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 35 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 36 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 37 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 38 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 39 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
+| 40 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 41 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 42 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
+| 43 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 44 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 45 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 46 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
+| 47 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 48 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
+| 49 | [Mikolas](http://twitter.com/search?q=Mikolas) | N/A |
+| 50 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
 
 
 

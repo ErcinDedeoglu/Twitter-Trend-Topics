@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sagamihara
 
-📆 Last Updated: `2023-03-30 20:17:18 UTC`
+📆 Last Updated: `2023-03-30 21:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [オフレコ](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%83%ac%e3%82%b3) | オフレコ (ofureko) is a Japanese term that means "off the record". It is used to describe conversations or information that is not meant to be shared publicly. |
-| 2 | [#月末はファンタの日](http://twitter.com/search?q=%23%e6%9c%88%e6%9c%ab%e3%81%af%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%81%ae%e6%97%a5) | N/A |
+| 1 | [#月末はファンタの日](http://twitter.com/search?q=%23%e6%9c%88%e6%9c%ab%e3%81%af%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%81%ae%e6%97%a5) | N/A |
+| 2 | [#サーティワン総選挙](http://twitter.com/search?q=%23%e3%82%b5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%af%e3%83%b3%e7%b7%8f%e9%81%b8%e6%8c%99) | N/A |
 | 3 | [スクフェス](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%95%e3%82%a7%e3%82%b9) | スクフェス (SukuFesu) is short for "School Idol Festival", a rhythm game developed by KLabGames and published by Bushiroad. It is based on the Love Live! franchise and features characters from the series. Players must tap notes in time with the music to score points and complete levels. The game also includes a card collecting element, where players can collect cards featuring characters from the series. The English translation of スクフェス is School Idol Festival. |
-| 4 | [#サーティワン総選挙](http://twitter.com/search?q=%23%e3%82%b5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%af%e3%83%b3%e7%b7%8f%e9%81%b8%e6%8c%99) | N/A |
-| 5 | [#マヂラブANN0](http://twitter.com/search?q=%23%e3%83%9e%e3%83%82%e3%83%a9%e3%83%96ANN0) | N/A |
-| 6 | [フレーバー総選挙](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%bc%e3%83%90%e3%83%bc%e7%b7%8f%e9%81%b8%e6%8c%99) | N/A |
-| 7 | [#KingGnu世界同時開演](http://twitter.com/search?q=%23KingGnu%e4%b8%96%e7%95%8c%e5%90%8c%e6%99%82%e9%96%8b%e6%bc%94) | N/A |
-| 8 | [バインド](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
-| 9 | [ミルモでポン](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a2%e3%81%a7%e3%83%9d%e3%83%b3) | N/A |
-| 10 | [JALのセール](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 11 | [第434回](http://twitter.com/search?q=%e7%ac%ac434%e5%9b%9e) | N/A |
-| 12 | [ギュビン](http://twitter.com/search?q=%e3%82%ae%e3%83%a5%e3%83%93%e3%83%b3) | N/A |
-| 13 | [マーク黒髪](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%af%e9%bb%92%e9%ab%aa) | N/A |
-| 14 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 15 | [題の答え](http://twitter.com/search?q=%e9%a1%8c%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
-| 16 | [ラッチマン](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%81%e3%83%9e%e3%83%b3) | N/A |
-| 17 | [応募者全員サービス](http://twitter.com/search?q=%e5%bf%9c%e5%8b%9f%e8%80%85%e5%85%a8%e5%93%a1%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9) | N/A |
-| 18 | [イルデ2周年](http://twitter.com/search?q=%e3%82%a4%e3%83%ab%e3%83%872%e5%91%a8%e5%b9%b4) | N/A |
-| 19 | [セカンドゴロ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e3%82%b4%e3%83%ad) | N/A |
-| 20 | [月曜カムバ](http://twitter.com/search?q=%e6%9c%88%e6%9b%9c%e3%82%ab%e3%83%a0%e3%83%90) | N/A |
-| 21 | [スタファイライブ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%95%e3%82%a1%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 22 | [バトナマ](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%83%8a%e3%83%9e) | N/A |
-| 23 | [阿澄さん](http://twitter.com/search?q=%e9%98%bf%e6%be%84%e3%81%95%e3%82%93) | N/A |
-| 24 | [Wordle 650](http://twitter.com/search?q=Wordle+650) | N/A |
-| 25 | [鈴科百合子](http://twitter.com/search?q=%e9%88%b4%e7%a7%91%e7%99%be%e5%90%88%e5%ad%90) | N/A |
-| 26 | [ハエの形態模写](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%bd%a2%e6%85%8b%e6%a8%a1%e5%86%99) | N/A |
-| 27 | [リッキー](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%82%ad%e3%83%bc) | リッキー (Rikki) is a Japanese given name, usually used for boys. It is derived from the English name Ricky and can be translated to mean "powerful ruler". |
+| 4 | [#bn847](http://twitter.com/search?q=%23bn847) | N/A |
+| 5 | [フレーバー総選挙](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%bc%e3%83%90%e3%83%bc%e7%b7%8f%e9%81%b8%e6%8c%99) | N/A |
+| 6 | [#おは戦50331mk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650331mk) | N/A |
+| 7 | [第434回](http://twitter.com/search?q=%e7%ac%ac434%e5%9b%9e) | N/A |
+| 8 | [メジャー初ヒット](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e5%88%9d%e3%83%92%e3%83%83%e3%83%88) | N/A |
+| 9 | [オーケストラの日](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b1%e3%82%b9%e3%83%88%e3%83%a9%e3%81%ae%e6%97%a5) | N/A |
+| 10 | [ラッチマン](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%81%e3%83%9e%e3%83%b3) | N/A |
+| 11 | [バインド](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
+| 12 | [ピッチクロック](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%82%af%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 13 | [リモートレイドパス](http://twitter.com/search?q=%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%83%ac%e3%82%a4%e3%83%89%e3%83%91%e3%82%b9) | N/A |
+| 14 | [JALのセール](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
+| 15 | [ミルモでポン](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a2%e3%81%a7%e3%83%9d%e3%83%b3) | N/A |
+| 16 | [マイコラス](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%82%b3%e3%83%a9%e3%82%b9) | N/A |
+| 17 | [マーク黒髪](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%af%e9%bb%92%e9%ab%aa) | N/A |
+| 18 | [題の答え](http://twitter.com/search?q=%e9%a1%8c%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
+| 19 | [デグロム](http://twitter.com/search?q=%e3%83%87%e3%82%b0%e3%83%ad%e3%83%a0) | N/A |
+| 20 | [真綾さん](http://twitter.com/search?q=%e7%9c%9f%e7%b6%be%e3%81%95%e3%82%93) | 真綾さん is a Japanese honorific title used to refer to someone with the given name Maaya. It is similar to the English title of "Ms." or "Miss". |
+| 21 | [ギュビン](http://twitter.com/search?q=%e3%82%ae%e3%83%a5%e3%83%93%e3%83%b3) | N/A |
+| 22 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 23 | [今年度最終日](http://twitter.com/search?q=%e4%bb%8a%e5%b9%b4%e5%ba%a6%e6%9c%80%e7%b5%82%e6%97%a5) | N/A |
+| 24 | [年度末最終日](http://twitter.com/search?q=%e5%b9%b4%e5%ba%a6%e6%9c%ab%e6%9c%80%e7%b5%82%e6%97%a5) | N/A |
+| 25 | [応募者全員サービス](http://twitter.com/search?q=%e5%bf%9c%e5%8b%9f%e8%80%85%e5%85%a8%e5%93%a1%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9) | N/A |
+| 26 | [セカンドゴロ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e3%82%b4%e3%83%ad) | N/A |
+| 27 | [Wordle 650](http://twitter.com/search?q=Wordle+650) | N/A |
 | 28 | [台湾ラーメン](http://twitter.com/search?q=%e5%8f%b0%e6%b9%be%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3) | N/A |
-| 29 | [ミルモ舞台化](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a2%e8%88%9e%e5%8f%b0%e5%8c%96) | N/A |
-| 30 | [真綾さん](http://twitter.com/search?q=%e7%9c%9f%e7%b6%be%e3%81%95%e3%82%93) | 真綾さん is a Japanese honorific title used to refer to someone with the given name Maaya. It is similar to the English title of "Ms." or "Miss". |
-| 31 | [ローリンガール](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%ac%e3%83%bc%e3%83%ab) | N/A |
-| 32 | [ミュージカルドラマ](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%ab%e3%83%ab%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
-| 33 | [昭和の霊](http://twitter.com/search?q=%e6%98%ad%e5%92%8c%e3%81%ae%e9%9c%8a) | N/A |
-| 34 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
-| 35 | [スズナリデンキ](http://twitter.com/search?q=%e3%82%b9%e3%82%ba%e3%83%8a%e3%83%aa%e3%83%87%e3%83%b3%e3%82%ad) | N/A |
-| 36 | [にじほろぶる団](http://twitter.com/search?q=%e3%81%ab%e3%81%98%e3%81%bb%e3%82%8d%e3%81%b6%e3%82%8b%e5%9b%a3) | N/A |
-| 37 | [アウトデラックス](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%83%88%e3%83%87%e3%83%a9%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 38 | [クマバチ](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%90%e3%83%81) | N/A |
-| 39 | [クリスマスデストロイヤー](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%87%e3%82%b9%e3%83%88%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%bc) | N/A |
-| 40 | [チョコパイ](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%91%e3%82%a4) | N/A |
-| 41 | [仲良しテレフォン](http://twitter.com/search?q=%e4%bb%b2%e8%89%af%e3%81%97%e3%83%86%e3%83%ac%e3%83%95%e3%82%a9%e3%83%b3) | N/A |
-| 42 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
-| 43 | [小西氏の憲法審筆頭幹事解任](http://twitter.com/search?q=%e5%b0%8f%e8%a5%bf%e6%b0%8f%e3%81%ae%e6%86%b2%e6%b3%95%e5%af%a9%e7%ad%86%e9%a0%ad%e5%b9%b9%e4%ba%8b%e8%a7%a3%e4%bb%bb) | N/A |
-| 44 | [deck](http://twitter.com/search?q=deck) | N/A |
-| 45 | [ジャニーズ先輩後輩同期](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba%e5%85%88%e8%bc%a9%e5%be%8c%e8%bc%a9%e5%90%8c%e6%9c%9f) | N/A |
-| 46 | [少年ファンタジー](http://twitter.com/search?q=%e5%b0%91%e5%b9%b4%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc) | N/A |
-| 47 | [メスゴリラ](http://twitter.com/search?q=%e3%83%a1%e3%82%b9%e3%82%b4%e3%83%aa%e3%83%a9) | N/A |
-| 48 | [カムバ情報](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%90%e6%83%85%e5%a0%b1) | N/A |
-| 49 | [クラバト](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%83%90%e3%83%88) | クラバト (Kurabato) is a Japanese card game similar to the Western game of Rummy. It is usually played with two to four players and involves making sets of cards in order to score points. The goal of the game is to be the first player to reach a predetermined score. |
+| 29 | [月曜カムバ](http://twitter.com/search?q=%e6%9c%88%e6%9b%9c%e3%82%ab%e3%83%a0%e3%83%90) | N/A |
+| 30 | [イルデ2周年](http://twitter.com/search?q=%e3%82%a4%e3%83%ab%e3%83%872%e5%91%a8%e5%b9%b4) | N/A |
+| 31 | [プレデビュー](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
+| 32 | [阿澄さん](http://twitter.com/search?q=%e9%98%bf%e6%be%84%e3%81%95%e3%82%93) | N/A |
+| 33 | [オンレコ](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%83%ac%e3%82%b3) | N/A |
+| 34 | [ミルモ舞台化](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a2%e8%88%9e%e5%8f%b0%e5%8c%96) | N/A |
+| 35 | [昭和の霊](http://twitter.com/search?q=%e6%98%ad%e5%92%8c%e3%81%ae%e9%9c%8a) | N/A |
+| 36 | [鈴科百合子](http://twitter.com/search?q=%e9%88%b4%e7%a7%91%e7%99%be%e5%90%88%e5%ad%90) | N/A |
+| 37 | [スタファイライブ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%95%e3%82%a1%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 38 | [にじほろぶる団](http://twitter.com/search?q=%e3%81%ab%e3%81%98%e3%81%bb%e3%82%8d%e3%81%b6%e3%82%8b%e5%9b%a3) | N/A |
+| 39 | [バトナマ](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%83%8a%e3%83%9e) | N/A |
+| 40 | [ハエの形態模写](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%bd%a2%e6%85%8b%e6%a8%a1%e5%86%99) | N/A |
+| 41 | [他人の住民票発行](http://twitter.com/search?q=%e4%bb%96%e4%ba%ba%e3%81%ae%e4%bd%8f%e6%b0%91%e7%a5%a8%e7%99%ba%e8%a1%8c) | N/A |
+| 42 | [ローリンガール](http://twitter.com/search?q=%e3%83%ad%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%ac%e3%83%bc%e3%83%ab) | N/A |
+| 43 | [スズナリデンキ](http://twitter.com/search?q=%e3%82%b9%e3%82%ba%e3%83%8a%e3%83%aa%e3%83%87%e3%83%b3%e3%82%ad) | N/A |
+| 44 | [ミュージカルドラマ](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%82%ab%e3%83%ab%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
+| 45 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
+| 46 | [リッキー](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%82%ad%e3%83%bc) | リッキー (Rikki) is a Japanese given name, usually used for boys. It is derived from the English name Ricky and can be translated to mean "powerful ruler". |
+| 47 | [カムバ情報](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%90%e6%83%85%e5%a0%b1) | N/A |
+| 48 | [ラブカストーン](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%82%ab%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3) | N/A |
+| 49 | [クマバチ](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%90%e3%83%81) | N/A |
 
 
 
