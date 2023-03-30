@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-03-30 15:17:31 UTC`
+📆 Last Updated: `2023-03-30 16:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,52 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 2 | [#PlanEau](http://twitter.com/search?q=%23PlanEau) | N/A |
-| 3 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
-| 4 | [#SiphanoXNintendalerts](http://twitter.com/search?q=%23SiphanoXNintendalerts) | N/A |
+| 2 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
+| 3 | [#SiphanoXNintendalerts](http://twitter.com/search?q=%23SiphanoXNintendalerts) | N/A |
+| 4 | [#PlanEau](http://twitter.com/search?q=%23PlanEau) | N/A |
 | 5 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 6 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
-| 7 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 8 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 9 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 10 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 11 | [ZLAN](http://twitter.com/search?q=ZLAN) | N/A |
+| 6 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 7 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 8 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 9 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 10 | [ZLAN](http://twitter.com/search?q=ZLAN) | N/A |
+| 11 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
 | 12 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
 | 13 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
-| 14 | [PSAN](http://twitter.com/search?q=PSAN) | N/A |
-| 15 | [Hautes-Alpes](http://twitter.com/search?q=Hautes-Alpes) | N/A |
-| 16 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 17 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 18 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
-| 19 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 14 | [Hautes-Alpes](http://twitter.com/search?q=Hautes-Alpes) | N/A |
+| 15 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 16 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
+| 17 | [PSAN](http://twitter.com/search?q=PSAN) | N/A |
+| 18 | [La HAS](http://twitter.com/search?q=La+HAS) | N/A |
+| 19 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
 | 20 | [Pharos](http://twitter.com/search?q=Pharos) | N/A |
-| 21 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
-| 22 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 23 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
-| 24 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
+| 21 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 22 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
+| 23 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
+| 24 | [Edgar Wright](http://twitter.com/search?q=Edgar+Wright) | N/A |
 | 25 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 26 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 27 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 26 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
+| 27 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
 | 28 | [albane](http://twitter.com/search?q=albane) | N/A |
-| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 31 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
-| 32 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
-| 33 | [Pauleta](http://twitter.com/search?q=Pauleta) | N/A |
-| 34 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
-| 35 | [La HAS](http://twitter.com/search?q=La+HAS) | N/A |
+| 29 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 30 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
+| 31 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 32 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
+| 33 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 34 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 35 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 36 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 37 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 38 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 39 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
-| 40 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 41 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
-| 42 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 43 | [Serre-Ponçon](http://twitter.com/search?q=Serre-Pon%c3%a7on) | N/A |
-| 44 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
-| 45 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 46 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 47 | [Ambroise](http://twitter.com/search?q=Ambroise) | N/A |
-| 48 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 37 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
+| 38 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
+| 39 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 40 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 41 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 42 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 43 | [Ambroise](http://twitter.com/search?q=Ambroise) | N/A |
+| 44 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
+| 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 46 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
+| 47 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
 
 
 

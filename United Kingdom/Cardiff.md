@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-03-30 15:17:15 UTC`
+📆 Last Updated: `2023-03-30 16:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
-| 2 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
-| 3 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 1 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 2 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 3 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
 | 4 | [#GothTools](http://twitter.com/search?q=%23GothTools) | N/A |
-| 5 | [#TomsInSongOrFilm](http://twitter.com/search?q=%23TomsInSongOrFilm) | N/A |
-| 6 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 7 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 8 | [Communist Party](http://twitter.com/search?q=Communist+Party) | N/A |
-| 9 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 10 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 11 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 12 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
-| 13 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 14 | [Upside](http://twitter.com/search?q=Upside) | N/A |
-| 15 | [Vote Conservative](http://twitter.com/search?q=Vote+Conservative) | N/A |
-| 16 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 17 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 18 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 19 | [Union Jack](http://twitter.com/search?q=Union+Jack) | N/A |
-| 20 | [Union Flag](http://twitter.com/search?q=Union+Flag) | N/A |
-| 21 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 22 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 23 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 24 | [Chris Kaba](http://twitter.com/search?q=Chris+Kaba) | N/A |
-| 25 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 26 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 27 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
-| 28 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 29 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 30 | [Earl's Court](http://twitter.com/search?q=Earl%27s+Court) | N/A |
-| 31 | [Ferrier](http://twitter.com/search?q=Ferrier) | N/A |
+| 5 | [Jack Diamond](http://twitter.com/search?q=Jack+Diamond) | N/A |
+| 6 | [#TomsInSongOrFilm](http://twitter.com/search?q=%23TomsInSongOrFilm) | N/A |
+| 7 | [#BVFootball](http://twitter.com/search?q=%23BVFootball) | N/A |
+| 8 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 9 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
+| 10 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 11 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 12 | [Communist Party](http://twitter.com/search?q=Communist+Party) | N/A |
+| 13 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
+| 14 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 15 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 16 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 17 | [Upside](http://twitter.com/search?q=Upside) | N/A |
+| 18 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 19 | [Union Flag](http://twitter.com/search?q=Union+Flag) | N/A |
+| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 21 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 22 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 23 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 24 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 25 | [Union Jack](http://twitter.com/search?q=Union+Jack) | N/A |
+| 26 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 27 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 28 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 29 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 30 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
+| 31 | [Terry](http://twitter.com/search?q=Terry) | N/A |
 | 32 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
-| 33 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
-| 34 | [Defoe](http://twitter.com/search?q=Defoe) | N/A |
-| 35 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
-| 36 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 37 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 38 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 39 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
-| 40 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 41 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
-| 42 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 43 | [Policy Exchange](http://twitter.com/search?q=Policy+Exchange) | N/A |
-| 44 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 45 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 46 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
-| 47 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 33 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 34 | [Chris Kaba](http://twitter.com/search?q=Chris+Kaba) | N/A |
+| 35 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
+| 36 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 37 | [Earl's Court](http://twitter.com/search?q=Earl%27s+Court) | N/A |
+| 38 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 39 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 40 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
+| 41 | [Margaret Ferrier](http://twitter.com/search?q=Margaret+Ferrier) | N/A |
+| 42 | [Policy Exchange](http://twitter.com/search?q=Policy+Exchange) | N/A |
+| 43 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 44 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
+| 45 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
+| 46 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 47 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 48 | [Masi](http://twitter.com/search?q=Masi) | N/A |
 
 
