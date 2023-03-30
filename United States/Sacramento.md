@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-30 13:20:40 UTC`
+📆 Last Updated: `2023-03-30 14:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 2 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 3 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 4 | [#OpeningDay2023](http://twitter.com/search?q=%23OpeningDay2023) | N/A |
-| 5 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 6 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 7 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 8 | [Happy Opening](http://twitter.com/search?q=Happy+Opening) | N/A |
+| 1 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
+| 2 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 3 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 4 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 5 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
+| 6 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 7 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
+| 8 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
 | 9 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 10 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 11 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 12 | [BASEBALL IS BACK](http://twitter.com/search?q=BASEBALL+IS+BACK) | N/A |
-| 13 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 14 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 15 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 10 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 11 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 12 | [Fort Campbell](http://twitter.com/search?q=Fort+Campbell) | N/A |
+| 13 | [Happy Opening](http://twitter.com/search?q=Happy+Opening) | N/A |
+| 14 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 15 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 | 16 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 17 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 18 | [Go Phils](http://twitter.com/search?q=Go+Phils) | N/A |
-| 19 | [Go Braves](http://twitter.com/search?q=Go+Braves) | N/A |
-| 20 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
-| 21 | [Fort Campbell](http://twitter.com/search?q=Fort+Campbell) | N/A |
-| 22 | [Let's Go Mets](http://twitter.com/search?q=Let%27s+Go+Mets) | N/A |
-| 23 | [Go Sox](http://twitter.com/search?q=Go+Sox) | N/A |
-| 24 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 25 | [congratulations jimin](http://twitter.com/search?q=congratulations+jimin) | N/A |
-| 26 | [gowon](http://twitter.com/search?q=gowon) | N/A |
-| 27 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 28 | [Thirsty Thursday](http://twitter.com/search?q=Thirsty+Thursday) | N/A |
-| 29 | [yves](http://twitter.com/search?q=yves) | N/A |
-| 30 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
-| 31 | [Romancing the Stone](http://twitter.com/search?q=Romancing+the+Stone) | N/A |
-| 32 | [National Holiday](http://twitter.com/search?q=National+Holiday) | N/A |
-| 33 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
-| 34 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 35 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
-| 36 | [Trump Org](http://twitter.com/search?q=Trump+Org) | N/A |
-| 37 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 38 | [Shouting](http://twitter.com/search?q=Shouting) | N/A |
-| 39 | [Eric Clapton](http://twitter.com/search?q=Eric+Clapton) | N/A |
-| 40 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 41 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
-| 42 | [Willie Brown](http://twitter.com/search?q=Willie+Brown) | N/A |
-| 43 | [Wrigley](http://twitter.com/search?q=Wrigley) | N/A |
-| 44 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 45 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 46 | [Grandstanding](http://twitter.com/search?q=Grandstanding) | N/A |
-| 47 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 48 | [WELL REGULATED](http://twitter.com/search?q=WELL+REGULATED) | N/A |
-| 49 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 50 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 17 | [BASEBALL IS BACK](http://twitter.com/search?q=BASEBALL+IS+BACK) | N/A |
+| 18 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 19 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 20 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 21 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 22 | [No Hicks](http://twitter.com/search?q=No+Hicks) | N/A |
+| 23 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 24 | [GO PHILS](http://twitter.com/search?q=GO+PHILS) | N/A |
+| 25 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 26 | [Go Sox](http://twitter.com/search?q=Go+Sox) | N/A |
+| 27 | [RICKY P07](http://twitter.com/search?q=RICKY+P07) | N/A |
+| 28 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
+| 29 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 30 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 31 | [Happy Doctors](http://twitter.com/search?q=Happy+Doctors) | N/A |
+| 32 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 33 | [gowon](http://twitter.com/search?q=gowon) | N/A |
+| 34 | [Burry](http://twitter.com/search?q=Burry) | N/A |
+| 35 | [Blackhawk](http://twitter.com/search?q=Blackhawk) | N/A |
+| 36 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 37 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 38 | [Happy MLB](http://twitter.com/search?q=Happy+MLB) | N/A |
+| 39 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 40 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 41 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
+| 42 | [101st Airborne Division](http://twitter.com/search?q=101st+Airborne+Division) | N/A |
+| 43 | [Jamaal](http://twitter.com/search?q=Jamaal) | N/A |
+| 44 | [State of the Union](http://twitter.com/search?q=State+of+the+Union) | N/A |
+| 45 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
+| 46 | [72 Seasons](http://twitter.com/search?q=72+Seasons) | N/A |
+| 47 | [Romancing the Stone](http://twitter.com/search?q=Romancing+the+Stone) | N/A |
+| 48 | [National Holiday](http://twitter.com/search?q=National+Holiday) | N/A |
+| 49 | [Cubbies](http://twitter.com/search?q=Cubbies) | N/A |
+| 50 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
 
 
 

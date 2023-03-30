@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-30 13:20:48 UTC`
+📆 Last Updated: `2023-03-30 14:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
-| 2 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
+| 2 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 3 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 4 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 4 | [ricky](http://twitter.com/search?q=ricky) | N/A |
 | 5 | [#aedm](http://twitter.com/search?q=%23aedm) | N/A |
-| 6 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
-| 7 | [Mogadishu](http://twitter.com/search?q=Mogadishu) | N/A |
-| 8 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
-| 9 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 10 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 6 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 7 | [#DDV23](http://twitter.com/search?q=%23DDV23) | N/A |
+| 8 | [#beau](http://twitter.com/search?q=%23beau) | N/A |
+| 9 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
+| 10 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 11 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
 | 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 13 | [Doeke](http://twitter.com/search?q=Doeke) | N/A |
-| 14 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 15 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 16 | [Irak in 2016](http://twitter.com/search?q=Irak+in+2016) | N/A |
-| 17 | [treets](http://twitter.com/search?q=treets) | N/A |
-| 18 | [Floor de Man](http://twitter.com/search?q=Floor+de+Man) | N/A |
-| 19 | [Duits](http://twitter.com/search?q=Duits) | N/A |
+| 13 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 14 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
+| 15 | [floor de man](http://twitter.com/search?q=floor+de+man) | N/A |
+| 16 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
+| 17 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
+| 18 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 19 | [Egbers](http://twitter.com/search?q=Egbers) | N/A |
 | 20 | [Van Gelder](http://twitter.com/search?q=Van+Gelder) | N/A |
-| 21 | [Egbers](http://twitter.com/search?q=Egbers) | N/A |
-| 22 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
-| 23 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 24 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
-| 25 | [Nanninga](http://twitter.com/search?q=Nanninga) | N/A |
-| 26 | [Aïcha Marghadi](http://twitter.com/search?q=A%c3%afcha+Marghadi) | N/A |
-| 27 | [Biesbosch](http://twitter.com/search?q=Biesbosch) | N/A |
-| 28 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
-| 29 | [btw-afschaffing](http://twitter.com/search?q=btw-afschaffing) | N/A |
-| 30 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
-| 31 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 32 | [Hamers](http://twitter.com/search?q=Hamers) | N/A |
-| 33 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
-| 34 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
-| 35 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
-| 36 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 37 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
-| 38 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 39 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 40 | [Tiki](http://twitter.com/search?q=Tiki) | N/A |
-| 41 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
-| 42 | [Van Dissel](http://twitter.com/search?q=Van+Dissel) | N/A |
-| 43 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
-| 44 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 45 | [Oost-Nederland](http://twitter.com/search?q=Oost-Nederland) | N/A |
-| 46 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
-| 47 | [agema](http://twitter.com/search?q=agema) | N/A |
-| 48 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 49 | [Auschwitz](http://twitter.com/search?q=Auschwitz) | Auschwitz was a network of concentration and extermination camps built and operated by Nazi Germany during World War II. It was the largest of the Nazi concentration camps, consisting of Auschwitz I (the main camp), Auschwitz II–Birkenau (a combination concentration/extermination camp), Auschwitz III–Monowitz (a labor camp to staff an IG Farben factory), and 45 satellite camps. The meaning of Auschwitz in English is "the site of a Nazi concentration camp in German-occupied Poland during World War II". |
-| 50 | [sharona](http://twitter.com/search?q=sharona) | N/A |
+| 21 | [Aïcha Marghadi](http://twitter.com/search?q=A%c3%afcha+Marghadi) | N/A |
+| 22 | [nanninga](http://twitter.com/search?q=nanninga) | N/A |
+| 23 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
+| 24 | [Treets](http://twitter.com/search?q=Treets) | N/A |
+| 25 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
+| 26 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 27 | [Hamers](http://twitter.com/search?q=Hamers) | N/A |
+| 28 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 29 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
+| 30 | [Arabische](http://twitter.com/search?q=Arabische) | N/A |
+| 31 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 32 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
+| 33 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
+| 34 | [Biesbosch](http://twitter.com/search?q=Biesbosch) | N/A |
+| 35 | [Tiki](http://twitter.com/search?q=Tiki) | N/A |
+| 36 | [Van Dissel](http://twitter.com/search?q=Van+Dissel) | N/A |
+| 37 | [Stijn](http://twitter.com/search?q=Stijn) | N/A |
+| 38 | [Rome](http://twitter.com/search?q=Rome) | N/A |
+| 39 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 40 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 41 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 42 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
+| 43 | [Duits](http://twitter.com/search?q=Duits) | N/A |
+| 44 | [0% BTW](http://twitter.com/search?q=0%25+BTW) | N/A |
+| 45 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
+| 46 | [weerwind](http://twitter.com/search?q=weerwind) | N/A |
+| 47 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 48 | [Irak in 2016](http://twitter.com/search?q=Irak+in+2016) | N/A |
+| 49 | [Stopera](http://twitter.com/search?q=Stopera) | N/A |
+| 50 | [agema](http://twitter.com/search?q=agema) | N/A |
 
 
 

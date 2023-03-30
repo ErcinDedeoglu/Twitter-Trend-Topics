@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-03-30 13:20:01 UTC`
+📆 Last Updated: `2023-03-30 14:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
-| 2 | [Plaza Lagos](http://twitter.com/search?q=Plaza+Lagos) | N/A |
-| 3 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
-| 4 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
-| 5 | [MUERTE CRUZADA](http://twitter.com/search?q=MUERTE+CRUZADA) | N/A |
-| 6 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
-| 7 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
+| 1 | [Sauces 9](http://twitter.com/search?q=Sauces+9) | N/A |
+| 2 | [Lasso](http://twitter.com/search?q=Lasso) | N/A |
+| 3 | [Plaza Lagos](http://twitter.com/search?q=Plaza+Lagos) | N/A |
+| 4 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
+| 5 | [#MuerteCruzada](http://twitter.com/search?q=%23MuerteCruzada) | N/A |
+| 6 | [Corte Constitucional](http://twitter.com/search?q=Corte+Constitucional) | N/A |
+| 7 | [Prosperidad](http://twitter.com/search?q=Prosperidad) | N/A |
 | 8 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
-| 9 | [Copero](http://twitter.com/search?q=Copero) | N/A |
-| 10 | [Nathaly López](http://twitter.com/search?q=Nathaly+L%c3%b3pez) | N/A |
-| 11 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 12 | [pita](http://twitter.com/search?q=pita) | N/A |
-| 13 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
-| 14 | [Alausi](http://twitter.com/search?q=Alausi) | N/A |
-| 15 | [Aguinaga](http://twitter.com/search?q=Aguinaga) | N/A |
-| 16 | [Dreer](http://twitter.com/search?q=Dreer) | N/A |
-| 17 | [Rubén Hernández](http://twitter.com/search?q=Rub%c3%a9n+Hern%c3%a1ndez) | N/A |
-| 18 | [Teodoro Maldonado](http://twitter.com/search?q=Teodoro+Maldonado) | N/A |
-| 19 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
-| 20 | [#EcuadorenCrisis](http://twitter.com/search?q=%23EcuadorenCrisis) | N/A |
-| 21 | [alí lozada](http://twitter.com/search?q=al%c3%ad+lozada) | N/A |
-| 22 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 23 | [Peculado](http://twitter.com/search?q=Peculado) | N/A |
-| 24 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 25 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 26 | [Con 6](http://twitter.com/search?q=Con+6) | N/A |
-| 27 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 28 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 29 | [Mondaini](http://twitter.com/search?q=Mondaini) | N/A |
-| 30 | [La CC](http://twitter.com/search?q=La+CC) | N/A |
-| 31 | [IESS](http://twitter.com/search?q=IESS) | N/A |
-| 32 | [#imbaburadecidió](http://twitter.com/search?q=%23imbaburadecidi%c3%b3) | N/A |
-| 33 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
-| 34 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
-| 35 | [Opción 3](http://twitter.com/search?q=Opci%c3%b3n+3) | N/A |
-| 36 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 37 | [Delfina Torres](http://twitter.com/search?q=Delfina+Torres) | N/A |
-| 38 | [la pradera](http://twitter.com/search?q=la+pradera) | N/A |
-| 39 | [Comisión de Fiscalización](http://twitter.com/search?q=Comisi%c3%b3n+de+Fiscalizaci%c3%b3n) | N/A |
-| 40 | [#FIFA](http://twitter.com/search?q=%23FIFA) | N/A |
-| 41 | [Samborondon](http://twitter.com/search?q=Samborondon) | N/A |
-| 42 | [Decente](http://twitter.com/search?q=Decente) | N/A |
-| 43 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
-| 44 | [#SpotifyCorrupt](http://twitter.com/search?q=%23SpotifyCorrupt) | N/A |
-| 45 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 46 | [Fernando Villavicencio](http://twitter.com/search?q=Fernando+Villavicencio) | N/A |
-| 47 | [kevin rodríguez](http://twitter.com/search?q=kevin+rodr%c3%adguez) | N/A |
-| 48 | [La 3](http://twitter.com/search?q=La+3) | N/A |
-| 49 | [Luque](http://twitter.com/search?q=Luque) | N/A |
-| 50 | [cucalón](http://twitter.com/search?q=cucal%c3%b3n) | N/A |
+| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 10 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
+| 11 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 12 | [Decente](http://twitter.com/search?q=Decente) | N/A |
+| 13 | [Santi](http://twitter.com/search?q=Santi) | Santi is a Sanskrit word meaning “peace” or “calmness”. It is often used as a greeting or salutation in Hindu and Buddhist cultures. |
+| 14 | [Dreer](http://twitter.com/search?q=Dreer) | N/A |
+| 15 | [Gótica](http://twitter.com/search?q=G%c3%b3tica) | N/A |
+| 16 | [Pita](http://twitter.com/search?q=Pita) | N/A |
+| 17 | [Copero](http://twitter.com/search?q=Copero) | N/A |
+| 18 | [fabián alarcón](http://twitter.com/search?q=fabi%c3%a1n+alarc%c3%b3n) | N/A |
+| 19 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
+| 20 | [Nathaly López](http://twitter.com/search?q=Nathaly+L%c3%b3pez) | N/A |
+| 21 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 22 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
+| 23 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 24 | [Boscan](http://twitter.com/search?q=Boscan) | N/A |
+| 25 | [Con 6](http://twitter.com/search?q=Con+6) | N/A |
+| 26 | [Aguinaga](http://twitter.com/search?q=Aguinaga) | N/A |
+| 27 | [Rubén Hernández](http://twitter.com/search?q=Rub%c3%a9n+Hern%c3%a1ndez) | N/A |
+| 28 | [alí lozada](http://twitter.com/search?q=al%c3%ad+lozada) | N/A |
+| 29 | [Alausí](http://twitter.com/search?q=Alaus%c3%ad) | N/A |
+| 30 | [#Samborondon](http://twitter.com/search?q=%23Samborondon) | N/A |
+| 31 | [Peculado](http://twitter.com/search?q=Peculado) | N/A |
+| 32 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 33 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 34 | [mondaini](http://twitter.com/search?q=mondaini) | N/A |
+| 35 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
+| 36 | [teodoro maldonado carbo](http://twitter.com/search?q=teodoro+maldonado+carbo) | N/A |
+| 37 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 38 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 39 | [iess](http://twitter.com/search?q=iess) | N/A |
+| 40 | [#imbaburadecidió](http://twitter.com/search?q=%23imbaburadecidi%c3%b3) | N/A |
+| 41 | [Opción 3](http://twitter.com/search?q=Opci%c3%b3n+3) | N/A |
+| 42 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 43 | [La CC](http://twitter.com/search?q=La+CC) | N/A |
+| 44 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 45 | [Comisión de Fiscalización](http://twitter.com/search?q=Comisi%c3%b3n+de+Fiscalizaci%c3%b3n) | N/A |
+| 46 | [Delfina Torres](http://twitter.com/search?q=Delfina+Torres) | N/A |
+| 47 | [La 3](http://twitter.com/search?q=La+3) | N/A |
+| 48 | [Guayaquil](http://twitter.com/search?q=Guayaquil) | Guayaquil is the largest city in Ecuador and the capital of the Guayas Province. It is located on the western bank of the Guayas River, which flows into the Pacific Ocean. The name Guayaquil comes from a combination of two words: "guaya," meaning "big" or "great," and "quil," meaning "river." In English, it can be translated to mean "Great River." |
+| 49 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
+| 50 | [Glas](http://twitter.com/search?q=Glas) | N/A |
 
 
 

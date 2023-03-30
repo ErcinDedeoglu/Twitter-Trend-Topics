@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-03-30 13:20:16 UTC`
+📆 Last Updated: `2023-03-30 14:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NIKKE](http://twitter.com/search?q=%23NIKKE) | N/A |
-| 2 | [仕事帰り](http://twitter.com/search?q=%e4%bb%95%e4%ba%8b%e5%b8%b0%e3%82%8a) | N/A |
-| 3 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | カラフェス (Karafesu) is a Japanese term for a party or gathering that is held to celebrate a special occasion. It usually involves food, drinks, and entertainment. The word comes from the combination of two words: "kara" meaning empty and "fesu" meaning festival. In English, it can be translated as "empty festival". |
-| 4 | [わしほー](http://twitter.com/search?q=%e3%82%8f%e3%81%97%e3%81%bb%e3%83%bc) | N/A |
-| 5 | [エスコン](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%b3%e3%83%b3) | N/A |
-| 6 | [フランコ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b3) | N/A |
-| 7 | [ミルモでポン](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a2%e3%81%a7%e3%83%9d%e3%83%b3) | N/A |
-| 8 | [#素のまんま](http://twitter.com/search?q=%23%e7%b4%a0%e3%81%ae%e3%81%be%e3%82%93%e3%81%be) | #素のまんま is a Japanese phrase that literally translates to "as is" or "just as it is". It is used to express that something should remain unchanged or unaltered. |
-| 9 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
-| 10 | [#オーイシ1000円](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%82%a4%e3%82%b71000%e5%86%86) | N/A |
-| 11 | [#プレバト](http://twitter.com/search?q=%23%e3%83%97%e3%83%ac%e3%83%90%e3%83%88) | #プレバト is a hashtag used on Twitter in Japan. It stands for "pre-battle" and is used to describe the anticipation and excitement of an upcoming event or challenge. |
-| 12 | [#RakutenEagles](http://twitter.com/search?q=%23RakutenEagles) | N/A |
-| 13 | [松井裕樹](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e8%a3%95%e6%a8%b9) | N/A |
-| 14 | [伊藤裕季也](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e8%a3%95%e5%ad%a3%e4%b9%9f) | N/A |
-| 15 | [ジャスティス](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
-| 16 | [カムデン](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%87%e3%83%b3) | N/A |
-| 17 | [リッキー7位](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%82%ad%e3%83%bc7%e4%bd%8d) | N/A |
-| 18 | [田中正義](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e6%ad%a3%e7%be%a9) | 田中正義 is a Japanese name. It can be translated to English as "Masayoshi Tanaka". |
-| 19 | [赤ちゃん毛](http://twitter.com/search?q=%e8%b5%a4%e3%81%a1%e3%82%83%e3%82%93%e6%af%9b) | N/A |
-| 20 | [重大発表](http://twitter.com/search?q=%e9%87%8d%e5%a4%a7%e7%99%ba%e8%a1%a8) | N/A |
-| 21 | [仲良しテレフォン](http://twitter.com/search?q=%e4%bb%b2%e8%89%af%e3%81%97%e3%83%86%e3%83%ac%e3%83%95%e3%82%a9%e3%83%b3) | N/A |
-| 22 | [ウィンブレアニメ化](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%96%e3%83%ac%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
-| 23 | [スクフェス](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%95%e3%82%a7%e3%82%b9) | スクフェス (SukuFesu) is short for "School Idol Festival", a rhythm game developed by KLabGames and published by Bushiroad. It is based on the Love Live! franchise and features characters from the series. Players must tap notes in time with the music to score points and complete levels. The game also includes a card collecting element, where players can collect cards featuring characters from the series. The English translation of スクフェス is School Idol Festival. |
-| 24 | [笠岡ラーメン](http://twitter.com/search?q=%e7%ac%a0%e5%b2%a1%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3) | N/A |
-| 25 | [チョコパイ](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%91%e3%82%a4) | N/A |
-| 26 | [ファイターズ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
-| 27 | [開幕戦勝利](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
-| 28 | [すごめの告知](http://twitter.com/search?q=%e3%81%99%e3%81%94%e3%82%81%e3%81%ae%e5%91%8a%e7%9f%a5) | N/A |
-| 29 | [アリエル](http://twitter.com/search?q=%e3%82%a2%e3%83%aa%e3%82%a8%e3%83%ab) | N/A |
-| 30 | [きつねダンス](http://twitter.com/search?q=%e3%81%8d%e3%81%a4%e3%81%ad%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
-| 31 | [ジャニーズ先輩後輩同期](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba%e5%85%88%e8%bc%a9%e5%be%8c%e8%bc%a9%e5%90%8c%e6%9c%9f) | N/A |
-| 32 | [オペラ座](http://twitter.com/search?q=%e3%82%aa%e3%83%9a%e3%83%a9%e5%ba%a7) | N/A |
-| 33 | [金剛要求](http://twitter.com/search?q=%e9%87%91%e5%89%9b%e8%a6%81%e6%b1%82) | N/A |
-| 34 | [マヨネーズ味](http://twitter.com/search?q=%e3%83%9e%e3%83%a8%e3%83%8d%e3%83%bc%e3%82%ba%e5%91%b3) | N/A |
-| 35 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 36 | [クマバチ](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%90%e3%83%81) | N/A |
-| 37 | [田中将大](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e5%b0%86%e5%a4%a7) | N/A |
-| 38 | [少年ファンタジー](http://twitter.com/search?q=%e5%b0%91%e5%b9%b4%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc) | N/A |
-| 39 | [リリーフカー](http://twitter.com/search?q=%e3%83%aa%e3%83%aa%e3%83%bc%e3%83%95%e3%82%ab%e3%83%bc) | N/A |
-| 40 | [ミルモ舞台化](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a2%e8%88%9e%e5%8f%b0%e5%8c%96) | N/A |
-| 41 | [ポン菓子](http://twitter.com/search?q=%e3%83%9d%e3%83%b3%e8%8f%93%e5%ad%90) | N/A |
-| 42 | [鈴科百合子](http://twitter.com/search?q=%e9%88%b4%e7%a7%91%e7%99%be%e5%90%88%e5%ad%90) | N/A |
-| 43 | [単独首位](http://twitter.com/search?q=%e5%8d%98%e7%8b%ac%e9%a6%96%e4%bd%8d) | N/A |
-| 44 | [ケイタ6位](http://twitter.com/search?q=%e3%82%b1%e3%82%a4%e3%82%bf6%e4%bd%8d) | N/A |
-| 45 | [初ヒット](http://twitter.com/search?q=%e5%88%9d%e3%83%92%e3%83%83%e3%83%88) | N/A |
-| 46 | [ライブアライブ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%96%e3%82%a2%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 47 | [賢者最終](http://twitter.com/search?q=%e8%b3%a2%e8%80%85%e6%9c%80%e7%b5%82) | N/A |
-| 48 | [ファントム様](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%88%e3%83%a0%e6%a7%98) | N/A |
-| 49 | [法的措置示唆](http://twitter.com/search?q=%e6%b3%95%e7%9a%84%e6%8e%aa%e7%bd%ae%e7%a4%ba%e5%94%86) | N/A |
+| 1 | [#熱血タイガース党](http://twitter.com/search?q=%23%e7%86%b1%e8%a1%80%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e3%82%b9%e5%85%9a) | N/A |
+| 2 | [プロ野球開幕](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e9%87%8e%e7%90%83%e9%96%8b%e5%b9%95) | N/A |
+| 3 | [ミルモでポン](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a2%e3%81%a7%e3%83%9d%e3%83%b3) | N/A |
+| 4 | [ひなあられ](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%82%e3%82%89%e3%82%8c) | N/A |
+| 5 | [#アウトデラックス](http://twitter.com/search?q=%23%e3%82%a2%e3%82%a6%e3%83%88%e3%83%87%e3%83%a9%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 6 | [ギュビン](http://twitter.com/search?q=%e3%82%ae%e3%83%a5%e3%83%93%e3%83%b3) | N/A |
+| 7 | [わしほー](http://twitter.com/search?q=%e3%82%8f%e3%81%97%e3%81%bb%e3%83%bc) | N/A |
+| 8 | [#オーイシ1000円](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%82%a4%e3%82%b71000%e5%86%86) | N/A |
+| 9 | [#WESTube](http://twitter.com/search?q=%23WESTube) | #WESTube is a hashtag used on social media to promote West African music and culture. It is used to share videos, songs, and other content related to West African music and culture. The hashtag is used by people from all over the world who are interested in learning more about West African music and culture. |
+| 10 | [ハエの形態模写](http://twitter.com/search?q=%e3%83%8f%e3%82%a8%e3%81%ae%e5%bd%a2%e6%85%8b%e6%a8%a1%e5%86%99) | N/A |
+| 11 | [エスコン](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%b3%e3%83%b3) | N/A |
+| 12 | [スクフェス](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%95%e3%82%a7%e3%82%b9) | スクフェス (SukuFesu) is short for "School Idol Festival", a rhythm game developed by KLabGames and published by Bushiroad. It is based on the Love Live! franchise and features characters from the series. Players must tap notes in time with the music to score points and complete levels. The game also includes a card collecting element, where players can collect cards featuring characters from the series. The English translation of スクフェス is School Idol Festival. |
+| 13 | [ミルモ舞台化](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a2%e8%88%9e%e5%8f%b0%e5%8c%96) | N/A |
+| 14 | [フランコ](http://twitter.com/search?q=%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b3) | N/A |
+| 15 | [仲良しテレフォン](http://twitter.com/search?q=%e4%bb%b2%e8%89%af%e3%81%97%e3%83%86%e3%83%ac%e3%83%95%e3%82%a9%e3%83%b3) | N/A |
+| 16 | [リッキー](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%82%ad%e3%83%bc) | リッキー (Rikki) is a Japanese given name, usually used for boys. It is derived from the English name Ricky and can be translated to mean "powerful ruler". |
+| 17 | [スパチャジャ](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%81%e3%83%a3%e3%82%b8%e3%83%a3) | N/A |
+| 18 | [チョコパイ](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%91%e3%82%a4) | N/A |
+| 19 | [スタファイライブ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%95%e3%82%a1%e3%82%a4%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 20 | [ジャニーズ先輩後輩同期](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba%e5%85%88%e8%bc%a9%e5%be%8c%e8%bc%a9%e5%90%8c%e6%9c%9f) | N/A |
+| 21 | [松井裕樹](http://twitter.com/search?q=%e6%9d%be%e4%ba%95%e8%a3%95%e6%a8%b9) | N/A |
+| 22 | [カムデン](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%87%e3%83%b3) | N/A |
+| 23 | [ジャスティス](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%83%86%e3%82%a3%e3%82%b9) | N/A |
+| 24 | [重大発表](http://twitter.com/search?q=%e9%87%8d%e5%a4%a7%e7%99%ba%e8%a1%a8) | N/A |
+| 25 | [ポン菓子](http://twitter.com/search?q=%e3%83%9d%e3%83%b3%e8%8f%93%e5%ad%90) | N/A |
+| 26 | [マヨネーズ味](http://twitter.com/search?q=%e3%83%9e%e3%83%a8%e3%83%8d%e3%83%bc%e3%82%ba%e5%91%b3) | N/A |
+| 27 | [白井さん](http://twitter.com/search?q=%e7%99%bd%e4%ba%95%e3%81%95%e3%82%93) | N/A |
+| 28 | [伊藤裕季也](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e8%a3%95%e5%ad%a3%e4%b9%9f) | N/A |
+| 29 | [キモ声優](http://twitter.com/search?q=%e3%82%ad%e3%83%a2%e5%a3%b0%e5%84%aa) | N/A |
+| 30 | [白井悠介](http://twitter.com/search?q=%e7%99%bd%e4%ba%95%e6%82%a0%e4%bb%8b) | N/A |
+| 31 | [クマバチ](http://twitter.com/search?q=%e3%82%af%e3%83%9e%e3%83%90%e3%83%81) | N/A |
+| 32 | [バトナマ](http://twitter.com/search?q=%e3%83%90%e3%83%88%e3%83%8a%e3%83%9e) | N/A |
+| 33 | [赤ちゃん毛](http://twitter.com/search?q=%e8%b5%a4%e3%81%a1%e3%82%83%e3%82%93%e6%af%9b) | N/A |
+| 34 | [スプレー缶](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%83%ac%e3%83%bc%e7%bc%b6) | スプレー缶 (supure-kan) is a Japanese term for an aerosol can. It is used to refer to any type of aerosol spray can, such as those used for hair styling, air fresheners, insect repellents, and paint. In English, it is simply referred to as an aerosol can. |
+| 35 | [田中正義](http://twitter.com/search?q=%e7%94%b0%e4%b8%ad%e6%ad%a3%e7%be%a9) | 田中正義 is a Japanese name. It can be translated to English as "Masayoshi Tanaka". |
+| 36 | [少年ファンタジー](http://twitter.com/search?q=%e5%b0%91%e5%b9%b4%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%82%b8%e3%83%bc) | N/A |
+| 37 | [笠岡ラーメン](http://twitter.com/search?q=%e7%ac%a0%e5%b2%a1%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3) | N/A |
+| 38 | [開幕戦勝利](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e6%88%a6%e5%8b%9d%e5%88%a9) | N/A |
+| 39 | [ウィンブレアニメ化](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%b3%e3%83%96%e3%83%ac%e3%82%a2%e3%83%8b%e3%83%a1%e5%8c%96) | N/A |
+| 40 | [金剛要求](http://twitter.com/search?q=%e9%87%91%e5%89%9b%e8%a6%81%e6%b1%82) | N/A |
+| 41 | [けんしげひー](http://twitter.com/search?q=%e3%81%91%e3%82%93%e3%81%97%e3%81%92%e3%81%b2%e3%83%bc) | N/A |
+| 42 | [オペラ座](http://twitter.com/search?q=%e3%82%aa%e3%83%9a%e3%83%a9%e5%ba%a7) | N/A |
+| 43 | [すごめの告知](http://twitter.com/search?q=%e3%81%99%e3%81%94%e3%82%81%e3%81%ae%e5%91%8a%e7%9f%a5) | N/A |
+| 44 | [WESTのYouTube](http://twitter.com/search?q=WEST%e3%81%aeYouTube) | N/A |
+| 45 | [ファイターズ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
+| 46 | [鈴科百合子](http://twitter.com/search?q=%e9%88%b4%e7%a7%91%e7%99%be%e5%90%88%e5%ad%90) | N/A |
+| 47 | [京都公演](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e5%85%ac%e6%bc%94) | N/A |
+| 48 | [グローバル票](http://twitter.com/search?q=%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e7%a5%a8) | N/A |
 
 
 

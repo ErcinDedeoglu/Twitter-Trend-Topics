@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-30 13:20:10 UTC`
+📆 Last Updated: `2023-03-30 14:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
-| 2 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 3 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
-| 4 | [#david68](http://twitter.com/search?q=%23david68) | N/A |
+| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 2 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
+| 3 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 4 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
 | 5 | [#AncheSeSembra](http://twitter.com/search?q=%23AncheSeSembra) | N/A |
-| 6 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 7 | [Ficarra](http://twitter.com/search?q=Ficarra) | N/A |
-| 8 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 9 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
-| 10 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 11 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 12 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 13 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 6 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 7 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 8 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 9 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 10 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 11 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
+| 12 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 13 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
 | 14 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 15 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 16 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 17 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 15 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 16 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 17 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
 | 18 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 19 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 20 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 21 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 22 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 23 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 19 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 20 | [SIAE](http://twitter.com/search?q=SIAE) | N/A |
+| 21 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 22 | [emanuela fanelli](http://twitter.com/search?q=emanuela+fanelli) | N/A |
+| 23 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
 | 24 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 25 | [bastoni](http://twitter.com/search?q=bastoni) | N/A |
-| 26 | [Emanuela Fanelli](http://twitter.com/search?q=Emanuela+Fanelli) | N/A |
-| 27 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 28 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 29 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
-| 30 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 31 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
+| 25 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
+| 26 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 27 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 28 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 29 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 30 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 31 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
 | 32 | [Franco Califano](http://twitter.com/search?q=Franco+Califano) | N/A |
-| 33 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
-| 34 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 35 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 37 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 38 | [rebic](http://twitter.com/search?q=rebic) | N/A |
-| 39 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 40 | [Il Parlamento](http://twitter.com/search?q=Il+Parlamento) | N/A |
+| 33 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 34 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 35 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 36 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 37 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 38 | [mara maionchi](http://twitter.com/search?q=mara+maionchi) | N/A |
+| 39 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 40 | [Parlamento Europeo](http://twitter.com/search?q=Parlamento+Europeo) | N/A |
 | 41 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 42 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 43 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
-| 44 | [blue skye](http://twitter.com/search?q=blue+skye) | N/A |
-| 45 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 46 | [gennaro](http://twitter.com/search?q=gennaro) | N/A |
-| 47 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 48 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 49 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 42 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 43 | [rebic](http://twitter.com/search?q=rebic) | N/A |
+| 44 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 45 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 46 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 47 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 48 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 49 | [Esterno Notte](http://twitter.com/search?q=Esterno+Notte) | N/A |
+| 50 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 
 
 

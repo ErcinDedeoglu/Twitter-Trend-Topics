@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-30 13:20:03 UTC`
+📆 Last Updated: `2023-03-30 14:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 2 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
-| 3 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 4 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
-| 5 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
-| 6 | [#ANITTA30](http://twitter.com/search?q=%23ANITTA30) | N/A |
+| 2 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 3 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
+| 4 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 5 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
+| 6 | [Junior Santos](http://twitter.com/search?q=Junior+Santos) | N/A |
 | 7 | [Jr Santos](http://twitter.com/search?q=Jr+Santos) | N/A |
-| 8 | [Jair Bolsonaro](http://twitter.com/search?q=Jair+Bolsonaro) | Jair Bolsonaro is the current President of Brazil. He is a far-right politician who has been criticized for his controversial views on race, gender, and LGBT rights. The name Jair Bolsonaro is derived from his given name, Jair Messias Bolsonaro. |
-| 9 | [Mito](http://twitter.com/search?q=Mito) | N/A |
-| 10 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 11 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
-| 12 | [Via Mobilidade](http://twitter.com/search?q=Via+Mobilidade) | N/A |
-| 13 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 14 | [Presidente Bolsonaro](http://twitter.com/search?q=Presidente+Bolsonaro) | N/A |
-| 15 | [#BolsonaroNaCadeia](http://twitter.com/search?q=%23BolsonaroNaCadeia) | N/A |
-| 16 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
-| 17 | [BOLSONARO PRESO HOJE](http://twitter.com/search?q=BOLSONARO+PRESO+HOJE) | N/A |
-| 18 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 19 | [yves](http://twitter.com/search?q=yves) | N/A |
-| 20 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
-| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 22 | [heejin](http://twitter.com/search?q=heejin) | N/A |
-| 23 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
-| 24 | [Glória a Deus](http://twitter.com/search?q=Gl%c3%b3ria+a+Deus) | N/A |
-| 25 | [Capitão](http://twitter.com/search?q=Capit%c3%a3o) | N/A |
-| 26 | [Penha](http://twitter.com/search?q=Penha) | N/A |
-| 27 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
-| 28 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
-| 29 | [TROPA DO PÉ QUENTE](http://twitter.com/search?q=TROPA+DO+P%c3%89+QUENTE) | N/A |
-| 30 | [Villani](http://twitter.com/search?q=Villani) | N/A |
-| 31 | [Kajuru](http://twitter.com/search?q=Kajuru) | N/A |
-| 32 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 33 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
-| 34 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 35 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
-| 36 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
-| 37 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 38 | [Aeroporto](http://twitter.com/search?q=Aeroporto) | N/A |
-| 39 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 40 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 41 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
-| 42 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 43 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
-| 44 | [Amante](http://twitter.com/search?q=Amante) | N/A |
-| 45 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 46 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 47 | [Gleisi](http://twitter.com/search?q=Gleisi) | N/A |
-| 48 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
-| 49 | [Titular](http://twitter.com/search?q=Titular) | N/A |
-| 50 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 8 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 9 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
+| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 11 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 12 | [#ANITTA30](http://twitter.com/search?q=%23ANITTA30) | N/A |
+| 13 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 14 | [Jair Bolsonaro](http://twitter.com/search?q=Jair+Bolsonaro) | Jair Bolsonaro is the current President of Brazil. He is a far-right politician who has been criticized for his controversial views on race, gender, and LGBT rights. The name Jair Bolsonaro is derived from his given name, Jair Messias Bolsonaro. |
+| 15 | [Mito](http://twitter.com/search?q=Mito) | N/A |
+| 16 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 17 | [Presidente Bolsonaro](http://twitter.com/search?q=Presidente+Bolsonaro) | N/A |
+| 18 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
+| 19 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
+| 20 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
+| 21 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 22 | [bogum](http://twitter.com/search?q=bogum) | N/A |
+| 23 | [heejin](http://twitter.com/search?q=heejin) | N/A |
+| 24 | [Via Mobilidade](http://twitter.com/search?q=Via+Mobilidade) | N/A |
+| 25 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 26 | [#BolsonaroNaCadeia](http://twitter.com/search?q=%23BolsonaroNaCadeia) | N/A |
+| 27 | [Lotam](http://twitter.com/search?q=Lotam) | N/A |
+| 28 | [Capitão](http://twitter.com/search?q=Capit%c3%a3o) | N/A |
+| 29 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 30 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
+| 31 | [Flopou](http://twitter.com/search?q=Flopou) | N/A |
+| 32 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
+| 33 | [BOLSONARO PRESO HOJE](http://twitter.com/search?q=BOLSONARO+PRESO+HOJE) | N/A |
+| 34 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 35 | [yves](http://twitter.com/search?q=yves) | N/A |
+| 36 | [Bem-vindo](http://twitter.com/search?q=Bem-vindo) | N/A |
+| 37 | [Penha](http://twitter.com/search?q=Penha) | N/A |
+| 38 | [EU AUTORIZO](http://twitter.com/search?q=EU+AUTORIZO) | N/A |
+| 39 | [Box Pássaro e Serpente](http://twitter.com/search?q=Box+P%c3%a1ssaro+e+Serpente) | N/A |
+| 40 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
+| 41 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 42 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 43 | [Nosso Presidente](http://twitter.com/search?q=Nosso+Presidente) | N/A |
+| 44 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 45 | [Glória a Deus](http://twitter.com/search?q=Gl%c3%b3ria+a+Deus) | N/A |
+| 46 | [ICMS](http://twitter.com/search?q=ICMS) | N/A |
+| 47 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
+| 48 | [Aeroporto](http://twitter.com/search?q=Aeroporto) | N/A |
+| 49 | [Mazzuco](http://twitter.com/search?q=Mazzuco) | N/A |
+| 50 | [Kajuru](http://twitter.com/search?q=Kajuru) | N/A |
 
 
 

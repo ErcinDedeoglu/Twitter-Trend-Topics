@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-30 13:20:48 UTC`
+📆 Last Updated: `2023-03-30 14:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Portugal
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | N/A |
-| 2 | [Paneira](http://twitter.com/search?q=Paneira) | N/A |
-| 3 | [José Duarte](http://twitter.com/search?q=Jos%c3%a9+Duarte) | N/A |
+| 2 | [José Duarte](http://twitter.com/search?q=Jos%c3%a9+Duarte) | N/A |
+| 3 | [Paneira](http://twitter.com/search?q=Paneira) | N/A |
 | 4 | [Ventura](http://twitter.com/search?q=Ventura) | N/A |
-| 5 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
-| 6 | [#canal11futeboltotal](http://twitter.com/search?q=%23canal11futeboltotal) | N/A |
-| 7 | [Santos Silva](http://twitter.com/search?q=Santos+Silva) | N/A |
+| 5 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 6 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
+| 7 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
 | 8 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
-| 9 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 10 | [Carlos Moedas](http://twitter.com/search?q=Carlos+Moedas) | N/A |
-| 11 | [Dala](http://twitter.com/search?q=Dala) | N/A |
-| 12 | [#ANITTA30](http://twitter.com/search?q=%23ANITTA30) | N/A |
-| 13 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 14 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 15 | [#andebolscp](http://twitter.com/search?q=%23andebolscp) | N/A |
-| 16 | [João Sousa](http://twitter.com/search?q=Jo%c3%a3o+Sousa) | N/A |
-| 17 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 9 | [Santos Silva](http://twitter.com/search?q=Santos+Silva) | N/A |
+| 10 | [Dala](http://twitter.com/search?q=Dala) | N/A |
+| 11 | [#canal11futeboltotal](http://twitter.com/search?q=%23canal11futeboltotal) | N/A |
+| 12 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 13 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 14 | [#ANITTA30](http://twitter.com/search?q=%23ANITTA30) | N/A |
+| 15 | [João Sousa](http://twitter.com/search?q=Jo%c3%a3o+Sousa) | N/A |
+| 16 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 17 | [Carlos Moedas](http://twitter.com/search?q=Carlos+Moedas) | N/A |
+| 18 | [Neres](http://twitter.com/search?q=Neres) | N/A |
 | 19 | [#GovernoMaisProximo](http://twitter.com/search?q=%23GovernoMaisProximo) | N/A |
-| 20 | [Neres](http://twitter.com/search?q=Neres) | N/A |
-| 21 | [Hugo Soares](http://twitter.com/search?q=Hugo+Soares) | N/A |
-| 22 | [Buda](http://twitter.com/search?q=Buda) | N/A |
-| 23 | [Antunes](http://twitter.com/search?q=Antunes) | N/A |
-| 24 | [Afeganistão](http://twitter.com/search?q=Afeganist%c3%a3o) | N/A |
-| 25 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 26 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
-| 27 | [PARABÉNS PRESIDENTE](http://twitter.com/search?q=PARAB%c3%89NS+PRESIDENTE) | N/A |
-| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 29 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 30 | [Interessante](http://twitter.com/search?q=Interessante) | N/A |
-| 31 | [Centro Ismaili](http://twitter.com/search?q=Centro+Ismaili) | N/A |
-| 32 | [o psd](http://twitter.com/search?q=o+psd) | N/A |
-| 33 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 34 | [lusa](http://twitter.com/search?q=lusa) | N/A |
-| 35 | [Ukra](http://twitter.com/search?q=Ukra) | N/A |
-| 36 | [Melanie Martinez](http://twitter.com/search?q=Melanie+Martinez) | N/A |
+| 20 | [Antunes](http://twitter.com/search?q=Antunes) | N/A |
+| 21 | [Buda](http://twitter.com/search?q=Buda) | N/A |
+| 22 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 23 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 25 | [Afeganistão](http://twitter.com/search?q=Afeganist%c3%a3o) | N/A |
+| 26 | [Parabéns Presidente](http://twitter.com/search?q=Parab%c3%a9ns+Presidente) | N/A |
+| 27 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
+| 28 | [#andebolscp](http://twitter.com/search?q=%23andebolscp) | N/A |
+| 29 | [Suárez](http://twitter.com/search?q=Su%c3%a1rez) | Suárez is a Spanish surname. It is derived from the Latin word "suarius," which means "of the swineherd." In English, it can be translated to mean "swineherd." |
+| 30 | [centro ismaili](http://twitter.com/search?q=centro+ismaili) | N/A |
+| 31 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 32 | [varandas](http://twitter.com/search?q=varandas) | N/A |
+| 33 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
+| 34 | [Lusa](http://twitter.com/search?q=Lusa) | N/A |
+| 35 | [Alojamento Local](http://twitter.com/search?q=Alojamento+Local) | N/A |
+| 36 | [Carmo](http://twitter.com/search?q=Carmo) | N/A |
 | 37 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 38 | [Pires](http://twitter.com/search?q=Pires) | N/A |
-| 39 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 40 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 41 | [Varandas](http://twitter.com/search?q=Varandas) | N/A |
-| 42 | [carmo](http://twitter.com/search?q=carmo) | N/A |
-| 43 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 44 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 45 | [Mondego](http://twitter.com/search?q=Mondego) | N/A |
-| 46 | [Afegão](http://twitter.com/search?q=Afeg%c3%a3o) | N/A |
-| 47 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 48 | [Visão](http://twitter.com/search?q=Vis%c3%a3o) | N/A |
-| 49 | [o bce](http://twitter.com/search?q=o+bce) | N/A |
-| 50 | [islão](http://twitter.com/search?q=isl%c3%a3o) | N/A |
+| 38 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 39 | [Inácia](http://twitter.com/search?q=In%c3%a1cia) | N/A |
+| 40 | [Pires](http://twitter.com/search?q=Pires) | N/A |
+| 41 | [Visão](http://twitter.com/search?q=Vis%c3%a3o) | N/A |
+| 42 | [Janones](http://twitter.com/search?q=Janones) | N/A |
+| 43 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 44 | [Zezinho](http://twitter.com/search?q=Zezinho) | Zezinho is a Portuguese nickname meaning "little Joe" or "little Joseph". It is commonly used as a term of endearment for someone named Joseph or for someone who is small and cute. |
+| 45 | [Liga 3](http://twitter.com/search?q=Liga+3) | N/A |
+| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 47 | [Melanie Martinez](http://twitter.com/search?q=Melanie+Martinez) | N/A |
+| 48 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 49 | [Imaginem](http://twitter.com/search?q=Imaginem) | N/A |
+| 50 | [Martim Moniz](http://twitter.com/search?q=Martim+Moniz) | N/A |
 
 
 

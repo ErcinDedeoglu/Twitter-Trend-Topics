@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-30 13:20:48 UTC`
+📆 Last Updated: `2023-03-30 14:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 2 | [strandberg](http://twitter.com/search?q=strandberg) | N/A |
-| 3 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
+| 1 | [strandberg](http://twitter.com/search?q=strandberg) | N/A |
+| 2 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |
+| 3 | [Kjetil Knutsen](http://twitter.com/search?q=Kjetil+Knutsen) | N/A |
 | 4 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
-| 5 | [Romssa Arena](http://twitter.com/search?q=Romssa+Arena) | N/A |
+| 5 | [Alfheim](http://twitter.com/search?q=Alfheim) | N/A |
 | 6 | [Prime](http://twitter.com/search?q=Prime) | N/A |
-| 7 | [Alfheim](http://twitter.com/search?q=Alfheim) | N/A |
+| 7 | [Romssa Arena](http://twitter.com/search?q=Romssa+Arena) | N/A |
 | 8 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 9 | [storbritannia](http://twitter.com/search?q=storbritannia) | N/A |
+| 9 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
 | 10 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 11 | [østigård](http://twitter.com/search?q=%c3%b8stig%c3%a5rd) | N/A |
-| 12 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
-| 13 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 14 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
-| 15 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | N/A |
-| 16 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 17 | [sjekk](http://twitter.com/search?q=sjekk) | N/A |
-| 18 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
-| 19 | [#Arendal](http://twitter.com/search?q=%23Arendal) | N/A |
-| 20 | [Troms Kraft](http://twitter.com/search?q=Troms+Kraft) | N/A |
-| 21 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
-| 22 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
-| 23 | [#LongCovid](http://twitter.com/search?q=%23LongCovid) | N/A |
-| 24 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 25 | [stabæk](http://twitter.com/search?q=stab%c3%a6k) | N/A |
+| 11 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 12 | [Enga](http://twitter.com/search?q=Enga) | N/A |
+| 13 | [#arendal](http://twitter.com/search?q=%23arendal) | N/A |
+| 14 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | N/A |
+| 15 | [gleder](http://twitter.com/search?q=gleder) | N/A |
+| 16 | [troms kraft](http://twitter.com/search?q=troms+kraft) | N/A |
+| 17 | [spania](http://twitter.com/search?q=spania) | N/A |
+| 18 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
+| 19 | [#LongCovid](http://twitter.com/search?q=%23LongCovid) | N/A |
+| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 21 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 22 | [sjekk](http://twitter.com/search?q=sjekk) | N/A |
+| 23 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
+| 24 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 25 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
 | 26 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 27 | [Svalbard](http://twitter.com/search?q=Svalbard) | N/A |
-| 28 | [faktisk](http://twitter.com/search?q=faktisk) | N/A |
-| 29 | [NTNU](http://twitter.com/search?q=NTNU) | N/A |
-| 30 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 31 | [Erna](http://twitter.com/search?q=Erna) | N/A |
+| 27 | [faktisk](http://twitter.com/search?q=faktisk) | N/A |
+| 28 | [NTNU](http://twitter.com/search?q=NTNU) | N/A |
+| 29 | [Tigray](http://twitter.com/search?q=Tigray) | N/A |
+| 30 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
+| 31 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 32 | [Island](http://twitter.com/search?q=Island) | N/A |
-| 33 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 34 | [ståle solbakken](http://twitter.com/search?q=st%c3%a5le+solbakken) | N/A |
-| 35 | [Janne](http://twitter.com/search?q=Janne) | N/A |
-| 36 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 37 | [Tipper](http://twitter.com/search?q=Tipper) | N/A |
-| 38 | [Norwegian](http://twitter.com/search?q=Norwegian) | N/A |
-| 39 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
-| 40 | [brann](http://twitter.com/search?q=brann) | N/A |
-| 41 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 42 | [#GroveBlockchain](http://twitter.com/search?q=%23GroveBlockchain) | N/A |
-| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 33 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 34 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
+| 35 | [#unitedno](http://twitter.com/search?q=%23unitedno) | N/A |
+| 36 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 37 | [Janne](http://twitter.com/search?q=Janne) | N/A |
+| 38 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
+| 39 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 40 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 41 | [jordal](http://twitter.com/search?q=jordal) | N/A |
+| 42 | [ståle solbakken](http://twitter.com/search?q=st%c3%a5le+solbakken) | N/A |
+| 43 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 | 44 | [forstår](http://twitter.com/search?q=forst%c3%a5r) | N/A |
-| 45 | [Rana](http://twitter.com/search?q=Rana) | N/A |
-| 46 | [Ellers](http://twitter.com/search?q=Ellers) | N/A |
-| 47 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 48 | [Trøndelag](http://twitter.com/search?q=Tr%c3%b8ndelag) | N/A |
-| 49 | [Nadderud](http://twitter.com/search?q=Nadderud) | N/A |
-| 50 | [strand larsen](http://twitter.com/search?q=strand+larsen) | N/A |
+| 45 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
+| 46 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
+| 47 | [Gratulerer](http://twitter.com/search?q=Gratulerer) | N/A |
+| 48 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 49 | [Ellers](http://twitter.com/search?q=Ellers) | N/A |
+| 50 | [aftenposten](http://twitter.com/search?q=aftenposten) | N/A |
 
 
 

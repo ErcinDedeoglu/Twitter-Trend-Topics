@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-03-30 13:20:11 UTC`
+📆 Last Updated: `2023-03-30 14:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,53 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ZeldaVuelve](http://twitter.com/search?q=%23ZeldaVuelve) | N/A |
-| 2 | [Camiño](http://twitter.com/search?q=Cami%c3%b1o) | N/A |
-| 3 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
-| 4 | [#YOIGOxFINI](http://twitter.com/search?q=%23YOIGOxFINI) | N/A |
+| 2 | [Arenal](http://twitter.com/search?q=Arenal) | N/A |
+| 3 | [Camiño](http://twitter.com/search?q=Cami%c3%b1o) | N/A |
+| 4 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
 | 5 | [#APOYOROCIO30M](http://twitter.com/search?q=%23APOYOROCIO30M) | N/A |
 | 6 | [Ana Peleteiro](http://twitter.com/search?q=Ana+Peleteiro) | N/A |
-| 7 | [O Son](http://twitter.com/search?q=O+Son) | N/A |
-| 8 | [Laura Gómez](http://twitter.com/search?q=Laura+G%c3%b3mez) | N/A |
-| 9 | [#JotDownUS](http://twitter.com/search?q=%23JotDownUS) | N/A |
-| 10 | [Yung Beef](http://twitter.com/search?q=Yung+Beef) | N/A |
+| 7 | [#YOIGOxFINI](http://twitter.com/search?q=%23YOIGOxFINI) | N/A |
+| 8 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 9 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 10 | [Laura Gómez](http://twitter.com/search?q=Laura+G%c3%b3mez) | N/A |
 | 11 | [#AmazonMediaMarkt](http://twitter.com/search?q=%23AmazonMediaMarkt) | N/A |
 | 12 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 13 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 14 | [TSJC](http://twitter.com/search?q=TSJC) | N/A |
-| 15 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 16 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 17 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 18 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 19 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
-| 20 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 21 | [Days Gone](http://twitter.com/search?q=Days+Gone) | N/A |
-| 22 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
-| 23 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 24 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 25 | [Cáritas](http://twitter.com/search?q=C%c3%a1ritas) | N/A |
-| 26 | [Complutense](http://twitter.com/search?q=Complutense) | Complutense is a term used to refer to the University of Madrid, which is officially known as the Complutense University of Madrid. The name comes from the Latin word Complutum, which was the ancient name for the city of Alcalá de Henares, where the university was originally founded in 1293. In English, Complutense means "of Alcalá". |
-| 27 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 28 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 29 | [Javier Cámara](http://twitter.com/search?q=Javier+C%c3%a1mara) | N/A |
-| 30 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
-| 31 | [Sábado 1](http://twitter.com/search?q=S%c3%a1bado+1) | N/A |
-| 32 | [La Iglesia](http://twitter.com/search?q=La+Iglesia) | N/A |
-| 33 | [#laruletadelasuerte](http://twitter.com/search?q=%23laruletadelasuerte) | N/A |
-| 34 | [#AR30M](http://twitter.com/search?q=%23AR30M) | N/A |
-| 35 | [#Gianmarco30M](http://twitter.com/search?q=%23Gianmarco30M) | N/A |
-| 36 | [#YoMeRebelo30M](http://twitter.com/search?q=%23YoMeRebelo30M) | N/A |
-| 37 | [#YoSoyFP](http://twitter.com/search?q=%23YoSoyFP) | N/A |
-| 38 | [#CongresoFP23](http://twitter.com/search?q=%23CongresoFP23) | N/A |
-| 39 | [#CopaReinaLFEndesa](http://twitter.com/search?q=%23CopaReinaLFEndesa) | N/A |
-| 40 | [#Asturias](http://twitter.com/search?q=%23Asturias) | N/A |
-| 41 | [#vientresdealquiler](http://twitter.com/search?q=%23vientresdealquiler) | N/A |
-| 42 | [#REBUILD2023](http://twitter.com/search?q=%23REBUILD2023) | N/A |
+| 13 | [TSJC](http://twitter.com/search?q=TSJC) | N/A |
+| 14 | [O Son](http://twitter.com/search?q=O+Son) | N/A |
+| 15 | [Yung Beef](http://twitter.com/search?q=Yung+Beef) | N/A |
+| 16 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 17 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 18 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
+| 19 | [Meriton](http://twitter.com/search?q=Meriton) | N/A |
+| 20 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 21 | [#laruletadelasuerte](http://twitter.com/search?q=%23laruletadelasuerte) | N/A |
+| 22 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 23 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
+| 24 | [Hoy 30](http://twitter.com/search?q=Hoy+30) | N/A |
+| 25 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 26 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 27 | [El Congreso](http://twitter.com/search?q=El+Congreso) | N/A |
+| 28 | [Days Gone](http://twitter.com/search?q=Days+Gone) | N/A |
+| 29 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
+| 30 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 31 | [D.E.P](http://twitter.com/search?q=D.E.P) | N/A |
+| 32 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 33 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 34 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 35 | [Callao](http://twitter.com/search?q=Callao) | Callao is a port city located in Peru. It is the country's main port and the largest city in the Callao Region. The name "Callao" comes from a Spanish word meaning "cove" or "bay". In English, it can be translated to mean "a sheltered harbor". |
+| 36 | [Griñan](http://twitter.com/search?q=Gri%c3%b1an) | N/A |
+| 37 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 38 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
+| 39 | [PACMA](http://twitter.com/search?q=PACMA) | N/A |
+| 40 | [Sábado 1](http://twitter.com/search?q=S%c3%a1bado+1) | N/A |
+| 41 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 42 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
+| 43 | [Cáritas](http://twitter.com/search?q=C%c3%a1ritas) | N/A |
+| 44 | [unicaja](http://twitter.com/search?q=unicaja) | N/A |
+| 45 | [Sube](http://twitter.com/search?q=Sube) | N/A |
+| 46 | [Javier Cámara](http://twitter.com/search?q=Javier+C%c3%a1mara) | N/A |
+| 47 | [Viernes Santo](http://twitter.com/search?q=Viernes+Santo) | N/A |
+| 48 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
 
 
 

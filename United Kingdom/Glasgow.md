@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-03-30 13:19:54 UTC`
+📆 Last Updated: `2023-03-30 14:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
-| 2 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 3 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 4 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 5 | [#WorldBipolarDay](http://twitter.com/search?q=%23WorldBipolarDay) | N/A |
-| 6 | [Margaret Ferrier](http://twitter.com/search?q=Margaret+Ferrier) | N/A |
-| 7 | [Chris Kaba](http://twitter.com/search?q=Chris+Kaba) | N/A |
-| 8 | [Earls Court](http://twitter.com/search?q=Earls+Court) | N/A |
-| 9 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 10 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 11 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 12 | [Communist Party](http://twitter.com/search?q=Communist+Party) | N/A |
-| 13 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 14 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
+| 1 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 2 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 3 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 4 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
+| 5 | [#GothTools](http://twitter.com/search?q=%23GothTools) | N/A |
+| 6 | [#BVFootball](http://twitter.com/search?q=%23BVFootball) | N/A |
+| 7 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 8 | [Ryan Day](http://twitter.com/search?q=Ryan+Day) | Ryan Day is a phrase used to describe a period of time when someone is feeling particularly motivated and productive. It is often used to refer to a day when someone has accomplished a lot or achieved something significant. |
+| 9 | [Communist Party](http://twitter.com/search?q=Communist+Party) | N/A |
+| 10 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 11 | [#bbcdoctors](http://twitter.com/search?q=%23bbcdoctors) | N/A |
+| 12 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 13 | [#WorldBipolarDay](http://twitter.com/search?q=%23WorldBipolarDay) | N/A |
+| 14 | [Earl's Court](http://twitter.com/search?q=Earl%27s+Court) | N/A |
 | 15 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 16 | [#bargainhunt](http://twitter.com/search?q=%23bargainhunt) | N/A |
-| 17 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 18 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
-| 19 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
-| 20 | [#NetZero](http://twitter.com/search?q=%23NetZero) | N/A |
-| 21 | [Parole Board](http://twitter.com/search?q=Parole+Board) | N/A |
-| 22 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
-| 23 | [Union Flag](http://twitter.com/search?q=Union+Flag) | N/A |
-| 24 | [Defoe](http://twitter.com/search?q=Defoe) | N/A |
-| 25 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 26 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
-| 27 | [Rutherglen](http://twitter.com/search?q=Rutherglen) | N/A |
-| 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 29 | [WASD](http://twitter.com/search?q=WASD) | N/A |
-| 30 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
-| 31 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
-| 32 | [Fowler](http://twitter.com/search?q=Fowler) | N/A |
-| 33 | [Masi](http://twitter.com/search?q=Masi) | N/A |
-| 34 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 35 | [Policy Exchange](http://twitter.com/search?q=Policy+Exchange) | N/A |
-| 36 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 37 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
-| 38 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
-| 39 | [Arsewank](http://twitter.com/search?q=Arsewank) | N/A |
-| 40 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
-| 41 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
-| 42 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 43 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
-| 44 | [North Sea](http://twitter.com/search?q=North+Sea) | N/A |
-| 45 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 46 | [Streeting](http://twitter.com/search?q=Streeting) | N/A |
-| 47 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 48 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 49 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 16 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 17 | [Vote Conservative](http://twitter.com/search?q=Vote+Conservative) | N/A |
+| 18 | [Chris Kaba](http://twitter.com/search?q=Chris+Kaba) | N/A |
+| 19 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 20 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 21 | [Margaret Ferrier](http://twitter.com/search?q=Margaret+Ferrier) | N/A |
+| 22 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 23 | [Upside](http://twitter.com/search?q=Upside) | N/A |
+| 24 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 25 | [Union Flag](http://twitter.com/search?q=Union+Flag) | N/A |
+| 26 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
+| 27 | [Parole Board](http://twitter.com/search?q=Parole+Board) | N/A |
+| 28 | [Lenglet](http://twitter.com/search?q=Lenglet) | Lenglet is a French surname. It is derived from the Old French word "lengle," which means "lance" or "spear." In English, the name Lenglet can be translated to mean "one who wields a spear." |
+| 29 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
+| 30 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
+| 31 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
+| 32 | [Rutherglen](http://twitter.com/search?q=Rutherglen) | N/A |
+| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 34 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 35 | [Defoe](http://twitter.com/search?q=Defoe) | N/A |
+| 36 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 37 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 38 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 39 | [Fowler](http://twitter.com/search?q=Fowler) | N/A |
+| 40 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 41 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 42 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 43 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
+| 44 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
+| 45 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 46 | [Mason Mount](http://twitter.com/search?q=Mason+Mount) | Mason Mount is an English professional footballer who plays as an attacking midfielder for Premier League club Chelsea and the England national team. He is known for his passing, dribbling, and shooting ability. |
+| 47 | [Policy Exchange](http://twitter.com/search?q=Policy+Exchange) | N/A |
+| 48 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
+| 49 | [Arsewank](http://twitter.com/search?q=Arsewank) | N/A |
 
 
 

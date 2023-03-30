@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-03-30 13:20:15 UTC`
+📆 Last Updated: `2023-03-30 14:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#AFLDogsLions](http://twitter.com/search?q=%23AFLDogsLions) | N/A |
 | 2 | [#NRLRoostersEels](http://twitter.com/search?q=%23NRLRoostersEels) | N/A |
 | 3 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 4 | [Jamarra](http://twitter.com/search?q=Jamarra) | N/A |
+| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 5 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
-| 6 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 7 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 8 | [Bont](http://twitter.com/search?q=Bont) | N/A |
-| 9 | [Arthur Jones](http://twitter.com/search?q=Arthur+Jones) | N/A |
-| 10 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 11 | [Lobb](http://twitter.com/search?q=Lobb) | N/A |
-| 12 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
-| 13 | [#bcm325](http://twitter.com/search?q=%23bcm325) | N/A |
-| 14 | [Porter](http://twitter.com/search?q=Porter) | N/A |
-| 15 | [Naughton](http://twitter.com/search?q=Naughton) | N/A |
-| 16 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 17 | [Clive Palmer](http://twitter.com/search?q=Clive+Palmer) | N/A |
-| 18 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
-| 19 | [sivo](http://twitter.com/search?q=sivo) | N/A |
-| 20 | [Hipwood](http://twitter.com/search?q=Hipwood) | N/A |
-| 21 | [Simonsson](http://twitter.com/search?q=Simonsson) | N/A |
-| 22 | [Arty Jones](http://twitter.com/search?q=Arty+Jones) | N/A |
-| 23 | [Welcome to Country](http://twitter.com/search?q=Welcome+to+Country) | N/A |
-| 24 | [Dunkley](http://twitter.com/search?q=Dunkley) | N/A |
-| 25 | [Keary](http://twitter.com/search?q=Keary) | N/A |
-| 26 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 27 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
-| 28 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
-| 29 | [America](http://twitter.com/search?q=America) | N/A |
-| 30 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 31 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 32 | [Alex Greenwich](http://twitter.com/search?q=Alex+Greenwich) | N/A |
-| 33 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 34 | [Harris Andrews](http://twitter.com/search?q=Harris+Andrews) | N/A |
-| 35 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 36 | [peter bol](http://twitter.com/search?q=peter+bol) | N/A |
-| 37 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 38 | [The Matrix](http://twitter.com/search?q=The+Matrix) | N/A |
-| 39 | [Doggies](http://twitter.com/search?q=Doggies) | N/A |
-| 40 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
-| 41 | [Waqa Blake](http://twitter.com/search?q=Waqa+Blake) | N/A |
-| 42 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 43 | [Neale](http://twitter.com/search?q=Neale) | N/A |
-| 44 | [Aunty Joy](http://twitter.com/search?q=Aunty+Joy) | N/A |
-| 45 | [Gunston](http://twitter.com/search?q=Gunston) | N/A |
-| 46 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
-| 47 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 48 | [Niki Savva](http://twitter.com/search?q=Niki+Savva) | N/A |
-| 49 | [Tedesco](http://twitter.com/search?q=Tedesco) | N/A |
-| 50 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 6 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 7 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 8 | [Jamarra](http://twitter.com/search?q=Jamarra) | N/A |
+| 9 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 10 | [Porter](http://twitter.com/search?q=Porter) | N/A |
+| 11 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
+| 12 | [#bcm325](http://twitter.com/search?q=%23bcm325) | N/A |
+| 13 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 14 | [Clive Palmer](http://twitter.com/search?q=Clive+Palmer) | N/A |
+| 15 | [Sivo](http://twitter.com/search?q=Sivo) | N/A |
+| 16 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 17 | [lobb](http://twitter.com/search?q=lobb) | N/A |
+| 18 | [#CleanAirForum](http://twitter.com/search?q=%23CleanAirForum) | N/A |
+| 19 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 20 | [Bont](http://twitter.com/search?q=Bont) | N/A |
+| 21 | [Naughton](http://twitter.com/search?q=Naughton) | N/A |
+| 22 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 23 | [dunkley](http://twitter.com/search?q=dunkley) | N/A |
+| 24 | [Hipwood](http://twitter.com/search?q=Hipwood) | N/A |
+| 25 | [Welcome to Country](http://twitter.com/search?q=Welcome+to+Country) | N/A |
+| 26 | [arty jones](http://twitter.com/search?q=arty+jones) | N/A |
+| 27 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 28 | [Keary](http://twitter.com/search?q=Keary) | N/A |
+| 29 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 30 | [KEITA](http://twitter.com/search?q=KEITA) | N/A |
+| 31 | [Ashcroft](http://twitter.com/search?q=Ashcroft) | N/A |
+| 32 | [alex greenwich](http://twitter.com/search?q=alex+greenwich) | N/A |
+| 33 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 34 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 35 | [Pearce](http://twitter.com/search?q=Pearce) | N/A |
+| 36 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 37 | [Tedesco](http://twitter.com/search?q=Tedesco) | N/A |
+| 38 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 39 | [harris andrews](http://twitter.com/search?q=harris+andrews) | N/A |
+| 40 | [arthur jones](http://twitter.com/search?q=arthur+jones) | N/A |
+| 41 | [The Matrix](http://twitter.com/search?q=The+Matrix) | N/A |
+| 42 | [Aunty Joy](http://twitter.com/search?q=Aunty+Joy) | N/A |
+| 43 | [Niki Savva](http://twitter.com/search?q=Niki+Savva) | N/A |
+| 44 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 45 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 46 | [Jimmy Kimmel](http://twitter.com/search?q=Jimmy+Kimmel) | N/A |
+| 47 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 48 | [Neale](http://twitter.com/search?q=Neale) | N/A |
+| 49 | [Hodgson](http://twitter.com/search?q=Hodgson) | N/A |
+| 50 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 
 
 

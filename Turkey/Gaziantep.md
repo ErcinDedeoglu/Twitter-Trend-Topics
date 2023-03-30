@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-03-30 13:20:33 UTC`
+📆 Last Updated: `2023-03-30 14:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DünyaSıfırAtıkGünü](http://twitter.com/search?q=%23D%c3%bcnyaS%c4%b1f%c4%b1rAt%c4%b1kG%c3%bcn%c3%bc) | N/A |
-| 2 | [#BayKEMALdeBirleştik](http://twitter.com/search?q=%23BayKEMALdeBirle%c5%9ftik) | N/A |
-| 3 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
-| 4 | [#Kızıldere](http://twitter.com/search?q=%23K%c4%b1z%c4%b1ldere) | N/A |
-| 5 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
-| 6 | [1048 Pasinler](http://twitter.com/search?q=1048+Pasinler) | N/A |
-| 7 | [3 Nisan](http://twitter.com/search?q=3+Nisan) | N/A |
-| 8 | [Irak'tan](http://twitter.com/search?q=Irak%27tan) | N/A |
-| 9 | [Fenerbahçe - Beşiktaş](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Be%c5%9fikta%c5%9f) | N/A |
-| 10 | [Ha HDP Ha CHP](http://twitter.com/search?q=Ha+HDP+Ha+CHP) | N/A |
-| 11 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
-| 12 | [Bank of America](http://twitter.com/search?q=Bank+of+America) | Bank of America is a multinational banking and financial services corporation headquartered in Charlotte, North Carolina. It is the second-largest bank holding company in the United States by assets. The company provides a variety of banking, investing, asset management, and other financial services to customers around the world. |
-| 13 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
-| 14 | [Hiranur Vakfı](http://twitter.com/search?q=Hiranur+Vakf%c4%b1) | N/A |
-| 15 | [Tokat'ın Niksar](http://twitter.com/search?q=Tokat%27%c4%b1n+Niksar) | N/A |
-| 16 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
-| 17 | [Tuncay Şanlı](http://twitter.com/search?q=Tuncay+%c5%9eanl%c4%b1) | N/A |
-| 18 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 19 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
-| 20 | [Bedelli](http://twitter.com/search?q=Bedelli) | N/A |
-| 21 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 22 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
-| 23 | [HDP'li](http://twitter.com/search?q=HDP%27li) | N/A |
-| 24 | [ERDOĞANLA DEVAM](http://twitter.com/search?q=ERDO%c4%9eANLA+DEVAM) | N/A |
-| 25 | [Bulgar](http://twitter.com/search?q=Bulgar) | N/A |
-| 26 | [2 Nisan Pazar](http://twitter.com/search?q=2+Nisan+Pazar) | N/A |
-| 27 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 28 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
-| 29 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 30 | [Ersin Tatar](http://twitter.com/search?q=Ersin+Tatar) | N/A |
-| 31 | [Adnan Oktar](http://twitter.com/search?q=Adnan+Oktar) | N/A |
-| 32 | [Baykuş](http://twitter.com/search?q=Bayku%c5%9f) | N/A |
-| 33 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
-| 34 | [Kütüphaneler Haftası](http://twitter.com/search?q=K%c3%bct%c3%bcphaneler+Haftas%c4%b1) | N/A |
-| 35 | [#EytMaaşİçinNisanıBekliyor](http://twitter.com/search?q=%23EytMaa%c5%9f%c4%b0%c3%a7inNisan%c4%b1Bekliyor) | N/A |
-| 36 | [#YavSadGül](http://twitter.com/search?q=%23YavSadG%c3%bcl) | N/A |
-| 37 | [#EYTMaaşıEylüleKalamaz](http://twitter.com/search?q=%23EYTMaa%c5%9f%c4%b1Eyl%c3%bcleKalamaz) | N/A |
-| 38 | [#beklentim](http://twitter.com/search?q=%23beklentim) | N/A |
-| 39 | [#MahirÇayan](http://twitter.com/search?q=%23Mahir%c3%87ayan) | N/A |
-| 40 | [#EYTli5BinVeKısmiyiSoruyor](http://twitter.com/search?q=%23EYTli5BinVeK%c4%b1smiyiSoruyor) | N/A |
-| 41 | [#ÖSYM](http://twitter.com/search?q=%23%c3%96SYM) | N/A |
-| 42 | [#DîsaEm](http://twitter.com/search?q=%23D%c3%aesaEm) | N/A |
-| 43 | [#StajyerCirakHakkınıAlacak](http://twitter.com/search?q=%23StajyerCirakHakk%c4%b1n%c4%b1Alacak) | N/A |
-| 44 | [#bilet](http://twitter.com/search?q=%23bilet) | N/A |
-| 45 | [#Unibizimoysizin](http://twitter.com/search?q=%23Unibizimoysizin) | N/A |
-| 46 | [#30mart1972](http://twitter.com/search?q=%2330mart1972) | N/A |
-| 47 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 48 | [#5000veKısmiGecikmesin](http://twitter.com/search?q=%235000veK%c4%b1smiGecikmesin) | N/A |
+| 1 | [3 Nisan](http://twitter.com/search?q=3+Nisan) | N/A |
+| 2 | [#BAŞARDIK](http://twitter.com/search?q=%23BA%c5%9eARDIK) | N/A |
+| 3 | [#BayKEMALdeBirlestik](http://twitter.com/search?q=%23BayKEMALdeBirlestik) | N/A |
+| 4 | [Skandal Tehdit](http://twitter.com/search?q=Skandal+Tehdit) | N/A |
+| 5 | [#Reis2022EkAtama](http://twitter.com/search?q=%23Reis2022EkAtama) | N/A |
+| 6 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
+| 7 | [YÖK Başkanı Özvar](http://twitter.com/search?q=Y%c3%96K+Ba%c5%9fkan%c4%b1+%c3%96zvar) | N/A |
+| 8 | [Sınavlar](http://twitter.com/search?q=S%c4%b1navlar) | N/A |
+| 9 | [Yurtlar](http://twitter.com/search?q=Yurtlar) | N/A |
+| 10 | [İsteyen](http://twitter.com/search?q=%c4%b0steyen) | N/A |
+| 11 | [SnErdoğan MahkumaAf](http://twitter.com/search?q=SnErdo%c4%9fan+MahkumaAf) | N/A |
+| 12 | [Vizeler](http://twitter.com/search?q=Vizeler) | N/A |
+| 13 | [1048 Pasinler](http://twitter.com/search?q=1048+Pasinler) | N/A |
+| 14 | [Irak'tan](http://twitter.com/search?q=Irak%27tan) | N/A |
+| 15 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
+| 16 | [Ahmet Yener](http://twitter.com/search?q=Ahmet+Yener) | N/A |
+| 17 | [ERDOĞANLA DEVAM](http://twitter.com/search?q=ERDO%c4%9eANLA+DEVAM) | N/A |
+| 18 | [Fenerbahçe - Beşiktaş](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Be%c5%9fikta%c5%9f) | N/A |
+| 19 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
+| 20 | [Hiranur Vakfı](http://twitter.com/search?q=Hiranur+Vakf%c4%b1) | N/A |
+| 21 | [Bank of America](http://twitter.com/search?q=Bank+of+America) | Bank of America is a multinational banking and financial services corporation headquartered in Charlotte, North Carolina. It is the second-largest bank holding company in the United States by assets. The company provides a variety of banking, investing, asset management, and other financial services to customers around the world. |
+| 22 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
+| 23 | [Ha HDP Ha CHP](http://twitter.com/search?q=Ha+HDP+Ha+CHP) | N/A |
+| 24 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
+| 25 | [Sünnet](http://twitter.com/search?q=S%c3%bcnnet) | N/A |
+| 26 | [Tokat'ın Niksar](http://twitter.com/search?q=Tokat%27%c4%b1n+Niksar) | N/A |
+| 27 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
+| 28 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 29 | [Milli Eğitim Bakanlığı](http://twitter.com/search?q=Milli+E%c4%9fitim+Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 30 | [Tuncay Şanlı](http://twitter.com/search?q=Tuncay+%c5%9eanl%c4%b1) | N/A |
+| 31 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 32 | [HDP'li](http://twitter.com/search?q=HDP%27li) | N/A |
+| 33 | [Bedelli](http://twitter.com/search?q=Bedelli) | N/A |
+| 34 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 35 | [Bulgar](http://twitter.com/search?q=Bulgar) | N/A |
+| 36 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
+| 37 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 38 | [Baykuş](http://twitter.com/search?q=Bayku%c5%9f) | N/A |
+| 39 | [#DünyaSıfırAtıkGünü](http://twitter.com/search?q=%23D%c3%bcnyaS%c4%b1f%c4%b1rAt%c4%b1kG%c3%bcn%c3%bc) | N/A |
+| 40 | [#ueniversiteler](http://twitter.com/search?q=%23ueniversiteler) | N/A |
+| 41 | [#hibrit](http://twitter.com/search?q=%23hibrit) | N/A |
+| 42 | [#yüzyüze](http://twitter.com/search?q=%23y%c3%bczy%c3%bcze) | N/A |
+| 43 | [#Kızıldere](http://twitter.com/search?q=%23K%c4%b1z%c4%b1ldere) | N/A |
+| 44 | [#YavSadGül](http://twitter.com/search?q=%23YavSadG%c3%bcl) | N/A |
+| 45 | [#beklentim](http://twitter.com/search?q=%23beklentim) | N/A |
+| 46 | [#EYTli5BinVeKısmiyiSoruyor](http://twitter.com/search?q=%23EYTli5BinVeK%c4%b1smiyiSoruyor) | N/A |
+| 47 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
+| 48 | [#MahirÇayan](http://twitter.com/search?q=%23Mahir%c3%87ayan) | N/A |
 
 
 
