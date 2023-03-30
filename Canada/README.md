@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-03-30 07:17:14 UTC`
+📆 Last Updated: `2023-03-30 08:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Canada
 | 4 | [Premier](http://twitter.com/search?q=Premier) | N/A |
 | 5 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
 | 6 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 7 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 8 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 9 | [#onstorm](http://twitter.com/search?q=%23onstorm) | N/A |
-| 10 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 11 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 12 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
-| 13 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 14 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 15 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 16 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 17 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 18 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 19 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 7 | [Pawlowski](http://twitter.com/search?q=Pawlowski) | N/A |
+| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 9 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 10 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 11 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
+| 12 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 13 | [#TrudeauDestroyingCanada](http://twitter.com/search?q=%23TrudeauDestroyingCanada) | N/A |
+| 14 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 15 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 16 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
+| 17 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 18 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 19 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
 | 20 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
-| 21 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 22 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
-| 23 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
-| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 25 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 26 | [Wet'suwet'en](http://twitter.com/search?q=Wet%27suwet%27en) | N/A |
-| 27 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 28 | [Notley](http://twitter.com/search?q=Notley) | N/A |
-| 29 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 30 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
-| 31 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
-| 32 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 33 | [Torry Tanner](http://twitter.com/search?q=Torry+Tanner) | N/A |
-| 34 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 35 | [Janis](http://twitter.com/search?q=Janis) | N/A |
-| 36 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 21 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 22 | [Notley](http://twitter.com/search?q=Notley) | N/A |
+| 23 | [Janis](http://twitter.com/search?q=Janis) | N/A |
+| 24 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 25 | [Wet'suwet'en](http://twitter.com/search?q=Wet%27suwet%27en) | N/A |
+| 26 | [Torry Tanner](http://twitter.com/search?q=Torry+Tanner) | N/A |
+| 27 | [Uvalde](http://twitter.com/search?q=Uvalde) | N/A |
+| 28 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 29 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 30 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 31 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 32 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 33 | [Rob Anderson](http://twitter.com/search?q=Rob+Anderson) | N/A |
+| 34 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 36 | [Dubé](http://twitter.com/search?q=Dub%c3%a9) | N/A |
 | 37 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
-| 38 | [Rob Anderson](http://twitter.com/search?q=Rob+Anderson) | N/A |
-| 39 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
-| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 41 | [Summer McIntosh](http://twitter.com/search?q=Summer+McIntosh) | N/A |
-| 42 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 38 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 39 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 40 | [McCabe](http://twitter.com/search?q=McCabe) | N/A |
+| 41 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
+| 42 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
 | 43 | [Yoshua Bengio](http://twitter.com/search?q=Yoshua+Bengio) | N/A |
-| 44 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 45 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 46 | [Dubé](http://twitter.com/search?q=Dub%c3%a9) | N/A |
-| 47 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 44 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 45 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 46 | [Dental](http://twitter.com/search?q=Dental) | N/A |
+| 47 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
 | 48 | [akito hirose](http://twitter.com/search?q=akito+hirose) | N/A |
 | 49 | [cyle larin](http://twitter.com/search?q=cyle+larin) | N/A |
-| 50 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 50 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norfolk
 
-📆 Last Updated: `2023-03-30 07:17:09 UTC`
+📆 Last Updated: `2023-03-30 08:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 2 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 1 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 2 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 3 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
 | 4 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
 | 5 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 6 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 7 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 6 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 7 | [Louie](http://twitter.com/search?q=Louie) | N/A |
 | 8 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 10 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 9 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 10 | [#Wordle649](http://twitter.com/search?q=%23Wordle649) | N/A |
 | 11 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 12 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 13 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 14 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
-| 15 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
-| 16 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 17 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
-| 18 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 19 | [#Wordle649](http://twitter.com/search?q=%23Wordle649) | N/A |
-| 20 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 21 | [SOCD](http://twitter.com/search?q=SOCD) | N/A |
-| 22 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 23 | [Logan Lerman](http://twitter.com/search?q=Logan+Lerman) | N/A |
-| 24 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 25 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 26 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
-| 27 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 28 | [THE DROUGHT IS OVER](http://twitter.com/search?q=THE+DROUGHT+IS+OVER) | N/A |
-| 29 | [Grace Randolph](http://twitter.com/search?q=Grace+Randolph) | N/A |
-| 30 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 31 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 32 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 33 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 34 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
-| 35 | [Gustavsson](http://twitter.com/search?q=Gustavsson) | N/A |
-| 36 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 37 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 38 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 39 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 40 | [Arming](http://twitter.com/search?q=Arming) | N/A |
-| 41 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 42 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
-| 43 | [Keyblade](http://twitter.com/search?q=Keyblade) | N/A |
-| 44 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 45 | [Skully](http://twitter.com/search?q=Skully) | N/A |
-| 46 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 47 | [Gus Bus](http://twitter.com/search?q=Gus+Bus) | N/A |
-| 48 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
+| 12 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 13 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
+| 14 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 15 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 16 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 17 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
+| 18 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 19 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
+| 20 | [SOCD](http://twitter.com/search?q=SOCD) | N/A |
+| 21 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 22 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
+| 23 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 24 | [Logan Lerman](http://twitter.com/search?q=Logan+Lerman) | N/A |
+| 25 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
+| 26 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 27 | [Grace Randolph](http://twitter.com/search?q=Grace+Randolph) | N/A |
+| 28 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
+| 29 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 30 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 31 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 32 | [THE DROUGHT IS OVER](http://twitter.com/search?q=THE+DROUGHT+IS+OVER) | N/A |
+| 33 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 34 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 35 | [Keyblade](http://twitter.com/search?q=Keyblade) | N/A |
+| 36 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 37 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 38 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 39 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 40 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
+| 41 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 42 | [Hitbox](http://twitter.com/search?q=Hitbox) | N/A |
+| 43 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 44 | [Arming](http://twitter.com/search?q=Arming) | N/A |
+| 45 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 46 | [Skully](http://twitter.com/search?q=Skully) | N/A |
+| 47 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 48 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
 | 49 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
 
 
