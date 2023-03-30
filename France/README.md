@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-03-30 04:17:08 UTC`
+📆 Last Updated: `2023-03-30 05:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for France
 | 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
 | 2 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 3 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
-| 4 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
-| 5 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
-| 6 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 7 | [#TopChef](http://twitter.com/search?q=%23TopChef) | N/A |
-| 8 | [ZLAN](http://twitter.com/search?q=ZLAN) | N/A |
+| 4 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
+| 5 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
+| 6 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
+| 7 | [#topchef](http://twitter.com/search?q=%23topchef) | N/A |
+| 8 | [Zlan](http://twitter.com/search?q=Zlan) | N/A |
 | 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 10 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 11 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 12 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 13 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 10 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 11 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 12 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 13 | [picsou](http://twitter.com/search?q=picsou) | N/A |
 | 14 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 15 | [Picsou](http://twitter.com/search?q=Picsou) | N/A |
-| 16 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
-| 17 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
-| 18 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 19 | [Pharos](http://twitter.com/search?q=Pharos) | N/A |
-| 20 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 21 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 22 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 23 | [Bakambu](http://twitter.com/search?q=Bakambu) | N/A |
-| 24 | [albane](http://twitter.com/search?q=albane) | N/A |
+| 15 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 16 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 17 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 18 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
+| 19 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 20 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 21 | [albane](http://twitter.com/search?q=albane) | N/A |
+| 22 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
+| 23 | [frédéric lefebvre](http://twitter.com/search?q=fr%c3%a9d%c3%a9ric+lefebvre) | N/A |
+| 24 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 25 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
-| 26 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
-| 27 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 28 | [Dawala](http://twitter.com/search?q=Dawala) | N/A |
-| 29 | [frédéric lefebvre](http://twitter.com/search?q=fr%c3%a9d%c3%a9ric+lefebvre) | N/A |
-| 30 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 31 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 32 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 33 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 26 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 27 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 28 | [PHAROS](http://twitter.com/search?q=PHAROS) | N/A |
+| 29 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 30 | [Dawala](http://twitter.com/search?q=Dawala) | N/A |
+| 31 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 32 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
+| 33 | [Streisand](http://twitter.com/search?q=Streisand) | N/A |
 | 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 35 | [Streisand](http://twitter.com/search?q=Streisand) | N/A |
-| 36 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 37 | [Orlia](http://twitter.com/search?q=Orlia) | N/A |
-| 38 | [dugarry](http://twitter.com/search?q=dugarry) | N/A |
-| 39 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 40 | [gifi](http://twitter.com/search?q=gifi) | N/A |
-| 41 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
-| 42 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 43 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 44 | [Rahan](http://twitter.com/search?q=Rahan) | N/A |
-| 45 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
-| 46 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 47 | [Xanax](http://twitter.com/search?q=Xanax) | N/A |
-| 48 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 49 | [Staline](http://twitter.com/search?q=Staline) | N/A |
-| 50 | [Riles](http://twitter.com/search?q=Riles) | N/A |
+| 35 | [dugarry](http://twitter.com/search?q=dugarry) | N/A |
+| 36 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
+| 37 | [gifi](http://twitter.com/search?q=gifi) | N/A |
+| 38 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 39 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 40 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 41 | [Rahan](http://twitter.com/search?q=Rahan) | N/A |
+| 42 | [Geneviève](http://twitter.com/search?q=Genevi%c3%a8ve) | N/A |
+| 43 | [Bakambu](http://twitter.com/search?q=Bakambu) | N/A |
+| 44 | [Orlia](http://twitter.com/search?q=Orlia) | N/A |
+| 45 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
+| 46 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
+| 47 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 48 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
+| 49 | [Riles](http://twitter.com/search?q=Riles) | N/A |
+| 50 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
 
 
 

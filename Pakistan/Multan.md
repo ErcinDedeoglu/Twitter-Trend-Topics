@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-30 04:16:53 UTC`
+📆 Last Updated: `2023-03-30 05:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
 | 4 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
 | 5 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
-| 6 | [rana tanveer](http://twitter.com/search?q=rana+tanveer) | N/A |
+| 6 | [Rana Tanveer](http://twitter.com/search?q=Rana+Tanveer) | N/A |
 | 7 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
 | 8 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 9 | [Asia Cup](http://twitter.com/search?q=Asia+Cup) | N/A |
-| 10 | [jhagra](http://twitter.com/search?q=jhagra) | N/A |
-| 11 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 12 | [Kamran](http://twitter.com/search?q=Kamran) | N/A |
-| 13 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 14 | [chief justice of pakistan](http://twitter.com/search?q=chief+justice+of+pakistan) | N/A |
+| 9 | [jhagra](http://twitter.com/search?q=jhagra) | N/A |
+| 10 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 11 | [Kamran](http://twitter.com/search?q=Kamran) | N/A |
+| 12 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 13 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 14 | [Asia Cup](http://twitter.com/search?q=Asia+Cup) | N/A |
 | 15 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 16 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 16 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
 | 17 | [Morne Morkel](http://twitter.com/search?q=Morne+Morkel) | N/A |
 | 18 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 19 | [Kasur](http://twitter.com/search?q=Kasur) | N/A |
-| 20 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
-| 21 | [article 191](http://twitter.com/search?q=article+191) | N/A |
-| 22 | [Filthy](http://twitter.com/search?q=Filthy) | N/A |
-| 23 | [Elections](http://twitter.com/search?q=Elections) | N/A |
-| 24 | [Education Minister](http://twitter.com/search?q=Education+Minister) | N/A |
+| 19 | [Biryani](http://twitter.com/search?q=Biryani) | N/A |
+| 20 | [Kasur](http://twitter.com/search?q=Kasur) | N/A |
+| 21 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
+| 22 | [article 191](http://twitter.com/search?q=article+191) | N/A |
+| 23 | [Education Minister](http://twitter.com/search?q=Education+Minister) | N/A |
+| 24 | [Filth](http://twitter.com/search?q=Filth) | N/A |
 | 25 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 26 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
+| 26 | [pm shehbaz sharif](http://twitter.com/search?q=pm+shehbaz+sharif) | N/A |
 | 27 | [Drone](http://twitter.com/search?q=Drone) | N/A |
 | 28 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
 | 29 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 30 | [irfan qadir](http://twitter.com/search?q=irfan+qadir) | N/A |
-| 31 | [U Turn](http://twitter.com/search?q=U+Turn) | N/A |
-| 32 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
-| 33 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
-| 34 | [Wasim Khan](http://twitter.com/search?q=Wasim+Khan) | N/A |
-| 35 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 36 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
-| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
-| 39 | [fawad khan](http://twitter.com/search?q=fawad+khan) | N/A |
-| 40 | [Andrew Puttick](http://twitter.com/search?q=Andrew+Puttick) | N/A |
-| 41 | [Kami](http://twitter.com/search?q=Kami) | N/A |
-| 42 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 43 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 44 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 45 | [Beshumar](http://twitter.com/search?q=Beshumar) | N/A |
-| 46 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 47 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 48 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
-| 49 | [Phir](http://twitter.com/search?q=Phir) | N/A |
+| 30 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 31 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
+| 32 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 33 | [irfan qadir](http://twitter.com/search?q=irfan+qadir) | N/A |
+| 34 | [U Turn](http://twitter.com/search?q=U+Turn) | N/A |
+| 35 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
+| 36 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
+| 37 | [Wasim Khan](http://twitter.com/search?q=Wasim+Khan) | N/A |
+| 38 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
+| 39 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
+| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 41 | [fawad khan](http://twitter.com/search?q=fawad+khan) | N/A |
+| 42 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 43 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
+| 44 | [Riyadh](http://twitter.com/search?q=Riyadh) | N/A |
+| 45 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 47 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
+| 48 | [Phir](http://twitter.com/search?q=Phir) | N/A |
+| 49 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
 
 
 

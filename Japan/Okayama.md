@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-03-30 04:17:15 UTC`
+📆 Last Updated: `2023-03-30 05:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [モバマス](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%83%9e%e3%82%b9) | N/A |
-| 2 | [ユーリス](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%83%aa%e3%82%b9) | N/A |
-| 3 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | カラフェス (Karafesu) is a Japanese term for a party or gathering that is held to celebrate a special occasion. It usually involves food, drinks, and entertainment. The word comes from the combination of two words: "kara" meaning empty and "fesu" meaning festival. In English, it can be translated as "empty festival". |
-| 4 | [#ジュビロとミツカン](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a5%e3%83%93%e3%83%ad%e3%81%a8%e3%83%9f%e3%83%84%e3%82%ab%e3%83%b3) | N/A |
-| 5 | [テイオウイカ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%82%aa%e3%82%a6%e3%82%a4%e3%82%ab) | N/A |
-| 6 | [イッテツくん](http://twitter.com/search?q=%e3%82%a4%e3%83%83%e3%83%86%e3%83%84%e3%81%8f%e3%82%93) | N/A |
-| 7 | [新人さん](http://twitter.com/search?q=%e6%96%b0%e4%ba%ba%e3%81%95%e3%82%93) | N/A |
-| 8 | [ラインマーカー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
-| 9 | [Twilog](http://twitter.com/search?q=Twilog) | Twilog is a Japanese website that allows users to search and view tweets from other Twitter users. The name Twilog is a combination of the words “Twitter” and “blog”, which reflects the site’s purpose of providing an easy way to browse through tweets. |
-| 10 | [伝説のホスト](http://twitter.com/search?q=%e4%bc%9d%e8%aa%ac%e3%81%ae%e3%83%9b%e3%82%b9%e3%83%88) | N/A |
-| 11 | [#Wカイト](http://twitter.com/search?q=%23W%e3%82%ab%e3%82%a4%e3%83%88) | N/A |
-| 12 | [クイボ弱体化](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%9c%e5%bc%b1%e4%bd%93%e5%8c%96) | N/A |
-| 13 | [ウーラノス](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%a9%e3%83%8e%e3%82%b9) | N/A |
-| 14 | [#山盛りおやつが届く](http://twitter.com/search?q=%23%e5%b1%b1%e7%9b%9b%e3%82%8a%e3%81%8a%e3%82%84%e3%81%a4%e3%81%8c%e5%b1%8a%e3%81%8f) | N/A |
-| 15 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 16 | [ジェッパ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%83%91) | N/A |
-| 17 | [カニタンク](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e3%82%bf%e3%83%b3%e3%82%af) | N/A |
-| 18 | [サメライド](http://twitter.com/search?q=%e3%82%b5%e3%83%a1%e3%83%a9%e3%82%a4%e3%83%89) | N/A |
+| 2 | [カラフェス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%95%e3%82%a7%e3%82%b9) | カラフェス (Karafesu) is a Japanese term for a party or gathering that is held to celebrate a special occasion. It usually involves food, drinks, and entertainment. The word comes from the combination of two words: "kara" meaning empty and "fesu" meaning festival. In English, it can be translated as "empty festival". |
+| 3 | [#tama954](http://twitter.com/search?q=%23tama954) | #Tama954 is a hashtag used by fans of the Japanese pop group Tama. It is used to show support for the group and to share content related to them. The number 954 is a reference to the year (1995) that the group was formed. |
+| 4 | [アイナちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 5 | [Twilog](http://twitter.com/search?q=Twilog) | Twilog is a Japanese website that allows users to search and view tweets from other Twitter users. The name Twilog is a combination of the words “Twitter” and “blog”, which reflects the site’s purpose of providing an easy way to browse through tweets. |
+| 6 | [YCSJ](http://twitter.com/search?q=YCSJ) | N/A |
+| 7 | [#ジュビロとミツカン](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a5%e3%83%93%e3%83%ad%e3%81%a8%e3%83%9f%e3%83%84%e3%82%ab%e3%83%b3) | N/A |
+| 8 | [新人さん](http://twitter.com/search?q=%e6%96%b0%e4%ba%ba%e3%81%95%e3%82%93) | N/A |
+| 9 | [#信長出陣で出かけよう](http://twitter.com/search?q=%23%e4%bf%a1%e9%95%b7%e5%87%ba%e9%99%a3%e3%81%a7%e5%87%ba%e3%81%8b%e3%81%91%e3%82%88%e3%81%86) | N/A |
+| 10 | [ユーリス](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%83%aa%e3%82%b9) | N/A |
+| 11 | [伝説のホスト](http://twitter.com/search?q=%e4%bc%9d%e8%aa%ac%e3%81%ae%e3%83%9b%e3%82%b9%e3%83%88) | N/A |
+| 12 | [夏美の謎解き成功](http://twitter.com/search?q=%e5%a4%8f%e7%be%8e%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 13 | [イッテツくん](http://twitter.com/search?q=%e3%82%a4%e3%83%83%e3%83%86%e3%83%84%e3%81%8f%e3%82%93) | N/A |
+| 14 | [#プロセカ](http://twitter.com/search?q=%23%e3%83%97%e3%83%ad%e3%82%bb%e3%82%ab) | N/A |
+| 15 | [テイオウイカ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%82%aa%e3%82%a6%e3%82%a4%e3%82%ab) | N/A |
+| 16 | [ウーラノス](http://twitter.com/search?q=%e3%82%a6%e3%83%bc%e3%83%a9%e3%83%8e%e3%82%b9) | N/A |
+| 17 | [モモンガ](http://twitter.com/search?q=%e3%83%a2%e3%83%a2%e3%83%b3%e3%82%ac) | モモンガ is a Japanese word that means "monkey". It is often used as a nickname for someone who is mischievous or playful. |
+| 18 | [レンくん](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
 | 19 | [佐伯くん](http://twitter.com/search?q=%e4%bd%90%e4%bc%af%e3%81%8f%e3%82%93) | N/A |
-| 20 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 21 | [堕天ハチワレ](http://twitter.com/search?q=%e5%a0%95%e5%a4%a9%e3%83%8f%e3%83%81%e3%83%af%e3%83%ac) | N/A |
-| 22 | [レジェンディア](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%87%e3%82%a3%e3%82%a2) | N/A |
-| 23 | [シーサー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%b5%e3%83%bc) | N/A |
-| 24 | [放送禁止用語](http://twitter.com/search?q=%e6%94%be%e9%80%81%e7%a6%81%e6%ad%a2%e7%94%a8%e8%aa%9e) | N/A |
-| 25 | [プリンセスメーカー](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bb%e3%82%b9%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
-| 26 | [てんしとあくま](http://twitter.com/search?q=%e3%81%a6%e3%82%93%e3%81%97%e3%81%a8%e3%81%82%e3%81%8f%e3%81%be) | N/A |
-| 27 | [ちいかわくじ](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e3%81%8f%e3%81%98) | N/A |
-| 28 | [スプスピ](http://twitter.com/search?q=%e3%82%b9%e3%83%97%e3%82%b9%e3%83%94) | N/A |
-| 29 | [ハンコ強化](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%b3%e5%bc%b7%e5%8c%96) | N/A |
-| 30 | [リンちゃん](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | リンちゃん is a nickname for the Japanese character Rin Tohsaka from the anime and visual novel series Fate/stay night. It is a combination of her given name, Rin, and the Japanese honorific suffix -chan. In English, it can be translated as "Rin-chan". |
-| 31 | [レンくん](http://twitter.com/search?q=%e3%83%ac%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
-| 32 | [くりまんじゅう](http://twitter.com/search?q=%e3%81%8f%e3%82%8a%e3%81%be%e3%82%93%e3%81%98%e3%82%85%e3%81%86) | N/A |
-| 33 | [二重決済](http://twitter.com/search?q=%e4%ba%8c%e9%87%8d%e6%b1%ba%e6%b8%88) | N/A |
-| 34 | [シャプマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%97%e3%83%9e) | シャプマ is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it is sometimes referred to as a "shamisen song". |
-| 35 | [エキゾチックペット](http://twitter.com/search?q=%e3%82%a8%e3%82%ad%e3%82%be%e3%83%81%e3%83%83%e3%82%af%e3%83%9a%e3%83%83%e3%83%88) | N/A |
-| 36 | [ちいかわマーケット](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88) | N/A |
+| 20 | [ラインマーカー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 21 | [高速バスの揺れ](http://twitter.com/search?q=%e9%ab%98%e9%80%9f%e3%83%90%e3%82%b9%e3%81%ae%e6%8f%ba%e3%82%8c) | N/A |
+| 22 | [リンちゃん](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | リンちゃん is a nickname for the Japanese character Rin Tohsaka from the anime and visual novel series Fate/stay night. It is a combination of her given name, Rin, and the Japanese honorific suffix -chan. In English, it can be translated as "Rin-chan". |
+| 23 | [堕天ハチワレ](http://twitter.com/search?q=%e5%a0%95%e5%a4%a9%e3%83%8f%e3%83%81%e3%83%af%e3%83%ac) | N/A |
+| 24 | [ちいかわくじ](http://twitter.com/search?q=%e3%81%a1%e3%81%84%e3%81%8b%e3%82%8f%e3%81%8f%e3%81%98) | N/A |
+| 25 | [レジェンディア](http://twitter.com/search?q=%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%87%e3%82%a3%e3%82%a2) | N/A |
+| 26 | [クイボ弱体化](http://twitter.com/search?q=%e3%82%af%e3%82%a4%e3%83%9c%e5%bc%b1%e4%bd%93%e5%8c%96) | N/A |
+| 27 | [シーサー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%82%b5%e3%83%bc) | N/A |
+| 28 | [ヴィクトリアマイル](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%82%af%e3%83%88%e3%83%aa%e3%82%a2%e3%83%9e%e3%82%a4%e3%83%ab) | N/A |
+| 29 | [ノーブラ](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%96%e3%83%a9) | N/A |
+| 30 | [くりまんじゅう](http://twitter.com/search?q=%e3%81%8f%e3%82%8a%e3%81%be%e3%82%93%e3%81%98%e3%82%85%e3%81%86) | N/A |
+| 31 | [サメライド](http://twitter.com/search?q=%e3%82%b5%e3%83%a1%e3%83%a9%e3%82%a4%e3%83%89) | N/A |
+| 32 | [カニタンク](http://twitter.com/search?q=%e3%82%ab%e3%83%8b%e3%82%bf%e3%83%b3%e3%82%af) | N/A |
+| 33 | [ジェッパ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%83%91) | N/A |
+| 34 | [アイナさん](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%8a%e3%81%95%e3%82%93) | N/A |
+| 35 | [ベッドマン](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 36 | [シャプマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%97%e3%83%9e) | シャプマ is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it is sometimes referred to as a "shamisen song". |
 | 37 | [ディスカ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%82%b9%e3%82%ab) | N/A |
-| 38 | [月100ドル](http://twitter.com/search?q=%e6%9c%88100%e3%83%89%e3%83%ab) | N/A |
-| 39 | [スペシュ](http://twitter.com/search?q=%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a5) | N/A |
-| 40 | [大佐ナーフ](http://twitter.com/search?q=%e5%a4%a7%e4%bd%90%e3%83%8a%e3%83%bc%e3%83%95) | N/A |
+| 38 | [エキゾチックペット](http://twitter.com/search?q=%e3%82%a8%e3%82%ad%e3%82%be%e3%83%81%e3%83%83%e3%82%af%e3%83%9a%e3%83%83%e3%83%88) | N/A |
+| 39 | [杏ちゃん](http://twitter.com/search?q=%e6%9d%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [月100ドル](http://twitter.com/search?q=%e6%9c%88100%e3%83%89%e3%83%ab) | N/A |
 | 41 | [デコイチラシ](http://twitter.com/search?q=%e3%83%87%e3%82%b3%e3%82%a4%e3%83%81%e3%83%a9%e3%82%b7) | N/A |
-| 42 | [小西氏サル発言](http://twitter.com/search?q=%e5%b0%8f%e8%a5%bf%e6%b0%8f%e3%82%b5%e3%83%ab%e7%99%ba%e8%a8%80) | N/A |
-| 43 | [マスコット](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88) | N/A |
-| 44 | [カムフロムアウェイ](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%95%e3%83%ad%e3%83%a0%e3%82%a2%e3%82%a6%e3%82%a7%e3%82%a4) | N/A |
-| 45 | [マナくん](http://twitter.com/search?q=%e3%83%9e%e3%83%8a%e3%81%8f%e3%82%93) | N/A |
-| 46 | [ジュディス](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%87%e3%82%a3%e3%82%b9) | N/A |
-| 47 | [ワイドローラー](http://twitter.com/search?q=%e3%83%af%e3%82%a4%e3%83%89%e3%83%ad%e3%83%bc%e3%83%a9%e3%83%bc) | N/A |
+| 42 | [大佐ナーフ](http://twitter.com/search?q=%e5%a4%a7%e4%bd%90%e3%83%8a%e3%83%bc%e3%83%95) | N/A |
+| 43 | [放送禁止用語](http://twitter.com/search?q=%e6%94%be%e9%80%81%e7%a6%81%e6%ad%a2%e7%94%a8%e8%aa%9e) | N/A |
+| 44 | [ハンコ強化](http://twitter.com/search?q=%e3%83%8f%e3%83%b3%e3%82%b3%e5%bc%b7%e5%8c%96) | N/A |
+| 45 | [ファジージャンプ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b8%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%97) | N/A |
+| 46 | [プリンセスメーカー](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%82%bb%e3%82%b9%e3%83%a1%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 47 | [らんねーちゃん](http://twitter.com/search?q=%e3%82%89%e3%82%93%e3%81%ad%e3%83%bc%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 
 
 

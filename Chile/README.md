@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-30 04:17:08 UTC`
+📆 Last Updated: `2023-03-30 05:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Chile
 | 4 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
 | 5 | [#DiaDelJovenCombatiente](http://twitter.com/search?q=%23DiaDelJovenCombatiente) | N/A |
 | 6 | [Villa Francia](http://twitter.com/search?q=Villa+Francia) | N/A |
-| 7 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
-| 8 | [#DiaDelJovenDelincuente](http://twitter.com/search?q=%23DiaDelJovenDelincuente) | N/A |
-| 9 | [#LaRojaxCHV](http://twitter.com/search?q=%23LaRojaxCHV) | N/A |
-| 10 | [#P1HARMONYINCHILE](http://twitter.com/search?q=%23P1HARMONYINCHILE) | N/A |
-| 11 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
-| 12 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
-| 13 | [Giorgio Jackson](http://twitter.com/search?q=Giorgio+Jackson) | N/A |
-| 14 | [Talca](http://twitter.com/search?q=Talca) | N/A |
-| 15 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
-| 16 | [Estado Policial](http://twitter.com/search?q=Estado+Policial) | N/A |
-| 17 | [Bocacielo](http://twitter.com/search?q=Bocacielo) | N/A |
+| 7 | [#DiaDelJovenDelincuente](http://twitter.com/search?q=%23DiaDelJovenDelincuente) | N/A |
+| 8 | [#larojaxchv](http://twitter.com/search?q=%23larojaxchv) | N/A |
+| 9 | [#ElExitoDeCarmenGloria](http://twitter.com/search?q=%23ElExitoDeCarmenGloria) | N/A |
+| 10 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
+| 11 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 12 | [Giorgio Jackson](http://twitter.com/search?q=Giorgio+Jackson) | N/A |
+| 13 | [Talca](http://twitter.com/search?q=Talca) | N/A |
+| 14 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
+| 15 | [Estado Policial](http://twitter.com/search?q=Estado+Policial) | N/A |
+| 16 | [Bocacielo](http://twitter.com/search?q=Bocacielo) | N/A |
+| 17 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
 | 18 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
-| 19 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
-| 20 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
-| 21 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 22 | [Tobalaba](http://twitter.com/search?q=Tobalaba) | N/A |
-| 23 | [Jorge Said](http://twitter.com/search?q=Jorge+Said) | N/A |
-| 24 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 25 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 26 | [insulza](http://twitter.com/search?q=insulza) | N/A |
-| 27 | [Américo](http://twitter.com/search?q=Am%c3%a9rico) | N/A |
-| 28 | [línea 1](http://twitter.com/search?q=l%c3%adnea+1) | N/A |
-| 29 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 30 | [Nattino](http://twitter.com/search?q=Nattino) | N/A |
-| 31 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
-| 32 | [Plaza Dignidad](http://twitter.com/search?q=Plaza+Dignidad) | N/A |
-| 33 | [Desbordes](http://twitter.com/search?q=Desbordes) | N/A |
-| 34 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 35 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
-| 36 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 37 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
-| 38 | [Degenerados](http://twitter.com/search?q=Degenerados) | N/A |
-| 39 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 40 | [Baquedano](http://twitter.com/search?q=Baquedano) | N/A |
-| 41 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 42 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 43 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 44 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 45 | [Parque Arauco](http://twitter.com/search?q=Parque+Arauco) | N/A |
-| 46 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 47 | [Marcelo Bielsa](http://twitter.com/search?q=Marcelo+Bielsa) | N/A |
-| 48 | [Parada](http://twitter.com/search?q=Parada) | N/A |
-| 49 | [FA y PC](http://twitter.com/search?q=FA+y+PC) | N/A |
-| 50 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
+| 19 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
+| 20 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 21 | [Tobalaba](http://twitter.com/search?q=Tobalaba) | N/A |
+| 22 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 23 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 24 | [insulza](http://twitter.com/search?q=insulza) | N/A |
+| 25 | [línea 1](http://twitter.com/search?q=l%c3%adnea+1) | N/A |
+| 26 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
+| 27 | [Plaza Dignidad](http://twitter.com/search?q=Plaza+Dignidad) | N/A |
+| 28 | [Desbordes](http://twitter.com/search?q=Desbordes) | N/A |
+| 29 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 30 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
+| 31 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
+| 32 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 33 | [Nattino](http://twitter.com/search?q=Nattino) | N/A |
+| 34 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 35 | [Degenerados](http://twitter.com/search?q=Degenerados) | N/A |
+| 36 | [Baquedano](http://twitter.com/search?q=Baquedano) | N/A |
+| 37 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 38 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 39 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 40 | [Parque Arauco](http://twitter.com/search?q=Parque+Arauco) | N/A |
+| 41 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 42 | [Jorge Said](http://twitter.com/search?q=Jorge+Said) | N/A |
+| 43 | [Parada](http://twitter.com/search?q=Parada) | N/A |
+| 44 | [FA y PC](http://twitter.com/search?q=FA+y+PC) | N/A |
+| 45 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 46 | [Davor](http://twitter.com/search?q=Davor) | N/A |
+| 47 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 48 | [Pablo Chill-E](http://twitter.com/search?q=Pablo+Chill-E) | N/A |
+| 49 | [Escuela militar](http://twitter.com/search?q=Escuela+militar) | N/A |
+| 50 | [Catrillanca](http://twitter.com/search?q=Catrillanca) | N/A |
 
 
 

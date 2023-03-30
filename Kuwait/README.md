@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-03-30 04:17:10 UTC`
+📆 Last Updated: `2023-03-30 05:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,15 +20,15 @@ This is top 50 for Kuwait
 | 3 | [٧ رمضان](http://twitter.com/search?q=%d9%a7+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 4 | [#خالد_بن_محمد_بن_زايد](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%84%d8%af_%d8%a8%d9%86_%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
 | 5 | [#رمضان٧](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%a7) | N/A |
-| 6 | [#صلاه_الفجر](http://twitter.com/search?q=%23%d8%b5%d9%84%d8%a7%d9%87_%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
-| 7 | [#بوبيان_كل_ثلاثاء](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86_%d9%83%d9%84_%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | N/A |
+| 6 | [#بوبيان_كل_ثلاثاء](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%a8%d9%8a%d8%a7%d9%86_%d9%83%d9%84_%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | N/A |
+| 7 | [#اربح_مع_عسل_المعجزه7](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%a8%d8%ad_%d9%85%d8%b9_%d8%b9%d8%b3%d9%84_%d8%a7%d9%84%d9%85%d8%b9%d8%ac%d8%b2%d9%877) | N/A |
 | 8 | [رسوم علي المظلات](http://twitter.com/search?q=%d8%b1%d8%b3%d9%88%d9%85+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b8%d9%84%d8%a7%d8%aa) | N/A |
 | 9 | [رييس وزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 10 | [سعدون حماد](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af%d9%88%d9%86+%d8%ad%d9%85%d8%a7%d8%af) | N/A |
 | 11 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
 | 12 | [خديجه رضي](http://twitter.com/search?q=%d8%ae%d8%af%d9%8a%d8%ac%d9%87+%d8%b1%d8%b6%d9%8a) | N/A |
-| 13 | [خالد الشيخ](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 14 | [سعود العصفور](http://twitter.com/search?q=%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d8%b9%d8%b5%d9%81%d9%88%d8%b1) | N/A |
+| 13 | [سعود العصفور](http://twitter.com/search?q=%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d8%b9%d8%b5%d9%81%d9%88%d8%b1) | N/A |
+| 14 | [خالد الشيخ](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
 | 15 | [منصور بن زايد](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
 | 16 | [علي النادر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d8%b1) | N/A |
 | 17 | [حوش كاف](http://twitter.com/search?q=%d8%ad%d9%88%d8%b4+%d9%83%d8%a7%d9%81) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Kuwait
 | 33 | [رياض العدساني](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%b9%d8%af%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
 | 34 | [جيب المواطن](http://twitter.com/search?q=%d8%ac%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86) | N/A |
 | 35 | [اللجنه التشريعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d8%aa%d8%b4%d8%b1%d9%8a%d8%b9%d9%8a%d9%87) | N/A |
-| 36 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 37 | [استراليا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 38 | [هادي المضلين](http://twitter.com/search?q=%d9%87%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b6%d9%84%d9%8a%d9%86) | N/A |
-| 39 | [ماجد عبدالله](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 40 | [ماني علي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d9%8a+%d8%b9%d9%84%d9%8a) | N/A |
-| 41 | [الغبقه الرمضانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 42 | [المخزون الاستراتيجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%b2%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a) | N/A |
-| 43 | [بو فهد](http://twitter.com/search?q=%d8%a8%d9%88+%d9%81%d9%87%d8%af) | N/A |
-| 44 | [يابو مساعد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%b3%d8%a7%d8%b9%d8%af) | N/A |
-| 45 | [عنان السماء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1) | N/A |
-| 46 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
-| 47 | [القادسية](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9) | N/A |
-| 48 | [يابو سالم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
-| 49 | [وزارة الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 50 | [29 مارس 2023](http://twitter.com/search?q=29+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 36 | [استراليا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
+| 37 | [ماجد عبدالله](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 38 | [ماني علي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d9%8a+%d8%b9%d9%84%d9%8a) | N/A |
+| 39 | [الغبقه الرمضانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 40 | [المخزون الاستراتيجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%b2%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a) | N/A |
+| 41 | [يابو مساعد](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%b3%d8%a7%d8%b9%d8%af) | N/A |
+| 42 | [عنان السماء](http://twitter.com/search?q=%d8%b9%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d8%a1) | N/A |
+| 43 | [هادي المضلين](http://twitter.com/search?q=%d9%87%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b6%d9%84%d9%8a%d9%86) | N/A |
+| 44 | [زيزو](http://twitter.com/search?q=%d8%b2%d9%8a%d8%b2%d9%88) | زيزو (zizo) is an Arabic slang term that means "cool" or "awesome". It is often used to express approval or admiration. |
+| 45 | [القادسية](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d8%a9) | N/A |
+| 46 | [يابو سالم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b3%d8%a7%d9%84%d9%85) | N/A |
+| 47 | [وزارة الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
+| 48 | [29 مارس 2023](http://twitter.com/search?q=29+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 49 | [المنتخب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 50 | [التوقف الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%81+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
 
 
 

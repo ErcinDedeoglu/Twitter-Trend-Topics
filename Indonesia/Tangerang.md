@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-30 04:16:40 UTC`
+📆 Last Updated: `2023-03-30 05:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,40 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 2 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
-| 3 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
-| 4 | [#MARKLEE2NDSOLO](http://twitter.com/search?q=%23MARKLEE2NDSOLO) | N/A |
-| 5 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 6 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 7 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 8 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
-| 9 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 10 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 11 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
-| 12 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 13 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 14 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
-| 15 | [U-20](http://twitter.com/search?q=U-20) | N/A |
-| 16 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
-| 17 | [Koster](http://twitter.com/search?q=Koster) | N/A |
-| 18 | [Piala Dunia](http://twitter.com/search?q=Piala+Dunia) | N/A |
-| 19 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 20 | [Golput](http://twitter.com/search?q=Golput) | N/A |
-| 21 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
-| 22 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 23 | [Gubernur Bali](http://twitter.com/search?q=Gubernur+Bali) | N/A |
-| 24 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 25 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 26 | [Bangsa](http://twitter.com/search?q=Bangsa) | N/A |
-| 27 | [Gagal](http://twitter.com/search?q=Gagal) | N/A |
-| 28 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 29 | [#RoséMETSulwhasoo](http://twitter.com/search?q=%23Ros%c3%a9METSulwhasoo) | N/A |
-| 30 | [#SulwhasooxTheMet](http://twitter.com/search?q=%23SulwhasooxTheMet) | N/A |
-| 31 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
-| 32 | [#HAPPY27th_CHAEUNWOO](http://twitter.com/search?q=%23HAPPY27th_CHAEUNWOO) | N/A |
-| 33 | [#OurFavoriteSongMINODay](http://twitter.com/search?q=%23OurFavoriteSongMINODay) | N/A |
-| 34 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
+| 1 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
+| 2 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 4 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
+| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 6 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 7 | [#MARKLEE2NDSOLO](http://twitter.com/search?q=%23MARKLEE2NDSOLO) | N/A |
+| 8 | [kita doakan erick](http://twitter.com/search?q=kita+doakan+erick) | N/A |
+| 9 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 10 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
+| 11 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 12 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 13 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
+| 14 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
+| 15 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 16 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
+| 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 18 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 19 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
+| 20 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
+| 21 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
+| 22 | [Golput](http://twitter.com/search?q=Golput) | N/A |
+| 23 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
+| 24 | [Meisya](http://twitter.com/search?q=Meisya) | N/A |
+| 25 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
+| 26 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
+| 27 | [JUNGWON ROVER](http://twitter.com/search?q=JUNGWON+ROVER) | N/A |
+| 28 | [Johan Budi](http://twitter.com/search?q=Johan+Budi) | N/A |
+| 29 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 30 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
+| 31 | [CAT 2B](http://twitter.com/search?q=CAT+2B) | N/A |
+| 32 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
+| 33 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
+| 34 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 35 | [Usmar Ismail](http://twitter.com/search?q=Usmar+Ismail) | N/A |
+| 36 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 37 | [JENO BLONDE](http://twitter.com/search?q=JENO+BLONDE) | N/A |
+| 38 | [the scent notes d2](http://twitter.com/search?q=the+scent+notes+d2) | N/A |
+| 39 | [Kampung Kawe](http://twitter.com/search?q=Kampung+Kawe) | N/A |
+| 40 | [Win x Lazada11Year](http://twitter.com/search?q=Win+x+Lazada11Year) | N/A |
+| 41 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
+| 42 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 43 | [Biawak](http://twitter.com/search?q=Biawak) | N/A |
+| 44 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 45 | [Puas](http://twitter.com/search?q=Puas) | N/A |
+| 46 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
+| 47 | [NCT LAB](http://twitter.com/search?q=NCT+LAB) | N/A |
+| 48 | [Pak Erick](http://twitter.com/search?q=Pak+Erick) | N/A |
+| 49 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 
 
 

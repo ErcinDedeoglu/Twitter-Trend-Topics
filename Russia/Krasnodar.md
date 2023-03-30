@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Krasnodar
 
-📆 Last Updated: `2023-03-30 04:16:51 UTC`
+📆 Last Updated: `2023-03-30 05:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,42 +19,43 @@ This is top 50 for [Russia](</Russia>)
 | 2 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
 | 3 | [Илон Маск](http://twitter.com/search?q=%d0%98%d0%bb%d0%be%d0%bd+%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
 | 4 | [петербурге](http://twitter.com/search?q=%d0%bf%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3%d0%b5) | N/A |
-| 5 | [россией](http://twitter.com/search?q=%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 6 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
-| 7 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
-| 8 | [киева](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
-| 9 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 10 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 11 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | N/A |
-| 12 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 13 | [#shooter](http://twitter.com/search?q=%23shooter) | N/A |
-| 14 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 15 | [#шутер](http://twitter.com/search?q=%23%d1%88%d1%83%d1%82%d0%b5%d1%80) | N/A |
-| 16 | [израиле](http://twitter.com/search?q=%d0%b8%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d0%b5) | N/A |
-| 17 | [питер](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80) | N/A |
-| 18 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
-| 19 | [неужели](http://twitter.com/search?q=%d0%bd%d0%b5%d1%83%d0%b6%d0%b5%d0%bb%d0%b8) | N/A |
-| 20 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 21 | [класс](http://twitter.com/search?q=%d0%ba%d0%bb%d0%b0%d1%81%d1%81) | N/A |
-| 22 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 23 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | N/A |
-| 24 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 25 | [вроде](http://twitter.com/search?q=%d0%b2%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 5 | [Киево-Печерской](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%be-%d0%9f%d0%b5%d1%87%d0%b5%d1%80%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 6 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 7 | [маска](http://twitter.com/search?q=%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
+| 8 | [#архитектура](http://twitter.com/search?q=%23%d0%b0%d1%80%d1%85%d0%b8%d1%82%d0%b5%d0%ba%d1%82%d1%83%d1%80%d0%b0) | N/A |
+| 9 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
+| 10 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
+| 11 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 12 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 13 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | N/A |
+| 14 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 15 | [#shooter](http://twitter.com/search?q=%23shooter) | N/A |
+| 16 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 17 | [#шутер](http://twitter.com/search?q=%23%d1%88%d1%83%d1%82%d0%b5%d1%80) | N/A |
+| 18 | [израиле](http://twitter.com/search?q=%d0%b8%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d0%b5) | N/A |
+| 19 | [питер](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80) | N/A |
+| 20 | [Мама](http://twitter.com/search?q=%d0%9c%d0%b0%d0%bc%d0%b0) | N/A |
+| 21 | [давай](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 22 | [Класс](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81%d1%81) | N/A |
+| 23 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 24 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | N/A |
+| 25 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
 | 26 | [попробуй](http://twitter.com/search?q=%d0%bf%d0%be%d0%bf%d1%80%d0%be%d0%b1%d1%83%d0%b9) | N/A |
 | 27 | [оооо](http://twitter.com/search?q=%d0%be%d0%be%d0%be%d0%be) | N/A |
 | 28 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 29 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
-| 30 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 31 | [красивое](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
-| 32 | [зеленского](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
-| 33 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | N/A |
-| 34 | [офигеть](http://twitter.com/search?q=%d0%be%d1%84%d0%b8%d0%b3%d0%b5%d1%82%d1%8c) | N/A |
-| 35 | [весна](http://twitter.com/search?q=%d0%b2%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
-| 36 | [завидую](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d0%b8%d0%b4%d1%83%d1%8e) | N/A |
-| 37 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 38 | [хехе](http://twitter.com/search?q=%d1%85%d0%b5%d1%85%d0%b5) | N/A |
-| 39 | [белоруссии](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%be%d1%80%d1%83%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 29 | [Неужели](http://twitter.com/search?q=%d0%9d%d0%b5%d1%83%d0%b6%d0%b5%d0%bb%d0%b8) | N/A |
+| 30 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
+| 31 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 32 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
+| 33 | [зеленского](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
+| 34 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | N/A |
+| 35 | [офигеть](http://twitter.com/search?q=%d0%be%d1%84%d0%b8%d0%b3%d0%b5%d1%82%d1%8c) | N/A |
+| 36 | [весна](http://twitter.com/search?q=%d0%b2%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
+| 37 | [завидую](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d0%b8%d0%b4%d1%83%d1%8e) | N/A |
+| 38 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 39 | [хехе](http://twitter.com/search?q=%d1%85%d0%b5%d1%85%d0%b5) | N/A |
 | 40 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 41 | [Супер](http://twitter.com/search?q=%d0%a1%d1%83%d0%bf%d0%b5%d1%80) | N/A |
 
 
 

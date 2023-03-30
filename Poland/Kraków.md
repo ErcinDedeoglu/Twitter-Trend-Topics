@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-30 04:16:31 UTC`
+📆 Last Updated: `2023-03-30 05:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 2 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
-| 3 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
-| 4 | [mkol](http://twitter.com/search?q=mkol) | N/A |
-| 5 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 6 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
-| 7 | [#polalb](http://twitter.com/search?q=%23polalb) | N/A |
-| 8 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 9 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
-| 10 | [toruniu](http://twitter.com/search?q=toruniu) | N/A |
+| 2 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
+| 3 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
+| 4 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 5 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
+| 6 | [#polalb](http://twitter.com/search?q=%23polalb) | N/A |
+| 7 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 9 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 10 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
 | 11 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
 | 12 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 13 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
-| 14 | [chorzowa](http://twitter.com/search?q=chorzowa) | N/A |
-| 15 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 16 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 17 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
-| 18 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
-| 19 | [belki](http://twitter.com/search?q=belki) | N/A |
-| 20 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 21 | [julia przyłębska](http://twitter.com/search?q=julia+przy%c5%82%c4%99bska) | N/A |
-| 22 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 23 | [marszałek](http://twitter.com/search?q=marsza%c5%82ek) | N/A |
-| 24 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | N/A |
-| 25 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 26 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
-| 27 | [izery](http://twitter.com/search?q=izery) | N/A |
-| 28 | [pkol](http://twitter.com/search?q=pkol) | N/A |
-| 29 | [kędzierzyna](http://twitter.com/search?q=k%c4%99dzierzyna) | N/A |
-| 30 | [trybunału konstytucyjnego](http://twitter.com/search?q=trybuna%c5%82u+konstytucyjnego) | N/A |
-| 31 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
-| 32 | [soboń](http://twitter.com/search?q=sobo%c5%84) | N/A |
-| 33 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 34 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 35 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 36 | [pilica](http://twitter.com/search?q=pilica) | N/A |
-| 37 | [Bystra](http://twitter.com/search?q=Bystra) | N/A |
-| 38 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 39 | [chorzowie](http://twitter.com/search?q=chorzowie) | N/A |
-| 40 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 41 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 13 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 14 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
+| 15 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 16 | [chorzowa](http://twitter.com/search?q=chorzowa) | N/A |
+| 17 | [warta](http://twitter.com/search?q=warta) | N/A |
+| 18 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
+| 19 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 20 | [Damian](http://twitter.com/search?q=Damian) | Damian is a masculine given name of Greek origin meaning "to tame, subdue". It is derived from the Greek word “damánein”, which means “to tame” or “to subdue”. It is also related to the Latin word “dominus”, which means “lord” or “master”. |
+| 21 | [belki](http://twitter.com/search?q=belki) | N/A |
+| 22 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 23 | [julia przyłębska](http://twitter.com/search?q=julia+przy%c5%82%c4%99bska) | N/A |
+| 24 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 25 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
+| 26 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | N/A |
+| 27 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 28 | [izery](http://twitter.com/search?q=izery) | N/A |
+| 29 | [pkol](http://twitter.com/search?q=pkol) | N/A |
+| 30 | [kędzierzyna](http://twitter.com/search?q=k%c4%99dzierzyna) | N/A |
+| 31 | [trybunału konstytucyjnego](http://twitter.com/search?q=trybuna%c5%82u+konstytucyjnego) | N/A |
+| 32 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
+| 33 | [soboń](http://twitter.com/search?q=sobo%c5%84) | N/A |
+| 34 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 35 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 36 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 37 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 38 | [pilica](http://twitter.com/search?q=pilica) | N/A |
+| 39 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
+| 40 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 41 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
 | 42 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
 | 43 | [karnowscy](http://twitter.com/search?q=karnowscy) | N/A |
 | 44 | [Leona](http://twitter.com/search?q=Leona) | N/A |
 | 45 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
 | 46 | [duklanowski](http://twitter.com/search?q=duklanowski) | N/A |
-| 47 | [jastrzębie](http://twitter.com/search?q=jastrz%c4%99bie) | N/A |
-| 48 | [fornal](http://twitter.com/search?q=fornal) | N/A |
-| 49 | [ankarze](http://twitter.com/search?q=ankarze) | N/A |
+| 47 | [Marszałek](http://twitter.com/search?q=Marsza%c5%82ek) | N/A |
+| 48 | [jastrzębie](http://twitter.com/search?q=jastrz%c4%99bie) | N/A |
+| 49 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-03-30 04:17:07 UTC`
+📆 Last Updated: `2023-03-30 05:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for Brazil
 | 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 7 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
 | 8 | [Ilha](http://twitter.com/search?q=Ilha) | N/A |
-| 9 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 10 | [#festadaSarah](http://twitter.com/search?q=%23festadaSarah) | N/A |
-| 11 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 9 | [#amagiaacontecenobbb](http://twitter.com/search?q=%23amagiaacontecenobbb) | N/A |
+| 10 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 11 | [#festadaSarah](http://twitter.com/search?q=%23festadaSarah) | N/A |
 | 12 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
-| 13 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
-| 14 | [#ClassicoReiNaJanga](http://twitter.com/search?q=%23ClassicoReiNaJanga) | N/A |
-| 15 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 16 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
-| 17 | [Villani](http://twitter.com/search?q=Villani) | N/A |
-| 18 | [Estrelas Além](http://twitter.com/search?q=Estrelas+Al%c3%a9m) | N/A |
-| 19 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
-| 20 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 21 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
-| 22 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 23 | [AMANHA CD RAIZ](http://twitter.com/search?q=AMANHA+CD+RAIZ) | N/A |
+| 13 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 14 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 15 | [Estrelas Além](http://twitter.com/search?q=Estrelas+Al%c3%a9m) | N/A |
+| 16 | [Villani](http://twitter.com/search?q=Villani) | N/A |
+| 17 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 18 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
+| 19 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
+| 20 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 21 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 22 | [AMANHA CD RAIZ](http://twitter.com/search?q=AMANHA+CD+RAIZ) | N/A |
+| 23 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
 | 24 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 25 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 26 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
-| 27 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 28 | [Vojvoda](http://twitter.com/search?q=Vojvoda) | N/A |
-| 29 | [chaz](http://twitter.com/search?q=chaz) | N/A |
+| 25 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
+| 26 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 27 | [Vojvoda](http://twitter.com/search?q=Vojvoda) | N/A |
+| 28 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
+| 29 | [Titi](http://twitter.com/search?q=Titi) | N/A |
 | 30 | [Titular](http://twitter.com/search?q=Titular) | N/A |
-| 31 | [Vozão](http://twitter.com/search?q=Voz%c3%a3o) | N/A |
-| 32 | [Big Terapia](http://twitter.com/search?q=Big+Terapia) | N/A |
-| 33 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
-| 34 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
-| 35 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 36 | [Copa Verde](http://twitter.com/search?q=Copa+Verde) | N/A |
-| 37 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 38 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 39 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
-| 40 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
-| 41 | [Castelão](http://twitter.com/search?q=Castel%c3%a3o) | N/A |
-| 42 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
-| 43 | [Kajuru](http://twitter.com/search?q=Kajuru) | N/A |
-| 44 | [Benevenuto](http://twitter.com/search?q=Benevenuto) | N/A |
-| 45 | [BOLSONARO PRESO AMANHÃ](http://twitter.com/search?q=BOLSONARO+PRESO+AMANH%c3%83) | N/A |
+| 31 | [BOLSONARO PRESO AMANHÃ](http://twitter.com/search?q=BOLSONARO+PRESO+AMANH%c3%83) | N/A |
+| 32 | [Chaz](http://twitter.com/search?q=Chaz) | N/A |
+| 33 | [Vozão](http://twitter.com/search?q=Voz%c3%a3o) | N/A |
+| 34 | [Copa Verde](http://twitter.com/search?q=Copa+Verde) | N/A |
+| 35 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
+| 36 | [Benevenuto](http://twitter.com/search?q=Benevenuto) | N/A |
+| 37 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 38 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 39 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 40 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
+| 41 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 42 | [Kajuru](http://twitter.com/search?q=Kajuru) | N/A |
+| 43 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 44 | [Chiquititas](http://twitter.com/search?q=Chiquititas) | Chiquititas is a popular Argentine children's television series that aired from 1995 to 2006. The title translates to "Little Girls" in English. It follows the story of a group of orphans living in a fictional orphanage called "Casa de Chiquititas". The show follows the lives of the orphans as they face various challenges and adventures. |
+| 45 | [Renata Silveira](http://twitter.com/search?q=Renata+Silveira) | N/A |
 | 46 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 47 | [Chiquititas](http://twitter.com/search?q=Chiquititas) | Chiquititas is a popular Argentine children's television series that aired from 1995 to 2006. The title translates to "Little Girls" in English. It follows the story of a group of orphans living in a fictional orphanage called "Casa de Chiquititas". The show follows the lives of the orphans as they face various challenges and adventures. |
-| 48 | [Calm Down](http://twitter.com/search?q=Calm+Down) | N/A |
+| 47 | [Calebe](http://twitter.com/search?q=Calebe) | N/A |
+| 48 | [Castelão](http://twitter.com/search?q=Castel%c3%a3o) | N/A |
 | 49 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
 | 50 | [Lima Henrique](http://twitter.com/search?q=Lima+Henrique) | N/A |
 
