@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-30 08:19:06 UTC`
+📆 Last Updated: `2023-03-30 09:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Kenya
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
-| 2 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
-| 3 | [#USKenyaTradeRelations](http://twitter.com/search?q=%23USKenyaTradeRelations) | N/A |
-| 4 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 5 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
-| 6 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 7 | [Utalii Hotel](http://twitter.com/search?q=Utalii+Hotel) | N/A |
-| 8 | [#JKLive](http://twitter.com/search?q=%23JKLive) | N/A |
-| 9 | [#ZeroWasteDay](http://twitter.com/search?q=%23ZeroWasteDay) | N/A |
+| 2 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
+| 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 4 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 5 | [#JKLive](http://twitter.com/search?q=%23JKLive) | N/A |
+| 6 | [#Nairobi](http://twitter.com/search?q=%23Nairobi) | N/A |
+| 7 | [#Raila](http://twitter.com/search?q=%23Raila) | N/A |
+| 8 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
+| 9 | [Closing](http://twitter.com/search?q=Closing) | N/A |
 | 10 | [Thika Road](http://twitter.com/search?q=Thika+Road) | N/A |
-| 11 | [Closing](http://twitter.com/search?q=Closing) | N/A |
-| 12 | [Anyang nyongo](http://twitter.com/search?q=Anyang+nyongo) | N/A |
-| 13 | [Malema](http://twitter.com/search?q=Malema) | N/A |
-| 14 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 15 | [nakuru county bursaries](http://twitter.com/search?q=nakuru+county+bursaries) | N/A |
-| 16 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
-| 17 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 18 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
-| 19 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
-| 20 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
-| 21 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
-| 22 | [aga khan hospital](http://twitter.com/search?q=aga+khan+hospital) | N/A |
-| 23 | [Waihiga Mwaura](http://twitter.com/search?q=Waihiga+Mwaura) | N/A |
-| 24 | [Cafe Ole](http://twitter.com/search?q=Cafe+Ole) | N/A |
-| 25 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
-| 26 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 27 | [Amber Ray](http://twitter.com/search?q=Amber+Ray) | N/A |
-| 28 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
-| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 30 | [Ichungwa](http://twitter.com/search?q=Ichungwa) | N/A |
-| 31 | [Ninja](http://twitter.com/search?q=Ninja) | N/A |
-| 32 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 33 | [SMEs](http://twitter.com/search?q=SMEs) | N/A |
+| 11 | [Anyang nyongo](http://twitter.com/search?q=Anyang+nyongo) | N/A |
+| 12 | [nakuru county bursaries](http://twitter.com/search?q=nakuru+county+bursaries) | N/A |
+| 13 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 14 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 15 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 16 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
+| 17 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 18 | [Gatundu](http://twitter.com/search?q=Gatundu) | N/A |
+| 19 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
+| 20 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
+| 21 | [aga khan hospital](http://twitter.com/search?q=aga+khan+hospital) | N/A |
+| 22 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 23 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
+| 24 | [Mc Fullstop](http://twitter.com/search?q=Mc+Fullstop) | N/A |
+| 25 | [Cafe Ole](http://twitter.com/search?q=Cafe+Ole) | N/A |
+| 26 | [Waihiga Mwaura](http://twitter.com/search?q=Waihiga+Mwaura) | N/A |
+| 27 | [Mondays and Thursdays](http://twitter.com/search?q=Mondays+and+Thursdays) | N/A |
+| 28 | [Amber Ray](http://twitter.com/search?q=Amber+Ray) | N/A |
+| 29 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
+| 30 | [Ninja](http://twitter.com/search?q=Ninja) | N/A |
+| 31 | [Ichungwa](http://twitter.com/search?q=Ichungwa) | N/A |
+| 32 | [Malema](http://twitter.com/search?q=Malema) | N/A |
+| 33 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
 | 34 | [banisa mp kullow maalim hassan](http://twitter.com/search?q=banisa+mp+kullow+maalim+hassan) | N/A |
-| 35 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Burning](http://twitter.com/search?q=Burning) | N/A |
+| 35 | [CX-5](http://twitter.com/search?q=CX-5) | N/A |
+| 36 | [equity afia](http://twitter.com/search?q=equity+afia) | N/A |
+| 37 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
 | 38 | [bluechip aviation safaris](http://twitter.com/search?q=bluechip+aviation+safaris) | N/A |
-| 39 | [CX-5](http://twitter.com/search?q=CX-5) | N/A |
-| 40 | [equity afia](http://twitter.com/search?q=equity+afia) | N/A |
-| 41 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 42 | [neptune hotels diani](http://twitter.com/search?q=neptune+hotels+diani) | N/A |
-| 43 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
-| 44 | [Osoro](http://twitter.com/search?q=Osoro) | N/A |
-| 45 | [Quick Recovery](http://twitter.com/search?q=Quick+Recovery) | N/A |
-| 46 | [Matasi](http://twitter.com/search?q=Matasi) | N/A |
-| 47 | [DP Gachagua](http://twitter.com/search?q=DP+Gachagua) | N/A |
-| 48 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
-| 49 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 50 | [President William Ruto](http://twitter.com/search?q=President+William+Ruto) | N/A |
+| 39 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 40 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
+| 41 | [DP Gachagua](http://twitter.com/search?q=DP+Gachagua) | N/A |
+| 42 | [Matasi](http://twitter.com/search?q=Matasi) | N/A |
+| 43 | [neptune hotels diani](http://twitter.com/search?q=neptune+hotels+diani) | N/A |
+| 44 | [Sir Alex Ferguson](http://twitter.com/search?q=Sir+Alex+Ferguson) | N/A |
+| 45 | [Osoro](http://twitter.com/search?q=Osoro) | N/A |
+| 46 | [Burning](http://twitter.com/search?q=Burning) | N/A |
+| 47 | [Mike Sonko](http://twitter.com/search?q=Mike+Sonko) | N/A |
+| 48 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [Kitale](http://twitter.com/search?q=Kitale) | N/A |
 
 
 

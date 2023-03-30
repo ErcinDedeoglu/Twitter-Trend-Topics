@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-03-30 08:19:04 UTC`
+📆 Last Updated: `2023-03-30 09:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Ireland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 2 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
-| 3 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 4 | [#DavysToughestTeam](http://twitter.com/search?q=%23DavysToughestTeam) | N/A |
-| 5 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
-| 6 | [Spar](http://twitter.com/search?q=Spar) | N/A |
-| 7 | [#HelloHowAreYou](http://twitter.com/search?q=%23HelloHowAreYou) | N/A |
-| 8 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
-| 9 | [neasa hourigan](http://twitter.com/search?q=neasa+hourigan) | N/A |
-| 10 | [#NoConfidenceMotion](http://twitter.com/search?q=%23NoConfidenceMotion) | N/A |
-| 11 | [#IRLFRA](http://twitter.com/search?q=%23IRLFRA) | N/A |
-| 12 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 13 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 15 | [Dart](http://twitter.com/search?q=Dart) | N/A |
-| 16 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
-| 17 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 18 | [For The Love Of Dogs](http://twitter.com/search?q=For+The+Love+Of+Dogs) | N/A |
-| 19 | [Neale](http://twitter.com/search?q=Neale) | N/A |
-| 20 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 21 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 22 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
-| 23 | [ogbene](http://twitter.com/search?q=ogbene) | N/A |
-| 24 | [Emlyn](http://twitter.com/search?q=Emlyn) | N/A |
+| 2 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
+| 3 | [#DavysToughestTeam](http://twitter.com/search?q=%23DavysToughestTeam) | N/A |
+| 4 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 5 | [#HelloHowAreYou](http://twitter.com/search?q=%23HelloHowAreYou) | N/A |
+| 6 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
+| 7 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
+| 8 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 9 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
+| 10 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 11 | [neasa hourigan](http://twitter.com/search?q=neasa+hourigan) | N/A |
+| 12 | [#NoConfidenceMotion](http://twitter.com/search?q=%23NoConfidenceMotion) | N/A |
+| 13 | [#amchamglobalbiz23](http://twitter.com/search?q=%23amchamglobalbiz23) | N/A |
+| 14 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 15 | [#ccbreakfast](http://twitter.com/search?q=%23ccbreakfast) | N/A |
+| 16 | [For The Love Of Dogs](http://twitter.com/search?q=For+The+Love+Of+Dogs) | N/A |
+| 17 | [Katie](http://twitter.com/search?q=Katie) | N/A |
+| 18 | [Neale](http://twitter.com/search?q=Neale) | N/A |
+| 19 | [Dart](http://twitter.com/search?q=Dart) | N/A |
+| 20 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
+| 21 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 22 | [ogbene](http://twitter.com/search?q=ogbene) | N/A |
+| 23 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
+| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 25 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 26 | [mr burke](http://twitter.com/search?q=mr+burke) | N/A |
-| 27 | [Dail](http://twitter.com/search?q=Dail) | N/A |
-| 28 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 29 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
-| 30 | [davy fitz](http://twitter.com/search?q=davy+fitz) | N/A |
-| 31 | [Keith Long](http://twitter.com/search?q=Keith+Long) | N/A |
-| 32 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 33 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
-| 34 | [shelbourne](http://twitter.com/search?q=shelbourne) | N/A |
-| 35 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 36 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
+| 26 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 27 | [davy fitz](http://twitter.com/search?q=davy+fitz) | N/A |
+| 28 | [Dail](http://twitter.com/search?q=Dail) | N/A |
+| 29 | [shelbourne](http://twitter.com/search?q=shelbourne) | N/A |
+| 30 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 31 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 32 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 33 | [Keith Long](http://twitter.com/search?q=Keith+Long) | N/A |
+| 34 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 35 | [Shane Hannon](http://twitter.com/search?q=Shane+Hannon) | N/A |
+| 36 | [Rest in Peace Paul](http://twitter.com/search?q=Rest+in+Peace+Paul) | N/A |
 | 37 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 38 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 39 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 40 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 41 | [Rest in Peace Paul](http://twitter.com/search?q=Rest+in+Peace+Paul) | N/A |
-| 42 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
-| 43 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 44 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 45 | [Favourite](http://twitter.com/search?q=Favourite) | N/A |
-| 46 | [Loyalist](http://twitter.com/search?q=Loyalist) | N/A |
-| 47 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 48 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 49 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 50 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 38 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 39 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
+| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 41 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 42 | [Shamrock Rovers](http://twitter.com/search?q=Shamrock+Rovers) | N/A |
+| 43 | [Eimear](http://twitter.com/search?q=Eimear) | N/A |
+| 44 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 45 | [Emlyn](http://twitter.com/search?q=Emlyn) | N/A |
+| 46 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 47 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
+| 48 | [Wexford Youths](http://twitter.com/search?q=Wexford+Youths) | N/A |
+| 49 | [Favourite](http://twitter.com/search?q=Favourite) | N/A |
+| 50 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 
 
 

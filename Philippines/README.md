@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-03-30 08:19:09 UTC`
+📆 Last Updated: `2023-03-30 09:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
-| 2 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
-| 3 | [#AMarBELLEousMagicalNight](http://twitter.com/search?q=%23AMarBELLEousMagicalNight) | N/A |
-| 4 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
-| 5 | [#BGYO1stDateTogether](http://twitter.com/search?q=%23BGYO1stDateTogether) | N/A |
-| 6 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
-| 7 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
-| 8 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
-| 9 | [#HAPPY27th_CHAEUNWOO](http://twitter.com/search?q=%23HAPPY27th_CHAEUNWOO) | N/A |
-| 10 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
-| 11 | [Real Vocals](http://twitter.com/search?q=Real+Vocals) | N/A |
-| 12 | [Real Versatility](http://twitter.com/search?q=Real+Versatility) | N/A |
-| 13 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
-| 14 | [Real Visuals](http://twitter.com/search?q=Real+Visuals) | N/A |
-| 15 | [VPCA BACK2BACK KD](http://twitter.com/search?q=VPCA+BACK2BACK+KD) | N/A |
-| 16 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
-| 17 | [20mstreams sigurado](http://twitter.com/search?q=20mstreams+sigurado) | N/A |
-| 18 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 19 | [donny for quickfx](http://twitter.com/search?q=donny+for+quickfx) | N/A |
+| 1 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 2 | [#AMarBELLEousMagicalNight](http://twitter.com/search?q=%23AMarBELLEousMagicalNight) | N/A |
+| 3 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 4 | [#WonDONNYrousPromNight](http://twitter.com/search?q=%23WonDONNYrousPromNight) | N/A |
+| 5 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
+| 6 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
+| 7 | [#BGYO1stDateTogether](http://twitter.com/search?q=%23BGYO1stDateTogether) | N/A |
+| 8 | [#HORI7ON_onStarMagicalProm](http://twitter.com/search?q=%23HORI7ON_onStarMagicalProm) | N/A |
+| 9 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
+| 10 | [HORI7ON 1st Prom](http://twitter.com/search?q=HORI7ON+1st+Prom) | N/A |
+| 11 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
+| 12 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
+| 13 | [PROMAGICAL WITH ROBXINE](http://twitter.com/search?q=PROMAGICAL+WITH+ROBXINE) | N/A |
+| 14 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
+| 15 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
+| 16 | [Real Vocals](http://twitter.com/search?q=Real+Vocals) | N/A |
+| 17 | [Real Versatility](http://twitter.com/search?q=Real+Versatility) | N/A |
+| 18 | [Real Visuals](http://twitter.com/search?q=Real+Visuals) | N/A |
+| 19 | [ALJAY PROMinent Tonight](http://twitter.com/search?q=ALJAY+PROMinent+Tonight) | N/A |
 | 20 | [JUNHAO](http://twitter.com/search?q=JUNHAO) | N/A |
-| 21 | [BELLEloom AtTheSHEINShowroom](http://twitter.com/search?q=BELLEloom+AtTheSHEINShowroom) | N/A |
-| 22 | [proud kami sayo](http://twitter.com/search?q=proud+kami+sayo) | N/A |
-| 23 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 24 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 25 | [JANELLA ON FIRE AT XXV](http://twitter.com/search?q=JANELLA+ON+FIRE+AT+XXV) | N/A |
-| 26 | [pienally 2dreither](http://twitter.com/search?q=pienally+2dreither) | N/A |
-| 27 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
-| 28 | [ALEXA WINNING](http://twitter.com/search?q=ALEXA+WINNING) | N/A |
-| 29 | [AGAIN SOON](http://twitter.com/search?q=AGAIN+SOON) | N/A |
-| 30 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
-| 31 | [STAR KING KIM](http://twitter.com/search?q=STAR+KING+KIM) | N/A |
-| 32 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
+| 21 | [#FrancineDiazEnchantedProm](http://twitter.com/search?q=%23FrancineDiazEnchantedProm) | N/A |
+| 22 | [STAR KING KIM](http://twitter.com/search?q=STAR+KING+KIM) | N/A |
+| 23 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 24 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 25 | [Encore](http://twitter.com/search?q=Encore) | N/A |
+| 26 | [ANJBRENTjeweled ON SMProm](http://twitter.com/search?q=ANJBRENTjeweled+ON+SMProm) | N/A |
+| 27 | [VPCA BACK2BACK KD](http://twitter.com/search?q=VPCA+BACK2BACK+KD) | N/A |
+| 28 | [JISOO LOCKDOWN FESTIVAL](http://twitter.com/search?q=JISOO+LOCKDOWN+FESTIVAL) | N/A |
+| 29 | [BELLEloom AtTheSHEINShowroom](http://twitter.com/search?q=BELLEloom+AtTheSHEINShowroom) | N/A |
+| 30 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 31 | [MARK LEE GOLDEN HOUR](http://twitter.com/search?q=MARK+LEE+GOLDEN+HOUR) | N/A |
+| 32 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 | 33 | [KOTG LEV31 UP](http://twitter.com/search?q=KOTG+LEV31+UP) | N/A |
-| 34 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
-| 35 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
-| 36 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
-| 37 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
-| 38 | [kaori sinagot si miah](http://twitter.com/search?q=kaori+sinagot+si+miah) | N/A |
-| 39 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
-| 40 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
-| 41 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 42 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 43 | [WE FREEN YOU](http://twitter.com/search?q=WE+FREEN+YOU) | N/A |
-| 44 | [CityMallNorthtown](http://twitter.com/search?q=CityMallNorthtown) | N/A |
-| 45 | [reverence to god](http://twitter.com/search?q=reverence+to+god) | N/A |
-| 46 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
-| 47 | [THE SCENT NOTES D2](http://twitter.com/search?q=THE+SCENT+NOTES+D2) | N/A |
-| 48 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 49 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 50 | [GROUP PERFORMER OF THE YEAR](http://twitter.com/search?q=GROUP+PERFORMER+OF+THE+YEAR) | N/A |
+| 34 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 35 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 36 | [#HENDERYxOxecurePH](http://twitter.com/search?q=%23HENDERYxOxecurePH) | N/A |
+| 37 | [#BestBoySethFedelin](http://twitter.com/search?q=%23BestBoySethFedelin) | N/A |
+| 38 | [#PVLFinalsGame3](http://twitter.com/search?q=%23PVLFinalsGame3) | N/A |
+| 39 | [#RedVelvetinMNL2023](http://twitter.com/search?q=%23RedVelvetinMNL2023) | N/A |
+| 40 | [#BrentManalo](http://twitter.com/search?q=%23BrentManalo) | N/A |
+| 41 | [#Vivoree](http://twitter.com/search?q=%23Vivoree) | N/A |
+| 42 | [#sb19wins4thvpchoiceawards](http://twitter.com/search?q=%23sb19wins4thvpchoiceawards) | N/A |
+| 43 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
+| 44 | [#HORI7ON_KIM](http://twitter.com/search?q=%23HORI7ON_KIM) | N/A |
+| 45 | [#BOYCOTTEBxAPTxGMA750](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA750) | N/A |
+| 46 | [#ShopeePH](http://twitter.com/search?q=%23ShopeePH) | N/A |
+| 47 | [#CHAEUNWOO](http://twitter.com/search?q=%23CHAEUNWOO) | N/A |
+| 48 | [#SHEINBloomPH](http://twitter.com/search?q=%23SHEINBloomPH) | N/A |
 
 
 

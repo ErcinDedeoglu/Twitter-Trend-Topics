@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-03-30 08:18:37 UTC`
+📆 Last Updated: `2023-03-30 09:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Algeria](</Algeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#كادي_افضل_وجه_اعلاني](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%af%d9%8a_%d8%a7%d9%81%d8%b6%d9%84_%d9%88%d8%ac%d9%87_%d8%a7%d8%b9%d9%84%d8%a7%d9%86%d9%8a) | N/A |
-| 2 | [#الدامه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 3 | [#رمضان_الخير_2023](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_2023) | N/A |
-| 4 | [امير المدمنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 5 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 2 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 3 | [#الدامه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 4 | [#رمضان_الخير_2023](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_2023) | N/A |
+| 5 | [امير المدمنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%85%d9%86%d9%8a%d9%86) | N/A |
 | 6 | [تنظيم كاس العالم](http://twitter.com/search?q=%d8%aa%d9%86%d8%b8%d9%8a%d9%85+%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 7 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 8 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
-| 9 | [29 مارس 2023](http://twitter.com/search?q=29+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 10 | [المجتمع الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 11 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 12 | [#bobainu](http://twitter.com/search?q=%23bobainu) | N/A |
+| 7 | [اليوم السادس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a7%d8%af%d8%b3) | N/A |
+| 8 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 9 | [#bobainu](http://twitter.com/search?q=%23bobainu) | N/A |
+| 10 | [محمد بن هادي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a) | N/A |
+| 11 | [28 مارس 2023](http://twitter.com/search?q=28+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 12 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 13 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 14 | [#MertRamazanDemir](http://twitter.com/search?q=%23MertRamazanDemir) | N/A |
-| 15 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 14 | [الفرق الزمني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%82+%d8%a7%d9%84%d8%b2%d9%85%d9%86%d9%8a) | N/A |
+| 15 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
 | 16 | [التلفزيون الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 17 | [محمد بن هادي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a) | N/A |
-| 18 | [كاس عالم](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%b9%d8%a7%d9%84%d9%85) | كاس عالم (Kass Al-Alam) is an Arabic phrase meaning "World Cup". It is used to refer to the FIFA World Cup, an international football tournament held every four years. |
-| 19 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 20 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 21 | [الفرق الزمني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%82+%d8%a7%d9%84%d8%b2%d9%85%d9%86%d9%8a) | N/A |
-| 22 | [عثمان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
-| 23 | [افريقيا اللعينه](http://twitter.com/search?q=%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7+%d8%a7%d9%84%d9%84%d8%b9%d9%8a%d9%86%d9%87) | N/A |
-| 24 | [الصحراء الشرقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%b4%d8%b1%d9%82%d9%8a%d9%87) | N/A |
-| 25 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
-| 26 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
-| 27 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
-| 28 | [المغرب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
-| 29 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 30 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 31 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
-| 32 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 33 | [مريم](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85) | N/A |
-| 34 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 35 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
-| 36 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
-| 37 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 38 | [وسوريا](http://twitter.com/search?q=%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 39 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 40 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
-| 41 | [ومصر](http://twitter.com/search?q=%d9%88%d9%85%d8%b5%d8%b1) | N/A |
-| 42 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
-| 43 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
-| 44 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 17 | [السيسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b3%d9%8a) | N/A |
+| 18 | [المديره العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 19 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 20 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 21 | [افريقيا اللعينه](http://twitter.com/search?q=%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7+%d8%a7%d9%84%d9%84%d8%b9%d9%8a%d9%86%d9%87) | N/A |
+| 22 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 23 | [المغرب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
+| 24 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 25 | [الشهر المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 26 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
+| 27 | [عثمان](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
+| 28 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 29 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 30 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
+| 31 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
+| 32 | [America](http://twitter.com/search?q=America) | N/A |
+| 33 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 34 | [مريم](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 35 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
+| 36 | [وسوريا](http://twitter.com/search?q=%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
+| 37 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
+| 38 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 39 | [إسرائيل](http://twitter.com/search?q=%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
+| 40 | [J'adore](http://twitter.com/search?q=J%27adore) | N/A |
+| 41 | [ليون](http://twitter.com/search?q=%d9%84%d9%8a%d9%88%d9%86) | N/A |
+| 42 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 43 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 44 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 45 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 46 | [الهند](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%86%d8%af) | N/A |
-| 47 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 48 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 49 | [الجزاير الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
-| 50 | [مالديني](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a) | N/A |
+| 46 | [أمريكا](http://twitter.com/search?q=%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 47 | [مالديني](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a) | N/A |
+| 48 | [جميل الصبر](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
+| 49 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 50 | [علي الخاص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-03-30 08:18:34 UTC`
+📆 Last Updated: `2023-03-30 09:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Malaysia](</Malaysia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 2 | [#WelcomeTREASUREtoThailand](http://twitter.com/search?q=%23WelcomeTREASUREtoThailand) | "#WelcomeTREASUREtoThailand" is a hashtag used to welcome the K-pop group TREASURE to Thailand. It is a way of expressing excitement and anticipation for their upcoming visit. |
-| 3 | [#THEDREAMSHOW2_in_KL](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KL) | N/A |
-| 4 | [YES 5G](http://twitter.com/search?q=YES+5G) | N/A |
-| 5 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
-| 6 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
-| 7 | [NCT DREAM TOUR](http://twitter.com/search?q=NCT+DREAM+TOUR) | N/A |
+| 2 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
+| 3 | [Yes 5G](http://twitter.com/search?q=Yes+5G) | N/A |
+| 4 | [#WelcomeTREASUREtoThailand](http://twitter.com/search?q=%23WelcomeTREASUREtoThailand) | "#WelcomeTREASUREtoThailand" is a hashtag used to welcome the K-pop group TREASURE to Thailand. It is a way of expressing excitement and anticipation for their upcoming visit. |
+| 5 | [#THEDREAMSHOW2_in_KL](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KL) | N/A |
+| 6 | [#RimowaXGulf](http://twitter.com/search?q=%23RimowaXGulf) | N/A |
+| 7 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
 | 8 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
 | 9 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
-| 10 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
-| 11 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 10 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 11 | [NCT DREAM TOUR](http://twitter.com/search?q=NCT+DREAM+TOUR) | N/A |
 | 12 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
-| 13 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 14 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 15 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 16 | [JENO BLONDE](http://twitter.com/search?q=JENO+BLONDE) | N/A |
-| 17 | [day6](http://twitter.com/search?q=day6) | N/A |
-| 18 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 19 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 20 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 21 | [liz deserves better](http://twitter.com/search?q=liz+deserves+better) | N/A |
+| 13 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 14 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 15 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 17 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 18 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 19 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 20 | [LIZ DESERVES BETTER](http://twitter.com/search?q=LIZ+DESERVES+BETTER) | N/A |
+| 21 | [Day6](http://twitter.com/search?q=Day6) | N/A |
 | 22 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 23 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 24 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 23 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 24 | [Bella](http://twitter.com/search?q=Bella) | N/A |
 | 25 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 26 | [flower mv teaser](http://twitter.com/search?q=flower+mv+teaser) | N/A |
-| 27 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
-| 28 | [TICKETING SERVICE](http://twitter.com/search?q=TICKETING+SERVICE) | N/A |
-| 29 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 27 | [diana danielle](http://twitter.com/search?q=diana+danielle) | N/A |
+| 28 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 29 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
 | 30 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 31 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 32 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 33 | [ksoo](http://twitter.com/search?q=ksoo) | N/A |
-| 34 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
-| 35 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 36 | [UITM](http://twitter.com/search?q=UITM) | N/A |
-| 37 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
-| 38 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
-| 39 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
-| 40 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 41 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
-| 42 | [faisal halim](http://twitter.com/search?q=faisal+halim) | N/A |
-| 43 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
-| 44 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 45 | [Yuki](http://twitter.com/search?q=Yuki) | N/A |
-| 46 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
-| 47 | [jongup](http://twitter.com/search?q=jongup) | N/A |
-| 48 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 49 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 50 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 31 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
+| 32 | [LEE JENO](http://twitter.com/search?q=LEE+JENO) | N/A |
+| 33 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 34 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 35 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 36 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
+| 37 | [UiTM](http://twitter.com/search?q=UiTM) | N/A |
+| 38 | [SSPN](http://twitter.com/search?q=SSPN) | N/A |
+| 39 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
+| 40 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
+| 41 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
+| 42 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 43 | [GGBB MV OUT NOW](http://twitter.com/search?q=GGBB+MV+OUT+NOW) | N/A |
+| 44 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 45 | [faisal halim](http://twitter.com/search?q=faisal+halim) | N/A |
+| 46 | [minjae](http://twitter.com/search?q=minjae) | N/A |
+| 47 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 48 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 49 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 50 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
 
 
 

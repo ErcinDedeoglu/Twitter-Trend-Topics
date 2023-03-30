@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-03-30 08:19:11 UTC`
+📆 Last Updated: `2023-03-30 09:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rezene Çayı](http://twitter.com/search?q=Rezene+%c3%87ay%c4%b1) | N/A |
-| 2 | [#Kızıldere](http://twitter.com/search?q=%23K%c4%b1z%c4%b1ldere) | N/A |
-| 3 | [#cbyanikshuyugörmüyor](http://twitter.com/search?q=%23cbyanikshuyug%c3%b6rm%c3%bcyor) | N/A |
-| 4 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 5 | [#BuDöneminAdı](http://twitter.com/search?q=%23BuD%c3%b6neminAd%c4%b1) | N/A |
+| 1 | [HurmaEdit Açıldı](http://twitter.com/search?q=HurmaEdit+A%c3%a7%c4%b1ld%c4%b1) | N/A |
+| 2 | [Ha HDP Ha CHP](http://twitter.com/search?q=Ha+HDP+Ha+CHP) | N/A |
+| 3 | [#Kızıldere](http://twitter.com/search?q=%23K%c4%b1z%c4%b1ldere) | N/A |
+| 4 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
+| 5 | [#BayKEMALdeBirleştik](http://twitter.com/search?q=%23BayKEMALdeBirle%c5%9ftik) | N/A |
 | 6 | [#MahirÇayan](http://twitter.com/search?q=%23Mahir%c3%87ayan) | N/A |
-| 7 | [#Persembe](http://twitter.com/search?q=%23Persembe) | #Persembe is a Turkish word meaning Thursday. |
-| 8 | [neolacak boyleya](http://twitter.com/search?q=neolacak+boyleya) | N/A |
-| 9 | [mebalandeğişikliği](http://twitter.com/search?q=mebalande%c4%9fi%c5%9fikli%c4%9fi) | N/A |
-| 10 | [gençlerinabisi ince](http://twitter.com/search?q=gen%c3%a7lerinabisi+ince) | N/A |
-| 11 | [artvine yolculukvar](http://twitter.com/search?q=artvine+yolculukvar) | N/A |
-| 12 | [baharın yalanları](http://twitter.com/search?q=bahar%c4%b1n+yalanlar%c4%b1) | N/A |
-| 13 | [Mehmet Aslantuğ](http://twitter.com/search?q=Mehmet+Aslantu%c4%9f) | N/A |
-| 14 | [Meral](http://twitter.com/search?q=Meral) | N/A |
-| 15 | [Şahlanış Dönemi](http://twitter.com/search?q=%c5%9eahlan%c4%b1%c5%9f+D%c3%b6nemi) | N/A |
-| 16 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
-| 17 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 18 | [Muharrem](http://twitter.com/search?q=Muharrem) | N/A |
-| 19 | [Gündem Özel](http://twitter.com/search?q=G%c3%bcndem+%c3%96zel) | N/A |
-| 20 | [Konya](http://twitter.com/search?q=Konya) | N/A |
-| 21 | [Güle Güle](http://twitter.com/search?q=G%c3%bcle+G%c3%bcle) | N/A |
-| 22 | [Ersin Tatar](http://twitter.com/search?q=Ersin+Tatar) | N/A |
-| 23 | [YapıKayıtsız OyYok](http://twitter.com/search?q=Yap%c4%b1Kay%c4%b1ts%c4%b1z+OyYok) | N/A |
-| 24 | [Ece Üner](http://twitter.com/search?q=Ece+%c3%9cner) | Ece Üner is a Turkish female given name. It is composed of two words: "Ece" which means "Queen" and "Üner" which means "Gift". In English, the name can be translated to mean "Gift of the Queen". |
-| 25 | [türkiye - hırvatistan](http://twitter.com/search?q=t%c3%bcrkiye+-+h%c4%b1rvatistan) | N/A |
-| 26 | [tbmm grup toplantısı](http://twitter.com/search?q=tbmm+grup+toplant%c4%b1s%c4%b1) | N/A |
-| 27 | [İskoçya](http://twitter.com/search?q=%c4%b0sko%c3%a7ya) | N/A |
-| 28 | [ZirveninAdı YalıÇapkını](http://twitter.com/search?q=ZirveninAd%c4%b1+Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | N/A |
-| 29 | [hurmaedit](http://twitter.com/search?q=hurmaedit) | N/A |
-| 30 | [reisden denklikmüjdesi](http://twitter.com/search?q=reisden+denklikm%c3%bcjdesi) | N/A |
-| 31 | [Köroğlu](http://twitter.com/search?q=K%c3%b6ro%c4%9flu) | N/A |
-| 32 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 33 | [The End](http://twitter.com/search?q=The+End) | N/A |
-| 34 | [Halil İbrahim](http://twitter.com/search?q=Halil+%c4%b0brahim) | N/A |
-| 35 | [Şadi Yazıcı](http://twitter.com/search?q=%c5%9eadi+Yaz%c4%b1c%c4%b1) | N/A |
-| 36 | [Bedelli](http://twitter.com/search?q=Bedelli) | N/A |
-| 37 | [Doğru Adımlarla Yola Devam](http://twitter.com/search?q=Do%c4%9fru+Ad%c4%b1mlarla+Yola+Devam) | N/A |
-| 38 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
-| 39 | [MilletinSesi İİBFyiDuy](http://twitter.com/search?q=MilletinSesi+%c4%b0%c4%b0BFyiDuy) | N/A |
-| 40 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
-| 41 | [İletişim Başkanlığı](http://twitter.com/search?q=%c4%b0leti%c5%9fim+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 42 | [AFMüjdesi Bekliyoruz](http://twitter.com/search?q=AFM%c3%bcjdesi+Bekliyoruz) | N/A |
-| 43 | [ArtıkSıra TaşeronaKadro](http://twitter.com/search?q=Art%c4%b1kS%c4%b1ra+Ta%c5%9feronaKadro) | N/A |
-| 44 | [Alperen Şengün](http://twitter.com/search?q=Alperen+%c5%9eeng%c3%bcn) | N/A |
-| 45 | [taşeronunoyu kadroyuverene](http://twitter.com/search?q=ta%c5%9feronunoyu+kadroyuverene) | N/A |
-| 46 | [Adnan Oktar](http://twitter.com/search?q=Adnan+Oktar) | N/A |
-| 47 | [OyumEhliyet Affında](http://twitter.com/search?q=OyumEhliyet+Aff%c4%b1nda) | N/A |
-| 48 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 49 | [Mantar](http://twitter.com/search?q=Mantar) | N/A |
-| 50 | [BOGG](http://twitter.com/search?q=BOGG) | N/A |
+| 7 | [Rezene Çayı](http://twitter.com/search?q=Rezene+%c3%87ay%c4%b1) | N/A |
+| 8 | [#EytMaaşİçinNisanıBekliyor](http://twitter.com/search?q=%23EytMaa%c5%9f%c4%b0%c3%a7inNisan%c4%b1Bekliyor) | N/A |
+| 9 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 10 | [#EYTli5BinVeKısmiyiSoruyor](http://twitter.com/search?q=%23EYTli5BinVeK%c4%b1smiyiSoruyor) | N/A |
+| 11 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
+| 12 | [Bedelli](http://twitter.com/search?q=Bedelli) | N/A |
+| 13 | [Fenerbahçe - Beşiktaş](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Be%c5%9fikta%c5%9f) | N/A |
+| 14 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
+| 15 | [The End](http://twitter.com/search?q=The+End) | N/A |
+| 16 | [Meral](http://twitter.com/search?q=Meral) | N/A |
+| 17 | [HDP'li](http://twitter.com/search?q=HDP%27li) | N/A |
+| 18 | [Kadir Topbaş](http://twitter.com/search?q=Kadir+Topba%c5%9f) | N/A |
+| 19 | [Adnan Oktar](http://twitter.com/search?q=Adnan+Oktar) | N/A |
+| 20 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
+| 21 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 22 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
+| 23 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
+| 24 | [Baykuş](http://twitter.com/search?q=Bayku%c5%9f) | N/A |
+| 25 | [Hizbullahçı](http://twitter.com/search?q=Hizbullah%c3%a7%c4%b1) | N/A |
+| 26 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
+| 27 | [Ersin Tatar](http://twitter.com/search?q=Ersin+Tatar) | N/A |
+| 28 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 29 | [#30Mart1972](http://twitter.com/search?q=%2330Mart1972) | N/A |
+| 30 | [#BuDöneminAdı](http://twitter.com/search?q=%23BuD%c3%b6neminAd%c4%b1) | N/A |
+| 31 | [#KonuşmamızLazım](http://twitter.com/search?q=%23Konu%c5%9fmam%c4%b1zLaz%c4%b1m) | N/A |
+| 32 | [#StajyerCirakHakkınıAlacak](http://twitter.com/search?q=%23StajyerCirakHakk%c4%b1n%c4%b1Alacak) | N/A |
+| 33 | [#DepremiUnutma](http://twitter.com/search?q=%23DepremiUnutma) | N/A |
+| 34 | [#gunaydın](http://twitter.com/search?q=%23gunayd%c4%b1n) | N/A |
+| 35 | [#akbnk](http://twitter.com/search?q=%23akbnk) | N/A |
+| 36 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
+| 37 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 38 | [#asgariücret](http://twitter.com/search?q=%23asgari%c3%bccret) | N/A |
+| 39 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
+| 40 | [#SnCumhurbaşkanımız](http://twitter.com/search?q=%23SnCumhurba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 41 | [#MaaşımaZamŞart](http://twitter.com/search?q=%23Maa%c5%9f%c4%b1maZam%c5%9eart) | N/A |
+| 42 | [#ÇöpAdam](http://twitter.com/search?q=%23%c3%87%c3%b6pAdam) | N/A |
 
 
 
