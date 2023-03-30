@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-30 02:32:30 UTC`
+📆 Last Updated: `2023-03-30 03:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
-| 2 | [#gerbel](http://twitter.com/search?q=%23gerbel) | N/A |
-| 3 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 4 | [#CharlesIII](http://twitter.com/search?q=%23CharlesIII) | N/A |
-| 5 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 6 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 7 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 8 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 2 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
+| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 4 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 5 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 6 | [#Bachelor](http://twitter.com/search?q=%23Bachelor) | N/A |
+| 7 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 8 | [im radius von 15 gehminuten](http://twitter.com/search?q=im+radius+von+15+gehminuten) | N/A |
 | 9 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 10 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 10 | [orden](http://twitter.com/search?q=orden) | N/A |
 | 11 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 12 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
-| 13 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 14 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 12 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 13 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
+| 14 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
 | 15 | [Maut](http://twitter.com/search?q=Maut) | N/A |
 | 16 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
 | 17 | [Wald](http://twitter.com/search?q=Wald) | N/A |
 | 18 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 19 | [tradition als rb leipzig](http://twitter.com/search?q=tradition+als+rb+leipzig) | N/A |
-| 20 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
-| 21 | [autobahnprojekte](http://twitter.com/search?q=autobahnprojekte) | N/A |
-| 22 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
-| 23 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 24 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
-| 25 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 26 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 29 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
-| 30 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
+| 19 | [autobahnprojekte](http://twitter.com/search?q=autobahnprojekte) | N/A |
+| 20 | [tradition als rb leipzig](http://twitter.com/search?q=tradition+als+rb+leipzig) | N/A |
+| 21 | [spd und fdp](http://twitter.com/search?q=spd+und+fdp) | N/A |
+| 22 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
+| 23 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 24 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 25 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
+| 26 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 27 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 28 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
+| 29 | [kompromisse](http://twitter.com/search?q=kompromisse) | N/A |
+| 30 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
 | 31 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
-| 32 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 33 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
-| 34 | [frau herrmann](http://twitter.com/search?q=frau+herrmann) | N/A |
+| 32 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
+| 33 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
+| 34 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
 | 35 | [sektoren](http://twitter.com/search?q=sektoren) | N/A |
-| 36 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 37 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 38 | [athleten](http://twitter.com/search?q=athleten) | N/A |
-| 39 | [steuererhöhung](http://twitter.com/search?q=steuererh%c3%b6hung) | N/A |
-| 40 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 41 | [neuwahlen](http://twitter.com/search?q=neuwahlen) | N/A |
+| 36 | [Herrmann](http://twitter.com/search?q=Herrmann) | N/A |
+| 37 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 38 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 39 | [neuwahlen](http://twitter.com/search?q=neuwahlen) | N/A |
+| 40 | [steuererhöhung](http://twitter.com/search?q=steuererh%c3%b6hung) | N/A |
+| 41 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 42 | [Schiene](http://twitter.com/search?q=Schiene) | N/A |
-| 43 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
-| 44 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 45 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
-| 46 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 43 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 44 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
+| 45 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
+| 46 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
 | 47 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 48 | [beschlüsse](http://twitter.com/search?q=beschl%c3%bcsse) | N/A |
+| 48 | [armbinde](http://twitter.com/search?q=armbinde) | N/A |
+| 49 | [beschlüsse](http://twitter.com/search?q=beschl%c3%bcsse) | N/A |
 
 
 

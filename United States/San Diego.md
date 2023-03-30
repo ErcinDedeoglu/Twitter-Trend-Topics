@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-30 02:33:04 UTC`
+📆 Last Updated: `2023-03-30 03:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
 | 2 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 3 | [Brooks](http://twitter.com/search?q=Brooks) | N/A |
-| 4 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 5 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 3 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 4 | [Bones](http://twitter.com/search?q=Bones) | N/A |
+| 5 | [Padres](http://twitter.com/search?q=Padres) | N/A |
 | 6 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 | 7 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 8 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 9 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
-| 10 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
-| 11 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 12 | [Dodger Stadium](http://twitter.com/search?q=Dodger+Stadium) | N/A |
-| 13 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 14 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 15 | [Bobo](http://twitter.com/search?q=Bobo) | N/A |
-| 16 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 17 | [Marty](http://twitter.com/search?q=Marty) | N/A |
-| 18 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 19 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 20 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 21 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 22 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 23 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 24 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 25 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 26 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 27 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 28 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 29 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 30 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 31 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 32 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 33 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 34 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
-| 35 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 8 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 9 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
+| 10 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
+| 11 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 12 | [#Mandalorian](http://twitter.com/search?q=%23Mandalorian) | N/A |
+| 13 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 15 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 16 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 17 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 18 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 19 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 20 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 21 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 22 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 23 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 24 | [#AEWAllAccess](http://twitter.com/search?q=%23AEWAllAccess) | N/A |
+| 25 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 26 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 27 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 28 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
+| 29 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 30 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
+| 31 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 32 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 33 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 34 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 35 | [Thunder Rosa](http://twitter.com/search?q=Thunder+Rosa) | N/A |
 | 36 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
 | 37 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
-| 38 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
-| 39 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 40 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 41 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 42 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
-| 43 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 44 | [Thunder Rosa](http://twitter.com/search?q=Thunder+Rosa) | N/A |
-| 45 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 46 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
-| 47 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
-| 48 | [Jeff Van Gundy](http://twitter.com/search?q=Jeff+Van+Gundy) | N/A |
-| 49 | [TOO SMALL](http://twitter.com/search?q=TOO+SMALL) | N/A |
-| 50 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 38 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 39 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 40 | [Jeff Van Gundy](http://twitter.com/search?q=Jeff+Van+Gundy) | N/A |
+| 41 | [Byram](http://twitter.com/search?q=Byram) | N/A |
+| 42 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 43 | [Skully](http://twitter.com/search?q=Skully) | N/A |
+| 44 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 45 | [TOO SMALL](http://twitter.com/search?q=TOO+SMALL) | N/A |
+| 46 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 47 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
+| 48 | [Arming](http://twitter.com/search?q=Arming) | N/A |
+| 49 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 50 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
 
 
 

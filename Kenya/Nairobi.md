@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-30 02:32:47 UTC`
+📆 Last Updated: `2023-03-30 03:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Kenya](</Kenya>)
 | ------- | ------------ | ------------ |
 | 1 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
 | 2 | [#Nuru47](http://twitter.com/search?q=%23Nuru47) | N/A |
-| 3 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 4 | [#JKLive](http://twitter.com/search?q=%23JKLive) | N/A |
+| 3 | [#JKLive](http://twitter.com/search?q=%23JKLive) | N/A |
+| 4 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
 | 5 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
-| 6 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
-| 7 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 8 | [#HapaNdipo](http://twitter.com/search?q=%23HapaNdipo) | N/A |
-| 9 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
-| 10 | [#Newsnight](http://twitter.com/search?q=%23Newsnight) | N/A |
-| 11 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 12 | [Nyong](http://twitter.com/search?q=Nyong) | N/A |
-| 13 | [waihiga mwaura](http://twitter.com/search?q=waihiga+mwaura) | N/A |
-| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 15 | [mc fullstop](http://twitter.com/search?q=mc+fullstop) | N/A |
-| 16 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
-| 17 | [kibra](http://twitter.com/search?q=kibra) | N/A |
-| 18 | [eric omondi](http://twitter.com/search?q=eric+omondi) | N/A |
-| 19 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 20 | [Ninja](http://twitter.com/search?q=Ninja) | N/A |
-| 21 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
-| 22 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
-| 23 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
+| 6 | [#HapaNdipo](http://twitter.com/search?q=%23HapaNdipo) | N/A |
+| 7 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
+| 8 | [Riri](http://twitter.com/search?q=Riri) | N/A |
+| 9 | [Kimani Ichungwa](http://twitter.com/search?q=Kimani+Ichungwa) | N/A |
+| 10 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
+| 11 | [#tuskerfest](http://twitter.com/search?q=%23tuskerfest) | N/A |
+| 12 | [waihiga mwaura](http://twitter.com/search?q=waihiga+mwaura) | N/A |
+| 13 | [Nyong](http://twitter.com/search?q=Nyong) | N/A |
+| 14 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 16 | [mc fullstop](http://twitter.com/search?q=mc+fullstop) | N/A |
+| 17 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
+| 18 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
+| 19 | [Ninja](http://twitter.com/search?q=Ninja) | N/A |
+| 20 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 21 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 22 | [ERIC Omondi](http://twitter.com/search?q=ERIC+Omondi) | N/A |
+| 23 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
 | 24 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 25 | [aga khan hospital](http://twitter.com/search?q=aga+khan+hospital) | N/A |
+| 25 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
 | 26 | [Chillis](http://twitter.com/search?q=Chillis) | N/A |
-| 27 | [matasi](http://twitter.com/search?q=matasi) | N/A |
-| 28 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
-| 29 | [get carrefour app](http://twitter.com/search?q=get+carrefour+app) | N/A |
-| 30 | [Amber Ray](http://twitter.com/search?q=Amber+Ray) | N/A |
-| 31 | [edwin sifuna](http://twitter.com/search?q=edwin+sifuna) | N/A |
-| 32 | [mentalhealth ke](http://twitter.com/search?q=mentalhealth+ke) | N/A |
-| 33 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 34 | [Dj Grauchi](http://twitter.com/search?q=Dj+Grauchi) | N/A |
-| 35 | [quick recovery](http://twitter.com/search?q=quick+recovery) | N/A |
-| 36 | [Mike Sonko](http://twitter.com/search?q=Mike+Sonko) | N/A |
+| 27 | [aga khan hospital](http://twitter.com/search?q=aga+khan+hospital) | N/A |
+| 28 | [matasi](http://twitter.com/search?q=matasi) | N/A |
+| 29 | [mentalhealth ke](http://twitter.com/search?q=mentalhealth+ke) | N/A |
+| 30 | [get carrefour app](http://twitter.com/search?q=get+carrefour+app) | N/A |
+| 31 | [amber ray](http://twitter.com/search?q=amber+ray) | N/A |
+| 32 | [edwin sifuna](http://twitter.com/search?q=edwin+sifuna) | N/A |
+| 33 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
+| 34 | [Mike Sonko](http://twitter.com/search?q=Mike+Sonko) | N/A |
+| 35 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 36 | [quick recovery](http://twitter.com/search?q=quick+recovery) | N/A |
 | 37 | [banisa mp kullow maalim hassan](http://twitter.com/search?q=banisa+mp+kullow+maalim+hassan) | N/A |
-| 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 39 | [bluechip aviation safaris](http://twitter.com/search?q=bluechip+aviation+safaris) | N/A |
-| 40 | [cx-5](http://twitter.com/search?q=cx-5) | N/A |
+| 38 | [cx-5](http://twitter.com/search?q=cx-5) | N/A |
+| 39 | [equity afia](http://twitter.com/search?q=equity+afia) | N/A |
+| 40 | [bluechip aviation safaris](http://twitter.com/search?q=bluechip+aviation+safaris) | N/A |
 | 41 | [John Maina](http://twitter.com/search?q=John+Maina) | N/A |
-| 42 | [equity afia](http://twitter.com/search?q=equity+afia) | N/A |
-| 43 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
-| 44 | [dj mesh mkaree](http://twitter.com/search?q=dj+mesh+mkaree) | N/A |
-| 45 | [neptune hotels diani](http://twitter.com/search?q=neptune+hotels+diani) | N/A |
-| 46 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 47 | [Kennedy Rapudo](http://twitter.com/search?q=Kennedy+Rapudo) | N/A |
-| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 49 | [mama ngina](http://twitter.com/search?q=mama+ngina) | N/A |
+| 42 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 43 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 44 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 45 | [kindiki](http://twitter.com/search?q=kindiki) | N/A |
+| 46 | [dj mesh mkaree](http://twitter.com/search?q=dj+mesh+mkaree) | N/A |
+| 47 | [neptune hotels diani](http://twitter.com/search?q=neptune+hotels+diani) | N/A |
+| 48 | [kennedy rapudo](http://twitter.com/search?q=kennedy+rapudo) | N/A |
+| 49 | [jeff mwathi](http://twitter.com/search?q=jeff+mwathi) | N/A |
 | 50 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
 
 

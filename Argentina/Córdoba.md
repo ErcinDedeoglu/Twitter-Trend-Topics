@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-30 02:32:26 UTC`
+📆 Last Updated: `2023-03-30 03:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,44 @@ This is top 50 for [Argentina](</Argentina>)
 | 1 | [#Pantanal](http://twitter.com/search?q=%23Pantanal) | N/A |
 | 2 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
 | 3 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 4 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 5 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 6 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 7 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
-| 8 | [#NocheAlDente](http://twitter.com/search?q=%23NocheAlDente) | N/A |
-| 9 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
-| 10 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 11 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 12 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
-| 13 | [#BenditoCapitan](http://twitter.com/search?q=%23BenditoCapitan) | N/A |
-| 14 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 15 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
-| 16 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 17 | [Fer Dente](http://twitter.com/search?q=Fer+Dente) | N/A |
-| 18 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 19 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 20 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 21 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 22 | [COTY CONE AL BAILANDO](http://twitter.com/search?q=COTY+CONE+AL+BAILANDO) | N/A |
-| 23 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 24 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 25 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 26 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 27 | [Peroni](http://twitter.com/search?q=Peroni) | N/A |
-| 28 | [Harakiri](http://twitter.com/search?q=Harakiri) | N/A |
-| 29 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 30 | [#DuroDeDomar](http://twitter.com/search?q=%23DuroDeDomar) | N/A |
-| 31 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 32 | [Géminis](http://twitter.com/search?q=G%c3%a9minis) | Géminis is the Spanish word for Gemini, which is the third astrological sign in the zodiac. It is represented by the twins Castor and Pollux, and its symbol is the twins. In English, Géminis means Gemini. |
-| 33 | [Luciani](http://twitter.com/search?q=Luciani) | N/A |
-| 34 | [Darthes](http://twitter.com/search?q=Darthes) | N/A |
-| 35 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 36 | [Ñoquis](http://twitter.com/search?q=%c3%91oquis) | N/A |
-| 37 | [Es 29](http://twitter.com/search?q=Es+29) | N/A |
-| 38 | [Seoane](http://twitter.com/search?q=Seoane) | N/A |
-| 39 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 40 | [Damiani](http://twitter.com/search?q=Damiani) | N/A |
-| 41 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
-| 42 | [Piscis](http://twitter.com/search?q=Piscis) | N/A |
-| 43 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 44 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 45 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
-| 46 | [Norte](http://twitter.com/search?q=Norte) | N/A |
-| 47 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 48 | [Costa Salguero](http://twitter.com/search?q=Costa+Salguero) | N/A |
-| 49 | [Gayoso](http://twitter.com/search?q=Gayoso) | N/A |
+| 4 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 5 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
+| 6 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
+| 7 | [#NocheAlDente](http://twitter.com/search?q=%23NocheAlDente) | N/A |
+| 8 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 9 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 11 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
+| 12 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 13 | [Fer Dente](http://twitter.com/search?q=Fer+Dente) | N/A |
+| 14 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 15 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 16 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 17 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 18 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 19 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 20 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 21 | [#bailando2023](http://twitter.com/search?q=%23bailando2023) | N/A |
+| 22 | [Herron](http://twitter.com/search?q=Herron) | N/A |
+| 23 | [Harakiri](http://twitter.com/search?q=Harakiri) | N/A |
+| 24 | [Peroni](http://twitter.com/search?q=Peroni) | N/A |
+| 25 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 26 | [Ñoquis](http://twitter.com/search?q=%c3%91oquis) | N/A |
+| 27 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 28 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 29 | [Géminis](http://twitter.com/search?q=G%c3%a9minis) | Géminis is the Spanish word for Gemini, which is the third astrological sign in the zodiac. It is represented by the twins Castor and Pollux, and its symbol is the twins. In English, Géminis means Gemini. |
+| 30 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
+| 31 | [Darthes](http://twitter.com/search?q=Darthes) | N/A |
+| 32 | [Damiani](http://twitter.com/search?q=Damiani) | N/A |
+| 33 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 34 | [Es 29](http://twitter.com/search?q=Es+29) | N/A |
+| 35 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 36 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
+| 37 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 38 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 39 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 40 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
+| 41 | [Paco](http://twitter.com/search?q=Paco) | N/A |
 
 
 

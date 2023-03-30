@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-30 02:33:13 UTC`
+📆 Last Updated: `2023-03-30 03:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ventura](http://twitter.com/search?q=Ventura) | N/A |
-| 2 | [centro ismaili](http://twitter.com/search?q=centro+ismaili) | N/A |
-| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 4 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
-| 5 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | N/A |
-| 6 | [Zezinho](http://twitter.com/search?q=Zezinho) | Zezinho is a Portuguese nickname meaning "little Joe" or "little Joseph". It is commonly used as a term of endearment for someone named Joseph or for someone who is small and cute. |
-| 7 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 8 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 9 | [João Sousa](http://twitter.com/search?q=Jo%c3%a3o+Sousa) | N/A |
-| 10 | [Afeganistão](http://twitter.com/search?q=Afeganist%c3%a3o) | N/A |
-| 11 | [Antunes](http://twitter.com/search?q=Antunes) | N/A |
-| 12 | [#canal11futeboltotal](http://twitter.com/search?q=%23canal11futeboltotal) | N/A |
-| 13 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
-| 14 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 15 | [Santos Silva](http://twitter.com/search?q=Santos+Silva) | N/A |
-| 16 | [Girão](http://twitter.com/search?q=Gir%c3%a3o) | N/A |
-| 17 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 18 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
-| 19 | [hugo soares](http://twitter.com/search?q=hugo+soares) | N/A |
-| 20 | [#governomaisproximo](http://twitter.com/search?q=%23governomaisproximo) | N/A |
-| 21 | [afegão](http://twitter.com/search?q=afeg%c3%a3o) | N/A |
-| 22 | [Mondego](http://twitter.com/search?q=Mondego) | N/A |
-| 23 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 24 | [O Dala](http://twitter.com/search?q=O+Dala) | N/A |
-| 25 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 26 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 27 | [Abraço](http://twitter.com/search?q=Abra%c3%a7o) | N/A |
-| 28 | [Escócia](http://twitter.com/search?q=Esc%c3%b3cia) | N/A |
-| 29 | [Buda](http://twitter.com/search?q=Buda) | N/A |
-| 30 | [Parabéns Presidente](http://twitter.com/search?q=Parab%c3%a9ns+Presidente) | N/A |
-| 31 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
-| 32 | [O Messi](http://twitter.com/search?q=O+Messi) | N/A |
-| 33 | [Carmo](http://twitter.com/search?q=Carmo) | N/A |
-| 34 | [#tech4innov](http://twitter.com/search?q=%23tech4innov) | N/A |
-| 35 | [Pires](http://twitter.com/search?q=Pires) | N/A |
-| 36 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Ventura](http://twitter.com/search?q=Ventura) | N/A |
+| 3 | [CLASSIFIQUE SEU PET](http://twitter.com/search?q=CLASSIFIQUE+SEU+PET) | N/A |
+| 4 | [centro ismaili](http://twitter.com/search?q=centro+ismaili) | N/A |
+| 5 | [Zezinho](http://twitter.com/search?q=Zezinho) | Zezinho is a Portuguese nickname meaning "little Joe" or "little Joseph". It is commonly used as a term of endearment for someone named Joseph or for someone who is small and cute. |
+| 6 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 7 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | N/A |
+| 8 | [joão sousa](http://twitter.com/search?q=jo%c3%a3o+sousa) | N/A |
+| 9 | [Rui Costa](http://twitter.com/search?q=Rui+Costa) | Rui Costa is a Portuguese name, derived from the Latin name "Rudius". It means "red-haired" or "red-headed". |
+| 10 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 11 | [#canal11futeboltotal](http://twitter.com/search?q=%23canal11futeboltotal) | N/A |
+| 12 | [Antunes](http://twitter.com/search?q=Antunes) | N/A |
+| 13 | [Afeganistão](http://twitter.com/search?q=Afeganist%c3%a3o) | N/A |
+| 14 | [Girão](http://twitter.com/search?q=Gir%c3%a3o) | N/A |
+| 15 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
+| 16 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 17 | [#andebolscp](http://twitter.com/search?q=%23andebolscp) | N/A |
+| 18 | [Inácia](http://twitter.com/search?q=In%c3%a1cia) | N/A |
+| 19 | [O Dala](http://twitter.com/search?q=O+Dala) | N/A |
+| 20 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 21 | [Santos Silva](http://twitter.com/search?q=Santos+Silva) | N/A |
+| 22 | [#governomaisproximo](http://twitter.com/search?q=%23governomaisproximo) | N/A |
+| 23 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
+| 24 | [afegão](http://twitter.com/search?q=afeg%c3%a3o) | N/A |
+| 25 | [Mondego](http://twitter.com/search?q=Mondego) | N/A |
+| 26 | [Abraço](http://twitter.com/search?q=Abra%c3%a7o) | N/A |
+| 27 | [hugo soares](http://twitter.com/search?q=hugo+soares) | N/A |
+| 28 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
+| 29 | [Parabéns Presidente](http://twitter.com/search?q=Parab%c3%a9ns+Presidente) | N/A |
+| 30 | [O Messi](http://twitter.com/search?q=O+Messi) | N/A |
+| 31 | [Escócia](http://twitter.com/search?q=Esc%c3%b3cia) | N/A |
+| 32 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 33 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 34 | [Pires](http://twitter.com/search?q=Pires) | N/A |
+| 35 | [Buda](http://twitter.com/search?q=Buda) | N/A |
+| 36 | [Indonésia](http://twitter.com/search?q=Indon%c3%a9sia) | N/A |
 | 37 | [Guga](http://twitter.com/search?q=Guga) | N/A |
-| 38 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 39 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 40 | [CPAs](http://twitter.com/search?q=CPAs) | N/A |
-| 41 | [Queima](http://twitter.com/search?q=Queima) | N/A |
-| 42 | [alcochete](http://twitter.com/search?q=alcochete) | N/A |
-| 43 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 44 | [Visão](http://twitter.com/search?q=Vis%c3%a3o) | N/A |
-| 45 | [O PSD](http://twitter.com/search?q=O+PSD) | N/A |
-| 46 | [O MP](http://twitter.com/search?q=O+MP) | N/A |
-| 47 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 48 | [Liga 3](http://twitter.com/search?q=Liga+3) | N/A |
-| 49 | [Europeus](http://twitter.com/search?q=Europeus) | N/A |
-| 50 | [Eder](http://twitter.com/search?q=Eder) | N/A |
+| 38 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 39 | [Carlos Moedas](http://twitter.com/search?q=Carlos+Moedas) | N/A |
+| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 41 | [CPAS](http://twitter.com/search?q=CPAS) | N/A |
+| 42 | [Carmo](http://twitter.com/search?q=Carmo) | N/A |
+| 43 | [o psd](http://twitter.com/search?q=o+psd) | N/A |
+| 44 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
+| 45 | [Queima](http://twitter.com/search?q=Queima) | N/A |
+| 46 | [ukra](http://twitter.com/search?q=ukra) | N/A |
+| 47 | [O MP](http://twitter.com/search?q=O+MP) | N/A |
+| 48 | [Eder](http://twitter.com/search?q=Eder) | N/A |
+| 49 | [varandas](http://twitter.com/search?q=varandas) | N/A |
+| 50 | [Artur](http://twitter.com/search?q=Artur) | N/A |
 
 
 

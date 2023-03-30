@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-03-30 02:32:58 UTC`
+📆 Last Updated: `2023-03-30 03:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
 | 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 4 | [#pumprules](http://twitter.com/search?q=%23pumprules) | N/A |
-| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 6 | [Wrigley](http://twitter.com/search?q=Wrigley) | N/A |
-| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 8 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 9 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 10 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 11 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 5 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 8 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 9 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 10 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 11 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 12 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 13 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 14 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 15 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 16 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 17 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 18 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 19 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 13 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 14 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 15 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 16 | [#AEWAllAccess](http://twitter.com/search?q=%23AEWAllAccess) | N/A |
+| 17 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 18 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 19 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
 | 20 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 21 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 22 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 21 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
+| 22 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
 | 23 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
-| 24 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 25 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
-| 26 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
-| 27 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
-| 28 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 29 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 30 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 31 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
-| 32 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 33 | [Thunder Rosa](http://twitter.com/search?q=Thunder+Rosa) | N/A |
-| 34 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 35 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
-| 36 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
-| 37 | [Jeff Van Gundy](http://twitter.com/search?q=Jeff+Van+Gundy) | N/A |
+| 24 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 25 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 26 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 27 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 28 | [Thunder Rosa](http://twitter.com/search?q=Thunder+Rosa) | N/A |
+| 29 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
+| 30 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
+| 31 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 32 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 33 | [Jeff Van Gundy](http://twitter.com/search?q=Jeff+Van+Gundy) | N/A |
+| 34 | [Byram](http://twitter.com/search?q=Byram) | N/A |
+| 35 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 36 | [Skully](http://twitter.com/search?q=Skully) | N/A |
+| 37 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
 | 38 | [TOO SMALL](http://twitter.com/search?q=TOO+SMALL) | N/A |
 | 39 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 40 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 41 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 42 | [Dalton Castle](http://twitter.com/search?q=Dalton+Castle) | N/A |
-| 43 | [Skully](http://twitter.com/search?q=Skully) | N/A |
-| 44 | [Arming](http://twitter.com/search?q=Arming) | N/A |
-| 45 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 46 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 47 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
-| 48 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 49 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 40 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
+| 41 | [Arming](http://twitter.com/search?q=Arming) | N/A |
+| 42 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 43 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
+| 44 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
+| 45 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 46 | [Robert Covington](http://twitter.com/search?q=Robert+Covington) | N/A |
+| 47 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 48 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 49 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
 | 50 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
 
 

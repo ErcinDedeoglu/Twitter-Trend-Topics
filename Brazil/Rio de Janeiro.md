@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-03-30 02:32:25 UTC`
+📆 Last Updated: `2023-03-30 03:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chris Martin](http://twitter.com/search?q=Chris+Martin) | Chris Martin is the lead singer and songwriter of the British rock band Coldplay. He is known for his soulful vocals and melodic piano playing. The name "Chris Martin" has become synonymous with Coldplay's music, which has earned them numerous awards and accolades. |
-| 2 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 3 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 4 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 5 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 6 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 7 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 8 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
-| 9 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 10 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
-| 11 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
-| 12 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 13 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 14 | [SOS NORTE](http://twitter.com/search?q=SOS+NORTE) | N/A |
-| 15 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 16 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
-| 17 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 19 | [Retiro](http://twitter.com/search?q=Retiro) | N/A |
-| 20 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 21 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
-| 22 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 23 | [Villani](http://twitter.com/search?q=Villani) | N/A |
-| 24 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
-| 25 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 26 | [#SpaceResenhaComPA](http://twitter.com/search?q=%23SpaceResenhaComPA) | N/A |
-| 27 | [#ClassicoReiNaJanga](http://twitter.com/search?q=%23ClassicoReiNaJanga) | N/A |
-| 28 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
-| 29 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
-| 30 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
-| 31 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 32 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 33 | [AMANHA CD RAIZ](http://twitter.com/search?q=AMANHA+CD+RAIZ) | N/A |
-| 34 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 35 | [Copa Verde](http://twitter.com/search?q=Copa+Verde) | N/A |
-| 36 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 37 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 38 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
-| 39 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
-| 40 | [Titular](http://twitter.com/search?q=Titular) | N/A |
-| 41 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
-| 42 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 43 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
-| 44 | [OUÇA DIAMANTE NO SPOTIFY](http://twitter.com/search?q=OU%c3%87A+DIAMANTE+NO+SPOTIFY) | N/A |
-| 45 | [chaz](http://twitter.com/search?q=chaz) | N/A |
-| 46 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 47 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 48 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
-| 49 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 50 | [Chiquititas](http://twitter.com/search?q=Chiquititas) | Chiquititas is a popular Argentine children's television series that aired from 1995 to 2006. The title translates to "Little Girls" in English. It follows the story of a group of orphans living in a fictional orphanage called "Casa de Chiquititas". The show follows the lives of the orphans as they face various challenges and adventures. |
+| 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 2 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 3 | [Fred Sincero](http://twitter.com/search?q=Fred+Sincero) | N/A |
+| 4 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 5 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 6 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 7 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 8 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 9 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 10 | [SOS NORTE](http://twitter.com/search?q=SOS+NORTE) | N/A |
+| 11 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
+| 12 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [Ilha](http://twitter.com/search?q=Ilha) | N/A |
+| 15 | [#SpaceResenhaComPA](http://twitter.com/search?q=%23SpaceResenhaComPA) | N/A |
+| 16 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 17 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 18 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
+| 19 | [#ClassicoReiNaJanga](http://twitter.com/search?q=%23ClassicoReiNaJanga) | N/A |
+| 20 | [Villani](http://twitter.com/search?q=Villani) | N/A |
+| 21 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
+| 22 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 23 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 24 | [#AMagiaAconteceNoBBB](http://twitter.com/search?q=%23AMagiaAconteceNoBBB) | N/A |
+| 25 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 26 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
+| 27 | [AMANHA CD RAIZ](http://twitter.com/search?q=AMANHA+CD+RAIZ) | N/A |
+| 28 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 29 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 30 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 31 | [Titular](http://twitter.com/search?q=Titular) | N/A |
+| 32 | [chaz](http://twitter.com/search?q=chaz) | N/A |
+| 33 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 34 | [Luvannor](http://twitter.com/search?q=Luvannor) | N/A |
+| 35 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
+| 36 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 37 | [Copa Verde](http://twitter.com/search?q=Copa+Verde) | N/A |
+| 38 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 39 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 40 | [Vojvoda](http://twitter.com/search?q=Vojvoda) | N/A |
+| 41 | [Lucero](http://twitter.com/search?q=Lucero) | N/A |
+| 42 | [Chiquititas](http://twitter.com/search?q=Chiquititas) | Chiquititas is a popular Argentine children's television series that aired from 1995 to 2006. The title translates to "Little Girls" in English. It follows the story of a group of orphans living in a fictional orphanage called "Casa de Chiquititas". The show follows the lives of the orphans as they face various challenges and adventures. |
+| 43 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 44 | [Vozão](http://twitter.com/search?q=Voz%c3%a3o) | N/A |
+| 45 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 46 | [Labandeira](http://twitter.com/search?q=Labandeira) | N/A |
+| 47 | [BOLSONARO PRESO AMANHÃ](http://twitter.com/search?q=BOLSONARO+PRESO+AMANH%c3%83) | N/A |
+| 48 | [Calm Down](http://twitter.com/search?q=Calm+Down) | N/A |
+| 49 | [Benevenuto](http://twitter.com/search?q=Benevenuto) | N/A |
+| 50 | [Castelão](http://twitter.com/search?q=Castel%c3%a3o) | N/A |
 
 
 
