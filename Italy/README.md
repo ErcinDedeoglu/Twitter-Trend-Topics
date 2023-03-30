@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-03-30 12:19:52 UTC`
+📆 Last Updated: `2023-03-30 13:20:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Italy
 | ------- | ------------ | ------------ |
 | 1 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
 | 2 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 3 | [#David68](http://twitter.com/search?q=%23David68) | N/A |
-| 4 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
-| 5 | [#AncheSeSembra](http://twitter.com/search?q=%23AncheSeSembra) | N/A |
-| 6 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 7 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
-| 8 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 3 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
+| 4 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 5 | [#david68](http://twitter.com/search?q=%23david68) | N/A |
+| 6 | [#AncheSeSembra](http://twitter.com/search?q=%23AncheSeSembra) | N/A |
+| 7 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 8 | [Ficarra](http://twitter.com/search?q=Ficarra) | N/A |
 | 9 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 10 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 11 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 12 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
-| 13 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 14 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 15 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
-| 16 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 17 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 18 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 19 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
-| 20 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 21 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
+| 10 | [Lavinia](http://twitter.com/search?q=Lavinia) | Lavinia is a female given name of Latin origin, derived from the Roman family name Laviniu. It is thought to mean "purity" or "cleanliness". |
+| 11 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
+| 12 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 13 | [Busia](http://twitter.com/search?q=Busia) | N/A |
+| 14 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 15 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 16 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 17 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 18 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 19 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 20 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 21 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
 | 22 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 23 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 24 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 25 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 26 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
-| 27 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 28 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 29 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 30 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 31 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 32 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
-| 33 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 34 | [Franco Califano](http://twitter.com/search?q=Franco+Califano) | N/A |
-| 35 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 36 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 37 | [rebic](http://twitter.com/search?q=rebic) | N/A |
-| 38 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 39 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 40 | [Ekaterinburg](http://twitter.com/search?q=Ekaterinburg) | N/A |
-| 41 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 43 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 44 | [Parlamento Europeo](http://twitter.com/search?q=Parlamento+Europeo) | N/A |
-| 45 | [Blue Skye](http://twitter.com/search?q=Blue+Skye) | N/A |
-| 46 | [Il Parlamento](http://twitter.com/search?q=Il+Parlamento) | N/A |
-| 47 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 48 | [Della Valle](http://twitter.com/search?q=Della+Valle) | N/A |
-| 49 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 50 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 23 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 24 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 25 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 26 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 27 | [Emanuela Fanelli](http://twitter.com/search?q=Emanuela+Fanelli) | N/A |
+| 28 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 29 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
+| 30 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
+| 31 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 32 | [Franco Califano](http://twitter.com/search?q=Franco+Califano) | N/A |
+| 33 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
+| 34 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
+| 35 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 36 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 37 | [Il Parlamento](http://twitter.com/search?q=Il+Parlamento) | N/A |
+| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 39 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 40 | [rebic](http://twitter.com/search?q=rebic) | N/A |
+| 41 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 42 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
+| 43 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 44 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
+| 45 | [blue skye](http://twitter.com/search?q=blue+skye) | N/A |
+| 46 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 47 | [gennaro](http://twitter.com/search?q=gennaro) | N/A |
+| 48 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 49 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 50 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
 
 
 

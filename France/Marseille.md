@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-03-30 12:19:06 UTC`
+📆 Last Updated: `2023-03-30 13:20:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 2 | [#SiphanoXNintendalerts](http://twitter.com/search?q=%23SiphanoXNintendalerts) | N/A |
-| 3 | [#kcorpwin](http://twitter.com/search?q=%23kcorpwin) | N/A |
-| 4 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
+| 2 | [#kcorpwin](http://twitter.com/search?q=%23kcorpwin) | N/A |
+| 3 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
+| 4 | [#SiphanoXNintendalerts](http://twitter.com/search?q=%23SiphanoXNintendalerts) | N/A |
 | 5 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
-| 6 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 7 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 6 | [#PlanEau](http://twitter.com/search?q=%23PlanEau) | N/A |
+| 7 | [Samu](http://twitter.com/search?q=Samu) | N/A |
 | 8 | [ZLAN](http://twitter.com/search?q=ZLAN) | N/A |
-| 9 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 9 | [Pharos](http://twitter.com/search?q=Pharos) | N/A |
 | 10 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 11 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 13 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
-| 14 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 15 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
-| 16 | [Pharos](http://twitter.com/search?q=Pharos) | N/A |
-| 17 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 18 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 11 | [Pauleta](http://twitter.com/search?q=Pauleta) | N/A |
+| 12 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
+| 13 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 15 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 16 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
+| 17 | [patrick cohen](http://twitter.com/search?q=patrick+cohen) | N/A |
+| 18 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 19 | [Muselier](http://twitter.com/search?q=Muselier) | N/A |
-| 20 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 21 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 22 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 23 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 24 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 25 | [Xikers](http://twitter.com/search?q=Xikers) | N/A |
-| 26 | [Albane](http://twitter.com/search?q=Albane) | N/A |
-| 27 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
-| 28 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
-| 29 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
-| 30 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 31 | [Caudry](http://twitter.com/search?q=Caudry) | N/A |
-| 32 | [Picsou](http://twitter.com/search?q=Picsou) | N/A |
-| 33 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 34 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 35 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 20 | [Albane](http://twitter.com/search?q=Albane) | N/A |
+| 21 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 22 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 23 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 24 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
+| 25 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 26 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
+| 27 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 28 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 29 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 30 | [Picsou](http://twitter.com/search?q=Picsou) | N/A |
+| 31 | [Azzedine Ounahi](http://twitter.com/search?q=Azzedine+Ounahi) | N/A |
+| 32 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
+| 33 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
+| 34 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 35 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
 | 36 | [Boateng](http://twitter.com/search?q=Boateng) | N/A |
-| 37 | [WIND BREAKER](http://twitter.com/search?q=WIND+BREAKER) | N/A |
-| 38 | [Embrun](http://twitter.com/search?q=Embrun) | N/A |
-| 39 | [Live A Live](http://twitter.com/search?q=Live+A+Live) | N/A |
+| 37 | [Ambroise](http://twitter.com/search?q=Ambroise) | N/A |
+| 38 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 39 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
 | 40 | [Dawala](http://twitter.com/search?q=Dawala) | N/A |
-| 41 | [Streisand](http://twitter.com/search?q=Streisand) | N/A |
-| 42 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 43 | [Léon Blum](http://twitter.com/search?q=L%c3%a9on+Blum) | N/A |
-| 44 | [Ambroise](http://twitter.com/search?q=Ambroise) | N/A |
-| 45 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 46 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 47 | [Hierro](http://twitter.com/search?q=Hierro) | N/A |
-| 48 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 49 | [Corée du Nord](http://twitter.com/search?q=Cor%c3%a9e+du+Nord) | N/A |
-| 50 | [Malhuret](http://twitter.com/search?q=Malhuret) | N/A |
+| 41 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 42 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 43 | [Sifaoui](http://twitter.com/search?q=Sifaoui) | N/A |
+| 44 | [Ousmane Sonko](http://twitter.com/search?q=Ousmane+Sonko) | N/A |
+| 45 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
+| 46 | [léon blum](http://twitter.com/search?q=l%c3%a9on+blum) | N/A |
+| 47 | [Streisand](http://twitter.com/search?q=Streisand) | N/A |
+| 48 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 49 | [Hierro](http://twitter.com/search?q=Hierro) | N/A |
+| 50 | [Riles](http://twitter.com/search?q=Riles) | N/A |
 
 
 

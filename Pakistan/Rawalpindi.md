@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-03-30 12:19:32 UTC`
+📆 Last Updated: `2023-03-30 13:20:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#Aafia_is_StillWaiting](http://twitter.com/search?q=%23Aafia_is_StillWaiting) | N/A |
 | 6 | [Broken](http://twitter.com/search?q=Broken) | N/A |
 | 7 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
-| 8 | [jhagra](http://twitter.com/search?q=jhagra) | N/A |
-| 9 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
-| 10 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
-| 11 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 12 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 13 | [Kasur](http://twitter.com/search?q=Kasur) | N/A |
-| 14 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 15 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 16 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 17 | [DSP Iqbal Mohmand](http://twitter.com/search?q=DSP+Iqbal+Mohmand) | N/A |
-| 18 | [Article 184](http://twitter.com/search?q=Article+184) | N/A |
-| 19 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 8 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 9 | [jhagra](http://twitter.com/search?q=jhagra) | N/A |
+| 10 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
+| 11 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 12 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 13 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 14 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 15 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 16 | [Kasur](http://twitter.com/search?q=Kasur) | N/A |
+| 17 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 18 | [Iqbal Momand](http://twitter.com/search?q=Iqbal+Momand) | N/A |
+| 19 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
 | 20 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 21 | [Bill 2023](http://twitter.com/search?q=Bill+2023) | N/A |
-| 22 | [Dr. Aafia Siddiqui](http://twitter.com/search?q=Dr.+Aafia+Siddiqui) | N/A |
-| 23 | [Morne Morkel](http://twitter.com/search?q=Morne+Morkel) | N/A |
-| 24 | [Drone](http://twitter.com/search?q=Drone) | N/A |
-| 25 | [Elections](http://twitter.com/search?q=Elections) | N/A |
-| 26 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 27 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
-| 28 | [Kamran](http://twitter.com/search?q=Kamran) | N/A |
-| 29 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
-| 30 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 31 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 32 | [Rana Tanveer](http://twitter.com/search?q=Rana+Tanveer) | N/A |
-| 33 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 34 | [wahab riaz](http://twitter.com/search?q=wahab+riaz) | N/A |
-| 35 | [Morkal](http://twitter.com/search?q=Morkal) | N/A |
+| 21 | [Article 184](http://twitter.com/search?q=Article+184) | N/A |
+| 22 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 23 | [Bill 2023](http://twitter.com/search?q=Bill+2023) | N/A |
+| 24 | [Dr. Aafia Siddiqui](http://twitter.com/search?q=Dr.+Aafia+Siddiqui) | N/A |
+| 25 | [DSP Iqbal Mohmand](http://twitter.com/search?q=DSP+Iqbal+Mohmand) | N/A |
+| 26 | [Kamran](http://twitter.com/search?q=Kamran) | N/A |
+| 27 | [Morne Morkel](http://twitter.com/search?q=Morne+Morkel) | N/A |
+| 28 | [Drone](http://twitter.com/search?q=Drone) | N/A |
+| 29 | [Rana Tanveer](http://twitter.com/search?q=Rana+Tanveer) | N/A |
+| 30 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 31 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
+| 32 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
+| 33 | [Ahmad Shahzad](http://twitter.com/search?q=Ahmad+Shahzad) | N/A |
+| 34 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
+| 35 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
 | 36 | [Practice and Procedure](http://twitter.com/search?q=Practice+and+Procedure) | N/A |
-| 37 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 38 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 39 | [Timing](http://twitter.com/search?q=Timing) | N/A |
-| 40 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
-| 41 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 42 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 37 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 38 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 39 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 40 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 41 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 42 | [Faisalabad](http://twitter.com/search?q=Faisalabad) | N/A |
 | 43 | [Chemistry](http://twitter.com/search?q=Chemistry) | N/A |
-| 44 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 45 | [NADRA](http://twitter.com/search?q=NADRA) | N/A |
-| 46 | [Apki](http://twitter.com/search?q=Apki) | N/A |
-| 47 | [Lumber 1](http://twitter.com/search?q=Lumber+1) | N/A |
-| 48 | [PM Shehbaz](http://twitter.com/search?q=PM+Shehbaz) | N/A |
-| 49 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
-| 50 | [Pashto](http://twitter.com/search?q=Pashto) | N/A |
+| 44 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 45 | [Timing](http://twitter.com/search?q=Timing) | N/A |
+| 46 | [Thanku](http://twitter.com/search?q=Thanku) | N/A |
+| 47 | [Pak Army](http://twitter.com/search?q=Pak+Army) | N/A |
+| 48 | [Pashto](http://twitter.com/search?q=Pashto) | N/A |
+| 49 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 50 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 
 
 

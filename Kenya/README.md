@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-03-30 12:19:52 UTC`
+📆 Last Updated: `2023-03-30 13:20:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Kenya
 | 2 | [Pwani University](http://twitter.com/search?q=Pwani+University) | N/A |
 | 3 | [#Raila](http://twitter.com/search?q=%23Raila) | N/A |
 | 4 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
-| 5 | [imara daima](http://twitter.com/search?q=imara+daima) | N/A |
-| 6 | [Naivasha](http://twitter.com/search?q=Naivasha) | N/A |
-| 7 | [Beijing Raiders](http://twitter.com/search?q=Beijing+Raiders) | N/A |
-| 8 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
-| 9 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 10 | [Kayole](http://twitter.com/search?q=Kayole) | N/A |
-| 11 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 5 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
+| 6 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 7 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 8 | [Naivasha](http://twitter.com/search?q=Naivasha) | N/A |
+| 9 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 10 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
+| 11 | [Beijing Raiders](http://twitter.com/search?q=Beijing+Raiders) | N/A |
 | 12 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 13 | [#ZeroWasteDay](http://twitter.com/search?q=%23ZeroWasteDay) | N/A |
 | 14 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
-| 15 | [Kedong](http://twitter.com/search?q=Kedong) | N/A |
-| 16 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
-| 17 | [#JKLive](http://twitter.com/search?q=%23JKLive) | N/A |
-| 18 | [Eldoret](http://twitter.com/search?q=Eldoret) | N/A |
-| 19 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
-| 20 | [Makadara](http://twitter.com/search?q=Makadara) | N/A |
-| 21 | [Malala](http://twitter.com/search?q=Malala) | N/A |
-| 22 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 23 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 24 | [nakuru county bursaries](http://twitter.com/search?q=nakuru+county+bursaries) | N/A |
-| 25 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
-| 26 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
-| 27 | [Accident](http://twitter.com/search?q=Accident) | N/A |
-| 28 | [Thika Road](http://twitter.com/search?q=Thika+Road) | N/A |
-| 29 | [ole sapit](http://twitter.com/search?q=ole+sapit) | N/A |
-| 30 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 31 | [utalii hotel](http://twitter.com/search?q=utalii+hotel) | N/A |
-| 32 | [aga khan hospital](http://twitter.com/search?q=aga+khan+hospital) | N/A |
-| 33 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
-| 34 | [Gatundu](http://twitter.com/search?q=Gatundu) | N/A |
-| 35 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 36 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
-| 37 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
-| 38 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
-| 39 | [Nyong'o](http://twitter.com/search?q=Nyong%27o) | N/A |
-| 40 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
-| 41 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
-| 42 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
-| 43 | [Yaya Toure](http://twitter.com/search?q=Yaya+Toure) | N/A |
-| 44 | [Closing](http://twitter.com/search?q=Closing) | N/A |
-| 45 | [Jacaranda](http://twitter.com/search?q=Jacaranda) | N/A |
-| 46 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 47 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 48 | [equity afia](http://twitter.com/search?q=equity+afia) | N/A |
-| 49 | [Ninja](http://twitter.com/search?q=Ninja) | N/A |
-| 50 | [amber ray](http://twitter.com/search?q=amber+ray) | N/A |
+| 15 | [Kayole](http://twitter.com/search?q=Kayole) | N/A |
+| 16 | [#JKLive](http://twitter.com/search?q=%23JKLive) | N/A |
+| 17 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
+| 18 | [Kedong](http://twitter.com/search?q=Kedong) | N/A |
+| 19 | [Malala](http://twitter.com/search?q=Malala) | N/A |
+| 20 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 21 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 22 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 23 | [Eldoret](http://twitter.com/search?q=Eldoret) | N/A |
+| 24 | [Mukuru](http://twitter.com/search?q=Mukuru) | N/A |
+| 25 | [Mathare](http://twitter.com/search?q=Mathare) | N/A |
+| 26 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
+| 27 | [utalii hotel](http://twitter.com/search?q=utalii+hotel) | N/A |
+| 28 | [Condolences](http://twitter.com/search?q=Condolences) | N/A |
+| 29 | [makadara](http://twitter.com/search?q=makadara) | N/A |
+| 30 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 31 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
+| 32 | [Gatundu](http://twitter.com/search?q=Gatundu) | N/A |
+| 33 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
+| 34 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
+| 35 | [riri](http://twitter.com/search?q=riri) | N/A |
+| 36 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
+| 37 | [Babu Owino](http://twitter.com/search?q=Babu+Owino) | N/A |
+| 38 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
+| 39 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
+| 40 | [Yaya Toure](http://twitter.com/search?q=Yaya+Toure) | N/A |
+| 41 | [DJ Fatxo](http://twitter.com/search?q=DJ+Fatxo) | N/A |
+| 42 | [closing](http://twitter.com/search?q=closing) | N/A |
+| 43 | [Matatu](http://twitter.com/search?q=Matatu) | N/A |
+| 44 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 45 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 46 | [equity afia](http://twitter.com/search?q=equity+afia) | N/A |
+| 47 | [Accident](http://twitter.com/search?q=Accident) | N/A |
+| 48 | [Amber Ray](http://twitter.com/search?q=Amber+Ray) | N/A |
+| 49 | [Osoro](http://twitter.com/search?q=Osoro) | N/A |
+| 50 | [Banisa](http://twitter.com/search?q=Banisa) | N/A |
 
 
 

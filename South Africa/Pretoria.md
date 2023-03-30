@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-03-30 12:19:27 UTC`
+📆 Last Updated: `2023-03-30 13:20:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
-| 2 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
-| 3 | [#BattleaBetwaySquadCaptain](http://twitter.com/search?q=%23BattleaBetwaySquadCaptain) | N/A |
+| 1 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 2 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
+| 3 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
 | 4 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
-| 5 | [Thabo Mbeki](http://twitter.com/search?q=Thabo+Mbeki) | N/A |
-| 6 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
+| 5 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
+| 6 | [#BattleaBetwaySquadCaptain](http://twitter.com/search?q=%23BattleaBetwaySquadCaptain) | N/A |
 | 7 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 8 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 9 | [#BeefeaterGinZA](http://twitter.com/search?q=%23BeefeaterGinZA) | N/A |
+| 8 | [#BeefeaterGinZA](http://twitter.com/search?q=%23BeefeaterGinZA) | N/A |
+| 9 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
 | 10 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
 | 11 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
-| 12 | [#citrosoda](http://twitter.com/search?q=%23citrosoda) | N/A |
-| 13 | [#WooliesEaster](http://twitter.com/search?q=%23WooliesEaster) | N/A |
-| 14 | [mbali](http://twitter.com/search?q=mbali) | N/A |
+| 12 | [#WooliesEaster](http://twitter.com/search?q=%23WooliesEaster) | N/A |
+| 13 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
+| 14 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
 | 15 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 16 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
-| 17 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
-| 18 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
-| 19 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 20 | [dual sim](http://twitter.com/search?q=dual+sim) | N/A |
-| 21 | [WE LOVE YOU NELISA](http://twitter.com/search?q=WE+LOVE+YOU+NELISA) | N/A |
-| 22 | [faster printing](http://twitter.com/search?q=faster+printing) | N/A |
-| 23 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 24 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 25 | [Congratulations Mo](http://twitter.com/search?q=Congratulations+Mo) | N/A |
-| 26 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 27 | [Unisa](http://twitter.com/search?q=Unisa) | N/A |
-| 28 | [PROJECT 26](http://twitter.com/search?q=PROJECT+26) | N/A |
-| 29 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 30 | [Shaken](http://twitter.com/search?q=Shaken) | N/A |
-| 31 | [Chuckles](http://twitter.com/search?q=Chuckles) | N/A |
-| 32 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 33 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 34 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 35 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
-| 36 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
-| 37 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 38 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 39 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
-| 40 | [Sneaker](http://twitter.com/search?q=Sneaker) | N/A |
-| 41 | [Nkandla](http://twitter.com/search?q=Nkandla) | N/A |
-| 42 | [red chilli](http://twitter.com/search?q=red+chilli) | N/A |
-| 43 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
-| 44 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 45 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
-| 46 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
-| 47 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 48 | [Mr Madiba](http://twitter.com/search?q=Mr+Madiba) | N/A |
-| 49 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
-| 50 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 16 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 17 | [Dual SIM](http://twitter.com/search?q=Dual+SIM) | N/A |
+| 18 | [PROJECT 26](http://twitter.com/search?q=PROJECT+26) | N/A |
+| 19 | [faster printing](http://twitter.com/search?q=faster+printing) | N/A |
+| 20 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 21 | [congratulations mo](http://twitter.com/search?q=congratulations+mo) | N/A |
+| 22 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 23 | [WE LOVE YOU NELISA](http://twitter.com/search?q=WE+LOVE+YOU+NELISA) | N/A |
+| 24 | [UNISA](http://twitter.com/search?q=UNISA) | N/A |
+| 25 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 26 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 27 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
+| 28 | [Chuckles](http://twitter.com/search?q=Chuckles) | N/A |
+| 29 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 30 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 31 | [tap to pay](http://twitter.com/search?q=tap+to+pay) | N/A |
+| 32 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
+| 33 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 34 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
+| 35 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
+| 36 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 37 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
+| 38 | [red chilli](http://twitter.com/search?q=red+chilli) | N/A |
+| 39 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 40 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 41 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 42 | [Medshield](http://twitter.com/search?q=Medshield) | N/A |
+| 43 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 44 | [Shaken NOT](http://twitter.com/search?q=Shaken+NOT) | N/A |
+| 45 | [Qhawe](http://twitter.com/search?q=Qhawe) | N/A |
+| 46 | [Sneaker](http://twitter.com/search?q=Sneaker) | N/A |
+| 47 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 48 | [Bongani Baloyi](http://twitter.com/search?q=Bongani+Baloyi) | N/A |
+| 49 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
+| 50 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-03-30 12:19:22 UTC`
+📆 Last Updated: `2023-03-30 13:20:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Malaysia](</Malaysia>)
 | ------- | ------------ | ------------ |
 | 1 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
 | 2 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
-| 3 | [#BvlgariXZeeNuNew](http://twitter.com/search?q=%23BvlgariXZeeNuNew) | N/A |
-| 4 | [#BodyGlovexGeminiFourth](http://twitter.com/search?q=%23BodyGlovexGeminiFourth) | N/A |
-| 5 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 6 | [YES 5G](http://twitter.com/search?q=YES+5G) | N/A |
-| 7 | [Red Velvet](http://twitter.com/search?q=Red+Velvet) | N/A |
-| 8 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 3 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 4 | [#BvlgariXZeeNuNew](http://twitter.com/search?q=%23BvlgariXZeeNuNew) | N/A |
+| 5 | [#BodyGlovexGeminiFourth](http://twitter.com/search?q=%23BodyGlovexGeminiFourth) | N/A |
+| 6 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 7 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 8 | [YES 5G](http://twitter.com/search?q=YES+5G) | N/A |
 | 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 10 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 11 | [PETA](http://twitter.com/search?q=PETA) | N/A |
-| 12 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
-| 13 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 14 | [NCT DREAM TOUR](http://twitter.com/search?q=NCT+DREAM+TOUR) | N/A |
-| 15 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
-| 16 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 17 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 18 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 19 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 20 | [Donghae](http://twitter.com/search?q=Donghae) | N/A |
-| 21 | [Day6](http://twitter.com/search?q=Day6) | N/A |
-| 22 | [all eyes on jisoo](http://twitter.com/search?q=all+eyes+on+jisoo) | N/A |
-| 23 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 24 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 25 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
-| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 27 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 28 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
-| 29 | [Hyukjae](http://twitter.com/search?q=Hyukjae) | N/A |
-| 30 | [TICKETING SERVICE](http://twitter.com/search?q=TICKETING+SERVICE) | N/A |
-| 31 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
-| 32 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 33 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 34 | [UiTM](http://twitter.com/search?q=UiTM) | N/A |
-| 35 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 36 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 37 | [Keith](http://twitter.com/search?q=Keith) | N/A |
-| 38 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
-| 39 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 40 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 41 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 42 | [sspn](http://twitter.com/search?q=sspn) | N/A |
-| 43 | [junkyu](http://twitter.com/search?q=junkyu) | N/A |
-| 44 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
-| 45 | [act 1 scene 1 album](http://twitter.com/search?q=act+1+scene+1+album) | N/A |
-| 46 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 47 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 48 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
-| 49 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
+| 10 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 11 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
+| 12 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 13 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 14 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 15 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
+| 16 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 17 | [nct dream tour](http://twitter.com/search?q=nct+dream+tour) | N/A |
+| 18 | [Hyukjae](http://twitter.com/search?q=Hyukjae) | N/A |
+| 19 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 20 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 21 | [Lee Zii Jia](http://twitter.com/search?q=Lee+Zii+Jia) | N/A |
+| 22 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 23 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 24 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 25 | [Day6](http://twitter.com/search?q=Day6) | N/A |
+| 26 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 27 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 28 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 29 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
+| 30 | [moonbyul](http://twitter.com/search?q=moonbyul) | Moonbyul is a Korean name meaning "shining star". It is also the stage name of a South Korean singer and rapper who is a member of the K-pop girl group Mamamoo. |
+| 31 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 32 | [UiTM](http://twitter.com/search?q=UiTM) | N/A |
+| 33 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 34 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 35 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 36 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 37 | [sspn](http://twitter.com/search?q=sspn) | N/A |
+| 38 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 39 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 40 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
+| 41 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 42 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
+| 43 | [mbpj](http://twitter.com/search?q=mbpj) | N/A |
+| 44 | [minjae](http://twitter.com/search?q=minjae) | N/A |
+| 45 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
+| 46 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 48 | [Shah Alam](http://twitter.com/search?q=Shah+Alam) | N/A |
+| 49 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
 
 
 

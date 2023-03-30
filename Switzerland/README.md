@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-30 12:19:56 UTC`
+📆 Last Updated: `2023-03-30 13:20:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
 | 2 | [Sergio Ermotti](http://twitter.com/search?q=Sergio+Ermotti) | N/A |
-| 3 | [Regional Forum](http://twitter.com/search?q=Regional+Forum) | N/A |
-| 4 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
-| 5 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
-| 6 | [#RFSD2023](http://twitter.com/search?q=%23RFSD2023) | N/A |
-| 7 | [#ZeroWasteDay](http://twitter.com/search?q=%23ZeroWasteDay) | N/A |
-| 8 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 9 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 10 | [#UkraineWar](http://twitter.com/search?q=%23UkraineWar) | N/A |
-| 11 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 12 | [#Bundesrat](http://twitter.com/search?q=%23Bundesrat) | N/A |
+| 3 | [#ZeroWasteDay](http://twitter.com/search?q=%23ZeroWasteDay) | N/A |
+| 4 | [#RFSD2023](http://twitter.com/search?q=%23RFSD2023) | N/A |
+| 5 | [#Bundesrat](http://twitter.com/search?q=%23Bundesrat) | N/A |
+| 6 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
+| 7 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 8 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 9 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 10 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 11 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 13 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 14 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
 | 15 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
-| 16 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 17 | [Banker](http://twitter.com/search?q=Banker) | N/A |
-| 18 | [ucraina](http://twitter.com/search?q=ucraina) | N/A |
-| 19 | [arbères](http://twitter.com/search?q=arb%c3%a8res) | N/A |
-| 20 | [itten](http://twitter.com/search?q=itten) | N/A |
-| 21 | [Technik](http://twitter.com/search?q=Technik) | N/A |
-| 22 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 16 | [Leine](http://twitter.com/search?q=Leine) | N/A |
+| 17 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
+| 18 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
+| 19 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 20 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 21 | [Millionen Franken](http://twitter.com/search?q=Millionen+Franken) | N/A |
+| 22 | [Signal](http://twitter.com/search?q=Signal) | N/A |
 | 23 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 24 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 25 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 26 | [Millionen Franken](http://twitter.com/search?q=Millionen+Franken) | N/A |
+| 24 | [Vermögen](http://twitter.com/search?q=Verm%c3%b6gen) | N/A |
+| 25 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 26 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
 | 27 | [Medikamente](http://twitter.com/search?q=Medikamente) | N/A |
-| 28 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 29 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 30 | [Italie](http://twitter.com/search?q=Italie) | N/A |
-| 31 | [Les 2](http://twitter.com/search?q=Les+2) | N/A |
-| 32 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
-| 33 | [Guns](http://twitter.com/search?q=Guns) | N/A |
-| 34 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
-| 35 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 36 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 37 | [Leistungen](http://twitter.com/search?q=Leistungen) | N/A |
-| 38 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
-| 39 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 40 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 41 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
-| 42 | [Purée](http://twitter.com/search?q=Pur%c3%a9e) | N/A |
-| 43 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
-| 44 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 45 | [Tests](http://twitter.com/search?q=Tests) | N/A |
-| 46 | [Initiative](http://twitter.com/search?q=Initiative) | N/A |
-| 47 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
-| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 49 | [Tränen](http://twitter.com/search?q=Tr%c3%a4nen) | N/A |
-| 50 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 28 | [Guns](http://twitter.com/search?q=Guns) | N/A |
+| 29 | [arbères](http://twitter.com/search?q=arb%c3%a8res) | N/A |
+| 30 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 31 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 32 | [Purée](http://twitter.com/search?q=Pur%c3%a9e) | N/A |
+| 33 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 34 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
+| 35 | [Tests](http://twitter.com/search?q=Tests) | N/A |
+| 36 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 37 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
+| 38 | [Kunst](http://twitter.com/search?q=Kunst) | N/A |
+| 39 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 40 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
+| 41 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 42 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 43 | [Banger](http://twitter.com/search?q=Banger) | N/A |
+| 44 | [Klage](http://twitter.com/search?q=Klage) | N/A |
+| 45 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
+| 46 | [Teile](http://twitter.com/search?q=Teile) | N/A |
+| 47 | [Wäsche](http://twitter.com/search?q=W%c3%a4sche) | N/A |
+| 48 | [Stärke](http://twitter.com/search?q=St%c3%a4rke) | N/A |
+| 49 | [Farbe](http://twitter.com/search?q=Farbe) | N/A |
+| 50 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
 
 
 
