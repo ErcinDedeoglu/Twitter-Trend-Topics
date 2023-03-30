@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-30 03:17:08 UTC`
+📆 Last Updated: `2023-03-30 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SHEINBloomPH](http://twitter.com/search?q=%23SHEINBloomPH) | N/A |
-| 2 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
-| 3 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 4 | [#SB19MsMOJOTop20BoyBands](http://twitter.com/search?q=%23SB19MsMOJOTop20BoyBands) | N/A |
-| 5 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
-| 6 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
-| 7 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
-| 8 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
-| 9 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 10 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 11 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 12 | [NCT LAB](http://twitter.com/search?q=NCT+LAB) | N/A |
-| 13 | [20mstreams sigurado](http://twitter.com/search?q=20mstreams+sigurado) | N/A |
-| 14 | [donny for quickfx](http://twitter.com/search?q=donny+for+quickfx) | N/A |
-| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 16 | [ANJBRENTjeweled ON SMProm](http://twitter.com/search?q=ANJBRENTjeweled+ON+SMProm) | N/A |
-| 17 | [PROUD KAMI SAYO](http://twitter.com/search?q=PROUD+KAMI+SAYO) | N/A |
-| 18 | [VPCA BACK2BACK KD](http://twitter.com/search?q=VPCA+BACK2BACK+KD) | N/A |
-| 19 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 20 | [JANELLA ON FIRE AT XXV](http://twitter.com/search?q=JANELLA+ON+FIRE+AT+XXV) | N/A |
-| 21 | [JUNGWON ROVER](http://twitter.com/search?q=JUNGWON+ROVER) | N/A |
+| 1 | [BELLEloom AtTheSHEINShowroom](http://twitter.com/search?q=BELLEloom+AtTheSHEINShowroom) | N/A |
+| 2 | [VPCA BACK2BACK KD](http://twitter.com/search?q=VPCA+BACK2BACK+KD) | N/A |
+| 3 | [#SB19MsMOJOTop20BoyBands](http://twitter.com/search?q=%23SB19MsMOJOTop20BoyBands) | N/A |
+| 4 | [#SHEINBloomPH](http://twitter.com/search?q=%23SHEINBloomPH) | N/A |
+| 5 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 6 | [ANJBRENTjeweled ON SMProm](http://twitter.com/search?q=ANJBRENTjeweled+ON+SMProm) | N/A |
+| 7 | [#BELLEBagsTheVPCA](http://twitter.com/search?q=%23BELLEBagsTheVPCA) | N/A |
+| 8 | [DO IT LIKE DONBELLE](http://twitter.com/search?q=DO+IT+LIKE+DONBELLE) | N/A |
+| 9 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 10 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
+| 11 | [#DONNYConquersVPCA](http://twitter.com/search?q=%23DONNYConquersVPCA) | N/A |
+| 12 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 13 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 14 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 15 | [NCT LAB](http://twitter.com/search?q=NCT+LAB) | N/A |
+| 16 | [20mstreams sigurado](http://twitter.com/search?q=20mstreams+sigurado) | N/A |
+| 17 | [donny for quickfx](http://twitter.com/search?q=donny+for+quickfx) | N/A |
+| 18 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 19 | [PROUD KAMI SAYO](http://twitter.com/search?q=PROUD+KAMI+SAYO) | N/A |
+| 20 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 21 | [JANELLA ON FIRE AT XXV](http://twitter.com/search?q=JANELLA+ON+FIRE+AT+XXV) | N/A |
 | 22 | [pienally 2dreither](http://twitter.com/search?q=pienally+2dreither) | N/A |
 | 23 | [Sundae - Mcdo](http://twitter.com/search?q=Sundae+-+Mcdo) | N/A |
 | 24 | [Jollibee or Mcdo](http://twitter.com/search?q=Jollibee+or+Mcdo) | N/A |
-| 25 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
-| 26 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
+| 25 | [Spag - Jollibee](http://twitter.com/search?q=Spag+-+Jollibee) | N/A |
+| 26 | [Pies - Jollibee](http://twitter.com/search?q=Pies+-+Jollibee) | N/A |
 | 27 | [Chicken - Jollibee](http://twitter.com/search?q=Chicken+-+Jollibee) | N/A |
-| 28 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 29 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
-| 30 | [WE FREEN YOU](http://twitter.com/search?q=WE+FREEN+YOU) | N/A |
-| 31 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 32 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 33 | [lnph apologize to lisa](http://twitter.com/search?q=lnph+apologize+to+lisa) | N/A |
-| 34 | [KOTG LEV31 UP](http://twitter.com/search?q=KOTG+LEV31+UP) | N/A |
+| 28 | [Fries - Mcdo](http://twitter.com/search?q=Fries+-+Mcdo) | N/A |
+| 29 | [WE FREEN YOU](http://twitter.com/search?q=WE+FREEN+YOU) | N/A |
+| 30 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 31 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 32 | [JUNGWON ROVER](http://twitter.com/search?q=JUNGWON+ROVER) | N/A |
+| 33 | [KOTG LEV31 UP](http://twitter.com/search?q=KOTG+LEV31+UP) | N/A |
+| 34 | [kaori sinagot si miah](http://twitter.com/search?q=kaori+sinagot+si+miah) | N/A |
 | 35 | [Burger Steak](http://twitter.com/search?q=Burger+Steak) | N/A |
-| 36 | [kaori sinagot si miah](http://twitter.com/search?q=kaori+sinagot+si+miah) | N/A |
-| 37 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 38 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 38 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 39 | [ggbb mv out now](http://twitter.com/search?q=ggbb+mv+out+now) | N/A |
-| 40 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 41 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 42 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 43 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 44 | [kokoy as intoy](http://twitter.com/search?q=kokoy+as+intoy) | N/A |
-| 45 | [reverence to god](http://twitter.com/search?q=reverence+to+god) | N/A |
-| 46 | [KD VPCA PROMISING AGAIN](http://twitter.com/search?q=KD+VPCA+PROMISING+AGAIN) | N/A |
+| 40 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 41 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 42 | [kokoy as intoy](http://twitter.com/search?q=kokoy+as+intoy) | N/A |
+| 43 | [reverence to god](http://twitter.com/search?q=reverence+to+god) | N/A |
+| 44 | [kd vpca promising again](http://twitter.com/search?q=kd+vpca+promising+again) | N/A |
+| 45 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 46 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 47 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
-| 48 | [WE LOVE YOU EXO](http://twitter.com/search?q=WE+LOVE+YOU+EXO) | N/A |
+| 48 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 49 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 50 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 50 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
 
 
 

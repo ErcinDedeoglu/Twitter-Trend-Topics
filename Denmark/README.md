@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-30 03:17:29 UTC`
+📆 Last Updated: `2023-03-30 04:17:08 UTC`
 
 🔧 Updated every 1 hour!
 

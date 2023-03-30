@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-30 03:17:28 UTC`
+📆 Last Updated: `2023-03-30 04:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,18 +32,18 @@ This is top 50 for Belgium
 | 15 | [Tedesco](http://twitter.com/search?q=Tedesco) | N/A |
 | 16 | [Doku](http://twitter.com/search?q=Doku) | N/A |
 | 17 | [Mangala](http://twitter.com/search?q=Mangala) | N/A |
-| 18 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
+| 18 | [witsel](http://twitter.com/search?q=witsel) | N/A |
 | 19 | [tinne](http://twitter.com/search?q=tinne) | N/A |
 | 20 | [theate](http://twitter.com/search?q=theate) | N/A |
 | 21 | [roeselare](http://twitter.com/search?q=roeselare) | N/A |
 | 22 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
 | 23 | [zenne](http://twitter.com/search?q=zenne) | N/A |
-| 24 | [Pascal Smet](http://twitter.com/search?q=Pascal+Smet) | N/A |
+| 24 | [pascal smet](http://twitter.com/search?q=pascal+smet) | N/A |
 | 25 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 26 | [stib](http://twitter.com/search?q=stib) | N/A |
 | 27 | [YANNICK](http://twitter.com/search?q=YANNICK) | N/A |
 | 28 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
-| 29 | [mannschaft](http://twitter.com/search?q=mannschaft) | N/A |
+| 29 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
 | 30 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
 | 31 | [diables](http://twitter.com/search?q=diables) | N/A |
 | 32 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Belgium
 | 35 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
 | 36 | [fluvius](http://twitter.com/search?q=fluvius) | N/A |
 | 37 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 38 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 39 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 40 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 41 | [meunier](http://twitter.com/search?q=meunier) | N/A |
-| 42 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 43 | [vanaken](http://twitter.com/search?q=vanaken) | N/A |
-| 44 | [Noël](http://twitter.com/search?q=No%c3%abl) | Noël is a French word meaning "Christmas". It is derived from the Latin phrase "natus est deus" which means "God is born". In English, it is used to refer to the Christmas season and the celebration of the birth of Jesus Christ. |
-| 45 | [de duitsers](http://twitter.com/search?q=de+duitsers) | N/A |
-| 46 | [flagey](http://twitter.com/search?q=flagey) | N/A |
-| 47 | [waregem](http://twitter.com/search?q=waregem) | N/A |
-| 48 | [colruyt](http://twitter.com/search?q=colruyt) | N/A |
-| 49 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 50 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 38 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 39 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 40 | [meunier](http://twitter.com/search?q=meunier) | N/A |
+| 41 | [timmermans](http://twitter.com/search?q=timmermans) | N/A |
+| 42 | [vanaken](http://twitter.com/search?q=vanaken) | N/A |
+| 43 | [Noël](http://twitter.com/search?q=No%c3%abl) | Noël is a French word meaning "Christmas". It is derived from the Latin phrase "natus est deus" which means "God is born". In English, it is used to refer to the Christmas season and the celebration of the birth of Jesus Christ. |
+| 44 | [de duitsers](http://twitter.com/search?q=de+duitsers) | N/A |
+| 45 | [flagey](http://twitter.com/search?q=flagey) | N/A |
+| 46 | [waregem](http://twitter.com/search?q=waregem) | N/A |
+| 47 | [colruyt](http://twitter.com/search?q=colruyt) | N/A |
+| 48 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 49 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 50 | [Allemagne](http://twitter.com/search?q=Allemagne) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-03-30 03:16:53 UTC`
+📆 Last Updated: `2023-03-30 04:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 2 | [#Pantanal](http://twitter.com/search?q=%23Pantanal) | N/A |
-| 3 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 4 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 5 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 6 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
-| 7 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
-| 8 | [#NocheAlDente](http://twitter.com/search?q=%23NocheAlDente) | N/A |
-| 9 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 10 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
-| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 12 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
-| 13 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
-| 14 | [Fer Dente](http://twitter.com/search?q=Fer+Dente) | N/A |
-| 15 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 16 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 17 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 18 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 19 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 20 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 21 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 22 | [#bailando2023](http://twitter.com/search?q=%23bailando2023) | N/A |
-| 23 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 24 | [Harakiri](http://twitter.com/search?q=Harakiri) | N/A |
-| 25 | [Peroni](http://twitter.com/search?q=Peroni) | N/A |
-| 26 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 27 | [Ñoquis](http://twitter.com/search?q=%c3%91oquis) | N/A |
-| 28 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 29 | [Géminis](http://twitter.com/search?q=G%c3%a9minis) | Géminis is the Spanish word for Gemini, which is the third astrological sign in the zodiac. It is represented by the twins Castor and Pollux, and its symbol is the twins. In English, Géminis means Gemini. |
-| 30 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
-| 31 | [Darthes](http://twitter.com/search?q=Darthes) | N/A |
-| 32 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 33 | [Damiani](http://twitter.com/search?q=Damiani) | N/A |
-| 34 | [Es 29](http://twitter.com/search?q=Es+29) | N/A |
-| 35 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 36 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
-| 37 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 38 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 39 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
-| 40 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 41 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 1 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 2 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 3 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
+| 4 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 5 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 6 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 7 | [#MasterchefArgentina](http://twitter.com/search?q=%23MasterchefArgentina) | N/A |
+| 8 | [Celso](http://twitter.com/search?q=Celso) | N/A |
+| 9 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 10 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 11 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 13 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 14 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
+| 15 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
+| 16 | [#Pantanal](http://twitter.com/search?q=%23Pantanal) | N/A |
+| 17 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 18 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
+| 19 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
+| 20 | [VIVIANA SARNOSA](http://twitter.com/search?q=VIVIANA+SARNOSA) | N/A |
+| 21 | [#NocheAlDente](http://twitter.com/search?q=%23NocheAlDente) | N/A |
+| 22 | [Espert](http://twitter.com/search?q=Espert) | N/A |
+| 23 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 24 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 25 | [Herron](http://twitter.com/search?q=Herron) | N/A |
+| 26 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 27 | [Estol](http://twitter.com/search?q=Estol) | N/A |
+| 28 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 29 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 30 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 31 | [Fer Dente](http://twitter.com/search?q=Fer+Dente) | N/A |
+| 32 | [Juan Francisco](http://twitter.com/search?q=Juan+Francisco) | N/A |
+| 33 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
+| 34 | [Santiago del Estero](http://twitter.com/search?q=Santiago+del+Estero) | N/A |
+| 35 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 36 | [Peroni](http://twitter.com/search?q=Peroni) | N/A |
+| 37 | [MARISA BREL](http://twitter.com/search?q=MARISA+BREL) | N/A |
+| 38 | [Cristina Pérez](http://twitter.com/search?q=Cristina+P%c3%a9rez) | N/A |
+| 39 | [Nico Gonzalez](http://twitter.com/search?q=Nico+Gonzalez) | N/A |
+| 40 | [Gayoso](http://twitter.com/search?q=Gayoso) | N/A |
+| 41 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 42 | [Es 29](http://twitter.com/search?q=Es+29) | N/A |
+| 43 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
+| 44 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 45 | [Delfina](http://twitter.com/search?q=Delfina) | N/A |
+| 46 | [Gracias Negro](http://twitter.com/search?q=Gracias+Negro) | N/A |
+| 47 | [frodo tiene aguante](http://twitter.com/search?q=frodo+tiene+aguante) | N/A |
+| 48 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 49 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
+| 50 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 
 
 

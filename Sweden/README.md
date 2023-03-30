@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-03-30 03:17:34 UTC`
+📆 Last Updated: `2023-03-30 04:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,29 +19,29 @@ This is top 50 for Sweden
 | 2 | [Bojan](http://twitter.com/search?q=Bojan) | N/A |
 | 3 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
 | 4 | [Klimatpolitiska](http://twitter.com/search?q=Klimatpolitiska) | N/A |
-| 5 | [Breivik](http://twitter.com/search?q=Breivik) | N/A |
-| 6 | [#ADPD2023](http://twitter.com/search?q=%23ADPD2023) | N/A |
+| 5 | [breivik](http://twitter.com/search?q=breivik) | N/A |
+| 6 | [#adpd2023](http://twitter.com/search?q=%23adpd2023) | N/A |
 | 7 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
 | 8 | [Serbien](http://twitter.com/search?q=Serbien) | N/A |
 | 9 | [Tomkins](http://twitter.com/search?q=Tomkins) | N/A |
 | 10 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
 | 11 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
 | 12 | [Shekarabi](http://twitter.com/search?q=Shekarabi) | N/A |
-| 13 | [linus johansson](http://twitter.com/search?q=linus+johansson) | N/A |
-| 14 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 15 | [smålands](http://twitter.com/search?q=sm%c3%a5lands) | N/A |
-| 16 | [lasse johansson](http://twitter.com/search?q=lasse+johansson) | N/A |
-| 17 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 13 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 14 | [linus johansson](http://twitter.com/search?q=linus+johansson) | N/A |
+| 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 16 | [smålands](http://twitter.com/search?q=sm%c3%a5lands) | N/A |
+| 17 | [lasse johansson](http://twitter.com/search?q=lasse+johansson) | N/A |
 | 18 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
 | 19 | [timrå](http://twitter.com/search?q=timr%c3%a5) | N/A |
-| 20 | [#åretsdagstidning](http://twitter.com/search?q=%23%c3%a5retsdagstidning) | N/A |
-| 21 | [#akademiskfrihet](http://twitter.com/search?q=%23akademiskfrihet) | N/A |
-| 22 | [jihde](http://twitter.com/search?q=jihde) | N/A |
-| 23 | [#sverigemöts](http://twitter.com/search?q=%23sverigem%c3%b6ts) | N/A |
-| 24 | [arvo pärt](http://twitter.com/search?q=arvo+p%c3%a4rt) | N/A |
-| 25 | [märta](http://twitter.com/search?q=m%c3%a4rta) | N/A |
-| 26 | [Beckman](http://twitter.com/search?q=Beckman) | N/A |
-| 27 | [skatteverket](http://twitter.com/search?q=skatteverket) | N/A |
+| 20 | [#akademiskfrihet](http://twitter.com/search?q=%23akademiskfrihet) | N/A |
+| 21 | [jihde](http://twitter.com/search?q=jihde) | N/A |
+| 22 | [#sverigemöts](http://twitter.com/search?q=%23sverigem%c3%b6ts) | N/A |
+| 23 | [arvo pärt](http://twitter.com/search?q=arvo+p%c3%a4rt) | N/A |
+| 24 | [#åretsdagstidning](http://twitter.com/search?q=%23%c3%a5retsdagstidning) | N/A |
+| 25 | [Beckman](http://twitter.com/search?q=Beckman) | N/A |
+| 26 | [skatteverket](http://twitter.com/search?q=skatteverket) | N/A |
+| 27 | [Märta](http://twitter.com/search?q=M%c3%a4rta) | N/A |
 | 28 | [komarek](http://twitter.com/search?q=komarek) | N/A |
 | 29 | [nordea](http://twitter.com/search?q=nordea) | N/A |
 | 30 | [Malin](http://twitter.com/search?q=Malin) | N/A |

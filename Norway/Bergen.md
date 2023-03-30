@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-03-30 03:17:00 UTC`
+📆 Last Updated: `2023-03-30 04:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Norway](</Norway>)
 | ------- | ------------ | ------------ |
 | 1 | [#geonor](http://twitter.com/search?q=%23geonor) | N/A |
 | 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 3 | [Alfheim](http://twitter.com/search?q=Alfheim) | N/A |
-| 4 | [Aursnes](http://twitter.com/search?q=Aursnes) | N/A |
-| 5 | [Romssa Arena](http://twitter.com/search?q=Romssa+Arena) | N/A |
+| 3 | [alfheim](http://twitter.com/search?q=alfheim) | N/A |
+| 4 | [aursnes](http://twitter.com/search?q=aursnes) | N/A |
+| 5 | [romssa arena](http://twitter.com/search?q=romssa+arena) | N/A |
 | 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 7 | [mehl](http://twitter.com/search?q=mehl) | N/A |
 | 8 | [Skottland](http://twitter.com/search?q=Skottland) | N/A |

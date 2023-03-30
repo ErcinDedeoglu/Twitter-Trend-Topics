@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-03-30 03:17:30 UTC`
+📆 Last Updated: `2023-03-30 04:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Ghana
 | 3 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |
 | 4 | [#NanaAt79](http://twitter.com/search?q=%23NanaAt79) | N/A |
 | 5 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 6 | [Vodafone](http://twitter.com/search?q=Vodafone) | N/A |
-| 7 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
-| 8 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 9 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 10 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 11 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 12 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
-| 13 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
-| 14 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
-| 15 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 16 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 17 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 18 | [#SB5D](http://twitter.com/search?q=%23SB5D) | N/A |
-| 19 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
-| 20 | [#wisehour](http://twitter.com/search?q=%23wisehour) | N/A |
-| 21 | [happy 79th](http://twitter.com/search?q=happy+79th) | N/A |
-| 22 | [ernest nuamah](http://twitter.com/search?q=ernest+nuamah) | N/A |
-| 23 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
-| 24 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 25 | [gsts](http://twitter.com/search?q=gsts) | N/A |
-| 26 | [Fulani](http://twitter.com/search?q=Fulani) | N/A |
-| 27 | [accra lions](http://twitter.com/search?q=accra+lions) | N/A |
-| 28 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
-| 29 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 32 | [Oxlade](http://twitter.com/search?q=Oxlade) | Oxlade is a Nigerian singer, songwriter, and record producer. His real name is Ikuforiji Abdulrahman Olaitan. He is best known for his hit single "Away" which was released in 2018. The name Oxlade is derived from the Yoruba language and means "one who has wealth". |
-| 33 | [Cape Coast Castle](http://twitter.com/search?q=Cape+Coast+Castle) | N/A |
-| 34 | [President of the Republic](http://twitter.com/search?q=President+of+the+Republic) | N/A |
-| 35 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
-| 36 | [Dexta Daps](http://twitter.com/search?q=Dexta+Daps) | N/A |
-| 37 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 38 | [osu police barracks](http://twitter.com/search?q=osu+police+barracks) | N/A |
-| 39 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
-| 40 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 41 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
-| 42 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
-| 43 | [linda mtange](http://twitter.com/search?q=linda+mtange) | N/A |
-| 44 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 45 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
-| 46 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 47 | [u23 afcon](http://twitter.com/search?q=u23+afcon) | N/A |
-| 48 | [general arts](http://twitter.com/search?q=general+arts) | N/A |
-| 49 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 50 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
+| 6 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 7 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 8 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 9 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 10 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 11 | [Legacy](http://twitter.com/search?q=Legacy) | N/A |
+| 12 | [#BeautyTukura](http://twitter.com/search?q=%23BeautyTukura) | N/A |
+| 13 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
+| 14 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 15 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 17 | [#SB5D](http://twitter.com/search?q=%23SB5D) | N/A |
+| 18 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
+| 19 | [#wisehour](http://twitter.com/search?q=%23wisehour) | N/A |
+| 20 | [happy 79th](http://twitter.com/search?q=happy+79th) | N/A |
+| 21 | [ernest nuamah](http://twitter.com/search?q=ernest+nuamah) | N/A |
+| 22 | [Kamala Harris](http://twitter.com/search?q=Kamala+Harris) | N/A |
+| 23 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 24 | [gsts](http://twitter.com/search?q=gsts) | N/A |
+| 25 | [Fulani](http://twitter.com/search?q=Fulani) | N/A |
+| 26 | [accra lions](http://twitter.com/search?q=accra+lions) | N/A |
+| 27 | [Stormzy](http://twitter.com/search?q=Stormzy) | Stormzy is the stage name of British grime artist Michael Omari. The name Stormzy is derived from the nickname he was given as a child, which was "Storms". |
+| 28 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 29 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 30 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 31 | [Oxlade](http://twitter.com/search?q=Oxlade) | Oxlade is a Nigerian singer, songwriter, and record producer. His real name is Ikuforiji Abdulrahman Olaitan. He is best known for his hit single "Away" which was released in 2018. The name Oxlade is derived from the Yoruba language and means "one who has wealth". |
+| 32 | [Cape Coast Castle](http://twitter.com/search?q=Cape+Coast+Castle) | N/A |
+| 33 | [President of the Republic](http://twitter.com/search?q=President+of+the+Republic) | N/A |
+| 34 | [Arsene Wenger](http://twitter.com/search?q=Arsene+Wenger) | N/A |
+| 35 | [Dexta Daps](http://twitter.com/search?q=Dexta+Daps) | N/A |
+| 36 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 37 | [osu police barracks](http://twitter.com/search?q=osu+police+barracks) | N/A |
+| 38 | [Shaggy](http://twitter.com/search?q=Shaggy) | N/A |
+| 39 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 40 | [Yaa Asantewaa](http://twitter.com/search?q=Yaa+Asantewaa) | N/A |
+| 41 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
+| 42 | [linda mtange](http://twitter.com/search?q=linda+mtange) | N/A |
+| 43 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 44 | [Luxembourg](http://twitter.com/search?q=Luxembourg) | N/A |
+| 45 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 46 | [u23 afcon](http://twitter.com/search?q=u23+afcon) | N/A |
+| 47 | [general arts](http://twitter.com/search?q=general+arts) | N/A |
+| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 49 | [Eugene](http://twitter.com/search?q=Eugene) | N/A |
+| 50 | [ghana armed forces](http://twitter.com/search?q=ghana+armed+forces) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-30 03:17:29 UTC`
+📆 Last Updated: `2023-03-30 04:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Chile
 | 7 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
 | 8 | [#DiaDelJovenDelincuente](http://twitter.com/search?q=%23DiaDelJovenDelincuente) | N/A |
 | 9 | [#LaRojaxCHV](http://twitter.com/search?q=%23LaRojaxCHV) | N/A |
-| 10 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
-| 11 | [#P1HARMONYINCHILE](http://twitter.com/search?q=%23P1HARMONYINCHILE) | N/A |
+| 10 | [#P1HARMONYINCHILE](http://twitter.com/search?q=%23P1HARMONYINCHILE) | N/A |
+| 11 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
 | 12 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 | 13 | [Giorgio Jackson](http://twitter.com/search?q=Giorgio+Jackson) | N/A |
 | 14 | [Talca](http://twitter.com/search?q=Talca) | N/A |
-| 15 | [Estado Policial](http://twitter.com/search?q=Estado+Policial) | N/A |
-| 16 | [Bocacielo](http://twitter.com/search?q=Bocacielo) | N/A |
-| 17 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
-| 18 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
-| 19 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
-| 20 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 15 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
+| 16 | [Estado Policial](http://twitter.com/search?q=Estado+Policial) | N/A |
+| 17 | [Bocacielo](http://twitter.com/search?q=Bocacielo) | N/A |
+| 18 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
+| 19 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
+| 20 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
 | 21 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 22 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
-| 23 | [Tobalaba](http://twitter.com/search?q=Tobalaba) | N/A |
-| 24 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 25 | [Jorge Said](http://twitter.com/search?q=Jorge+Said) | N/A |
-| 26 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 27 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 28 | [Insulza](http://twitter.com/search?q=Insulza) | N/A |
-| 29 | [Américo](http://twitter.com/search?q=Am%c3%a9rico) | N/A |
-| 30 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 31 | [Línea 1](http://twitter.com/search?q=L%c3%adnea+1) | N/A |
-| 32 | [Cuñado](http://twitter.com/search?q=Cu%c3%b1ado) | N/A |
-| 33 | [Nattino](http://twitter.com/search?q=Nattino) | N/A |
-| 34 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
-| 35 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
-| 36 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 37 | [Plaza Dignidad](http://twitter.com/search?q=Plaza+Dignidad) | N/A |
-| 38 | [Desbordes](http://twitter.com/search?q=Desbordes) | N/A |
-| 39 | [Davor](http://twitter.com/search?q=Davor) | N/A |
-| 40 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 41 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
-| 42 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 43 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 44 | [Degenerados](http://twitter.com/search?q=Degenerados) | N/A |
-| 45 | [Baquedano](http://twitter.com/search?q=Baquedano) | N/A |
-| 46 | [Parque Arauco](http://twitter.com/search?q=Parque+Arauco) | N/A |
-| 47 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 48 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 49 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 50 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 22 | [Tobalaba](http://twitter.com/search?q=Tobalaba) | N/A |
+| 23 | [Jorge Said](http://twitter.com/search?q=Jorge+Said) | N/A |
+| 24 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 25 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 26 | [insulza](http://twitter.com/search?q=insulza) | N/A |
+| 27 | [Américo](http://twitter.com/search?q=Am%c3%a9rico) | N/A |
+| 28 | [línea 1](http://twitter.com/search?q=l%c3%adnea+1) | N/A |
+| 29 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
+| 30 | [Nattino](http://twitter.com/search?q=Nattino) | N/A |
+| 31 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
+| 32 | [Plaza Dignidad](http://twitter.com/search?q=Plaza+Dignidad) | N/A |
+| 33 | [Desbordes](http://twitter.com/search?q=Desbordes) | N/A |
+| 34 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 35 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
+| 36 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 37 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 38 | [Degenerados](http://twitter.com/search?q=Degenerados) | N/A |
+| 39 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 40 | [Baquedano](http://twitter.com/search?q=Baquedano) | N/A |
+| 41 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 42 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 43 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 44 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 45 | [Parque Arauco](http://twitter.com/search?q=Parque+Arauco) | N/A |
+| 46 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 47 | [Marcelo Bielsa](http://twitter.com/search?q=Marcelo+Bielsa) | N/A |
+| 48 | [Parada](http://twitter.com/search?q=Parada) | N/A |
+| 49 | [FA y PC](http://twitter.com/search?q=FA+y+PC) | N/A |
+| 50 | [Eloy](http://twitter.com/search?q=Eloy) | N/A |
 
 
 

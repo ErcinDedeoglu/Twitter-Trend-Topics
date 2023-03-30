@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-30 03:16:50 UTC`
+📆 Last Updated: `2023-03-30 04:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
-| 2 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
-| 3 | [El LUM](http://twitter.com/search?q=El+LUM) | N/A |
-| 4 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 5 | [#ForoMadridLima](http://twitter.com/search?q=%23ForoMadridLima) | N/A |
-| 6 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
-| 7 | [Lugar de la Memoria](http://twitter.com/search?q=Lugar+de+la+Memoria) | N/A |
-| 8 | [#SpotifyCorrupt](http://twitter.com/search?q=%23SpotifyCorrupt) | N/A |
-| 9 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 1 | [TERRORISMO](http://twitter.com/search?q=TERRORISMO) | N/A |
+| 2 | [El LUM](http://twitter.com/search?q=El+LUM) | N/A |
+| 3 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 4 | [Dalila](http://twitter.com/search?q=Dalila) | N/A |
+| 5 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 6 | [#ForoMadridLima](http://twitter.com/search?q=%23ForoMadridLima) | N/A |
+| 7 | [#SpotifyCorrupt](http://twitter.com/search?q=%23SpotifyCorrupt) | N/A |
+| 8 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
+| 9 | [Lugar de la Memoria](http://twitter.com/search?q=Lugar+de+la+Memoria) | N/A |
 | 10 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
 | 11 | [Municipalidad de Miraflores](http://twitter.com/search?q=Municipalidad+de+Miraflores) | N/A |
 | 12 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 13 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
-| 14 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 15 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 16 | [Yotún](http://twitter.com/search?q=Yot%c3%ban) | N/A |
-| 17 | [Conflicto](http://twitter.com/search?q=Conflicto) | N/A |
-| 18 | [deza](http://twitter.com/search?q=deza) | N/A |
-| 19 | [Makanaky](http://twitter.com/search?q=Makanaky) | N/A |
-| 20 | [Larcomar](http://twitter.com/search?q=Larcomar) | N/A |
-| 21 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 22 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 23 | [Renovación Medieval](http://twitter.com/search?q=Renovaci%c3%b3n+Medieval) | N/A |
-| 24 | [Marquina](http://twitter.com/search?q=Marquina) | N/A |
-| 25 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 26 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
-| 27 | [flower mv teaser](http://twitter.com/search?q=flower+mv+teaser) | N/A |
-| 28 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 29 | [Jaime Chincha](http://twitter.com/search?q=Jaime+Chincha) | N/A |
-| 30 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
-| 31 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 32 | [ITSE](http://twitter.com/search?q=ITSE) | N/A |
-| 33 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 34 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 35 | [job 4](http://twitter.com/search?q=job+4) | N/A |
-| 36 | [Sendero Luminoso](http://twitter.com/search?q=Sendero+Luminoso) | N/A |
-| 37 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 38 | [Ucayali](http://twitter.com/search?q=Ucayali) | N/A |
-| 39 | [Cierren](http://twitter.com/search?q=Cierren) | N/A |
-| 40 | [Quiroz](http://twitter.com/search?q=Quiroz) | N/A |
-| 41 | [Ministerio de Cultura](http://twitter.com/search?q=Ministerio+de+Cultura) | N/A |
-| 42 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 43 | [MRTA](http://twitter.com/search?q=MRTA) | N/A |
-| 44 | [Defensa Civil](http://twitter.com/search?q=Defensa+Civil) | N/A |
-| 45 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
-| 46 | [Cris](http://twitter.com/search?q=Cris) | Cris is an abbreviation for the Spanish name Cristina. It is a feminine given name derived from the Latin name Christina, which means "follower of Christ" or "anointed one". |
-| 47 | [Lumpen](http://twitter.com/search?q=Lumpen) | N/A |
-| 48 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 49 | [Inaceptable](http://twitter.com/search?q=Inaceptable) | N/A |
-| 50 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 13 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 14 | [yotun](http://twitter.com/search?q=yotun) | N/A |
+| 15 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 16 | [Conflicto](http://twitter.com/search?q=Conflicto) | N/A |
+| 17 | [Deza](http://twitter.com/search?q=Deza) | N/A |
+| 18 | [Makanaky](http://twitter.com/search?q=Makanaky) | N/A |
+| 19 | [Larcomar](http://twitter.com/search?q=Larcomar) | N/A |
+| 20 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 21 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 22 | [Marquina](http://twitter.com/search?q=Marquina) | N/A |
+| 23 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 24 | [flower mv teaser](http://twitter.com/search?q=flower+mv+teaser) | N/A |
+| 25 | [Renovación Medieval](http://twitter.com/search?q=Renovaci%c3%b3n+Medieval) | N/A |
+| 26 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
+| 27 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 28 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 29 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 30 | [ITSE](http://twitter.com/search?q=ITSE) | N/A |
+| 31 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 32 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 33 | [job 4](http://twitter.com/search?q=job+4) | N/A |
+| 34 | [Ucayali](http://twitter.com/search?q=Ucayali) | N/A |
+| 35 | [MRTA](http://twitter.com/search?q=MRTA) | N/A |
+| 36 | [Quiroz](http://twitter.com/search?q=Quiroz) | N/A |
+| 37 | [Cierren](http://twitter.com/search?q=Cierren) | N/A |
+| 38 | [Sendero Luminoso](http://twitter.com/search?q=Sendero+Luminoso) | N/A |
+| 39 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 40 | [Ministerio de Cultura](http://twitter.com/search?q=Ministerio+de+Cultura) | N/A |
+| 41 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
+| 42 | [Cris](http://twitter.com/search?q=Cris) | Cris is an abbreviation for the Spanish name Cristina. It is a feminine given name derived from the Latin name Christina, which means "follower of Christ" or "anointed one". |
+| 43 | [Defensa Civil](http://twitter.com/search?q=Defensa+Civil) | N/A |
+| 44 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
+| 45 | [Inaceptable](http://twitter.com/search?q=Inaceptable) | N/A |
+| 46 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 47 | [Lilia Paredes](http://twitter.com/search?q=Lilia+Paredes) | N/A |
+| 48 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
+| 49 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 50 | [LUMpen](http://twitter.com/search?q=LUMpen) | N/A |
 
 
 

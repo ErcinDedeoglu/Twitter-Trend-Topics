@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Patna
 
-📆 Last Updated: `2023-03-30 03:17:16 UTC`
+📆 Last Updated: `2023-03-30 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 2 | [#RamNavami](http://twitter.com/search?q=%23RamNavami) | N/A |
-| 3 | [#LightOfHope](http://twitter.com/search?q=%23LightOfHope) | N/A |
-| 4 | [#Adipurush](http://twitter.com/search?q=%23Adipurush) | N/A |
-| 5 | [Maryada Purushottam Ram](http://twitter.com/search?q=Maryada+Purushottam+Ram) | N/A |
-| 6 | [Aadarsh Jivan](http://twitter.com/search?q=Aadarsh+Jivan) | N/A |
-| 7 | [#राजस्थान_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 8 | [#Prabhas](http://twitter.com/search?q=%23Prabhas) | N/A |
-| 9 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 10 | [Anticipated Life](http://twitter.com/search?q=Anticipated+Life) | N/A |
-| 11 | [सिया राम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 12 | [अति पावन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a4%e0%a4%bf+%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8) | N/A |
-| 13 | [जोग लगन](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%97+%e0%a4%b2%e0%a4%97%e0%a4%a8) | N/A |
-| 14 | [प्रभु राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 15 | [कौशल्या हितकारी](http://twitter.com/search?q=%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 16 | [कृपा राम](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 17 | [जीवन साथी](http://twitter.com/search?q=%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8+%e0%a4%b8%e0%a4%be%e0%a4%a5%e0%a5%80) | N/A |
-| 18 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 19 | [मंगल भवन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 20 | [Show Time](http://twitter.com/search?q=Show+Time) | N/A |
-| 21 | [Brahmins](http://twitter.com/search?q=Brahmins) | N/A |
-| 22 | [#RajasthanDiwas](http://twitter.com/search?q=%23RajasthanDiwas) | N/A |
-| 23 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 24 | [#Thursdaythoughts](http://twitter.com/search?q=%23Thursdaythoughts) | N/A |
-| 25 | [#శ్రీరామనవమి](http://twitter.com/search?q=%23%e0%b0%b6%e0%b1%8d%e0%b0%b0%e0%b1%80%e0%b0%b0%e0%b0%be%e0%b0%ae%e0%b0%a8%e0%b0%b5%e0%b0%ae%e0%b0%bf) | N/A |
-| 26 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 27 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
-| 28 | [#KritiSanon](http://twitter.com/search?q=%23KritiSanon) | N/A |
-| 29 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 30 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
-| 31 | [#SaifAliKhan](http://twitter.com/search?q=%23SaifAliKhan) | N/A |
-| 32 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
-| 33 | [#sitaram](http://twitter.com/search?q=%23sitaram) | N/A |
-| 34 | [#Who_Is_AadiRam](http://twitter.com/search?q=%23Who_Is_AadiRam) | N/A |
-| 35 | [#RamMandir](http://twitter.com/search?q=%23RamMandir) | N/A |
-| 36 | [#Nani](http://twitter.com/search?q=%23Nani) | N/A |
-| 37 | [#Atman](http://twitter.com/search?q=%23Atman) | N/A |
-| 38 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
+| 2 | [#RamNavmi](http://twitter.com/search?q=%23RamNavmi) | N/A |
+| 3 | [#राजस्थान_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 4 | [#LightOfHope](http://twitter.com/search?q=%23LightOfHope) | N/A |
+| 5 | [#RajasthanDiwas](http://twitter.com/search?q=%23RajasthanDiwas) | N/A |
+| 6 | [Maryada Purushottam Ram](http://twitter.com/search?q=Maryada+Purushottam+Ram) | N/A |
+| 7 | [#Adipurush](http://twitter.com/search?q=%23Adipurush) | N/A |
+| 8 | [Aadarsh Jivan](http://twitter.com/search?q=Aadarsh+Jivan) | N/A |
+| 9 | [सिया राम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 10 | [कौशल्या हितकारी](http://twitter.com/search?q=%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 11 | [प्रभु राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 12 | [Anticipated Life](http://twitter.com/search?q=Anticipated+Life) | N/A |
+| 13 | [कृपा राम](http://twitter.com/search?q=%e0%a4%95%e0%a5%83%e0%a4%aa%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 14 | [जोग लगन](http://twitter.com/search?q=%e0%a4%9c%e0%a5%8b%e0%a4%97+%e0%a4%b2%e0%a4%97%e0%a4%a8) | N/A |
+| 15 | [SSR Working On Many Projects](http://twitter.com/search?q=SSR+Working+On+Many+Projects) | N/A |
+| 16 | [अति पावन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a4%e0%a4%bf+%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8) | N/A |
+| 17 | [मंगल भवन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 18 | [सकल आस्था](http://twitter.com/search?q=%e0%a4%b8%e0%a4%95%e0%a4%b2+%e0%a4%86%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be) | N/A |
+| 19 | [सनातन जगत](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a8%e0%a4%be%e0%a4%a4%e0%a4%a8+%e0%a4%9c%e0%a4%97%e0%a4%a4) | N/A |
+| 20 | [सदा चली](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a6%e0%a4%be+%e0%a4%9a%e0%a4%b2%e0%a5%80) | N/A |
+| 21 | [जीवन चरित्र](http://twitter.com/search?q=%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8+%e0%a4%9a%e0%a4%b0%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
+| 22 | [Jai Siya Ram](http://twitter.com/search?q=Jai+Siya+Ram) | N/A |
+| 23 | [जीवन साथी](http://twitter.com/search?q=%e0%a4%9c%e0%a5%80%e0%a4%b5%e0%a4%a8+%e0%a4%b8%e0%a4%be%e0%a4%a5%e0%a5%80) | N/A |
+| 24 | [Show Time](http://twitter.com/search?q=Show+Time) | N/A |
+| 25 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 26 | [श्री सीताराम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%80%e0%a4%a4%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 27 | [चैत्र मास](http://twitter.com/search?q=%e0%a4%9a%e0%a5%88%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ae%e0%a4%be%e0%a4%b8) | N/A |
+| 28 | [Brahmins](http://twitter.com/search?q=Brahmins) | N/A |
+| 29 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
+| 30 | [#Prabhas](http://twitter.com/search?q=%23Prabhas) | N/A |
+| 31 | [#RamMandir](http://twitter.com/search?q=%23RamMandir) | N/A |
+| 32 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
+| 33 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
+| 34 | [#Thursdaythoughts](http://twitter.com/search?q=%23Thursdaythoughts) | N/A |
+| 35 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 36 | [#శ్రీరామనవమి](http://twitter.com/search?q=%23%e0%b0%b6%e0%b1%8d%e0%b0%b0%e0%b1%80%e0%b0%b0%e0%b0%be%e0%b0%ae%e0%b0%a8%e0%b0%b5%e0%b0%ae%e0%b0%bf) | N/A |
+| 37 | [#KritiSanon](http://twitter.com/search?q=%23KritiSanon) | N/A |
+| 38 | [#RajasthanDay](http://twitter.com/search?q=%23RajasthanDay) | N/A |
+| 39 | [#MaaSiddhidatri](http://twitter.com/search?q=%23MaaSiddhidatri) | N/A |
+| 40 | [#महानवमी](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8%e0%a4%b5%e0%a4%ae%e0%a5%80) | N/A |
+| 41 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 42 | [#सिद्धिदात्री](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%bf%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%bf%e0%a4%a6%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 43 | [#ThursdayMorning](http://twitter.com/search?q=%23ThursdayMorning) | N/A |
+| 44 | [#बेरोजगारों_की_संसद](http://twitter.com/search?q=%23%e0%a4%ac%e0%a5%87%e0%a4%b0%e0%a5%8b%e0%a4%9c%e0%a4%97%e0%a4%be%e0%a4%b0%e0%a5%8b%e0%a4%82_%e0%a4%95%e0%a5%80_%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6) | N/A |
+| 45 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
+| 46 | [#HappyBirthdayNithiin](http://twitter.com/search?q=%23HappyBirthdayNithiin) | N/A |
+| 47 | [#sitaram](http://twitter.com/search?q=%23sitaram) | N/A |
+| 48 | [#SaifAliKhan](http://twitter.com/search?q=%23SaifAliKhan) | N/A |
+| 49 | [#Who_Is_AadiRam](http://twitter.com/search?q=%23Who_Is_AadiRam) | N/A |
+| 50 | [#GurudevHoysala](http://twitter.com/search?q=%23GurudevHoysala) | N/A |
 
 
 

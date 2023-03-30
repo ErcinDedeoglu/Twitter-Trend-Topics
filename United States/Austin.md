@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-30 03:17:20 UTC`
+📆 Last Updated: `2023-03-30 04:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 2 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 3 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 1 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 2 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 3 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
 | 4 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
 | 5 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 6 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
 | 7 | [McGee](http://twitter.com/search?q=McGee) | N/A |
-| 8 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
-| 9 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 10 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 11 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
-| 12 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 8 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 9 | [Dwight Powell](http://twitter.com/search?q=Dwight+Powell) | N/A |
+| 10 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
+| 11 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 12 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
 | 13 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 15 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 14 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 15 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 16 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 17 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 17 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
 | 18 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 19 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 19 | [Louie](http://twitter.com/search?q=Louie) | N/A |
 | 20 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 21 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 22 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 23 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 24 | [#AEWAllAccess](http://twitter.com/search?q=%23AEWAllAccess) | N/A |
-| 25 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 26 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 27 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 28 | [#ChicagoFire](http://twitter.com/search?q=%23ChicagoFire) | N/A |
-| 29 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 30 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
-| 31 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 32 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
-| 33 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 34 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
-| 35 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 36 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 37 | [Thunder Rosa](http://twitter.com/search?q=Thunder+Rosa) | N/A |
-| 38 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
-| 39 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
-| 40 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 41 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 42 | [Jeff Van Gundy](http://twitter.com/search?q=Jeff+Van+Gundy) | N/A |
-| 43 | [Byram](http://twitter.com/search?q=Byram) | N/A |
-| 44 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 45 | [Skully](http://twitter.com/search?q=Skully) | N/A |
-| 46 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
-| 47 | [TOO SMALL](http://twitter.com/search?q=TOO+SMALL) | N/A |
-| 48 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 49 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
+| 21 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 22 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 23 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 24 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 25 | [#SacramentoProud](http://twitter.com/search?q=%23SacramentoProud) | N/A |
+| 26 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
+| 27 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 28 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
+| 29 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 30 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 31 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 32 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 33 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 34 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 35 | [Sacramento Kings](http://twitter.com/search?q=Sacramento+Kings) | N/A |
+| 36 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 37 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 38 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
+| 39 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 40 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 41 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 42 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 43 | [Jalen Williams](http://twitter.com/search?q=Jalen+Williams) | N/A |
+| 44 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 45 | [SOCD](http://twitter.com/search?q=SOCD) | N/A |
+| 46 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 47 | [Grace Randolph](http://twitter.com/search?q=Grace+Randolph) | N/A |
+| 48 | [Arming](http://twitter.com/search?q=Arming) | N/A |
+| 49 | [Thunder Rosa](http://twitter.com/search?q=Thunder+Rosa) | N/A |
 
 
 
