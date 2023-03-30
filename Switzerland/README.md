@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-03-30 19:17:41 UTC`
+📆 Last Updated: `2023-03-30 20:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 2 | [#HRC52](http://twitter.com/search?q=%23HRC52) | N/A |
+| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 2 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
 | 3 | [Sergio Ermotti](http://twitter.com/search?q=Sergio+Ermotti) | N/A |
 | 4 | [#RFSD2023](http://twitter.com/search?q=%23RFSD2023) | N/A |
 | 5 | [#ZeroWasteDay](http://twitter.com/search?q=%23ZeroWasteDay) | N/A |
-| 6 | [Ajoie](http://twitter.com/search?q=Ajoie) | N/A |
-| 7 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 8 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 9 | [#WeAreSwissBorg](http://twitter.com/search?q=%23WeAreSwissBorg) | N/A |
-| 10 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 11 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 12 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
-| 13 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
-| 14 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 15 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 16 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 17 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 18 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 19 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 20 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
-| 21 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
-| 22 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 23 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 24 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 25 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 26 | [Technik](http://twitter.com/search?q=Technik) | N/A |
-| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 28 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 29 | [Osten](http://twitter.com/search?q=Osten) | N/A |
-| 30 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 31 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 32 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 33 | [Fakt](http://twitter.com/search?q=Fakt) | N/A |
-| 34 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 35 | [rentenalter](http://twitter.com/search?q=rentenalter) | N/A |
-| 36 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
+| 6 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 7 | [Ajoie](http://twitter.com/search?q=Ajoie) | N/A |
+| 8 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 9 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 10 | [#WeAreSwissBorg](http://twitter.com/search?q=%23WeAreSwissBorg) | N/A |
+| 11 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 12 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 13 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 14 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 15 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 16 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
+| 17 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 18 | [Fakten](http://twitter.com/search?q=Fakten) | N/A |
+| 19 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 20 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 21 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
+| 22 | [Signal](http://twitter.com/search?q=Signal) | N/A |
+| 23 | [rentenalter](http://twitter.com/search?q=rentenalter) | N/A |
+| 24 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 25 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
+| 26 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
+| 27 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 28 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 29 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 30 | [yixing](http://twitter.com/search?q=yixing) | N/A |
+| 31 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 32 | [Osten](http://twitter.com/search?q=Osten) | N/A |
+| 33 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 34 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
+| 35 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 36 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
 | 37 | [Bundesgericht](http://twitter.com/search?q=Bundesgericht) | N/A |
-| 38 | [Banger](http://twitter.com/search?q=Banger) | N/A |
-| 39 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
-| 40 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 41 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 42 | [Wäsche](http://twitter.com/search?q=W%c3%a4sche) | N/A |
-| 43 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 38 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 39 | [Wäsche](http://twitter.com/search?q=W%c3%a4sche) | N/A |
+| 40 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 41 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
+| 42 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 43 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
 | 44 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
-| 45 | [Verbot](http://twitter.com/search?q=Verbot) | N/A |
-| 46 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 47 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
-| 48 | [Accounts](http://twitter.com/search?q=Accounts) | N/A |
-| 49 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 50 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 45 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 46 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 47 | [Regulierung](http://twitter.com/search?q=Regulierung) | N/A |
+| 48 | [Narrativ](http://twitter.com/search?q=Narrativ) | N/A |
+| 49 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
+| 50 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
 
 
 

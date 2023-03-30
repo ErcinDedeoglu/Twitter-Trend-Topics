@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-30 19:17:28 UTC`
+📆 Last Updated: `2023-03-30 20:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 2 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
-| 3 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 4 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 5 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 6 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
-| 7 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 8 | [Bronx](http://twitter.com/search?q=Bronx) | N/A |
-| 9 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 10 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 11 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 12 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 13 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 14 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 15 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 16 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 17 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 1 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
+| 2 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 3 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 4 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 5 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
+| 6 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 7 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 8 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 9 | [Bronx](http://twitter.com/search?q=Bronx) | N/A |
+| 10 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 11 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 12 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 13 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 14 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 15 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 16 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 17 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
 | 18 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 19 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 20 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 21 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 22 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 23 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 24 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
-| 25 | [#aimseylook](http://twitter.com/search?q=%23aimseylook) | N/A |
-| 26 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 27 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 28 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 29 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 30 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 31 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 32 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 33 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 34 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 35 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 36 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 37 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 38 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 39 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 40 | [Gleyber Day](http://twitter.com/search?q=Gleyber+Day) | N/A |
-| 41 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 19 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 20 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 21 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 22 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 23 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 24 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 25 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 26 | [#AskBully](http://twitter.com/search?q=%23AskBully) | N/A |
+| 27 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 28 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 29 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 30 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 31 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 32 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 33 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 34 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 35 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 36 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 37 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 38 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
+| 39 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 40 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 41 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
 | 42 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 43 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 44 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 45 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 46 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 47 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 48 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 49 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 50 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 43 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
+| 44 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 45 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 46 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 47 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 48 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 49 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
+| 50 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
 
 
 

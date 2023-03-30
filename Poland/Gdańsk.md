@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-03-30 19:16:47 UTC`
+📆 Last Updated: `2023-03-30 20:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
-| 2 | [#NieOddamyWarszawy](http://twitter.com/search?q=%23NieOddamyWarszawy) | N/A |
-| 3 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
-| 4 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
-| 5 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 6 | [Bortniczuk](http://twitter.com/search?q=Bortniczuk) | N/A |
-| 7 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
-| 8 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 9 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 10 | [Mularczyk](http://twitter.com/search?q=Mularczyk) | N/A |
-| 11 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 12 | [Daniel Obajtek](http://twitter.com/search?q=Daniel+Obajtek) | N/A |
-| 13 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 14 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 15 | [Klaps](http://twitter.com/search?q=Klaps) | N/A |
-| 16 | [PKN Orlen](http://twitter.com/search?q=PKN+Orlen) | N/A |
-| 17 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
-| 18 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 19 | [aleksander zniszczoł](http://twitter.com/search?q=aleksander+zniszczo%c5%82) | N/A |
-| 20 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 21 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 22 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
-| 23 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 24 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 25 | [Memcen](http://twitter.com/search?q=Memcen) | N/A |
-| 26 | [Bicie](http://twitter.com/search?q=Bicie) | N/A |
-| 27 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
-| 28 | [Śląskim](http://twitter.com/search?q=%c5%9al%c4%85skim) | N/A |
-| 29 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 30 | [Logika](http://twitter.com/search?q=Logika) | N/A |
-| 31 | [Kara](http://twitter.com/search?q=Kara) | N/A |
-| 32 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 33 | [Göringa](http://twitter.com/search?q=G%c3%b6ringa) | N/A |
-| 34 | [PKOl](http://twitter.com/search?q=PKOl) | N/A |
-| 35 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 36 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 37 | [Rachoń](http://twitter.com/search?q=Racho%c5%84) | N/A |
-| 38 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 39 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
-| 40 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
-| 41 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
-| 42 | [Marcina Wolfa](http://twitter.com/search?q=Marcina+Wolfa) | N/A |
-| 43 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 44 | [Królikowski](http://twitter.com/search?q=Kr%c3%b3likowski) | N/A |
-| 45 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 46 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
-| 47 | [Kinia](http://twitter.com/search?q=Kinia) | N/A |
-| 48 | [Grodzkiego](http://twitter.com/search?q=Grodzkiego) | N/A |
-| 49 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 1 | [Paweł Śpiewak](http://twitter.com/search?q=Pawe%c5%82+%c5%9apiewak) | N/A |
+| 2 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
+| 3 | [#NieOddamyWarszawy](http://twitter.com/search?q=%23NieOddamyWarszawy) | N/A |
+| 4 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
+| 5 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 6 | [Tapczan](http://twitter.com/search?q=Tapczan) | N/A |
+| 7 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 8 | [Agatę](http://twitter.com/search?q=Agat%c4%99) | N/A |
+| 9 | [Łóżko](http://twitter.com/search?q=%c5%81%c3%b3%c5%bcko) | N/A |
+| 10 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 11 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 12 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 13 | [Bortniczuk](http://twitter.com/search?q=Bortniczuk) | N/A |
+| 14 | [Orlenu](http://twitter.com/search?q=Orlenu) | N/A |
+| 15 | [GKS Katowice](http://twitter.com/search?q=GKS+Katowice) | N/A |
+| 16 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
+| 17 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 18 | [Mularczyk](http://twitter.com/search?q=Mularczyk) | N/A |
+| 19 | [Klaps](http://twitter.com/search?q=Klaps) | N/A |
+| 20 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 21 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 22 | [Logika](http://twitter.com/search?q=Logika) | N/A |
+| 23 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 24 | [Daniel Obajtek](http://twitter.com/search?q=Daniel+Obajtek) | N/A |
+| 25 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
+| 26 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
+| 27 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 28 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
+| 29 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
+| 30 | [Bicie](http://twitter.com/search?q=Bicie) | N/A |
+| 31 | [Rachoń](http://twitter.com/search?q=Racho%c5%84) | N/A |
+| 32 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
+| 33 | [Śląskim](http://twitter.com/search?q=%c5%9al%c4%85skim) | N/A |
+| 34 | [Kara](http://twitter.com/search?q=Kara) | N/A |
+| 35 | [Göringa](http://twitter.com/search?q=G%c3%b6ringa) | N/A |
+| 36 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
+| 37 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 38 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
+| 39 | [Memcen](http://twitter.com/search?q=Memcen) | N/A |
+| 40 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 41 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 42 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
+| 43 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 44 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
+| 45 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 46 | [Zrobione](http://twitter.com/search?q=Zrobione) | N/A |
+| 47 | [Grodzkiego](http://twitter.com/search?q=Grodzkiego) | N/A |
+| 48 | [Krajowej Sieci Onkologicznej](http://twitter.com/search?q=Krajowej+Sieci+Onkologicznej) | N/A |
+| 49 | [PKOl](http://twitter.com/search?q=PKOl) | N/A |
 
 
 

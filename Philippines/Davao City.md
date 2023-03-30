@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-30 19:17:07 UTC`
+📆 Last Updated: `2023-03-30 20:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
-| 2 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
-| 3 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
-| 4 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
-| 5 | [#SVT_APRIL_COMEBACK](http://twitter.com/search?q=%23SVT_APRIL_COMEBACK) | N/A |
-| 6 | [PLUUS MINI ALBUM DEBUT](http://twitter.com/search?q=PLUUS+MINI+ALBUM+DEBUT) | N/A |
-| 7 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
-| 8 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 9 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
-| 10 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
-| 11 | [Finding My Life](http://twitter.com/search?q=Finding+My+Life) | N/A |
-| 12 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
-| 13 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 14 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
-| 15 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 16 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
-| 17 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 18 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 19 | [SENIOR PRINCESS VIVOREE](http://twitter.com/search?q=SENIOR+PRINCESS+VIVOREE) | N/A |
-| 20 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 21 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
-| 22 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
-| 23 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 24 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 25 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 26 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
-| 27 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
-| 28 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 30 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
-| 31 | [Finals MVP](http://twitter.com/search?q=Finals+MVP) | N/A |
-| 32 | [#PLUUSMiniAlbumRelease](http://twitter.com/search?q=%23PLUUSMiniAlbumRelease) | N/A |
-| 33 | [#UnkabogableAt47](http://twitter.com/search?q=%23UnkabogableAt47) | N/A |
-| 34 | [#PLUUS_TYM](http://twitter.com/search?q=%23PLUUS_TYM) | N/A |
-| 35 | [#ENHYPEN_IN_PARIS](http://twitter.com/search?q=%23ENHYPEN_IN_PARIS) | N/A |
-| 36 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
-| 37 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 38 | [#aespa_HoldOnTight](http://twitter.com/search?q=%23aespa_HoldOnTight) | N/A |
-| 39 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
-| 40 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
-| 41 | [#VXON_BreakingBad](http://twitter.com/search?q=%23VXON_BreakingBad) | N/A |
-| 42 | [#EMEKaNaBeh](http://twitter.com/search?q=%23EMEKaNaBeh) | N/A |
-| 43 | [#WonDONNYrousPromNight](http://twitter.com/search?q=%23WonDONNYrousPromNight) | N/A |
-| 44 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 45 | [#BGYO1stDateTogether](http://twitter.com/search?q=%23BGYO1stDateTogether) | N/A |
-| 46 | [#BrentManalo](http://twitter.com/search?q=%23BrentManalo) | N/A |
-| 47 | [#FrancineDiazEnchantedProm](http://twitter.com/search?q=%23FrancineDiazEnchantedProm) | N/A |
+| 1 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
+| 2 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 3 | [#WonDONNYrousPromNight](http://twitter.com/search?q=%23WonDONNYrousPromNight) | N/A |
+| 4 | [#PVLFinalsGame3](http://twitter.com/search?q=%23PVLFinalsGame3) | N/A |
+| 5 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
+| 6 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
+| 7 | [#BGYO1stDateTogether](http://twitter.com/search?q=%23BGYO1stDateTogether) | N/A |
+| 8 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 9 | [HORI7ON 1st Prom](http://twitter.com/search?q=HORI7ON+1st+Prom) | N/A |
+| 10 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
+| 11 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 12 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 13 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
+| 14 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
+| 15 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 16 | [vpca back2back kd](http://twitter.com/search?q=vpca+back2back+kd) | N/A |
+| 17 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 18 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 19 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
+| 20 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 21 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 22 | [Finals MVP](http://twitter.com/search?q=Finals+MVP) | N/A |
+| 23 | [PROMAGICAL WITH ROBXINE](http://twitter.com/search?q=PROMAGICAL+WITH+ROBXINE) | N/A |
+| 24 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 25 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
+| 26 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 27 | [flower mv teaser](http://twitter.com/search?q=flower+mv+teaser) | N/A |
+| 28 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 29 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 30 | [janella on fire at xxv](http://twitter.com/search?q=janella+on+fire+at+xxv) | N/A |
+| 31 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
+| 32 | [ALJAY PROMinent Tonight](http://twitter.com/search?q=ALJAY+PROMinent+Tonight) | N/A |
+| 33 | [KARINA PROMising NIGHT](http://twitter.com/search?q=KARINA+PROMising+NIGHT) | N/A |
+| 34 | [kd vpca promising again](http://twitter.com/search?q=kd+vpca+promising+again) | N/A |
+| 35 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
+| 36 | [billy poco](http://twitter.com/search?q=billy+poco) | N/A |
+| 37 | [KOTG LEV31 UP](http://twitter.com/search?q=KOTG+LEV31+UP) | N/A |
+| 38 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 39 | [star king kim](http://twitter.com/search?q=star+king+kim) | N/A |
+| 40 | [TOTS](http://twitter.com/search?q=TOTS) | N/A |
+| 41 | [congratulations ccs](http://twitter.com/search?q=congratulations+ccs) | N/A |
+| 42 | [tyang aby](http://twitter.com/search?q=tyang+aby) | N/A |
+| 43 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 44 | [ANJBRENTjeweled ON SMProm](http://twitter.com/search?q=ANJBRENTjeweled+ON+SMProm) | N/A |
+| 45 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 46 | [EDWARD PROMising HOST](http://twitter.com/search?q=EDWARD+PROMising+HOST) | N/A |
+| 47 | [Soltones](http://twitter.com/search?q=Soltones) | N/A |
 
 
 

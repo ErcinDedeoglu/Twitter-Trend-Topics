@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-30 19:16:53 UTC`
+📆 Last Updated: `2023-03-30 20:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 2 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
-| 3 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 4 | [#SoltantoChi](http://twitter.com/search?q=%23SoltantoChi) | N/A |
-| 5 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 6 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 7 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 8 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 9 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 10 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 11 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 12 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 13 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 14 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 15 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 16 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 17 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 18 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 19 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 20 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
-| 21 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 22 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 23 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 24 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 25 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 26 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 27 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 28 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 29 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
-| 30 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 31 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 32 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 33 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 34 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
-| 35 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
-| 36 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 37 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 38 | [SIAE](http://twitter.com/search?q=SIAE) | N/A |
-| 39 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
-| 40 | [Cuoricino](http://twitter.com/search?q=Cuoricino) | N/A |
-| 41 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 42 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 43 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 44 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 45 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 46 | [Buonasera](http://twitter.com/search?q=Buonasera) | N/A |
-| 47 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 48 | [MA IN CHE SENSO](http://twitter.com/search?q=MA+IN+CHE+SENSO) | N/A |
-| 49 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
-| 50 | [Angelina e Federica](http://twitter.com/search?q=Angelina+e+Federica) | N/A |
+| 2 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
+| 3 | [#UnPassoDalCielo7](http://twitter.com/search?q=%23UnPassoDalCielo7) | N/A |
+| 4 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
+| 5 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 6 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
+| 7 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 8 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 9 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 10 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 11 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 12 | [Otello](http://twitter.com/search?q=Otello) | N/A |
+| 13 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
+| 14 | [Totò Schillaci](http://twitter.com/search?q=Tot%c3%b2+Schillaci) | N/A |
+| 15 | [Huber](http://twitter.com/search?q=Huber) | N/A |
+| 16 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 17 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 18 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 19 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 20 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 21 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 22 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 23 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
+| 24 | [Damiano](http://twitter.com/search?q=Damiano) | N/A |
+| 25 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 26 | [Ferri](http://twitter.com/search?q=Ferri) | N/A |
+| 27 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 28 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 29 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 30 | [MA STIAMO SCHERZANDO](http://twitter.com/search?q=MA+STIAMO+SCHERZANDO) | N/A |
+| 31 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 32 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 33 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 34 | [Elios](http://twitter.com/search?q=Elios) | N/A |
+| 35 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 36 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 37 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 38 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 39 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 40 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 41 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 42 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 43 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 44 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
+| 45 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
+| 46 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 47 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 48 | [Todarisa](http://twitter.com/search?q=Todarisa) | N/A |
+| 49 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 50 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
 
 
 

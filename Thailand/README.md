@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-03-30 19:17:41 UTC`
+📆 Last Updated: `2023-03-30 20:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for Thailand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#THEDREAMSHOW2_in_PARIS](http://twitter.com/search?q=%23THEDREAMSHOW2_in_PARIS) | N/A |
-| 2 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
-| 3 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
-| 4 | [#KKAEWchuuBDgirl](http://twitter.com/search?q=%23KKAEWchuuBDgirl) | N/A |
-| 5 | [KKAEWChuu Day](http://twitter.com/search?q=KKAEWChuu+Day) | N/A |
-| 6 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
-| 7 | [#aespa_HoldOnTight](http://twitter.com/search?q=%23aespa_HoldOnTight) | N/A |
-| 8 | [AESPA TETRIS OST](http://twitter.com/search?q=AESPA+TETRIS+OST) | N/A |
-| 9 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
-| 10 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 11 | [#MarkTuanAsiatour2023](http://twitter.com/search?q=%23MarkTuanAsiatour2023) | N/A |
-| 12 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 13 | [#CHIQUITA](http://twitter.com/search?q=%23CHIQUITA) | N/A |
-| 14 | [#NCTDREAMinPARIS](http://twitter.com/search?q=%23NCTDREAMinPARIS) | N/A |
-| 15 | [#PHARITA](http://twitter.com/search?q=%23PHARITA) | N/A |
-| 16 | [#DOJAEJUNG_BaseNote](http://twitter.com/search?q=%23DOJAEJUNG_BaseNote) | N/A |
-| 17 | [#SABBxTARAYLS](http://twitter.com/search?q=%23SABBxTARAYLS) | N/A |
-| 18 | [#NetJamesxFANDOMLIVE](http://twitter.com/search?q=%23NetJamesxFANDOMLIVE) | N/A |
-| 19 | [#SoundCheckxBBZxTRINITY](http://twitter.com/search?q=%23SoundCheckxBBZxTRINITY) | N/A |
-| 20 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 21 | [#TAEYONG](http://twitter.com/search?q=%23TAEYONG) | N/A |
-| 22 | [#โฟร์ทณัฐวรรธน์](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%93%e0%b8%b1%e0%b8%90%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%98%e0%b8%99%e0%b9%8c) | N/A |
-| 23 | [#ใต้เงาตะวันep2](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%95%e0%b9%89%e0%b9%80%e0%b8%87%e0%b8%b2%e0%b8%95%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%99ep2) | N/A |
-| 24 | [#BookfluencerxMarkFord](http://twitter.com/search?q=%23BookfluencerxMarkFord) | N/A |
-| 25 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
-| 26 | [#BodyGlovexGeminiFourth](http://twitter.com/search?q=%23BodyGlovexGeminiFourth) | N/A |
-| 27 | [#ลัฟวี่ไม่เอาธันเดอร์โดม](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%a7%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%98%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%94%e0%b8%a1) | N/A |
-| 28 | [#LoveMeAgainEP2](http://twitter.com/search?q=%23LoveMeAgainEP2) | N/A |
-| 29 | [#BillkinxMelodyoftheyear](http://twitter.com/search?q=%23BillkinxMelodyoftheyear) | N/A |
-| 30 | [#LMMA2022xNuNew](http://twitter.com/search?q=%23LMMA2022xNuNew) | N/A |
-| 31 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
-| 32 | [#BvlgariXZeeNuNew](http://twitter.com/search?q=%23BvlgariXZeeNuNew) | N/A |
-| 33 | [#ดื้อเฮียSeries](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2Series) | N/A |
-| 34 | [#FordAllan](http://twitter.com/search?q=%23FordAllan) | N/A |
-| 35 | [#แบนสุพรรณหงส์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%9e%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%ab%e0%b8%87%e0%b8%aa%e0%b9%8c) | N/A |
-| 36 | [#BulgariSerpenti75](http://twitter.com/search?q=%23BulgariSerpenti75) | N/A |
-| 37 | [#BamJae_BestFriend](http://twitter.com/search?q=%23BamJae_BestFriend) | N/A |
-| 38 | [#markpakin](http://twitter.com/search?q=%23markpakin) | N/A |
-| 39 | [#งานหนังสือ66](http://twitter.com/search?q=%23%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b8%ad66) | N/A |
-| 40 | [#mmarkpkk](http://twitter.com/search?q=%23mmarkpkk) | N/A |
-| 41 | [#AlphaLiveRoomEP3](http://twitter.com/search?q=%23AlphaLiveRoomEP3) | N/A |
-| 42 | [#WANGZIHAO](http://twitter.com/search?q=%23WANGZIHAO) | N/A |
-| 43 | [#MoltoXPaeyahBNK48](http://twitter.com/search?q=%23MoltoXPaeyahBNK48) | N/A |
-| 44 | [#diamondnrk_](http://twitter.com/search?q=%23diamondnrk_) | N/A |
-| 45 | [#JAEHYUN](http://twitter.com/search?q=%23JAEHYUN) | N/A |
-| 46 | [#มาร์คฟอร์ด](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%9f%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%94) | N/A |
-| 47 | [#NCT_DOJAEJUNG](http://twitter.com/search?q=%23NCT_DOJAEJUNG) | N/A |
+| 1 | [#WelcomeTREASUREtoThailand](http://twitter.com/search?q=%23WelcomeTREASUREtoThailand) | "#WelcomeTREASUREtoThailand" is a hashtag used to welcome the K-pop group TREASURE to Thailand. It is a way of expressing excitement and anticipation for their upcoming visit. |
+| 2 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
+| 3 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 4 | [#ลัฟวี่ไม่เอาธันเดอร์โดม](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%a7%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%98%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%94%e0%b8%a1) | N/A |
+| 5 | [#THEDREAMSHOW2_in_PARIS](http://twitter.com/search?q=%23THEDREAMSHOW2_in_PARIS) | N/A |
+| 6 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
+| 7 | [BRIGHT x BVLGARI75th](http://twitter.com/search?q=BRIGHT+x+BVLGARI75th) | N/A |
+| 8 | [KKAEWChuu Day](http://twitter.com/search?q=KKAEWChuu+Day) | N/A |
+| 9 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
+| 10 | [BAMBAM COMEBACK STAGE MCD](http://twitter.com/search?q=BAMBAM+COMEBACK+STAGE+MCD) | N/A |
+| 11 | [patrick delicious romance](http://twitter.com/search?q=patrick+delicious+romance) | N/A |
+| 12 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 13 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 14 | [we freen you](http://twitter.com/search?q=we+freen+you) | N/A |
+| 15 | [win x lazada11year](http://twitter.com/search?q=win+x+lazada11year) | N/A |
+| 16 | [COUNTDOWN TO CL CONCERT D1](http://twitter.com/search?q=COUNTDOWN+TO+CL+CONCERT+D1) | N/A |
+| 17 | [Dragon TVDRAMA AWARDS23](http://twitter.com/search?q=Dragon+TVDRAMA+AWARDS23) | N/A |
+| 18 | [DJ YOUNGJAE WITH BAMBAM](http://twitter.com/search?q=DJ+YOUNGJAE+WITH+BAMBAM) | N/A |
+| 19 | [tawan arb dao](http://twitter.com/search?q=tawan+arb+dao) | N/A |
+| 20 | [truelove tarwaan](http://twitter.com/search?q=truelove+tarwaan) | N/A |
+| 21 | [1M BESIDE WITH KHAOTUNGG](http://twitter.com/search?q=1M+BESIDE+WITH+KHAOTUNGG) | N/A |
+| 22 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
+| 23 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
+| 24 | [HI-BYE](http://twitter.com/search?q=HI-BYE) | N/A |
+| 25 | [BM LAST EVALUATION EP4](http://twitter.com/search?q=BM+LAST+EVALUATION+EP4) | N/A |
+| 26 | [R to V in BANGKOK](http://twitter.com/search?q=R+to+V+in+BANGKOK) | N/A |
+| 27 | [Exclusive](http://twitter.com/search?q=Exclusive) | N/A |
+| 28 | [Red Velvet 4th Concert](http://twitter.com/search?q=Red+Velvet+4th+Concert) | N/A |
+| 29 | [En Garde](http://twitter.com/search?q=En+Garde) | N/A |
+| 30 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 31 | [#BvlgariXZeeNuNew](http://twitter.com/search?q=%23BvlgariXZeeNuNew) | N/A |
+| 32 | [#BodyGlovexGeminiFourth](http://twitter.com/search?q=%23BodyGlovexGeminiFourth) | N/A |
+| 33 | [#BulgariSerpenti75xBright](http://twitter.com/search?q=%23BulgariSerpenti75xBright) | N/A |
+| 34 | [#แบนสุพรรณหงส์](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%9a%e0%b8%99%e0%b8%aa%e0%b8%b8%e0%b8%9e%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%ab%e0%b8%87%e0%b8%aa%e0%b9%8c) | N/A |
+| 35 | [#KKAEWchuuBDgirl](http://twitter.com/search?q=%23KKAEWchuuBDgirl) | N/A |
+| 36 | [#TOYOTAxZEENUNEW](http://twitter.com/search?q=%23TOYOTAxZEENUNEW) | N/A |
+| 37 | [#YinWarJapanFanMeeting](http://twitter.com/search?q=%23YinWarJapanFanMeeting) | N/A |
+| 38 | [#DOJAEJUNG_BaseNote](http://twitter.com/search?q=%23DOJAEJUNG_BaseNote) | N/A |
+| 39 | [#BookfluencerxMarkFord](http://twitter.com/search?q=%23BookfluencerxMarkFord) | N/A |
+| 40 | [#LMMA2022xNuNew](http://twitter.com/search?q=%23LMMA2022xNuNew) | N/A |
+| 41 | [#SourandSweet_MCountdown](http://twitter.com/search?q=%23SourandSweet_MCountdown) | N/A |
+| 42 | [#theothersideAsiaTour](http://twitter.com/search?q=%23theothersideAsiaTour) | N/A |
+| 43 | [#BKPPxMTL](http://twitter.com/search?q=%23BKPPxMTL) | N/A |
+| 44 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
+| 45 | [#NetJamesxFANDOMLIVE](http://twitter.com/search?q=%23NetJamesxFANDOMLIVE) | N/A |
+| 46 | [#BamJae_BestFriend](http://twitter.com/search?q=%23BamJae_BestFriend) | N/A |
+| 47 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
+| 48 | [#LoveMeAgainEP2](http://twitter.com/search?q=%23LoveMeAgainEP2) | N/A |
+| 49 | [#งานหนังสือ66](http://twitter.com/search?q=%23%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b7%e0%b8%ad66) | N/A |
+| 50 | [#MarkTuanAsiatour2023](http://twitter.com/search?q=%23MarkTuanAsiatour2023) | N/A |
 
 
 

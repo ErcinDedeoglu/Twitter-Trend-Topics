@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-30 19:17:20 UTC`
+📆 Last Updated: `2023-03-30 20:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
-| 2 | [#AdayAdayıBozdoğan](http://twitter.com/search?q=%23AdayAday%c4%b1Bozdo%c4%9fan) | N/A |
+| 1 | [#AdayAdayıBozdoğan](http://twitter.com/search?q=%23AdayAday%c4%b1Bozdo%c4%9fan) | N/A |
+| 2 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
 | 3 | [Seni Cumhurbaşkanı](http://twitter.com/search?q=Seni+Cumhurba%c5%9fkan%c4%b1) | N/A |
-| 4 | [#AdaletHerkesİçindir](http://twitter.com/search?q=%23AdaletHerkes%c4%b0%c3%a7indir) | N/A |
+| 4 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
 | 5 | [Piro](http://twitter.com/search?q=Piro) | N/A |
 | 6 | [GSBtayinBekliyor](http://twitter.com/search?q=GSBtayinBekliyor) | N/A |
-| 7 | [AlparslanHocaya Yargısızİnfaz](http://twitter.com/search?q=AlparslanHocaya+Yarg%c4%b1s%c4%b1z%c4%b0nfaz) | N/A |
-| 8 | [UcretliOgrt KadroMujdesi](http://twitter.com/search?q=UcretliOgrt+KadroMujdesi) | N/A |
+| 7 | [UcretliOgrt KadroMujdesi](http://twitter.com/search?q=UcretliOgrt+KadroMujdesi) | N/A |
+| 8 | [İrfan Değirmenci](http://twitter.com/search?q=%c4%b0rfan+De%c4%9firmenci) | N/A |
 | 9 | [Beştepeden Denklik](http://twitter.com/search?q=Be%c5%9ftepeden+Denklik) | N/A |
-| 10 | [Skandal Tehdit](http://twitter.com/search?q=Skandal+Tehdit) | N/A |
-| 11 | [İrfan Değirmenci](http://twitter.com/search?q=%c4%b0rfan+De%c4%9firmenci) | N/A |
-| 12 | [TaşeronuAçıkla VedatBilgin](http://twitter.com/search?q=Ta%c5%9feronuA%c3%a7%c4%b1kla+VedatBilgin) | N/A |
-| 13 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
-| 14 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
-| 15 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
-| 16 | [Gülşen](http://twitter.com/search?q=G%c3%bcl%c5%9fen) | N/A |
-| 17 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
-| 18 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
-| 19 | [Mango](http://twitter.com/search?q=Mango) | N/A |
-| 20 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
-| 21 | [Gidişi](http://twitter.com/search?q=Gidi%c5%9fi) | N/A |
-| 22 | [Mehmet Selim Kiraz](http://twitter.com/search?q=Mehmet+Selim+Kiraz) | N/A |
-| 23 | [Hazırız Cumhurbaşkanım](http://twitter.com/search?q=Haz%c4%b1r%c4%b1z+Cumhurba%c5%9fkan%c4%b1m) | N/A |
-| 24 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 25 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
-| 26 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
-| 27 | [Eşref](http://twitter.com/search?q=E%c5%9fref) | N/A |
+| 10 | [AlparslanHocaya Yargısızİnfaz](http://twitter.com/search?q=AlparslanHocaya+Yarg%c4%b1s%c4%b1z%c4%b0nfaz) | N/A |
+| 11 | [Önce Türkiye](http://twitter.com/search?q=%c3%96nce+T%c3%bcrkiye) | N/A |
+| 12 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
+| 13 | [Skandal Tehdit](http://twitter.com/search?q=Skandal+Tehdit) | N/A |
+| 14 | [GÖKKUŞAĞI MASASI](http://twitter.com/search?q=G%c3%96KKU%c5%9eA%c4%9eI+MASASI) | N/A |
+| 15 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
+| 16 | [Mehmet Akif](http://twitter.com/search?q=Mehmet+Akif) | N/A |
+| 17 | [TaşeronuAçıkla VedatBilgin](http://twitter.com/search?q=Ta%c5%9feronuA%c3%a7%c4%b1kla+VedatBilgin) | N/A |
+| 18 | [YuzuncuYıla KutuphanecıAtaması](http://twitter.com/search?q=YuzuncuY%c4%b1la+Kutuphanec%c4%b1Atamas%c4%b1) | N/A |
+| 19 | [SevgimizSonsuz EmirLuca](http://twitter.com/search?q=SevgimizSonsuz+EmirLuca) | N/A |
+| 20 | [Gülşen](http://twitter.com/search?q=G%c3%bcl%c5%9fen) | N/A |
+| 21 | [Eşref](http://twitter.com/search?q=E%c5%9fref) | N/A |
+| 22 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
+| 23 | [Emre Kocadağ](http://twitter.com/search?q=Emre+Kocada%c4%9f) | N/A |
+| 24 | [İrfan Bey](http://twitter.com/search?q=%c4%b0rfan+Bey) | N/A |
+| 25 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
+| 26 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 27 | [Mehmet Selim Kiraz](http://twitter.com/search?q=Mehmet+Selim+Kiraz) | N/A |
 | 28 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
-| 29 | [SnErdoğan MahkumaAf](http://twitter.com/search?q=SnErdo%c4%9fan+MahkumaAf) | N/A |
-| 30 | [Cehenneme](http://twitter.com/search?q=Cehenneme) | N/A |
-| 31 | [Erol Özvar](http://twitter.com/search?q=Erol+%c3%96zvar) | N/A |
-| 32 | [Defolsun](http://twitter.com/search?q=Defolsun) | N/A |
-| 33 | [Anayasayı](http://twitter.com/search?q=Anayasay%c4%b1) | N/A |
-| 34 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
-| 35 | [Nükleer](http://twitter.com/search?q=N%c3%bckleer) | N/A |
-| 36 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
-| 37 | [YSK Başkanı Ahmet Yener](http://twitter.com/search?q=YSK+Ba%c5%9fkan%c4%b1+Ahmet+Yener) | N/A |
-| 38 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
-| 39 | [Mahir Çayan](http://twitter.com/search?q=Mahir+%c3%87ayan) | N/A |
-| 40 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 41 | [Irak'tan](http://twitter.com/search?q=Irak%27tan) | N/A |
-| 42 | [Milli Eğitim Bakanlığı](http://twitter.com/search?q=Milli+E%c4%9fitim+Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 43 | [İsteyen](http://twitter.com/search?q=%c4%b0steyen) | N/A |
-| 44 | [Sınavlar](http://twitter.com/search?q=S%c4%b1navlar) | N/A |
-| 45 | [Sünnet](http://twitter.com/search?q=S%c3%bcnnet) | N/A |
-| 46 | [Eylül](http://twitter.com/search?q=Eyl%c3%bcl) | N/A |
-| 47 | [Silivri](http://twitter.com/search?q=Silivri) | N/A |
+| 29 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
+| 30 | [Mango](http://twitter.com/search?q=Mango) | N/A |
+| 31 | [Eren Bülbül](http://twitter.com/search?q=Eren+B%c3%bclb%c3%bcl) | N/A |
+| 32 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 33 | [Gidişi](http://twitter.com/search?q=Gidi%c5%9fi) | N/A |
+| 34 | [Meltem](http://twitter.com/search?q=Meltem) | N/A |
+| 35 | [Gebersin](http://twitter.com/search?q=Gebersin) | N/A |
+| 36 | [Ali Tahir](http://twitter.com/search?q=Ali+Tahir) | N/A |
+| 37 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 38 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
+| 39 | [Anadolu Efes](http://twitter.com/search?q=Anadolu+Efes) | N/A |
+| 40 | [Hazırız Cumhurbaşkanım](http://twitter.com/search?q=Haz%c4%b1r%c4%b1z+Cumhurba%c5%9fkan%c4%b1m) | N/A |
+| 41 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
+| 42 | [Cehenneme](http://twitter.com/search?q=Cehenneme) | N/A |
+| 43 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
+| 44 | [Eyüp](http://twitter.com/search?q=Ey%c3%bcp) | N/A |
+| 45 | [TİP'e](http://twitter.com/search?q=T%c4%b0P%27e) | N/A |
+| 46 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 47 | [Asena](http://twitter.com/search?q=Asena) | N/A |
 
 
 

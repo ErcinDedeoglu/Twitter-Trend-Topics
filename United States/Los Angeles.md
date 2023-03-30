@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-30 19:17:26 UTC`
+📆 Last Updated: `2023-03-30 20:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 2 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 3 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 3 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
 | 4 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
 | 5 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
 | 6 | [#ITFDB](http://twitter.com/search?q=%23ITFDB) | N/A |
-| 7 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 7 | [#baseball](http://twitter.com/search?q=%23baseball) | N/A |
 | 8 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 9 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 10 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 11 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 12 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
+| 9 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 10 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 11 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 12 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 13 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 14 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 15 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 14 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 15 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
 | 16 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 17 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 18 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 19 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 20 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 21 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 22 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 23 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 24 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 25 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 26 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 27 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
+| 17 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 18 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 19 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 20 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 21 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
+| 22 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 23 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 24 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 25 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 26 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 27 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
 | 28 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 29 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 29 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
 | 30 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 31 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 31 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
 | 32 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 33 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 34 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 35 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 36 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 37 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 38 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 39 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 40 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 41 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 42 | [Gleyber Day](http://twitter.com/search?q=Gleyber+Day) | N/A |
-| 43 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 44 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 45 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 46 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 47 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 48 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 49 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 50 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 33 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 34 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 35 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 36 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 37 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 38 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 39 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 40 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
+| 41 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 42 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 43 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 44 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 45 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 46 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
+| 47 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 48 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 49 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 50 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
 
 
 

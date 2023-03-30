@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-03-30 19:17:25 UTC`
+📆 Last Updated: `2023-03-30 20:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 2 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 3 | [#StraightUpTX](http://twitter.com/search?q=%23StraightUpTX) | N/A |
-| 4 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 5 | [#Jouvert](http://twitter.com/search?q=%23Jouvert) | N/A |
+| 3 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
+| 4 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 5 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
 | 6 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 7 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
+| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
 | 8 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 9 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
-| 10 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 11 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 12 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 13 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 14 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 15 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 16 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 17 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 18 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 9 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
+| 10 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 11 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 12 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 13 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 14 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 15 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 16 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 17 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
+| 18 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 | 19 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 20 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 21 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 22 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
-| 23 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 24 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 25 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 26 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 27 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 28 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 29 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 30 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 31 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 32 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 33 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 34 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 35 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 36 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 37 | [Gleyber Day](http://twitter.com/search?q=Gleyber+Day) | N/A |
-| 38 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 39 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 40 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 41 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 42 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 43 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 44 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 45 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 46 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 47 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 48 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 49 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 50 | [Starfleet Academy](http://twitter.com/search?q=Starfleet+Academy) | N/A |
+| 20 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 21 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 22 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 23 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 24 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 25 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 26 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 27 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 28 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 29 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 30 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 31 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 32 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 33 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 34 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
+| 35 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 36 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 37 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 38 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 39 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 40 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 41 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 42 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
+| 43 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 44 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 45 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 46 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 47 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
+| 48 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 49 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 50 | [Tennessee State Capitol](http://twitter.com/search?q=Tennessee+State+Capitol) | N/A |
 
 
 

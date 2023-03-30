@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-03-30 19:17:30 UTC`
+📆 Last Updated: `2023-03-30 20:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#Royals](http://twitter.com/search?q=%23Royals) | N/A |
 | 2 | [#WelcomeToTheCity](http://twitter.com/search?q=%23WelcomeToTheCity) | N/A |
-| 3 | [Go Cards](http://twitter.com/search?q=Go+Cards) | N/A |
-| 4 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 3 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 4 | [Go Cards](http://twitter.com/search?q=Go+Cards) | N/A |
 | 5 | [Busch Stadium](http://twitter.com/search?q=Busch+Stadium) | N/A |
-| 6 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 6 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
 | 7 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 8 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 9 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 11 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 8 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 9 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 10 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 11 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
 | 12 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 13 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 14 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 15 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 16 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 17 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 18 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 19 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
-| 20 | [#aimseylook](http://twitter.com/search?q=%23aimseylook) | N/A |
-| 21 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 22 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 23 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 24 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 25 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 26 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 27 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 28 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 29 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 30 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 31 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 32 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 33 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 34 | [Gleyber Day](http://twitter.com/search?q=Gleyber+Day) | N/A |
-| 35 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 36 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 37 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 38 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 39 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 40 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 41 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 42 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 43 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 44 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 45 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 46 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 47 | [Starfleet Academy](http://twitter.com/search?q=Starfleet+Academy) | N/A |
-| 48 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
-| 49 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 50 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
+| 13 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 14 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 15 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 16 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 17 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 18 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 19 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 20 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 21 | [#AskBully](http://twitter.com/search?q=%23AskBully) | N/A |
+| 22 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 23 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 24 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 25 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 26 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 27 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 28 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 29 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 30 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 31 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 32 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
+| 33 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 34 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 35 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 36 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 37 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 38 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
+| 39 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 40 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 41 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 42 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 43 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 44 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
+| 45 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 46 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 47 | [Tennessee State Capitol](http://twitter.com/search?q=Tennessee+State+Capitol) | N/A |
+| 48 | [Jose Siri](http://twitter.com/search?q=Jose+Siri) | N/A |
+| 49 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 50 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
 
 
 
