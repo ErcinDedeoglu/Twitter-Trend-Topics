@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-03-30 05:17:05 UTC`
+📆 Last Updated: `2023-03-30 06:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 10 | [Don Diego](http://twitter.com/search?q=Don+Diego) | N/A |
 | 11 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
-| 12 | [francisco javier](http://twitter.com/search?q=francisco+javier) | N/A |
+| 12 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
 | 13 | [junta central electoral](http://twitter.com/search?q=junta+central+electoral) | N/A |
 | 14 | [blas durán](http://twitter.com/search?q=blas+dur%c3%a1n) | N/A |
-| 15 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 16 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
-| 17 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 18 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 19 | [Mérido Torres](http://twitter.com/search?q=M%c3%a9rido+Torres) | N/A |
-| 20 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 21 | [la guáyiga](http://twitter.com/search?q=la+gu%c3%a1yiga) | N/A |
-| 22 | [#ArroyoGurabo](http://twitter.com/search?q=%23ArroyoGurabo) | N/A |
-| 23 | [Publicidad](http://twitter.com/search?q=Publicidad) | N/A |
-| 24 | [Casabe](http://twitter.com/search?q=Casabe) | N/A |
-| 25 | [Kpinini](http://twitter.com/search?q=Kpinini) | N/A |
-| 26 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 27 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
-| 28 | [Fuerza del Pueblo](http://twitter.com/search?q=Fuerza+del+Pueblo) | N/A |
-| 29 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
-| 30 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
-| 31 | [Carlos Durán](http://twitter.com/search?q=Carlos+Dur%c3%a1n) | N/A |
-| 32 | ["Tamayo"](http://twitter.com/search?q=%22Tamayo%22) | N/A |
-| 33 | [Miches](http://twitter.com/search?q=Miches) | N/A |
-| 34 | [francisco alberto caamaño deñó](http://twitter.com/search?q=francisco+alberto+caama%c3%b1o+de%c3%b1%c3%b3) | N/A |
-| 35 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 36 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
-| 37 | [soto jiménez](http://twitter.com/search?q=soto+jim%c3%a9nez) | N/A |
-| 38 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
-| 39 | [Bani](http://twitter.com/search?q=Bani) | N/A |
-| 40 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 41 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 42 | [Milagros Germán](http://twitter.com/search?q=Milagros+Germ%c3%a1n) | N/A |
-| 43 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 44 | [Medio Ambiente](http://twitter.com/search?q=Medio+Ambiente) | N/A |
-| 45 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 46 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 47 | [cheddy](http://twitter.com/search?q=cheddy) | N/A |
-| 48 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
-| 49 | [Senasa](http://twitter.com/search?q=Senasa) | N/A |
-| 50 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 15 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
+| 16 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 17 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 18 | [Mérido Torres](http://twitter.com/search?q=M%c3%a9rido+Torres) | N/A |
+| 19 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 20 | [la guáyiga](http://twitter.com/search?q=la+gu%c3%a1yiga) | N/A |
+| 21 | [#ArroyoGurabo](http://twitter.com/search?q=%23ArroyoGurabo) | N/A |
+| 22 | [Publicidad](http://twitter.com/search?q=Publicidad) | N/A |
+| 23 | [Casabe](http://twitter.com/search?q=Casabe) | N/A |
+| 24 | [Kpinini](http://twitter.com/search?q=Kpinini) | N/A |
+| 25 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 26 | [Hilda](http://twitter.com/search?q=Hilda) | N/A |
+| 27 | [Fuerza del Pueblo](http://twitter.com/search?q=Fuerza+del+Pueblo) | N/A |
+| 28 | [París](http://twitter.com/search?q=Par%c3%ads) | N/A |
+| 29 | [Miriam Germán](http://twitter.com/search?q=Miriam+Germ%c3%a1n) | N/A |
+| 30 | [Carlos Durán](http://twitter.com/search?q=Carlos+Dur%c3%a1n) | N/A |
+| 31 | ["Tamayo"](http://twitter.com/search?q=%22Tamayo%22) | N/A |
+| 32 | [Miches](http://twitter.com/search?q=Miches) | N/A |
+| 33 | [francisco alberto caamaño deñó](http://twitter.com/search?q=francisco+alberto+caama%c3%b1o+de%c3%b1%c3%b3) | N/A |
+| 34 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 35 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
+| 36 | [soto jiménez](http://twitter.com/search?q=soto+jim%c3%a9nez) | N/A |
+| 37 | [Jean Alain](http://twitter.com/search?q=Jean+Alain) | N/A |
+| 38 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 39 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 40 | [milagros germán](http://twitter.com/search?q=milagros+germ%c3%a1n) | N/A |
+| 41 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 42 | [Medio Ambiente](http://twitter.com/search?q=Medio+Ambiente) | N/A |
+| 43 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 44 | [Cheddy](http://twitter.com/search?q=Cheddy) | N/A |
+| 45 | [Gonzalo](http://twitter.com/search?q=Gonzalo) | N/A |
+| 46 | [Senasa](http://twitter.com/search?q=Senasa) | N/A |
+| 47 | [Calamar](http://twitter.com/search?q=Calamar) | N/A |
+| 48 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 49 | [Mañon](http://twitter.com/search?q=Ma%c3%b1on) | N/A |
+| 50 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 
 
 

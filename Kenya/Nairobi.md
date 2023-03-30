@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-30 05:17:31 UTC`
+📆 Last Updated: `2023-03-30 06:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Kenya](</Kenya>)
 | ------- | ------------ | ------------ |
 | 1 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
 | 2 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 3 | [#GastronomyFestival](http://twitter.com/search?q=%23GastronomyFestival) | N/A |
-| 4 | [Utalii Hotel](http://twitter.com/search?q=Utalii+Hotel) | N/A |
+| 3 | [Utalii Hotel](http://twitter.com/search?q=Utalii+Hotel) | N/A |
+| 4 | [#GastronomyFestival](http://twitter.com/search?q=%23GastronomyFestival) | N/A |
 | 5 | [#Daybreak](http://twitter.com/search?q=%23Daybreak) | N/A |
 | 6 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
 | 7 | [#JKLive](http://twitter.com/search?q=%23JKLive) | N/A |
-| 8 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
+| 8 | [Malema](http://twitter.com/search?q=Malema) | N/A |
 | 9 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
-| 10 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
-| 11 | [waihiga mwaura](http://twitter.com/search?q=waihiga+mwaura) | N/A |
-| 12 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 10 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
+| 11 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
+| 12 | [Anyang nyongo](http://twitter.com/search?q=Anyang+nyongo) | N/A |
 | 13 | [Riri](http://twitter.com/search?q=Riri) | N/A |
-| 14 | [Anyang nyongo](http://twitter.com/search?q=Anyang+nyongo) | N/A |
-| 15 | [Kericho](http://twitter.com/search?q=Kericho) | N/A |
-| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 17 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
-| 18 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
-| 19 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 20 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
-| 21 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
-| 22 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
-| 23 | [Aspen Medical](http://twitter.com/search?q=Aspen+Medical) | N/A |
-| 24 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 25 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
-| 26 | [Ninja](http://twitter.com/search?q=Ninja) | N/A |
-| 27 | [chillis](http://twitter.com/search?q=chillis) | N/A |
-| 28 | [aga khan hospital](http://twitter.com/search?q=aga+khan+hospital) | N/A |
-| 29 | [matasi](http://twitter.com/search?q=matasi) | N/A |
-| 30 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 31 | [mentalhealth ke](http://twitter.com/search?q=mentalhealth+ke) | N/A |
-| 32 | [Ichungwa](http://twitter.com/search?q=Ichungwa) | N/A |
-| 33 | [get carrefour app](http://twitter.com/search?q=get+carrefour+app) | N/A |
-| 34 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
-| 35 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 36 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
-| 37 | [Amber Ray](http://twitter.com/search?q=Amber+Ray) | N/A |
-| 38 | [banisa mp kullow maalim hassan](http://twitter.com/search?q=banisa+mp+kullow+maalim+hassan) | N/A |
-| 39 | [cx-5](http://twitter.com/search?q=cx-5) | N/A |
-| 40 | [equity afia](http://twitter.com/search?q=equity+afia) | N/A |
-| 41 | [bluechip aviation safaris](http://twitter.com/search?q=bluechip+aviation+safaris) | N/A |
-| 42 | [Mike Sonko](http://twitter.com/search?q=Mike+Sonko) | N/A |
-| 43 | [dj mesh mkaree](http://twitter.com/search?q=dj+mesh+mkaree) | N/A |
-| 44 | [Quick Recovery](http://twitter.com/search?q=Quick+Recovery) | N/A |
+| 14 | [Ole Sapit](http://twitter.com/search?q=Ole+Sapit) | N/A |
+| 15 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 16 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 17 | [nakuru county bursaries](http://twitter.com/search?q=nakuru+county+bursaries) | N/A |
+| 18 | [Uhuru](http://twitter.com/search?q=Uhuru) | N/A |
+| 19 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
+| 20 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
+| 21 | [Osoro](http://twitter.com/search?q=Osoro) | N/A |
+| 22 | [Kibra](http://twitter.com/search?q=Kibra) | N/A |
+| 23 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
+| 24 | [Ninja](http://twitter.com/search?q=Ninja) | N/A |
+| 25 | [chillis](http://twitter.com/search?q=chillis) | N/A |
+| 26 | [aga khan hospital](http://twitter.com/search?q=aga+khan+hospital) | N/A |
+| 27 | [Matasi](http://twitter.com/search?q=Matasi) | N/A |
+| 28 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 29 | [mentalhealth ke](http://twitter.com/search?q=mentalhealth+ke) | N/A |
+| 30 | [get carrefour app](http://twitter.com/search?q=get+carrefour+app) | N/A |
+| 31 | [Waihiga Mwaura](http://twitter.com/search?q=Waihiga+Mwaura) | N/A |
+| 32 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
+| 33 | [Ichungwa](http://twitter.com/search?q=Ichungwa) | N/A |
+| 34 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 35 | [Amber Ray](http://twitter.com/search?q=Amber+Ray) | N/A |
+| 36 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
+| 37 | [banisa mp kullow maalim hassan](http://twitter.com/search?q=banisa+mp+kullow+maalim+hassan) | N/A |
+| 38 | [CX-5](http://twitter.com/search?q=CX-5) | N/A |
+| 39 | [equity afia](http://twitter.com/search?q=equity+afia) | N/A |
+| 40 | [bluechip aviation safaris](http://twitter.com/search?q=bluechip+aviation+safaris) | N/A |
+| 41 | [Mike Sonko](http://twitter.com/search?q=Mike+Sonko) | N/A |
+| 42 | [dj mesh mkaree](http://twitter.com/search?q=dj+mesh+mkaree) | N/A |
+| 43 | [Quick Recovery](http://twitter.com/search?q=Quick+Recovery) | N/A |
+| 44 | [Edwin Sifuna](http://twitter.com/search?q=Edwin+Sifuna) | N/A |
 | 45 | [neptune hotels diani](http://twitter.com/search?q=neptune+hotels+diani) | N/A |
 | 46 | [Kindiki](http://twitter.com/search?q=Kindiki) | N/A |
 | 47 | [Sakaja](http://twitter.com/search?q=Sakaja) | N/A |
-| 48 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 49 | [jeff mwathi](http://twitter.com/search?q=jeff+mwathi) | N/A |
+| 48 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
+| 49 | [The US](http://twitter.com/search?q=The+US) | N/A |
 | 50 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-30 05:17:13 UTC`
+📆 Last Updated: `2023-03-30 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 2 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
-| 3 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
-| 4 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 5 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
-| 6 | [#polalb](http://twitter.com/search?q=%23polalb) | N/A |
-| 7 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
-| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 9 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 10 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
-| 11 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 1 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
+| 2 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 3 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
+| 4 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 5 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
+| 6 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 7 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 8 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 9 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 10 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
+| 11 | [Matty](http://twitter.com/search?q=Matty) | N/A |
 | 12 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 13 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
-| 14 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
-| 15 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 16 | [chorzowa](http://twitter.com/search?q=chorzowa) | N/A |
-| 17 | [warta](http://twitter.com/search?q=warta) | N/A |
-| 18 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
-| 19 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 20 | [Damian](http://twitter.com/search?q=Damian) | Damian is a masculine given name of Greek origin meaning "to tame, subdue". It is derived from the Greek word “damánein”, which means “to tame” or “to subdue”. It is also related to the Latin word “dominus”, which means “lord” or “master”. |
-| 21 | [belki](http://twitter.com/search?q=belki) | N/A |
-| 22 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 23 | [julia przyłębska](http://twitter.com/search?q=julia+przy%c5%82%c4%99bska) | N/A |
-| 24 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 25 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
-| 26 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | N/A |
-| 27 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 28 | [izery](http://twitter.com/search?q=izery) | N/A |
-| 29 | [pkol](http://twitter.com/search?q=pkol) | N/A |
+| 13 | [zaksy](http://twitter.com/search?q=zaksy) | N/A |
+| 14 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
+| 15 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 16 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 17 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
+| 18 | [warta](http://twitter.com/search?q=warta) | N/A |
+| 19 | [Dworczyka](http://twitter.com/search?q=Dworczyka) | N/A |
+| 20 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
+| 21 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 22 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
+| 23 | [Damian](http://twitter.com/search?q=Damian) | Damian is a masculine given name of Greek origin meaning "to tame, subdue". It is derived from the Greek word “damánein”, which means “to tame” or “to subdue”. It is also related to the Latin word “dominus”, which means “lord” or “master”. |
+| 24 | [belki](http://twitter.com/search?q=belki) | N/A |
+| 25 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 26 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 27 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 28 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | N/A |
+| 29 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
 | 30 | [kędzierzyna](http://twitter.com/search?q=k%c4%99dzierzyna) | N/A |
-| 31 | [trybunału konstytucyjnego](http://twitter.com/search?q=trybuna%c5%82u+konstytucyjnego) | N/A |
+| 31 | [PKOl](http://twitter.com/search?q=PKOl) | N/A |
 | 32 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
-| 33 | [soboń](http://twitter.com/search?q=sobo%c5%84) | N/A |
-| 34 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 35 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 36 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 33 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
+| 34 | [soboń](http://twitter.com/search?q=sobo%c5%84) | N/A |
+| 35 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 36 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
 | 37 | [Witek](http://twitter.com/search?q=Witek) | N/A |
 | 38 | [pilica](http://twitter.com/search?q=pilica) | N/A |
-| 39 | [Arsenałem](http://twitter.com/search?q=Arsena%c5%82em) | N/A |
+| 39 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
 | 40 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 41 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
+| 41 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 42 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
-| 43 | [karnowscy](http://twitter.com/search?q=karnowscy) | N/A |
-| 44 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 45 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 46 | [duklanowski](http://twitter.com/search?q=duklanowski) | N/A |
-| 47 | [Marszałek](http://twitter.com/search?q=Marsza%c5%82ek) | N/A |
-| 48 | [jastrzębie](http://twitter.com/search?q=jastrz%c4%99bie) | N/A |
-| 49 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
+| 43 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 44 | [karnowscy](http://twitter.com/search?q=karnowscy) | N/A |
+| 45 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 46 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 47 | [Kasiu](http://twitter.com/search?q=Kasiu) | N/A |
+| 48 | [Marszałek](http://twitter.com/search?q=Marsza%c5%82ek) | N/A |
+| 49 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-03-30 05:17:22 UTC`
+📆 Last Updated: `2023-03-30 06:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
+| 1 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 2 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 4 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
-| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 6 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 3 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
+| 4 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 5 | [kita doakan erick](http://twitter.com/search?q=kita+doakan+erick) | N/A |
+| 6 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
 | 7 | [#MARKLEE2NDSOLO](http://twitter.com/search?q=%23MARKLEE2NDSOLO) | N/A |
-| 8 | [kita doakan erick](http://twitter.com/search?q=kita+doakan+erick) | N/A |
-| 9 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 10 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
-| 11 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 12 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 13 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
-| 14 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
-| 15 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 16 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
+| 8 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 9 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
+| 10 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 11 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 12 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
+| 13 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
+| 14 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 15 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
+| 16 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
 | 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 18 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 19 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
-| 20 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
-| 21 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
-| 22 | [Golput](http://twitter.com/search?q=Golput) | N/A |
-| 23 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 24 | [Meisya](http://twitter.com/search?q=Meisya) | N/A |
-| 25 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
-| 26 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
-| 27 | [JUNGWON ROVER](http://twitter.com/search?q=JUNGWON+ROVER) | N/A |
-| 28 | [Johan Budi](http://twitter.com/search?q=Johan+Budi) | N/A |
-| 29 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 30 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
-| 31 | [CAT 2B](http://twitter.com/search?q=CAT+2B) | N/A |
-| 32 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
-| 33 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
-| 34 | [Koster](http://twitter.com/search?q=Koster) | N/A |
-| 35 | [Usmar Ismail](http://twitter.com/search?q=Usmar+Ismail) | N/A |
-| 36 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 37 | [JENO BLONDE](http://twitter.com/search?q=JENO+BLONDE) | N/A |
-| 38 | [the scent notes d2](http://twitter.com/search?q=the+scent+notes+d2) | N/A |
-| 39 | [Kampung Kawe](http://twitter.com/search?q=Kampung+Kawe) | N/A |
-| 40 | [Win x Lazada11Year](http://twitter.com/search?q=Win+x+Lazada11Year) | N/A |
-| 41 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
-| 42 | [Siang](http://twitter.com/search?q=Siang) | N/A |
-| 43 | [Biawak](http://twitter.com/search?q=Biawak) | N/A |
-| 44 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 45 | [Puas](http://twitter.com/search?q=Puas) | N/A |
-| 46 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
-| 47 | [NCT LAB](http://twitter.com/search?q=NCT+LAB) | N/A |
-| 48 | [Pak Erick](http://twitter.com/search?q=Pak+Erick) | N/A |
-| 49 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 19 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
+| 20 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
+| 21 | [Golput](http://twitter.com/search?q=Golput) | N/A |
+| 22 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 23 | [nmixx first win](http://twitter.com/search?q=nmixx+first+win) | N/A |
+| 24 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
+| 25 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 26 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 27 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 28 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 29 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
+| 30 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
+| 31 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 32 | [Johan Budi](http://twitter.com/search?q=Johan+Budi) | N/A |
+| 33 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
+| 34 | [CAT 2B](http://twitter.com/search?q=CAT+2B) | N/A |
+| 35 | [JENO BLONDE](http://twitter.com/search?q=JENO+BLONDE) | N/A |
+| 36 | [Kampung Kawe](http://twitter.com/search?q=Kampung+Kawe) | N/A |
+| 37 | [Win x Lazada11Year](http://twitter.com/search?q=Win+x+Lazada11Year) | N/A |
+| 38 | [Puas](http://twitter.com/search?q=Puas) | N/A |
+| 39 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
+| 40 | [JUNGWON ROVER](http://twitter.com/search?q=JUNGWON+ROVER) | N/A |
+| 41 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
+| 42 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 43 | [THE SCENT NOTES D2](http://twitter.com/search?q=THE+SCENT+NOTES+D2) | N/A |
+| 44 | [ANGIN](http://twitter.com/search?q=ANGIN) | N/A |
+| 45 | [Usmar Ismail](http://twitter.com/search?q=Usmar+Ismail) | N/A |
+| 46 | [Pak Erick](http://twitter.com/search?q=Pak+Erick) | N/A |
+| 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 48 | [Arab](http://twitter.com/search?q=Arab) | N/A |
+| 49 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
 
 
 

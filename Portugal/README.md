@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-03-30 05:17:54 UTC`
+📆 Last Updated: `2023-03-30 06:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for Portugal
 | 17 | [#governomaisproximo](http://twitter.com/search?q=%23governomaisproximo) | N/A |
 | 18 | [Domingos](http://twitter.com/search?q=Domingos) | N/A |
 | 19 | [afegão](http://twitter.com/search?q=afeg%c3%a3o) | N/A |
-| 20 | [Mondego](http://twitter.com/search?q=Mondego) | N/A |
+| 20 | [mondego](http://twitter.com/search?q=mondego) | N/A |
 | 21 | [Abraço](http://twitter.com/search?q=Abra%c3%a7o) | N/A |
 | 22 | [hugo soares](http://twitter.com/search?q=hugo+soares) | N/A |
 | 23 | [Maestro](http://twitter.com/search?q=Maestro) | N/A |
 | 24 | [parabéns presidente](http://twitter.com/search?q=parab%c3%a9ns+presidente) | N/A |
 | 25 | [o messi](http://twitter.com/search?q=o+messi) | N/A |
 | 26 | [Zezinho](http://twitter.com/search?q=Zezinho) | Zezinho is a Portuguese nickname meaning "little Joe" or "little Joseph". It is commonly used as a term of endearment for someone named Joseph or for someone who is small and cute. |
-| 27 | [Escócia](http://twitter.com/search?q=Esc%c3%b3cia) | N/A |
-| 28 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 29 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 30 | [Pires](http://twitter.com/search?q=Pires) | N/A |
-| 31 | [Buda](http://twitter.com/search?q=Buda) | N/A |
-| 32 | [Indonésia](http://twitter.com/search?q=Indon%c3%a9sia) | N/A |
-| 33 | [Guga](http://twitter.com/search?q=Guga) | N/A |
-| 34 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 35 | [Carlos Moedas](http://twitter.com/search?q=Carlos+Moedas) | N/A |
-| 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 37 | [CPAS](http://twitter.com/search?q=CPAS) | N/A |
-| 38 | [Carmo](http://twitter.com/search?q=Carmo) | N/A |
+| 27 | [ESCÓCIA](http://twitter.com/search?q=ESC%c3%93CIA) | N/A |
+| 28 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 29 | [Pires](http://twitter.com/search?q=Pires) | N/A |
+| 30 | [Buda](http://twitter.com/search?q=Buda) | N/A |
+| 31 | [Indonésia](http://twitter.com/search?q=Indon%c3%a9sia) | N/A |
+| 32 | [Guga](http://twitter.com/search?q=Guga) | N/A |
+| 33 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 34 | [Carlos Moedas](http://twitter.com/search?q=Carlos+Moedas) | N/A |
+| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 36 | [CPAS](http://twitter.com/search?q=CPAS) | N/A |
+| 37 | [Carmo](http://twitter.com/search?q=Carmo) | N/A |
+| 38 | [Friends](http://twitter.com/search?q=Friends) | N/A |
 | 39 | [o psd](http://twitter.com/search?q=o+psd) | N/A |
 | 40 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 41 | [Queima](http://twitter.com/search?q=Queima) | N/A |
+| 41 | [queima](http://twitter.com/search?q=queima) | N/A |
 | 42 | [ukra](http://twitter.com/search?q=ukra) | N/A |
-| 43 | [#otriangulotvi](http://twitter.com/search?q=%23otriangulotvi) | N/A |
-| 44 | [O MP](http://twitter.com/search?q=O+MP) | N/A |
-| 45 | [Eder](http://twitter.com/search?q=Eder) | N/A |
-| 46 | [varandas](http://twitter.com/search?q=varandas) | N/A |
-| 47 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 48 | [maria joão marques](http://twitter.com/search?q=maria+jo%c3%a3o+marques) | N/A |
-| 49 | [Visão](http://twitter.com/search?q=Vis%c3%a3o) | N/A |
-| 50 | [alcochete](http://twitter.com/search?q=alcochete) | N/A |
+| 43 | [O MP](http://twitter.com/search?q=O+MP) | N/A |
+| 44 | [Eder](http://twitter.com/search?q=Eder) | N/A |
+| 45 | [varandas](http://twitter.com/search?q=varandas) | N/A |
+| 46 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 47 | [maria joão marques](http://twitter.com/search?q=maria+jo%c3%a3o+marques) | N/A |
+| 48 | [Visão](http://twitter.com/search?q=Vis%c3%a3o) | N/A |
+| 49 | [alcochete](http://twitter.com/search?q=alcochete) | N/A |
+| 50 | [mc pedrinho](http://twitter.com/search?q=mc+pedrinho) | N/A |
 
 
 

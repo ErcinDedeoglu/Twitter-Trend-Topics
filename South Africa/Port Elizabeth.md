@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-30 05:17:31 UTC`
+📆 Last Updated: `2023-03-30 06:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,49 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
 | 4 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
 | 5 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 6 | [#1lifechanginglives](http://twitter.com/search?q=%231lifechanginglives) | N/A |
+| 6 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
 | 7 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
 | 8 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
 | 9 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 10 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 11 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 12 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
-| 13 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
-| 14 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
-| 15 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
-| 16 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 17 | [lepasa](http://twitter.com/search?q=lepasa) | N/A |
-| 18 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 19 | [dr qwabe](http://twitter.com/search?q=dr+qwabe) | N/A |
-| 20 | [standard bank](http://twitter.com/search?q=standard+bank) | N/A |
+| 10 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 11 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 12 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
+| 13 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
+| 14 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
+| 15 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 16 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
+| 17 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 18 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
+| 19 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 20 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
 | 21 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
 | 22 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
-| 23 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 23 | [Naspers](http://twitter.com/search?q=Naspers) | N/A |
 | 24 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
-| 25 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 26 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
-| 27 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
-| 28 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 25 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 26 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
+| 27 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
+| 28 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
 | 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 31 | [iZwide](http://twitter.com/search?q=iZwide) | N/A |
-| 32 | [Red Chilli](http://twitter.com/search?q=Red+Chilli) | N/A |
-| 33 | [mr kgomo](http://twitter.com/search?q=mr+kgomo) | N/A |
-| 34 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 30 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
+| 31 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 32 | [UNISA](http://twitter.com/search?q=UNISA) | N/A |
+| 33 | [Red Chilli](http://twitter.com/search?q=Red+Chilli) | N/A |
+| 34 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
 | 35 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
-| 36 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 36 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 37 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 38 | [melita](http://twitter.com/search?q=melita) | N/A |
+| 38 | [BLUE AIVA THE BRAND](http://twitter.com/search?q=BLUE+AIVA+THE+BRAND) | N/A |
 | 39 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
 | 40 | [Hollywoodbets](http://twitter.com/search?q=Hollywoodbets) | N/A |
-| 41 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
-| 42 | [Naledi](http://twitter.com/search?q=Naledi) | N/A |
-| 43 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 44 | [skoroplaap](http://twitter.com/search?q=skoroplaap) | N/A |
-| 45 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 46 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 47 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
-| 48 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
-| 49 | [Unisa](http://twitter.com/search?q=Unisa) | N/A |
+| 41 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 42 | [iZwide](http://twitter.com/search?q=iZwide) | N/A |
+| 43 | [skoroplaap](http://twitter.com/search?q=skoroplaap) | N/A |
+| 44 | [Tonic Water](http://twitter.com/search?q=Tonic+Water) | N/A |
+| 45 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 46 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
+| 47 | [Lepasa](http://twitter.com/search?q=Lepasa) | N/A |
+| 48 | [fnb virtual card](http://twitter.com/search?q=fnb+virtual+card) | N/A |
 
 
 

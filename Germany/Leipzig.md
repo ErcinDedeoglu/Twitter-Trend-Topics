@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-03-30 05:17:16 UTC`
+📆 Last Updated: `2023-03-30 06:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
 | 2 | [#GERBEL](http://twitter.com/search?q=%23GERBEL) | N/A |
-| 3 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 4 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 5 | [#Bachelor](http://twitter.com/search?q=%23Bachelor) | N/A |
-| 6 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 7 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 8 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 9 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 10 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 11 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
-| 12 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 13 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 14 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
-| 15 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 16 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 17 | [Maut](http://twitter.com/search?q=Maut) | N/A |
-| 18 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 19 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
-| 20 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 21 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 22 | [Laufzeit](http://twitter.com/search?q=Laufzeit) | N/A |
-| 23 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 24 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 25 | [tradition als rb leipzig](http://twitter.com/search?q=tradition+als+rb+leipzig) | N/A |
-| 26 | [spd und fdp](http://twitter.com/search?q=spd+und+fdp) | N/A |
-| 27 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
-| 28 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
-| 29 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 30 | [sektorziele](http://twitter.com/search?q=sektorziele) | N/A |
-| 31 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 32 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
-| 33 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 34 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
-| 35 | [Frau Herrmann](http://twitter.com/search?q=Frau+Herrmann) | N/A |
-| 36 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 37 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
-| 38 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
-| 39 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 40 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
-| 41 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 42 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 43 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 44 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 45 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 46 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
-| 47 | [Sektoren](http://twitter.com/search?q=Sektoren) | N/A |
-| 48 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 49 | [Olympia](http://twitter.com/search?q=Olympia) | N/A |
+| 3 | [Schlichtung](http://twitter.com/search?q=Schlichtung) | N/A |
+| 4 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 5 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
+| 6 | [#Tarifverhandlungen](http://twitter.com/search?q=%23Tarifverhandlungen) | N/A |
+| 7 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
+| 8 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 9 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 10 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 11 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 12 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 13 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 14 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
+| 15 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 16 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
+| 17 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 18 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
+| 19 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 20 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 21 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 22 | [Maut](http://twitter.com/search?q=Maut) | N/A |
+| 23 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 24 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 25 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 26 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 27 | [Laufzeit](http://twitter.com/search?q=Laufzeit) | N/A |
+| 28 | [Guten Morgen Chris](http://twitter.com/search?q=Guten+Morgen+Chris) | N/A |
+| 29 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
+| 30 | [Polly](http://twitter.com/search?q=Polly) | N/A |
+| 31 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 32 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 33 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 34 | [Conny](http://twitter.com/search?q=Conny) | N/A |
+| 35 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
+| 36 | [Guten Morgen Kerstin](http://twitter.com/search?q=Guten+Morgen+Kerstin) | N/A |
+| 37 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 38 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
+| 39 | [Dienst](http://twitter.com/search?q=Dienst) | N/A |
+| 40 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 41 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 42 | [Angebot](http://twitter.com/search?q=Angebot) | N/A |
+| 43 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
+| 44 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 45 | [Bushaltestelle](http://twitter.com/search?q=Bushaltestelle) | N/A |
+| 46 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
+| 47 | [RB Leipzig](http://twitter.com/search?q=RB+Leipzig) | N/A |
+| 48 | [Erstmal Kaffee](http://twitter.com/search?q=Erstmal+Kaffee) | N/A |
+| 49 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
 
 
 

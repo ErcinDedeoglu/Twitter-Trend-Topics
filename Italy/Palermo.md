@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-30 05:17:17 UTC`
+📆 Last Updated: `2023-03-30 06:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,50 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AncheSeSembra](http://twitter.com/search?q=%23AncheSeSembra) | N/A |
-| 2 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
-| 3 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 4 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 5 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 6 | [campobasso](http://twitter.com/search?q=campobasso) | N/A |
-| 7 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 1 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
+| 2 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 3 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 4 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 5 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 6 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 7 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
 | 8 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 9 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 10 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
-| 11 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
-| 12 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
-| 13 | [Buongiorno Paolo](http://twitter.com/search?q=Buongiorno+Paolo) | N/A |
-| 14 | [fitto](http://twitter.com/search?q=fitto) | N/A |
-| 15 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 16 | [buongiorno eric](http://twitter.com/search?q=buongiorno+eric) | N/A |
-| 17 | [Buongiorno Simone](http://twitter.com/search?q=Buongiorno+Simone) | N/A |
-| 18 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 19 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 20 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 21 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 22 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 23 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 24 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 25 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 26 | [pnnr](http://twitter.com/search?q=pnnr) | N/A |
-| 27 | [della valle](http://twitter.com/search?q=della+valle) | N/A |
-| 28 | [mara maionchi](http://twitter.com/search?q=mara+maionchi) | N/A |
-| 29 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 30 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 9 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 10 | [Vincent van Gogh](http://twitter.com/search?q=Vincent+van+Gogh) | N/A |
+| 11 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 12 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 13 | [Buongiorno Stefany](http://twitter.com/search?q=Buongiorno+Stefany) | N/A |
+| 14 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 15 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 16 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
+| 17 | [Buongiorno Roberta](http://twitter.com/search?q=Buongiorno+Roberta) | N/A |
+| 18 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 19 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 20 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 21 | [della valle](http://twitter.com/search?q=della+valle) | N/A |
+| 22 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 23 | [mara maionchi](http://twitter.com/search?q=mara+maionchi) | N/A |
+| 24 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 25 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 26 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 27 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
+| 28 | [sentito](http://twitter.com/search?q=sentito) | N/A |
+| 29 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 30 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
 | 31 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 32 | [sentito](http://twitter.com/search?q=sentito) | N/A |
-| 33 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 34 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 35 | [Natalie Imbruglia](http://twitter.com/search?q=Natalie+Imbruglia) | N/A |
-| 36 | [nanni moretti](http://twitter.com/search?q=nanni+moretti) | N/A |
-| 37 | [pierino](http://twitter.com/search?q=pierino) | N/A |
-| 38 | [Buongiorno Davide](http://twitter.com/search?q=Buongiorno+Davide) | N/A |
-| 39 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 40 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 41 | [Palla](http://twitter.com/search?q=Palla) | N/A |
-| 42 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 43 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 32 | [Natalie Imbruglia](http://twitter.com/search?q=Natalie+Imbruglia) | N/A |
+| 33 | [nanni moretti](http://twitter.com/search?q=nanni+moretti) | N/A |
+| 34 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 35 | [Palla](http://twitter.com/search?q=Palla) | N/A |
+| 36 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 37 | [cappellini](http://twitter.com/search?q=cappellini) | N/A |
+| 38 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
+| 39 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 40 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 41 | [L'uomo](http://twitter.com/search?q=L%27uomo) | N/A |
+| 42 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
+| 43 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
 | 44 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
-| 45 | [cappellini](http://twitter.com/search?q=cappellini) | N/A |
 
 
 

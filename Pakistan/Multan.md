@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-30 05:17:35 UTC`
+📆 Last Updated: `2023-03-30 06:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#عدلیہ_کی_دشمن_ن_لیگ](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84%db%8c%db%81_%da%a9%db%8c_%d8%af%d8%b4%d9%85%d9%86_%d9%86_%d9%84%db%8c%da%af) | N/A |
-| 2 | [#حوصلے_کا_پہاڑ_عمران_خان](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%b5%d9%84%db%92_%da%a9%d8%a7_%d9%be%db%81%d8%a7%da%91_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
-| 3 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 4 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
+| 1 | [#حوصلے_کا_پہاڑ_عمران_خان](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%b5%d9%84%db%92_%da%a9%d8%a7_%d9%be%db%81%d8%a7%da%91_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
+| 2 | [#عدلیہ_کی_دشمن_ن_لیگ](http://twitter.com/search?q=%23%d8%b9%d8%af%d9%84%db%8c%db%81_%da%a9%db%8c_%d8%af%d8%b4%d9%85%d9%86_%d9%86_%d9%84%db%8c%da%af) | N/A |
+| 3 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
+| 4 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
 | 5 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
-| 6 | [Rana Tanveer](http://twitter.com/search?q=Rana+Tanveer) | N/A |
-| 7 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 8 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 9 | [jhagra](http://twitter.com/search?q=jhagra) | N/A |
-| 10 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 11 | [Kamran](http://twitter.com/search?q=Kamran) | N/A |
-| 12 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 13 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 14 | [Asia Cup](http://twitter.com/search?q=Asia+Cup) | N/A |
-| 15 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 16 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 17 | [Morne Morkel](http://twitter.com/search?q=Morne+Morkel) | N/A |
-| 18 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 19 | [Biryani](http://twitter.com/search?q=Biryani) | N/A |
-| 20 | [Kasur](http://twitter.com/search?q=Kasur) | N/A |
-| 21 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
-| 22 | [article 191](http://twitter.com/search?q=article+191) | N/A |
-| 23 | [Education Minister](http://twitter.com/search?q=Education+Minister) | N/A |
-| 24 | [Filth](http://twitter.com/search?q=Filth) | N/A |
-| 25 | [Shame](http://twitter.com/search?q=Shame) | N/A |
-| 26 | [pm shehbaz sharif](http://twitter.com/search?q=pm+shehbaz+sharif) | N/A |
-| 27 | [Drone](http://twitter.com/search?q=Drone) | N/A |
-| 28 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 6 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 7 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 8 | [Jhagra](http://twitter.com/search?q=Jhagra) | N/A |
+| 9 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 10 | [Kamran](http://twitter.com/search?q=Kamran) | N/A |
+| 11 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 12 | [Asia Cup](http://twitter.com/search?q=Asia+Cup) | N/A |
+| 13 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 14 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 15 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 16 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 17 | [Biryani](http://twitter.com/search?q=Biryani) | N/A |
+| 18 | [Kasur](http://twitter.com/search?q=Kasur) | N/A |
+| 19 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 20 | [article 191](http://twitter.com/search?q=article+191) | N/A |
+| 21 | [Filth](http://twitter.com/search?q=Filth) | N/A |
+| 22 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 23 | [Morne Morkel](http://twitter.com/search?q=Morne+Morkel) | N/A |
+| 24 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 25 | [Drone](http://twitter.com/search?q=Drone) | N/A |
+| 26 | [PeeDM](http://twitter.com/search?q=PeeDM) | N/A |
+| 27 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 28 | [Iqbal Momand](http://twitter.com/search?q=Iqbal+Momand) | N/A |
 | 29 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 30 | [Elections](http://twitter.com/search?q=Elections) | N/A |
+| 30 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
 | 31 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
-| 32 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 33 | [irfan qadir](http://twitter.com/search?q=irfan+qadir) | N/A |
-| 34 | [U Turn](http://twitter.com/search?q=U+Turn) | N/A |
-| 35 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
-| 36 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
-| 37 | [Wasim Khan](http://twitter.com/search?q=Wasim+Khan) | N/A |
-| 38 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
-| 39 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
-| 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 41 | [fawad khan](http://twitter.com/search?q=fawad+khan) | N/A |
-| 42 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 43 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
-| 44 | [Riyadh](http://twitter.com/search?q=Riyadh) | N/A |
+| 32 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 33 | [U Turn](http://twitter.com/search?q=U+Turn) | N/A |
+| 34 | [Qasim Suri](http://twitter.com/search?q=Qasim+Suri) | N/A |
+| 35 | [Wasim Khan](http://twitter.com/search?q=Wasim+Khan) | N/A |
+| 36 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
+| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 38 | [Mickey Arthur](http://twitter.com/search?q=Mickey+Arthur) | N/A |
+| 39 | [Dr. Aafia Siddiqui](http://twitter.com/search?q=Dr.+Aafia+Siddiqui) | N/A |
+| 40 | [fawad khan](http://twitter.com/search?q=fawad+khan) | N/A |
+| 41 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 42 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
+| 43 | [Riyadh](http://twitter.com/search?q=Riyadh) | N/A |
+| 44 | [Theek](http://twitter.com/search?q=Theek) | N/A |
 | 45 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 46 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 46 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 47 | [Punjabi](http://twitter.com/search?q=Punjabi) | N/A |
-| 48 | [Phir](http://twitter.com/search?q=Phir) | N/A |
-| 49 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
+| 48 | [Well Done](http://twitter.com/search?q=Well+Done) | N/A |
+| 49 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
 
 
 
