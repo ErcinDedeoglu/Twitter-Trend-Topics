@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-03-30 16:17:46 UTC`
+📆 Last Updated: `2023-03-30 17:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
 | 5 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
 | 6 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 7 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
-| 8 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
-| 9 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 10 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
-| 11 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 12 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 7 | [Elias](http://twitter.com/search?q=Elias) | N/A |
+| 8 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 9 | [Annika](http://twitter.com/search?q=Annika) | N/A |
+| 10 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
+| 11 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 12 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
 | 13 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 14 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 15 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 16 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 17 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 18 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
+| 14 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 15 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 16 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 17 | [Gewitter](http://twitter.com/search?q=Gewitter) | N/A |
+| 18 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
 | 19 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
-| 20 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 22 | [Random Gedanke](http://twitter.com/search?q=Random+Gedanke) | N/A |
-| 23 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 24 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 25 | [Schlichtung](http://twitter.com/search?q=Schlichtung) | N/A |
-| 26 | [Closeness Rating](http://twitter.com/search?q=Closeness+Rating) | N/A |
-| 27 | [maut](http://twitter.com/search?q=maut) | N/A |
+| 20 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 21 | [Random Gedanke](http://twitter.com/search?q=Random+Gedanke) | N/A |
+| 22 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
+| 23 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 24 | [Closeness Rating](http://twitter.com/search?q=Closeness+Rating) | N/A |
+| 25 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
+| 26 | [Regenbogen](http://twitter.com/search?q=Regenbogen) | N/A |
+| 27 | [Schlichtung](http://twitter.com/search?q=Schlichtung) | N/A |
 | 28 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 29 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 30 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 31 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 29 | [Briten](http://twitter.com/search?q=Briten) | N/A |
+| 30 | [Maut](http://twitter.com/search?q=Maut) | N/A |
+| 31 | [WADA](http://twitter.com/search?q=WADA) | N/A |
 | 32 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 33 | [stiko](http://twitter.com/search?q=stiko) | N/A |
-| 34 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
-| 35 | [Staatsbankett](http://twitter.com/search?q=Staatsbankett) | N/A |
+| 33 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 34 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 35 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
 | 36 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
-| 37 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 38 | [C-Probe](http://twitter.com/search?q=C-Probe) | N/A |
-| 39 | [Briten](http://twitter.com/search?q=Briten) | N/A |
-| 40 | [WADA](http://twitter.com/search?q=WADA) | N/A |
-| 41 | [tradition als rb leipzig](http://twitter.com/search?q=tradition+als+rb+leipzig) | N/A |
-| 42 | [Laufzeit](http://twitter.com/search?q=Laufzeit) | N/A |
-| 43 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 44 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 45 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
-| 46 | [Celine](http://twitter.com/search?q=Celine) | N/A |
-| 47 | [Spionage](http://twitter.com/search?q=Spionage) | N/A |
-| 48 | [Toten Hosen](http://twitter.com/search?q=Toten+Hosen) | N/A |
+| 37 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 38 | [Staatsbankett](http://twitter.com/search?q=Staatsbankett) | N/A |
+| 39 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 40 | [Meinungsfreiheit](http://twitter.com/search?q=Meinungsfreiheit) | N/A |
+| 41 | [Toten Hosen](http://twitter.com/search?q=Toten+Hosen) | N/A |
+| 42 | [tradition als rb leipzig](http://twitter.com/search?q=tradition+als+rb+leipzig) | N/A |
+| 43 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 44 | [Laufzeit](http://twitter.com/search?q=Laufzeit) | N/A |
+| 45 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
+| 46 | [C-Probe](http://twitter.com/search?q=C-Probe) | N/A |
+| 47 | [vizefreitag](http://twitter.com/search?q=vizefreitag) | N/A |
+| 48 | [Wald](http://twitter.com/search?q=Wald) | N/A |
 
 
 

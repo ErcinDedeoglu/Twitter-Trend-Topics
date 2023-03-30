@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-30 16:18:03 UTC`
+📆 Last Updated: `2023-03-30 17:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,50 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Falz](http://twitter.com/search?q=Falz) | N/A |
 | 2 | [#WomenInFood](http://twitter.com/search?q=%23WomenInFood) | N/A |
-| 3 | [National Lottery Nigeria](http://twitter.com/search?q=National+Lottery+Nigeria) | N/A |
-| 4 | [Bryann](http://twitter.com/search?q=Bryann) | N/A |
+| 3 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
+| 4 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
 | 5 | [Mr Yakubu](http://twitter.com/search?q=Mr+Yakubu) | N/A |
-| 6 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
-| 7 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
-| 8 | [2pac](http://twitter.com/search?q=2pac) | N/A |
-| 9 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
-| 10 | [African Giant](http://twitter.com/search?q=African+Giant) | N/A |
-| 11 | [#HackaholicsBabcock](http://twitter.com/search?q=%23HackaholicsBabcock) | N/A |
-| 12 | [#HealingWithMaria](http://twitter.com/search?q=%23HealingWithMaria) | N/A |
-| 13 | [Ward prowse](http://twitter.com/search?q=Ward+prowse) | N/A |
-| 14 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 15 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 16 | [Yaya Toure](http://twitter.com/search?q=Yaya+Toure) | N/A |
+| 6 | [Bryann](http://twitter.com/search?q=Bryann) | N/A |
+| 7 | [2pac](http://twitter.com/search?q=2pac) | N/A |
+| 8 | [National Lottery Nigeria](http://twitter.com/search?q=National+Lottery+Nigeria) | N/A |
+| 9 | [#GlowingSelfie](http://twitter.com/search?q=%23GlowingSelfie) | N/A |
+| 10 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 11 | [Ward prowse](http://twitter.com/search?q=Ward+prowse) | N/A |
+| 12 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 13 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 14 | [Tupac](http://twitter.com/search?q=Tupac) | N/A |
+| 15 | [African Giant](http://twitter.com/search?q=African+Giant) | N/A |
+| 16 | [TG omori](http://twitter.com/search?q=TG+omori) | N/A |
 | 17 | [Happy Doctors](http://twitter.com/search?q=Happy+Doctors) | N/A |
-| 18 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 19 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 20 | [Certificate](http://twitter.com/search?q=Certificate) | N/A |
-| 21 | [SS and SE](http://twitter.com/search?q=SS+and+SE) | N/A |
+| 18 | [Fela](http://twitter.com/search?q=Fela) | N/A |
+| 19 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 20 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 21 | [Certificate](http://twitter.com/search?q=Certificate) | N/A |
 | 22 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 23 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 24 | [Osita Chidoka](http://twitter.com/search?q=Osita+Chidoka) | N/A |
-| 25 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
-| 26 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 27 | [Director K](http://twitter.com/search?q=Director+K) | N/A |
-| 28 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 29 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 30 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
-| 31 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 32 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 33 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 34 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 35 | [BIG28 IN A BIT](http://twitter.com/search?q=BIG28+IN+A+BIT) | N/A |
-| 36 | [Unity](http://twitter.com/search?q=Unity) | N/A |
-| 37 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
-| 38 | [Blessing CEO](http://twitter.com/search?q=Blessing+CEO) | N/A |
-| 39 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 40 | [North](http://twitter.com/search?q=North) | N/A |
-| 41 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 42 | [Ngige](http://twitter.com/search?q=Ngige) | N/A |
-| 43 | [Congratulations NSPPD](http://twitter.com/search?q=Congratulations+NSPPD) | N/A |
-| 44 | [#Bholaa](http://twitter.com/search?q=%23Bholaa) | N/A |
-| 45 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 46 | [#LiquoroseBirthdayEve](http://twitter.com/search?q=%23LiquoroseBirthdayEve) | N/A |
-| 47 | [#NSPPDIS3](http://twitter.com/search?q=%23NSPPDIS3) | N/A |
+| 23 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 24 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 25 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 26 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 27 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
+| 28 | [Interim Government](http://twitter.com/search?q=Interim+Government) | N/A |
+| 29 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 30 | [Director K](http://twitter.com/search?q=Director+K) | N/A |
+| 31 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 32 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
+| 33 | [#Bholaa](http://twitter.com/search?q=%23Bholaa) | N/A |
+| 34 | [SS and SE](http://twitter.com/search?q=SS+and+SE) | N/A |
+| 35 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 36 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
+| 37 | [Unity](http://twitter.com/search?q=Unity) | N/A |
+| 38 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 39 | [North](http://twitter.com/search?q=North) | N/A |
+| 40 | [Blessing CEO](http://twitter.com/search?q=Blessing+CEO) | N/A |
+| 41 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
+| 42 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 43 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 44 | [#HackaholicsBabcock](http://twitter.com/search?q=%23HackaholicsBabcock) | N/A |
+| 45 | [#LiquoroseBirthdayEve](http://twitter.com/search?q=%23LiquoroseBirthdayEve) | N/A |
+| 46 | [#SPARK10Series](http://twitter.com/search?q=%23SPARK10Series) | N/A |
 
 
 

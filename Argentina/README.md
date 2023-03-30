@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-03-30 16:18:25 UTC`
+📆 Last Updated: `2023-03-30 17:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Martino](http://twitter.com/search?q=Martino) | N/A |
-| 2 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
-| 3 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 4 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
-| 5 | [#alabarbarrosa](http://twitter.com/search?q=%23alabarbarrosa) | N/A |
-| 6 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
-| 7 | [Diego Martinez](http://twitter.com/search?q=Diego+Martinez) | N/A |
-| 8 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 9 | [#EleccionesUnDinamo](http://twitter.com/search?q=%23EleccionesUnDinamo) | N/A |
-| 10 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
-| 11 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 12 | [Sava](http://twitter.com/search?q=Sava) | N/A |
-| 13 | [Mundial Sub 20](http://twitter.com/search?q=Mundial+Sub+20) | N/A |
-| 14 | [Cacique Medina](http://twitter.com/search?q=Cacique+Medina) | N/A |
-| 15 | [NO a Boca](http://twitter.com/search?q=NO+a+Boca) | N/A |
+| 1 | [Chiqui Tapia](http://twitter.com/search?q=Chiqui+Tapia) | N/A |
+| 2 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 3 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
+| 4 | [#EleccionesUnDinamo](http://twitter.com/search?q=%23EleccionesUnDinamo) | N/A |
+| 5 | [Gracian](http://twitter.com/search?q=Gracian) | N/A |
+| 6 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 7 | [Mundial Sub 20](http://twitter.com/search?q=Mundial+Sub+20) | N/A |
+| 8 | [Herron](http://twitter.com/search?q=Herron) | N/A |
+| 9 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
+| 10 | [#enanosdiabolicos](http://twitter.com/search?q=%23enanosdiabolicos) | N/A |
+| 11 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
+| 12 | [Román](http://twitter.com/search?q=Rom%c3%a1n) | Román is a Spanish name derived from the Latin name Romanus, which means "Roman". It is a masculine given name and can also be used as a surname. In English, it is typically pronounced "roh-MAHN". |
+| 13 | [Pekerman](http://twitter.com/search?q=Pekerman) | N/A |
+| 14 | [Sava](http://twitter.com/search?q=Sava) | N/A |
+| 15 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 16 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 17 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 19 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
-| 20 | [DT de Boca](http://twitter.com/search?q=DT+de+Boca) | N/A |
-| 21 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 22 | [Nico Paz](http://twitter.com/search?q=Nico+Paz) | Nico Paz is a Spanish phrase that translates to "Peaceful Victory". It is often used as a rallying cry for people to strive for peace and harmony in their lives. |
-| 23 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 24 | [#sociosdelespectaculo](http://twitter.com/search?q=%23sociosdelespectaculo) | N/A |
-| 25 | [Tité](http://twitter.com/search?q=Tit%c3%a9) | N/A |
-| 26 | [KUN AGÜERO](http://twitter.com/search?q=KUN+AG%c3%9cERO) | N/A |
-| 27 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 28 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 29 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 30 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 31 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 32 | [Alfaro](http://twitter.com/search?q=Alfaro) | N/A |
-| 33 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 34 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 35 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 36 | [Xeneize](http://twitter.com/search?q=Xeneize) | N/A |
-| 37 | [Consejo](http://twitter.com/search?q=Consejo) | N/A |
-| 38 | [Passarella](http://twitter.com/search?q=Passarella) | N/A |
-| 39 | [Hernan](http://twitter.com/search?q=Hernan) | N/A |
-| 40 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
-| 41 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 42 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
-| 43 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
-| 44 | [Giunta](http://twitter.com/search?q=Giunta) | N/A |
-| 45 | [Bianchi](http://twitter.com/search?q=Bianchi) | N/A |
-| 46 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
-| 47 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 48 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
-| 49 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
-| 50 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 17 | [PIPAS](http://twitter.com/search?q=PIPAS) | N/A |
+| 18 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 19 | [Diego Martinez](http://twitter.com/search?q=Diego+Martinez) | N/A |
+| 20 | [Gareca](http://twitter.com/search?q=Gareca) | N/A |
+| 21 | [Cacique Medina](http://twitter.com/search?q=Cacique+Medina) | N/A |
+| 22 | [#ESPNF90](http://twitter.com/search?q=%23ESPNF90) | N/A |
+| 23 | [Crespo](http://twitter.com/search?q=Crespo) | Crespo is a Spanish surname derived from the Latin word crescere, meaning "to grow". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "growing" or "prosperous". |
+| 24 | [DT de Boca](http://twitter.com/search?q=DT+de+Boca) | N/A |
+| 25 | [marcos en a la barbarossa](http://twitter.com/search?q=marcos+en+a+la+barbarossa) | N/A |
+| 26 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
+| 27 | [Perrone](http://twitter.com/search?q=Perrone) | Perrone is an Italian surname. It is derived from the Latin word perronus, which means "rocky". In English, it can be translated to mean "of the rocky place". |
+| 28 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
+| 29 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 30 | [NO a Boca](http://twitter.com/search?q=NO+a+Boca) | N/A |
+| 31 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 32 | [Motivo](http://twitter.com/search?q=Motivo) | N/A |
+| 33 | [#sociosdelespectaculo](http://twitter.com/search?q=%23sociosdelespectaculo) | N/A |
+| 34 | [Barracas](http://twitter.com/search?q=Barracas) | Barracas is a district in the Argentine capital of Buenos Aires. It is located in the south of the city and is known for its vibrant nightlife, its diverse population, and its traditional markets. The name Barracas comes from the Spanish word barraca, which means “hut” or “shack”. |
+| 35 | [Tité](http://twitter.com/search?q=Tit%c3%a9) | N/A |
+| 36 | [Sudamericano](http://twitter.com/search?q=Sudamericano) | N/A |
+| 37 | [Kun Agüero](http://twitter.com/search?q=Kun+Ag%c3%bcero) | N/A |
+| 38 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 39 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 40 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
+| 41 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 42 | [Guillermo](http://twitter.com/search?q=Guillermo) | N/A |
+| 43 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
+| 44 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 45 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 46 | [Xeneize](http://twitter.com/search?q=Xeneize) | N/A |
+| 47 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 48 | [Giunta](http://twitter.com/search?q=Giunta) | N/A |
+| 49 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
+| 50 | [Consejo](http://twitter.com/search?q=Consejo) | N/A |
 
 
 

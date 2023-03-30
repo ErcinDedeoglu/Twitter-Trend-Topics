@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-03-30 16:18:33 UTC`
+📆 Last Updated: `2023-03-30 17:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 2 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
-| 3 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 1 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 2 | [#aimseylook](http://twitter.com/search?q=%23aimseylook) | N/A |
+| 3 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
 | 4 | [Thomas Cashman](http://twitter.com/search?q=Thomas+Cashman) | N/A |
-| 5 | [#GothTools](http://twitter.com/search?q=%23GothTools) | N/A |
-| 6 | [Jack Diamond](http://twitter.com/search?q=Jack+Diamond) | N/A |
-| 7 | [#BVFootball](http://twitter.com/search?q=%23BVFootball) | N/A |
-| 8 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 9 | [#TomsInSongOrFilm](http://twitter.com/search?q=%23TomsInSongOrFilm) | N/A |
-| 10 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 11 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
-| 12 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 5 | [Olivia Pratt](http://twitter.com/search?q=Olivia+Pratt) | N/A |
+| 6 | [#GothTools](http://twitter.com/search?q=%23GothTools) | N/A |
+| 7 | [#bridgeoflies](http://twitter.com/search?q=%23bridgeoflies) | N/A |
+| 8 | [#BVFootball](http://twitter.com/search?q=%23BVFootball) | N/A |
+| 9 | [Jack Diamond](http://twitter.com/search?q=Jack+Diamond) | N/A |
+| 10 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 11 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 12 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
 | 13 | [Communist Party](http://twitter.com/search?q=Communist+Party) | N/A |
-| 14 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 14 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
 | 15 | [Owen Jones](http://twitter.com/search?q=Owen+Jones) | N/A |
 | 16 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 | 17 | [Upside](http://twitter.com/search?q=Upside) | N/A |
-| 18 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 19 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 20 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
-| 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 22 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 23 | [Union Flag](http://twitter.com/search?q=Union+Flag) | N/A |
-| 24 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 25 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 26 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 27 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 28 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
-| 29 | [Union Jack](http://twitter.com/search?q=Union+Jack) | N/A |
-| 30 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 31 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
-| 32 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 33 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
-| 34 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
-| 35 | [Chris Kaba](http://twitter.com/search?q=Chris+Kaba) | N/A |
-| 36 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 37 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
-| 38 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 39 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 40 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 41 | [Earl's Court](http://twitter.com/search?q=Earl%27s+Court) | N/A |
-| 42 | [Easter Bunny](http://twitter.com/search?q=Easter+Bunny) | N/A |
-| 43 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 44 | [Margaret Ferrier](http://twitter.com/search?q=Margaret+Ferrier) | N/A |
-| 45 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 46 | [Policy Exchange](http://twitter.com/search?q=Policy+Exchange) | N/A |
-| 47 | [Shapps](http://twitter.com/search?q=Shapps) | N/A |
-| 48 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
-| 49 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
-| 50 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 18 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 19 | [Seventeen](http://twitter.com/search?q=Seventeen) | N/A |
+| 20 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
+| 21 | [Gary Glitter](http://twitter.com/search?q=Gary+Glitter) | Gary Glitter is the stage name of English singer and songwriter Paul Gadd. He is best known for his glam rock hits from the 1970s, such as "Rock and Roll (Part 2)" and "I'm the Leader of the Gang (I Am)". His music has been described as a mix of pop, glam rock, and camp theatrics. The name Gary Glitter has become synonymous with controversy due to his conviction for child sexual abuse in 1999. |
+| 22 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 23 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 24 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 26 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 28 | [Union Flag](http://twitter.com/search?q=Union+Flag) | N/A |
+| 29 | [Keane](http://twitter.com/search?q=Keane) | N/A |
+| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 31 | [Serena](http://twitter.com/search?q=Serena) | N/A |
+| 32 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 33 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 34 | [Union Jack](http://twitter.com/search?q=Union+Jack) | N/A |
+| 35 | [Easter Bunny](http://twitter.com/search?q=Easter+Bunny) | N/A |
+| 36 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 37 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 38 | [Year 4](http://twitter.com/search?q=Year+4) | N/A |
+| 39 | [Chris Kaba](http://twitter.com/search?q=Chris+Kaba) | N/A |
+| 40 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 41 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 42 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
+| 43 | [Carrick](http://twitter.com/search?q=Carrick) | N/A |
+| 44 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 45 | [Earl's Court](http://twitter.com/search?q=Earl%27s+Court) | N/A |
+| 46 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
+| 47 | [Reception](http://twitter.com/search?q=Reception) | N/A |
+| 48 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 49 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
+| 50 | [Adams](http://twitter.com/search?q=Adams) | N/A |
 
 
 

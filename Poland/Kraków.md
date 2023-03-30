@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-30 16:17:42 UTC`
+📆 Last Updated: `2023-03-30 17:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#czasulicy](http://twitter.com/search?q=%23czasulicy) | N/A |
+| 1 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
 | 2 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
 | 3 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
 | 4 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 5 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 6 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
-| 7 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 8 | [Kara](http://twitter.com/search?q=Kara) | N/A |
-| 9 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 10 | [Klaps](http://twitter.com/search?q=Klaps) | N/A |
+| 5 | [daniel obajtek](http://twitter.com/search?q=daniel+obajtek) | N/A |
+| 6 | [PKN Orlen](http://twitter.com/search?q=PKN+Orlen) | N/A |
+| 7 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 8 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 9 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
+| 10 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
 | 11 | [Perugii](http://twitter.com/search?q=Perugii) | N/A |
 | 12 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 13 | [PKN Orlen](http://twitter.com/search?q=PKN+Orlen) | N/A |
-| 14 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 15 | [pkol](http://twitter.com/search?q=pkol) | N/A |
-| 16 | [Mularczyk](http://twitter.com/search?q=Mularczyk) | N/A |
-| 17 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 18 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 19 | [Bicie](http://twitter.com/search?q=Bicie) | N/A |
-| 20 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
-| 21 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 22 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
-| 23 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 24 | [aleksander zniszczoł](http://twitter.com/search?q=aleksander+zniszczo%c5%82) | N/A |
+| 13 | [Mularczyk](http://twitter.com/search?q=Mularczyk) | N/A |
+| 14 | [pkol](http://twitter.com/search?q=pkol) | N/A |
+| 15 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 16 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
+| 17 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 18 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
+| 19 | [Widzewem](http://twitter.com/search?q=Widzewem) | N/A |
+| 20 | [Rakowem](http://twitter.com/search?q=Rakowem) | N/A |
+| 21 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 22 | [aleksander zniszczoł](http://twitter.com/search?q=aleksander+zniszczo%c5%82) | N/A |
+| 23 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
+| 24 | [Kara](http://twitter.com/search?q=Kara) | N/A |
 | 25 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 26 | [Klaps](http://twitter.com/search?q=Klaps) | N/A |
 | 27 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 28 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
-| 29 | [Memcen](http://twitter.com/search?q=Memcen) | N/A |
+| 28 | [Bicie](http://twitter.com/search?q=Bicie) | N/A |
+| 29 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
 | 30 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
 | 31 | [Logika](http://twitter.com/search?q=Logika) | N/A |
-| 32 | [Serdecznie](http://twitter.com/search?q=Serdecznie) | N/A |
-| 33 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
-| 34 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 35 | [Gaviego](http://twitter.com/search?q=Gaviego) | N/A |
-| 36 | [Anze Lanisek](http://twitter.com/search?q=Anze+Lanisek) | N/A |
+| 32 | [Memcen](http://twitter.com/search?q=Memcen) | N/A |
+| 33 | [Göringa](http://twitter.com/search?q=G%c3%b6ringa) | N/A |
+| 34 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 35 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
+| 36 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
 | 37 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 38 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
-| 39 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 40 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 41 | [Izery](http://twitter.com/search?q=Izery) | N/A |
-| 42 | [Grodzkiego](http://twitter.com/search?q=Grodzkiego) | N/A |
-| 43 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
-| 44 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 45 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
-| 46 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
-| 47 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
-| 48 | [Kowalczyk](http://twitter.com/search?q=Kowalczyk) | N/A |
+| 38 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
+| 39 | [Anze Lanisek](http://twitter.com/search?q=Anze+Lanisek) | N/A |
+| 40 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
+| 41 | [Kowalczyk](http://twitter.com/search?q=Kowalczyk) | N/A |
+| 42 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 43 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 44 | [Grodzkiego](http://twitter.com/search?q=Grodzkiego) | N/A |
+| 45 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
+| 46 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 47 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
+| 48 | [Marcina Wolfa](http://twitter.com/search?q=Marcina+Wolfa) | N/A |
 
 
 

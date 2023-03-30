@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-30 16:18:30 UTC`
+📆 Last Updated: `2023-03-30 17:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Billie](http://twitter.com/search?q=Billie) | N/A |
-| 2 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [#KornoDiluvio](http://twitter.com/search?q=%23KornoDiluvio) | N/A |
-| 5 | [#FueElEstado](http://twitter.com/search?q=%23FueElEstado) | N/A |
-| 6 | [#PoderosoPepino](http://twitter.com/search?q=%23PoderosoPepino) | N/A |
-| 7 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
-| 8 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 9 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
-| 10 | [Consejo de la Comunicación](http://twitter.com/search?q=Consejo+de+la+Comunicaci%c3%b3n) | N/A |
-| 11 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 12 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 13 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
-| 14 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 15 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 16 | [Walter Gaitán](http://twitter.com/search?q=Walter+Gait%c3%a1n) | N/A |
-| 17 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 18 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
-| 19 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 20 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 21 | [Adán Augusto](http://twitter.com/search?q=Ad%c3%a1n+Augusto) | N/A |
-| 22 | [Edmundo Jacobo](http://twitter.com/search?q=Edmundo+Jacobo) | N/A |
-| 23 | [Francisco Casanueva Pérez](http://twitter.com/search?q=Francisco+Casanueva+P%c3%a9rez) | N/A |
-| 24 | [Guardería ABC](http://twitter.com/search?q=Guarder%c3%ada+ABC) | N/A |
-| 25 | [Burak](http://twitter.com/search?q=Burak) | N/A |
-| 26 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 27 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 28 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 29 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 30 | [Gómez Farías](http://twitter.com/search?q=G%c3%b3mez+Far%c3%adas) | N/A |
-| 31 | [Escoboza](http://twitter.com/search?q=Escoboza) | N/A |
-| 32 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 33 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
-| 34 | [Chihuahua](http://twitter.com/search?q=Chihuahua) | N/A |
-| 35 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 36 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 37 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 38 | [Mariana Rdz](http://twitter.com/search?q=Mariana+Rdz) | N/A |
-| 39 | [Crimen de Estado](http://twitter.com/search?q=Crimen+de+Estado) | N/A |
-| 40 | [happy birthday chaeunwoo](http://twitter.com/search?q=happy+birthday+chaeunwoo) | N/A |
-| 41 | [Joey Meneses](http://twitter.com/search?q=Joey+Meneses) | N/A |
-| 42 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 43 | [Gobernación](http://twitter.com/search?q=Gobernaci%c3%b3n) | N/A |
-| 44 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
-| 45 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 46 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
-| 47 | [omar mendoza](http://twitter.com/search?q=omar+mendoza) | N/A |
-| 48 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 49 | [Miserable](http://twitter.com/search?q=Miserable) | N/A |
-| 50 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
+| 1 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 3 | [#PoderosoPepino](http://twitter.com/search?q=%23PoderosoPepino) | N/A |
+| 4 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 5 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
+| 6 | [#BeisEnPlaydoit](http://twitter.com/search?q=%23BeisEnPlaydoit) | N/A |
+| 7 | [Línea 3](http://twitter.com/search?q=L%c3%adnea+3) | Línea 3 is a metro line in Mexico City. It is the third line of the Mexico City Metro system, and it runs from Indios Verdes to Universidad. In English, "Línea 3" translates to "Line 3". |
+| 8 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 9 | [Walter Gaitán](http://twitter.com/search?q=Walter+Gait%c3%a1n) | N/A |
+| 10 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 11 | [Consejo de la Comunicación](http://twitter.com/search?q=Consejo+de+la+Comunicaci%c3%b3n) | N/A |
+| 12 | [Indios Verdes](http://twitter.com/search?q=Indios+Verdes) | N/A |
+| 13 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 14 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 15 | [Burak](http://twitter.com/search?q=Burak) | N/A |
+| 16 | [Billie](http://twitter.com/search?q=Billie) | N/A |
+| 17 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 18 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 19 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 20 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 22 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
+| 23 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 24 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
+| 25 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 26 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
+| 27 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 28 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
+| 29 | [#SuperMarioBrosLaPelicula](http://twitter.com/search?q=%23SuperMarioBrosLaPelicula) | N/A |
+| 30 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 31 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 32 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 33 | [#MetroCDMX](http://twitter.com/search?q=%23MetroCDMX) | #MetroCDMX is a hashtag used on social media to refer to the Mexico City Metro, the public transportation system in Mexico City. In English, it stands for "Mexico City Metro". |
+| 34 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 35 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 36 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 37 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 38 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-03-30 16:18:00 UTC`
+📆 Last Updated: `2023-03-30 17:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
-| 2 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
-| 3 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
-| 4 | [#SVT_APRIL_COMEBACK](http://twitter.com/search?q=%23SVT_APRIL_COMEBACK) | N/A |
-| 5 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 6 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
-| 7 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
-| 8 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 9 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 1 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 2 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
+| 3 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
+| 4 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
+| 5 | [#SVT_APRIL_COMEBACK](http://twitter.com/search?q=%23SVT_APRIL_COMEBACK) | N/A |
+| 6 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
+| 7 | [WELCOME TO PARIS](http://twitter.com/search?q=WELCOME+TO+PARIS) | N/A |
+| 8 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 9 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
 | 10 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
-| 11 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
-| 12 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 13 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
-| 14 | [AESPA TETRIS OST](http://twitter.com/search?q=AESPA+TETRIS+OST) | N/A |
-| 15 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
+| 11 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 12 | [PLUUS MINI ALBUM DEBUT](http://twitter.com/search?q=PLUUS+MINI+ALBUM+DEBUT) | N/A |
+| 13 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 14 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
+| 15 | [Finding My Life](http://twitter.com/search?q=Finding+My+Life) | N/A |
 | 16 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
-| 17 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
-| 18 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 19 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
-| 20 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 21 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
-| 22 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 23 | [Finals MVP](http://twitter.com/search?q=Finals+MVP) | N/A |
-| 24 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 17 | [Moira OutNow](http://twitter.com/search?q=Moira+OutNow) | N/A |
+| 18 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
+| 19 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 20 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
+| 21 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
+| 22 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 23 | [Prom King and Queen](http://twitter.com/search?q=Prom+King+and+Queen) | N/A |
+| 24 | [SENIOR PRINCESS VIVOREE](http://twitter.com/search?q=SENIOR+PRINCESS+VIVOREE) | N/A |
 | 25 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
-| 26 | [Road to D-DAY](http://twitter.com/search?q=Road+to+D-DAY) | N/A |
+| 26 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
 | 27 | [SOLOIST JISOO](http://twitter.com/search?q=SOLOIST+JISOO) | N/A |
-| 28 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 29 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
+| 28 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 29 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 | 30 | [BeckFreen](http://twitter.com/search?q=BeckFreen) | N/A |
-| 31 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
+| 31 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
 | 32 | [Best MB](http://twitter.com/search?q=Best+MB) | N/A |
-| 33 | [SENIOR PRINCESS VIVOREE](http://twitter.com/search?q=SENIOR+PRINCESS+VIVOREE) | N/A |
-| 34 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
-| 35 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
-| 36 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 37 | [bogum](http://twitter.com/search?q=bogum) | N/A |
-| 38 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
-| 39 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
-| 40 | [Lee Seunghwan](http://twitter.com/search?q=Lee+Seunghwan) | N/A |
-| 41 | [EDWARD PROMising HOST](http://twitter.com/search?q=EDWARD+PROMising+HOST) | N/A |
-| 42 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
-| 43 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
-| 44 | [gowon](http://twitter.com/search?q=gowon) | N/A |
-| 45 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 46 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
-| 47 | [Congratulations CCS](http://twitter.com/search?q=Congratulations+CCS) | N/A |
-| 48 | [Tyang](http://twitter.com/search?q=Tyang) | N/A |
-| 49 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
-| 50 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 33 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 34 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 35 | [EDWARD PROMising HOST](http://twitter.com/search?q=EDWARD+PROMising+HOST) | N/A |
+| 36 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 37 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
+| 38 | [risa sato](http://twitter.com/search?q=risa+sato) | N/A |
+| 39 | [HORI7ON 1st Prom](http://twitter.com/search?q=HORI7ON+1st+Prom) | N/A |
+| 40 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 41 | [gowon](http://twitter.com/search?q=gowon) | N/A |
+| 42 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 43 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
+| 44 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
+| 45 | [Congratulations CCS](http://twitter.com/search?q=Congratulations+CCS) | N/A |
+| 46 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 47 | [Tyang](http://twitter.com/search?q=Tyang) | N/A |
+| 48 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 49 | [ALJAY PROMinent Tonight](http://twitter.com/search?q=ALJAY+PROMinent+Tonight) | N/A |
+| 50 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
 
 
 

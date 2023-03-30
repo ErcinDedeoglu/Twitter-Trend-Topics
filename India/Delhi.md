@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-03-30 16:18:24 UTC`
+📆 Last Updated: `2023-03-30 17:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 2 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 3 | [#KarTaiyaari](http://twitter.com/search?q=%23KarTaiyaari) | N/A |
-| 4 | [DEBUTANT TEJASSWI AT FILMFARE](http://twitter.com/search?q=DEBUTANT+TEJASSWI+AT+FILMFARE) | N/A |
-| 5 | [#NewParliamentBuilding](http://twitter.com/search?q=%23NewParliamentBuilding) | N/A |
-| 6 | [#ElectionsWithPradeep](http://twitter.com/search?q=%23ElectionsWithPradeep) | N/A |
-| 7 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 8 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
-| 9 | [#दैनिक_भास्कर_दलाल_है](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%88%e0%a4%a8%e0%a4%bf%e0%a4%95_%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0_%e0%a4%a6%e0%a4%b2%e0%a4%be%e0%a4%b2_%e0%a4%b9%e0%a5%88) | N/A |
-| 10 | [Akash Singh](http://twitter.com/search?q=Akash+Singh) | N/A |
-| 11 | [Surprise](http://twitter.com/search?q=Surprise) | N/A |
+| 1 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 2 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 3 | [#NewParliamentBuilding](http://twitter.com/search?q=%23NewParliamentBuilding) | N/A |
+| 4 | [#FanBanJaoge](http://twitter.com/search?q=%23FanBanJaoge) | N/A |
+| 5 | [#VaadiVaasal](http://twitter.com/search?q=%23VaadiVaasal) | N/A |
+| 6 | [DEBUTANT TEJASSWI AT FILMFARE](http://twitter.com/search?q=DEBUTANT+TEJASSWI+AT+FILMFARE) | N/A |
+| 7 | [#Rolex](http://twitter.com/search?q=%23Rolex) | N/A |
+| 8 | [#Howrah](http://twitter.com/search?q=%23Howrah) | N/A |
+| 9 | [Akash Singh](http://twitter.com/search?q=Akash+Singh) | N/A |
+| 10 | [Surprise](http://twitter.com/search?q=Surprise) | N/A |
+| 11 | [Fanaa](http://twitter.com/search?q=Fanaa) | N/A |
 | 12 | [Mukesh Choudhary](http://twitter.com/search?q=Mukesh+Choudhary) | N/A |
-| 13 | [BHOLAA CINEMAS MEIN](http://twitter.com/search?q=BHOLAA+CINEMAS+MEIN) | N/A |
-| 14 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
-| 15 | [Where is Rohit](http://twitter.com/search?q=Where+is+Rohit) | N/A |
-| 16 | [SSR Working On Many Projects](http://twitter.com/search?q=SSR+Working+On+Many+Projects) | N/A |
-| 17 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 18 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 19 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 20 | [त्रिपुरा विधानसभा](http://twitter.com/search?q=%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 21 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 22 | [Fanaa](http://twitter.com/search?q=Fanaa) | N/A |
-| 23 | [पश्चिम बंगाल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b2) | N/A |
-| 24 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 25 | [ms dhoni](http://twitter.com/search?q=ms+dhoni) | N/A |
-| 26 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
-| 27 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 28 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 29 | [महादेव मंदिर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 30 | [PADHARO RAM LALLA](http://twitter.com/search?q=PADHARO+RAM+LALLA) | N/A |
-| 31 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
-| 32 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 33 | [Shree Ram](http://twitter.com/search?q=Shree+Ram) | N/A |
-| 34 | [Ajay Devgn](http://twitter.com/search?q=Ajay+Devgn) | N/A |
-| 35 | [Sita](http://twitter.com/search?q=Sita) | N/A |
-| 36 | [#Howrah](http://twitter.com/search?q=%23Howrah) | N/A |
-| 37 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
-| 38 | [#FanBanJaoge](http://twitter.com/search?q=%23FanBanJaoge) | N/A |
-| 39 | [#DelhiRains](http://twitter.com/search?q=%23DelhiRains) | N/A |
-| 40 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
-| 41 | [#Modi_Hatao_Desh_Bachao](http://twitter.com/search?q=%23Modi_Hatao_Desh_Bachao) | N/A |
+| 13 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 14 | [Where is Rohit](http://twitter.com/search?q=Where+is+Rohit) | N/A |
+| 15 | [Rutu](http://twitter.com/search?q=Rutu) | N/A |
+| 16 | [त्रिपुरा विधानसभा](http://twitter.com/search?q=%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a5%81%e0%a4%b0%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 17 | [SSR Working On Many Projects](http://twitter.com/search?q=SSR+Working+On+Many+Projects) | N/A |
+| 18 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 19 | [Seventeen](http://twitter.com/search?q=Seventeen) | N/A |
+| 20 | [BJP MLA](http://twitter.com/search?q=BJP+MLA) | N/A |
+| 21 | [पश्चिम बंगाल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b2) | N/A |
+| 22 | [महादेव मंदिर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 23 | [Entry](http://twitter.com/search?q=Entry) | N/A |
+| 24 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 25 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 26 | [Rohit Sharma](http://twitter.com/search?q=Rohit+Sharma) | N/A |
+| 27 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 28 | [West Bengal](http://twitter.com/search?q=West+Bengal) | N/A |
+| 29 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
+| 30 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 31 | [PADHARO RAM LALLA](http://twitter.com/search?q=PADHARO+RAM+LALLA) | N/A |
+| 32 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 33 | [#VikatanAwards](http://twitter.com/search?q=%23VikatanAwards) | N/A |
+| 34 | [#KarTaiyaari](http://twitter.com/search?q=%23KarTaiyaari) | N/A |
+| 35 | [#AVCinemaAwards](http://twitter.com/search?q=%23AVCinemaAwards) | N/A |
+| 36 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
+| 37 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 38 | [#Virushka](http://twitter.com/search?q=%23Virushka) | N/A |
+| 39 | [#ElectionsWithPradeep](http://twitter.com/search?q=%23ElectionsWithPradeep) | N/A |
+| 40 | [#दैनिक_भास्कर_दलाल_है](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%88%e0%a4%a8%e0%a4%bf%e0%a4%95_%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0_%e0%a4%a6%e0%a4%b2%e0%a4%be%e0%a4%b2_%e0%a4%b9%e0%a5%88) | N/A |
+| 41 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
 | 42 | [#Vadodara](http://twitter.com/search?q=%23Vadodara) | N/A |
-| 43 | [#PathuThalaBlockBuster](http://twitter.com/search?q=%23PathuThalaBlockBuster) | N/A |
-| 44 | [#rungtasteeltmtbars](http://twitter.com/search?q=%23rungtasteeltmtbars) | N/A |
-| 45 | [#Indoretemple](http://twitter.com/search?q=%23Indoretemple) | N/A |
-| 46 | [#Dasarareview](http://twitter.com/search?q=%23Dasarareview) | N/A |
-| 47 | [#RTHझूठकापुलिंदा](http://twitter.com/search?q=%23RTH%e0%a4%9d%e0%a5%82%e0%a4%a0%e0%a4%95%e0%a4%be%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a4%be) | N/A |
-| 48 | [#CitadelOnPrime](http://twitter.com/search?q=%23CitadelOnPrime) | N/A |
-| 49 | [#Parliamentofindia](http://twitter.com/search?q=%23Parliamentofindia) | N/A |
-| 50 | [#SambhajiNagar](http://twitter.com/search?q=%23SambhajiNagar) | N/A |
+| 43 | [#Modi_Hatao_Desh_Bachao](http://twitter.com/search?q=%23Modi_Hatao_Desh_Bachao) | N/A |
+| 44 | [#DelhiRains](http://twitter.com/search?q=%23DelhiRains) | N/A |
+| 45 | [#Simhadri4K](http://twitter.com/search?q=%23Simhadri4K) | N/A |
+| 46 | [#CSKvGT](http://twitter.com/search?q=%23CSKvGT) | N/A |
+| 47 | [#MasterChefIndia](http://twitter.com/search?q=%23MasterChefIndia) | N/A |
+| 48 | [#Sambhajinagar](http://twitter.com/search?q=%23Sambhajinagar) | N/A |
+| 49 | [#PathuThalaBlockBuster](http://twitter.com/search?q=%23PathuThalaBlockBuster) | N/A |
+| 50 | [#Indoretemple](http://twitter.com/search?q=%23Indoretemple) | N/A |
 
 
 

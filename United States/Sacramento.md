@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-30 16:18:22 UTC`
+📆 Last Updated: `2023-03-30 17:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
 | 3 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
 | 4 | [#ITFDB](http://twitter.com/search?q=%23ITFDB) | N/A |
-| 5 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 6 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 7 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 8 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 9 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 10 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 11 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 12 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 13 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 14 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 15 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 16 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 17 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 18 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
-| 19 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
-| 20 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
-| 21 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 22 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 23 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 24 | [Forsyth Tech](http://twitter.com/search?q=Forsyth+Tech) | N/A |
-| 25 | [Fort Campbell](http://twitter.com/search?q=Fort+Campbell) | N/A |
-| 26 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 27 | [Darth](http://twitter.com/search?q=Darth) | N/A |
-| 28 | [Happy Opening](http://twitter.com/search?q=Happy+Opening) | N/A |
-| 29 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 30 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 31 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 32 | [Marlo](http://twitter.com/search?q=Marlo) | N/A |
-| 33 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 34 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 35 | [Sheree](http://twitter.com/search?q=Sheree) | N/A |
-| 36 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 37 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 38 | [Dick Lovelady](http://twitter.com/search?q=Dick+Lovelady) | N/A |
-| 39 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 40 | [Go Sox](http://twitter.com/search?q=Go+Sox) | N/A |
-| 41 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 42 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 43 | [Happy Doctors](http://twitter.com/search?q=Happy+Doctors) | N/A |
-| 44 | [Matt Beaty](http://twitter.com/search?q=Matt+Beaty) | N/A |
-| 45 | [Asante](http://twitter.com/search?q=Asante) | N/A |
-| 46 | [Burry](http://twitter.com/search?q=Burry) | N/A |
-| 47 | [H.R. 1](http://twitter.com/search?q=H.R.+1) | N/A |
-| 48 | [Michael Cera](http://twitter.com/search?q=Michael+Cera) | N/A |
-| 49 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 50 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 5 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
+| 6 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 7 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 8 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 9 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 11 | [#lfgsd](http://twitter.com/search?q=%23lfgsd) | N/A |
+| 12 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 13 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 14 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 15 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 16 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 17 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 18 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 19 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 20 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 21 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 22 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
+| 23 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 24 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 25 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 26 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 27 | [Night 2](http://twitter.com/search?q=Night+2) | N/A |
+| 28 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 29 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
+| 30 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 31 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
+| 32 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 33 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 34 | [Sheree](http://twitter.com/search?q=Sheree) | N/A |
+| 35 | [Seventeen](http://twitter.com/search?q=Seventeen) | N/A |
+| 36 | [Darth](http://twitter.com/search?q=Darth) | N/A |
+| 37 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 38 | [Marlo](http://twitter.com/search?q=Marlo) | N/A |
+| 39 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 40 | [Forsyth Tech](http://twitter.com/search?q=Forsyth+Tech) | N/A |
+| 41 | [Arson Judge](http://twitter.com/search?q=Arson+Judge) | N/A |
+| 42 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 43 | [Happy Opening](http://twitter.com/search?q=Happy+Opening) | N/A |
+| 44 | [Fort Campbell](http://twitter.com/search?q=Fort+Campbell) | N/A |
+| 45 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 46 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 47 | [Welcome to the Black Parade](http://twitter.com/search?q=Welcome+to+the+Black+Parade) | N/A |
+| 48 | [Jake Merklinger](http://twitter.com/search?q=Jake+Merklinger) | N/A |
+| 49 | [H.R. 1](http://twitter.com/search?q=H.R.+1) | N/A |
+| 50 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
 
 
 

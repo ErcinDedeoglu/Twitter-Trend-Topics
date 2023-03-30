@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-30 16:17:43 UTC`
+📆 Last Updated: `2023-03-30 17:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#czasulicy](http://twitter.com/search?q=%23czasulicy) | N/A |
+| 1 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
 | 2 | [#CLVolleyM](http://twitter.com/search?q=%23CLVolleyM) | N/A |
 | 3 | [#mojkumpelWA](http://twitter.com/search?q=%23mojkumpelWA) | N/A |
-| 4 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 5 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
-| 6 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 7 | [#stuckwithyouap](http://twitter.com/search?q=%23stuckwithyouap) | N/A |
-| 8 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
-| 9 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 10 | [Kara](http://twitter.com/search?q=Kara) | N/A |
-| 11 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 12 | [Klaps](http://twitter.com/search?q=Klaps) | N/A |
+| 4 | [#NieOddamyWarszawy](http://twitter.com/search?q=%23NieOddamyWarszawy) | N/A |
+| 5 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 6 | [daniel obajtek](http://twitter.com/search?q=daniel+obajtek) | N/A |
+| 7 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
+| 8 | [PKN Orlen](http://twitter.com/search?q=PKN+Orlen) | N/A |
+| 9 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 10 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 11 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
+| 12 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
 | 13 | [Perugii](http://twitter.com/search?q=Perugii) | N/A |
 | 14 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 15 | [PKN Orlen](http://twitter.com/search?q=PKN+Orlen) | N/A |
-| 16 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 17 | [pkol](http://twitter.com/search?q=pkol) | N/A |
-| 18 | [Mularczyk](http://twitter.com/search?q=Mularczyk) | N/A |
-| 19 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 20 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 21 | [Bicie](http://twitter.com/search?q=Bicie) | N/A |
-| 22 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
-| 23 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 24 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
-| 25 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 26 | [aleksander zniszczoł](http://twitter.com/search?q=aleksander+zniszczo%c5%82) | N/A |
+| 15 | [Mularczyk](http://twitter.com/search?q=Mularczyk) | N/A |
+| 16 | [pkol](http://twitter.com/search?q=pkol) | N/A |
+| 17 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 18 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
+| 19 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 20 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
+| 21 | [Widzewem](http://twitter.com/search?q=Widzewem) | N/A |
+| 22 | [Rakowem](http://twitter.com/search?q=Rakowem) | N/A |
+| 23 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 24 | [aleksander zniszczoł](http://twitter.com/search?q=aleksander+zniszczo%c5%82) | N/A |
+| 25 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
+| 26 | [Kara](http://twitter.com/search?q=Kara) | N/A |
 | 27 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 28 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 28 | [Klaps](http://twitter.com/search?q=Klaps) | N/A |
 | 29 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 30 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
-| 31 | [Memcen](http://twitter.com/search?q=Memcen) | N/A |
+| 30 | [Bicie](http://twitter.com/search?q=Bicie) | N/A |
+| 31 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
 | 32 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
 | 33 | [Logika](http://twitter.com/search?q=Logika) | N/A |
-| 34 | [Serdecznie](http://twitter.com/search?q=Serdecznie) | N/A |
-| 35 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
-| 36 | [Aborcja](http://twitter.com/search?q=Aborcja) | N/A |
-| 37 | [Gaviego](http://twitter.com/search?q=Gaviego) | N/A |
-| 38 | [Anze Lanisek](http://twitter.com/search?q=Anze+Lanisek) | N/A |
+| 34 | [Memcen](http://twitter.com/search?q=Memcen) | N/A |
+| 35 | [Göringa](http://twitter.com/search?q=G%c3%b6ringa) | N/A |
+| 36 | [Warta](http://twitter.com/search?q=Warta) | N/A |
+| 37 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
+| 38 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
 | 39 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 40 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
-| 41 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 42 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 43 | [Izery](http://twitter.com/search?q=Izery) | N/A |
-| 44 | [Grodzkiego](http://twitter.com/search?q=Grodzkiego) | N/A |
-| 45 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
-| 46 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 47 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
-| 48 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
-| 49 | [Kowalczyk](http://twitter.com/search?q=Kowalczyk) | N/A |
-| 50 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
+| 40 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
+| 41 | [Anze Lanisek](http://twitter.com/search?q=Anze+Lanisek) | N/A |
+| 42 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
+| 43 | [Kowalczyk](http://twitter.com/search?q=Kowalczyk) | N/A |
+| 44 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 45 | [ansu](http://twitter.com/search?q=ansu) | N/A |
+| 46 | [Grodzkiego](http://twitter.com/search?q=Grodzkiego) | N/A |
+| 47 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
+| 48 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 49 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
+| 50 | [Marcina Wolfa](http://twitter.com/search?q=Marcina+Wolfa) | N/A |
 
 
 

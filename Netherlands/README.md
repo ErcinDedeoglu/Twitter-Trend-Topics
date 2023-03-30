@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-03-30 16:18:30 UTC`
+📆 Last Updated: `2023-03-30 17:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 2 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 3 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 4 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
-| 5 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 6 | [#aedm](http://twitter.com/search?q=%23aedm) | N/A |
-| 7 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
-| 8 | [Floor de Man](http://twitter.com/search?q=Floor+de+Man) | N/A |
-| 9 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
-| 10 | [#ratw](http://twitter.com/search?q=%23ratw) | N/A |
-| 11 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 13 | [#DDV23](http://twitter.com/search?q=%23DDV23) | N/A |
-| 14 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
-| 15 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
-| 16 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 17 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 18 | [Egbers](http://twitter.com/search?q=Egbers) | N/A |
-| 19 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 2 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 3 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 4 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 5 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
+| 6 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
+| 7 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 8 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
+| 9 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 10 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 11 | [#aedm](http://twitter.com/search?q=%23aedm) | N/A |
+| 12 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
+| 13 | [Nijlpaard](http://twitter.com/search?q=Nijlpaard) | N/A |
+| 14 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 16 | [Floor de Man](http://twitter.com/search?q=Floor+de+Man) | N/A |
+| 17 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
+| 18 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
+| 19 | [0% BTW](http://twitter.com/search?q=0%25+BTW) | N/A |
 | 20 | [van gelder](http://twitter.com/search?q=van+gelder) | N/A |
 | 21 | [Treets](http://twitter.com/search?q=Treets) | N/A |
 | 22 | [Aïcha Marghadi](http://twitter.com/search?q=A%c3%afcha+Marghadi) | N/A |
-| 23 | [eerdmans](http://twitter.com/search?q=eerdmans) | N/A |
-| 24 | [Biesbosch](http://twitter.com/search?q=Biesbosch) | N/A |
-| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 26 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
-| 27 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
-| 28 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 29 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
-| 30 | [Hamers](http://twitter.com/search?q=Hamers) | N/A |
-| 31 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
-| 32 | [0% BTW](http://twitter.com/search?q=0%25+BTW) | N/A |
-| 33 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
-| 34 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
-| 35 | [Maarten van Ooijen](http://twitter.com/search?q=Maarten+van+Ooijen) | N/A |
-| 36 | [Nanninga](http://twitter.com/search?q=Nanninga) | N/A |
-| 37 | [Duits](http://twitter.com/search?q=Duits) | N/A |
-| 38 | [De Belastingdienst](http://twitter.com/search?q=De+Belastingdienst) | N/A |
-| 39 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
-| 40 | [Samson](http://twitter.com/search?q=Samson) | N/A |
-| 41 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 42 | [Mogadishu](http://twitter.com/search?q=Mogadishu) | N/A |
-| 43 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
-| 44 | [Tiki](http://twitter.com/search?q=Tiki) | N/A |
+| 23 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
+| 24 | [Egbers](http://twitter.com/search?q=Egbers) | N/A |
+| 25 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
+| 26 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
+| 27 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
+| 28 | [hamers](http://twitter.com/search?q=hamers) | N/A |
+| 29 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
+| 30 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
+| 31 | [Maarten van Ooijen](http://twitter.com/search?q=Maarten+van+Ooijen) | N/A |
+| 32 | [Gerrit](http://twitter.com/search?q=Gerrit) | N/A |
+| 33 | [Nederlandse](http://twitter.com/search?q=Nederlandse) | N/A |
+| 34 | [Duits](http://twitter.com/search?q=Duits) | N/A |
+| 35 | [De Belastingdienst](http://twitter.com/search?q=De+Belastingdienst) | N/A |
+| 36 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 37 | [Wim de Bie](http://twitter.com/search?q=Wim+de+Bie) | N/A |
+| 38 | [Mogadishu](http://twitter.com/search?q=Mogadishu) | N/A |
+| 39 | [Tiki](http://twitter.com/search?q=Tiki) | N/A |
+| 40 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
+| 41 | [Nanninga](http://twitter.com/search?q=Nanninga) | N/A |
+| 42 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
+| 43 | [agema](http://twitter.com/search?q=agema) | N/A |
+| 44 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 45 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 46 | [Irak in 2016](http://twitter.com/search?q=Irak+in+2016) | N/A |
-| 47 | [Van Dissel](http://twitter.com/search?q=Van+Dissel) | N/A |
-| 48 | [The Voice](http://twitter.com/search?q=The+Voice) | N/A |
-| 49 | [Oost-Nederland](http://twitter.com/search?q=Oost-Nederland) | N/A |
-| 50 | [Weerwind](http://twitter.com/search?q=Weerwind) | N/A |
+| 46 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
+| 47 | [Oostenrijk](http://twitter.com/search?q=Oostenrijk) | N/A |
+| 48 | [Stopera](http://twitter.com/search?q=Stopera) | N/A |
+| 49 | [Irak in 2016](http://twitter.com/search?q=Irak+in+2016) | N/A |
+| 50 | [Austria](http://twitter.com/search?q=Austria) | N/A |
 
 
 

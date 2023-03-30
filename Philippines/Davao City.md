@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-03-30 16:18:00 UTC`
+📆 Last Updated: `2023-03-30 17:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
 | 3 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
 | 4 | [#SVT_APRIL_COMEBACK](http://twitter.com/search?q=%23SVT_APRIL_COMEBACK) | N/A |
-| 5 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 6 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
-| 7 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 8 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 5 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
+| 6 | [WELCOME TO PARIS](http://twitter.com/search?q=WELCOME+TO+PARIS) | N/A |
+| 7 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 8 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
 | 9 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
-| 10 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 11 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
-| 12 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
-| 13 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
-| 14 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
-| 15 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
-| 16 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 17 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
-| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 10 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 11 | [PLUUS MINI ALBUM DEBUT](http://twitter.com/search?q=PLUUS+MINI+ALBUM+DEBUT) | N/A |
+| 12 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 13 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
+| 14 | [Finding My Life](http://twitter.com/search?q=Finding+My+Life) | N/A |
+| 15 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
+| 16 | [Moira OutNow](http://twitter.com/search?q=Moira+OutNow) | N/A |
+| 17 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
+| 18 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 | 19 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
-| 20 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 21 | [Finals MVP](http://twitter.com/search?q=Finals+MVP) | N/A |
-| 22 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 23 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
-| 24 | [Road to D-DAY](http://twitter.com/search?q=Road+to+D-DAY) | N/A |
-| 25 | [SOLOIST JISOO](http://twitter.com/search?q=SOLOIST+JISOO) | N/A |
-| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 27 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 28 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
-| 29 | [BeckFreen](http://twitter.com/search?q=BeckFreen) | N/A |
-| 30 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
-| 31 | [Best MB](http://twitter.com/search?q=Best+MB) | N/A |
-| 32 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
-| 33 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
-| 34 | [bogum](http://twitter.com/search?q=bogum) | N/A |
-| 35 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
-| 36 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
-| 37 | [Lee Seunghwan](http://twitter.com/search?q=Lee+Seunghwan) | N/A |
-| 38 | [SENIOR PRINCESS VIVOREE](http://twitter.com/search?q=SENIOR+PRINCESS+VIVOREE) | N/A |
-| 39 | [EDWARD PROMising HOST](http://twitter.com/search?q=EDWARD+PROMising+HOST) | N/A |
-| 40 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
-| 41 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
-| 42 | [gowon](http://twitter.com/search?q=gowon) | N/A |
-| 43 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 44 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
+| 20 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
+| 21 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 22 | [Prom King and Queen](http://twitter.com/search?q=Prom+King+and+Queen) | N/A |
+| 23 | [SENIOR PRINCESS VIVOREE](http://twitter.com/search?q=SENIOR+PRINCESS+VIVOREE) | N/A |
+| 24 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
+| 25 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 26 | [SOLOIST JISOO](http://twitter.com/search?q=SOLOIST+JISOO) | N/A |
+| 27 | [Road to D-DAY](http://twitter.com/search?q=Road+to+D-DAY) | N/A |
+| 28 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 29 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 30 | [BeckFreen](http://twitter.com/search?q=BeckFreen) | N/A |
+| 31 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
+| 32 | [Best MB](http://twitter.com/search?q=Best+MB) | N/A |
+| 33 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 34 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
+| 35 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 36 | [EDWARD PROMising HOST](http://twitter.com/search?q=EDWARD+PROMising+HOST) | N/A |
+| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 38 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 39 | [HORI7ON 1st Prom](http://twitter.com/search?q=HORI7ON+1st+Prom) | N/A |
+| 40 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 41 | [gowon](http://twitter.com/search?q=gowon) | N/A |
+| 42 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 43 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
+| 44 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
 | 45 | [Congratulations CCS](http://twitter.com/search?q=Congratulations+CCS) | N/A |
-| 46 | [Tyang](http://twitter.com/search?q=Tyang) | N/A |
-| 47 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 46 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 47 | [Tyang](http://twitter.com/search?q=Tyang) | N/A |
 
 
 

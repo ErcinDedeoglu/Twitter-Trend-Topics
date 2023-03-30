@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-03-30 16:17:40 UTC`
+📆 Last Updated: `2023-03-30 17:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 2 | [TROPA DO PÉ QUENTE](http://twitter.com/search?q=TROPA+DO+P%c3%89+QUENTE) | N/A |
-| 3 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 4 | [Brasília](http://twitter.com/search?q=Bras%c3%adlia) | Brasília is the capital of Brazil. It is located in the Central-West region of the country and was founded in 1960. The name Brasília comes from the Portuguese word for "brazilwood," which was a type of tree that was once abundant in the area. In English, Brasília means "brazilwood." |
-| 5 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 6 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 7 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 8 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 9 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
-| 10 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 11 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
-| 12 | [#Comfort10xMaisPerfume](http://twitter.com/search?q=%23Comfort10xMaisPerfume) | N/A |
-| 13 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
-| 14 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 15 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 16 | [Jr Santos](http://twitter.com/search?q=Jr+Santos) | N/A |
-| 17 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 18 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
-| 19 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 1 | [Brasília](http://twitter.com/search?q=Bras%c3%adlia) | Brasília is the capital of Brazil. It is located in the Central-West region of the country and was founded in 1960. The name Brasília comes from the Portuguese word for "brazilwood," which was a type of tree that was once abundant in the area. In English, Brasília means "brazilwood." |
+| 2 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 3 | [TROPA DO PÉ QUENTE](http://twitter.com/search?q=TROPA+DO+P%c3%89+QUENTE) | N/A |
+| 4 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 5 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
+| 6 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 7 | [#Comfort10xMaisPerfume](http://twitter.com/search?q=%23Comfort10xMaisPerfume) | N/A |
+| 8 | [Arrascaeta](http://twitter.com/search?q=Arrascaeta) | Arrascaeta is a Spanish word that means "to tear away" or "to rip off." It is often used to describe a situation in which something is taken away quickly and forcefully. |
+| 9 | [Tomorrowland](http://twitter.com/search?q=Tomorrowland) | Tomorrowland is a Disney theme park located in Anaheim, California. It is based on futuristic themes and features attractions such as Space Mountain, Buzz Lightyear Astro Blasters, and Star Tours. The name "Tomorrowland" is derived from the phrase "the future is now," which reflects the park's focus on innovation and progress. |
+| 10 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 11 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 12 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 13 | [Flopou](http://twitter.com/search?q=Flopou) | N/A |
+| 14 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 15 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 16 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 17 | [Jr Santos](http://twitter.com/search?q=Jr+Santos) | N/A |
+| 18 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 19 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
 | 20 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 21 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
-| 22 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
-| 23 | [Flopou](http://twitter.com/search?q=Flopou) | N/A |
-| 24 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 25 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 26 | [Cruyff](http://twitter.com/search?q=Cruyff) | N/A |
-| 27 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 28 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 29 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 30 | [Celine](http://twitter.com/search?q=Celine) | N/A |
-| 31 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 32 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 33 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 34 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 35 | [Baresi](http://twitter.com/search?q=Baresi) | N/A |
-| 36 | [Lima Duarte](http://twitter.com/search?q=Lima+Duarte) | N/A |
-| 37 | [bogum](http://twitter.com/search?q=bogum) | N/A |
-| 38 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
-| 39 | [Presidente Bolsonaro](http://twitter.com/search?q=Presidente+Bolsonaro) | N/A |
-| 40 | [Capitão](http://twitter.com/search?q=Capit%c3%a3o) | N/A |
-| 41 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 42 | [Luminense](http://twitter.com/search?q=Luminense) | N/A |
-| 43 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 44 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
-| 45 | [Mito](http://twitter.com/search?q=Mito) | N/A |
-| 46 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 47 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 48 | [EU AUTORIZO](http://twitter.com/search?q=EU+AUTORIZO) | N/A |
-| 49 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 50 | [Edgar Wright](http://twitter.com/search?q=Edgar+Wright) | N/A |
+| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 22 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 23 | [Cruyff](http://twitter.com/search?q=Cruyff) | N/A |
+| 24 | [#Sbtsportsrio](http://twitter.com/search?q=%23Sbtsportsrio) | N/A |
+| 25 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
+| 26 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
+| 27 | [Baresi](http://twitter.com/search?q=Baresi) | N/A |
+| 28 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 29 | [Lima Duarte](http://twitter.com/search?q=Lima+Duarte) | N/A |
+| 30 | [Luminense](http://twitter.com/search?q=Luminense) | N/A |
+| 31 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
+| 32 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 33 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
+| 34 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 35 | [Trento](http://twitter.com/search?q=Trento) | N/A |
+| 36 | [EU AUTORIZO](http://twitter.com/search?q=EU+AUTORIZO) | N/A |
+| 37 | [Mito](http://twitter.com/search?q=Mito) | N/A |
+| 38 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 39 | [Garrincha](http://twitter.com/search?q=Garrincha) | N/A |
+| 40 | [Beckenbauer](http://twitter.com/search?q=Beckenbauer) | N/A |
+| 41 | [bogum](http://twitter.com/search?q=bogum) | N/A |
+| 42 | [Capitão](http://twitter.com/search?q=Capit%c3%a3o) | N/A |
+| 43 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
+| 44 | [Presidente Bolsonaro](http://twitter.com/search?q=Presidente+Bolsonaro) | N/A |
+| 45 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
+| 46 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 47 | [George Best](http://twitter.com/search?q=George+Best) | George Best was a Northern Irish professional footballer who played as a winger for Manchester United and the Northern Ireland national team. He is widely regarded as one of the greatest players of all time. The phrase "George Best" has come to be used as an expression of admiration for someone who is exceptionally talented or successful in their field. |
+| 48 | [camila cabello](http://twitter.com/search?q=camila+cabello) | N/A |
+| 49 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 50 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
 
 
 
