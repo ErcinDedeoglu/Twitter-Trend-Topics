@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-30 11:16:32 UTC`
+📆 Last Updated: `2023-03-30 12:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Poland](</Poland>)
 | 2 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
 | 3 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
 | 4 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
-| 5 | [Anze Lanisek](http://twitter.com/search?q=Anze+Lanisek) | N/A |
-| 6 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
-| 7 | [Aleksander Zniszczoł](http://twitter.com/search?q=Aleksander+Zniszczo%c5%82) | N/A |
-| 8 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 9 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 10 | [Mularczyk](http://twitter.com/search?q=Mularczyk) | N/A |
+| 5 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 6 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 7 | [Mularczyk](http://twitter.com/search?q=Mularczyk) | N/A |
+| 8 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 9 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 10 | [Śląskim](http://twitter.com/search?q=%c5%9al%c4%85skim) | N/A |
 | 11 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 12 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 13 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 14 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
-| 15 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 16 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 17 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 18 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
-| 19 | [PKOL](http://twitter.com/search?q=PKOL) | N/A |
-| 20 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
-| 21 | [bochenek](http://twitter.com/search?q=bochenek) | N/A |
-| 22 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 23 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 24 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
-| 25 | [chorzowa](http://twitter.com/search?q=chorzowa) | N/A |
-| 26 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | N/A |
-| 27 | [Marcin Lijewski](http://twitter.com/search?q=Marcin+Lijewski) | N/A |
-| 28 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 29 | [Izery](http://twitter.com/search?q=Izery) | N/A |
+| 12 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 13 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 14 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 15 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 16 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
+| 17 | [PKOL](http://twitter.com/search?q=PKOL) | N/A |
+| 18 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 19 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 20 | [Wypada](http://twitter.com/search?q=Wypada) | N/A |
+| 21 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | N/A |
+| 22 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 23 | [Anze Lanisek](http://twitter.com/search?q=Anze+Lanisek) | N/A |
+| 24 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 25 | [Aleksander Zniszczoł](http://twitter.com/search?q=Aleksander+Zniszczo%c5%82) | N/A |
+| 26 | [Marcin Lijewski](http://twitter.com/search?q=Marcin+Lijewski) | N/A |
+| 27 | [Izery](http://twitter.com/search?q=Izery) | N/A |
+| 28 | [Kowalczyk](http://twitter.com/search?q=Kowalczyk) | N/A |
+| 29 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 30 | [grodzkiego](http://twitter.com/search?q=grodzkiego) | N/A |
-| 31 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
-| 32 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 33 | [Kowalczyk](http://twitter.com/search?q=Kowalczyk) | N/A |
-| 34 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
-| 35 | [bystra](http://twitter.com/search?q=bystra) | N/A |
-| 36 | [julia przyłębska](http://twitter.com/search?q=julia+przy%c5%82%c4%99bska) | N/A |
-| 37 | [telefony](http://twitter.com/search?q=telefony) | N/A |
-| 38 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 39 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 31 | [dworczyka](http://twitter.com/search?q=dworczyka) | N/A |
+| 32 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 33 | [Bednorz](http://twitter.com/search?q=Bednorz) | N/A |
+| 34 | [Trzaskowskiego](http://twitter.com/search?q=Trzaskowskiego) | N/A |
+| 35 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
+| 36 | [bystra](http://twitter.com/search?q=bystra) | N/A |
+| 37 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
+| 38 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 39 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
 | 40 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 41 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 42 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
-| 43 | [Cirstea](http://twitter.com/search?q=Cirstea) | N/A |
-| 44 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
-| 45 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
-| 46 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 47 | [Kędzierzyna](http://twitter.com/search?q=K%c4%99dzierzyna) | N/A |
-| 48 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 41 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 42 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 43 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 44 | [Memcen](http://twitter.com/search?q=Memcen) | N/A |
+| 45 | [kędzierzyna](http://twitter.com/search?q=k%c4%99dzierzyna) | N/A |
+| 46 | [telefony](http://twitter.com/search?q=telefony) | N/A |
+| 47 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
+| 48 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
 | 49 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 
 

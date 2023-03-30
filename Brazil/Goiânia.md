@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-30 11:16:31 UTC`
+📆 Last Updated: `2023-03-30 12:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 2 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 3 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 4 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 5 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 6 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
-| 7 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
-| 8 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 9 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 10 | [#ANITTA30](http://twitter.com/search?q=%23ANITTA30) | N/A |
-| 11 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 12 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 13 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 14 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 15 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 16 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 17 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 18 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
-| 19 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 20 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 21 | [sophia valverde](http://twitter.com/search?q=sophia+valverde) | N/A |
-| 22 | [Presidente Bolsonaro](http://twitter.com/search?q=Presidente+Bolsonaro) | N/A |
-| 23 | [Glória a Deus](http://twitter.com/search?q=Gl%c3%b3ria+a+Deus) | N/A |
-| 24 | [#Bolsonarovemai](http://twitter.com/search?q=%23Bolsonarovemai) | N/A |
-| 25 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 26 | [Junior Santos](http://twitter.com/search?q=Junior+Santos) | N/A |
-| 27 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 28 | [SOS NORTE](http://twitter.com/search?q=SOS+NORTE) | N/A |
-| 29 | [Devon](http://twitter.com/search?q=Devon) | N/A |
-| 30 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 31 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 32 | [Penha](http://twitter.com/search?q=Penha) | N/A |
-| 33 | [Jó 5](http://twitter.com/search?q=J%c3%b3+5) | N/A |
-| 34 | [Brasília](http://twitter.com/search?q=Bras%c3%adlia) | Brasília is the capital of Brazil. It is located in the Central-West region of the country and was founded in 1960. The name Brasília comes from the Portuguese word for "brazilwood," which was a type of tree that was once abundant in the area. In English, Brasília means "brazilwood." |
-| 35 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 36 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 37 | [Via Mobilidade](http://twitter.com/search?q=Via+Mobilidade) | N/A |
-| 38 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
-| 39 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
-| 40 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 41 | [jorge lafond](http://twitter.com/search?q=jorge+lafond) | N/A |
-| 42 | [Sega Saturn](http://twitter.com/search?q=Sega+Saturn) | N/A |
-| 43 | [Mito](http://twitter.com/search?q=Mito) | N/A |
-| 44 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 46 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
-| 47 | [Ilha](http://twitter.com/search?q=Ilha) | N/A |
-| 48 | [BOLSONARO PRESO HOJE](http://twitter.com/search?q=BOLSONARO+PRESO+HOJE) | N/A |
-| 49 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
+| 1 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
+| 2 | [#ANITTA30](http://twitter.com/search?q=%23ANITTA30) | N/A |
+| 3 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 4 | [Jair Bolsonaro](http://twitter.com/search?q=Jair+Bolsonaro) | Jair Bolsonaro is the current President of Brazil. He is a far-right politician who has been criticized for his controversial views on race, gender, and LGBT rights. The name Jair Bolsonaro is derived from his given name, Jair Messias Bolsonaro. |
+| 5 | [Mito](http://twitter.com/search?q=Mito) | N/A |
+| 6 | [Junior Santos](http://twitter.com/search?q=Junior+Santos) | N/A |
+| 7 | [Jr Santos](http://twitter.com/search?q=Jr+Santos) | N/A |
+| 8 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 9 | [Via Mobilidade](http://twitter.com/search?q=Via+Mobilidade) | N/A |
+| 10 | [Presidente Bolsonaro](http://twitter.com/search?q=Presidente+Bolsonaro) | N/A |
+| 11 | [#BolsonaroNaCadeia](http://twitter.com/search?q=%23BolsonaroNaCadeia) | N/A |
+| 12 | [Glória a Deus](http://twitter.com/search?q=Gl%c3%b3ria+a+Deus) | N/A |
+| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 14 | [yves](http://twitter.com/search?q=yves) | N/A |
+| 15 | [BOLSONARO PRESO HOJE](http://twitter.com/search?q=BOLSONARO+PRESO+HOJE) | N/A |
+| 16 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
+| 17 | [#33MilhoesDaMamae](http://twitter.com/search?q=%2333MilhoesDaMamae) | N/A |
+| 18 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 19 | [Penha](http://twitter.com/search?q=Penha) | N/A |
+| 20 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
+| 21 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
+| 22 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 23 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
+| 24 | [Aeroporto](http://twitter.com/search?q=Aeroporto) | N/A |
+| 25 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 26 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
+| 27 | [Capitão](http://twitter.com/search?q=Capit%c3%a3o) | N/A |
+| 28 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 29 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
+| 30 | [Villani](http://twitter.com/search?q=Villani) | N/A |
+| 31 | [Renata Silveira](http://twitter.com/search?q=Renata+Silveira) | N/A |
+| 32 | [Kajuru](http://twitter.com/search?q=Kajuru) | N/A |
+| 33 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 34 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
+| 35 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
+| 36 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 37 | [Amante](http://twitter.com/search?q=Amante) | N/A |
+| 38 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 39 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
+| 40 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
+| 41 | [Titular](http://twitter.com/search?q=Titular) | N/A |
+| 42 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
+| 43 | [Gleisi](http://twitter.com/search?q=Gleisi) | N/A |
+| 44 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 45 | [Nintendo DS](http://twitter.com/search?q=Nintendo+DS) | N/A |
+| 46 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 47 | [Sega Saturn](http://twitter.com/search?q=Sega+Saturn) | N/A |
+| 48 | [SOS NORTE](http://twitter.com/search?q=SOS+NORTE) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-03-30 11:16:38 UTC`
+📆 Last Updated: `2023-03-30 12:19:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Obregón](http://twitter.com/search?q=Obreg%c3%b3n) | N/A |
-| 2 | [#ZeldaVuelve](http://twitter.com/search?q=%23ZeldaVuelve) | N/A |
-| 3 | [Camiño](http://twitter.com/search?q=Cami%c3%b1o) | N/A |
-| 4 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
-| 5 | [Laura Gómez](http://twitter.com/search?q=Laura+G%c3%b3mez) | N/A |
-| 6 | [#YOIGOxFINI](http://twitter.com/search?q=%23YOIGOxFINI) | N/A |
-| 7 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 8 | [#AmazonMediaMarkt](http://twitter.com/search?q=%23AmazonMediaMarkt) | N/A |
-| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 11 | [#AR30M](http://twitter.com/search?q=%23AR30M) | N/A |
-| 12 | [TSJC](http://twitter.com/search?q=TSJC) | N/A |
-| 13 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 14 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
-| 15 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 16 | [Days Gone](http://twitter.com/search?q=Days+Gone) | N/A |
-| 17 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
-| 18 | [Ana Peleteiro](http://twitter.com/search?q=Ana+Peleteiro) | N/A |
-| 19 | [Mateu Lahoz](http://twitter.com/search?q=Mateu+Lahoz) | N/A |
-| 20 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 21 | [Aitana](http://twitter.com/search?q=Aitana) | N/A |
-| 22 | [Cáritas](http://twitter.com/search?q=C%c3%a1ritas) | N/A |
-| 23 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 24 | [Complutense](http://twitter.com/search?q=Complutense) | Complutense is a term used to refer to the University of Madrid, which is officially known as the Complutense University of Madrid. The name comes from the Latin word Complutum, which was the ancient name for the city of Alcalá de Henares, where the university was originally founded in 1293. In English, Complutense means "of Alcalá". |
-| 25 | [Javier Cámara](http://twitter.com/search?q=Javier+C%c3%a1mara) | N/A |
-| 26 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 27 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
-| 28 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
-| 29 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
-| 30 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 31 | [La Iglesia](http://twitter.com/search?q=La+Iglesia) | N/A |
-| 32 | [Sábado 1](http://twitter.com/search?q=S%c3%a1bado+1) | N/A |
-| 33 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 34 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
-| 35 | [#APOYOROCIO30M](http://twitter.com/search?q=%23APOYOROCIO30M) | N/A |
-| 36 | [#CongresoFP23](http://twitter.com/search?q=%23CongresoFP23) | N/A |
-| 37 | [#YoSoyFP](http://twitter.com/search?q=%23YoSoyFP) | N/A |
-| 38 | [#Gianmarco30M](http://twitter.com/search?q=%23Gianmarco30M) | N/A |
-| 39 | [#YoMeRebelo30M](http://twitter.com/search?q=%23YoMeRebelo30M) | N/A |
-| 40 | [#CopaReinaLFEndesa](http://twitter.com/search?q=%23CopaReinaLFEndesa) | N/A |
-| 41 | [#vientresdealquiler](http://twitter.com/search?q=%23vientresdealquiler) | N/A |
-| 42 | [#GestaciónSubrogada](http://twitter.com/search?q=%23Gestaci%c3%b3nSubrogada) | N/A |
-| 43 | [#REBUILD2023](http://twitter.com/search?q=%23REBUILD2023) | N/A |
+| 1 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 2 | [Obregón](http://twitter.com/search?q=Obreg%c3%b3n) | N/A |
+| 3 | [#ZeldaVuelve](http://twitter.com/search?q=%23ZeldaVuelve) | N/A |
+| 4 | [Camiño](http://twitter.com/search?q=Cami%c3%b1o) | N/A |
+| 5 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
+| 6 | [Laura Gómez](http://twitter.com/search?q=Laura+G%c3%b3mez) | N/A |
+| 7 | [#YOIGOxFINI](http://twitter.com/search?q=%23YOIGOxFINI) | N/A |
+| 8 | [O Son](http://twitter.com/search?q=O+Son) | N/A |
+| 9 | [#AmazonMediaMarkt](http://twitter.com/search?q=%23AmazonMediaMarkt) | N/A |
+| 10 | [#APOYOROCIO30M](http://twitter.com/search?q=%23APOYOROCIO30M) | N/A |
+| 11 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
+| 12 | [#JotDownUS](http://twitter.com/search?q=%23JotDownUS) | N/A |
+| 13 | [Ana Peleteiro](http://twitter.com/search?q=Ana+Peleteiro) | N/A |
+| 14 | [TSJC](http://twitter.com/search?q=TSJC) | N/A |
+| 15 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 16 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 17 | [Yung Beef](http://twitter.com/search?q=Yung+Beef) | N/A |
+| 18 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
+| 19 | [Days Gone](http://twitter.com/search?q=Days+Gone) | N/A |
+| 20 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 21 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 22 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 23 | [Mateu Lahoz](http://twitter.com/search?q=Mateu+Lahoz) | N/A |
+| 24 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 25 | [Aitana](http://twitter.com/search?q=Aitana) | N/A |
+| 26 | [Cáritas](http://twitter.com/search?q=C%c3%a1ritas) | N/A |
+| 27 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
+| 28 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 29 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 30 | [Complutense](http://twitter.com/search?q=Complutense) | Complutense is a term used to refer to the University of Madrid, which is officially known as the Complutense University of Madrid. The name comes from the Latin word Complutum, which was the ancient name for the city of Alcalá de Henares, where the university was originally founded in 1293. In English, Complutense means "of Alcalá". |
+| 31 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 32 | [Javier Cámara](http://twitter.com/search?q=Javier+C%c3%a1mara) | N/A |
+| 33 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
+| 34 | [Sábado 1](http://twitter.com/search?q=S%c3%a1bado+1) | N/A |
+| 35 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 36 | [La Iglesia](http://twitter.com/search?q=La+Iglesia) | N/A |
+| 37 | [Jueves Santo](http://twitter.com/search?q=Jueves+Santo) | N/A |
+| 38 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
+| 39 | [#AR30M](http://twitter.com/search?q=%23AR30M) | N/A |
+| 40 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 41 | [#CongresoFP23](http://twitter.com/search?q=%23CongresoFP23) | N/A |
+| 42 | [#Gianmarco30M](http://twitter.com/search?q=%23Gianmarco30M) | N/A |
+| 43 | [#YoSoyFP](http://twitter.com/search?q=%23YoSoyFP) | N/A |
+| 44 | [#YoMeRebelo30M](http://twitter.com/search?q=%23YoMeRebelo30M) | N/A |
+| 45 | [#CopaReinaLFEndesa](http://twitter.com/search?q=%23CopaReinaLFEndesa) | N/A |
+| 46 | [#vientresdealquiler](http://twitter.com/search?q=%23vientresdealquiler) | N/A |
+| 47 | [#REBUILD2023](http://twitter.com/search?q=%23REBUILD2023) | N/A |
 
 
 

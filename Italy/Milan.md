@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-30 11:16:37 UTC`
+📆 Last Updated: `2023-03-30 12:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
 | 2 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 3 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
-| 4 | [#AncheSeSembra](http://twitter.com/search?q=%23AncheSeSembra) | N/A |
-| 5 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 6 | [#29marzo](http://twitter.com/search?q=%2329marzo) | N/A |
-| 7 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 8 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 9 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 3 | [#David68](http://twitter.com/search?q=%23David68) | N/A |
+| 4 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
+| 5 | [#AncheSeSembra](http://twitter.com/search?q=%23AncheSeSembra) | N/A |
+| 6 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 7 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 8 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 9 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
 | 10 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 11 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 12 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
-| 13 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 14 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 15 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 16 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 17 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 18 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 19 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
-| 20 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 21 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 22 | [Blue Skye](http://twitter.com/search?q=Blue+Skye) | N/A |
-| 23 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 24 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 25 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 26 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
-| 27 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 28 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 29 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 30 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 31 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 32 | [Ekaterinburg](http://twitter.com/search?q=Ekaterinburg) | N/A |
-| 33 | [Il Parlamento](http://twitter.com/search?q=Il+Parlamento) | N/A |
-| 34 | [Pechino](http://twitter.com/search?q=Pechino) | N/A |
-| 35 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
-| 36 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 11 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 12 | [Steffy](http://twitter.com/search?q=Steffy) | N/A |
+| 13 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 14 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 15 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 16 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 17 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 18 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 19 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
+| 20 | [Ridge](http://twitter.com/search?q=Ridge) | N/A |
+| 21 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
+| 22 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
+| 23 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 24 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 25 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 26 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 27 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 28 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 29 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
+| 30 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
+| 31 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 32 | [il parlamento](http://twitter.com/search?q=il+parlamento) | N/A |
+| 33 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 34 | [Mara Maionchi](http://twitter.com/search?q=Mara+Maionchi) | N/A |
+| 35 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 36 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
 | 37 | [Franco Califano](http://twitter.com/search?q=Franco+Califano) | N/A |
-| 38 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 39 | [L'uomo del Monte](http://twitter.com/search?q=L%27uomo+del+Monte) | N/A |
-| 40 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
-| 41 | [Della Valle](http://twitter.com/search?q=Della+Valle) | N/A |
-| 42 | [Francesco Baracca](http://twitter.com/search?q=Francesco+Baracca) | N/A |
-| 43 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 44 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 45 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 46 | [Times](http://twitter.com/search?q=Times) | N/A |
+| 38 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 39 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 40 | [rebic](http://twitter.com/search?q=rebic) | N/A |
+| 41 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 42 | [Ekaterinburg](http://twitter.com/search?q=Ekaterinburg) | N/A |
+| 43 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 44 | [Adani](http://twitter.com/search?q=Adani) | Adani is a multinational conglomerate based in India. It is involved in the development and operation of infrastructure projects such as ports, power plants, and mines. The name Adani is derived from the Sanskrit word "Adan," which means "the beginning." |
+| 45 | [Blue Skye](http://twitter.com/search?q=Blue+Skye) | N/A |
+| 46 | [Assange](http://twitter.com/search?q=Assange) | N/A |
 | 47 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 48 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 49 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 50 | [Riotta](http://twitter.com/search?q=Riotta) | N/A |
+| 48 | [Della Valle](http://twitter.com/search?q=Della+Valle) | N/A |
+| 49 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 50 | [Fauci](http://twitter.com/search?q=Fauci) | N/A |
 
 
 

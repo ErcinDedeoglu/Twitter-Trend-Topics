@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-03-30 11:17:02 UTC`
+📆 Last Updated: `2023-03-30 12:19:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 2 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 3 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 4 | [#OpeningDay2023](http://twitter.com/search?q=%23OpeningDay2023) | N/A |
-| 5 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
-| 6 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 7 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 9 | [#Wordle649](http://twitter.com/search?q=%23Wordle649) | N/A |
+| 1 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 2 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
+| 3 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 4 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
+| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 6 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 8 | [Happy Opening](http://twitter.com/search?q=Happy+Opening) | N/A |
+| 9 | [BASEBALL IS BACK](http://twitter.com/search?q=BASEBALL+IS+BACK) | N/A |
 | 10 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
 | 11 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 12 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 13 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 14 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
-| 15 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 16 | [Trigg County](http://twitter.com/search?q=Trigg+County) | N/A |
+| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 13 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
+| 14 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 15 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 16 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
 | 17 | [Go Phils](http://twitter.com/search?q=Go+Phils) | N/A |
-| 18 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 19 | [BASEBALL IS BACK](http://twitter.com/search?q=BASEBALL+IS+BACK) | N/A |
-| 20 | [yves](http://twitter.com/search?q=yves) | N/A |
-| 21 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 22 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
-| 23 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 24 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 25 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 26 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 27 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 28 | [Arming](http://twitter.com/search?q=Arming) | N/A |
-| 29 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 30 | [SOCD](http://twitter.com/search?q=SOCD) | N/A |
-| 31 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 32 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
-| 33 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 34 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 35 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 36 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
-| 37 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 38 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 39 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 40 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
-| 41 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 42 | [WELL REGULATED](http://twitter.com/search?q=WELL+REGULATED) | N/A |
-| 43 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 44 | [The Mouse](http://twitter.com/search?q=The+Mouse) | N/A |
-| 45 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 46 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 47 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 48 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 49 | [#ThursdayMorning](http://twitter.com/search?q=%23ThursdayMorning) | N/A |
+| 18 | [Fort Campbell](http://twitter.com/search?q=Fort+Campbell) | N/A |
+| 19 | [Go Braves](http://twitter.com/search?q=Go+Braves) | N/A |
+| 20 | [Let's Go Mets](http://twitter.com/search?q=Let%27s+Go+Mets) | N/A |
+| 21 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 22 | [Trigg County](http://twitter.com/search?q=Trigg+County) | N/A |
+| 23 | [Go Sox](http://twitter.com/search?q=Go+Sox) | N/A |
+| 24 | [yves](http://twitter.com/search?q=yves) | N/A |
+| 25 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 26 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 27 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 28 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
+| 29 | [Grandstanding](http://twitter.com/search?q=Grandstanding) | N/A |
+| 30 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
+| 31 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 32 | [Arming](http://twitter.com/search?q=Arming) | N/A |
+| 33 | [WELL REGULATED](http://twitter.com/search?q=WELL+REGULATED) | N/A |
+| 34 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 35 | [SOCD](http://twitter.com/search?q=SOCD) | N/A |
+| 36 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 37 | [ALCS](http://twitter.com/search?q=ALCS) | N/A |
+| 38 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 39 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 40 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 41 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
+| 42 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 43 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 44 | [Wrigley](http://twitter.com/search?q=Wrigley) | N/A |
+| 45 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 46 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 47 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 48 | [Yelling](http://twitter.com/search?q=Yelling) | N/A |
+| 49 | [The Mouse](http://twitter.com/search?q=The+Mouse) | N/A |
+| 50 | [Hogg](http://twitter.com/search?q=Hogg) | N/A |
 
 
 

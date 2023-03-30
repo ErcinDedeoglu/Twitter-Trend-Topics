@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-30 11:16:30 UTC`
+📆 Last Updated: `2023-03-30 12:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 2 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
-| 3 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 4 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 5 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 6 | [CLASSIFIQUE O SEU PET](http://twitter.com/search?q=CLASSIFIQUE+O+SEU+PET) | N/A |
-| 7 | [Janones](http://twitter.com/search?q=Janones) | N/A |
-| 8 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 9 | [Chupetinha](http://twitter.com/search?q=Chupetinha) | N/A |
-| 10 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 11 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
-| 12 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
-| 13 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
-| 14 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 15 | [#ANITTA30](http://twitter.com/search?q=%23ANITTA30) | N/A |
-| 16 | [Nikolas](http://twitter.com/search?q=Nikolas) | Nikolas is a masculine given name of Greek origin. It is a variation of the name Nicholas, which means "victory of the people". |
-| 17 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 18 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 19 | [Rui Falcão](http://twitter.com/search?q=Rui+Falc%c3%a3o) | N/A |
-| 20 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 21 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 22 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 23 | [Galhardo](http://twitter.com/search?q=Galhardo) | N/A |
-| 24 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 25 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 26 | [sophia valverde](http://twitter.com/search?q=sophia+valverde) | N/A |
+| 1 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 2 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 3 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 4 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 5 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
+| 6 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 7 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 8 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 9 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 10 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 11 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
+| 12 | [Kaiki](http://twitter.com/search?q=Kaiki) | N/A |
+| 13 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
+| 14 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 15 | [Nikao](http://twitter.com/search?q=Nikao) | N/A |
+| 16 | [Oliveira](http://twitter.com/search?q=Oliveira) | Oliveira is a Portuguese surname derived from the Latin word for olive tree, olea. It is also a common place name in Portugal and Brazil. In English, Oliveira means "of the olive tree". |
+| 17 | [Vital](http://twitter.com/search?q=Vital) | N/A |
+| 18 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 19 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
+| 20 | [#ANITTA30](http://twitter.com/search?q=%23ANITTA30) | N/A |
+| 21 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 22 | [Jair Bolsonaro](http://twitter.com/search?q=Jair+Bolsonaro) | Jair Bolsonaro is the current President of Brazil. He is a far-right politician who has been criticized for his controversial views on race, gender, and LGBT rights. The name Jair Bolsonaro is derived from his given name, Jair Messias Bolsonaro. |
+| 23 | [Mito](http://twitter.com/search?q=Mito) | N/A |
+| 24 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
+| 25 | [Laerte](http://twitter.com/search?q=Laerte) | N/A |
+| 26 | [Via Mobilidade](http://twitter.com/search?q=Via+Mobilidade) | N/A |
 | 27 | [Presidente Bolsonaro](http://twitter.com/search?q=Presidente+Bolsonaro) | N/A |
-| 28 | [Glória a Deus](http://twitter.com/search?q=Gl%c3%b3ria+a+Deus) | N/A |
-| 29 | [#Bolsonarovemai](http://twitter.com/search?q=%23Bolsonarovemai) | N/A |
-| 30 | [Master System](http://twitter.com/search?q=Master+System) | N/A |
-| 31 | [Junior Santos](http://twitter.com/search?q=Junior+Santos) | N/A |
-| 32 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 33 | [SOS NORTE](http://twitter.com/search?q=SOS+NORTE) | N/A |
-| 34 | [Devon](http://twitter.com/search?q=Devon) | N/A |
-| 35 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 36 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 37 | [Penha](http://twitter.com/search?q=Penha) | N/A |
-| 38 | [Jó 5](http://twitter.com/search?q=J%c3%b3+5) | N/A |
-| 39 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 40 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 41 | [Via Mobilidade](http://twitter.com/search?q=Via+Mobilidade) | N/A |
-| 42 | [Super Nintendo](http://twitter.com/search?q=Super+Nintendo) | N/A |
-| 43 | [Brasília](http://twitter.com/search?q=Bras%c3%adlia) | Brasília is the capital of Brazil. It is located in the Central-West region of the country and was founded in 1960. The name Brasília comes from the Portuguese word for "brazilwood," which was a type of tree that was once abundant in the area. In English, Brasília means "brazilwood." |
-| 44 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
-| 45 | [Nikole](http://twitter.com/search?q=Nikole) | N/A |
-| 46 | [jorge lafond](http://twitter.com/search?q=jorge+lafond) | N/A |
-| 47 | [Sega Saturn](http://twitter.com/search?q=Sega+Saturn) | N/A |
-| 48 | [Mito](http://twitter.com/search?q=Mito) | N/A |
-| 49 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [Jr Santos](http://twitter.com/search?q=Jr+Santos) | N/A |
+| 29 | [#BolsonaroNaCadeia](http://twitter.com/search?q=%23BolsonaroNaCadeia) | N/A |
+| 30 | [Glória a Deus](http://twitter.com/search?q=Gl%c3%b3ria+a+Deus) | N/A |
+| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 32 | [yves](http://twitter.com/search?q=yves) | N/A |
+| 33 | [BOLSONARO PRESO HOJE](http://twitter.com/search?q=BOLSONARO+PRESO+HOJE) | N/A |
+| 34 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
+| 35 | [Penha](http://twitter.com/search?q=Penha) | N/A |
+| 36 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 37 | [#33MilhoesDaMamae](http://twitter.com/search?q=%2333MilhoesDaMamae) | N/A |
+| 38 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
+| 39 | [Papuda](http://twitter.com/search?q=Papuda) | N/A |
+| 40 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 41 | [Meu Presidente](http://twitter.com/search?q=Meu+Presidente) | N/A |
+| 42 | [Aeroporto](http://twitter.com/search?q=Aeroporto) | N/A |
+| 43 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 44 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
+| 45 | [Capitão](http://twitter.com/search?q=Capit%c3%a3o) | N/A |
+| 46 | [Viagra](http://twitter.com/search?q=Viagra) | N/A |
+| 47 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
+| 48 | [Villani](http://twitter.com/search?q=Villani) | N/A |
 
 
 
