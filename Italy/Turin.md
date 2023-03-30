@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-03-30 18:17:55 UTC`
+📆 Last Updated: `2023-03-30 19:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
-| 2 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 3 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 4 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 5 | [#PapaFrancesco](http://twitter.com/search?q=%23PapaFrancesco) | N/A |
-| 6 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 7 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 8 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 9 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 10 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 11 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 12 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 13 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 14 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 15 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 16 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 1 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 2 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
+| 3 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
+| 4 | [#SoltantoChi](http://twitter.com/search?q=%23SoltantoChi) | N/A |
+| 5 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
+| 6 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 7 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 8 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 9 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 10 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 11 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 12 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 13 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 14 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
+| 15 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 16 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
 | 17 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 18 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 19 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 18 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 19 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
 | 20 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 21 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 22 | [SIAE](http://twitter.com/search?q=SIAE) | N/A |
-| 23 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 24 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 25 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 26 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 27 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 28 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
-| 29 | [Pnnr](http://twitter.com/search?q=Pnnr) | N/A |
-| 30 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 31 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 32 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 33 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 34 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 35 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
+| 21 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 22 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 23 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 24 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 25 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 26 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 27 | [Otello](http://twitter.com/search?q=Otello) | N/A |
+| 28 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
+| 29 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 30 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 31 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 32 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 33 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
+| 34 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
+| 35 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
 | 36 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 37 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 38 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 39 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 40 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 41 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
-| 42 | [Cuoricino](http://twitter.com/search?q=Cuoricino) | N/A |
-| 43 | [Angelina e Federica](http://twitter.com/search?q=Angelina+e+Federica) | N/A |
-| 44 | [EMANUELA FANELLI](http://twitter.com/search?q=EMANUELA+FANELLI) | N/A |
-| 45 | [Blue Skye](http://twitter.com/search?q=Blue+Skye) | N/A |
-| 46 | [Cappellini](http://twitter.com/search?q=Cappellini) | N/A |
-| 47 | [Horata](http://twitter.com/search?q=Horata) | N/A |
-| 48 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 49 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 37 | [SIAE](http://twitter.com/search?q=SIAE) | N/A |
+| 38 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
+| 39 | [Cuoricino](http://twitter.com/search?q=Cuoricino) | N/A |
+| 40 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 41 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 42 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
+| 43 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 44 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 45 | [Buonasera](http://twitter.com/search?q=Buonasera) | N/A |
+| 46 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 47 | [MA IN CHE SENSO](http://twitter.com/search?q=MA+IN+CHE+SENSO) | N/A |
+| 48 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
+| 49 | [Angelina e Federica](http://twitter.com/search?q=Angelina+e+Federica) | N/A |
 
 
 

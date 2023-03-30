@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-30 18:18:26 UTC`
+📆 Last Updated: `2023-03-30 19:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [United States](</United States>)
 | 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 6 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
 | 7 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 8 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 8 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 | 9 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 11 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 12 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 13 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 14 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 15 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 16 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 17 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 18 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 19 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 20 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 21 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 22 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 23 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 24 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 25 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 26 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 27 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 28 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 29 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 30 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 31 | [NRFI](http://twitter.com/search?q=NRFI) | N/A |
-| 32 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 33 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 34 | [162 HRs](http://twitter.com/search?q=162+HRs) | N/A |
-| 35 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
-| 36 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 37 | [Sheree](http://twitter.com/search?q=Sheree) | N/A |
-| 38 | [Marlo](http://twitter.com/search?q=Marlo) | N/A |
-| 39 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 40 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
-| 41 | [Starfleet Academy](http://twitter.com/search?q=Starfleet+Academy) | N/A |
-| 42 | [MY CAPTAIN](http://twitter.com/search?q=MY+CAPTAIN) | N/A |
-| 43 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 44 | [Tylor Megill](http://twitter.com/search?q=Tylor+Megill) | N/A |
-| 45 | [Go Sox](http://twitter.com/search?q=Go+Sox) | N/A |
-| 46 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
-| 47 | [Fenway](http://twitter.com/search?q=Fenway) | Fenway is a neighborhood in Boston, Massachusetts. It is home to Fenway Park, the home stadium of the Boston Red Sox baseball team. The name Fenway comes from the body of water that runs through the area, the Fens. |
-| 48 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 10 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 11 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 12 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 13 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 14 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 15 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
+| 16 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 17 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 18 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 19 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 20 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 21 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 22 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 23 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 24 | [Webb](http://twitter.com/search?q=Webb) | N/A |
+| 25 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 26 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 27 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 28 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 29 | [Gleyber Day](http://twitter.com/search?q=Gleyber+Day) | N/A |
+| 30 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 31 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 32 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 33 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 34 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 35 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 36 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 37 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 38 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 39 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
+| 40 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 41 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
+| 42 | [Austin Riley](http://twitter.com/search?q=Austin+Riley) | N/A |
+| 43 | [Starfleet Academy](http://twitter.com/search?q=Starfleet+Academy) | N/A |
+| 44 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 45 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
+| 46 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 47 | [Wrigley](http://twitter.com/search?q=Wrigley) | N/A |
+| 48 | [NESN](http://twitter.com/search?q=NESN) | N/A |
 
 
 

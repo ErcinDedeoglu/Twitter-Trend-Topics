@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-03-30 18:17:41 UTC`
+📆 Last Updated: `2023-03-30 19:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,47 +17,50 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 2 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 5 | [#PoderosoPepino](http://twitter.com/search?q=%23PoderosoPepino) | N/A |
-| 6 | [#Mexicable](http://twitter.com/search?q=%23Mexicable) | N/A |
-| 7 | [Línea 3](http://twitter.com/search?q=L%c3%adnea+3) | Línea 3 is a metro line in Mexico City. It is the third line of the Mexico City Metro system, and it runs from Indios Verdes to Universidad. In English, "Línea 3" translates to "Line 3". |
-| 8 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 9 | [Indios Verdes](http://twitter.com/search?q=Indios+Verdes) | N/A |
-| 10 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 11 | [Walter Gaitán](http://twitter.com/search?q=Walter+Gait%c3%a1n) | N/A |
-| 12 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 13 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 14 | [Enrique Burak](http://twitter.com/search?q=Enrique+Burak) | N/A |
-| 15 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 16 | [Consejo de la Comunicación](http://twitter.com/search?q=Consejo+de+la+Comunicaci%c3%b3n) | N/A |
+| 3 | [Línea 7](http://twitter.com/search?q=L%c3%adnea+7) | Línea 7 is a metro line in Madrid, Spain. It is the seventh line of the Madrid Metro network and runs from the northeast of the city to the southwest. In English, "Línea 7" translates to "Line 7". |
+| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 5 | [#Mexicable](http://twitter.com/search?q=%23Mexicable) | N/A |
+| 6 | [Indios Verdes](http://twitter.com/search?q=Indios+Verdes) | N/A |
+| 7 | [#PoderosoPepino](http://twitter.com/search?q=%23PoderosoPepino) | N/A |
+| 8 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 9 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 10 | [Tacubaya](http://twitter.com/search?q=Tacubaya) | N/A |
+| 11 | [#TrabajadorasDelHogar](http://twitter.com/search?q=%23TrabajadorasDelHogar) | N/A |
+| 12 | [Ticomán](http://twitter.com/search?q=Ticom%c3%a1n) | N/A |
+| 13 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 14 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 15 | [Walter Gaitán](http://twitter.com/search?q=Walter+Gait%c3%a1n) | N/A |
+| 16 | [Enrique Burak](http://twitter.com/search?q=Enrique+Burak) | N/A |
 | 17 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 18 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 19 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
-| 20 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 21 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
-| 22 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 23 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 24 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 25 | [Pierce The Veil](http://twitter.com/search?q=Pierce+The+Veil) | N/A |
-| 26 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
-| 27 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
-| 28 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
-| 29 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
-| 30 | [Deportes](http://twitter.com/search?q=Deportes) | N/A |
-| 31 | [#Yankees](http://twitter.com/search?q=%23Yankees) | N/A |
-| 32 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
-| 33 | [#MetroCDMX](http://twitter.com/search?q=%23MetroCDMX) | #MetroCDMX is a hashtag used on social media to refer to the Mexico City Metro, the public transportation system in Mexico City. In English, it stands for "Mexico City Metro". |
-| 34 | [#BeisEnPlaydoit](http://twitter.com/search?q=%23BeisEnPlaydoit) | N/A |
-| 35 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
-| 36 | [#SuperMarioBrosLaPelicula](http://twitter.com/search?q=%23SuperMarioBrosLaPelicula) | N/A |
-| 37 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 38 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
-| 39 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 40 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
-| 41 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 42 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 43 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 18 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
+| 19 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 20 | [Germán Martínez](http://twitter.com/search?q=Germ%c3%a1n+Mart%c3%adnez) | N/A |
+| 21 | [Consejo de la Comunicación](http://twitter.com/search?q=Consejo+de+la+Comunicaci%c3%b3n) | N/A |
+| 22 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 23 | [Guardia Nacional](http://twitter.com/search?q=Guardia+Nacional) | Guardia Nacional is the national police force of Mexico. It is responsible for maintaining public order and security, as well as providing assistance to other law enforcement agencies. In English, Guardia Nacional translates to National Guard. |
+| 24 | [Wallows](http://twitter.com/search?q=Wallows) | N/A |
+| 25 | [Jueves 30](http://twitter.com/search?q=Jueves+30) | N/A |
+| 26 | [Pierce The Veil](http://twitter.com/search?q=Pierce+The+Veil) | N/A |
+| 27 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 28 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 29 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
+| 30 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 31 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 32 | [Ebrard](http://twitter.com/search?q=Ebrard) | N/A |
+| 33 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
+| 34 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
+| 35 | [Ocesa](http://twitter.com/search?q=Ocesa) | N/A |
+| 36 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 37 | [#Yankees](http://twitter.com/search?q=%23Yankees) | N/A |
+| 38 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
+| 39 | [#BeisEnPlaydoit](http://twitter.com/search?q=%23BeisEnPlaydoit) | N/A |
+| 40 | [#SuperMarioBrosLaPelicula](http://twitter.com/search?q=%23SuperMarioBrosLaPelicula) | N/A |
+| 41 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
+| 42 | [#TAEHYUNGxCELINE](http://twitter.com/search?q=%23TAEHYUNGxCELINE) | N/A |
+| 43 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 44 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 45 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 46 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
 
 
 

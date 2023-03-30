@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-30 18:18:33 UTC`
+📆 Last Updated: `2023-03-30 19:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 2 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 3 | [#ITFDB](http://twitter.com/search?q=%23ITFDB) | N/A |
-| 4 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 5 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 6 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 7 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 8 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 9 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 10 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 11 | [#LFGSD](http://twitter.com/search?q=%23LFGSD) | N/A |
-| 12 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 13 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 14 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 15 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 16 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 17 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 18 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 19 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 20 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 21 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 22 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 23 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 24 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 25 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 26 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 27 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 28 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 29 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 30 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 31 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 32 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 33 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 34 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 35 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 36 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 37 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 38 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 39 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 40 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 41 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 42 | [NRFI](http://twitter.com/search?q=NRFI) | N/A |
-| 43 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 44 | [162 HRs](http://twitter.com/search?q=162+HRs) | N/A |
-| 45 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 46 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
-| 47 | [Marlo](http://twitter.com/search?q=Marlo) | N/A |
-| 48 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 49 | [Sheree](http://twitter.com/search?q=Sheree) | N/A |
-| 50 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
+| 1 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 2 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
+| 3 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
+| 4 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 5 | [#ITFDB](http://twitter.com/search?q=%23ITFDB) | N/A |
+| 6 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
+| 7 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 8 | [seventeen](http://twitter.com/search?q=seventeen) | N/A |
+| 9 | [#GunControlLawsNOW](http://twitter.com/search?q=%23GunControlLawsNOW) | N/A |
+| 10 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 11 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 12 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
+| 13 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 14 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 15 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 16 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 17 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 18 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 19 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 20 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 21 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 22 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 23 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 24 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 25 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 26 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 27 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 28 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
+| 29 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 30 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
+| 31 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 32 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 33 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 34 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 35 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 36 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 37 | [Webb](http://twitter.com/search?q=Webb) | N/A |
+| 38 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 39 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 40 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 41 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 42 | [Gleyber Day](http://twitter.com/search?q=Gleyber+Day) | N/A |
+| 43 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 44 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 45 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 46 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 47 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 48 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 49 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 50 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-03-30 18:18:24 UTC`
+📆 Last Updated: `2023-03-30 19:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ömer Faruk Başaran](http://twitter.com/search?q=%c3%96mer+Faruk+Ba%c5%9faran) | N/A |
-| 2 | [Seni Cumhurbaşkanı](http://twitter.com/search?q=Seni+Cumhurba%c5%9fkan%c4%b1) | N/A |
-| 3 | [Piro](http://twitter.com/search?q=Piro) | N/A |
-| 4 | [AlparslanHocaya Yargısızİnfaz](http://twitter.com/search?q=AlparslanHocaya+Yarg%c4%b1s%c4%b1z%c4%b0nfaz) | N/A |
-| 5 | [GSBtayinBekliyor](http://twitter.com/search?q=GSBtayinBekliyor) | N/A |
-| 6 | [UcretliOgrt KadroMujdesi](http://twitter.com/search?q=UcretliOgrt+KadroMujdesi) | N/A |
-| 7 | [#şakagibi](http://twitter.com/search?q=%23%c5%9fakagibi) | N/A |
-| 8 | [#Reis2022EkAtama](http://twitter.com/search?q=%23Reis2022EkAtama) | N/A |
-| 9 | [Beştepeden Denklik](http://twitter.com/search?q=Be%c5%9ftepeden+Denklik) | N/A |
-| 10 | [#AdaletHerkesİçindir](http://twitter.com/search?q=%23AdaletHerkes%c4%b0%c3%a7indir) | N/A |
-| 11 | [#23YolundaSon10](http://twitter.com/search?q=%2323YolundaSon10) | N/A |
-| 12 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
-| 13 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 14 | [Mango](http://twitter.com/search?q=Mango) | N/A |
-| 15 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
-| 16 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
-| 17 | [Gülşen](http://twitter.com/search?q=G%c3%bcl%c5%9fen) | N/A |
-| 18 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
-| 19 | [SnErdoğan MahkumaAf](http://twitter.com/search?q=SnErdo%c4%9fan+MahkumaAf) | N/A |
-| 20 | [Erol Özvar](http://twitter.com/search?q=Erol+%c3%96zvar) | N/A |
-| 21 | [Anayasayı](http://twitter.com/search?q=Anayasay%c4%b1) | N/A |
-| 22 | [Nükleer](http://twitter.com/search?q=N%c3%bckleer) | N/A |
-| 23 | [İsteyen](http://twitter.com/search?q=%c4%b0steyen) | N/A |
-| 24 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
-| 25 | [Cehennemin](http://twitter.com/search?q=Cehennemin) | N/A |
-| 26 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 27 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
-| 28 | [Ahmet Yener](http://twitter.com/search?q=Ahmet+Yener) | N/A |
-| 29 | [Irak'tan](http://twitter.com/search?q=Irak%27tan) | N/A |
-| 30 | [Mahir Çayan](http://twitter.com/search?q=Mahir+%c3%87ayan) | N/A |
-| 31 | [Sınavlar](http://twitter.com/search?q=S%c4%b1navlar) | N/A |
-| 32 | [Defolsun](http://twitter.com/search?q=Defolsun) | N/A |
-| 33 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
-| 34 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 35 | [Hiranur Vakfı](http://twitter.com/search?q=Hiranur+Vakf%c4%b1) | N/A |
-| 36 | [Serbest](http://twitter.com/search?q=Serbest) | N/A |
-| 37 | [Milli Eğitim Bakanlığı](http://twitter.com/search?q=Milli+E%c4%9fitim+Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 38 | [ERDOĞANLA DEVAM](http://twitter.com/search?q=ERDO%c4%9eANLA+DEVAM) | N/A |
-| 39 | [Sünnet](http://twitter.com/search?q=S%c3%bcnnet) | N/A |
-| 40 | [Edirne](http://twitter.com/search?q=Edirne) | N/A |
-| 41 | [Eylül](http://twitter.com/search?q=Eyl%c3%bcl) | N/A |
-| 42 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
-| 43 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
-| 44 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
-| 45 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 46 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
-| 47 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
-| 48 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
-| 49 | [#3nisan](http://twitter.com/search?q=%233nisan) | N/A |
+| 2 | [#AdayAdayıBozdoğan](http://twitter.com/search?q=%23AdayAday%c4%b1Bozdo%c4%9fan) | N/A |
+| 3 | [Seni Cumhurbaşkanı](http://twitter.com/search?q=Seni+Cumhurba%c5%9fkan%c4%b1) | N/A |
+| 4 | [#AdaletHerkesİçindir](http://twitter.com/search?q=%23AdaletHerkes%c4%b0%c3%a7indir) | N/A |
+| 5 | [Piro](http://twitter.com/search?q=Piro) | N/A |
+| 6 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
+| 7 | [GSBtayinBekliyor](http://twitter.com/search?q=GSBtayinBekliyor) | N/A |
+| 8 | [AlparslanHocaya Yargısızİnfaz](http://twitter.com/search?q=AlparslanHocaya+Yarg%c4%b1s%c4%b1z%c4%b0nfaz) | N/A |
+| 9 | [UcretliOgrt KadroMujdesi](http://twitter.com/search?q=UcretliOgrt+KadroMujdesi) | N/A |
+| 10 | [#Reis2022EkAtama](http://twitter.com/search?q=%23Reis2022EkAtama) | N/A |
+| 11 | [Beştepeden Denklik](http://twitter.com/search?q=Be%c5%9ftepeden+Denklik) | N/A |
+| 12 | [Skandal Tehdit](http://twitter.com/search?q=Skandal+Tehdit) | N/A |
+| 13 | [İrfan Değirmenci](http://twitter.com/search?q=%c4%b0rfan+De%c4%9firmenci) | N/A |
+| 14 | [TaşeronuAçıkla VedatBilgin](http://twitter.com/search?q=Ta%c5%9feronuA%c3%a7%c4%b1kla+VedatBilgin) | N/A |
+| 15 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
+| 16 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
+| 17 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
+| 18 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
+| 19 | [Gülşen](http://twitter.com/search?q=G%c3%bcl%c5%9fen) | N/A |
+| 20 | [Turhan Çömez](http://twitter.com/search?q=Turhan+%c3%87%c3%b6mez) | N/A |
+| 21 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
+| 22 | [Mango](http://twitter.com/search?q=Mango) | N/A |
+| 23 | [Gidişi](http://twitter.com/search?q=Gidi%c5%9fi) | N/A |
+| 24 | [Hazırız Cumhurbaşkanım](http://twitter.com/search?q=Haz%c4%b1r%c4%b1z+Cumhurba%c5%9fkan%c4%b1m) | N/A |
+| 25 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
+| 26 | [Mehmet Selim Kiraz](http://twitter.com/search?q=Mehmet+Selim+Kiraz) | N/A |
+| 27 | [Ateşi](http://twitter.com/search?q=Ate%c5%9fi) | N/A |
+| 28 | [Devrim Özkan](http://twitter.com/search?q=Devrim+%c3%96zkan) | N/A |
+| 29 | [Eşref](http://twitter.com/search?q=E%c5%9fref) | N/A |
+| 30 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
+| 31 | [SnErdoğan MahkumaAf](http://twitter.com/search?q=SnErdo%c4%9fan+MahkumaAf) | N/A |
+| 32 | [Cehenneme](http://twitter.com/search?q=Cehenneme) | N/A |
+| 33 | [Erol Özvar](http://twitter.com/search?q=Erol+%c3%96zvar) | N/A |
+| 34 | [Anayasayı](http://twitter.com/search?q=Anayasay%c4%b1) | N/A |
+| 35 | [Defolsun](http://twitter.com/search?q=Defolsun) | N/A |
+| 36 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
+| 37 | [Nükleer](http://twitter.com/search?q=N%c3%bckleer) | N/A |
+| 38 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
+| 39 | [YSK Başkanı Ahmet Yener](http://twitter.com/search?q=YSK+Ba%c5%9fkan%c4%b1+Ahmet+Yener) | N/A |
+| 40 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
+| 41 | [Mahir Çayan](http://twitter.com/search?q=Mahir+%c3%87ayan) | N/A |
+| 42 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
+| 43 | [Irak'tan](http://twitter.com/search?q=Irak%27tan) | N/A |
+| 44 | [Milli Eğitim Bakanlığı](http://twitter.com/search?q=Milli+E%c4%9fitim+Bakanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 45 | [İsteyen](http://twitter.com/search?q=%c4%b0steyen) | N/A |
+| 46 | [Sınavlar](http://twitter.com/search?q=S%c4%b1navlar) | N/A |
+| 47 | [Sünnet](http://twitter.com/search?q=S%c3%bcnnet) | N/A |
+| 48 | [Silivri](http://twitter.com/search?q=Silivri) | N/A |
+| 49 | [Serbest](http://twitter.com/search?q=Serbest) | N/A |
 
 
 

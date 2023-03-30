@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-30 18:18:00 UTC`
+📆 Last Updated: `2023-03-30 19:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
-| 2 | [#SVT_APRIL_COMEBACK](http://twitter.com/search?q=%23SVT_APRIL_COMEBACK) | N/A |
-| 3 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
-| 4 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
-| 5 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
-| 6 | [#SayaMauMelamarAnakOm](http://twitter.com/search?q=%23SayaMauMelamarAnakOm) | N/A |
-| 7 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 8 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 9 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
-| 10 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
-| 11 | [Pengusaha](http://twitter.com/search?q=Pengusaha) | N/A |
-| 12 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
-| 13 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 14 | [BM LAST EVALUATION EP4](http://twitter.com/search?q=BM+LAST+EVALUATION+EP4) | N/A |
-| 15 | [Penyanyi](http://twitter.com/search?q=Penyanyi) | N/A |
-| 16 | [KSAD Dudung Abdurachman](http://twitter.com/search?q=KSAD+Dudung+Abdurachman) | N/A |
-| 17 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 18 | [Herman](http://twitter.com/search?q=Herman) | N/A |
-| 19 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
-| 20 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 21 | [Pil 2](http://twitter.com/search?q=Pil+2) | N/A |
-| 22 | [Anggota DPR](http://twitter.com/search?q=Anggota+DPR) | N/A |
-| 23 | [DPR IAN](http://twitter.com/search?q=DPR+IAN) | N/A |
-| 24 | [Mencuri Raden Saleh](http://twitter.com/search?q=Mencuri+Raden+Saleh) | N/A |
-| 25 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 26 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 27 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 28 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 30 | [Pil 1](http://twitter.com/search?q=Pil+1) | N/A |
-| 31 | [Rank 1](http://twitter.com/search?q=Rank+1) | N/A |
-| 32 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 33 | [Gelap](http://twitter.com/search?q=Gelap) | N/A |
-| 34 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
-| 35 | [ICE BSD](http://twitter.com/search?q=ICE+BSD) | N/A |
-| 36 | [#aespa_HoldOnTight](http://twitter.com/search?q=%23aespa_HoldOnTight) | N/A |
-| 37 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
-| 38 | [#DOJAEJUNG_BaseNote](http://twitter.com/search?q=%23DOJAEJUNG_BaseNote) | N/A |
-| 39 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 40 | [#OrenjiMinji_DAY](http://twitter.com/search?q=%23OrenjiMinji_DAY) | N/A |
-| 41 | [#민지오렌지_데이](http://twitter.com/search?q=%23%eb%af%bc%ec%a7%80%ec%98%a4%eb%a0%8c%ec%a7%80_%eb%8d%b0%ec%9d%b4) | N/A |
-| 42 | [#TerimakasihBanghan](http://twitter.com/search?q=%23TerimakasihBanghan) | N/A |
-| 43 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
-| 44 | [#LengkapiRamadan](http://twitter.com/search?q=%23LengkapiRamadan) | N/A |
-| 45 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 46 | [#SUPERCHARGER_ZIHAO](http://twitter.com/search?q=%23SUPERCHARGER_ZIHAO) | N/A |
-| 47 | [#DyandraGlobalConcert](http://twitter.com/search?q=%23DyandraGlobalConcert) | N/A |
-| 48 | [#인간슈퍼차저_왕즈하오](http://twitter.com/search?q=%23%ec%9d%b8%ea%b0%84%ec%8a%88%ed%8d%bc%ec%b0%a8%ec%a0%80_%ec%99%95%ec%a6%88%ed%95%98%ec%98%a4) | N/A |
-| 49 | [#ลัฟวี่ไม่เอาธันเดอร์โดม](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%a7%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%98%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%94%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b9%82%e0%b8%94%e0%b8%a1) | N/A |
+| 1 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 2 | [#THEDREAMSHOW2_in_PARIS](http://twitter.com/search?q=%23THEDREAMSHOW2_in_PARIS) | N/A |
+| 3 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 4 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 5 | [#NYALAinAja](http://twitter.com/search?q=%23NYALAinAja) | N/A |
+| 6 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 7 | [OCBC NISP](http://twitter.com/search?q=OCBC+NISP) | OCBC NISP stands for OCBC NISP Bank, an Indonesian banking institution. It is a subsidiary of the Singapore-based OCBC Bank and provides a range of banking services to individuals and businesses in Indonesia. The name is derived from the Indonesian phrase “Nasional Internasional Sekuritas Perdagangan”, which translates to “National International Securities Trading”. |
+| 8 | [#MARKLEE2NDSOLO](http://twitter.com/search?q=%23MARKLEE2NDSOLO) | N/A |
+| 9 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
+| 10 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 11 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
+| 12 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
+| 13 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 14 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
+| 15 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 16 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 17 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 18 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 19 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 20 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
+| 21 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
+| 22 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 23 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
+| 24 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
+| 25 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
+| 26 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 27 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 28 | [Golput](http://twitter.com/search?q=Golput) | N/A |
+| 29 | [Pengusaha](http://twitter.com/search?q=Pengusaha) | N/A |
+| 30 | [BRIGHT x BVLGARI75th](http://twitter.com/search?q=BRIGHT+x+BVLGARI75th) | N/A |
+| 31 | [BM LAST EVALUATION EP4](http://twitter.com/search?q=BM+LAST+EVALUATION+EP4) | N/A |
+| 32 | [FCK MY LIFE](http://twitter.com/search?q=FCK+MY+LIFE) | N/A |
+| 33 | [Pil 2](http://twitter.com/search?q=Pil+2) | N/A |
+| 34 | [Mencuri Raden Saleh](http://twitter.com/search?q=Mencuri+Raden+Saleh) | N/A |
+| 35 | [SafariRamadhan AHY Jabar](http://twitter.com/search?q=SafariRamadhan+AHY+Jabar) | N/A |
+| 36 | [Kecewa](http://twitter.com/search?q=Kecewa) | N/A |
+| 37 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
+| 38 | [Tokopedia Care](http://twitter.com/search?q=Tokopedia+Care) | N/A |
+| 39 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
+| 40 | [Penyanyi](http://twitter.com/search?q=Penyanyi) | N/A |
+| 41 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
+| 42 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 43 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
+| 44 | [Pil 1](http://twitter.com/search?q=Pil+1) | N/A |
+| 45 | [Meisya](http://twitter.com/search?q=Meisya) | N/A |
+| 46 | [Rank 1](http://twitter.com/search?q=Rank+1) | N/A |
+| 47 | [Johan Budi](http://twitter.com/search?q=Johan+Budi) | N/A |
+| 48 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 49 | [Slayer](http://twitter.com/search?q=Slayer) | N/A |
 
 
 

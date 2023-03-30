@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-30 18:18:31 UTC`
+📆 Last Updated: `2023-03-30 19:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
-| 2 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
-| 3 | [Bronx](http://twitter.com/search?q=Bronx) | N/A |
-| 4 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 5 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
-| 6 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 7 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 8 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 9 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 1 | [The Captain](http://twitter.com/search?q=The+Captain) | N/A |
+| 2 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 3 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 4 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
+| 5 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 6 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
+| 7 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 8 | [Bronx](http://twitter.com/search?q=Bronx) | N/A |
+| 9 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
 | 10 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 11 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 12 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 13 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 14 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 15 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 16 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 17 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 18 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 19 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 20 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 21 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 22 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 23 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 24 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 25 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 26 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 27 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 28 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 29 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 30 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 31 | [Arcia](http://twitter.com/search?q=Arcia) | Arcia is a Spanish name derived from the Latin word arca, meaning "chest" or "box". It is also a variant of the name Arcadia, which is derived from the Greek word for "utopia". In English, Arcia can be translated to mean "utopian chest" or "utopian box". |
-| 32 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 33 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 34 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 35 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 36 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
-| 37 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 38 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 39 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 40 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 41 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 42 | [NRFI](http://twitter.com/search?q=NRFI) | N/A |
-| 43 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 44 | [162 HRs](http://twitter.com/search?q=162+HRs) | N/A |
-| 45 | [Night 1](http://twitter.com/search?q=Night+1) | N/A |
-| 46 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
-| 47 | [Marlo](http://twitter.com/search?q=Marlo) | N/A |
-| 48 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 49 | [Sheree](http://twitter.com/search?q=Sheree) | N/A |
-| 50 | [Science Saru](http://twitter.com/search?q=Science+Saru) | N/A |
+| 11 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 12 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 13 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 14 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 15 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 16 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 17 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 18 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 19 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 20 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 21 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 22 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 23 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
+| 24 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
+| 25 | [#aimseylook](http://twitter.com/search?q=%23aimseylook) | N/A |
+| 26 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 27 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 28 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
+| 29 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 30 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 31 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 32 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 33 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 34 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
+| 35 | [Webb](http://twitter.com/search?q=Webb) | N/A |
+| 36 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 37 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 38 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 39 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 40 | [Gleyber Day](http://twitter.com/search?q=Gleyber+Day) | N/A |
+| 41 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 42 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
+| 43 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 44 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 45 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 46 | [QAnon Shaman](http://twitter.com/search?q=QAnon+Shaman) | N/A |
+| 47 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 48 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
+| 49 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
+| 50 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
 
 
 

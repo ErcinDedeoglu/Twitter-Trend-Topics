@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-30 18:17:54 UTC`
+📆 Last Updated: `2023-03-30 19:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,49 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#30marzo](http://twitter.com/search?q=%2330marzo) | N/A |
+| 1 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
 | 2 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 3 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
-| 4 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 5 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 6 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 7 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 8 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 9 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 10 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 11 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 12 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 13 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 3 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 4 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 5 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
+| 6 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 7 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 8 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 9 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 10 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 11 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
+| 12 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 13 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
 | 14 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 15 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 16 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 15 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 16 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
 | 17 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 18 | [SIAE](http://twitter.com/search?q=SIAE) | N/A |
-| 19 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 20 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 21 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 22 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 23 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 24 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 25 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
-| 26 | [Pnnr](http://twitter.com/search?q=Pnnr) | N/A |
-| 27 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 28 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 29 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 30 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 31 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 32 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
+| 18 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 19 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 20 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 21 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 22 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 23 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 24 | [Otello](http://twitter.com/search?q=Otello) | N/A |
+| 25 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
+| 26 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 27 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 28 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 29 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 30 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
+| 31 | [Eugenio](http://twitter.com/search?q=Eugenio) | N/A |
+| 32 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
 | 33 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 34 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 35 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
-| 36 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 37 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
-| 38 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
-| 39 | [Cuoricino](http://twitter.com/search?q=Cuoricino) | N/A |
-| 40 | [Angelina e Federica](http://twitter.com/search?q=Angelina+e+Federica) | N/A |
-| 41 | [EMANUELA FANELLI](http://twitter.com/search?q=EMANUELA+FANELLI) | N/A |
-| 42 | [Blue Skye](http://twitter.com/search?q=Blue+Skye) | N/A |
-| 43 | [Cappellini](http://twitter.com/search?q=Cappellini) | N/A |
+| 34 | [SIAE](http://twitter.com/search?q=SIAE) | N/A |
+| 35 | [Cipriani](http://twitter.com/search?q=Cipriani) | N/A |
+| 36 | [Cuoricino](http://twitter.com/search?q=Cuoricino) | N/A |
+| 37 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 38 | [San Raffaele](http://twitter.com/search?q=San+Raffaele) | N/A |
+| 39 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
+| 40 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 41 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 42 | [Buonasera](http://twitter.com/search?q=Buonasera) | N/A |
+| 43 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
 
 
 

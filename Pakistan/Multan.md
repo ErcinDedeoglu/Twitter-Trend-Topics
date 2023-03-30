@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-30 18:18:18 UTC`
+📆 Last Updated: `2023-03-30 19:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,47 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [Broken](http://twitter.com/search?q=Broken) | N/A |
 | 6 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
 | 7 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 8 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
+| 8 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
 | 9 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 10 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 10 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
 | 11 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 12 | [Biryani](http://twitter.com/search?q=Biryani) | N/A |
-| 13 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
-| 14 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 15 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 16 | [DSP Iqbal Mohmand](http://twitter.com/search?q=DSP+Iqbal+Mohmand) | N/A |
-| 17 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 18 | [morne morkel](http://twitter.com/search?q=morne+morkel) | N/A |
-| 19 | [Drone](http://twitter.com/search?q=Drone) | N/A |
-| 20 | [Bill 2023](http://twitter.com/search?q=Bill+2023) | N/A |
-| 21 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 22 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 23 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
-| 24 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
-| 25 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
-| 26 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 27 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 28 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
-| 29 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 30 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
-| 31 | [Justice Aminuddin Khan](http://twitter.com/search?q=Justice+Aminuddin+Khan) | N/A |
-| 32 | [Kasur](http://twitter.com/search?q=Kasur) | N/A |
-| 33 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
-| 34 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 12 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
+| 13 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 14 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 15 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 16 | [bill 2023](http://twitter.com/search?q=bill+2023) | N/A |
+| 17 | [DSP Iqbal Mohmand](http://twitter.com/search?q=DSP+Iqbal+Mohmand) | N/A |
+| 18 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 19 | [Morne Morkel](http://twitter.com/search?q=Morne+Morkel) | N/A |
+| 20 | [Dr. Aafia Siddiqui](http://twitter.com/search?q=Dr.+Aafia+Siddiqui) | N/A |
+| 21 | [justice aminuddin khan](http://twitter.com/search?q=justice+aminuddin+khan) | N/A |
+| 22 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
+| 23 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
+| 24 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
+| 25 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 26 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 27 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 28 | [Article 19](http://twitter.com/search?q=Article+19) | N/A |
+| 29 | [Choti](http://twitter.com/search?q=Choti) | N/A |
+| 30 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
+| 31 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
+| 32 | [Pakistan Penal Code](http://twitter.com/search?q=Pakistan+Penal+Code) | N/A |
+| 33 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 34 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
 | 35 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 36 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 37 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 38 | [Pashtun](http://twitter.com/search?q=Pashtun) | N/A |
-| 39 | [Choti](http://twitter.com/search?q=Choti) | N/A |
-| 40 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
-| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 42 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
-| 43 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 44 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 45 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 46 | [Bery](http://twitter.com/search?q=Bery) | N/A |
-| 47 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
-| 48 | [Wasim](http://twitter.com/search?q=Wasim) | N/A |
-| 49 | [Beshak](http://twitter.com/search?q=Beshak) | N/A |
+| 36 | [Sarfaraz Ahmed](http://twitter.com/search?q=Sarfaraz+Ahmed) | N/A |
+| 37 | [Shukria](http://twitter.com/search?q=Shukria) | N/A |
+| 38 | [Jannat](http://twitter.com/search?q=Jannat) | N/A |
+| 39 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 40 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
+| 41 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 42 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 43 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 44 | [Baba](http://twitter.com/search?q=Baba) | N/A |
+| 45 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 46 | [Ufff](http://twitter.com/search?q=Ufff) | N/A |
+| 47 | [Quaid e Azam](http://twitter.com/search?q=Quaid+e+Azam) | N/A |
+| 48 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
 
 
 

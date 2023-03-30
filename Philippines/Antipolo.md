@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-03-30 18:18:08 UTC`
+📆 Last Updated: `2023-03-30 19:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
-| 2 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
-| 3 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
-| 4 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
-| 5 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
-| 6 | [#SVT_APRIL_COMEBACK](http://twitter.com/search?q=%23SVT_APRIL_COMEBACK) | N/A |
-| 7 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
-| 8 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 1 | [#LeeJongSuk](http://twitter.com/search?q=%23LeeJongSuk) | N/A |
+| 2 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
+| 3 | [#HORI7ON_onStarMagicalProm](http://twitter.com/search?q=%23HORI7ON_onStarMagicalProm) | N/A |
+| 4 | [HORI7ON 1st Prom](http://twitter.com/search?q=HORI7ON+1st+Prom) | N/A |
+| 5 | [#호라이즌](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c) | N/A |
+| 6 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
+| 7 | [ME BY JISOO D-DAY](http://twitter.com/search?q=ME+BY+JISOO+D-DAY) | N/A |
+| 8 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
 | 9 | [PLUUS MINI ALBUM DEBUT](http://twitter.com/search?q=PLUUS+MINI+ALBUM+DEBUT) | N/A |
-| 10 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
-| 11 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
-| 12 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 13 | [Finding My Life](http://twitter.com/search?q=Finding+My+Life) | N/A |
-| 14 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
-| 15 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
-| 16 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
-| 17 | [Feel My Love](http://twitter.com/search?q=Feel+My+Love) | N/A |
-| 18 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 19 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
+| 10 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 11 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 12 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
+| 13 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 14 | [Finding My Life](http://twitter.com/search?q=Finding+My+Life) | N/A |
+| 15 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
+| 16 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 17 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
+| 18 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 19 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
 | 20 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 21 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
-| 22 | [Prom King and Queen](http://twitter.com/search?q=Prom+King+and+Queen) | N/A |
-| 23 | [SENIOR PRINCESS VIVOREE](http://twitter.com/search?q=SENIOR+PRINCESS+VIVOREE) | N/A |
-| 24 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 21 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 22 | [SENIOR PRINCESS VIVOREE](http://twitter.com/search?q=SENIOR+PRINCESS+VIVOREE) | N/A |
+| 23 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 24 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
 | 25 | [sharpay](http://twitter.com/search?q=sharpay) | N/A |
-| 26 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 27 | [SOLOIST JISOO](http://twitter.com/search?q=SOLOIST+JISOO) | N/A |
-| 28 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 29 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
-| 30 | [Best MB](http://twitter.com/search?q=Best+MB) | N/A |
-| 31 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 32 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
-| 33 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 34 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
-| 35 | [HORI7ON 1st Prom](http://twitter.com/search?q=HORI7ON+1st+Prom) | N/A |
-| 36 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
-| 37 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
-| 38 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 39 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
-| 40 | [FranSeth](http://twitter.com/search?q=FranSeth) | N/A |
-| 41 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 42 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
-| 43 | [Finals MVP](http://twitter.com/search?q=Finals+MVP) | N/A |
-| 44 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
-| 45 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 46 | [Tyang](http://twitter.com/search?q=Tyang) | N/A |
-| 47 | [ALJAY PROMinent Tonight](http://twitter.com/search?q=ALJAY+PROMinent+Tonight) | N/A |
-| 48 | [#ENHYPEN_IN_PARIS](http://twitter.com/search?q=%23ENHYPEN_IN_PARIS) | N/A |
-| 49 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
-| 50 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 26 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 27 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 28 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 29 | [Blythe](http://twitter.com/search?q=Blythe) | N/A |
+| 30 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
+| 31 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 32 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 33 | [Mama Mary](http://twitter.com/search?q=Mama+Mary) | N/A |
+| 34 | [Finals MVP](http://twitter.com/search?q=Finals+MVP) | N/A |
+| 35 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
+| 36 | [#SVT_APRIL_COMEBACK](http://twitter.com/search?q=%23SVT_APRIL_COMEBACK) | N/A |
+| 37 | [#PLUUSMiniAlbumRelease](http://twitter.com/search?q=%23PLUUSMiniAlbumRelease) | N/A |
+| 38 | [#UnkabogableAt47](http://twitter.com/search?q=%23UnkabogableAt47) | N/A |
+| 39 | [#PLUUS_TYM](http://twitter.com/search?q=%23PLUUS_TYM) | N/A |
+| 40 | [#ENHYPEN_IN_PARIS](http://twitter.com/search?q=%23ENHYPEN_IN_PARIS) | N/A |
+| 41 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
+| 42 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 43 | [#aespa_HoldOnTight](http://twitter.com/search?q=%23aespa_HoldOnTight) | N/A |
+| 44 | [#ViceGanda](http://twitter.com/search?q=%23ViceGanda) | N/A |
+| 45 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
+| 46 | [#VXON_BreakingBad](http://twitter.com/search?q=%23VXON_BreakingBad) | N/A |
+| 47 | [#EMEKaNaBeh](http://twitter.com/search?q=%23EMEKaNaBeh) | N/A |
+| 48 | [#WonDONNYrousPromNight](http://twitter.com/search?q=%23WonDONNYrousPromNight) | N/A |
+| 49 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 50 | [#BGYO1stDateTogether](http://twitter.com/search?q=%23BGYO1stDateTogether) | N/A |
 
 
 
