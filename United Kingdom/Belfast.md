@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-03-30 10:17:11 UTC`
+📆 Last Updated: `2023-03-30 11:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 2 | [Margaret Ferrier](http://twitter.com/search?q=Margaret+Ferrier) | N/A |
-| 3 | [#WorldBipolarDay](http://twitter.com/search?q=%23WorldBipolarDay) | N/A |
-| 4 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 5 | [#ASongOrMovieForGoingForAWalk](http://twitter.com/search?q=%23ASongOrMovieForGoingForAWalk) | N/A |
-| 6 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 7 | [#Thursdaythoughts](http://twitter.com/search?q=%23Thursdaythoughts) | N/A |
-| 8 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
-| 9 | [Rutherglen](http://twitter.com/search?q=Rutherglen) | N/A |
-| 10 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
-| 11 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
-| 12 | [Defoe](http://twitter.com/search?q=Defoe) | N/A |
+| 1 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 2 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 3 | [Margaret Ferrier](http://twitter.com/search?q=Margaret+Ferrier) | N/A |
+| 4 | [#FMQs](http://twitter.com/search?q=%23FMQs) | N/A |
+| 5 | [#WorldBipolarDay](http://twitter.com/search?q=%23WorldBipolarDay) | N/A |
+| 6 | [Chris Kaba](http://twitter.com/search?q=Chris+Kaba) | N/A |
+| 7 | [Ashley Cole](http://twitter.com/search?q=Ashley+Cole) | N/A |
+| 8 | [Gary Neville](http://twitter.com/search?q=Gary+Neville) | Gary Neville is a former English professional footballer who played as a right-back for Manchester United and the England national team. He is currently a football pundit and co-owner of Salford City. The phrase "Gary Neville" is used to refer to someone who is reliable, hardworking, and dedicated to their job. |
+| 9 | [#ASongOrMovieForGoingForAWalk](http://twitter.com/search?q=%23ASongOrMovieForGoingForAWalk) | N/A |
+| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 11 | [Bundestag](http://twitter.com/search?q=Bundestag) | N/A |
+| 12 | [Council Tax](http://twitter.com/search?q=Council+Tax) | N/A |
 | 13 | [Net Zero](http://twitter.com/search?q=Net+Zero) | N/A |
-| 14 | [Policy Exchange](http://twitter.com/search?q=Policy+Exchange) | N/A |
-| 15 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
-| 16 | [Earls Court](http://twitter.com/search?q=Earls+Court) | N/A |
-| 17 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 18 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
-| 19 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 20 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
-| 21 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
-| 22 | [Masi](http://twitter.com/search?q=Masi) | N/A |
-| 23 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
-| 24 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 25 | [WASD](http://twitter.com/search?q=WASD) | N/A |
-| 26 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 27 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
-| 28 | [Indo-Pacific](http://twitter.com/search?q=Indo-Pacific) | N/A |
-| 29 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 30 | [Green Day](http://twitter.com/search?q=Green+Day) | N/A |
-| 31 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
-| 32 | [Teesside](http://twitter.com/search?q=Teesside) | N/A |
-| 33 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 34 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 35 | [North Sea](http://twitter.com/search?q=North+Sea) | N/A |
-| 36 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 37 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 38 | [Amanda Holden](http://twitter.com/search?q=Amanda+Holden) | N/A |
-| 39 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 40 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 41 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 42 | [#ThursdayMorning](http://twitter.com/search?q=%23ThursdayMorning) | N/A |
-| 43 | [#CheshireDay](http://twitter.com/search?q=%23CheshireDay) | N/A |
-| 44 | [#ToriesOut266](http://twitter.com/search?q=%23ToriesOut266) | N/A |
-| 45 | [#RememberTomParker](http://twitter.com/search?q=%23RememberTomParker) | N/A |
-| 46 | [#PLHallOfFame](http://twitter.com/search?q=%23PLHallOfFame) | N/A |
-| 47 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 48 | [#AdoorableThursday](http://twitter.com/search?q=%23AdoorableThursday) | N/A |
-| 49 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 14 | [Defoe](http://twitter.com/search?q=Defoe) | N/A |
+| 15 | [Earls Court](http://twitter.com/search?q=Earls+Court) | N/A |
+| 16 | [Rutherglen](http://twitter.com/search?q=Rutherglen) | N/A |
+| 17 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 18 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 19 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 20 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 21 | [Grant Shapps](http://twitter.com/search?q=Grant+Shapps) | Grant Shapps is the current Chairman of the Conservative Party in the United Kingdom. He was appointed to the role in May 2019 and is responsible for leading the party's strategy and campaigns. He is also a Member of Parliament for Welwyn Hatfield. |
+| 22 | [Policy Exchange](http://twitter.com/search?q=Policy+Exchange) | N/A |
+| 23 | [Andy Cole](http://twitter.com/search?q=Andy+Cole) | N/A |
+| 24 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
+| 25 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 26 | [King Charles](http://twitter.com/search?q=King+Charles) | N/A |
+| 27 | [Freeze](http://twitter.com/search?q=Freeze) | N/A |
+| 28 | [Fowler](http://twitter.com/search?q=Fowler) | N/A |
+| 29 | [Charles Bronson](http://twitter.com/search?q=Charles+Bronson) | N/A |
+| 30 | [Masi](http://twitter.com/search?q=Masi) | N/A |
+| 31 | [WASD](http://twitter.com/search?q=WASD) | N/A |
+| 32 | [Daily Quordle 430](http://twitter.com/search?q=Daily+Quordle+430) | N/A |
+| 33 | [Loch Lomond](http://twitter.com/search?q=Loch+Lomond) | N/A |
+| 34 | [Rachel Reeves](http://twitter.com/search?q=Rachel+Reeves) | N/A |
+| 35 | [Keith Arsewank](http://twitter.com/search?q=Keith+Arsewank) | N/A |
+| 36 | [Indo-Pacific](http://twitter.com/search?q=Indo-Pacific) | N/A |
+| 37 | [Ofgem](http://twitter.com/search?q=Ofgem) | N/A |
+| 38 | [Giggs](http://twitter.com/search?q=Giggs) | N/A |
+| 39 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 40 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
+| 41 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 42 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 43 | [Streeting](http://twitter.com/search?q=Streeting) | N/A |
+| 44 | [Minister for Independence](http://twitter.com/search?q=Minister+for+Independence) | N/A |
+| 45 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 46 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 47 | [Palm Sunday](http://twitter.com/search?q=Palm+Sunday) | N/A |
+| 48 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 49 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-03-30 10:18:17 UTC`
+📆 Last Updated: `2023-03-30 11:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Singapore
 | 6 | [#henrylau](http://twitter.com/search?q=%23henrylau) | N/A |
 | 7 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
 | 8 | [Korean](http://twitter.com/search?q=Korean) | N/A |
-| 9 | [CONGRATS MYGZ MOLINO](http://twitter.com/search?q=CONGRATS+MYGZ+MOLINO) | N/A |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 11 | [soyeon](http://twitter.com/search?q=soyeon) | N/A |
-| 12 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 13 | [Moonsun](http://twitter.com/search?q=Moonsun) | N/A |
-| 14 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 15 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 16 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
-| 17 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 18 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 9 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 10 | [congrats mygz molino](http://twitter.com/search?q=congrats+mygz+molino) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [soyeon](http://twitter.com/search?q=soyeon) | N/A |
+| 13 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 14 | [Moonsun](http://twitter.com/search?q=Moonsun) | N/A |
+| 15 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 16 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
+| 17 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 18 | [Bangkok](http://twitter.com/search?q=Bangkok) | N/A |
 | 19 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
-| 20 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 21 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 22 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
-| 23 | [$SANI](http://twitter.com/search?q=%24SANI) | N/A |
-| 24 | [Zhongli](http://twitter.com/search?q=Zhongli) | N/A |
-| 25 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 26 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 27 | [America](http://twitter.com/search?q=America) | N/A |
-| 28 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
-| 29 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
-| 30 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 31 | [Day6](http://twitter.com/search?q=Day6) | N/A |
-| 32 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 33 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 34 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 35 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
-| 36 | [For You](http://twitter.com/search?q=For+You) | N/A |
-| 37 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 38 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 39 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 40 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 41 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 42 | [London](http://twitter.com/search?q=London) | N/A |
-| 43 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 44 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 46 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
-| 47 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 48 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 49 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 50 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 20 | [$SANI](http://twitter.com/search?q=%24SANI) | N/A |
+| 21 | [Zhongli](http://twitter.com/search?q=Zhongli) | N/A |
+| 22 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 23 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | [America](http://twitter.com/search?q=America) | N/A |
+| 26 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 27 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
+| 28 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 29 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 30 | [Day6](http://twitter.com/search?q=Day6) | N/A |
+| 31 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 32 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 33 | [Excuse](http://twitter.com/search?q=Excuse) | N/A |
+| 34 | [Yeonjun](http://twitter.com/search?q=Yeonjun) | N/A |
+| 35 | [For You](http://twitter.com/search?q=For+You) | N/A |
+| 36 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 37 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 38 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 39 | [London](http://twitter.com/search?q=London) | N/A |
+| 40 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 41 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 42 | [Oooo](http://twitter.com/search?q=Oooo) | N/A |
+| 43 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 44 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 45 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 47 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 48 | [$JOE](http://twitter.com/search?q=%24JOE) | N/A |
+| 49 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
+| 50 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 
 
 

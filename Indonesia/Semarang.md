@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-30 10:17:33 UTC`
+📆 Last Updated: `2023-03-30 11:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
 | 2 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 3 | [#nyalainaja](http://twitter.com/search?q=%23nyalainaja) | N/A |
+| 3 | [#NYALAinAja](http://twitter.com/search?q=%23NYALAinAja) | N/A |
 | 4 | [OCBC NISP](http://twitter.com/search?q=OCBC+NISP) | OCBC NISP stands for OCBC NISP Bank, an Indonesian banking institution. It is a subsidiary of the Singapore-based OCBC Bank and provides a range of banking services to individuals and businesses in Indonesia. The name is derived from the Indonesian phrase “Nasional Internasional Sekuritas Perdagangan”, which translates to “National International Securities Trading”. |
-| 5 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
-| 6 | [#RedmiNote12Series](http://twitter.com/search?q=%23RedmiNote12Series) | N/A |
-| 7 | [#SaatnyaPrabowoPuan](http://twitter.com/search?q=%23SaatnyaPrabowoPuan) | N/A |
-| 8 | [Lengkapi](http://twitter.com/search?q=Lengkapi) | N/A |
-| 9 | [JUNHAO](http://twitter.com/search?q=JUNHAO) | N/A |
-| 10 | [Gelap](http://twitter.com/search?q=Gelap) | N/A |
-| 11 | [Selamat Hari Film Nasional](http://twitter.com/search?q=Selamat+Hari+Film+Nasional) | N/A |
-| 12 | [Tokopedia Care](http://twitter.com/search?q=Tokopedia+Care) | N/A |
-| 13 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 14 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
-| 15 | [Cuci](http://twitter.com/search?q=Cuci) | N/A |
-| 16 | [Johan Budi](http://twitter.com/search?q=Johan+Budi) | N/A |
-| 17 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
-| 18 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
-| 19 | [349 T](http://twitter.com/search?q=349+T) | N/A |
-| 20 | [Koster](http://twitter.com/search?q=Koster) | N/A |
-| 21 | [Sepak](http://twitter.com/search?q=Sepak) | N/A |
-| 22 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
-| 23 | [Golput](http://twitter.com/search?q=Golput) | N/A |
-| 24 | [Kecewa](http://twitter.com/search?q=Kecewa) | N/A |
-| 25 | [Mundur](http://twitter.com/search?q=Mundur) | N/A |
-| 26 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
-| 27 | [#오직_너만이_아는_내_SWITCH](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%eb%84%88%eb%a7%8c%ec%9d%b4_%ec%95%84%eb%8a%94_%eb%82%b4_SWITCH) | N/A |
-| 28 | [#RamadandiShopeexOPPO](http://twitter.com/search?q=%23RamadandiShopeexOPPO) | N/A |
-| 29 | [#DemokratProPerubahan](http://twitter.com/search?q=%23DemokratProPerubahan) | N/A |
-| 30 | [#PialaDuniaBatalKarnaIni](http://twitter.com/search?q=%23PialaDuniaBatalKarnaIni) | N/A |
-| 31 | [#zonauang️](http://twitter.com/search?q=%23zonauang%ef%b8%8f) | N/A |
-| 32 | [#FreenBeckID](http://twitter.com/search?q=%23FreenBeckID) | N/A |
-| 33 | [#FreenIndonesia](http://twitter.com/search?q=%23FreenIndonesia) | N/A |
-| 34 | [#BeckyIndonesia](http://twitter.com/search?q=%23BeckyIndonesia) | N/A |
-| 35 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 36 | [#MARKLEE2NDSOLO](http://twitter.com/search?q=%23MARKLEE2NDSOLO) | N/A |
-| 37 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
-| 38 | [#xikers](http://twitter.com/search?q=%23xikers) | N/A |
-| 39 | [#FIFA](http://twitter.com/search?q=%23FIFA) | N/A |
-| 40 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 41 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
-| 42 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
+| 5 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
+| 6 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
+| 7 | [#RedmiNote12Series](http://twitter.com/search?q=%23RedmiNote12Series) | N/A |
+| 8 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 9 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 10 | [Kasad Dudung AR](http://twitter.com/search?q=Kasad+Dudung+AR) | N/A |
+| 11 | [SafariRamadhan AHY Jabar](http://twitter.com/search?q=SafariRamadhan+AHY+Jabar) | N/A |
+| 12 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
+| 13 | [Lengkapi](http://twitter.com/search?q=Lengkapi) | N/A |
+| 14 | [Gelap](http://twitter.com/search?q=Gelap) | N/A |
+| 15 | [Selamat Hari Film Nasional](http://twitter.com/search?q=Selamat+Hari+Film+Nasional) | N/A |
+| 16 | [JUNHAO](http://twitter.com/search?q=JUNHAO) | N/A |
+| 17 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 18 | [Tokopedia Care](http://twitter.com/search?q=Tokopedia+Care) | N/A |
+| 19 | [Sumbar](http://twitter.com/search?q=Sumbar) | N/A |
+| 20 | [Cuci](http://twitter.com/search?q=Cuci) | N/A |
+| 21 | [MARK LEE GOLDEN HOUR](http://twitter.com/search?q=MARK+LEE+GOLDEN+HOUR) | N/A |
+| 22 | [349 T](http://twitter.com/search?q=349+T) | N/A |
+| 23 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
+| 24 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
+| 25 | [Kecewa](http://twitter.com/search?q=Kecewa) | N/A |
+| 26 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 27 | [Ketum](http://twitter.com/search?q=Ketum) | N/A |
+| 28 | [Pak Ganjar](http://twitter.com/search?q=Pak+Ganjar) | N/A |
+| 29 | [Sepak](http://twitter.com/search?q=Sepak) | N/A |
+| 30 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
+| 31 | [Mundur](http://twitter.com/search?q=Mundur) | N/A |
+| 32 | [#JIMIN3rdWin](http://twitter.com/search?q=%23JIMIN3rdWin) | N/A |
+| 33 | [#Ollydondokambey](http://twitter.com/search?q=%23Ollydondokambey) | N/A |
+| 34 | [#UHCAward2023](http://twitter.com/search?q=%23UHCAward2023) | N/A |
+| 35 | [#GubernurSulut](http://twitter.com/search?q=%23GubernurSulut) | N/A |
+| 36 | [#universalhealthcoverage](http://twitter.com/search?q=%23universalhealthcoverage) | N/A |
+| 37 | [#SaatnyaPrabowoPuan](http://twitter.com/search?q=%23SaatnyaPrabowoPuan) | N/A |
+| 38 | [#BodyGlovexGeminiFourth](http://twitter.com/search?q=%23BodyGlovexGeminiFourth) | N/A |
+| 39 | [#오직_너만이_아는_내_SWITCH](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%eb%84%88%eb%a7%8c%ec%9d%b4_%ec%95%84%eb%8a%94_%eb%82%b4_SWITCH) | N/A |
+| 40 | [#RamadandiShopeexOPPO](http://twitter.com/search?q=%23RamadandiShopeexOPPO) | N/A |
+| 41 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
+| 42 | [#DemokratProPerubahan](http://twitter.com/search?q=%23DemokratProPerubahan) | N/A |
+| 43 | [#FreenBeckID](http://twitter.com/search?q=%23FreenBeckID) | N/A |
+| 44 | [#FreenIndonesia](http://twitter.com/search?q=%23FreenIndonesia) | N/A |
+| 45 | [#BeckyIndonesia](http://twitter.com/search?q=%23BeckyIndonesia) | N/A |
+| 46 | [#zonauang️](http://twitter.com/search?q=%23zonauang%ef%b8%8f) | N/A |
+| 47 | [#PARKHANBIN](http://twitter.com/search?q=%23PARKHANBIN) | N/A |
+| 48 | [#PialaDuniaBatalKarnaIni](http://twitter.com/search?q=%23PialaDuniaBatalKarnaIni) | N/A |
+| 49 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
 
 
 

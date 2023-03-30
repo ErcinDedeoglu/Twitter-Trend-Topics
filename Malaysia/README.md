@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-03-30 10:18:14 UTC`
+📆 Last Updated: `2023-03-30 11:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Malaysia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
-| 2 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
-| 3 | [Yes 5G](http://twitter.com/search?q=Yes+5G) | N/A |
-| 4 | [#WelcomeTREASUREtoThailand](http://twitter.com/search?q=%23WelcomeTREASUREtoThailand) | "#WelcomeTREASUREtoThailand" is a hashtag used to welcome the K-pop group TREASURE to Thailand. It is a way of expressing excitement and anticipation for their upcoming visit. |
-| 5 | [#THEDREAMSHOW2_in_KL](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KL) | N/A |
-| 6 | [#RimowaXGulf](http://twitter.com/search?q=%23RimowaXGulf) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
-| 9 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 10 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
+| 1 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
+| 2 | [#TDS2inKL](http://twitter.com/search?q=%23TDS2inKL) | N/A |
+| 3 | [#BvlgariXZeeNuNew](http://twitter.com/search?q=%23BvlgariXZeeNuNew) | N/A |
+| 4 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 5 | [#오직_너만이_아는_내_SWITCH](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%eb%84%88%eb%a7%8c%ec%9d%b4_%ec%95%84%eb%8a%94_%eb%82%b4_SWITCH) | N/A |
+| 6 | [#THEDREAMSHOW2_in_KL](http://twitter.com/search?q=%23THEDREAMSHOW2_in_KL) | N/A |
+| 7 | [YES 5G](http://twitter.com/search?q=YES+5G) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 10 | [Golden Hour](http://twitter.com/search?q=Golden+Hour) | N/A |
 | 11 | [PETA](http://twitter.com/search?q=PETA) | N/A |
-| 12 | [NCT DREAM TOUR](http://twitter.com/search?q=NCT+DREAM+TOUR) | N/A |
-| 13 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 14 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
-| 15 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 16 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 17 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 18 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 19 | [Day6](http://twitter.com/search?q=Day6) | N/A |
-| 20 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 21 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 22 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 23 | [flower mv teaser](http://twitter.com/search?q=flower+mv+teaser) | N/A |
-| 24 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 25 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 26 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 27 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
-| 28 | [LEE JENO](http://twitter.com/search?q=LEE+JENO) | N/A |
-| 29 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 30 | [SEHUN](http://twitter.com/search?q=SEHUN) | SEHUN is the stage name of Oh Se-hun, a South Korean singer, rapper, dancer, and actor. He is a member of the K-pop boy group EXO. The name SEHUN is derived from his given name Se-hun and does not have an English translation. |
-| 31 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 32 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
-| 33 | [UiTM](http://twitter.com/search?q=UiTM) | N/A |
-| 34 | [sspn](http://twitter.com/search?q=sspn) | N/A |
-| 35 | [SEOK MATTHEW](http://twitter.com/search?q=SEOK+MATTHEW) | N/A |
-| 36 | [minjae](http://twitter.com/search?q=minjae) | N/A |
-| 37 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 38 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
-| 39 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 40 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 41 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
-| 42 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 43 | [Moonbyul](http://twitter.com/search?q=Moonbyul) | N/A |
-| 44 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 45 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 46 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 47 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 48 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 49 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 50 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
+| 12 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 13 | [happy birthday sunshine mino](http://twitter.com/search?q=happy+birthday+sunshine+mino) | N/A |
+| 14 | [NCT DREAM TOUR](http://twitter.com/search?q=NCT+DREAM+TOUR) | N/A |
+| 15 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 16 | [lee zii jia](http://twitter.com/search?q=lee+zii+jia) | N/A |
+| 17 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
+| 18 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 19 | [Donghae](http://twitter.com/search?q=Donghae) | N/A |
+| 20 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 21 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 22 | [Day6](http://twitter.com/search?q=Day6) | N/A |
+| 23 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 24 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 27 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
+| 28 | [flower mv teaser](http://twitter.com/search?q=flower+mv+teaser) | N/A |
+| 29 | [BAMBAM](http://twitter.com/search?q=BAMBAM) | N/A |
+| 30 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 31 | [UiTM](http://twitter.com/search?q=UiTM) | N/A |
+| 32 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 33 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 34 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 35 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 36 | [MBPJ](http://twitter.com/search?q=MBPJ) | N/A |
+| 37 | [sspn](http://twitter.com/search?q=sspn) | N/A |
+| 38 | [Dewan Rakyat](http://twitter.com/search?q=Dewan+Rakyat) | N/A |
+| 39 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 40 | [byul](http://twitter.com/search?q=byul) | N/A |
+| 41 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 42 | [Minjae](http://twitter.com/search?q=Minjae) | N/A |
+| 43 | [Jeno](http://twitter.com/search?q=Jeno) | N/A |
+| 44 | [Maybank](http://twitter.com/search?q=Maybank) | N/A |
+| 45 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 46 | [Shah Alam](http://twitter.com/search?q=Shah+Alam) | N/A |
+| 47 | [ACT 1 SCENE 1 ALBUM](http://twitter.com/search?q=ACT+1+SCENE+1+ALBUM) | N/A |
+| 48 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 49 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 50 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 
 
 

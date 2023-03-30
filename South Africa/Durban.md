@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-30 10:17:45 UTC`
+📆 Last Updated: `2023-03-30 11:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
 | 4 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
 | 5 | [#BeefeaterGinZA](http://twitter.com/search?q=%23BeefeaterGinZA) | N/A |
-| 6 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
-| 7 | [#LoveWithCapitec](http://twitter.com/search?q=%23LoveWithCapitec) | N/A |
-| 8 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 9 | [#CitroSoda](http://twitter.com/search?q=%23CitroSoda) | N/A |
-| 10 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 11 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
+| 6 | [#konkhekuhambakahleClothing](http://twitter.com/search?q=%23konkhekuhambakahleClothing) | N/A |
+| 7 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
+| 8 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 9 | [#ReachForRelief](http://twitter.com/search?q=%23ReachForRelief) | N/A |
+| 10 | [#WeDoMoreWednesdays](http://twitter.com/search?q=%23WeDoMoreWednesdays) | N/A |
+| 11 | [#LoveWithCapitec](http://twitter.com/search?q=%23LoveWithCapitec) | N/A |
 | 12 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
 | 13 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
 | 14 | [Congratulations Mo](http://twitter.com/search?q=Congratulations+Mo) | N/A |
-| 15 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 16 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 17 | [Sneaker](http://twitter.com/search?q=Sneaker) | N/A |
-| 18 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
-| 19 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
-| 20 | [Faster Printing](http://twitter.com/search?q=Faster+Printing) | N/A |
-| 21 | [UNISA](http://twitter.com/search?q=UNISA) | N/A |
-| 22 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
-| 23 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 24 | [Medshield](http://twitter.com/search?q=Medshield) | N/A |
-| 25 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 26 | [Chuckles](http://twitter.com/search?q=Chuckles) | N/A |
-| 27 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 28 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
-| 29 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 30 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
-| 31 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 32 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
-| 33 | [Nkandla](http://twitter.com/search?q=Nkandla) | N/A |
-| 34 | [Shaken NOT](http://twitter.com/search?q=Shaken+NOT) | N/A |
-| 35 | [red chilli](http://twitter.com/search?q=red+chilli) | N/A |
-| 36 | [Cyan](http://twitter.com/search?q=Cyan) | N/A |
-| 37 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
-| 38 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
-| 39 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
-| 40 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 15 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 16 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 17 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 18 | [Sneaker](http://twitter.com/search?q=Sneaker) | N/A |
+| 19 | [HPCSA](http://twitter.com/search?q=HPCSA) | N/A |
+| 20 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
+| 21 | [Dual Sim](http://twitter.com/search?q=Dual+Sim) | N/A |
+| 22 | [faster printing](http://twitter.com/search?q=faster+printing) | N/A |
+| 23 | [unisa](http://twitter.com/search?q=unisa) | N/A |
+| 24 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 25 | [Nkandla](http://twitter.com/search?q=Nkandla) | N/A |
+| 26 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 27 | [Medshield](http://twitter.com/search?q=Medshield) | N/A |
+| 28 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 29 | [Chuckles](http://twitter.com/search?q=Chuckles) | N/A |
+| 30 | [Tap To Pay](http://twitter.com/search?q=Tap+To+Pay) | N/A |
+| 31 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
+| 32 | [AFCON](http://twitter.com/search?q=AFCON) | N/A |
+| 33 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
+| 34 | [Basotho](http://twitter.com/search?q=Basotho) | N/A |
+| 35 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
+| 36 | [red chilli](http://twitter.com/search?q=red+chilli) | N/A |
+| 37 | [Bafana Bafana](http://twitter.com/search?q=Bafana+Bafana) | N/A |
+| 38 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 39 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 40 | [Dr Nandipha](http://twitter.com/search?q=Dr+Nandipha) | N/A |
 | 41 | [Glen](http://twitter.com/search?q=Glen) | N/A |
-| 42 | [Mr Madiba](http://twitter.com/search?q=Mr+Madiba) | N/A |
-| 43 | [Thabo Bester](http://twitter.com/search?q=Thabo+Bester) | N/A |
-| 44 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 45 | [Ramaphosa](http://twitter.com/search?q=Ramaphosa) | N/A |
-| 46 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
-| 47 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
-| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 49 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
-| 50 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 42 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 43 | [Mr Madiba](http://twitter.com/search?q=Mr+Madiba) | N/A |
+| 44 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 45 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
+| 46 | [yezi starr](http://twitter.com/search?q=yezi+starr) | N/A |
+| 47 | [Naspers](http://twitter.com/search?q=Naspers) | N/A |
+| 48 | [Mkhwebane](http://twitter.com/search?q=Mkhwebane) | N/A |
+| 49 | [Dr Qwabe](http://twitter.com/search?q=Dr+Qwabe) | N/A |
+| 50 | [BLUE AIVA THE BRAND](http://twitter.com/search?q=BLUE+AIVA+THE+BRAND) | N/A |
 
 
 

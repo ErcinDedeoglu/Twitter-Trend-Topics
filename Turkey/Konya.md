@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-03-30 10:17:57 UTC`
+📆 Last Updated: `2023-03-30 11:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BayKEMALdeBirleştik](http://twitter.com/search?q=%23BayKEMALdeBirle%c5%9ftik) | N/A |
-| 2 | [HurmaEdit Açıldı](http://twitter.com/search?q=HurmaEdit+A%c3%a7%c4%b1ld%c4%b1) | N/A |
-| 3 | [Ha HDP Ha CHP](http://twitter.com/search?q=Ha+HDP+Ha+CHP) | N/A |
-| 4 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
+| 2 | [#DünyaSıfırAtıkGünü](http://twitter.com/search?q=%23D%c3%bcnyaS%c4%b1f%c4%b1rAt%c4%b1kG%c3%bcn%c3%bc) | N/A |
+| 3 | [Halil Umut Meler](http://twitter.com/search?q=Halil+Umut+Meler) | Halil Umut Meler is a Turkish phrase that translates to "Hope for a Better Future". It is often used as a rallying cry for people to strive for a better future and to work together to make positive changes. |
+| 4 | [Ha HDP Ha CHP](http://twitter.com/search?q=Ha+HDP+Ha+CHP) | N/A |
 | 5 | [#Kızıldere](http://twitter.com/search?q=%23K%c4%b1z%c4%b1ldere) | N/A |
-| 6 | [#MahirÇayan](http://twitter.com/search?q=%23Mahir%c3%87ayan) | N/A |
-| 7 | [#EytMaaşİçinNisanıBekliyor](http://twitter.com/search?q=%23EytMaa%c5%9f%c4%b0%c3%a7inNisan%c4%b1Bekliyor) | N/A |
-| 8 | [#EYTli5BinVeKısmiyiSoruyor](http://twitter.com/search?q=%23EYTli5BinVeK%c4%b1smiyiSoruyor) | N/A |
-| 9 | [Rezene Çayı](http://twitter.com/search?q=Rezene+%c3%87ay%c4%b1) | N/A |
-| 10 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
-| 11 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
-| 12 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 13 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
-| 14 | [Tokat'ın Niksar](http://twitter.com/search?q=Tokat%27%c4%b1n+Niksar) | N/A |
+| 6 | [#EytMaaşİçinNisanıBekliyor](http://twitter.com/search?q=%23EytMaa%c5%9f%c4%b0%c3%a7inNisan%c4%b1Bekliyor) | N/A |
+| 7 | [#MahirÇayan](http://twitter.com/search?q=%23Mahir%c3%87ayan) | N/A |
+| 8 | [Ali Şansalan](http://twitter.com/search?q=Ali+%c5%9eansalan) | Ali Şansalan is a Turkish name. It is composed of two words: Ali, which is a common male name in Turkey, and Şansalan, which means "lucky". In English, the name would be translated as "Lucky Ali". |
+| 9 | [1048 Pasinler](http://twitter.com/search?q=1048+Pasinler) | N/A |
+| 10 | [Hiranur Vakfı](http://twitter.com/search?q=Hiranur+Vakf%c4%b1) | N/A |
+| 11 | [Fenerbahçe - Beşiktaş](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Be%c5%9fikta%c5%9f) | N/A |
+| 12 | [Rezene Çayı](http://twitter.com/search?q=Rezene+%c3%87ay%c4%b1) | N/A |
+| 13 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 14 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
 | 15 | [Bedelli](http://twitter.com/search?q=Bedelli) | N/A |
 | 16 | [Tuncay Şanlı](http://twitter.com/search?q=Tuncay+%c5%9eanl%c4%b1) | N/A |
-| 17 | [Fenerbahçe - Beşiktaş](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Be%c5%9fikta%c5%9f) | N/A |
-| 18 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
-| 19 | [Adnan Oktar](http://twitter.com/search?q=Adnan+Oktar) | N/A |
-| 20 | [HDP'li](http://twitter.com/search?q=HDP%27li) | N/A |
-| 21 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
-| 22 | [Kadir Topbaş](http://twitter.com/search?q=Kadir+Topba%c5%9f) | N/A |
-| 23 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 24 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
-| 25 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
-| 26 | [Danışıklı](http://twitter.com/search?q=Dan%c4%b1%c5%9f%c4%b1kl%c4%b1) | N/A |
-| 27 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
-| 28 | [Kütüphaneler Haftası](http://twitter.com/search?q=K%c3%bct%c3%bcphaneler+Haftas%c4%b1) | N/A |
-| 29 | [Hizbullahçı](http://twitter.com/search?q=Hizbullah%c3%a7%c4%b1) | N/A |
-| 30 | [Masadan](http://twitter.com/search?q=Masadan) | N/A |
-| 31 | [Baykuş](http://twitter.com/search?q=Bayku%c5%9f) | N/A |
-| 32 | [Ersin Tatar](http://twitter.com/search?q=Ersin+Tatar) | N/A |
-| 33 | [#30Mart1972](http://twitter.com/search?q=%2330Mart1972) | N/A |
-| 34 | [#BuDöneminAdı](http://twitter.com/search?q=%23BuD%c3%b6neminAd%c4%b1) | N/A |
-| 35 | [#DîsaEm](http://twitter.com/search?q=%23D%c3%aesaEm) | N/A |
-| 36 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 37 | [#ÖSYM](http://twitter.com/search?q=%23%c3%96SYM) | N/A |
-| 38 | [#StajyerCirakHakkınıAlacak](http://twitter.com/search?q=%23StajyerCirakHakk%c4%b1n%c4%b1Alacak) | N/A |
-| 39 | [#SıfırAtıkGünü](http://twitter.com/search?q=%23S%c4%b1f%c4%b1rAt%c4%b1kG%c3%bcn%c3%bc) | N/A |
-| 40 | [#FBvBJK](http://twitter.com/search?q=%23FBvBJK) | N/A |
-| 41 | [#SnCumhurbaşkanımız](http://twitter.com/search?q=%23SnCumhurba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 42 | [#asgariücret](http://twitter.com/search?q=%23asgari%c3%bccret) | N/A |
-| 43 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
-| 44 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 45 | [#akbnk](http://twitter.com/search?q=%23akbnk) | N/A |
-| 46 | [#sise](http://twitter.com/search?q=%23sise) | N/A |
-| 47 | [#ÇöpAdam](http://twitter.com/search?q=%23%c3%87%c3%b6pAdam) | N/A |
+| 17 | [Ahmet Necdet Sezer](http://twitter.com/search?q=Ahmet+Necdet+Sezer) | N/A |
+| 18 | [Vitor Hugo](http://twitter.com/search?q=Vitor+Hugo) | N/A |
+| 19 | [Irak'tan](http://twitter.com/search?q=Irak%27tan) | N/A |
+| 20 | [Tokat'ın Niksar](http://twitter.com/search?q=Tokat%27%c4%b1n+Niksar) | N/A |
+| 21 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 22 | [2 Nisan Pazar](http://twitter.com/search?q=2+Nisan+Pazar) | N/A |
+| 23 | [Papatya](http://twitter.com/search?q=Papatya) | N/A |
+| 24 | [Bulgar](http://twitter.com/search?q=Bulgar) | N/A |
+| 25 | [Sürtük](http://twitter.com/search?q=S%c3%bcrt%c3%bck) | N/A |
+| 26 | [Adnan Oktar](http://twitter.com/search?q=Adnan+Oktar) | N/A |
+| 27 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 28 | [HDP'li](http://twitter.com/search?q=HDP%27li) | N/A |
+| 29 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 30 | [İdam](http://twitter.com/search?q=%c4%b0dam) | N/A |
+| 31 | [Şaban](http://twitter.com/search?q=%c5%9eaban) | Şaban is a Turkish male name, derived from the Arabic name Sabban. It means "lion" or "brave". |
+| 32 | [Kadir Topbaş](http://twitter.com/search?q=Kadir+Topba%c5%9f) | N/A |
+| 33 | [Adana Demirspor](http://twitter.com/search?q=Adana+Demirspor) | N/A |
+| 34 | [Ersin Tatar](http://twitter.com/search?q=Ersin+Tatar) | N/A |
+| 35 | [Gülbin](http://twitter.com/search?q=G%c3%bclbin) | N/A |
+| 36 | [Merkez Bankası](http://twitter.com/search?q=Merkez+Bankas%c4%b1) | Merkez Bankası is the Central Bank of Turkey. It is responsible for the implementation of monetary policy and regulation of the banking system in Turkey. In English, it translates to Central Bank. |
+| 37 | [Danışıklı](http://twitter.com/search?q=Dan%c4%b1%c5%9f%c4%b1kl%c4%b1) | N/A |
+| 38 | [Atsu](http://twitter.com/search?q=Atsu) | N/A |
+| 39 | [Rasim](http://twitter.com/search?q=Rasim) | N/A |
+| 40 | [Hizbullahçı](http://twitter.com/search?q=Hizbullah%c3%a7%c4%b1) | N/A |
+| 41 | [Kütüphaneler Haftası](http://twitter.com/search?q=K%c3%bct%c3%bcphaneler+Haftas%c4%b1) | N/A |
+| 42 | [Baykuş](http://twitter.com/search?q=Bayku%c5%9f) | N/A |
+| 43 | [Ahmet Kaya](http://twitter.com/search?q=Ahmet+Kaya) | N/A |
+| 44 | [#EYTli5BinVeKısmiyiSoruyor](http://twitter.com/search?q=%23EYTli5BinVeK%c4%b1smiyiSoruyor) | N/A |
+| 45 | [#ÖSYM](http://twitter.com/search?q=%23%c3%96SYM) | N/A |
+| 46 | [#EYTMaaşıEylüleKalamaz](http://twitter.com/search?q=%23EYTMaa%c5%9f%c4%b1Eyl%c3%bcleKalamaz) | N/A |
+| 47 | [#DîsaEm](http://twitter.com/search?q=%23D%c3%aesaEm) | N/A |
+| 48 | [#30Mart1972](http://twitter.com/search?q=%2330Mart1972) | N/A |
 
 
 

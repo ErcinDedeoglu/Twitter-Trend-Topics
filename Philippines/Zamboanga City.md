@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-03-30 10:17:42 UTC`
+📆 Last Updated: `2023-03-30 11:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PVLFinalsGame3](http://twitter.com/search?q=%23PVLFinalsGame3) | N/A |
-| 2 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
-| 3 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
-| 4 | [#HORI7ON_onStarMagicalProm](http://twitter.com/search?q=%23HORI7ON_onStarMagicalProm) | N/A |
-| 5 | [HORI7ON 1st Prom](http://twitter.com/search?q=HORI7ON+1st+Prom) | N/A |
-| 6 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
-| 7 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
-| 8 | [#AMarBELLEousMagicalNight](http://twitter.com/search?q=%23AMarBELLEousMagicalNight) | N/A |
-| 9 | [#WonDONNYrousPromNight](http://twitter.com/search?q=%23WonDONNYrousPromNight) | N/A |
-| 10 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
-| 11 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
-| 12 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
-| 13 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
-| 14 | [#Vivoree](http://twitter.com/search?q=%23Vivoree) | N/A |
-| 15 | [PROMAGICAL WITH ROBXINE](http://twitter.com/search?q=PROMAGICAL+WITH+ROBXINE) | N/A |
-| 16 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
-| 17 | [LET'S GO CREAMLINE](http://twitter.com/search?q=LET%27S+GO+CREAMLINE) | N/A |
-| 18 | [KARINA PROMising NIGHT](http://twitter.com/search?q=KARINA+PROMising+NIGHT) | N/A |
-| 19 | [ALJAY PROMinent Tonight](http://twitter.com/search?q=ALJAY+PROMinent+Tonight) | N/A |
-| 20 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 21 | [STAR KING KIM](http://twitter.com/search?q=STAR+KING+KIM) | N/A |
-| 22 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
-| 23 | [Real Vocals](http://twitter.com/search?q=Real+Vocals) | N/A |
-| 24 | [Real Versatility](http://twitter.com/search?q=Real+Versatility) | N/A |
-| 25 | [Real Visuals](http://twitter.com/search?q=Real+Visuals) | N/A |
-| 26 | [JUNHAO](http://twitter.com/search?q=JUNHAO) | N/A |
-| 27 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
-| 28 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 29 | [Bahay](http://twitter.com/search?q=Bahay) | N/A |
-| 30 | [VPCA BACK2BACK KD](http://twitter.com/search?q=VPCA+BACK2BACK+KD) | N/A |
-| 31 | [JISOO LOCKDOWN FESTIVAL](http://twitter.com/search?q=JISOO+LOCKDOWN+FESTIVAL) | N/A |
-| 32 | [Encore](http://twitter.com/search?q=Encore) | N/A |
-| 33 | [Bato](http://twitter.com/search?q=Bato) | N/A |
-| 34 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 35 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 36 | [KOTG LEV31 UP](http://twitter.com/search?q=KOTG+LEV31+UP) | N/A |
-| 37 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 38 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 39 | [#PVLAllFilipinoConference2023](http://twitter.com/search?q=%23PVLAllFilipinoConference2023) | N/A |
-| 40 | [#FrancineDiazEnchantedProm](http://twitter.com/search?q=%23FrancineDiazEnchantedProm) | N/A |
-| 41 | [#호라이즌_빈치](http://twitter.com/search?q=%23%ed%98%b8%eb%9d%bc%ec%9d%b4%ec%a6%8c_%eb%b9%88%ec%b9%98) | N/A |
-| 42 | [#ParaKayPhenomAlyssaCCS](http://twitter.com/search?q=%23ParaKayPhenomAlyssaCCS) | N/A |
-| 43 | [#BestBoySethFedelin](http://twitter.com/search?q=%23BestBoySethFedelin) | N/A |
-| 44 | [#SheenaBelarmino](http://twitter.com/search?q=%23SheenaBelarmino) | N/A |
-| 45 | [#RedVelvetinMNL2023](http://twitter.com/search?q=%23RedVelvetinMNL2023) | N/A |
-| 46 | [#HENDERYxOxecurePH](http://twitter.com/search?q=%23HENDERYxOxecurePH) | N/A |
-| 47 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
-| 48 | [#레이스터](http://twitter.com/search?q=%23%eb%a0%88%ec%9d%b4%ec%8a%a4%ed%84%b0) | N/A |
-| 49 | [#HORI7ON_KIM](http://twitter.com/search?q=%23HORI7ON_KIM) | N/A |
-| 50 | [#HORI7ON_WINSTON](http://twitter.com/search?q=%23HORI7ON_WINSTON) | N/A |
+| 2 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
+| 3 | [#LikeCrazy1stWin](http://twitter.com/search?q=%23LikeCrazy1stWin) | N/A |
+| 4 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 5 | [#WonDONNYrousPromNight](http://twitter.com/search?q=%23WonDONNYrousPromNight) | N/A |
+| 6 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
+| 7 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 8 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
+| 9 | [HORI7ON 1st Prom](http://twitter.com/search?q=HORI7ON+1st+Prom) | N/A |
+| 10 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
+| 11 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
+| 12 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
+| 13 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 14 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 15 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 16 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 17 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
+| 18 | [The Right Way to Pray](http://twitter.com/search?q=The+Right+Way+to+Pray) | N/A |
+| 19 | [KARINA PROMising NIGHT](http://twitter.com/search?q=KARINA+PROMising+NIGHT) | N/A |
+| 20 | [PROMAGICAL WITH ROBXINE](http://twitter.com/search?q=PROMAGICAL+WITH+ROBXINE) | N/A |
+| 21 | [Soltones](http://twitter.com/search?q=Soltones) | N/A |
+| 22 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 23 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 24 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
+| 25 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 26 | [ALJAY PROMinent Tonight](http://twitter.com/search?q=ALJAY+PROMinent+Tonight) | N/A |
+| 27 | [GABBLUKE PROMAGICAL NIGHT](http://twitter.com/search?q=GABBLUKE+PROMAGICAL+NIGHT) | N/A |
+| 28 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 29 | [REYSTAR OF THE NIGHT](http://twitter.com/search?q=REYSTAR+OF+THE+NIGHT) | N/A |
+| 30 | [STAR KING KIM](http://twitter.com/search?q=STAR+KING+KIM) | N/A |
+| 31 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
+| 32 | [yves](http://twitter.com/search?q=yves) | N/A |
+| 33 | [Petrogazz](http://twitter.com/search?q=Petrogazz) | N/A |
+| 34 | [Real Vocals](http://twitter.com/search?q=Real+Vocals) | N/A |
+| 35 | [Real Versatility](http://twitter.com/search?q=Real+Versatility) | N/A |
+| 36 | [Real Visuals](http://twitter.com/search?q=Real+Visuals) | N/A |
+| 37 | [Hyukjae](http://twitter.com/search?q=Hyukjae) | N/A |
+| 38 | [JUNHAO](http://twitter.com/search?q=JUNHAO) | N/A |
+| 39 | [Kyla](http://twitter.com/search?q=Kyla) | N/A |
+| 40 | [Donghae](http://twitter.com/search?q=Donghae) | N/A |
+| 41 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 42 | [Bahay](http://twitter.com/search?q=Bahay) | N/A |
+| 43 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 44 | [JISOO LOCKDOWN FESTIVAL](http://twitter.com/search?q=JISOO+LOCKDOWN+FESTIVAL) | N/A |
+| 45 | [Bato](http://twitter.com/search?q=Bato) | N/A |
+| 46 | [Encore](http://twitter.com/search?q=Encore) | N/A |
+| 47 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 48 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
+| 49 | [KOTG LEV31 UP](http://twitter.com/search?q=KOTG+LEV31+UP) | N/A |
+| 50 | [mamamoo](http://twitter.com/search?q=mamamoo) | N/A |
 
 
 
