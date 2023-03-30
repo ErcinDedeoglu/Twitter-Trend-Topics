@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-30 00:29:24 UTC`
+📆 Last Updated: `2023-03-30 01:44:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 2 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 3 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 4 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
-| 5 | [#atmosnyc](http://twitter.com/search?q=%23atmosnyc) | N/A |
-| 6 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 7 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
-| 8 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 9 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 10 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 11 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 12 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
-| 13 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
-| 14 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 15 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 16 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 17 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
-| 18 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 19 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 20 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
-| 21 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 22 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 23 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 24 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 25 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 26 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 27 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 28 | [Dee Snider](http://twitter.com/search?q=Dee+Snider) | N/A |
-| 29 | [China and Brazil](http://twitter.com/search?q=China+and+Brazil) | N/A |
-| 30 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 31 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
-| 32 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
-| 33 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
-| 34 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 35 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 36 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
-| 37 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
-| 38 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 39 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 40 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 41 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 42 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
-| 43 | [Pretty in Pink](http://twitter.com/search?q=Pretty+in+Pink) | N/A |
-| 44 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
-| 45 | [RCID](http://twitter.com/search?q=RCID) | N/A |
-| 46 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 47 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
-| 48 | [King of England](http://twitter.com/search?q=King+of+England) | N/A |
-| 49 | [Trees](http://twitter.com/search?q=Trees) | N/A |
-| 50 | [Narcan](http://twitter.com/search?q=Narcan) | N/A |
+| 1 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
+| 2 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 3 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 4 | [Jasmine](http://twitter.com/search?q=Jasmine) | N/A |
+| 5 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
+| 6 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 7 | [Yankee](http://twitter.com/search?q=Yankee) | N/A |
+| 8 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 9 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
+| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 11 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 12 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 13 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 14 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 15 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 16 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 17 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 18 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 19 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 20 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 21 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 22 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 23 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
+| 24 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
+| 25 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 26 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
+| 27 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
+| 28 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 29 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
+| 30 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 31 | [Dalton Castle](http://twitter.com/search?q=Dalton+Castle) | N/A |
+| 32 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 33 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 34 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 35 | [Jeff Van Gundy](http://twitter.com/search?q=Jeff+Van+Gundy) | N/A |
+| 36 | [Jack Perry](http://twitter.com/search?q=Jack+Perry) | N/A |
+| 37 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 38 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 39 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 40 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
+| 41 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 42 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 43 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 44 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 45 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 46 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 47 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
+| 48 | [Nwora](http://twitter.com/search?q=Nwora) | N/A |
+| 49 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
+| 50 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
 
 
 

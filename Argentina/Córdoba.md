@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-03-30 00:28:52 UTC`
+📆 Last Updated: `2023-03-30 01:44:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 2 | [COTY CONE AL BAILANDO](http://twitter.com/search?q=COTY+CONE+AL+BAILANDO) | N/A |
-| 3 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
-| 4 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 1 | [#Pantanal](http://twitter.com/search?q=%23Pantanal) | N/A |
+| 2 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 3 | [Ramirez](http://twitter.com/search?q=Ramirez) | Ramirez is a Spanish surname. It is derived from the Germanic personal name Raimer, which means "wise counselor". In English, it can be translated to mean "wise ruler". |
+| 4 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 5 | [Otro 29](http://twitter.com/search?q=Otro+29) | N/A |
-| 6 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 7 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 8 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 9 | [Peroni](http://twitter.com/search?q=Peroni) | N/A |
-| 10 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 11 | [Damiani](http://twitter.com/search?q=Damiani) | N/A |
-| 12 | [Luciani](http://twitter.com/search?q=Luciani) | N/A |
-| 13 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 14 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 15 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
-| 16 | [#AmorDeFamilia](http://twitter.com/search?q=%23AmorDeFamilia) | N/A |
-| 17 | [Seoane](http://twitter.com/search?q=Seoane) | N/A |
-| 18 | [Darthes](http://twitter.com/search?q=Darthes) | N/A |
-| 19 | [Gayoso](http://twitter.com/search?q=Gayoso) | N/A |
-| 20 | [Tenía 16](http://twitter.com/search?q=Ten%c3%ada+16) | N/A |
-| 21 | [#ParqueSiTorresNo](http://twitter.com/search?q=%23ParqueSiTorresNo) | N/A |
-| 22 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
-| 23 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 24 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
-| 25 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 26 | [Costa Salguero](http://twitter.com/search?q=Costa+Salguero) | N/A |
-| 27 | [Herron](http://twitter.com/search?q=Herron) | N/A |
-| 28 | [#CortaPorLozano](http://twitter.com/search?q=%23CortaPorLozano) | N/A |
-| 29 | [Es 29](http://twitter.com/search?q=Es+29) | N/A |
-| 30 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
-| 31 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 32 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
-| 33 | [Iguacel](http://twitter.com/search?q=Iguacel) | N/A |
-| 34 | [Cáncer](http://twitter.com/search?q=C%c3%a1ncer) | N/A |
-| 35 | [Jefe de Gabinete](http://twitter.com/search?q=Jefe+de+Gabinete) | N/A |
-| 36 | [#Monotech](http://twitter.com/search?q=%23Monotech) | N/A |
-| 37 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
-| 38 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
-| 39 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
-| 40 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 41 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 42 | [Vero](http://twitter.com/search?q=Vero) | N/A |
-| 43 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 44 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
+| 6 | [Tinelli](http://twitter.com/search?q=Tinelli) | N/A |
+| 7 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 8 | [#NocheAlDente](http://twitter.com/search?q=%23NocheAlDente) | N/A |
+| 9 | [COTY CONE AL BAILANDO](http://twitter.com/search?q=COTY+CONE+AL+BAILANDO) | N/A |
+| 10 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 11 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 12 | [#BenditoCapitan](http://twitter.com/search?q=%23BenditoCapitan) | N/A |
+| 13 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 14 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 15 | [Herron](http://twitter.com/search?q=Herron) | N/A |
+| 16 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 17 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 18 | [Jey Mammon](http://twitter.com/search?q=Jey+Mammon) | N/A |
+| 19 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 20 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 21 | [Peroni](http://twitter.com/search?q=Peroni) | N/A |
+| 22 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 23 | [Harakiri](http://twitter.com/search?q=Harakiri) | N/A |
+| 24 | [Darthes](http://twitter.com/search?q=Darthes) | N/A |
+| 25 | [Martino](http://twitter.com/search?q=Martino) | N/A |
+| 26 | [Géminis](http://twitter.com/search?q=G%c3%a9minis) | Géminis is the Spanish word for Gemini, which is the third astrological sign in the zodiac. It is represented by the twins Castor and Pollux, and its symbol is the twins. In English, Géminis means Gemini. |
+| 27 | [Luciani](http://twitter.com/search?q=Luciani) | N/A |
+| 28 | [Damiani](http://twitter.com/search?q=Damiani) | N/A |
+| 29 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
+| 30 | [Aimar](http://twitter.com/search?q=Aimar) | N/A |
+| 31 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 32 | [Seoane](http://twitter.com/search?q=Seoane) | N/A |
+| 33 | [Tauro](http://twitter.com/search?q=Tauro) | N/A |
+| 34 | [Es 29](http://twitter.com/search?q=Es+29) | N/A |
+| 35 | [Ñoquis](http://twitter.com/search?q=%c3%91oquis) | N/A |
+| 36 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 37 | [Hoy 29](http://twitter.com/search?q=Hoy+29) | N/A |
+| 38 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 39 | [Santilli](http://twitter.com/search?q=Santilli) | N/A |
+| 40 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 41 | [Norte](http://twitter.com/search?q=Norte) | N/A |
+| 42 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 43 | [Costa Salguero](http://twitter.com/search?q=Costa+Salguero) | N/A |
+| 44 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 45 | [Gayoso](http://twitter.com/search?q=Gayoso) | N/A |
+| 46 | [Iguacel](http://twitter.com/search?q=Iguacel) | N/A |
+| 47 | [Cáncer](http://twitter.com/search?q=C%c3%a1ncer) | N/A |
+| 48 | [Mascherano](http://twitter.com/search?q=Mascherano) | Mascherano is an Italian surname. It is derived from the word maschera, which means "mask" or "disguise". The name can refer to a person who wears a mask or disguise, or someone who is skilled at hiding their true identity. |
+| 49 | [Russo](http://twitter.com/search?q=Russo) | N/A |
 
 
 

@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-03-30 00:28:41 UTC`
+📆 Last Updated: `2023-03-30 01:43:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 2 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
-| 3 | [#مكافاه_مصرف_الراجحي6](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a6) | N/A |
-| 4 | [#فوازير_غازي_الذيابي4](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a4) | N/A |
-| 5 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 6 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 7 | [#SulwhasooxTheMet](http://twitter.com/search?q=%23SulwhasooxTheMet) | N/A |
-| 8 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 9 | [時東ぁみ](http://twitter.com/search?q=%e6%99%82%e6%9d%b1%e3%81%81%e3%81%bf) | N/A |
-| 10 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 11 | [スーパームック](http://twitter.com/search?q=%e3%82%b9%e3%83%bc%e3%83%91%e3%83%bc%e3%83%a0%e3%83%83%e3%82%af) | スーパームック (Supermook) is a Japanese magazine that focuses on fashion, beauty, and lifestyle topics. It is published by Shogakukan and is aimed at young women. The magazine's name comes from the combination of the words "super" and "mook," which is short for "magazine book." |
-| 12 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 13 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
-| 14 | [ギャルル](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%ab%e3%83%ab) | N/A |
-| 15 | [歩ちゃん](http://twitter.com/search?q=%e6%ad%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 16 | [マリちゃん](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%81%a1%e3%82%83%e3%82%93) | マリちゃん is a nickname for the Japanese name "Mariko". It is a term of endearment, similar to calling someone "Mariko-chan" in English. |
-| 17 | [البطاقه الايتمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%8a%d8%aa%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 18 | [スパムク](http://twitter.com/search?q=%e3%82%b9%e3%83%91%e3%83%a0%e3%82%af) | N/A |
-| 19 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 20 | [Aitana](http://twitter.com/search?q=Aitana) | N/A |
-| 21 | [一太くん](http://twitter.com/search?q=%e4%b8%80%e5%a4%aa%e3%81%8f%e3%82%93) | 一太くん is a character from the Japanese manga series Doraemon. His name literally translates to "One-Taro" and he is a robotic cat from the future who helps the main character, Nobita, with his various adventures. In English, his name could be translated as "One-Taro the Cat". |
-| 22 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 23 | [Jung](http://twitter.com/search?q=Jung) | N/A |
-| 24 | [無料100連](http://twitter.com/search?q=%e7%84%a1%e6%96%99100%e9%80%a3) | 無料100連 is a type of lottery game in Japan. It translates to "Free 100 Draws" and is a lottery game where players can win prizes by drawing 100 times for free. |
-| 25 | [モバマス](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%83%9e%e3%82%b9) | N/A |
-| 26 | [リミ武器](http://twitter.com/search?q=%e3%83%aa%e3%83%9f%e6%ad%a6%e5%99%a8) | N/A |
-| 27 | [フェディエル](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%87%e3%82%a3%e3%82%a8%e3%83%ab) | フェディエル (Fediel) is a Japanese fantasy novel series written by author Takashi Yano. It follows the story of a young man named Fediel, who is sent on a quest to save the world from an evil force. The series has been adapted into several manga and anime series. In English, the title translates to "The Hero of Fediel". |
-| 28 | [ウィルナス](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%ab%e3%83%8a%e3%82%b9) | ウィルナス (Wirunasu) is a Japanese brand of clothing and accessories. The name is derived from the words "will" and "nass", which mean "style" and "trend" respectively. In English, the brand name could be translated as "Style Trend". |
-| 29 | [٨ رمضان](http://twitter.com/search?q=%d9%a8+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 30 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
-| 31 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
-| 32 | [Marcelo Bielsa](http://twitter.com/search?q=Marcelo+Bielsa) | N/A |
-| 33 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
-| 34 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 35 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
-| 36 | [GRIPHAO NO TOP DEZ](http://twitter.com/search?q=GRIPHAO+NO+TOP+DEZ) | N/A |
-| 37 | [Meral](http://twitter.com/search?q=Meral) | N/A |
-| 38 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 39 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 40 | [İletişim Başkanlığı](http://twitter.com/search?q=%c4%b0leti%c5%9fim+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 41 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 42 | [マフィアの日](http://twitter.com/search?q=%e3%83%9e%e3%83%95%e3%82%a3%e3%82%a2%e3%81%ae%e6%97%a5) | N/A |
-| 43 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 44 | [シェロチケ](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ad%e3%83%81%e3%82%b1) | N/A |
-| 45 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 46 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 48 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 49 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
-| 50 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 2 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 3 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 4 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 5 | [#مكافاه_مصرف_الراجحي6](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a7%d9%81%d8%a7%d9%87_%d9%85%d8%b5%d8%b1%d9%81_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a6) | N/A |
+| 6 | [NeOlacak BoyleYa](http://twitter.com/search?q=NeOlacak+BoyleYa) | N/A |
+| 7 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
+| 8 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 9 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 10 | [#いちご杏仁満開](http://twitter.com/search?q=%23%e3%81%84%e3%81%a1%e3%81%94%e6%9d%8f%e4%bb%81%e6%ba%80%e9%96%8b) | N/A |
+| 11 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 12 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 13 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 14 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 15 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 16 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 17 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 18 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 19 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
+| 20 | [コンパスオブユアハート](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%83%91%e3%82%b9%e3%82%aa%e3%83%96%e3%83%a6%e3%82%a2%e3%83%8f%e3%83%bc%e3%83%88) | N/A |
+| 21 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 22 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 23 | [البطاقه الايتمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%8a%d8%aa%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 24 | [Villani](http://twitter.com/search?q=Villani) | N/A |
+| 25 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 26 | [GOLDEN HOUR](http://twitter.com/search?q=GOLDEN+HOUR) | N/A |
+| 27 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
+| 28 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
+| 29 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
+| 30 | [清塚さん](http://twitter.com/search?q=%e6%b8%85%e5%a1%9a%e3%81%95%e3%82%93) | 清塚さん is a Japanese honorific title used to refer to someone with a high level of respect. In English, it would be translated as "Mr. Kiyotaka". |
+| 31 | [時東ぁみ](http://twitter.com/search?q=%e6%99%82%e6%9d%b1%e3%81%81%e3%81%bf) | N/A |
+| 32 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
+| 33 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
+| 34 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
+| 35 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 36 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 37 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 38 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 39 | [モバマス](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%83%9e%e3%82%b9) | N/A |
+| 40 | [٨ رمضان](http://twitter.com/search?q=%d9%a8+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 41 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 42 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 43 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 44 | [放送禁止用語](http://twitter.com/search?q=%e6%94%be%e9%80%81%e7%a6%81%e6%ad%a2%e7%94%a8%e8%aa%9e) | N/A |
+| 45 | [テイオウイカ](http://twitter.com/search?q=%e3%83%86%e3%82%a4%e3%82%aa%e3%82%a6%e3%82%a4%e3%82%ab) | N/A |
+| 46 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 47 | [ラインマーカー](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%9e%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 48 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 49 | [Paul Maurice](http://twitter.com/search?q=Paul+Maurice) | N/A |
+| 50 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-30 00:29:22 UTC`
+📆 Last Updated: `2023-03-30 01:44:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 2 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 3 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
-| 4 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 5 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 6 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
-| 7 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 8 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 9 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 10 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 11 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
-| 12 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
-| 13 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
-| 14 | [#TheFlash](http://twitter.com/search?q=%23TheFlash) | N/A |
-| 15 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 16 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
-| 17 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 18 | [#DollMask](http://twitter.com/search?q=%23DollMask) | N/A |
-| 19 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
-| 20 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 21 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
-| 22 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
+| 1 | [#lackadaisy](http://twitter.com/search?q=%23lackadaisy) | N/A |
+| 2 | [Boebert](http://twitter.com/search?q=Boebert) | Boebert is a nickname for Lauren Boebert, an American politician and gun rights activist from Colorado. She is a member of the Republican Party and was elected to the United States House of Representatives in 2020. The name is derived from her last name, Boebert. |
+| 3 | [Marty](http://twitter.com/search?q=Marty) | N/A |
+| 4 | [#Padres](http://twitter.com/search?q=%23Padres) | N/A |
+| 5 | [Asteroid City](http://twitter.com/search?q=Asteroid+City) | N/A |
+| 6 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 7 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 8 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 9 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 10 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 11 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 12 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 13 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 14 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
+| 15 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 16 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 17 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 18 | [Devil's Sky](http://twitter.com/search?q=Devil%27s+Sky) | N/A |
+| 19 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
+| 20 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 21 | [Kenny Omega](http://twitter.com/search?q=Kenny+Omega) | Kenny Omega is the ring name of a Canadian professional wrestler, currently signed to All Elite Wrestling (AEW). He is best known for his time in New Japan Pro-Wrestling (NJPW), where he was a former IWGP Heavyweight Champion and leader of the Bullet Club stable. |
+| 22 | [Blackpool Combat Club](http://twitter.com/search?q=Blackpool+Combat+Club) | N/A |
 | 23 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 24 | [Josh Green](http://twitter.com/search?q=Josh+Green) | Josh Green is a slang term used to describe someone who is inexperienced or naive. It is often used to describe someone who is new to a particular activity or situation and may not be aware of the rules or customs associated with it. |
-| 25 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 26 | [Hendrick](http://twitter.com/search?q=Hendrick) | N/A |
-| 27 | [Hasbulla](http://twitter.com/search?q=Hasbulla) | N/A |
-| 28 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 29 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 30 | [Dee Snider](http://twitter.com/search?q=Dee+Snider) | N/A |
-| 31 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
-| 32 | [China and Brazil](http://twitter.com/search?q=China+and+Brazil) | N/A |
-| 33 | [RIP Marty](http://twitter.com/search?q=RIP+Marty) | N/A |
-| 34 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
-| 35 | [Matt Reeves](http://twitter.com/search?q=Matt+Reeves) | N/A |
-| 36 | [Go Disney](http://twitter.com/search?q=Go+Disney) | N/A |
-| 37 | [Pope Francis](http://twitter.com/search?q=Pope+Francis) | Pope Francis is the current pope of the Catholic Church. He was elected in 2013 and is the first pope from the Americas. His full name is Jorge Mario Bergoglio and he is known for his progressive views on social issues, such as poverty, immigration, and climate change. He has also been a strong advocate for interfaith dialogue and has called for greater acceptance of diversity within the Church. |
-| 38 | [Living Single](http://twitter.com/search?q=Living+Single) | N/A |
-| 39 | [Marvin Jones](http://twitter.com/search?q=Marvin+Jones) | N/A |
-| 40 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
-| 41 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 42 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
-| 43 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 44 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 45 | [Boston Legal](http://twitter.com/search?q=Boston+Legal) | N/A |
-| 46 | [Pretty in Pink](http://twitter.com/search?q=Pretty+in+Pink) | N/A |
-| 47 | [Skinnerville](http://twitter.com/search?q=Skinnerville) | N/A |
-| 48 | [RCID](http://twitter.com/search?q=RCID) | N/A |
-| 49 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 24 | [Don Callis](http://twitter.com/search?q=Don+Callis) | N/A |
+| 25 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 26 | [Dalton Castle](http://twitter.com/search?q=Dalton+Castle) | N/A |
+| 27 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 28 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 29 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 30 | [Jeff Van Gundy](http://twitter.com/search?q=Jeff+Van+Gundy) | N/A |
+| 31 | [Jack Perry](http://twitter.com/search?q=Jack+Perry) | N/A |
+| 32 | [Mouse](http://twitter.com/search?q=Mouse) | N/A |
+| 33 | [Real America](http://twitter.com/search?q=Real+America) | N/A |
+| 34 | [Grimes](http://twitter.com/search?q=Grimes) | Grimes is the stage name of Canadian singer, songwriter, record producer and visual artist Claire Boucher. Her music is a blend of electronic, pop, hip hop, and R&B styles. The name Grimes is derived from her given name and a variation of the word grimace. |
+| 35 | [Lesbianics](http://twitter.com/search?q=Lesbianics) | N/A |
+| 36 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 37 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 38 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 39 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 40 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 41 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 42 | [Jamie Hayter](http://twitter.com/search?q=Jamie+Hayter) | N/A |
+| 43 | [Nwora](http://twitter.com/search?q=Nwora) | N/A |
+| 44 | [Matt Hardy](http://twitter.com/search?q=Matt+Hardy) | N/A |
+| 45 | [Lavar](http://twitter.com/search?q=Lavar) | N/A |
+| 46 | [Tika](http://twitter.com/search?q=Tika) | N/A |
+| 47 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 48 | [Blood and Guts](http://twitter.com/search?q=Blood+and+Guts) | N/A |
+| 49 | [Reedy Creek](http://twitter.com/search?q=Reedy+Creek) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-03-30 00:28:50 UTC`
+📆 Last Updated: `2023-03-30 01:44:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Peru](</Peru>)
 | ------- | ------------ | ------------ |
 | 1 | [TERRORISMO](http://twitter.com/search?q=TERRORISMO) | N/A |
 | 2 | [El LUM](http://twitter.com/search?q=El+LUM) | N/A |
-| 3 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 4 | [#RoséMETSulwhasoo](http://twitter.com/search?q=%23Ros%c3%a9METSulwhasoo) | N/A |
-| 5 | [#SulwhasooxTheMet](http://twitter.com/search?q=%23SulwhasooxTheMet) | N/A |
-| 6 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
-| 7 | [Lugar de la Memoria](http://twitter.com/search?q=Lugar+de+la+Memoria) | N/A |
-| 8 | [#ForoMadridLima](http://twitter.com/search?q=%23ForoMadridLima) | N/A |
-| 9 | [#ForoMadridLima](http://twitter.com/search?q=%23ForoMadridLima) | N/A |
-| 10 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 11 | [#SpotifyCorrupt](http://twitter.com/search?q=%23SpotifyCorrupt) | N/A |
-| 12 | [Municipalidad de Miraflores](http://twitter.com/search?q=Municipalidad+de+Miraflores) | N/A |
-| 13 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 14 | [Yotún](http://twitter.com/search?q=Yot%c3%ban) | N/A |
-| 15 | [Jean Deza](http://twitter.com/search?q=Jean+Deza) | N/A |
-| 16 | [Conflicto](http://twitter.com/search?q=Conflicto) | N/A |
-| 17 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 18 | [Makanaky](http://twitter.com/search?q=Makanaky) | N/A |
-| 19 | [Larcomar](http://twitter.com/search?q=Larcomar) | N/A |
-| 20 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
-| 21 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 22 | [Renovación Medieval](http://twitter.com/search?q=Renovaci%c3%b3n+Medieval) | N/A |
+| 3 | [#ForoMadridLima](http://twitter.com/search?q=%23ForoMadridLima) | N/A |
+| 4 | [#ForoMadridLima](http://twitter.com/search?q=%23ForoMadridLima) | N/A |
+| 5 | [Lugar de la Memoria](http://twitter.com/search?q=Lugar+de+la+Memoria) | N/A |
+| 6 | [#SpotifyCorrupt](http://twitter.com/search?q=%23SpotifyCorrupt) | N/A |
+| 7 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 8 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 9 | [Miraflores](http://twitter.com/search?q=Miraflores) | N/A |
+| 10 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 11 | [#SulwhasooxTheMet](http://twitter.com/search?q=%23SulwhasooxTheMet) | N/A |
+| 12 | [#은우의_모든날이_찬란한_봄이길](http://twitter.com/search?q=%23%ec%9d%80%ec%9a%b0%ec%9d%98_%eb%aa%a8%eb%93%a0%eb%82%a0%ec%9d%b4_%ec%b0%ac%eb%9e%80%ed%95%9c_%eb%b4%84%ec%9d%b4%ea%b8%b8) | N/A |
+| 13 | [Yotún](http://twitter.com/search?q=Yot%c3%ban) | N/A |
+| 14 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 15 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 16 | [Larcomar](http://twitter.com/search?q=Larcomar) | N/A |
+| 17 | [Makanaky](http://twitter.com/search?q=Makanaky) | N/A |
+| 18 | [Deza](http://twitter.com/search?q=Deza) | N/A |
+| 19 | [Conflicto](http://twitter.com/search?q=Conflicto) | N/A |
+| 20 | [Renovación Medieval](http://twitter.com/search?q=Renovaci%c3%b3n+Medieval) | N/A |
+| 21 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 22 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
 | 23 | [Curazao](http://twitter.com/search?q=Curazao) | Curazao is an island in the Caribbean Sea, located off the coast of Venezuela. It is a constituent country of the Kingdom of the Netherlands. The name Curazao is derived from the Portuguese word for "heart," and it is often referred to as "the heart of the Caribbean." In English, it means "heart of the Caribbean." |
-| 24 | [Ucayali](http://twitter.com/search?q=Ucayali) | N/A |
-| 25 | [Marquina](http://twitter.com/search?q=Marquina) | N/A |
-| 26 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
-| 27 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
-| 28 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 29 | [job 4](http://twitter.com/search?q=job+4) | N/A |
-| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 31 | [Ministerio de Cultura](http://twitter.com/search?q=Ministerio+de+Cultura) | N/A |
-| 32 | [Cierren](http://twitter.com/search?q=Cierren) | N/A |
-| 33 | [MRTA](http://twitter.com/search?q=MRTA) | N/A |
+| 24 | [Marquina](http://twitter.com/search?q=Marquina) | N/A |
+| 25 | [HAPPY BIRTHDAY CHAEUNWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+CHAEUNWOO) | N/A |
+| 26 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 27 | [MRTA](http://twitter.com/search?q=MRTA) | N/A |
+| 28 | [ITSE](http://twitter.com/search?q=ITSE) | N/A |
+| 29 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 30 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 31 | [Cierren](http://twitter.com/search?q=Cierren) | N/A |
+| 32 | [Grupo G](http://twitter.com/search?q=Grupo+G) | N/A |
+| 33 | [Ucayali](http://twitter.com/search?q=Ucayali) | N/A |
 | 34 | [Sendero Luminoso](http://twitter.com/search?q=Sendero+Luminoso) | N/A |
-| 35 | [Terroristas](http://twitter.com/search?q=Terroristas) | Terroristas is a Spanish word meaning "terrorists". It is used to refer to people who use violence and intimidation to achieve political or ideological goals. |
-| 36 | [Defensa Civil](http://twitter.com/search?q=Defensa+Civil) | N/A |
-| 37 | [ITSE](http://twitter.com/search?q=ITSE) | N/A |
-| 38 | [Trauco](http://twitter.com/search?q=Trauco) | N/A |
-| 39 | [Polo](http://twitter.com/search?q=Polo) | N/A |
-| 40 | [Verónica Mendoza](http://twitter.com/search?q=Ver%c3%b3nica+Mendoza) | N/A |
-| 41 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 42 | [Gremco](http://twitter.com/search?q=Gremco) | N/A |
-| 43 | [Lumpen](http://twitter.com/search?q=Lumpen) | N/A |
-| 44 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 45 | [Liza](http://twitter.com/search?q=Liza) | N/A |
-| 46 | [Bono](http://twitter.com/search?q=Bono) | N/A |
-| 47 | [Inaceptable](http://twitter.com/search?q=Inaceptable) | N/A |
-| 48 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 49 | [Lilia Paredes](http://twitter.com/search?q=Lilia+Paredes) | N/A |
+| 35 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 36 | [Verónica Mendoza](http://twitter.com/search?q=Ver%c3%b3nica+Mendoza) | N/A |
+| 37 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
+| 38 | [Defensa Civil](http://twitter.com/search?q=Defensa+Civil) | N/A |
+| 39 | [job 4](http://twitter.com/search?q=job+4) | N/A |
+| 40 | [Ministerio de Cultura](http://twitter.com/search?q=Ministerio+de+Cultura) | N/A |
+| 41 | [Terroristas](http://twitter.com/search?q=Terroristas) | Terroristas is a Spanish word meaning "terrorists". It is used to refer to people who use violence and intimidation to achieve political or ideological goals. |
+| 42 | [Lescano](http://twitter.com/search?q=Lescano) | N/A |
+| 43 | [Inaceptable](http://twitter.com/search?q=Inaceptable) | N/A |
+| 44 | [Abimael](http://twitter.com/search?q=Abimael) | N/A |
+| 45 | [Polo](http://twitter.com/search?q=Polo) | N/A |
+| 46 | [Lilia Paredes](http://twitter.com/search?q=Lilia+Paredes) | N/A |
+| 47 | [Llora](http://twitter.com/search?q=Llora) | N/A |
+| 48 | [Liza](http://twitter.com/search?q=Liza) | N/A |
+| 49 | [Lumpen](http://twitter.com/search?q=Lumpen) | N/A |
 | 50 | [Reynoso](http://twitter.com/search?q=Reynoso) | N/A |
 
 

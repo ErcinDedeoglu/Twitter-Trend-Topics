@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-30 00:28:52 UTC`
+📆 Last Updated: `2023-03-30 01:44:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 2 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 3 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 4 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
-| 5 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 6 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 7 | [GRIPHAO NO TOP DEZ](http://twitter.com/search?q=GRIPHAO+NO+TOP+DEZ) | N/A |
-| 8 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 9 | [#DesativaYanne](http://twitter.com/search?q=%23DesativaYanne) | N/A |
-| 10 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
-| 11 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 12 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
-| 13 | [Fred Sincero](http://twitter.com/search?q=Fred+Sincero) | N/A |
-| 14 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 15 | [BIEL NO A ELIMINAÇÃO](http://twitter.com/search?q=BIEL+NO+A+ELIMINA%c3%87%c3%83O) | N/A |
-| 16 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 17 | [Vital](http://twitter.com/search?q=Vital) | N/A |
-| 18 | [#SulwhasooxTheMet](http://twitter.com/search?q=%23SulwhasooxTheMet) | N/A |
-| 19 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
-| 20 | [TAINÁ NA TWITCH](http://twitter.com/search?q=TAIN%c3%81+NA+TWITCH) | N/A |
-| 21 | [Kaiki](http://twitter.com/search?q=Kaiki) | N/A |
-| 22 | [Nikão](http://twitter.com/search?q=Nik%c3%a3o) | N/A |
-| 23 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 24 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 25 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 26 | [Castan](http://twitter.com/search?q=Castan) | N/A |
-| 27 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 28 | [Contarato](http://twitter.com/search?q=Contarato) | N/A |
-| 29 | [#RoseMETSulwhasoo](http://twitter.com/search?q=%23RoseMETSulwhasoo) | N/A |
-| 30 | [#TresVezesAna043](http://twitter.com/search?q=%23TresVezesAna043) | N/A |
-| 31 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 32 | [Resident](http://twitter.com/search?q=Resident) | N/A |
-| 33 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 34 | [Melhorou](http://twitter.com/search?q=Melhorou) | N/A |
-| 35 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 36 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 37 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 38 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
-| 39 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
-| 40 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
-| 41 | [Realeza Africana](http://twitter.com/search?q=Realeza+Africana) | N/A |
-| 42 | [STREAM VOID](http://twitter.com/search?q=STREAM+VOID) | N/A |
-| 43 | [Transmissão](http://twitter.com/search?q=Transmiss%c3%a3o) | N/A |
-| 44 | [Wii U](http://twitter.com/search?q=Wii+U) | N/A |
-| 45 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 46 | [Xbox One](http://twitter.com/search?q=Xbox+One) | N/A |
-| 47 | [bella campos](http://twitter.com/search?q=bella+campos) | Bella Campos is a Spanish phrase that translates to "beautiful fields" in English. It is often used as a poetic expression to describe a beautiful landscape or scenery. |
-| 48 | [Carlão](http://twitter.com/search?q=Carl%c3%a3o) | N/A |
-| 49 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 1 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 2 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 3 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 4 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 5 | [Luis Roberto](http://twitter.com/search?q=Luis+Roberto) | N/A |
+| 6 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 7 | [Villani](http://twitter.com/search?q=Villani) | N/A |
+| 8 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
+| 9 | [JANONES EU AUTORIZO](http://twitter.com/search?q=JANONES+EU+AUTORIZO) | "JANONES EU AUTORIZO" is a Portuguese phrase that translates to "I authorize Janones" in English. It is typically used to give permission or authorization for someone named Janones to do something. |
+| 10 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 11 | [#copadonordestenosbt](http://twitter.com/search?q=%23copadonordestenosbt) | N/A |
+| 12 | [#SpaceResenhaComPA](http://twitter.com/search?q=%23SpaceResenhaComPA) | N/A |
+| 13 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 14 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 15 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 16 | [#ClassicoReiNaJanga](http://twitter.com/search?q=%23ClassicoReiNaJanga) | N/A |
+| 17 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 18 | [Fernando Miguel](http://twitter.com/search?q=Fernando+Miguel) | N/A |
+| 19 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
+| 20 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
+| 21 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 22 | [Copa Verde](http://twitter.com/search?q=Copa+Verde) | N/A |
+| 23 | [GRIPHAO NO TOP DEZ](http://twitter.com/search?q=GRIPHAO+NO+TOP+DEZ) | N/A |
+| 24 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 25 | [chaz](http://twitter.com/search?q=chaz) | N/A |
+| 26 | [Fugini](http://twitter.com/search?q=Fugini) | N/A |
+| 27 | [OUÇA DIAMANTE NO SPOTIFY](http://twitter.com/search?q=OU%c3%87A+DIAMANTE+NO+SPOTIFY) | N/A |
+| 28 | [Kaiki](http://twitter.com/search?q=Kaiki) | N/A |
+| 29 | [Labandeira](http://twitter.com/search?q=Labandeira) | N/A |
+| 30 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 31 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 32 | [Renata Silveira](http://twitter.com/search?q=Renata+Silveira) | N/A |
+| 33 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
+| 34 | [Drica Moraes](http://twitter.com/search?q=Drica+Moraes) | N/A |
+| 35 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
+| 36 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
+| 37 | [Fred Sincero](http://twitter.com/search?q=Fred+Sincero) | N/A |
+| 38 | [Vitor Gabriel](http://twitter.com/search?q=Vitor+Gabriel) | N/A |
+| 39 | [Kajuru](http://twitter.com/search?q=Kajuru) | N/A |
+| 40 | [AMANHA CD RAIZ](http://twitter.com/search?q=AMANHA+CD+RAIZ) | N/A |
+| 41 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 42 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 43 | [Belletti](http://twitter.com/search?q=Belletti) | N/A |
+| 44 | [Cotia](http://twitter.com/search?q=Cotia) | N/A |
+| 45 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 46 | [Vital](http://twitter.com/search?q=Vital) | N/A |
+| 47 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
+| 48 | [Everaldo Marques](http://twitter.com/search?q=Everaldo+Marques) | N/A |
+| 49 | [Thiago Coelho](http://twitter.com/search?q=Thiago+Coelho) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-03-30 00:28:53 UTC`
+📆 Last Updated: `2023-03-30 01:44:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Poland](</Poland>)
 | 4 | [#5city](http://twitter.com/search?q=%235city) | N/A |
 | 5 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
 | 6 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
-| 7 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 8 | [Śląskim](http://twitter.com/search?q=%c5%9al%c4%85skim) | N/A |
-| 9 | [Perugii](http://twitter.com/search?q=Perugii) | N/A |
-| 10 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 11 | [ZAKSA](http://twitter.com/search?q=ZAKSA) | N/A |
-| 12 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
-| 13 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 14 | [Marcin Lijewski](http://twitter.com/search?q=Marcin+Lijewski) | N/A |
-| 15 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
-| 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 7 | [Śląskim](http://twitter.com/search?q=%c5%9al%c4%85skim) | N/A |
+| 8 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 9 | [Toruniu](http://twitter.com/search?q=Toruniu) | N/A |
+| 10 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 11 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 12 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
+| 13 | [Zaksy](http://twitter.com/search?q=Zaksy) | N/A |
+| 14 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 15 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 16 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
 | 17 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 18 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 19 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 20 | [Bednorza](http://twitter.com/search?q=Bednorza) | N/A |
-| 21 | [Hajto](http://twitter.com/search?q=Hajto) | N/A |
-| 22 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 23 | [belki](http://twitter.com/search?q=belki) | N/A |
-| 24 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 25 | [julia przyłębska](http://twitter.com/search?q=julia+przy%c5%82%c4%99bska) | N/A |
-| 26 | [marszałek](http://twitter.com/search?q=marsza%c5%82ek) | N/A |
-| 27 | [Wisła Płock](http://twitter.com/search?q=Wis%c5%82a+P%c5%82ock) | N/A |
-| 28 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 29 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 30 | [Papież Franciszek](http://twitter.com/search?q=Papie%c5%bc+Franciszek) | N/A |
-| 31 | [Izery](http://twitter.com/search?q=Izery) | N/A |
+| 18 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 19 | [Chorzowa](http://twitter.com/search?q=Chorzowa) | N/A |
+| 20 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
+| 21 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 22 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
+| 23 | [julia przyłębska](http://twitter.com/search?q=julia+przy%c5%82%c4%99bska) | N/A |
+| 24 | [belki](http://twitter.com/search?q=belki) | N/A |
+| 25 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 26 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 27 | [marszałek](http://twitter.com/search?q=marsza%c5%82ek) | N/A |
+| 28 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | N/A |
+| 29 | [Kędzierzyna](http://twitter.com/search?q=K%c4%99dzierzyna) | N/A |
+| 30 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 31 | [Chorzowie](http://twitter.com/search?q=Chorzowie) | N/A |
 | 32 | [PKOl](http://twitter.com/search?q=PKOl) | N/A |
-| 33 | [Kędzierzyna](http://twitter.com/search?q=K%c4%99dzierzyna) | N/A |
-| 34 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
-| 35 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 36 | [adriena](http://twitter.com/search?q=adriena) | N/A |
-| 37 | [Jastrzębski Węgiel](http://twitter.com/search?q=Jastrz%c4%99bski+W%c4%99giel) | N/A |
-| 38 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
-| 39 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 40 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 41 | [pilica](http://twitter.com/search?q=pilica) | N/A |
-| 42 | [Bystra](http://twitter.com/search?q=Bystra) | N/A |
-| 43 | [Chorzowie](http://twitter.com/search?q=Chorzowie) | N/A |
-| 44 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 45 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 46 | [wojciechowski](http://twitter.com/search?q=wojciechowski) | N/A |
+| 33 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 34 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 35 | [Trybunału Konstytucyjnego](http://twitter.com/search?q=Trybuna%c5%82u+Konstytucyjnego) | N/A |
+| 36 | [Wadowicach](http://twitter.com/search?q=Wadowicach) | N/A |
+| 37 | [jastrzębski węgiel](http://twitter.com/search?q=jastrz%c4%99bski+w%c4%99giel) | N/A |
+| 38 | [Bystra](http://twitter.com/search?q=Bystra) | N/A |
+| 39 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 40 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 41 | [jastrzębie](http://twitter.com/search?q=jastrz%c4%99bie) | N/A |
+| 42 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 43 | [Ankarze](http://twitter.com/search?q=Ankarze) | N/A |
+| 44 | [Izery](http://twitter.com/search?q=Izery) | N/A |
+| 45 | [Kowalczyk](http://twitter.com/search?q=Kowalczyk) | N/A |
+| 46 | [pilica](http://twitter.com/search?q=pilica) | N/A |
 | 47 | [karnowscy](http://twitter.com/search?q=karnowscy) | N/A |
-| 48 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 49 | [Duklanowski](http://twitter.com/search?q=Duklanowski) | N/A |
+| 48 | [Fornal](http://twitter.com/search?q=Fornal) | N/A |
+| 49 | [ślub](http://twitter.com/search?q=%c5%9blub) | N/A |
 
 
 
