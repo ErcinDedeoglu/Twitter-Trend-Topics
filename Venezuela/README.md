@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-03-30 22:18:13 UTC`
+📆 Last Updated: `2023-03-30 23:18:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Venezuela
 | 2 | [#MaduroEsUnDuro](http://twitter.com/search?q=%23MaduroEsUnDuro) | N/A |
 | 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 4 | [#29Mar](http://twitter.com/search?q=%2329Mar) | N/A |
-| 5 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
-| 6 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
-| 7 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 9 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 10 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
-| 11 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 12 | [Policía Anticorrupción](http://twitter.com/search?q=Polic%c3%ada+Anticorrupci%c3%b3n) | N/A |
-| 13 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 5 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 6 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
+| 7 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 8 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 9 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 10 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 11 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
+| 12 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 13 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
 | 14 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
-| 15 | [Ichiro Suzuki](http://twitter.com/search?q=Ichiro+Suzuki) | N/A |
-| 16 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
-| 17 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 18 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 19 | [Batista](http://twitter.com/search?q=Batista) | N/A |
-| 20 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 15 | [Policía Anticorrupción](http://twitter.com/search?q=Polic%c3%ada+Anticorrupci%c3%b3n) | N/A |
+| 16 | [Ichiro Suzuki](http://twitter.com/search?q=Ichiro+Suzuki) | N/A |
+| 17 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
+| 18 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 19 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 20 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
 | 21 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 22 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
-| 23 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 22 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 23 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
 | 24 | [Meryl Streep](http://twitter.com/search?q=Meryl+Streep) | Meryl Streep is an American actress who has won three Academy Awards, eight Golden Globe Awards, and two Emmy Awards. She is widely regarded as one of the greatest actresses of all time. |
-| 25 | [Perejil](http://twitter.com/search?q=Perejil) | N/A |
-| 26 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 27 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 28 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 29 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 30 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 31 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [Virgen de Coromoto](http://twitter.com/search?q=Virgen+de+Coromoto) | N/A |
-| 34 | [Orlando Arcia](http://twitter.com/search?q=Orlando+Arcia) | N/A |
-| 35 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
-| 36 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 37 | [Ciruela](http://twitter.com/search?q=Ciruela) | N/A |
-| 38 | [Guayana](http://twitter.com/search?q=Guayana) | N/A |
-| 39 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
-| 40 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
-| 41 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 42 | [Hinterlaces](http://twitter.com/search?q=Hinterlaces) | N/A |
-| 43 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 44 | [Venezuela y España](http://twitter.com/search?q=Venezuela+y+Espa%c3%b1a) | N/A |
-| 45 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 46 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
-| 47 | [Maye Brandt](http://twitter.com/search?q=Maye+Brandt) | N/A |
-| 48 | [Tratado de Paz y Amistad](http://twitter.com/search?q=Tratado+de+Paz+y+Amistad) | N/A |
+| 25 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 26 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 27 | [Perejil](http://twitter.com/search?q=Perejil) | N/A |
+| 28 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 29 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 30 | [Guayana](http://twitter.com/search?q=Guayana) | N/A |
+| 31 | [Fernando Batista](http://twitter.com/search?q=Fernando+Batista) | N/A |
+| 32 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
+| 33 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 34 | [Ciruela](http://twitter.com/search?q=Ciruela) | N/A |
+| 35 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 36 | [Orlando Arcia](http://twitter.com/search?q=Orlando+Arcia) | N/A |
+| 37 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 38 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 39 | [Hinterlaces](http://twitter.com/search?q=Hinterlaces) | N/A |
+| 40 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 41 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 42 | [Delsa Solorzano](http://twitter.com/search?q=Delsa+Solorzano) | N/A |
+| 43 | [venezuela y españa](http://twitter.com/search?q=venezuela+y+espa%c3%b1a) | N/A |
+| 44 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
+| 45 | [Maye Brandt](http://twitter.com/search?q=Maye+Brandt) | N/A |
+| 46 | [tratado de paz y amistad](http://twitter.com/search?q=tratado+de+paz+y+amistad) | N/A |
+| 47 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
+| 48 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
 | 49 | [negra matea](http://twitter.com/search?q=negra+matea) | N/A |
-| 50 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
+| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 

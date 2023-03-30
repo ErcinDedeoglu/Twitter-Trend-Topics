@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-03-30 22:17:58 UTC`
+📆 Last Updated: `2023-03-30 23:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tennesseans](http://twitter.com/search?q=Tennesseans) | N/A |
-| 2 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 3 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 4 | [TRUMP INDICTED](http://twitter.com/search?q=TRUMP+INDICTED) | N/A |
-| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 1 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 2 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 3 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 4 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 5 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
 | 6 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 7 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 8 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 9 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 10 | [Manhattan Grand Jury](http://twitter.com/search?q=Manhattan+Grand+Jury) | N/A |
-| 11 | [#TrumpForPrison](http://twitter.com/search?q=%23TrumpForPrison) | N/A |
-| 12 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 13 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
-| 14 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 15 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 16 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 17 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 18 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 19 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 20 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 21 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 22 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 23 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 24 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 25 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
-| 26 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 27 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 28 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
-| 29 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
-| 30 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 31 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 32 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 33 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 34 | [Tyler O'Neill](http://twitter.com/search?q=Tyler+O%27Neill) | N/A |
-| 35 | [Garrett Cooper](http://twitter.com/search?q=Garrett+Cooper) | N/A |
-| 36 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 37 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 38 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 39 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
-| 40 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 41 | [Spencer Steer](http://twitter.com/search?q=Spencer+Steer) | N/A |
-| 42 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 43 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 44 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
-| 45 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
-| 46 | [Tanner Scott](http://twitter.com/search?q=Tanner+Scott) | N/A |
-| 47 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 48 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 49 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 7 | [#TrumpForPrison](http://twitter.com/search?q=%23TrumpForPrison) | N/A |
+| 8 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 9 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 10 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 12 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 13 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 14 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 15 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 16 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 17 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 18 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 19 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 20 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 21 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 22 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
+| 23 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
+| 24 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 25 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 26 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
+| 27 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 28 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
+| 29 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 30 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 31 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 32 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 33 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
+| 34 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
+| 35 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 36 | [Somber](http://twitter.com/search?q=Somber) | N/A |
+| 37 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 38 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 39 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 40 | [Champagne](http://twitter.com/search?q=Champagne) | N/A |
+| 41 | [Perp Walk](http://twitter.com/search?q=Perp+Walk) | N/A |
+| 42 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 43 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
+| 44 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 45 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 46 | [Outrageous](http://twitter.com/search?q=Outrageous) | N/A |
+| 47 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 48 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 49 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
 
 
 

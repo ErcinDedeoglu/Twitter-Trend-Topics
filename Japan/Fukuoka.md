@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fukuoka
 
-📆 Last Updated: `2023-03-30 22:17:32 UTC`
+📆 Last Updated: `2023-03-30 23:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#月末はファンタの日](http://twitter.com/search?q=%23%e6%9c%88%e6%9c%ab%e3%81%af%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%81%ae%e6%97%a5) | N/A |
-| 2 | [#おは戦50331mk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650331mk) | N/A |
-| 3 | [#サーティワン総選挙](http://twitter.com/search?q=%23%e3%82%b5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%af%e3%83%b3%e7%b7%8f%e9%81%b8%e6%8c%99) | N/A |
-| 4 | [トランプ前大統領](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%83%97%e5%89%8d%e5%a4%a7%e7%b5%b1%e9%a0%98) | N/A |
-| 5 | [リモートレイドパス](http://twitter.com/search?q=%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%83%ac%e3%82%a4%e3%83%89%e3%83%91%e3%82%b9) | N/A |
-| 6 | [#おのえ765](http://twitter.com/search?q=%23%e3%81%8a%e3%81%ae%e3%81%88765) | N/A |
-| 7 | [フレーバー総選挙](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%bc%e3%83%90%e3%83%bc%e7%b7%8f%e9%81%b8%e6%8c%99) | N/A |
-| 8 | [今年度最終日](http://twitter.com/search?q=%e4%bb%8a%e5%b9%b4%e5%ba%a6%e6%9c%80%e7%b5%82%e6%97%a5) | N/A |
-| 9 | [追加戦士](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e6%88%a6%e5%a3%ab) | N/A |
-| 10 | [オーケストラの日](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b1%e3%82%b9%e3%83%88%e3%83%a9%e3%81%ae%e6%97%a5) | N/A |
-| 11 | [スクフェス](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%95%e3%82%a7%e3%82%b9) | スクフェス (SukuFesu) is short for "School Idol Festival", a rhythm game developed by KLabGames and published by Bushiroad. It is based on the Love Live! franchise and features characters from the series. Players must tap notes in time with the music to score points and complete levels. The game also includes a card collecting element, where players can collect cards featuring characters from the series. The English translation of スクフェス is School Idol Festival. |
-| 12 | [第434回](http://twitter.com/search?q=%e7%ac%ac434%e5%9b%9e) | N/A |
-| 13 | [トランプ起訴](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%83%97%e8%b5%b7%e8%a8%b4) | N/A |
-| 14 | [トルコ議会](http://twitter.com/search?q=%e3%83%88%e3%83%ab%e3%82%b3%e8%ad%b0%e4%bc%9a) | N/A |
-| 15 | [マーク黒髪](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%af%e9%bb%92%e9%ab%aa) | N/A |
-| 16 | [リモパス](http://twitter.com/search?q=%e3%83%aa%e3%83%a2%e3%83%91%e3%82%b9) | N/A |
-| 17 | [オトッペ](http://twitter.com/search?q=%e3%82%aa%e3%83%88%e3%83%83%e3%83%9a) | N/A |
-| 18 | [プレミアムフライデー](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%83%95%e3%83%a9%e3%82%a4%e3%83%87%e3%83%bc) | プレミアムフライデー (Premium Friday) is a campaign launched by the Japanese government in 2017 to encourage people to take time off from work and enjoy leisure activities on the last Friday of each month. The idea is to promote a better work-life balance and boost consumer spending. In English, it can be translated as "Premium Friday". |
-| 19 | [デグロム](http://twitter.com/search?q=%e3%83%87%e3%82%b0%e3%83%ad%e3%83%a0) | N/A |
-| 20 | [現地レイド](http://twitter.com/search?q=%e7%8f%be%e5%9c%b0%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
-| 21 | [メジャー初ヒット](http://twitter.com/search?q=%e3%83%a1%e3%82%b8%e3%83%a3%e3%83%bc%e5%88%9d%e3%83%92%e3%83%83%e3%83%88) | N/A |
-| 22 | [JALのセール](http://twitter.com/search?q=JAL%e3%81%ae%e3%82%bb%e3%83%bc%e3%83%ab) | N/A |
-| 23 | [バインド](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
-| 24 | [マイコラス](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%82%b3%e3%83%a9%e3%82%b9) | N/A |
-| 25 | [題の答え](http://twitter.com/search?q=%e9%a1%8c%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
-| 26 | [ラッチマン](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%83%81%e3%83%9e%e3%83%b3) | N/A |
-| 27 | [回数制限](http://twitter.com/search?q=%e5%9b%9e%e6%95%b0%e5%88%b6%e9%99%90) | N/A |
-| 28 | [山菜の日](http://twitter.com/search?q=%e5%b1%b1%e8%8f%9c%e3%81%ae%e6%97%a5) | N/A |
-| 29 | [ピッチクロック](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%82%af%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 30 | [真綾さん](http://twitter.com/search?q=%e7%9c%9f%e7%b6%be%e3%81%95%e3%82%93) | 真綾さん is a Japanese honorific title used to refer to someone with the given name Maaya. It is similar to the English title of "Ms." or "Miss". |
-| 31 | [オオクワガタオージャー](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%af%e3%83%af%e3%82%ac%e3%82%bf%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 32 | [最後の日](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e6%97%a5) | N/A |
-| 33 | [他人の住民票発行](http://twitter.com/search?q=%e4%bb%96%e4%ba%ba%e3%81%ae%e4%bd%8f%e6%b0%91%e7%a5%a8%e7%99%ba%e8%a1%8c) | N/A |
-| 34 | [オリオールズ](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%82%aa%e3%83%bc%e3%83%ab%e3%82%ba) | N/A |
-| 35 | [ミルモでポン](http://twitter.com/search?q=%e3%83%9f%e3%83%ab%e3%83%a2%e3%81%a7%e3%83%9d%e3%83%b3) | N/A |
-| 36 | [応募者全員サービス](http://twitter.com/search?q=%e5%bf%9c%e5%8b%9f%e8%80%85%e5%85%a8%e5%93%a1%e3%82%b5%e3%83%bc%e3%83%93%e3%82%b9) | N/A |
-| 37 | [Wordle 650](http://twitter.com/search?q=Wordle+650) | N/A |
-| 38 | [オンレコ](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%83%ac%e3%82%b3) | N/A |
-| 39 | [横浜のコンビニ](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e3%81%ae%e3%82%b3%e3%83%b3%e3%83%93%e3%83%8b) | N/A |
-| 40 | [昭和の霊](http://twitter.com/search?q=%e6%98%ad%e5%92%8c%e3%81%ae%e9%9c%8a) | N/A |
-| 41 | [月曜カムバ](http://twitter.com/search?q=%e6%9c%88%e6%9b%9c%e3%82%ab%e3%83%a0%e3%83%90) | N/A |
-| 42 | [オフレコ](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%83%ac%e3%82%b3) | オフレコ (ofureko) is a Japanese term that means "off the record". It is used to describe conversations or information that is not meant to be shared publicly. |
-| 43 | [カレンチャン](http://twitter.com/search?q=%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%81%e3%83%a3%e3%83%b3) | カレンチャン is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it can be translated as "Call and Chant". |
-| 44 | [カムバ情報](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%90%e6%83%85%e5%a0%b1) | N/A |
-| 45 | [令和4年度](http://twitter.com/search?q=%e4%bb%a4%e5%92%8c4%e5%b9%b4%e5%ba%a6) | N/A |
-| 46 | [台湾ラーメン](http://twitter.com/search?q=%e5%8f%b0%e6%b9%be%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3) | N/A |
-| 47 | [スズナリデンキ](http://twitter.com/search?q=%e3%82%b9%e3%82%ba%e3%83%8a%e3%83%aa%e3%83%87%e3%83%b3%e3%82%ad) | N/A |
-| 48 | [プレデビュー](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%87%e3%83%93%e3%83%a5%e3%83%bc) | N/A |
-| 49 | [今年度ラスト](http://twitter.com/search?q=%e4%bb%8a%e5%b9%b4%e5%ba%a6%e3%83%a9%e3%82%b9%e3%83%88) | N/A |
+| 1 | [新コーナー](http://twitter.com/search?q=%e6%96%b0%e3%82%b3%e3%83%bc%e3%83%8a%e3%83%bc) | N/A |
+| 2 | [#舞いあがれ](http://twitter.com/search?q=%23%e8%88%9e%e3%81%84%e3%81%82%e3%81%8c%e3%82%8c) | #舞いあがれ is a Japanese hashtag that translates to "Let's Dance!" It is often used on social media to encourage people to get up and dance. |
+| 3 | [#めざましテレビ](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%81%be%e3%81%97%e3%83%86%e3%83%ac%e3%83%93) | N/A |
+| 4 | [E3中止](http://twitter.com/search?q=E3%e4%b8%ad%e6%ad%a2) | N/A |
+| 5 | [#月末はファンタの日](http://twitter.com/search?q=%23%e6%9c%88%e6%9c%ab%e3%81%af%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%81%ae%e6%97%a5) | N/A |
+| 6 | [なにわ男子のどっち派](http://twitter.com/search?q=%e3%81%aa%e3%81%ab%e3%82%8f%e7%94%b7%e5%ad%90%e3%81%ae%e3%81%a9%e3%81%a3%e3%81%a1%e6%b4%be) | N/A |
+| 7 | [スカパラ](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%83%91%e3%83%a9) | N/A |
+| 8 | [大河内教官](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e5%86%85%e6%95%99%e5%ae%98) | N/A |
+| 9 | [年度末最終日](http://twitter.com/search?q=%e5%b9%b4%e5%ba%a6%e6%9c%ab%e6%9c%80%e7%b5%82%e6%97%a5) | N/A |
+| 10 | [#なにわ男子のなんでやねん](http://twitter.com/search?q=%23%e3%81%aa%e3%81%ab%e3%82%8f%e7%94%b7%e5%ad%90%e3%81%ae%e3%81%aa%e3%82%93%e3%81%a7%e3%82%84%e3%81%ad%e3%82%93) | N/A |
+| 11 | [追加戦士](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e6%88%a6%e5%a3%ab) | N/A |
+| 12 | [柏木学生](http://twitter.com/search?q=%e6%9f%8f%e6%9c%a8%e5%ad%a6%e7%94%9f) | 柏木学生 is a Japanese term that refers to students who are hardworking and diligent in their studies. It literally translates to "Oak Tree Student" and is used to describe someone who is studious and disciplined in their academic pursuits. |
+| 13 | [ラクレス](http://twitter.com/search?q=%e3%83%a9%e3%82%af%e3%83%ac%e3%82%b9) | N/A |
+| 14 | [プレミアムフライデー](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%83%95%e3%83%a9%e3%82%a4%e3%83%87%e3%83%bc) | プレミアムフライデー (Premium Friday) is a campaign launched by the Japanese government in 2017 to encourage people to take time off from work and enjoy leisure activities on the last Friday of each month. The idea is to promote a better work-life balance and boost consumer spending. In English, it can be translated as "Premium Friday". |
+| 15 | [春風スニーカー](http://twitter.com/search?q=%e6%98%a5%e9%a2%a8%e3%82%b9%e3%83%8b%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 16 | [なにわバードマン](http://twitter.com/search?q=%e3%81%aa%e3%81%ab%e3%82%8f%e3%83%90%e3%83%bc%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
+| 17 | [トランプ前大統領](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%b3%e3%83%97%e5%89%8d%e5%a4%a7%e7%b5%b1%e9%a0%98) | N/A |
+| 18 | [由良先輩](http://twitter.com/search?q=%e7%94%b1%e8%89%af%e5%85%88%e8%bc%a9) | N/A |
+| 19 | [エイプリルフール](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%97%e3%83%aa%e3%83%ab%e3%83%95%e3%83%bc%e3%83%ab) | N/A |
+| 20 | [口止め料](http://twitter.com/search?q=%e5%8f%a3%e6%ad%a2%e3%82%81%e6%96%99) | N/A |
+| 21 | [フレーバー総選挙](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%bc%e3%83%90%e3%83%bc%e7%b7%8f%e9%81%b8%e6%8c%99) | N/A |
+| 22 | [オーケストラの日](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%82%b1%e3%82%b9%e3%83%88%e3%83%a9%e3%81%ae%e6%97%a5) | N/A |
+| 23 | [舞ちゃん](http://twitter.com/search?q=%e8%88%9e%e3%81%a1%e3%82%83%e3%82%93) | 舞ちゃん is a nickname for the Japanese idol group Nogizaka46. It is derived from the group's name, which can be translated as "Forty-six Dance Girls". The nickname is used to refer to the members of the group collectively. |
+| 24 | [リモートレイドパス](http://twitter.com/search?q=%e3%83%aa%e3%83%a2%e3%83%bc%e3%83%88%e3%83%ac%e3%82%a4%e3%83%89%e3%83%91%e3%82%b9) | N/A |
+| 25 | [朝ドラ最終回](http://twitter.com/search?q=%e6%9c%9d%e3%83%89%e3%83%a9%e6%9c%80%e7%b5%82%e5%9b%9e) | N/A |
+| 26 | [噴水ボーイズ](http://twitter.com/search?q=%e5%99%b4%e6%b0%b4%e3%83%9c%e3%83%bc%e3%82%a4%e3%82%ba) | N/A |
+| 27 | [スクフェス](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%95%e3%82%a7%e3%82%b9) | スクフェス (SukuFesu) is short for "School Idol Festival", a rhythm game developed by KLabGames and published by Bushiroad. It is based on the Love Live! franchise and features characters from the series. Players must tap notes in time with the music to score points and complete levels. The game also includes a card collecting element, where players can collect cards featuring characters from the series. The English translation of スクフェス is School Idol Festival. |
+| 28 | [柏木くん](http://twitter.com/search?q=%e6%9f%8f%e6%9c%a8%e3%81%8f%e3%82%93) | N/A |
+| 29 | [きんようび](http://twitter.com/search?q=%e3%81%8d%e3%82%93%e3%82%88%e3%81%86%e3%81%b3) | N/A |
+| 30 | [リモパス](http://twitter.com/search?q=%e3%83%aa%e3%83%a2%e3%83%91%e3%82%b9) | N/A |
+| 31 | [オルタネート文庫化](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%82%bf%e3%83%8d%e3%83%bc%e3%83%88%e6%96%87%e5%ba%ab%e5%8c%96) | N/A |
+| 32 | [オオクワガタオージャー](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%af%e3%83%af%e3%82%ac%e3%82%bf%e3%82%aa%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 33 | [NY州大陪審](http://twitter.com/search?q=NY%e5%b7%9e%e5%a4%a7%e9%99%aa%e5%af%a9) | N/A |
+| 34 | [回数制限](http://twitter.com/search?q=%e5%9b%9e%e6%95%b0%e5%88%b6%e9%99%90) | N/A |
+| 35 | [マーク黒髪](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%82%af%e9%bb%92%e9%ab%aa) | N/A |
+| 36 | [第434回](http://twitter.com/search?q=%e7%ac%ac434%e5%9b%9e) | N/A |
+| 37 | [フィンランド](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%b3%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
+| 38 | [鶴田先輩](http://twitter.com/search?q=%e9%b6%b4%e7%94%b0%e5%85%88%e8%bc%a9) | N/A |
+| 39 | [ポルノ女優](http://twitter.com/search?q=%e3%83%9d%e3%83%ab%e3%83%8e%e5%a5%b3%e5%84%aa) | N/A |
+| 40 | [重大発表](http://twitter.com/search?q=%e9%87%8d%e5%a4%a7%e7%99%ba%e8%a1%a8) | N/A |
+| 41 | [大統領経験者](http://twitter.com/search?q=%e5%a4%a7%e7%b5%b1%e9%a0%98%e7%b5%8c%e9%a8%93%e8%80%85) | N/A |
+| 42 | [トルコ議会](http://twitter.com/search?q=%e3%83%88%e3%83%ab%e3%82%b3%e8%ad%b0%e4%bc%9a) | N/A |
+| 43 | [今年度最後の日](http://twitter.com/search?q=%e4%bb%8a%e5%b9%b4%e5%ba%a6%e6%9c%80%e5%be%8c%e3%81%ae%e6%97%a5) | N/A |
+| 44 | [現地レイド](http://twitter.com/search?q=%e7%8f%be%e5%9c%b0%e3%83%ac%e3%82%a4%e3%83%89) | N/A |
+| 45 | [年度末の金曜日](http://twitter.com/search?q=%e5%b9%b4%e5%ba%a6%e6%9c%ab%e3%81%ae%e9%87%91%e6%9b%9c%e6%97%a5) | N/A |
+| 46 | [父ちゃんの夢](http://twitter.com/search?q=%e7%88%b6%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e5%a4%a2) | N/A |
+| 47 | [トルコ可決](http://twitter.com/search?q=%e3%83%88%e3%83%ab%e3%82%b3%e5%8f%af%e6%b1%ba) | N/A |
+| 48 | [バインド](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%b3%e3%83%89) | N/A |
+| 49 | [NATO拡大](http://twitter.com/search?q=NATO%e6%8b%a1%e5%a4%a7) | N/A |
 
 
 

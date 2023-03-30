@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-30 22:18:00 UTC`
+📆 Last Updated: `2023-03-30 23:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
+| 1 | [Tanner Scott](http://twitter.com/search?q=Tanner+Scott) | N/A |
 | 2 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
-| 3 | [Jose Siri](http://twitter.com/search?q=Jose+Siri) | N/A |
+| 3 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
 | 4 | [#MakeItMiami](http://twitter.com/search?q=%23MakeItMiami) | N/A |
-| 5 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 6 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 7 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 8 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 9 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 10 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 11 | [Megacon](http://twitter.com/search?q=Megacon) | N/A |
-| 12 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 13 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 14 | [Pro Day](http://twitter.com/search?q=Pro+Day) | N/A |
-| 15 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 16 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 17 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 18 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 19 | [Manhattan Grand Jury](http://twitter.com/search?q=Manhattan+Grand+Jury) | N/A |
-| 20 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 21 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 22 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 23 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 5 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 6 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 7 | [Political](http://twitter.com/search?q=Political) | N/A |
+| 8 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 9 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 10 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 11 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 12 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 13 | [Siri](http://twitter.com/search?q=Siri) | N/A |
+| 14 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 15 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
+| 16 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 17 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 18 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 19 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 20 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 21 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 22 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 23 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
 | 24 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 25 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 26 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 27 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 28 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 29 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 30 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 31 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 32 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 33 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
-| 34 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 36 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
-| 37 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 38 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 39 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 40 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 41 | [Tyler O'Neill](http://twitter.com/search?q=Tyler+O%27Neill) | N/A |
-| 42 | [Garrett Cooper](http://twitter.com/search?q=Garrett+Cooper) | N/A |
-| 43 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
-| 44 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 45 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 46 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 47 | [Spencer Steer](http://twitter.com/search?q=Spencer+Steer) | N/A |
-| 48 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 25 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 26 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 28 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 29 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 30 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 31 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
+| 32 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 33 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
+| 34 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
+| 35 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 36 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
+| 37 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 38 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 39 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 40 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 41 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
+| 42 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
+| 43 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 44 | [Somber](http://twitter.com/search?q=Somber) | N/A |
+| 45 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 46 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 47 | [Champagne](http://twitter.com/search?q=Champagne) | N/A |
+| 48 | [Perp Walk](http://twitter.com/search?q=Perp+Walk) | N/A |
 
 
 

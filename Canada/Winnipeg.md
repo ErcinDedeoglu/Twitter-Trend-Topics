@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-03-30 22:17:03 UTC`
+📆 Last Updated: `2023-03-30 23:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,48 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
 | 2 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 3 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 4 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 5 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 6 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 7 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 8 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
-| 9 | [Bo Bichette](http://twitter.com/search?q=Bo+Bichette) | N/A |
-| 10 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
-| 11 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 12 | [C-11](http://twitter.com/search?q=C-11) | N/A |
-| 13 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 14 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
-| 15 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 16 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
-| 17 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 18 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 19 | [Buck](http://twitter.com/search?q=Buck) | N/A |
-| 20 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 21 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 22 | [Hutson](http://twitter.com/search?q=Hutson) | N/A |
-| 23 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 24 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
-| 25 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 26 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 27 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 28 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
-| 29 | [Mass Casualty Commission](http://twitter.com/search?q=Mass+Casualty+Commission) | N/A |
-| 30 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 31 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 32 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 33 | [Vatican](http://twitter.com/search?q=Vatican) | N/A |
-| 34 | [#Cardinals](http://twitter.com/search?q=%23Cardinals) | N/A |
-| 35 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
-| 36 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
-| 37 | [#SAGES2023](http://twitter.com/search?q=%23SAGES2023) | N/A |
+| 3 | [Tim Mayza](http://twitter.com/search?q=Tim+Mayza) | N/A |
+| 4 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 5 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
+| 6 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 7 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 8 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
+| 9 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 10 | [Bichette](http://twitter.com/search?q=Bichette) | N/A |
+| 11 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 12 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
+| 13 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 14 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
+| 15 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 16 | [C-11](http://twitter.com/search?q=C-11) | N/A |
+| 17 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 18 | [Chapman](http://twitter.com/search?q=Chapman) | N/A |
+| 19 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 20 | [RCMP](http://twitter.com/search?q=RCMP) | N/A |
+| 21 | [Truth Social](http://twitter.com/search?q=Truth+Social) | Truth Social is a social media platform that encourages users to share their honest opinions and experiences. It is a place where people can be open and honest about their thoughts, feelings, and beliefs without fear of judgement or criticism. The goal of Truth Social is to create an online community where people can express themselves freely and openly without worrying about being judged or censored. |
+| 22 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 23 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 24 | [Buck](http://twitter.com/search?q=Buck) | N/A |
+| 25 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 26 | [Hutson](http://twitter.com/search?q=Hutson) | N/A |
+| 27 | [Doctrine of Discovery](http://twitter.com/search?q=Doctrine+of+Discovery) | N/A |
+| 28 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 29 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 30 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 31 | [Mass Casualty Commission](http://twitter.com/search?q=Mass+Casualty+Commission) | N/A |
+| 32 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 33 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 34 | [Kenney](http://twitter.com/search?q=Kenney) | N/A |
+| 35 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 36 | [St. Louis](http://twitter.com/search?q=St.+Louis) | N/A |
+| 37 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 38 | [#TrumpForPrison](http://twitter.com/search?q=%23TrumpForPrison) | N/A |
+| 39 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
+| 40 | [#TrumpIsGuilty](http://twitter.com/search?q=%23TrumpIsGuilty) | N/A |
+| 41 | [#Cardinals](http://twitter.com/search?q=%23Cardinals) | N/A |
+| 42 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
+| 43 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 44 | [#TrudeauDictatorship](http://twitter.com/search?q=%23TrudeauDictatorship) | N/A |
 
 
 

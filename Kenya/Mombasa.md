@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-30 22:17:41 UTC`
+📆 Last Updated: `2023-03-30 23:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,46 @@ This is top 50 for [Kenya](</Kenya>)
 | 8 | [#BLAZESpaces](http://twitter.com/search?q=%23BLAZESpaces) | N/A |
 | 9 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
 | 10 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 11 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 12 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
-| 13 | [Outering Road](http://twitter.com/search?q=Outering+Road) | N/A |
-| 14 | [Naivasha](http://twitter.com/search?q=Naivasha) | N/A |
-| 15 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 16 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
-| 17 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 18 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 19 | [#ChangeYourOilDNA](http://twitter.com/search?q=%23ChangeYourOilDNA) | N/A |
-| 20 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
+| 11 | [Outering Road](http://twitter.com/search?q=Outering+Road) | N/A |
+| 12 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 13 | [Naivasha](http://twitter.com/search?q=Naivasha) | N/A |
+| 14 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
+| 15 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
+| 16 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 17 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 18 | [#ChangeYourOilDNA](http://twitter.com/search?q=%23ChangeYourOilDNA) | N/A |
+| 19 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
+| 20 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
 | 21 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 22 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
-| 23 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
+| 22 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
+| 23 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
 | 24 | [Blaze Tariff](http://twitter.com/search?q=Blaze+Tariff) | N/A |
-| 25 | [Kedong](http://twitter.com/search?q=Kedong) | N/A |
-| 26 | [Join the Twitter](http://twitter.com/search?q=Join+the+Twitter) | N/A |
-| 27 | [Rarieda](http://twitter.com/search?q=Rarieda) | N/A |
-| 28 | [Baba](http://twitter.com/search?q=Baba) | N/A |
-| 29 | [beijing raiders](http://twitter.com/search?q=beijing+raiders) | N/A |
-| 30 | [KBB 233B](http://twitter.com/search?q=KBB+233B) | N/A |
-| 31 | [Kayole](http://twitter.com/search?q=Kayole) | N/A |
-| 32 | [Trade CS Moses Kuria](http://twitter.com/search?q=Trade+CS+Moses+Kuria) | N/A |
-| 33 | [utalii hotel](http://twitter.com/search?q=utalii+hotel) | N/A |
-| 34 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
-| 35 | [Prado](http://twitter.com/search?q=Prado) | N/A |
-| 36 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 37 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 38 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 39 | [Pilsner Lager](http://twitter.com/search?q=Pilsner+Lager) | N/A |
-| 40 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
-| 41 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
-| 42 | [Mortuary](http://twitter.com/search?q=Mortuary) | N/A |
-| 43 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
-| 44 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 45 | [dj grauchi](http://twitter.com/search?q=dj+grauchi) | N/A |
-| 46 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 47 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
-| 48 | [Closing](http://twitter.com/search?q=Closing) | N/A |
-| 49 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 25 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 26 | [Kedong](http://twitter.com/search?q=Kedong) | N/A |
+| 27 | [Join the Twitter](http://twitter.com/search?q=Join+the+Twitter) | N/A |
+| 28 | [beijing raiders](http://twitter.com/search?q=beijing+raiders) | N/A |
+| 29 | [Kayole](http://twitter.com/search?q=Kayole) | N/A |
+| 30 | [trade cs moses kuria](http://twitter.com/search?q=trade+cs+moses+kuria) | N/A |
+| 31 | [KBB 233B](http://twitter.com/search?q=KBB+233B) | N/A |
+| 32 | [utalii hotel](http://twitter.com/search?q=utalii+hotel) | N/A |
+| 33 | [Maxine Wahome](http://twitter.com/search?q=Maxine+Wahome) | N/A |
+| 34 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 35 | [Karen](http://twitter.com/search?q=Karen) | N/A |
+| 36 | [Pilsner Lager](http://twitter.com/search?q=Pilsner+Lager) | N/A |
+| 37 | [MC Fullstop](http://twitter.com/search?q=MC+Fullstop) | N/A |
+| 38 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
+| 39 | [Mortuary](http://twitter.com/search?q=Mortuary) | N/A |
+| 40 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
+| 41 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 42 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 43 | [Closing](http://twitter.com/search?q=Closing) | N/A |
+| 44 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
+| 45 | [Mukuru](http://twitter.com/search?q=Mukuru) | N/A |
+| 46 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 47 | [Castrol](http://twitter.com/search?q=Castrol) | N/A |
+| 48 | [langata southlands](http://twitter.com/search?q=langata+southlands) | N/A |
+| 49 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 50 | [Gatundu](http://twitter.com/search?q=Gatundu) | N/A |
 
 
 

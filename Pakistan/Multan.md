@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-30 22:17:47 UTC`
+📆 Last Updated: `2023-03-30 23:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#حوصلے_کا_پہاڑ_عمران_خان](http://twitter.com/search?q=%23%d8%ad%d9%88%d8%b5%d9%84%db%92_%da%a9%d8%a7_%d9%be%db%81%d8%a7%da%91_%d8%b9%d9%85%d8%b1%d8%a7%d9%86_%d8%ae%d8%a7%d9%86) | N/A |
 | 3 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
 | 4 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
-| 5 | [Broken](http://twitter.com/search?q=Broken) | N/A |
-| 6 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
-| 7 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 8 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 9 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 10 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Broken](http://twitter.com/search?q=Broken) | N/A |
+| 7 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
+| 8 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 9 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 10 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
 | 11 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
-| 12 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
-| 13 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 14 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 15 | [dsp iqbal mohmand](http://twitter.com/search?q=dsp+iqbal+mohmand) | N/A |
-| 16 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 17 | [morne morkel](http://twitter.com/search?q=morne+morkel) | N/A |
+| 12 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 13 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
+| 14 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 15 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 16 | [dsp iqbal mohmand](http://twitter.com/search?q=dsp+iqbal+mohmand) | N/A |
+| 17 | [Morne Morkel](http://twitter.com/search?q=Morne+Morkel) | N/A |
 | 18 | [Drone](http://twitter.com/search?q=Drone) | N/A |
 | 19 | [bill 2023](http://twitter.com/search?q=bill+2023) | N/A |
 | 20 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 21 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
-| 22 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
-| 23 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 24 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
+| 21 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
+| 22 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
+| 23 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
+| 24 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
 | 25 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
 | 26 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
 | 27 | [Choti](http://twitter.com/search?q=Choti) | N/A |
 | 28 | [justice aminuddin khan](http://twitter.com/search?q=justice+aminuddin+khan) | N/A |
 | 29 | [Justice Munir](http://twitter.com/search?q=Justice+Munir) | N/A |
-| 30 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
+| 30 | [justice musarrat hilali](http://twitter.com/search?q=justice+musarrat+hilali) | N/A |
 | 31 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 32 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 33 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 32 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
+| 33 | [FATF](http://twitter.com/search?q=FATF) | N/A |
 | 34 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
-| 35 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
-| 36 | [Article 184](http://twitter.com/search?q=Article+184) | N/A |
-| 37 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 38 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 39 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 40 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 41 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 42 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 43 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
-| 44 | [Goku](http://twitter.com/search?q=Goku) | N/A |
+| 35 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 36 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 37 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 38 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 39 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 40 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 41 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
+| 42 | [Goku](http://twitter.com/search?q=Goku) | N/A |
+| 43 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 44 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 46 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
 | 47 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 48 | [Noice](http://twitter.com/search?q=Noice) | N/A |
-| 49 | [Indian Muslims](http://twitter.com/search?q=Indian+Muslims) | N/A |
+| 48 | [Indian Muslims](http://twitter.com/search?q=Indian+Muslims) | N/A |
+| 49 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
 
 
 

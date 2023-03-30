@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-30 22:17:56 UTC`
+📆 Last Updated: `2023-03-30 23:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 2 | [Webb](http://twitter.com/search?q=Webb) | N/A |
+| 1 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 2 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
 | 3 | [#HereToPlay](http://twitter.com/search?q=%23HereToPlay) | N/A |
-| 4 | [Mark Ridley-Thomas](http://twitter.com/search?q=Mark+Ridley-Thomas) | N/A |
-| 5 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 4 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
+| 5 | [Mark Ridley-Thomas](http://twitter.com/search?q=Mark+Ridley-Thomas) | N/A |
 | 6 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 7 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 8 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 9 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 10 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 11 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 12 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 13 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
-| 14 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 15 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 16 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 17 | [Go Padres](http://twitter.com/search?q=Go+Padres) | N/A |
-| 18 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 19 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 20 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 21 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 22 | [San Jose](http://twitter.com/search?q=San+Jose) | N/A |
-| 23 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 24 | [TRUMP INDICTED](http://twitter.com/search?q=TRUMP+INDICTED) | N/A |
-| 25 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 26 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 27 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 28 | [Manhattan Grand Jury](http://twitter.com/search?q=Manhattan+Grand+Jury) | N/A |
-| 29 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 30 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 7 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 8 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 9 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 10 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
+| 11 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 12 | [Jacob Chansley](http://twitter.com/search?q=Jacob+Chansley) | N/A |
+| 13 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 14 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 15 | [Go Padres](http://twitter.com/search?q=Go+Padres) | N/A |
+| 16 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 17 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 18 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 19 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 20 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 21 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 22 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 23 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 24 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 25 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 26 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 27 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 28 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 29 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 30 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 31 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 32 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 33 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 34 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 35 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 36 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 37 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 38 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 39 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 40 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 41 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 42 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
-| 43 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 44 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
-| 45 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
-| 46 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 47 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 48 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 49 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 32 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 33 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 34 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 35 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
+| 36 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
+| 37 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 38 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 39 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
+| 40 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 41 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
+| 42 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 43 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 44 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 45 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 46 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
+| 47 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
+| 48 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 49 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
 
 
 

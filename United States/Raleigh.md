@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-03-30 22:18:01 UTC`
+📆 Last Updated: `2023-03-30 23:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 2 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 3 | [TRUMP INDICTED](http://twitter.com/search?q=TRUMP+INDICTED) | N/A |
-| 4 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 6 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 7 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 8 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 9 | [Manhattan Grand Jury](http://twitter.com/search?q=Manhattan+Grand+Jury) | N/A |
-| 10 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 11 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 12 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 13 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 14 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 15 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 16 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 17 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 18 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 19 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 20 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 21 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 22 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 23 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
+| 1 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 2 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 3 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 4 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 5 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 6 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 7 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 8 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 9 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 10 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 11 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 12 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 13 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 14 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 15 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 16 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 17 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 18 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 19 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
+| 20 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
+| 21 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 22 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 23 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
 | 24 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 25 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
-| 26 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
-| 27 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 28 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 29 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 30 | [Tyler O'Neill](http://twitter.com/search?q=Tyler+O%27Neill) | N/A |
-| 31 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 32 | [Garrett Cooper](http://twitter.com/search?q=Garrett+Cooper) | N/A |
-| 33 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
-| 34 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 35 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 36 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 37 | [Spencer Steer](http://twitter.com/search?q=Spencer+Steer) | N/A |
-| 38 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 39 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 40 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
-| 41 | [Fernando Cruz](http://twitter.com/search?q=Fernando+Cruz) | N/A |
-| 42 | [Tanner Scott](http://twitter.com/search?q=Tanner+Scott) | N/A |
-| 43 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 44 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 45 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 46 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 47 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
-| 48 | [Summer Games Fest](http://twitter.com/search?q=Summer+Games+Fest) | N/A |
+| 25 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
+| 26 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 27 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 28 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 29 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 30 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
+| 31 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
+| 32 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 33 | [Somber](http://twitter.com/search?q=Somber) | N/A |
+| 34 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 35 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 36 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 37 | [Champagne](http://twitter.com/search?q=Champagne) | N/A |
+| 38 | [Perp Walk](http://twitter.com/search?q=Perp+Walk) | N/A |
+| 39 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 40 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
+| 41 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 42 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 43 | [Outrageous](http://twitter.com/search?q=Outrageous) | N/A |
+| 44 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 45 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 46 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
+| 47 | [Brasier](http://twitter.com/search?q=Brasier) | Brasier is a type of lingerie that covers the breasts and torso. It is similar to a corset, but usually has less boning and is more lightweight. The word comes from the French word for "brazier," which is a type of open-top fireplace. In English, brasier can be used to refer to any type of lingerie that covers the breasts and torso. |
+| 48 | [Drew Smith](http://twitter.com/search?q=Drew+Smith) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-30 22:17:59 UTC`
+📆 Last Updated: `2023-03-30 23:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 2 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 3 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 4 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
-| 5 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 6 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 7 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 8 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 9 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 10 | [ALL RISE](http://twitter.com/search?q=ALL+RISE) | N/A |
-| 11 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
-| 12 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
-| 13 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
-| 14 | [Gleyber](http://twitter.com/search?q=Gleyber) | N/A |
-| 15 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 16 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 17 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
-| 18 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 19 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 20 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 21 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
-| 22 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 23 | [Donaldson](http://twitter.com/search?q=Donaldson) | N/A |
-| 24 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 1 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 2 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 3 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
+| 4 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 5 | [President of the United States](http://twitter.com/search?q=President+of+the+United+States) | N/A |
+| 6 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 7 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 8 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 9 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 10 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
+| 11 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 12 | [Eric Adams](http://twitter.com/search?q=Eric+Adams) | N/A |
+| 13 | [#AllRise](http://twitter.com/search?q=%23AllRise) | N/A |
+| 14 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
+| 15 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
+| 16 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
+| 17 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 18 | [Cy Young](http://twitter.com/search?q=Cy+Young) | N/A |
+| 19 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 20 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
+| 21 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
+| 22 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
+| 23 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 24 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 | 25 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 26 | [TRUMP INDICTED](http://twitter.com/search?q=TRUMP+INDICTED) | N/A |
+| 26 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
 | 27 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 28 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 29 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 30 | [Manhattan Grand Jury](http://twitter.com/search?q=Manhattan+Grand+Jury) | N/A |
-| 31 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 32 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 33 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 34 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 35 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 36 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 37 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 38 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 39 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 40 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 41 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 42 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 43 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 44 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
-| 45 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 46 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
-| 47 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
-| 48 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 49 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 50 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 28 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 29 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 30 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 31 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 32 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 33 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 34 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 35 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 36 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 37 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 38 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
+| 39 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
+| 40 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 41 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 42 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
+| 43 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 44 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
+| 45 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 46 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
+| 47 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 48 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 49 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
+| 50 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
 
 
 

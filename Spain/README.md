@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-30 22:18:12 UTC`
+📆 Last Updated: `2023-03-30 23:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Spain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SVGala5](http://twitter.com/search?q=%23SVGala5) | N/A |
-| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 2 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 3 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
 | 4 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
-| 5 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
-| 6 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
-| 7 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 8 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 9 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 10 | [#firstdates30m](http://twitter.com/search?q=%23firstdates30m) | N/A |
-| 11 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
-| 12 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 7 | [#ChiringuitoMessi](http://twitter.com/search?q=%23ChiringuitoMessi) | N/A |
+| 8 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 9 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
+| 10 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
+| 11 | [Gabriela](http://twitter.com/search?q=Gabriela) | N/A |
+| 12 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
 | 13 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 14 | [Raquel Arias](http://twitter.com/search?q=Raquel+Arias) | N/A |
-| 15 | [Gabriela](http://twitter.com/search?q=Gabriela) | N/A |
-| 16 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 17 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 18 | [Libres 1](http://twitter.com/search?q=Libres+1) | N/A |
-| 19 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 20 | [Gema Aldón](http://twitter.com/search?q=Gema+Ald%c3%b3n) | N/A |
-| 21 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 22 | [Cichero](http://twitter.com/search?q=Cichero) | N/A |
-| 23 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 24 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 25 | [Sorpresa](http://twitter.com/search?q=Sorpresa) | N/A |
-| 26 | [La 33](http://twitter.com/search?q=La+33) | N/A |
-| 27 | [Prohibir](http://twitter.com/search?q=Prohibir) | N/A |
-| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 29 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 30 | [Hipra](http://twitter.com/search?q=Hipra) | N/A |
-| 31 | [La Fiscalía](http://twitter.com/search?q=La+Fiscal%c3%ada) | N/A |
-| 32 | [Clint Eastwood](http://twitter.com/search?q=Clint+Eastwood) | N/A |
-| 33 | [GP de España](http://twitter.com/search?q=GP+de+Espa%c3%b1a) | N/A |
-| 34 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 35 | [emilia](http://twitter.com/search?q=emilia) | N/A |
-| 36 | [Unidas Podemos](http://twitter.com/search?q=Unidas+Podemos) | N/A |
-| 37 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 38 | [Meriton](http://twitter.com/search?q=Meriton) | N/A |
-| 39 | [Arenal Sound](http://twitter.com/search?q=Arenal+Sound) | N/A |
-| 40 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 41 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 42 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 43 | [CCOO](http://twitter.com/search?q=CCOO) | N/A |
-| 44 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 45 | [Tamara Gorro](http://twitter.com/search?q=Tamara+Gorro) | N/A |
-| 46 | [Ana Peleteiro](http://twitter.com/search?q=Ana+Peleteiro) | N/A |
-| 47 | [Margallo](http://twitter.com/search?q=Margallo) | N/A |
-| 48 | [#AsturiasArde](http://twitter.com/search?q=%23AsturiasArde) | N/A |
-| 49 | [#FluzoAnimales](http://twitter.com/search?q=%23FluzoAnimales) | N/A |
-| 50 | [#LeleGuaynaaEH](http://twitter.com/search?q=%23LeleGuaynaaEH) | N/A |
+| 14 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
+| 15 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
+| 16 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
+| 17 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 18 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 19 | [Alma Bollo](http://twitter.com/search?q=Alma+Bollo) | N/A |
+| 20 | [Cruzzi](http://twitter.com/search?q=Cruzzi) | N/A |
+| 21 | [Raquel Arias](http://twitter.com/search?q=Raquel+Arias) | N/A |
+| 22 | [Libres 1](http://twitter.com/search?q=Libres+1) | N/A |
+| 23 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 24 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 25 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 26 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 27 | [Gema Aldón](http://twitter.com/search?q=Gema+Ald%c3%b3n) | N/A |
+| 28 | [emilia](http://twitter.com/search?q=emilia) | N/A |
+| 29 | [Cichero](http://twitter.com/search?q=Cichero) | N/A |
+| 30 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 31 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 32 | [Sorpresa](http://twitter.com/search?q=Sorpresa) | N/A |
+| 33 | [La 33](http://twitter.com/search?q=La+33) | N/A |
+| 34 | [Clint Eastwood](http://twitter.com/search?q=Clint+Eastwood) | N/A |
+| 35 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 36 | [La Fiscalía](http://twitter.com/search?q=La+Fiscal%c3%ada) | N/A |
+| 37 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 38 | [Hipra](http://twitter.com/search?q=Hipra) | N/A |
+| 39 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 40 | [Prohibir](http://twitter.com/search?q=Prohibir) | N/A |
+| 41 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 42 | [Meriton](http://twitter.com/search?q=Meriton) | N/A |
+| 43 | [Yung Beef](http://twitter.com/search?q=Yung+Beef) | N/A |
+| 44 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 45 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 46 | [#AsturiasArde](http://twitter.com/search?q=%23AsturiasArde) | N/A |
+| 47 | [#FluzoAnimales](http://twitter.com/search?q=%23FluzoAnimales) | N/A |
+| 48 | [#LeleGuaynaaEH](http://twitter.com/search?q=%23LeleGuaynaaEH) | N/A |
+| 49 | [#ZooÀPunt](http://twitter.com/search?q=%23Zoo%c3%80Punt) | N/A |
+| 50 | [#E32023](http://twitter.com/search?q=%23E32023) | N/A |
 
 
 

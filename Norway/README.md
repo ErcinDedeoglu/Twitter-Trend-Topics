@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-03-30 22:18:10 UTC`
+📆 Last Updated: `2023-03-30 23:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,39 +18,39 @@ This is top 50 for Norway
 | 1 | [Maren Mjelde](http://twitter.com/search?q=Maren+Mjelde) | N/A |
 | 2 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
 | 3 | [EU-medlemskap](http://twitter.com/search?q=EU-medlemskap) | N/A |
-| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 5 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 4 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 6 | [skottland](http://twitter.com/search?q=skottland) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Alfheim](http://twitter.com/search?q=Alfheim) | N/A |
-| 9 | [Prime](http://twitter.com/search?q=Prime) | N/A |
-| 10 | [romssa arena](http://twitter.com/search?q=romssa+arena) | N/A |
+| 7 | [Alfheim](http://twitter.com/search?q=Alfheim) | N/A |
+| 8 | [Prime](http://twitter.com/search?q=Prime) | N/A |
+| 9 | [romssa arena](http://twitter.com/search?q=romssa+arena) | N/A |
+| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 11 | [Kjetil Knutsen](http://twitter.com/search?q=Kjetil+Knutsen) | N/A |
 | 12 | [Gleder](http://twitter.com/search?q=Gleder) | N/A |
 | 13 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 14 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
-| 15 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 16 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
-| 17 | [troms kraft](http://twitter.com/search?q=troms+kraft) | N/A |
-| 18 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
-| 19 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 20 | [#Arendal](http://twitter.com/search?q=%23Arendal) | N/A |
+| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 16 | [Scandinavian](http://twitter.com/search?q=Scandinavian) | N/A |
+| 17 | [Mehl](http://twitter.com/search?q=Mehl) | N/A |
+| 18 | [troms kraft](http://twitter.com/search?q=troms+kraft) | N/A |
+| 19 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
+| 20 | [#arendal](http://twitter.com/search?q=%23arendal) | N/A |
 | 21 | [Exit](http://twitter.com/search?q=Exit) | N/A |
-| 22 | [Scandinavian](http://twitter.com/search?q=Scandinavian) | N/A |
-| 23 | [#LongCovid](http://twitter.com/search?q=%23LongCovid) | N/A |
-| 24 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 25 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
-| 26 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 27 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 28 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 29 | [sjekk](http://twitter.com/search?q=sjekk) | N/A |
-| 30 | [Klart](http://twitter.com/search?q=Klart) | N/A |
+| 22 | [#LongCovid](http://twitter.com/search?q=%23LongCovid) | N/A |
+| 23 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 24 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | N/A |
+| 25 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 26 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 27 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 28 | [sjekk](http://twitter.com/search?q=sjekk) | N/A |
+| 29 | [Klart](http://twitter.com/search?q=Klart) | N/A |
+| 30 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 31 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 32 | [#Israel](http://twitter.com/search?q=%23Israel) | N/A |
 | 33 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 34 | [Nord-Norge](http://twitter.com/search?q=Nord-Norge) | N/A |
+| 34 | [nord-norge](http://twitter.com/search?q=nord-norge) | N/A |
 | 35 | [jordal](http://twitter.com/search?q=jordal) | N/A |
-| 36 | [Lofoten](http://twitter.com/search?q=Lofoten) | N/A |
+| 36 | [lofoten](http://twitter.com/search?q=lofoten) | N/A |
 | 37 | [Forstår](http://twitter.com/search?q=Forst%c3%a5r) | N/A |
 | 38 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 39 | [Solbakken](http://twitter.com/search?q=Solbakken) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Norway
 | 45 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 46 | [Tigray](http://twitter.com/search?q=Tigray) | N/A |
 | 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 48 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
-| 49 | [Anbefaler](http://twitter.com/search?q=Anbefaler) | N/A |
-| 50 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 48 | [Anbefaler](http://twitter.com/search?q=Anbefaler) | N/A |
+| 49 | [Bærum](http://twitter.com/search?q=B%c3%a6rum) | N/A |
+| 50 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
 
 
 

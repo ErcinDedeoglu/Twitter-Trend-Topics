@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-03-30 22:17:20 UTC`
+📆 Last Updated: `2023-03-30 23:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#CHEOL](http://twitter.com/search?q=%23CHEOL) | N/A |
-| 3 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 2 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 3 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
 | 4 | [#ComplementDenquete](http://twitter.com/search?q=%23ComplementDenquete) | N/A |
-| 5 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
-| 6 | [#EnvoyeSpecial](http://twitter.com/search?q=%23EnvoyeSpecial) | N/A |
-| 7 | [Michou](http://twitter.com/search?q=Michou) | N/A |
-| 8 | [Mélanie](http://twitter.com/search?q=M%c3%a9lanie) | N/A |
-| 9 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 10 | [Robben](http://twitter.com/search?q=Robben) | N/A |
-| 11 | [Pacifiquement](http://twitter.com/search?q=Pacifiquement) | N/A |
-| 12 | [Émeline](http://twitter.com/search?q=%c3%89meline) | N/A |
+| 5 | [#CHEOL](http://twitter.com/search?q=%23CHEOL) | N/A |
+| 6 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 7 | [Bekar](http://twitter.com/search?q=Bekar) | N/A |
+| 8 | [Nathalie](http://twitter.com/search?q=Nathalie) | N/A |
+| 9 | [#VforVictory](http://twitter.com/search?q=%23VforVictory) | N/A |
+| 10 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 11 | [Michou](http://twitter.com/search?q=Michou) | N/A |
+| 12 | [Robben](http://twitter.com/search?q=Robben) | N/A |
 | 13 | [Alexis Kohler](http://twitter.com/search?q=Alexis+Kohler) | N/A |
-| 14 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 15 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 16 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 14 | [Pacifiquement](http://twitter.com/search?q=Pacifiquement) | N/A |
+| 15 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 16 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 17 | [Maison Blanche](http://twitter.com/search?q=Maison+Blanche) | N/A |
-| 18 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 19 | [Sofia](http://twitter.com/search?q=Sofia) | N/A |
-| 20 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
-| 21 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
-| 22 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 23 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 24 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 25 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 26 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
-| 27 | [Bekar](http://twitter.com/search?q=Bekar) | N/A |
-| 28 | [Xbox Series](http://twitter.com/search?q=Xbox+Series) | N/A |
-| 29 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
-| 30 | [La HAS](http://twitter.com/search?q=La+HAS) | N/A |
-| 31 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
-| 32 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
-| 33 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 34 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 35 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 36 | [Hervé Renard](http://twitter.com/search?q=Herv%c3%a9+Renard) | N/A |
+| 18 | [Anthony](http://twitter.com/search?q=Anthony) | N/A |
+| 19 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 20 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 21 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 22 | [Emeline](http://twitter.com/search?q=Emeline) | N/A |
+| 23 | [Weber](http://twitter.com/search?q=Weber) | N/A |
+| 24 | [Étienne](http://twitter.com/search?q=%c3%89tienne) | N/A |
+| 25 | [Clément](http://twitter.com/search?q=Cl%c3%a9ment) | N/A |
+| 26 | [Farès](http://twitter.com/search?q=Far%c3%a8s) | N/A |
+| 27 | [Sofia](http://twitter.com/search?q=Sofia) | N/A |
+| 28 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 29 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 30 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 31 | [Xbox 360](http://twitter.com/search?q=Xbox+360) | N/A |
+| 32 | [Ecowatt](http://twitter.com/search?q=Ecowatt) | N/A |
+| 33 | [Xbox Series](http://twitter.com/search?q=Xbox+Series) | N/A |
+| 34 | [La HAS](http://twitter.com/search?q=La+HAS) | N/A |
+| 35 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 36 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
 | 37 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 38 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 39 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 40 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 41 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 42 | [Brégançon](http://twitter.com/search?q=Br%c3%a9gan%c3%a7on) | N/A |
-| 43 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
-| 44 | [Préfecture](http://twitter.com/search?q=Pr%c3%a9fecture) | N/A |
-| 45 | [Maxime](http://twitter.com/search?q=Maxime) | N/A |
-| 46 | [Hôtel de Ville](http://twitter.com/search?q=H%c3%b4tel+de+Ville) | N/A |
-| 47 | [Truchot](http://twitter.com/search?q=Truchot) | N/A |
-| 48 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 49 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 38 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 39 | [Nestlé](http://twitter.com/search?q=Nestl%c3%a9) | N/A |
+| 40 | [Gare du Nord](http://twitter.com/search?q=Gare+du+Nord) | Gare du Nord is a major railway station in Paris, France. It is the busiest railway station in Europe and one of the busiest in the world. The name Gare du Nord translates to "North Station" in English. |
+| 41 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 42 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 43 | [Hervé Renard](http://twitter.com/search?q=Herv%c3%a9+Renard) | N/A |
+| 44 | [Lomepal](http://twitter.com/search?q=Lomepal) | N/A |
+| 45 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 46 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
+| 47 | [Maxime](http://twitter.com/search?q=Maxime) | N/A |
+| 48 | [#E32023](http://twitter.com/search?q=%23E32023) | N/A |
+| 49 | [#Sampeyton](http://twitter.com/search?q=%23Sampeyton) | N/A |
 
 
 
