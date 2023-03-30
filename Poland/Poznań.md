@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-03-30 21:16:34 UTC`
+📆 Last Updated: `2023-03-30 22:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Poland](</Poland>)
 | 6 | [Gmoch](http://twitter.com/search?q=Gmoch) | N/A |
 | 7 | [Miał 71](http://twitter.com/search?q=Mia%c5%82+71) | N/A |
 | 8 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 9 | [Agatę](http://twitter.com/search?q=Agat%c4%99) | N/A |
-| 10 | [Tapczan](http://twitter.com/search?q=Tapczan) | N/A |
-| 11 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
-| 12 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 13 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 14 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
-| 15 | [Orlenu](http://twitter.com/search?q=Orlenu) | N/A |
+| 9 | [Tapczan](http://twitter.com/search?q=Tapczan) | N/A |
+| 10 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 11 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 12 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 13 | [MKOL](http://twitter.com/search?q=MKOL) | N/A |
+| 14 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 15 | [Łóżko](http://twitter.com/search?q=%c5%81%c3%b3%c5%bcko) | N/A |
 | 16 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 17 | [Łóżko](http://twitter.com/search?q=%c5%81%c3%b3%c5%bcko) | N/A |
+| 17 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
 | 18 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
-| 19 | [mularczyk](http://twitter.com/search?q=mularczyk) | N/A |
-| 20 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 21 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 22 | [Logika](http://twitter.com/search?q=Logika) | N/A |
-| 23 | [Klaps](http://twitter.com/search?q=Klaps) | N/A |
-| 24 | [Daniel Obajtek](http://twitter.com/search?q=Daniel+Obajtek) | N/A |
-| 25 | [Wojciechowski](http://twitter.com/search?q=Wojciechowski) | N/A |
+| 19 | [Klaps](http://twitter.com/search?q=Klaps) | N/A |
+| 20 | [Orlenu](http://twitter.com/search?q=Orlenu) | N/A |
+| 21 | [kołodziejczak](http://twitter.com/search?q=ko%c5%82odziejczak) | N/A |
+| 22 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 23 | [Daniel Obajtek](http://twitter.com/search?q=Daniel+Obajtek) | N/A |
+| 24 | [Rachoń](http://twitter.com/search?q=Racho%c5%84) | N/A |
+| 25 | [wojciechowski](http://twitter.com/search?q=wojciechowski) | N/A |
 | 26 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 27 | [Bortniczuk](http://twitter.com/search?q=Bortniczuk) | N/A |
-| 28 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
-| 29 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 30 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 27 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 28 | [Bortniczuk](http://twitter.com/search?q=Bortniczuk) | N/A |
+| 29 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 30 | [Kara](http://twitter.com/search?q=Kara) | N/A |
 | 31 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
-| 32 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 32 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
 | 33 | [Bicie](http://twitter.com/search?q=Bicie) | N/A |
-| 34 | [GKS Katowice](http://twitter.com/search?q=GKS+Katowice) | N/A |
-| 35 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
-| 36 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 37 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 38 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 39 | [Memcen](http://twitter.com/search?q=Memcen) | N/A |
-| 40 | [Śląskim](http://twitter.com/search?q=%c5%9al%c4%85skim) | N/A |
-| 41 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 42 | [Göringa](http://twitter.com/search?q=G%c3%b6ringa) | N/A |
-| 43 | [Korwin](http://twitter.com/search?q=Korwin) | N/A |
-| 44 | [PKOl](http://twitter.com/search?q=PKOl) | N/A |
-| 45 | [NCBiR](http://twitter.com/search?q=NCBiR) | N/A |
-| 46 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 47 | [Dziambor](http://twitter.com/search?q=Dziambor) | N/A |
-| 48 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
-| 49 | [Kara](http://twitter.com/search?q=Kara) | N/A |
+| 34 | [Mularczyk](http://twitter.com/search?q=Mularczyk) | N/A |
+| 35 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
+| 36 | [Göringa](http://twitter.com/search?q=G%c3%b6ringa) | N/A |
+| 37 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
+| 38 | [Logika](http://twitter.com/search?q=Logika) | N/A |
+| 39 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 40 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
+| 41 | [Memcen](http://twitter.com/search?q=Memcen) | N/A |
+| 42 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 43 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 44 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 45 | [GKS Katowice](http://twitter.com/search?q=GKS+Katowice) | N/A |
+| 46 | [Ruchu](http://twitter.com/search?q=Ruchu) | N/A |
+| 47 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
+| 48 | [Korwin](http://twitter.com/search?q=Korwin) | N/A |
+| 49 | [Grodzkiego](http://twitter.com/search?q=Grodzkiego) | N/A |
 
 
 

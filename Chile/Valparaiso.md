@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-03-30 21:16:29 UTC`
+📆 Last Updated: `2023-03-30 22:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
 | 2 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 3 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 4 | [#GatilloFácil](http://twitter.com/search?q=%23GatilloF%c3%a1cil) | N/A |
-| 5 | [Giorgio Jackson](http://twitter.com/search?q=Giorgio+Jackson) | N/A |
-| 6 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
-| 7 | [Nora Cuevas](http://twitter.com/search?q=Nora+Cuevas) | N/A |
-| 8 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
-| 9 | [#contigoendirectochv](http://twitter.com/search?q=%23contigoendirectochv) | N/A |
-| 10 | [Ministro Jackson](http://twitter.com/search?q=Ministro+Jackson) | N/A |
-| 11 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 3 | [#GatilloFácil](http://twitter.com/search?q=%23GatilloF%c3%a1cil) | N/A |
+| 4 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
+| 5 | [#Sismo](http://twitter.com/search?q=%23Sismo) | N/A |
+| 6 | [Giorgio Jackson](http://twitter.com/search?q=Giorgio+Jackson) | N/A |
+| 7 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 8 | [Ministro Jackson](http://twitter.com/search?q=Ministro+Jackson) | N/A |
+| 9 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 10 | [#contigoendirectochv](http://twitter.com/search?q=%23contigoendirectochv) | N/A |
+| 11 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
 | 12 | [Cobquecura](http://twitter.com/search?q=Cobquecura) | N/A |
-| 13 | [Piñera](http://twitter.com/search?q=Pi%c3%b1era) | N/A |
+| 13 | [#DiaDelJovenCombatiente](http://twitter.com/search?q=%23DiaDelJovenCombatiente) | N/A |
 | 14 | [Cecilia Bolocco](http://twitter.com/search?q=Cecilia+Bolocco) | N/A |
-| 15 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 16 | [Renunció](http://twitter.com/search?q=Renunci%c3%b3) | N/A |
-| 17 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
+| 17 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
 | 18 | [Villa Francia](http://twitter.com/search?q=Villa+Francia) | N/A |
-| 19 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
-| 20 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
+| 19 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 20 | [Nora Cuevas](http://twitter.com/search?q=Nora+Cuevas) | N/A |
 | 21 | [Felicevich](http://twitter.com/search?q=Felicevich) | N/A |
-| 22 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 23 | [Talca](http://twitter.com/search?q=Talca) | N/A |
+| 22 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
+| 23 | [Volkov](http://twitter.com/search?q=Volkov) | N/A |
 | 24 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 25 | [Américo](http://twitter.com/search?q=Am%c3%a9rico) | N/A |
-| 26 | [Clínica Sierra Bella](http://twitter.com/search?q=Cl%c3%adnica+Sierra+Bella) | N/A |
-| 27 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 28 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 25 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 26 | [Américo](http://twitter.com/search?q=Am%c3%a9rico) | N/A |
+| 27 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 28 | [Gomorra](http://twitter.com/search?q=Gomorra) | N/A |
 | 29 | [Estado Policial](http://twitter.com/search?q=Estado+Policial) | N/A |
-| 30 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 31 | [Gomorra](http://twitter.com/search?q=Gomorra) | N/A |
+| 30 | [Talca](http://twitter.com/search?q=Talca) | N/A |
+| 31 | [Renunció](http://twitter.com/search?q=Renunci%c3%b3) | N/A |
 | 32 | [Bocacielo](http://twitter.com/search?q=Bocacielo) | N/A |
-| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 34 | [Ñuble](http://twitter.com/search?q=%c3%91uble) | N/A |
-| 35 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 33 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 34 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 35 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 36 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
-| 37 | [Matthei](http://twitter.com/search?q=Matthei) | N/A |
-| 38 | [Davor](http://twitter.com/search?q=Davor) | N/A |
-| 39 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 40 | [Cuñado](http://twitter.com/search?q=Cu%c3%b1ado) | N/A |
-| 41 | [Tamara](http://twitter.com/search?q=Tamara) | N/A |
+| 37 | [Davor](http://twitter.com/search?q=Davor) | N/A |
+| 38 | [Pitutos](http://twitter.com/search?q=Pitutos) | N/A |
+| 39 | [Mauricio Flores](http://twitter.com/search?q=Mauricio+Flores) | N/A |
+| 40 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
+| 41 | [Clínica Sierra Bella](http://twitter.com/search?q=Cl%c3%adnica+Sierra+Bella) | N/A |
 | 42 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
-| 43 | [HAARP](http://twitter.com/search?q=HAARP) | N/A |
-| 44 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 45 | [Yoryo](http://twitter.com/search?q=Yoryo) | N/A |
-| 46 | [Suazo](http://twitter.com/search?q=Suazo) | N/A |
-| 47 | [Pitutos](http://twitter.com/search?q=Pitutos) | N/A |
-| 48 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
+| 43 | [Cuñado](http://twitter.com/search?q=Cu%c3%b1ado) | N/A |
+| 44 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 45 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
+| 46 | [Tamara](http://twitter.com/search?q=Tamara) | N/A |
+| 47 | [Rodrigo Herrera](http://twitter.com/search?q=Rodrigo+Herrera) | N/A |
+| 48 | [alejandra placencia](http://twitter.com/search?q=alejandra+placencia) | N/A |
 
 
 

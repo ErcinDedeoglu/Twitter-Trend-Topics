@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-30 21:17:04 UTC`
+📆 Last Updated: `2023-03-30 22:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 2 | [Bally](http://twitter.com/search?q=Bally) | N/A |
+| 1 | [Bally](http://twitter.com/search?q=Bally) | N/A |
+| 2 | [Chas](http://twitter.com/search?q=Chas) | N/A |
 | 3 | [Globe Life Field](http://twitter.com/search?q=Globe+Life+Field) | N/A |
-| 4 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 4 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
 | 5 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 6 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
-| 7 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 8 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 9 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
-| 10 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 11 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
-| 12 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 13 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 14 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 15 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 16 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 17 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 18 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 19 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 20 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 21 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 22 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 23 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 24 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 25 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 26 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 27 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 28 | [Adley](http://twitter.com/search?q=Adley) | N/A |
-| 29 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 30 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 31 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 32 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 33 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 34 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 35 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 36 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 37 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 38 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 39 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 40 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 41 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 42 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 43 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
-| 44 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 45 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
-| 46 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 47 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 48 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 49 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
+| 6 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 7 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
+| 8 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
+| 9 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 10 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
+| 11 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 12 | [#RHOA](http://twitter.com/search?q=%23RHOA) | N/A |
+| 13 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 14 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 15 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 16 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 17 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 18 | [TRUMP INDICTED](http://twitter.com/search?q=TRUMP+INDICTED) | N/A |
+| 19 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 20 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 21 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 22 | [Manhattan Grand Jury](http://twitter.com/search?q=Manhattan+Grand+Jury) | N/A |
+| 23 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 24 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 25 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 26 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 27 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 28 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 29 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 30 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 31 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 32 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 33 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 34 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 35 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 36 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
+| 37 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 38 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
+| 39 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
+| 40 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
+| 41 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 42 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 43 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 44 | [Tyler O'Neill](http://twitter.com/search?q=Tyler+O%27Neill) | N/A |
+| 45 | [Garrett Cooper](http://twitter.com/search?q=Garrett+Cooper) | N/A |
+| 46 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 47 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 48 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 49 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
 
 
 

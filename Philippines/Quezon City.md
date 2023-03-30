@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-03-30 21:16:50 UTC`
+📆 Last Updated: `2023-03-30 22:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [#WonDONNYrousPromNight](http://twitter.com/search?q=%23WonDONNYrousPromNight) | N/A |
 | 4 | [#PVLFinalsGame3](http://twitter.com/search?q=%23PVLFinalsGame3) | N/A |
 | 5 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
-| 6 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
-| 7 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
-| 8 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 9 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
-| 10 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
-| 11 | [HORI7ON 1st Prom](http://twitter.com/search?q=HORI7ON+1st+Prom) | N/A |
-| 12 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
-| 13 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
-| 14 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 15 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
+| 6 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 7 | [BGYO OT5 DATE](http://twitter.com/search?q=BGYO+OT5+DATE) | N/A |
+| 8 | [ANJI MANINGNING NA BITUIN](http://twitter.com/search?q=ANJI+MANINGNING+NA+BITUIN) | N/A |
+| 9 | [hori7on 1st prom](http://twitter.com/search?q=hori7on+1st+prom) | N/A |
+| 10 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
+| 11 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 12 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
+| 13 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 14 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
+| 15 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
 | 16 | [ANDREA ENCHANTING NIGHT](http://twitter.com/search?q=ANDREA+ENCHANTING+NIGHT) | N/A |
-| 17 | [vpca back2back kd](http://twitter.com/search?q=vpca+back2back+kd) | N/A |
-| 18 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 19 | [proud kami sayo](http://twitter.com/search?q=proud+kami+sayo) | N/A |
+| 17 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 18 | [vpca back2back kd](http://twitter.com/search?q=vpca+back2back+kd) | N/A |
+| 19 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
 | 20 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 21 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
-| 22 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 23 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
-| 24 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 21 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 22 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 23 | [KODREA MAGICAL STARRY NIGHT](http://twitter.com/search?q=KODREA+MAGICAL+STARRY+NIGHT) | N/A |
+| 24 | [Finals MVP](http://twitter.com/search?q=Finals+MVP) | N/A |
 | 25 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 26 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 27 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
-| 28 | [flower mv teaser](http://twitter.com/search?q=flower+mv+teaser) | N/A |
-| 29 | [PROMAGICAL WITH ROBXINE](http://twitter.com/search?q=PROMAGICAL+WITH+ROBXINE) | N/A |
-| 30 | [Finals MVP](http://twitter.com/search?q=Finals+MVP) | N/A |
-| 31 | [ALJAY PROMinent Tonight](http://twitter.com/search?q=ALJAY+PROMinent+Tonight) | N/A |
-| 32 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
-| 33 | [karina promising night](http://twitter.com/search?q=karina+promising+night) | N/A |
-| 34 | [janella on fire at xxv](http://twitter.com/search?q=janella+on+fire+at+xxv) | N/A |
-| 35 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
-| 36 | [KOTG LEV31 UP](http://twitter.com/search?q=KOTG+LEV31+UP) | N/A |
-| 37 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
-| 38 | [ANJBRENTjeweled ON SMProm](http://twitter.com/search?q=ANJBRENTjeweled+ON+SMProm) | N/A |
-| 39 | [star king kim](http://twitter.com/search?q=star+king+kim) | N/A |
-| 40 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 41 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 42 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 43 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 44 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
-| 45 | [congratulations ccs](http://twitter.com/search?q=congratulations+ccs) | N/A |
-| 46 | [edward promising host](http://twitter.com/search?q=edward+promising+host) | N/A |
-| 47 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
-| 48 | [gabbluke promagical night](http://twitter.com/search?q=gabbluke+promagical+night) | N/A |
-| 49 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
-| 50 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 26 | [TAEHYUNG TAEHYUNG](http://twitter.com/search?q=TAEHYUNG+TAEHYUNG) | N/A |
+| 27 | [PROMAGICAL WITH ROBXINE](http://twitter.com/search?q=PROMAGICAL+WITH+ROBXINE) | N/A |
+| 28 | [janella on fire at xxv](http://twitter.com/search?q=janella+on+fire+at+xxv) | N/A |
+| 29 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
+| 30 | [aljay prominent tonight](http://twitter.com/search?q=aljay+prominent+tonight) | N/A |
+| 31 | [karina promising night](http://twitter.com/search?q=karina+promising+night) | N/A |
+| 32 | [kd vpca promising again](http://twitter.com/search?q=kd+vpca+promising+again) | N/A |
+| 33 | [Congrats CCS](http://twitter.com/search?q=Congrats+CCS) | N/A |
+| 34 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 35 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
+| 36 | [star king kim](http://twitter.com/search?q=star+king+kim) | N/A |
+| 37 | [TOTS](http://twitter.com/search?q=TOTS) | N/A |
+| 38 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 39 | [PLUUS MINI ALBUM DEBUT](http://twitter.com/search?q=PLUUS+MINI+ALBUM+DEBUT) | N/A |
+| 40 | [congratulations ccs](http://twitter.com/search?q=congratulations+ccs) | N/A |
+| 41 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 42 | [KOTG LEV31 UP](http://twitter.com/search?q=KOTG+LEV31+UP) | N/A |
+| 43 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
+| 44 | [anjbrentjeweled on smprom](http://twitter.com/search?q=anjbrentjeweled+on+smprom) | N/A |
+| 45 | [the right way to pray](http://twitter.com/search?q=the+right+way+to+pray) | N/A |
+| 46 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 47 | [edward promising host](http://twitter.com/search?q=edward+promising+host) | N/A |
+| 48 | [Soltones](http://twitter.com/search?q=Soltones) | N/A |
+| 49 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 50 | [JIA IS GOLD](http://twitter.com/search?q=JIA+IS+GOLD) | N/A |
 
 
 

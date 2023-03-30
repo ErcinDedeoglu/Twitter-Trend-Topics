@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-03-30 21:17:10 UTC`
+📆 Last Updated: `2023-03-30 22:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
 | 2 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 3 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 4 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 6 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 7 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 8 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
-| 9 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 10 | [#FlyTheW](http://twitter.com/search?q=%23FlyTheW) | N/A |
-| 11 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 12 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 13 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 14 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 15 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 16 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 17 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 18 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 19 | [Adley](http://twitter.com/search?q=Adley) | N/A |
-| 20 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 21 | [#ranboospace](http://twitter.com/search?q=%23ranboospace) | N/A |
-| 22 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 23 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 24 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 25 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 26 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 27 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 28 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 29 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 30 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 31 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 32 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 33 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 34 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 35 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
-| 36 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 37 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 38 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
-| 39 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 40 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 41 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 42 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
-| 43 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 44 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
-| 45 | [Mikolas](http://twitter.com/search?q=Mikolas) | N/A |
-| 46 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 47 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 48 | [Max Fried](http://twitter.com/search?q=Max+Fried) | N/A |
-| 49 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
+| 3 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 4 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 5 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 6 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 7 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 8 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 9 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 10 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 11 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 12 | [Manhattan Grand Jury](http://twitter.com/search?q=Manhattan+Grand+Jury) | N/A |
+| 13 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 14 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
+| 15 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 16 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 17 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 18 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 19 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 20 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 21 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 22 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 23 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 24 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 25 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 26 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 27 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
+| 28 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 29 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 30 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
+| 31 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
+| 32 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 33 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 34 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 35 | [Tyler O'Neill](http://twitter.com/search?q=Tyler+O%27Neill) | N/A |
+| 36 | [Garrett Cooper](http://twitter.com/search?q=Garrett+Cooper) | N/A |
+| 37 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
+| 38 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 39 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 40 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 41 | [Spencer Steer](http://twitter.com/search?q=Spencer+Steer) | N/A |
+| 42 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 43 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 44 | [Tanner Scott](http://twitter.com/search?q=Tanner+Scott) | N/A |
+| 45 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 46 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
+| 47 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 48 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
+| 49 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 50 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
 
 
 

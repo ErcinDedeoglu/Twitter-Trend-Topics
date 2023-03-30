@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-03-30 21:16:30 UTC`
+📆 Last Updated: `2023-03-30 22:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#30Mar](http://twitter.com/search?q=%2330Mar) | N/A |
 | 2 | [#MaduroEsUnDuro](http://twitter.com/search?q=%23MaduroEsUnDuro) | N/A |
 | 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 4 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
-| 5 | [#29Mar](http://twitter.com/search?q=%2329Mar) | N/A |
-| 6 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 7 | [#CorruptosTrasLasRejas](http://twitter.com/search?q=%23CorruptosTrasLasRejas) | N/A |
+| 4 | [#29Mar](http://twitter.com/search?q=%2329Mar) | N/A |
+| 5 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
+| 6 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 7 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 | 8 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
 | 9 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 10 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
-| 11 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 12 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
-| 13 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 14 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 15 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 16 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 10 | [Ichiro Suzuki](http://twitter.com/search?q=Ichiro+Suzuki) | N/A |
+| 11 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
+| 12 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 13 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 14 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
+| 15 | [Policía Anticorrupción](http://twitter.com/search?q=Polic%c3%ada+Anticorrupci%c3%b3n) | N/A |
+| 16 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
 | 17 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 18 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 19 | [Policía Anticorrupción](http://twitter.com/search?q=Polic%c3%ada+Anticorrupci%c3%b3n) | N/A |
-| 20 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 21 | [Perejil](http://twitter.com/search?q=Perejil) | N/A |
+| 18 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 19 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 20 | [Batista](http://twitter.com/search?q=Batista) | N/A |
+| 21 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
 | 22 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
-| 23 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 24 | [Chino Cano](http://twitter.com/search?q=Chino+Cano) | N/A |
-| 25 | [Meryl Streep](http://twitter.com/search?q=Meryl+Streep) | Meryl Streep is an American actress who has won three Academy Awards, eight Golden Globe Awards, and two Emmy Awards. She is widely regarded as one of the greatest actresses of all time. |
-| 26 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
-| 27 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 28 | [Orlando Arcia](http://twitter.com/search?q=Orlando+Arcia) | N/A |
-| 29 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 30 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 31 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
-| 32 | [Hinterlaces](http://twitter.com/search?q=Hinterlaces) | N/A |
-| 33 | [Ronald Acuña Jr.](http://twitter.com/search?q=Ronald+Acu%c3%b1a+Jr.) | N/A |
-| 34 | [Ciruela](http://twitter.com/search?q=Ciruela) | N/A |
-| 35 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 36 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 37 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 38 | [Cichero](http://twitter.com/search?q=Cichero) | N/A |
-| 39 | [Maye Brandt](http://twitter.com/search?q=Maye+Brandt) | N/A |
-| 40 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
-| 41 | [Leopoldo](http://twitter.com/search?q=Leopoldo) | N/A |
-| 42 | [Alexander Ventura](http://twitter.com/search?q=Alexander+Ventura) | N/A |
-| 43 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 44 | [negra matea](http://twitter.com/search?q=negra+matea) | N/A |
-| 45 | [Bendecido Jueves](http://twitter.com/search?q=Bendecido+Jueves) | N/A |
-| 46 | [Julio Mayora](http://twitter.com/search?q=Julio+Mayora) | N/A |
-| 47 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 48 | [PLAY BALL](http://twitter.com/search?q=PLAY+BALL) | N/A |
-| 49 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 23 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 24 | [Meryl Streep](http://twitter.com/search?q=Meryl+Streep) | Meryl Streep is an American actress who has won three Academy Awards, eight Golden Globe Awards, and two Emmy Awards. She is widely regarded as one of the greatest actresses of all time. |
+| 25 | [Perejil](http://twitter.com/search?q=Perejil) | N/A |
+| 26 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 27 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 28 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 29 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 30 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 31 | [Virgen de Coromoto](http://twitter.com/search?q=Virgen+de+Coromoto) | N/A |
+| 32 | [Orlando Arcia](http://twitter.com/search?q=Orlando+Arcia) | N/A |
+| 33 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
+| 34 | [Grecia Colmenares](http://twitter.com/search?q=Grecia+Colmenares) | N/A |
+| 35 | [Ciruela](http://twitter.com/search?q=Ciruela) | N/A |
+| 36 | [Guayana](http://twitter.com/search?q=Guayana) | N/A |
+| 37 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 38 | [Cano](http://twitter.com/search?q=Cano) | Cano is a Spanish word meaning "to sing". It is also used as a verb to describe the act of singing. |
+| 39 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 40 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
+| 41 | [Hinterlaces](http://twitter.com/search?q=Hinterlaces) | N/A |
+| 42 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 43 | [Venezuela y España](http://twitter.com/search?q=Venezuela+y+Espa%c3%b1a) | N/A |
+| 44 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
+| 45 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 46 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
+| 47 | [Maye Brandt](http://twitter.com/search?q=Maye+Brandt) | N/A |
+| 48 | [Alexander Ventura](http://twitter.com/search?q=Alexander+Ventura) | N/A |
+| 49 | [Tratado de Paz y Amistad](http://twitter.com/search?q=Tratado+de+Paz+y+Amistad) | N/A |
 
 
 

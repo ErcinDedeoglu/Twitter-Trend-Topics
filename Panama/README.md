@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-03-30 21:17:16 UTC`
+📆 Last Updated: `2023-03-30 22:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Panama
 | ------- | ------------ | ------------ |
 | 1 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 2 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
-| 3 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 4 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
-| 5 | [Etnia China](http://twitter.com/search?q=Etnia+China) | N/A |
-| 6 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 7 | [mega joya](http://twitter.com/search?q=mega+joya) | N/A |
-| 8 | [teletica](http://twitter.com/search?q=teletica) | N/A |
-| 9 | [fallardo](http://twitter.com/search?q=fallardo) | N/A |
-| 10 | [vale digital](http://twitter.com/search?q=vale+digital) | N/A |
-| 11 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
-| 12 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 13 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 14 | [Carrasquilla](http://twitter.com/search?q=Carrasquilla) | N/A |
-| 15 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 3 | [Día de la Etnia China](http://twitter.com/search?q=D%c3%ada+de+la+Etnia+China) | N/A |
+| 4 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 5 | [teletica](http://twitter.com/search?q=teletica) | N/A |
+| 6 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
+| 7 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 8 | [fallardo](http://twitter.com/search?q=fallardo) | N/A |
+| 9 | [vale digital](http://twitter.com/search?q=vale+digital) | N/A |
+| 10 | [Sabonge](http://twitter.com/search?q=Sabonge) | N/A |
+| 11 | [Carrasquilla](http://twitter.com/search?q=Carrasquilla) | N/A |
+| 12 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 13 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
+| 14 | [#expocomer](http://twitter.com/search?q=%23expocomer) | N/A |
+| 15 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
 | 16 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 17 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 18 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 19 | [#Expocomer](http://twitter.com/search?q=%23Expocomer) | N/A |
-| 20 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 21 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 22 | [Chanis](http://twitter.com/search?q=Chanis) | N/A |
+| 17 | [Christian Bethancourt](http://twitter.com/search?q=Christian+Bethancourt) | N/A |
+| 18 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 19 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 20 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 21 | [Christiansen](http://twitter.com/search?q=Christiansen) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 23 | [Sele](http://twitter.com/search?q=Sele) | N/A |
-| 24 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 25 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 26 | [Blackman](http://twitter.com/search?q=Blackman) | N/A |
-| 27 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 28 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 29 | [Chepo](http://twitter.com/search?q=Chepo) | N/A |
-| 30 | [ANATI](http://twitter.com/search?q=ANATI) | N/A |
-| 31 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 32 | [LGBTIQ](http://twitter.com/search?q=LGBTIQ) | N/A |
-| 33 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
-| 34 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
-| 35 | [Policías](http://twitter.com/search?q=Polic%c3%adas) | N/A |
-| 36 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 24 | [Chanis](http://twitter.com/search?q=Chanis) | N/A |
+| 25 | [LGBTIQ](http://twitter.com/search?q=LGBTIQ) | N/A |
+| 26 | [la mega joya](http://twitter.com/search?q=la+mega+joya) | N/A |
+| 27 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 28 | [mari carmen aponte](http://twitter.com/search?q=mari+carmen+aponte) | N/A |
+| 29 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
+| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 31 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 32 | [Policia](http://twitter.com/search?q=Policia) | N/A |
+| 33 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 34 | [Blackman](http://twitter.com/search?q=Blackman) | N/A |
+| 35 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 36 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 37 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
-| 38 | [PEKE](http://twitter.com/search?q=PEKE) | N/A |
-| 39 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 40 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 38 | [TUDN](http://twitter.com/search?q=TUDN) | N/A |
+| 39 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 40 | [Final Four](http://twitter.com/search?q=Final+Four) | N/A |
 | 41 | [Confirmo](http://twitter.com/search?q=Confirmo) | N/A |
-| 42 | [mari carmen aponte](http://twitter.com/search?q=mari+carmen+aponte) | N/A |
-| 43 | [#LaÚltimaCarta](http://twitter.com/search?q=%23La%c3%9altimaCarta) | N/A |
-| 44 | [Nations League](http://twitter.com/search?q=Nations+League) | N/A |
-| 45 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
-| 46 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 47 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 48 | [#StopPutinNOW](http://twitter.com/search?q=%23StopPutinNOW) | N/A |
-| 49 | [Arraiján](http://twitter.com/search?q=Arraij%c3%a1n) | N/A |
-| 50 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 42 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 43 | [Ecolimpia](http://twitter.com/search?q=Ecolimpia) | N/A |
+| 44 | [Corina](http://twitter.com/search?q=Corina) | N/A |
+| 45 | [#LaÚltimaCarta](http://twitter.com/search?q=%23La%c3%9altimaCarta) | N/A |
+| 46 | [Nations League](http://twitter.com/search?q=Nations+League) | N/A |
+| 47 | [ANATI](http://twitter.com/search?q=ANATI) | N/A |
+| 48 | [Diablo](http://twitter.com/search?q=Diablo) | N/A |
+| 49 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 50 | [Peke](http://twitter.com/search?q=Peke) | N/A |
 
 
 

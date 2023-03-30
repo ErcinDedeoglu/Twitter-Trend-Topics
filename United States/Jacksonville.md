@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-03-30 21:17:05 UTC`
+📆 Last Updated: `2023-03-30 22:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jose Siri](http://twitter.com/search?q=Jose+Siri) | N/A |
-| 2 | [#MakeItMiami](http://twitter.com/search?q=%23MakeItMiami) | N/A |
-| 3 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 4 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
-| 5 | [Anthony Richardson](http://twitter.com/search?q=Anthony+Richardson) | N/A |
-| 6 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 7 | [Megacon](http://twitter.com/search?q=Megacon) | N/A |
-| 8 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 9 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 10 | [Pro Day](http://twitter.com/search?q=Pro+Day) | N/A |
-| 11 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 12 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 13 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 14 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 15 | [#STLCards](http://twitter.com/search?q=%23STLCards) | N/A |
-| 16 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 17 | [#FlyTheW](http://twitter.com/search?q=%23FlyTheW) | N/A |
-| 18 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 19 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 20 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 21 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 22 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 23 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 24 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 25 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 26 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 27 | [Adley](http://twitter.com/search?q=Adley) | N/A |
-| 28 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
-| 29 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 1 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
+| 2 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
+| 3 | [Jose Siri](http://twitter.com/search?q=Jose+Siri) | N/A |
+| 4 | [#MakeItMiami](http://twitter.com/search?q=%23MakeItMiami) | N/A |
+| 5 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 6 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
+| 7 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 8 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
+| 9 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
+| 10 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 11 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 12 | [Megacon](http://twitter.com/search?q=Megacon) | N/A |
+| 13 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 14 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
+| 15 | [Pro Day](http://twitter.com/search?q=Pro+Day) | N/A |
+| 16 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 17 | [TRUMP INDICTED](http://twitter.com/search?q=TRUMP+INDICTED) | N/A |
+| 18 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 19 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 20 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 21 | [Manhattan Grand Jury](http://twitter.com/search?q=Manhattan+Grand+Jury) | N/A |
+| 22 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
+| 23 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 24 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 25 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 26 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 27 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 28 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 29 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
 | 30 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 31 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 32 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 33 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 34 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 35 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 36 | [Laz Diaz](http://twitter.com/search?q=Laz+Diaz) | N/A |
-| 37 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 38 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 39 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 40 | [Stroman](http://twitter.com/search?q=Stroman) | N/A |
-| 41 | [Dansby](http://twitter.com/search?q=Dansby) | N/A |
-| 42 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
-| 43 | [Joint Base Andrews](http://twitter.com/search?q=Joint+Base+Andrews) | N/A |
-| 44 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 45 | [Verlander](http://twitter.com/search?q=Verlander) | N/A |
-| 46 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 47 | [Vogelbach](http://twitter.com/search?q=Vogelbach) | N/A |
-| 48 | [Pearl Harbor](http://twitter.com/search?q=Pearl+Harbor) | N/A |
-| 49 | [Castellanos](http://twitter.com/search?q=Castellanos) | N/A |
-| 50 | [Mikolas](http://twitter.com/search?q=Mikolas) | N/A |
+| 31 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 32 | [Waino](http://twitter.com/search?q=Waino) | N/A |
+| 33 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 34 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 35 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
+| 36 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 37 | [Geoff Keighley](http://twitter.com/search?q=Geoff+Keighley) | N/A |
+| 38 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
+| 39 | [Ryan Brasier](http://twitter.com/search?q=Ryan+Brasier) | N/A |
+| 40 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 41 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
+| 42 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 43 | [Tyler O'Neill](http://twitter.com/search?q=Tyler+O%27Neill) | N/A |
+| 44 | [Garrett Cooper](http://twitter.com/search?q=Garrett+Cooper) | N/A |
+| 45 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 46 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 47 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 48 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
+| 49 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
+| 50 | [Spencer Steer](http://twitter.com/search?q=Spencer+Steer) | N/A |
 
 
 

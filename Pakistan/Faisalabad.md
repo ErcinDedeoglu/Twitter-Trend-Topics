@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-03-30 21:16:57 UTC`
+📆 Last Updated: `2023-03-30 22:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 8 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
 | 9 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
 | 10 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 11 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
-| 12 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 11 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 12 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
 | 13 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
-| 14 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 15 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 16 | [bill 2023](http://twitter.com/search?q=bill+2023) | N/A |
-| 17 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
-| 18 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 19 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
-| 20 | [DSP Iqbal Mohmand](http://twitter.com/search?q=DSP+Iqbal+Mohmand) | N/A |
-| 21 | [morne morkel](http://twitter.com/search?q=morne+morkel) | N/A |
-| 22 | [Choti](http://twitter.com/search?q=Choti) | N/A |
-| 23 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
-| 24 | [justice aminuddin khan](http://twitter.com/search?q=justice+aminuddin+khan) | N/A |
-| 25 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
-| 26 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 27 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
-| 28 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 29 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
-| 30 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
-| 31 | [pakistan penal code](http://twitter.com/search?q=pakistan+penal+code) | N/A |
-| 32 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 33 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
-| 34 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 35 | [Sarfaraz Ahmed](http://twitter.com/search?q=Sarfaraz+Ahmed) | N/A |
-| 36 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 37 | [Article 19](http://twitter.com/search?q=Article+19) | N/A |
-| 38 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 39 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 40 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 41 | [Pakistan Zindabad](http://twitter.com/search?q=Pakistan+Zindabad) | N/A |
+| 14 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 15 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 16 | [dsp iqbal mohmand](http://twitter.com/search?q=dsp+iqbal+mohmand) | N/A |
+| 17 | [morne morkel](http://twitter.com/search?q=morne+morkel) | N/A |
+| 18 | [Drone](http://twitter.com/search?q=Drone) | N/A |
+| 19 | [bill 2023](http://twitter.com/search?q=bill+2023) | N/A |
+| 20 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 21 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
+| 22 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
+| 23 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 24 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
+| 25 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
+| 26 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 27 | [Choti](http://twitter.com/search?q=Choti) | N/A |
+| 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 29 | [justice aminuddin khan](http://twitter.com/search?q=justice+aminuddin+khan) | N/A |
+| 30 | [Justice Munir](http://twitter.com/search?q=Justice+Munir) | N/A |
+| 31 | [Justice Musarrat Hilali](http://twitter.com/search?q=Justice+Musarrat+Hilali) | N/A |
+| 32 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
+| 33 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 34 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 35 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
+| 36 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
+| 37 | [Article 184](http://twitter.com/search?q=Article+184) | N/A |
+| 38 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 39 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 40 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 41 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
 | 42 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 43 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
-| 44 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 45 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 46 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 47 | [Noice](http://twitter.com/search?q=Noice) | N/A |
-| 48 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 49 | [Yessir](http://twitter.com/search?q=Yessir) | N/A |
-| 50 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
+| 43 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 44 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
+| 45 | [Goku](http://twitter.com/search?q=Goku) | N/A |
+| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 47 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
+| 48 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
+| 49 | [Noice](http://twitter.com/search?q=Noice) | N/A |
+| 50 | [Indian Muslims](http://twitter.com/search?q=Indian+Muslims) | N/A |
 
 
 

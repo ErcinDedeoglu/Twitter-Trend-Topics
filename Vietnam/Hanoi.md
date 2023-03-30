@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-03-30 21:16:50 UTC`
+📆 Last Updated: `2023-03-30 22:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 6 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
 | 7 | [#MEetingJISOOToday](http://twitter.com/search?q=%23MEetingJISOOToday) | N/A |
 | 8 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 9 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
-| 10 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
-| 11 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 12 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 9 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 10 | [Polly Pastel](http://twitter.com/search?q=Polly+Pastel) | N/A |
+| 11 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 12 | [Quan](http://twitter.com/search?q=Quan) | N/A |
 | 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 14 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 15 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 16 | [pháp](http://twitter.com/search?q=ph%c3%a1p) | N/A |
-| 17 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 18 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 19 | [Saigon](http://twitter.com/search?q=Saigon) | N/A |
-| 20 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 21 | [pallette](http://twitter.com/search?q=pallette) | N/A |
-| 22 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 14 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 15 | [Great Project](http://twitter.com/search?q=Great+Project) | N/A |
+| 16 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 17 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 18 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 19 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 20 | [tháng 4](http://twitter.com/search?q=th%c3%a1ng+4) | N/A |
+| 21 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
+| 22 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 | 23 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
-| 24 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
-| 25 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
-| 26 | [Chịu](http://twitter.com/search?q=Ch%e1%bb%8bu) | N/A |
-| 27 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 28 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 29 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 30 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 32 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
-| 33 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 34 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 35 | [thiệt](http://twitter.com/search?q=thi%e1%bb%87t) | N/A |
-| 36 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 37 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 38 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
-| 39 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 40 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 41 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 42 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 43 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
-| 44 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 45 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 46 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
-| 47 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 48 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 49 | [Cuối Cùng Thì](http://twitter.com/search?q=Cu%e1%bb%91i+C%c3%b9ng+Th%c3%ac) | N/A |
-| 50 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
+| 24 | [pallette](http://twitter.com/search?q=pallette) | N/A |
+| 25 | [JUNGKOOK IN CALVINS](http://twitter.com/search?q=JUNGKOOK+IN+CALVINS) | N/A |
+| 26 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 27 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 28 | [chịu](http://twitter.com/search?q=ch%e1%bb%8bu) | N/A |
+| 29 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 30 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 31 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 32 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 33 | [nhanh](http://twitter.com/search?q=nhanh) | N/A |
+| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 35 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 36 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 37 | [cuộc](http://twitter.com/search?q=cu%e1%bb%99c) | N/A |
+| 38 | [thiệt](http://twitter.com/search?q=thi%e1%bb%87t) | N/A |
+| 39 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 40 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 41 | [tưởng](http://twitter.com/search?q=t%c6%b0%e1%bb%9fng) | N/A |
+| 42 | [FFF Asean Party](http://twitter.com/search?q=FFF+Asean+Party) | N/A |
+| 43 | [Cuối Cùng Thì](http://twitter.com/search?q=Cu%e1%bb%91i+C%c3%b9ng+Th%c3%ac) | N/A |
+| 44 | [avive - ứng](http://twitter.com/search?q=avive+-+%e1%bb%a9ng) | N/A |
+| 45 | [ứng dụng khai](http://twitter.com/search?q=%e1%bb%a9ng+d%e1%bb%a5ng+khai) | N/A |
+| 46 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 47 | [Swap](http://twitter.com/search?q=Swap) | N/A |
+| 48 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
+| 49 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 50 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
 
 
 
