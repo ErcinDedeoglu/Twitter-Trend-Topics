@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-03-30 09:17:10 UTC`
+📆 Last Updated: `2023-03-30 10:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Campino](http://twitter.com/search?q=%23Campino) | N/A |
-| 2 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
-| 3 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 4 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
-| 5 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
+| 2 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 3 | [#WissZeitVG](http://twitter.com/search?q=%23WissZeitVG) | N/A |
+| 4 | [#Koalitionsausschuss](http://twitter.com/search?q=%23Koalitionsausschuss) | N/A |
+| 5 | [#CharlesIII](http://twitter.com/search?q=%23CharlesIII) | N/A |
 | 6 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
 | 7 | [Autobahnen](http://twitter.com/search?q=Autobahnen) | N/A |
 | 8 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 9 | [Demila](http://twitter.com/search?q=Demila) | N/A |
-| 10 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
-| 11 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 12 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
-| 13 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 14 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
-| 15 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 16 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
-| 17 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 18 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 19 | [Orden](http://twitter.com/search?q=Orden) | N/A |
-| 20 | [Maut](http://twitter.com/search?q=Maut) | N/A |
-| 21 | ['Kaputt'](http://twitter.com/search?q=%27Kaputt%27) | N/A |
-| 22 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 23 | [Wald](http://twitter.com/search?q=Wald) | N/A |
-| 24 | [Laufzeit](http://twitter.com/search?q=Laufzeit) | N/A |
-| 25 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 26 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
+| 9 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 10 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 11 | [Stück Hirn-Vakuum](http://twitter.com/search?q=St%c3%bcck+Hirn-Vakuum) | N/A |
+| 12 | [Sportler](http://twitter.com/search?q=Sportler) | N/A |
+| 13 | [Im Radius von 15 Gehminuten](http://twitter.com/search?q=Im+Radius+von+15+Gehminuten) | N/A |
+| 14 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 15 | [Kinderehen](http://twitter.com/search?q=Kinderehen) | N/A |
+| 16 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
+| 17 | [Orden](http://twitter.com/search?q=Orden) | N/A |
+| 18 | [Maut](http://twitter.com/search?q=Maut) | N/A |
+| 19 | [Wald](http://twitter.com/search?q=Wald) | N/A |
+| 20 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 21 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
+| 22 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 23 | [Schlichtung](http://twitter.com/search?q=Schlichtung) | N/A |
+| 24 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 25 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 26 | [Quadratmeter Natur](http://twitter.com/search?q=Quadratmeter+Natur) | N/A |
 | 27 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 28 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 29 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
-| 30 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
-| 31 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
-| 32 | [Haken](http://twitter.com/search?q=Haken) | N/A |
-| 33 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
-| 34 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
-| 35 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 28 | [Spionage](http://twitter.com/search?q=Spionage) | N/A |
+| 29 | [Flächen](http://twitter.com/search?q=Fl%c3%a4chen) | N/A |
+| 30 | [Straßenbahnhaltestelle](http://twitter.com/search?q=Stra%c3%9fenbahnhaltestelle) | N/A |
+| 31 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
+| 32 | [Zwangsaustausch](http://twitter.com/search?q=Zwangsaustausch) | N/A |
+| 33 | [Laufzeit](http://twitter.com/search?q=Laufzeit) | N/A |
+| 34 | [Karikatur](http://twitter.com/search?q=Karikatur) | N/A |
+| 35 | [SPD und FDP](http://twitter.com/search?q=SPD+und+FDP) | N/A |
 | 36 | [Tradition als RB Leipzig](http://twitter.com/search?q=Tradition+als+RB+Leipzig) | N/A |
 | 37 | [Reallohnverlust](http://twitter.com/search?q=Reallohnverlust) | N/A |
-| 38 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
-| 39 | [Stiko](http://twitter.com/search?q=Stiko) | N/A |
-| 40 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
-| 41 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
-| 42 | [Closeness Rating](http://twitter.com/search?q=Closeness+Rating) | N/A |
-| 43 | [Random Gedanke](http://twitter.com/search?q=Random+Gedanke) | N/A |
-| 44 | [Sektoren](http://twitter.com/search?q=Sektoren) | N/A |
-| 45 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
-| 46 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 47 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 48 | [Kopftuch](http://twitter.com/search?q=Kopftuch) | N/A |
-| 49 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
+| 38 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
+| 39 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
+| 40 | [Sektorziele](http://twitter.com/search?q=Sektorziele) | N/A |
+| 41 | [Monarch](http://twitter.com/search?q=Monarch) | N/A |
+| 42 | [Haken](http://twitter.com/search?q=Haken) | N/A |
+| 43 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 44 | [Kompromisse](http://twitter.com/search?q=Kompromisse) | N/A |
+| 45 | [Poststelle](http://twitter.com/search?q=Poststelle) | N/A |
+| 46 | [Autobahnprojekte](http://twitter.com/search?q=Autobahnprojekte) | N/A |
+| 47 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 48 | [Vogt](http://twitter.com/search?q=Vogt) | N/A |
+| 49 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
 
 
 

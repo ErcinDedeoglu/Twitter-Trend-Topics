@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-03-30 09:17:52 UTC`
+📆 Last Updated: `2023-03-30 10:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ZeldaVuelve](http://twitter.com/search?q=%23ZeldaVuelve) | N/A |
-| 2 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 1 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
+| 2 | [#ZeldaVuelve](http://twitter.com/search?q=%23ZeldaVuelve) | N/A |
 | 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 5 | [Laura Gómez](http://twitter.com/search?q=Laura+G%c3%b3mez) | N/A |
-| 6 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 7 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
-| 8 | [#AmazonMediaMarkt](http://twitter.com/search?q=%23AmazonMediaMarkt) | N/A |
-| 9 | [Javier Cámara](http://twitter.com/search?q=Javier+C%c3%a1mara) | N/A |
-| 10 | [#FH5RallyAdventure](http://twitter.com/search?q=%23FH5RallyAdventure) | N/A |
-| 11 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 12 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
-| 13 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
-| 14 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
-| 15 | [#TierraDeNadie4](http://twitter.com/search?q=%23TierraDeNadie4) | N/A |
-| 16 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
+| 4 | [Laura Gómez](http://twitter.com/search?q=Laura+G%c3%b3mez) | N/A |
+| 5 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 6 | [Javier Cámara](http://twitter.com/search?q=Javier+C%c3%a1mara) | N/A |
+| 7 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 8 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 9 | [#FH5RallyAdventure](http://twitter.com/search?q=%23FH5RallyAdventure) | N/A |
+| 10 | [#YOIGOxFINI](http://twitter.com/search?q=%23YOIGOxFINI) | N/A |
+| 11 | [#AmazonMediaMarkt](http://twitter.com/search?q=%23AmazonMediaMarkt) | N/A |
+| 12 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
+| 13 | [La FIA](http://twitter.com/search?q=La+FIA) | N/A |
+| 14 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
+| 15 | [Escocia](http://twitter.com/search?q=Escocia) | N/A |
+| 16 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 17 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 | 18 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
 | 19 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 20 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 20 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
 | 21 | [Complutense](http://twitter.com/search?q=Complutense) | Complutense is a term used to refer to the University of Madrid, which is officially known as the Complutense University of Madrid. The name comes from the Latin word Complutum, which was the ancient name for the city of Alcalá de Henares, where the university was originally founded in 1293. In English, Complutense means "of Alcalá". |
-| 22 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 22 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
 | 23 | [Kiko Hernández](http://twitter.com/search?q=Kiko+Hern%c3%a1ndez) | N/A |
-| 24 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 25 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 26 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 27 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
-| 28 | [Milotic](http://twitter.com/search?q=Milotic) | N/A |
-| 29 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
-| 30 | [Anita](http://twitter.com/search?q=Anita) | N/A |
-| 31 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
-| 32 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
-| 33 | [Lequio](http://twitter.com/search?q=Lequio) | N/A |
-| 34 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
-| 35 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
-| 36 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 37 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 38 | [Jaime Cantizano](http://twitter.com/search?q=Jaime+Cantizano) | N/A |
-| 39 | [Con 68](http://twitter.com/search?q=Con+68) | N/A |
-| 40 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [Resistance](http://twitter.com/search?q=Resistance) | N/A |
-| 43 | [Bori Fati](http://twitter.com/search?q=Bori+Fati) | N/A |
-| 44 | [Abortar](http://twitter.com/search?q=Abortar) | N/A |
-| 45 | [Adoptar](http://twitter.com/search?q=Adoptar) | N/A |
-| 46 | [Cáritas](http://twitter.com/search?q=C%c3%a1ritas) | N/A |
-| 47 | [Luis de la Cope](http://twitter.com/search?q=Luis+de+la+Cope) | N/A |
-| 48 | [Mateu Lahoz](http://twitter.com/search?q=Mateu+Lahoz) | N/A |
-| 49 | [Tita Cervera](http://twitter.com/search?q=Tita+Cervera) | N/A |
-| 50 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 24 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 25 | [Premios Goya](http://twitter.com/search?q=Premios+Goya) | N/A |
+| 26 | [Days Gone](http://twitter.com/search?q=Days+Gone) | N/A |
+| 27 | [Mateu Lahoz](http://twitter.com/search?q=Mateu+Lahoz) | N/A |
+| 28 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
+| 29 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 30 | [Valladolid](http://twitter.com/search?q=Valladolid) | N/A |
+| 31 | [Milotic](http://twitter.com/search?q=Milotic) | N/A |
+| 32 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 33 | [Escombreras](http://twitter.com/search?q=Escombreras) | N/A |
+| 34 | [Lequio](http://twitter.com/search?q=Lequio) | N/A |
+| 35 | [Clara Ponsatí](http://twitter.com/search?q=Clara+Ponsat%c3%ad) | N/A |
+| 36 | [Anita](http://twitter.com/search?q=Anita) | N/A |
+| 37 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 38 | [Koke](http://twitter.com/search?q=Koke) | Koke is a Japanese slang term that means "stupid" or "foolish". It is often used to describe someone who has done something foolish or made a mistake. |
+| 39 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
+| 40 | [oregón tv](http://twitter.com/search?q=oreg%c3%b3n+tv) | N/A |
+| 41 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 42 | [Telemadrid](http://twitter.com/search?q=Telemadrid) | N/A |
+| 43 | [Jaime Cantizano](http://twitter.com/search?q=Jaime+Cantizano) | N/A |
+| 44 | [Pérez](http://twitter.com/search?q=P%c3%a9rez) | N/A |
+| 45 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 47 | [Con 68](http://twitter.com/search?q=Con+68) | N/A |
+| 48 | [Resistance](http://twitter.com/search?q=Resistance) | N/A |
+| 49 | [Adoptar](http://twitter.com/search?q=Adoptar) | N/A |
+| 50 | [Ricky Martin](http://twitter.com/search?q=Ricky+Martin) | N/A |
 
 
 

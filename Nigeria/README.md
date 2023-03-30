@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-30 09:17:50 UTC`
+📆 Last Updated: `2023-03-30 10:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NSPPDis3](http://twitter.com/search?q=%23NSPPDis3) | N/A |
-| 2 | [#SlideIntoYourWorld](http://twitter.com/search?q=%23SlideIntoYourWorld) | N/A |
-| 3 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
-| 4 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
-| 5 | [Portable](http://twitter.com/search?q=Portable) | N/A |
-| 6 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
-| 7 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 8 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 9 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
-| 10 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
+| 1 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
+| 2 | [#NSPPDis3](http://twitter.com/search?q=%23NSPPDis3) | N/A |
+| 3 | [#SheIsAPowerHouseEvent](http://twitter.com/search?q=%23SheIsAPowerHouseEvent) | N/A |
+| 4 | [#SlideIntoYourWorld](http://twitter.com/search?q=%23SlideIntoYourWorld) | N/A |
+| 5 | [Cech](http://twitter.com/search?q=Cech) | Cech is a Czech surname. It is derived from the Czech word "čech", which means "Bohemian". |
+| 6 | [#tiktokdown](http://twitter.com/search?q=%23tiktokdown) | N/A |
+| 7 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 8 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
+| 9 | [Polygamy](http://twitter.com/search?q=Polygamy) | N/A |
+| 10 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
 | 11 | [LP and PDP](http://twitter.com/search?q=LP+and+PDP) | N/A |
-| 12 | [ROAD TO LIQLEVEL28](http://twitter.com/search?q=ROAD+TO+LIQLEVEL28) | N/A |
-| 13 | [BIG28 IN A BIT](http://twitter.com/search?q=BIG28+IN+A+BIT) | N/A |
+| 12 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
+| 13 | [Ihedioha](http://twitter.com/search?q=Ihedioha) | N/A |
 | 14 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
 | 15 | [The DSS](http://twitter.com/search?q=The+DSS) | N/A |
-| 16 | [May Edochie](http://twitter.com/search?q=May+Edochie) | N/A |
-| 17 | [Bosworth](http://twitter.com/search?q=Bosworth) | N/A |
-| 18 | [Osita](http://twitter.com/search?q=Osita) | N/A |
-| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 20 | [Interim](http://twitter.com/search?q=Interim) | N/A |
-| 21 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 22 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
-| 23 | [YEMI CREGX IS LIFESTYLE](http://twitter.com/search?q=YEMI+CREGX+IS+LIFESTYLE) | N/A |
-| 24 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
-| 25 | [LASU](http://twitter.com/search?q=LASU) | N/A |
-| 26 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
-| 27 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
-| 28 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
-| 29 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 30 | [So DSS](http://twitter.com/search?q=So+DSS) | N/A |
-| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 32 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
-| 33 | [ALL OF THE ABOVE](http://twitter.com/search?q=ALL+OF+THE+ABOVE) | N/A |
-| 34 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
-| 35 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 36 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 37 | [i advance by grace](http://twitter.com/search?q=i+advance+by+grace) | N/A |
-| 38 | [President-elect](http://twitter.com/search?q=President-elect) | N/A |
-| 39 | [Liya](http://twitter.com/search?q=Liya) | N/A |
-| 40 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 41 | [Tactical](http://twitter.com/search?q=Tactical) | N/A |
-| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 43 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 44 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 45 | [Tony Elumelu](http://twitter.com/search?q=Tony+Elumelu) | N/A |
-| 46 | [Alex Ferguson](http://twitter.com/search?q=Alex+Ferguson) | N/A |
-| 47 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 48 | [Resting](http://twitter.com/search?q=Resting) | N/A |
-| 49 | [Curacao](http://twitter.com/search?q=Curacao) | N/A |
-| 50 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 16 | [SW and North](http://twitter.com/search?q=SW+and+North) | N/A |
+| 17 | [ROAD TO LIQLEVEL28](http://twitter.com/search?q=ROAD+TO+LIQLEVEL28) | N/A |
+| 18 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 19 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 20 | [BIG28 IN A BIT](http://twitter.com/search?q=BIG28+IN+A+BIT) | N/A |
+| 21 | [Tony Adams](http://twitter.com/search?q=Tony+Adams) | N/A |
+| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 23 | [Bosworth](http://twitter.com/search?q=Bosworth) | N/A |
+| 24 | [US Dollar](http://twitter.com/search?q=US+Dollar) | N/A |
+| 25 | [Yoruba Ronu](http://twitter.com/search?q=Yoruba+Ronu) | N/A |
+| 26 | [Interim](http://twitter.com/search?q=Interim) | N/A |
+| 27 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 28 | [LASU](http://twitter.com/search?q=LASU) | N/A |
+| 29 | [Unity](http://twitter.com/search?q=Unity) | N/A |
+| 30 | [Does Not Exist](http://twitter.com/search?q=Does+Not+Exist) | N/A |
+| 31 | [Osita](http://twitter.com/search?q=Osita) | N/A |
+| 32 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 33 | [Asiwaju Bola Ahmed Tinubu](http://twitter.com/search?q=Asiwaju+Bola+Ahmed+Tinubu) | N/A |
+| 34 | [Maitama](http://twitter.com/search?q=Maitama) | N/A |
+| 35 | [May God](http://twitter.com/search?q=May+God) | N/A |
+| 36 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 37 | [Money & Love](http://twitter.com/search?q=Money+%26+Love) | N/A |
+| 38 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
+| 39 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
+| 40 | [So DSS](http://twitter.com/search?q=So+DSS) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [John Wick](http://twitter.com/search?q=John+Wick) | N/A |
+| 43 | [THE LORD HAS SHOWN ME MERCY](http://twitter.com/search?q=THE+LORD+HAS+SHOWN+ME+MERCY) | N/A |
+| 44 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 45 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 46 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 47 | [Liya](http://twitter.com/search?q=Liya) | N/A |
+| 48 | [Happy Doctors](http://twitter.com/search?q=Happy+Doctors) | N/A |
+| 49 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
+| 50 | [i advance by grace](http://twitter.com/search?q=i+advance+by+grace) | N/A |
 
 
 

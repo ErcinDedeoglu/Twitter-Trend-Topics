@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-03-30 09:17:33 UTC`
+📆 Last Updated: `2023-03-30 10:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
 | 2 | [#RamNavami](http://twitter.com/search?q=%23RamNavami) | N/A |
-| 3 | [#AnilAgarwalStadium](http://twitter.com/search?q=%23AnilAgarwalStadium) | N/A |
-| 4 | [#My11CircleBadeSeBada](http://twitter.com/search?q=%23My11CircleBadeSeBada) | N/A |
-| 5 | [#BholaaInCinemasNow](http://twitter.com/search?q=%23BholaaInCinemasNow) | N/A |
-| 6 | [#राजस्थान_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 3 | [#My11CircleBadeSeBada](http://twitter.com/search?q=%23My11CircleBadeSeBada) | N/A |
+| 4 | [#AnilAgarwalStadium](http://twitter.com/search?q=%23AnilAgarwalStadium) | N/A |
+| 5 | [#MTRWorldIdliDay](http://twitter.com/search?q=%23MTRWorldIdliDay) | N/A |
+| 6 | [#Modi_Hatao_Desh_Bachao](http://twitter.com/search?q=%23Modi_Hatao_Desh_Bachao) | N/A |
 | 7 | [PADHARO RAM LALLA](http://twitter.com/search?q=PADHARO+RAM+LALLA) | N/A |
 | 8 | [Germany](http://twitter.com/search?q=Germany) | N/A |
 | 9 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
 | 10 | [प्रभु राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 11 | [SSR Working On Many Projects](http://twitter.com/search?q=SSR+Working+On+Many+Projects) | N/A |
-| 12 | [महादेव मंदिर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 13 | [पटेल नगर](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2+%e0%a4%a8%e0%a4%97%e0%a4%b0) | N/A |
-| 14 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 15 | [राम मंदिर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 16 | [IPL 2023](http://twitter.com/search?q=IPL+2023) | N/A |
-| 17 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
+| 11 | [महादेव मंदिर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%87%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 12 | [SSR Working On Many Projects](http://twitter.com/search?q=SSR+Working+On+Many+Projects) | N/A |
+| 13 | [राम मंदिर](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
+| 14 | [IPL 2023](http://twitter.com/search?q=IPL+2023) | N/A |
+| 15 | [Deccan Chargers](http://twitter.com/search?q=Deccan+Chargers) | N/A |
+| 16 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 17 | [पटेल नगर](http://twitter.com/search?q=%e0%a4%aa%e0%a4%9f%e0%a5%87%e0%a4%b2+%e0%a4%a8%e0%a4%97%e0%a4%b0) | N/A |
 | 18 | [Jai Siya Ram](http://twitter.com/search?q=Jai+Siya+Ram) | N/A |
-| 19 | [Purple Cap](http://twitter.com/search?q=Purple+Cap) | N/A |
-| 20 | [कौसल्या हितकारी](http://twitter.com/search?q=%e0%a4%95%e0%a5%8c%e0%a4%b8%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 21 | [Prediction](http://twitter.com/search?q=Prediction) | N/A |
-| 22 | [#TakebackRTH](http://twitter.com/search?q=%23TakebackRTH) | N/A |
-| 23 | [#MTRWorldIdliDay](http://twitter.com/search?q=%23MTRWorldIdliDay) | N/A |
+| 19 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
+| 20 | [Prediction](http://twitter.com/search?q=Prediction) | N/A |
+| 21 | [Shane Warne](http://twitter.com/search?q=Shane+Warne) | N/A |
+| 22 | [पावन काल लोक](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%b2+%e0%a4%b2%e0%a5%8b%e0%a4%95) | N/A |
+| 23 | [#BholaaInCinemasNow](http://twitter.com/search?q=%23BholaaInCinemasNow) | N/A |
 | 24 | [#BoycottRohiniCinemas](http://twitter.com/search?q=%23BoycottRohiniCinemas) | N/A |
-| 25 | [#RajasthanDiwas](http://twitter.com/search?q=%23RajasthanDiwas) | N/A |
-| 26 | [#जय_सियाराम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 27 | [#LalitModi](http://twitter.com/search?q=%23LalitModi) | N/A |
+| 25 | [#Indore](http://twitter.com/search?q=%23Indore) | N/A |
+| 26 | [#RajasthanDiwas](http://twitter.com/search?q=%23RajasthanDiwas) | N/A |
+| 27 | [#राजस्थान_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
 | 28 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 29 | [#Indore](http://twitter.com/search?q=%23Indore) | N/A |
-| 30 | [#RamMandir](http://twitter.com/search?q=%23RamMandir) | N/A |
-| 31 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
-| 32 | [#PathuThalaReview](http://twitter.com/search?q=%23PathuThalaReview) | N/A |
-| 33 | [#MaidaanTeaser](http://twitter.com/search?q=%23MaidaanTeaser) | N/A |
-| 34 | [#PawanSinghalFraud](http://twitter.com/search?q=%23PawanSinghalFraud) | N/A |
-| 35 | [#AjayDevgn](http://twitter.com/search?q=%23AjayDevgn) | N/A |
-| 36 | [#ArrestgangsterhritikSinghal](http://twitter.com/search?q=%23ArrestgangsterhritikSinghal) | N/A |
-| 37 | [#TwitterSeva](http://twitter.com/search?q=%23TwitterSeva) | N/A |
-| 38 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
-| 39 | [#LawlessOdisha](http://twitter.com/search?q=%23LawlessOdisha) | N/A |
-| 40 | [#TataNeu](http://twitter.com/search?q=%23TataNeu) | N/A |
-| 41 | [#festival](http://twitter.com/search?q=%23festival) | N/A |
-| 42 | [#Rangasthalam](http://twitter.com/search?q=%23Rangasthalam) | N/A |
-| 43 | [#ModiHataaoDeshBachaao](http://twitter.com/search?q=%23ModiHataaoDeshBachaao) | N/A |
-| 44 | [#राजस्थान_स्थापना_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%aa%e0%a4%a8%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 45 | [#इंदौर](http://twitter.com/search?q=%23%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a5%8c%e0%a4%b0) | N/A |
+| 29 | [#LalitModi](http://twitter.com/search?q=%23LalitModi) | N/A |
+| 30 | [#जय_सियाराम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 31 | [#TakebackRTH](http://twitter.com/search?q=%23TakebackRTH) | N/A |
+| 32 | [#RamMandir](http://twitter.com/search?q=%23RamMandir) | N/A |
+| 33 | [#PathuThalaReview](http://twitter.com/search?q=%23PathuThalaReview) | N/A |
+| 34 | [#Ayodhya](http://twitter.com/search?q=%23Ayodhya) | N/A |
+| 35 | [#LawlessOdisha](http://twitter.com/search?q=%23LawlessOdisha) | N/A |
+| 36 | [#MaidaanTeaser](http://twitter.com/search?q=%23MaidaanTeaser) | N/A |
+| 37 | [#festival](http://twitter.com/search?q=%23festival) | N/A |
+| 38 | [#PawanSinghalFraud](http://twitter.com/search?q=%23PawanSinghalFraud) | N/A |
+| 39 | [#ArrestgangsterhritikSinghal](http://twitter.com/search?q=%23ArrestgangsterhritikSinghal) | N/A |
+| 40 | [#TwitterSeva](http://twitter.com/search?q=%23TwitterSeva) | N/A |
+| 41 | [#TataNeu](http://twitter.com/search?q=%23TataNeu) | N/A |
+| 42 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
+| 43 | [#AjayDevgn](http://twitter.com/search?q=%23AjayDevgn) | N/A |
+| 44 | [#ModiHataaoDeshBachaao](http://twitter.com/search?q=%23ModiHataaoDeshBachaao) | N/A |
+| 45 | [#Rangasthalam](http://twitter.com/search?q=%23Rangasthalam) | N/A |
 | 46 | [#Tripura](http://twitter.com/search?q=%23Tripura) | N/A |
-| 47 | [#Nani](http://twitter.com/search?q=%23Nani) | N/A |
-| 48 | [#GurudevHoysala](http://twitter.com/search?q=%23GurudevHoysala) | N/A |
-| 49 | [#Adipurush](http://twitter.com/search?q=%23Adipurush) | N/A |
-| 50 | [#SriRamWalaBharat](http://twitter.com/search?q=%23SriRamWalaBharat) | N/A |
+| 47 | [#Vadodara](http://twitter.com/search?q=%23Vadodara) | N/A |
+| 48 | [#FSSAI](http://twitter.com/search?q=%23FSSAI) | N/A |
+| 49 | [#राजस्थान_स्थापना_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%aa%e0%a4%a8%e0%a4%be_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 50 | [#Vaikom100](http://twitter.com/search?q=%23Vaikom100) | N/A |
 
 
 

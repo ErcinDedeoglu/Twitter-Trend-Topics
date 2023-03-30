@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-30 09:17:16 UTC`
+📆 Last Updated: `2023-03-30 10:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#NYALAinAja](http://twitter.com/search?q=%23NYALAinAja) | N/A |
 | 2 | [OCBC NISP](http://twitter.com/search?q=OCBC+NISP) | OCBC NISP stands for OCBC NISP Bank, an Indonesian banking institution. It is a subsidiary of the Singapore-based OCBC Bank and provides a range of banking services to individuals and businesses in Indonesia. The name is derived from the Indonesian phrase “Nasional Internasional Sekuritas Perdagangan”, which translates to “National International Securities Trading”. |
-| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 4 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 6 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 7 | [#SaatnyaPrabowoPuan](http://twitter.com/search?q=%23SaatnyaPrabowoPuan) | N/A |
-| 8 | [#MARKLEE2NDSOLO](http://twitter.com/search?q=%23MARKLEE2NDSOLO) | N/A |
-| 9 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
-| 10 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
-| 11 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 12 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
-| 13 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 14 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
-| 15 | [Lengkapi](http://twitter.com/search?q=Lengkapi) | N/A |
-| 16 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 17 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
-| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 19 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 20 | [Tokopedia Care](http://twitter.com/search?q=Tokopedia+Care) | N/A |
-| 21 | [JUNHAO](http://twitter.com/search?q=JUNHAO) | N/A |
-| 22 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
-| 23 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
-| 24 | [SafariRamadhan AHY Jabar](http://twitter.com/search?q=SafariRamadhan+AHY+Jabar) | N/A |
-| 25 | [Golput](http://twitter.com/search?q=Golput) | N/A |
-| 26 | [Gelap](http://twitter.com/search?q=Gelap) | N/A |
-| 27 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
-| 28 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
-| 29 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
-| 30 | [Koster](http://twitter.com/search?q=Koster) | N/A |
-| 31 | [Johan Budi](http://twitter.com/search?q=Johan+Budi) | N/A |
-| 32 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 33 | [Teddy Minahasa](http://twitter.com/search?q=Teddy+Minahasa) | N/A |
-| 34 | [Glowing](http://twitter.com/search?q=Glowing) | N/A |
-| 35 | [win x lazada11year](http://twitter.com/search?q=win+x+lazada11year) | N/A |
-| 36 | [Newt](http://twitter.com/search?q=Newt) | N/A |
-| 37 | [CAT 2A](http://twitter.com/search?q=CAT+2A) | N/A |
-| 38 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
-| 39 | [Puas](http://twitter.com/search?q=Puas) | N/A |
-| 40 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
-| 41 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 42 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
-| 43 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
-| 44 | [Angin](http://twitter.com/search?q=Angin) | N/A |
-| 45 | [THE SCENT NOTES D2](http://twitter.com/search?q=THE+SCENT+NOTES+D2) | N/A |
-| 46 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 47 | [349 T](http://twitter.com/search?q=349+T) | N/A |
-| 48 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
-| 49 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 50 | [Janji Joni](http://twitter.com/search?q=Janji+Joni) | N/A |
+| 3 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
+| 4 | [#RedmiNote12Series](http://twitter.com/search?q=%23RedmiNote12Series) | N/A |
+| 5 | [#SaatnyaPrabowoPuan](http://twitter.com/search?q=%23SaatnyaPrabowoPuan) | N/A |
+| 6 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
+| 7 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 8 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 9 | [Lengkapi](http://twitter.com/search?q=Lengkapi) | N/A |
+| 10 | [JUNHAO](http://twitter.com/search?q=JUNHAO) | N/A |
+| 11 | [Gelap](http://twitter.com/search?q=Gelap) | N/A |
+| 12 | [Selamat Hari Film Nasional](http://twitter.com/search?q=Selamat+Hari+Film+Nasional) | N/A |
+| 13 | [Tokopedia Care](http://twitter.com/search?q=Tokopedia+Care) | N/A |
+| 14 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 15 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
+| 16 | [Cuci](http://twitter.com/search?q=Cuci) | N/A |
+| 17 | [Johan Budi](http://twitter.com/search?q=Johan+Budi) | N/A |
+| 18 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
+| 19 | [UNIQLO](http://twitter.com/search?q=UNIQLO) | N/A |
+| 20 | [349 T](http://twitter.com/search?q=349+T) | N/A |
+| 21 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 22 | [Sepak](http://twitter.com/search?q=Sepak) | N/A |
+| 23 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
+| 24 | [Golput](http://twitter.com/search?q=Golput) | N/A |
+| 25 | [Kecewa](http://twitter.com/search?q=Kecewa) | N/A |
+| 26 | [Mundur](http://twitter.com/search?q=Mundur) | N/A |
+| 27 | [#오직_너만이_아는_내_SWITCH](http://twitter.com/search?q=%23%ec%98%a4%ec%a7%81_%eb%84%88%eb%a7%8c%ec%9d%b4_%ec%95%84%eb%8a%94_%eb%82%b4_SWITCH) | N/A |
+| 28 | [#RamadandiShopeexOPPO](http://twitter.com/search?q=%23RamadandiShopeexOPPO) | N/A |
+| 29 | [#DemokratProPerubahan](http://twitter.com/search?q=%23DemokratProPerubahan) | N/A |
+| 30 | [#PialaDuniaBatalKarnaIni](http://twitter.com/search?q=%23PialaDuniaBatalKarnaIni) | N/A |
+| 31 | [#zonauang️](http://twitter.com/search?q=%23zonauang%ef%b8%8f) | N/A |
+| 32 | [#FreenBeckID](http://twitter.com/search?q=%23FreenBeckID) | N/A |
+| 33 | [#FreenIndonesia](http://twitter.com/search?q=%23FreenIndonesia) | N/A |
+| 34 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 35 | [#MARKLEE2NDSOLO](http://twitter.com/search?q=%23MARKLEE2NDSOLO) | N/A |
+| 36 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
+| 37 | [#xikers](http://twitter.com/search?q=%23xikers) | N/A |
+| 38 | [#FIFA](http://twitter.com/search?q=%23FIFA) | N/A |
+| 39 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 40 | [#บวงสรวงดับแสงรวี](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%a7%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b8%a7%e0%b8%87%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%aa%e0%b8%87%e0%b8%a3%e0%b8%a7%e0%b8%b5) | N/A |
+| 41 | [#Arbitrum](http://twitter.com/search?q=%23Arbitrum) | N/A |
 
 
 

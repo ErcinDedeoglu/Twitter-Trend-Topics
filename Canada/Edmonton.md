@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-03-30 09:16:54 UTC`
+📆 Last Updated: `2023-03-30 10:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,13 +17,13 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
 | 2 | [Danielle Smith](http://twitter.com/search?q=Danielle+Smith) | N/A |
-| 3 | [Paul Maurice](http://twitter.com/search?q=Paul+Maurice) | N/A |
+| 3 | [paul maurice](http://twitter.com/search?q=paul+maurice) | N/A |
 | 4 | [Premier](http://twitter.com/search?q=Premier) | N/A |
 | 5 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 6 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
 | 7 | [Artur](http://twitter.com/search?q=Artur) | N/A |
 | 8 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 9 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 9 | [#onstorm](http://twitter.com/search?q=%23onstorm) | N/A |
 | 10 | [Alex Lyon](http://twitter.com/search?q=Alex+Lyon) | N/A |
 | 11 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
 | 12 | [#canmnt](http://twitter.com/search?q=%23canmnt) | N/A |
@@ -31,13 +31,13 @@ This is top 50 for [Canada](</Canada>)
 | 14 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
 | 15 | [Guns](http://twitter.com/search?q=Guns) | N/A |
 | 16 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 17 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
-| 18 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 17 | [nylander](http://twitter.com/search?q=nylander) | N/A |
+| 18 | [Vancouver](http://twitter.com/search?q=Vancouver) | N/A |
 | 19 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
 | 20 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 21 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 22 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
-| 23 | [wet'suwet'en](http://twitter.com/search?q=wet%27suwet%27en) | N/A |
+| 21 | [Coutts](http://twitter.com/search?q=Coutts) | N/A |
+| 22 | [wet'suwet'en](http://twitter.com/search?q=wet%27suwet%27en) | N/A |
+| 23 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
 | 24 | [Notley](http://twitter.com/search?q=Notley) | N/A |
 | 25 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 26 | [Torry Tanner](http://twitter.com/search?q=Torry+Tanner) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Canada](</Canada>)
 | 30 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
 | 31 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
 | 32 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
-| 33 | [Rob Anderson](http://twitter.com/search?q=Rob+Anderson) | N/A |
+| 33 | [rob anderson](http://twitter.com/search?q=rob+anderson) | N/A |
 | 34 | [Summer McIntosh](http://twitter.com/search?q=Summer+McIntosh) | N/A |
-| 35 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 36 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
-| 37 | [Yoshua Bengio](http://twitter.com/search?q=Yoshua+Bengio) | N/A |
-| 38 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 39 | [akito hirose](http://twitter.com/search?q=akito+hirose) | N/A |
-| 40 | [cyle larin](http://twitter.com/search?q=cyle+larin) | N/A |
-| 41 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 42 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 43 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 35 | [Yoshua Bengio](http://twitter.com/search?q=Yoshua+Bengio) | N/A |
+| 36 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 37 | [Freeland](http://twitter.com/search?q=Freeland) | N/A |
+| 38 | [akito hirose](http://twitter.com/search?q=akito+hirose) | N/A |
+| 39 | [cyle larin](http://twitter.com/search?q=cyle+larin) | N/A |
+| 40 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 41 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 42 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 43 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
 | 44 | [Nuge](http://twitter.com/search?q=Nuge) | N/A |
-| 45 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 46 | [zach aston](http://twitter.com/search?q=zach+aston) | N/A |
-| 47 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
-| 48 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
-| 49 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 50 | [Jeff Cobb](http://twitter.com/search?q=Jeff+Cobb) | N/A |
+| 45 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 46 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 47 | [zach aston](http://twitter.com/search?q=zach+aston) | N/A |
+| 48 | [Kate Spade](http://twitter.com/search?q=Kate+Spade) | N/A |
+| 49 | [Daily Quordle 429](http://twitter.com/search?q=Daily+Quordle+429) | N/A |
+| 50 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
 
 
 

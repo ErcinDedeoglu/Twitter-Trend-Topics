@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-03-30 09:17:07 UTC`
+📆 Last Updated: `2023-03-30 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | N/A |
-| 2 | [#DavysToughestTeam](http://twitter.com/search?q=%23DavysToughestTeam) | N/A |
-| 3 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
-| 4 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
-| 5 | [#HelloHowAreYou](http://twitter.com/search?q=%23HelloHowAreYou) | N/A |
-| 6 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
+| 2 | [#SameChance](http://twitter.com/search?q=%23SameChance) | N/A |
+| 3 | [Lime Rick](http://twitter.com/search?q=Lime+Rick) | N/A |
+| 4 | [#DavysToughestTeam](http://twitter.com/search?q=%23DavysToughestTeam) | N/A |
+| 5 | [Lily Savage](http://twitter.com/search?q=Lily+Savage) | N/A |
+| 6 | [Kellie](http://twitter.com/search?q=Kellie) | N/A |
 | 7 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 8 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
-| 9 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 8 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 9 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
 | 10 | [neasa hourigan](http://twitter.com/search?q=neasa+hourigan) | N/A |
-| 11 | [#NoConfidenceMotion](http://twitter.com/search?q=%23NoConfidenceMotion) | N/A |
-| 12 | [#AmChamGlobalBiz23](http://twitter.com/search?q=%23AmChamGlobalBiz23) | N/A |
-| 13 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 14 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
+| 11 | [#noconfidencemotion](http://twitter.com/search?q=%23noconfidencemotion) | N/A |
+| 12 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 13 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 14 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
 | 15 | [#ccbreakfast](http://twitter.com/search?q=%23ccbreakfast) | N/A |
 | 16 | [For The Love Of Dogs](http://twitter.com/search?q=For+The+Love+Of+Dogs) | N/A |
-| 17 | [Neale](http://twitter.com/search?q=Neale) | N/A |
-| 18 | [Dart](http://twitter.com/search?q=Dart) | N/A |
-| 19 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
-| 20 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 17 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 18 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
+| 19 | [Neale](http://twitter.com/search?q=Neale) | N/A |
+| 20 | [Dart](http://twitter.com/search?q=Dart) | N/A |
 | 21 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 22 | [ogbene](http://twitter.com/search?q=ogbene) | N/A |
-| 23 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
-| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 25 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 26 | [davy fitz](http://twitter.com/search?q=davy+fitz) | N/A |
-| 27 | [Dail](http://twitter.com/search?q=Dail) | N/A |
-| 28 | [shelbourne](http://twitter.com/search?q=shelbourne) | N/A |
-| 29 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 30 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 31 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
-| 32 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 33 | [Keith Long](http://twitter.com/search?q=Keith+Long) | N/A |
-| 34 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 35 | [Shane Hannon](http://twitter.com/search?q=Shane+Hannon) | N/A |
-| 36 | [Rest in Peace Paul](http://twitter.com/search?q=Rest+in+Peace+Paul) | N/A |
-| 37 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 38 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 39 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
-| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 41 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 42 | [Shamrock Rovers](http://twitter.com/search?q=Shamrock+Rovers) | N/A |
-| 43 | [Eimear](http://twitter.com/search?q=Eimear) | N/A |
-| 44 | [Emlyn](http://twitter.com/search?q=Emlyn) | N/A |
-| 45 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 46 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
-| 47 | [Wexford Youths](http://twitter.com/search?q=Wexford+Youths) | N/A |
-| 48 | [Favourite](http://twitter.com/search?q=Favourite) | N/A |
+| 22 | [Cambodia](http://twitter.com/search?q=Cambodia) | N/A |
+| 23 | [ogbene](http://twitter.com/search?q=ogbene) | N/A |
+| 24 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
+| 25 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 26 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 27 | [davy fitz](http://twitter.com/search?q=davy+fitz) | N/A |
+| 28 | [Enoch Burke](http://twitter.com/search?q=Enoch+Burke) | N/A |
+| 29 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 30 | [shelbourne](http://twitter.com/search?q=shelbourne) | N/A |
+| 31 | [Dail](http://twitter.com/search?q=Dail) | N/A |
+| 32 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
+| 33 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 34 | [Keith Long](http://twitter.com/search?q=Keith+Long) | N/A |
+| 35 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 36 | [Shane Hannon](http://twitter.com/search?q=Shane+Hannon) | N/A |
+| 37 | [Rest in Peace Paul](http://twitter.com/search?q=Rest+in+Peace+Paul) | N/A |
+| 38 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 39 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 40 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 41 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 42 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 43 | [Shamrock Rovers](http://twitter.com/search?q=Shamrock+Rovers) | N/A |
+| 44 | [Eimear](http://twitter.com/search?q=Eimear) | N/A |
+| 45 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 46 | [Emlyn](http://twitter.com/search?q=Emlyn) | N/A |
+| 47 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
+| 48 | [Wexford Youths](http://twitter.com/search?q=Wexford+Youths) | N/A |
 | 49 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 50 | [Elaine](http://twitter.com/search?q=Elaine) | N/A |
+| 50 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
 
 
 
