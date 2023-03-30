@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-03-30 06:17:11 UTC`
+📆 Last Updated: `2023-03-30 07:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Chile](</Chile>)
 | 12 | [Talca](http://twitter.com/search?q=Talca) | N/A |
 | 13 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
 | 14 | [Estado Policial](http://twitter.com/search?q=Estado+Policial) | N/A |
-| 15 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 16 | [Bocacielo](http://twitter.com/search?q=Bocacielo) | N/A |
+| 15 | [Bocacielo](http://twitter.com/search?q=Bocacielo) | N/A |
+| 16 | [#autopiztaenradiozeta](http://twitter.com/search?q=%23autopiztaenradiozeta) | N/A |
 | 17 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
 | 18 | [PC y FA](http://twitter.com/search?q=PC+y+FA) | N/A |
 | 19 | [Guerrero](http://twitter.com/search?q=Guerrero) | N/A |
 | 20 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 21 | [tobalaba](http://twitter.com/search?q=tobalaba) | N/A |
 | 22 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 23 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 24 | [insulza](http://twitter.com/search?q=insulza) | N/A |
-| 25 | [línea 1](http://twitter.com/search?q=l%c3%adnea+1) | N/A |
+| 23 | [insulza](http://twitter.com/search?q=insulza) | N/A |
+| 24 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 25 | [Línea 1](http://twitter.com/search?q=L%c3%adnea+1) | N/A |
 | 26 | [plaza dignidad](http://twitter.com/search?q=plaza+dignidad) | N/A |
 | 27 | [desbordes](http://twitter.com/search?q=desbordes) | N/A |
 | 28 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
-| 29 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
-| 30 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
-| 31 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
-| 32 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
-| 33 | [Nattino](http://twitter.com/search?q=Nattino) | N/A |
-| 34 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
-| 35 | [Baquedano](http://twitter.com/search?q=Baquedano) | N/A |
+| 29 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
+| 30 | [Mosa](http://twitter.com/search?q=Mosa) | N/A |
+| 31 | [Alexis](http://twitter.com/search?q=Alexis) | Alexis is a unisex name of Greek origin, derived from the Greek word alexein, meaning "to defend". It is commonly used as both a given name and surname. |
+| 32 | [Nattino](http://twitter.com/search?q=Nattino) | N/A |
+| 33 | [Derechos Humanos](http://twitter.com/search?q=Derechos+Humanos) | N/A |
+| 34 | [Molotov](http://twitter.com/search?q=Molotov) | N/A |
+| 35 | [baquedano](http://twitter.com/search?q=baquedano) | N/A |
 | 36 | [Parque Arauco](http://twitter.com/search?q=Parque+Arauco) | N/A |
 | 37 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 38 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 39 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
-| 40 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
-| 41 | [Jorge Said](http://twitter.com/search?q=Jorge+Said) | N/A |
-| 42 | [FA y PC](http://twitter.com/search?q=FA+y+PC) | N/A |
-| 43 | [Davor](http://twitter.com/search?q=Davor) | N/A |
-| 44 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 45 | [Parada](http://twitter.com/search?q=Parada) | N/A |
-| 46 | [Escuela militar](http://twitter.com/search?q=Escuela+militar) | N/A |
-| 47 | [Catrillanca](http://twitter.com/search?q=Catrillanca) | N/A |
-| 48 | [Pablo Chill-E](http://twitter.com/search?q=Pablo+Chill-E) | N/A |
-| 49 | [Los Leones](http://twitter.com/search?q=Los+Leones) | N/A |
-| 50 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 38 | [Amnistía Internacional](http://twitter.com/search?q=Amnist%c3%ada+Internacional) | N/A |
+| 39 | [Jorge Said](http://twitter.com/search?q=Jorge+Said) | N/A |
+| 40 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 41 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
+| 42 | [Davor](http://twitter.com/search?q=Davor) | N/A |
+| 43 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 44 | [Parada](http://twitter.com/search?q=Parada) | N/A |
+| 45 | [Escuela militar](http://twitter.com/search?q=Escuela+militar) | N/A |
+| 46 | [Catrillanca](http://twitter.com/search?q=Catrillanca) | N/A |
+| 47 | [Pablo Chill-E](http://twitter.com/search?q=Pablo+Chill-E) | N/A |
+| 48 | [Los Leones](http://twitter.com/search?q=Los+Leones) | N/A |
+| 49 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 50 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-03-30 06:17:24 UTC`
+📆 Last Updated: `2023-03-30 07:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 | 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 4 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 5 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
-| 6 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 7 | [kita doakan erick](http://twitter.com/search?q=kita+doakan+erick) | N/A |
-| 8 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
-| 9 | [#MARKLEE2NDSOLO](http://twitter.com/search?q=%23MARKLEE2NDSOLO) | N/A |
+| 5 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 6 | [kita doakan erick](http://twitter.com/search?q=kita+doakan+erick) | N/A |
+| 7 | [#MARKLEE2NDSOLO](http://twitter.com/search?q=%23MARKLEE2NDSOLO) | N/A |
+| 8 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
+| 9 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
 | 10 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 11 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
-| 12 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 13 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 14 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
-| 15 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
-| 16 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 17 | [mobil perang](http://twitter.com/search?q=mobil+perang) | N/A |
-| 18 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
-| 19 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
-| 20 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
+| 11 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 12 | [#WayV_Phantom_in_JAKARTA](http://twitter.com/search?q=%23WayV_Phantom_in_JAKARTA) | N/A |
+| 13 | [#SahabatTerbaikToppers](http://twitter.com/search?q=%23SahabatTerbaikToppers) | N/A |
+| 14 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
+| 15 | [Lengkapi](http://twitter.com/search?q=Lengkapi) | N/A |
+| 16 | [Jowi](http://twitter.com/search?q=Jowi) | N/A |
+| 17 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 18 | [Tokopedia Care](http://twitter.com/search?q=Tokopedia+Care) | N/A |
+| 19 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
+| 20 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
 | 21 | [Golput](http://twitter.com/search?q=Golput) | N/A |
-| 22 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 23 | [nmixx first win](http://twitter.com/search?q=nmixx+first+win) | N/A |
-| 24 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
-| 25 | [Koster](http://twitter.com/search?q=Koster) | N/A |
-| 26 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 27 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
-| 28 | [Siang](http://twitter.com/search?q=Siang) | N/A |
-| 29 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
-| 30 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
-| 31 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
-| 32 | [Johan Budi](http://twitter.com/search?q=Johan+Budi) | N/A |
+| 22 | [HAECHAN LEE](http://twitter.com/search?q=HAECHAN+LEE) | N/A |
+| 23 | [Newt](http://twitter.com/search?q=Newt) | N/A |
+| 24 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 25 | [NMIXX FIRST WIN](http://twitter.com/search?q=NMIXX+FIRST+WIN) | N/A |
+| 26 | [Wood](http://twitter.com/search?q=Wood) | N/A |
+| 27 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
+| 28 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 29 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
+| 30 | [HAPPY BIRTHDAY SUNSHINE MINO](http://twitter.com/search?q=HAPPY+BIRTHDAY+SUNSHINE+MINO) | N/A |
+| 31 | [ROSÉ HOSTS SULWHASOO](http://twitter.com/search?q=ROS%c3%89+HOSTS+SULWHASOO) | N/A |
+| 32 | [ALL EYES ON JISOO](http://twitter.com/search?q=ALL+EYES+ON+JISOO) | N/A |
 | 33 | [Bu Thomas](http://twitter.com/search?q=Bu+Thomas) | N/A |
-| 34 | [CAT 2B](http://twitter.com/search?q=CAT+2B) | N/A |
-| 35 | [JENO BLONDE](http://twitter.com/search?q=JENO+BLONDE) | N/A |
-| 36 | [Kampung Kawe](http://twitter.com/search?q=Kampung+Kawe) | N/A |
+| 34 | [CAT 2A](http://twitter.com/search?q=CAT+2A) | N/A |
+| 35 | [Johan Budi](http://twitter.com/search?q=Johan+Budi) | N/A |
+| 36 | [Puas](http://twitter.com/search?q=Puas) | N/A |
 | 37 | [Win x Lazada11Year](http://twitter.com/search?q=Win+x+Lazada11Year) | N/A |
-| 38 | [Puas](http://twitter.com/search?q=Puas) | N/A |
-| 39 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
-| 40 | [JUNGWON ROVER](http://twitter.com/search?q=JUNGWON+ROVER) | N/A |
-| 41 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
-| 42 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
-| 43 | [THE SCENT NOTES D2](http://twitter.com/search?q=THE+SCENT+NOTES+D2) | N/A |
-| 44 | [ANGIN](http://twitter.com/search?q=ANGIN) | N/A |
-| 45 | [Usmar Ismail](http://twitter.com/search?q=Usmar+Ismail) | N/A |
-| 46 | [Pak Erick](http://twitter.com/search?q=Pak+Erick) | N/A |
+| 38 | [Manzone](http://twitter.com/search?q=Manzone) | N/A |
+| 39 | [Teddy Minahasa](http://twitter.com/search?q=Teddy+Minahasa) | N/A |
+| 40 | [Hokky](http://twitter.com/search?q=Hokky) | N/A |
+| 41 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 42 | [BTS BTS BTS](http://twitter.com/search?q=BTS+BTS+BTS) | BTS BTS BTS is an acronym for the South Korean boy band Bangtan Boys, also known as BTS. It is used as a way to show support and enthusiasm for the group. In English, it can be translated to "Go BTS!" |
+| 43 | [Kenakalan](http://twitter.com/search?q=Kenakalan) | N/A |
+| 44 | [CAT 3](http://twitter.com/search?q=CAT+3) | N/A |
+| 45 | [Angin](http://twitter.com/search?q=Angin) | N/A |
+| 46 | [THE SCENT NOTES D2](http://twitter.com/search?q=THE+SCENT+NOTES+D2) | N/A |
 | 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 48 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 49 | [FLOWER MV TEASER](http://twitter.com/search?q=FLOWER+MV+TEASER) | N/A |
+| 48 | [Pak Erick](http://twitter.com/search?q=Pak+Erick) | N/A |
+| 49 | [Podong](http://twitter.com/search?q=Podong) | N/A |
 
 
 

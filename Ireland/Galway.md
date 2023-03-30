@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-03-30 06:17:16 UTC`
+📆 Last Updated: `2023-03-30 07:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,48 @@ This is top 50 for [Ireland](</Ireland>)
 | 6 | [Spar](http://twitter.com/search?q=Spar) | N/A |
 | 7 | [Barry Cowen](http://twitter.com/search?q=Barry+Cowen) | N/A |
 | 8 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 9 | [DART](http://twitter.com/search?q=DART) | N/A |
-| 10 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
-| 11 | [Scott McTominay](http://twitter.com/search?q=Scott+McTominay) | N/A |
-| 12 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
-| 13 | [neasa hourigan](http://twitter.com/search?q=neasa+hourigan) | N/A |
-| 14 | [#NoConfidenceMotion](http://twitter.com/search?q=%23NoConfidenceMotion) | N/A |
-| 15 | [#AmChamGlobalBiz23](http://twitter.com/search?q=%23AmChamGlobalBiz23) | N/A |
-| 16 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 17 | [#ccbreakfast](http://twitter.com/search?q=%23ccbreakfast) | N/A |
-| 18 | [For the Love of Dogs](http://twitter.com/search?q=For+the+Love+of+Dogs) | N/A |
-| 19 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
-| 20 | [Neale](http://twitter.com/search?q=Neale) | N/A |
-| 21 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
-| 22 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
-| 23 | [mr burke](http://twitter.com/search?q=mr+burke) | N/A |
-| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 25 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 26 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
-| 27 | [dail](http://twitter.com/search?q=dail) | N/A |
-| 28 | [ogbene](http://twitter.com/search?q=ogbene) | N/A |
-| 29 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 30 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
-| 31 | [shamrock rovers](http://twitter.com/search?q=shamrock+rovers) | N/A |
-| 32 | [keith long](http://twitter.com/search?q=keith+long) | N/A |
-| 33 | [emlyn](http://twitter.com/search?q=emlyn) | N/A |
-| 34 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 35 | [Loyalist](http://twitter.com/search?q=Loyalist) | N/A |
-| 36 | [davy fitz](http://twitter.com/search?q=davy+fitz) | N/A |
-| 37 | [Shane](http://twitter.com/search?q=Shane) | N/A |
-| 38 | [shelbourne](http://twitter.com/search?q=shelbourne) | N/A |
+| 9 | [Wenger](http://twitter.com/search?q=Wenger) | N/A |
+| 10 | [neasa hourigan](http://twitter.com/search?q=neasa+hourigan) | N/A |
+| 11 | [#NoConfidenceMotion](http://twitter.com/search?q=%23NoConfidenceMotion) | N/A |
+| 12 | [#AmChamGlobalBiz23](http://twitter.com/search?q=%23AmChamGlobalBiz23) | N/A |
+| 13 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 14 | [Katie McCabe](http://twitter.com/search?q=Katie+McCabe) | N/A |
+| 15 | [#ccbreakfast](http://twitter.com/search?q=%23ccbreakfast) | N/A |
+| 16 | [for the love of dogs](http://twitter.com/search?q=for+the+love+of+dogs) | N/A |
+| 17 | [Defence Forces](http://twitter.com/search?q=Defence+Forces) | N/A |
+| 18 | [Dart](http://twitter.com/search?q=Dart) | N/A |
+| 19 | [Neale](http://twitter.com/search?q=Neale) | N/A |
+| 20 | [Martin Nolan](http://twitter.com/search?q=Martin+Nolan) | N/A |
+| 21 | [Enoch](http://twitter.com/search?q=Enoch) | N/A |
+| 22 | [mr burke](http://twitter.com/search?q=mr+burke) | N/A |
+| 23 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 24 | [Battersea](http://twitter.com/search?q=Battersea) | N/A |
+| 25 | [ogbene](http://twitter.com/search?q=ogbene) | N/A |
+| 26 | [Burkes](http://twitter.com/search?q=Burkes) | N/A |
+| 27 | [shamrock rovers](http://twitter.com/search?q=shamrock+rovers) | N/A |
+| 28 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 29 | [keith long](http://twitter.com/search?q=keith+long) | N/A |
+| 30 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 31 | [emlyn](http://twitter.com/search?q=emlyn) | N/A |
+| 32 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 33 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 34 | [Loyalist](http://twitter.com/search?q=Loyalist) | N/A |
+| 35 | [davy fitz](http://twitter.com/search?q=davy+fitz) | N/A |
+| 36 | [Dail](http://twitter.com/search?q=Dail) | N/A |
+| 37 | [shelbourne](http://twitter.com/search?q=shelbourne) | N/A |
+| 38 | [Shane](http://twitter.com/search?q=Shane) | N/A |
 | 39 | [Fianna Fáil](http://twitter.com/search?q=Fianna+F%c3%a1il) | N/A |
 | 40 | [thurles](http://twitter.com/search?q=thurles) | N/A |
-| 41 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 42 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
-| 43 | [rest in peace paul](http://twitter.com/search?q=rest+in+peace+paul) | N/A |
-| 44 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 45 | [seanad](http://twitter.com/search?q=seanad) | N/A |
-| 46 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 47 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 48 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 49 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 41 | [Hot Fuzz](http://twitter.com/search?q=Hot+Fuzz) | N/A |
+| 42 | [rest in peace paul](http://twitter.com/search?q=rest+in+peace+paul) | N/A |
+| 43 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 44 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 45 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 46 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 47 | [eimear](http://twitter.com/search?q=eimear) | N/A |
+| 48 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
+| 49 | [Gaelic](http://twitter.com/search?q=Gaelic) | N/A |
+| 50 | [Mansion House](http://twitter.com/search?q=Mansion+House) | N/A |
 
 
 

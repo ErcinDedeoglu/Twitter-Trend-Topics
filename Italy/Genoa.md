@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-30 06:17:19 UTC`
+📆 Last Updated: `2023-03-30 07:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Italy](</Italy>)
 | 4 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
 | 5 | [rosalbino](http://twitter.com/search?q=rosalbino) | N/A |
 | 6 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 7 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 8 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 9 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 10 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
-| 11 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 12 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 13 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
-| 14 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 15 | [Buongiorno Stefany](http://twitter.com/search?q=Buongiorno+Stefany) | N/A |
-| 16 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 17 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 18 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
-| 19 | [Buongiorno Roberta](http://twitter.com/search?q=Buongiorno+Roberta) | N/A |
-| 20 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
-| 21 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 22 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 23 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 24 | [della valle](http://twitter.com/search?q=della+valle) | N/A |
-| 25 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 26 | [mara maionchi](http://twitter.com/search?q=mara+maionchi) | N/A |
-| 27 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
-| 28 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 29 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 7 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 8 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 9 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 10 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 11 | [Boccia](http://twitter.com/search?q=Boccia) | N/A |
+| 12 | [Campobasso](http://twitter.com/search?q=Campobasso) | N/A |
+| 13 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 14 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 15 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 16 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
+| 17 | [Buongiorno Patrizia](http://twitter.com/search?q=Buongiorno+Patrizia) | N/A |
+| 18 | [Umberto](http://twitter.com/search?q=Umberto) | N/A |
+| 19 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 20 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 21 | [PNNR](http://twitter.com/search?q=PNNR) | N/A |
+| 22 | [Buongiorno Carmen](http://twitter.com/search?q=Buongiorno+Carmen) | N/A |
+| 23 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 24 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
+| 25 | [L'uomo](http://twitter.com/search?q=L%27uomo) | N/A |
+| 26 | [della valle](http://twitter.com/search?q=della+valle) | N/A |
+| 27 | [mara maionchi](http://twitter.com/search?q=mara+maionchi) | N/A |
+| 28 | [Buongiorno Pinuccio](http://twitter.com/search?q=Buongiorno+Pinuccio) | N/A |
+| 29 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
 | 30 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 31 | [sentito](http://twitter.com/search?q=sentito) | N/A |
-| 32 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 33 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 34 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 35 | [Natalie Imbruglia](http://twitter.com/search?q=Natalie+Imbruglia) | N/A |
-| 36 | [nanni moretti](http://twitter.com/search?q=nanni+moretti) | N/A |
-| 37 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 38 | [Palla](http://twitter.com/search?q=Palla) | N/A |
-| 39 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 40 | [cappellini](http://twitter.com/search?q=cappellini) | N/A |
-| 41 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
-| 42 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 43 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 44 | [L'uomo](http://twitter.com/search?q=L%27uomo) | N/A |
-| 45 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
-| 46 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 47 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
+| 31 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 32 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 33 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 34 | [Il 30](http://twitter.com/search?q=Il+30) | N/A |
+| 35 | [Istituto Luce](http://twitter.com/search?q=Istituto+Luce) | N/A |
+| 36 | [Natalie Imbruglia](http://twitter.com/search?q=Natalie+Imbruglia) | N/A |
+| 37 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 38 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 39 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 40 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 41 | [ISEE](http://twitter.com/search?q=ISEE) | N/A |
+| 42 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 43 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 44 | [Gennaro](http://twitter.com/search?q=Gennaro) | N/A |
+| 45 | [Buongiorno Samantha](http://twitter.com/search?q=Buongiorno+Samantha) | N/A |
+| 46 | [Pierino](http://twitter.com/search?q=Pierino) | N/A |
+| 47 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-03-30 06:17:17 UTC`
+📆 Last Updated: `2023-03-30 07:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [France](</France>)
 | 2 | [#jeudiphoto](http://twitter.com/search?q=%23jeudiphoto) | N/A |
 | 3 | [#MaterielNetOffreMoiUnPC](http://twitter.com/search?q=%23MaterielNetOffreMoiUnPC) | N/A |
 | 4 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
-| 5 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
+| 5 | [#NintendAlerts](http://twitter.com/search?q=%23NintendAlerts) | N/A |
 | 6 | [Pif Gadget](http://twitter.com/search?q=Pif+Gadget) | N/A |
 | 7 | [SAMU](http://twitter.com/search?q=SAMU) | N/A |
 | 8 | [ZLAN](http://twitter.com/search?q=ZLAN) | N/A |
 | 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 10 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 11 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
-| 12 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
-| 13 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
-| 14 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
-| 15 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 16 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 17 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 18 | [Picsou](http://twitter.com/search?q=Picsou) | N/A |
-| 19 | [Albane](http://twitter.com/search?q=Albane) | N/A |
-| 20 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
-| 21 | [Serge](http://twitter.com/search?q=Serge) | N/A |
-| 22 | [Frédéric Lefebvre](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric+Lefebvre) | N/A |
-| 23 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 24 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 25 | [Pharos](http://twitter.com/search?q=Pharos) | N/A |
-| 26 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 27 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
-| 28 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 29 | [Dawala](http://twitter.com/search?q=Dawala) | N/A |
-| 30 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 31 | [Streisand](http://twitter.com/search?q=Streisand) | N/A |
-| 32 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 33 | [dugarry](http://twitter.com/search?q=dugarry) | N/A |
-| 34 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 10 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
+| 11 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 12 | [Delormeau](http://twitter.com/search?q=Delormeau) | N/A |
+| 13 | [Curaçao](http://twitter.com/search?q=Cura%c3%a7ao) | N/A |
+| 14 | [Terence Hill](http://twitter.com/search?q=Terence+Hill) | N/A |
+| 15 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 16 | [Hautes-Alpes](http://twitter.com/search?q=Hautes-Alpes) | N/A |
+| 17 | [Florian Telle](http://twitter.com/search?q=Florian+Telle) | N/A |
+| 18 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 19 | [Sainte-Soline](http://twitter.com/search?q=Sainte-Soline) | N/A |
+| 20 | [Serge](http://twitter.com/search?q=Serge) | N/A |
+| 21 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 22 | [Albane](http://twitter.com/search?q=Albane) | N/A |
+| 23 | [Picsou](http://twitter.com/search?q=Picsou) | N/A |
+| 24 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 25 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
+| 26 | [Lucile](http://twitter.com/search?q=Lucile) | N/A |
+| 27 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 28 | [Pharos](http://twitter.com/search?q=Pharos) | N/A |
+| 29 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 30 | [Serre-Ponçon](http://twitter.com/search?q=Serre-Pon%c3%a7on) | N/A |
+| 31 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 32 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 33 | [Dawala](http://twitter.com/search?q=Dawala) | N/A |
+| 34 | [dugarry](http://twitter.com/search?q=dugarry) | N/A |
 | 35 | [Bernat](http://twitter.com/search?q=Bernat) | Bernat is a brand of yarn and craft materials. It is a Spanish word meaning "wool". |
-| 36 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
-| 37 | [Luther](http://twitter.com/search?q=Luther) | N/A |
-| 38 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 39 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
-| 40 | [Geneviève](http://twitter.com/search?q=Genevi%c3%a8ve) | N/A |
-| 41 | [Bakambu](http://twitter.com/search?q=Bakambu) | N/A |
-| 42 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 43 | [Orlia](http://twitter.com/search?q=Orlia) | N/A |
-| 44 | [Patrick Cohen](http://twitter.com/search?q=Patrick+Cohen) | N/A |
-| 45 | [Bassem](http://twitter.com/search?q=Bassem) | N/A |
-| 46 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
-| 47 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
-| 48 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 49 | [Mulder](http://twitter.com/search?q=Mulder) | N/A |
-| 50 | [SMUR](http://twitter.com/search?q=SMUR) | N/A |
+| 36 | [Sifaoui](http://twitter.com/search?q=Sifaoui) | N/A |
+| 37 | [Di Stefano](http://twitter.com/search?q=Di+Stefano) | N/A |
+| 38 | [Luther](http://twitter.com/search?q=Luther) | N/A |
+| 39 | [Bakambu](http://twitter.com/search?q=Bakambu) | N/A |
+| 40 | [Orlia](http://twitter.com/search?q=Orlia) | N/A |
+| 41 | [Clayface](http://twitter.com/search?q=Clayface) | N/A |
+| 42 | [Le Monde](http://twitter.com/search?q=Le+Monde) | N/A |
+| 43 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 44 | [Frédéric Lefebvre](http://twitter.com/search?q=Fr%c3%a9d%c3%a9ric+Lefebvre) | N/A |
+| 45 | [Rahan](http://twitter.com/search?q=Rahan) | N/A |
+| 46 | [Frédérique Vidal](http://twitter.com/search?q=Fr%c3%a9d%c3%a9rique+Vidal) | N/A |
+| 47 | [Parcoursup](http://twitter.com/search?q=Parcoursup) | N/A |
+| 48 | [Boyard](http://twitter.com/search?q=Boyard) | N/A |
+| 49 | [SMUR](http://twitter.com/search?q=SMUR) | N/A |
+| 50 | [Streisand](http://twitter.com/search?q=Streisand) | N/A |
 
 
 

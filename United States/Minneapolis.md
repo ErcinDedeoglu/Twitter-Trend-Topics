@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-03-30 06:17:46 UTC`
+📆 Last Updated: `2023-03-30 07:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Booker](http://twitter.com/search?q=Booker) | Booker is a term used to refer to someone who books or arranges appointments, events, or reservations. It is often used in the context of a person who works in the hospitality industry. |
-| 2 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 3 | [Team MVP](http://twitter.com/search?q=Team+MVP) | N/A |
-| 4 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 5 | [Jaden McDaniels](http://twitter.com/search?q=Jaden+McDaniels) | N/A |
-| 6 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 7 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 8 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 2 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
+| 3 | [Jaden McDaniels](http://twitter.com/search?q=Jaden+McDaniels) | N/A |
+| 4 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 5 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 6 | [Massie](http://twitter.com/search?q=Massie) | N/A |
+| 7 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 8 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
 | 9 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 10 | [Massie](http://twitter.com/search?q=Massie) | N/A |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 12 | [Bowman](http://twitter.com/search?q=Bowman) | N/A |
+| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 11 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 12 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
 | 13 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 14 | [jimmy kimmel](http://twitter.com/search?q=jimmy+kimmel) | N/A |
-| 15 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 16 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 17 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
-| 18 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 19 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 20 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
-| 21 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
-| 22 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
-| 23 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 14 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 15 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
+| 16 | [Weisselberg](http://twitter.com/search?q=Weisselberg) | N/A |
+| 17 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 18 | [#Wordle649](http://twitter.com/search?q=%23Wordle649) | N/A |
+| 19 | [Keegan Murray](http://twitter.com/search?q=Keegan+Murray) | Keegan Murray is a name of Irish origin. It is derived from the Gaelic name Mac Aodhagáin, which means "son of Aodhagán". The name Aodhagán is derived from the Irish word for fire, aodh. Therefore, Keegan Murray can be translated to mean "son of fire". |
+| 20 | [Uncle Clifford](http://twitter.com/search?q=Uncle+Clifford) | N/A |
+| 21 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 22 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 23 | [SOCD](http://twitter.com/search?q=SOCD) | N/A |
 | 24 | [Chris Paul](http://twitter.com/search?q=Chris+Paul) | Chris Paul is the name of an American professional basketball player. He currently plays for the Oklahoma City Thunder in the National Basketball Association (NBA). His full name is Christopher Emmanuel Paul. He is a nine-time NBA All-Star and has won two Olympic gold medals. |
-| 25 | [SOCD](http://twitter.com/search?q=SOCD) | N/A |
-| 26 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 27 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
-| 28 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 29 | [THE DROUGHT IS OVER](http://twitter.com/search?q=THE+DROUGHT+IS+OVER) | N/A |
-| 30 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
-| 31 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
-| 32 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
-| 33 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
-| 34 | [Grace Randolph](http://twitter.com/search?q=Grace+Randolph) | N/A |
-| 35 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 36 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 37 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
-| 38 | [Logan Lerman](http://twitter.com/search?q=Logan+Lerman) | N/A |
-| 39 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 40 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
-| 41 | [Arming](http://twitter.com/search?q=Arming) | N/A |
-| 42 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 43 | [Gustavsson](http://twitter.com/search?q=Gustavsson) | N/A |
-| 44 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
-| 45 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
-| 46 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
-| 47 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 48 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 49 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 50 | [Bullock](http://twitter.com/search?q=Bullock) | Bullock is an old English word for a young bull, usually one that has not yet been castrated. It can also be used to refer to a young, inexperienced person. |
+| 25 | [Logan Lerman](http://twitter.com/search?q=Logan+Lerman) | N/A |
+| 26 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 27 | [King Charles III](http://twitter.com/search?q=King+Charles+III) | N/A |
+| 28 | [Doris Burke](http://twitter.com/search?q=Doris+Burke) | N/A |
+| 29 | [Durant](http://twitter.com/search?q=Durant) | Durant is a surname of French origin. It is derived from the Old French word "durant" meaning "enduring". The name is also associated with the Latin word "durare" which means "to last". |
+| 30 | [THE DROUGHT IS OVER](http://twitter.com/search?q=THE+DROUGHT+IS+OVER) | N/A |
+| 31 | [Grace Randolph](http://twitter.com/search?q=Grace+Randolph) | N/A |
+| 32 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 33 | [Ayton](http://twitter.com/search?q=Ayton) | Ayton is a small village in North Yorkshire, England. It is located near the town of Scarborough and has a population of around 1,000 people. The name Ayton is derived from the Old English words 'aeg' meaning 'island' and 'tun' meaning 'enclosure'. |
+| 34 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 35 | [Rule Against Perpetuities](http://twitter.com/search?q=Rule+Against+Perpetuities) | N/A |
+| 36 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
+| 37 | [Gustavsson](http://twitter.com/search?q=Gustavsson) | N/A |
+| 38 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 39 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 40 | [Grayson Allen](http://twitter.com/search?q=Grayson+Allen) | Grayson Allen is an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). He played college basketball for Duke University, where he was a three-time All-American and the ACC Player of the Year in 2018. |
+| 41 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 42 | [Arming](http://twitter.com/search?q=Arming) | N/A |
+| 43 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
+| 44 | [Omnitrix](http://twitter.com/search?q=Omnitrix) | N/A |
+| 45 | [Keyblade](http://twitter.com/search?q=Keyblade) | N/A |
+| 46 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 47 | [Skully](http://twitter.com/search?q=Skully) | N/A |
+| 48 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 49 | [Klingberg](http://twitter.com/search?q=Klingberg) | N/A |
+| 50 | [Carolyn](http://twitter.com/search?q=Carolyn) | N/A |
 
 
 
