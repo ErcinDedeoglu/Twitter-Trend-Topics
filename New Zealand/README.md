@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-31 12:19:38 UTC`
+📆 Last Updated: `2023-03-31 13:20:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for New Zealand
 | 1 | [Today FM](http://twitter.com/search?q=Today+FM) | N/A |
 | 2 | [Kiwibank](http://twitter.com/search?q=Kiwibank) | N/A |
 | 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [Raiders](http://twitter.com/search?q=Raiders) | Raiders is a term used to describe a group of people who launch a surprise attack on an enemy or target. It is often used in the context of military operations, but can also be used to describe any kind of surprise attack. |
-| 5 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 6 | [Tova](http://twitter.com/search?q=Tova) | N/A |
+| 4 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 5 | [Tova](http://twitter.com/search?q=Tova) | N/A |
+| 6 | [#NRLRaidersPanthers](http://twitter.com/search?q=%23NRLRaidersPanthers) | N/A |
 | 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 8 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
 | 9 | [New Zealander of the Year](http://twitter.com/search?q=New+Zealander+of+the+Year) | N/A |
@@ -34,20 +34,20 @@ This is top 50 for New Zealand
 | 17 | [nzer](http://twitter.com/search?q=nzer) | N/A |
 | 18 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 19 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 20 | [Mbie](http://twitter.com/search?q=Mbie) | N/A |
-| 21 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 20 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 21 | [Mbie](http://twitter.com/search?q=Mbie) | N/A |
 | 22 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 23 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
 | 24 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 25 | [Garner](http://twitter.com/search?q=Garner) | N/A |
 | 26 | [Moana Pasifika](http://twitter.com/search?q=Moana+Pasifika) | N/A |
 | 27 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 28 | [Anti-Corruption Commission](http://twitter.com/search?q=Anti-Corruption+Commission) | N/A |
-| 29 | [Shaneel Lal](http://twitter.com/search?q=Shaneel+Lal) | N/A |
+| 28 | [anti-corruption commission](http://twitter.com/search?q=anti-corruption+commission) | N/A |
+| 29 | [shaneel lal](http://twitter.com/search?q=shaneel+lal) | N/A |
 | 30 | [North Shore](http://twitter.com/search?q=North+Shore) | N/A |
 | 31 | [Marama](http://twitter.com/search?q=Marama) | N/A |
 | 32 | [Bush](http://twitter.com/search?q=Bush) | N/A |
-| 33 | [northland](http://twitter.com/search?q=northland) | N/A |
+| 33 | [Northland](http://twitter.com/search?q=Northland) | N/A |
 | 34 | [oias](http://twitter.com/search?q=oias) | N/A |
 | 35 | [#FreereadKU](http://twitter.com/search?q=%23FreereadKU) | N/A |
 | 36 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for New Zealand
 | 39 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 40 | [minho](http://twitter.com/search?q=minho) | N/A |
 | 41 | [Sharma](http://twitter.com/search?q=Sharma) | N/A |
-| 42 | [chantelle](http://twitter.com/search?q=chantelle) | N/A |
+| 42 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
 | 43 | [Collins](http://twitter.com/search?q=Collins) | N/A |
 | 44 | [Rangi](http://twitter.com/search?q=Rangi) | N/A |
 | 45 | [Hilarious](http://twitter.com/search?q=Hilarious) | N/A |

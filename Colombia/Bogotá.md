@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-03-31 12:18:44 UTC`
+📆 Last Updated: `2023-03-31 13:19:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Colombia](</Colombia>)
 | ------- | ------------ | ------------ |
 | 1 | [#UnAvionEs](http://twitter.com/search?q=%23UnAvionEs) | N/A |
 | 2 | [#TenemosDerechoA](http://twitter.com/search?q=%23TenemosDerechoA) | N/A |
-| 3 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 4 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
-| 5 | [Emilio Tapia](http://twitter.com/search?q=Emilio+Tapia) | N/A |
+| 3 | [#placidodomingo](http://twitter.com/search?q=%23placidodomingo) | N/A |
+| 4 | [Emilio Tapia](http://twitter.com/search?q=Emilio+Tapia) | N/A |
+| 5 | [Nevado del Ruiz](http://twitter.com/search?q=Nevado+del+Ruiz) | N/A |
 | 6 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 7 | [#RenuncieCorcho](http://twitter.com/search?q=%23RenuncieCorcho) | N/A |
-| 8 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 9 | [#cuidadosintensivospara](http://twitter.com/search?q=%23cuidadosintensivospara) | N/A |
+| 7 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 8 | [#RenuncieCorcho](http://twitter.com/search?q=%23RenuncieCorcho) | N/A |
+| 9 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
 | 10 | [Ultra Air](http://twitter.com/search?q=Ultra+Air) | N/A |
-| 11 | [Catatumbo](http://twitter.com/search?q=Catatumbo) | N/A |
-| 12 | [El ELN](http://twitter.com/search?q=El+ELN) | El ELN is an acronym for the National Liberation Army, a Marxist-Leninist guerrilla group in Colombia. In English, it means the National Liberation Army. |
-| 13 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
-| 14 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
-| 15 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
-| 16 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 17 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 18 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
-| 19 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 20 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
-| 21 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
-| 22 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 23 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 24 | [Satena](http://twitter.com/search?q=Satena) | N/A |
-| 25 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 26 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 27 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
-| 28 | [Jordan Barrera](http://twitter.com/search?q=Jordan+Barrera) | N/A |
-| 29 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
-| 30 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
-| 31 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 32 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
-| 33 | [Naranja](http://twitter.com/search?q=Naranja) | N/A |
-| 34 | [Antonio García](http://twitter.com/search?q=Antonio+Garc%c3%ada) | N/A |
-| 35 | [all eyes on](http://twitter.com/search?q=all+eyes+on) | N/A |
-| 36 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 12 | [Catatumbo](http://twitter.com/search?q=Catatumbo) | N/A |
+| 13 | [El ELN](http://twitter.com/search?q=El+ELN) | El ELN is an acronym for the National Liberation Army, a Marxist-Leninist guerrilla group in Colombia. In English, it means the National Liberation Army. |
+| 14 | [Populismo](http://twitter.com/search?q=Populismo) | N/A |
+| 15 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 16 | [San Andrés](http://twitter.com/search?q=San+Andr%c3%a9s) | N/A |
+| 17 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 18 | [Avianca](http://twitter.com/search?q=Avianca) | N/A |
+| 19 | [Gaviria](http://twitter.com/search?q=Gaviria) | N/A |
+| 20 | [Herazo](http://twitter.com/search?q=Herazo) | N/A |
+| 21 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
+| 22 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 23 | [Rappi](http://twitter.com/search?q=Rappi) | N/A |
+| 24 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
+| 25 | [Satena](http://twitter.com/search?q=Satena) | N/A |
+| 26 | [Naranja](http://twitter.com/search?q=Naranja) | N/A |
+| 27 | [Armero](http://twitter.com/search?q=Armero) | N/A |
+| 28 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 29 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 30 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
+| 31 | [Classy 101](http://twitter.com/search?q=Classy+101) | N/A |
+| 32 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 33 | [Jordan Barrera](http://twitter.com/search?q=Jordan+Barrera) | N/A |
+| 34 | [all eyes on](http://twitter.com/search?q=all+eyes+on) | N/A |
+| 35 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 36 | [Tolima](http://twitter.com/search?q=Tolima) | N/A |
 | 37 | [Beta](http://twitter.com/search?q=Beta) | N/A |
 | 38 | [Colombianos](http://twitter.com/search?q=Colombianos) | N/A |
-| 39 | [Perafan](http://twitter.com/search?q=Perafan) | N/A |
-| 40 | [Matador](http://twitter.com/search?q=Matador) | N/A |
+| 39 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 40 | [Perafan](http://twitter.com/search?q=Perafan) | N/A |
 | 41 | [Buzz Lightyear](http://twitter.com/search?q=Buzz+Lightyear) | N/A |
-| 42 | [Singapur](http://twitter.com/search?q=Singapur) | N/A |
-| 43 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
-| 44 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
-| 45 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 46 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 47 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
-| 48 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
-| 49 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
-| 50 | [bethlemitas](http://twitter.com/search?q=bethlemitas) | N/A |
+| 42 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 43 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 44 | [Westcol](http://twitter.com/search?q=Westcol) | N/A |
+| 45 | [Comunicación](http://twitter.com/search?q=Comunicaci%c3%b3n) | N/A |
+| 46 | [Diseño](http://twitter.com/search?q=Dise%c3%b1o) | N/A |
+| 47 | [Ibagué](http://twitter.com/search?q=Ibagu%c3%a9) | N/A |
+| 48 | [Abudinen](http://twitter.com/search?q=Abudinen) | N/A |
+| 49 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
+| 50 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
 
 
 

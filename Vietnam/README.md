@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-03-31 12:19:41 UTC`
+📆 Last Updated: `2023-03-31 13:20:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,11 +18,11 @@ This is top 50 for Vietnam
 | 1 | [#StayWithBibleBuild](http://twitter.com/search?q=%23StayWithBibleBuild) | N/A |
 | 2 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
 | 3 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 4 | [#BuildYourStyle](http://twitter.com/search?q=%23BuildYourStyle) | N/A |
-| 5 | [build sold out king](http://twitter.com/search?q=build+sold+out+king) | N/A |
-| 6 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 7 | [BSUMBODY TO SUMONE](http://twitter.com/search?q=BSUMBODY+TO+SUMONE) | N/A |
-| 8 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
+| 4 | [#HaierXBaristabb0un](http://twitter.com/search?q=%23HaierXBaristabb0un) | N/A |
+| 5 | [#BuildYourStyle](http://twitter.com/search?q=%23BuildYourStyle) | N/A |
+| 6 | [build sold out king](http://twitter.com/search?q=build+sold+out+king) | N/A |
+| 7 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
+| 8 | [BSUMBODY TO SUMONE](http://twitter.com/search?q=BSUMBODY+TO+SUMONE) | N/A |
 | 9 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
 | 10 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
 | 11 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for Vietnam
 | 23 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
 | 24 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 | 25 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 26 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
-| 27 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
-| 28 | [Saigon](http://twitter.com/search?q=Saigon) | N/A |
-| 29 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 26 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 27 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 28 | [Starknet](http://twitter.com/search?q=Starknet) | N/A |
+| 29 | [saigon](http://twitter.com/search?q=saigon) | N/A |
 | 30 | [fff asean party](http://twitter.com/search?q=fff+asean+party) | N/A |
 | 31 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
-| 32 | [Pallette](http://twitter.com/search?q=Pallette) | N/A |
+| 32 | [pallette](http://twitter.com/search?q=pallette) | N/A |
 | 33 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 34 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 35 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 36 | [Giao](http://twitter.com/search?q=Giao) | N/A |
-| 37 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 38 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 39 | [Nhận](http://twitter.com/search?q=Nh%e1%ba%adn) | N/A |
-| 40 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 41 | [chúc](http://twitter.com/search?q=ch%c3%bac) | N/A |
-| 42 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 43 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
-| 44 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 45 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 46 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 47 | [European](http://twitter.com/search?q=European) | N/A |
-| 48 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 49 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
-| 50 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 35 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 36 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 37 | [giao](http://twitter.com/search?q=giao) | N/A |
+| 38 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 39 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 40 | [Nhận](http://twitter.com/search?q=Nh%e1%ba%adn) | N/A |
+| 41 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 42 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 43 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 44 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 45 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 46 | [hàn quốc](http://twitter.com/search?q=h%c3%a0n+qu%e1%bb%91c) | N/A |
+| 47 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 48 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 49 | [European](http://twitter.com/search?q=European) | N/A |
+| 50 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
 
 
 

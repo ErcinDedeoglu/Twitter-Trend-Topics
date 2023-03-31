@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-03-31 12:19:30 UTC`
+📆 Last Updated: `2023-03-31 13:20:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 2 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 3 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 4 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
-| 5 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 6 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
-| 7 | [Friyay](http://twitter.com/search?q=Friyay) | N/A |
+| 3 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 5 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 6 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
 | 8 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
 | 9 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 10 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 11 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 10 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
+| 11 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
 | 12 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 14 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 15 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 13 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 14 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 15 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
 | 16 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 17 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 18 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 19 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 20 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 21 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 22 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 23 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 24 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 26 | [Comey](http://twitter.com/search?q=Comey) | N/A |
-| 27 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 28 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 29 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 30 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 31 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
-| 32 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
-| 33 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 34 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
-| 35 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 36 | [Transgender Day of Visibility](http://twitter.com/search?q=Transgender+Day+of+Visibility) | N/A |
-| 37 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 38 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 39 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 40 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 41 | [DJ Drama](http://twitter.com/search?q=DJ+Drama) | N/A |
-| 42 | [Speaker of the House](http://twitter.com/search?q=Speaker+of+the+House) | N/A |
-| 43 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 44 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
-| 45 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 46 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 47 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 48 | [HDMI](http://twitter.com/search?q=HDMI) | N/A |
-| 49 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 17 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 18 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 19 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 20 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 21 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 22 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 23 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 24 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
+| 25 | [Where's Hunter](http://twitter.com/search?q=Where%27s+Hunter) | N/A |
+| 26 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 27 | [Comey](http://twitter.com/search?q=Comey) | N/A |
+| 28 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
+| 29 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 30 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 31 | [The Great Escape](http://twitter.com/search?q=The+Great+Escape) | N/A |
+| 32 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 33 | [DJ Drama](http://twitter.com/search?q=DJ+Drama) | N/A |
+| 34 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
+| 35 | [Speaker of the House](http://twitter.com/search?q=Speaker+of+the+House) | N/A |
+| 36 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 37 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 38 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 39 | [HDMI](http://twitter.com/search?q=HDMI) | N/A |
+| 40 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 41 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
+| 42 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 43 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
+| 44 | [Koch](http://twitter.com/search?q=Koch) | N/A |
+| 45 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 46 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 47 | [The Trump](http://twitter.com/search?q=The+Trump) | N/A |
+| 48 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 49 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
 
 
 
