@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-03-31 10:17:57 UTC`
+📆 Last Updated: `2023-03-31 11:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Ecuador
 | 7 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
 | 8 | [plaza lagos](http://twitter.com/search?q=plaza+lagos) | N/A |
 | 9 | [Obando](http://twitter.com/search?q=Obando) | N/A |
-| 10 | [Flopec](http://twitter.com/search?q=Flopec) | N/A |
+| 10 | [FLOPEC](http://twitter.com/search?q=FLOPEC) | N/A |
 | 11 | [Asamblea](http://twitter.com/search?q=Asamblea) | N/A |
 | 12 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 13 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
-| 14 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
-| 15 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
-| 16 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 17 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 18 | [Chucho Benítez](http://twitter.com/search?q=Chucho+Ben%c3%adtez) | N/A |
-| 19 | [MUERTE CRUZADA](http://twitter.com/search?q=MUERTE+CRUZADA) | N/A |
-| 20 | [collahuazo](http://twitter.com/search?q=collahuazo) | N/A |
-| 21 | [Dreer](http://twitter.com/search?q=Dreer) | N/A |
-| 22 | [rubén hernández](http://twitter.com/search?q=rub%c3%a9n+hern%c3%a1ndez) | N/A |
-| 23 | [de jesús](http://twitter.com/search?q=de+jes%c3%bas) | N/A |
-| 24 | [Christian Benítez](http://twitter.com/search?q=Christian+Ben%c3%adtez) | N/A |
-| 25 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 26 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 27 | [loor](http://twitter.com/search?q=loor) | N/A |
-| 28 | [Alausí](http://twitter.com/search?q=Alaus%c3%ad) | N/A |
-| 29 | [ciudad gótica](http://twitter.com/search?q=ciudad+g%c3%b3tica) | N/A |
-| 30 | [angie palacios](http://twitter.com/search?q=angie+palacios) | N/A |
-| 31 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 32 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
-| 33 | [comisión de fiscalización](http://twitter.com/search?q=comisi%c3%b3n+de+fiscalizaci%c3%b3n) | N/A |
-| 34 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 35 | [Pita](http://twitter.com/search?q=Pita) | N/A |
-| 36 | [Decente](http://twitter.com/search?q=Decente) | N/A |
-| 37 | [Calla](http://twitter.com/search?q=Calla) | N/A |
-| 38 | [maría de lourdes](http://twitter.com/search?q=mar%c3%ada+de+lourdes) | N/A |
-| 39 | [peculado](http://twitter.com/search?q=peculado) | N/A |
-| 40 | [Troya](http://twitter.com/search?q=Troya) | N/A |
-| 41 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 42 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
-| 43 | [Decencia](http://twitter.com/search?q=Decencia) | N/A |
-| 44 | [Mireya Pazmiño](http://twitter.com/search?q=Mireya+Pazmi%c3%b1o) | N/A |
-| 45 | [Neme](http://twitter.com/search?q=Neme) | N/A |
-| 46 | [Posta](http://twitter.com/search?q=Posta) | N/A |
-| 47 | [TERRORISMO](http://twitter.com/search?q=TERRORISMO) | N/A |
-| 48 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
-| 49 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
-| 50 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 13 | [Villavicencio](http://twitter.com/search?q=Villavicencio) | N/A |
+| 14 | [Borrero](http://twitter.com/search?q=Borrero) | N/A |
+| 15 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 16 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 17 | [Chucho Benítez](http://twitter.com/search?q=Chucho+Ben%c3%adtez) | N/A |
+| 18 | [Muerte Cruzada](http://twitter.com/search?q=Muerte+Cruzada) | N/A |
+| 19 | [dreer](http://twitter.com/search?q=dreer) | N/A |
+| 20 | [rubén hernández](http://twitter.com/search?q=rub%c3%a9n+hern%c3%a1ndez) | N/A |
+| 21 | [de jesús](http://twitter.com/search?q=de+jes%c3%bas) | N/A |
+| 22 | [Christian Benítez](http://twitter.com/search?q=Christian+Ben%c3%adtez) | N/A |
+| 23 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 24 | [Collahuazo](http://twitter.com/search?q=Collahuazo) | N/A |
+| 25 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 26 | [Loor](http://twitter.com/search?q=Loor) | N/A |
+| 27 | [Alausí](http://twitter.com/search?q=Alaus%c3%ad) | N/A |
+| 28 | [Ciudad Gótica](http://twitter.com/search?q=Ciudad+G%c3%b3tica) | N/A |
+| 29 | [angie palacios](http://twitter.com/search?q=angie+palacios) | N/A |
+| 30 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 31 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
+| 32 | [comisión de fiscalización](http://twitter.com/search?q=comisi%c3%b3n+de+fiscalizaci%c3%b3n) | N/A |
+| 33 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 34 | [Pita](http://twitter.com/search?q=Pita) | N/A |
+| 35 | [DECENTE](http://twitter.com/search?q=DECENTE) | N/A |
+| 36 | [Calla](http://twitter.com/search?q=Calla) | N/A |
+| 37 | [peculado](http://twitter.com/search?q=peculado) | N/A |
+| 38 | [Troya](http://twitter.com/search?q=Troya) | N/A |
+| 39 | [Posta](http://twitter.com/search?q=Posta) | N/A |
+| 40 | [entrega de credenciales](http://twitter.com/search?q=entrega+de+credenciales) | N/A |
+| 41 | [Decencia](http://twitter.com/search?q=Decencia) | N/A |
+| 42 | [Mireya Pazmiño](http://twitter.com/search?q=Mireya+Pazmi%c3%b1o) | N/A |
+| 43 | [Neme](http://twitter.com/search?q=Neme) | N/A |
+| 44 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 45 | [Terrorismo](http://twitter.com/search?q=Terrorismo) | N/A |
+| 46 | [María de Lourdes](http://twitter.com/search?q=Mar%c3%ada+de+Lourdes) | N/A |
+| 47 | [Zurita](http://twitter.com/search?q=Zurita) | N/A |
+| 48 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 49 | [Carondelet](http://twitter.com/search?q=Carondelet) | N/A |
+| 50 | [Ana Torroja](http://twitter.com/search?q=Ana+Torroja) | N/A |
 
 
 
