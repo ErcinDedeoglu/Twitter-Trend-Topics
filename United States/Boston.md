@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-31 04:17:58 UTC`
+📆 Last Updated: `2023-03-31 05:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 2 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 3 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 4 | [#BleedGreen](http://twitter.com/search?q=%23BleedGreen) | N/A |
-| 5 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 6 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 7 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 8 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 9 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 10 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
-| 11 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 12 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 13 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 14 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 15 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 16 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 17 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 18 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 20 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 21 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 22 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 23 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 24 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 25 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 26 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 27 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 28 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 29 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 30 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 31 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 32 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 33 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 34 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 35 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 36 | [CJ Cron](http://twitter.com/search?q=CJ+Cron) | N/A |
-| 37 | [Mean Green](http://twitter.com/search?q=Mean+Green) | N/A |
-| 38 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
-| 39 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 40 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 41 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 42 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
-| 43 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 44 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 45 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 46 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 47 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 48 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 49 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 50 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 2 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 3 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 4 | [Blake](http://twitter.com/search?q=Blake) | Blake is a unisex name of English origin, derived from Old English words meaning "black" and "bright". It is often used as a surname as well. |
+| 5 | [#BleedGreen](http://twitter.com/search?q=%23BleedGreen) | N/A |
+| 6 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 7 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 8 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 9 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 10 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 11 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 12 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 13 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 14 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 15 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
+| 16 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 17 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 18 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 19 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 20 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 21 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 22 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 23 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 24 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 25 | [#SeaUsRise](http://twitter.com/search?q=%23SeaUsRise) | N/A |
+| 26 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 27 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 28 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 29 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 30 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 32 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 33 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 35 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 36 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 37 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 38 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 39 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 40 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
+| 41 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 42 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 43 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 44 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 45 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 46 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 47 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 48 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 49 | [WHARF TALK](http://twitter.com/search?q=WHARF+TALK) | N/A |
+| 50 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
 
 
 

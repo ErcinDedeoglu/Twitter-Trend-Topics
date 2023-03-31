@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-03-31 04:17:37 UTC`
+📆 Last Updated: `2023-03-31 05:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [#SVGala5](http://twitter.com/search?q=%23SVGala5) | N/A |
 | 2 | [Ana Obregón](http://twitter.com/search?q=Ana+Obreg%c3%b3n) | N/A |
 | 3 | [#ZeldaVuelve](http://twitter.com/search?q=%23ZeldaVuelve) | N/A |
-| 4 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 5 | [Adara](http://twitter.com/search?q=Adara) | N/A |
-| 6 | [Libres 1](http://twitter.com/search?q=Libres+1) | N/A |
-| 7 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 8 | [Naranco](http://twitter.com/search?q=Naranco) | N/A |
-| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 11 | [Javier Cámara](http://twitter.com/search?q=Javier+C%c3%a1mara) | N/A |
+| 4 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 5 | [Naranco](http://twitter.com/search?q=Naranco) | N/A |
+| 6 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 7 | [Lolas](http://twitter.com/search?q=Lolas) | N/A |
+| 8 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 9 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 10 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
+| 11 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 12 | [Aitana](http://twitter.com/search?q=Aitana) | N/A |
-| 13 | [#APOYOROCIO30M](http://twitter.com/search?q=%23APOYOROCIO30M) | N/A |
-| 14 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
-| 15 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
-| 16 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 17 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 13 | [Javier Cámara](http://twitter.com/search?q=Javier+C%c3%a1mara) | N/A |
+| 14 | [Canales](http://twitter.com/search?q=Canales) | Canales is a Spanish word meaning "channels" or "canals". It can refer to physical waterways, such as rivers and streams, or to metaphorical channels of communication. |
+| 15 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 16 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
+| 17 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
 | 18 | [Miguel Bosé](http://twitter.com/search?q=Miguel+Bos%c3%a9) | N/A |
-| 19 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
-| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 21 | [Camiño](http://twitter.com/search?q=Cami%c3%b1o) | N/A |
-| 22 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
-| 23 | [Laura Gómez](http://twitter.com/search?q=Laura+G%c3%b3mez) | N/A |
-| 24 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 25 | [Complutense](http://twitter.com/search?q=Complutense) | Complutense is a term used to refer to the University of Madrid, which is officially known as the Complutense University of Madrid. The name comes from the Latin word Complutum, which was the ancient name for the city of Alcalá de Henares, where the university was originally founded in 1293. In English, Complutense means "of Alcalá". |
+| 19 | [Cobos](http://twitter.com/search?q=Cobos) | N/A |
+| 20 | [Adara](http://twitter.com/search?q=Adara) | N/A |
+| 21 | [Laura Gómez](http://twitter.com/search?q=Laura+G%c3%b3mez) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Complutense](http://twitter.com/search?q=Complutense) | Complutense is a term used to refer to the University of Madrid, which is officially known as the Complutense University of Madrid. The name comes from the Latin word Complutum, which was the ancient name for the city of Alcalá de Henares, where the university was originally founded in 1293. In English, Complutense means "of Alcalá". |
+| 24 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 25 | [Camiño](http://twitter.com/search?q=Cami%c3%b1o) | N/A |
 | 26 | [Arenal](http://twitter.com/search?q=Arenal) | N/A |
-| 27 | [Ana Peleteiro](http://twitter.com/search?q=Ana+Peleteiro) | N/A |
-| 28 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 29 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 30 | [Hipra](http://twitter.com/search?q=Hipra) | N/A |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 33 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 34 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 35 | [Kiko Hernández](http://twitter.com/search?q=Kiko+Hern%c3%a1ndez) | N/A |
-| 36 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
-| 37 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
-| 38 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 39 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
+| 27 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 28 | [Hipra](http://twitter.com/search?q=Hipra) | N/A |
+| 29 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 30 | [Ana Peleteiro](http://twitter.com/search?q=Ana+Peleteiro) | N/A |
+| 31 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 32 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 33 | [Kiko Hernández](http://twitter.com/search?q=Kiko+Hern%c3%a1ndez) | N/A |
+| 34 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 35 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
+| 36 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
+| 37 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 38 | [Marta del Castillo](http://twitter.com/search?q=Marta+del+Castillo) | N/A |
+| 39 | [la 33](http://twitter.com/search?q=la+33) | N/A |
 | 40 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 41 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 42 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
-| 43 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 44 | [TSJC](http://twitter.com/search?q=TSJC) | N/A |
-| 45 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 46 | [La 33](http://twitter.com/search?q=La+33) | N/A |
-| 47 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 48 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
-| 49 | [Mateu Lahoz](http://twitter.com/search?q=Mateu+Lahoz) | N/A |
+| 41 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 42 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 43 | [Higinio](http://twitter.com/search?q=Higinio) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Mateu Lahoz](http://twitter.com/search?q=Mateu+Lahoz) | N/A |
+| 46 | [El IPC](http://twitter.com/search?q=El+IPC) | N/A |
+| 47 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 48 | [Prohibir](http://twitter.com/search?q=Prohibir) | N/A |
+| 49 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
 
 
 

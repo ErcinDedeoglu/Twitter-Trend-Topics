@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-31 04:18:01 UTC`
+📆 Last Updated: `2023-03-31 05:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 | 2 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
 | 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 4 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 5 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 6 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 7 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 8 | [Governor DeSantis](http://twitter.com/search?q=Governor+DeSantis) | N/A |
-| 9 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 10 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
-| 11 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 4 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 5 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 6 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 7 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 8 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
+| 9 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 10 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
+| 11 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 12 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
 | 13 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
 | 14 | [Political](http://twitter.com/search?q=Political) | N/A |
-| 15 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 16 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 17 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 18 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 20 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 21 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 22 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
-| 23 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 24 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 25 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 26 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 27 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 28 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 30 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 32 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 33 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 35 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 36 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 37 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 38 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 39 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 40 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 41 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 42 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 43 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 44 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 45 | [CJ Cron](http://twitter.com/search?q=CJ+Cron) | N/A |
-| 46 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
-| 47 | [Mean Green](http://twitter.com/search?q=Mean+Green) | N/A |
-| 48 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 49 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 50 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
+| 15 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 16 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 17 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 19 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 20 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 21 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 22 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 23 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 24 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 25 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 26 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 27 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 28 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 29 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 30 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 31 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 32 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 33 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 34 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 35 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 36 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 37 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 38 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 39 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 40 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 41 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 42 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 43 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 44 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 45 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 46 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 47 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
+| 48 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 49 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 50 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-03-31 04:17:48 UTC`
+📆 Last Updated: `2023-03-31 05:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#RepoRate](http://twitter.com/search?q=%23RepoRate) | N/A |
-| 2 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
-| 3 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
-| 4 | [#AHiFambeni](http://twitter.com/search?q=%23AHiFambeni) | N/A |
+| 2 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 3 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
+| 4 | [#WakeUpOnMetroFM](http://twitter.com/search?q=%23WakeUpOnMetroFM) | N/A |
 | 5 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
-| 6 | [#GoldMafia2](http://twitter.com/search?q=%23GoldMafia2) | N/A |
+| 6 | [SARB](http://twitter.com/search?q=SARB) | N/A |
 | 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [SARB](http://twitter.com/search?q=SARB) | N/A |
-| 9 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 10 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
-| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 12 | [juicy jay the brand](http://twitter.com/search?q=juicy+jay+the+brand) | N/A |
-| 13 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 14 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 15 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 16 | [Block 11](http://twitter.com/search?q=Block+11) | N/A |
-| 17 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 18 | [UNISA](http://twitter.com/search?q=UNISA) | N/A |
+| 8 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 9 | [Block 11](http://twitter.com/search?q=Block+11) | N/A |
+| 10 | [juicy jay the brand](http://twitter.com/search?q=juicy+jay+the+brand) | N/A |
+| 11 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
+| 12 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 13 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 14 | [UNISA](http://twitter.com/search?q=UNISA) | N/A |
+| 15 | [krol](http://twitter.com/search?q=krol) | N/A |
+| 16 | [THABANG MAZIBUKO BRAND](http://twitter.com/search?q=THABANG+MAZIBUKO+BRAND) | N/A |
+| 17 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
+| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 19 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
 | 20 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 21 | [Krol](http://twitter.com/search?q=Krol) | N/A |
-| 22 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
-| 23 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
-| 24 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
-| 25 | [congratulations mo](http://twitter.com/search?q=congratulations+mo) | N/A |
-| 26 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 27 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 28 | [Ekurhuleni](http://twitter.com/search?q=Ekurhuleni) | N/A |
-| 29 | [Absa](http://twitter.com/search?q=Absa) | N/A |
-| 30 | [Tania Campbell](http://twitter.com/search?q=Tania+Campbell) | N/A |
-| 31 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 32 | [project 26](http://twitter.com/search?q=project+26) | N/A |
-| 33 | [Lesetja Kganyago](http://twitter.com/search?q=Lesetja+Kganyago) | N/A |
-| 34 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
-| 35 | [hpcsa](http://twitter.com/search?q=hpcsa) | N/A |
-| 36 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
-| 37 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 38 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 39 | [mo flava](http://twitter.com/search?q=mo+flava) | N/A |
-| 40 | [we love you nelisa](http://twitter.com/search?q=we+love+you+nelisa) | N/A |
-| 41 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
-| 42 | [yotv](http://twitter.com/search?q=yotv) | N/A |
-| 43 | [Shaken](http://twitter.com/search?q=Shaken) | N/A |
-| 44 | [Chuckles](http://twitter.com/search?q=Chuckles) | N/A |
-| 45 | [Medshield](http://twitter.com/search?q=Medshield) | N/A |
-| 46 | [VOTE KHOSI](http://twitter.com/search?q=VOTE+KHOSI) | N/A |
-| 47 | [maweni](http://twitter.com/search?q=maweni) | N/A |
-| 48 | [we love you thembabroly](http://twitter.com/search?q=we+love+you+thembabroly) | N/A |
-| 49 | [Oriental Plaza](http://twitter.com/search?q=Oriental+Plaza) | N/A |
+| 21 | [congratulations mo](http://twitter.com/search?q=congratulations+mo) | N/A |
+| 22 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 23 | [Mbali](http://twitter.com/search?q=Mbali) | N/A |
+| 24 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 25 | [Tania Campbell](http://twitter.com/search?q=Tania+Campbell) | N/A |
+| 26 | [Ekurhuleni](http://twitter.com/search?q=Ekurhuleni) | N/A |
+| 27 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 28 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
+| 29 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 30 | [Lesetja Kganyago](http://twitter.com/search?q=Lesetja+Kganyago) | N/A |
+| 31 | [hpcsa](http://twitter.com/search?q=hpcsa) | N/A |
+| 32 | [Khutso](http://twitter.com/search?q=Khutso) | N/A |
+| 33 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 34 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
+| 35 | [project 26](http://twitter.com/search?q=project+26) | N/A |
+| 36 | [Oriental Plaza](http://twitter.com/search?q=Oriental+Plaza) | N/A |
+| 37 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
+| 38 | [Chuckles](http://twitter.com/search?q=Chuckles) | N/A |
+| 39 | [Medshield](http://twitter.com/search?q=Medshield) | N/A |
+| 40 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 41 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
+| 42 | [America](http://twitter.com/search?q=America) | N/A |
+| 43 | [mqhele](http://twitter.com/search?q=mqhele) | N/A |
+| 44 | [we love you nelisa](http://twitter.com/search?q=we+love+you+nelisa) | N/A |
+| 45 | [maweni](http://twitter.com/search?q=maweni) | N/A |
+| 46 | [faster printing](http://twitter.com/search?q=faster+printing) | N/A |
+| 47 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 48 | [Shaken](http://twitter.com/search?q=Shaken) | N/A |
 
 
 

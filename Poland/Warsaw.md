@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-03-31 04:17:31 UTC`
+📆 Last Updated: `2023-03-31 05:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
-| 2 | [Paweł Śpiewak](http://twitter.com/search?q=Pawe%c5%82+%c5%9apiewak) | N/A |
-| 3 | [#nieoddamywarszawy](http://twitter.com/search?q=%23nieoddamywarszawy) | N/A |
-| 4 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
-| 5 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
-| 6 | [#mojkumpelwa](http://twitter.com/search?q=%23mojkumpelwa) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
-| 9 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 10 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 12 | [mkol](http://twitter.com/search?q=mkol) | N/A |
-| 13 | [perugia](http://twitter.com/search?q=perugia) | N/A |
-| 14 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
-| 15 | [tapczan](http://twitter.com/search?q=tapczan) | N/A |
-| 16 | [pkn orlen](http://twitter.com/search?q=pkn+orlen) | N/A |
-| 17 | [daniel obajtek](http://twitter.com/search?q=daniel+obajtek) | N/A |
-| 18 | [wojciechowski](http://twitter.com/search?q=wojciechowski) | N/A |
-| 19 | [klaps](http://twitter.com/search?q=klaps) | N/A |
-| 20 | [Kara](http://twitter.com/search?q=Kara) | N/A |
-| 21 | [gemelli](http://twitter.com/search?q=gemelli) | N/A |
-| 22 | [bortniczuk](http://twitter.com/search?q=bortniczuk) | N/A |
-| 23 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
-| 24 | [Łóżko](http://twitter.com/search?q=%c5%81%c3%b3%c5%bcko) | N/A |
-| 25 | [leszczyna](http://twitter.com/search?q=leszczyna) | N/A |
-| 26 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
-| 27 | [mularczyk](http://twitter.com/search?q=mularczyk) | N/A |
-| 28 | [bicie](http://twitter.com/search?q=bicie) | N/A |
-| 29 | [miedź](http://twitter.com/search?q=mied%c5%ba) | N/A |
-| 30 | [göringa](http://twitter.com/search?q=g%c3%b6ringa) | N/A |
-| 31 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
-| 32 | [hładun](http://twitter.com/search?q=h%c5%82adun) | N/A |
-| 33 | [gmoch](http://twitter.com/search?q=gmoch) | N/A |
-| 34 | [miał 71](http://twitter.com/search?q=mia%c5%82+71) | N/A |
-| 35 | [Warta](http://twitter.com/search?q=Warta) | N/A |
-| 36 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
-| 37 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
-| 38 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 39 | [grodzkiego](http://twitter.com/search?q=grodzkiego) | N/A |
-| 40 | [krajowej sieci onkologicznej](http://twitter.com/search?q=krajowej+sieci+onkologicznej) | N/A |
-| 41 | [ncbr](http://twitter.com/search?q=ncbr) | N/A |
-| 42 | [marcina wolfa](http://twitter.com/search?q=marcina+wolfa) | N/A |
-| 43 | [kołodziejczak](http://twitter.com/search?q=ko%c5%82odziejczak) | N/A |
-| 44 | [dziambor](http://twitter.com/search?q=dziambor) | N/A |
-| 45 | [Logika](http://twitter.com/search?q=Logika) | N/A |
-| 46 | [America](http://twitter.com/search?q=America) | N/A |
-| 47 | [piasecki](http://twitter.com/search?q=piasecki) | N/A |
-| 48 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 1 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 2 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
+| 3 | [Paweł Śpiewak](http://twitter.com/search?q=Pawe%c5%82+%c5%9apiewak) | N/A |
+| 4 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
+| 5 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 6 | [#clvolleym](http://twitter.com/search?q=%23clvolleym) | N/A |
+| 7 | [#NieOddamyWarszawy](http://twitter.com/search?q=%23NieOddamyWarszawy) | N/A |
+| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 9 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 10 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 11 | [Agnieszko](http://twitter.com/search?q=Agnieszko) | N/A |
+| 12 | [Finlandii](http://twitter.com/search?q=Finlandii) | N/A |
+| 13 | [mkol](http://twitter.com/search?q=mkol) | N/A |
+| 14 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 15 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
+| 16 | [tapczan](http://twitter.com/search?q=tapczan) | N/A |
+| 17 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 18 | [PKN Orlen](http://twitter.com/search?q=PKN+Orlen) | N/A |
+| 19 | [daniel obajtek](http://twitter.com/search?q=daniel+obajtek) | N/A |
+| 20 | [wojciechowski](http://twitter.com/search?q=wojciechowski) | N/A |
+| 21 | [bortniczuk](http://twitter.com/search?q=bortniczuk) | N/A |
+| 22 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 23 | [Łóżko](http://twitter.com/search?q=%c5%81%c3%b3%c5%bcko) | N/A |
+| 24 | [miedź](http://twitter.com/search?q=mied%c5%ba) | N/A |
+| 25 | [klaps](http://twitter.com/search?q=klaps) | N/A |
+| 26 | [gemelli](http://twitter.com/search?q=gemelli) | N/A |
+| 27 | [Kara](http://twitter.com/search?q=Kara) | N/A |
+| 28 | [marcin lijewski](http://twitter.com/search?q=marcin+lijewski) | N/A |
+| 29 | [zaksa](http://twitter.com/search?q=zaksa) | N/A |
+| 30 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 31 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 32 | [mularczyk](http://twitter.com/search?q=mularczyk) | N/A |
+| 33 | [bicie](http://twitter.com/search?q=bicie) | N/A |
+| 34 | [bednorza](http://twitter.com/search?q=bednorza) | N/A |
+| 35 | [warta](http://twitter.com/search?q=warta) | N/A |
+| 36 | [gmoch](http://twitter.com/search?q=gmoch) | N/A |
+| 37 | [śląskim](http://twitter.com/search?q=%c5%9bl%c4%85skim) | N/A |
+| 38 | [miał 71](http://twitter.com/search?q=mia%c5%82+71) | N/A |
+| 39 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
+| 40 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 41 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 42 | [hładun](http://twitter.com/search?q=h%c5%82adun) | N/A |
+| 43 | [marcina wolfa](http://twitter.com/search?q=marcina+wolfa) | N/A |
+| 44 | [ncbr](http://twitter.com/search?q=ncbr) | N/A |
+| 45 | [Sławek](http://twitter.com/search?q=S%c5%82awek) | N/A |
+| 46 | [kołodziejczak](http://twitter.com/search?q=ko%c5%82odziejczak) | N/A |
+| 47 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 48 | [grodzkiego](http://twitter.com/search?q=grodzkiego) | N/A |
 | 49 | [soboń](http://twitter.com/search?q=sobo%c5%84) | N/A |
-| 50 | [Korwin](http://twitter.com/search?q=Korwin) | N/A |
+| 50 | [Wprost](http://twitter.com/search?q=Wprost) | N/A |
 
 
 

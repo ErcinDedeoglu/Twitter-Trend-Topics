@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-03-31 04:17:58 UTC`
+📆 Last Updated: `2023-03-31 05:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Grant McCasland](http://twitter.com/search?q=Grant+McCasland) | N/A |
-| 2 | [Pressly](http://twitter.com/search?q=Pressly) | N/A |
-| 3 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 4 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
-| 5 | [#Ready2Reign](http://twitter.com/search?q=%23Ready2Reign) | N/A |
-| 6 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 7 | [Hensley](http://twitter.com/search?q=Hensley) | N/A |
-| 8 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 9 | [Yuli](http://twitter.com/search?q=Yuli) | N/A |
-| 10 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
-| 11 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 12 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 13 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 14 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 15 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 16 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
-| 17 | [#RHUGT3](http://twitter.com/search?q=%23RHUGT3) | N/A |
-| 18 | [Framber](http://twitter.com/search?q=Framber) | N/A |
-| 19 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 20 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 1 | [NIT CHAMPS](http://twitter.com/search?q=NIT+CHAMPS) | N/A |
+| 2 | [Grant McCasland](http://twitter.com/search?q=Grant+McCasland) | N/A |
+| 3 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 4 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 5 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 6 | [Pressly](http://twitter.com/search?q=Pressly) | N/A |
+| 7 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 8 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
+| 9 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 10 | [Yuli](http://twitter.com/search?q=Yuli) | N/A |
+| 11 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 12 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 13 | [Hensley](http://twitter.com/search?q=Hensley) | N/A |
+| 14 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
+| 15 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 16 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
+| 17 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 18 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 19 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
+| 20 | [Bregman](http://twitter.com/search?q=Bregman) | N/A |
 | 21 | [The Democrats](http://twitter.com/search?q=The+Democrats) | N/A |
-| 22 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 23 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 24 | [Arrest](http://twitter.com/search?q=Arrest) | N/A |
-| 25 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 22 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 23 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 24 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 25 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
 | 26 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 27 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 28 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 29 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 30 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 31 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 27 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 28 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
+| 29 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 30 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 31 | [melanie](http://twitter.com/search?q=melanie) | N/A |
 | 32 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 33 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 34 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 35 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 36 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 37 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 38 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 39 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 40 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 41 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 42 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 43 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 44 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 45 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 46 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 47 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 48 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 49 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 50 | [CJ Cron](http://twitter.com/search?q=CJ+Cron) | N/A |
+| 33 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 34 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 35 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 36 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 37 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 38 | [#SeaUsRise](http://twitter.com/search?q=%23SeaUsRise) | N/A |
+| 39 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 40 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 41 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 42 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 43 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 44 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 45 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 46 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 47 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 48 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 49 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 50 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
 
 
 

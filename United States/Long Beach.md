@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-03-31 04:18:01 UTC`
+📆 Last Updated: `2023-03-31 05:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 2 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 3 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 4 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 5 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 6 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
-| 7 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 8 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 9 | [#WaleMania](http://twitter.com/search?q=%23WaleMania) | N/A |
-| 10 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 11 | [#Padres](http://twitter.com/search?q=%23Padres) | N/A |
+| 1 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
+| 2 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 3 | [#babycanwesmoke](http://twitter.com/search?q=%23babycanwesmoke) | N/A |
+| 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 5 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 6 | [#WaleMania](http://twitter.com/search?q=%23WaleMania) | N/A |
+| 7 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 8 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
+| 9 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 10 | [#RootedInOakland](http://twitter.com/search?q=%23RootedInOakland) | N/A |
+| 11 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
 | 12 | [JD Martinez](http://twitter.com/search?q=JD+Martinez) | N/A |
-| 13 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
-| 14 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 15 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 16 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 17 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 18 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 19 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 20 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 21 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 22 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 23 | [Petco](http://twitter.com/search?q=Petco) | N/A |
-| 24 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 25 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 26 | [The American](http://twitter.com/search?q=The+American) | N/A |
-| 27 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 13 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 14 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 15 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 16 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
+| 17 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
+| 18 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 19 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 20 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 21 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 22 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 23 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 24 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 25 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 26 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
+| 27 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
 | 28 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 29 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 30 | [Melanie Martinez](http://twitter.com/search?q=Melanie+Martinez) | N/A |
-| 31 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 32 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 33 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 29 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 30 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 31 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 32 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 33 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 | 34 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 35 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 36 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 37 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 38 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 39 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 40 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 41 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 42 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 43 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 44 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 45 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 46 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 47 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 48 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 49 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 50 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 35 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 36 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 37 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 38 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 39 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 40 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 41 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 42 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 43 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 44 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 45 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 46 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 47 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 48 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 49 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 50 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
 
 
 

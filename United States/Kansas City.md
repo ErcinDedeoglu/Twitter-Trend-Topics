@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-03-31 04:18:00 UTC`
+📆 Last Updated: `2023-03-31 05:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Royals](http://twitter.com/search?q=%23Royals) | N/A |
-| 2 | [Opening Day](http://twitter.com/search?q=Opening+Day) | N/A |
-| 3 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 4 | [Blue Jays](http://twitter.com/search?q=Blue+Jays) | N/A |
-| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 6 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 7 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 8 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
+| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 2 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 3 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 4 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 5 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 6 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 7 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
+| 8 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
 | 9 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 10 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 11 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 12 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 13 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 14 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 15 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 17 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 18 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 19 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 20 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 21 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 22 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 23 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 24 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 25 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 26 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 27 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
-| 28 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 29 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
-| 30 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 31 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 32 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 33 | [CJ Cron](http://twitter.com/search?q=CJ+Cron) | N/A |
-| 34 | [Mean Green](http://twitter.com/search?q=Mean+Green) | N/A |
-| 35 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
-| 36 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 37 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 38 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
-| 39 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 40 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 41 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 42 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 43 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 44 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 45 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 46 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 47 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 48 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 49 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
-| 50 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 10 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 11 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 12 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 13 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 14 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 15 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 16 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 17 | [#SeaUsRise](http://twitter.com/search?q=%23SeaUsRise) | N/A |
+| 18 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 19 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 20 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 21 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 22 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 23 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 24 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 25 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 26 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 27 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 28 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 29 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 31 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
+| 32 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 33 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 34 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 35 | [ALL EYES ON ME](http://twitter.com/search?q=ALL+EYES+ON+ME) | N/A |
+| 36 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 37 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 38 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 39 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 40 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 41 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 42 | [WHARF TALK](http://twitter.com/search?q=WHARF+TALK) | N/A |
+| 43 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 44 | [Christian Braun](http://twitter.com/search?q=Christian+Braun) | N/A |
+| 45 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 46 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 47 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 48 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 49 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 50 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 
 
 
