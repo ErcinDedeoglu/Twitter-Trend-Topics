@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-03-30 23:17:34 UTC`
+📆 Last Updated: `2023-03-31 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 3 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
-| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 5 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 6 | [Ajoie](http://twitter.com/search?q=Ajoie) | N/A |
-| 7 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 8 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
-| 9 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 10 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 11 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
+| 2 | [#MacronOrdure](http://twitter.com/search?q=%23MacronOrdure) | N/A |
+| 3 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 5 | [Ajoie](http://twitter.com/search?q=Ajoie) | N/A |
+| 6 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
+| 7 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
+| 8 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 9 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 11 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
 | 12 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 13 | [ermotti](http://twitter.com/search?q=ermotti) | N/A |
-| 14 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 13 | [Austria](http://twitter.com/search?q=Austria) | N/A |
+| 14 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
 | 15 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 16 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
-| 17 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 18 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 19 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 20 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 21 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
-| 22 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 23 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 25 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 26 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 27 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
-| 28 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
-| 29 | [Austria](http://twitter.com/search?q=Austria) | N/A |
-| 30 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 31 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
-| 32 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
-| 33 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 34 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 35 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 36 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 37 | [yixing](http://twitter.com/search?q=yixing) | N/A |
-| 38 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 39 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 40 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 41 | [Osten](http://twitter.com/search?q=Osten) | N/A |
-| 42 | [Bundesgericht](http://twitter.com/search?q=Bundesgericht) | N/A |
-| 43 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 44 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 45 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 46 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
-| 47 | [Prozess](http://twitter.com/search?q=Prozess) | N/A |
-| 48 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 16 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
+| 17 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 18 | [Signal](http://twitter.com/search?q=Signal) | N/A |
+| 19 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 20 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 21 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 24 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 25 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 26 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 27 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 28 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 29 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | N/A |
+| 30 | [Osten](http://twitter.com/search?q=Osten) | N/A |
+| 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 32 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
+| 33 | [bundesgericht](http://twitter.com/search?q=bundesgericht) | N/A |
+| 34 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
+| 35 | [Double](http://twitter.com/search?q=Double) | N/A |
+| 36 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 37 | [Katzen](http://twitter.com/search?q=Katzen) | N/A |
+| 38 | [Yuan](http://twitter.com/search?q=Yuan) | N/A |
+| 39 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
+| 40 | [Satan](http://twitter.com/search?q=Satan) | N/A |
+| 41 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 42 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 43 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
+| 44 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
+| 45 | [st. gallen](http://twitter.com/search?q=st.+gallen) | N/A |
+| 46 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
+| 47 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 48 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
 
 
 

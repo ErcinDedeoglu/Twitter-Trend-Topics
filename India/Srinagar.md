@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-03-30 23:17:51 UTC`
+📆 Last Updated: `2023-03-31 00:28:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [India](</India>)
 | 2 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
 | 3 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
 | 4 | [#rajasthandiwas](http://twitter.com/search?q=%23rajasthandiwas) | N/A |
-| 5 | [#IPL2023](http://twitter.com/search?q=%23IPL2023) | N/A |
+| 5 | [#राजस्थान_दिवस](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
 | 6 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 7 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 8 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 9 | [Kabir Is God](http://twitter.com/search?q=Kabir+Is+God) | Kabir Is God is a phrase used by followers of the Indian mystic poet and saint Kabir. It is a declaration of faith in the divine nature of Kabir, who is believed to be an incarnation of God. The phrase can also be interpreted as a call to remember and honor the teachings of Kabir, which emphasize the oneness of all creation and the need for love and compassion in our lives. |
-| 10 | [SSR Working On Many Projects](http://twitter.com/search?q=SSR+Working+On+Many+Projects) | N/A |
+| 7 | [Lord Rama](http://twitter.com/search?q=Lord+Rama) | N/A |
+| 8 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 9 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 10 | [Kabir Is God](http://twitter.com/search?q=Kabir+Is+God) | Kabir Is God is a phrase used by followers of the Indian mystic poet and saint Kabir. It is a declaration of faith in the divine nature of Kabir, who is believed to be an incarnation of God. The phrase can also be interpreted as a call to remember and honor the teachings of Kabir, which emphasize the oneness of all creation and the need for love and compassion in our lives. |
 | 11 | [प्रभु राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [SSR Working On Many Projects](http://twitter.com/search?q=SSR+Working+On+Many+Projects) | N/A |
 | 13 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
 | 14 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 15 | [maryada purushottam ram](http://twitter.com/search?q=maryada+purushottam+ram) | N/A |
-| 16 | [कौशल्या हितकारी](http://twitter.com/search?q=%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 17 | [padharo ram lalla](http://twitter.com/search?q=padharo+ram+lalla) | N/A |
-| 18 | [अति पावन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a4%e0%a4%bf+%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8) | N/A |
-| 19 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 15 | [कौशल्या हितकारी](http://twitter.com/search?q=%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 16 | [padharo ram lalla](http://twitter.com/search?q=padharo+ram+lalla) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 19 | [Maryada Purushottam Ram](http://twitter.com/search?q=Maryada+Purushottam+Ram) | N/A |
 | 20 | [Jai Siya Ram](http://twitter.com/search?q=Jai+Siya+Ram) | N/A |
-| 21 | [Brahmins](http://twitter.com/search?q=Brahmins) | N/A |
-| 22 | [West Bengal](http://twitter.com/search?q=West+Bengal) | N/A |
-| 23 | [Rabb](http://twitter.com/search?q=Rabb) | N/A |
-| 24 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 25 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 26 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 27 | [Soja](http://twitter.com/search?q=Soja) | N/A |
-| 28 | [Mathura](http://twitter.com/search?q=Mathura) | N/A |
-| 29 | [Raja Singh](http://twitter.com/search?q=Raja+Singh) | N/A |
-| 30 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 31 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 33 | [Godse](http://twitter.com/search?q=Godse) | N/A |
-| 34 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
-| 35 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
-| 36 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 21 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 22 | [अति पावन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a4%e0%a4%bf+%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8) | N/A |
+| 23 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 24 | [Rabb](http://twitter.com/search?q=Rabb) | N/A |
+| 25 | [Promote](http://twitter.com/search?q=Promote) | N/A |
+| 26 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 27 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 28 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 29 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 30 | [गुजरात पुलिस](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%9c%e0%a4%b0%e0%a4%be%e0%a4%a4+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 31 | [IPL DAY](http://twitter.com/search?q=IPL+DAY) | N/A |
+| 32 | [रसूल अल्लाह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%b8%e0%a5%82%e0%a4%b2+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 33 | [Masjid](http://twitter.com/search?q=Masjid) | N/A |
+| 34 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 35 | [Raja Singh](http://twitter.com/search?q=Raja+Singh) | N/A |
+| 36 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
 | 37 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 38 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 39 | [प्रशांत कुमार](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 40 | [Dharani](http://twitter.com/search?q=Dharani) | N/A |
-| 41 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 42 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 43 | [President](http://twitter.com/search?q=President) | N/A |
-| 44 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 45 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 46 | [Dargah](http://twitter.com/search?q=Dargah) | N/A |
-| 47 | [सुभाष चंद्रा](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%ad%e0%a4%be%e0%a4%b7+%e0%a4%9a%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 38 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 39 | [Godse](http://twitter.com/search?q=Godse) | N/A |
+| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 41 | [Mathura](http://twitter.com/search?q=Mathura) | N/A |
+| 42 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 43 | [West Bengal](http://twitter.com/search?q=West+Bengal) | N/A |
+| 44 | [MashaAllah](http://twitter.com/search?q=MashaAllah) | N/A |
+| 45 | [President](http://twitter.com/search?q=President) | N/A |
+| 46 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
+| 47 | [Yehi](http://twitter.com/search?q=Yehi) | N/A |
 
 
 

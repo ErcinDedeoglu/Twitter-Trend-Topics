@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-03-30 23:17:59 UTC`
+📆 Last Updated: `2023-03-31 00:28:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Tanner Scott](http://twitter.com/search?q=Tanner+Scott) | N/A |
-| 2 | [Wander Franco](http://twitter.com/search?q=Wander+Franco) | N/A |
-| 3 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
-| 4 | [#MakeItMiami](http://twitter.com/search?q=%23MakeItMiami) | N/A |
-| 5 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 6 | [Tennessee Capitol](http://twitter.com/search?q=Tennessee+Capitol) | N/A |
-| 7 | [Political](http://twitter.com/search?q=Political) | N/A |
-| 8 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
-| 9 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 10 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 11 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 12 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 13 | [Siri](http://twitter.com/search?q=Siri) | N/A |
-| 14 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 15 | [#NationalDoctorsDay](http://twitter.com/search?q=%23NationalDoctorsDay) | N/A |
-| 16 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 17 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 18 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 19 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 20 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 21 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 22 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 23 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 24 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 25 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 26 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 28 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 29 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 30 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 31 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
-| 32 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 33 | [Bohm](http://twitter.com/search?q=Bohm) | N/A |
-| 34 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
-| 35 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 36 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
-| 37 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 38 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
-| 39 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 40 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 41 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
-| 42 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
-| 43 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 44 | [Somber](http://twitter.com/search?q=Somber) | N/A |
-| 45 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 46 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 47 | [Champagne](http://twitter.com/search?q=Champagne) | N/A |
-| 48 | [Perp Walk](http://twitter.com/search?q=Perp+Walk) | N/A |
+| 2 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 3 | [Jazz](http://twitter.com/search?q=Jazz) | N/A |
+| 4 | [#RaysUp](http://twitter.com/search?q=%23RaysUp) | N/A |
+| 5 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 6 | [Political](http://twitter.com/search?q=Political) | N/A |
+| 7 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
+| 8 | [#MakeItMiami](http://twitter.com/search?q=%23MakeItMiami) | N/A |
+| 9 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
+| 10 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 11 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 12 | [#MegaCon](http://twitter.com/search?q=%23MegaCon) | N/A |
+| 13 | [Sandy](http://twitter.com/search?q=Sandy) | N/A |
+| 14 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
+| 15 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 16 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
+| 17 | [#LFGM](http://twitter.com/search?q=%23LFGM) | #LFGM stands for "Looking for Group Members" and is used on social media platforms to indicate that someone is looking for people to join their group or team. |
+| 18 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
+| 19 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 20 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 21 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 22 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 23 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 24 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 25 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 26 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 27 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 28 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 29 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 30 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 31 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 32 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 33 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 34 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 35 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 36 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 37 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 38 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 39 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 40 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 41 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
+| 42 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 43 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
+| 44 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 45 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 46 | [Blue Jays](http://twitter.com/search?q=Blue+Jays) | N/A |
+| 47 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
 
 
 

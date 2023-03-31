@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-03-30 23:17:49 UTC`
+📆 Last Updated: `2023-03-31 00:28:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
 | 4 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
 | 5 | [#Supreme_Court_Of_Pakistan](http://twitter.com/search?q=%23Supreme_Court_Of_Pakistan) | N/A |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [Broken](http://twitter.com/search?q=Broken) | N/A |
-| 8 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
-| 9 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 10 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 11 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
-| 12 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
-| 13 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 14 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
-| 15 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 16 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 17 | [dsp iqbal mohmand](http://twitter.com/search?q=dsp+iqbal+mohmand) | N/A |
-| 18 | [Morne Morkel](http://twitter.com/search?q=Morne+Morkel) | N/A |
-| 19 | [Drone](http://twitter.com/search?q=Drone) | N/A |
-| 20 | [bill 2023](http://twitter.com/search?q=bill+2023) | N/A |
-| 21 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 22 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
-| 23 | [Justice Isa](http://twitter.com/search?q=Justice+Isa) | N/A |
-| 24 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
-| 25 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 6 | [James Anderson](http://twitter.com/search?q=James+Anderson) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Broken](http://twitter.com/search?q=Broken) | N/A |
+| 9 | [Azhar Mashwani](http://twitter.com/search?q=Azhar+Mashwani) | N/A |
+| 10 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 11 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 12 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 13 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 14 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 15 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
+| 16 | [Lahore High Court](http://twitter.com/search?q=Lahore+High+Court) | N/A |
+| 17 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 19 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 20 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
+| 21 | [bill 2023](http://twitter.com/search?q=bill+2023) | N/A |
+| 22 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 23 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 24 | [DSP Iqbal Mohmand](http://twitter.com/search?q=DSP+Iqbal+Mohmand) | N/A |
+| 25 | [Morne Morkel](http://twitter.com/search?q=Morne+Morkel) | N/A |
 | 26 | [dr. aafia siddiqui](http://twitter.com/search?q=dr.+aafia+siddiqui) | N/A |
-| 27 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 28 | [Choti](http://twitter.com/search?q=Choti) | N/A |
-| 29 | [justice aminuddin khan](http://twitter.com/search?q=justice+aminuddin+khan) | N/A |
-| 30 | [Justice Munir](http://twitter.com/search?q=Justice+Munir) | N/A |
-| 31 | [justice musarrat hilali](http://twitter.com/search?q=justice+musarrat+hilali) | N/A |
-| 32 | [Mohamed](http://twitter.com/search?q=Mohamed) | N/A |
-| 33 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
-| 34 | [FATF](http://twitter.com/search?q=FATF) | N/A |
-| 35 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
-| 36 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 37 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 38 | [Your DM](http://twitter.com/search?q=Your+DM) | N/A |
-| 39 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 40 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
-| 41 | [Allah Almighty](http://twitter.com/search?q=Allah+Almighty) | N/A |
-| 42 | [Goku](http://twitter.com/search?q=Goku) | N/A |
-| 43 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 44 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [Yessss](http://twitter.com/search?q=Yessss) | N/A |
-| 47 | [Insha Allah](http://twitter.com/search?q=Insha+Allah) | N/A |
-| 48 | [Indian Muslims](http://twitter.com/search?q=Indian+Muslims) | N/A |
-| 49 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 50 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 27 | [Sarfaraz Ahmed](http://twitter.com/search?q=Sarfaraz+Ahmed) | N/A |
+| 28 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
+| 29 | [Choti](http://twitter.com/search?q=Choti) | N/A |
+| 30 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 31 | [BCCI](http://twitter.com/search?q=BCCI) | N/A |
+| 32 | [Mr Google](http://twitter.com/search?q=Mr+Google) | N/A |
+| 33 | [Habib Akram](http://twitter.com/search?q=Habib+Akram) | N/A |
+| 34 | [Zayed Al Nahyan](http://twitter.com/search?q=Zayed+Al+Nahyan) | N/A |
+| 35 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 36 | [FATF](http://twitter.com/search?q=FATF) | N/A |
+| 37 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 38 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 39 | [Uncle](http://twitter.com/search?q=Uncle) | N/A |
+| 40 | [Deen](http://twitter.com/search?q=Deen) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Salam](http://twitter.com/search?q=Salam) | N/A |
+| 43 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 44 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 45 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 46 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 47 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 48 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 49 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 50 | [Quran](http://twitter.com/search?q=Quran) | N/A |
 
 
 

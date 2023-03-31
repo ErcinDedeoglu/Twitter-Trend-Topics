@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-30 23:18:07 UTC`
+📆 Last Updated: `2023-03-31 00:29:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
-| 2 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 3 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 4 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 5 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 6 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 7 | [#MoreLoveLessEgo](http://twitter.com/search?q=%23MoreLoveLessEgo) | N/A |
-| 8 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 9 | [#UWCL](http://twitter.com/search?q=%23UWCL) | N/A |
-| 10 | [Chelsea Women](http://twitter.com/search?q=Chelsea+Women) | N/A |
-| 11 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
-| 12 | [#CFCW](http://twitter.com/search?q=%23CFCW) | N/A |
-| 13 | [Over Dem](http://twitter.com/search?q=Over+Dem) | N/A |
-| 14 | [Up Chelsea](http://twitter.com/search?q=Up+Chelsea) | N/A |
-| 15 | [#30BG](http://twitter.com/search?q=%2330BG) | N/A |
-| 16 | [Mr Yakubu](http://twitter.com/search?q=Mr+Yakubu) | N/A |
-| 17 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 18 | [Up the Chels](http://twitter.com/search?q=Up+the+Chels) | N/A |
-| 19 | [Asisat](http://twitter.com/search?q=Asisat) | N/A |
-| 20 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
-| 21 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 22 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 23 | [Blues](http://twitter.com/search?q=Blues) | N/A |
-| 24 | [Wolfsburg](http://twitter.com/search?q=Wolfsburg) | N/A |
-| 25 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
-| 26 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 27 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 28 | [Fela](http://twitter.com/search?q=Fela) | N/A |
-| 29 | [Where is Tinubu](http://twitter.com/search?q=Where+is+Tinubu) | N/A |
-| 30 | [Gerrard](http://twitter.com/search?q=Gerrard) | N/A |
-| 31 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 32 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 33 | [Shettima](http://twitter.com/search?q=Shettima) | N/A |
-| 34 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 35 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 36 | [Happy Doctors](http://twitter.com/search?q=Happy+Doctors) | N/A |
-| 37 | [2pac](http://twitter.com/search?q=2pac) | N/A |
-| 38 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 39 | [Laycon](http://twitter.com/search?q=Laycon) | N/A |
-| 40 | [TG Omori](http://twitter.com/search?q=TG+Omori) | N/A |
-| 41 | [African Giant](http://twitter.com/search?q=African+Giant) | N/A |
-| 42 | [May Edochie](http://twitter.com/search?q=May+Edochie) | N/A |
-| 43 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 44 | [Vector](http://twitter.com/search?q=Vector) | N/A |
-| 45 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 46 | [Jamb](http://twitter.com/search?q=Jamb) | N/A |
-| 47 | [#SamsungGalaxyA54](http://twitter.com/search?q=%23SamsungGalaxyA54) | N/A |
-| 48 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
-| 49 | [#Nairobi](http://twitter.com/search?q=%23Nairobi) | N/A |
-| 50 | [#TheRidesOn](http://twitter.com/search?q=%23TheRidesOn) | N/A |
+| 2 | [#TIMELESS](http://twitter.com/search?q=%23TIMELESS) | N/A |
+| 3 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 5 | [Over Dem](http://twitter.com/search?q=Over+Dem) | N/A |
+| 6 | [#MoreLoveLessEgo](http://twitter.com/search?q=%23MoreLoveLessEgo) | N/A |
+| 7 | [Na Money](http://twitter.com/search?q=Na+Money) | N/A |
+| 8 | [Jada](http://twitter.com/search?q=Jada) | N/A |
+| 9 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 10 | [Skepta](http://twitter.com/search?q=Skepta) | N/A |
+| 11 | [No Competition](http://twitter.com/search?q=No+Competition) | N/A |
+| 12 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 13 | [Goliath](http://twitter.com/search?q=Goliath) | N/A |
+| 14 | [FOR THE ROAD](http://twitter.com/search?q=FOR+THE+ROAD) | N/A |
+| 15 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 16 | [LEGENDS CAN NEVER DIE](http://twitter.com/search?q=LEGENDS+CAN+NEVER+DIE) | N/A |
+| 17 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 18 | [E PAIN ME](http://twitter.com/search?q=E+PAIN+ME) | N/A |
+| 19 | [Unavailable](http://twitter.com/search?q=Unavailable) | N/A |
+| 20 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 21 | [#30BG](http://twitter.com/search?q=%2330BG) | N/A |
+| 22 | [LCND](http://twitter.com/search?q=LCND) | N/A |
+| 23 | [Godfather](http://twitter.com/search?q=Godfather) | N/A |
+| 24 | [#HappyBirthdayLiquorose](http://twitter.com/search?q=%23HappyBirthdayLiquorose) | N/A |
+| 25 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
+| 26 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
+| 27 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
+| 28 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
+| 29 | [Logos Olori](http://twitter.com/search?q=Logos+Olori) | N/A |
+| 30 | [MLLE](http://twitter.com/search?q=MLLE) | N/A |
+| 31 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
+| 32 | [Shekpe](http://twitter.com/search?q=Shekpe) | N/A |
+| 33 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 34 | [Champion Sound](http://twitter.com/search?q=Champion+Sound) | N/A |
+| 35 | [Morravey](http://twitter.com/search?q=Morravey) | N/A |
+| 36 | [Cavemen](http://twitter.com/search?q=Cavemen) | N/A |
+| 37 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
+| 38 | [Chelsea Women](http://twitter.com/search?q=Chelsea+Women) | N/A |
+| 39 | [Emma Hayes](http://twitter.com/search?q=Emma+Hayes) | N/A |
+| 40 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 41 | [Up Chelsea](http://twitter.com/search?q=Up+Chelsea) | N/A |
+| 42 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 43 | [Up the Chels](http://twitter.com/search?q=Up+the+Chels) | N/A |
+| 44 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 45 | [Audiomack](http://twitter.com/search?q=Audiomack) | N/A |
+| 46 | [Asisat](http://twitter.com/search?q=Asisat) | N/A |
+| 47 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 48 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 49 | [Mr Yakubu](http://twitter.com/search?q=Mr+Yakubu) | N/A |
+| 50 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 
 
 

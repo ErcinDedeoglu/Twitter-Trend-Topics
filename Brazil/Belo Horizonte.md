@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-03-30 23:17:25 UTC`
+📆 Last Updated: `2023-03-31 00:28:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 2 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 2 | [Minas Arena](http://twitter.com/search?q=Minas+Arena) | Minas Arena is a Brazilian multi-purpose indoor arena located in Belo Horizonte, Brazil. It is primarily used for basketball, volleyball, and futsal games. The name Minas Arena is derived from the Portuguese word for “mine”, as the arena is located in the state of Minas Gerais. In English, Minas Arena translates to “Mine Arena”. |
 | 3 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 4 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 5 | [eiza](http://twitter.com/search?q=eiza) | N/A |
-| 6 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
-| 7 | [ESCUTE CD RAIZ](http://twitter.com/search?q=ESCUTE+CD+RAIZ) | N/A |
-| 8 | [camila cabello](http://twitter.com/search?q=camila+cabello) | N/A |
-| 9 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 10 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 4 | [AMO VOCÊS MeM](http://twitter.com/search?q=AMO+VOC%c3%8aS+MeM) | N/A |
+| 5 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 6 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 7 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
+| 8 | [MENTA COM CHÁ](http://twitter.com/search?q=MENTA+COM+CH%c3%81) | N/A |
+| 9 | [eiza](http://twitter.com/search?q=eiza) | N/A |
+| 10 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
 | 11 | [As 10](http://twitter.com/search?q=As+10) | N/A |
 | 12 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 13 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 14 | [MAGICA HEG](http://twitter.com/search?q=MAGICA+HEG) | N/A |
-| 15 | [jenifer](http://twitter.com/search?q=jenifer) | N/A |
-| 16 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 17 | [BOIADEIRA ORIGINAL](http://twitter.com/search?q=BOIADEIRA+ORIGINAL) | N/A |
-| 18 | [APARECE KEY](http://twitter.com/search?q=APARECE+KEY) | N/A |
-| 19 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
-| 20 | [#ProgramaDoBT](http://twitter.com/search?q=%23ProgramaDoBT) | N/A |
-| 21 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 22 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 23 | [#TresVezesAna044](http://twitter.com/search?q=%23TresVezesAna044) | N/A |
-| 24 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 25 | [celia](http://twitter.com/search?q=celia) | N/A |
-| 26 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
-| 27 | [Sol e Ben](http://twitter.com/search?q=Sol+e+Ben) | N/A |
-| 28 | [Horan](http://twitter.com/search?q=Horan) | Horan is a surname of Irish origin. It is derived from the Gaelic Ó hEaghra, meaning "descendant of Eaghra". |
-| 29 | [sadie](http://twitter.com/search?q=sadie) | N/A |
+| 13 | [#ProgramaDoBT](http://twitter.com/search?q=%23ProgramaDoBT) | N/A |
+| 14 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
+| 15 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 17 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 19 | [ESCUTE CD RAIZ](http://twitter.com/search?q=ESCUTE+CD+RAIZ) | N/A |
+| 20 | [camila cabello](http://twitter.com/search?q=camila+cabello) | N/A |
+| 21 | [BOIADEIRA ORIGINAL](http://twitter.com/search?q=BOIADEIRA+ORIGINAL) | N/A |
+| 22 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
+| 23 | [rexha](http://twitter.com/search?q=rexha) | N/A |
+| 24 | [MAGICA HEG](http://twitter.com/search?q=MAGICA+HEG) | N/A |
+| 25 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 26 | [APARECE KEY](http://twitter.com/search?q=APARECE+KEY) | N/A |
+| 27 | [H.E.R](http://twitter.com/search?q=H.E.R) | N/A |
+| 28 | [O Lui](http://twitter.com/search?q=O+Lui) | N/A |
+| 29 | [Pereba de Naamã](http://twitter.com/search?q=Pereba+de+Naam%c3%a3) | N/A |
 | 30 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 31 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
-| 32 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 33 | [Summer Game Fest](http://twitter.com/search?q=Summer+Game+Fest) | N/A |
-| 34 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 35 | [Rafa Oliveira](http://twitter.com/search?q=Rafa+Oliveira) | N/A |
-| 36 | [jessica chastain](http://twitter.com/search?q=jessica+chastain) | N/A |
-| 37 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 38 | [Lelê](http://twitter.com/search?q=Lel%c3%aa) | N/A |
-| 39 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 40 | [Bilionário](http://twitter.com/search?q=Bilion%c3%a1rio) | N/A |
-| 41 | [O Ben](http://twitter.com/search?q=O+Ben) | N/A |
-| 42 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
-| 43 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 44 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 45 | [Cruyff](http://twitter.com/search?q=Cruyff) | N/A |
-| 46 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 47 | [Flopou](http://twitter.com/search?q=Flopou) | N/A |
-| 48 | [Viola Davis](http://twitter.com/search?q=Viola+Davis) | Viola Davis is an American actress, producer, and director. She is the first African American to win an Academy Award, Emmy Award, and Tony Award in acting. The name Viola is derived from the Latin word for violet, which symbolizes faithfulness and loyalty. |
-| 49 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 50 | [Trento](http://twitter.com/search?q=Trento) | N/A |
+| 31 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 32 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 33 | [Lui Lorenzo](http://twitter.com/search?q=Lui+Lorenzo) | N/A |
+| 34 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 35 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
+| 36 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 37 | [Dona Neide](http://twitter.com/search?q=Dona+Neide) | N/A |
+| 38 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 39 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 40 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 41 | [Gustavo Campanharo](http://twitter.com/search?q=Gustavo+Campanharo) | N/A |
+| 42 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 43 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
+| 44 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 45 | [celia](http://twitter.com/search?q=celia) | N/A |
+| 46 | [SPORT CLUB DO RECIFE](http://twitter.com/search?q=SPORT+CLUB+DO+RECIFE) | Sport Club do Recife is a Brazilian professional football club based in the city of Recife, in the state of Pernambuco. The club was founded in 1905 and is one of the oldest and most successful clubs in Brazil, having won four national championships and three Copa do Brasil titles. The literal translation of Sport Club do Recife into English is "Recife Sports Club". |
+| 47 | [3º E.M](http://twitter.com/search?q=3%c2%ba+E.M) | N/A |
+| 48 | [Teto](http://twitter.com/search?q=Teto) | N/A |
+| 49 | [Ricardo Lewandowski](http://twitter.com/search?q=Ricardo+Lewandowski) | N/A |
+| 50 | [Rafa Oliveira](http://twitter.com/search?q=Rafa+Oliveira) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-03-30 23:17:55 UTC`
+📆 Last Updated: `2023-03-31 00:28:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jason Vosler](http://twitter.com/search?q=Jason+Vosler) | N/A |
-| 2 | [Benson](http://twitter.com/search?q=Benson) | Benson is a given name of English origin, derived from the surname Benson. It is a variant of the name Benedict, which means "blessed". |
-| 3 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
-| 4 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
-| 5 | [#ATOBTTR](http://twitter.com/search?q=%23ATOBTTR) | N/A |
-| 6 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
-| 7 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
-| 8 | [World Series](http://twitter.com/search?q=World+Series) | The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. The winner of the World Series championship is determined through a best-of-seven playoff. The meaning of World Series in English is a professional baseball tournament that determines the world champion. |
-| 9 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 10 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 11 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 12 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 13 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 14 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 15 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 16 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 17 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 18 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 19 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 21 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 22 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 23 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 24 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
-| 25 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
-| 26 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 27 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 28 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
-| 29 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 30 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
-| 31 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 32 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
-| 33 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 34 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
-| 35 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
-| 36 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 37 | [Somber](http://twitter.com/search?q=Somber) | N/A |
-| 38 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 39 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 40 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 41 | [Champagne](http://twitter.com/search?q=Champagne) | N/A |
-| 42 | [Perp Walk](http://twitter.com/search?q=Perp+Walk) | N/A |
-| 43 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 44 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
-| 45 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 46 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 47 | [Outrageous](http://twitter.com/search?q=Outrageous) | N/A |
-| 48 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 1 | [Benson](http://twitter.com/search?q=Benson) | Benson is a given name of English origin, derived from the surname Benson. It is a variant of the name Benedict, which means "blessed". |
+| 2 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 3 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
+| 4 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
+| 5 | [David Bell](http://twitter.com/search?q=David+Bell) | N/A |
+| 6 | [Spencer Steer](http://twitter.com/search?q=Spencer+Steer) | N/A |
+| 7 | [Brennan](http://twitter.com/search?q=Brennan) | N/A |
+| 8 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
+| 9 | [#ForTheLand](http://twitter.com/search?q=%23ForTheLand) | N/A |
+| 10 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 11 | [#ATOBTTR](http://twitter.com/search?q=%23ATOBTTR) | N/A |
+| 12 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 13 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 14 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 15 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 16 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 17 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 18 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 19 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 20 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 21 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 22 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 23 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 24 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 25 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 26 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 27 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 28 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 29 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 30 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 31 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 32 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 33 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 34 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 35 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
+| 36 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 37 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
+| 38 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 39 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 40 | [Blue Jays](http://twitter.com/search?q=Blue+Jays) | N/A |
+| 41 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 42 | [Soros-backed](http://twitter.com/search?q=Soros-backed) | N/A |
+| 43 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
+| 44 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 45 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 46 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
+| 47 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 48 | [Mr. Bragg](http://twitter.com/search?q=Mr.+Bragg) | N/A |
 
 
 

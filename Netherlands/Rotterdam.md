@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-03-30 23:17:32 UTC`
+📆 Last Updated: `2023-03-31 00:28:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
-| 2 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 3 | [#hetroerom](http://twitter.com/search?q=%23hetroerom) | N/A |
-| 4 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
-| 5 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
+| 4 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
+| 5 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
 | 6 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
 | 7 | [#crisisberaad](http://twitter.com/search?q=%23crisisberaad) | N/A |
-| 8 | [#betterthanever](http://twitter.com/search?q=%23betterthanever) | N/A |
+| 8 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
 | 9 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 10 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 11 | [#vandaaginside](http://twitter.com/search?q=%23vandaaginside) | N/A |
-| 12 | [Samson](http://twitter.com/search?q=Samson) | N/A |
+| 11 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 12 | [#aedm](http://twitter.com/search?q=%23aedm) | N/A |
 | 13 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
-| 14 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 15 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
-| 16 | [Apache](http://twitter.com/search?q=Apache) | N/A |
-| 17 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 18 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 19 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
-| 20 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 21 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
-| 22 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 14 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
+| 15 | [Apache](http://twitter.com/search?q=Apache) | N/A |
+| 16 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 17 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 18 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
+| 19 | [Floor de Man](http://twitter.com/search?q=Floor+de+Man) | N/A |
+| 20 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 21 | [Samsom](http://twitter.com/search?q=Samsom) | N/A |
+| 22 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
 | 23 | [Nijlpaard](http://twitter.com/search?q=Nijlpaard) | N/A |
-| 24 | [Treets](http://twitter.com/search?q=Treets) | N/A |
-| 25 | [Statenlid](http://twitter.com/search?q=Statenlid) | N/A |
-| 26 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
-| 27 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
-| 28 | [Aïcha Marghadi](http://twitter.com/search?q=A%c3%afcha+Marghadi) | N/A |
+| 24 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
+| 25 | [Treets](http://twitter.com/search?q=Treets) | N/A |
+| 26 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 27 | [aïcha marghadi](http://twitter.com/search?q=a%c3%afcha+marghadi) | N/A |
+| 28 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 29 | [Duits](http://twitter.com/search?q=Duits) | N/A |
-| 30 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
+| 30 | [Havo](http://twitter.com/search?q=Havo) | N/A |
 | 31 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
-| 32 | [Havo](http://twitter.com/search?q=Havo) | N/A |
-| 33 | [0% BTW](http://twitter.com/search?q=0%25+BTW) | N/A |
-| 34 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
-| 35 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 36 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 37 | [Guus Meeuwis](http://twitter.com/search?q=Guus+Meeuwis) | N/A |
-| 38 | [Egbers](http://twitter.com/search?q=Egbers) | N/A |
-| 39 | [Litouwen](http://twitter.com/search?q=Litouwen) | N/A |
-| 40 | [Grolsch](http://twitter.com/search?q=Grolsch) | N/A |
-| 41 | [Paternotte](http://twitter.com/search?q=Paternotte) | N/A |
-| 42 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
-| 43 | [Maarten van Ooijen](http://twitter.com/search?q=Maarten+van+Ooijen) | N/A |
-| 44 | [Van Gelder](http://twitter.com/search?q=Van+Gelder) | N/A |
-| 45 | [Schijt](http://twitter.com/search?q=Schijt) | N/A |
-| 46 | [Sinkevicius](http://twitter.com/search?q=Sinkevicius) | N/A |
-| 47 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 48 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
-| 49 | [Eerdmans](http://twitter.com/search?q=Eerdmans) | N/A |
-| 50 | [hiemstra](http://twitter.com/search?q=hiemstra) | N/A |
+| 32 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
+| 33 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
+| 34 | [Guus Meeuwis](http://twitter.com/search?q=Guus+Meeuwis) | N/A |
+| 35 | [Litouwen](http://twitter.com/search?q=Litouwen) | N/A |
+| 36 | [0% BTW](http://twitter.com/search?q=0%25+BTW) | N/A |
+| 37 | [egbers](http://twitter.com/search?q=egbers) | N/A |
+| 38 | [maarten van ooijen](http://twitter.com/search?q=maarten+van+ooijen) | N/A |
+| 39 | [paternotte](http://twitter.com/search?q=paternotte) | N/A |
+| 40 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 41 | [van gelder](http://twitter.com/search?q=van+gelder) | N/A |
+| 42 | [hiemstra](http://twitter.com/search?q=hiemstra) | N/A |
+| 43 | [Kabinet](http://twitter.com/search?q=Kabinet) | N/A |
+| 44 | [Schijt](http://twitter.com/search?q=Schijt) | N/A |
+| 45 | [Appingedam](http://twitter.com/search?q=Appingedam) | N/A |
+| 46 | [Ondankbaar](http://twitter.com/search?q=Ondankbaar) | N/A |
+| 47 | [Mogadishu](http://twitter.com/search?q=Mogadishu) | N/A |
+| 48 | [Wallen](http://twitter.com/search?q=Wallen) | N/A |
+| 49 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 50 | [de belastingdienst](http://twitter.com/search?q=de+belastingdienst) | N/A |
 
 
 

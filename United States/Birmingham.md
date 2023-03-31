@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-03-30 23:17:55 UTC`
+📆 Last Updated: `2023-03-31 00:28:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
-| 2 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 3 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 4 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 5 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 6 | [#TrumpForPrison](http://twitter.com/search?q=%23TrumpForPrison) | N/A |
-| 7 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 8 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 9 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 10 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 11 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 12 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 13 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 14 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 15 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 17 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 18 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 19 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 20 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 21 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
-| 22 | [Former President Trump](http://twitter.com/search?q=Former+President+Trump) | N/A |
-| 23 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 24 | [Hunter Greene](http://twitter.com/search?q=Hunter+Greene) | N/A |
-| 25 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
-| 26 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 27 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 28 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
-| 29 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
-| 30 | [Pol Pot](http://twitter.com/search?q=Pol+Pot) | N/A |
-| 31 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
-| 32 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
-| 33 | [Robbie Grossman](http://twitter.com/search?q=Robbie+Grossman) | N/A |
-| 34 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 35 | [Insurrection](http://twitter.com/search?q=Insurrection) | N/A |
-| 36 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 37 | [Perp Walk](http://twitter.com/search?q=Perp+Walk) | N/A |
-| 38 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 39 | [Waino](http://twitter.com/search?q=Waino) | N/A |
-| 40 | [Geoff](http://twitter.com/search?q=Geoff) | N/A |
-| 41 | [Champagne](http://twitter.com/search?q=Champagne) | N/A |
-| 42 | [Somber](http://twitter.com/search?q=Somber) | N/A |
-| 43 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 44 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 45 | [Outrageous](http://twitter.com/search?q=Outrageous) | N/A |
-| 46 | [Adam Wainwright](http://twitter.com/search?q=Adam+Wainwright) | N/A |
-| 47 | [Brasier](http://twitter.com/search?q=Brasier) | Brasier is a type of lingerie that covers the breasts and torso. It is similar to a corset, but usually has less boning and is more lightweight. The word comes from the French word for "brazier," which is a type of open-top fireplace. In English, brasier can be used to refer to any type of lingerie that covers the breasts and torso. |
-| 48 | [Drew Smith](http://twitter.com/search?q=Drew+Smith) | N/A |
-| 49 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 1 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 2 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 3 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 4 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 5 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 6 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 7 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 8 | [#AskSNB](http://twitter.com/search?q=%23AskSNB) | N/A |
+| 9 | [#Bloodsport9](http://twitter.com/search?q=%23Bloodsport9) | N/A |
+| 10 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 11 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 12 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 13 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 14 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 15 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 16 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 17 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 18 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 19 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 21 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 22 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 23 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 24 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 25 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 26 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 27 | [Ibushi](http://twitter.com/search?q=Ibushi) | N/A |
+| 28 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
+| 29 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 30 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
+| 31 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 32 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 33 | [Blue Jays](http://twitter.com/search?q=Blue+Jays) | N/A |
+| 34 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 35 | [Soros-backed](http://twitter.com/search?q=Soros-backed) | N/A |
+| 36 | [Home Alone 2](http://twitter.com/search?q=Home+Alone+2) | N/A |
+| 37 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 38 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 39 | [Raise the Jolly Roger](http://twitter.com/search?q=Raise+the+Jolly+Roger) | N/A |
+| 40 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 41 | [Mr. Bragg](http://twitter.com/search?q=Mr.+Bragg) | N/A |
+| 42 | [Precedent](http://twitter.com/search?q=Precedent) | N/A |
+| 43 | [Helsley](http://twitter.com/search?q=Helsley) | N/A |
+| 44 | [Witch Hunt](http://twitter.com/search?q=Witch+Hunt) | N/A |
+| 45 | [Ronny](http://twitter.com/search?q=Ronny) | N/A |
+| 46 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 47 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
+| 48 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
+| 49 | [Governor DeSantis](http://twitter.com/search?q=Governor+DeSantis) | N/A |
 
 
 
