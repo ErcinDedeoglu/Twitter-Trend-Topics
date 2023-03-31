@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-03-31 02:33:45 UTC`
+📆 Last Updated: `2023-03-31 03:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for Ukraine
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 2 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
+| 2 | [#russiaisaterroiststate](http://twitter.com/search?q=%23russiaisaterroiststate) | N/A |
 | 3 | [Kharkiv](http://twitter.com/search?q=Kharkiv) | N/A |
 | 4 | [Foreign Affairs](http://twitter.com/search?q=Foreign+Affairs) | N/A |
 | 5 | [лавры](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b2%d1%80%d1%8b) | N/A |
 | 6 | [паша](http://twitter.com/search?q=%d0%bf%d0%b0%d1%88%d0%b0) | N/A |
 | 7 | [Kyiv-Pechersk Lavra](http://twitter.com/search?q=Kyiv-Pechersk+Lavra) | N/A |
 | 8 | [The Wall Street Journal](http://twitter.com/search?q=The+Wall+Street+Journal) | N/A |
-| 9 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 9 | [бога](http://twitter.com/search?q=%d0%b1%d0%be%d0%b3%d0%b0) | N/A |
 | 10 | [#RussiaIsCollapsing](http://twitter.com/search?q=%23RussiaIsCollapsing) | N/A |
 | 11 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
 | 12 | [Easter](http://twitter.com/search?q=Easter) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Ukraine
 | 32 | [московии](http://twitter.com/search?q=%d0%bc%d0%be%d1%81%d0%ba%d0%be%d0%b2%d0%b8%d0%b8) | N/A |
 | 33 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 34 | [херсон](http://twitter.com/search?q=%d1%85%d0%b5%d1%80%d1%81%d0%be%d0%bd) | N/A |
-| 35 | [часть 1](http://twitter.com/search?q=%d1%87%d0%b0%d1%81%d1%82%d1%8c+1) | N/A |
-| 36 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 37 | [German](http://twitter.com/search?q=German) | N/A |
-| 38 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 39 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
-| 40 | [єбать](http://twitter.com/search?q=%d1%94%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
-| 41 | [тримайтесь](http://twitter.com/search?q=%d1%82%d1%80%d0%b8%d0%bc%d0%b0%d0%b9%d1%82%d0%b5%d1%81%d1%8c) | N/A |
-| 42 | [Прошу](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%88%d1%83) | N/A |
-| 43 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 44 | [неправда](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bf%d1%80%d0%b0%d0%b2%d0%b4%d0%b0) | N/A |
-| 45 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 46 | [нехай](http://twitter.com/search?q=%d0%bd%d0%b5%d1%85%d0%b0%d0%b9) | N/A |
-| 47 | [Говорят](http://twitter.com/search?q=%d0%93%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
-| 48 | [киля](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bb%d1%8f) | N/A |
-| 49 | [такий](http://twitter.com/search?q=%d1%82%d0%b0%d0%ba%d0%b8%d0%b9) | N/A |
-| 50 | [стало](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bb%d0%be) | N/A |
+| 35 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 36 | [German](http://twitter.com/search?q=German) | N/A |
+| 37 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 38 | [короче](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
+| 39 | [єбать](http://twitter.com/search?q=%d1%94%d0%b1%d0%b0%d1%82%d1%8c) | N/A |
+| 40 | [тримайтесь](http://twitter.com/search?q=%d1%82%d1%80%d0%b8%d0%bc%d0%b0%d0%b9%d1%82%d0%b5%d1%81%d1%8c) | N/A |
+| 41 | [прошу](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d1%88%d1%83) | N/A |
+| 42 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 43 | [неправда](http://twitter.com/search?q=%d0%bd%d0%b5%d0%bf%d1%80%d0%b0%d0%b2%d0%b4%d0%b0) | N/A |
+| 44 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 45 | [нехай](http://twitter.com/search?q=%d0%bd%d0%b5%d1%85%d0%b0%d0%b9) | N/A |
+| 46 | [Говорят](http://twitter.com/search?q=%d0%93%d0%be%d0%b2%d0%be%d1%80%d1%8f%d1%82) | N/A |
+| 47 | [киля](http://twitter.com/search?q=%d0%ba%d0%b8%d0%bb%d1%8f) | N/A |
+| 48 | [такий](http://twitter.com/search?q=%d1%82%d0%b0%d0%ba%d0%b8%d0%b9) | N/A |
+| 49 | [стало](http://twitter.com/search?q=%d1%81%d1%82%d0%b0%d0%bb%d0%be) | N/A |
+| 50 | [Украиной](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | N/A |
 
 
 

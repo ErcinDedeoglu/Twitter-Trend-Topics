@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-31 02:33:00 UTC`
+📆 Last Updated: `2023-03-31 03:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [saeima](http://twitter.com/search?q=saeima) | N/A |
 | 2 | [satekles](http://twitter.com/search?q=satekles) | N/A |
 | 3 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 4 | [lapsa](http://twitter.com/search?q=lapsa) | N/A |
-| 5 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
+| 4 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
+| 5 | [Lapsa](http://twitter.com/search?q=Lapsa) | N/A |
 | 6 | [helmaņa](http://twitter.com/search?q=helma%c5%86a) | N/A |
 | 7 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 8 | [#WeAreNATO](http://twitter.com/search?q=%23WeAreNATO) | N/A |
@@ -36,14 +36,14 @@ This is top 50 for [Latvia](</Latvia>)
 | 19 | [Kura](http://twitter.com/search?q=Kura) | N/A |
 | 20 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
 | 21 | [diezgan](http://twitter.com/search?q=diezgan) | N/A |
-| 22 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 23 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 24 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 25 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 26 | [valsts](http://twitter.com/search?q=valsts) | N/A |
+| 22 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 23 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 25 | [valsts](http://twitter.com/search?q=valsts) | N/A |
+| 26 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
 | 27 | [putinu](http://twitter.com/search?q=putinu) | N/A |
 | 28 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 29 | [Cilvēks](http://twitter.com/search?q=Cilv%c4%93ks) | N/A |
+| 29 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
 | 30 | [knab](http://twitter.com/search?q=knab) | N/A |
 | 31 | [lieldienu](http://twitter.com/search?q=lieldienu) | N/A |
 | 32 | [tikko](http://twitter.com/search?q=tikko) | N/A |

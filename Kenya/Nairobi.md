@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-03-31 02:33:14 UTC`
+📆 Last Updated: `2023-03-31 03:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for [Kenya](</Kenya>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
-| 2 | [Pwani University](http://twitter.com/search?q=Pwani+University) | N/A |
-| 3 | [#Raila](http://twitter.com/search?q=%23Raila) | N/A |
-| 4 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 5 | [#blazespaces](http://twitter.com/search?q=%23blazespaces) | N/A |
-| 6 | [#AmkaNaWestFm](http://twitter.com/search?q=%23AmkaNaWestFm) | N/A |
-| 7 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 8 | [outering road](http://twitter.com/search?q=outering+road) | N/A |
-| 9 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
+| 1 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 2 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
+| 3 | [Pwani University](http://twitter.com/search?q=Pwani+University) | N/A |
+| 4 | [#Raila](http://twitter.com/search?q=%23Raila) | N/A |
+| 5 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
+| 6 | [#blazespaces](http://twitter.com/search?q=%23blazespaces) | N/A |
+| 7 | [#AmkaNaWestFm](http://twitter.com/search?q=%23AmkaNaWestFm) | N/A |
+| 8 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 9 | [outering road](http://twitter.com/search?q=outering+road) | N/A |
 | 10 | [KDD 233P](http://twitter.com/search?q=KDD+233P) | N/A |
-| 11 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 12 | [#HapaNdipo](http://twitter.com/search?q=%23HapaNdipo) | N/A |
+| 11 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
+| 12 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
 | 13 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
 | 14 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
 | 15 | [Vera](http://twitter.com/search?q=Vera) | N/A |
@@ -44,11 +44,11 @@ This is top 50 for [Kenya](</Kenya>)
 | 27 | [beijing raiders](http://twitter.com/search?q=beijing+raiders) | N/A |
 | 28 | [maxine wahome](http://twitter.com/search?q=maxine+wahome) | N/A |
 | 29 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 30 | [kayole](http://twitter.com/search?q=kayole) | N/A |
-| 31 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 32 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
-| 33 | [Karen](http://twitter.com/search?q=Karen) | N/A |
-| 34 | [KBB 233B](http://twitter.com/search?q=KBB+233B) | N/A |
+| 30 | [Kayole](http://twitter.com/search?q=Kayole) | N/A |
+| 31 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 32 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 33 | [cafe ole](http://twitter.com/search?q=cafe+ole) | N/A |
+| 34 | [Karen](http://twitter.com/search?q=Karen) | N/A |
 | 35 | [mortuary](http://twitter.com/search?q=mortuary) | N/A |
 | 36 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
 | 37 | [Tifa](http://twitter.com/search?q=Tifa) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for [Kenya](</Kenya>)
 | 39 | [Susan](http://twitter.com/search?q=Susan) | N/A |
 | 40 | [Closing](http://twitter.com/search?q=Closing) | N/A |
 | 41 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 42 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 43 | [Castrol](http://twitter.com/search?q=Castrol) | N/A |
-| 44 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 45 | [Yaya Toure](http://twitter.com/search?q=Yaya+Toure) | N/A |
-| 46 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
-| 47 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
-| 48 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 49 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 50 | [riri](http://twitter.com/search?q=riri) | N/A |
+| 42 | [Castrol](http://twitter.com/search?q=Castrol) | N/A |
+| 43 | [Northlands](http://twitter.com/search?q=Northlands) | N/A |
+| 44 | [KBB 233B](http://twitter.com/search?q=KBB+233B) | N/A |
+| 45 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 46 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 47 | [Yaya Toure](http://twitter.com/search?q=Yaya+Toure) | N/A |
+| 48 | [riri](http://twitter.com/search?q=riri) | N/A |
+| 49 | [Kindly DM](http://twitter.com/search?q=Kindly+DM) | N/A |
+| 50 | [nyong'o](http://twitter.com/search?q=nyong%27o) | N/A |
 
 
 

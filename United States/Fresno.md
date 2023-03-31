@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-03-31 02:33:28 UTC`
+📆 Last Updated: `2023-03-31 03:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 1 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
 | 2 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 3 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 4 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
-| 5 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 6 | [#Padres](http://twitter.com/search?q=%23Padres) | N/A |
-| 7 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 8 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
-| 9 | [#LFGSD](http://twitter.com/search?q=%23LFGSD) | N/A |
-| 10 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 11 | [The American](http://twitter.com/search?q=The+American) | N/A |
-| 12 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 5 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 6 | [#ITFDB](http://twitter.com/search?q=%23ITFDB) | N/A |
+| 7 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 8 | [#Padres](http://twitter.com/search?q=%23Padres) | N/A |
+| 9 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 10 | [#GoHalos](http://twitter.com/search?q=%23GoHalos) | N/A |
+| 11 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 12 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
 | 13 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 14 | [Petco](http://twitter.com/search?q=Petco) | N/A |
-| 15 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 15 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 16 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
 | 17 | [Speaker](http://twitter.com/search?q=Speaker) | Speaker is a person who speaks in public, usually to an audience. It can also refer to the device used to amplify sound, such as a loudspeaker. |
-| 18 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
-| 19 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
-| 20 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 21 | [Political](http://twitter.com/search?q=Political) | N/A |
-| 22 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 23 | [Donny](http://twitter.com/search?q=Donny) | Donny is a nickname for the name Donald, which is of English origin and means "ruler of the world". |
-| 24 | [President of the United States](http://twitter.com/search?q=President+of+the+United+States) | N/A |
-| 25 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 26 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 27 | [The Democrats](http://twitter.com/search?q=The+Democrats) | N/A |
-| 28 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
-| 29 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
-| 30 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 31 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 32 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 33 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 34 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 35 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 36 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 37 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 38 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 18 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 19 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 20 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 21 | [Jack Smith](http://twitter.com/search?q=Jack+Smith) | N/A |
+| 22 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 23 | [Presidential](http://twitter.com/search?q=Presidential) | N/A |
+| 24 | [Donny](http://twitter.com/search?q=Donny) | Donny is a nickname for the name Donald, which is of English origin and means "ruler of the world". |
+| 25 | [President of the United States](http://twitter.com/search?q=President+of+the+United+States) | N/A |
+| 26 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 27 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 28 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 29 | [RIP E3](http://twitter.com/search?q=RIP+E3) | N/A |
+| 30 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 31 | [Political](http://twitter.com/search?q=Political) | N/A |
+| 32 | [The Democrats](http://twitter.com/search?q=The+Democrats) | N/A |
+| 33 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 34 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 35 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 36 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 37 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 38 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 | 39 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 40 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 41 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 42 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 43 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 44 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 45 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 40 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 41 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 42 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 43 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 44 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 45 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
 | 46 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 47 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 47 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
 | 48 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 49 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 49 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
 
 
 

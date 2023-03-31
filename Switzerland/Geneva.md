@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-03-31 02:32:59 UTC`
+📆 Last Updated: `2023-03-31 03:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,26 +24,26 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
 | 8 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
 | 9 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 10 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 11 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 10 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 11 | [hintergrund](http://twitter.com/search?q=hintergrund) | N/A |
 | 12 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
 | 13 | [Punk](http://twitter.com/search?q=Punk) | N/A |
 | 14 | [Austria](http://twitter.com/search?q=Austria) | N/A |
 | 15 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 16 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
+| 16 | [unterschriften](http://twitter.com/search?q=unterschriften) | N/A |
 | 17 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
 | 18 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 19 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 20 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 21 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 22 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 23 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 26 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
-| 27 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 28 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 29 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 20 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 21 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 22 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 24 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 25 | [Stuss](http://twitter.com/search?q=Stuss) | N/A |
+| 26 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 27 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 28 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 29 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 30 | [rentenalter](http://twitter.com/search?q=rentenalter) | N/A |
 | 31 | [Osten](http://twitter.com/search?q=Osten) | N/A |
 | 32 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 45 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
 | 46 | [St. Gallen](http://twitter.com/search?q=St.+Gallen) | N/A |
 | 47 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
-| 48 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 48 | [Depp](http://twitter.com/search?q=Depp) | N/A |
 
 
 

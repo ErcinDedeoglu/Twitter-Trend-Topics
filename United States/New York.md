@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-03-31 02:33:31 UTC`
+📆 Last Updated: `2023-03-31 03:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 2 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 3 | [#Walker](http://twitter.com/search?q=%23Walker) | N/A |
-| 4 | [Ron DeSantis](http://twitter.com/search?q=Ron+DeSantis) | N/A |
+| 2 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
+| 3 | [Ron DeSantis](http://twitter.com/search?q=Ron+DeSantis) | N/A |
+| 4 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
 | 5 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 6 | [Rikers](http://twitter.com/search?q=Rikers) | N/A |
-| 7 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 7 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
 | 8 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 9 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 10 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 11 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
-| 12 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 13 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 14 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 15 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
-| 16 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 17 | [The American](http://twitter.com/search?q=The+American) | N/A |
-| 18 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 19 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 20 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
-| 21 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 22 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 23 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 24 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 25 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 26 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 27 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 9 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 10 | [Donnie](http://twitter.com/search?q=Donnie) | N/A |
+| 11 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
+| 12 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 13 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 14 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 15 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 16 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 17 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 18 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 19 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 20 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 21 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 22 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 23 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 24 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 25 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 26 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 27 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
 | 28 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
-| 29 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 30 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 31 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 32 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 33 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 34 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 35 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 36 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 37 | [#greysanatomy](http://twitter.com/search?q=%23greysanatomy) | N/A |
-| 38 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 29 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 30 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 31 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 32 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 33 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 34 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
+| 35 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
+| 36 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 37 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 38 | [Snell](http://twitter.com/search?q=Snell) | N/A |
 | 39 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 40 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
-| 41 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 42 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 43 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
-| 44 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 45 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
-| 46 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 47 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 48 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 40 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 41 | [#greysanatomy](http://twitter.com/search?q=%23greysanatomy) | N/A |
+| 42 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 43 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 44 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 45 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 46 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 47 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 48 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
 | 49 | [SOX WIN](http://twitter.com/search?q=SOX+WIN) | N/A |
-| 50 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 50 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
 
 
 

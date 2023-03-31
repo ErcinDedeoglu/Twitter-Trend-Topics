@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-03-31 02:33:34 UTC`
+📆 Last Updated: `2023-03-31 03:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
 | 2 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 3 | [Governor DeSantis](http://twitter.com/search?q=Governor+DeSantis) | N/A |
-| 4 | [Political](http://twitter.com/search?q=Political) | N/A |
-| 5 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 6 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
-| 7 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 8 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 3 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
+| 4 | [Governor DeSantis](http://twitter.com/search?q=Governor+DeSantis) | N/A |
+| 5 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 6 | [Political](http://twitter.com/search?q=Political) | N/A |
+| 7 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 8 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
 | 9 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 10 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 11 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 12 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 13 | [#MegaCon](http://twitter.com/search?q=%23MegaCon) | N/A |
-| 14 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 15 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 16 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 17 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 20 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 10 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 11 | [Megacon](http://twitter.com/search?q=Megacon) | N/A |
+| 12 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 13 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 14 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 15 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 16 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 17 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 18 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 19 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 20 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 | 21 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 22 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 23 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 24 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
-| 25 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 26 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 27 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 28 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 29 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 30 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 31 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 32 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 33 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 34 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
-| 35 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
-| 36 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 37 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 38 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
-| 39 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 40 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 41 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 42 | [SOX WIN](http://twitter.com/search?q=SOX+WIN) | N/A |
-| 43 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 44 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 45 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
-| 46 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 47 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 48 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 49 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 50 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 22 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 23 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 24 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
+| 25 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 26 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 27 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
+| 28 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 29 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 30 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 31 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 32 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 33 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
+| 34 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
+| 35 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 36 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 37 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 38 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 39 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 40 | [#greysanatomy](http://twitter.com/search?q=%23greysanatomy) | N/A |
+| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 42 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 43 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 44 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 45 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 46 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 47 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 48 | [SOX WIN](http://twitter.com/search?q=SOX+WIN) | N/A |
+| 49 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 50 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 
 
 

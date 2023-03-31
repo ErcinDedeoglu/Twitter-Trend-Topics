@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jordan
 
-📆 Last Updated: `2023-03-31 02:33:40 UTC`
+📆 Last Updated: `2023-03-31 03:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for Jordan
 | 24 | [الحاله الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
 | 25 | [رونالدينهو](http://twitter.com/search?q=%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%87%d9%88) | N/A |
 | 26 | [اميركا](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d8%a7) | N/A |
-| 27 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 28 | [سامح مول](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%ad+%d9%85%d9%88%d9%84) | N/A |
-| 29 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 30 | [الابالله العلي العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 31 | [ابو امي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%85%d9%8a) | N/A |
+| 27 | [الابالله العلي العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 28 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 29 | [سامح مول](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d8%ad+%d9%85%d9%88%d9%84) | N/A |
+| 30 | [ابو امي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%85%d9%8a) | N/A |
+| 31 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
 | 32 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
 | 33 | [حمزة يوسف](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
 | 34 | [مالديني](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a) | N/A |
-| 35 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
-| 36 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 37 | [مال اليتيم](http://twitter.com/search?q=%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d8%aa%d9%8a%d9%85) | N/A |
+| 35 | [جيرارد](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b1%d8%a7%d8%b1%d8%af) | N/A |
+| 36 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 37 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 38 | [علي الحبيب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
 | 39 | [الطرف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 40 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 41 | [ابو ظبي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b8%d8%a8%d9%8a) | N/A |
-| 42 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
-| 43 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 44 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 45 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
-| 46 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
-| 47 | [العمر المديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%af) | N/A |
-| 48 | [استراليا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 49 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
-| 50 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 40 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
+| 41 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 42 | [مال اليتيم](http://twitter.com/search?q=%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d8%aa%d9%8a%d9%85) | N/A |
+| 43 | [ابو ظبي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b8%d8%a8%d9%8a) | N/A |
+| 44 | [العام الماضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d8%b6%d9%8a) | N/A |
+| 45 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 46 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 47 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 48 | [علي امل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%85%d9%84) | N/A |
+| 49 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 50 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
 
 
 

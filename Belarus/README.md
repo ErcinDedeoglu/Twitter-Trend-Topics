@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-31 02:33:37 UTC`
+📆 Last Updated: `2023-03-31 03:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,8 +33,8 @@ This is top 50 for Belarus
 | 16 | [совета](http://twitter.com/search?q=%d1%81%d0%be%d0%b2%d0%b5%d1%82%d0%b0) | N/A |
 | 17 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
 | 18 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 19 | [твиттер](http://twitter.com/search?q=%d1%82%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 20 | [европе](http://twitter.com/search?q=%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 19 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 20 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
 | 21 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
 | 22 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
 | 23 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |

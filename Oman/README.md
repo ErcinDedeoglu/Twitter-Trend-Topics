@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-03-31 02:33:41 UTC`
+📆 Last Updated: `2023-03-31 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,11 +32,11 @@ This is top 50 for Oman
 | 15 | [جمال الكمشكي](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%83%d9%85%d8%b4%d9%83%d9%8a) | N/A |
 | 16 | [مسجد المضمار](http://twitter.com/search?q=%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d9%85%d8%b6%d9%85%d8%a7%d8%b1) | N/A |
 | 17 | [بن مسعود بن](http://twitter.com/search?q=%d8%a8%d9%86+%d9%85%d8%b3%d8%b9%d9%88%d8%af+%d8%a8%d9%86) | N/A |
-| 18 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
-| 19 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
-| 20 | [الضروره القصوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%b1%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%b5%d9%88%d9%8a) | N/A |
-| 21 | [بنت الخياط](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b7) | N/A |
-| 22 | [دليل الطالب](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 18 | [وزارة الصحة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b5%d8%ad%d8%a9) | N/A |
+| 19 | [الضروره القصوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%b1%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%b5%d9%88%d9%8a) | N/A |
+| 20 | [بنت الخياط](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%a7%d9%84%d8%ae%d9%8a%d8%a7%d8%b7) | N/A |
+| 21 | [دليل الطالب](http://twitter.com/search?q=%d8%af%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 22 | [صوت الصلاه](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87) | N/A |
 | 23 | [٨ رمضان](http://twitter.com/search?q=%d9%a8+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 24 | [شديد العدوي](http://twitter.com/search?q=%d8%b4%d8%af%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d8%af%d9%88%d9%8a) | N/A |
 | 25 | [اخبار عمان](http://twitter.com/search?q=%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
@@ -56,15 +56,15 @@ This is top 50 for Oman
 | 39 | [الجامعه الالمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 40 | [الاسر المتعففه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d9%85%d8%aa%d8%b9%d9%81%d9%81%d9%87) | N/A |
 | 41 | [الاسبوع الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a8%d9%88%d8%b9+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 42 | [الدرجه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 43 | [التحديث الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | التحديث الجديد is a phrase in Arabic which translates to "the new update" in English. It is used to refer to a new version of software, or an update to an existing version of software. |
-| 44 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 45 | [المكبرات الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 46 | [الانماء المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
-| 47 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 48 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
-| 49 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
-| 50 | [ابو عبدالله](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
+| 42 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 43 | [الدرجه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 44 | [التحديث الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | التحديث الجديد is a phrase in Arabic which translates to "the new update" in English. It is used to refer to a new version of software, or an update to an existing version of software. |
+| 45 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 46 | [المكبرات الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 47 | [الانماء المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 48 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 49 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
+| 50 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
 
 
 
