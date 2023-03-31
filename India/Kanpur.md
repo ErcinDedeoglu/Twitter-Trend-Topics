@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-03-31 03:17:12 UTC`
+📆 Last Updated: `2023-03-31 04:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RamNavami](http://twitter.com/search?q=%23RamNavami) | N/A |
-| 2 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 3 | [#1DayToFoundationMonth](http://twitter.com/search?q=%231DayToFoundationMonth) | N/A |
-| 4 | [Perfect Solution](http://twitter.com/search?q=Perfect+Solution) | N/A |
-| 5 | [Good Bye To Sorrows](http://twitter.com/search?q=Good+Bye+To+Sorrows) | N/A |
-| 6 | [#कर्नल_बैंसला_अमर_रहे](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2_%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%b8%e0%a4%b2%e0%a4%be_%e0%a4%85%e0%a4%ae%e0%a4%b0_%e0%a4%b0%e0%a4%b9%e0%a5%87) | N/A |
-| 7 | [#AsharamjiBapuQuotes](http://twitter.com/search?q=%23AsharamjiBapuQuotes) | N/A |
-| 8 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 9 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 10 | [कर्नल किरोड़ी सिंह](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 11 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 12 | [मुक्त समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 13 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 1 | [#1DayToFoundationMonth](http://twitter.com/search?q=%231DayToFoundationMonth) | N/A |
+| 2 | [#कर्नल_बैंसला_अमर_रहे](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2_%e0%a4%ac%e0%a5%88%e0%a4%82%e0%a4%b8%e0%a4%b2%e0%a4%be_%e0%a4%85%e0%a4%ae%e0%a4%b0_%e0%a4%b0%e0%a4%b9%e0%a5%87) | N/A |
+| 3 | [Perfect Solution](http://twitter.com/search?q=Perfect+Solution) | N/A |
+| 4 | [Good Bye To Sorrows](http://twitter.com/search?q=Good+Bye+To+Sorrows) | N/A |
+| 5 | [#AsharamjiBapuQuotes](http://twitter.com/search?q=%23AsharamjiBapuQuotes) | N/A |
+| 6 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 7 | [कर्नल किरोड़ी सिंह](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 8 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
+| 9 | [Bollywood Envied SSR Talent](http://twitter.com/search?q=Bollywood+Envied+SSR+Talent) | N/A |
+| 10 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
+| 11 | [SAIYA WINNING HEARTS](http://twitter.com/search?q=SAIYA+WINNING+HEARTS) | N/A |
+| 12 | [शाह मस्ताना](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%b9+%e0%a4%ae%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 13 | [मुक्त समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
 | 14 | [गुर्जर समाज](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a4%b0+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 15 | [Bollywood Envied SSR Talent](http://twitter.com/search?q=Bollywood+Envied+SSR+Talent) | N/A |
-| 16 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 17 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
-| 18 | [Lord Rama](http://twitter.com/search?q=Lord+Rama) | N/A |
-| 19 | [SAIYA WINNING HEARTS](http://twitter.com/search?q=SAIYA+WINNING+HEARTS) | N/A |
-| 20 | [भगवान राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 21 | [Kabir Is God](http://twitter.com/search?q=Kabir+Is+God) | Kabir Is God is a phrase used by followers of the Indian mystic poet and saint Kabir. It is a declaration of faith in the divine nature of Kabir, who is believed to be an incarnation of God. The phrase can also be interpreted as a call to remember and honor the teachings of Kabir, which emphasize the oneness of all creation and the need for love and compassion in our lives. |
-| 22 | [आनंदी गोपाल जोशी](http://twitter.com/search?q=%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6%e0%a5%80+%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
-| 23 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 24 | [सिया राम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 25 | [Shah Mastana Ji Maharaj](http://twitter.com/search?q=Shah+Mastana+Ji+Maharaj) | N/A |
-| 26 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 27 | [प्रभु राम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a5%81+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 28 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 29 | [SSR Working On Many Projects](http://twitter.com/search?q=SSR+Working+On+Many+Projects) | N/A |
-| 30 | [padharo ram lalla](http://twitter.com/search?q=padharo+ram+lalla) | N/A |
-| 31 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 32 | [Howrah](http://twitter.com/search?q=Howrah) | N/A |
-| 33 | [गुरु अंगद देव](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%85%e0%a4%82%e0%a4%97%e0%a4%a6+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 34 | [Maryada Purushottam Ram](http://twitter.com/search?q=Maryada+Purushottam+Ram) | N/A |
-| 35 | [कौशल्या हितकारी](http://twitter.com/search?q=%e0%a4%95%e0%a5%8c%e0%a4%b6%e0%a4%b2%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b9%e0%a4%bf%e0%a4%a4%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 36 | [श्री महाकालेश्वर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a4%be%e0%a4%b2%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | N/A |
-| 37 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 38 | [IPL DAY](http://twitter.com/search?q=IPL+DAY) | N/A |
-| 39 | [Jai Jagannath](http://twitter.com/search?q=Jai+Jagannath) | N/A |
-| 40 | [महिला डॉक्टर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%a1%e0%a5%89%e0%a4%95%e0%a5%8d%e0%a4%9f%e0%a4%b0) | N/A |
-| 41 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 42 | [आरती श्रृंगार दर्शन](http://twitter.com/search?q=%e0%a4%86%e0%a4%b0%e0%a4%a4%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%83%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b0+%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%b6%e0%a4%a8) | N/A |
-| 43 | [प्रथम पुण्य](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%a3%e0%a5%8d%e0%a4%af) | N/A |
-| 44 | [CM of Delhi](http://twitter.com/search?q=CM+of+Delhi) | N/A |
-| 45 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 46 | [इंदौर मंदिर](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a6%e0%a5%8c%e0%a4%b0+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 47 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 48 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
-| 49 | [फायर ब्रिगेड](http://twitter.com/search?q=%e0%a4%ab%e0%a4%be%e0%a4%af%e0%a4%b0+%e0%a4%ac%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%97%e0%a5%87%e0%a4%a1) | N/A |
-| 50 | [बिहार बोर्ड](http://twitter.com/search?q=%e0%a4%ac%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%b0+%e0%a4%ac%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%a1) | N/A |
+| 15 | [Bracewell](http://twitter.com/search?q=Bracewell) | Bracewell is a surname of English origin. It is derived from the Old English words "braec" meaning "hill" and "wella" meaning "spring". The name is thought to refer to someone who lived near a hill with a spring. |
+| 16 | [आनंदी गोपाल जोशी](http://twitter.com/search?q=%e0%a4%86%e0%a4%a8%e0%a4%82%e0%a4%a6%e0%a5%80+%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%9c%e0%a5%8b%e0%a4%b6%e0%a5%80) | N/A |
+| 17 | [गुरु अंगद देव](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%85%e0%a4%82%e0%a4%97%e0%a4%a6+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 19 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 20 | [शोभा यात्रा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8b%e0%a4%ad%e0%a4%be+%e0%a4%af%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 21 | [संसद भवन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%b8%e0%a4%a6+%e0%a4%ad%e0%a4%b5%e0%a4%a8) | N/A |
+| 22 | [Howrah](http://twitter.com/search?q=Howrah) | N/A |
+| 23 | [Bengal](http://twitter.com/search?q=Bengal) | N/A |
+| 24 | [पश्चिम बंगाल](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b6%e0%a5%8d%e0%a4%9a%e0%a4%bf%e0%a4%ae+%e0%a4%ac%e0%a4%82%e0%a4%97%e0%a4%be%e0%a4%b2) | N/A |
+| 25 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 26 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 27 | [#ViduthalaiPart1](http://twitter.com/search?q=%23ViduthalaiPart1) | N/A |
+| 28 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 29 | [#कर्नल_साहब_अमर_रहे](http://twitter.com/search?q=%23%e0%a4%95%e0%a4%b0%e0%a5%8d%e0%a4%a8%e0%a4%b2_%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a4%ac_%e0%a4%85%e0%a4%ae%e0%a4%b0_%e0%a4%b0%e0%a4%b9%e0%a5%87) | N/A |
+| 30 | [#SSLCExam](http://twitter.com/search?q=%23SSLCExam) | N/A |
+| 31 | [#cskvsgt](http://twitter.com/search?q=%23cskvsgt) | N/A |
+| 32 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 33 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 34 | [#IndoreAccident](http://twitter.com/search?q=%23IndoreAccident) | N/A |
+| 35 | [#RamNavamiShobhaYatra](http://twitter.com/search?q=%23RamNavamiShobhaYatra) | N/A |
+| 36 | [#Kalakshetra](http://twitter.com/search?q=%23Kalakshetra) | N/A |
+| 37 | [#VetriMaaran](http://twitter.com/search?q=%23VetriMaaran) | N/A |
+| 38 | [#दैनिक_भास्कर_दलाल_है](http://twitter.com/search?q=%23%e0%a4%a6%e0%a5%88%e0%a4%a8%e0%a4%bf%e0%a4%95_%e0%a4%ad%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%95%e0%a4%b0_%e0%a4%a6%e0%a4%b2%e0%a4%be%e0%a4%b2_%e0%a4%b9%e0%a5%88) | N/A |
+| 39 | [#Gaslight](http://twitter.com/search?q=%23Gaslight) | N/A |
+| 40 | [#IPLonJioCinema](http://twitter.com/search?q=%23IPLonJioCinema) | N/A |
+| 41 | [#ChennaiSuperKings](http://twitter.com/search?q=%23ChennaiSuperKings) | N/A |
+| 42 | [#Dhoni](http://twitter.com/search?q=%23Dhoni) | N/A |
+| 43 | [#WhistlePodu](http://twitter.com/search?q=%23WhistlePodu) | N/A |
+| 44 | [#Yellove](http://twitter.com/search?q=%23Yellove) | N/A |
+| 45 | [#GujaratTitans](http://twitter.com/search?q=%23GujaratTitans) | N/A |
+| 46 | [#TATAIPL2023](http://twitter.com/search?q=%23TATAIPL2023) | N/A |
+| 47 | [#VikatanAwards](http://twitter.com/search?q=%23VikatanAwards) | N/A |
+| 48 | [#NewParliamentBuilding](http://twitter.com/search?q=%23NewParliamentBuilding) | N/A |
+| 49 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
 
 
 

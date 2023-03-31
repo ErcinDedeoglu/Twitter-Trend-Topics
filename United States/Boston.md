@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-03-31 03:17:17 UTC`
+📆 Last Updated: `2023-03-31 04:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 2 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 3 | [#Bruins](http://twitter.com/search?q=%23Bruins) | N/A |
-| 4 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 5 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 7 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 8 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 9 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 10 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 11 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 12 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 13 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 14 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 15 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 16 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 17 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
-| 18 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 19 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 20 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 21 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 22 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 23 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 24 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
-| 25 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
-| 26 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 27 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 28 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 29 | [#greysanatomy](http://twitter.com/search?q=%23greysanatomy) | N/A |
-| 30 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 31 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 32 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 33 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 34 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 35 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 36 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 37 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 38 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 39 | [SOX WIN](http://twitter.com/search?q=SOX+WIN) | N/A |
-| 40 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 41 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 42 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
-| 43 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 44 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 45 | [Grandal](http://twitter.com/search?q=Grandal) | N/A |
-| 46 | [Jordan Thompson](http://twitter.com/search?q=Jordan+Thompson) | N/A |
-| 47 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
-| 48 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 49 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 50 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
+| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 2 | [Brown](http://twitter.com/search?q=Brown) | N/A |
+| 3 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 4 | [#BleedGreen](http://twitter.com/search?q=%23BleedGreen) | N/A |
+| 5 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
+| 6 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
+| 7 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 8 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 9 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 10 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
+| 11 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 12 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 13 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 14 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 15 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 16 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 17 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 18 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 20 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 21 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 22 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 23 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 24 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 25 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
+| 26 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 27 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 28 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 29 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 30 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 31 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 32 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 33 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 34 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 35 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 36 | [CJ Cron](http://twitter.com/search?q=CJ+Cron) | N/A |
+| 37 | [Mean Green](http://twitter.com/search?q=Mean+Green) | N/A |
+| 38 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
+| 39 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 40 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 41 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 42 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
+| 43 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 44 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 45 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 46 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 47 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
+| 48 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 49 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 50 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
 
 
 

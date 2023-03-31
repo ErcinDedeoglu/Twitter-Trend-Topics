@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-03-31 03:16:45 UTC`
+📆 Last Updated: `2023-03-31 04:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 2 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 3 | [#LadyNight](http://twitter.com/search?q=%23LadyNight) | N/A |
-| 4 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 5 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 7 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 8 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 9 | [#defantenobial](http://twitter.com/search?q=%23defantenobial) | N/A |
-| 10 | [TRUST ISSUES OUT NOW](http://twitter.com/search?q=TRUST+ISSUES+OUT+NOW) | N/A |
-| 11 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
-| 12 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
-| 13 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 14 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
-| 15 | [AMO VOCÊS MeM](http://twitter.com/search?q=AMO+VOC%c3%8aS+MeM) | N/A |
-| 16 | [Tadeu Schmidt](http://twitter.com/search?q=Tadeu+Schmidt) | N/A |
-| 17 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 18 | [Marvvila e Amanda](http://twitter.com/search?q=Marvvila+e+Amanda) | N/A |
-| 19 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 20 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 21 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 22 | [H.E.R](http://twitter.com/search?q=H.E.R) | N/A |
-| 23 | [tata werneck](http://twitter.com/search?q=tata+werneck) | N/A |
-| 24 | [eiza](http://twitter.com/search?q=eiza) | N/A |
-| 25 | [rexha](http://twitter.com/search?q=rexha) | N/A |
-| 26 | [MENTA COM CHÁ](http://twitter.com/search?q=MENTA+COM+CH%c3%81) | N/A |
-| 27 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 28 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
-| 29 | [3º E.M](http://twitter.com/search?q=3%c2%ba+E.M) | N/A |
-| 30 | [Teto](http://twitter.com/search?q=Teto) | N/A |
-| 31 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 32 | [Caseira](http://twitter.com/search?q=Caseira) | N/A |
-| 33 | [camila cabello](http://twitter.com/search?q=camila+cabello) | N/A |
-| 34 | [DR FRED ASTRO REI](http://twitter.com/search?q=DR+FRED+ASTRO+REI) | N/A |
-| 35 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 36 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 37 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 38 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
-| 39 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 40 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
-| 41 | [APARECE KEY](http://twitter.com/search?q=APARECE+KEY) | N/A |
-| 42 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 43 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 45 | [Yejin](http://twitter.com/search?q=Yejin) | N/A |
-| 46 | [Jogadora](http://twitter.com/search?q=Jogadora) | N/A |
-| 47 | [FACE RE-COMEBACK PARTY](http://twitter.com/search?q=FACE+RE-COMEBACK+PARTY) | N/A |
-| 48 | [Fazenda](http://twitter.com/search?q=Fazenda) | N/A |
+| 2 | [PORTALS OUT NOW](http://twitter.com/search?q=PORTALS+OUT+NOW) | N/A |
+| 3 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 4 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
+| 5 | [#defantenobial](http://twitter.com/search?q=%23defantenobial) | N/A |
+| 6 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 7 | [CANTA MAIS BRUNA](http://twitter.com/search?q=CANTA+MAIS+BRUNA) | N/A |
+| 8 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 9 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 10 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 11 | [TRUST ISSUES OUT NOW](http://twitter.com/search?q=TRUST+ISSUES+OUT+NOW) | N/A |
+| 12 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 13 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 14 | [SPIDER WEB](http://twitter.com/search?q=SPIDER+WEB) | N/A |
+| 15 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 16 | [TUNNEL VISION](http://twitter.com/search?q=TUNNEL+VISION) | N/A |
+| 17 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 18 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 19 | [ALL EYES ON](http://twitter.com/search?q=ALL+EYES+ON) | N/A |
+| 20 | [MOON CYCLE](http://twitter.com/search?q=MOON+CYCLE) | N/A |
+| 21 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 22 | [FAERIE SOIRÉE](http://twitter.com/search?q=FAERIE+SOIR%c3%89E) | N/A |
+| 23 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
+| 24 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 25 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
+| 26 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 27 | [Tadeu Schmidt](http://twitter.com/search?q=Tadeu+Schmidt) | N/A |
+| 28 | [Evil](http://twitter.com/search?q=Evil) | N/A |
+| 29 | [WOMB](http://twitter.com/search?q=WOMB) | N/A |
+| 30 | [Marvvila e Amanda](http://twitter.com/search?q=Marvvila+e+Amanda) | N/A |
+| 31 | [AMO VOCÊS MeM](http://twitter.com/search?q=AMO+VOC%c3%8aS+MeM) | N/A |
+| 32 | [tata werneck](http://twitter.com/search?q=tata+werneck) | N/A |
+| 33 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 34 | [Larissa e Aline](http://twitter.com/search?q=Larissa+e+Aline) | N/A |
+| 35 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 36 | [rexha](http://twitter.com/search?q=rexha) | N/A |
+| 37 | [Leeches](http://twitter.com/search?q=Leeches) | N/A |
+| 38 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 39 | [eiza](http://twitter.com/search?q=eiza) | N/A |
+| 40 | [Lauren Jauregui](http://twitter.com/search?q=Lauren+Jauregui) | N/A |
+| 41 | [H.E.R](http://twitter.com/search?q=H.E.R) | N/A |
+| 42 | [MENTA COM CHÁ](http://twitter.com/search?q=MENTA+COM+CH%c3%81) | N/A |
+| 43 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 44 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 45 | [camila cabello](http://twitter.com/search?q=camila+cabello) | N/A |
+| 46 | [3º E.M](http://twitter.com/search?q=3%c2%ba+E.M) | N/A |
+| 47 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
+| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 49 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
 
 
 

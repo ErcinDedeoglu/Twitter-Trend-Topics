@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-03-31 03:17:21 UTC`
+📆 Last Updated: `2023-03-31 04:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
 | 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 4 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 5 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 6 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
-| 7 | [Governor DeSantis](http://twitter.com/search?q=Governor+DeSantis) | N/A |
-| 8 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 9 | [Political](http://twitter.com/search?q=Political) | N/A |
-| 10 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 11 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 12 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
-| 13 | [Megacon](http://twitter.com/search?q=Megacon) | N/A |
-| 14 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 15 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 16 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 17 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 18 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 19 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 20 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 21 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 22 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 23 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 24 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 25 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 26 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 27 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 28 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 29 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
-| 30 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 31 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 32 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 33 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 34 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 35 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 36 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
-| 37 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
-| 38 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 39 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 40 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 41 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 42 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 44 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 45 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 46 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 47 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 48 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 49 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 50 | [SOX WIN](http://twitter.com/search?q=SOX+WIN) | N/A |
+| 5 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 6 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 7 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 8 | [Governor DeSantis](http://twitter.com/search?q=Governor+DeSantis) | N/A |
+| 9 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
+| 10 | [#MAGA](http://twitter.com/search?q=%23MAGA) | N/A |
+| 11 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 13 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 14 | [Political](http://twitter.com/search?q=Political) | N/A |
+| 15 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 16 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 17 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 18 | [Mickey Mouse](http://twitter.com/search?q=Mickey+Mouse) | N/A |
+| 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 20 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 21 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 22 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
+| 23 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 24 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 25 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 26 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 27 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 28 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 30 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 31 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 32 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 33 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 35 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 36 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 37 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 38 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 39 | [North Texas](http://twitter.com/search?q=North+Texas) | N/A |
+| 40 | [Will Smith](http://twitter.com/search?q=Will+Smith) | N/A |
+| 41 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 42 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 43 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 44 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 45 | [CJ Cron](http://twitter.com/search?q=CJ+Cron) | N/A |
+| 46 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
+| 47 | [Mean Green](http://twitter.com/search?q=Mean+Green) | N/A |
+| 48 | [Thomas Bryant](http://twitter.com/search?q=Thomas+Bryant) | Thomas Bryant is a name. It is of English origin and means "twin". |
+| 49 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 50 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
 
 
 

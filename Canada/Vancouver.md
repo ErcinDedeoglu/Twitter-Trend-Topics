@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-03-31 03:16:33 UTC`
+📆 Last Updated: `2023-03-31 04:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Broadway](http://twitter.com/search?q=Broadway) | N/A |
-| 2 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
-| 3 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
-| 4 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 5 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 6 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 7 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 8 | [Mikey Anderson](http://twitter.com/search?q=Mikey+Anderson) | N/A |
-| 9 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 10 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 11 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 12 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 13 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
-| 14 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 15 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
-| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 17 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 18 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 19 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 20 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 21 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 22 | [Brassard](http://twitter.com/search?q=Brassard) | N/A |
-| 23 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 24 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 1 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
+| 2 | [Broadway](http://twitter.com/search?q=Broadway) | N/A |
+| 3 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 4 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 6 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 7 | [Talbot](http://twitter.com/search?q=Talbot) | N/A |
+| 8 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 9 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 10 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 11 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 12 | [Mikey Anderson](http://twitter.com/search?q=Mikey+Anderson) | N/A |
+| 13 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 14 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
+| 15 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 16 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
+| 17 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 18 | [C-11](http://twitter.com/search?q=C-11) | N/A |
+| 19 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 20 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 21 | [Doughty](http://twitter.com/search?q=Doughty) | N/A |
+| 22 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 23 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 24 | [Romano](http://twitter.com/search?q=Romano) | N/A |
 | 25 | [LOCK HIM UP](http://twitter.com/search?q=LOCK+HIM+UP) | N/A |
-| 26 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 27 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 28 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 29 | [Gudas](http://twitter.com/search?q=Gudas) | Gudas is a Lithuanian surname. It is derived from the Lithuanian word gudas, which means "woodpecker". |
+| 26 | [Brassard](http://twitter.com/search?q=Brassard) | N/A |
+| 27 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 28 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 29 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 30 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 31 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 32 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 33 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
-| 34 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
-| 35 | [Mayza](http://twitter.com/search?q=Mayza) | N/A |
-| 36 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 37 | [Matthew Tkachuk](http://twitter.com/search?q=Matthew+Tkachuk) | N/A |
-| 38 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 39 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 40 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 41 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
-| 42 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
-| 43 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 44 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 45 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 31 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 32 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 33 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 34 | [Mayza](http://twitter.com/search?q=Mayza) | N/A |
+| 35 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
+| 36 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 37 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 38 | [Kuzie](http://twitter.com/search?q=Kuzie) | N/A |
+| 39 | [Claude Giroux](http://twitter.com/search?q=Claude+Giroux) | N/A |
+| 40 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 41 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 42 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 43 | [Arenado](http://twitter.com/search?q=Arenado) | N/A |
+| 44 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 45 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
 | 46 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 47 | [Gwyneth](http://twitter.com/search?q=Gwyneth) | N/A |
-| 48 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
-| 49 | [Schneider](http://twitter.com/search?q=Schneider) | N/A |
+| 47 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 48 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
+| 49 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
 | 50 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 
 

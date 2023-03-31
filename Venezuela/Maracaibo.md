@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracaibo
 
-📆 Last Updated: `2023-03-31 03:16:42 UTC`
+📆 Last Updated: `2023-03-31 04:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#MaduroEsUnDuro](http://twitter.com/search?q=%23MaduroEsUnDuro) | N/A |
 | 3 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
 | 4 | [Pedro Maldonado](http://twitter.com/search?q=Pedro+Maldonado) | N/A |
-| 5 | [#29Mar](http://twitter.com/search?q=%2329Mar) | N/A |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [Emely](http://twitter.com/search?q=Emely) | N/A |
-| 8 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
-| 9 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 10 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 11 | [Casos](http://twitter.com/search?q=Casos) | N/A |
-| 12 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 13 | [Jorge Félix](http://twitter.com/search?q=Jorge+F%c3%a9lix) | N/A |
-| 14 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
-| 15 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 16 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
-| 17 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
-| 18 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 19 | [Miko](http://twitter.com/search?q=Miko) | N/A |
-| 20 | [Ichiro Suzuki](http://twitter.com/search?q=Ichiro+Suzuki) | N/A |
-| 21 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
-| 22 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 23 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
-| 24 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
+| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 6 | [#29Mar](http://twitter.com/search?q=%2329Mar) | N/A |
+| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 8 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 9 | [Emely](http://twitter.com/search?q=Emely) | N/A |
+| 10 | [#BEISBOLXTELEVEN](http://twitter.com/search?q=%23BEISBOLXTELEVEN) | N/A |
+| 11 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 12 | [Casos](http://twitter.com/search?q=Casos) | N/A |
+| 13 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
+| 14 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 15 | [Jorge Felix](http://twitter.com/search?q=Jorge+Felix) | N/A |
+| 16 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 17 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 18 | [Silvestre](http://twitter.com/search?q=Silvestre) | N/A |
+| 19 | [Fuerte Tiuna](http://twitter.com/search?q=Fuerte+Tiuna) | N/A |
+| 20 | [LOST IN THE LIGHTS](http://twitter.com/search?q=LOST+IN+THE+LIGHTS) | N/A |
+| 21 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 22 | [Ichiro Suzuki](http://twitter.com/search?q=Ichiro+Suzuki) | N/A |
+| 23 | [Sidor](http://twitter.com/search?q=Sidor) | N/A |
+| 24 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
 | 25 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 26 | [Perejil](http://twitter.com/search?q=Perejil) | N/A |
-| 27 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
-| 28 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
-| 29 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 30 | [Orlando Arcia](http://twitter.com/search?q=Orlando+Arcia) | N/A |
-| 31 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
-| 32 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
-| 33 | [Meryl Streep](http://twitter.com/search?q=Meryl+Streep) | Meryl Streep is an American actress who has won three Academy Awards, eight Golden Globe Awards, and two Emmy Awards. She is widely regarded as one of the greatest actresses of all time. |
-| 34 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
-| 35 | [Virgen de Coromoto](http://twitter.com/search?q=Virgen+de+Coromoto) | N/A |
-| 36 | [Dólar](http://twitter.com/search?q=D%c3%b3lar) | N/A |
-| 37 | [Hinterlaces](http://twitter.com/search?q=Hinterlaces) | N/A |
-| 38 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 39 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
-| 40 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
-| 41 | [Caleca](http://twitter.com/search?q=Caleca) | N/A |
-| 42 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
-| 43 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 44 | [Chino Cano](http://twitter.com/search?q=Chino+Cano) | N/A |
-| 45 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 46 | [Hilda Abraham](http://twitter.com/search?q=Hilda+Abraham) | N/A |
-| 47 | [Bendecido Jueves](http://twitter.com/search?q=Bendecido+Jueves) | N/A |
-| 48 | [Julio Mayora](http://twitter.com/search?q=Julio+Mayora) | N/A |
-| 49 | [Play Ball](http://twitter.com/search?q=Play+Ball) | N/A |
-| 50 | [Nazareth Marín](http://twitter.com/search?q=Nazareth+Mar%c3%adn) | N/A |
+| 26 | [Johana Torres](http://twitter.com/search?q=Johana+Torres) | N/A |
+| 27 | [Salvador Pérez](http://twitter.com/search?q=Salvador+P%c3%a9rez) | N/A |
+| 28 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 29 | [Perejil](http://twitter.com/search?q=Perejil) | N/A |
+| 30 | [México](http://twitter.com/search?q=M%c3%a9xico) | N/A |
+| 31 | [Ignacio](http://twitter.com/search?q=Ignacio) | N/A |
+| 32 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | N/A |
+| 33 | [Orlando Arcia](http://twitter.com/search?q=Orlando+Arcia) | N/A |
+| 34 | [Papa Francisco](http://twitter.com/search?q=Papa+Francisco) | N/A |
+| 35 | [Perdomo](http://twitter.com/search?q=Perdomo) | N/A |
+| 36 | [Meryl Streep](http://twitter.com/search?q=Meryl+Streep) | Meryl Streep is an American actress who has won three Academy Awards, eight Golden Globe Awards, and two Emmy Awards. She is widely regarded as one of the greatest actresses of all time. |
+| 37 | [Virgen de Coromoto](http://twitter.com/search?q=Virgen+de+Coromoto) | N/A |
+| 38 | [Denunciado](http://twitter.com/search?q=Denunciado) | N/A |
+| 39 | [Hinterlaces](http://twitter.com/search?q=Hinterlaces) | N/A |
+| 40 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 41 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 42 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 43 | [Aaron Judge](http://twitter.com/search?q=Aaron+Judge) | Aaron Judge is an American professional baseball right fielder for the New York Yankees of Major League Baseball (MLB). He is known for his prodigious home runs and impressive batting average. The phrase "Aaron Judge" is used to refer to a player who is a powerful hitter and has a high batting average. |
+| 44 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 45 | [venezuela y españa](http://twitter.com/search?q=venezuela+y+espa%c3%b1a) | N/A |
+| 46 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 47 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
+| 48 | [tratado de paz y amistad](http://twitter.com/search?q=tratado+de+paz+y+amistad) | N/A |
+| 49 | [Hilda Abraham](http://twitter.com/search?q=Hilda+Abraham) | N/A |
 
 
 

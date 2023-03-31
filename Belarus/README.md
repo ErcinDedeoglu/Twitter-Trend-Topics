@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-31 03:17:27 UTC`
+📆 Last Updated: `2023-03-31 04:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,28 +17,33 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [беларуси и россии](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8+%d0%b8+%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
 | 2 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
-| 3 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
-| 4 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
-| 5 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 3 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
+| 4 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
+| 5 | [красиво](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
 | 6 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 7 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
-| 8 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 9 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 10 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 11 | [капец](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
-| 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 13 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
-| 14 | [#BeWorthy](http://twitter.com/search?q=%23BeWorthy) | N/A |
-| 15 | [даааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
-| 16 | [совета](http://twitter.com/search?q=%d1%81%d0%be%d0%b2%d0%b5%d1%82%d0%b0) | N/A |
-| 17 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 18 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 19 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 20 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 21 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 22 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
-| 23 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
-| 24 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
+| 7 | [капец](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 8 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 9 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
+| 10 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 11 | [#adshares](http://twitter.com/search?q=%23adshares) | N/A |
+| 12 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 13 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 14 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 15 | [в минске](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
+| 16 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
+| 17 | [франции](http://twitter.com/search?q=%d1%84%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
+| 18 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 19 | [даааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
+| 20 | [совета](http://twitter.com/search?q=%d1%81%d0%be%d0%b2%d0%b5%d1%82%d0%b0) | N/A |
+| 21 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 22 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 23 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 24 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 25 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 26 | [вроде](http://twitter.com/search?q=%d0%b2%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 27 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
+| 28 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
+| 29 | [#BeWorthy](http://twitter.com/search?q=%23BeWorthy) | N/A |
 
 
 
