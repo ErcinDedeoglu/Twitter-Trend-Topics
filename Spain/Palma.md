@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-03-31 11:16:49 UTC`
+📆 Last Updated: `2023-03-31 12:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 2 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
-| 3 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
-| 4 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
-| 5 | [Rafa Yuste](http://twitter.com/search?q=Rafa+Yuste) | N/A |
-| 6 | [Irene Paredes](http://twitter.com/search?q=Irene+Paredes) | N/A |
-| 7 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 8 | [#AlejandraJacintoTeDefiende](http://twitter.com/search?q=%23AlejandraJacintoTeDefiende) | N/A |
-| 9 | [Grande Lucho](http://twitter.com/search?q=Grande+Lucho) | N/A |
-| 10 | [#LaLigaEnGol](http://twitter.com/search?q=%23LaLigaEnGol) | N/A |
-| 11 | [Naranco](http://twitter.com/search?q=Naranco) | N/A |
+| 1 | [#PcComponentesPS5](http://twitter.com/search?q=%23PcComponentesPS5) | N/A |
+| 2 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 3 | [Asturias](http://twitter.com/search?q=Asturias) | N/A |
+| 4 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 5 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 6 | [Tezanos](http://twitter.com/search?q=Tezanos) | N/A |
+| 7 | [Rafa Yuste](http://twitter.com/search?q=Rafa+Yuste) | N/A |
+| 8 | [Irene Paredes](http://twitter.com/search?q=Irene+Paredes) | N/A |
+| 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 10 | [#AlejandraJacintoTeDefiende](http://twitter.com/search?q=%23AlejandraJacintoTeDefiende) | N/A |
+| 11 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
 | 12 | [Vilda](http://twitter.com/search?q=Vilda) | N/A |
-| 13 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
-| 14 | [El CIS](http://twitter.com/search?q=El+CIS) | N/A |
-| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 16 | [Ewan McGregor](http://twitter.com/search?q=Ewan+McGregor) | N/A |
-| 17 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
-| 18 | [Lolas](http://twitter.com/search?q=Lolas) | N/A |
-| 19 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 20 | [CIEN AUDIOS DE SOLEDAD](http://twitter.com/search?q=CIEN+AUDIOS+DE+SOLEDAD) | N/A |
-| 21 | [Pantomima](http://twitter.com/search?q=Pantomima) | N/A |
-| 22 | [Cáncer de Colon](http://twitter.com/search?q=C%c3%a1ncer+de+Colon) | N/A |
-| 23 | [Hoy 31](http://twitter.com/search?q=Hoy+31) | N/A |
-| 24 | [Aurelio Martínez](http://twitter.com/search?q=Aurelio+Mart%c3%adnez) | N/A |
-| 25 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
-| 26 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 27 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 28 | [Barbón](http://twitter.com/search?q=Barb%c3%b3n) | N/A |
-| 29 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 30 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
-| 31 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
-| 32 | [Unidas Podemos](http://twitter.com/search?q=Unidas+Podemos) | N/A |
-| 33 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 34 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 13 | [Grande Lucho](http://twitter.com/search?q=Grande+Lucho) | N/A |
+| 14 | [Naranco](http://twitter.com/search?q=Naranco) | N/A |
+| 15 | [Elena Furiase](http://twitter.com/search?q=Elena+Furiase) | N/A |
+| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 17 | [El 50%](http://twitter.com/search?q=El+50%25) | N/A |
+| 18 | [Ewan McGregor](http://twitter.com/search?q=Ewan+McGregor) | N/A |
+| 19 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [CIEN AUDIOS DE SOLEDAD](http://twitter.com/search?q=CIEN+AUDIOS+DE+SOLEDAD) | N/A |
+| 22 | [Lolas](http://twitter.com/search?q=Lolas) | N/A |
+| 23 | [Pantomima](http://twitter.com/search?q=Pantomima) | N/A |
+| 24 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
+| 25 | [Cáncer de Colon](http://twitter.com/search?q=C%c3%a1ncer+de+Colon) | N/A |
+| 26 | [Aurelio Martínez](http://twitter.com/search?q=Aurelio+Mart%c3%adnez) | N/A |
+| 27 | [Hoy 31](http://twitter.com/search?q=Hoy+31) | N/A |
+| 28 | [Día Mundial](http://twitter.com/search?q=D%c3%ada+Mundial) | N/A |
+| 29 | [Principado](http://twitter.com/search?q=Principado) | N/A |
+| 30 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 31 | [Barbón](http://twitter.com/search?q=Barb%c3%b3n) | N/A |
+| 32 | [Fiscalía](http://twitter.com/search?q=Fiscal%c3%ada) | N/A |
+| 33 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 34 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
 | 35 | [Pasión](http://twitter.com/search?q=Pasi%c3%b3n) | N/A |
-| 36 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 37 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
-| 38 | [Libres 2](http://twitter.com/search?q=Libres+2) | N/A |
-| 39 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 40 | [Parla](http://twitter.com/search?q=Parla) | N/A |
-| 41 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
-| 42 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
-| 43 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 44 | [Sábado 1](http://twitter.com/search?q=S%c3%a1bado+1) | N/A |
-| 45 | [Hipra](http://twitter.com/search?q=Hipra) | N/A |
-| 46 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
-| 47 | [#InformeCumple50](http://twitter.com/search?q=%23InformeCumple50) | N/A |
+| 36 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 37 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 38 | [Estación de Penitencia](http://twitter.com/search?q=Estaci%c3%b3n+de+Penitencia) | N/A |
+| 39 | [Parla](http://twitter.com/search?q=Parla) | N/A |
+| 40 | [El E3](http://twitter.com/search?q=El+E3) | N/A |
+| 41 | [#SemanaSanta](http://twitter.com/search?q=%23SemanaSanta) | N/A |
+| 42 | [#InformeCumple50](http://twitter.com/search?q=%23InformeCumple50) | N/A |
+| 43 | [#LaLigaEnGol](http://twitter.com/search?q=%23LaLigaEnGol) | N/A |
+| 44 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 45 | [#APOYOROCIO31M](http://twitter.com/search?q=%23APOYOROCIO31M) | N/A |
+| 46 | [#MinecraftEnGAME](http://twitter.com/search?q=%23MinecraftEnGAME) | N/A |
+| 47 | [#DiaDeLaVisibilidadTrans](http://twitter.com/search?q=%23DiaDeLaVisibilidadTrans) | N/A |
 
 
 

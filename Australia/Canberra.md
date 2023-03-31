@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-03-31 11:16:52 UTC`
+📆 Last Updated: `2023-03-31 12:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#AFLPiesTigers](http://twitter.com/search?q=%23AFLPiesTigers) | N/A |
 | 2 | [#NRLSouthsStorm](http://twitter.com/search?q=%23NRLSouthsStorm) | N/A |
-| 3 | [#WSWvADL](http://twitter.com/search?q=%23WSWvADL) | N/A |
+| 3 | [#NRLRaidersPanthers](http://twitter.com/search?q=%23NRLRaidersPanthers) | N/A |
 | 4 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 5 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 6 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 7 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 8 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 9 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
-| 10 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 11 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 5 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 6 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 7 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 9 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 10 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 11 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
 | 12 | [Doug Mulray](http://twitter.com/search?q=Doug+Mulray) | N/A |
-| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 14 | [Constable](http://twitter.com/search?q=Constable) | N/A |
+| 13 | [Darcy Cameron](http://twitter.com/search?q=Darcy+Cameron) | N/A |
+| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 15 | [Ash Johnson](http://twitter.com/search?q=Ash+Johnson) | N/A |
-| 16 | [Harry Grant](http://twitter.com/search?q=Harry+Grant) | N/A |
-| 17 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
-| 18 | [Frampton](http://twitter.com/search?q=Frampton) | N/A |
-| 19 | [Liam Baker](http://twitter.com/search?q=Liam+Baker) | N/A |
-| 20 | [Darcy Cameron](http://twitter.com/search?q=Darcy+Cameron) | N/A |
-| 21 | [WEAK GUTTED DOG](http://twitter.com/search?q=WEAK+GUTTED+DOG) | N/A |
-| 22 | [Canberra](http://twitter.com/search?q=Canberra) | N/A |
-| 23 | [Porter Davis](http://twitter.com/search?q=Porter+Davis) | N/A |
-| 24 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 25 | [Jaeman Salmon](http://twitter.com/search?q=Jaeman+Salmon) | N/A |
-| 26 | [Scott Pendlebury](http://twitter.com/search?q=Scott+Pendlebury) | N/A |
-| 27 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 28 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 29 | [Jim's Mowing](http://twitter.com/search?q=Jim%27s+Mowing) | N/A |
-| 30 | [Rapana](http://twitter.com/search?q=Rapana) | N/A |
-| 31 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 32 | [Jamarra](http://twitter.com/search?q=Jamarra) | N/A |
-| 33 | [Pendles](http://twitter.com/search?q=Pendles) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [Cam Murray](http://twitter.com/search?q=Cam+Murray) | N/A |
-| 36 | [Warbrick](http://twitter.com/search?q=Warbrick) | N/A |
-| 37 | [Dimma](http://twitter.com/search?q=Dimma) | N/A |
-| 38 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
-| 39 | [john farnham](http://twitter.com/search?q=john+farnham) | N/A |
-| 40 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
+| 16 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
+| 17 | [Constable](http://twitter.com/search?q=Constable) | N/A |
+| 18 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 19 | [Frampton](http://twitter.com/search?q=Frampton) | N/A |
+| 20 | [Rioli](http://twitter.com/search?q=Rioli) | N/A |
+| 21 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
+| 22 | [Pendles](http://twitter.com/search?q=Pendles) | N/A |
+| 23 | [Rudan](http://twitter.com/search?q=Rudan) | N/A |
+| 24 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
+| 25 | [Irankunda](http://twitter.com/search?q=Irankunda) | N/A |
+| 26 | [Harry Grant](http://twitter.com/search?q=Harry+Grant) | N/A |
+| 27 | [Porter Davis](http://twitter.com/search?q=Porter+Davis) | N/A |
+| 28 | [Liam Baker](http://twitter.com/search?q=Liam+Baker) | N/A |
+| 29 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 30 | [Salmon](http://twitter.com/search?q=Salmon) | N/A |
+| 31 | [Jamarra](http://twitter.com/search?q=Jamarra) | N/A |
+| 32 | [Cam Murray](http://twitter.com/search?q=Cam+Murray) | N/A |
+| 33 | [Riewoldt](http://twitter.com/search?q=Riewoldt) | N/A |
+| 34 | [Jim's Mowing](http://twitter.com/search?q=Jim%27s+Mowing) | N/A |
+| 35 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
+| 36 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 37 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 38 | [Burgess](http://twitter.com/search?q=Burgess) | N/A |
+| 39 | [Scott Pendlebury](http://twitter.com/search?q=Scott+Pendlebury) | N/A |
+| 40 | [McStay](http://twitter.com/search?q=McStay) | N/A |
 | 41 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 42 | [Coates](http://twitter.com/search?q=Coates) | N/A |
-| 43 | [MILE FOR DIOR](http://twitter.com/search?q=MILE+FOR+DIOR) | N/A |
-| 44 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
-| 45 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 46 | [McStay](http://twitter.com/search?q=McStay) | N/A |
-| 47 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 42 | [Alex Johnston](http://twitter.com/search?q=Alex+Johnston) | N/A |
+| 43 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
+| 44 | [mile for dior](http://twitter.com/search?q=mile+for+dior) | N/A |
+| 45 | [Bobby Hill](http://twitter.com/search?q=Bobby+Hill) | N/A |
+| 46 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 47 | [Nicky Winmar](http://twitter.com/search?q=Nicky+Winmar) | N/A |
 
 
 

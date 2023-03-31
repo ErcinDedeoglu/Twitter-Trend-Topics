@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-03-31 11:16:47 UTC`
+📆 Last Updated: `2023-03-31 12:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#31marzo](http://twitter.com/search?q=%2331marzo) | N/A |
-| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 3 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 2 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 3 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
 | 4 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
 | 5 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 6 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 7 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 8 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 6 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 7 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 8 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 9 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
-| 10 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 11 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
+| 10 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 11 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
 | 12 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 13 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 14 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 15 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
-| 16 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 17 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 18 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 19 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 20 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 13 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 14 | [Busia](http://twitter.com/search?q=Busia) | N/A |
+| 15 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 16 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
+| 17 | [Cultura 2025](http://twitter.com/search?q=Cultura+2025) | N/A |
+| 18 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 19 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 20 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
 | 21 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 22 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 23 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 24 | [buon venerdì](http://twitter.com/search?q=buon+venerd%c3%ac) | N/A |
-| 25 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 26 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 27 | [Genoa](http://twitter.com/search?q=Genoa) | N/A |
-| 28 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
-| 29 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 30 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 31 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 32 | [ficarra e picone](http://twitter.com/search?q=ficarra+e+picone) | N/A |
-| 33 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 34 | [Settimana Santa](http://twitter.com/search?q=Settimana+Santa) | N/A |
-| 35 | [Patteggiamento](http://twitter.com/search?q=Patteggiamento) | N/A |
-| 36 | [Capitale](http://twitter.com/search?q=Capitale) | N/A |
-| 37 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 38 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 39 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 40 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 41 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 42 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 43 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 44 | [Due Vite](http://twitter.com/search?q=Due+Vite) | N/A |
-| 45 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
+| 22 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 23 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 24 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 25 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 26 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 27 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 28 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 30 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 31 | [ficarra e picone](http://twitter.com/search?q=ficarra+e+picone) | N/A |
+| 32 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 33 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 34 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 35 | [Capitale](http://twitter.com/search?q=Capitale) | N/A |
+| 36 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 37 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
+| 38 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 39 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 40 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 41 | [Patteggiamento](http://twitter.com/search?q=Patteggiamento) | N/A |
+| 42 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
+| 43 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 44 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
+| 45 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
 | 46 | [Montezemolo](http://twitter.com/search?q=Montezemolo) | N/A |
-| 47 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 47 | [Due Vite](http://twitter.com/search?q=Due+Vite) | N/A |
 
 
 

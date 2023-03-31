@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-03-31 11:16:58 UTC`
+📆 Last Updated: `2023-03-31 12:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 2 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
+| 1 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 3 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 4 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 5 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [PLUUS DEBUT MVs OUT NOW](http://twitter.com/search?q=PLUUS+DEBUT+MVs+OUT+NOW) | N/A |
-| 8 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
-| 9 | [#TeenClashEp3](http://twitter.com/search?q=%23TeenClashEp3) | N/A |
-| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 11 | [Jihope](http://twitter.com/search?q=Jihope) | Jihope is a portmanteau of the names of two members of the South Korean boy band BTS, Jin and Hoseok (also known as J-Hope). It is used to refer to the friendship between the two members. |
-| 12 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 13 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
-| 14 | [SOMI](http://twitter.com/search?q=SOMI) | N/A |
-| 15 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
-| 16 | [Congrats Jimin](http://twitter.com/search?q=Congrats+Jimin) | N/A |
-| 17 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 18 | [Kim Chiu](http://twitter.com/search?q=Kim+Chiu) | N/A |
-| 19 | [KYLER DAZZLING VISUAL](http://twitter.com/search?q=KYLER+DAZZLING+VISUAL) | N/A |
-| 20 | [Flower](http://twitter.com/search?q=Flower) | N/A |
-| 21 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 22 | [Edward](http://twitter.com/search?q=Edward) | N/A |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
-| 25 | [#JIMIN4thWin](http://twitter.com/search?q=%23JIMIN4thWin) | N/A |
-| 26 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
-| 27 | [#NotEnoughRoomForReVeluvs](http://twitter.com/search?q=%23NotEnoughRoomForReVeluvs) | N/A |
-| 28 | [#JeremyG_BINI](http://twitter.com/search?q=%23JeremyG_BINI) | N/A |
-| 29 | [#FreebieMNLxJulieVer](http://twitter.com/search?q=%23FreebieMNLxJulieVer) | N/A |
-| 30 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 31 | [#Ppulverse4thGenItMascot](http://twitter.com/search?q=%23Ppulverse4thGenItMascot) | N/A |
-| 32 | [#ALAMATGayumaPerformance](http://twitter.com/search?q=%23ALAMATGayumaPerformance) | N/A |
-| 33 | [#WeWantErasTourPhilippines](http://twitter.com/search?q=%23WeWantErasTourPhilippines) | N/A |
-| 34 | [#SeizeTheBay](http://twitter.com/search?q=%23SeizeTheBay) | N/A |
-| 35 | [#YsabelOrtega](http://twitter.com/search?q=%23YsabelOrtega) | N/A |
-| 36 | [#TheErasFestivalinManila](http://twitter.com/search?q=%23TheErasFestivalinManila) | N/A |
-| 37 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
-| 38 | [#RedVelvet](http://twitter.com/search?q=%23RedVelvet) | N/A |
-| 39 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 40 | [#UnbreakMyHeart](http://twitter.com/search?q=%23UnbreakMyHeart) | N/A |
-| 41 | [#HORI7ON_KYLER](http://twitter.com/search?q=%23HORI7ON_KYLER) | N/A |
+| 4 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 5 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 6 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
+| 7 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
+| 8 | [anji maningning na bituin](http://twitter.com/search?q=anji+maningning+na+bituin) | N/A |
+| 9 | [Are Your Prayers Heard](http://twitter.com/search?q=Are+Your+Prayers+Heard) | N/A |
+| 10 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 11 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 12 | [bgyo ot5 date](http://twitter.com/search?q=bgyo+ot5+date) | N/A |
+| 13 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 14 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 15 | [THE VIBRENT PROMise](http://twitter.com/search?q=THE+VIBRENT+PROMise) | N/A |
+| 16 | [hori7on 1st prom](http://twitter.com/search?q=hori7on+1st+prom) | N/A |
+| 17 | [andrea enchanting night](http://twitter.com/search?q=andrea+enchanting+night) | N/A |
+| 18 | [TEENCLASeHam SHIPS ZICE](http://twitter.com/search?q=TEENCLASeHam+SHIPS+ZICE) | N/A |
+| 19 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [do it like donbelle](http://twitter.com/search?q=do+it+like+donbelle) | N/A |
+| 22 | [kdlex loventure in japan](http://twitter.com/search?q=kdlex+loventure+in+japan) | N/A |
+| 23 | [PIEnale](http://twitter.com/search?q=PIEnale) | N/A |
+| 24 | [PLUUS DEBUT MVs OUT NOW](http://twitter.com/search?q=PLUUS+DEBUT+MVs+OUT+NOW) | N/A |
+| 25 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 26 | [JOSHMANDY TC EPISODE3](http://twitter.com/search?q=JOSHMANDY+TC+EPISODE3) | N/A |
+| 27 | [ZICE FOR REELorREAL](http://twitter.com/search?q=ZICE+FOR+REELorREAL) | N/A |
+| 28 | [BINI AIAH LAGING IKAW](http://twitter.com/search?q=BINI+AIAH+LAGING+IKAW) | N/A |
+| 29 | [kodrea magical starry night](http://twitter.com/search?q=kodrea+magical+starry+night) | N/A |
+| 30 | [MY JIHOPE](http://twitter.com/search?q=MY+JIHOPE) | N/A |
+| 31 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 32 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 33 | [promagical with robxine](http://twitter.com/search?q=promagical+with+robxine) | N/A |
+| 34 | [KAOMIAH ROYALTY DATE](http://twitter.com/search?q=KAOMIAH+ROYALTY+DATE) | N/A |
+| 35 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 36 | [aljay prominent tonight](http://twitter.com/search?q=aljay+prominent+tonight) | N/A |
+| 37 | [The Right Way to Pray](http://twitter.com/search?q=The+Right+Way+to+Pray) | N/A |
+| 38 | [karina promising night](http://twitter.com/search?q=karina+promising+night) | N/A |
+| 39 | [janella on fire at xxv](http://twitter.com/search?q=janella+on+fire+at+xxv) | N/A |
+| 40 | [CELINE BOY TAEHYUNG](http://twitter.com/search?q=CELINE+BOY+TAEHYUNG) | N/A |
+| 41 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 42 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 43 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 44 | [KYLER DAZZLING VISUAL](http://twitter.com/search?q=KYLER+DAZZLING+VISUAL) | N/A |
+| 45 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 46 | [anjbrentjeweled on smprom](http://twitter.com/search?q=anjbrentjeweled+on+smprom) | N/A |
+| 47 | [ALDENattends 2023UmajamFest](http://twitter.com/search?q=ALDENattends+2023UmajamFest) | N/A |
+| 48 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 49 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 50 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
 
 
 

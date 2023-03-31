@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-03-31 11:17:18 UTC`
+📆 Last Updated: `2023-03-31 12:19:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
 | 2 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 3 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 4 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 3 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
-| 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 8 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
-| 9 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 10 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
-| 11 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 12 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 13 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 14 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 15 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 16 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 17 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 18 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 19 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 20 | [Comey](http://twitter.com/search?q=Comey) | N/A |
-| 21 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 22 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 23 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
-| 24 | [CONGRATULATIONS JIMIN](http://twitter.com/search?q=CONGRATULATIONS+JIMIN) | "CONGRATULATIONS JIMIN" is a phrase used to congratulate someone named Jimin on an accomplishment or achievement. It is a way of expressing congratulations and admiration for their success. |
-| 25 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 26 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 27 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 28 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 29 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 30 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 31 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 32 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 33 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 34 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 35 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
-| 36 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 37 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 38 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
-| 39 | [TY FRANCE](http://twitter.com/search?q=TY+FRANCE) | N/A |
-| 40 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 41 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
-| 42 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 43 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
-| 44 | [Tepera](http://twitter.com/search?q=Tepera) | N/A |
-| 45 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 46 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 47 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 48 | [Julien](http://twitter.com/search?q=Julien) | N/A |
-| 49 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 50 | [The Grand Jury](http://twitter.com/search?q=The+Grand+Jury) | N/A |
+| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 7 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
+| 8 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 9 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
+| 10 | [Friyay](http://twitter.com/search?q=Friyay) | N/A |
+| 11 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 12 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 13 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 14 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 15 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 17 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 18 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 19 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 20 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 21 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 22 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 23 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 24 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 25 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 26 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 27 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 28 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 29 | [Comey](http://twitter.com/search?q=Comey) | N/A |
+| 30 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 31 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 32 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
+| 33 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 34 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
+| 35 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
+| 36 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 37 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
+| 38 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 39 | [Transgender Day of Visibility](http://twitter.com/search?q=Transgender+Day+of+Visibility) | N/A |
+| 40 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 41 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 42 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 43 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 44 | [DJ Drama](http://twitter.com/search?q=DJ+Drama) | N/A |
+| 45 | [Speaker of the House](http://twitter.com/search?q=Speaker+of+the+House) | N/A |
+| 46 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 47 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
+| 48 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 49 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 50 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
 
 
 

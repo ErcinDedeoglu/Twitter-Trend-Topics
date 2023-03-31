@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-03-31 11:17:06 UTC`
+📆 Last Updated: `2023-03-31 12:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#NationStandswithCJP](http://twitter.com/search?q=%23NationStandswithCJP) | N/A |
 | 2 | [#عدالتوں_کو_دھمکانا_بند_کرو](http://twitter.com/search?q=%23%d8%b9%d8%af%d8%a7%d9%84%d8%aa%d9%88%da%ba_%da%a9%d9%88_%d8%af%da%be%d9%85%da%a9%d8%a7%d9%86%d8%a7_%d8%a8%d9%86%d8%af_%da%a9%d8%b1%d9%88) | N/A |
 | 3 | [#NoCommentZeroReach](http://twitter.com/search?q=%23NoCommentZeroReach) | N/A |
-| 4 | [#جعلی_فیصلے_واپس_لو](http://twitter.com/search?q=%23%d8%ac%d8%b9%d9%84%db%8c_%d9%81%db%8c%d8%b5%d9%84%db%92_%d9%88%d8%a7%d9%be%d8%b3_%d9%84%d9%88) | N/A |
+| 4 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
 | 5 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 6 | [Alhamdolillah](http://twitter.com/search?q=Alhamdolillah) | N/A |
+| 6 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
 | 7 | [Broken](http://twitter.com/search?q=Broken) | N/A |
 | 8 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
 | 9 | [James Anderson](http://twitter.com/search?q=James+Anderson) | N/A |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [Alhamdolillah](http://twitter.com/search?q=Alhamdolillah) | N/A |
 | 11 | [Bench](http://twitter.com/search?q=Bench) | N/A |
 | 12 | [Thanks God](http://twitter.com/search?q=Thanks+God) | N/A |
-| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 14 | [Mir Ali](http://twitter.com/search?q=Mir+Ali) | N/A |
-| 15 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
-| 16 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
-| 17 | [2nd Friday of Ramadan](http://twitter.com/search?q=2nd+Friday+of+Ramadan) | N/A |
-| 18 | [Habib Akram](http://twitter.com/search?q=Habib+Akram) | N/A |
+| 13 | [Wellcome](http://twitter.com/search?q=Wellcome) | N/A |
+| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 15 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
+| 16 | [Habib Akram](http://twitter.com/search?q=Habib+Akram) | N/A |
+| 17 | [Mir Ali](http://twitter.com/search?q=Mir+Ali) | N/A |
+| 18 | [2nd Friday of Ramadan](http://twitter.com/search?q=2nd+Friday+of+Ramadan) | N/A |
 | 19 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 20 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 21 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 22 | [JANAMDIN MUBARKAA SHAGUN](http://twitter.com/search?q=JANAMDIN+MUBARKAA+SHAGUN) | N/A |
-| 23 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 24 | [Shahadat](http://twitter.com/search?q=Shahadat) | N/A |
-| 25 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
-| 26 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 27 | [Brand](http://twitter.com/search?q=Brand) | N/A |
-| 28 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 29 | [Reality](http://twitter.com/search?q=Reality) | N/A |
-| 30 | [Lolz](http://twitter.com/search?q=Lolz) | N/A |
-| 31 | [Drama](http://twitter.com/search?q=Drama) | N/A |
-| 32 | [vonc](http://twitter.com/search?q=vonc) | N/A |
-| 33 | [skipper](http://twitter.com/search?q=skipper) | N/A |
-| 34 | [shukr](http://twitter.com/search?q=shukr) | N/A |
-| 35 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 36 | [Holy](http://twitter.com/search?q=Holy) | N/A |
-| 37 | [Screenshot](http://twitter.com/search?q=Screenshot) | N/A |
-| 38 | [Good News](http://twitter.com/search?q=Good+News) | N/A |
-| 39 | [Imrando](http://twitter.com/search?q=Imrando) | N/A |
-| 40 | [Almighty Allah](http://twitter.com/search?q=Almighty+Allah) | N/A |
-| 41 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 21 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 22 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
+| 23 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 24 | [JANAMDIN MUBARKAA SHAGUN](http://twitter.com/search?q=JANAMDIN+MUBARKAA+SHAGUN) | N/A |
+| 25 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 26 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 27 | [shahadat](http://twitter.com/search?q=shahadat) | N/A |
+| 28 | [Sarfaraz Ahmed](http://twitter.com/search?q=Sarfaraz+Ahmed) | N/A |
+| 29 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 30 | [Imrando](http://twitter.com/search?q=Imrando) | N/A |
+| 31 | [Shukr](http://twitter.com/search?q=Shukr) | N/A |
+| 32 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 33 | [Reality](http://twitter.com/search?q=Reality) | N/A |
+| 34 | [Lolz](http://twitter.com/search?q=Lolz) | N/A |
+| 35 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
+| 36 | [Drama](http://twitter.com/search?q=Drama) | N/A |
+| 37 | [vonc](http://twitter.com/search?q=vonc) | N/A |
+| 38 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 39 | [Skipper](http://twitter.com/search?q=Skipper) | N/A |
+| 40 | [Good News](http://twitter.com/search?q=Good+News) | N/A |
+| 41 | [Almighty Allah](http://twitter.com/search?q=Almighty+Allah) | N/A |
 | 42 | [Ishaq Dar](http://twitter.com/search?q=Ishaq+Dar) | N/A |
-| 43 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 44 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 45 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
-| 46 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 47 | [Ayub](http://twitter.com/search?q=Ayub) | N/A |
-| 48 | [Baloch](http://twitter.com/search?q=Baloch) | N/A |
-| 49 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
+| 43 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 44 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 45 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 46 | [Emotional](http://twitter.com/search?q=Emotional) | N/A |
+| 47 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 48 | [Full Court](http://twitter.com/search?q=Full+Court) | N/A |
+| 49 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
 
 
 
