@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-03-31 14:17:39 UTC`
+📆 Last Updated: `2023-03-31 15:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Algeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 2 | [#الدامه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 3 | [التلفزيون العمومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a) | N/A |
-| 4 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 5 | [السمعي البصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d8%b9%d9%8a+%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d9%8a) | N/A |
-| 6 | [#المربع_الاخير8](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b18) | N/A |
-| 7 | [الاتحاد الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
-| 8 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 2 | [الاتحاد الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 3 | [#الدامه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 4 | [السمعي البصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%85%d8%b9%d9%8a+%d8%a7%d9%84%d8%a8%d8%b5%d8%b1%d9%8a) | N/A |
+| 5 | [التلفزيون العمومي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%88%d9%85%d9%8a) | N/A |
+| 6 | [المجتمع الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 7 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 8 | [#المربع_الاخير8](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b18) | N/A |
 | 9 | [ابو امي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d9%85%d9%8a) | N/A |
-| 10 | [المجتمع الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%aa%d9%85%d8%b9+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
-| 11 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
-| 12 | [#كادي_افضل_وجه_اعلاني](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%af%d9%8a_%d8%a7%d9%81%d8%b6%d9%84_%d9%88%d8%ac%d9%87_%d8%a7%d8%b9%d9%84%d8%a7%d9%86%d9%8a) | N/A |
-| 13 | [30 مارس 2023](http://twitter.com/search?q=30+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 14 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 15 | [اللغه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 16 | [Air Algérie](http://twitter.com/search?q=Air+Alg%c3%a9rie) | N/A |
-| 17 | [ihsane el kadi](http://twitter.com/search?q=ihsane+el+kadi) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [يهود الجزاير](http://twitter.com/search?q=%d9%8a%d9%87%d9%88%d8%af+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
+| 11 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 12 | [الجمعه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 13 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
+| 14 | [30 مارس 2023](http://twitter.com/search?q=30+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
+| 15 | [الامين العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 16 | [محمد بن هادي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a) | N/A |
+| 17 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 18 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
 | 19 | [الاحياء الشعبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%8a%d8%a7%d8%a1+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a%d9%87) | N/A |
-| 20 | [محمد بن هادي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%87%d8%a7%d8%af%d9%8a) | N/A |
-| 21 | [علي الواقع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9) | N/A |
+| 20 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 21 | [اوزيل](http://twitter.com/search?q=%d8%a7%d9%88%d8%b2%d9%8a%d9%84) | N/A |
 | 22 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 23 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 24 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 25 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
-| 26 | [البارسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
-| 27 | [عمرو](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88) | N/A |
-| 28 | [ملك المغرب](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
-| 29 | [دي يونغ](http://twitter.com/search?q=%d8%af%d9%8a+%d9%8a%d9%88%d9%86%d8%ba) | دي يونغ (Dai Yong) is a Chinese surname. In English, it can be translated to mean "Great Hero". |
-| 30 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
-| 31 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 32 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 33 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 34 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 35 | [شمال افريقيا](http://twitter.com/search?q=%d8%b4%d9%85%d8%a7%d9%84+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 36 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
-| 37 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 38 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 39 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 40 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 41 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
-| 42 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 43 | [سليمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | سليمان (Solomon) is a figure in the Bible and the Qur'an. He was a king of Israel and is known for his wisdom. In English, his name means "peaceful". |
-| 44 | [باب الواد](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%88%d8%a7%d8%af) | N/A |
-| 45 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
-| 46 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 47 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 48 | [Yess](http://twitter.com/search?q=Yess) | N/A |
-| 49 | [علي الخاص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
-| 50 | [مريم](http://twitter.com/search?q=%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 23 | [Ihsane El Kadi](http://twitter.com/search?q=Ihsane+El+Kadi) | N/A |
+| 24 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 25 | [باب الواد](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%88%d8%a7%d8%af) | N/A |
+| 26 | [علي الواقع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%a7%d9%82%d8%b9) | N/A |
+| 27 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 28 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 29 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 30 | [أوكرانيا](http://twitter.com/search?q=%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 31 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 32 | [البارسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
+| 33 | [الانحلال الاخلاقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%ad%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82%d9%8a) | N/A |
+| 34 | [ملك المغرب](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
+| 35 | [نيويورك](http://twitter.com/search?q=%d9%86%d9%8a%d9%88%d9%8a%d9%88%d8%b1%d9%83) | N/A |
+| 36 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
+| 37 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 38 | [التلفزيون الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%84%d9%81%d8%b2%d9%8a%d9%88%d9%86+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | N/A |
+| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 40 | [سليمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | سليمان (Solomon) is a figure in the Bible and the Qur'an. He was a king of Israel and is known for his wisdom. In English, his name means "peaceful". |
+| 41 | [الحمايه الفرنسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a%d9%87) | N/A |
+| 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 43 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 44 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
+| 45 | [القدس](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b3) | القدس is the Arabic name for Jerusalem, and it translates to "The Holy City" in English. |
+| 46 | [الجزاير القاره](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d9%82%d8%a7%d8%b1%d9%87) | N/A |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 49 | [الذريه الصالحه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%a7%d9%84%d8%ad%d9%87) | N/A |
+| 50 | [ابن ابي شيبه](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b4%d9%8a%d8%a8%d9%87) | N/A |
 
 
 

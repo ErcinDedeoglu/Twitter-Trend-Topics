@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cape Town
 
-📆 Last Updated: `2023-03-31 14:17:22 UTC`
+📆 Last Updated: `2023-03-31 15:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PowerballGuaranteedJackpot](http://twitter.com/search?q=%23PowerballGuaranteedJackpot) | N/A |
-| 2 | [#R35Million](http://twitter.com/search?q=%23R35Million) | N/A |
-| 3 | [#FamilyMeeting](http://twitter.com/search?q=%23FamilyMeeting) | N/A |
-| 4 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
-| 5 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 6 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
+| 1 | [#FamilyMeeting](http://twitter.com/search?q=%23FamilyMeeting) | N/A |
+| 2 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
+| 3 | [#PowerballGuaranteedJackpot](http://twitter.com/search?q=%23PowerballGuaranteedJackpot) | N/A |
+| 4 | [#R35Million](http://twitter.com/search?q=%23R35Million) | N/A |
+| 5 | [#RepoRate](http://twitter.com/search?q=%23RepoRate) | N/A |
+| 6 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
 | 7 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 8 | [SARB](http://twitter.com/search?q=SARB) | N/A |
-| 9 | [Castle Lite](http://twitter.com/search?q=Castle+Lite) | N/A |
-| 10 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
-| 11 | [AnAriesEP](http://twitter.com/search?q=AnAriesEP) | N/A |
-| 12 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
-| 13 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
-| 14 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
-| 15 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 16 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
-| 17 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 18 | [THABANG CHOP MY MONEY](http://twitter.com/search?q=THABANG+CHOP+MY+MONEY) | N/A |
-| 19 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
-| 20 | [Unisa](http://twitter.com/search?q=Unisa) | N/A |
-| 21 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
-| 22 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 23 | [Business Term Loan](http://twitter.com/search?q=Business+Term+Loan) | N/A |
-| 24 | [AFRICA LOVES BLUE AIVA](http://twitter.com/search?q=AFRICA+LOVES+BLUE+AIVA) | N/A |
-| 25 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 26 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
-| 27 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
-| 28 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 29 | [Supersport](http://twitter.com/search?q=Supersport) | N/A |
-| 30 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 31 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
-| 32 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
-| 33 | [DSTV](http://twitter.com/search?q=DSTV) | N/A |
-| 34 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 35 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
-| 36 | [Parole](http://twitter.com/search?q=Parole) | N/A |
-| 37 | [America](http://twitter.com/search?q=America) | N/A |
-| 38 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
-| 39 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 40 | [lesetja kganyago](http://twitter.com/search?q=lesetja+kganyago) | N/A |
-| 41 | [Ekurhuleni](http://twitter.com/search?q=Ekurhuleni) | N/A |
-| 42 | [Tania Campbell](http://twitter.com/search?q=Tania+Campbell) | N/A |
-| 43 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
-| 44 | [Oriental Plaza](http://twitter.com/search?q=Oriental+Plaza) | N/A |
-| 45 | [Atteridgeville](http://twitter.com/search?q=Atteridgeville) | N/A |
+| 8 | [#GoldMafia2](http://twitter.com/search?q=%23GoldMafia2) | N/A |
+| 9 | [juicy jay the rugby player](http://twitter.com/search?q=juicy+jay+the+rugby+player) | N/A |
+| 10 | [SARB](http://twitter.com/search?q=SARB) | N/A |
+| 11 | [Castle Lite](http://twitter.com/search?q=Castle+Lite) | N/A |
+| 12 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
+| 13 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
+| 14 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
+| 15 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
+| 16 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
+| 17 | [THABANG CHOP MY MONEY](http://twitter.com/search?q=THABANG+CHOP+MY+MONEY) | N/A |
+| 18 | [Supersport](http://twitter.com/search?q=Supersport) | N/A |
+| 19 | [Unisa](http://twitter.com/search?q=Unisa) | N/A |
+| 20 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 21 | [AnAriesEP](http://twitter.com/search?q=AnAriesEP) | N/A |
+| 22 | [shamsi](http://twitter.com/search?q=shamsi) | N/A |
+| 23 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
+| 24 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
+| 25 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 26 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
+| 27 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
+| 28 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
+| 29 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 30 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 31 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 32 | [afc bournemouth](http://twitter.com/search?q=afc+bournemouth) | N/A |
+| 33 | [business term loan](http://twitter.com/search?q=business+term+loan) | N/A |
+| 34 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
+| 35 | [AFRICA LOVES BLUE AIVA](http://twitter.com/search?q=AFRICA+LOVES+BLUE+AIVA) | N/A |
+| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 37 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 38 | [Radiography](http://twitter.com/search?q=Radiography) | N/A |
+| 39 | [Coffee with Khosi](http://twitter.com/search?q=Coffee+with+Khosi) | N/A |
+| 40 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
+| 41 | [DSTV](http://twitter.com/search?q=DSTV) | N/A |
+| 42 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 43 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 44 | [thabang gofund me friday](http://twitter.com/search?q=thabang+gofund+me+friday) | N/A |
+| 45 | [Magala](http://twitter.com/search?q=Magala) | N/A |
 | 46 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 47 | [yotv](http://twitter.com/search?q=yotv) | N/A |
-| 48 | [COFFEE WITH KHOSI](http://twitter.com/search?q=COFFEE+WITH+KHOSI) | N/A |
+| 47 | [America](http://twitter.com/search?q=America) | N/A |
+| 48 | [atteridgeville](http://twitter.com/search?q=atteridgeville) | N/A |
+| 49 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
 
 
 

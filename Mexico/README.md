@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-03-31 14:17:43 UTC`
+📆 Last Updated: `2023-03-31 15:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Guadalupe Taddei Zavala](http://twitter.com/search?q=Guadalupe+Taddei+Zavala) | N/A |
-| 2 | [#KinderKorno](http://twitter.com/search?q=%23KinderKorno) | N/A |
-| 3 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 2 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 3 | [#KinderKorno](http://twitter.com/search?q=%23KinderKorno) | N/A |
 | 4 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 5 | [Billie](http://twitter.com/search?q=Billie) | N/A |
-| 6 | [#MañaneroFavorito](http://twitter.com/search?q=%23Ma%c3%b1aneroFavorito) | N/A |
-| 7 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 8 | [#ViernesdeChavorrucosconTacos](http://twitter.com/search?q=%23ViernesdeChavorrucosconTacos) | N/A |
-| 9 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
-| 10 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
-| 11 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
-| 12 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 13 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 14 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
-| 15 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
-| 16 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 17 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 18 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
-| 19 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
-| 20 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 21 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
-| 22 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 23 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 24 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
-| 25 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 26 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 27 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
-| 28 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
-| 29 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 30 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 31 | [JULIO URÍAS](http://twitter.com/search?q=JULIO+UR%c3%8dAS) | N/A |
+| 6 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 7 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
+| 8 | [#MañaneroFavorito](http://twitter.com/search?q=%23Ma%c3%b1aneroFavorito) | N/A |
+| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 10 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
+| 11 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
+| 12 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
+| 13 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 14 | [Morena](http://twitter.com/search?q=Morena) | N/A |
+| 15 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 16 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 17 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
+| 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 19 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
+| 20 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
+| 21 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
+| 22 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 23 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
+| 24 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
+| 25 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 26 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 27 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 28 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 29 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
+| 30 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 31 | [julio urías](http://twitter.com/search?q=julio+ur%c3%adas) | N/A |
 | 32 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 33 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 34 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 35 | [LitioMX](http://twitter.com/search?q=LitioMX) | N/A |
-| 36 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 37 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 38 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 39 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 40 | [chimalhuacán](http://twitter.com/search?q=chimalhuac%c3%a1n) | N/A |
-| 41 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 42 | [AARON JUDGE](http://twitter.com/search?q=AARON+JUDGE) | N/A |
-| 43 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 44 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 45 | [mariana rodríguez](http://twitter.com/search?q=mariana+rodr%c3%adguez) | N/A |
-| 46 | [ocesa](http://twitter.com/search?q=ocesa) | N/A |
-| 47 | [trabajadoras del hogar](http://twitter.com/search?q=trabajadoras+del+hogar) | N/A |
-| 48 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
-| 49 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
-| 50 | [Music Bank](http://twitter.com/search?q=Music+Bank) | N/A |
+| 33 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 34 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 35 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 36 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 37 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 38 | [LitioMX](http://twitter.com/search?q=LitioMX) | N/A |
+| 39 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
+| 40 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 41 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 42 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 43 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 44 | [Tómbola](http://twitter.com/search?q=T%c3%b3mbola) | N/A |
+| 45 | [AARON JUDGE](http://twitter.com/search?q=AARON+JUDGE) | N/A |
+| 46 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 47 | [Trabajadoras del Hogar](http://twitter.com/search?q=Trabajadoras+del+Hogar) | N/A |
+| 48 | [Hoy 31](http://twitter.com/search?q=Hoy+31) | N/A |
+| 49 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
+| 50 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
 
 
 

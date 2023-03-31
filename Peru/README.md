@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-03-31 14:17:44 UTC`
+📆 Last Updated: `2023-03-31 15:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Peru
 | ------- | ------------ | ------------ |
 | 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 2 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 3 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 4 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 5 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 6 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 7 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
-| 8 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 9 | [Enrique Wong](http://twitter.com/search?q=Enrique+Wong) | N/A |
-| 10 | [Job 6](http://twitter.com/search?q=Job+6) | N/A |
-| 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 12 | [Merly](http://twitter.com/search?q=Merly) | N/A |
-| 13 | [cueto](http://twitter.com/search?q=cueto) | N/A |
-| 14 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 15 | [Carolina Braedt](http://twitter.com/search?q=Carolina+Braedt) | N/A |
-| 16 | [Foro de Madrid](http://twitter.com/search?q=Foro+de+Madrid) | N/A |
-| 17 | [TERRORISMO](http://twitter.com/search?q=TERRORISMO) | N/A |
-| 18 | [Morsi](http://twitter.com/search?q=Morsi) | N/A |
-| 19 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 20 | [Manco](http://twitter.com/search?q=Manco) | N/A |
-| 21 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 22 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 23 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
-| 24 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 25 | [El LUM](http://twitter.com/search?q=El+LUM) | N/A |
-| 26 | [Bellido](http://twitter.com/search?q=Bellido) | N/A |
-| 27 | [waldir](http://twitter.com/search?q=waldir) | N/A |
-| 28 | [GASPAR](http://twitter.com/search?q=GASPAR) | N/A |
-| 29 | [iTunes](http://twitter.com/search?q=iTunes) | N/A |
-| 30 | [Pleno del Congreso](http://twitter.com/search?q=Pleno+del+Congreso) | N/A |
-| 31 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 32 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 33 | [FACE RE-COMEBACK PARTY](http://twitter.com/search?q=FACE+RE-COMEBACK+PARTY) | N/A |
-| 34 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 35 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 36 | [Piero](http://twitter.com/search?q=Piero) | N/A |
-| 37 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 38 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 39 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 40 | [Pierito](http://twitter.com/search?q=Pierito) | N/A |
-| 41 | [Ministro de Educación](http://twitter.com/search?q=Ministro+de+Educaci%c3%b3n) | N/A |
-| 42 | [enapu](http://twitter.com/search?q=enapu) | N/A |
-| 43 | [MRTA](http://twitter.com/search?q=MRTA) | N/A |
-| 44 | [pedro eloy](http://twitter.com/search?q=pedro+eloy) | N/A |
-| 45 | [Park Jimin](http://twitter.com/search?q=Park+Jimin) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name is derived from his given name, Park Ji-min. |
-| 46 | [Riquelme](http://twitter.com/search?q=Riquelme) | Riquelme is a Spanish surname. It is derived from the Latin word "ricus" meaning "rich". In English, it can be translated to mean "wealthy". |
-| 47 | [Quispe](http://twitter.com/search?q=Quispe) | N/A |
-| 48 | [universitario de deportes](http://twitter.com/search?q=universitario+de+deportes) | N/A |
-| 49 | [huaca](http://twitter.com/search?q=huaca) | N/A |
-| 50 | [Comizzo](http://twitter.com/search?q=Comizzo) | N/A |
+| 3 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 4 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 5 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
+| 6 | [#LostInTheLightsWithJimin](http://twitter.com/search?q=%23LostInTheLightsWithJimin) | N/A |
+| 7 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 8 | [Enrique Wong](http://twitter.com/search?q=Enrique+Wong) | N/A |
+| 9 | [Merly](http://twitter.com/search?q=Merly) | N/A |
+| 10 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 11 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 12 | [Foro de Madrid](http://twitter.com/search?q=Foro+de+Madrid) | N/A |
+| 13 | [Cueto](http://twitter.com/search?q=Cueto) | N/A |
+| 14 | [TERRORISMO](http://twitter.com/search?q=TERRORISMO) | N/A |
+| 15 | [Morsi](http://twitter.com/search?q=Morsi) | N/A |
+| 16 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 17 | [Carolina Braedt](http://twitter.com/search?q=Carolina+Braedt) | N/A |
+| 18 | [Grupo 5](http://twitter.com/search?q=Grupo+5) | Grupo 5 is a Spanish rock band formed in Barcelona in 1989. The name of the band is derived from the five members who formed it. In English, Grupo 5 translates to Group 5. |
+| 19 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 20 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 21 | [Hildebrandt](http://twitter.com/search?q=Hildebrandt) | N/A |
+| 22 | [Job 6](http://twitter.com/search?q=Job+6) | N/A |
+| 23 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 24 | [Arena 1](http://twitter.com/search?q=Arena+1) | N/A |
+| 25 | [Artika](http://twitter.com/search?q=Artika) | N/A |
+| 26 | [El LUM](http://twitter.com/search?q=El+LUM) | N/A |
+| 27 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 28 | [Manco](http://twitter.com/search?q=Manco) | N/A |
+| 29 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 30 | [iTunes](http://twitter.com/search?q=iTunes) | N/A |
+| 31 | [Bellido](http://twitter.com/search?q=Bellido) | N/A |
+| 32 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 33 | [Waldir](http://twitter.com/search?q=Waldir) | N/A |
+| 34 | [pedro eloy](http://twitter.com/search?q=pedro+eloy) | N/A |
+| 35 | [FACE RE-COMEBACK PARTY](http://twitter.com/search?q=FACE+RE-COMEBACK+PARTY) | N/A |
+| 36 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 37 | [Cordero](http://twitter.com/search?q=Cordero) | N/A |
+| 38 | [Becerra](http://twitter.com/search?q=Becerra) | N/A |
+| 39 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 40 | [TENDERA](http://twitter.com/search?q=TENDERA) | N/A |
+| 41 | [Piero](http://twitter.com/search?q=Piero) | N/A |
+| 42 | [pierito](http://twitter.com/search?q=pierito) | N/A |
+| 43 | [Pleno del Congreso](http://twitter.com/search?q=Pleno+del+Congreso) | N/A |
+| 44 | [huaca](http://twitter.com/search?q=huaca) | N/A |
+| 45 | [MRTA](http://twitter.com/search?q=MRTA) | N/A |
+| 46 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 47 | [park jimin](http://twitter.com/search?q=park+jimin) | N/A |
+| 48 | [RECOMEBACK FOR FACE](http://twitter.com/search?q=RECOMEBACK+FOR+FACE) | N/A |
+| 49 | [Conflicto Armado Interno](http://twitter.com/search?q=Conflicto+Armado+Interno) | N/A |
+| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-03-31 14:17:25 UTC`
+📆 Last Updated: `2023-03-31 15:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#ResignCJPBandial](http://twitter.com/search?q=%23ResignCJPBandial) | N/A |
 | 5 | [#Supreme_Court_Of_Pakistan](http://twitter.com/search?q=%23Supreme_Court_Of_Pakistan) | N/A |
 | 6 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 7 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
-| 8 | [Broken](http://twitter.com/search?q=Broken) | N/A |
-| 9 | [Thanks God](http://twitter.com/search?q=Thanks+God) | N/A |
-| 10 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 11 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 12 | [James Anderson](http://twitter.com/search?q=James+Anderson) | N/A |
-| 13 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 14 | [Wellcome](http://twitter.com/search?q=Wellcome) | N/A |
-| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 16 | [Rohail](http://twitter.com/search?q=Rohail) | N/A |
-| 17 | [Habib Akram](http://twitter.com/search?q=Habib+Akram) | N/A |
-| 18 | [2nd Friday of Ramadan](http://twitter.com/search?q=2nd+Friday+of+Ramadan) | N/A |
-| 19 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 21 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 22 | [Mir Ali](http://twitter.com/search?q=Mir+Ali) | N/A |
-| 23 | [BISP](http://twitter.com/search?q=BISP) | N/A |
-| 24 | [Mingle](http://twitter.com/search?q=Mingle) | N/A |
-| 25 | [Sepoy Irshad Ullah](http://twitter.com/search?q=Sepoy+Irshad+Ullah) | N/A |
-| 26 | [JANAMDIN MUBARKAA SHAGUN](http://twitter.com/search?q=JANAMDIN+MUBARKAA+SHAGUN) | N/A |
-| 27 | [KP and Punjab](http://twitter.com/search?q=KP+and+Punjab) | N/A |
-| 28 | [Judges](http://twitter.com/search?q=Judges) | N/A |
-| 29 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 7 | [Mother Of Fatima](http://twitter.com/search?q=Mother+Of+Fatima) | N/A |
+| 8 | [Ummul Momineen](http://twitter.com/search?q=Ummul+Momineen) | N/A |
+| 9 | [Welcome Back](http://twitter.com/search?q=Welcome+Back) | N/A |
+| 10 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 11 | [Broken](http://twitter.com/search?q=Broken) | N/A |
+| 12 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 13 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 14 | [James Anderson](http://twitter.com/search?q=James+Anderson) | N/A |
+| 15 | [Ehsaas](http://twitter.com/search?q=Ehsaas) | N/A |
+| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 17 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 18 | [rohail](http://twitter.com/search?q=rohail) | N/A |
+| 19 | [20 Million](http://twitter.com/search?q=20+Million) | N/A |
+| 20 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 21 | [BISP](http://twitter.com/search?q=BISP) | N/A |
+| 22 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 23 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 24 | [Mir Ali](http://twitter.com/search?q=Mir+Ali) | N/A |
+| 25 | [2nd Friday of Ramadan](http://twitter.com/search?q=2nd+Friday+of+Ramadan) | N/A |
+| 26 | [Thanks God](http://twitter.com/search?q=Thanks+God) | N/A |
+| 27 | [mingle](http://twitter.com/search?q=mingle) | N/A |
+| 28 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 29 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
 | 30 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 31 | [Full Court](http://twitter.com/search?q=Full+Court) | N/A |
-| 32 | [Slay](http://twitter.com/search?q=Slay) | Slay is a slang term that means to do something exceptionally well or to dominate in a particular situation. It can also be used to describe someone who looks particularly attractive or fashionable. |
-| 33 | [Hina](http://twitter.com/search?q=Hina) | N/A |
-| 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 35 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 36 | [Absolutely Yes](http://twitter.com/search?q=Absolutely+Yes) | N/A |
-| 37 | [Weldone](http://twitter.com/search?q=Weldone) | N/A |
-| 38 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
-| 39 | [VONC](http://twitter.com/search?q=VONC) | N/A |
-| 40 | [Itne](http://twitter.com/search?q=Itne) | N/A |
-| 41 | [Imrando](http://twitter.com/search?q=Imrando) | N/A |
-| 42 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 45 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 46 | [Shukr](http://twitter.com/search?q=Shukr) | N/A |
-| 47 | [Emotional](http://twitter.com/search?q=Emotional) | N/A |
-| 48 | [Baloch](http://twitter.com/search?q=Baloch) | N/A |
-| 49 | [Sath](http://twitter.com/search?q=Sath) | N/A |
-| 50 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 31 | [Sepoy Irshad Ullah](http://twitter.com/search?q=Sepoy+Irshad+Ullah) | N/A |
+| 32 | [state bank of pakistan](http://twitter.com/search?q=state+bank+of+pakistan) | N/A |
+| 33 | [KP and Punjab](http://twitter.com/search?q=KP+and+Punjab) | N/A |
+| 34 | [Habib Akram](http://twitter.com/search?q=Habib+Akram) | N/A |
+| 35 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
+| 36 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 37 | [Gill](http://twitter.com/search?q=Gill) | Gill is a unit of measurement used to measure the volume of a liquid. It is equal to 1/4 of a pint or 5 fluid ounces. |
+| 38 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
+| 39 | [Full Court](http://twitter.com/search?q=Full+Court) | N/A |
+| 40 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 44 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 45 | [Khan Sahab](http://twitter.com/search?q=Khan+Sahab) | N/A |
+| 46 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 47 | [Thanku](http://twitter.com/search?q=Thanku) | N/A |
+| 48 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 49 | [Imrando](http://twitter.com/search?q=Imrando) | N/A |
+| 50 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 
 
 

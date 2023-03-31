@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-31 14:17:09 UTC`
+📆 Last Updated: `2023-03-31 15:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
 | 2 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 3 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 3 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 6 | [#RFSD2023](http://twitter.com/search?q=%23RFSD2023) | N/A |
-| 7 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 8 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 6 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
+| 7 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 8 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
 | 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 10 | [Referendum](http://twitter.com/search?q=Referendum) | N/A |
-| 11 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
-| 12 | [Rabatt](http://twitter.com/search?q=Rabatt) | N/A |
-| 13 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 14 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 15 | [Lärm](http://twitter.com/search?q=L%c3%a4rm) | N/A |
-| 16 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 17 | [Wand](http://twitter.com/search?q=Wand) | N/A |
-| 18 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
-| 19 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
-| 20 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
-| 21 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 22 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 23 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 24 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
-| 25 | [Berset](http://twitter.com/search?q=Berset) | N/A |
-| 26 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 27 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
-| 28 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
-| 29 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 30 | [Behauptung](http://twitter.com/search?q=Behauptung) | N/A |
-| 31 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 32 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
-| 33 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
-| 34 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 35 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 36 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
-| 37 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 38 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
-| 39 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 41 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
-| 42 | [Satan](http://twitter.com/search?q=Satan) | N/A |
-| 43 | [Offensichtlich](http://twitter.com/search?q=Offensichtlich) | N/A |
-| 44 | [Schauspieler](http://twitter.com/search?q=Schauspieler) | N/A |
-| 45 | [Renten](http://twitter.com/search?q=Renten) | N/A |
-| 46 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 47 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
-| 48 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 49 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 50 | [ueli](http://twitter.com/search?q=ueli) | N/A |
+| 10 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
+| 11 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
+| 12 | [Beweise](http://twitter.com/search?q=Beweise) | N/A |
+| 13 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 14 | [Lärm](http://twitter.com/search?q=L%c3%a4rm) | N/A |
+| 15 | [Forschung](http://twitter.com/search?q=Forschung) | N/A |
+| 16 | [Laubbläser](http://twitter.com/search?q=Laubbl%c3%a4ser) | N/A |
+| 17 | [Berset](http://twitter.com/search?q=Berset) | N/A |
+| 18 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 19 | [Kompliment](http://twitter.com/search?q=Kompliment) | N/A |
+| 20 | [Austrian](http://twitter.com/search?q=Austrian) | N/A |
+| 21 | [Geschichten](http://twitter.com/search?q=Geschichten) | N/A |
+| 22 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 23 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
+| 24 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | N/A |
+| 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 26 | [schönen tag](http://twitter.com/search?q=sch%c3%b6nen+tag) | N/A |
+| 27 | [Sturm](http://twitter.com/search?q=Sturm) | N/A |
+| 28 | [Espagne](http://twitter.com/search?q=Espagne) | N/A |
+| 29 | [Schwein](http://twitter.com/search?q=Schwein) | N/A |
+| 30 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 31 | [anklage](http://twitter.com/search?q=anklage) | N/A |
+| 32 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
+| 33 | [Campino](http://twitter.com/search?q=Campino) | N/A |
+| 34 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
+| 35 | [Signal](http://twitter.com/search?q=Signal) | N/A |
+| 36 | [Präsidenten](http://twitter.com/search?q=Pr%c3%a4sidenten) | N/A |
+| 37 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 38 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
+| 39 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 40 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 41 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
+| 42 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 43 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 44 | [renten](http://twitter.com/search?q=renten) | N/A |
+| 45 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
+| 46 | [König](http://twitter.com/search?q=K%c3%b6nig) | N/A |
+| 47 | [Konsens](http://twitter.com/search?q=Konsens) | N/A |
+| 48 | [Sergio Ermotti](http://twitter.com/search?q=Sergio+Ermotti) | N/A |
+| 49 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 
 
 

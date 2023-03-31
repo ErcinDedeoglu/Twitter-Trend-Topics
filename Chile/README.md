@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-03-31 14:17:40 UTC`
+📆 Last Updated: `2023-03-31 15:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Chile
 | ------- | ------------ | ------------ |
 | 1 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
 | 2 | [#DíaDeLasRegiones](http://twitter.com/search?q=%23D%c3%adaDeLasRegiones) | N/A |
-| 3 | [Retamal](http://twitter.com/search?q=Retamal) | N/A |
-| 4 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
-| 5 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
-| 6 | [#almanegraTVN](http://twitter.com/search?q=%23almanegraTVN) | N/A |
+| 3 | [#LeyNainRetamal](http://twitter.com/search?q=%23LeyNainRetamal) | N/A |
+| 4 | [#contigoenlamañana](http://twitter.com/search?q=%23contigoenlama%c3%b1ana) | N/A |
+| 5 | [#100indecisos](http://twitter.com/search?q=%23100indecisos) | N/A |
+| 6 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 | 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 8 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 9 | [Ossandón](http://twitter.com/search?q=Ossand%c3%b3n) | N/A |
-| 10 | [Giorgio Jackson](http://twitter.com/search?q=Giorgio+Jackson) | N/A |
-| 11 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
-| 12 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
-| 13 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 14 | [Larrain](http://twitter.com/search?q=Larrain) | N/A |
-| 15 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
-| 16 | [Simón](http://twitter.com/search?q=Sim%c3%b3n) | N/A |
-| 17 | [Cobquecura](http://twitter.com/search?q=Cobquecura) | N/A |
-| 18 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 19 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
-| 20 | [Cecilia Bolocco](http://twitter.com/search?q=Cecilia+Bolocco) | N/A |
-| 21 | [Ministro Jackson](http://twitter.com/search?q=Ministro+Jackson) | N/A |
-| 22 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [Ormazabal](http://twitter.com/search?q=Ormazabal) | Ormazabal is a Basque surname. In English, it means "son of Orma". |
-| 25 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
-| 26 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
-| 27 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
-| 28 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 29 | [INDH](http://twitter.com/search?q=INDH) | N/A |
-| 30 | [Roberto Cox](http://twitter.com/search?q=Roberto+Cox) | N/A |
-| 31 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
+| 8 | [Carabineros](http://twitter.com/search?q=Carabineros) | N/A |
+| 9 | [Giorgio Jackson](http://twitter.com/search?q=Giorgio+Jackson) | N/A |
+| 10 | [Vicente Gutiérrez](http://twitter.com/search?q=Vicente+Guti%c3%a9rrez) | N/A |
+| 11 | [Martorell](http://twitter.com/search?q=Martorell) | N/A |
+| 12 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 13 | [Ossandon](http://twitter.com/search?q=Ossandon) | N/A |
+| 14 | [Larraín](http://twitter.com/search?q=Larra%c3%adn) | N/A |
+| 15 | [Liderazgo](http://twitter.com/search?q=Liderazgo) | N/A |
+| 16 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
+| 17 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 18 | [Cecilia Bolocco](http://twitter.com/search?q=Cecilia+Bolocco) | N/A |
+| 19 | [Cobquecura](http://twitter.com/search?q=Cobquecura) | N/A |
+| 20 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 21 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 22 | [Ministro Jackson](http://twitter.com/search?q=Ministro+Jackson) | N/A |
+| 23 | [Ormazabal](http://twitter.com/search?q=Ormazabal) | Ormazabal is a Basque surname. In English, it means "son of Orma". |
+| 24 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 25 | [Monix](http://twitter.com/search?q=Monix) | N/A |
+| 26 | [Ercilla](http://twitter.com/search?q=Ercilla) | N/A |
+| 27 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 28 | [Karla Rubilar](http://twitter.com/search?q=Karla+Rubilar) | N/A |
+| 29 | [Dante Poli](http://twitter.com/search?q=Dante+Poli) | N/A |
+| 30 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 31 | [Rojas Vade](http://twitter.com/search?q=Rojas+Vade) | N/A |
 | 32 | [Amnistía](http://twitter.com/search?q=Amnist%c3%ada) | N/A |
-| 33 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 34 | [Arturo Jáuregui](http://twitter.com/search?q=Arturo+J%c3%a1uregui) | N/A |
-| 35 | [Loncon](http://twitter.com/search?q=Loncon) | N/A |
-| 36 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
-| 37 | [Clau](http://twitter.com/search?q=Clau) | N/A |
-| 38 | [Américo](http://twitter.com/search?q=Am%c3%a9rico) | N/A |
-| 39 | [clínica sierra bella](http://twitter.com/search?q=cl%c3%adnica+sierra+bella) | N/A |
-| 40 | [Chascas](http://twitter.com/search?q=Chascas) | N/A |
-| 41 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
-| 42 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
-| 43 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
-| 44 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 45 | [Gomorra](http://twitter.com/search?q=Gomorra) | N/A |
-| 46 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 47 | [Villa Francia](http://twitter.com/search?q=Villa+Francia) | N/A |
-| 48 | [Pitutos](http://twitter.com/search?q=Pitutos) | N/A |
-| 49 | [Camila Miranda](http://twitter.com/search?q=Camila+Miranda) | N/A |
-| 50 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 33 | [Comisión Experta](http://twitter.com/search?q=Comisi%c3%b3n+Experta) | N/A |
+| 34 | [Mayol](http://twitter.com/search?q=Mayol) | N/A |
+| 35 | [Caras](http://twitter.com/search?q=Caras) | N/A |
+| 36 | [Raimundo](http://twitter.com/search?q=Raimundo) | N/A |
+| 37 | [Chascas](http://twitter.com/search?q=Chascas) | N/A |
+| 38 | ["Paseo"](http://twitter.com/search?q=%22Paseo%22) | N/A |
+| 39 | [Camila Miranda](http://twitter.com/search?q=Camila+Miranda) | N/A |
+| 40 | [Gomorra](http://twitter.com/search?q=Gomorra) | N/A |
+| 41 | [El PC](http://twitter.com/search?q=El+PC) | N/A |
+| 42 | [pitutos](http://twitter.com/search?q=pitutos) | N/A |
+| 43 | [Mexicana](http://twitter.com/search?q=Mexicana) | N/A |
+| 44 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 45 | [Yasna Lewin](http://twitter.com/search?q=Yasna+Lewin) | N/A |
+| 46 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
+| 47 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 48 | [Arturo Jáuregui](http://twitter.com/search?q=Arturo+J%c3%a1uregui) | N/A |
+| 49 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 50 | [Villa Francia](http://twitter.com/search?q=Villa+Francia) | N/A |
 
 
 

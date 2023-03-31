@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-03-31 14:16:53 UTC`
+📆 Last Updated: `2023-03-31 15:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 2 | [Year 3](http://twitter.com/search?q=Year+3) | N/A |
-| 3 | [Hugh](http://twitter.com/search?q=Hugh) | N/A |
-| 4 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 5 | [Reception](http://twitter.com/search?q=Reception) | N/A |
-| 6 | [Question Time](http://twitter.com/search?q=Question+Time) | N/A |
-| 7 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 8 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 9 | [#CashAppUK](http://twitter.com/search?q=%23CashAppUK) | N/A |
-| 10 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 11 | [#CashAppFriday](http://twitter.com/search?q=%23CashAppFriday) | N/A |
-| 12 | [#VibeMe](http://twitter.com/search?q=%23VibeMe) | N/A |
-| 13 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
-| 14 | [Michael Vaughan](http://twitter.com/search?q=Michael+Vaughan) | N/A |
+| 2 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
+| 3 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 4 | [Luis Diaz](http://twitter.com/search?q=Luis+Diaz) | N/A |
+| 5 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 6 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
+| 7 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 8 | [#TIMELESS](http://twitter.com/search?q=%23TIMELESS) | N/A |
+| 9 | [Dems](http://twitter.com/search?q=Dems) | Dems is an abbreviation for Democrats, which is a political party in the United States. The Democratic Party is one of two major political parties in the US, and its members are often referred to as "Democrats" or "Dems". |
+| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 11 | [#CashAppUK](http://twitter.com/search?q=%23CashAppUK) | N/A |
+| 12 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [#CashAppFriday](http://twitter.com/search?q=%23CashAppFriday) | N/A |
 | 15 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 16 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 17 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
-| 18 | [Belarusian](http://twitter.com/search?q=Belarusian) | N/A |
-| 19 | [Kemi](http://twitter.com/search?q=Kemi) | N/A |
-| 20 | [RIP Jason](http://twitter.com/search?q=RIP+Jason) | N/A |
-| 21 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
-| 22 | [Rafiq](http://twitter.com/search?q=Rafiq) | N/A |
-| 23 | [Jack Ross](http://twitter.com/search?q=Jack+Ross) | N/A |
-| 24 | [0.08% GDP](http://twitter.com/search?q=0.08%25+GDP) | N/A |
-| 25 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
-| 26 | [Driver](http://twitter.com/search?q=Driver) | N/A |
-| 27 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
-| 28 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 29 | [Naby Keita](http://twitter.com/search?q=Naby+Keita) | N/A |
-| 30 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
-| 31 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 32 | [4% of GDP](http://twitter.com/search?q=4%25+of+GDP) | N/A |
-| 33 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 34 | [RIP Rocky](http://twitter.com/search?q=RIP+Rocky) | N/A |
-| 35 | [4% GDP](http://twitter.com/search?q=4%25+GDP) | N/A |
-| 36 | [Irwin](http://twitter.com/search?q=Irwin) | N/A |
+| 16 | [Wimbledon](http://twitter.com/search?q=Wimbledon) | N/A |
+| 17 | [CPTPP](http://twitter.com/search?q=CPTPP) | N/A |
+| 18 | [Pasg Hapus](http://twitter.com/search?q=Pasg+Hapus) | N/A |
+| 19 | [0.08% of GDP](http://twitter.com/search?q=0.08%25+of+GDP) | N/A |
+| 20 | [Belarusian](http://twitter.com/search?q=Belarusian) | N/A |
+| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 22 | [Michael Vaughan](http://twitter.com/search?q=Michael+Vaughan) | N/A |
+| 23 | [Badenoch](http://twitter.com/search?q=Badenoch) | N/A |
+| 24 | [spring term](http://twitter.com/search?q=spring+term) | N/A |
+| 25 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 26 | [James Acaster](http://twitter.com/search?q=James+Acaster) | N/A |
+| 27 | [Rosie Duffield](http://twitter.com/search?q=Rosie+Duffield) | N/A |
+| 28 | [Driver](http://twitter.com/search?q=Driver) | N/A |
+| 29 | [0.08% GDP](http://twitter.com/search?q=0.08%25+GDP) | N/A |
+| 30 | [Azeem Rafiq](http://twitter.com/search?q=Azeem+Rafiq) | N/A |
+| 31 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 32 | [Newsletter](http://twitter.com/search?q=Newsletter) | N/A |
+| 33 | [Martine](http://twitter.com/search?q=Martine) | N/A |
+| 34 | [Naby](http://twitter.com/search?q=Naby) | Naby is a slang term derived from the phrase "neighborhood buddy." It is used to refer to someone who is a close friend or ally in one's local area. |
+| 35 | [Year 1](http://twitter.com/search?q=Year+1) | N/A |
+| 36 | [4% GDP](http://twitter.com/search?q=4%25+GDP) | N/A |
 | 37 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 38 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
-| 39 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 40 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 41 | [Kathy Burke](http://twitter.com/search?q=Kathy+Burke) | N/A |
-| 42 | [Samantha](http://twitter.com/search?q=Samantha) | N/A |
-| 43 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 44 | [Peru](http://twitter.com/search?q=Peru) | Peru is a country located in western South America. It is bordered by Ecuador, Colombia, Brazil, Bolivia, and Chile. The official language of Peru is Spanish and its capital city is Lima. The name Peru comes from the Quechua word “piruw” which means “land of abundance”. |
-| 45 | [Indo-Pacific](http://twitter.com/search?q=Indo-Pacific) | N/A |
-| 46 | [Ricky Gervais](http://twitter.com/search?q=Ricky+Gervais) | N/A |
-| 47 | [Anthony Joshua](http://twitter.com/search?q=Anthony+Joshua) | N/A |
-| 48 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 49 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 38 | [RIP Jason](http://twitter.com/search?q=RIP+Jason) | N/A |
+| 39 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 40 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
+| 41 | [0.08% to GDP](http://twitter.com/search?q=0.08%25+to+GDP) | N/A |
+| 42 | [Hugh](http://twitter.com/search?q=Hugh) | N/A |
+| 43 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
+| 44 | [Jack Ross](http://twitter.com/search?q=Jack+Ross) | N/A |
+| 45 | [Matchroom](http://twitter.com/search?q=Matchroom) | N/A |
+| 46 | [4% of gdp](http://twitter.com/search?q=4%25+of+gdp) | N/A |
+| 47 | [notts county](http://twitter.com/search?q=notts+county) | N/A |
+| 48 | [Dungeons & Dragons](http://twitter.com/search?q=Dungeons+%26+Dragons) | N/A |
+| 49 | [RIP Rocky](http://twitter.com/search?q=RIP+Rocky) | N/A |
 
 
 

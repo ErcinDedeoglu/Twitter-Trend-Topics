@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-03-31 14:17:05 UTC`
+📆 Last Updated: `2023-03-31 15:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 2 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 3 | [#Campino](http://twitter.com/search?q=%23Campino) | N/A |
-| 4 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 6 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 2 | [#Campino](http://twitter.com/search?q=%23Campino) | N/A |
+| 3 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 4 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 5 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 6 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 7 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 8 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 9 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
+| 8 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 9 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
 | 10 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
 | 11 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 12 | [Elevator Boys](http://twitter.com/search?q=Elevator+Boys) | N/A |
-| 13 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 12 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
+| 13 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
 | 14 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
-| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 16 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 17 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 18 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 19 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 20 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
-| 21 | [Klimaschutz](http://twitter.com/search?q=Klimaschutz) | N/A |
-| 22 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 23 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 24 | [Wehrpflicht](http://twitter.com/search?q=Wehrpflicht) | N/A |
-| 25 | [Genscher](http://twitter.com/search?q=Genscher) | N/A |
+| 15 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 16 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
+| 17 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 18 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
+| 19 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 20 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
+| 21 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 22 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 23 | [Aust](http://twitter.com/search?q=Aust) | N/A |
+| 24 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 25 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
 | 26 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 27 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 28 | [KOEHLER](http://twitter.com/search?q=KOEHLER) | N/A |
-| 29 | [Aust](http://twitter.com/search?q=Aust) | N/A |
+| 27 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 28 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
+| 29 | [Schwarz](http://twitter.com/search?q=Schwarz) | N/A |
 | 30 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 31 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
-| 32 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 33 | [Schweigegeld](http://twitter.com/search?q=Schweigegeld) | N/A |
-| 34 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
+| 31 | [Schweigegeld](http://twitter.com/search?q=Schweigegeld) | N/A |
+| 32 | [Fuzzy](http://twitter.com/search?q=Fuzzy) | N/A |
+| 33 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 | 35 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
-| 36 | [schultag](http://twitter.com/search?q=schultag) | N/A |
-| 37 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 38 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 39 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
-| 40 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 41 | [Letzter Tag](http://twitter.com/search?q=Letzter+Tag) | N/A |
-| 42 | [stück hirn-vakuum](http://twitter.com/search?q=st%c3%bcck+hirn-vakuum) | N/A |
-| 43 | [Frau Direktorin](http://twitter.com/search?q=Frau+Direktorin) | N/A |
-| 44 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 45 | [Krankschreibung](http://twitter.com/search?q=Krankschreibung) | N/A |
-| 46 | [stiko](http://twitter.com/search?q=stiko) | N/A |
-| 47 | [Jeansjacke](http://twitter.com/search?q=Jeansjacke) | N/A |
-| 48 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
+| 36 | [Schultag](http://twitter.com/search?q=Schultag) | N/A |
+| 37 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
+| 38 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
+| 39 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 40 | [stück hirn-vakuum](http://twitter.com/search?q=st%c3%bcck+hirn-vakuum) | N/A |
+| 41 | [Koehler](http://twitter.com/search?q=Koehler) | N/A |
+| 42 | [Hello Niall](http://twitter.com/search?q=Hello+Niall) | N/A |
+| 43 | [anklage](http://twitter.com/search?q=anklage) | N/A |
+| 44 | [Frau Direktorin](http://twitter.com/search?q=Frau+Direktorin) | N/A |
+| 45 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
+| 46 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
+| 47 | [krankschreibung](http://twitter.com/search?q=krankschreibung) | N/A |
+| 48 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
 
 
 

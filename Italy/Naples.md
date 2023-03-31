@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-03-31 14:17:07 UTC`
+📆 Last Updated: `2023-03-31 15:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,40 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
-| 2 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
-| 3 | [#31marzo](http://twitter.com/search?q=%2331marzo) | N/A |
-| 4 | [#viarasella](http://twitter.com/search?q=%23viarasella) | N/A |
-| 5 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 6 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 7 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 8 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
-| 9 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 10 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
-| 11 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 12 | [Ilaria](http://twitter.com/search?q=Ilaria) | N/A |
-| 13 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 15 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
-| 16 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 17 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 18 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
-| 19 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 20 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 21 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 22 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 23 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 24 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 25 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 26 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 27 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
-| 28 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 29 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
-| 30 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 31 | [capuano](http://twitter.com/search?q=capuano) | N/A |
-| 32 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 33 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 34 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 35 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 36 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 37 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 38 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 39 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 40 | [ficarra e picone](http://twitter.com/search?q=ficarra+e+picone) | N/A |
-| 41 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 42 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
-| 43 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 44 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 45 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 46 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 47 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 48 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 49 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
-| 50 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 2 | [#viarasella](http://twitter.com/search?q=%23viarasella) | N/A |
+| 3 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
+| 4 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 5 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
+| 6 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 7 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
+| 8 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 9 | [#ilparadisodellesignore](http://twitter.com/search?q=%23ilparadisodellesignore) | N/A |
+| 10 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 11 | [Ilaria](http://twitter.com/search?q=Ilaria) | N/A |
+| 12 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
+| 13 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 14 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
+| 15 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 16 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 17 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 18 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 20 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 21 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 22 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 23 | [Annalisa](http://twitter.com/search?q=Annalisa) | N/A |
+| 24 | [#25aprile](http://twitter.com/search?q=%2325aprile) | N/A |
+| 25 | [#agrigento](http://twitter.com/search?q=%23agrigento) | N/A |
+| 26 | [#31marzo](http://twitter.com/search?q=%2331marzo) | N/A |
+| 27 | [#NapoliMilan](http://twitter.com/search?q=%23NapoliMilan) | N/A |
+| 28 | [#oggièunaltrogiorno](http://twitter.com/search?q=%23oggi%c3%a8unaltrogiorno) | N/A |
+| 29 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 30 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 31 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 32 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
+| 33 | [#Pasqua](http://twitter.com/search?q=%23Pasqua) | N/A |
+| 34 | [#Finlandia](http://twitter.com/search?q=%23Finlandia) | N/A |
+| 35 | [#intelligenzaartificiale](http://twitter.com/search?q=%23intelligenzaartificiale) | N/A |
 
 
 
