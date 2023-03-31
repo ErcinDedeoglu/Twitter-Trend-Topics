@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-03-31 17:17:03 UTC`
+📆 Last Updated: `2023-03-31 18:20:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
-| 2 | [#Moneylounge](http://twitter.com/search?q=%23Moneylounge) | N/A |
-| 3 | [#65TheMovie](http://twitter.com/search?q=%2365TheMovie) | N/A |
-| 4 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 1 | [#KnowAuthenticLAPOMfB](http://twitter.com/search?q=%23KnowAuthenticLAPOMfB) | N/A |
+| 2 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 3 | [#Moneylounge](http://twitter.com/search?q=%23Moneylounge) | N/A |
+| 4 | [#65TheMovie](http://twitter.com/search?q=%2365TheMovie) | N/A |
 | 5 | [#AfrimedicalLive](http://twitter.com/search?q=%23AfrimedicalLive) | N/A |
-| 6 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 7 | [#KnowAuthenticLAPOMfB](http://twitter.com/search?q=%23KnowAuthenticLAPOMfB) | N/A |
-| 8 | [Over Dem](http://twitter.com/search?q=Over+Dem) | N/A |
-| 9 | [Falz](http://twitter.com/search?q=Falz) | N/A |
-| 10 | [Na Money](http://twitter.com/search?q=Na+Money) | N/A |
-| 11 | [Fave](http://twitter.com/search?q=Fave) | N/A |
-| 12 | [Jada](http://twitter.com/search?q=Jada) | N/A |
-| 13 | [No Competition](http://twitter.com/search?q=No+Competition) | N/A |
-| 14 | [Skepta](http://twitter.com/search?q=Skepta) | N/A |
-| 15 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 16 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
-| 17 | [FOR THE ROAD](http://twitter.com/search?q=FOR+THE+ROAD) | N/A |
-| 18 | [E PAIN ME](http://twitter.com/search?q=E+PAIN+ME) | N/A |
-| 19 | [Mr Yakubu](http://twitter.com/search?q=Mr+Yakubu) | N/A |
-| 20 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 21 | [Logos Olori](http://twitter.com/search?q=Logos+Olori) | N/A |
-| 22 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 23 | [The Album](http://twitter.com/search?q=The+Album) | The Album is a term used to refer to a collection of songs, usually released as a single package. It is typically used to refer to an album of recorded music, though it can also be used for other types of audio recordings such as spoken word albums and comedy albums. |
-| 24 | [Unavailable](http://twitter.com/search?q=Unavailable) | N/A |
-| 25 | [Goliath](http://twitter.com/search?q=Goliath) | N/A |
-| 26 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
-| 27 | [Popsy](http://twitter.com/search?q=Popsy) | N/A |
-| 28 | [LCND](http://twitter.com/search?q=LCND) | N/A |
-| 29 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
-| 30 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
-| 31 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
-| 32 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 33 | [Mbaka](http://twitter.com/search?q=Mbaka) | N/A |
-| 34 | [LEGENDS CAN NEVER DIE](http://twitter.com/search?q=LEGENDS+CAN+NEVER+DIE) | N/A |
-| 35 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 36 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
-| 37 | [Tinubu and 52](http://twitter.com/search?q=Tinubu+and+52) | N/A |
-| 38 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 39 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 40 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
-| 41 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
-| 42 | [Godfather](http://twitter.com/search?q=Godfather) | N/A |
-| 43 | [African Giant](http://twitter.com/search?q=African+Giant) | N/A |
-| 44 | [Morravey](http://twitter.com/search?q=Morravey) | N/A |
-| 45 | [sabi girl is here](http://twitter.com/search?q=sabi+girl+is+here) | N/A |
-| 46 | [Over 30](http://twitter.com/search?q=Over+30) | N/A |
-| 47 | [Vector](http://twitter.com/search?q=Vector) | N/A |
-| 48 | [Cavemen](http://twitter.com/search?q=Cavemen) | N/A |
-| 49 | [Congratulations 001](http://twitter.com/search?q=Congratulations+001) | N/A |
-| 50 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
+| 6 | [#TinubuIsHere](http://twitter.com/search?q=%23TinubuIsHere) | N/A |
+| 7 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 8 | [Nengi](http://twitter.com/search?q=Nengi) | N/A |
+| 9 | [More Love Less Ego](http://twitter.com/search?q=More+Love+Less+Ego) | N/A |
+| 10 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
+| 11 | [iCloud](http://twitter.com/search?q=iCloud) | N/A |
+| 12 | [Biggest Bird](http://twitter.com/search?q=Biggest+Bird) | N/A |
+| 13 | [Big Wiz](http://twitter.com/search?q=Big+Wiz) | Big Wiz is a slang term used to refer to someone who is very knowledgeable or wise. It can also be used to describe someone who is highly respected or influential. |
+| 14 | [Baboon](http://twitter.com/search?q=Baboon) | N/A |
+| 15 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 16 | [Popsy](http://twitter.com/search?q=Popsy) | N/A |
+| 17 | [Daniel Regha](http://twitter.com/search?q=Daniel+Regha) | N/A |
+| 18 | [Begging](http://twitter.com/search?q=Begging) | N/A |
+| 19 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 20 | [Mbaka](http://twitter.com/search?q=Mbaka) | N/A |
+| 21 | [30bg](http://twitter.com/search?q=30bg) | N/A |
+| 22 | [African Giant](http://twitter.com/search?q=African+Giant) | N/A |
+| 23 | [SABI GIRL IS HERE](http://twitter.com/search?q=SABI+GIRL+IS+HERE) | N/A |
+| 24 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
+| 25 | [Wizzy](http://twitter.com/search?q=Wizzy) | N/A |
+| 26 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
+| 27 | [Davido's Timeless](http://twitter.com/search?q=Davido%27s+Timeless) | N/A |
+| 28 | [Ifeanyi](http://twitter.com/search?q=Ifeanyi) | N/A |
+| 29 | [Oloye](http://twitter.com/search?q=Oloye) | N/A |
+| 30 | [#BBNaija](http://twitter.com/search?q=%23BBNaija) | N/A |
+| 31 | [#unilorinidolseason7](http://twitter.com/search?q=%23unilorinidolseason7) | N/A |
+| 32 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
+| 33 | [#DavidoTimelessConcert](http://twitter.com/search?q=%23DavidoTimelessConcert) | N/A |
+| 34 | [#MLLE](http://twitter.com/search?q=%23MLLE) | N/A |
+| 35 | [#marchdump](http://twitter.com/search?q=%23marchdump) | N/A |
+| 36 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 37 | [#Tacha](http://twitter.com/search?q=%23Tacha) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mombasa
 
-📆 Last Updated: `2023-03-31 17:16:39 UTC`
+📆 Last Updated: `2023-03-31 18:19:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Kenya](</Kenya>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Gov Wavinya](http://twitter.com/search?q=Gov+Wavinya) | N/A |
-| 2 | [#ProgressiveMachakos](http://twitter.com/search?q=%23ProgressiveMachakos) | N/A |
-| 3 | [#HandLegShake](http://twitter.com/search?q=%23HandLegShake) | N/A |
-| 4 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
-| 5 | [Pwani University](http://twitter.com/search?q=Pwani+University) | N/A |
-| 6 | [#GrandGalaDinner](http://twitter.com/search?q=%23GrandGalaDinner) | N/A |
-| 7 | [#clubkibokofestivallaunch](http://twitter.com/search?q=%23clubkibokofestivallaunch) | N/A |
-| 8 | [use kiboko 1](http://twitter.com/search?q=use+kiboko+1) | N/A |
+| 2 | [Pwani University](http://twitter.com/search?q=Pwani+University) | N/A |
+| 3 | [#MaandamanoThursdays](http://twitter.com/search?q=%23MaandamanoThursdays) | N/A |
+| 4 | [#GrandGalaDinner](http://twitter.com/search?q=%23GrandGalaDinner) | N/A |
+| 5 | [Moha](http://twitter.com/search?q=Moha) | N/A |
+| 6 | [#JAHFLIGHT](http://twitter.com/search?q=%23JAHFLIGHT) | N/A |
+| 7 | [#WeLoveAfricanacity](http://twitter.com/search?q=%23WeLoveAfricanacity) | N/A |
+| 8 | [Utalii Gastronomy](http://twitter.com/search?q=Utalii+Gastronomy) | N/A |
 | 9 | [Kisumu](http://twitter.com/search?q=Kisumu) | N/A |
-| 10 | [kdd or kbb](http://twitter.com/search?q=kdd+or+kbb) | N/A |
-| 11 | [Moha](http://twitter.com/search?q=Moha) | N/A |
-| 12 | [KDD 233P](http://twitter.com/search?q=KDD+233P) | N/A |
-| 13 | [McaTricky Comedy Circuit](http://twitter.com/search?q=McaTricky+Comedy+Circuit) | N/A |
-| 14 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 10 | [#ProgressiveMachakos](http://twitter.com/search?q=%23ProgressiveMachakos) | N/A |
+| 11 | [kdd or kbb](http://twitter.com/search?q=kdd+or+kbb) | N/A |
+| 12 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 13 | [KDD 233P](http://twitter.com/search?q=KDD+233P) | N/A |
+| 14 | [Tribal Queen Wavinya](http://twitter.com/search?q=Tribal+Queen+Wavinya) | N/A |
 | 15 | [Journalists](http://twitter.com/search?q=Journalists) | N/A |
-| 16 | [Tribal Queen Wavinya](http://twitter.com/search?q=Tribal+Queen+Wavinya) | N/A |
-| 17 | [Mater Heart Run](http://twitter.com/search?q=Mater+Heart+Run) | N/A |
-| 18 | [Rosemary Oduor](http://twitter.com/search?q=Rosemary+Oduor) | N/A |
-| 19 | [blaze tariff](http://twitter.com/search?q=blaze+tariff) | N/A |
-| 20 | [join the twitter](http://twitter.com/search?q=join+the+twitter) | N/A |
-| 21 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 22 | [outering road](http://twitter.com/search?q=outering+road) | N/A |
-| 23 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 24 | [simba of rhon](http://twitter.com/search?q=simba+of+rhon) | N/A |
-| 25 | [Kithure Kindiki](http://twitter.com/search?q=Kithure+Kindiki) | N/A |
-| 26 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 27 | [Congratulations Joy](http://twitter.com/search?q=Congratulations+Joy) | N/A |
-| 28 | [nanyuki sports club expo](http://twitter.com/search?q=nanyuki+sports+club+expo) | N/A |
-| 29 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
-| 30 | [dj fatxo](http://twitter.com/search?q=dj+fatxo) | N/A |
-| 31 | [KBB 233B](http://twitter.com/search?q=KBB+233B) | N/A |
-| 32 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
-| 33 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
-| 34 | [Attend Realtors Expo](http://twitter.com/search?q=Attend+Realtors+Expo) | N/A |
-| 35 | [chat na robisearchict](http://twitter.com/search?q=chat+na+robisearchict) | N/A |
-| 36 | [LSK AGM](http://twitter.com/search?q=LSK+AGM) | N/A |
-| 37 | [Sonal](http://twitter.com/search?q=Sonal) | N/A |
-| 38 | [free digitalmarketing leo](http://twitter.com/search?q=free+digitalmarketing+leo) | N/A |
-| 39 | [DJ Evolve](http://twitter.com/search?q=DJ+Evolve) | N/A |
-| 40 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 41 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 42 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
-| 43 | [Press](http://twitter.com/search?q=Press) | N/A |
-| 44 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
-| 45 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 46 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 47 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 48 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
-| 49 | [minne](http://twitter.com/search?q=minne) | N/A |
-| 50 | [Siaya](http://twitter.com/search?q=Siaya) | N/A |
+| 16 | [use kiboko 1](http://twitter.com/search?q=use+kiboko+1) | N/A |
+| 17 | [blaze tariff](http://twitter.com/search?q=blaze+tariff) | N/A |
+| 18 | [join the twitter](http://twitter.com/search?q=join+the+twitter) | N/A |
+| 19 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 20 | [outering road](http://twitter.com/search?q=outering+road) | N/A |
+| 21 | [McaTricky Comedy Circuit](http://twitter.com/search?q=McaTricky+Comedy+Circuit) | N/A |
+| 22 | [Pipeline](http://twitter.com/search?q=Pipeline) | N/A |
+| 23 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 24 | [KBB 233B](http://twitter.com/search?q=KBB+233B) | N/A |
+| 25 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 26 | [Rosemary Oduor](http://twitter.com/search?q=Rosemary+Oduor) | N/A |
+| 27 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 28 | [Jeff Mwathi](http://twitter.com/search?q=Jeff+Mwathi) | N/A |
+| 29 | [Congratulations Joy](http://twitter.com/search?q=Congratulations+Joy) | N/A |
+| 30 | [nanyuki sports club expo](http://twitter.com/search?q=nanyuki+sports+club+expo) | N/A |
+| 31 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
+| 32 | [chat na robisearchict](http://twitter.com/search?q=chat+na+robisearchict) | N/A |
+| 33 | [free digitalmarketing leo](http://twitter.com/search?q=free+digitalmarketing+leo) | N/A |
+| 34 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 35 | [pilsner lager](http://twitter.com/search?q=pilsner+lager) | N/A |
+| 36 | [mater heart run](http://twitter.com/search?q=mater+heart+run) | N/A |
+| 37 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 38 | [Come to Kenya](http://twitter.com/search?q=Come+to+Kenya) | N/A |
+| 39 | [Dj Fatxo](http://twitter.com/search?q=Dj+Fatxo) | N/A |
+| 40 | [Press](http://twitter.com/search?q=Press) | N/A |
+| 41 | [Dj Evolve](http://twitter.com/search?q=Dj+Evolve) | N/A |
+| 42 | [attend realtors expo](http://twitter.com/search?q=attend+realtors+expo) | N/A |
+| 43 | [Imara Daima](http://twitter.com/search?q=Imara+Daima) | N/A |
+| 44 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
+| 45 | [Naivasha](http://twitter.com/search?q=Naivasha) | N/A |
+| 46 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 47 | [Minne](http://twitter.com/search?q=Minne) | N/A |
+| 48 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
+| 49 | [Moderna](http://twitter.com/search?q=Moderna) | N/A |
+| 50 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 
 
 

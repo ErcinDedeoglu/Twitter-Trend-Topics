@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-31 17:16:53 UTC`
+📆 Last Updated: `2023-03-31 18:20:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 1 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
 | 2 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 3 | [#WaleMania](http://twitter.com/search?q=%23WaleMania) | N/A |
-| 4 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 5 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 6 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
-| 7 | [#TransRightsAreHumanRights](http://twitter.com/search?q=%23TransRightsAreHumanRights) | N/A |
-| 8 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 11 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 12 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
-| 13 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
-| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 15 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 16 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
-| 17 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
-| 18 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
-| 19 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 20 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 21 | [The SPC](http://twitter.com/search?q=The+SPC) | N/A |
-| 22 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 23 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 24 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 25 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 26 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 27 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 28 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 29 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 30 | [Homebody](http://twitter.com/search?q=Homebody) | N/A |
-| 31 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
-| 32 | [The Marathon Continues](http://twitter.com/search?q=The+Marathon+Continues) | N/A |
-| 33 | [DJ Drama](http://twitter.com/search?q=DJ+Drama) | N/A |
-| 34 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
-| 35 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 36 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 37 | [Lechonk](http://twitter.com/search?q=Lechonk) | N/A |
-| 38 | [Long Live Nip](http://twitter.com/search?q=Long+Live+Nip) | N/A |
-| 39 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 40 | [Mississippi Valley](http://twitter.com/search?q=Mississippi+Valley) | N/A |
-| 41 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 42 | [Storm Prediction Center](http://twitter.com/search?q=Storm+Prediction+Center) | N/A |
-| 43 | [Silk Road](http://twitter.com/search?q=Silk+Road) | N/A |
-| 44 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 45 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
-| 46 | [NRG Stadium](http://twitter.com/search?q=NRG+Stadium) | N/A |
-| 47 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 48 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 49 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
-| 50 | [#CesarChavezDay](http://twitter.com/search?q=%23CesarChavezDay) | N/A |
+| 3 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 4 | [#WaleMania](http://twitter.com/search?q=%23WaleMania) | N/A |
+| 5 | [#NoOneIsAboveTheLaw](http://twitter.com/search?q=%23NoOneIsAboveTheLaw) | N/A |
+| 6 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 7 | [Nixon](http://twitter.com/search?q=Nixon) | Nixon is a surname of English origin. It is derived from the Old English elements nige, meaning "black" or "dark," and tun, meaning "enclosure" or "settlement." The name was originally given to someone who lived in a dark-colored settlement. |
+| 8 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
+| 9 | [Criminals](http://twitter.com/search?q=Criminals) | N/A |
+| 10 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 11 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 12 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 13 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 14 | [Jadyn Davis](http://twitter.com/search?q=Jadyn+Davis) | N/A |
+| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 16 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 17 | [Tornado Watch](http://twitter.com/search?q=Tornado+Watch) | N/A |
+| 18 | [Bill Clinton](http://twitter.com/search?q=Bill+Clinton) | N/A |
+| 19 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 20 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 21 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 22 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 23 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 24 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 25 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 26 | [LaMarcus Aldridge](http://twitter.com/search?q=LaMarcus+Aldridge) | N/A |
+| 27 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 28 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 29 | [Sean Snyder](http://twitter.com/search?q=Sean+Snyder) | N/A |
+| 30 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 31 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 32 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 33 | [US Senator](http://twitter.com/search?q=US+Senator) | N/A |
+| 34 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 35 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 36 | [RIP Nip](http://twitter.com/search?q=RIP+Nip) | N/A |
+| 37 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 38 | [C U Next Tuesday](http://twitter.com/search?q=C+U+Next+Tuesday) | N/A |
+| 39 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 40 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 41 | [Jacob Toppin](http://twitter.com/search?q=Jacob+Toppin) | N/A |
+| 42 | [John McCain](http://twitter.com/search?q=John+McCain) | N/A |
+| 43 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 44 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 45 | [New Yorkers](http://twitter.com/search?q=New+Yorkers) | N/A |
+| 46 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 47 | [Lechonk](http://twitter.com/search?q=Lechonk) | N/A |
+| 48 | [Bill Snyder](http://twitter.com/search?q=Bill+Snyder) | N/A |
+| 49 | [Tom Kim](http://twitter.com/search?q=Tom+Kim) | N/A |
+| 50 | [Happy 80th](http://twitter.com/search?q=Happy+80th) | N/A |
 
 
 

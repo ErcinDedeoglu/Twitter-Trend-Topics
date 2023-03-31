@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-03-31 17:16:14 UTC`
+📆 Last Updated: `2023-03-31 18:19:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PoderosoConSalsa](http://twitter.com/search?q=%23PoderosoConSalsa) | N/A |
-| 2 | [Guadalupe Taddei Zavala](http://twitter.com/search?q=Guadalupe+Taddei+Zavala) | N/A |
-| 3 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 4 | [Billie](http://twitter.com/search?q=Billie) | N/A |
-| 5 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 6 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 7 | [#KinderKorno](http://twitter.com/search?q=%23KinderKorno) | N/A |
-| 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 9 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
-| 10 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 11 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
-| 12 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
-| 13 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
-| 14 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 15 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
-| 16 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
-| 17 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
-| 18 | [Ana Francisca](http://twitter.com/search?q=Ana+Francisca) | N/A |
-| 19 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
-| 20 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 21 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 22 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
-| 23 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 25 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 26 | [Cáncer de Colon](http://twitter.com/search?q=C%c3%a1ncer+de+Colon) | N/A |
-| 27 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 28 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
-| 29 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
-| 30 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
-| 31 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 32 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
-| 33 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 34 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
-| 35 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
-| 36 | [Selena Quintanilla](http://twitter.com/search?q=Selena+Quintanilla) | N/A |
-| 37 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 38 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 39 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
-| 40 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 41 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 42 | [Excelente Viernes](http://twitter.com/search?q=Excelente+Viernes) | N/A |
-| 43 | [Av. Coyoacán](http://twitter.com/search?q=Av.+Coyoac%c3%a1n) | N/A |
-| 44 | [LitioMx](http://twitter.com/search?q=LitioMx) | N/A |
-| 45 | [Yolanda Saldívar](http://twitter.com/search?q=Yolanda+Sald%c3%advar) | N/A |
-| 46 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
-| 47 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
-| 48 | [Chimalhuacán](http://twitter.com/search?q=Chimalhuac%c3%a1n) | Chimalhuacán is a city in the State of Mexico, Mexico. It is located in the eastern part of the state, about 25 miles northeast of Mexico City. The name Chimalhuacán comes from the Nahuatl language and means "place of the shield". |
-| 49 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 2 | [Guadalupe Taddei](http://twitter.com/search?q=Guadalupe+Taddei) | N/A |
+| 3 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 4 | [#DiaDelTaco](http://twitter.com/search?q=%23DiaDelTaco) | N/A |
+| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 6 | [#EnEsteFin](http://twitter.com/search?q=%23EnEsteFin) | N/A |
+| 7 | [Octavio Paz](http://twitter.com/search?q=Octavio+Paz) | N/A |
+| 8 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
+| 9 | [Lorenzo Córdova](http://twitter.com/search?q=Lorenzo+C%c3%b3rdova) | N/A |
+| 10 | [Ana Francisca](http://twitter.com/search?q=Ana+Francisca) | N/A |
+| 11 | [Hoy 31](http://twitter.com/search?q=Hoy+31) | N/A |
+| 12 | [Premio Nobel de Literatura](http://twitter.com/search?q=Premio+Nobel+de+Literatura) | N/A |
+| 13 | [Nepotismo](http://twitter.com/search?q=Nepotismo) | N/A |
+| 14 | [Viernes de Dolores](http://twitter.com/search?q=Viernes+de+Dolores) | N/A |
+| 15 | [El 31](http://twitter.com/search?q=El+31) | N/A |
+| 16 | [Instituto Nacional Electoral](http://twitter.com/search?q=Instituto+Nacional+Electoral) | N/A |
+| 17 | [Hipócrita](http://twitter.com/search?q=Hip%c3%b3crita) | N/A |
+| 18 | [Sonora](http://twitter.com/search?q=Sonora) | N/A |
+| 19 | [Tómbola](http://twitter.com/search?q=T%c3%b3mbola) | N/A |
+| 20 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 21 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 22 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
+| 23 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
+| 24 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 25 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
+| 26 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 27 | [Cuernavaca](http://twitter.com/search?q=Cuernavaca) | N/A |
+| 28 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
+| 29 | [Viernes 31](http://twitter.com/search?q=Viernes+31) | N/A |
+| 30 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 31 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 33 | [Consejeros](http://twitter.com/search?q=Consejeros) | N/A |
+| 34 | [Ciro Murayama](http://twitter.com/search?q=Ciro+Murayama) | N/A |
+| 35 | [Tlahuelilpan](http://twitter.com/search?q=Tlahuelilpan) | N/A |
+| 36 | [#VisibilidadTrans](http://twitter.com/search?q=%23VisibilidadTrans) | N/A |
+| 37 | [#QueremosRock](http://twitter.com/search?q=%23QueremosRock) | N/A |
+| 38 | [#selenaquintanilla](http://twitter.com/search?q=%23selenaquintanilla) | N/A |
+| 39 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
+| 40 | [#NIUNVOTOALOSCORRUPTOS](http://twitter.com/search?q=%23NIUNVOTOALOSCORRUPTOS) | N/A |
+| 41 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
+| 42 | [#MañaneroFavorito](http://twitter.com/search?q=%23Ma%c3%b1aneroFavorito) | N/A |
+| 43 | [#SecretInvasion](http://twitter.com/search?q=%23SecretInvasion) | N/A |
+| 44 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 45 | [#SemanaSanta2023](http://twitter.com/search?q=%23SemanaSanta2023) | N/A |
+| 46 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
+| 47 | [#PalNorte](http://twitter.com/search?q=%23PalNorte) | N/A |
+| 48 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 49 | [#AmloEsUnPeligroParaMexico](http://twitter.com/search?q=%23AmloEsUnPeligroParaMexico) | N/A |
 
 
 

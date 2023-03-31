@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-31 17:16:25 UTC`
+📆 Last Updated: `2023-03-31 18:19:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,46 +19,46 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#31marzo](http://twitter.com/search?q=%2331marzo) | N/A |
 | 3 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
 | 4 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 5 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
+| 5 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
 | 6 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 7 | [Mutti](http://twitter.com/search?q=Mutti) | N/A |
-| 8 | [Made in Italy](http://twitter.com/search?q=Made+in+Italy) | N/A |
-| 9 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 7 | [Resistenza](http://twitter.com/search?q=Resistenza) | N/A |
+| 8 | [Garante](http://twitter.com/search?q=Garante) | N/A |
+| 9 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
 | 10 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
-| 11 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 12 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 13 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 14 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
-| 15 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 16 | [Garante](http://twitter.com/search?q=Garante) | N/A |
-| 17 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 18 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 11 | [Miguel Angel](http://twitter.com/search?q=Miguel+Angel) | N/A |
+| 12 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 13 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
+| 14 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
+| 15 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
+| 16 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 17 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
+| 18 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 19 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
 | 20 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 21 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 22 | [SPID](http://twitter.com/search?q=SPID) | N/A |
-| 23 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 24 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 25 | [OpenAI](http://twitter.com/search?q=OpenAI) | N/A |
-| 26 | [Bozen](http://twitter.com/search?q=Bozen) | N/A |
-| 27 | [Laurentiis](http://twitter.com/search?q=Laurentiis) | N/A |
-| 28 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
-| 29 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 30 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 31 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
-| 32 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 33 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
-| 34 | [ficarra e picone](http://twitter.com/search?q=ficarra+e+picone) | N/A |
-| 35 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 36 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
-| 37 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 38 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 39 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 40 | [buon venerdì](http://twitter.com/search?q=buon+venerd%c3%ac) | N/A |
-| 41 | [Cultura 2025](http://twitter.com/search?q=Cultura+2025) | N/A |
-| 42 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 43 | [Dora](http://twitter.com/search?q=Dora) | N/A |
-| 44 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
+| 21 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 22 | [Cholito](http://twitter.com/search?q=Cholito) | N/A |
+| 23 | [Victor](http://twitter.com/search?q=Victor) | N/A |
+| 24 | [Lukashenko](http://twitter.com/search?q=Lukashenko) | N/A |
+| 25 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 26 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 27 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 28 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 29 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 30 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 31 | [Mutti](http://twitter.com/search?q=Mutti) | N/A |
+| 32 | [Partigiani](http://twitter.com/search?q=Partigiani) | N/A |
+| 33 | [Toscani](http://twitter.com/search?q=Toscani) | N/A |
+| 34 | [SPID](http://twitter.com/search?q=SPID) | N/A |
+| 35 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
+| 36 | [Cultura 2025](http://twitter.com/search?q=Cultura+2025) | N/A |
+| 37 | [Grillo](http://twitter.com/search?q=Grillo) | N/A |
+| 38 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 39 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
+| 40 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 41 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 42 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 43 | [GDPR](http://twitter.com/search?q=GDPR) | N/A |
+| 44 | [Dora](http://twitter.com/search?q=Dora) | N/A |
 
 
 

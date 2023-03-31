@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dammam
 
-📆 Last Updated: `2023-03-31 17:16:40 UTC`
+📆 Last Updated: `2023-03-31 18:19:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#نجر_ستديو23](http://twitter.com/search?q=%23%d9%86%d8%ac%d8%b1_%d8%b3%d8%aa%d8%af%d9%8a%d9%8823) | N/A |
+| 1 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
 | 2 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
-| 3 | [#نيرمين_محسن_تقلد_ياسمين_عز](http://twitter.com/search?q=%23%d9%86%d9%8a%d8%b1%d9%85%d9%8a%d9%86_%d9%85%d8%ad%d8%b3%d9%86_%d8%aa%d9%82%d9%84%d8%af_%d9%8a%d8%a7%d8%b3%d9%85%d9%8a%d9%86_%d8%b9%d8%b2) | N/A |
-| 4 | [#اسامه_شبكشي](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a7%d9%85%d9%87_%d8%b4%d8%a8%d9%83%d8%b4%d9%8a) | N/A |
-| 5 | [#يوم_Iلجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_I%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 6 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 3 | [#رمضان_مع_ابو_فهد٢](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88_%d9%81%d9%87%d8%af%d9%a2) | N/A |
+| 4 | [#منصه_اد_فاز](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d8%a7%d8%af_%d9%81%d8%a7%d8%b2) | N/A |
+| 5 | [#نيرمين_محسن_تقلد_ياسمين_عز](http://twitter.com/search?q=%23%d9%86%d9%8a%d8%b1%d9%85%d9%8a%d9%86_%d9%85%d8%ad%d8%b3%d9%86_%d8%aa%d9%82%d9%84%d8%af_%d9%8a%d8%a7%d8%b3%d9%85%d9%8a%d9%86_%d8%b9%d8%b2) | N/A |
+| 6 | [#بغلف_الجود_والعطاء1](http://twitter.com/search?q=%23%d8%a8%d8%ba%d9%84%d9%81_%d8%a7%d9%84%d8%ac%d9%88%d8%af_%d9%88%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a11) | N/A |
 | 7 | [الساعه المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 8 | [ميكيل](http://twitter.com/search?q=%d9%85%d9%8a%d9%83%d9%8a%d9%84) | N/A |
-| 9 | [٩ رمضان](http://twitter.com/search?q=%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 10 | [أسامة شبكشي](http://twitter.com/search?q=%d8%a3%d8%b3%d8%a7%d9%85%d8%a9+%d8%b4%d8%a8%d9%83%d8%b4%d9%8a) | N/A |
-| 11 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 12 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 13 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
-| 14 | [بشري تشبه الغيث](http://twitter.com/search?q=%d8%a8%d8%b4%d8%b1%d9%8a+%d8%aa%d8%b4%d8%a8%d9%87+%d8%a7%d9%84%d8%ba%d9%8a%d8%ab) | N/A |
-| 15 | [البحر العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 16 | [الثوب الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%a8+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
-| 17 | [جعفر بن أبي طالب](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a8%d9%86+%d8%a3%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 18 | [ابي حبيبي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%ad%d8%a8%d9%8a%d8%a8%d9%8a) | N/A |
-| 19 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 20 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 21 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 22 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
-| 23 | [المسلمين اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 24 | [بنتي المستقبليه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
-| 25 | [علي ابراهيم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 26 | [ألمانيا](http://twitter.com/search?q=%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 27 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 28 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
-| 29 | [اسعد السعداء](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d8%a7%d8%a1) | N/A |
-| 30 | [#قصه_بطل9](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%849) | N/A |
-| 31 | [#حكايه_وعد](http://twitter.com/search?q=%23%d8%ad%d9%83%d8%a7%d9%8a%d9%87_%d9%88%d8%b9%d8%af) | N/A |
-| 32 | [#اد_فاز](http://twitter.com/search?q=%23%d8%a7%d8%af_%d9%81%d8%a7%d8%b2) | N/A |
-| 33 | [#مسلسل_بحر_دلهوم9](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%a8%d8%ad%d8%b1_%d8%af%d9%84%d9%87%d9%88%d9%859) | N/A |
-| 34 | [#زد_رصيدك67](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8367) | N/A |
-| 35 | [#رمضان9](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%869) | N/A |
-| 36 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 37 | [#الصلاه_علي_النبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | N/A |
-| 38 | [#برنامج_فضايي9](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d9%81%d8%b6%d8%a7%d9%8a%d9%8a9) | N/A |
-| 39 | [#WrestleMania](http://twitter.com/search?q=%23WrestleMania) | N/A |
-| 40 | [#جمعه_رمضانيه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d8%b1%d9%85%d8%b6%d8%a7%d9%86%d9%8a%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 41 | [#مسابقه_المربع_نت9](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa9) | N/A |
-| 42 | [#الهلال_الخليج](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 43 | [#خالد_الجريوي](http://twitter.com/search?q=%23%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ac%d8%b1%d9%8a%d9%88%d9%8a) | N/A |
-| 44 | [#سوره_الكهف](http://twitter.com/search?q=%23%d8%b3%d9%88%d8%b1%d9%87_%d8%a7%d9%84%d9%83%d9%87%d9%81) | N/A |
+| 8 | [ميه متر](http://twitter.com/search?q=%d9%85%d9%8a%d9%87+%d9%85%d8%aa%d8%b1) | N/A |
+| 9 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 10 | [بنتي المستقبليه](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84%d9%8a%d9%87) | N/A |
+| 11 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 12 | [أسامة شبكشي](http://twitter.com/search?q=%d8%a3%d8%b3%d8%a7%d9%85%d8%a9+%d8%b4%d8%a8%d9%83%d8%b4%d9%8a) | N/A |
+| 13 | [٩ رمضان](http://twitter.com/search?q=%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 14 | [راشد الشمراني](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d8%af+%d8%a7%d9%84%d8%b4%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 15 | [جعفر بن أبي طالب](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a8%d9%86+%d8%a3%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 16 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 17 | [البحر العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 18 | [الحلقه التاسعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9%d9%87) | N/A |
+| 19 | [ميندي](http://twitter.com/search?q=%d9%85%d9%8a%d9%86%d8%af%d9%8a) | ميندي (Mendy) is an Arabic name meaning "enlightened" or "illuminated". It is also a popular given name in the Middle East and North Africa. |
+| 20 | [اليوم الفضيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
+| 21 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 22 | [الاتحاد الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 23 | [نعيم دايم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 24 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 25 | [بشري تشبه الغيث](http://twitter.com/search?q=%d8%a8%d8%b4%d8%b1%d9%8a+%d8%aa%d8%b4%d8%a8%d9%87+%d8%a7%d9%84%d8%ba%d9%8a%d8%ab) | N/A |
+| 26 | [قبر ابي](http://twitter.com/search?q=%d9%82%d8%a8%d8%b1+%d8%a7%d8%a8%d9%8a) | N/A |
+| 27 | [الثوب الابيض](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%88%d8%a8+%d8%a7%d9%84%d8%a7%d8%a8%d9%8a%d8%b6) | N/A |
+| 28 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 29 | [ابي حبيبي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%ad%d8%a8%d9%8a%d8%a8%d9%8a) | N/A |
+| 30 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 31 | [المسلمين اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 32 | [نعيم الجنه](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 33 | [نور دايم](http://twitter.com/search?q=%d9%86%d9%88%d8%b1+%d8%af%d8%a7%d9%8a%d9%85) | N/A |
+| 34 | [ألمانيا](http://twitter.com/search?q=%d8%a3%d9%84%d9%85%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 35 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
+| 36 | [اسعد السعداء](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d8%a7%d8%a1) | N/A |
+| 37 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 38 | [الخطوط الجويه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b7%d9%88%d8%b7+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 39 | [#اسامه_شبكشي](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%a7%d9%85%d9%87_%d8%b4%d8%a8%d9%83%d8%b4%d9%8a) | N/A |
+| 40 | [#يوم_Iلجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_I%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 41 | [#قصه_بطل9](http://twitter.com/search?q=%23%d9%82%d8%b5%d9%87_%d8%a8%d8%b7%d9%849) | N/A |
+| 42 | [#يلو_تجمعنا](http://twitter.com/search?q=%23%d9%8a%d9%84%d9%88_%d8%aa%d8%ac%d9%85%d8%b9%d9%86%d8%a7) | N/A |
+| 43 | [#نجر_ستديو23](http://twitter.com/search?q=%23%d9%86%d8%ac%d8%b1_%d8%b3%d8%aa%d8%af%d9%8a%d9%8823) | N/A |
+| 44 | [#الروشن9](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%869) | N/A |
+| 45 | [#زد_رصيدك67](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8367) | N/A |
+| 46 | [#رمضان9](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%869) | N/A |
+| 47 | [#مسلسل_بحر_دلهوم9](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%a8%d8%ad%d8%b1_%d8%af%d9%84%d9%87%d9%88%d9%859) | N/A |
+| 48 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 49 | [#الهلال_الخليج](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 50 | [#الصلاه_علي_النبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b5%d9%84%d8%a7%d9%87_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | N/A |
 
 
 

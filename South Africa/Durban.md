@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-03-31 17:16:40 UTC`
+📆 Last Updated: `2023-03-31 18:19:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 2 | [#TelkomConnectToTheMoment](http://twitter.com/search?q=%23TelkomConnectToTheMoment) | N/A |
-| 3 | [#R35Million](http://twitter.com/search?q=%23R35Million) | N/A |
-| 4 | [#PowerballGuaranteedJackpot](http://twitter.com/search?q=%23PowerballGuaranteedJackpot) | N/A |
-| 5 | [#TelkomConnectsSA](http://twitter.com/search?q=%23TelkomConnectsSA) | N/A |
-| 6 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
-| 7 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 1 | [#R35Million](http://twitter.com/search?q=%23R35Million) | N/A |
+| 2 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
+| 3 | [#PowerballGuaranteedJackpot](http://twitter.com/search?q=%23PowerballGuaranteedJackpot) | N/A |
+| 4 | [#TelkomConnectToTheMoment](http://twitter.com/search?q=%23TelkomConnectToTheMoment) | N/A |
+| 5 | [#FamilyMeeting](http://twitter.com/search?q=%23FamilyMeeting) | N/A |
+| 6 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 7 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
 | 8 | [Obed](http://twitter.com/search?q=Obed) | N/A |
 | 9 | [Dragon](http://twitter.com/search?q=Dragon) | N/A |
-| 10 | [Nini](http://twitter.com/search?q=Nini) | N/A |
-| 11 | [Quinton De Kock](http://twitter.com/search?q=Quinton+De+Kock) | N/A |
-| 12 | [Saga](http://twitter.com/search?q=Saga) | N/A |
-| 13 | [Temba](http://twitter.com/search?q=Temba) | N/A |
-| 14 | [Jub Jub](http://twitter.com/search?q=Jub+Jub) | N/A |
-| 15 | [USSD](http://twitter.com/search?q=USSD) | N/A |
+| 10 | [USSD](http://twitter.com/search?q=USSD) | N/A |
+| 11 | [Quinton de Kock](http://twitter.com/search?q=Quinton+de+Kock) | N/A |
+| 12 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
+| 13 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 14 | [Temba Bavuma](http://twitter.com/search?q=Temba+Bavuma) | N/A |
+| 15 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
 | 16 | [SARB](http://twitter.com/search?q=SARB) | N/A |
-| 17 | [JUICY JAY THE RUGBY PLAYER](http://twitter.com/search?q=JUICY+JAY+THE+RUGBY+PLAYER) | N/A |
-| 18 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
+| 17 | [Jub Jub](http://twitter.com/search?q=Jub+Jub) | N/A |
+| 18 | [THABANG CHOP MY MONEY](http://twitter.com/search?q=THABANG+CHOP+MY+MONEY) | N/A |
 | 19 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
-| 20 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
-| 21 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
-| 22 | [THABANG CHOP MY MONEY](http://twitter.com/search?q=THABANG+CHOP+MY+MONEY) | N/A |
-| 23 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
-| 24 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 25 | [Business Term Loan](http://twitter.com/search?q=Business+Term+Loan) | N/A |
-| 26 | [paballo](http://twitter.com/search?q=paballo) | N/A |
-| 27 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
-| 28 | [Mr Kgomo](http://twitter.com/search?q=Mr+Kgomo) | N/A |
-| 29 | [AnAriesEP](http://twitter.com/search?q=AnAriesEP) | N/A |
-| 30 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 31 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 32 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 33 | [UNISA](http://twitter.com/search?q=UNISA) | N/A |
-| 34 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 35 | [DSTV](http://twitter.com/search?q=DSTV) | N/A |
-| 36 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
-| 37 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
-| 38 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
-| 39 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
-| 40 | [Atteridgeville](http://twitter.com/search?q=Atteridgeville) | N/A |
-| 41 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
-| 42 | [Supersport](http://twitter.com/search?q=Supersport) | N/A |
-| 43 | [AFRICA LOVES BLUE AIVA](http://twitter.com/search?q=AFRICA+LOVES+BLUE+AIVA) | N/A |
-| 44 | [mihlali](http://twitter.com/search?q=mihlali) | N/A |
-| 45 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 46 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
-| 47 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 48 | [lesetja kganyago](http://twitter.com/search?q=lesetja+kganyago) | N/A |
-| 49 | [THABANG GOFUND ME FRIDAY](http://twitter.com/search?q=THABANG+GOFUND+ME+FRIDAY) | N/A |
-| 50 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
+| 20 | [Bazaruto](http://twitter.com/search?q=Bazaruto) | N/A |
+| 21 | [Saga](http://twitter.com/search?q=Saga) | N/A |
+| 22 | [Unisa](http://twitter.com/search?q=Unisa) | N/A |
+| 23 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
+| 24 | [Shopping](http://twitter.com/search?q=Shopping) | N/A |
+| 25 | [March Dump](http://twitter.com/search?q=March+Dump) | N/A |
+| 26 | [anariesep](http://twitter.com/search?q=anariesep) | N/A |
+| 27 | [Marshall](http://twitter.com/search?q=Marshall) | N/A |
+| 28 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 29 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 30 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
+| 31 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
+| 32 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 33 | [Supersport](http://twitter.com/search?q=Supersport) | N/A |
+| 34 | [Leeto](http://twitter.com/search?q=Leeto) | N/A |
+| 35 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
+| 36 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
+| 37 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 38 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
+| 39 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
+| 40 | [coffee with khosi](http://twitter.com/search?q=coffee+with+khosi) | N/A |
+| 41 | [Stage 4](http://twitter.com/search?q=Stage+4) | N/A |
+| 42 | [Come to South Africa](http://twitter.com/search?q=Come+to+South+Africa) | N/A |
+| 43 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 44 | [DSTV](http://twitter.com/search?q=DSTV) | N/A |
+| 45 | [AFRICA LOVES BLUE AIVA](http://twitter.com/search?q=AFRICA+LOVES+BLUE+AIVA) | N/A |
+| 46 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
+| 47 | [Castle Lite](http://twitter.com/search?q=Castle+Lite) | N/A |
+| 48 | [Business Term Loan](http://twitter.com/search?q=Business+Term+Loan) | N/A |
+| 49 | [Griffons](http://twitter.com/search?q=Griffons) | N/A |
+| 50 | [Brett](http://twitter.com/search?q=Brett) | N/A |
 
 
 

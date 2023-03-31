@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-03-31 17:16:59 UTC`
+📆 Last Updated: `2023-03-31 18:20:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,32 +16,36 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [посланием](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d0%b5%d0%bc) | N/A |
-| 2 | [Национальному](http://twitter.com/search?q=%d0%9d%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%bc%d1%83) | N/A |
-| 3 | [Послания](http://twitter.com/search?q=%d0%9f%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d1%8f) | N/A |
-| 4 | [послание президента](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d0%b5+%d0%bf%d1%80%d0%b5%d0%b7%d0%b8%d0%b4%d0%b5%d0%bd%d1%82%d0%b0) | N/A |
-| 5 | [Беларуси и России](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8+%d0%b8+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 6 | [Александр Лукашенко](http://twitter.com/search?q=%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b0%d0%bd%d0%b4%d1%80+%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 7 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 8 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
-| 9 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 10 | [Ужас](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81) | N/A |
-| 11 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 12 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
-| 13 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 14 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 15 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
-| 16 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
-| 17 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
-| 18 | [бдг деловая](http://twitter.com/search?q=%d0%b1%d0%b4%d0%b3+%d0%b4%d0%b5%d0%bb%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
-| 19 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 20 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 21 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 22 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 23 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
-| 24 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 25 | [#BeWorthy](http://twitter.com/search?q=%23BeWorthy) | N/A |
-| 26 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 27 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
+| 2 | [национальному](http://twitter.com/search?q=%d0%bd%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%bc%d1%83) | N/A |
+| 3 | [послание президента](http://twitter.com/search?q=%d0%bf%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d0%b5+%d0%bf%d1%80%d0%b5%d0%b7%d0%b8%d0%b4%d0%b5%d0%bd%d1%82%d0%b0) | N/A |
+| 4 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 5 | [Александр Лукашенко](http://twitter.com/search?q=%d0%90%d0%bb%d0%b5%d0%ba%d1%81%d0%b0%d0%bd%d0%b4%d1%80+%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 6 | [Послания](http://twitter.com/search?q=%d0%9f%d0%be%d1%81%d0%bb%d0%b0%d0%bd%d0%b8%d1%8f) | N/A |
+| 7 | [Беларуси и России](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8+%d0%b8+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 8 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
+| 9 | [#ГолосВремени](http://twitter.com/search?q=%23%d0%93%d0%be%d0%bb%d0%be%d1%81%d0%92%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8) | N/A |
+| 10 | [#Фото](http://twitter.com/search?q=%23%d0%a4%d0%be%d1%82%d0%be) | N/A |
+| 11 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
+| 12 | [Дима](http://twitter.com/search?q=%d0%94%d0%b8%d0%bc%d0%b0) | N/A |
+| 13 | [Ужас](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81) | N/A |
+| 14 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 15 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 16 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 17 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 18 | [Господи](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | N/A |
+| 19 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
+| 20 | [Совета](http://twitter.com/search?q=%d0%a1%d0%be%d0%b2%d0%b5%d1%82%d0%b0) | N/A |
+| 21 | [бдг деловая](http://twitter.com/search?q=%d0%b1%d0%b4%d0%b3+%d0%b4%d0%b5%d0%bb%d0%be%d0%b2%d0%b0%d1%8f) | N/A |
+| 22 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 23 | [капец](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 24 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
+| 25 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 26 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 27 | [Хорошего](http://twitter.com/search?q=%d0%a5%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | N/A |
+| 28 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 29 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 30 | [#клубромантики](http://twitter.com/search?q=%23%d0%ba%d0%bb%d1%83%d0%b1%d1%80%d0%be%d0%bc%d0%b0%d0%bd%d1%82%d0%b8%d0%ba%d0%b8) | N/A |
+| 31 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
 
 
 

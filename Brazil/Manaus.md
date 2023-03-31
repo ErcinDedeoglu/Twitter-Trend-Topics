@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-03-31 17:16:19 UTC`
+📆 Last Updated: `2023-03-31 18:19:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
-| 2 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
-| 3 | [#DoeSangueDocshoes](http://twitter.com/search?q=%23DoeSangueDocshoes) | N/A |
-| 4 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 5 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
-| 6 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 7 | [CHÁ DA BIAZIN](http://twitter.com/search?q=CH%c3%81+DA+BIAZIN) | N/A |
-| 8 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
-| 9 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
-| 10 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
-| 11 | [Força Aline](http://twitter.com/search?q=For%c3%a7a+Aline) | N/A |
-| 12 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 13 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 14 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
-| 15 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 16 | [Vai Aline](http://twitter.com/search?q=Vai+Aline) | N/A |
-| 17 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 18 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 19 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 20 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 21 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 22 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 23 | [VOCÊ CONSEGUE MAMI](http://twitter.com/search?q=VOC%c3%8a+CONSEGUE+MAMI) | N/A |
-| 24 | [Vivi Mariano](http://twitter.com/search?q=Vivi+Mariano) | N/A |
-| 25 | [Claus](http://twitter.com/search?q=Claus) | N/A |
-| 26 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
-| 27 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
-| 28 | [Edina](http://twitter.com/search?q=Edina) | N/A |
-| 29 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
-| 30 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 31 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 32 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
-| 33 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
-| 34 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
-| 35 | [ASSISTA CANCELADO](http://twitter.com/search?q=ASSISTA+CANCELADO) | N/A |
-| 36 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
-| 37 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
-| 38 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 39 | [Bora Black](http://twitter.com/search?q=Bora+Black) | N/A |
-| 40 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 41 | [Há 59](http://twitter.com/search?q=H%c3%a1+59) | N/A |
-| 42 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
-| 43 | [Ulysses Guimarães](http://twitter.com/search?q=Ulysses+Guimar%c3%a3es) | N/A |
-| 44 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 45 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
-| 46 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 47 | [SOS NORTE](http://twitter.com/search?q=SOS+NORTE) | N/A |
-| 48 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 49 | [Mugni](http://twitter.com/search?q=Mugni) | N/A |
-| 50 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
+| 1 | [Infantil 1](http://twitter.com/search?q=Infantil+1) | N/A |
+| 2 | [3º EM](http://twitter.com/search?q=3%c2%ba+EM) | N/A |
+| 3 | [AMANDA MERECE RESPEITO](http://twitter.com/search?q=AMANDA+MERECE+RESPEITO) | N/A |
+| 4 | [#DoeSangueDocshoes](http://twitter.com/search?q=%23DoeSangueDocshoes) | N/A |
+| 5 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
+| 6 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 7 | [Força Aline](http://twitter.com/search?q=For%c3%a7a+Aline) | N/A |
+| 8 | [VOCÊ CONSEGUE MAMI](http://twitter.com/search?q=VOC%c3%8a+CONSEGUE+MAMI) | N/A |
+| 9 | [#DitaduraNuncaMais](http://twitter.com/search?q=%23DitaduraNuncaMais) | N/A |
+| 10 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 11 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 12 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 13 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
+| 14 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
+| 15 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
+| 16 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
+| 17 | [CHÁ DA BIAZIN](http://twitter.com/search?q=CH%c3%81+DA+BIAZIN) | N/A |
+| 18 | [Soteldo](http://twitter.com/search?q=Soteldo) | Soteldo is a Spanish word that means “to stay” or “to remain.” It is often used to describe someone who is staying in one place for a long period of time, such as a resident or tenant. |
+| 19 | [Bora Alface](http://twitter.com/search?q=Bora+Alface) | N/A |
+| 20 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 21 | [Vivi Mariano](http://twitter.com/search?q=Vivi+Mariano) | N/A |
+| 22 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
+| 23 | [Papu Gomez](http://twitter.com/search?q=Papu+Gomez) | Papu Gomez is a nickname for the Argentine footballer Alejandro Gomez. It is derived from his first name, Alejandro, and his nickname, Papu. The term Papu Gomez is used to refer to the player in a friendly and affectionate way. In English, it could be translated as "Papu the Great". |
+| 24 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 25 | [Eduardo Sasha](http://twitter.com/search?q=Eduardo+Sasha) | N/A |
+| 26 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 27 | [niki](http://twitter.com/search?q=niki) | N/A |
+| 28 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
+| 29 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 30 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 31 | [Claus](http://twitter.com/search?q=Claus) | N/A |
+| 32 | [Rafaela Silva](http://twitter.com/search?q=Rafaela+Silva) | N/A |
+| 33 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
+| 34 | [Edina](http://twitter.com/search?q=Edina) | N/A |
+| 35 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
+| 36 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 37 | [Pedro Guimarães](http://twitter.com/search?q=Pedro+Guimar%c3%a3es) | N/A |
+| 38 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
+| 39 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 40 | [Seleção Brasileira Sub-20](http://twitter.com/search?q=Sele%c3%a7%c3%a3o+Brasileira+Sub-20) | N/A |
+| 41 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
+| 42 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
+| 43 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
+| 44 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
+| 45 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 46 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
+| 47 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 48 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 49 | [Há 59](http://twitter.com/search?q=H%c3%a1+59) | N/A |
+| 50 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
 
 
 

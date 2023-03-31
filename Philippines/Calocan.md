@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-03-31 17:16:36 UTC`
+📆 Last Updated: `2023-03-31 18:19:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
 | 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 3 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 4 | [#MabuhayRunningMan](http://twitter.com/search?q=%23MabuhayRunningMan) | N/A |
-| 5 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 6 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
-| 7 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 8 | [#StarMagicalProm2023](http://twitter.com/search?q=%23StarMagicalProm2023) | N/A |
-| 9 | [anji maningning na bituin](http://twitter.com/search?q=anji+maningning+na+bituin) | N/A |
-| 10 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 4 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 5 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 6 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
+| 7 | [#pvlfinalsgame3](http://twitter.com/search?q=%23pvlfinalsgame3) | N/A |
+| 8 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
+| 9 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 10 | [anji maningning na bituin](http://twitter.com/search?q=anji+maningning+na+bituin) | N/A |
 | 11 | [bgyo ot5 date](http://twitter.com/search?q=bgyo+ot5+date) | N/A |
-| 12 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
-| 13 | [ETNEBSIETE IDOLOGAIL](http://twitter.com/search?q=ETNEBSIETE+IDOLOGAIL) | N/A |
-| 14 | [hori7on 1st prom](http://twitter.com/search?q=hori7on+1st+prom) | N/A |
-| 15 | [andrea enchanting night](http://twitter.com/search?q=andrea+enchanting+night) | N/A |
-| 16 | [VIBRENT BEGINNING](http://twitter.com/search?q=VIBRENT+BEGINNING) | N/A |
-| 17 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
-| 18 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
-| 19 | [kodrea magical starry night](http://twitter.com/search?q=kodrea+magical+starry+night) | N/A |
+| 12 | [hori7on 1st prom](http://twitter.com/search?q=hori7on+1st+prom) | N/A |
+| 13 | [andrea enchanting night](http://twitter.com/search?q=andrea+enchanting+night) | N/A |
+| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 15 | [BIRTH MONTH](http://twitter.com/search?q=BIRTH+MONTH) | N/A |
+| 16 | [the vibrent promise](http://twitter.com/search?q=the+vibrent+promise) | N/A |
+| 17 | [ETNEBSIETE IDOLOGAIL](http://twitter.com/search?q=ETNEBSIETE+IDOLOGAIL) | N/A |
+| 18 | [kodrea magical starry night](http://twitter.com/search?q=kodrea+magical+starry+night) | N/A |
+| 19 | [PIEnale](http://twitter.com/search?q=PIEnale) | N/A |
 | 20 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 21 | [HAPPY BIRTHDAY HOLY HAEIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+HOLY+HAEIN) | N/A |
+| 21 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
 | 22 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 23 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 24 | [PIEnale](http://twitter.com/search?q=PIEnale) | N/A |
-| 25 | [10 DAYS BEFORE V-DAY](http://twitter.com/search?q=10+DAYS+BEFORE+V-DAY) | N/A |
-| 26 | [promagical with robxine](http://twitter.com/search?q=promagical+with+robxine) | N/A |
-| 27 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
-| 28 | [aljay prominent tonight](http://twitter.com/search?q=aljay+prominent+tonight) | N/A |
-| 29 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
-| 30 | [PLUUS DEBUT MVs OUT NOW](http://twitter.com/search?q=PLUUS+DEBUT+MVs+OUT+NOW) | N/A |
-| 31 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
-| 32 | [franseth amagicalprom](http://twitter.com/search?q=franseth+amagicalprom) | N/A |
-| 33 | [Naya](http://twitter.com/search?q=Naya) | N/A |
-| 34 | [UK ARMYs](http://twitter.com/search?q=UK+ARMYs) | N/A |
-| 35 | [ON VIEWS](http://twitter.com/search?q=ON+VIEWS) | N/A |
-| 36 | [Sato](http://twitter.com/search?q=Sato) | N/A |
-| 37 | [anjbrentjeweled on smprom](http://twitter.com/search?q=anjbrentjeweled+on+smprom) | N/A |
-| 38 | [1OO MILLIO](http://twitter.com/search?q=1OO+MILLIO) | N/A |
-| 39 | [BINI OUR DAZZLING QUEENS](http://twitter.com/search?q=BINI+OUR+DAZZLING+QUEENS) | N/A |
-| 40 | [Are Your Prayers Heard](http://twitter.com/search?q=Are+Your+Prayers+Heard) | N/A |
-| 41 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 42 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 43 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 23 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 24 | [promagical with robxine](http://twitter.com/search?q=promagical+with+robxine) | N/A |
+| 25 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
+| 26 | [PLUUS DEBUT MVs OUT NOW](http://twitter.com/search?q=PLUUS+DEBUT+MVs+OUT+NOW) | N/A |
+| 27 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 28 | [ON VIEWS](http://twitter.com/search?q=ON+VIEWS) | N/A |
+| 29 | [HAPPY BIRTHDAY HOLY HAEIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+HOLY+HAEIN) | N/A |
+| 30 | [APPRECIATE LIKE HARUTO](http://twitter.com/search?q=APPRECIATE+LIKE+HARUTO) | N/A |
+| 31 | [1OO MILLIO](http://twitter.com/search?q=1OO+MILLIO) | N/A |
+| 32 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 33 | [10 DAYS BEFORE V-DAY](http://twitter.com/search?q=10+DAYS+BEFORE+V-DAY) | N/A |
+| 34 | [franseth amagicalprom](http://twitter.com/search?q=franseth+amagicalprom) | N/A |
+| 35 | [KDLEX LOVEnture IN JAPAN](http://twitter.com/search?q=KDLEX+LOVEnture+IN+JAPAN) | N/A |
+| 36 | [UK ARMYs](http://twitter.com/search?q=UK+ARMYs) | N/A |
+| 37 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 38 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 39 | [BGYO Ppop GroupOfTheYear](http://twitter.com/search?q=BGYO+Ppop+GroupOfTheYear) | N/A |
+| 40 | [bini aiah laging ikaw](http://twitter.com/search?q=bini+aiah+laging+ikaw) | N/A |
+| 41 | [JJONGalaxy in JAYpril](http://twitter.com/search?q=JJONGalaxy+in+JAYpril) | N/A |
+| 42 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 43 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
 | 44 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
-| 45 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 46 | [KYLER DAZZLING VISUAL](http://twitter.com/search?q=KYLER+DAZZLING+VISUAL) | N/A |
-| 47 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 48 | [BGYO Ppop GroupOfTheYear](http://twitter.com/search?q=BGYO+Ppop+GroupOfTheYear) | N/A |
+| 45 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
+| 46 | [ALDENattends 2023UmajamFest](http://twitter.com/search?q=ALDENattends+2023UmajamFest) | N/A |
+| 47 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 48 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
 | 49 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
-| 50 | [EXO JUST AS USUAL](http://twitter.com/search?q=EXO+JUST+AS+USUAL) | N/A |
+| 50 | [Sato](http://twitter.com/search?q=Sato) | N/A |
 
 
 
