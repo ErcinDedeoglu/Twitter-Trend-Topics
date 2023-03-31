@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-03-31 15:17:34 UTC`
+📆 Last Updated: `2023-03-31 16:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,21 +36,21 @@ This is top 50 for New Zealand
 | 19 | [mbie](http://twitter.com/search?q=mbie) | N/A |
 | 20 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
 | 21 | [nzer](http://twitter.com/search?q=nzer) | N/A |
-| 22 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 23 | [#FREEreadKU](http://twitter.com/search?q=%23FREEreadKU) | N/A |
+| 22 | [#FREEreadKU](http://twitter.com/search?q=%23FREEreadKU) | N/A |
+| 23 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 24 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
 | 25 | [garner](http://twitter.com/search?q=garner) | N/A |
 | 26 | [Rats](http://twitter.com/search?q=Rats) | N/A |
 | 27 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 28 | [Moana Pasifika](http://twitter.com/search?q=Moana+Pasifika) | N/A |
+| 28 | [moana pasifika](http://twitter.com/search?q=moana+pasifika) | N/A |
 | 29 | [Bush](http://twitter.com/search?q=Bush) | N/A |
 | 30 | [newstalk zb](http://twitter.com/search?q=newstalk+zb) | N/A |
 | 31 | [oias](http://twitter.com/search?q=oias) | N/A |
-| 32 | [North Shore](http://twitter.com/search?q=North+Shore) | N/A |
+| 32 | [north shore](http://twitter.com/search?q=north+shore) | N/A |
 | 33 | [Shaneel Lal](http://twitter.com/search?q=Shaneel+Lal) | N/A |
 | 34 | [Northland](http://twitter.com/search?q=Northland) | N/A |
 | 35 | [anti-corruption commission](http://twitter.com/search?q=anti-corruption+commission) | N/A |
-| 36 | [marama](http://twitter.com/search?q=marama) | N/A |
+| 36 | [Marama](http://twitter.com/search?q=Marama) | N/A |
 | 37 | [peter williams](http://twitter.com/search?q=peter+williams) | N/A |
 | 38 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
 | 39 | [#gamedev](http://twitter.com/search?q=%23gamedev) | N/A |

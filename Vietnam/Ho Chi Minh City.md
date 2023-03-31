@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-03-31 15:17:07 UTC`
+📆 Last Updated: `2023-03-31 16:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#StayWithBibleBuild](http://twitter.com/search?q=%23StayWithBibleBuild) | N/A |
-| 2 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
-| 3 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 1 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
+| 2 | [#AprilFoolsDay](http://twitter.com/search?q=%23AprilFoolsDay) | N/A |
+| 3 | [#StayWithBibleBuild](http://twitter.com/search?q=%23StayWithBibleBuild) | N/A |
 | 4 | [#BuildYourStyle](http://twitter.com/search?q=%23BuildYourStyle) | N/A |
-| 5 | [build sold out king](http://twitter.com/search?q=build+sold+out+king) | N/A |
-| 6 | [#HaierXBaristabb0un](http://twitter.com/search?q=%23HaierXBaristabb0un) | N/A |
+| 5 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 6 | [build sold out king](http://twitter.com/search?q=build+sold+out+king) | N/A |
 | 7 | [BSUMBODY TO SUMONE](http://twitter.com/search?q=BSUMBODY+TO+SUMONE) | N/A |
 | 8 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
 | 9 | [BETTER MANAGEMENT OF R TO V](http://twitter.com/search?q=BETTER+MANAGEMENT+OF+R+TO+V) | N/A |
 | 10 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 11 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 12 | [️No Suffix & No Renewal Needed](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Renewal+Needed) | N/A |
-| 13 | [LOST IN THE LIGHTS](http://twitter.com/search?q=LOST+IN+THE+LIGHTS) | N/A |
-| 14 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 15 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 16 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 17 | [Core](http://twitter.com/search?q=Core) | N/A |
-| 18 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
-| 19 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
-| 20 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 21 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 22 | [starknet](http://twitter.com/search?q=starknet) | N/A |
-| 23 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
-| 24 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 25 | [Chia](http://twitter.com/search?q=Chia) | N/A |
-| 26 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 28 | [giao](http://twitter.com/search?q=giao) | N/A |
-| 29 | [pallette](http://twitter.com/search?q=pallette) | N/A |
-| 30 | [nhận](http://twitter.com/search?q=nh%e1%ba%adn) | N/A |
-| 31 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 32 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 33 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 34 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 35 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 36 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
-| 37 | [Polly](http://twitter.com/search?q=Polly) | N/A |
-| 38 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 39 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 40 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 41 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
-| 42 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 43 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 44 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
-| 45 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 46 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 47 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
-| 48 | [thằng](http://twitter.com/search?q=th%e1%ba%b1ng) | N/A |
-| 49 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 50 | [ấn độ](http://twitter.com/search?q=%e1%ba%a5n+%c4%91%e1%bb%99) | N/A |
+| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 12 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 13 | [️No Suffix & No Renewal Needed](http://twitter.com/search?q=%ef%b8%8fNo+Suffix+%26+No+Renewal+Needed) | N/A |
+| 14 | [LOST IN THE LIGHTS](http://twitter.com/search?q=LOST+IN+THE+LIGHTS) | N/A |
+| 15 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 16 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 17 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 18 | [quan](http://twitter.com/search?q=quan) | N/A |
+| 19 | [Core](http://twitter.com/search?q=Core) | N/A |
+| 20 | [T-shirt](http://twitter.com/search?q=T-shirt) | N/A |
+| 21 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 22 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 23 | [cuối cùng thì](http://twitter.com/search?q=cu%e1%bb%91i+c%c3%b9ng+th%c3%ac) | N/A |
+| 24 | [starknet](http://twitter.com/search?q=starknet) | N/A |
+| 25 | [Blur](http://twitter.com/search?q=Blur) | Blur is a term used to describe something that is not clear or distinct. It can refer to a lack of focus in an image, or to something that is not easily understood. In English, it can also be used to describe a situation where the details are unclear or uncertain. |
+| 26 | [Chưa](http://twitter.com/search?q=Ch%c6%b0a) | N/A |
+| 27 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 28 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 29 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 30 | [giao](http://twitter.com/search?q=giao) | N/A |
+| 31 | [pallette](http://twitter.com/search?q=pallette) | N/A |
+| 32 | [Nhận](http://twitter.com/search?q=Nh%e1%ba%adn) | N/A |
+| 33 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 34 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 35 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 36 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 37 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 38 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 39 | [Polly](http://twitter.com/search?q=Polly) | N/A |
+| 40 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 41 | [chốt](http://twitter.com/search?q=ch%e1%bb%91t) | N/A |
+| 42 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 43 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 44 | [interiors done](http://twitter.com/search?q=interiors+done) | N/A |
+| 45 | [Chia](http://twitter.com/search?q=Chia) | N/A |
+| 46 | [santa](http://twitter.com/search?q=santa) | N/A |
+| 47 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 48 | [Sell](http://twitter.com/search?q=Sell) | N/A |
+| 49 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 50 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-03-31 15:17:18 UTC`
+📆 Last Updated: `2023-03-31 16:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KORKMUYORUZ](http://twitter.com/search?q=%23KORKMUYORUZ) | N/A |
-| 2 | [Panel](http://twitter.com/search?q=Panel) | N/A |
-| 3 | [Cihanel](http://twitter.com/search?q=Cihanel) | N/A |
-| 4 | [BayKemalden Denklik](http://twitter.com/search?q=BayKemalden+Denklik) | N/A |
-| 5 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
-| 6 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
-| 7 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 8 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 9 | [Abdullah Gül](http://twitter.com/search?q=Abdullah+G%c3%bcl) | N/A |
-| 10 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
-| 11 | [Mehmet Selim Kiraz](http://twitter.com/search?q=Mehmet+Selim+Kiraz) | N/A |
-| 12 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 13 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
-| 14 | [Recep Bey](http://twitter.com/search?q=Recep+Bey) | N/A |
-| 15 | [ömer çelik](http://twitter.com/search?q=%c3%b6mer+%c3%a7elik) | N/A |
-| 16 | [Tecavüz Hikayeleri](http://twitter.com/search?q=Tecav%c3%bcz+Hikayeleri) | N/A |
-| 17 | [Asena](http://twitter.com/search?q=Asena) | N/A |
-| 18 | [Tahkim Kurulu](http://twitter.com/search?q=Tahkim+Kurulu) | N/A |
-| 19 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
-| 20 | [Hasan Karaman](http://twitter.com/search?q=Hasan+Karaman) | N/A |
-| 21 | [ŞoföreSözMü Kılıçdaroğlu](http://twitter.com/search?q=%c5%9eof%c3%b6reS%c3%b6zM%c3%bc+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 22 | [Kendileri](http://twitter.com/search?q=Kendileri) | N/A |
-| 23 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
-| 24 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 25 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
-| 26 | [Saldırıyı](http://twitter.com/search?q=Sald%c4%b1r%c4%b1y%c4%b1) | N/A |
-| 27 | [Fail](http://twitter.com/search?q=Fail) | N/A |
-| 28 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
-| 29 | [Kendiniz](http://twitter.com/search?q=Kendiniz) | N/A |
-| 30 | [Arnavut](http://twitter.com/search?q=Arnavut) | N/A |
-| 31 | [DHKP-C](http://twitter.com/search?q=DHKP-C) | N/A |
-| 32 | [Tarifeli](http://twitter.com/search?q=Tarifeli) | N/A |
-| 33 | [Alışveriş](http://twitter.com/search?q=Al%c4%b1%c5%9fveri%c5%9f) | N/A |
-| 34 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 35 | [Ucuz](http://twitter.com/search?q=Ucuz) | N/A |
-| 36 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 37 | [Oylar](http://twitter.com/search?q=Oylar) | N/A |
-| 38 | [Mağdur](http://twitter.com/search?q=Ma%c4%9fdur) | N/A |
-| 39 | [Kurşun](http://twitter.com/search?q=Kur%c5%9fun) | N/A |
-| 40 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 41 | [İçişleri](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri) | N/A |
-| 42 | [Etek](http://twitter.com/search?q=Etek) | N/A |
-| 43 | [Tunceli](http://twitter.com/search?q=Tunceli) | N/A |
-| 44 | [Senaryo](http://twitter.com/search?q=Senaryo) | N/A |
-| 45 | [Düşen](http://twitter.com/search?q=D%c3%bc%c5%9fen) | N/A |
-| 46 | [eda ezgi yıldız](http://twitter.com/search?q=eda+ezgi+y%c4%b1ld%c4%b1z) | N/A |
-| 47 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 1 | [MuratDilmenerin SesiniDuy](http://twitter.com/search?q=MuratDilmenerin+SesiniDuy) | N/A |
+| 2 | [HurmaEdit](http://twitter.com/search?q=HurmaEdit) | N/A |
+| 3 | [#KORKMUYORUZ](http://twitter.com/search?q=%23KORKMUYORUZ) | N/A |
+| 4 | [Panel](http://twitter.com/search?q=Panel) | N/A |
+| 5 | [VaadDeğil YapıKayıt](http://twitter.com/search?q=VaadDe%c4%9fil+Yap%c4%b1Kay%c4%b1t) | N/A |
+| 6 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 7 | [#iyiparti](http://twitter.com/search?q=%23iyiparti) | N/A |
+| 8 | [Tiyatro](http://twitter.com/search?q=Tiyatro) | N/A |
+| 9 | [BayKemalden Denklik](http://twitter.com/search?q=BayKemalden+Denklik) | N/A |
+| 10 | [Bekçi](http://twitter.com/search?q=Bek%c3%a7i) | N/A |
+| 11 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 12 | [Sinan Ateş](http://twitter.com/search?q=Sinan+Ate%c5%9f) | N/A |
+| 13 | [TanselOngelle YıldızDeBana](http://twitter.com/search?q=TanselOngelle+Y%c4%b1ld%c4%b1zDeBana) | N/A |
+| 14 | [Fail](http://twitter.com/search?q=Fail) | N/A |
+| 15 | [Alpay](http://twitter.com/search?q=Alpay) | N/A |
+| 16 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
+| 17 | [Recep](http://twitter.com/search?q=Recep) | N/A |
+| 18 | [Asena](http://twitter.com/search?q=Asena) | N/A |
+| 19 | [İnşaat](http://twitter.com/search?q=%c4%b0n%c5%9faat) | N/A |
+| 20 | [Mehmet Selim Kiraz](http://twitter.com/search?q=Mehmet+Selim+Kiraz) | N/A |
+| 21 | [Abdullah Gül](http://twitter.com/search?q=Abdullah+G%c3%bcl) | N/A |
+| 22 | [Soylu](http://twitter.com/search?q=Soylu) | N/A |
+| 23 | [Yakalandı](http://twitter.com/search?q=Yakaland%c4%b1) | N/A |
+| 24 | [Saldırı](http://twitter.com/search?q=Sald%c4%b1r%c4%b1) | N/A |
+| 25 | [Asrın Dayanışması](http://twitter.com/search?q=Asr%c4%b1n+Dayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 26 | [Alışveriş](http://twitter.com/search?q=Al%c4%b1%c5%9fveri%c5%9f) | N/A |
+| 27 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 28 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 29 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
+| 30 | [Tarifeli](http://twitter.com/search?q=Tarifeli) | N/A |
+| 31 | [Tahkim Kurulu](http://twitter.com/search?q=Tahkim+Kurulu) | N/A |
+| 32 | [Kurşun](http://twitter.com/search?q=Kur%c5%9fun) | N/A |
+| 33 | [1 Nisan](http://twitter.com/search?q=1+Nisan) | N/A |
+| 34 | [ŞoföreSözMü Kılıçdaroğlu](http://twitter.com/search?q=%c5%9eof%c3%b6reS%c3%b6zM%c3%bc+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 35 | [Kendileri](http://twitter.com/search?q=Kendileri) | N/A |
+| 36 | [Olayın](http://twitter.com/search?q=Olay%c4%b1n) | N/A |
+| 37 | [Ucuz](http://twitter.com/search?q=Ucuz) | N/A |
+| 38 | [DHKP-C](http://twitter.com/search?q=DHKP-C) | N/A |
+| 39 | [Baraj](http://twitter.com/search?q=Baraj) | N/A |
+| 40 | [Arnavut](http://twitter.com/search?q=Arnavut) | N/A |
+| 41 | [Kendiniz](http://twitter.com/search?q=Kendiniz) | N/A |
+| 42 | [Ömer Çelik](http://twitter.com/search?q=%c3%96mer+%c3%87elik) | Ömer Çelik is a Turkish name. It is composed of two parts: Ömer, which is a male given name, and Çelik, which means "steel" in Turkish. In English, the name would be translated as "Omar Steel". |
+| 43 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 44 | [Parti İstanbul İl Başkanlığı](http://twitter.com/search?q=Parti+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 45 | [Mağdur](http://twitter.com/search?q=Ma%c4%9fdur) | N/A |
+| 46 | [Oylar](http://twitter.com/search?q=Oylar) | N/A |
+| 47 | [Emniyet](http://twitter.com/search?q=Emniyet) | N/A |
 
 
 

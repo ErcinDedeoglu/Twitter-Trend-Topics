@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-03-31 15:17:06 UTC`
+📆 Last Updated: `2023-03-31 16:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 2 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
-| 3 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
-| 4 | [#MabuhayRunningMan](http://twitter.com/search?q=%23MabuhayRunningMan) | N/A |
-| 5 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 6 | [#SB19_STELL](http://twitter.com/search?q=%23SB19_STELL) | #SB19_STELL is a hashtag used by fans of the Filipino boy band SB19. It stands for "Support, Trust, Encourage, Love and Listen" and is used to show support for the group. |
-| 7 | [#PauseAndPlayFINALE](http://twitter.com/search?q=%23PauseAndPlayFINALE) | N/A |
-| 8 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 9 | [#FurFurSabogYarn](http://twitter.com/search?q=%23FurFurSabogYarn) | N/A |
-| 10 | [PIEnale](http://twitter.com/search?q=PIEnale) | N/A |
-| 11 | [BGYO Ppop GroupOfTheYear](http://twitter.com/search?q=BGYO+Ppop+GroupOfTheYear) | N/A |
-| 12 | [DCAT](http://twitter.com/search?q=DCAT) | N/A |
-| 13 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 14 | [Scara](http://twitter.com/search?q=Scara) | N/A |
-| 15 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 16 | [PLUUS DEBUT MVs OUT NOW](http://twitter.com/search?q=PLUUS+DEBUT+MVs+OUT+NOW) | N/A |
-| 17 | [Are Your Prayers Heard](http://twitter.com/search?q=Are+Your+Prayers+Heard) | N/A |
-| 18 | [ALDENattends 2023UmajamFest](http://twitter.com/search?q=ALDENattends+2023UmajamFest) | N/A |
-| 19 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 20 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 21 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
-| 22 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 23 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
-| 24 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 25 | [#aBossandaBabeEP5](http://twitter.com/search?q=%23aBossandaBabeEP5) | N/A |
-| 26 | [#thankyouPikamee](http://twitter.com/search?q=%23thankyouPikamee) | N/A |
-| 27 | [#pikatube](http://twitter.com/search?q=%23pikatube) | N/A |
-| 28 | [#PUSHAwards2022](http://twitter.com/search?q=%23PUSHAwards2022) | N/A |
-| 29 | [#DLComplicated](http://twitter.com/search?q=%23DLComplicated) | N/A |
-| 30 | [#TeenClashEp3](http://twitter.com/search?q=%23TeenClashEp3) | N/A |
-| 31 | [#TheErasFestivalinManila](http://twitter.com/search?q=%23TheErasFestivalinManila) | N/A |
-| 32 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
-| 33 | [#WeWantErasTourPhilippines](http://twitter.com/search?q=%23WeWantErasTourPhilippines) | N/A |
-| 34 | [#Umajam2023xALDEN](http://twitter.com/search?q=%23Umajam2023xALDEN) | N/A |
-| 35 | [#GlobeTurnsPink](http://twitter.com/search?q=%23GlobeTurnsPink) | N/A |
-| 36 | [#LikeCrazy2ndWin](http://twitter.com/search?q=%23LikeCrazy2ndWin) | N/A |
-| 37 | [#Linlang](http://twitter.com/search?q=%23Linlang) | N/A |
-| 38 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 39 | [#puredoctrinesofchrist](http://twitter.com/search?q=%23puredoctrinesofchrist) | N/A |
-| 40 | [#BreakTheCode](http://twitter.com/search?q=%23BreakTheCode) | #BreakTheCode is a hashtag used to encourage people to challenge themselves to solve puzzles, riddles, and other types of codes. It is a call to action for people to use their problem-solving skills and creativity to break through barriers and find solutions. |
-| 41 | [#BOYCOTTEBxAPTxGMA751](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA751) | N/A |
+| 1 | [Alexa](http://twitter.com/search?q=Alexa) | N/A |
+| 2 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 3 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 4 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 5 | [#MabuhayRunningMan](http://twitter.com/search?q=%23MabuhayRunningMan) | N/A |
+| 6 | [KDLEX PUSHPopular LOTY](http://twitter.com/search?q=KDLEX+PUSHPopular+LOTY) | N/A |
+| 7 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
+| 8 | [#pvlfinalsgame3](http://twitter.com/search?q=%23pvlfinalsgame3) | N/A |
+| 9 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 10 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 11 | [anji maningning na bituin](http://twitter.com/search?q=anji+maningning+na+bituin) | N/A |
+| 12 | [bgyo ot5 date](http://twitter.com/search?q=bgyo+ot5+date) | N/A |
+| 13 | [hori7on 1st prom](http://twitter.com/search?q=hori7on+1st+prom) | N/A |
+| 14 | [VIBRENT BEGINNING](http://twitter.com/search?q=VIBRENT+BEGINNING) | N/A |
+| 15 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 16 | [andrea enchanting night](http://twitter.com/search?q=andrea+enchanting+night) | N/A |
+| 17 | [PROMise24EVER WithDONBELLE](http://twitter.com/search?q=PROMise24EVER+WithDONBELLE) | N/A |
+| 18 | [ON VIEWS](http://twitter.com/search?q=ON+VIEWS) | N/A |
+| 19 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 20 | [1OO MILLIO](http://twitter.com/search?q=1OO+MILLIO) | N/A |
+| 21 | [kodrea magical starry night](http://twitter.com/search?q=kodrea+magical+starry+night) | N/A |
+| 22 | [PIEnale](http://twitter.com/search?q=PIEnale) | N/A |
+| 23 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 24 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 25 | [ETNEBSIETE IDOLOGAIL](http://twitter.com/search?q=ETNEBSIETE+IDOLOGAIL) | N/A |
+| 26 | [promagical with robxine](http://twitter.com/search?q=promagical+with+robxine) | N/A |
+| 27 | [pluus debut mvs out now](http://twitter.com/search?q=pluus+debut+mvs+out+now) | N/A |
+| 28 | [kaomiah royalty date](http://twitter.com/search?q=kaomiah+royalty+date) | N/A |
+| 29 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 30 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 31 | [HAPPY BIRTHDAY HOLY HAEIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+HOLY+HAEIN) | N/A |
+| 32 | [APPRECIATE LIKE HARUTO](http://twitter.com/search?q=APPRECIATE+LIKE+HARUTO) | N/A |
+| 33 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 34 | [Naya](http://twitter.com/search?q=Naya) | N/A |
+| 35 | [aljay prominent tonight](http://twitter.com/search?q=aljay+prominent+tonight) | N/A |
+| 36 | [karina promising night](http://twitter.com/search?q=karina+promising+night) | N/A |
+| 37 | [NEOBONG IN SHOPEE](http://twitter.com/search?q=NEOBONG+IN+SHOPEE) | N/A |
+| 38 | [phoebe](http://twitter.com/search?q=phoebe) | Phoebe is a female given name of Greek origin, meaning "bright and pure". It is also the name of one of the moons of Saturn. |
+| 39 | [ChiCo TANGLED](http://twitter.com/search?q=ChiCo+TANGLED) | N/A |
+| 40 | [Welcome to the Philippines](http://twitter.com/search?q=Welcome+to+the+Philippines) | N/A |
+| 41 | [Birth Month](http://twitter.com/search?q=Birth+Month) | N/A |
+| 42 | [FRANSETH AMagicalProm](http://twitter.com/search?q=FRANSETH+AMagicalProm) | N/A |
+| 43 | [BGYO Ppop GroupOfTheYear](http://twitter.com/search?q=BGYO+Ppop+GroupOfTheYear) | N/A |
+| 44 | [Sharpay](http://twitter.com/search?q=Sharpay) | N/A |
+| 45 | [BINI AIAH LAGING IKAW](http://twitter.com/search?q=BINI+AIAH+LAGING+IKAW) | N/A |
+| 46 | [bini our dazzling queens](http://twitter.com/search?q=bini+our+dazzling+queens) | N/A |
+| 47 | [are your prayers heard](http://twitter.com/search?q=are+your+prayers+heard) | N/A |
+| 48 | [Sato](http://twitter.com/search?q=Sato) | N/A |
+| 49 | [Hiyyih](http://twitter.com/search?q=Hiyyih) | N/A |
+| 50 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
 
 
 

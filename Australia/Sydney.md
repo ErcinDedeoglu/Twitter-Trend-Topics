@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-03-31 15:17:01 UTC`
+📆 Last Updated: `2023-03-31 16:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [#AFLPiesTigers](http://twitter.com/search?q=%23AFLPiesTigers) | N/A |
 | 3 | [#NRLRaidersPanthers](http://twitter.com/search?q=%23NRLRaidersPanthers) | N/A |
 | 4 | [#NRLSouthsStorm](http://twitter.com/search?q=%23NRLSouthsStorm) | N/A |
-| 5 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
+| 5 | [latham](http://twitter.com/search?q=latham) | N/A |
 | 6 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
 | 7 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
 | 8 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 9 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 10 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 11 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 12 | [Doug Mulray](http://twitter.com/search?q=Doug+Mulray) | N/A |
-| 13 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
-| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 15 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 16 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 10 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
+| 11 | [doug mulray](http://twitter.com/search?q=doug+mulray) | N/A |
+| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 13 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 14 | [constable](http://twitter.com/search?q=constable) | N/A |
+| 15 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 17 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 18 | [Pikamee](http://twitter.com/search?q=Pikamee) | N/A |
-| 19 | [Darcy Cameron](http://twitter.com/search?q=Darcy+Cameron) | N/A |
-| 20 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 21 | [Porter Davis](http://twitter.com/search?q=Porter+Davis) | N/A |
-| 22 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
-| 23 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 24 | [Frampton](http://twitter.com/search?q=Frampton) | N/A |
-| 25 | [Ash Johnson](http://twitter.com/search?q=Ash+Johnson) | N/A |
-| 26 | [Jim's Mowing](http://twitter.com/search?q=Jim%27s+Mowing) | N/A |
-| 27 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
-| 28 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 29 | [Greenwich](http://twitter.com/search?q=Greenwich) | N/A |
-| 30 | [Lipinski](http://twitter.com/search?q=Lipinski) | N/A |
-| 31 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
-| 32 | [rioli](http://twitter.com/search?q=rioli) | N/A |
-| 33 | [Jamarra](http://twitter.com/search?q=Jamarra) | N/A |
-| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 35 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 36 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
-| 37 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 38 | [Salmon](http://twitter.com/search?q=Salmon) | N/A |
-| 39 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
-| 40 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
-| 41 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 42 | [McStay](http://twitter.com/search?q=McStay) | N/A |
-| 43 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
-| 44 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 45 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 46 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 47 | [rudan](http://twitter.com/search?q=rudan) | N/A |
-| 48 | [Howe](http://twitter.com/search?q=Howe) | N/A |
-| 49 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
-| 50 | [Liam baker](http://twitter.com/search?q=Liam+baker) | N/A |
+| 18 | [Collingwood](http://twitter.com/search?q=Collingwood) | N/A |
+| 19 | [Porter Davis](http://twitter.com/search?q=Porter+Davis) | N/A |
+| 20 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 21 | [Darcy Cameron](http://twitter.com/search?q=Darcy+Cameron) | N/A |
+| 22 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 23 | [Frampton](http://twitter.com/search?q=Frampton) | N/A |
+| 24 | [Ash Johnson](http://twitter.com/search?q=Ash+Johnson) | N/A |
+| 25 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 26 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 27 | [Jamarra](http://twitter.com/search?q=Jamarra) | N/A |
+| 28 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 29 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
+| 30 | [Greenwich](http://twitter.com/search?q=Greenwich) | N/A |
+| 31 | [daniher](http://twitter.com/search?q=daniher) | N/A |
+| 32 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 33 | [Jim's Mowing](http://twitter.com/search?q=Jim%27s+Mowing) | N/A |
+| 34 | [Salmon](http://twitter.com/search?q=Salmon) | N/A |
+| 35 | [mary doyle](http://twitter.com/search?q=mary+doyle) | N/A |
+| 36 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
+| 37 | [McStay](http://twitter.com/search?q=McStay) | N/A |
+| 38 | [Daicos](http://twitter.com/search?q=Daicos) | N/A |
+| 39 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 40 | [Cumberland](http://twitter.com/search?q=Cumberland) | N/A |
+| 41 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 42 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 43 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 44 | [alan joyce](http://twitter.com/search?q=alan+joyce) | N/A |
+| 45 | [Clive](http://twitter.com/search?q=Clive) | N/A |
+| 46 | [qantas](http://twitter.com/search?q=qantas) | N/A |
+| 47 | [harry grant](http://twitter.com/search?q=harry+grant) | N/A |
+| 48 | [Dimma](http://twitter.com/search?q=Dimma) | N/A |
+| 49 | [Rioli](http://twitter.com/search?q=Rioli) | N/A |
+| 50 | [hipwood](http://twitter.com/search?q=hipwood) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-03-31 15:16:50 UTC`
+📆 Last Updated: `2023-03-31 16:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Fortaleza](http://twitter.com/search?q=Fortaleza) | Fortaleza is a city in Brazil and it means "fortress" in English. It is the capital of the state of Ceará and is known for its beautiful beaches, colonial architecture, and vibrant culture. |
 | 2 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 3 | [Baco](http://twitter.com/search?q=Baco) | N/A |
-| 4 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 5 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 6 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
-| 7 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
-| 8 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
-| 9 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 10 | [CHÁ DA BIAZIN](http://twitter.com/search?q=CH%c3%81+DA+BIAZIN) | N/A |
-| 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 12 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
-| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 14 | [Força Aline](http://twitter.com/search?q=For%c3%a7a+Aline) | N/A |
-| 15 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
-| 16 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
-| 17 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
-| 18 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 19 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 20 | [Vai Aline](http://twitter.com/search?q=Vai+Aline) | N/A |
-| 21 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 22 | [Edina](http://twitter.com/search?q=Edina) | N/A |
-| 23 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 24 | [ASSISTA CANCELADO](http://twitter.com/search?q=ASSISTA+CANCELADO) | N/A |
-| 25 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
-| 26 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
-| 27 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 28 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
-| 29 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
-| 30 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 31 | [Há 59](http://twitter.com/search?q=H%c3%a1+59) | N/A |
-| 32 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 33 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
-| 34 | [31 de Março](http://twitter.com/search?q=31+de+Mar%c3%a7o) | N/A |
-| 35 | [LAGUSTA NO ENCONTRO](http://twitter.com/search?q=LAGUSTA+NO+ENCONTRO) | N/A |
-| 36 | [Talos](http://twitter.com/search?q=Talos) | N/A |
-| 37 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 38 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 39 | [SOS NORTE](http://twitter.com/search?q=SOS+NORTE) | N/A |
-| 40 | [Cyno](http://twitter.com/search?q=Cyno) | N/A |
-| 41 | [Mugni](http://twitter.com/search?q=Mugni) | N/A |
-| 42 | [Aline e Black](http://twitter.com/search?q=Aline+e+Black) | N/A |
-| 43 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 44 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
-| 45 | [heng](http://twitter.com/search?q=heng) | N/A |
-| 46 | [Moraes](http://twitter.com/search?q=Moraes) | N/A |
-| 47 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
-| 48 | [Pitchfork](http://twitter.com/search?q=Pitchfork) | N/A |
-| 49 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
-| 50 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
+| 3 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 4 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 5 | [#DoeSangueDocshoes](http://twitter.com/search?q=%23DoeSangueDocshoes) | N/A |
+| 6 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 7 | [DITADURA NUNCA MAIS](http://twitter.com/search?q=DITADURA+NUNCA+MAIS) | N/A |
+| 8 | [CHÁ DA BIAZIN](http://twitter.com/search?q=CH%c3%81+DA+BIAZIN) | N/A |
+| 9 | [#justicaporvitoria](http://twitter.com/search?q=%23justicaporvitoria) | N/A |
+| 10 | [EVITANDO LAGRIMAS](http://twitter.com/search?q=EVITANDO+LAGRIMAS) | N/A |
+| 11 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
+| 12 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 13 | [Yuri Lima](http://twitter.com/search?q=Yuri+Lima) | N/A |
+| 14 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 15 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 16 | [Kayblack](http://twitter.com/search?q=Kayblack) | N/A |
+| 17 | [Força Aline](http://twitter.com/search?q=For%c3%a7a+Aline) | N/A |
+| 18 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 19 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 20 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 21 | [ÓDIO E NOJO](http://twitter.com/search?q=%c3%93DIO+E+NOJO) | N/A |
+| 22 | [Vai Aline](http://twitter.com/search?q=Vai+Aline) | N/A |
+| 23 | [Maior de Minas](http://twitter.com/search?q=Maior+de+Minas) | N/A |
+| 24 | [Vivi Mariano](http://twitter.com/search?q=Vivi+Mariano) | N/A |
+| 25 | [Edina](http://twitter.com/search?q=Edina) | N/A |
+| 26 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 27 | [Figueirense](http://twitter.com/search?q=Figueirense) | Figueirense is a Brazilian football club based in the city of Florianópolis, Santa Catarina. The name Figueirense is derived from the Portuguese word for fig tree, which is a reference to the city's nickname, "Cidade da Figueira" (City of the Fig Tree). In English, Figueirense translates to "of or from Figueira". |
+| 28 | [Zanocelo](http://twitter.com/search?q=Zanocelo) | N/A |
+| 29 | [Alerj](http://twitter.com/search?q=Alerj) | N/A |
+| 30 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
+| 31 | [Invasão Secreta](http://twitter.com/search?q=Invas%c3%a3o+Secreta) | N/A |
+| 32 | [VOCÊ CONSEGUE MAMI](http://twitter.com/search?q=VOC%c3%8a+CONSEGUE+MAMI) | N/A |
+| 33 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 34 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 35 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 36 | [SOS NORTE](http://twitter.com/search?q=SOS+NORTE) | N/A |
+| 37 | [ASSISTA CANCELADO](http://twitter.com/search?q=ASSISTA+CANCELADO) | N/A |
+| 38 | [Vamos Aline](http://twitter.com/search?q=Vamos+Aline) | N/A |
+| 39 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 40 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 41 | [Natividade](http://twitter.com/search?q=Natividade) | N/A |
+| 42 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
+| 43 | [Emilia Clarke](http://twitter.com/search?q=Emilia+Clarke) | N/A |
+| 44 | [Claus](http://twitter.com/search?q=Claus) | N/A |
+| 45 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 46 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
+| 47 | [Aline e Black](http://twitter.com/search?q=Aline+e+Black) | N/A |
+| 48 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 49 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
+| 50 | [Execução](http://twitter.com/search?q=Execu%c3%a7%c3%a3o) | N/A |
 
 
 

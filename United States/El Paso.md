@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-03-31 15:17:22 UTC`
+📆 Last Updated: `2023-03-31 16:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Texas Relays](http://twitter.com/search?q=Texas+Relays) | N/A |
-| 2 | [#WFinalFour](http://twitter.com/search?q=%23WFinalFour) | N/A |
-| 3 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 4 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 5 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 2 | [#FinalFour](http://twitter.com/search?q=%23FinalFour) | N/A |
+| 3 | [#ArlingtonTSTheErasTour](http://twitter.com/search?q=%23ArlingtonTSTheErasTour) | N/A |
+| 4 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 5 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 6 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 7 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 8 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
-| 9 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 10 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 11 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 12 | [Transgender Day of Visibility](http://twitter.com/search?q=Transgender+Day+of+Visibility) | N/A |
-| 13 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 14 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 15 | [Happy FriYAY](http://twitter.com/search?q=Happy+FriYAY) | N/A |
-| 16 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 17 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 18 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
-| 19 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
-| 20 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 21 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 7 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 8 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 9 | [#TDOV](http://twitter.com/search?q=%23TDOV) | N/A |
+| 10 | [High Risk](http://twitter.com/search?q=High+Risk) | N/A |
+| 11 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 12 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 13 | [Christopher Walken](http://twitter.com/search?q=Christopher+Walken) | N/A |
+| 14 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 15 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 16 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 17 | [Nipsey](http://twitter.com/search?q=Nipsey) | N/A |
+| 18 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 19 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 20 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 21 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
 | 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 23 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 24 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
-| 25 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 26 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 27 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
-| 28 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
-| 29 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 30 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 31 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 32 | [DJ Drama](http://twitter.com/search?q=DJ+Drama) | N/A |
-| 33 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 34 | [Long Live Nip](http://twitter.com/search?q=Long+Live+Nip) | N/A |
-| 35 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
-| 36 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
-| 37 | [Shirley Jones](http://twitter.com/search?q=Shirley+Jones) | N/A |
-| 38 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
-| 39 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
-| 40 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
-| 41 | [John Edwards](http://twitter.com/search?q=John+Edwards) | N/A |
-| 42 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 43 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 44 | [Terry Tate](http://twitter.com/search?q=Terry+Tate) | N/A |
-| 45 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 46 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 47 | [Appealing](http://twitter.com/search?q=Appealing) | N/A |
-| 48 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 49 | [Comey](http://twitter.com/search?q=Comey) | N/A |
+| 23 | [Hunter Biden](http://twitter.com/search?q=Hunter+Biden) | N/A |
+| 24 | [$TSLA](http://twitter.com/search?q=%24TSLA) | $TSLA is the stock symbol for Tesla, Inc., an American electric vehicle and clean energy company. It is traded on the Nasdaq stock exchange. |
+| 25 | [Epstein](http://twitter.com/search?q=Epstein) | N/A |
+| 26 | [Homebody](http://twitter.com/search?q=Homebody) | N/A |
+| 27 | [on sale now](http://twitter.com/search?q=on+sale+now) | N/A |
+| 28 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 29 | [Lock Her Up](http://twitter.com/search?q=Lock+Her+Up) | N/A |
+| 30 | [DJ Drama](http://twitter.com/search?q=DJ+Drama) | N/A |
+| 31 | [Jalen Hood](http://twitter.com/search?q=Jalen+Hood) | N/A |
+| 32 | [The Marathon Continues](http://twitter.com/search?q=The+Marathon+Continues) | N/A |
+| 33 | [CarPlay](http://twitter.com/search?q=CarPlay) | N/A |
+| 34 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 35 | [Long Live Nip](http://twitter.com/search?q=Long+Live+Nip) | N/A |
+| 36 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 37 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 38 | [Tomorrow is April](http://twitter.com/search?q=Tomorrow+is+April) | N/A |
+| 39 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 40 | [Taibbi](http://twitter.com/search?q=Taibbi) | N/A |
+| 41 | [jaden jeong](http://twitter.com/search?q=jaden+jeong) | N/A |
+| 42 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 43 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 44 | [Lechonk](http://twitter.com/search?q=Lechonk) | N/A |
+| 45 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
+| 46 | [Happy 80th](http://twitter.com/search?q=Happy+80th) | N/A |
+| 47 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 48 | [International Transgender Day](http://twitter.com/search?q=International+Transgender+Day) | N/A |
+| 49 | [Uncle Buck](http://twitter.com/search?q=Uncle+Buck) | N/A |
 
 
 

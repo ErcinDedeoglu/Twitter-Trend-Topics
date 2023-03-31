@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-03-31 15:16:53 UTC`
+📆 Last Updated: `2023-03-31 16:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 5 | [Teppichklopfer](http://twitter.com/search?q=Teppichklopfer) | N/A |
 | 6 | [Til Schweiger](http://twitter.com/search?q=Til+Schweiger) | N/A |
-| 7 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 7 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
 | 8 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 9 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
-| 10 | [Frack](http://twitter.com/search?q=Frack) | N/A |
-| 11 | [Religionsunterricht](http://twitter.com/search?q=Religionsunterricht) | N/A |
-| 12 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
-| 13 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
+| 9 | [Ziege](http://twitter.com/search?q=Ziege) | N/A |
+| 10 | [elevator boys](http://twitter.com/search?q=elevator+boys) | N/A |
+| 11 | [Frack](http://twitter.com/search?q=Frack) | N/A |
+| 12 | [Monarchie](http://twitter.com/search?q=Monarchie) | N/A |
+| 13 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
 | 14 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 15 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
-| 16 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 15 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 16 | [Bürgerinnen und Bürger](http://twitter.com/search?q=B%c3%bcrgerinnen+und+B%c3%bcrger) | N/A |
 | 17 | [Frauensauna](http://twitter.com/search?q=Frauensauna) | N/A |
-| 18 | [Mois](http://twitter.com/search?q=Mois) | N/A |
-| 19 | [Kilkenny](http://twitter.com/search?q=Kilkenny) | N/A |
-| 20 | [freutag](http://twitter.com/search?q=freutag) | N/A |
-| 21 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 19 | [freutag](http://twitter.com/search?q=freutag) | N/A |
+| 20 | [Mois](http://twitter.com/search?q=Mois) | N/A |
+| 21 | [Brotdose](http://twitter.com/search?q=Brotdose) | N/A |
 | 22 | [Aust](http://twitter.com/search?q=Aust) | N/A |
-| 23 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 24 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
-| 25 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
-| 26 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 27 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
-| 28 | [schwarz](http://twitter.com/search?q=schwarz) | N/A |
-| 29 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 30 | [Schweigegeld](http://twitter.com/search?q=Schweigegeld) | N/A |
-| 31 | [Fuzzy](http://twitter.com/search?q=Fuzzy) | N/A |
-| 32 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
-| 33 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 34 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
-| 35 | [Schultag](http://twitter.com/search?q=Schultag) | N/A |
-| 36 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
-| 37 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
-| 38 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 23 | [Guinness](http://twitter.com/search?q=Guinness) | N/A |
+| 24 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 25 | [Aprilscherz](http://twitter.com/search?q=Aprilscherz) | N/A |
+| 26 | [Insekten](http://twitter.com/search?q=Insekten) | N/A |
+| 27 | [Yoni](http://twitter.com/search?q=Yoni) | N/A |
+| 28 | [Portal in die Zukunft](http://twitter.com/search?q=Portal+in+die+Zukunft) | N/A |
+| 29 | [Klimaziele](http://twitter.com/search?q=Klimaziele) | N/A |
+| 30 | [Senf](http://twitter.com/search?q=Senf) | N/A |
+| 31 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 32 | [Schweigegeld](http://twitter.com/search?q=Schweigegeld) | N/A |
+| 33 | [Vitamin D](http://twitter.com/search?q=Vitamin+D) | N/A |
+| 34 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 35 | [Shindy](http://twitter.com/search?q=Shindy) | N/A |
+| 36 | [Staatsoberhaupt](http://twitter.com/search?q=Staatsoberhaupt) | N/A |
+| 37 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 38 | [Schultag](http://twitter.com/search?q=Schultag) | N/A |
 | 39 | [stück hirn-vakuum](http://twitter.com/search?q=st%c3%bcck+hirn-vakuum) | N/A |
-| 40 | [Koehler](http://twitter.com/search?q=Koehler) | N/A |
-| 41 | [Hello Niall](http://twitter.com/search?q=Hello+Niall) | N/A |
-| 42 | [anklage](http://twitter.com/search?q=anklage) | N/A |
-| 43 | [Frau Direktorin](http://twitter.com/search?q=Frau+Direktorin) | N/A |
-| 44 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
-| 45 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
+| 40 | [koehler](http://twitter.com/search?q=koehler) | N/A |
+| 41 | [Frau Direktorin](http://twitter.com/search?q=Frau+Direktorin) | N/A |
+| 42 | [Bentley](http://twitter.com/search?q=Bentley) | N/A |
+| 43 | [Feminist](http://twitter.com/search?q=Feminist) | N/A |
+| 44 | [Bedrohung](http://twitter.com/search?q=Bedrohung) | N/A |
+| 45 | [Segelboot](http://twitter.com/search?q=Segelboot) | N/A |
 | 46 | [krankschreibung](http://twitter.com/search?q=krankschreibung) | N/A |
-| 47 | [Legalisierung](http://twitter.com/search?q=Legalisierung) | N/A |
+| 47 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
 
 
 

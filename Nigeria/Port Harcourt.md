@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-31 15:17:08 UTC`
+📆 Last Updated: `2023-03-31 16:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AfrimedicalLive](http://twitter.com/search?q=%23AfrimedicalLive) | N/A |
-| 2 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
-| 3 | [#JumiaNGTechWeek](http://twitter.com/search?q=%23JumiaNGTechWeek) | N/A |
-| 4 | [#TreasureWithoutMeasure](http://twitter.com/search?q=%23TreasureWithoutMeasure) | N/A |
-| 5 | [More Love Less Ego](http://twitter.com/search?q=More+Love+Less+Ego) | N/A |
-| 6 | [Nini](http://twitter.com/search?q=Nini) | N/A |
-| 7 | [#Moneylounge](http://twitter.com/search?q=%23Moneylounge) | N/A |
+| 1 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 2 | [#65TheMovie](http://twitter.com/search?q=%2365TheMovie) | N/A |
+| 3 | [#AfrimedicalLive](http://twitter.com/search?q=%23AfrimedicalLive) | N/A |
+| 4 | [#Moneylounge](http://twitter.com/search?q=%23Moneylounge) | N/A |
+| 5 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
+| 6 | [#TreasureWithoutMeasure](http://twitter.com/search?q=%23TreasureWithoutMeasure) | N/A |
+| 7 | [More Love Less Ego](http://twitter.com/search?q=More+Love+Less+Ego) | N/A |
 | 8 | [Big Wiz](http://twitter.com/search?q=Big+Wiz) | Big Wiz is a slang term used to refer to someone who is very knowledgeable or wise. It can also be used to describe someone who is highly respected or influential. |
 | 9 | [Popsy](http://twitter.com/search?q=Popsy) | N/A |
-| 10 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 11 | [Biggest Bird](http://twitter.com/search?q=Biggest+Bird) | N/A |
+| 10 | [Biggest Bird](http://twitter.com/search?q=Biggest+Bird) | N/A |
+| 11 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
 | 12 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 13 | [FC and 30BG](http://twitter.com/search?q=FC+and+30BG) | N/A |
-| 14 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 15 | [SABI GIRL IS HERE](http://twitter.com/search?q=SABI+GIRL+IS+HERE) | N/A |
-| 16 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
-| 17 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 18 | [Begging](http://twitter.com/search?q=Begging) | N/A |
-| 19 | [ifeanyi](http://twitter.com/search?q=ifeanyi) | N/A |
-| 20 | [Wizzy](http://twitter.com/search?q=Wizzy) | N/A |
-| 21 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
-| 22 | [Mbaka](http://twitter.com/search?q=Mbaka) | N/A |
+| 13 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 14 | [ONLY ONE BIG SHEGGZ](http://twitter.com/search?q=ONLY+ONE+BIG+SHEGGZ) | N/A |
+| 15 | [FC and 30BG](http://twitter.com/search?q=FC+and+30BG) | N/A |
+| 16 | [Begging](http://twitter.com/search?q=Begging) | N/A |
+| 17 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 18 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 19 | [Wizzy](http://twitter.com/search?q=Wizzy) | N/A |
+| 20 | [sabi girl is here](http://twitter.com/search?q=sabi+girl+is+here) | N/A |
+| 21 | [Mbaka](http://twitter.com/search?q=Mbaka) | N/A |
+| 22 | [Ifeanyi](http://twitter.com/search?q=Ifeanyi) | N/A |
 | 23 | [Starboy](http://twitter.com/search?q=Starboy) | "Starboy" is a song by Canadian singer The Weeknd, released as the lead single from his third studio album of the same name. The song's title is a reference to The Weeknd's persona and is meant to signify his rise to fame. In English, "Starboy" can be interpreted as someone who has achieved great success and is now living the life of a celebrity. |
 | 24 | [Over Dem](http://twitter.com/search?q=Over+Dem) | N/A |
 | 25 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
 | 26 | [SHOP NLNT89](http://twitter.com/search?q=SHOP+NLNT89) | N/A |
-| 27 | [Oloye](http://twitter.com/search?q=Oloye) | N/A |
+| 27 | [Mikel Arteta](http://twitter.com/search?q=Mikel+Arteta) | N/A |
 | 28 | [No Competition](http://twitter.com/search?q=No+Competition) | N/A |
-| 29 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
-| 30 | [Fave](http://twitter.com/search?q=Fave) | N/A |
-| 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 32 | [Congratulations 001](http://twitter.com/search?q=Congratulations+001) | N/A |
+| 29 | [Oloye](http://twitter.com/search?q=Oloye) | N/A |
+| 30 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 31 | [Congratulations 001](http://twitter.com/search?q=Congratulations+001) | N/A |
+| 32 | [African Giant](http://twitter.com/search?q=African+Giant) | N/A |
 | 33 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 34 | [The Album](http://twitter.com/search?q=The+Album) | The Album is a term used to refer to a collection of songs, usually released as a single package. It is typically used to refer to an album of recorded music, though it can also be used for other types of audio recordings such as spoken word albums and comedy albums. |
-| 35 | [Godfather](http://twitter.com/search?q=Godfather) | N/A |
+| 34 | [My GOAT](http://twitter.com/search?q=My+GOAT) | N/A |
+| 35 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 36 | [Come to Nigeria](http://twitter.com/search?q=Come+to+Nigeria) | N/A |
-| 37 | [MY GOAT](http://twitter.com/search?q=MY+GOAT) | N/A |
-| 38 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
-| 39 | [LCND](http://twitter.com/search?q=LCND) | N/A |
-| 40 | [Tinubu and 52](http://twitter.com/search?q=Tinubu+and+52) | N/A |
-| 41 | [Logos Olori](http://twitter.com/search?q=Logos+Olori) | N/A |
-| 42 | [African Giant](http://twitter.com/search?q=African+Giant) | N/A |
-| 43 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
-| 44 | [Where is Tinubu](http://twitter.com/search?q=Where+is+Tinubu) | N/A |
-| 45 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
-| 46 | [Cavemen](http://twitter.com/search?q=Cavemen) | N/A |
-| 47 | [Bola](http://twitter.com/search?q=Bola) | N/A |
-| 48 | [Skepta](http://twitter.com/search?q=Skepta) | N/A |
+| 37 | [LCND](http://twitter.com/search?q=LCND) | N/A |
+| 38 | [Tinubu and 52](http://twitter.com/search?q=Tinubu+and+52) | N/A |
+| 39 | [Bola](http://twitter.com/search?q=Bola) | N/A |
+| 40 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
+| 41 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
+| 42 | [Cavemen](http://twitter.com/search?q=Cavemen) | N/A |
+| 43 | [#JumiaNGTechWeek](http://twitter.com/search?q=%23JumiaNGTechWeek) | N/A |
+| 44 | [#TinubuIsHere](http://twitter.com/search?q=%23TinubuIsHere) | N/A |
+| 45 | [#oraimoFreePods4](http://twitter.com/search?q=%23oraimoFreePods4) | N/A |
+| 46 | [#BBNaija](http://twitter.com/search?q=%23BBNaija) | N/A |
+| 47 | [#festivalofmiracles](http://twitter.com/search?q=%23festivalofmiracles) | N/A |
+| 48 | [#DonaldTrump](http://twitter.com/search?q=%23DonaldTrump) | N/A |
 
 
 

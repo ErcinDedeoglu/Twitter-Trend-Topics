@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-03-31 15:17:35 UTC`
+📆 Last Updated: `2023-03-31 16:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Poland
 | 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
 | 2 | [#GenshinSpecialProgram](http://twitter.com/search?q=%23GenshinSpecialProgram) | #GenshinSpecialProgram is a promotional event held by the game developer miHoYo for their popular game Genshin Impact. The event includes special in-game rewards, exclusive content, and limited-time offers. The English translation of the hashtag would be "#GenshinSpecialPromotion". |
 | 3 | [#egzaminzawodowy](http://twitter.com/search?q=%23egzaminzawodowy) | N/A |
-| 4 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
-| 5 | [Paweł Śpiewak](http://twitter.com/search?q=Pawe%c5%82+%c5%9apiewak) | N/A |
-| 6 | [#NieOddamyWarszawy](http://twitter.com/search?q=%23NieOddamyWarszawy) | N/A |
-| 7 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
-| 8 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 9 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 4 | [#ZAGWAR](http://twitter.com/search?q=%23ZAGWAR) | N/A |
+| 5 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
+| 6 | [Paweł Śpiewak](http://twitter.com/search?q=Pawe%c5%82+%c5%9apiewak) | N/A |
+| 7 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 8 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 9 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
 | 10 | [Szymczyka](http://twitter.com/search?q=Szymczyka) | N/A |
-| 11 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | N/A |
-| 12 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
-| 13 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 14 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
-| 15 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
-| 16 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 17 | [Mentzen](http://twitter.com/search?q=Mentzen) | N/A |
+| 11 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
+| 12 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 13 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
+| 14 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 15 | [Mentzena](http://twitter.com/search?q=Mentzena) | N/A |
+| 16 | [Buczy](http://twitter.com/search?q=Buczy) | N/A |
+| 17 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
 | 18 | [Lahti](http://twitter.com/search?q=Lahti) | N/A |
-| 19 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
+| 19 | [Oskar](http://twitter.com/search?q=Oskar) | N/A |
 | 20 | [Klaps](http://twitter.com/search?q=Klaps) | N/A |
-| 21 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
-| 22 | [Lexusa](http://twitter.com/search?q=Lexusa) | N/A |
-| 23 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 24 | [Marek Suski](http://twitter.com/search?q=Marek+Suski) | N/A |
-| 25 | [Budka](http://twitter.com/search?q=Budka) | N/A |
+| 21 | [Sojuszu](http://twitter.com/search?q=Sojuszu) | N/A |
+| 22 | [Hiszpanii](http://twitter.com/search?q=Hiszpanii) | N/A |
+| 23 | [Matecki](http://twitter.com/search?q=Matecki) | N/A |
+| 24 | [lexusa](http://twitter.com/search?q=lexusa) | N/A |
+| 25 | [Marek Suski](http://twitter.com/search?q=Marek+Suski) | N/A |
 | 26 | [Sił Zbrojnych RP](http://twitter.com/search?q=Si%c5%82+Zbrojnych+RP) | N/A |
-| 27 | [marcin w.](http://twitter.com/search?q=marcin+w.) | N/A |
-| 28 | [Aleksandra Piłsudska](http://twitter.com/search?q=Aleksandra+Pi%c5%82sudska) | N/A |
-| 29 | [Sobolewski](http://twitter.com/search?q=Sobolewski) | N/A |
-| 30 | [hiszpanii](http://twitter.com/search?q=hiszpanii) | N/A |
-| 31 | [Lasy](http://twitter.com/search?q=Lasy) | N/A |
-| 32 | [Łowca](http://twitter.com/search?q=%c5%81owca) | N/A |
+| 27 | [Sienkiewicz](http://twitter.com/search?q=Sienkiewicz) | N/A |
+| 28 | [marcin w.](http://twitter.com/search?q=marcin+w.) | N/A |
+| 29 | [aleksandra piłsudska](http://twitter.com/search?q=aleksandra+pi%c5%82sudska) | N/A |
+| 30 | [Sobolewski](http://twitter.com/search?q=Sobolewski) | N/A |
+| 31 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
+| 32 | [łowca](http://twitter.com/search?q=%c5%82owca) | N/A |
 | 33 | [miał 71](http://twitter.com/search?q=mia%c5%82+71) | N/A |
-| 34 | [Leszczyna](http://twitter.com/search?q=Leszczyna) | N/A |
-| 35 | [bicie](http://twitter.com/search?q=bicie) | N/A |
+| 34 | [bicie](http://twitter.com/search?q=bicie) | N/A |
+| 35 | [Budka](http://twitter.com/search?q=Budka) | N/A |
 | 36 | [Stanisław Maczek](http://twitter.com/search?q=Stanis%c5%82aw+Maczek) | N/A |
-| 37 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 38 | [Tapczan](http://twitter.com/search?q=Tapczan) | N/A |
-| 39 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
-| 40 | [Znajomych](http://twitter.com/search?q=Znajomych) | N/A |
+| 37 | [Pawła Śpiewaka](http://twitter.com/search?q=Paw%c5%82a+%c5%9apiewaka) | N/A |
+| 38 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
+| 39 | [Daria](http://twitter.com/search?q=Daria) | N/A |
+| 40 | [znajomych](http://twitter.com/search?q=znajomych) | N/A |
 | 41 | [anny kareniny](http://twitter.com/search?q=anny+kareniny) | N/A |
-| 42 | [Najemnik](http://twitter.com/search?q=Najemnik) | N/A |
-| 43 | [Pawła Śpiewaka](http://twitter.com/search?q=Paw%c5%82a+%c5%9apiewaka) | N/A |
-| 44 | [gmoch](http://twitter.com/search?q=gmoch) | N/A |
-| 45 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
-| 46 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 47 | [Brawo My](http://twitter.com/search?q=Brawo+My) | N/A |
-| 48 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 49 | [daniel obajtek](http://twitter.com/search?q=daniel+obajtek) | N/A |
-| 50 | [Gdula](http://twitter.com/search?q=Gdula) | N/A |
+| 42 | [najemnik](http://twitter.com/search?q=najemnik) | N/A |
+| 43 | [sławomir](http://twitter.com/search?q=s%c5%82awomir) | N/A |
+| 44 | [Messiego](http://twitter.com/search?q=Messiego) | N/A |
+| 45 | [gmoch](http://twitter.com/search?q=gmoch) | N/A |
+| 46 | [miedź](http://twitter.com/search?q=mied%c5%ba) | N/A |
+| 47 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 48 | [Brawo My](http://twitter.com/search?q=Brawo+My) | N/A |
+| 49 | [Tapczan](http://twitter.com/search?q=Tapczan) | N/A |
+| 50 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 
 
 
