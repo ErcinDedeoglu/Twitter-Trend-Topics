@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-03-31 08:17:57 UTC`
+📆 Last Updated: `2023-03-31 09:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,35 +17,35 @@ This is top 50 for Dominican Republic
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 2 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
-| 3 | [Sharmin](http://twitter.com/search?q=Sharmin) | N/A |
+| 3 | [sharmin](http://twitter.com/search?q=sharmin) | N/A |
 | 4 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
 | 5 | [batalla del 30](http://twitter.com/search?q=batalla+del+30) | N/A |
 | 6 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 7 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 8 | [vincho castillo](http://twitter.com/search?q=vincho+castillo) | N/A |
+| 8 | [Vincho](http://twitter.com/search?q=Vincho) | N/A |
 | 9 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 10 | [Soto Jiménez](http://twitter.com/search?q=Soto+Jim%c3%a9nez) | N/A |
+| 10 | [soto jiménez](http://twitter.com/search?q=soto+jim%c3%a9nez) | N/A |
 | 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 12 | [josé maría imbert](http://twitter.com/search?q=jos%c3%a9+mar%c3%ada+imbert) | N/A |
 | 13 | [AARON JUDGE](http://twitter.com/search?q=AARON+JUDGE) | N/A |
 | 14 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
 | 15 | [milagros ortiz bosch](http://twitter.com/search?q=milagros+ortiz+bosch) | N/A |
 | 16 | [faride](http://twitter.com/search?q=faride) | N/A |
-| 17 | [NO VALE MENTIR](http://twitter.com/search?q=NO+VALE+MENTIR) | N/A |
+| 17 | [no vale mentir](http://twitter.com/search?q=no+vale+mentir) | N/A |
 | 18 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
 | 19 | [#mlbporteleantillas](http://twitter.com/search?q=%23mlbporteleantillas) | N/A |
-| 20 | [#RumboADosMillones](http://twitter.com/search?q=%23RumboADosMillones) | N/A |
+| 20 | [#rumboadosmillones](http://twitter.com/search?q=%23rumboadosmillones) | N/A |
 | 21 | [ONEIL CRUZ](http://twitter.com/search?q=ONEIL+CRUZ) | N/A |
 | 22 | [Liondy](http://twitter.com/search?q=Liondy) | N/A |
 | 23 | [omar fernández](http://twitter.com/search?q=omar+fern%c3%a1ndez) | N/A |
 | 24 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 25 | [#RepBX](http://twitter.com/search?q=%23RepBX) | N/A |
-| 26 | [Martínez Pozo](http://twitter.com/search?q=Mart%c3%adnez+Pozo) | N/A |
-| 27 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 28 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
-| 29 | [Sergio Moya](http://twitter.com/search?q=Sergio+Moya) | N/A |
-| 30 | [Search "WATER"](http://twitter.com/search?q=Search+%22WATER%22) | N/A |
-| 31 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 26 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 27 | [Mets](http://twitter.com/search?q=Mets) | Mets is an abbreviation for the New York Mets, a Major League Baseball team based in New York City. The team was founded in 1962 and plays in the National League East division. |
+| 28 | [sergio moya](http://twitter.com/search?q=sergio+moya) | N/A |
+| 29 | [Search "WATER"](http://twitter.com/search?q=Search+%22WATER%22) | N/A |
+| 30 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
+| 31 | [Martínez Pozo](http://twitter.com/search?q=Mart%c3%adnez+Pozo) | N/A |
 | 32 | [Rafael Devers](http://twitter.com/search?q=Rafael+Devers) | N/A |
 | 33 | [monte plata](http://twitter.com/search?q=monte+plata) | N/A |
 | 34 | [Jean](http://twitter.com/search?q=Jean) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-03-31 08:17:38 UTC`
+📆 Last Updated: `2023-03-31 09:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Egypt](</Egypt>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 2 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 1 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 2 | [البنك المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d9%83+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
 | 3 | [٩ رمضان](http://twitter.com/search?q=%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 4 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
 | 5 | [#دقوا_الهلال_افريقيا_للرجال](http://twitter.com/search?q=%23%d8%af%d9%82%d9%88%d8%a7_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7_%d9%84%d9%84%d8%b1%d8%ac%d8%a7%d9%84) | N/A |
 | 6 | [#الجنيه_المصري](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d9%86%d9%8a%d9%87_%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 7 | [هيثم فاروق](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d9%81%d8%a7%d8%b1%d9%88%d9%82) | N/A |
+| 7 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 8 | [#القصاص_من_قاتل_زياد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%b5%d8%a7%d8%b5_%d9%85%d9%86_%d9%82%d8%a7%d8%aa%d9%84_%d8%b2%d9%8a%d8%a7%d8%af) | N/A |
-| 9 | [كوره بركات](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%87+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
-| 10 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 11 | [محمود الخطيب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
+| 9 | [هيثم فاروق](http://twitter.com/search?q=%d9%87%d9%8a%d8%ab%d9%85+%d9%81%d8%a7%d8%b1%d9%88%d9%82) | N/A |
+| 10 | [كوره بركات](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%87+%d8%a8%d8%b1%d9%83%d8%a7%d8%aa) | N/A |
+| 11 | [31 مارس](http://twitter.com/search?q=31+%d9%85%d8%a7%d8%b1%d8%b3) | N/A |
 | 12 | [الامن المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%86+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 13 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
-| 14 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
-| 15 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 13 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 14 | [راموس](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%88%d8%b3) | راموس is an Arabic word meaning "Rome". It is derived from the Latin word Roma, which was the name of the ancient city in Italy. |
+| 15 | [محمود الخطيب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
 | 16 | [الإسماعيلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a) | N/A |
-| 17 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 18 | [احمد رفعت](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b1%d9%81%d8%b9%d8%aa) | N/A |
-| 19 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
-| 20 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 17 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 18 | [انيستا](http://twitter.com/search?q=%d8%a7%d9%86%d9%8a%d8%b3%d8%aa%d8%a7) | N/A |
+| 19 | [احمد رفعت](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b1%d9%81%d8%b9%d8%aa) | N/A |
+| 20 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 | 21 | [علي الايداع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%8a%d8%af%d8%a7%d8%b9) | N/A |
 | 22 | [شيرين رضا](http://twitter.com/search?q=%d8%b4%d9%8a%d8%b1%d9%8a%d9%86+%d8%b1%d8%b6%d8%a7) | N/A |
-| 23 | [31 مارس 2023](http://twitter.com/search?q=31+%d9%85%d8%a7%d8%b1%d8%b3+2023) | N/A |
-| 24 | [السياسه النقديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d9%87) | N/A |
-| 25 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 23 | [السياسه النقديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d9%86%d9%82%d8%af%d9%8a%d9%87) | N/A |
+| 24 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 25 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
 | 26 | [احمد عمر هاشم](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b9%d9%85%d8%b1+%d9%87%d8%a7%d8%b4%d9%85) | N/A |
-| 27 | [صاحب السمو الشيخ](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 28 | [الجيش الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
+| 27 | [الجيش الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
+| 28 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
 | 29 | [الحلقه الثامنه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86%d9%87) | N/A |
-| 30 | [برا البيت](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d8%a7%d9%84%d8%a8%d9%8a%d8%aa) | N/A |
+| 30 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
 | 31 | [وزارة الرياضة](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9) | N/A |
 | 32 | [وول ستريت جورنال](http://twitter.com/search?q=%d9%88%d9%88%d9%84+%d8%b3%d8%aa%d8%b1%d9%8a%d8%aa+%d8%ac%d9%88%d8%b1%d9%86%d8%a7%d9%84) | N/A |
-| 33 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
-| 34 | [الاستراتيجيه الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 35 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
-| 36 | [رييس جديد](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 37 | [نسرين امين](http://twitter.com/search?q=%d9%86%d8%b3%d8%b1%d9%8a%d9%86+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
-| 38 | [العشر الاوايل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d9%8a%d9%84) | N/A |
-| 39 | [إنبي](http://twitter.com/search?q=%d8%a5%d9%86%d8%a8%d9%8a) | N/A |
+| 33 | [مارسيلو](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d9%84%d9%88) | N/A |
+| 34 | [رييس جديد](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 35 | [نسرين امين](http://twitter.com/search?q=%d9%86%d8%b3%d8%b1%d9%8a%d9%86+%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 36 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
+| 37 | [برا البيت](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d8%a7%d9%84%d8%a8%d9%8a%d8%aa) | N/A |
+| 38 | [إنبي](http://twitter.com/search?q=%d8%a5%d9%86%d8%a8%d9%8a) | N/A |
+| 39 | [المريخ السوداني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a) | N/A |
 | 40 | [المقاولون العرب](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%84%d9%88%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
 | 41 | [سموحة](http://twitter.com/search?q=%d8%b3%d9%85%d9%88%d8%ad%d8%a9) | N/A |
 | 42 | [13 يناير 2024](http://twitter.com/search?q=13+%d9%8a%d9%86%d8%a7%d9%8a%d8%b1+2024) | N/A |
 | 43 | [كامل يوسف البهتيمي](http://twitter.com/search?q=%d9%83%d8%a7%d9%85%d9%84+%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d8%a8%d9%87%d8%aa%d9%8a%d9%85%d9%8a) | N/A |
 | 44 | [مفوضي الدوله](http://twitter.com/search?q=%d9%85%d9%81%d9%88%d8%b6%d9%8a+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87) | N/A |
 | 45 | [فلا عدل](http://twitter.com/search?q=%d9%81%d9%84%d8%a7+%d8%b9%d8%af%d9%84) | N/A |
-| 46 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
-| 47 | [علاء مرسي](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
-| 48 | [المريخ السوداني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a) | N/A |
-| 49 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
-| 50 | [علي الجنيه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%86%d9%8a%d9%87) | N/A |
+| 46 | [حميد مجيد](http://twitter.com/search?q=%d8%ad%d9%85%d9%8a%d8%af+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 47 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 48 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 49 | [علاء مرسي](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d8%a1+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
+| 50 | [سالم الدوسري](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | سالم الدوسري is an Arabic phrase meaning "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
 
 
 

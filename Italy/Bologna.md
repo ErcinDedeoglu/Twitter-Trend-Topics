@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-03-31 08:17:25 UTC`
+📆 Last Updated: `2023-03-31 09:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Italy](</Italy>)
 | 8 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
 | 9 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
 | 10 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
-| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 12 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
-| 13 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
+| 11 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 12 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 13 | [Samu](http://twitter.com/search?q=Samu) | N/A |
 | 14 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
-| 15 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 16 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
-| 17 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 18 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
-| 19 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
-| 20 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 21 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 22 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 23 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 24 | [Buongiorno Michael](http://twitter.com/search?q=Buongiorno+Michael) | N/A |
-| 25 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 26 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 15 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 16 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 17 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 18 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 19 | [Busia](http://twitter.com/search?q=Busia) | N/A |
+| 20 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
+| 21 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
+| 22 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
+| 23 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
+| 24 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 25 | [Baku](http://twitter.com/search?q=Baku) | N/A |
+| 26 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 27 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
 | 28 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 29 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 29 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
 | 30 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 31 | [Due Vite](http://twitter.com/search?q=Due+Vite) | N/A |
-| 32 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 33 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 34 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 35 | [Tuttosport](http://twitter.com/search?q=Tuttosport) | N/A |
-| 36 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 37 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 38 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 31 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 32 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
+| 33 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 34 | [Settimana Santa](http://twitter.com/search?q=Settimana+Santa) | N/A |
+| 35 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 36 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 37 | [Il 31](http://twitter.com/search?q=Il+31) | N/A |
+| 38 | [Due Vite](http://twitter.com/search?q=Due+Vite) | N/A |
 | 39 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 41 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 42 | [De Santis](http://twitter.com/search?q=De+Santis) | N/A |
-| 43 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
-| 44 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
-| 45 | [Il 31](http://twitter.com/search?q=Il+31) | N/A |
-| 46 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
-| 47 | [Genoa](http://twitter.com/search?q=Genoa) | N/A |
-| 48 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 49 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 40 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 41 | [Genoa](http://twitter.com/search?q=Genoa) | N/A |
+| 42 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 43 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 44 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 45 | [Tuttosport](http://twitter.com/search?q=Tuttosport) | N/A |
+| 46 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
+| 47 | [Giovanni](http://twitter.com/search?q=Giovanni) | N/A |
+| 48 | [Paratici](http://twitter.com/search?q=Paratici) | Paratici is an Italian surname. It is derived from the Latin word paratus, which means “prepared” or “ready”. In English, the meaning of Paratici is “prepared” or “ready”. |
+| 49 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
 
 
 

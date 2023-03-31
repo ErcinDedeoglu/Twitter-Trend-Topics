@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-03-31 08:17:39 UTC`
+📆 Last Updated: `2023-03-31 09:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LetTheHuntBegin](http://twitter.com/search?q=%23LetTheHuntBegin) | N/A |
-| 2 | [#ThetakeOff](http://twitter.com/search?q=%23ThetakeOff) | N/A |
-| 3 | [#ExpressoShow](http://twitter.com/search?q=%23ExpressoShow) | N/A |
+| 1 | [#ThetakeOff](http://twitter.com/search?q=%23ThetakeOff) | N/A |
+| 2 | [#ExpressoShow](http://twitter.com/search?q=%23ExpressoShow) | N/A |
+| 3 | [#FamilyMeeting](http://twitter.com/search?q=%23FamilyMeeting) | N/A |
 | 4 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
-| 5 | [#AbsaSmallBizFriday](http://twitter.com/search?q=%23AbsaSmallBizFriday) | N/A |
+| 5 | [#PowerballGuaranteedJackpot](http://twitter.com/search?q=%23PowerballGuaranteedJackpot) | N/A |
 | 6 | [Mbeki](http://twitter.com/search?q=Mbeki) | N/A |
-| 7 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
-| 8 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
-| 9 | [SARB](http://twitter.com/search?q=SARB) | N/A |
-| 10 | [Business Term Loan](http://twitter.com/search?q=Business+Term+Loan) | N/A |
-| 11 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
+| 7 | [Oscar Pistorius](http://twitter.com/search?q=Oscar+Pistorius) | N/A |
+| 8 | [SARB](http://twitter.com/search?q=SARB) | N/A |
+| 9 | [Lesotho](http://twitter.com/search?q=Lesotho) | N/A |
+| 10 | [Xiluva](http://twitter.com/search?q=Xiluva) | N/A |
+| 11 | [Jali](http://twitter.com/search?q=Jali) | N/A |
 | 12 | [Rasta](http://twitter.com/search?q=Rasta) | N/A |
-| 13 | [Jali](http://twitter.com/search?q=Jali) | N/A |
-| 14 | [Vero](http://twitter.com/search?q=Vero) | N/A |
-| 15 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
-| 16 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
-| 17 | [thabang mazibuko brand](http://twitter.com/search?q=thabang+mazibuko+brand) | N/A |
+| 13 | [Business Term Loan](http://twitter.com/search?q=Business+Term+Loan) | N/A |
+| 14 | [Mihlali](http://twitter.com/search?q=Mihlali) | N/A |
+| 15 | [Phala Phala](http://twitter.com/search?q=Phala+Phala) | N/A |
+| 16 | [thabang mazibuko brand](http://twitter.com/search?q=thabang+mazibuko+brand) | N/A |
+| 17 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 | 18 | [Unisa](http://twitter.com/search?q=Unisa) | N/A |
 | 19 | [Reeva](http://twitter.com/search?q=Reeva) | N/A |
-| 20 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
-| 21 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 20 | [Uncle Cyril](http://twitter.com/search?q=Uncle+Cyril) | N/A |
+| 21 | [Naledi Pandor](http://twitter.com/search?q=Naledi+Pandor) | N/A |
 | 22 | [JUICY JAY THE BRAND](http://twitter.com/search?q=JUICY+JAY+THE+BRAND) | N/A |
-| 23 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
-| 24 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
-| 25 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
-| 26 | [Ekurhuleni](http://twitter.com/search?q=Ekurhuleni) | N/A |
-| 27 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
-| 28 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 29 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
-| 30 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 31 | [hlomu](http://twitter.com/search?q=hlomu) | N/A |
-| 32 | [Oriental Plaza](http://twitter.com/search?q=Oriental+Plaza) | N/A |
-| 33 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 34 | [Come to South Africa](http://twitter.com/search?q=Come+to+South+Africa) | N/A |
-| 35 | [America](http://twitter.com/search?q=America) | N/A |
-| 36 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
-| 37 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
-| 38 | [Chuckles](http://twitter.com/search?q=Chuckles) | N/A |
-| 39 | [medshield](http://twitter.com/search?q=medshield) | N/A |
-| 40 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
-| 41 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 42 | [Lesetja Kganyago](http://twitter.com/search?q=Lesetja+Kganyago) | N/A |
-| 43 | [The Reserve Bank](http://twitter.com/search?q=The+Reserve+Bank) | N/A |
-| 44 | [Tania Campbell](http://twitter.com/search?q=Tania+Campbell) | N/A |
-| 45 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
-| 46 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 47 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
-| 48 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 49 | [YoTV](http://twitter.com/search?q=YoTV) | N/A |
-| 50 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 23 | [Bongani](http://twitter.com/search?q=Bongani) | N/A |
+| 24 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
+| 25 | [Ekurhuleni](http://twitter.com/search?q=Ekurhuleni) | N/A |
+| 26 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
+| 27 | [TIMELESS LIQUOROSE](http://twitter.com/search?q=TIMELESS+LIQUOROSE) | N/A |
+| 28 | [Paul Mashatile](http://twitter.com/search?q=Paul+Mashatile) | N/A |
+| 29 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 30 | [Hlomu](http://twitter.com/search?q=Hlomu) | N/A |
+| 31 | [Oriental Plaza](http://twitter.com/search?q=Oriental+Plaza) | N/A |
+| 32 | [Paballo](http://twitter.com/search?q=Paballo) | N/A |
+| 33 | [MARKETABLE THABANG](http://twitter.com/search?q=MARKETABLE+THABANG) | N/A |
+| 34 | [AFC Bournemouth](http://twitter.com/search?q=AFC+Bournemouth) | N/A |
+| 35 | [Chuckles](http://twitter.com/search?q=Chuckles) | N/A |
+| 36 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 37 | [America](http://twitter.com/search?q=America) | N/A |
+| 38 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
+| 39 | [Lesetja Kganyago](http://twitter.com/search?q=Lesetja+Kganyago) | N/A |
+| 40 | [The Reserve Bank](http://twitter.com/search?q=The+Reserve+Bank) | N/A |
+| 41 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 42 | [Tania Campbell](http://twitter.com/search?q=Tania+Campbell) | N/A |
+| 43 | [AIDS](http://twitter.com/search?q=AIDS) | N/A |
+| 44 | [YoTV](http://twitter.com/search?q=YoTV) | N/A |
+| 45 | [Sasfin](http://twitter.com/search?q=Sasfin) | N/A |
+| 46 | [Krol](http://twitter.com/search?q=Krol) | N/A |
+| 47 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 48 | [Vero](http://twitter.com/search?q=Vero) | N/A |
+| 49 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 50 | [VOTE FOR KHOSI](http://twitter.com/search?q=VOTE+FOR+KHOSI) | N/A |
 
 
 

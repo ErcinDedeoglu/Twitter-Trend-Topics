@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-03-31 08:17:50 UTC`
+📆 Last Updated: `2023-03-31 09:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
 | 2 | [Shohei](http://twitter.com/search?q=Shohei) | N/A |
 | 3 | [#babycanwesmoke](http://twitter.com/search?q=%23babycanwesmoke) | N/A |
-| 4 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 4 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
 | 5 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 6 | [#RootedInOakland](http://twitter.com/search?q=%23RootedInOakland) | N/A |
-| 7 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 9 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 10 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
-| 11 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 12 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 13 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 14 | [#IndictmentDay](http://twitter.com/search?q=%23IndictmentDay) | N/A |
-| 15 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 16 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 17 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 18 | [#OpeningDayLA](http://twitter.com/search?q=%23OpeningDayLA) | N/A |
-| 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 20 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 21 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 22 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 23 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 24 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 25 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 26 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 27 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 28 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 29 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 30 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 31 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 32 | [JAMES OUTMAN](http://twitter.com/search?q=JAMES+OUTMAN) | N/A |
-| 33 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 34 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 35 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 36 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 37 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 38 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 39 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 40 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 41 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
-| 42 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 43 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 44 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
-| 45 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 46 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 47 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 48 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
-| 49 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 50 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 6 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 7 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 8 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 9 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 10 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 11 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 12 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 13 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 14 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 15 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 16 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 17 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 18 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 19 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 20 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 21 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
+| 22 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 23 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 24 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 25 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 26 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 27 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 28 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 29 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 30 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 31 | [Redman](http://twitter.com/search?q=Redman) | N/A |
+| 32 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 33 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 34 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 35 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 36 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 37 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 38 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 39 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 40 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 41 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 42 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 43 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 44 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 45 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 46 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 47 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 48 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 49 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 50 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-03-31 08:17:15 UTC`
+📆 Last Updated: `2023-03-31 09:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
-| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 3 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 4 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 5 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 6 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 7 | [#DDHLOL](http://twitter.com/search?q=%23DDHLOL) | N/A |
-| 8 | [#ConsejerosINE](http://twitter.com/search?q=%23ConsejerosINE) | N/A |
-| 9 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 10 | [Matty Healy](http://twitter.com/search?q=Matty+Healy) | N/A |
-| 11 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 12 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 13 | [Robbers](http://twitter.com/search?q=Robbers) | N/A |
-| 14 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 15 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
-| 16 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
-| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 18 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 19 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 20 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 21 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 22 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 23 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 24 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 25 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 26 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 27 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
-| 28 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 29 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
-| 30 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 31 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 32 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 33 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
-| 34 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 35 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
-| 36 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 37 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
-| 38 | [#LostInTheLightsWithJimin](http://twitter.com/search?q=%23LostInTheLightsWithJimin) | N/A |
-| 39 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 40 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
-| 41 | [#TrustIssues](http://twitter.com/search?q=%23TrustIssues) | N/A |
-| 42 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
-| 43 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
-| 44 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 45 | [#3de3](http://twitter.com/search?q=%233de3) | N/A |
+| 1 | [Guadalupe Taddei Zavala](http://twitter.com/search?q=Guadalupe+Taddei+Zavala) | N/A |
+| 2 | [Arturo Castillo Loza](http://twitter.com/search?q=Arturo+Castillo+Loza) | N/A |
+| 3 | [Jorge Montaño Ventura](http://twitter.com/search?q=Jorge+Monta%c3%b1o+Ventura) | N/A |
+| 4 | [Rita Bell López Vences](http://twitter.com/search?q=Rita+Bell+L%c3%b3pez+Vences) | N/A |
+| 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 6 | [Billie](http://twitter.com/search?q=Billie) | N/A |
+| 7 | [#OpeningDay](http://twitter.com/search?q=%23OpeningDay) | N/A |
+| 8 | [Consejera Presidenta](http://twitter.com/search?q=Consejera+Presidenta) | N/A |
+| 9 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 10 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 11 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 12 | [#ahogadosxculpademorena](http://twitter.com/search?q=%23ahogadosxculpademorena) | N/A |
+| 13 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 14 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
+| 15 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 16 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
+| 17 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 18 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 19 | [Bertha](http://twitter.com/search?q=Bertha) | N/A |
+| 20 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
+| 21 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 22 | [Fred Again](http://twitter.com/search?q=Fred+Again) | N/A |
+| 23 | [Ayotzinapa](http://twitter.com/search?q=Ayotzinapa) | N/A |
+| 24 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 25 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
+| 26 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 27 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
+| 28 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 29 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 30 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 31 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 32 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 33 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 34 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 35 | [Burak](http://twitter.com/search?q=Burak) | N/A |
+| 36 | [Chimalhuacán](http://twitter.com/search?q=Chimalhuac%c3%a1n) | Chimalhuacán is a city in the State of Mexico, Mexico. It is located in the eastern part of the state, about 25 miles northeast of Mexico City. The name Chimalhuacán comes from the Nahuatl language and means "place of the shield". |
+| 37 | [AARON JUDGE](http://twitter.com/search?q=AARON+JUDGE) | N/A |
+| 38 | [Solalinde](http://twitter.com/search?q=Solalinde) | N/A |
+| 39 | [Robbers](http://twitter.com/search?q=Robbers) | N/A |
+| 40 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 41 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 42 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 43 | [línea 7](http://twitter.com/search?q=l%c3%adnea+7) | N/A |
+| 44 | [Mariana Rodríguez](http://twitter.com/search?q=Mariana+Rodr%c3%adguez) | N/A |
+| 45 | [ocesa](http://twitter.com/search?q=ocesa) | N/A |
+| 46 | [Consejo General](http://twitter.com/search?q=Consejo+General) | N/A |
+| 47 | [Germán Martínez](http://twitter.com/search?q=Germ%c3%a1n+Mart%c3%adnez) | N/A |
+| 48 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
+| 49 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
 
 
 

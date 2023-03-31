@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-03-31 08:17:29 UTC`
+📆 Last Updated: `2023-03-31 09:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,43 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#KamiSudahBerkorban](http://twitter.com/search?q=%23KamiSudahBerkorban) | N/A |
-| 2 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 3 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
-| 4 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 5 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 6 | [Jokowi Resmikan KEK Lido](http://twitter.com/search?q=Jokowi+Resmikan+KEK+Lido) | N/A |
-| 7 | [Jawa Barat](http://twitter.com/search?q=Jawa+Barat) | N/A |
-| 8 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
-| 9 | [Middle Courtyard](http://twitter.com/search?q=Middle+Courtyard) | N/A |
-| 10 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 11 | [#VidioBagiBagiTHR](http://twitter.com/search?q=%23VidioBagiBagiTHR) | N/A |
-| 12 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
-| 13 | [Nonton Cuma 19Rb](http://twitter.com/search?q=Nonton+Cuma+19Rb) | N/A |
-| 14 | [#JadiLebihBaik](http://twitter.com/search?q=%23JadiLebihBaik) | N/A |
-| 15 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
-| 16 | [Weverse Ver](http://twitter.com/search?q=Weverse+Ver) | N/A |
-| 17 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 18 | [Lapor](http://twitter.com/search?q=Lapor) | N/A |
-| 19 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 20 | [Tengah](http://twitter.com/search?q=Tengah) | N/A |
-| 21 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
-| 22 | [EMS TAX](http://twitter.com/search?q=EMS+TAX) | N/A |
-| 23 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 24 | [Lebay](http://twitter.com/search?q=Lebay) | N/A |
-| 25 | [SPT Tahunan](http://twitter.com/search?q=SPT+Tahunan) | N/A |
-| 26 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 27 | [#BP2MISikatSindikatPMI](http://twitter.com/search?q=%23BP2MISikatSindikatPMI) | N/A |
-| 28 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 2 | [#TerimakasihPDIP](http://twitter.com/search?q=%23TerimakasihPDIP) | N/A |
+| 3 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 4 | [Galaxy M14 5G](http://twitter.com/search?q=Galaxy+M14+5G) | N/A |
+| 5 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 6 | [Hasto](http://twitter.com/search?q=Hasto) | N/A |
+| 7 | [#vivoV275GxWin](http://twitter.com/search?q=%23vivoV275GxWin) | N/A |
+| 8 | [Jokowi Resmikan KEK Lido](http://twitter.com/search?q=Jokowi+Resmikan+KEK+Lido) | N/A |
+| 9 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 10 | [Jawa Barat](http://twitter.com/search?q=Jawa+Barat) | N/A |
+| 11 | [Moon Chicken](http://twitter.com/search?q=Moon+Chicken) | N/A |
+| 12 | [Inisial R](http://twitter.com/search?q=Inisial+R) | N/A |
+| 13 | [Middle Courtyard](http://twitter.com/search?q=Middle+Courtyard) | N/A |
+| 14 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
+| 15 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 16 | [B. Paket Akrab](http://twitter.com/search?q=B.+Paket+Akrab) | N/A |
+| 17 | [Weverse Ver](http://twitter.com/search?q=Weverse+Ver) | N/A |
+| 18 | [Nonton Cuma 19Rb](http://twitter.com/search?q=Nonton+Cuma+19Rb) | N/A |
+| 19 | [Flower](http://twitter.com/search?q=Flower) | N/A |
+| 20 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 21 | [Lapor](http://twitter.com/search?q=Lapor) | N/A |
+| 22 | [Tengah](http://twitter.com/search?q=Tengah) | N/A |
+| 23 | [Suzy](http://twitter.com/search?q=Suzy) | N/A |
+| 24 | [EMS TAX](http://twitter.com/search?q=EMS+TAX) | N/A |
+| 25 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 26 | [SPT Tahunan](http://twitter.com/search?q=SPT+Tahunan) | N/A |
+| 27 | [#JadiLebihBaik](http://twitter.com/search?q=%23JadiLebihBaik) | N/A |
+| 28 | [#VidioBagiBagiTHR](http://twitter.com/search?q=%23VidioBagiBagiTHR) | N/A |
 | 29 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
-| 30 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 30 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
 | 31 | [#BallopxKimSeonHo](http://twitter.com/search?q=%23BallopxKimSeonHo) | N/A |
-| 32 | [#HyunBin](http://twitter.com/search?q=%23HyunBin) | N/A |
-| 33 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
-| 34 | [#PrabowoPuanTepat](http://twitter.com/search?q=%23PrabowoPuanTepat) | N/A |
-| 35 | [#KawanPajak](http://twitter.com/search?q=%23KawanPajak) | N/A |
+| 32 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 33 | [#SobATRBPN](http://twitter.com/search?q=%23SobATRBPN) | N/A |
+| 34 | [#HyunBin](http://twitter.com/search?q=%23HyunBin) | N/A |
+| 35 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
+| 36 | [#RedVelvet](http://twitter.com/search?q=%23RedVelvet) | N/A |
+| 37 | [#PrabowoPuanTepat](http://twitter.com/search?q=%23PrabowoPuanTepat) | N/A |
+| 38 | [#KawanPajak](http://twitter.com/search?q=%23KawanPajak) | N/A |
 
 
 

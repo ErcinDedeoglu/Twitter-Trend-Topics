@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-03-31 08:17:59 UTC`
+📆 Last Updated: `2023-03-31 09:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Lebanon
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 2 | [#يوم_الارض](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 3 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 4 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 5 | [اسطفان الدويهي](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b7%d9%81%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%8a%d9%87%d9%8a) | N/A |
-| 6 | [نضال السبع](http://twitter.com/search?q=%d9%86%d8%b6%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
-| 7 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 8 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 9 | [عدم السير](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%b1) | N/A |
-| 10 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 11 | [سامي كليب](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d9%83%d9%84%d9%8a%d8%a8) | N/A |
-| 12 | [وزير الاتصالات](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
-| 13 | [العسكريين المتقاعدين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b3%d9%83%d8%b1%d9%8a%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%a7%d8%b9%d8%af%d9%8a%d9%86) | N/A |
-| 14 | [#باريس](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
-| 15 | [#علي_حميه](http://twitter.com/search?q=%23%d8%b9%d9%84%d9%8a_%d8%ad%d9%85%d9%8a%d9%87) | N/A |
-| 16 | [وول ستريت جورنال](http://twitter.com/search?q=%d9%88%d9%88%d9%84+%d8%b3%d8%aa%d8%b1%d9%8a%d8%aa+%d8%ac%d9%88%d8%b1%d9%86%d8%a7%d9%84) | N/A |
-| 17 | [باب الحاره](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d9%87) | N/A |
-| 18 | [القدره الشراييه القويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d9%82%d9%88%d9%8a%d9%87) | N/A |
-| 19 | [غسان بن جدو](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d8%a8%d9%86+%d8%ac%d8%af%d9%88) | N/A |
-| 20 | [وزير الاشغال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84) | N/A |
+| 2 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 3 | [اليوم الجمعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 4 | [#يوم_الارض](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 5 | [نضال السبع](http://twitter.com/search?q=%d9%86%d8%b6%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
+| 6 | [سامي كليب](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d9%83%d9%84%d9%8a%d8%a8) | N/A |
+| 7 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 8 | [وزير الاتصالات](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84%d8%a7%d8%aa) | N/A |
+| 9 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
+| 10 | [اسطفان الدويهي](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b7%d9%81%d8%a7%d9%86+%d8%a7%d9%84%d8%af%d9%88%d9%8a%d9%87%d9%8a) | N/A |
+| 11 | [القطاع العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 12 | [#فرنجيه](http://twitter.com/search?q=%23%d9%81%d8%b1%d9%86%d8%ac%d9%8a%d9%87) | N/A |
+| 13 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
+| 14 | [وول ستريت جورنال](http://twitter.com/search?q=%d9%88%d9%88%d9%84+%d8%b3%d8%aa%d8%b1%d9%8a%d8%aa+%d8%ac%d9%88%d8%b1%d9%86%d8%a7%d9%84) | N/A |
+| 15 | [باب الحاره](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d9%87) | N/A |
+| 16 | [القدره الشراييه القويه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d8%b1%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d9%82%d9%88%d9%8a%d9%87) | N/A |
+| 17 | [#علي_حميه](http://twitter.com/search?q=%23%d8%b9%d9%84%d9%8a_%d8%ad%d9%85%d9%8a%d9%87) | N/A |
+| 18 | [غسان بن جدو](http://twitter.com/search?q=%d8%ba%d8%b3%d8%a7%d9%86+%d8%a8%d9%86+%d8%ac%d8%af%d9%88) | N/A |
+| 19 | [وزير الاشغال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b4%d8%ba%d8%a7%d9%84) | N/A |
+| 20 | [غير الشرعي](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a) | N/A |
 | 21 | [المبني الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d9%86%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 22 | [اليوم الثامن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%85%d9%86) | N/A |
-| 23 | [الملف الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%81+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
-| 24 | [جورج قرداحي](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d9%82%d8%b1%d8%af%d8%a7%d8%ad%d9%8a) | N/A |
-| 25 | [غير الشرعي](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%b4%d8%b1%d8%b9%d9%8a) | N/A |
+| 22 | [الملف الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%81+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
+| 23 | [جورج قرداحي](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d9%82%d8%b1%d8%af%d8%a7%d8%ad%d9%8a) | N/A |
+| 24 | [امل المشتاقين](http://twitter.com/search?q=%d8%a7%d9%85%d9%84+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%a7%d9%82%d9%8a%d9%86) | N/A |
+| 25 | [باتريك دوريل](http://twitter.com/search?q=%d8%a8%d8%a7%d8%aa%d8%b1%d9%8a%d9%83+%d8%af%d9%88%d8%b1%d9%8a%d9%84) | N/A |
 | 26 | [الاستحقاق الرياسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ad%d9%82%d8%a7%d9%82+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
 | 27 | [وزير المال](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84) | N/A |
 | 28 | [الملف اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%81+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
-| 29 | [جورج خباز](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%ae%d8%a8%d8%a7%d8%b2) | N/A |
-| 30 | [الممثل السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 31 | [مجمع القديسين](http://twitter.com/search?q=%d9%85%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d8%b3%d9%8a%d9%86) | N/A |
-| 32 | [30 اذار 2023](http://twitter.com/search?q=30+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
-| 33 | [علي الوزير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1) | N/A |
-| 34 | [الانتخابات البلديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
+| 29 | [الانتخابات البلديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%ae%d8%a7%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%87) | N/A |
+| 30 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 31 | [الممثل السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 32 | [مجمع القديسين](http://twitter.com/search?q=%d9%85%d8%ac%d9%85%d8%b9+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d8%b3%d9%8a%d9%86) | N/A |
+| 33 | [30 اذار 2023](http://twitter.com/search?q=30+%d8%a7%d8%b0%d8%a7%d8%b1+2023) | N/A |
+| 34 | [عدم السير](http://twitter.com/search?q=%d8%b9%d8%af%d9%85+%d8%a7%d9%84%d8%b3%d9%8a%d8%b1) | N/A |
 | 35 | [الممثلين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d8%ab%d9%84%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 36 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 37 | [التحكم المروري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a) | N/A |
-| 38 | [الولايات المتحده الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%84%d8%a7%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%aa%d8%ad%d8%af%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 36 | [التحكم المروري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a) | N/A |
+| 37 | [الرييس السابق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | N/A |
+| 38 | [المره الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 39 | [المكرم البطريرك](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85+%d8%a7%d9%84%d8%a8%d8%b7%d8%b1%d9%8a%d8%b1%d9%83) | N/A |
-| 40 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
-| 41 | [الدفاعات الجويه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 42 | [البطريرك الدويهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%b1%d9%8a%d8%b1%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%8a%d9%87%d9%8a) | N/A |
+| 40 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
+| 41 | [المدينه المنوره](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
+| 42 | [الدفاعات الجويه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
 | 43 | [بتركيا](http://twitter.com/search?q=%d8%a8%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 44 | [غير قانوني](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a) | N/A |
-| 45 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 46 | [الحمام الزاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b2%d8%a7%d8%ac%d9%84) | N/A |
-| 47 | [نعيم قاسم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d9%82%d8%a7%d8%b3%d9%85) | N/A |
-| 48 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
-| 49 | [علي عدم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b9%d8%af%d9%85) | N/A |
-| 50 | [الخارجيه الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 44 | [البطريرك الدويهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%b1%d9%8a%d8%b1%d9%83+%d8%a7%d9%84%d8%af%d9%88%d9%8a%d9%87%d9%8a) | N/A |
+| 45 | [غير قانوني](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a) | N/A |
+| 46 | [جورج خباز](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%ae%d8%a8%d8%a7%d8%b2) | N/A |
+| 47 | [الحمام الزاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b2%d8%a7%d8%ac%d9%84) | N/A |
+| 48 | [نعيم قاسم](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d9%82%d8%a7%d8%b3%d9%85) | N/A |
+| 49 | [CMA CGM](http://twitter.com/search?q=CMA+CGM) | N/A |
+| 50 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
 
 
 

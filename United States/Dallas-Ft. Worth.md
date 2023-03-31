@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-31 08:17:49 UTC`
+📆 Last Updated: `2023-03-31 09:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 2 | [#StraightUpTX](http://twitter.com/search?q=%23StraightUpTX) | N/A |
-| 3 | [Grant McCasland](http://twitter.com/search?q=Grant+McCasland) | N/A |
-| 4 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 5 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 6 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 8 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 9 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 10 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 11 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 12 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 3 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 4 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 5 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 6 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 7 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 8 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 9 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 10 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 11 | [#GCWFTC](http://twitter.com/search?q=%23GCWFTC) | N/A |
+| 12 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
 | 13 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 14 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
-| 15 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 16 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
-| 17 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 18 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 19 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 20 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 21 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 14 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 15 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 16 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 17 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 18 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
+| 19 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 20 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 21 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
 | 22 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 23 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 24 | [JAMES OUTMAN](http://twitter.com/search?q=JAMES+OUTMAN) | N/A |
-| 25 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 26 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 23 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 24 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 25 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 26 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
 | 27 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 28 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 29 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 30 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 31 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 32 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 33 | [Daily Quordle 431](http://twitter.com/search?q=Daily+Quordle+431) | N/A |
-| 34 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
-| 35 | [Redman](http://twitter.com/search?q=Redman) | N/A |
-| 36 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 37 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 38 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 39 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 40 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
-| 41 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 42 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 43 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
-| 44 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
-| 45 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 46 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
-| 47 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
-| 48 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
-| 49 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
-| 50 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 28 | [Redman](http://twitter.com/search?q=Redman) | N/A |
+| 29 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 30 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 31 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 32 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 33 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 34 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 35 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 36 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 37 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
+| 38 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 39 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 40 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 41 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 42 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 43 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 44 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 45 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 46 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 47 | [Rod Wave](http://twitter.com/search?q=Rod+Wave) | N/A |
+| 48 | [MOON CYCLE](http://twitter.com/search?q=MOON+CYCLE) | N/A |
+| 49 | [Comey](http://twitter.com/search?q=Comey) | N/A |
+| 50 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-03-31 08:17:46 UTC`
+📆 Last Updated: `2023-03-31 09:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,43 +15,44 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [AlparslanHocaya Yargısızİnfaz](http://twitter.com/search?q=AlparslanHocaya+Yarg%c4%b1s%c4%b1z%c4%b0nfaz) | N/A |
-| 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 1 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 2 | [Trt Afrika Yayıncılık Zirvesi](http://twitter.com/search?q=Trt+Afrika+Yay%c4%b1nc%c4%b1l%c4%b1k+Zirvesi) | N/A |
 | 3 | [#MehmetSelimKiraz](http://twitter.com/search?q=%23MehmetSelimKiraz) | N/A |
-| 4 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
-| 5 | [#HalkKazanacak](http://twitter.com/search?q=%23HalkKazanacak) | N/A |
-| 6 | [#StajaİcraatGerek](http://twitter.com/search?q=%23Staja%c4%b0craatGerek) | N/A |
-| 7 | [Kur Korumalı Mevduat](http://twitter.com/search?q=Kur+Korumal%c4%b1+Mevduat) | N/A |
-| 8 | [ÇerçeveDeğil TaşeronaKadro](http://twitter.com/search?q=%c3%87er%c3%a7eveDe%c4%9fil+Ta%c5%9feronaKadro) | N/A |
-| 9 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 10 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 11 | [Esme](http://twitter.com/search?q=Esme) | N/A |
-| 12 | [DHKP-C](http://twitter.com/search?q=DHKP-C) | N/A |
-| 13 | [BugünGünlerden YalıÇapkını](http://twitter.com/search?q=Bug%c3%bcnG%c3%bcnlerden+Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | N/A |
-| 14 | [Nedim Şener](http://twitter.com/search?q=Nedim+%c5%9eener) | N/A |
-| 15 | [Sezer](http://twitter.com/search?q=Sezer) | N/A |
-| 16 | [İrfan Değirmenci](http://twitter.com/search?q=%c4%b0rfan+De%c4%9firmenci) | N/A |
-| 17 | [Fenerbahçe - Beşiktaş](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Be%c5%9fikta%c5%9f) | N/A |
-| 18 | [Erdoğan'la](http://twitter.com/search?q=Erdo%c4%9fan%27la) | N/A |
-| 19 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
-| 20 | [#ÖnceTÜRKİYE](http://twitter.com/search?q=%23%c3%96nceT%c3%9cRK%c4%b0YE) | N/A |
-| 21 | [#HiçŞaşırmadık](http://twitter.com/search?q=%23Hi%c3%a7%c5%9ea%c5%9f%c4%b1rmad%c4%b1k) | N/A |
-| 22 | [#HalitAkçatepe](http://twitter.com/search?q=%23HalitAk%c3%a7atepe) | N/A |
-| 23 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
-| 24 | [#HerseyeZamMemuraGam](http://twitter.com/search?q=%23HerseyeZamMemuraGam) | N/A |
-| 25 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
-| 26 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
-| 27 | [#gunaydın](http://twitter.com/search?q=%23gunayd%c4%b1n) | N/A |
-| 28 | [#isiashepiniztutuklanacaksınız](http://twitter.com/search?q=%23isiashepiniztutuklanacaks%c4%b1n%c4%b1z) | N/A |
-| 29 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 30 | [#halkaarz](http://twitter.com/search?q=%23halkaarz) | N/A |
-| 31 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 32 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 33 | [#KIZILELMA](http://twitter.com/search?q=%23KIZILELMA) | N/A |
-| 34 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
+| 4 | [Parti İstanbul İl Başkanlığı](http://twitter.com/search?q=Parti+%c4%b0stanbul+%c4%b0l+Ba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 5 | [Kudüs](http://twitter.com/search?q=Kud%c3%bcs) | N/A |
+| 6 | [#SynCB5000veKısmiyeMüjde](http://twitter.com/search?q=%23SynCB5000veK%c4%b1smiyeM%c3%bcjde) | N/A |
+| 7 | [İyi Parti İstanbul](http://twitter.com/search?q=%c4%b0yi+Parti+%c4%b0stanbul) | N/A |
+| 8 | [#StajaİcraatGerek](http://twitter.com/search?q=%23Staja%c4%b0craatGerek) | N/A |
+| 9 | [Kur Korumalı Mevduat](http://twitter.com/search?q=Kur+Korumal%c4%b1+Mevduat) | N/A |
+| 10 | [DHKP-C](http://twitter.com/search?q=DHKP-C) | N/A |
+| 11 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 12 | [ÇerçeveDeğil TaşeronaKadro](http://twitter.com/search?q=%c3%87er%c3%a7eveDe%c4%9fil+Ta%c5%9feronaKadro) | N/A |
+| 13 | [Sezer](http://twitter.com/search?q=Sezer) | N/A |
+| 14 | [Esme](http://twitter.com/search?q=Esme) | N/A |
+| 15 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 16 | [BugünGünlerden YalıÇapkını](http://twitter.com/search?q=Bug%c3%bcnG%c3%bcnlerden+Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | N/A |
+| 17 | [Nedim Şener](http://twitter.com/search?q=Nedim+%c5%9eener) | N/A |
+| 18 | [İrfan Değirmenci](http://twitter.com/search?q=%c4%b0rfan+De%c4%9firmenci) | N/A |
+| 19 | [Fenerbahçe - Beşiktaş](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Be%c5%9fikta%c5%9f) | N/A |
+| 20 | [#HalitAkçatepe](http://twitter.com/search?q=%23HalitAk%c3%a7atepe) | N/A |
+| 21 | [#ÖnceTÜRKİYE](http://twitter.com/search?q=%23%c3%96nceT%c3%9cRK%c4%b0YE) | N/A |
+| 22 | [#HalkKazanacak](http://twitter.com/search?q=%23HalkKazanacak) | N/A |
+| 23 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 24 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 25 | [#HiçŞaşırmadık](http://twitter.com/search?q=%23Hi%c3%a7%c5%9ea%c5%9f%c4%b1rmad%c4%b1k) | N/A |
+| 26 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 27 | [#HerseyeZamMemuraGam](http://twitter.com/search?q=%23HerseyeZamMemuraGam) | N/A |
+| 28 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
+| 29 | [#halkaarz](http://twitter.com/search?q=%23halkaarz) | N/A |
+| 30 | [#gunaydın](http://twitter.com/search?q=%23gunayd%c4%b1n) | N/A |
+| 31 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 32 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
+| 33 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
+| 34 | [#KIZILELMA](http://twitter.com/search?q=%23KIZILELMA) | N/A |
 | 35 | [#tuprs](http://twitter.com/search?q=%23tuprs) | N/A |
-| 36 | [#bilet](http://twitter.com/search?q=%23bilet) | N/A |
-| 37 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
+| 36 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 37 | [#isiashepiniztutuklanacaksınız](http://twitter.com/search?q=%23isiashepiniztutuklanacaks%c4%b1n%c4%b1z) | N/A |
+| 38 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
 
 
 
