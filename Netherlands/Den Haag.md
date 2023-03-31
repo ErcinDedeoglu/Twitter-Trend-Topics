@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-03-31 06:17:46 UTC`
+📆 Last Updated: `2023-03-31 07:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [Brussel](http://twitter.com/search?q=Brussel) | N/A |
 | 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 3 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
-| 4 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 5 | [Julian Ward](http://twitter.com/search?q=Julian+Ward) | N/A |
-| 6 | [#sarout](http://twitter.com/search?q=%23sarout) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [Duitser](http://twitter.com/search?q=Duitser) | N/A |
-| 9 | [Nexit](http://twitter.com/search?q=Nexit) | N/A |
-| 10 | [#hetroerom](http://twitter.com/search?q=%23hetroerom) | N/A |
-| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 12 | [MAVO](http://twitter.com/search?q=MAVO) | N/A |
-| 13 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
-| 14 | [Straatsburg](http://twitter.com/search?q=Straatsburg) | N/A |
-| 15 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
-| 16 | [Tamara](http://twitter.com/search?q=Tamara) | N/A |
-| 17 | [Apache](http://twitter.com/search?q=Apache) | N/A |
-| 18 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
-| 19 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
-| 20 | [Natas](http://twitter.com/search?q=Natas) | N/A |
-| 21 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
-| 22 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
-| 23 | [Nieuwspaal](http://twitter.com/search?q=Nieuwspaal) | N/A |
-| 24 | [Nijlpaard](http://twitter.com/search?q=Nijlpaard) | N/A |
-| 25 | [Floor de Man](http://twitter.com/search?q=Floor+de+Man) | N/A |
-| 26 | [Samsom](http://twitter.com/search?q=Samsom) | N/A |
-| 27 | [aïcha marghadi](http://twitter.com/search?q=a%c3%afcha+marghadi) | N/A |
-| 28 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
-| 29 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 30 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
-| 31 | [Treets](http://twitter.com/search?q=Treets) | N/A |
-| 32 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
-| 33 | [HAVO](http://twitter.com/search?q=HAVO) | N/A |
-| 34 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
-| 35 | [Pieter](http://twitter.com/search?q=Pieter) | N/A |
-| 36 | [0% btw](http://twitter.com/search?q=0%25+btw) | N/A |
-| 37 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
-| 38 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 40 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 41 | [van gelder](http://twitter.com/search?q=van+gelder) | N/A |
-| 42 | [hiemstra](http://twitter.com/search?q=hiemstra) | N/A |
-| 43 | [Guus Meeuwis](http://twitter.com/search?q=Guus+Meeuwis) | N/A |
-| 44 | [Kabinet](http://twitter.com/search?q=Kabinet) | N/A |
-| 45 | [appingedam](http://twitter.com/search?q=appingedam) | N/A |
-| 46 | [Mogadishu](http://twitter.com/search?q=Mogadishu) | N/A |
-| 47 | [Litouwen](http://twitter.com/search?q=Litouwen) | N/A |
-| 48 | [de belastingdienst](http://twitter.com/search?q=de+belastingdienst) | N/A |
-| 49 | [Inflatie](http://twitter.com/search?q=Inflatie) | N/A |
+| 3 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
+| 4 | [#Ajax](http://twitter.com/search?q=%23Ajax) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Julian Ward](http://twitter.com/search?q=Julian+Ward) | N/A |
+| 7 | [#sarout](http://twitter.com/search?q=%23sarout) | N/A |
+| 8 | [#vanderwal](http://twitter.com/search?q=%23vanderwal) | N/A |
+| 9 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
+| 10 | [Mavo](http://twitter.com/search?q=Mavo) | N/A |
+| 11 | [Overmars](http://twitter.com/search?q=Overmars) | N/A |
+| 12 | [Havermelk](http://twitter.com/search?q=Havermelk) | N/A |
+| 13 | [Nieuwspaal](http://twitter.com/search?q=Nieuwspaal) | N/A |
+| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 15 | [Inflatie](http://twitter.com/search?q=Inflatie) | N/A |
+| 16 | [Duitser](http://twitter.com/search?q=Duitser) | N/A |
+| 17 | [Jandino](http://twitter.com/search?q=Jandino) | N/A |
+| 18 | [Europese Commissie](http://twitter.com/search?q=Europese+Commissie) | N/A |
+| 19 | [Rijswijkse](http://twitter.com/search?q=Rijswijkse) | N/A |
+| 20 | [Apache](http://twitter.com/search?q=Apache) | N/A |
+| 21 | [Halsema](http://twitter.com/search?q=Halsema) | N/A |
+| 22 | [Natas](http://twitter.com/search?q=Natas) | N/A |
+| 23 | [Straatsburg](http://twitter.com/search?q=Straatsburg) | N/A |
+| 24 | [Rutger Castricum](http://twitter.com/search?q=Rutger+Castricum) | N/A |
+| 25 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
+| 26 | [Tamara](http://twitter.com/search?q=Tamara) | N/A |
+| 27 | [Nijlpaard](http://twitter.com/search?q=Nijlpaard) | N/A |
+| 28 | [Floor de Man](http://twitter.com/search?q=Floor+de+Man) | N/A |
+| 29 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 30 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 31 | [Eurocommissaris](http://twitter.com/search?q=Eurocommissaris) | N/A |
+| 32 | [Witte](http://twitter.com/search?q=Witte) | N/A |
+| 33 | [Samsom](http://twitter.com/search?q=Samsom) | N/A |
+| 34 | [aïcha marghadi](http://twitter.com/search?q=a%c3%afcha+marghadi) | N/A |
+| 35 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 36 | [Treets](http://twitter.com/search?q=Treets) | N/A |
+| 37 | [beterschap caroline](http://twitter.com/search?q=beterschap+caroline) | N/A |
+| 38 | [Bazooka](http://twitter.com/search?q=Bazooka) | N/A |
+| 39 | [Bryan](http://twitter.com/search?q=Bryan) | N/A |
+| 40 | [0% btw](http://twitter.com/search?q=0%25+btw) | N/A |
+| 41 | [Havo](http://twitter.com/search?q=Havo) | N/A |
+| 42 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 43 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 44 | [De EU](http://twitter.com/search?q=De+EU) | N/A |
+| 45 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 46 | [van gelder](http://twitter.com/search?q=van+gelder) | N/A |
+| 47 | [Pieter](http://twitter.com/search?q=Pieter) | N/A |
+| 48 | [Edwin](http://twitter.com/search?q=Edwin) | N/A |
+| 49 | [hiemstra](http://twitter.com/search?q=hiemstra) | N/A |
 
 
 

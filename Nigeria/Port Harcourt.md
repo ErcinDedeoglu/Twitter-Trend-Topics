@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-03-31 06:17:58 UTC`
+📆 Last Updated: `2023-03-31 07:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,43 +18,49 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 1 | [#TimelessAlbum](http://twitter.com/search?q=%23TimelessAlbum) | N/A |
 | 2 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
 | 3 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 4 | [Na Money](http://twitter.com/search?q=Na+Money) | N/A |
+| 4 | [The Album](http://twitter.com/search?q=The+Album) | The Album is a term used to refer to a collection of songs, usually released as a single package. It is typically used to refer to an album of recorded music, though it can also be used for other types of audio recordings such as spoken word albums and comedy albums. |
 | 5 | [Over Dem](http://twitter.com/search?q=Over+Dem) | N/A |
-| 6 | [E PAIN ME](http://twitter.com/search?q=E+PAIN+ME) | N/A |
+| 6 | [Na Money](http://twitter.com/search?q=Na+Money) | N/A |
 | 7 | [Jada](http://twitter.com/search?q=Jada) | N/A |
 | 8 | [Wizkid](http://twitter.com/search?q=Wizkid) | Wizkid is a Nigerian singer, songwriter, and record producer. His real name is Ayodeji Ibrahim Balogun. The name Wizkid is derived from his childhood nickname, which was given to him by his friends due to his precociousness. In English, the term "wizkid" can be used to describe someone who is exceptionally talented or intelligent. |
 | 9 | [Fave](http://twitter.com/search?q=Fave) | N/A |
-| 10 | [No Competition](http://twitter.com/search?q=No+Competition) | N/A |
-| 11 | [#MoreLoveLessEgo](http://twitter.com/search?q=%23MoreLoveLessEgo) | N/A |
-| 12 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
-| 13 | [The Album](http://twitter.com/search?q=The+Album) | The Album is a term used to refer to a collection of songs, usually released as a single package. It is typically used to refer to an album of recorded music, though it can also be used for other types of audio recordings such as spoken word albums and comedy albums. |
-| 14 | [Congratulations 001](http://twitter.com/search?q=Congratulations+001) | N/A |
+| 10 | [#HappyBirthdayLiquorose](http://twitter.com/search?q=%23HappyBirthdayLiquorose) | N/A |
+| 11 | [No Competition](http://twitter.com/search?q=No+Competition) | N/A |
+| 12 | [E PAIN ME](http://twitter.com/search?q=E+PAIN+ME) | N/A |
+| 13 | [Picasso](http://twitter.com/search?q=Picasso) | N/A |
+| 14 | [Skepta](http://twitter.com/search?q=Skepta) | N/A |
 | 15 | [FOR THE ROAD](http://twitter.com/search?q=FOR+THE+ROAD) | N/A |
-| 16 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 17 | [#HappyBirthdayLiquorose](http://twitter.com/search?q=%23HappyBirthdayLiquorose) | N/A |
+| 16 | [#MoreLoveLessEgo](http://twitter.com/search?q=%23MoreLoveLessEgo) | N/A |
+| 17 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
 | 18 | [Goliath](http://twitter.com/search?q=Goliath) | N/A |
-| 19 | [Skepta](http://twitter.com/search?q=Skepta) | N/A |
-| 20 | [#MLLE](http://twitter.com/search?q=%23MLLE) | N/A |
-| 21 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
-| 22 | [Logos Olori](http://twitter.com/search?q=Logos+Olori) | N/A |
-| 23 | [MUFASA IS 28](http://twitter.com/search?q=MUFASA+IS+28) | N/A |
-| 24 | [Godfather](http://twitter.com/search?q=Godfather) | N/A |
-| 25 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
-| 26 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
-| 27 | [Legends Can Never Die](http://twitter.com/search?q=Legends+Can+Never+Die) | N/A |
-| 28 | [LCND](http://twitter.com/search?q=LCND) | N/A |
-| 29 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 30 | [30bg](http://twitter.com/search?q=30bg) | N/A |
-| 31 | [Unavailable](http://twitter.com/search?q=Unavailable) | N/A |
-| 32 | [Morravey](http://twitter.com/search?q=Morravey) | N/A |
-| 33 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 34 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 35 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
-| 36 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
-| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 38 | [Afro](http://twitter.com/search?q=Afro) | N/A |
-| 39 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 40 | [#TalkYourTalk](http://twitter.com/search?q=%23TalkYourTalk) | N/A |
+| 19 | [Congratulations 001](http://twitter.com/search?q=Congratulations+001) | N/A |
+| 20 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
+| 21 | [Track 3](http://twitter.com/search?q=Track+3) | N/A |
+| 22 | [LIQLEVEL 28 IS HERE](http://twitter.com/search?q=LIQLEVEL+28+IS+HERE) | N/A |
+| 23 | [WORLD LIQUOROSE DAY](http://twitter.com/search?q=WORLD+LIQUOROSE+DAY) | N/A |
+| 24 | [MLLE](http://twitter.com/search?q=MLLE) | N/A |
+| 25 | [Unavailable](http://twitter.com/search?q=Unavailable) | N/A |
+| 26 | [Asake](http://twitter.com/search?q=Asake) | Asake is a Yoruba word meaning “peace” or “tranquility” in English. It is often used as a greeting or to express goodwill. |
+| 27 | [Angelique Kidjo](http://twitter.com/search?q=Angelique+Kidjo) | N/A |
+| 28 | [Chioma](http://twitter.com/search?q=Chioma) | N/A |
+| 29 | [Uncle Demola](http://twitter.com/search?q=Uncle+Demola) | N/A |
+| 30 | [Mbaka](http://twitter.com/search?q=Mbaka) | N/A |
+| 31 | [Apple Music](http://twitter.com/search?q=Apple+Music) | N/A |
+| 32 | [Godfather](http://twitter.com/search?q=Godfather) | N/A |
+| 33 | [LCND](http://twitter.com/search?q=LCND) | N/A |
+| 34 | [Bola](http://twitter.com/search?q=Bola) | N/A |
+| 35 | [Precision](http://twitter.com/search?q=Precision) | N/A |
+| 36 | [30bg](http://twitter.com/search?q=30bg) | N/A |
+| 37 | [Morravey](http://twitter.com/search?q=Morravey) | N/A |
+| 38 | [Legends Can Never Die](http://twitter.com/search?q=Legends+Can+Never+Die) | N/A |
+| 39 | [Logos Olori](http://twitter.com/search?q=Logos+Olori) | N/A |
+| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 41 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 42 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 43 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 44 | [Baddest](http://twitter.com/search?q=Baddest) | N/A |
+| 45 | [Yakubu](http://twitter.com/search?q=Yakubu) | N/A |
+| 46 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
 
 
 

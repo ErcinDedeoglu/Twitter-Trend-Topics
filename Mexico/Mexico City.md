@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-03-31 06:17:34 UTC`
+📆 Last Updated: `2023-03-31 07:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Billie](http://twitter.com/search?q=Billie) | N/A |
 | 2 | [Matty Healy](http://twitter.com/search?q=Matty+Healy) | N/A |
 | 3 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 4 | [#3de3](http://twitter.com/search?q=%233de3) | N/A |
+| 4 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
 | 5 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 6 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
 | 7 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 8 | [#PorLaContinuidad](http://twitter.com/search?q=%23PorLaContinuidad) | N/A |
-| 9 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
-| 10 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 11 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 12 | [#DDHLOL](http://twitter.com/search?q=%23DDHLOL) | N/A |
-| 13 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 14 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 15 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
-| 16 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 17 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 18 | [Portals](http://twitter.com/search?q=Portals) | N/A |
-| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 20 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 21 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
-| 22 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
-| 23 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 24 | [Rodel](http://twitter.com/search?q=Rodel) | N/A |
-| 25 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
-| 26 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 27 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
-| 28 | [Tigres Femenil](http://twitter.com/search?q=Tigres+Femenil) | N/A |
-| 29 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
-| 30 | [Sonora Grill](http://twitter.com/search?q=Sonora+Grill) | N/A |
-| 31 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 32 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
-| 33 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
-| 34 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 35 | [Feid](http://twitter.com/search?q=Feid) | N/A |
-| 36 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
-| 37 | [Enrique Vargas](http://twitter.com/search?q=Enrique+Vargas) | N/A |
-| 38 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 39 | [César Duarte](http://twitter.com/search?q=C%c3%a9sar+Duarte) | N/A |
-| 40 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
-| 41 | [Mati](http://twitter.com/search?q=Mati) | N/A |
-| 42 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 8 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 9 | [#DDHLOL](http://twitter.com/search?q=%23DDHLOL) | N/A |
+| 10 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 11 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 12 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 13 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 14 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 15 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 16 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
+| 17 | [Portals](http://twitter.com/search?q=Portals) | N/A |
+| 18 | [Robbers](http://twitter.com/search?q=Robbers) | N/A |
+| 19 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 20 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 21 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [Moscato](http://twitter.com/search?q=Moscato) | N/A |
+| 24 | [Odebrecht](http://twitter.com/search?q=Odebrecht) | N/A |
+| 25 | [Amazonas](http://twitter.com/search?q=Amazonas) | N/A |
+| 26 | [Lauren](http://twitter.com/search?q=Lauren) | N/A |
+| 27 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 28 | [Doritos](http://twitter.com/search?q=Doritos) | N/A |
+| 29 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 30 | [Tiago](http://twitter.com/search?q=Tiago) | N/A |
+| 31 | [Young Miko](http://twitter.com/search?q=Young+Miko) | N/A |
+| 32 | [Feid](http://twitter.com/search?q=Feid) | N/A |
+| 33 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
+| 34 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
+| 35 | [Viñas](http://twitter.com/search?q=Vi%c3%b1as) | N/A |
+| 36 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 37 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 38 | [Enrique Vargas](http://twitter.com/search?q=Enrique+Vargas) | N/A |
+| 39 | [Dania](http://twitter.com/search?q=Dania) | N/A |
+| 40 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 41 | [TOY TOY](http://twitter.com/search?q=TOY+TOY) | N/A |
+| 42 | [Omar Apollo](http://twitter.com/search?q=Omar+Apollo) | N/A |
 | 43 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 44 | [Pal Norte](http://twitter.com/search?q=Pal+Norte) | N/A |
-| 45 | [Happier Than Ever](http://twitter.com/search?q=Happier+Than+Ever) | N/A |
-| 46 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 47 | [Dairy Queen](http://twitter.com/search?q=Dairy+Queen) | N/A |
-| 48 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 49 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 50 | [#TrustIssues](http://twitter.com/search?q=%23TrustIssues) | N/A |
+| 44 | [#Jimin_Recomeback](http://twitter.com/search?q=%23Jimin_Recomeback) | N/A |
+| 45 | [#TrustIssues](http://twitter.com/search?q=%23TrustIssues) | N/A |
+| 46 | [#AustralianGP](http://twitter.com/search?q=%23AustralianGP) | N/A |
+| 47 | [#LostInTheLightsWithJimin](http://twitter.com/search?q=%23LostInTheLightsWithJimin) | N/A |
+| 48 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
+| 49 | [#BLACKPINK](http://twitter.com/search?q=%23BLACKPINK) | N/A |
+| 50 | [#MiPatrimonioNoSeVende](http://twitter.com/search?q=%23MiPatrimonioNoSeVende) | N/A |
 
 
 

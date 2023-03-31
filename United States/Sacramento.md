@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-03-31 06:18:14 UTC`
+📆 Last Updated: `2023-03-31 07:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ohtani](http://twitter.com/search?q=Ohtani) | Ohtani is a Japanese surname. It is written with the kanji characters 大谷, which mean "large valley". |
-| 2 | [#babycanwesmoke](http://twitter.com/search?q=%23babycanwesmoke) | N/A |
-| 3 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 4 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 2 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 3 | [#babycanwesmoke](http://twitter.com/search?q=%23babycanwesmoke) | N/A |
+| 4 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
 | 5 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 6 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 7 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 8 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
-| 9 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 10 | [#RootedInOakland](http://twitter.com/search?q=%23RootedInOakland) | N/A |
-| 11 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 12 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 13 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 14 | [Larry June](http://twitter.com/search?q=Larry+June) | N/A |
-| 15 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 16 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 17 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
-| 18 | [Xander](http://twitter.com/search?q=Xander) | N/A |
-| 19 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
-| 20 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 21 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
-| 22 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 23 | [Urias](http://twitter.com/search?q=Urias) | N/A |
-| 24 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 25 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 26 | [#ITFDB](http://twitter.com/search?q=%23ITFDB) | N/A |
-| 27 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 28 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 29 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 30 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 31 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
-| 32 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 33 | [Petco](http://twitter.com/search?q=Petco) | N/A |
-| 34 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 35 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 36 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 37 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 38 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 39 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 40 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 41 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 42 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 43 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 44 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 45 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 46 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 47 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 48 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 49 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 50 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 6 | [Nuggets](http://twitter.com/search?q=Nuggets) | Nuggets is a term used to refer to small, bite-sized pieces of food, usually made from chicken or other meats. Nuggets are typically deep-fried and served with a dipping sauce. The term can also be used to refer to small pieces of information or knowledge that are valuable and useful. |
+| 7 | [#RootedInOakland](http://twitter.com/search?q=%23RootedInOakland) | N/A |
+| 8 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 9 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 10 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 11 | [Game 1](http://twitter.com/search?q=Game+1) | N/A |
+| 12 | [#BringTheGold](http://twitter.com/search?q=%23BringTheGold) | N/A |
+| 13 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 14 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 15 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 16 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 17 | [#FLOWER](http://twitter.com/search?q=%23FLOWER) | N/A |
+| 18 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 19 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 20 | [Urias](http://twitter.com/search?q=Urias) | N/A |
+| 21 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 22 | [#ITFDB](http://twitter.com/search?q=%23ITFDB) | N/A |
+| 23 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 24 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 25 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 26 | [Gwyneth](http://twitter.com/search?q=Gwyneth) | N/A |
+| 27 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 28 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 29 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 30 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 31 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 32 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 33 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 34 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 35 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 36 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 37 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 38 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 39 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 40 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 41 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 42 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 43 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 44 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 45 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 46 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 47 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 48 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 49 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 50 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
 
 
 

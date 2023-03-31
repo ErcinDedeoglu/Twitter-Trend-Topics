@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-03-31 06:18:11 UTC`
+📆 Last Updated: `2023-03-31 07:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [United States](</United States>)
 | 2 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
 | 3 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
 | 4 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 5 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 5 | [melanie](http://twitter.com/search?q=melanie) | N/A |
 | 6 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 7 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 8 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 9 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 10 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
-| 11 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 12 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 13 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
-| 14 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 15 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 16 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 7 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 8 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 9 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 10 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 11 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 12 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 13 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 14 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 15 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 16 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
 | 17 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 18 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 19 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 20 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 21 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 22 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 18 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 19 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 20 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 21 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 22 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
 | 23 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 24 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 25 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 26 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 27 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 28 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 29 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 30 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 31 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
-| 32 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
-| 33 | [Rockies](http://twitter.com/search?q=Rockies) | N/A |
-| 34 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
-| 35 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
-| 36 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
-| 37 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
-| 38 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
-| 39 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
-| 40 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 41 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 42 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 24 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 25 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 26 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 27 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 28 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 29 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 30 | [Redman](http://twitter.com/search?q=Redman) | N/A |
+| 31 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 32 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 33 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 34 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 35 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 36 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 37 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 38 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 39 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 40 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
+| 41 | [Tylor Perry](http://twitter.com/search?q=Tylor+Perry) | N/A |
+| 42 | [Justice](http://twitter.com/search?q=Justice) | N/A |
 | 43 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 44 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
-| 45 | [Muncy](http://twitter.com/search?q=Muncy) | N/A |
-| 46 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
-| 47 | [WHARF TALK](http://twitter.com/search?q=WHARF+TALK) | N/A |
+| 44 | [HEAVEN TO ME](http://twitter.com/search?q=HEAVEN+TO+ME) | N/A |
+| 45 | [Body Do](http://twitter.com/search?q=Body+Do) | N/A |
+| 46 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
+| 47 | [Moon Cycle](http://twitter.com/search?q=Moon+Cycle) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-03-31 06:18:10 UTC`
+📆 Last Updated: `2023-03-31 07:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 2 | [#StraightUpTX](http://twitter.com/search?q=%23StraightUpTX) | N/A |
-| 3 | [#NIT2023](http://twitter.com/search?q=%23NIT2023) | N/A |
-| 4 | [NIT CHAMPS](http://twitter.com/search?q=NIT+CHAMPS) | N/A |
-| 5 | [Grant McCasland](http://twitter.com/search?q=Grant+McCasland) | N/A |
-| 6 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 7 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 8 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
-| 9 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
-| 10 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
-| 11 | [dylan cease](http://twitter.com/search?q=dylan+cease) | N/A |
-| 12 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
-| 13 | [Hensley](http://twitter.com/search?q=Hensley) | N/A |
-| 14 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
-| 15 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 16 | [Dusty](http://twitter.com/search?q=Dusty) | N/A |
-| 17 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 18 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
-| 19 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
-| 20 | [Chas](http://twitter.com/search?q=Chas) | N/A |
-| 21 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 22 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 23 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
-| 24 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 25 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
-| 26 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 27 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 28 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
-| 29 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
-| 30 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
-| 31 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 32 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
-| 33 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
-| 34 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
-| 35 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
-| 36 | [Loup](http://twitter.com/search?q=Loup) | N/A |
-| 37 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
-| 38 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 39 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 40 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 41 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
-| 42 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
-| 43 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
-| 44 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
-| 45 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
-| 46 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
-| 47 | [julien](http://twitter.com/search?q=julien) | N/A |
-| 48 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
-| 49 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 50 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 3 | [Grant McCasland](http://twitter.com/search?q=Grant+McCasland) | N/A |
+| 4 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 5 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 6 | [Cease](http://twitter.com/search?q=Cease) | N/A |
+| 7 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 8 | [White Sox](http://twitter.com/search?q=White+Sox) | White Sox is a nickname for the Major League Baseball team based in Chicago, Illinois. The team was originally known as the Chicago White Stockings, and the name was shortened to White Sox in 1904. The name is derived from the white socks worn by the players. |
+| 9 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 11 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 12 | [#InPieces](http://twitter.com/search?q=%23InPieces) | N/A |
+| 13 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 14 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 15 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 16 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 17 | [Angels](http://twitter.com/search?q=Angels) | "Angels" is a term used to refer to spiritual beings who are believed to act as messengers of God or other divine beings. They are often seen as protectors and guides, and are thought to have the power to intervene in human affairs. In English, the word "angel" is derived from the Greek angelos, which means "messenger." |
+| 18 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
+| 19 | [#PORTALS](http://twitter.com/search?q=%23PORTALS) | N/A |
+| 20 | [#LavenderHazeAcoustic](http://twitter.com/search?q=%23LavenderHazeAcoustic) | N/A |
+| 21 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 22 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 23 | [James Outman](http://twitter.com/search?q=James+Outman) | N/A |
+| 24 | [Told Ya](http://twitter.com/search?q=Told+Ya) | N/A |
+| 25 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 26 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 27 | [Loup](http://twitter.com/search?q=Loup) | N/A |
+| 28 | [Hunter Renfroe](http://twitter.com/search?q=Hunter+Renfroe) | N/A |
+| 29 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 30 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 31 | [THE CONTORTIONIST](http://twitter.com/search?q=THE+CONTORTIONIST) | N/A |
+| 32 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 33 | [Matt Brash](http://twitter.com/search?q=Matt+Brash) | N/A |
+| 34 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 35 | [Feel Me Cry](http://twitter.com/search?q=Feel+Me+Cry) | N/A |
+| 36 | [Looze U](http://twitter.com/search?q=Looze+U) | N/A |
+| 37 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 38 | [BTB Savage](http://twitter.com/search?q=BTB+Savage) | N/A |
+| 39 | [Tylenol](http://twitter.com/search?q=Tylenol) | N/A |
+| 40 | [Redman](http://twitter.com/search?q=Redman) | N/A |
+| 41 | [Tungsten Arm O'Doyle](http://twitter.com/search?q=Tungsten+Arm+O%27Doyle) | N/A |
+| 42 | [julien](http://twitter.com/search?q=julien) | N/A |
+| 43 | [BATTLE OF THE LARYNX](http://twitter.com/search?q=BATTLE+OF+THE+LARYNX) | N/A |
+| 44 | [LIGHT SHOWER](http://twitter.com/search?q=LIGHT+SHOWER) | N/A |
+| 45 | [WHAT A DAY](http://twitter.com/search?q=WHAT+A+DAY) | N/A |
+| 46 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 47 | [I Don't Mind](http://twitter.com/search?q=I+Don%27t+Mind) | N/A |
+| 48 | [Make It Look Easy](http://twitter.com/search?q=Make+It+Look+Easy) | N/A |
+| 49 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 50 | [lucy dacus](http://twitter.com/search?q=lucy+dacus) | Lucy Dacus is an American singer-songwriter from Richmond, Virginia. She is best known for her critically acclaimed 2016 debut album No Burden and her 2018 follow-up Historian. Her music has been described as indie rock, folk rock, and alternative rock. |
 
 
 

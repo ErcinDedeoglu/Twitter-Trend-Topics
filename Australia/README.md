@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-03-31 06:18:17 UTC`
+📆 Last Updated: `2023-03-31 07:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Australia
 | ------- | ------------ | ------------ |
 | 1 | [#AFLDogsLions](http://twitter.com/search?q=%23AFLDogsLions) | N/A |
 | 2 | [Latham](http://twitter.com/search?q=Latham) | Latham is a surname of English origin. It is derived from the Old English words "hlæth" meaning "hill" and "ham" meaning "homestead". The name is thought to have originally referred to someone who lived on or near a hill. |
-| 3 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
-| 4 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
-| 5 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
-| 6 | [#NRLRoostersEels](http://twitter.com/search?q=%23NRLRoostersEels) | N/A |
-| 7 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 8 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 9 | [Doug Mulray](http://twitter.com/search?q=Doug+Mulray) | N/A |
-| 10 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
-| 11 | [Porter Davis](http://twitter.com/search?q=Porter+Davis) | N/A |
-| 12 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 13 | [Jamarra](http://twitter.com/search?q=Jamarra) | N/A |
+| 3 | [#NRLRaidersPanthers](http://twitter.com/search?q=%23NRLRaidersPanthers) | N/A |
+| 4 | [#AusGP](http://twitter.com/search?q=%23AusGP) | N/A |
+| 5 | [#TrumpIndictment](http://twitter.com/search?q=%23TrumpIndictment) | N/A |
+| 6 | [#TransDayOfVisibility](http://twitter.com/search?q=%23TransDayOfVisibility) | N/A |
+| 7 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 8 | [Doug Mulray](http://twitter.com/search?q=Doug+Mulray) | N/A |
+| 9 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 10 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 11 | [Constable](http://twitter.com/search?q=Constable) | N/A |
+| 12 | [Porter Davis](http://twitter.com/search?q=Porter+Davis) | N/A |
+| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 14 | [John Anderson](http://twitter.com/search?q=John+Anderson) | N/A |
-| 15 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 16 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
-| 17 | [Jim's Mowing](http://twitter.com/search?q=Jim%27s+Mowing) | N/A |
-| 18 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 20 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 21 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 22 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
-| 23 | [MILE FOR DIOR](http://twitter.com/search?q=MILE+FOR+DIOR) | N/A |
-| 24 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
-| 25 | [Nicky Winmar](http://twitter.com/search?q=Nicky+Winmar) | N/A |
-| 26 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
-| 27 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
-| 28 | [Greenwich](http://twitter.com/search?q=Greenwich) | N/A |
-| 29 | [Clive Palmer](http://twitter.com/search?q=Clive+Palmer) | N/A |
-| 30 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 31 | [Hipwood](http://twitter.com/search?q=Hipwood) | N/A |
-| 32 | [Bont](http://twitter.com/search?q=Bont) | N/A |
-| 33 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
-| 34 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 35 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
-| 36 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
-| 37 | [Kerry Packer](http://twitter.com/search?q=Kerry+Packer) | N/A |
-| 38 | [Keary](http://twitter.com/search?q=Keary) | N/A |
-| 39 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
-| 40 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 41 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 42 | [Sussan](http://twitter.com/search?q=Sussan) | N/A |
-| 43 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 44 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
-| 45 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
-| 46 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
-| 47 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 48 | [The Age](http://twitter.com/search?q=The+Age) | N/A |
-| 49 | [WAFL](http://twitter.com/search?q=WAFL) | N/A |
-| 50 | [Race 4](http://twitter.com/search?q=Race+4) | N/A |
+| 15 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 16 | [Jamarra](http://twitter.com/search?q=Jamarra) | N/A |
+| 17 | [Daniher](http://twitter.com/search?q=Daniher) | N/A |
+| 18 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 19 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 20 | [Jim's Mowing](http://twitter.com/search?q=Jim%27s+Mowing) | N/A |
+| 21 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 22 | [Greenwich](http://twitter.com/search?q=Greenwich) | N/A |
+| 23 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 24 | [Grand Prix](http://twitter.com/search?q=Grand+Prix) | N/A |
+| 25 | [Albert Park](http://twitter.com/search?q=Albert+Park) | N/A |
+| 26 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 27 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 28 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 29 | [Hipwood](http://twitter.com/search?q=Hipwood) | N/A |
+| 30 | [Scott Pilgrim](http://twitter.com/search?q=Scott+Pilgrim) | N/A |
+| 31 | [Nicky Winmar](http://twitter.com/search?q=Nicky+Winmar) | N/A |
+| 32 | [Clive Palmer](http://twitter.com/search?q=Clive+Palmer) | N/A |
+| 33 | [Bont](http://twitter.com/search?q=Bont) | N/A |
+| 34 | [Mary Doyle](http://twitter.com/search?q=Mary+Doyle) | N/A |
+| 35 | [Niantic](http://twitter.com/search?q=Niantic) | N/A |
+| 36 | [April Fools](http://twitter.com/search?q=April+Fools) | N/A |
+| 37 | [Wilmot](http://twitter.com/search?q=Wilmot) | N/A |
+| 38 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 39 | [Chesser](http://twitter.com/search?q=Chesser) | N/A |
+| 40 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 41 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
+| 42 | [Kerry Packer](http://twitter.com/search?q=Kerry+Packer) | N/A |
+| 43 | [Pelosi](http://twitter.com/search?q=Pelosi) | Pelosi is an Italian surname derived from the Latin word "pilosus," meaning "hairy." It is most commonly associated with Nancy Pelosi, the Speaker of the United States House of Representatives. |
+| 44 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 45 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
+| 46 | [WAFL](http://twitter.com/search?q=WAFL) | N/A |
+| 47 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
+| 48 | [Race 4](http://twitter.com/search?q=Race+4) | N/A |
+| 49 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 50 | [Melanie Martinez](http://twitter.com/search?q=Melanie+Martinez) | N/A |
 
 
 

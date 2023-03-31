@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-03-31 06:17:45 UTC`
+📆 Last Updated: `2023-03-31 07:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#31marzo](http://twitter.com/search?q=%2331marzo) | N/A |
-| 2 | [#SoltantoChi](http://twitter.com/search?q=%23SoltantoChi) | N/A |
+| 2 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
 | 3 | [#pechinoexpress](http://twitter.com/search?q=%23pechinoexpress) | N/A |
-| 4 | [#Trump](http://twitter.com/search?q=%23Trump) | N/A |
+| 4 | [#SoltantoChi](http://twitter.com/search?q=%23SoltantoChi) | N/A |
 | 5 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
 | 6 | [PNRR](http://twitter.com/search?q=PNRR) | N/A |
 | 7 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
-| 8 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 9 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 8 | [Milan e Roma](http://twitter.com/search?q=Milan+e+Roma) | N/A |
+| 9 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
 | 10 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 11 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
-| 12 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 13 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 11 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 12 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
+| 13 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
 | 14 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
-| 15 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 16 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
+| 15 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 16 | [Busia](http://twitter.com/search?q=Busia) | N/A |
 | 17 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
-| 18 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 19 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 20 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 21 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 22 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
-| 23 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 24 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
-| 25 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 26 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 27 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 28 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 18 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 19 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
+| 20 | [Buongiorno Michael](http://twitter.com/search?q=Buongiorno+Michael) | N/A |
+| 21 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 22 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
+| 23 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 24 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 25 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 26 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 27 | [Giovannino](http://twitter.com/search?q=Giovannino) | N/A |
+| 28 | [Tuttosport](http://twitter.com/search?q=Tuttosport) | N/A |
 | 29 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 30 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 31 | [De Santis](http://twitter.com/search?q=De+Santis) | N/A |
-| 32 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 33 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 34 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 35 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
-| 36 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
-| 37 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 38 | [Capitol Hill](http://twitter.com/search?q=Capitol+Hill) | N/A |
-| 39 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
-| 40 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 41 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 42 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
-| 43 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 44 | [Otello](http://twitter.com/search?q=Otello) | N/A |
-| 45 | [Montezemolo](http://twitter.com/search?q=Montezemolo) | N/A |
-| 46 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 47 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 30 | [Genoa](http://twitter.com/search?q=Genoa) | N/A |
+| 31 | [Mubarak](http://twitter.com/search?q=Mubarak) | N/A |
+| 32 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
+| 33 | [Gemelli](http://twitter.com/search?q=Gemelli) | N/A |
+| 34 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 35 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 36 | [Il 31](http://twitter.com/search?q=Il+31) | N/A |
+| 37 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 38 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
+| 39 | [Finlandia](http://twitter.com/search?q=Finlandia) | N/A |
+| 40 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
+| 41 | [Violetta](http://twitter.com/search?q=Violetta) | N/A |
+| 42 | [De Santis](http://twitter.com/search?q=De+Santis) | N/A |
+| 43 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 44 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 45 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 46 | [Montezemolo](http://twitter.com/search?q=Montezemolo) | N/A |
+| 47 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
 | 48 | [Nappi](http://twitter.com/search?q=Nappi) | N/A |
-| 49 | [joe bastianich](http://twitter.com/search?q=joe+bastianich) | N/A |
-| 50 | [Giovannino](http://twitter.com/search?q=Giovannino) | N/A |
+| 49 | [Rosy](http://twitter.com/search?q=Rosy) | N/A |
+| 50 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
 
 
 

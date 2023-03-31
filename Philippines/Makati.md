@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-03-31 06:17:56 UTC`
+📆 Last Updated: `2023-03-31 07:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,40 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
-| 2 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 1 | [#JISOO_Blooming_With_ME](http://twitter.com/search?q=%23JISOO_Blooming_With_ME) | N/A |
+| 2 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 3 | [#꽃처럼_피어난_지수_솔로](http://twitter.com/search?q=%23%ea%bd%83%ec%b2%98%eb%9f%bc_%ed%94%bc%ec%96%b4%eb%82%9c_%ec%a7%80%ec%88%98_%ec%86%94%eb%a1%9c) | N/A |
 | 4 | [All Eyes On Me](http://twitter.com/search?q=All+Eyes+On+Me) | N/A |
 | 5 | [#UnbreakMyHeart](http://twitter.com/search?q=%23UnbreakMyHeart) | N/A |
 | 6 | [#VPCoverBarbieForteza](http://twitter.com/search?q=%23VPCoverBarbieForteza) | N/A |
-| 7 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
-| 8 | [KYLER DAZZLING VISUAL](http://twitter.com/search?q=KYLER+DAZZLING+VISUAL) | N/A |
-| 9 | [JOCHARD UMH TEASER](http://twitter.com/search?q=JOCHARD+UMH+TEASER) | N/A |
-| 10 | [Vice Ganda](http://twitter.com/search?q=Vice+Ganda) | N/A |
-| 11 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
-| 12 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
-| 13 | [Bretman](http://twitter.com/search?q=Bretman) | N/A |
-| 14 | [Kadiwa](http://twitter.com/search?q=Kadiwa) | N/A |
+| 7 | [KYLER DAZZLING VISUAL](http://twitter.com/search?q=KYLER+DAZZLING+VISUAL) | N/A |
+| 8 | [#UMHTeaser1](http://twitter.com/search?q=%23UMHTeaser1) | N/A |
+| 9 | [ALWAYS WITH ME](http://twitter.com/search?q=ALWAYS+WITH+ME) | N/A |
+| 10 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
+| 11 | [JOCHARD UMH TEASER](http://twitter.com/search?q=JOCHARD+UMH+TEASER) | N/A |
+| 12 | [Vice Ganda](http://twitter.com/search?q=Vice+Ganda) | N/A |
+| 13 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
+| 14 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
 | 15 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 16 | [Holy Week](http://twitter.com/search?q=Holy+Week) | N/A |
-| 17 | [Order Form](http://twitter.com/search?q=Order+Form) | N/A |
-| 18 | [Pangulo](http://twitter.com/search?q=Pangulo) | N/A |
-| 19 | [Vanessa](http://twitter.com/search?q=Vanessa) | N/A |
-| 20 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
-| 21 | [PLUUS MINI ALBUM DEBUT](http://twitter.com/search?q=PLUUS+MINI+ALBUM+DEBUT) | N/A |
-| 22 | [#UMHTeaser1](http://twitter.com/search?q=%23UMHTeaser1) | N/A |
-| 23 | [#BallopxKimSeonHo](http://twitter.com/search?q=%23BallopxKimSeonHo) | N/A |
-| 24 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
-| 25 | [#UnkabogableAt47](http://twitter.com/search?q=%23UnkabogableAt47) | N/A |
-| 26 | [#HENDERYOXECUREFAMILY](http://twitter.com/search?q=%23HENDERYOXECUREFAMILY) | N/A |
-| 27 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
-| 28 | [#HENDERYxOxecurePH](http://twitter.com/search?q=%23HENDERYxOxecurePH) | N/A |
-| 29 | [#BOYCOTTEBxAPTxGMA751](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA751) | N/A |
-| 30 | [#블랙핑크](http://twitter.com/search?q=%23%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac) | N/A |
-| 31 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
-| 32 | [#BinJin](http://twitter.com/search?q=%23BinJin) | N/A |
-| 33 | [#HyunBin](http://twitter.com/search?q=%23HyunBin) | N/A |
-| 34 | [#SonYeJin](http://twitter.com/search?q=%23SonYeJin) | N/A |
-| 35 | [#HORI7ON_KYLER](http://twitter.com/search?q=%23HORI7ON_KYLER) | N/A |
-| 36 | [#PLUUSMiniAlbumRelease](http://twitter.com/search?q=%23PLUUSMiniAlbumRelease) | N/A |
-| 37 | [#ShopeeKPerks](http://twitter.com/search?q=%23ShopeeKPerks) | N/A |
-| 38 | [#PLUUS_TYM](http://twitter.com/search?q=%23PLUUS_TYM) | N/A |
-| 39 | [#SEVENTEEN](http://twitter.com/search?q=%23SEVENTEEN) | N/A |
-| 40 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
+| 16 | [PLUUS MINI ALBUM DEBUT](http://twitter.com/search?q=PLUUS+MINI+ALBUM+DEBUT) | N/A |
+| 17 | [Vanessa Hudgens](http://twitter.com/search?q=Vanessa+Hudgens) | N/A |
+| 18 | [#BallopxKimSeonHo](http://twitter.com/search?q=%23BallopxKimSeonHo) | N/A |
+| 19 | [#CharlottePossibleConcert](http://twitter.com/search?q=%23CharlottePossibleConcert) | N/A |
+| 20 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
+| 21 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 22 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
+| 23 | [#UnkabogableAt47](http://twitter.com/search?q=%23UnkabogableAt47) | N/A |
+| 24 | [#HENDERYOXECUREFAMILY](http://twitter.com/search?q=%23HENDERYOXECUREFAMILY) | N/A |
+| 25 | [#HENDERYxOxecurePH](http://twitter.com/search?q=%23HENDERYxOxecurePH) | N/A |
+| 26 | [#BOYCOTTEBxAPTxGMA751](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA751) | N/A |
+| 27 | [#블랙핑크](http://twitter.com/search?q=%23%eb%b8%94%eb%9e%99%ed%95%91%ed%81%ac) | N/A |
+| 28 | [#HORI7ON_KYLER](http://twitter.com/search?q=%23HORI7ON_KYLER) | N/A |
+| 29 | [#SonYeJin](http://twitter.com/search?q=%23SonYeJin) | N/A |
+| 30 | [#BinJin](http://twitter.com/search?q=%23BinJin) | N/A |
+| 31 | [#HyunBin](http://twitter.com/search?q=%23HyunBin) | N/A |
+| 32 | [#PLUUSMiniAlbumRelease](http://twitter.com/search?q=%23PLUUSMiniAlbumRelease) | N/A |
+| 33 | [#ShopeeKPerks](http://twitter.com/search?q=%23ShopeeKPerks) | N/A |
+| 34 | [#PLUUS_TYM](http://twitter.com/search?q=%23PLUUS_TYM) | N/A |
 
 
 
