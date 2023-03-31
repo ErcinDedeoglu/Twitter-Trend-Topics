@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-03-31 01:44:22 UTC`
+📆 Last Updated: `2023-03-31 02:33:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,16 +23,16 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 6 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
 | 7 | [#DiorFall23xMileApo](http://twitter.com/search?q=%23DiorFall23xMileApo) | N/A |
 | 8 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 9 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
-| 10 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [MILEAPO IN MUMBAI](http://twitter.com/search?q=MILEAPO+IN+MUMBAI) | N/A |
 | 11 | [Quan](http://twitter.com/search?q=Quan) | N/A |
-| 12 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 13 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 14 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
-| 15 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 16 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 17 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 12 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 13 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 14 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 15 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 16 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 17 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 18 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 19 | [dApps](http://twitter.com/search?q=dApps) | N/A |
 | 20 | [pallette](http://twitter.com/search?q=pallette) | N/A |
 | 21 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 26 | [chịu](http://twitter.com/search?q=ch%e1%bb%8bu) | N/A |
 | 27 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
 | 28 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 29 | [FFF Asean Party](http://twitter.com/search?q=FFF+Asean+Party) | N/A |
-| 30 | [Cuối Cùng Thì](http://twitter.com/search?q=Cu%e1%bb%91i+C%c3%b9ng+Th%c3%ac) | N/A |
-| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 32 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 33 | [BNB Chain](http://twitter.com/search?q=BNB+Chain) | N/A |
+| 29 | [Saigon](http://twitter.com/search?q=Saigon) | N/A |
+| 30 | [FFF Asean Party](http://twitter.com/search?q=FFF+Asean+Party) | N/A |
+| 31 | [Cuối Cùng Thì](http://twitter.com/search?q=Cu%e1%bb%91i+C%c3%b9ng+Th%c3%ac) | N/A |
+| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 33 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 | 34 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
 | 35 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 36 | [Saigon](http://twitter.com/search?q=Saigon) | N/A |
-| 37 | [thiệt](http://twitter.com/search?q=thi%e1%bb%87t) | N/A |
-| 38 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 39 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 40 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 41 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 42 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 43 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
-| 44 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 45 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 36 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 37 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 38 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 39 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 40 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
+| 41 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
+| 42 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 43 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
+| 44 | [Santa](http://twitter.com/search?q=Santa) | Santa is a shortened form of the name "Saint Nicholas," and it is used to refer to the legendary figure associated with Christmas. Santa is known for bringing gifts to children on Christmas Eve. |
+| 45 | [Mong](http://twitter.com/search?q=Mong) | N/A |
 | 46 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 47 | [Trung Quốc](http://twitter.com/search?q=Trung+Qu%e1%bb%91c) | N/A |
-| 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 49 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 50 | [Thanh](http://twitter.com/search?q=Thanh) | N/A |
+| 47 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 48 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 49 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
+| 50 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
 
 
 

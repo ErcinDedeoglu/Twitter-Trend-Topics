@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-03-31 01:44:13 UTC`
+📆 Last Updated: `2023-03-31 02:33:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 8 | [#WeAreNATO](http://twitter.com/search?q=%23WeAreNATO) | N/A |
 | 9 | [putinam](http://twitter.com/search?q=putinam) | N/A |
 | 10 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 11 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
+| 11 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 12 | [nekā](http://twitter.com/search?q=nek%c4%81) | N/A |
 | 13 | [levita](http://twitter.com/search?q=levita) | N/A |
 | 14 | [aizsardzības](http://twitter.com/search?q=aizsardz%c4%abbas) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 34 | [pirms](http://twitter.com/search?q=pirms) | N/A |
 | 35 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
 | 36 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
-| 37 | [Daugavas](http://twitter.com/search?q=Daugavas) | N/A |
+| 37 | [daugavas](http://twitter.com/search?q=daugavas) | N/A |
 | 38 | [Runa](http://twitter.com/search?q=Runa) | N/A |
 | 39 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
 | 40 | [No 1](http://twitter.com/search?q=No+1) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-03-31 01:44:34 UTC`
+📆 Last Updated: `2023-03-31 02:33:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
 | 2 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 3 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 4 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
-| 5 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
-| 6 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 7 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 8 | [Alvin Bragg](http://twitter.com/search?q=Alvin+Bragg) | N/A |
-| 9 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 10 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
-| 11 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 12 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
-| 13 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
+| 3 | [Popeyes](http://twitter.com/search?q=Popeyes) | N/A |
+| 4 | [#TrumpIndicted](http://twitter.com/search?q=%23TrumpIndicted) | N/A |
+| 5 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 6 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 7 | [Bragg](http://twitter.com/search?q=Bragg) | N/A |
+| 8 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 9 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 10 | [Hillary](http://twitter.com/search?q=Hillary) | N/A |
+| 11 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
+| 12 | [Stormy](http://twitter.com/search?q=Stormy) | N/A |
+| 13 | [#LockHimUp](http://twitter.com/search?q=%23LockHimUp) | N/A |
 | 14 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 15 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 16 | [#WhiteSox](http://twitter.com/search?q=%23WhiteSox) | N/A |
-| 17 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 18 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
-| 19 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 20 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 21 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
-| 22 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
-| 23 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
-| 24 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
-| 25 | [Grandal](http://twitter.com/search?q=Grandal) | N/A |
-| 26 | [Hillary Clinton](http://twitter.com/search?q=Hillary+Clinton) | N/A |
-| 27 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
-| 28 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
-| 29 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
-| 30 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 31 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
-| 32 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 33 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 34 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 35 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 36 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 15 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 16 | [Dylan Cease](http://twitter.com/search?q=Dylan+Cease) | N/A |
+| 17 | [Thanasis](http://twitter.com/search?q=Thanasis) | N/A |
+| 18 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 19 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 20 | [#greysanatomy](http://twitter.com/search?q=%23greysanatomy) | N/A |
+| 21 | [Mike Pence](http://twitter.com/search?q=Mike+Pence) | Mike Pence is the 48th Vice President of the United States, serving under President Donald Trump. He is a Republican politician who previously served as the 50th Governor of Indiana from 2013 to 2017. The meaning of his name in English is "Michael, son of Peter". |
+| 22 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 23 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
+| 24 | [Yordan](http://twitter.com/search?q=Yordan) | N/A |
+| 25 | [34 Counts](http://twitter.com/search?q=34+Counts) | N/A |
+| 26 | [Vaughn](http://twitter.com/search?q=Vaughn) | N/A |
+| 27 | [Mar-a-Lago](http://twitter.com/search?q=Mar-a-Lago) | N/A |
+| 28 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 29 | [Banana Republic](http://twitter.com/search?q=Banana+Republic) | N/A |
+| 30 | [NO ONE IS ABOVE THE LAW](http://twitter.com/search?q=NO+ONE+IS+ABOVE+THE+LAW) | N/A |
+| 31 | [SOX WIN](http://twitter.com/search?q=SOX+WIN) | N/A |
+| 32 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
+| 33 | [Moncada](http://twitter.com/search?q=Moncada) | N/A |
+| 34 | [Blake Griffin](http://twitter.com/search?q=Blake+Griffin) | N/A |
+| 35 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 36 | [Middleton](http://twitter.com/search?q=Middleton) | N/A |
 | 37 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 38 | [Aaron Bummer](http://twitter.com/search?q=Aaron+Bummer) | N/A |
-| 39 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 40 | [Al Capone](http://twitter.com/search?q=Al+Capone) | N/A |
+| 38 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 39 | [Gwyneth Paltrow](http://twitter.com/search?q=Gwyneth+Paltrow) | N/A |
+| 40 | [Grandal](http://twitter.com/search?q=Grandal) | N/A |
 | 41 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 42 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
-| 43 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
-| 44 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
-| 45 | [Soros-backed](http://twitter.com/search?q=Soros-backed) | N/A |
-| 46 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 47 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 48 | [Kate Mager](http://twitter.com/search?q=Kate+Mager) | N/A |
-| 49 | [Meatball Ron](http://twitter.com/search?q=Meatball+Ron) | N/A |
-| 50 | [Mustard](http://twitter.com/search?q=Mustard) | N/A |
+| 42 | [Innocent](http://twitter.com/search?q=Innocent) | N/A |
+| 43 | [Paul Skenes](http://twitter.com/search?q=Paul+Skenes) | N/A |
+| 44 | [Davido](http://twitter.com/search?q=Davido) | Davido is the stage name of Nigerian singer, songwriter, and record producer David Adedeji Adeleke. His music is a mix of Afrobeats, hip hop, R&B, and pop. The name "Davido" is a combination of his first and middle names. |
+| 45 | [Paula Jones](http://twitter.com/search?q=Paula+Jones) | N/A |
+| 46 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 47 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 48 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
+| 49 | [Article IV](http://twitter.com/search?q=Article+IV) | N/A |
+| 50 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
 
 
 

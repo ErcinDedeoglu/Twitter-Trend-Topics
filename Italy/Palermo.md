@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-03-31 01:44:10 UTC`
+📆 Last Updated: `2023-03-31 02:32:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,42 +24,42 @@ This is top 50 for [Italy](</Italy>)
 | 7 | [Draghi](http://twitter.com/search?q=Draghi) | N/A |
 | 8 | [Stormy Daniels](http://twitter.com/search?q=Stormy+Daniels) | Stormy Daniels is the stage name of Stephanie Clifford, an American adult film actress, director, and writer. She gained national attention in 2018 when it was revealed that she had been paid $130,000 by Donald Trump's lawyer Michael Cohen to keep quiet about an alleged affair between her and Trump in 2006. The phrase "Stormy Daniels" has come to be used as a shorthand for scandal and controversy. |
 | 9 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 10 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 10 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 | 11 | [Vincent Van Gogh](http://twitter.com/search?q=Vincent+Van+Gogh) | N/A |
 | 12 | [Santo Padre](http://twitter.com/search?q=Santo+Padre) | N/A |
 | 13 | [Busia](http://twitter.com/search?q=Busia) | N/A |
-| 14 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 15 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
-| 16 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
-| 17 | [gemelli](http://twitter.com/search?q=gemelli) | N/A |
-| 18 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
-| 19 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 20 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 21 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
-| 22 | [Santità](http://twitter.com/search?q=Santit%c3%a0) | N/A |
-| 23 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
-| 24 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 25 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
-| 26 | [Madame](http://twitter.com/search?q=Madame) | N/A |
-| 27 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
-| 28 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
-| 29 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 30 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
-| 31 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
-| 32 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 33 | [Italo](http://twitter.com/search?q=Italo) | N/A |
-| 34 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
-| 35 | [otello](http://twitter.com/search?q=otello) | N/A |
-| 36 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
-| 37 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 38 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
-| 39 | [Frey](http://twitter.com/search?q=Frey) | N/A |
-| 40 | [WE WON'T STOP](http://twitter.com/search?q=WE+WON%27T+STOP) | N/A |
-| 41 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
-| 42 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 43 | [Montezemolo](http://twitter.com/search?q=Montezemolo) | N/A |
-| 44 | [mangiatela](http://twitter.com/search?q=mangiatela) | N/A |
-| 45 | [Nappi](http://twitter.com/search?q=Nappi) | N/A |
+| 14 | [Bassetti](http://twitter.com/search?q=Bassetti) | N/A |
+| 15 | [hmgdr](http://twitter.com/search?q=hmgdr) | N/A |
+| 16 | [gemelli](http://twitter.com/search?q=gemelli) | N/A |
+| 17 | [Wall Street Journal](http://twitter.com/search?q=Wall+Street+Journal) | N/A |
+| 18 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
+| 19 | [Appendino](http://twitter.com/search?q=Appendino) | N/A |
+| 20 | [santità](http://twitter.com/search?q=santit%c3%a0) | N/A |
+| 21 | [Fitto](http://twitter.com/search?q=Fitto) | N/A |
+| 22 | [Ficarra e Picone](http://twitter.com/search?q=Ficarra+e+Picone) | N/A |
+| 23 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 24 | [RIGHT NEXT TO YOU](http://twitter.com/search?q=RIGHT+NEXT+TO+YOU) | N/A |
+| 25 | [Evan Gershkovich](http://twitter.com/search?q=Evan+Gershkovich) | N/A |
+| 26 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 27 | [Coldiretti](http://twitter.com/search?q=Coldiretti) | N/A |
+| 28 | [Capuano](http://twitter.com/search?q=Capuano) | N/A |
+| 29 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 30 | [Italo](http://twitter.com/search?q=Italo) | N/A |
+| 31 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 32 | [otello](http://twitter.com/search?q=otello) | N/A |
+| 33 | [Il Parlamento Europeo](http://twitter.com/search?q=Il+Parlamento+Europeo) | N/A |
+| 34 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 35 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
+| 36 | [Frey](http://twitter.com/search?q=Frey) | N/A |
+| 37 | [Cesare](http://twitter.com/search?q=Cesare) | N/A |
+| 38 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
+| 39 | [Montezemolo](http://twitter.com/search?q=Montezemolo) | N/A |
+| 40 | [mangiatela](http://twitter.com/search?q=mangiatela) | N/A |
+| 41 | [nappi](http://twitter.com/search?q=nappi) | N/A |
+| 42 | [Joe Bastianich](http://twitter.com/search?q=Joe+Bastianich) | N/A |
+| 43 | [Huber](http://twitter.com/search?q=Huber) | N/A |
+| 44 | [giorgio marchesi](http://twitter.com/search?q=giorgio+marchesi) | N/A |
+| 45 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
 
 
 

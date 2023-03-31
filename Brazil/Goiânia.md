@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-03-31 01:44:04 UTC`
+📆 Last Updated: `2023-03-31 02:32:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 2 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 3 | [AMO VOCÊS MeM](http://twitter.com/search?q=AMO+VOC%c3%8aS+MeM) | N/A |
-| 4 | [As 10](http://twitter.com/search?q=As+10) | N/A |
-| 5 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
-| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 7 | [evelyn](http://twitter.com/search?q=evelyn) | N/A |
-| 8 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 9 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 10 | [MENTA COM CHÁ](http://twitter.com/search?q=MENTA+COM+CH%c3%81) | N/A |
-| 11 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 12 | [rexha](http://twitter.com/search?q=rexha) | N/A |
-| 13 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 14 | [eiza](http://twitter.com/search?q=eiza) | N/A |
-| 15 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
-| 16 | [H.E.R](http://twitter.com/search?q=H.E.R) | N/A |
-| 17 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 18 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
-| 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 20 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
-| 21 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 22 | [CANCELADO](http://twitter.com/search?q=CANCELADO) | N/A |
-| 23 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
-| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 25 | [camila cabello](http://twitter.com/search?q=camila+cabello) | N/A |
-| 26 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 27 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
-| 28 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 3 | [As 10](http://twitter.com/search?q=As+10) | N/A |
+| 4 | [#10palavras](http://twitter.com/search?q=%2310palavras) | N/A |
+| 5 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 6 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
+| 7 | [AMO VOCÊS MeM](http://twitter.com/search?q=AMO+VOC%c3%8aS+MeM) | N/A |
+| 8 | [evelyn hugo](http://twitter.com/search?q=evelyn+hugo) | N/A |
+| 9 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 10 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 11 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 12 | [Lucianinho](http://twitter.com/search?q=Lucianinho) | N/A |
+| 13 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
+| 14 | [Tadeus](http://twitter.com/search?q=Tadeus) | N/A |
+| 15 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 16 | [#FACE_ReComeback](http://twitter.com/search?q=%23FACE_ReComeback) | N/A |
+| 17 | [MENTA COM CHÁ](http://twitter.com/search?q=MENTA+COM+CH%c3%81) | N/A |
+| 18 | [eiza](http://twitter.com/search?q=eiza) | N/A |
+| 19 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 20 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 21 | [rexha](http://twitter.com/search?q=rexha) | N/A |
+| 22 | [FACE ON TOP](http://twitter.com/search?q=FACE+ON+TOP) | N/A |
+| 23 | [rita moreno](http://twitter.com/search?q=rita+moreno) | N/A |
+| 24 | [camila cabello](http://twitter.com/search?q=camila+cabello) | N/A |
+| 25 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 26 | [Caseira](http://twitter.com/search?q=Caseira) | N/A |
+| 27 | [DR FRED ASTRO REI](http://twitter.com/search?q=DR+FRED+ASTRO+REI) | N/A |
+| 28 | [CANCELADO](http://twitter.com/search?q=CANCELADO) | N/A |
 | 29 | [Teto](http://twitter.com/search?q=Teto) | N/A |
-| 30 | [Caseira](http://twitter.com/search?q=Caseira) | N/A |
-| 31 | [APARECE KEY](http://twitter.com/search?q=APARECE+KEY) | N/A |
-| 32 | [Lecaros](http://twitter.com/search?q=Lecaros) | N/A |
-| 33 | [BOIADEIRA ORIGINAL](http://twitter.com/search?q=BOIADEIRA+ORIGINAL) | N/A |
-| 34 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
-| 35 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 36 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 37 | [ESCUTE CD RAIZ](http://twitter.com/search?q=ESCUTE+CD+RAIZ) | N/A |
-| 38 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
-| 39 | [FACE RE-COMEBACK PARTY](http://twitter.com/search?q=FACE+RE-COMEBACK+PARTY) | N/A |
-| 40 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 41 | [3º E.M](http://twitter.com/search?q=3%c2%ba+E.M) | N/A |
-| 42 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
-| 43 | [MAGICA HEG](http://twitter.com/search?q=MAGICA+HEG) | N/A |
-| 44 | [O Lui](http://twitter.com/search?q=O+Lui) | N/A |
-| 45 | [Gustavo Campanharo](http://twitter.com/search?q=Gustavo+Campanharo) | N/A |
-| 46 | [Leonor](http://twitter.com/search?q=Leonor) | N/A |
-| 47 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
-| 48 | [Jardim 1](http://twitter.com/search?q=Jardim+1) | N/A |
+| 30 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
+| 31 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Rachel](http://twitter.com/search?q=Rachel) | N/A |
+| 34 | [3º E.M](http://twitter.com/search?q=3%c2%ba+E.M) | N/A |
+| 35 | [BOIADEIRA ORIGINAL](http://twitter.com/search?q=BOIADEIRA+ORIGINAL) | N/A |
+| 36 | [Paulo Andrade](http://twitter.com/search?q=Paulo+Andrade) | N/A |
+| 37 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 38 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 39 | [Lecaros](http://twitter.com/search?q=Lecaros) | N/A |
+| 40 | [APARECE KEY](http://twitter.com/search?q=APARECE+KEY) | N/A |
+| 41 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 42 | [Zanin](http://twitter.com/search?q=Zanin) | Zanin is a Japanese word that means "all of us". It is often used to refer to a group of people who are working together towards a common goal. |
+| 43 | [Yejin](http://twitter.com/search?q=Yejin) | N/A |
+| 44 | [Fazenda](http://twitter.com/search?q=Fazenda) | N/A |
+| 45 | [FACE RE-COMEBACK PARTY](http://twitter.com/search?q=FACE+RE-COMEBACK+PARTY) | N/A |
+| 46 | [Matias Segovia](http://twitter.com/search?q=Matias+Segovia) | N/A |
+| 47 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 48 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 49 | [MAGICA HEG](http://twitter.com/search?q=MAGICA+HEG) | N/A |
 
 
 

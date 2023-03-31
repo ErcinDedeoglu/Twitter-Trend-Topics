@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-03-31 01:44:12 UTC`
+📆 Last Updated: `2023-03-31 02:33:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 5 | [#ehcbzsc](http://twitter.com/search?q=%23ehcbzsc) | N/A |
 | 6 | [#rfsd2023](http://twitter.com/search?q=%23rfsd2023) | N/A |
-| 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 8 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 7 | [ajoie](http://twitter.com/search?q=ajoie) | N/A |
+| 8 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 9 | [Anlass](http://twitter.com/search?q=Anlass) | N/A |
 | 10 | [Viertel](http://twitter.com/search?q=Viertel) | N/A |
 | 11 | [Wand](http://twitter.com/search?q=Wand) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 16 | [Austria](http://twitter.com/search?q=Austria) | N/A |
 | 17 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
 | 18 | [Unterschriften](http://twitter.com/search?q=Unterschriften) | N/A |
-| 19 | [Karin Keller](http://twitter.com/search?q=Karin+Keller) | N/A |
+| 19 | [karin keller](http://twitter.com/search?q=karin+keller) | N/A |
 | 20 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 21 | [Signal](http://twitter.com/search?q=Signal) | N/A |
 | 22 | [Germany](http://twitter.com/search?q=Germany) | N/A |

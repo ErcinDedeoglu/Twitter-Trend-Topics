@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-03-31 01:44:06 UTC`
+📆 Last Updated: `2023-03-31 02:32:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 2 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 3 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
+| 2 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
+| 3 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
 | 4 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 5 | [Abgeordneten](http://twitter.com/search?q=Abgeordneten) | N/A |
 | 6 | [#Selenskyj](http://twitter.com/search?q=%23Selenskyj) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for [Austria](</Austria>)
 | 15 | [mitbestimmung](http://twitter.com/search?q=mitbestimmung) | N/A |
 | 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 17 | [nationalrat](http://twitter.com/search?q=nationalrat) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 20 | [Sitzung](http://twitter.com/search?q=Sitzung) | N/A |
-| 21 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
-| 22 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 23 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
-| 24 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 25 | [passanten](http://twitter.com/search?q=passanten) | N/A |
-| 26 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 27 | [Umbau](http://twitter.com/search?q=Umbau) | N/A |
-| 28 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 29 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 30 | [Hausdurchsuchung](http://twitter.com/search?q=Hausdurchsuchung) | N/A |
-| 31 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
-| 32 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 33 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
-| 34 | [Eklat](http://twitter.com/search?q=Eklat) | N/A |
-| 35 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 36 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 37 | [fernbleiben](http://twitter.com/search?q=fernbleiben) | N/A |
-| 38 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 39 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
-| 40 | [SPÖler](http://twitter.com/search?q=SP%c3%96ler) | N/A |
-| 41 | [Campino](http://twitter.com/search?q=Campino) | N/A |
-| 42 | [Bande](http://twitter.com/search?q=Bande) | N/A |
-| 43 | [unbedingt](http://twitter.com/search?q=unbedingt) | N/A |
-| 44 | [Fraktion](http://twitter.com/search?q=Fraktion) | N/A |
-| 45 | [zackzack](http://twitter.com/search?q=zackzack) | N/A |
-| 46 | [plakolm](http://twitter.com/search?q=plakolm) | N/A |
-| 47 | [Kreml](http://twitter.com/search?q=Kreml) | N/A |
-| 48 | [märkte](http://twitter.com/search?q=m%c3%a4rkte) | N/A |
-| 49 | [Kriegspartei](http://twitter.com/search?q=Kriegspartei) | N/A |
-| 50 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 18 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 19 | [Sitzung](http://twitter.com/search?q=Sitzung) | N/A |
+| 20 | [Abwesenheit](http://twitter.com/search?q=Abwesenheit) | N/A |
+| 21 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 22 | [Rückgrat](http://twitter.com/search?q=R%c3%bcckgrat) | N/A |
+| 23 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 24 | [passanten](http://twitter.com/search?q=passanten) | N/A |
+| 25 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
+| 26 | [umbau](http://twitter.com/search?q=umbau) | N/A |
+| 27 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 28 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 29 | [Hausdurchsuchung](http://twitter.com/search?q=Hausdurchsuchung) | N/A |
+| 30 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
+| 31 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 32 | [Ausreden](http://twitter.com/search?q=Ausreden) | N/A |
+| 33 | [Eklat](http://twitter.com/search?q=Eklat) | N/A |
+| 34 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 35 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 36 | [fernbleiben](http://twitter.com/search?q=fernbleiben) | N/A |
+| 37 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 38 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
+| 39 | [spöler](http://twitter.com/search?q=sp%c3%b6ler) | N/A |
+| 40 | [Campino](http://twitter.com/search?q=Campino) | N/A |
+| 41 | [Bande](http://twitter.com/search?q=Bande) | N/A |
+| 42 | [unbedingt](http://twitter.com/search?q=unbedingt) | N/A |
+| 43 | [Fraktion](http://twitter.com/search?q=Fraktion) | N/A |
+| 44 | [zackzack](http://twitter.com/search?q=zackzack) | N/A |
+| 45 | [plakolm](http://twitter.com/search?q=plakolm) | N/A |
+| 46 | [Kreml](http://twitter.com/search?q=Kreml) | N/A |
+| 47 | [märkte](http://twitter.com/search?q=m%c3%a4rkte) | N/A |
+| 48 | [kriegspartei](http://twitter.com/search?q=kriegspartei) | N/A |
+| 49 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 50 | [viktor adler](http://twitter.com/search?q=viktor+adler) | N/A |
 
 
 

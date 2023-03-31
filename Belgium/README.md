@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-03-31 01:44:43 UTC`
+📆 Last Updated: `2023-03-31 02:33:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,18 +20,18 @@ This is top 50 for Belgium
 | 3 | [#begroting](http://twitter.com/search?q=%23begroting) | N/A |
 | 4 | [#ZeroWasteDay](http://twitter.com/search?q=%23ZeroWasteDay) | N/A |
 | 5 | [#rabarber](http://twitter.com/search?q=%23rabarber) | N/A |
-| 6 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 6 | [#kcorpwin](http://twitter.com/search?q=%23kcorpwin) | N/A |
 | 7 | [will tura](http://twitter.com/search?q=will+tura) | N/A |
 | 8 | [Dominic](http://twitter.com/search?q=Dominic) | N/A |
 | 9 | [oosterweel](http://twitter.com/search?q=oosterweel) | N/A |
 | 10 | [The EU](http://twitter.com/search?q=The+EU) | N/A |
 | 11 | [zone 30](http://twitter.com/search?q=zone+30) | N/A |
-| 12 | [Pascal Smet](http://twitter.com/search?q=Pascal+Smet) | N/A |
+| 12 | [pascal smet](http://twitter.com/search?q=pascal+smet) | N/A |
 | 13 | [Björn](http://twitter.com/search?q=Bj%c3%b6rn) | N/A |
 | 14 | [Johan Leysen](http://twitter.com/search?q=Johan+Leysen) | N/A |
 | 15 | [EU-China](http://twitter.com/search?q=EU-China) | N/A |
 | 16 | [Modena](http://twitter.com/search?q=Modena) | N/A |
-| 17 | [Kerstmis](http://twitter.com/search?q=Kerstmis) | N/A |
+| 17 | [kerstmis](http://twitter.com/search?q=kerstmis) | N/A |
 | 18 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 19 | [Robben](http://twitter.com/search?q=Robben) | N/A |
 | 20 | [zenne](http://twitter.com/search?q=zenne) | N/A |
@@ -48,10 +48,10 @@ This is top 50 for Belgium
 | 31 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 32 | [heynen](http://twitter.com/search?q=heynen) | N/A |
 | 33 | [Witsel](http://twitter.com/search?q=Witsel) | Witsel is a Dutch surname. It is derived from the Old Dutch word "wit", meaning "white". In English, it can be translated to mean "white one". |
-| 34 | [Member States](http://twitter.com/search?q=Member+States) | N/A |
+| 34 | [member states](http://twitter.com/search?q=member+states) | N/A |
 | 35 | [De Cuyper](http://twitter.com/search?q=De+Cuyper) | N/A |
 | 36 | [fvdb](http://twitter.com/search?q=fvdb) | N/A |
-| 37 | [Rekenhof](http://twitter.com/search?q=Rekenhof) | N/A |
+| 37 | [rekenhof](http://twitter.com/search?q=rekenhof) | N/A |
 | 38 | [Zuid](http://twitter.com/search?q=Zuid) | N/A |
 | 39 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
 | 40 | [Erdogan](http://twitter.com/search?q=Erdogan) | N/A |

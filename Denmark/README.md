@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-03-31 01:44:44 UTC`
+📆 Last Updated: `2023-03-31 02:33:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#regioner23](http://twitter.com/search?q=%23regioner23) | N/A |
-| 2 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 3 | [Sisto](http://twitter.com/search?q=Sisto) | N/A |
+| 2 | [Sisto](http://twitter.com/search?q=Sisto) | N/A |
+| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 4 | [#uofmoede](http://twitter.com/search?q=%23uofmoede) | N/A |
 | 5 | [#sundpol](http://twitter.com/search?q=%23sundpol) | N/A |
 | 6 | [Arne](http://twitter.com/search?q=Arne) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for Denmark
 | 10 | [#BLASTPremier](http://twitter.com/search?q=%23BLASTPremier) | N/A |
 | 11 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 12 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 13 | [christiania](http://twitter.com/search?q=christiania) | N/A |
+| 13 | [Christiania](http://twitter.com/search?q=Christiania) | N/A |
 | 14 | [nekst](http://twitter.com/search?q=nekst) | N/A |
 | 15 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 16 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for Denmark
 | 20 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 21 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
 | 22 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 23 | [Rørdam](http://twitter.com/search?q=R%c3%b8rdam) | N/A |
+| 23 | [rørdam](http://twitter.com/search?q=r%c3%b8rdam) | N/A |
 | 24 | [jylland](http://twitter.com/search?q=jylland) | N/A |
 | 25 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
 | 26 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Denmark
 | 40 | [Brasilien](http://twitter.com/search?q=Brasilien) | N/A |
 | 41 | [Midjourney](http://twitter.com/search?q=Midjourney) | N/A |
 | 42 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
-| 43 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
-| 44 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 45 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 46 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 48 | [Derudover](http://twitter.com/search?q=Derudover) | N/A |
-| 49 | [skat](http://twitter.com/search?q=skat) | N/A |
-| 50 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 43 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 44 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 45 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 47 | [Derudover](http://twitter.com/search?q=Derudover) | N/A |
+| 48 | [skat](http://twitter.com/search?q=skat) | N/A |
+| 49 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 50 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
 
 
 

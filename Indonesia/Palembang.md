@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-03-31 01:44:14 UTC`
+📆 Last Updated: `2023-03-31 02:33:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 2 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
-| 3 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 4 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
-| 5 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 6 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
-| 7 | [OCBC NISP](http://twitter.com/search?q=OCBC+NISP) | OCBC NISP stands for OCBC NISP Bank, an Indonesian banking institution. It is a subsidiary of the Singapore-based OCBC Bank and provides a range of banking services to individuals and businesses in Indonesia. The name is derived from the Indonesian phrase “Nasional Internasional Sekuritas Perdagangan”, which translates to “National International Securities Trading”. |
-| 8 | [#NYALAinAja](http://twitter.com/search?q=%23NYALAinAja) | N/A |
-| 9 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 10 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
-| 11 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
-| 12 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
-| 13 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
-| 14 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
-| 15 | [#JAWARATANPABATAS](http://twitter.com/search?q=%23JAWARATANPABATAS) | N/A |
-| 16 | [#RamadhanDay9](http://twitter.com/search?q=%23RamadhanDay9) | N/A |
+| 1 | [#VidioBagiBagiTHR](http://twitter.com/search?q=%23VidioBagiBagiTHR) | N/A |
+| 2 | [Nonton Cuma 19Rb](http://twitter.com/search?q=Nonton+Cuma+19Rb) | N/A |
+| 3 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 4 | [Kanjuruhan](http://twitter.com/search?q=Kanjuruhan) | N/A |
+| 5 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 6 | [MARK LEE](http://twitter.com/search?q=MARK+LEE) | MARK LEE is a Korean name, and it means "tree of the plum". |
+| 7 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 8 | [BIGGER VENUES FOR R TO V](http://twitter.com/search?q=BIGGER+VENUES+FOR+R+TO+V) | N/A |
+| 9 | [#NYALAinAja](http://twitter.com/search?q=%23NYALAinAja) | N/A |
+| 10 | [OCBC NISP](http://twitter.com/search?q=OCBC+NISP) | OCBC NISP stands for OCBC NISP Bank, an Indonesian banking institution. It is a subsidiary of the Singapore-based OCBC Bank and provides a range of banking services to individuals and businesses in Indonesia. The name is derived from the Indonesian phrase “Nasional Internasional Sekuritas Perdagangan”, which translates to “National International Securities Trading”. |
+| 11 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 12 | [#ShiningJunhoeDay](http://twitter.com/search?q=%23ShiningJunhoeDay) | N/A |
+| 13 | [PSSI](http://twitter.com/search?q=PSSI) | N/A |
+| 14 | [Ganjar](http://twitter.com/search?q=Ganjar) | N/A |
+| 15 | [RISING ACTOR JUNHOE](http://twitter.com/search?q=RISING+ACTOR+JUNHOE) | N/A |
+| 16 | [#JAWARATANPABATAS](http://twitter.com/search?q=%23JAWARATANPABATAS) | N/A |
 | 17 | [jowi](http://twitter.com/search?q=jowi) | N/A |
-| 18 | [Menjadi Pribadi Bertaqwa](http://twitter.com/search?q=Menjadi+Pribadi+Bertaqwa) | N/A |
-| 19 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
-| 20 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
-| 21 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
-| 22 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
-| 23 | [Ramadhan Bulan Perjuangan](http://twitter.com/search?q=Ramadhan+Bulan+Perjuangan) | N/A |
-| 24 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 25 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 26 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
-| 27 | [Koster](http://twitter.com/search?q=Koster) | N/A |
-| 28 | [YOUN1T LOVE YOU BANGHAN](http://twitter.com/search?q=YOUN1T+LOVE+YOU+BANGHAN) | N/A |
-| 29 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
-| 30 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 31 | [TAMBAH LUCU](http://twitter.com/search?q=TAMBAH+LUCU) | N/A |
-| 32 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
-| 33 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
-| 34 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
+| 18 | [#HFN2023](http://twitter.com/search?q=%23HFN2023) | N/A |
+| 19 | [Menjadi Pribadi Bertaqwa](http://twitter.com/search?q=Menjadi+Pribadi+Bertaqwa) | N/A |
+| 20 | [Hari Film Nasional](http://twitter.com/search?q=Hari+Film+Nasional) | N/A |
+| 21 | [PDIP](http://twitter.com/search?q=PDIP) | N/A |
+| 22 | [Jumat Curhat](http://twitter.com/search?q=Jumat+Curhat) | N/A |
+| 23 | [LALISA CELINE GIRL](http://twitter.com/search?q=LALISA+CELINE+GIRL) | N/A |
+| 24 | [Palestina](http://twitter.com/search?q=Palestina) | N/A |
+| 25 | [Ramadhan Bulan Perjuangan](http://twitter.com/search?q=Ramadhan+Bulan+Perjuangan) | N/A |
+| 26 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 27 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 28 | [Koster](http://twitter.com/search?q=Koster) | N/A |
+| 29 | [Pildun](http://twitter.com/search?q=Pildun) | N/A |
+| 30 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
+| 31 | [YOUN1T LOVE YOU BANGHAN](http://twitter.com/search?q=YOUN1T+LOVE+YOU+BANGHAN) | N/A |
+| 32 | [SVT COMING BACK IN APRIL](http://twitter.com/search?q=SVT+COMING+BACK+IN+APRIL) | N/A |
+| 33 | [BIGGER VENUES FOR RED VELVET](http://twitter.com/search?q=BIGGER+VENUES+FOR+RED+VELVET) | N/A |
+| 34 | [THE SCENT NOTES D3](http://twitter.com/search?q=THE+SCENT+NOTES+D3) | N/A |
 | 35 | [Golput](http://twitter.com/search?q=Golput) | N/A |
-| 36 | [Mencuri Raden Saleh](http://twitter.com/search?q=Mencuri+Raden+Saleh) | N/A |
-| 37 | [Happy 1st](http://twitter.com/search?q=Happy+1st) | N/A |
-| 38 | [Lebay](http://twitter.com/search?q=Lebay) | N/A |
-| 39 | [safariramadhan ahy jabar](http://twitter.com/search?q=safariramadhan+ahy+jabar) | N/A |
-| 40 | [Doang](http://twitter.com/search?q=Doang) | N/A |
-| 41 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 36 | [Mahfud](http://twitter.com/search?q=Mahfud) | N/A |
+| 37 | [Mencuri Raden Saleh](http://twitter.com/search?q=Mencuri+Raden+Saleh) | N/A |
+| 38 | [Pengusaha](http://twitter.com/search?q=Pengusaha) | N/A |
+| 39 | [Tambah Lucu](http://twitter.com/search?q=Tambah+Lucu) | N/A |
+| 40 | [safariramadhan ahy jabar](http://twitter.com/search?q=safariramadhan+ahy+jabar) | N/A |
+| 41 | [Congratulations Jimin](http://twitter.com/search?q=Congratulations+Jimin) | "Congratulations Jimin" is a phrase used to express congratulations or best wishes to someone named Jimin. It is typically used in situations such as when someone has achieved a goal, received an award, or accomplished something noteworthy. |
 | 42 | [For My Love](http://twitter.com/search?q=For+My+Love) | N/A |
-| 43 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
-| 44 | [tokopedia care](http://twitter.com/search?q=tokopedia+care) | N/A |
-| 45 | [Pengusaha](http://twitter.com/search?q=Pengusaha) | N/A |
-| 46 | [Pil 2](http://twitter.com/search?q=Pil+2) | N/A |
+| 43 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 44 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 45 | [tokopedia care](http://twitter.com/search?q=tokopedia+care) | N/A |
+| 46 | [Oktober 2022](http://twitter.com/search?q=Oktober+2022) | N/A |
 | 47 | [Penyanyi](http://twitter.com/search?q=Penyanyi) | N/A |
-| 48 | [Arteria](http://twitter.com/search?q=Arteria) | N/A |
-| 49 | [BUILD SOLD OUT KING](http://twitter.com/search?q=BUILD+SOLD+OUT+KING) | N/A |
-| 50 | [kasad dudung ar](http://twitter.com/search?q=kasad+dudung+ar) | N/A |
+| 48 | [Lebay](http://twitter.com/search?q=Lebay) | N/A |
+| 49 | [Pil 2](http://twitter.com/search?q=Pil+2) | N/A |
+| 50 | [2,5 M](http://twitter.com/search?q=2%2c5+M) | N/A |
 
 
 
